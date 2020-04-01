@@ -1,4 +1,4 @@
-# Relation Extraction for Entity Linking (REEL)
+# REEL: Relation Extraction for Entity Linking 
 
 Model for biomedical Named Entity Linking improved by Relation Extraction
 
