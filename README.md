@@ -1,4 +1,4 @@
-# Relation Extraction for Entity Linking
+# Relation Extraction for Entity Linking (REEL)
 
 Model for biomedical Named Entity Linking improved by Relation Extraction
 
