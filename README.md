@@ -75,6 +75,7 @@ Args:
 - 'corpus\_link' : two nodes in the disambiguation graph are connected if they appear in the extracted relations set	
 - 'corpus\_kb\_link' : concatenation of above link modes
 
+The argument conjugations 'ppr-ic' + 'corpus_link' and 'ppr-ic' + 'kb_corpus_link' constitutes the two variations of the REEL model.
 
 Example:
 
