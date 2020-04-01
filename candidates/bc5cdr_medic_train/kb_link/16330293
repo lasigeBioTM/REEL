@@ -1,0 +1,12 @@
+ENTITY	text:hiccups	normalName:hiccups	predictedType:disease	q:true	qid:Q178	docId:16330293	origText:hiccups	url:D006606
+CANDIDATE	id:6606	inCount:0	outCount:1	links:	url:D006606	name:Hiccups	normalName:hiccups	normalWikiTitle:hiccups	predictedType:Disease
+ENTITY	text:heart disease	normalName:heart disease	predictedType:disease	q:true	qid:Q178	docId:16330293	origText:heart disease	url:D006331
+CANDIDATE	id:6331	inCount:29	outCount:1	links:	url:D006331	name:Disease, Heart	normalName:disease, heart	normalWikiTitle:disease, heart	predictedType:Disease
+ENTITY	text:hypertension	normalName:hypertension	predictedType:disease	q:true	qid:Q178	docId:16330293	origText:hypertension	url:D006973
+CANDIDATE	id:6973	inCount:18	outCount:1	links:	url:D006973	name:Hypertension	normalName:hypertension	normalWikiTitle:hypertension	predictedType:Disease
+ENTITY	text:nausea	normalName:nausea	predictedType:disease	q:true	qid:Q178	docId:16330293	origText:nausea	url:D009325
+CANDIDATE	id:9325	inCount:2	outCount:1	links:	url:D009325	name:Nausea	normalName:nausea	normalWikiTitle:nausea	predictedType:Disease
+ENTITY	text:headache	normalName:headache	predictedType:disease	q:true	qid:Q178	docId:16330293	origText:headache	url:D006261
+CANDIDATE	id:6261	inCount:2	outCount:1	links:	url:D006261	name:Headache	normalName:headache	normalWikiTitle:headache	predictedType:Disease
+ENTITY	text:diabetes mellitus	normalName:diabetes mellitus	predictedType:disease	q:true	qid:Q178	docId:16330293	origText:diabetes mellitus	url:D003920
+CANDIDATE	id:3920	inCount:44	outCount:2	links:	url:D003920	name:Diabetes Mellitus	normalName:diabetes mellitus	normalWikiTitle:diabetes mellitus	predictedType:Disease

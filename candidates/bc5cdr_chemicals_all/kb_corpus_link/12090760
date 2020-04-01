@@ -1,0 +1,4 @@
+ENTITY	text:azidothymidine	normalName:azidothymidine	predictedType:chemical	q:true	qid:Q81	docId:12090760	origText:azidothymidine	url:D015215
+CANDIDATE	id:15215	inCount:86	outCount:2	links:	url:D015215	name:Azidothymidine	normalName:azidothymidine	normalWikiTitle:azidothymidine	predictedType:Chemical
+ENTITY	text:thymidine	normalName:thymidine	predictedType:chemical	q:true	qid:Q81	docId:12090760	origText:thymidine	url:D013936
+CANDIDATE	id:13936	inCount:190	outCount:2	links:	url:D013936	name:Thymidine	normalName:thymidine	normalWikiTitle:thymidine	predictedType:Chemical

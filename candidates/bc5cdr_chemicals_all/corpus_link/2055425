@@ -1,0 +1,6 @@
+ENTITY	text:ATP	normalName:atp	predictedType:chemical	q:true	qid:Q1096	docId:2055425	origText:ATP	url:D000255
+CANDIDATE	id:255	inCount:176	outCount:1	links:	url:D000255	name:ATP	normalName:atp	normalWikiTitle:atp	predictedType:Chemical
+ENTITY	text:streptozotocin	normalName:streptozotocin	predictedType:chemical	q:true	qid:Q1096	docId:2055425	origText:streptozotocin	url:D013311
+CANDIDATE	id:13311	inCount:12	outCount:2	links:	url:D013311	name:Streptozotocin	normalName:streptozotocin	normalWikiTitle:streptozotocin	predictedType:Chemical
+ENTITY	text:bethanechol	normalName:bethanechol	predictedType:chemical	q:true	qid:Q1096	docId:2055425	origText:bethanechol	url:D018723
+CANDIDATE	id:18723	inCount:0	outCount:1	links:	url:D018723	name:Bethanechol	normalName:bethanechol	normalWikiTitle:bethanechol	predictedType:Chemical

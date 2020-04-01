@@ -1,0 +1,6 @@
+ENTITY	text:cisplatin	normalName:cisplatin	predictedType:chemical	q:true	qid:Q237	docId:8643971	origText:cisplatin	url:D002945
+CANDIDATE	id:2945	inCount:293	outCount:3	links:17239	url:D002945	name:Cisplatin	normalName:cisplatin	normalWikiTitle:cisplatin	predictedType:Chemical
+ENTITY	text:Taxol	normalName:taxol	predictedType:chemical	q:true	qid:Q237	docId:8643971	origText:Taxol	url:D017239
+CANDIDATE	id:17239	inCount:58	outCount:1	links:17239;2945	url:D017239	name:Taxol	normalName:taxol	normalWikiTitle:taxol	predictedType:Chemical
+ENTITY	text:paclitaxel	normalName:paclitaxel	predictedType:chemical	q:true	qid:Q237	docId:8643971	origText:paclitaxel	url:D017239
+CANDIDATE	id:17239	inCount:58	outCount:1	links:17239;2945	url:D017239	name:Paclitaxel	normalName:paclitaxel	normalWikiTitle:paclitaxel	predictedType:Chemical

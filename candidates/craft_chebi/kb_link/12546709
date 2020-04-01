@@ -1,0 +1,32 @@
+ENTITY	text:glutaraldehyde	normalName:glutaraldehyde	predictedType:chemical	q:true	qid:Q44	docId:12546709	origText:glutaraldehyde	url:CHEBI:64276
+CANDIDATE	id:64276	inCount:0	outCount:1	links:	url:CHEBI:64276	name:glutaraldehyde	normalName:glutaraldehyde	normalWikiTitle:glutaraldehyde	predictedType:Chemical
+ENTITY	text:electron	normalName:electron	predictedType:chemical	q:true	qid:Q44	docId:12546709	origText:electron	url:CHEBI:10545
+CANDIDATE	id:10545	inCount:0	outCount:1	links:	url:CHEBI:10545	name:electron	normalName:electron	normalWikiTitle:electron	predictedType:Chemical
+ENTITY	text:water	normalName:water	predictedType:chemical	q:true	qid:Q44	docId:12546709	origText:water	url:CHEBI:15377
+CANDIDATE	id:15377	inCount:6	outCount:3	links:	url:CHEBI:15377	name:water	normalName:water	normalWikiTitle:water	predictedType:Chemical
+ENTITY	text:carbon dioxide	normalName:carbon dioxide	predictedType:chemical	q:true	qid:Q44	docId:12546709	origText:carbon dioxide	url:CHEBI:16526
+CANDIDATE	id:16526	inCount:0	outCount:3	links:	url:CHEBI:16526	name:carbon dioxide	normalName:carbon dioxide	normalWikiTitle:carbon dioxide	predictedType:Chemical
+ENTITY	text:solution	normalName:solution	predictedType:chemical	q:true	qid:Q44	docId:12546709	origText:solution	url:CHEBI:75958
+CANDIDATE	id:75958	inCount:0	outCount:1	links:	url:CHEBI:75958	name:solution	normalName:solution	normalWikiTitle:solution	predictedType:Chemical
+ENTITY	text:lipid	normalName:lipid	predictedType:chemical	q:true	qid:Q44	docId:12546709	origText:lipid	url:CHEBI:18059
+CANDIDATE	id:18059	inCount:53	outCount:1	links:	url:CHEBI:18059	name:lipid	normalName:lipid	normalWikiTitle:lipid	predictedType:Chemical
+ENTITY	text:DiI	normalName:dii	predictedType:chemical	q:true	qid:Q44	docId:12546709	origText:DiI	url:CHEBI:52029
+CANDIDATE	id:52029	inCount:0	outCount:2	links:	url:CHEBI:52029	name:DiI	normalName:dii	normalWikiTitle:dii	predictedType:Chemical
+CANDIDATE	id:4285	inCount:0	outCount:1	links:	url:CHEBI:4285	name:DCI	normalName:dci	normalWikiTitle:dci	predictedType:Chemical
+CANDIDATE	id:37256	inCount:0	outCount:1	links:	url:CHEBI:37256	name:dizinc	normalName:dizinc	normalWikiTitle:dizinc	predictedType:Chemical
+CANDIDATE	id:23666	inCount:25	outCount:1	links:	url:CHEBI:23666	name:diamine	normalName:diamine	normalWikiTitle:diamine	predictedType:Chemical
+CANDIDATE	id:4631	inCount:0	outCount:5	links:	url:CHEBI:4631	name:diosmin	normalName:diosmin	normalWikiTitle:diosmin	predictedType:Chemical
+CANDIDATE	id:4551	inCount:0	outCount:2	links:	url:CHEBI:4551	name:digoxin	normalName:digoxin	normalWikiTitle:digoxin	predictedType:Chemical
+CANDIDATE	id:74023	inCount:0	outCount:4	links:	url:CHEBI:74023	name:dioscin	normalName:dioscin	normalWikiTitle:dioscin	predictedType:Chemical
+CANDIDATE	id:38627	inCount:3	outCount:4	links:	url:CHEBI:38627	name:diazine	normalName:diazine	normalWikiTitle:diazine	predictedType:Chemical
+CANDIDATE	id:23853	inCount:10	outCount:1	links:	url:CHEBI:23853	name:dithiol	normalName:dithiol	normalWikiTitle:dithiol	predictedType:Chemical
+CANDIDATE	id:23824	inCount:263	outCount:1	links:	url:CHEBI:23824	name:diol	normalName:diol	normalWikiTitle:diol	predictedType:Chemical
+CANDIDATE	id:5846	inCount:0	outCount:1	links:	url:CHEBI:5846	name:IACI	normalName:iaci	normalWikiTitle:iaci	predictedType:Chemical
+CANDIDATE	id:15768	inCount:0	outCount:3	links:	url:CHEBI:15768	name:DiIY	normalName:diiy	normalWikiTitle:diiy	predictedType:Chemical
+CANDIDATE	id:74067	inCount:0	outCount:1	links:	url:CHEBI:74067	name:II	normalName:ii	normalWikiTitle:ii	predictedType:Chemical
+ENTITY	text:ethanol	normalName:ethanol	predictedType:chemical	q:true	qid:Q44	docId:12546709	origText:ethanol	url:CHEBI:16236
+CANDIDATE	id:16236	inCount:0	outCount:4	links:	url:CHEBI:16236	name:ethanol	normalName:ethanol	normalWikiTitle:ethanol	predictedType:Chemical
+ENTITY	text:fixative	normalName:fixative	predictedType:chemical	q:true	qid:Q44	docId:12546709	origText:fixative	url:CHEBI:50913
+CANDIDATE	id:50913	inCount:0	outCount:1	links:	url:CHEBI:50913	name:fixative	normalName:fixative	normalWikiTitle:fixative	predictedType:Chemical
+ENTITY	text:Tris	normalName:tris	predictedType:chemical	q:true	qid:Q44	docId:12546709	origText:Tris	url:CHEBI:9754
+CANDIDATE	id:9754	inCount:0	outCount:2	links:	url:CHEBI:9754	name:tris	normalName:tris	normalWikiTitle:tris	predictedType:Chemical

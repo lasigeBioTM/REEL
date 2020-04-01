@@ -1,0 +1,54 @@
+ENTITY	text:hepatitis B virus (HBV) infected	normalName:hepatitis b virus (hbv) infected	predictedType:disease	q:true	qid:Q697	docId:17854040	origText:hepatitis B virus (HBV) infected	url:D006509
+CANDIDATE	id:6509	inCount:1	outCount:2	links:6509	url:D006509	name:Hepatitis B Virus Infection	normalName:hepatitis b virus infection	normalWikiTitle:hepatitis b virus infection	predictedType:Disease
+CANDIDATE	id:6522	inCount:0	outCount:3	links:	url:D006522	name:Hepatitis, Infectious Canine	normalName:hepatitis, infectious canine	normalWikiTitle:hepatitis, infectious canine	predictedType:Disease
+CANDIDATE	id:20031	inCount:4	outCount:2	links:	url:D020031	name:Epstein-Barr Virus Infections	normalName:epstein-barr virus infections	normalWikiTitle:epstein-barr virus infections	predictedType:Disease
+CANDIDATE	id:1170	inCount:2	outCount:2	links:	url:D001170	name:Arthritis, Infectious	normalName:arthritis, infectious	normalWikiTitle:arthritis, infectious	predictedType:Disease
+CANDIDATE	id:69544	inCount:1	outCount:2	links:	url:D000069544	name:Infectious Encephalitis	normalName:infectious encephalitis	normalWikiTitle:infectious encephalitis	predictedType:Disease
+CANDIDATE	id:6525	inCount:5	outCount:2	links:	url:D006525	name:Hepatitis, Viral, Human	normalName:hepatitis, viral, human	normalWikiTitle:hepatitis, viral, human	predictedType:Disease
+CANDIDATE	id:45464	inCount:0	outCount:1	links:	url:D045464	name:Henipavirus Infections	normalName:henipavirus infections	normalWikiTitle:henipavirus infections	predictedType:Disease
+CANDIDATE	id:132850	inCount:0	outCount:1	links:	url:132850	name:EPSTEIN-BARR VIRUS INSERTION SITE 1	normalName:epstein-barr virus insertion site 1	normalWikiTitle:epstein-barr virus insertion site 1	predictedType:Disease
+CANDIDATE	id:15491	inCount:0	outCount:1	links:15491	url:D015491	name:HTLV-II Infections	normalName:htlv-ii infections	normalWikiTitle:htlv-ii infections	predictedType:Disease
+CANDIDATE	id:16776	inCount:0	outCount:2	links:	url:D016776	name:Blastocystis Infections	normalName:blastocystis infections	normalWikiTitle:blastocystis infections	predictedType:Disease
+CANDIDATE	id:4266	inCount:9	outCount:1	links:	url:D004266	name:DNA Virus Infections	normalName:dna virus infections	normalWikiTitle:dna virus infections	predictedType:Disease
+CANDIDATE	id:19694	inCount:0	outCount:2	links:6509	url:D019694	name:Chronic Hepatitis B Virus Infection	normalName:chronic hepatitis b virus infection	normalWikiTitle:chronic hepatitis b virus infection	predictedType:Disease
+CANDIDATE	id:19694	inCount:0	outCount:2	links:6509	url:D019694	name:Hepatitis B Virus Infection, Chronic	normalName:hepatitis b virus infection, chronic	normalWikiTitle:hepatitis b virus infection, chronic	predictedType:Disease
+CANDIDATE	id:6506	inCount:0	outCount:2	links:	url:D006506	name:Hepatitis, Infectious	normalName:hepatitis, infectious	normalWikiTitle:hepatitis, infectious	predictedType:Disease
+CANDIDATE	id:6506	inCount:0	outCount:2	links:	url:D006506	name:Infectious Hepatitis	normalName:infectious hepatitis	normalWikiTitle:infectious hepatitis	predictedType:Disease
+CANDIDATE	id:6506	inCount:0	outCount:2	links:	url:D006506	name:Infectious Hepatitides	normalName:infectious hepatitides	normalWikiTitle:infectious hepatitides	predictedType:Disease
+CANDIDATE	id:6506	inCount:0	outCount:2	links:	url:D006506	name:Hepatitides, Infectious	normalName:hepatitides, infectious	normalWikiTitle:hepatitides, infectious	predictedType:Disease
+ENTITY	text:human immunodeficiency virus (HIV) co-infection	normalName:human immunodeficiency virus (hiv) co-infection	predictedType:disease	q:true	qid:Q697	docId:17854040	origText:human immunodeficiency virus (HIV) co-infection	url:D015658
+CANDIDATE	id:15658	inCount:12	outCount:3	links:15658	url:D015658	name:HUMAN IMMUNODEFICIENCY VIRUS TYPE 1, SUSCEPTIBILITY TO	normalName:human immunodeficiency virus type 1, susceptibility to	normalWikiTitle:human immunodeficiency virus type 1, susceptibility to	predictedType:Disease
+CANDIDATE	id:16511	inCount:22	outCount:3	links:	url:D016511	name:Severe Combined Immunodeficiency	normalName:severe combined immunodeficiency	normalWikiTitle:severe combined immunodeficiency	predictedType:Disease
+CANDIDATE	id:566083	inCount:0	outCount:1	links:	url:C566083	name:Immunodeficiency due to Defect in CD3-Gamma	normalName:immunodeficiency due to defect in cd3-gamma	normalWikiTitle:immunodeficiency due to defect in cd3-gamma	predictedType:Disease
+CANDIDATE	id:17074	inCount:1	outCount:1	links:	url:D017074	name:Common Variable Immunodeficiency	normalName:common variable immunodeficiency	normalWikiTitle:common variable immunodeficiency	predictedType:Disease
+CANDIDATE	id:565712	inCount:0	outCount:1	links:	url:C565712	name:Immunodeficiency due to Defect in CD3-Zeta	normalName:immunodeficiency due to defect in cd3-zeta	normalWikiTitle:immunodeficiency due to defect in cd3-zeta	predictedType:Disease
+CANDIDATE	id:53632	inCount:1	outCount:2	links:	url:D053632	name:X-Linked Combined Immunodeficiency Diseases	normalName:x-linked combined immunodeficiency diseases	normalWikiTitle:x-linked combined immunodeficiency diseases	predictedType:Disease
+CANDIDATE	id:566082	inCount:0	outCount:1	links:	url:C566082	name:Immunodeficiency due to Defect in CD3-Epsilon	normalName:immunodeficiency due to defect in cd3-epsilon	normalWikiTitle:immunodeficiency due to defect in cd3-epsilon	predictedType:Disease
+CANDIDATE	id:564277	inCount:0	outCount:1	links:	url:C564277	name:Immunodeficiency With Hyper-Igm, Type 4	normalName:immunodeficiency with hyper-igm, type 4	normalWikiTitle:immunodeficiency with hyper-igm, type 4	predictedType:Disease
+CANDIDATE	id:572568	inCount:0	outCount:1	links:	url:C572568	name:Complement Factor I Deficiency	normalName:complement factor i deficiency	normalWikiTitle:complement factor i deficiency	predictedType:Disease
+CANDIDATE	id:566176	inCount:0	outCount:1	links:	url:C566176	name:Car Factor Deficiency	normalName:car factor deficiency	normalWikiTitle:car factor deficiency	predictedType:Disease
+CANDIDATE	id:563663	inCount:0	outCount:1	links:	url:C563663	name:Immunodeficiency due to Defect in MAPBP-Interacting Protein	normalName:immunodeficiency due to defect in mapbp-interacting protein	normalWikiTitle:immunodeficiency due to defect in mapbp-interacting protein	predictedType:Disease
+CANDIDATE	id:16263	inCount:0	outCount:2	links:	url:D016263	name:Human Immunodeficiency Virus Associated Nephropathy	normalName:human immunodeficiency virus associated nephropathy	normalWikiTitle:human immunodeficiency virus associated nephropathy	predictedType:Disease
+CANDIDATE	id:16263	inCount:0	outCount:2	links:	url:D016263	name:Human Immunodeficiency Virus-Associated Nephropathy	normalName:human immunodeficiency virus-associated nephropathy	normalWikiTitle:human immunodeficiency virus-associated nephropathy	predictedType:Disease
+CANDIDATE	id:65632	inCount:0	outCount:1	links:	url:D065632	name:Infection, Chikungunya Virus	normalName:infection, chikungunya virus	normalWikiTitle:infection, chikungunya virus	predictedType:Disease
+CANDIDATE	id:65632	inCount:0	outCount:1	links:	url:D065632	name:Virus Infection, Chikungunya	normalName:virus infection, chikungunya	normalWikiTitle:virus infection, chikungunya	predictedType:Disease
+CANDIDATE	id:65632	inCount:0	outCount:1	links:	url:D065632	name:Chikungunya Virus Infection	normalName:chikungunya virus infection	normalWikiTitle:chikungunya virus infection	predictedType:Disease
+CANDIDATE	id:53632	inCount:1	outCount:2	links:	url:D053632	name:Combined Immunodeficiency, X Linked	normalName:combined immunodeficiency, x linked	normalWikiTitle:combined immunodeficiency, x linked	predictedType:Disease
+CANDIDATE	id:53632	inCount:1	outCount:2	links:	url:D053632	name:X Linked Combined Immunodeficiency	normalName:x linked combined immunodeficiency	normalWikiTitle:x linked combined immunodeficiency	predictedType:Disease
+CANDIDATE	id:65632	inCount:0	outCount:1	links:	url:D065632	name:Virus Infections, Chikungunya	normalName:virus infections, chikungunya	normalWikiTitle:virus infections, chikungunya	predictedType:Disease
+CANDIDATE	id:53632	inCount:1	outCount:2	links:	url:D053632	name:Combined Immunodeficiency, X-Linked	normalName:combined immunodeficiency, x-linked	normalWikiTitle:combined immunodeficiency, x-linked	predictedType:Disease
+ENTITY	text:HIV co-infection	normalName:hiv co-infection	predictedType:disease	q:true	qid:Q697	docId:17854040	origText:HIV co-infection	url:D015658
+CANDIDATE	id:15658	inCount:12	outCount:3	links:15658	url:D015658	name:Infection, HIV	normalName:infection, hiv	normalWikiTitle:infection, hiv	predictedType:Disease
+CANDIDATE	id:15658	inCount:12	outCount:3	links:15658	url:D015658	name:HIV Infections	normalName:hiv infections	normalWikiTitle:hiv infections	predictedType:Disease
+CANDIDATE	id:60085	inCount:0	outCount:3	links:	url:D060085	name:Coinfection	normalName:coinfection	normalWikiTitle:coinfection	predictedType:Disease
+CANDIDATE	id:3428	inCount:2	outCount:2	links:	url:D003428	name:Cross Infection	normalName:cross infection	normalWikiTitle:cross infection	predictedType:Disease
+CANDIDATE	id:15490	inCount:1	outCount:1	links:	url:D015490	name:HTLV-I Infections	normalName:htlv-i infections	normalWikiTitle:htlv-i infections	predictedType:Disease
+CANDIDATE	id:7239	inCount:33	outCount:1	links:	url:D007239	name:Infection	normalName:infection	normalWikiTitle:infection	predictedType:Disease
+CANDIDATE	id:2690	inCount:5	outCount:2	links:	url:D002690	name:Chlamydia Infections	normalName:chlamydia infections	normalWikiTitle:chlamydia infections	predictedType:Disease
+CANDIDATE	id:4457	inCount:2	outCount:1	links:	url:D004457	name:Echovirus Infections	normalName:echovirus infections	normalWikiTitle:echovirus infections	predictedType:Disease
+CANDIDATE	id:15491	inCount:0	outCount:1	links:15491	url:D015491	name:HTLV-II Infections	normalName:htlv-ii infections	normalWikiTitle:htlv-ii infections	predictedType:Disease
+CANDIDATE	id:5490	inCount:1	outCount:1	links:	url:D005490	name:Focal Infection	normalName:focal infection	normalWikiTitle:focal infection	predictedType:Disease
+CANDIDATE	id:2590	inCount:5	outCount:1	links:	url:D002590	name:Cestode Infections	normalName:cestode infections	normalWikiTitle:cestode infections	predictedType:Disease
+CANDIDATE	id:15658	inCount:12	outCount:3	links:15658	url:D015658	name:HIV Infection	normalName:hiv infection	normalWikiTitle:hiv infection	predictedType:Disease
+ENTITY	text:hepatitis B	normalName:hepatitis b	predictedType:disease	q:true	qid:Q697	docId:17854040	origText:hepatitis B	url:D006509
+CANDIDATE	id:6509	inCount:1	outCount:2	links:6509	url:D006509	name:Hepatitis B	normalName:hepatitis b	normalWikiTitle:hepatitis b	predictedType:Disease

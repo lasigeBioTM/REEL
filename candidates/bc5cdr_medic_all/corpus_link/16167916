@@ -1,0 +1,8 @@
+ENTITY	text:amenorrhea	normalName:amenorrhea	predictedType:disease	q:true	qid:Q1416	docId:16167916	origText:amenorrhea	url:D000568
+CANDIDATE	id:568	inCount:3	outCount:1	links:	url:D000568	name:Amenorrhea	normalName:amenorrhea	normalWikiTitle:amenorrhea	predictedType:Disease
+ENTITY	text:osteopenia	normalName:osteopenia	predictedType:disease	q:true	qid:Q1416	docId:16167916	origText:osteopenia	url:D001851
+CANDIDATE	id:1851	inCount:14	outCount:2	links:	url:D001851	name:Osteopenia	normalName:osteopenia	normalWikiTitle:osteopenia	predictedType:Disease
+ENTITY	text:venous thromboembolism	normalName:venous thromboembolism	predictedType:disease	q:true	qid:Q1416	docId:16167916	origText:venous thromboembolism	url:D054556
+CANDIDATE	id:54556	inCount:0	outCount:1	links:10024	url:D054556	name:Venous Thromboembolism	normalName:venous thromboembolism	normalWikiTitle:venous thromboembolism	predictedType:Disease
+ENTITY	text:osteoporosis	normalName:osteoporosis	predictedType:disease	q:true	qid:Q1416	docId:16167916	origText:osteoporosis	url:D010024
+CANDIDATE	id:10024	inCount:21	outCount:1	links:54556	url:D010024	name:Osteoporosis	normalName:osteoporosis	normalWikiTitle:osteoporosis	predictedType:Disease

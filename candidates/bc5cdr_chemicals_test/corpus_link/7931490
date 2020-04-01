@@ -1,0 +1,8 @@
+ENTITY	text:granisetron	normalName:granisetron	predictedType:chemical	q:true	qid:Q245	docId:7931490	origText:granisetron	url:D017829
+CANDIDATE	id:17829	inCount:1	outCount:2	links:	url:D017829	name:Granisetron	normalName:granisetron	normalWikiTitle:granisetron	predictedType:Chemical
+ENTITY	text:Kytril	normalName:kytril	predictedType:chemical	q:true	qid:Q245	docId:7931490	origText:Kytril	url:D017829
+CANDIDATE	id:17829	inCount:1	outCount:2	links:	url:D017829	name:Kytril	normalName:kytril	normalWikiTitle:kytril	predictedType:Chemical
+ENTITY	text:5-hydroxytryptamine	normalName:5-hydroxytryptamine	predictedType:chemical	q:true	qid:Q245	docId:7931490	origText:5-hydroxytryptamine	url:D012701
+CANDIDATE	id:12701	inCount:48	outCount:2	links:	url:D012701	name:5 Hydroxytryptamine	normalName:5 hydroxytryptamine	normalWikiTitle:5 hydroxytryptamine	predictedType:Chemical
+ENTITY	text:cisplatin	normalName:cisplatin	predictedType:chemical	q:true	qid:Q245	docId:7931490	origText:cisplatin	url:D002945
+CANDIDATE	id:2945	inCount:293	outCount:3	links:	url:D002945	name:Cisplatin	normalName:cisplatin	normalWikiTitle:cisplatin	predictedType:Chemical

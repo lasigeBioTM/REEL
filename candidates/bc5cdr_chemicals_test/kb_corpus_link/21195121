@@ -1,0 +1,10 @@
+ENTITY	text:L-NAME	normalName:l-name	predictedType:chemical	q:true	qid:Q349	docId:21195121	origText:L-NAME	url:D019331
+CANDIDATE	id:19331	inCount:0	outCount:1	links:	url:D019331	name:L-NAME	normalName:l-name	normalWikiTitle:l-name	predictedType:Chemical
+ENTITY	text:L-arginine	normalName:l-arginine	predictedType:chemical	q:true	qid:Q349	docId:21195121	origText:L-arginine	url:D001120
+CANDIDATE	id:1120	inCount:190	outCount:3	links:	url:D001120	name:L Arginine	normalName:l arginine	normalWikiTitle:l arginine	predictedType:Chemical
+ENTITY	text:GABA	normalName:gaba	predictedType:chemical	q:true	qid:Q349	docId:21195121	origText:GABA	url:D005680
+CANDIDATE	id:5680	inCount:100	outCount:1	links:	url:D005680	name:GABA	normalName:gaba	normalWikiTitle:gaba	predictedType:Chemical
+ENTITY	text:lindane	normalName:lindane	predictedType:chemical	q:true	qid:Q349	docId:21195121	origText:lindane	url:D001556
+CANDIDATE	id:1556	inCount:14	outCount:1	links:	url:D001556	name:Lindane	normalName:lindane	normalWikiTitle:lindane	predictedType:Chemical
+ENTITY	text:nitric oxide	normalName:nitric oxide	predictedType:chemical	q:true	qid:Q349	docId:21195121	origText:nitric oxide	url:D009569
+CANDIDATE	id:9569	inCount:13	outCount:3	links:	url:D009569	name:Nitric Oxide	normalName:nitric oxide	normalWikiTitle:nitric oxide	predictedType:Chemical

@@ -1,0 +1,32 @@
+ENTITY	text:norepinephrine	normalName:norepinephrine	predictedType:chemical	q:true	qid:Q611	docId:869641	origText:norepinephrine	url:D009638
+CANDIDATE	id:9638	inCount:31	outCount:4	links:	url:D009638	name:Norepinephrine	normalName:norepinephrine	normalWikiTitle:norepinephrine	predictedType:Chemical
+ENTITY	text:DL-Threo-dihydroxyphenylserine	normalName:dl-threo-dihydroxyphenylserine	predictedType:chemical	q:true	qid:Q611	docId:869641	origText:DL-Threo-dihydroxyphenylserine	url:D015103
+CANDIDATE	id:15103	inCount:1	outCount:2	links:	url:D015103	name:3,4 Dihydroxyphenylserine	normalName:3,4 dihydroxyphenylserine	normalWikiTitle:3,4 dihydroxyphenylserine	predictedType:Chemical
+CANDIDATE	id:620017	inCount:0	outCount:1	links:	url:C000620017	name:dihydroxyphenylpyridine methanone	normalName:dihydroxyphenylpyridine methanone	normalWikiTitle:dihydroxyphenylpyridine methanone	predictedType:Chemical
+CANDIDATE	id:100072	inCount:0	outCount:1	links:	url:C100072	name:dihydroxyphenylvaleramide	normalName:dihydroxyphenylvaleramide	normalWikiTitle:dihydroxyphenylvaleramide	predictedType:Chemical
+CANDIDATE	id:481866	inCount:0	outCount:1	links:	url:C481866	name:3-iodo-4-hydroxyphenylcysteine	normalName:3-iodo-4-hydroxyphenylcysteine	normalWikiTitle:3-iodo-4-hydroxyphenylcysteine	predictedType:Chemical
+CANDIDATE	id:4295	inCount:32	outCount:3	links:	url:D004295	name:Dihydroxyphenylalanine	normalName:dihydroxyphenylalanine	normalWikiTitle:dihydroxyphenylalanine	predictedType:Chemical
+CANDIDATE	id:458141	inCount:0	outCount:1	links:	url:C458141	name:erythro-dihydrosphingosine	normalName:erythro-dihydrosphingosine	normalWikiTitle:erythro-dihydrosphingosine	predictedType:Chemical
+CANDIDATE	id:13568	inCount:0	outCount:1	links:	url:C013568	name:N-hydroxyphentermine	normalName:n-hydroxyphentermine	normalWikiTitle:n-hydroxyphentermine	predictedType:Chemical
+CANDIDATE	id:31920	inCount:0	outCount:1	links:	url:C031920	name:2,3-dihydroxybenzoylserine	normalName:2,3-dihydroxybenzoylserine	normalWikiTitle:2,3-dihydroxybenzoylserine	predictedType:Chemical
+CANDIDATE	id:5975	inCount:0	outCount:1	links:	url:C005975	name:3,4-dihydroxyphenylethanol	normalName:3,4-dihydroxyphenylethanol	normalWikiTitle:3,4-dihydroxyphenylethanol	predictedType:Chemical
+CANDIDATE	id:1659	inCount:0	outCount:1	links:	url:C001659	name:dihydroxydiphenyl-pyridyl methane	normalName:dihydroxydiphenyl-pyridyl methane	normalWikiTitle:dihydroxydiphenyl-pyridyl methane	predictedType:Chemical
+CANDIDATE	id:51259	inCount:0	outCount:1	links:	url:C051259	name:3-(3,4-dihydroxyphenyl)-N-methylserine	normalName:3-(3,4-dihydroxyphenyl)-n-methylserine	normalWikiTitle:3-(3,4-dihydroxyphenyl)-n-methylserine	predictedType:Chemical
+CANDIDATE	id:15103	inCount:1	outCount:2	links:	url:D015103	name:DL-threo-3,4-Dihydroxyphenylserine	normalName:dl-threo-3,4-dihydroxyphenylserine	normalWikiTitle:dl-threo-3,4-dihydroxyphenylserine	predictedType:Chemical
+CANDIDATE	id:15103	inCount:1	outCount:2	links:	url:D015103	name:DL threo 3,4 Dihydroxyphenylserine	normalName:dl threo 3,4 dihydroxyphenylserine	normalWikiTitle:dl threo 3,4 dihydroxyphenylserine	predictedType:Chemical
+CANDIDATE	id:15103	inCount:1	outCount:2	links:	url:D015103	name:erythro-3,4-Dihydroxyphenylserine	normalName:erythro-3,4-dihydroxyphenylserine	normalWikiTitle:erythro-3,4-dihydroxyphenylserine	predictedType:Chemical
+CANDIDATE	id:15103	inCount:1	outCount:2	links:	url:D015103	name:erythro 3,4 Dihydroxyphenylserine	normalName:erythro 3,4 dihydroxyphenylserine	normalWikiTitle:erythro 3,4 dihydroxyphenylserine	predictedType:Chemical
+CANDIDATE	id:15103	inCount:1	outCount:2	links:	url:D015103	name:3,4-Dihydroxyphenylserine	normalName:3,4-dihydroxyphenylserine	normalWikiTitle:3,4-dihydroxyphenylserine	predictedType:Chemical
+CANDIDATE	id:5682	inCount:0	outCount:1	links:	url:C005682	name:threo-dihydrosphingosine	normalName:threo-dihydrosphingosine	normalWikiTitle:threo-dihydrosphingosine	predictedType:Chemical
+ENTITY	text:5-HTP	normalName:5-htp	predictedType:chemical	q:true	qid:Q611	docId:869641	origText:5-HTP	url:D006916
+CANDIDATE	id:6916	inCount:11	outCount:1	links:	url:D006916	name:5-HTP	normalName:5-htp	normalWikiTitle:5-htp	predictedType:Chemical
+ENTITY	text:FLA-63	normalName:fla-63	predictedType:chemical	q:true	qid:Q611	docId:869641	origText:FLA-63	url:D005406
+CANDIDATE	id:5406	inCount:0	outCount:1	links:	url:D005406	name:FLA 63	normalName:fla 63	normalWikiTitle:fla 63	predictedType:Chemical
+ENTITY	text:L-dopa	normalName:l-dopa	predictedType:chemical	q:true	qid:Q611	docId:869641	origText:L-dopa	url:D007980
+CANDIDATE	id:7980	inCount:32	outCount:1	links:	url:D007980	name:L-Dopa	normalName:l-dopa	normalWikiTitle:l-dopa	predictedType:Chemical
+ENTITY	text:Pimozide	normalName:pimozide	predictedType:chemical	q:true	qid:Q611	docId:869641	origText:Pimozide	url:D010868
+CANDIDATE	id:10868	inCount:0	outCount:1	links:	url:D010868	name:Pimozide	normalName:pimozide	normalWikiTitle:pimozide	predictedType:Chemical
+ENTITY	text:MK-486	normalName:mk-486	predictedType:chemical	q:true	qid:Q611	docId:869641	origText:MK-486	url:D002230
+CANDIDATE	id:2230	inCount:3	outCount:2	links:	url:D002230	name:MK 486	normalName:mk 486	normalWikiTitle:mk 486	predictedType:Chemical
+ENTITY	text:dopamine	normalName:dopamine	predictedType:chemical	q:true	qid:Q611	docId:869641	origText:dopamine	url:D004298
+CANDIDATE	id:4298	inCount:90	outCount:2	links:	url:D004298	name:Dopamine	normalName:dopamine	normalWikiTitle:dopamine	predictedType:Chemical

@@ -1,0 +1,17 @@
+ENTITY	text:cyclosporin A	normalName:cyclosporin a	predictedType:chemical	q:true	qid:Q160	docId:7542793	origText:cyclosporin A	url:D016572
+CANDIDATE	id:16572	inCount:14	outCount:1	links:20123;16559	url:D016572	name:Cyclosporin A	normalName:cyclosporin a	normalWikiTitle:cyclosporin a	predictedType:Chemical
+ENTITY	text:FK506	normalName:fk506	predictedType:chemical	q:true	qid:Q160	docId:7542793	origText:FK506	url:D016559
+CANDIDATE	id:16559	inCount:40	outCount:1	links:20123;16572	url:D016559	name:FK506	normalName:fk506	normalWikiTitle:fk506	predictedType:Chemical
+ENTITY	text:rapamycin	normalName:rapamycin	predictedType:chemical	q:true	qid:Q160	docId:7542793	origText:rapamycin	url:D020123
+CANDIDATE	id:20123	inCount:19	outCount:1	links:16572;16559	url:D020123	name:Rapamycin	normalName:rapamycin	normalWikiTitle:rapamycin	predictedType:Chemical
+ENTITY	text:macrolide	normalName:macrolide	predictedType:chemical	q:true	qid:Q160	docId:7542793	origText:macrolide	url:D018942
+CANDIDATE	id:18942	inCount:770	outCount:2	links:	url:D018942	name:Macrolides	normalName:macrolides	normalWikiTitle:macrolides	predictedType:Chemical
+CANDIDATE	id:512190	inCount:0	outCount:1	links:	url:C512190	name:macroline	normalName:macroline	normalWikiTitle:macroline	predictedType:Chemical
+CANDIDATE	id:626884	inCount:0	outCount:1	links:	url:C000626884	name:marliolide	normalName:marliolide	normalWikiTitle:marliolide	predictedType:Chemical
+CANDIDATE	id:24973	inCount:0	outCount:1	links:	url:C024973	name:simarolide	normalName:simarolide	normalWikiTitle:simarolide	predictedType:Chemical
+CANDIDATE	id:605327	inCount:0	outCount:2	links:	url:C000605327	name:tarolide	normalName:tarolide	normalWikiTitle:tarolide	predictedType:Chemical
+CANDIDATE	id:416483	inCount:0	outCount:1	links:	url:C416483	name:RAD macrolide	normalName:rad macrolide	normalWikiTitle:rad macrolide	predictedType:Chemical
+CANDIDATE	id:433561	inCount:0	outCount:2	links:	url:C433561	name:macrophyllide	normalName:macrophyllide	normalWikiTitle:macrophyllide	predictedType:Chemical
+CANDIDATE	id:532529	inCount:0	outCount:2	links:	url:C532529	name:micromolide	normalName:micromolide	normalWikiTitle:micromolide	predictedType:Chemical
+CANDIDATE	id:432449	inCount:0	outCount:1	links:	url:C432449	name:germacranolide	normalName:germacranolide	normalWikiTitle:germacranolide	predictedType:Chemical
+CANDIDATE	id:483001	inCount:0	outCount:1	links:	url:C483001	name:micromide	normalName:micromide	normalWikiTitle:micromide	predictedType:Chemical

@@ -1,0 +1,4 @@
+ENTITY	text:idiopathic orthostatic hypotension	normalName:idiopathic orthostatic hypotension	predictedType:disease	q:true	qid:Q292	docId:611664	origText:idiopathic orthostatic hypotension	url:C544351
+CANDIDATE	id:544351	inCount:0	outCount:2	links:	url:C544351	name:Idiopathic orthostatic hypotension	normalName:idiopathic orthostatic hypotension	normalWikiTitle:idiopathic orthostatic hypotension	predictedType:Disease
+ENTITY	text:hypertension	normalName:hypertension	predictedType:disease	q:true	qid:Q292	docId:611664	origText:hypertension	url:D006973
+CANDIDATE	id:6973	inCount:18	outCount:1	links:	url:D006973	name:Hypertension	normalName:hypertension	normalWikiTitle:hypertension	predictedType:Disease

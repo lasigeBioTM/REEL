@@ -1,0 +1,13 @@
+ENTITY	text:clonidine	normalName:clonidine	predictedType:chemical	q:true	qid:Q457	docId:17261653	origText:clonidine	url:D003000
+CANDIDATE	id:3000	inCount:39	outCount:1	links:	url:D003000	name:Clonidine	normalName:clonidine	normalWikiTitle:clonidine	predictedType:Chemical
+ENTITY	text:cyclic nucleotide	normalName:cyclic nucleotide	predictedType:chemical	q:true	qid:Q457	docId:17261653	origText:cyclic nucleotide	url:D009712
+CANDIDATE	id:9712	inCount:23	outCount:1	links:	url:D009712	name:Nucleotides, Cyclic	normalName:nucleotides, cyclic	normalWikiTitle:nucleotides, cyclic	predictedType:Chemical
+CANDIDATE	id:3597	inCount:11	outCount:2	links:	url:D003597	name:Cytosine Nucleotides	normalName:cytosine nucleotides	normalWikiTitle:cytosine nucleotides	predictedType:Chemical
+CANDIDATE	id:3497	inCount:425	outCount:1	links:	url:D003497	name:Cyclic N-Oxides	normalName:cyclic n-oxides	normalWikiTitle:cyclic n-oxides	predictedType:Chemical
+CANDIDATE	id:10456	inCount:1610	outCount:2	links:	url:D010456	name:Peptides, Cyclic	normalName:peptides, cyclic	normalWikiTitle:peptides, cyclic	predictedType:Chemical
+CANDIDATE	id:9841	inCount:123	outCount:1	links:	url:D009841	name:Oligonucleotides	normalName:oligonucleotides	normalWikiTitle:oligonucleotides	predictedType:Chemical
+CANDIDATE	id:117586	inCount:0	outCount:1	links:	url:C117586	name:cyclic Int3 peptide	normalName:cyclic int3 peptide	normalWikiTitle:cyclic int3 peptide	predictedType:Chemical
+CANDIDATE	id:31143	inCount:0	outCount:2	links:	url:C031143	name:AICA ribonucleotide	normalName:aica ribonucleotide	normalWikiTitle:aica ribonucleotide	predictedType:Chemical
+CANDIDATE	id:408982	inCount:0	outCount:1	links:	url:C408982	name:CPG-oligonucleotide	normalName:cpg-oligonucleotide	normalWikiTitle:cpg-oligonucleotide	predictedType:Chemical
+CANDIDATE	id:523483	inCount:0	outCount:1	links:	url:C523483	name:linaclotide	normalName:linaclotide	normalWikiTitle:linaclotide	predictedType:Chemical
+CANDIDATE	id:527155	inCount:0	outCount:2	links:	url:C527155	name:ENA nucleotide	normalName:ena nucleotide	normalWikiTitle:ena nucleotide	predictedType:Chemical

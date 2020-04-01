@@ -1,0 +1,15 @@
+ENTITY	text:hypertension	normalName:hypertension	predictedType:disease	q:true	qid:Q261	docId:16160878	origText:hypertension	url:D006973
+CANDIDATE	id:6973	inCount:18	outCount:1	links:1919	url:D006973	name:Hypertension	normalName:hypertension	normalWikiTitle:hypertension	predictedType:Disease
+ENTITY	text:penile erection	normalName:penile erection	predictedType:disease	q:true	qid:Q261	docId:16160878	origText:penile erection	url:D010409
+CANDIDATE	id:10409	inCount:7	outCount:1	links:	url:D010409	name:Penile Diseases	normalName:penile diseases	normalWikiTitle:penile diseases	predictedType:Disease
+CANDIDATE	id:10411	inCount:0	outCount:2	links:	url:D010411	name:Penile Induration	normalName:penile induration	normalWikiTitle:penile induration	predictedType:Disease
+CANDIDATE	id:20047	inCount:0	outCount:2	links:	url:D020047	name:Rectocele	normalName:rectocele	normalWikiTitle:rectocele	predictedType:Disease
+CANDIDATE	id:13159	inCount:0	outCount:2	links:	url:D013159	name:Splenic Infarction	normalName:splenic infarction	normalWikiTitle:splenic infarction	predictedType:Disease
+CANDIDATE	id:34161	inCount:1	outCount:1	links:	url:D034161	name:Pelvic Infection	normalName:pelvic infection	normalWikiTitle:pelvic infection	predictedType:Disease
+CANDIDATE	id:20819	inCount:3	outCount:1	links:	url:D020819	name:Perimeningeal Infections	normalName:perimeningeal infections	normalWikiTitle:perimeningeal infections	predictedType:Disease
+CANDIDATE	id:6977	inCount:3	outCount:2	links:	url:D006977	name:Hypertension, Renal	normalName:hypertension, renal	normalWikiTitle:hypertension, renal	predictedType:Disease
+CANDIDATE	id:30341	inCount:2	outCount:1	links:	url:D030341	name:Nidovirales Infections	normalName:nidovirales infections	normalWikiTitle:nidovirales infections	predictedType:Disease
+CANDIDATE	id:19773	inCount:0	outCount:1	links:	url:D019773	name:Epiretinal Membrane	normalName:epiretinal membrane	normalWikiTitle:epiretinal membrane	predictedType:Disease
+CANDIDATE	id:11645	inCount:0	outCount:2	links:	url:D011645	name:Puerperal Infection	normalName:puerperal infection	normalWikiTitle:puerperal infection	predictedType:Disease
+ENTITY	text:bradycardia	normalName:bradycardia	predictedType:disease	q:true	qid:Q261	docId:16160878	origText:bradycardia	url:D001919
+CANDIDATE	id:1919	inCount:0	outCount:1	links:6973	url:D001919	name:Bradycardia	normalName:bradycardia	normalWikiTitle:bradycardia	predictedType:Disease

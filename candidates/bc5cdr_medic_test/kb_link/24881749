@@ -1,0 +1,6 @@
+ENTITY	text:breast cancer	normalName:breast cancer	predictedType:disease	q:true	qid:Q77	docId:24881749	origText:breast cancer	url:D001943
+CANDIDATE	id:1943	inCount:19	outCount:2	links:	url:D001943	name:Breast Cancer	normalName:breast cancer	normalWikiTitle:breast cancer	predictedType:Disease
+ENTITY	text:Huntington's disease	normalName:huntington's disease	predictedType:disease	q:true	qid:Q77	docId:24881749	origText:Huntington's disease	url:D006816
+CANDIDATE	id:6816	inCount:3	outCount:5	links:	url:D006816	name:Huntington's Disease	normalName:huntington's disease	normalWikiTitle:huntington's disease	predictedType:Disease
+ENTITY	text:Neuroleptic malignant syndrome	normalName:neuroleptic malignant syndrome	predictedType:disease	q:true	qid:Q77	docId:24881749	origText:Neuroleptic malignant syndrome	url:D009459
+CANDIDATE	id:9459	inCount:0	outCount:2	links:	url:D009459	name:Neuroleptic Malignant Syndrome	normalName:neuroleptic malignant syndrome	normalWikiTitle:neuroleptic malignant syndrome	predictedType:Disease

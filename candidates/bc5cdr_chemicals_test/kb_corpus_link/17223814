@@ -1,0 +1,8 @@
+ENTITY	text:epirubicin	normalName:epirubicin	predictedType:chemical	q:true	qid:Q296	docId:17223814	origText:epirubicin	url:D015251
+CANDIDATE	id:15251	inCount:77	outCount:1	links:17239;3520	url:D015251	name:Epirubicin	normalName:epirubicin	normalWikiTitle:epirubicin	predictedType:Chemical
+ENTITY	text:cyclophosphamide	normalName:cyclophosphamide	predictedType:chemical	q:true	qid:Q296	docId:17223814	origText:cyclophosphamide	url:D003520
+CANDIDATE	id:3520	inCount:474	outCount:1	links:15251;17239	url:D003520	name:Cyclophosphamide	normalName:cyclophosphamide	normalWikiTitle:cyclophosphamide	predictedType:Chemical
+ENTITY	text:Taxol	normalName:taxol	predictedType:chemical	q:true	qid:Q296	docId:17223814	origText:Taxol	url:D017239
+CANDIDATE	id:17239	inCount:58	outCount:1	links:15251;17239;3520	url:D017239	name:Taxol	normalName:taxol	normalWikiTitle:taxol	predictedType:Chemical
+ENTITY	text:paclitaxel	normalName:paclitaxel	predictedType:chemical	q:true	qid:Q296	docId:17223814	origText:paclitaxel	url:D017239
+CANDIDATE	id:17239	inCount:58	outCount:1	links:15251;17239;3520	url:D017239	name:Paclitaxel	normalName:paclitaxel	normalWikiTitle:paclitaxel	predictedType:Chemical

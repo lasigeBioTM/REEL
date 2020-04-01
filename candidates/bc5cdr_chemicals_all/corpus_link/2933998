@@ -1,0 +1,4 @@
+ENTITY	text:terbutaline	normalName:terbutaline	predictedType:chemical	q:true	qid:Q548	docId:2933998	origText:terbutaline	url:D013726
+CANDIDATE	id:13726	inCount:8	outCount:1	links:	url:D013726	name:Terbutaline	normalName:terbutaline	normalWikiTitle:terbutaline	predictedType:Chemical
+ENTITY	text:Procaterol	normalName:procaterol	predictedType:chemical	q:true	qid:Q548	docId:2933998	origText:Procaterol	url:D017265
+CANDIDATE	id:17265	inCount:1	outCount:2	links:	url:D017265	name:Procaterol	normalName:procaterol	normalWikiTitle:procaterol	predictedType:Chemical

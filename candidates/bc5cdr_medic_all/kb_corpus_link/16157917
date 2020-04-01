@@ -1,0 +1,38 @@
+ENTITY	text:myoclonic status	normalName:myoclonic status	predictedType:disease	q:true	qid:Q543	docId:16157917	origText:myoclonic status	url:D009207
+CANDIDATE	id:9207	inCount:11	outCount:1	links:9207	url:D009207	name:Myoclonus	normalName:myoclonus	normalWikiTitle:myoclonus	predictedType:Disease
+CANDIDATE	id:564088	inCount:0	outCount:2	links:	url:C564088	name:Nystagmus, Myoclonic	normalName:nystagmus, myoclonic	normalWikiTitle:nystagmus, myoclonic	predictedType:Disease
+CANDIDATE	id:3108	inCount:7	outCount:1	links:	url:D003108	name:Colonic Diseases	normalName:colonic diseases	normalWikiTitle:colonic diseases	predictedType:Disease
+CANDIDATE	id:13226	inCount:1	outCount:1	links:9207	url:D013226	name:Status Epilepticus	normalName:status epilepticus	normalWikiTitle:status epilepticus	predictedType:Disease
+CANDIDATE	id:13224	inCount:0	outCount:1	links:	url:D013224	name:Status Asthmaticus	normalName:status asthmaticus	normalWikiTitle:status asthmaticus	predictedType:Disease
+CANDIDATE	id:2908	inCount:2	outCount:1	links:	url:D002908	name:Chronic Disease	normalName:chronic disease	normalWikiTitle:chronic disease	predictedType:Disease
+CANDIDATE	id:9222	inCount:2	outCount:1	links:	url:D009222	name:Myotonia	normalName:myotonia	normalWikiTitle:myotonia	predictedType:Disease
+CANDIDATE	id:20417	inCount:17	outCount:2	links:	url:D020417	name:Nystagmus, Congenital	normalName:nystagmus, congenital	normalWikiTitle:nystagmus, congenital	predictedType:Disease
+CANDIDATE	id:67073	inCount:0	outCount:1	links:	url:D000067073	name:Psychological Trauma	normalName:psychological trauma	normalWikiTitle:psychological trauma	predictedType:Disease
+CANDIDATE	id:11707	inCount:1	outCount:1	links:	url:D011707	name:Pyloric Stenosis	normalName:pyloric stenosis	normalWikiTitle:pyloric stenosis	predictedType:Disease
+ENTITY	text:myoclonus	normalName:myoclonus	predictedType:disease	q:true	qid:Q543	docId:16157917	origText:myoclonus	url:D009207
+CANDIDATE	id:9207	inCount:11	outCount:1	links:9207	url:D009207	name:Myoclonus	normalName:myoclonus	normalWikiTitle:myoclonus	predictedType:Disease
+ENTITY	text:myoclonic jerks	normalName:myoclonic jerks	predictedType:disease	q:true	qid:Q543	docId:16157917	origText:myoclonic jerks	url:D009207
+CANDIDATE	id:9207	inCount:11	outCount:1	links:9207	url:D009207	name:Jerks, Myoclonic	normalName:jerks, myoclonic	normalWikiTitle:jerks, myoclonic	predictedType:Disease
+ENTITY	text:IGE	normalName:ige	predictedType:disease	q:true	qid:Q543	docId:16157917	origText:IGE	url:C562694
+CANDIDATE	id:562694	inCount:1	outCount:1	links:562694	url:C562694	name:EIG	normalName:eig	normalWikiTitle:eig	predictedType:Disease
+CANDIDATE	id:5221	inCount:2	outCount:1	links:	url:D005221	name:Fatigue	normalName:fatigue	normalWikiTitle:fatigue	predictedType:Disease
+CANDIDATE	id:564133	inCount:0	outCount:1	links:	url:C564133	name:IGER	normalName:iger	normalWikiTitle:iger	predictedType:Disease
+CANDIDATE	id:564133	inCount:0	outCount:1	links:	url:C564133	name:IGEL	normalName:igel	normalWikiTitle:igel	predictedType:Disease
+CANDIDATE	id:564543	inCount:0	outCount:4	links:	url:C564543	name:IMAGE	normalName:image	normalWikiTitle:image	predictedType:Disease
+CANDIDATE	id:261100	inCount:0	outCount:2	links:	url:261100	name:IGS	normalName:igs	normalWikiTitle:igs	predictedType:Disease
+CANDIDATE	id:5764	inCount:3	outCount:1	links:	url:D005764	name:GER	normalName:ger	normalWikiTitle:ger	predictedType:Disease
+CANDIDATE	id:535538	inCount:0	outCount:2	links:	url:C535538	name:IHG	normalName:ihg	normalWikiTitle:ihg	predictedType:Disease
+CANDIDATE	id:17488	inCount:2	outCount:1	links:	url:D017488	name:BIE	normalName:bie	normalWikiTitle:bie	predictedType:Disease
+CANDIDATE	id:617053	inCount:0	outCount:6	links:	url:617053	name:MIRAGE	normalName:mirage	normalWikiTitle:mirage	predictedType:Disease
+CANDIDATE	id:20158	inCount:4	outCount:2	links:	url:D020158	name:GCE	normalName:gce	normalWikiTitle:gce	predictedType:Disease
+ENTITY	text:idiopathic generalized epilepsies	normalName:idiopathic generalized epilepsies	predictedType:disease	q:true	qid:Q543	docId:16157917	origText:idiopathic generalized epilepsies	url:C562694
+CANDIDATE	id:562694	inCount:1	outCount:1	links:562694	url:C562694	name:Epilepsy, Idiopathic Generalized	normalName:epilepsy, idiopathic generalized	normalWikiTitle:epilepsy, idiopathic generalized	predictedType:Disease
+CANDIDATE	id:4829	inCount:20	outCount:1	links:	url:D004829	name:Epilepsy, Generalized	normalName:epilepsy, generalized	normalWikiTitle:epilepsy, generalized	predictedType:Disease
+CANDIDATE	id:565808	inCount:0	outCount:2	links:	url:C565808	name:Generalized Epilepsy with Febrile Seizures Plus	normalName:generalized epilepsy with febrile seizures plus	normalWikiTitle:generalized epilepsy with febrile seizures plus	predictedType:Disease
+CANDIDATE	id:567827	inCount:0	outCount:2	links:	url:C567827	name:Generalized Epilepsy With Febrile Seizures Plus, 7	normalName:generalized epilepsy with febrile seizures plus, 7	normalWikiTitle:generalized epilepsy with febrile seizures plus, 7	predictedType:Disease
+CANDIDATE	id:531660	inCount:0	outCount:1	links:	url:C531660	name:Generalized elastolysis	normalName:generalized elastolysis	normalWikiTitle:generalized elastolysis	predictedType:Disease
+CANDIDATE	id:52497	inCount:3	outCount:2	links:	url:D052497	name:Lipodystrophy, Congenital Generalized	normalName:lipodystrophy, congenital generalized	normalWikiTitle:lipodystrophy, congenital generalized	predictedType:Disease
+CANDIDATE	id:565811	inCount:0	outCount:2	links:	url:C565811	name:Generalized Epilepsy With Febrile Seizures Plus, Type 3	normalName:generalized epilepsy with febrile seizures plus, type 3	normalWikiTitle:generalized epilepsy with febrile seizures plus, type 3	predictedType:Disease
+CANDIDATE	id:567371	inCount:0	outCount:2	links:	url:C567371	name:Generalized Epilepsy With Febrile Seizures Plus, Type 6	normalName:generalized epilepsy with febrile seizures plus, type 6	normalWikiTitle:generalized epilepsy with febrile seizures plus, type 6	predictedType:Disease
+CANDIDATE	id:613863	inCount:0	outCount:2	links:	url:613863	name:GENERALIZED EPILEPSY WITH FEBRILE SEIZURES PLUS, TYPE 7	normalName:generalized epilepsy with febrile seizures plus, type 7	normalWikiTitle:generalized epilepsy with febrile seizures plus, type 7	predictedType:Disease
+CANDIDATE	id:9901	inCount:13	outCount:2	links:	url:D009901	name:Optic Nerve Diseases	normalName:optic nerve diseases	normalWikiTitle:optic nerve diseases	predictedType:Disease

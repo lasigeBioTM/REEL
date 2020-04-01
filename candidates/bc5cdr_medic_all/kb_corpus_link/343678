@@ -1,0 +1,13 @@
+ENTITY	text:hepatitis B	normalName:hepatitis b	predictedType:disease	q:true	qid:Q418	docId:343678	origText:hepatitis B	url:D006509
+CANDIDATE	id:6509	inCount:1	outCount:2	links:6509;19694	url:D006509	name:Hepatitis B	normalName:hepatitis b	normalWikiTitle:hepatitis b	predictedType:Disease
+ENTITY	text:Type B hepatitis	normalName:type b hepatitis	predictedType:disease	q:true	qid:Q418	docId:343678	origText:Type B hepatitis	url:D006509
+CANDIDATE	id:6509	inCount:1	outCount:2	links:6509;19694	url:D006509	name:Hepatitis B	normalName:hepatitis b	normalWikiTitle:hepatitis b	predictedType:Disease
+CANDIDATE	id:3699	inCount:1	outCount:2	links:	url:D003699	name:Hepatitis D	normalName:hepatitis d	normalWikiTitle:hepatitis d	predictedType:Disease
+CANDIDATE	id:6506	inCount:0	outCount:2	links:	url:D006506	name:Hepatitis A	normalName:hepatitis a	normalWikiTitle:hepatitis a	predictedType:Disease
+CANDIDATE	id:6526	inCount:1	outCount:2	links:	url:D006526	name:Hepatitis C	normalName:hepatitis c	normalWikiTitle:hepatitis c	predictedType:Disease
+CANDIDATE	id:16751	inCount:0	outCount:2	links:	url:D016751	name:Hepatitis E	normalName:hepatitis e	normalWikiTitle:hepatitis e	predictedType:Disease
+CANDIDATE	id:6505	inCount:5	outCount:1	links:	url:D006505	name:Hepatitis	normalName:hepatitis	normalWikiTitle:hepatitis	predictedType:Disease
+CANDIDATE	id:566557	inCount:0	outCount:1	links:	url:C566557	name:Hemochromatosis, Type 2B	normalName:hemochromatosis, type 2b	normalWikiTitle:hemochromatosis, type 2b	predictedType:Disease
+CANDIDATE	id:19694	inCount:0	outCount:2	links:6509	url:D019694	name:Hepatitis B, Chronic	normalName:hepatitis b, chronic	normalWikiTitle:hepatitis b, chronic	predictedType:Disease
+CANDIDATE	id:615517	inCount:0	outCount:1	links:	url:615517	name:HEMOCHROMATOSIS, TYPE 5	normalName:hemochromatosis, type 5	normalWikiTitle:hemochromatosis, type 5	predictedType:Disease
+CANDIDATE	id:537248	inCount:0	outCount:1	links:	url:C537248	name:Hemochromatosis, type 3	normalName:hemochromatosis, type 3	normalWikiTitle:hemochromatosis, type 3	predictedType:Disease

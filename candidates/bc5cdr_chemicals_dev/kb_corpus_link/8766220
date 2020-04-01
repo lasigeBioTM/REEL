@@ -1,0 +1,4 @@
+ENTITY	text:paroxetine	normalName:paroxetine	predictedType:chemical	q:true	qid:Q476	docId:8766220	origText:paroxetine	url:D017374
+CANDIDATE	id:17374	inCount:1	outCount:1	links:14147	url:D017374	name:Paroxetine	normalName:paroxetine	normalWikiTitle:paroxetine	predictedType:Chemical
+ENTITY	text:tramadol	normalName:tramadol	predictedType:chemical	q:true	qid:Q476	docId:8766220	origText:tramadol	url:D014147
+CANDIDATE	id:14147	inCount:8	outCount:2	links:17374	url:D014147	name:Tramadol	normalName:tramadol	normalWikiTitle:tramadol	predictedType:Chemical

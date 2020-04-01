@@ -1,0 +1,10 @@
+ENTITY	text:pentylenetetrazole	normalName:pentylenetetrazole	predictedType:chemical	q:true	qid:Q1481	docId:20394767	origText:pentylenetetrazole	url:D010433
+CANDIDATE	id:10433	inCount:2	outCount:1	links:15068;15016	url:D010433	name:Pentylenetetrazole	normalName:pentylenetetrazole	normalWikiTitle:pentylenetetrazole	predictedType:Chemical
+ENTITY	text:5-HT	normalName:5-ht	predictedType:chemical	q:true	qid:Q1481	docId:20394767	origText:5-HT	url:D012701
+CANDIDATE	id:12701	inCount:48	outCount:2	links:	url:D012701	name:5-HT	normalName:5-ht	normalWikiTitle:5-ht	predictedType:Chemical
+ENTITY	text:GABA	normalName:gaba	predictedType:chemical	q:true	qid:Q1481	docId:20394767	origText:GABA	url:D005680
+CANDIDATE	id:5680	inCount:100	outCount:1	links:	url:D005680	name:GABA	normalName:gaba	normalWikiTitle:gaba	predictedType:Chemical
+ENTITY	text:m-chlorophenylpiperazine	normalName:m-chlorophenylpiperazine	predictedType:chemical	q:true	qid:Q1481	docId:20394767	origText:m-chlorophenylpiperazine	url:C015068
+CANDIDATE	id:15068	inCount:0	outCount:1	links:10433;15016	url:C015068	name:m-chlorophenylpiperazine	normalName:m-chlorophenylpiperazine	normalWikiTitle:m-chlorophenylpiperazine	predictedType:Chemical
+ENTITY	text:yohimbine	normalName:yohimbine	predictedType:chemical	q:true	qid:Q1481	docId:20394767	origText:yohimbine	url:D015016
+CANDIDATE	id:15016	inCount:27	outCount:1	links:10433;15068	url:D015016	name:Yohimbine	normalName:yohimbine	normalWikiTitle:yohimbine	predictedType:Chemical

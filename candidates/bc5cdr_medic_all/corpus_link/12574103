@@ -1,0 +1,62 @@
+ENTITY	text:hypertension	normalName:hypertension	predictedType:disease	q:true	qid:Q160	docId:12574103	origText:hypertension	url:D006973
+CANDIDATE	id:6973	inCount:18	outCount:1	links:5923;7022	url:D006973	name:Hypertension	normalName:hypertension	normalWikiTitle:hypertension	predictedType:Disease
+ENTITY	text:elevated blood pressures	normalName:elevated blood pressures	predictedType:disease	q:true	qid:Q160	docId:12574103	origText:elevated blood pressures	url:D006973
+CANDIDATE	id:6973	inCount:18	outCount:1	links:5923;7022	url:D006973	name:Blood Pressure, High	normalName:blood pressure, high	normalWikiTitle:blood pressure, high	predictedType:Disease
+CANDIDATE	id:566185	inCount:0	outCount:1	links:	url:C566185	name:Heart Block, Nonprogressive	normalName:heart block, nonprogressive	normalWikiTitle:heart block, nonprogressive	predictedType:Disease
+CANDIDATE	id:1778	inCount:21	outCount:1	links:	url:D001778	name:Blood Coagulation Disorders	normalName:blood coagulation disorders	normalWikiTitle:blood coagulation disorders	predictedType:Disease
+CANDIDATE	id:16489	inCount:1	outCount:2	links:	url:D016489	name:Head Injuries, Closed	normalName:head injuries, closed	normalWikiTitle:head injuries, closed	predictedType:Disease
+CANDIDATE	id:9385	inCount:8	outCount:2	links:	url:D009385	name:Neoplastic Processes	normalName:neoplastic processes	normalWikiTitle:neoplastic processes	predictedType:Disease
+CANDIDATE	id:565109	inCount:0	outCount:1	links:	url:C565109	name:Dermal Ridges, Patternless	normalName:dermal ridges, patternless	normalWikiTitle:dermal ridges, patternless	predictedType:Disease
+CANDIDATE	id:565934	inCount:0	outCount:1	links:	url:C565934	name:Asthma, Short Stature, and Elevated IgA	normalName:asthma, short stature, and elevated iga	normalWikiTitle:asthma, short stature, and elevated iga	predictedType:Disease
+CANDIDATE	id:19966	inCount:15	outCount:2	links:	url:D019966	name:Substance-Related Disorders	normalName:substance-related disorders	normalWikiTitle:substance-related disorders	predictedType:Disease
+CANDIDATE	id:3750	inCount:0	outCount:1	links:	url:D003750	name:Dental Fissures	normalName:dental fissures	normalWikiTitle:dental fissures	predictedType:Disease
+CANDIDATE	id:1796	inCount:12	outCount:1	links:	url:D001796	name:Blood Protein Disorders	normalName:blood protein disorders	normalWikiTitle:blood protein disorders	predictedType:Disease
+CANDIDATE	id:16063	inCount:0	outCount:2	links:	url:D016063	name:Blood Loss, Surgical	normalName:blood loss, surgical	normalWikiTitle:blood loss, surgical	predictedType:Disease
+CANDIDATE	id:7022	inCount:3	outCount:1	links:6973;19586	url:D007022	name:Low Blood Pressure	normalName:low blood pressure	normalWikiTitle:low blood pressure	predictedType:Disease
+CANDIDATE	id:7022	inCount:3	outCount:1	links:6973;19586	url:D007022	name:Blood Pressure, Low	normalName:blood pressure, low	normalWikiTitle:blood pressure, low	predictedType:Disease
+CANDIDATE	id:6973	inCount:18	outCount:1	links:5923;7022	url:D006973	name:High Blood Pressures	normalName:high blood pressures	normalWikiTitle:high blood pressures	predictedType:Disease
+CANDIDATE	id:6973	inCount:18	outCount:1	links:5923;7022	url:D006973	name:Blood Pressures, High	normalName:blood pressures, high	normalWikiTitle:blood pressures, high	predictedType:Disease
+CANDIDATE	id:6973	inCount:18	outCount:1	links:5923;7022	url:D006973	name:High Blood Pressure	normalName:high blood pressure	normalWikiTitle:high blood pressure	predictedType:Disease
+CANDIDATE	id:73397	inCount:1	outCount:1	links:	url:D000073397	name:Stresses, Job-related	normalName:stresses, job-related	normalWikiTitle:stresses, job-related	predictedType:Disease
+CANDIDATE	id:73397	inCount:1	outCount:1	links:	url:D000073397	name:Job-related Stresses	normalName:job-related stresses	normalWikiTitle:job-related stresses	predictedType:Disease
+CANDIDATE	id:20270	inCount:0	outCount:3	links:	url:D020270	name:Alcohol Related Seizures	normalName:alcohol related seizures	normalWikiTitle:alcohol related seizures	predictedType:Disease
+CANDIDATE	id:20270	inCount:0	outCount:3	links:	url:D020270	name:Alcohol-Related Seizures	normalName:alcohol-related seizures	normalWikiTitle:alcohol-related seizures	predictedType:Disease
+ENTITY	text:glomerulosclerosis	normalName:glomerulosclerosis	predictedType:disease	q:true	qid:Q160	docId:12574103	origText:glomerulosclerosis	url:D005921
+CANDIDATE	id:5921	inCount:11	outCount:1	links:	url:D005921	name:Glomerulonephritis	normalName:glomerulonephritis	normalWikiTitle:glomerulonephritis	predictedType:Disease
+CANDIDATE	id:538457	inCount:0	outCount:1	links:	url:C538457	name:Segmental glomerulosclerosis	normalName:segmental glomerulosclerosis	normalWikiTitle:segmental glomerulosclerosis	predictedType:Disease
+CANDIDATE	id:10026	inCount:17	outCount:1	links:	url:D010026	name:Osteosclerosis	normalName:osteosclerosis	normalWikiTitle:osteosclerosis	predictedType:Disease
+CANDIDATE	id:537026	inCount:0	outCount:2	links:	url:C537026	name:Lipodermatosclerosis	normalName:lipodermatosclerosis	normalWikiTitle:lipodermatosclerosis	predictedType:Disease
+CANDIDATE	id:50197	inCount:3	outCount:1	links:	url:D050197	name:Atherosclerosis	normalName:atherosclerosis	normalWikiTitle:atherosclerosis	predictedType:Disease
+CANDIDATE	id:9400	inCount:0	outCount:1	links:	url:D009400	name:Nephrosclerosis	normalName:nephrosclerosis	normalWikiTitle:nephrosclerosis	predictedType:Disease
+CANDIDATE	id:10040	inCount:6	outCount:1	links:	url:D010040	name:Otosclerosis	normalName:otosclerosis	normalWikiTitle:otosclerosis	predictedType:Disease
+CANDIDATE	id:50379	inCount:0	outCount:1	links:	url:D050379	name:Arteriolosclerosis	normalName:arteriolosclerosis	normalWikiTitle:arteriolosclerosis	predictedType:Disease
+CANDIDATE	id:63371	inCount:0	outCount:1	links:	url:D063371	name:Myringosclerosis	normalName:myringosclerosis	normalWikiTitle:myringosclerosis	predictedType:Disease
+CANDIDATE	id:1161	inCount:9	outCount:1	links:	url:D001161	name:Arteriosclerosis	normalName:arteriosclerosis	normalWikiTitle:arteriosclerosis	predictedType:Disease
+CANDIDATE	id:5923	inCount:3	outCount:1	links:6973	url:D005923	name:Focal Glomerulosclerosis	normalName:focal glomerulosclerosis	normalWikiTitle:focal glomerulosclerosis	predictedType:Disease
+CANDIDATE	id:5923	inCount:3	outCount:1	links:6973	url:D005923	name:Glomerulosclerosis, Focal	normalName:glomerulosclerosis, focal	normalWikiTitle:glomerulosclerosis, focal	predictedType:Disease
+CANDIDATE	id:3928	inCount:4	outCount:2	links:	url:D003928	name:Nodular Glomerulosclerosis	normalName:nodular glomerulosclerosis	normalWikiTitle:nodular glomerulosclerosis	predictedType:Disease
+CANDIDATE	id:3928	inCount:4	outCount:2	links:	url:D003928	name:Glomerulosclerosis, Nodular	normalName:glomerulosclerosis, nodular	normalWikiTitle:glomerulosclerosis, nodular	predictedType:Disease
+CANDIDATE	id:55728	inCount:2	outCount:1	links:	url:D055728	name:Myelosclerosis	normalName:myelosclerosis	normalWikiTitle:myelosclerosis	predictedType:Disease
+CANDIDATE	id:3928	inCount:4	outCount:2	links:	url:D003928	name:Diabetic Glomerulosclerosis	normalName:diabetic glomerulosclerosis	normalWikiTitle:diabetic glomerulosclerosis	predictedType:Disease
+CANDIDATE	id:3928	inCount:4	outCount:2	links:	url:D003928	name:Glomerulosclerosis, Diabetic	normalName:glomerulosclerosis, diabetic	normalWikiTitle:glomerulosclerosis, diabetic	predictedType:Disease
+ENTITY	text:increase in blood pressure	normalName:increase in blood pressure	predictedType:disease	q:true	qid:Q160	docId:12574103	origText:increase in blood pressure	url:D006973
+CANDIDATE	id:6973	inCount:18	outCount:1	links:5923;7022	url:D006973	name:Blood Pressures, High	normalName:blood pressures, high	normalWikiTitle:blood pressures, high	predictedType:Disease
+CANDIDATE	id:1796	inCount:12	outCount:1	links:	url:D001796	name:Blood Protein Disorders	normalName:blood protein disorders	normalWikiTitle:blood protein disorders	predictedType:Disease
+CANDIDATE	id:1791	inCount:29	outCount:1	links:	url:D001791	name:Blood Platelet Disorders	normalName:blood platelet disorders	normalWikiTitle:blood platelet disorders	predictedType:Disease
+CANDIDATE	id:18213	inCount:6	outCount:1	links:	url:D018213	name:Neoplasms, Bone Tissue	normalName:neoplasms, bone tissue	normalWikiTitle:neoplasms, bone tissue	predictedType:Disease
+CANDIDATE	id:12035	inCount:4	outCount:3	links:	url:D012035	name:Refsum Disease	normalName:refsum disease	normalWikiTitle:refsum disease	predictedType:Disease
+CANDIDATE	id:60467	inCount:0	outCount:1	links:	url:D060467	name:Disease Resistance	normalName:disease resistance	normalWikiTitle:disease resistance	predictedType:Disease
+CANDIDATE	id:1913	inCount:0	outCount:1	links:	url:D001913	name:Bowen's Disease	normalName:bowen's disease	normalWikiTitle:bowen's disease	predictedType:Disease
+CANDIDATE	id:25861	inCount:32	outCount:2	links:	url:D025861	name:Blood Coagulation Disorders, Inherited	normalName:blood coagulation disorders, inherited	normalWikiTitle:blood coagulation disorders, inherited	predictedType:Disease
+CANDIDATE	id:1778	inCount:21	outCount:1	links:	url:D001778	name:Blood Coagulation Disorders	normalName:blood coagulation disorders	normalWikiTitle:blood coagulation disorders	predictedType:Disease
+CANDIDATE	id:1849	inCount:5	outCount:2	links:	url:D001849	name:Bone Diseases, Endocrine	normalName:bone diseases, endocrine	normalWikiTitle:bone diseases, endocrine	predictedType:Disease
+CANDIDATE	id:20434	inCount:2	outCount:1	links:	url:D020434	name:Abducens Nerve Diseases	normalName:abducens nerve diseases	normalWikiTitle:abducens nerve diseases	predictedType:Disease
+CANDIDATE	id:6973	inCount:18	outCount:1	links:5923;7022	url:D006973	name:High Blood Pressure	normalName:high blood pressure	normalWikiTitle:high blood pressure	predictedType:Disease
+CANDIDATE	id:6973	inCount:18	outCount:1	links:5923;7022	url:D006973	name:Blood Pressure, High	normalName:blood pressure, high	normalWikiTitle:blood pressure, high	predictedType:Disease
+CANDIDATE	id:6973	inCount:18	outCount:1	links:5923;7022	url:D006973	name:High Blood Pressures	normalName:high blood pressures	normalWikiTitle:high blood pressures	predictedType:Disease
+CANDIDATE	id:7022	inCount:3	outCount:1	links:6973;19586	url:D007022	name:Low Blood Pressure	normalName:low blood pressure	normalWikiTitle:low blood pressure	predictedType:Disease
+CANDIDATE	id:7022	inCount:3	outCount:1	links:6973;19586	url:D007022	name:Blood Pressure, Low	normalName:blood pressure, low	normalWikiTitle:blood pressure, low	predictedType:Disease
+CANDIDATE	id:19586	inCount:2	outCount:1	links:7022	url:D019586	name:Elevated ICP (Intracranial Pressure)	normalName:elevated icp (intracranial pressure)	normalWikiTitle:elevated icp (intracranial pressure)	predictedType:Disease
+CANDIDATE	id:19586	inCount:2	outCount:1	links:7022	url:D019586	name:ICP, Elevated (Intracranial Pressure)	normalName:icp, elevated (intracranial pressure)	normalWikiTitle:icp, elevated (intracranial pressure)	predictedType:Disease
+CANDIDATE	id:19586	inCount:2	outCount:1	links:7022	url:D019586	name:ICP (Intracranial Pressure) Increase	normalName:icp (intracranial pressure) increase	normalWikiTitle:icp (intracranial pressure) increase	predictedType:Disease
+CANDIDATE	id:19586	inCount:2	outCount:1	links:7022	url:D019586	name:ICP (Intracranial Pressure) Elevation	normalName:icp (intracranial pressure) elevation	normalWikiTitle:icp (intracranial pressure) elevation	predictedType:Disease

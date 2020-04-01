@@ -1,0 +1,17 @@
+ENTITY	text:pain	normalName:pain	predictedType:disease	q:true	qid:Q334	docId:7457821	origText:pain	url:D010146
+CANDIDATE	id:10146	inCount:34	outCount:1	links:12140;9325;14839	url:D010146	name:Pain	normalName:pain	normalWikiTitle:pain	predictedType:Disease
+ENTITY	text:respiratory upset	normalName:respiratory upset	predictedType:disease	q:true	qid:Q334	docId:7457821	origText:respiratory upset	url:D012140
+CANDIDATE	id:12140	inCount:17	outCount:1	links:9325;10146;14839	url:D012140	name:Respiratory Tract Diseases	normalName:respiratory tract diseases	normalWikiTitle:respiratory tract diseases	predictedType:Disease
+CANDIDATE	id:12135	inCount:2	outCount:1	links:	url:D012135	name:Respiratory Sounds	normalName:respiratory sounds	normalWikiTitle:respiratory sounds	predictedType:Disease
+CANDIDATE	id:16156	inCount:2	outCount:2	links:	url:D016156	name:Respiratory Tract Fistula	normalName:respiratory tract fistula	normalWikiTitle:respiratory tract fistula	predictedType:Disease
+CANDIDATE	id:12818	inCount:18	outCount:1	links:	url:D012818	name:Signs and Symptoms, Respiratory	normalName:signs and symptoms, respiratory	normalWikiTitle:signs and symptoms, respiratory	predictedType:Disease
+CANDIDATE	id:563580	inCount:0	outCount:2	links:	url:C563580	name:Tauopathy and Respiratory Failure	normalName:tauopathy and respiratory failure	normalWikiTitle:tauopathy and respiratory failure	predictedType:Disease
+CANDIDATE	id:142	inCount:0	outCount:2	links:	url:D000142	name:Acidosis, Respiratory	normalName:acidosis, respiratory	normalWikiTitle:acidosis, respiratory	predictedType:Disease
+CANDIDATE	id:15769	inCount:1	outCount:2	links:	url:D015769	name:Granuloma, Respiratory Tract	normalName:granuloma, respiratory tract	normalWikiTitle:granuloma, respiratory tract	predictedType:Disease
+CANDIDATE	id:12142	inCount:5	outCount:2	links:	url:D012142	name:Respiratory Tract Neoplasms	normalName:respiratory tract neoplasms	normalWikiTitle:respiratory tract neoplasms	predictedType:Disease
+CANDIDATE	id:472	inCount:0	outCount:2	links:	url:D000472	name:Alkalosis, Respiratory	normalName:alkalosis, respiratory	normalWikiTitle:alkalosis, respiratory	predictedType:Disease
+CANDIDATE	id:12141	inCount:27	outCount:2	links:	url:D012141	name:Respiratory Tract Infections	normalName:respiratory tract infections	normalWikiTitle:respiratory tract infections	predictedType:Disease
+ENTITY	text:Nausea	normalName:nausea	predictedType:disease	q:true	qid:Q334	docId:7457821	origText:Nausea	url:D009325
+CANDIDATE	id:9325	inCount:2	outCount:1	links:12140;10146;14839	url:D009325	name:Nausea	normalName:nausea	normalWikiTitle:nausea	predictedType:Disease
+ENTITY	text:vomiting	normalName:vomiting	predictedType:disease	q:true	qid:Q334	docId:7457821	origText:vomiting	url:D014839
+CANDIDATE	id:14839	inCount:7	outCount:1	links:12140;9325;10146	url:D014839	name:Vomiting	normalName:vomiting	normalWikiTitle:vomiting	predictedType:Disease

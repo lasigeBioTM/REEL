@@ -1,0 +1,67 @@
+ENTITY	text:glucose tolerance curves	normalName:glucose tolerance curves	predictedType:disease	q:true	qid:Q381	docId:8387218	origText:glucose tolerance curves	url:D018149
+CANDIDATE	id:18149	inCount:0	outCount:1	links:10523;10195;3967	url:D018149	name:Glucose Intolerance	normalName:glucose intolerance	normalWikiTitle:glucose intolerance	predictedType:Disease
+CANDIDATE	id:5633	inCount:0	outCount:1	links:	url:D005633	name:Fructose Intolerance	normalName:fructose intolerance	normalWikiTitle:fructose intolerance	predictedType:Disease
+CANDIDATE	id:565558	inCount:0	outCount:1	links:	url:C565558	name:Fructose and Galactose Intolerance	normalName:fructose and galactose intolerance	normalWikiTitle:fructose and galactose intolerance	predictedType:Disease
+CANDIDATE	id:6008	inCount:26	outCount:1	links:	url:D006008	name:Glycogen Storage Disease	normalName:glycogen storage disease	normalWikiTitle:glycogen storage disease	predictedType:Disease
+CANDIDATE	id:44882	inCount:8	outCount:1	links:	url:D044882	name:Glucose Metabolism Disorders	normalName:glucose metabolism disorders	normalWikiTitle:glucose metabolism disorders	predictedType:Disease
+CANDIDATE	id:536831	inCount:0	outCount:1	links:	url:C536831	name:Glucose-6-phosphate translocase deficiency	normalName:glucose-6-phosphate translocase deficiency	normalWikiTitle:glucose-6-phosphate translocase deficiency	predictedType:Disease
+CANDIDATE	id:562806	inCount:0	outCount:1	links:	url:C562806	name:Glycogen Storage Disease Id	normalName:glycogen storage disease id	normalWikiTitle:glycogen storage disease id	predictedType:Disease
+CANDIDATE	id:613507	inCount:0	outCount:1	links:	url:613507	name:GLYCOGEN STORAGE DISEASE XV	normalName:glycogen storage disease xv	normalWikiTitle:glycogen storage disease xv	predictedType:Disease
+CANDIDATE	id:562805	inCount:0	outCount:1	links:	url:C562805	name:Glycogen Storage Disease IC	normalName:glycogen storage disease ic	normalWikiTitle:glycogen storage disease ic	predictedType:Disease
+CANDIDATE	id:562594	inCount:0	outCount:1	links:	url:C562594	name:Glycogen Storage Disease IB	normalName:glycogen storage disease ib	normalWikiTitle:glycogen storage disease ib	predictedType:Disease
+ENTITY	text:Peripheral neuropathy	normalName:peripheral neuropathy	predictedType:disease	q:true	qid:Q381	docId:8387218	origText:Peripheral neuropathy	url:D010523
+CANDIDATE	id:10523	inCount:37	outCount:1	links:10195;18149;3967	url:D010523	name:Peripheral Neuropathy	normalName:peripheral neuropathy	normalWikiTitle:peripheral neuropathy	predictedType:Disease
+ENTITY	text:diabetes	normalName:diabetes	predictedType:disease	q:true	qid:Q381	docId:8387218	origText:diabetes	url:D003920
+CANDIDATE	id:3920	inCount:44	outCount:2	links:	url:D003920	name:Diabetes Mellitus	normalName:diabetes mellitus	normalWikiTitle:diabetes mellitus	predictedType:Disease
+CANDIDATE	id:3970	inCount:2	outCount:1	links:3970	url:D003970	name:Diastema	normalName:diastema	normalWikiTitle:diastema	predictedType:Disease
+CANDIDATE	id:0	inCount:27	outCount:0	links:	url:00000000000	name:Diseases	normalName:diseases	normalWikiTitle:diseases	predictedType:Disease
+CANDIDATE	id:3919	inCount:7	outCount:2	links:	url:D003919	name:Diabetes Insipidus	normalName:diabetes insipidus	normalWikiTitle:diabetes insipidus	predictedType:Disease
+CANDIDATE	id:562772	inCount:0	outCount:1	links:	url:C562772	name:Mason-Type Diabetes	normalName:mason-type diabetes	normalWikiTitle:mason-type diabetes	predictedType:Disease
+CANDIDATE	id:538011	inCount:0	outCount:2	links:	url:C538011	name:Eales disease	normalName:eales disease	normalWikiTitle:eales disease	predictedType:Disease
+CANDIDATE	id:11818	inCount:0	outCount:1	links:	url:D011818	name:Rabies	normalName:rabies	normalWikiTitle:rabies	predictedType:Disease
+CANDIDATE	id:7905	inCount:4	outCount:1	links:	url:D007905	name:Lens Diseases	normalName:lens diseases	normalWikiTitle:lens diseases	predictedType:Disease
+CANDIDATE	id:17719	inCount:0	outCount:3	links:	url:D017719	name:Diabetic Foot	normalName:diabetic foot	normalWikiTitle:diabetic foot	predictedType:Disease
+CANDIDATE	id:16640	inCount:1	outCount:2	links:	url:D016640	name:Diabetes, Gestational	normalName:diabetes, gestational	normalWikiTitle:diabetes, gestational	predictedType:Disease
+CANDIDATE	id:11236	inCount:0	outCount:1	links:	url:D011236	name:Prediabetes	normalName:prediabetes	normalWikiTitle:prediabetes	predictedType:Disease
+CANDIDATE	id:3970	inCount:2	outCount:1	links:3970	url:D003970	name:Diastemas	normalName:diastemas	normalWikiTitle:diastemas	predictedType:Disease
+CANDIDATE	id:4198	inCount:4	outCount:1	links:	url:D004198	name:Diathesis	normalName:diathesis	normalWikiTitle:diathesis	predictedType:Disease
+CANDIDATE	id:4198	inCount:4	outCount:1	links:	url:D004198	name:Diatheses	normalName:diatheses	normalWikiTitle:diatheses	predictedType:Disease
+CANDIDATE	id:3922	inCount:26	outCount:2	links:	url:D003922	name:Diabetes, Type 1	normalName:diabetes, type 1	normalWikiTitle:diabetes, type 1	predictedType:Disease
+CANDIDATE	id:6432	inCount:6	outCount:2	links:	url:D006432	name:Bronze Diabetes	normalName:bronze diabetes	normalWikiTitle:bronze diabetes	predictedType:Disease
+CANDIDATE	id:3924	inCount:19	outCount:1	links:	url:D003924	name:Diabetes, Type 2	normalName:diabetes, type 2	normalWikiTitle:diabetes, type 2	predictedType:Disease
+CANDIDATE	id:3922	inCount:26	outCount:2	links:	url:D003922	name:Type 1 Diabetes	normalName:type 1 diabetes	normalWikiTitle:type 1 diabetes	predictedType:Disease
+CANDIDATE	id:6432	inCount:6	outCount:2	links:	url:D006432	name:Diabetes, Bronze	normalName:diabetes, bronze	normalWikiTitle:diabetes, bronze	predictedType:Disease
+CANDIDATE	id:3924	inCount:19	outCount:1	links:	url:D003924	name:Type 2 Diabetes	normalName:type 2 diabetes	normalWikiTitle:type 2 diabetes	predictedType:Disease
+ENTITY	text:toxicity	normalName:toxicity	predictedType:disease	q:true	qid:Q381	docId:8387218	origText:toxicity	url:D064420
+CANDIDATE	id:64420	inCount:10	outCount:1	links:	url:D064420	name:Drug Toxicity	normalName:drug toxicity	normalWikiTitle:drug toxicity	predictedType:Disease
+CANDIDATE	id:66126	inCount:0	outCount:3	links:	url:D066126	name:Cardiotoxicity	normalName:cardiotoxicity	normalWikiTitle:cardiotoxicity	predictedType:Disease
+CANDIDATE	id:15651	inCount:2	outCount:1	links:	url:D015651	name:Mycotoxicosis	normalName:mycotoxicosis	normalWikiTitle:mycotoxicosis	predictedType:Disease
+CANDIDATE	id:13971	inCount:2	outCount:1	links:	url:D013971	name:Thyrotoxicosis	normalName:thyrotoxicosis	normalWikiTitle:thyrotoxicosis	predictedType:Disease
+CANDIDATE	id:14869	inCount:0	outCount:2	links:	url:D014869	name:Water Intoxication	normalName:water intoxication	normalWikiTitle:water intoxication	predictedType:Disease
+CANDIDATE	id:14103	inCount:4	outCount:2	links:	url:D014103	name:Torticollis	normalName:torticollis	normalWikiTitle:torticollis	predictedType:Disease
+CANDIDATE	id:9765	inCount:42	outCount:2	links:	url:D009765	name:Obesity	normalName:obesity	normalWikiTitle:obesity	predictedType:Disease
+CANDIDATE	id:14115	inCount:1	outCount:1	links:	url:D014115	name:Toxemia	normalName:toxemia	normalWikiTitle:toxemia	predictedType:Disease
+CANDIDATE	id:7246	inCount:2	outCount:2	links:	url:D007246	name:Infertility	normalName:infertility	normalWikiTitle:infertility	predictedType:Disease
+CANDIDATE	id:20234	inCount:0	outCount:2	links:	url:D020234	name:Gait Ataxia	normalName:gait ataxia	normalWikiTitle:gait ataxia	predictedType:Disease
+CANDIDATE	id:14069	inCount:1	outCount:1	links:	url:D014069	name:Tonsillitis	normalName:tonsillitis	normalWikiTitle:tonsillitis	predictedType:Disease
+CANDIDATE	id:64420	inCount:10	outCount:1	links:	url:D064420	name:Toxicity, Drug	normalName:toxicity, drug	normalWikiTitle:toxicity, drug	predictedType:Disease
+CANDIDATE	id:17484	inCount:0	outCount:2	links:	url:D017484	name:Phototoxicity	normalName:phototoxicity	normalWikiTitle:phototoxicity	predictedType:Disease
+ENTITY	text:AIDS	normalName:aids	predictedType:disease	q:true	qid:Q381	docId:8387218	origText:AIDS	url:D000163
+CANDIDATE	id:163	inCount:0	outCount:2	links:	url:D000163	name:AIDS	normalName:aids	normalWikiTitle:aids	predictedType:Disease
+ENTITY	text:diarrhoea	normalName:diarrhoea	predictedType:disease	q:true	qid:Q381	docId:8387218	origText:diarrhoea	url:D003967
+CANDIDATE	id:3967	inCount:14	outCount:1	links:10523;10195;18149	url:D003967	name:Diarrhea	normalName:diarrhea	normalWikiTitle:diarrhea	predictedType:Disease
+CANDIDATE	id:12798	inCount:0	outCount:1	links:	url:D012798	name:Sialorrhea	normalName:sialorrhea	normalWikiTitle:sialorrhea	predictedType:Disease
+CANDIDATE	id:568	inCount:3	outCount:1	links:	url:D000568	name:Amenorrhea	normalName:amenorrhea	normalWikiTitle:amenorrhea	predictedType:Disease
+CANDIDATE	id:3963	inCount:0	outCount:1	links:	url:D003963	name:Diaper Rash	normalName:diaper rash	normalWikiTitle:diaper rash	predictedType:Disease
+CANDIDATE	id:45602	inCount:1	outCount:1	links:	url:D045602	name:Steatorrhea	normalName:steatorrhea	normalWikiTitle:steatorrhea	predictedType:Disease
+CANDIDATE	id:3970	inCount:2	outCount:1	links:3970	url:D003970	name:Diastema	normalName:diastema	normalWikiTitle:diastema	predictedType:Disease
+CANDIDATE	id:3968	inCount:2	outCount:1	links:	url:D003968	name:Diarrhea, Infantile	normalName:diarrhea, infantile	normalWikiTitle:diarrhea, infantile	predictedType:Disease
+CANDIDATE	id:537438	inCount:0	outCount:1	links:	url:C537438	name:Arrhinia	normalName:arrhinia	normalWikiTitle:arrhinia	predictedType:Disease
+CANDIDATE	id:536176	inCount:0	outCount:2	links:	url:C536176	name:Dimauro disease	normalName:dimauro disease	normalWikiTitle:dimauro disease	predictedType:Disease
+CANDIDATE	id:6323	inCount:2	outCount:1	links:	url:D006323	name:Heart Arrest	normalName:heart arrest	normalWikiTitle:heart arrest	predictedType:Disease
+ENTITY	text:opportunistic infections	normalName:opportunistic infections	predictedType:disease	q:true	qid:Q381	docId:8387218	origText:opportunistic infections	url:D009894
+CANDIDATE	id:9894	inCount:2	outCount:3	links:	url:D009894	name:Opportunistic Infection	normalName:opportunistic infection	normalWikiTitle:opportunistic infection	predictedType:Disease
+ENTITY	text:abdominal pain	normalName:abdominal pain	predictedType:disease	q:true	qid:Q381	docId:8387218	origText:abdominal pain	url:D015746
+CANDIDATE	id:15746	inCount:2	outCount:2	links:	url:D015746	name:Abdominal Pain	normalName:abdominal pain	normalWikiTitle:abdominal pain	predictedType:Disease
+ENTITY	text:pancreatitis	normalName:pancreatitis	predictedType:disease	q:true	qid:Q381	docId:8387218	origText:pancreatitis	url:D010195
+CANDIDATE	id:10195	inCount:4	outCount:1	links:10523;18149;3967	url:D010195	name:Pancreatitis	normalName:pancreatitis	normalWikiTitle:pancreatitis	predictedType:Disease

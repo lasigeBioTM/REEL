@@ -1,0 +1,4 @@
+ENTITY	text:pains	normalName:pains	predictedType:disease	q:true	qid:Q260	docId:19269743	origText:pains	url:D010146
+CANDIDATE	id:10146	inCount:34	outCount:1	links:	url:D010146	name:Pain	normalName:pain	normalWikiTitle:pain	predictedType:Disease
+ENTITY	text:pain	normalName:pain	predictedType:disease	q:true	qid:Q260	docId:19269743	origText:pain	url:D010146
+CANDIDATE	id:10146	inCount:34	outCount:1	links:	url:D010146	name:Pain	normalName:pain	normalWikiTitle:pain	predictedType:Disease

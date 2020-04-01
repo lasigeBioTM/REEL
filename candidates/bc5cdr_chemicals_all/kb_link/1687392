@@ -1,0 +1,12 @@
+ENTITY	text:fluphenazine	normalName:fluphenazine	predictedType:chemical	q:true	qid:Q993	docId:1687392	origText:fluphenazine	url:D005476
+CANDIDATE	id:5476	inCount:11	outCount:1	links:	url:D005476	name:Fluphenazine	normalName:fluphenazine	normalWikiTitle:fluphenazine	predictedType:Chemical
+ENTITY	text:quinpirole	normalName:quinpirole	predictedType:chemical	q:true	qid:Q993	docId:1687392	origText:quinpirole	url:D019257
+CANDIDATE	id:19257	inCount:0	outCount:2	links:	url:D019257	name:Quinpirole	normalName:quinpirole	normalWikiTitle:quinpirole	predictedType:Chemical
+ENTITY	text:dopamine	normalName:dopamine	predictedType:chemical	q:true	qid:Q993	docId:1687392	origText:dopamine	url:D004298
+CANDIDATE	id:4298	inCount:90	outCount:2	links:	url:D004298	name:Dopamine	normalName:dopamine	normalWikiTitle:dopamine	predictedType:Chemical
+ENTITY	text:sulpiride	normalName:sulpiride	predictedType:chemical	q:true	qid:Q993	docId:1687392	origText:sulpiride	url:D013469
+CANDIDATE	id:13469	inCount:9	outCount:1	links:	url:D013469	name:Sulpiride	normalName:sulpiride	normalWikiTitle:sulpiride	predictedType:Chemical
+ENTITY	text:SKF 38393	normalName:skf 38393	predictedType:chemical	q:true	qid:Q993	docId:1687392	origText:SKF 38393	url:D015647
+CANDIDATE	id:15647	inCount:6	outCount:1	links:	url:D015647	name:SKF 38393	normalName:skf 38393	normalWikiTitle:skf 38393	predictedType:Chemical
+ENTITY	text:SCH 23390	normalName:sch 23390	predictedType:chemical	q:true	qid:Q993	docId:1687392	origText:SCH 23390	url:C534628
+CANDIDATE	id:534628	inCount:0	outCount:1	links:	url:C534628	name:SCH 23390	normalName:sch 23390	normalWikiTitle:sch 23390	predictedType:Chemical

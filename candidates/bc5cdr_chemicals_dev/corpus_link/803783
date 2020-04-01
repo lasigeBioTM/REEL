@@ -1,0 +1,6 @@
+ENTITY	text:oxytocin	normalName:oxytocin	predictedType:chemical	q:true	qid:Q254	docId:803783	origText:oxytocin	url:D010121
+CANDIDATE	id:10121	inCount:126	outCount:1	links:	url:D010121	name:Oxytocin	normalName:oxytocin	normalWikiTitle:oxytocin	predictedType:Chemical
+ENTITY	text:dextrose	normalName:dextrose	predictedType:chemical	q:true	qid:Q254	docId:803783	origText:dextrose	url:D005947
+CANDIDATE	id:5947	inCount:160	outCount:1	links:	url:D005947	name:Dextrose	normalName:dextrose	normalWikiTitle:dextrose	predictedType:Chemical
+ENTITY	text:lactate	normalName:lactate	predictedType:chemical	q:true	qid:Q254	docId:803783	origText:lactate	url:D019344
+CANDIDATE	id:19344	inCount:38	outCount:1	links:	url:D019344	name:Lactate	normalName:lactate	normalWikiTitle:lactate	predictedType:Chemical

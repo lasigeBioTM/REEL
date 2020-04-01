@@ -1,0 +1,27 @@
+ENTITY	text:didanosine	normalName:didanosine	predictedType:chemical	q:true	qid:Q380	docId:11573852	origText:didanosine	url:D016049
+CANDIDATE	id:16049	inCount:8	outCount:2	links:	url:D016049	name:Didanosine	normalName:didanosine	normalWikiTitle:didanosine	predictedType:Chemical
+ENTITY	text:amphotercin B	normalName:amphotercin b	predictedType:chemical	q:true	qid:Q380	docId:11573852	origText:amphotercin B	url:D000666
+CANDIDATE	id:666	inCount:27	outCount:1	links:666	url:D000666	name:Amphotericin B	normalName:amphotericin b	normalWikiTitle:amphotericin b	predictedType:Chemical
+CANDIDATE	id:41989	inCount:0	outCount:1	links:	url:C041989	name:amphotericin A	normalName:amphotericin a	normalWikiTitle:amphotericin a	predictedType:Chemical
+CANDIDATE	id:551688	inCount:0	outCount:1	links:	url:C551688	name:amphiasterin B4	normalName:amphiasterin b4	normalWikiTitle:amphiasterin b4	predictedType:Chemical
+CANDIDATE	id:548364	inCount:0	outCount:2	links:	url:C548364	name:aspericin B	normalName:aspericin b	normalWikiTitle:aspericin b	predictedType:Chemical
+CANDIDATE	id:58220	inCount:0	outCount:1	links:	url:C058220	name:amphoteronolide B	normalName:amphoteronolide b	normalWikiTitle:amphoteronolide b	predictedType:Chemical
+CANDIDATE	id:539921	inCount:0	outCount:1	links:	url:C539921	name:atricin B	normalName:atricin b	normalWikiTitle:atricin b	predictedType:Chemical
+CANDIDATE	id:544344	inCount:0	outCount:1	links:	url:C544344	name:ascotricin B	normalName:ascotricin b	normalWikiTitle:ascotricin b	predictedType:Chemical
+CANDIDATE	id:598877	inCount:0	outCount:1	links:	url:C000598877	name:americanin B	normalName:americanin b	normalWikiTitle:americanin b	predictedType:Chemical
+CANDIDATE	id:2166	inCount:118	outCount:1	links:	url:D002166	name:Camptothecin	normalName:camptothecin	normalWikiTitle:camptothecin	predictedType:Chemical
+CANDIDATE	id:57100	inCount:0	outCount:1	links:	url:C057100	name:asperlicin B	normalName:asperlicin b	normalWikiTitle:asperlicin b	predictedType:Chemical
+ENTITY	text:Amphotericin B	normalName:amphotericin b	predictedType:chemical	q:true	qid:Q380	docId:11573852	origText:Amphotericin B	url:D000666
+CANDIDATE	id:666	inCount:27	outCount:1	links:666	url:D000666	name:Amphotericin B	normalName:amphotericin b	normalWikiTitle:amphotericin b	predictedType:Chemical
+ENTITY	text:phenytoin	normalName:phenytoin	predictedType:chemical	q:true	qid:Q380	docId:11573852	origText:phenytoin	url:D010672
+CANDIDATE	id:10672	inCount:38	outCount:1	links:	url:D010672	name:Phenytoin	normalName:phenytoin	normalWikiTitle:phenytoin	predictedType:Chemical
+ENTITY	text:hydrocortisone	normalName:hydrocortisone	predictedType:chemical	q:true	qid:Q380	docId:11573852	origText:hydrocortisone	url:D006854
+CANDIDATE	id:6854	inCount:91	outCount:3	links:	url:D006854	name:Hydrocortisone	normalName:hydrocortisone	normalWikiTitle:hydrocortisone	predictedType:Chemical
+ENTITY	text:hydroxyzine	normalName:hydroxyzine	predictedType:chemical	q:true	qid:Q380	docId:11573852	origText:hydroxyzine	url:D006919
+CANDIDATE	id:6919	inCount:5	outCount:1	links:	url:D006919	name:Hydroxyzine	normalName:hydroxyzine	normalWikiTitle:hydroxyzine	predictedType:Chemical
+ENTITY	text:promethazine	normalName:promethazine	predictedType:chemical	q:true	qid:Q380	docId:11573852	origText:promethazine	url:D011398
+CANDIDATE	id:11398	inCount:14	outCount:2	links:	url:D011398	name:Promethazine	normalName:promethazine	normalWikiTitle:promethazine	predictedType:Chemical
+ENTITY	text:lorazepam	normalName:lorazepam	predictedType:chemical	q:true	qid:Q380	docId:11573852	origText:lorazepam	url:D008140
+CANDIDATE	id:8140	inCount:9	outCount:1	links:	url:D008140	name:Lorazepam	normalName:lorazepam	normalWikiTitle:lorazepam	predictedType:Chemical
+ENTITY	text:prochlorperazine	normalName:prochlorperazine	predictedType:chemical	q:true	qid:Q380	docId:11573852	origText:prochlorperazine	url:D011346
+CANDIDATE	id:11346	inCount:1	outCount:1	links:	url:D011346	name:Prochlorperazine	normalName:prochlorperazine	normalWikiTitle:prochlorperazine	predictedType:Chemical

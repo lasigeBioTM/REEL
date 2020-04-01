@@ -1,0 +1,34 @@
+ENTITY	text:cutaneous small vessel vasculitis	normalName:cutaneous small vessel vasculitis	predictedType:disease	q:true	qid:Q692	docId:16047871	origText:cutaneous small vessel vasculitis	url:C565222
+CANDIDATE	id:565222	inCount:0	outCount:1	links:	url:C565222	name:Vasculitis, Lymphocytic, Cutaneous Small Vessel	normalName:vasculitis, lymphocytic, cutaneous small vessel	normalWikiTitle:vasculitis, lymphocytic, cutaneous small vessel	predictedType:Disease
+CANDIDATE	id:20293	inCount:6	outCount:3	links:	url:D020293	name:Vasculitis, Central Nervous System	normalName:vasculitis, central nervous system	normalWikiTitle:vasculitis, central nervous system	predictedType:Disease
+CANDIDATE	id:18366	inCount:1	outCount:2	links:	url:D018366	name:Vasculitis, Leukocytoclastic, Cutaneous	normalName:vasculitis, leukocytoclastic, cutaneous	normalWikiTitle:vasculitis, leukocytoclastic, cutaneous	predictedType:Disease
+CANDIDATE	id:34701	inCount:3	outCount:1	links:	url:D034701	name:Mastocytosis, Cutaneous	normalName:mastocytosis, cutaneous	normalWikiTitle:mastocytosis, cutaneous	predictedType:Disease
+CANDIDATE	id:20945	inCount:0	outCount:3	links:	url:D020945	name:Lupus Vasculitis, Central Nervous System	normalName:lupus vasculitis, central nervous system	normalWikiTitle:lupus vasculitis, central nervous system	predictedType:Disease
+CANDIDATE	id:16773	inCount:2	outCount:1	links:	url:D016773	name:Leishmaniasis, Cutaneous	normalName:leishmaniasis, cutaneous	normalWikiTitle:leishmaniasis, cutaneous	predictedType:Disease
+CANDIDATE	id:562393	inCount:10	outCount:2	links:	url:C562393	name:Melanoma, Cutaneous Malignant	normalName:melanoma, cutaneous malignant	normalWikiTitle:melanoma, cutaneous malignant	predictedType:Disease
+CANDIDATE	id:31300	inCount:1	outCount:2	links:	url:D031300	name:Retinal Vasculitis	normalName:retinal vasculitis	normalWikiTitle:retinal vasculitis	predictedType:Disease
+CANDIDATE	id:566832	inCount:0	outCount:2	links:	url:C566832	name:Papillomatosis, Familial Cutaneous	normalName:papillomatosis, familial cutaneous	normalWikiTitle:papillomatosis, familial cutaneous	predictedType:Disease
+CANDIDATE	id:563977	inCount:0	outCount:1	links:	url:C563977	name:Venous Malformations, Multiple Cutaneous and Mucosal	normalName:venous malformations, multiple cutaneous and mucosal	normalWikiTitle:venous malformations, multiple cutaneous and mucosal	predictedType:Disease
+ENTITY	text:skin lesion	normalName:skin lesion	predictedType:disease	q:true	qid:Q692	docId:16047871	origText:skin lesion	url:D012871
+CANDIDATE	id:12871	inCount:71	outCount:1	links:	url:D012871	name:Skin Diseases	normalName:skin diseases	normalWikiTitle:skin diseases	predictedType:Disease
+CANDIDATE	id:12877	inCount:12	outCount:1	links:	url:D012877	name:Skin Manifestations	normalName:skin manifestations	normalWikiTitle:skin manifestations	predictedType:Disease
+CANDIDATE	id:65008	inCount:0	outCount:1	links:	url:D065008	name:Scorpion Stings	normalName:scorpion stings	normalWikiTitle:scorpion stings	predictedType:Disease
+CANDIDATE	id:7088	inCount:0	outCount:1	links:	url:D007088	name:Illusions	normalName:illusions	normalWikiTitle:illusions	predictedType:Disease
+CANDIDATE	id:7876	inCount:1	outCount:2	links:	url:D007876	name:Legionellosis	normalName:legionellosis	normalWikiTitle:legionellosis	predictedType:Disease
+CANDIDATE	id:7922	inCount:1	outCount:2	links:	url:D007922	name:Leptospirosis	normalName:leptospirosis	normalWikiTitle:leptospirosis	predictedType:Disease
+CANDIDATE	id:19687	inCount:0	outCount:2	links:	url:D019687	name:Uterine Inversion	normalName:uterine inversion	normalWikiTitle:uterine inversion	predictedType:Disease
+CANDIDATE	id:1404	inCount:0	outCount:2	links:	url:D001404	name:Babesiosis	normalName:babesiosis	normalWikiTitle:babesiosis	predictedType:Disease
+CANDIDATE	id:15354	inCount:0	outCount:1	links:	url:D015354	name:Vision, Low	normalName:vision, low	normalWikiTitle:vision, low	predictedType:Disease
+CANDIDATE	id:7855	inCount:1	outCount:1	links:	url:D007855	name:Lead Poisoning	normalName:lead poisoning	normalWikiTitle:lead poisoning	predictedType:Disease
+CANDIDATE	id:69836	inCount:0	outCount:1	links:	url:D000069836	name:Avulsion, Skin	normalName:avulsion, skin	normalWikiTitle:avulsion, skin	predictedType:Disease
+CANDIDATE	id:69836	inCount:0	outCount:1	links:	url:D000069836	name:Skin Avulsion	normalName:skin avulsion	normalWikiTitle:skin avulsion	predictedType:Disease
+CANDIDATE	id:69836	inCount:0	outCount:1	links:	url:D000069836	name:Avulsions, Skin	normalName:avulsions, skin	normalWikiTitle:avulsions, skin	predictedType:Disease
+CANDIDATE	id:69836	inCount:0	outCount:1	links:	url:D000069836	name:Skin Avulsions	normalName:skin avulsions	normalWikiTitle:skin avulsions	predictedType:Disease
+CANDIDATE	id:9506	inCount:10	outCount:1	links:	url:D009506	name:Skin Moles	normalName:skin moles	normalWikiTitle:skin moles	predictedType:Disease
+CANDIDATE	id:9506	inCount:10	outCount:1	links:	url:D009506	name:Moles, Skin	normalName:moles, skin	normalWikiTitle:moles, skin	predictedType:Disease
+CANDIDATE	id:9506	inCount:10	outCount:1	links:	url:D009506	name:Mole, Skin	normalName:mole, skin	normalWikiTitle:mole, skin	predictedType:Disease
+CANDIDATE	id:9506	inCount:10	outCount:1	links:	url:D009506	name:Skin Mole	normalName:skin mole	normalWikiTitle:skin mole	predictedType:Disease
+CANDIDATE	id:12877	inCount:12	outCount:1	links:	url:D012877	name:Skin Manifestation	normalName:skin manifestation	normalWikiTitle:skin manifestation	predictedType:Disease
+CANDIDATE	id:12877	inCount:12	outCount:1	links:	url:D012877	name:Manifestation, Skin	normalName:manifestation, skin	normalWikiTitle:manifestation, skin	predictedType:Disease
+ENTITY	text:leukocytoclastic vasculitis	normalName:leukocytoclastic vasculitis	predictedType:disease	q:true	qid:Q692	docId:16047871	origText:leukocytoclastic vasculitis	url:C535509
+CANDIDATE	id:535509	inCount:0	outCount:1	links:	url:C535509	name:Leukocytoclastic vasculitis	normalName:leukocytoclastic vasculitis	normalWikiTitle:leukocytoclastic vasculitis	predictedType:Disease

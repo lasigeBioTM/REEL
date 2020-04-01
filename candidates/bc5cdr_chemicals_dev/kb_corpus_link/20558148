@@ -1,0 +1,23 @@
+ENTITY	text:dopamine	normalName:dopamine	predictedType:chemical	q:true	qid:Q283	docId:20558148	origText:dopamine	url:D004298
+CANDIDATE	id:4298	inCount:90	outCount:2	links:	url:D004298	name:Dopamine	normalName:dopamine	normalWikiTitle:dopamine	predictedType:Chemical
+ENTITY	text:glutamate	normalName:glutamate	predictedType:chemical	q:true	qid:Q283	docId:20558148	origText:glutamate	url:D018698
+CANDIDATE	id:18698	inCount:53	outCount:2	links:	url:D018698	name:Glutamate	normalName:glutamate	normalWikiTitle:glutamate	predictedType:Chemical
+ENTITY	text:N-methyl-d-aspartate	normalName:n-methyl-d-aspartate	predictedType:chemical	q:true	qid:Q283	docId:20558148	origText:N-methyl-d-aspartate	url:D016202
+CANDIDATE	id:16202	inCount:3	outCount:1	links:16202	url:D016202	name:N-Methyl-D-aspartate	normalName:n-methyl-d-aspartate	normalWikiTitle:n-methyl-d-aspartate	predictedType:Chemical
+ENTITY	text:haloperidol	normalName:haloperidol	predictedType:chemical	q:true	qid:Q283	docId:20558148	origText:haloperidol	url:D006220
+CANDIDATE	id:6220	inCount:24	outCount:1	links:	url:D006220	name:Haloperidol	normalName:haloperidol	normalWikiTitle:haloperidol	predictedType:Chemical
+ENTITY	text:NMDA	normalName:nmda	predictedType:chemical	q:true	qid:Q283	docId:20558148	origText:NMDA	url:D016202
+CANDIDATE	id:16202	inCount:3	outCount:1	links:16202	url:D016202	name:NMDA	normalName:nmda	normalWikiTitle:nmda	predictedType:Chemical
+ENTITY	text:MK-801	normalName:mk-801	predictedType:chemical	q:true	qid:Q283	docId:20558148	origText:MK-801	url:D016291
+CANDIDATE	id:16291	inCount:9	outCount:1	links:	url:D016291	name:MK 801	normalName:mk 801	normalWikiTitle:mk 801	predictedType:Chemical
+ENTITY	text:amino acid	normalName:amino acid	predictedType:chemical	q:true	qid:Q283	docId:20558148	origText:amino acid	url:D000596
+CANDIDATE	id:596	inCount:212	outCount:1	links:	url:D000596	name:Amino Acids	normalName:amino acids	normalWikiTitle:amino acids	predictedType:Chemical
+CANDIDATE	id:7098	inCount:66	outCount:3	links:	url:D007098	name:Imino Acids	normalName:imino acids	normalWikiTitle:imino acids	predictedType:Chemical
+CANDIDATE	id:15258	inCount:0	outCount:1	links:	url:D015258	name:Acid Rain	normalName:acid rain	normalWikiTitle:acid rain	predictedType:Chemical
+CANDIDATE	id:17721	inCount:0	outCount:1	links:	url:C017721	name:casamino acids	normalName:casamino acids	normalWikiTitle:casamino acids	predictedType:Chemical
+CANDIDATE	id:33153	inCount:0	outCount:1	links:	url:C033153	name:amido-G-acid	normalName:amido-g-acid	normalWikiTitle:amido-g-acid	predictedType:Chemical
+CANDIDATE	id:603108	inCount:0	outCount:2	links:	url:C000603108	name:chaminic acid	normalName:chaminic acid	normalWikiTitle:chaminic acid	predictedType:Chemical
+CANDIDATE	id:98196	inCount:0	outCount:1	links:	url:C098196	name:marinoic acid	normalName:marinoic acid	normalWikiTitle:marinoic acid	predictedType:Chemical
+CANDIDATE	id:452082	inCount:0	outCount:1	links:	url:C452082	name:jasminic acid	normalName:jasminic acid	normalWikiTitle:jasminic acid	predictedType:Chemical
+CANDIDATE	id:477448	inCount:0	outCount:2	links:	url:C477448	name:fluvoxamino acid	normalName:fluvoxamino acid	normalWikiTitle:fluvoxamino acid	predictedType:Chemical
+CANDIDATE	id:7608	inCount:17	outCount:1	links:	url:D007608	name:Kainic Acid	normalName:kainic acid	normalWikiTitle:kainic acid	predictedType:Chemical

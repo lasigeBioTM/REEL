@@ -1,0 +1,16 @@
+ENTITY	text:postoperative nausea and vomiting	normalName:postoperative nausea and vomiting	predictedType:disease	q:true	qid:Q154	docId:18544179	origText:postoperative nausea and vomiting	url:D020250
+CANDIDATE	id:20250	inCount:0	outCount:3	links:7022;12131;1919	url:D020250	name:Postoperative Nausea and Vomiting	normalName:postoperative nausea and vomiting	normalWikiTitle:postoperative nausea and vomiting	predictedType:Disease
+ENTITY	text:bradycardia	normalName:bradycardia	predictedType:disease	q:true	qid:Q154	docId:18544179	origText:bradycardia	url:D001919
+CANDIDATE	id:1919	inCount:0	outCount:1	links:20250;7022;12131;9325	url:D001919	name:Bradycardia	normalName:bradycardia	normalWikiTitle:bradycardia	predictedType:Disease
+ENTITY	text:vomiting	normalName:vomiting	predictedType:disease	q:true	qid:Q154	docId:18544179	origText:vomiting	url:D014839
+CANDIDATE	id:14839	inCount:7	outCount:1	links:7022;10146;9325	url:D014839	name:Vomiting	normalName:vomiting	normalWikiTitle:vomiting	predictedType:Disease
+ENTITY	text:pain	normalName:pain	predictedType:disease	q:true	qid:Q154	docId:18544179	origText:pain	url:D010146
+CANDIDATE	id:10146	inCount:34	outCount:1	links:7022;9325;14839	url:D010146	name:Pain	normalName:pain	normalWikiTitle:pain	predictedType:Disease
+ENTITY	text:respiratory depression	normalName:respiratory depression	predictedType:disease	q:true	qid:Q154	docId:18544179	origText:respiratory depression	url:D012131
+CANDIDATE	id:12131	inCount:13	outCount:1	links:20250;7022;1919	url:D012131	name:Respiratory Depression	normalName:respiratory depression	normalWikiTitle:respiratory depression	predictedType:Disease
+ENTITY	text:nausea	normalName:nausea	predictedType:disease	q:true	qid:Q154	docId:18544179	origText:nausea	url:D009325
+CANDIDATE	id:9325	inCount:2	outCount:1	links:7022;10146;14839;1919	url:D009325	name:Nausea	normalName:nausea	normalWikiTitle:nausea	predictedType:Disease
+ENTITY	text:postoperative pain	normalName:postoperative pain	predictedType:disease	q:true	qid:Q154	docId:18544179	origText:postoperative pain	url:D010149
+CANDIDATE	id:10149	inCount:1	outCount:2	links:	url:D010149	name:Pain, Postoperative	normalName:pain, postoperative	normalWikiTitle:pain, postoperative	predictedType:Disease
+ENTITY	text:hypotension	normalName:hypotension	predictedType:disease	q:true	qid:Q154	docId:18544179	origText:hypotension	url:D007022
+CANDIDATE	id:7022	inCount:3	outCount:1	links:20250;12131;10146;14839;1919;9325	url:D007022	name:Hypotension	normalName:hypotension	normalWikiTitle:hypotension	predictedType:Disease

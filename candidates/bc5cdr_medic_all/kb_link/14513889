@@ -1,0 +1,27 @@
+ENTITY	text:weakness of extremities	normalName:weakness of extremities	predictedType:disease	q:true	qid:Q415	docId:14513889	origText:weakness of extremities	url:D018908
+CANDIDATE	id:18908	inCount:6	outCount:3	links:	url:D018908	name:Muscle Weakness	normalName:muscle weakness	normalWikiTitle:muscle weakness	predictedType:Disease
+CANDIDATE	id:5761	inCount:0	outCount:2	links:	url:D005761	name:Gastroenteritis, Transmissible, of Swine	normalName:gastroenteritis, transmissible, of swine	normalWikiTitle:gastroenteritis, transmissible, of swine	predictedType:Disease
+CANDIDATE	id:6226	inCount:3	outCount:1	links:	url:D006226	name:Hand Deformities	normalName:hand deformities	normalWikiTitle:hand deformities	predictedType:Disease
+CANDIDATE	id:536875	inCount:0	outCount:1	links:	url:C536875	name:Arrest of spermatogenesis	normalName:arrest of spermatogenesis	normalWikiTitle:arrest of spermatogenesis	predictedType:Disease
+CANDIDATE	id:9041	inCount:1	outCount:1	links:	url:D009041	name:Motion Sickness	normalName:motion sickness	normalWikiTitle:motion sickness	predictedType:Disease
+CANDIDATE	id:4818	inCount:0	outCount:1	links:	url:D004818	name:Epidermitis, Exudative, of Swine	normalName:epidermitis, exudative, of swine	normalWikiTitle:epidermitis, exudative, of swine	predictedType:Disease
+CANDIDATE	id:4753	inCount:0	outCount:2	links:	url:D004753	name:Enteritis, Transmissible, of Turkeys	normalName:enteritis, transmissible, of turkeys	normalWikiTitle:enteritis, transmissible, of turkeys	predictedType:Disease
+CANDIDATE	id:63169	inCount:0	outCount:1	links:	url:D063169	name:Dentofacial Deformities	normalName:dentofacial deformities	normalWikiTitle:dentofacial deformities	predictedType:Disease
+CANDIDATE	id:9221	inCount:0	outCount:1	links:	url:D009221	name:Myositis Ossificans	normalName:myositis ossificans	normalWikiTitle:myositis ossificans	predictedType:Disease
+CANDIDATE	id:14720	inCount:0	outCount:2	links:	url:D014720	name:Vesicular Exanthema of Swine	normalName:vesicular exanthema of swine	normalWikiTitle:vesicular exanthema of swine	predictedType:Disease
+CANDIDATE	id:10264	inCount:13	outCount:1	links:	url:D010264	name:Paralysis, Lower Extremities	normalName:paralysis, lower extremities	normalWikiTitle:paralysis, lower extremities	predictedType:Disease
+CANDIDATE	id:10291	inCount:3	outCount:1	links:	url:D010291	name:Paresis, Lower Extremity	normalName:paresis, lower extremity	normalWikiTitle:paresis, lower extremity	predictedType:Disease
+CANDIDATE	id:10291	inCount:3	outCount:1	links:	url:D010291	name:Lower Extremity Paresis	normalName:lower extremity paresis	normalWikiTitle:lower extremity paresis	predictedType:Disease
+CANDIDATE	id:10291	inCount:3	outCount:1	links:	url:D010291	name:Pareses, Lower Extremity	normalName:pareses, lower extremity	normalWikiTitle:pareses, lower extremity	predictedType:Disease
+CANDIDATE	id:10291	inCount:3	outCount:1	links:	url:D010291	name:Extremity Paresis, Lower	normalName:extremity paresis, lower	normalWikiTitle:extremity paresis, lower	predictedType:Disease
+CANDIDATE	id:10291	inCount:3	outCount:1	links:	url:D010291	name:Lower Extremity Pareses	normalName:lower extremity pareses	normalWikiTitle:lower extremity pareses	predictedType:Disease
+CANDIDATE	id:10291	inCount:3	outCount:1	links:	url:D010291	name:Extremity Pareses, Lower	normalName:extremity pareses, lower	normalWikiTitle:extremity pareses, lower	predictedType:Disease
+CANDIDATE	id:20336	inCount:6	outCount:1	links:	url:D020336	name:Spastic Lower Extremity Weakness	normalName:spastic lower extremity weakness	normalWikiTitle:spastic lower extremity weakness	predictedType:Disease
+CANDIDATE	id:20336	inCount:6	outCount:1	links:	url:D020336	name:Lower Extremity Weakness, Spastic	normalName:lower extremity weakness, spastic	normalWikiTitle:lower extremity weakness, spastic	predictedType:Disease
+CANDIDATE	id:3638	inCount:110	outCount:1	links:	url:D003638	name:Hearing Loss, Extreme	normalName:hearing loss, extreme	normalWikiTitle:hearing loss, extreme	predictedType:Disease
+ENTITY	text:tremor	normalName:tremor	predictedType:disease	q:true	qid:Q415	docId:14513889	origText:tremor	url:D014202
+CANDIDATE	id:14202	inCount:6	outCount:1	links:	url:D014202	name:Tremor	normalName:tremor	normalWikiTitle:tremor	predictedType:Disease
+ENTITY	text:dysarthria	normalName:dysarthria	predictedType:disease	q:true	qid:Q415	docId:14513889	origText:dysarthria	url:D004401
+CANDIDATE	id:4401	inCount:7	outCount:1	links:	url:D004401	name:Dysarthria	normalName:dysarthria	normalWikiTitle:dysarthria	predictedType:Disease
+ENTITY	text:adverse drug reactions	normalName:adverse drug reactions	predictedType:disease	q:true	qid:Q415	docId:14513889	origText:adverse drug reactions	url:D064420
+CANDIDATE	id:64420	inCount:10	outCount:1	links:	url:D064420	name:Adverse Drug Reaction	normalName:adverse drug reaction	normalWikiTitle:adverse drug reaction	predictedType:Disease

@@ -1,0 +1,6 @@
+ENTITY	text:hemolytic anemia	normalName:hemolytic anemia	predictedType:disease	q:true	qid:Q31	docId:15482540	origText:hemolytic anemia	url:D000743
+CANDIDATE	id:743	inCount:20	outCount:1	links:	url:D000743	name:Anemia, Hemolytic	normalName:anemia, hemolytic	normalWikiTitle:anemia, hemolytic	predictedType:Disease
+ENTITY	text:chronic hepatitis C	normalName:chronic hepatitis c	predictedType:disease	q:true	qid:Q31	docId:15482540	origText:chronic hepatitis C	url:D019698
+CANDIDATE	id:19698	inCount:0	outCount:2	links:	url:D019698	name:Hepatitis C, Chronic	normalName:hepatitis c, chronic	normalWikiTitle:hepatitis c, chronic	predictedType:Disease
+ENTITY	text:anemia	normalName:anemia	predictedType:disease	q:true	qid:Q31	docId:15482540	origText:anemia	url:D000740
+CANDIDATE	id:740	inCount:14	outCount:1	links:	url:D000740	name:Anemia	normalName:anemia	normalWikiTitle:anemia	predictedType:Disease

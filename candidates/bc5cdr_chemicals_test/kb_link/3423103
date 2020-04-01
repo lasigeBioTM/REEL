@@ -1,0 +1,8 @@
+ENTITY	text:urethane	normalName:urethane	predictedType:chemical	q:true	qid:Q141	docId:3423103	origText:urethane	url:D014520
+CANDIDATE	id:14520	inCount:20	outCount:1	links:	url:D014520	name:Urethane	normalName:urethane	normalWikiTitle:urethane	predictedType:Chemical
+ENTITY	text:5-HT	normalName:5-ht	predictedType:chemical	q:true	qid:Q141	docId:3423103	origText:5-HT	url:D012701
+CANDIDATE	id:12701	inCount:48	outCount:2	links:	url:D012701	name:5-HT	normalName:5-ht	normalWikiTitle:5-ht	predictedType:Chemical
+ENTITY	text:5,7-dihydroxytryptamine	normalName:5,7-dihydroxytryptamine	predictedType:chemical	q:true	qid:Q141	docId:3423103	origText:5,7-dihydroxytryptamine	url:D015116
+CANDIDATE	id:15116	inCount:2	outCount:1	links:	url:D015116	name:5,7-Dihydroxytryptamine	normalName:5,7-dihydroxytryptamine	normalWikiTitle:5,7-dihydroxytryptamine	predictedType:Chemical
+ENTITY	text:clonidine	normalName:clonidine	predictedType:chemical	q:true	qid:Q141	docId:3423103	origText:clonidine	url:D003000
+CANDIDATE	id:3000	inCount:39	outCount:1	links:	url:D003000	name:Clonidine	normalName:clonidine	normalWikiTitle:clonidine	predictedType:Chemical

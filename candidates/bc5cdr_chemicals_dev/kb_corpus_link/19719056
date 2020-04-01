@@ -1,0 +1,8 @@
+ENTITY	text:etodolac	normalName:etodolac	predictedType:chemical	q:true	qid:Q106	docId:19719056	origText:etodolac	url:D017308
+CANDIDATE	id:17308	inCount:5	outCount:1	links:	url:D017308	name:Etodolac	normalName:etodolac	normalWikiTitle:etodolac	predictedType:Chemical
+ENTITY	text:Dextran	normalName:dextran	predictedType:chemical	q:true	qid:Q106	docId:19719056	origText:Dextran	url:D003911
+CANDIDATE	id:3911	inCount:149	outCount:1	links:	url:D003911	name:Dextran	normalName:dextran	normalWikiTitle:dextran	predictedType:Chemical
+ENTITY	text:acetic acid	normalName:acetic acid	predictedType:chemical	q:true	qid:Q106	docId:19719056	origText:acetic acid	url:D019342
+CANDIDATE	id:19342	inCount:19	outCount:1	links:	url:D019342	name:Acetic Acid	normalName:acetic acid	normalWikiTitle:acetic acid	predictedType:Chemical
+ENTITY	text:carrageenan	normalName:carrageenan	predictedType:chemical	q:true	qid:Q106	docId:19719056	origText:carrageenan	url:D002351
+CANDIDATE	id:2351	inCount:13	outCount:1	links:	url:D002351	name:Carrageenan	normalName:carrageenan	normalWikiTitle:carrageenan	predictedType:Chemical

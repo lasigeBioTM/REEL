@@ -1,0 +1,4 @@
+ENTITY	text:calcium	normalName:calcium	predictedType:chemical	q:true	qid:Q288	docId:19154241	origText:calcium	url:D002118
+CANDIDATE	id:2118	inCount:11	outCount:2	links:8094	url:D002118	name:Calcium	normalName:calcium	normalWikiTitle:calcium	predictedType:Chemical
+ENTITY	text:lithium	normalName:lithium	predictedType:chemical	q:true	qid:Q288	docId:19154241	origText:lithium	url:D008094
+CANDIDATE	id:8094	inCount:15	outCount:2	links:2118	url:D008094	name:Lithium	normalName:lithium	normalWikiTitle:lithium	predictedType:Chemical

@@ -1,0 +1,36 @@
+ENTITY	text:panic attacks	normalName:panic attacks	predictedType:disease	q:true	qid:Q468	docId:2983630	origText:panic attacks	url:D016584
+CANDIDATE	id:16584	inCount:2	outCount:1	links:16584	url:D016584	name:Attack, Panic	normalName:attack, panic	normalWikiTitle:attack, panic	predictedType:Disease
+ENTITY	text:anxiety disorders	normalName:anxiety disorders	predictedType:disease	q:true	qid:Q468	docId:2983630	origText:anxiety disorders	url:D001008
+CANDIDATE	id:1008	inCount:7	outCount:1	links:1008	url:D001008	name:Anxiety Disorders	normalName:anxiety disorders	normalWikiTitle:anxiety disorders	predictedType:Disease
+ENTITY	text:tremors	normalName:tremors	predictedType:disease	q:true	qid:Q468	docId:2983630	origText:tremors	url:D014202
+CANDIDATE	id:14202	inCount:6	outCount:1	links:	url:D014202	name:Tremor	normalName:tremor	normalWikiTitle:tremor	predictedType:Disease
+ENTITY	text:panic disorders	normalName:panic disorders	predictedType:disease	q:true	qid:Q468	docId:2983630	origText:panic disorders	url:D016584
+CANDIDATE	id:16584	inCount:2	outCount:1	links:16584	url:D016584	name:Panic Disorder	normalName:panic disorder	normalWikiTitle:panic disorder	predictedType:Disease
+ENTITY	text:panic disorder	normalName:panic disorder	predictedType:disease	q:true	qid:Q468	docId:2983630	origText:panic disorder	url:D016584
+CANDIDATE	id:16584	inCount:2	outCount:1	links:16584	url:D016584	name:Panic Disorder	normalName:panic disorder	normalWikiTitle:panic disorder	predictedType:Disease
+ENTITY	text:anxiety	normalName:anxiety	predictedType:disease	q:true	qid:Q468	docId:2983630	origText:anxiety	url:D001008
+CANDIDATE	id:1008	inCount:7	outCount:1	links:1008	url:D001008	name:ANXIETY	normalName:anxiety	normalWikiTitle:anxiety	predictedType:Disease
+ENTITY	text:abnormalities in neuronal systems	normalName:abnormalities in neuronal systems	predictedType:disease	q:true	qid:Q468	docId:2983630	origText:abnormalities in neuronal systems	url:D009421
+CANDIDATE	id:9421	inCount:26	outCount:2	links:	url:D009421	name:Abnormality, Nervous System	normalName:abnormality, nervous system	normalWikiTitle:abnormality, nervous system	predictedType:Disease
+CANDIDATE	id:15619	inCount:12	outCount:2	links:	url:D015619	name:Respiratory System Abnormalities	normalName:respiratory system abnormalities	normalWikiTitle:respiratory system abnormalities	predictedType:Disease
+CANDIDATE	id:4065	inCount:17	outCount:2	links:	url:D004065	name:Digestive System Abnormalities	normalName:digestive system abnormalities	normalWikiTitle:digestive system abnormalities	predictedType:Disease
+CANDIDATE	id:18640	inCount:5	outCount:2	links:	url:D018640	name:Stomatognathic System Abnormalities	normalName:stomatognathic system abnormalities	normalWikiTitle:stomatognathic system abnormalities	predictedType:Disease
+CANDIDATE	id:14564	inCount:52	outCount:3	links:	url:D014564	name:Urogenital Abnormalities	normalName:urogenital abnormalities	normalWikiTitle:urogenital abnormalities	predictedType:Disease
+CANDIDATE	id:5124	inCount:75	outCount:2	links:	url:D005124	name:Eye Abnormalities	normalName:eye abnormalities	normalWikiTitle:eye abnormalities	predictedType:Disease
+CANDIDATE	id:536270	inCount:0	outCount:5	links:	url:C536270	name:Radioulnar synostosis retinal pigment abnormalities	normalName:radioulnar synostosis retinal pigment abnormalities	normalWikiTitle:radioulnar synostosis retinal pigment abnormalities	predictedType:Disease
+CANDIDATE	id:13	inCount:50	outCount:1	links:	url:D000013	name:Congenital Abnormalities	normalName:congenital abnormalities	normalWikiTitle:congenital abnormalities	predictedType:Disease
+CANDIDATE	id:9421	inCount:26	outCount:2	links:	url:D009421	name:Nervous System Malformations	normalName:nervous system malformations	normalWikiTitle:nervous system malformations	predictedType:Disease
+CANDIDATE	id:15	inCount:389	outCount:1	links:	url:D000015	name:Abnormalities, Multiple	normalName:abnormalities, multiple	normalWikiTitle:abnormalities, multiple	predictedType:Disease
+CANDIDATE	id:12868	inCount:63	outCount:2	links:	url:D012868	name:Skin Abnormalities	normalName:skin abnormalities	normalWikiTitle:skin abnormalities	predictedType:Disease
+CANDIDATE	id:9421	inCount:26	outCount:2	links:	url:D009421	name:Abnormalities, Nervous System	normalName:abnormalities, nervous system	normalWikiTitle:abnormalities, nervous system	predictedType:Disease
+CANDIDATE	id:9421	inCount:26	outCount:2	links:	url:D009421	name:Nervous System Abnormalities	normalName:nervous system abnormalities	normalWikiTitle:nervous system abnormalities	predictedType:Disease
+CANDIDATE	id:9421	inCount:26	outCount:2	links:	url:D009421	name:Abnormalities, Congenital, Nervous System	normalName:abnormalities, congenital, nervous system	normalWikiTitle:abnormalities, congenital, nervous system	predictedType:Disease
+CANDIDATE	id:9421	inCount:26	outCount:2	links:	url:D009421	name:Nervous System Congenital Abnormalities	normalName:nervous system congenital abnormalities	normalWikiTitle:nervous system congenital abnormalities	predictedType:Disease
+CANDIDATE	id:9421	inCount:26	outCount:2	links:	url:D009421	name:Nervous System Abnormality	normalName:nervous system abnormality	normalWikiTitle:nervous system abnormality	predictedType:Disease
+CANDIDATE	id:9421	inCount:26	outCount:2	links:	url:D009421	name:Congenital Abnormalities, Nervous System	normalName:congenital abnormalities, nervous system	normalWikiTitle:congenital abnormalities, nervous system	predictedType:Disease
+ENTITY	text:nausea	normalName:nausea	predictedType:disease	q:true	qid:Q468	docId:2983630	origText:nausea	url:D009325
+CANDIDATE	id:9325	inCount:2	outCount:1	links:	url:D009325	name:Nausea	normalName:nausea	normalWikiTitle:nausea	predictedType:Disease
+ENTITY	text:agoraphobia	normalName:agoraphobia	predictedType:disease	q:true	qid:Q468	docId:2983630	origText:agoraphobia	url:D000379
+CANDIDATE	id:379	inCount:0	outCount:1	links:	url:D000379	name:Agoraphobia	normalName:agoraphobia	normalWikiTitle:agoraphobia	predictedType:Disease
+ENTITY	text:restlessness	normalName:restlessness	predictedType:disease	q:true	qid:Q468	docId:2983630	origText:restlessness	url:D011595
+CANDIDATE	id:11595	inCount:1	outCount:2	links:	url:D011595	name:Restlessness	normalName:restlessness	normalWikiTitle:restlessness	predictedType:Disease

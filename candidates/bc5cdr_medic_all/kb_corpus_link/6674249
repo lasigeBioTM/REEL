@@ -1,0 +1,13 @@
+ENTITY	text:myopathy	normalName:myopathy	predictedType:disease	q:true	qid:Q746	docId:6674249	origText:myopathy	url:D009135
+CANDIDATE	id:9135	inCount:77	outCount:2	links:20300;13345	url:D009135	name:Myopathy	normalName:myopathy	normalWikiTitle:myopathy	predictedType:Disease
+ENTITY	text:subarachnoid haemorrhage	normalName:subarachnoid haemorrhage	predictedType:disease	q:true	qid:Q746	docId:6674249	origText:subarachnoid haemorrhage	url:D013345
+CANDIDATE	id:13345	inCount:7	outCount:1	links:9135	url:D013345	name:Subarachnoid Hemorrhage	normalName:subarachnoid hemorrhage	normalWikiTitle:subarachnoid hemorrhage	predictedType:Disease
+CANDIDATE	id:20206	inCount:0	outCount:3	links:	url:D020206	name:Subarachnoid Hemorrhage, Traumatic	normalName:subarachnoid hemorrhage, traumatic	normalWikiTitle:subarachnoid hemorrhage, traumatic	predictedType:Disease
+CANDIDATE	id:20300	inCount:7	outCount:2	links:9135	url:D020300	name:Intracranial Hemorrhages	normalName:intracranial hemorrhages	normalWikiTitle:intracranial hemorrhages	predictedType:Disease
+CANDIDATE	id:14592	inCount:3	outCount:2	links:	url:D014592	name:Uterine Hemorrhage	normalName:uterine hemorrhage	normalWikiTitle:uterine hemorrhage	predictedType:Disease
+CANDIDATE	id:6472	inCount:1	outCount:3	links:	url:D006472	name:Oral Hemorrhage	normalName:oral hemorrhage	normalWikiTitle:oral hemorrhage	predictedType:Disease
+CANDIDATE	id:19315	inCount:0	outCount:2	links:	url:D019315	name:Retrobulbar Hemorrhage	normalName:retrobulbar hemorrhage	normalWikiTitle:retrobulbar hemorrhage	predictedType:Disease
+CANDIDATE	id:20146	inCount:0	outCount:1	links:	url:D020146	name:Putaminal Hemorrhage	normalName:putaminal hemorrhage	normalWikiTitle:putaminal hemorrhage	predictedType:Disease
+CANDIDATE	id:12771	inCount:0	outCount:2	links:	url:D012771	name:Shock, Hemorrhagic	normalName:shock, hemorrhagic	normalWikiTitle:shock, hemorrhagic	predictedType:Disease
+CANDIDATE	id:12166	inCount:3	outCount:2	links:	url:D012166	name:Retinal Hemorrhage	normalName:retinal hemorrhage	normalWikiTitle:retinal hemorrhage	predictedType:Disease
+CANDIDATE	id:6473	inCount:0	outCount:3	links:	url:D006473	name:Postpartum Hemorrhage	normalName:postpartum hemorrhage	normalWikiTitle:postpartum hemorrhage	predictedType:Disease

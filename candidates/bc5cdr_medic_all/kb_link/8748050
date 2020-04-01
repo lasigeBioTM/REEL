@@ -1,0 +1,8 @@
+ENTITY	text:unipolar depression	normalName:unipolar depression	predictedType:disease	q:true	qid:Q860	docId:8748050	origText:unipolar depression	url:D003866
+CANDIDATE	id:3866	inCount:6	outCount:1	links:	url:D003866	name:Unipolar Depression	normalName:unipolar depression	normalWikiTitle:unipolar depression	predictedType:Disease
+ENTITY	text:Encephalopathy	normalName:encephalopathy	predictedType:disease	q:true	qid:Q860	docId:8748050	origText:Encephalopathy	url:D001927
+CANDIDATE	id:1927	inCount:55	outCount:1	links:	url:D001927	name:Encephalopathy	normalName:encephalopathy	normalWikiTitle:encephalopathy	predictedType:Disease
+ENTITY	text:neuroleptic malignant syndrome	normalName:neuroleptic malignant syndrome	predictedType:disease	q:true	qid:Q860	docId:8748050	origText:neuroleptic malignant syndrome	url:D009459
+CANDIDATE	id:9459	inCount:0	outCount:2	links:	url:D009459	name:Neuroleptic Malignant Syndrome	normalName:neuroleptic malignant syndrome	normalWikiTitle:neuroleptic malignant syndrome	predictedType:Disease
+ENTITY	text:serotonin syndrome	normalName:serotonin syndrome	predictedType:disease	q:true	qid:Q860	docId:8748050	origText:serotonin syndrome	url:D020230
+CANDIDATE	id:20230	inCount:0	outCount:1	links:	url:D020230	name:Serotonin Syndrome	normalName:serotonin syndrome	normalWikiTitle:serotonin syndrome	predictedType:Disease

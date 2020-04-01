@@ -1,0 +1,28 @@
+ENTITY	text:involuntary eye-blinking movements	normalName:involuntary eye-blinking movements	predictedType:disease	q:true	qid:Q1392	docId:16225977	origText:involuntary eye-blinking movements	url:D020820
+CANDIDATE	id:20820	inCount:25	outCount:2	links:	url:D020820	name:Movement, Involuntary	normalName:movement, involuntary	normalWikiTitle:movement, involuntary	predictedType:Disease
+CANDIDATE	id:616059	inCount:0	outCount:1	links:	url:616059	name:MIRROR MOVEMENTS 3	normalName:mirror movements 3	normalWikiTitle:mirror movements 3	predictedType:Disease
+CANDIDATE	id:157600	inCount:0	outCount:1	links:	url:157600	name:MIRROR MOVEMENTS 1	normalName:mirror movements 1	normalWikiTitle:mirror movements 1	predictedType:Disease
+CANDIDATE	id:614508	inCount:0	outCount:1	links:	url:614508	name:MIRROR MOVEMENTS 2	normalName:mirror movements 2	normalWikiTitle:mirror movements 2	predictedType:Disease
+CANDIDATE	id:562908	inCount:0	outCount:1	links:	url:C562908	name:Telangiectasia, Hereditary Benign	normalName:telangiectasia, hereditary benign	normalWikiTitle:telangiectasia, hereditary benign	predictedType:Disease
+CANDIDATE	id:20820	inCount:25	outCount:2	links:	url:D020820	name:Movements, Involuntary	normalName:movements, involuntary	normalWikiTitle:movements, involuntary	predictedType:Disease
+CANDIDATE	id:20820	inCount:25	outCount:2	links:	url:D020820	name:Involuntary Movements	normalName:involuntary movements	normalWikiTitle:involuntary movements	predictedType:Disease
+CANDIDATE	id:20820	inCount:25	outCount:2	links:	url:D020820	name:Involuntary Movement	normalName:involuntary movement	normalWikiTitle:involuntary movement	predictedType:Disease
+CANDIDATE	id:14202	inCount:6	outCount:1	links:	url:D014202	name:Quivers, Involuntary	normalName:quivers, involuntary	normalWikiTitle:quivers, involuntary	predictedType:Disease
+CANDIDATE	id:14202	inCount:6	outCount:1	links:	url:D014202	name:Involuntary Quivers	normalName:involuntary quivers	normalWikiTitle:involuntary quivers	predictedType:Disease
+CANDIDATE	id:157600	inCount:0	outCount:1	links:	url:157600	name:MIRROR MOVEMENTS, CONGENITAL	normalName:mirror movements, congenital	normalWikiTitle:mirror movements, congenital	predictedType:Disease
+CANDIDATE	id:20920	inCount:3	outCount:1	links:	url:D020920	name:Eating-Drinking Syndromes, Nocturnal	normalName:eating-drinking syndromes, nocturnal	normalWikiTitle:eating-drinking syndromes, nocturnal	predictedType:Disease
+CANDIDATE	id:3811	inCount:6	outCount:1	links:	url:D003811	name:Opalescent Dentin, Hereditary	normalName:opalescent dentin, hereditary	normalWikiTitle:opalescent dentin, hereditary	predictedType:Disease
+CANDIDATE	id:20920	inCount:3	outCount:1	links:	url:D020920	name:Nocturnal Eating-Drinking Syndromes	normalName:nocturnal eating-drinking syndromes	normalWikiTitle:nocturnal eating-drinking syndromes	predictedType:Disease
+ENTITY	text:schizophrenic	normalName:schizophrenic	predictedType:disease	q:true	qid:Q1392	docId:16225977	origText:schizophrenic	url:D012559
+CANDIDATE	id:12559	inCount:4	outCount:1	links:	url:D012559	name:Schizophrenia	normalName:schizophrenia	normalWikiTitle:schizophrenia	predictedType:Disease
+CANDIDATE	id:12563	inCount:0	outCount:1	links:	url:D012563	name:Schizophrenia, Paranoid	normalName:schizophrenia, paranoid	normalWikiTitle:schizophrenia, paranoid	predictedType:Disease
+CANDIDATE	id:12561	inCount:0	outCount:1	links:	url:D012561	name:Schizophrenia, Childhood	normalName:schizophrenia, childhood	normalWikiTitle:schizophrenia, childhood	predictedType:Disease
+CANDIDATE	id:12560	inCount:0	outCount:1	links:	url:D012560	name:Schizophrenia, Catatonic	normalName:schizophrenia, catatonic	normalWikiTitle:schizophrenia, catatonic	predictedType:Disease
+CANDIDATE	id:12562	inCount:0	outCount:1	links:	url:D012562	name:Schizophrenia, Disorganized	normalName:schizophrenia, disorganized	normalWikiTitle:schizophrenia, disorganized	predictedType:Disease
+CANDIDATE	id:55948	inCount:0	outCount:1	links:	url:D055948	name:Sarcopenia	normalName:sarcopenia	normalWikiTitle:sarcopenia	predictedType:Disease
+CANDIDATE	id:65707	inCount:0	outCount:1	links:	url:D065707	name:Schizencephaly	normalName:schizencephaly	normalWikiTitle:schizencephaly	predictedType:Disease
+CANDIDATE	id:13369	inCount:0	outCount:2	links:	url:D013369	name:Subphrenic Abscess	normalName:subphrenic abscess	normalWikiTitle:subphrenic abscess	predictedType:Disease
+CANDIDATE	id:536634	inCount:0	outCount:1	links:	url:C536634	name:Schizotaxia	normalName:schizotaxia	normalWikiTitle:schizotaxia	predictedType:Disease
+CANDIDATE	id:2825	inCount:1	outCount:2	links:	url:D002825	name:Chorioretinitis	normalName:chorioretinitis	normalWikiTitle:chorioretinitis	predictedType:Disease
+ENTITY	text:Tic disorders	normalName:tic disorders	predictedType:disease	q:true	qid:Q1392	docId:16225977	origText:Tic disorders	url:D013981
+CANDIDATE	id:13981	inCount:1	outCount:2	links:	url:D013981	name:Tic Disorders	normalName:tic disorders	normalWikiTitle:tic disorders	predictedType:Disease

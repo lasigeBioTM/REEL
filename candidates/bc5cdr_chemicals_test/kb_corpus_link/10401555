@@ -1,0 +1,8 @@
+ENTITY	text:Nociceptin	normalName:nociceptin	predictedType:chemical	q:true	qid:Q158	docId:10401555	origText:Nociceptin	url:C096012
+CANDIDATE	id:96012	inCount:0	outCount:1	links:96012	url:C096012	name:nociceptin	normalName:nociceptin	normalWikiTitle:nociceptin	predictedType:Chemical
+ENTITY	text:orphanin FQ	normalName:orphanin fq	predictedType:chemical	q:true	qid:Q158	docId:10401555	origText:orphanin FQ	url:C096012
+CANDIDATE	id:96012	inCount:0	outCount:1	links:96012	url:C096012	name:orphanin FQ	normalName:orphanin fq	normalWikiTitle:orphanin fq	predictedType:Chemical
+ENTITY	text:scopolamine	normalName:scopolamine	predictedType:chemical	q:true	qid:Q158	docId:10401555	origText:scopolamine	url:D012601
+CANDIDATE	id:12601	inCount:3	outCount:2	links:	url:D012601	name:Scopolamine	normalName:scopolamine	normalWikiTitle:scopolamine	predictedType:Chemical
+ENTITY	text:nocistatin	normalName:nocistatin	predictedType:chemical	q:true	qid:Q158	docId:10401555	origText:nocistatin	url:C111148
+CANDIDATE	id:111148	inCount:0	outCount:1	links:	url:C111148	name:nocistatin	normalName:nocistatin	normalWikiTitle:nocistatin	predictedType:Chemical

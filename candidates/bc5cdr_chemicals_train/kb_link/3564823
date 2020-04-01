@@ -1,0 +1,18 @@
+ENTITY	text:lidocaine	normalName:lidocaine	predictedType:chemical	q:true	qid:Q311	docId:3564823	origText:lidocaine	url:D008012
+CANDIDATE	id:8012	inCount:68	outCount:1	links:	url:D008012	name:Lidocaine	normalName:lidocaine	normalWikiTitle:lidocaine	predictedType:Chemical
+ENTITY	text:sodium pentothal	normalName:sodium pentothal	predictedType:chemical	q:true	qid:Q311	docId:3564823	origText:sodium pentothal	url:D013874
+CANDIDATE	id:13874	inCount:3	outCount:1	links:	url:D013874	name:Pentothal Sodico	normalName:pentothal sodico	normalWikiTitle:pentothal sodico	predictedType:Chemical
+CANDIDATE	id:538809	inCount:0	outCount:1	links:	url:C538809	name:sodium pentaborate	normalName:sodium pentaborate	normalWikiTitle:sodium pentaborate	predictedType:Chemical
+CANDIDATE	id:546253	inCount:0	outCount:1	links:	url:C546253	name:sodium phenothiazinate	normalName:sodium phenothiazinate	normalWikiTitle:sodium phenothiazinate	predictedType:Chemical
+CANDIDATE	id:20160	inCount:1	outCount:1	links:	url:D020160	name:Sodium Benzoate	normalName:sodium benzoate	normalWikiTitle:sodium benzoate	predictedType:Chemical
+CANDIDATE	id:27707	inCount:0	outCount:1	links:	url:C027707	name:sodium perborate	normalName:sodium perborate	normalWikiTitle:sodium perborate	predictedType:Chemical
+CANDIDATE	id:18279	inCount:0	outCount:1	links:	url:C018279	name:sodium phosphate	normalName:sodium phosphate	normalWikiTitle:sodium phosphate	predictedType:Chemical
+CANDIDATE	id:75323	inCount:0	outCount:2	links:	url:C075323	name:sodium perbromate	normalName:sodium perbromate	normalWikiTitle:sodium perbromate	predictedType:Chemical
+CANDIDATE	id:34426	inCount:0	outCount:1	links:	url:C034426	name:sodium antimonate	normalName:sodium antimonate	normalWikiTitle:sodium antimonate	predictedType:Chemical
+CANDIDATE	id:19346	inCount:4	outCount:1	links:	url:D019346	name:Sodium Acetate	normalName:sodium acetate	normalWikiTitle:sodium acetate	predictedType:Chemical
+CANDIDATE	id:11058	inCount:0	outCount:1	links:	url:C011058	name:pentafluorostannite sodium	normalName:pentafluorostannite sodium	normalWikiTitle:pentafluorostannite sodium	predictedType:Chemical
+CANDIDATE	id:31618	inCount:0	outCount:1	links:	url:C031618	name:sodium nitrate	normalName:sodium nitrate	normalWikiTitle:sodium nitrate	predictedType:Chemical
+CANDIDATE	id:10424	inCount:10	outCount:1	links:	url:D010424	name:Pentobarbital Sodium	normalName:pentobarbital sodium	normalWikiTitle:pentobarbital sodium	predictedType:Chemical
+CANDIDATE	id:10634	inCount:50	outCount:1	links:	url:D010634	name:Phenobarbital Sodium	normalName:phenobarbital sodium	normalWikiTitle:phenobarbital sodium	predictedType:Chemical
+CANDIDATE	id:10634	inCount:50	outCount:1	links:	url:D010634	name:Sodium, Phenobarbital	normalName:sodium, phenobarbital	normalWikiTitle:sodium, phenobarbital	predictedType:Chemical
+CANDIDATE	id:10308	inCount:0	outCount:1	links:	url:C010308	name:enibomal sodium	normalName:enibomal sodium	normalWikiTitle:enibomal sodium	predictedType:Chemical

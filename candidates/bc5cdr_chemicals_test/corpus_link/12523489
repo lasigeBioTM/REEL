@@ -1,0 +1,33 @@
+ENTITY	text:amphetamine	normalName:amphetamine	predictedType:chemical	q:true	qid:Q257	docId:12523489	origText:amphetamine	url:D000661
+CANDIDATE	id:661	inCount:1	outCount:1	links:57837;3042;2110	url:D000661	name:Amphetamine	normalName:amphetamine	normalWikiTitle:amphetamine	predictedType:Chemical
+ENTITY	text:adenosine	normalName:adenosine	predictedType:chemical	q:true	qid:Q257	docId:12523489	origText:adenosine	url:D000241
+CANDIDATE	id:241	inCount:475	outCount:2	links:	url:D000241	name:Adenosine	normalName:adenosine	normalWikiTitle:adenosine	predictedType:Chemical
+ENTITY	text:DMPX	normalName:dmpx	predictedType:chemical	q:true	qid:Q257	docId:12523489	origText:DMPX	url:C057837
+CANDIDATE	id:57837	inCount:0	outCount:1	links:661;3042	url:C057837	name:DMPX	normalName:dmpx	normalWikiTitle:dmpx	predictedType:Chemical
+ENTITY	text:Caffeine	normalName:caffeine	predictedType:chemical	q:true	qid:Q257	docId:12523489	origText:Caffeine	url:D002110
+CANDIDATE	id:2110	inCount:80	outCount:1	links:661;3042	url:D002110	name:Caffeine	normalName:caffeine	normalWikiTitle:caffeine	predictedType:Chemical
+ENTITY	text:CGS 21680	normalName:cgs 21680	predictedType:chemical	q:true	qid:Q257	docId:12523489	origText:CGS 21680	url:C061282
+CANDIDATE	id:61282	inCount:0	outCount:2	links:	url:C061282	name:CGS 21680	normalName:cgs 21680	normalWikiTitle:cgs 21680	predictedType:Chemical
+ENTITY	text:8-cyclopentyltheophylline	normalName:8-cyclopentyltheophylline	predictedType:chemical	q:true	qid:Q257	docId:12523489	origText:8-cyclopentyltheophylline	url:C053907
+CANDIDATE	id:53907	inCount:0	outCount:1	links:	url:C053907	name:8-cyclopentyltheophylline	normalName:8-cyclopentyltheophylline	normalWikiTitle:8-cyclopentyltheophylline	predictedType:Chemical
+ENTITY	text:5'-N-ethylcarboxamidoadenosine	normalName:5'-n-ethylcarboxamidoadenosine	predictedType:chemical	q:true	qid:Q257	docId:12523489	origText:5'-N-ethylcarboxamidoadenosine	url:D019830
+CANDIDATE	id:19830	inCount:4	outCount:1	links:	url:D019830	name:5' N Ethylcarboxamidoadenosine	normalName:5' n ethylcarboxamidoadenosine	normalWikiTitle:5' n ethylcarboxamidoadenosine	predictedType:Chemical
+ENTITY	text:N6-cyclopentyladenosine	normalName:n6-cyclopentyladenosine	predictedType:chemical	q:true	qid:Q257	docId:12523489	origText:N6-cyclopentyladenosine	url:C048599
+CANDIDATE	id:48599	inCount:0	outCount:1	links:	url:C048599	name:N6-cyclopentyladenosine	normalName:n6-cyclopentyladenosine	normalWikiTitle:n6-cyclopentyladenosine	predictedType:Chemical
+ENTITY	text:Cocaine	normalName:cocaine	predictedType:chemical	q:true	qid:Q257	docId:12523489	origText:Cocaine	url:D003042
+CANDIDATE	id:3042	inCount:89	outCount:1	links:661;57837;2110	url:D003042	name:Cocaine	normalName:cocaine	normalWikiTitle:cocaine	predictedType:Chemical
+ENTITY	text:NECA	normalName:neca	predictedType:chemical	q:true	qid:Q257	docId:12523489	origText:NECA	url:D019830
+CANDIDATE	id:19830	inCount:4	outCount:1	links:	url:D019830	name:NECA	normalName:neca	normalWikiTitle:neca	predictedType:Chemical
+ENTITY	text:2-p-(2-carboxyethyl)phenethylamino-5'-N-ethylcarboxamidoadenosine	normalName:2-p-(2-carboxyethyl)phenethylamino-5'-n-ethylcarboxamidoadenosine	predictedType:chemical	q:true	qid:Q257	docId:12523489	origText:2-p-(2-carboxyethyl)phenethylamino-5'-N-ethylcarboxamidoadenosine	url:C061282
+CANDIDATE	id:61282	inCount:0	outCount:2	links:	url:C061282	name:2-(4-(2-carboxyethyl)phenethylamino)-5'-N-ethylcarboxamidoadenosine	normalName:2-(4-(2-carboxyethyl)phenethylamino)-5'-n-ethylcarboxamidoadenosine	normalWikiTitle:2-(4-(2-carboxyethyl)phenethylamino)-5'-n-ethylcarboxamidoadenosine	predictedType:Chemical
+CANDIDATE	id:61281	inCount:0	outCount:2	links:	url:C061281	name:2-phenethylamino-5'-N-ethylcarboxamidoadenosine	normalName:2-phenethylamino-5'-n-ethylcarboxamidoadenosine	normalWikiTitle:2-phenethylamino-5'-n-ethylcarboxamidoadenosine	predictedType:Chemical
+CANDIDATE	id:572126	inCount:0	outCount:2	links:	url:C572126	name:5'-N-ethylcarboxamido-2-(2-phenethylthio)adenosine	normalName:5'-n-ethylcarboxamido-2-(2-phenethylthio)adenosine	normalWikiTitle:5'-n-ethylcarboxamido-2-(2-phenethylthio)adenosine	predictedType:Chemical
+CANDIDATE	id:26371	inCount:0	outCount:1	links:	url:C026371	name:5'-O-(2-carboxyethyl)phosphono-1-(2-carboxyethyl)deoxyadenosine	normalName:5'-o-(2-carboxyethyl)phosphono-1-(2-carboxyethyl)deoxyadenosine	normalWikiTitle:5'-o-(2-carboxyethyl)phosphono-1-(2-carboxyethyl)deoxyadenosine	predictedType:Chemical
+CANDIDATE	id:409723	inCount:0	outCount:1	links:	url:C409723	name:N(6)-benzyl-5'-N-ethylcarboxamidoadenosine	normalName:n(6)-benzyl-5'-n-ethylcarboxamidoadenosine	normalWikiTitle:n(6)-benzyl-5'-n-ethylcarboxamidoadenosine	predictedType:Chemical
+CANDIDATE	id:87339	inCount:0	outCount:1	links:	url:C087339	name:N(6)-(4-amino-3-iodophenyl)methyl-5'-N-methylcarboxamidoadenosine	normalName:n(6)-(4-amino-3-iodophenyl)methyl-5'-n-methylcarboxamidoadenosine	normalWikiTitle:n(6)-(4-amino-3-iodophenyl)methyl-5'-n-methylcarboxamidoadenosine	predictedType:Chemical
+CANDIDATE	id:82039	inCount:0	outCount:2	links:	url:C082039	name:4-isothiocyanatophenylaminothiocarbonyl-2-((2-aminoethylaminocarbonylethyl)phenylethylamino)-5'-N-ethylcarboxamidoadenosine	normalName:4-isothiocyanatophenylaminothiocarbonyl-2-((2-aminoethylaminocarbonylethyl)phenylethylamino)-5'-n-ethylcarboxamidoadenosine	normalWikiTitle:4-isothiocyanatophenylaminothiocarbonyl-2-((2-aminoethylaminocarbonylethyl)phenylethylamino)-5'-n-ethylcarboxamidoadenosine	predictedType:Chemical
+CANDIDATE	id:84956	inCount:0	outCount:1	links:	url:C084956	name:N(6)-(3-iodobenzyl)-5'-N-methylcarboxamidoadenosine	normalName:n(6)-(3-iodobenzyl)-5'-n-methylcarboxamidoadenosine	normalWikiTitle:n(6)-(3-iodobenzyl)-5'-n-methylcarboxamidoadenosine	predictedType:Chemical
+CANDIDATE	id:527152	inCount:0	outCount:1	links:	url:C527152	name:2'-O-carbomoylmethyladenosine 3'-(thymidine 5'-phosphate)	normalName:2'-o-carbomoylmethyladenosine 3'-(thymidine 5'-phosphate)	normalWikiTitle:2'-o-carbomoylmethyladenosine 3'-(thymidine 5'-phosphate)	predictedType:Chemical
+CANDIDATE	id:101938	inCount:0	outCount:1	links:	url:C101938	name:N6-benzyl-5'-N-ethyl-carboxyamidoadenosine	normalName:n6-benzyl-5'-n-ethyl-carboxyamidoadenosine	normalWikiTitle:n6-benzyl-5'-n-ethyl-carboxyamidoadenosine	predictedType:Chemical
+ENTITY	text:3,7-dimethyl-1-propargylxanthine	normalName:3,7-dimethyl-1-propargylxanthine	predictedType:chemical	q:true	qid:Q257	docId:12523489	origText:3,7-dimethyl-1-propargylxanthine	url:C057837
+CANDIDATE	id:57837	inCount:0	outCount:1	links:661;3042	url:C057837	name:3,7-dimethyl-1-propargylxanthine	normalName:3,7-dimethyl-1-propargylxanthine	normalWikiTitle:3,7-dimethyl-1-propargylxanthine	predictedType:Chemical

@@ -1,0 +1,6 @@
+ENTITY	text:poisoning	normalName:poisoning	predictedType:disease	q:true	qid:Q325	docId:24840785	origText:poisoning	url:D011041
+CANDIDATE	id:11041	inCount:14	outCount:1	links:66126;1145	url:D011041	name:Poisoning	normalName:poisoning	normalWikiTitle:poisoning	predictedType:Disease
+ENTITY	text:arrhythmia	normalName:arrhythmia	predictedType:disease	q:true	qid:Q325	docId:24840785	origText:arrhythmia	url:D001145
+CANDIDATE	id:1145	inCount:27	outCount:2	links:66126;11041	url:D001145	name:Arrhythmia	normalName:arrhythmia	normalWikiTitle:arrhythmia	predictedType:Disease
+ENTITY	text:cardiotoxicity	normalName:cardiotoxicity	predictedType:disease	q:true	qid:Q325	docId:24840785	origText:cardiotoxicity	url:D066126
+CANDIDATE	id:66126	inCount:0	outCount:3	links:11041;1145	url:D066126	name:Cardiotoxicity	normalName:cardiotoxicity	normalWikiTitle:cardiotoxicity	predictedType:Disease

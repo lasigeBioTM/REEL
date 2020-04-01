@@ -1,0 +1,50 @@
+ENTITY	text:seizures	normalName:seizures	predictedType:disease	q:true	qid:Q147	docId:1756784	origText:seizures	url:D012640
+CANDIDATE	id:12640	inCount:53	outCount:1	links:	url:D012640	name:Seizure	normalName:seizure	normalWikiTitle:seizure	predictedType:Disease
+ENTITY	text:prolonged status epilepticus	normalName:prolonged status epilepticus	predictedType:disease	q:true	qid:Q147	docId:1756784	origText:prolonged status epilepticus	url:D013226
+CANDIDATE	id:13226	inCount:1	outCount:1	links:13226	url:D013226	name:Grand Mal Status Epilepticus	normalName:grand mal status epilepticus	normalWikiTitle:grand mal status epilepticus	predictedType:Disease
+CANDIDATE	id:13226	inCount:1	outCount:1	links:13226	url:D013226	name:Status Epilepticus	normalName:status epilepticus	normalWikiTitle:status epilepticus	predictedType:Disease
+CANDIDATE	id:73376	inCount:9	outCount:1	links:	url:D000073376	name:Epileptic Syndromes	normalName:epileptic syndromes	normalWikiTitle:epileptic syndromes	predictedType:Disease
+CANDIDATE	id:535497	inCount:0	outCount:4	links:	url:C535497	name:Epilepsy telangiectasia	normalName:epilepsy telangiectasia	normalWikiTitle:epilepsy telangiectasia	predictedType:Disease
+CANDIDATE	id:19305	inCount:3	outCount:2	links:	url:D019305	name:Epilepsy, Rolandic	normalName:epilepsy, rolandic	normalWikiTitle:epilepsy, rolandic	predictedType:Disease
+CANDIDATE	id:4828	inCount:9	outCount:1	links:	url:D004828	name:Epilepsies, Partial	normalName:epilepsies, partial	normalWikiTitle:epilepsies, partial	predictedType:Disease
+CANDIDATE	id:20191	inCount:10	outCount:1	links:	url:D020191	name:Myoclonic Epilepsies, Progressive	normalName:myoclonic epilepsies, progressive	normalWikiTitle:myoclonic epilepsies, progressive	predictedType:Disease
+CANDIDATE	id:4833	inCount:9	outCount:2	links:	url:D004833	name:Epilepsy, Temporal Lobe	normalName:epilepsy, temporal lobe	normalWikiTitle:epilepsy, temporal lobe	predictedType:Disease
+CANDIDATE	id:4834	inCount:0	outCount:2	links:	url:D004834	name:Epilepsy, Post-Traumatic	normalName:epilepsy, post-traumatic	normalWikiTitle:epilepsy, post-traumatic	predictedType:Disease
+CANDIDATE	id:69279	inCount:0	outCount:1	links:	url:D000069279	name:Drug Resistant Epilepsy	normalName:drug resistant epilepsy	normalWikiTitle:drug resistant epilepsy	predictedType:Disease
+CANDIDATE	id:11273	inCount:0	outCount:1	links:	url:D011273	name:Pregnancy, Prolonged	normalName:pregnancy, prolonged	normalWikiTitle:pregnancy, prolonged	predictedType:Disease
+CANDIDATE	id:13226	inCount:1	outCount:1	links:13226	url:D013226	name:Status Epilepticus, Generalized	normalName:status epilepticus, generalized	normalWikiTitle:status epilepticus, generalized	predictedType:Disease
+CANDIDATE	id:13226	inCount:1	outCount:1	links:13226	url:D013226	name:Generalized Status Epilepticus	normalName:generalized status epilepticus	normalWikiTitle:generalized status epilepticus	predictedType:Disease
+CANDIDATE	id:13226	inCount:1	outCount:1	links:13226	url:D013226	name:Status Epilepticus, Grand Mal	normalName:status epilepticus, grand mal	normalWikiTitle:status epilepticus, grand mal	predictedType:Disease
+ENTITY	text:status epilepticus	normalName:status epilepticus	predictedType:disease	q:true	qid:Q147	docId:1756784	origText:status epilepticus	url:D013226
+CANDIDATE	id:13226	inCount:1	outCount:1	links:13226	url:D013226	name:Status Epilepticus	normalName:status epilepticus	normalWikiTitle:status epilepticus	predictedType:Disease
+ENTITY	text:metabolic derangement	normalName:metabolic derangement	predictedType:disease	q:true	qid:Q147	docId:1756784	origText:metabolic derangement	url:D008659
+CANDIDATE	id:8659	inCount:23	outCount:1	links:	url:D008659	name:Metabolic Disease	normalName:metabolic disease	normalWikiTitle:metabolic disease	predictedType:Disease
+CANDIDATE	id:8659	inCount:23	outCount:1	links:	url:D008659	name:Metabolic Diseases	normalName:metabolic diseases	normalWikiTitle:metabolic diseases	predictedType:Disease
+CANDIDATE	id:1928	inCount:15	outCount:2	links:	url:D001928	name:Brain Diseases, Metabolic	normalName:brain diseases, metabolic	normalWikiTitle:brain diseases, metabolic	predictedType:Disease
+CANDIDATE	id:1851	inCount:14	outCount:2	links:	url:D001851	name:Bone Diseases, Metabolic	normalName:bone diseases, metabolic	normalWikiTitle:bone diseases, metabolic	predictedType:Disease
+CANDIDATE	id:12875	inCount:2	outCount:2	links:	url:D012875	name:Skin Diseases, Metabolic	normalName:skin diseases, metabolic	normalWikiTitle:skin diseases, metabolic	predictedType:Disease
+CANDIDATE	id:12163	inCount:10	outCount:1	links:	url:D012163	name:Retinal Detachment	normalName:retinal detachment	normalWikiTitle:retinal detachment	predictedType:Disease
+CANDIDATE	id:20739	inCount:39	outCount:2	links:	url:D020739	name:Brain Diseases, Metabolic, Inborn	normalName:brain diseases, metabolic, inborn	normalWikiTitle:brain diseases, metabolic, inborn	predictedType:Disease
+CANDIDATE	id:537840	inCount:0	outCount:1	links:	url:C537840	name:Mal de debarquement	normalName:mal de debarquement	normalWikiTitle:mal de debarquement	predictedType:Disease
+CANDIDATE	id:749	inCount:8	outCount:1	links:	url:D000749	name:Anemia, Megaloblastic	normalName:anemia, megaloblastic	normalWikiTitle:anemia, megaloblastic	predictedType:Disease
+CANDIDATE	id:8661	inCount:143	outCount:2	links:	url:D008661	name:Metabolism, Inborn Errors	normalName:metabolism, inborn errors	normalWikiTitle:metabolism, inborn errors	predictedType:Disease
+CANDIDATE	id:565742	inCount:0	outCount:2	links:	url:C565742	name:Hyaluronan Metabolism, Defect in	normalName:hyaluronan metabolism, defect in	normalWikiTitle:hyaluronan metabolism, defect in	predictedType:Disease
+CANDIDATE	id:8659	inCount:23	outCount:1	links:	url:D008659	name:Disease, Metabolic	normalName:disease, metabolic	normalWikiTitle:disease, metabolic	predictedType:Disease
+ENTITY	text:vasogenic edema	normalName:vasogenic edema	predictedType:disease	q:true	qid:Q147	docId:1756784	origText:vasogenic edema	url:D001929
+CANDIDATE	id:1929	inCount:2	outCount:1	links:	url:D001929	name:Cerebral Edemas, Vasogenic	normalName:cerebral edemas, vasogenic	normalWikiTitle:cerebral edemas, vasogenic	predictedType:Disease
+CANDIDATE	id:7049	inCount:1	outCount:1	links:	url:D007049	name:Iatrogenic Disease	normalName:iatrogenic disease	normalWikiTitle:iatrogenic disease	predictedType:Disease
+CANDIDATE	id:18783	inCount:0	outCount:1	links:	url:D018783	name:Impotence, Vasculogenic	normalName:impotence, vasculogenic	normalWikiTitle:impotence, vasculogenic	predictedType:Disease
+CANDIDATE	id:7819	inCount:0	outCount:1	links:	url:D007819	name:Laryngeal Edema	normalName:laryngeal edema	normalWikiTitle:laryngeal edema	predictedType:Disease
+CANDIDATE	id:538167	inCount:0	outCount:1	links:	url:C538167	name:Acidemia, isovaleric	normalName:acidemia, isovaleric	normalWikiTitle:acidemia, isovaleric	predictedType:Disease
+CANDIDATE	id:13158	inCount:7	outCount:1	links:	url:D013158	name:Splenic Diseases	normalName:splenic diseases	normalWikiTitle:splenic diseases	predictedType:Disease
+CANDIDATE	id:237	inCount:0	outCount:2	links:	url:D000237	name:Adenoma, Basophil	normalName:adenoma, basophil	normalWikiTitle:adenoma, basophil	predictedType:Disease
+CANDIDATE	id:8269	inCount:0	outCount:1	links:	url:D008269	name:Macular Edema	normalName:macular edema	normalWikiTitle:macular edema	predictedType:Disease
+CANDIDATE	id:12595	inCount:6	outCount:2	links:	url:D012595	name:Scleroderma, Systemic	normalName:scleroderma, systemic	normalWikiTitle:scleroderma, systemic	predictedType:Disease
+CANDIDATE	id:15140	inCount:2	outCount:4	links:	url:D015140	name:Dementia, Vascular	normalName:dementia, vascular	normalWikiTitle:dementia, vascular	predictedType:Disease
+CANDIDATE	id:563952	inCount:0	outCount:1	links:	url:C563952	name:Succinic Acidemia	normalName:succinic acidemia	normalWikiTitle:succinic acidemia	predictedType:Disease
+CANDIDATE	id:1929	inCount:2	outCount:1	links:	url:D001929	name:Edema, Vasogenic Brain	normalName:edema, vasogenic brain	normalWikiTitle:edema, vasogenic brain	predictedType:Disease
+CANDIDATE	id:1929	inCount:2	outCount:1	links:	url:D001929	name:Vasogenic Brain Edema	normalName:vasogenic brain edema	normalWikiTitle:vasogenic brain edema	predictedType:Disease
+CANDIDATE	id:1929	inCount:2	outCount:1	links:	url:D001929	name:Brain Edema, Vasogenic	normalName:brain edema, vasogenic	normalWikiTitle:brain edema, vasogenic	predictedType:Disease
+CANDIDATE	id:1929	inCount:2	outCount:1	links:	url:D001929	name:Vasogenic Cerebral Edema	normalName:vasogenic cerebral edema	normalWikiTitle:vasogenic cerebral edema	predictedType:Disease
+CANDIDATE	id:1929	inCount:2	outCount:1	links:	url:D001929	name:Edema, Vasogenic Cerebral	normalName:edema, vasogenic cerebral	normalWikiTitle:edema, vasogenic cerebral	predictedType:Disease
+CANDIDATE	id:1929	inCount:2	outCount:1	links:	url:D001929	name:Cerebral Edema, Vasogenic	normalName:cerebral edema, vasogenic	normalWikiTitle:cerebral edema, vasogenic	predictedType:Disease

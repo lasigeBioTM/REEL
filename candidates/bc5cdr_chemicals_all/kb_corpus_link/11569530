@@ -1,0 +1,21 @@
+ENTITY	text:cisapride	normalName:cisapride	predictedType:chemical	q:true	qid:Q296	docId:11569530	origText:cisapride	url:D020117
+CANDIDATE	id:20117	inCount:1	outCount:4	links:10637;16593	url:D020117	name:Cisapride	normalName:cisapride	normalWikiTitle:cisapride	predictedType:Chemical
+ENTITY	text:terodiline	normalName:terodiline	predictedType:chemical	q:true	qid:Q296	docId:11569530	origText:terodiline	url:C010637
+CANDIDATE	id:10637	inCount:0	outCount:1	links:20117;16593	url:C010637	name:terodiline	normalName:terodiline	normalWikiTitle:terodiline	predictedType:Chemical
+ENTITY	text:E4031	normalName:e4031	predictedType:chemical	q:true	qid:Q296	docId:11569530	origText:E4031	url:C063968
+CANDIDATE	id:63968	inCount:0	outCount:2	links:	url:C063968	name:E 4031	normalName:e 4031	normalWikiTitle:e 4031	predictedType:Chemical
+CANDIDATE	id:620252	inCount:0	outCount:2	links:	url:C000620252	name:EC0531	normalName:ec0531	normalWikiTitle:ec0531	predictedType:Chemical
+CANDIDATE	id:79280	inCount:0	outCount:1	links:	url:C079280	name:E021	normalName:e021	normalWikiTitle:e021	predictedType:Chemical
+CANDIDATE	id:517651	inCount:0	outCount:1	links:	url:C517651	name:EUK4010	normalName:euk4010	normalWikiTitle:euk4010	predictedType:Chemical
+CANDIDATE	id:592441	inCount:0	outCount:2	links:	url:C000592441	name:AF40431	normalName:af40431	normalWikiTitle:af40431	predictedType:Chemical
+CANDIDATE	id:588548	inCount:0	outCount:1	links:	url:C000588548	name:GED0301	normalName:ged0301	normalWikiTitle:ged0301	predictedType:Chemical
+CANDIDATE	id:468852	inCount:0	outCount:1	links:	url:C468852	name:EP80317	normalName:ep80317	normalWikiTitle:ep80317	predictedType:Chemical
+CANDIDATE	id:459919	inCount:0	outCount:1	links:	url:C459919	name:EP40737	normalName:ep40737	normalWikiTitle:ep40737	predictedType:Chemical
+CANDIDATE	id:430744	inCount:0	outCount:1	links:	url:C430744	name:SB240314	normalName:sb240314	normalWikiTitle:sb240314	predictedType:Chemical
+CANDIDATE	id:477243	inCount:0	outCount:1	links:	url:C477243	name:EN101	normalName:en101	normalWikiTitle:en101	predictedType:Chemical
+CANDIDATE	id:91517	inCount:0	outCount:2	links:	url:C091517	name:E4021	normalName:e4021	normalWikiTitle:e4021	predictedType:Chemical
+CANDIDATE	id:120578	inCount:0	outCount:2	links:	url:C120578	name:E4010	normalName:e4010	normalWikiTitle:e4010	predictedType:Chemical
+CANDIDATE	id:17291	inCount:3	outCount:1	links:	url:D017291	name:TE031	normalName:te031	normalWikiTitle:te031	predictedType:Chemical
+CANDIDATE	id:75504	inCount:0	outCount:1	links:	url:C075504	name:E4101	normalName:e4101	normalWikiTitle:e4101	predictedType:Chemical
+ENTITY	text:terfenadine	normalName:terfenadine	predictedType:chemical	q:true	qid:Q296	docId:11569530	origText:terfenadine	url:D016593
+CANDIDATE	id:16593	inCount:4	outCount:2	links:20117;10637	url:D016593	name:Terfenadine	normalName:terfenadine	normalWikiTitle:terfenadine	predictedType:Chemical

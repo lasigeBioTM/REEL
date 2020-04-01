@@ -1,0 +1,6 @@
+ENTITY	text:focal nodular hyperplasia	normalName:focal nodular hyperplasia	predictedType:disease	q:true	qid:Q72	docId:839274	origText:focal nodular hyperplasia	url:D020518
+CANDIDATE	id:20518	inCount:0	outCount:1	links:	url:D020518	name:Focal Nodular Hyperplasia	normalName:focal nodular hyperplasia	normalWikiTitle:focal nodular hyperplasia	predictedType:Disease
+ENTITY	text:adenomas	normalName:adenomas	predictedType:disease	q:true	qid:Q72	docId:839274	origText:adenomas	url:D000236
+CANDIDATE	id:236	inCount:27	outCount:1	links:236	url:D000236	name:Adenoma	normalName:adenoma	normalWikiTitle:adenoma	predictedType:Disease
+ENTITY	text:adenoma	normalName:adenoma	predictedType:disease	q:true	qid:Q72	docId:839274	origText:adenoma	url:D000236
+CANDIDATE	id:236	inCount:27	outCount:1	links:236	url:D000236	name:Adenoma	normalName:adenoma	normalWikiTitle:adenoma	predictedType:Disease

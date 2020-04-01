@@ -1,0 +1,28 @@
+ENTITY	text:myocardial infarction	normalName:myocardial infarction	predictedType:disease	q:true	qid:Q358	docId:12535818	origText:myocardial infarction	url:D009203
+CANDIDATE	id:9203	inCount:8	outCount:1	links:9203	url:D009203	name:Myocardial Infarction	normalName:myocardial infarction	normalWikiTitle:myocardial infarction	predictedType:Disease
+ENTITY	text:atrial fibrillation	normalName:atrial fibrillation	predictedType:disease	q:true	qid:Q358	docId:12535818	origText:atrial fibrillation	url:D001281
+CANDIDATE	id:1281	inCount:16	outCount:1	links:	url:D001281	name:Atrial Fibrillation	normalName:atrial fibrillation	normalWikiTitle:atrial fibrillation	predictedType:Disease
+ENTITY	text:bradyarrhythmia	normalName:bradyarrhythmia	predictedType:disease	q:true	qid:Q358	docId:12535818	origText:bradyarrhythmia	url:D001919
+CANDIDATE	id:1919	inCount:0	outCount:1	links:	url:D001919	name:Bradyarrhythmia	normalName:bradyarrhythmia	normalWikiTitle:bradyarrhythmia	predictedType:Disease
+ENTITY	text:MI	normalName:mi	predictedType:disease	q:true	qid:Q358	docId:12535818	origText:MI	url:D009203
+CANDIDATE	id:9203	inCount:8	outCount:1	links:9203	url:D009203	name:MCI2	normalName:mci2	normalWikiTitle:mci2	predictedType:Disease
+CANDIDATE	id:300337	inCount:0	outCount:2	links:	url:300337	name:HMI	normalName:hmi	normalWikiTitle:hmi	predictedType:Disease
+CANDIDATE	id:564108	inCount:0	outCount:2	links:	url:C564108	name:MDI	normalName:mdi	normalWikiTitle:mdi	predictedType:Disease
+CANDIDATE	id:535689	inCount:0	outCount:4	links:	url:C535689	name:MIP	normalName:mip	normalWikiTitle:mip	predictedType:Disease
+CANDIDATE	id:535689	inCount:0	outCount:4	links:	url:C535689	name:TMIP	normalName:tmip	normalWikiTitle:tmip	predictedType:Disease
+CANDIDATE	id:4831	inCount:17	outCount:2	links:	url:D004831	name:SMEI	normalName:smei	normalWikiTitle:smei	predictedType:Disease
+CANDIDATE	id:155310	inCount:0	outCount:2	links:	url:155310	name:MMIH	normalName:mmih	normalWikiTitle:mmih	predictedType:Disease
+CANDIDATE	id:567832	inCount:0	outCount:1	links:	url:C567832	name:MIAR	normalName:miar	normalWikiTitle:miar	predictedType:Disease
+CANDIDATE	id:614817	inCount:0	outCount:1	links:	url:614817	name:KMIN	normalName:kmin	normalWikiTitle:kmin	predictedType:Disease
+CANDIDATE	id:536266	inCount:0	outCount:2	links:	url:C536266	name:MNRI	normalName:mnri	normalWikiTitle:mnri	predictedType:Disease
+ENTITY	text:ventricular arrhythmias	normalName:ventricular arrhythmias	predictedType:disease	q:true	qid:Q358	docId:12535818	origText:ventricular arrhythmias	url:D001145
+CANDIDATE	id:1145	inCount:27	outCount:2	links:	url:D001145	name:Arrhythmias, Cardiac	normalName:arrhythmias, cardiac	normalWikiTitle:arrhythmias, cardiac	predictedType:Disease
+CANDIDATE	id:17180	inCount:4	outCount:1	links:	url:D017180	name:Tachycardia, Ventricular	normalName:tachycardia, ventricular	normalWikiTitle:tachycardia, ventricular	predictedType:Disease
+CANDIDATE	id:19571	inCount:14	outCount:2	links:	url:D019571	name:Arrhythmogenic Right Ventricular Dysplasia	normalName:arrhythmogenic right ventricular dysplasia	normalWikiTitle:arrhythmogenic right ventricular dysplasia	predictedType:Disease
+CANDIDATE	id:20257	inCount:0	outCount:1	links:	url:D020257	name:Ventricular Remodeling	normalName:ventricular remodeling	normalWikiTitle:ventricular remodeling	predictedType:Disease
+CANDIDATE	id:1146	inCount:2	outCount:1	links:	url:D001146	name:Arrhythmia, Sinus	normalName:arrhythmia, sinus	normalWikiTitle:arrhythmia, sinus	predictedType:Disease
+CANDIDATE	id:17379	inCount:0	outCount:1	links:	url:D017379	name:Hypertrophy, Left Ventricular	normalName:hypertrophy, left ventricular	normalWikiTitle:hypertrophy, left ventricular	predictedType:Disease
+CANDIDATE	id:17380	inCount:0	outCount:1	links:	url:D017380	name:Hypertrophy, Right Ventricular	normalName:hypertrophy, right ventricular	normalWikiTitle:hypertrophy, right ventricular	predictedType:Disease
+CANDIDATE	id:18658	inCount:0	outCount:1	links:	url:D018658	name:Ventricular Septal Rupture	normalName:ventricular septal rupture	normalWikiTitle:ventricular septal rupture	predictedType:Disease
+CANDIDATE	id:18754	inCount:2	outCount:1	links:	url:D018754	name:Ventricular Dysfunction	normalName:ventricular dysfunction	normalWikiTitle:ventricular dysfunction	predictedType:Disease
+CANDIDATE	id:14693	inCount:3	outCount:1	links:	url:D014693	name:Ventricular Fibrillation	normalName:ventricular fibrillation	normalWikiTitle:ventricular fibrillation	predictedType:Disease

@@ -1,0 +1,63 @@
+ENTITY	text:steroids	normalName:steroids	predictedType:chemical	q:true	qid:Q452	docId:18261172	origText:steroids	url:D013256
+CANDIDATE	id:13256	inCount:415	outCount:1	links:	url:D013256	name:Steroids	normalName:steroids	normalWikiTitle:steroids	predictedType:Chemical
+CANDIDATE	id:549774	inCount:0	outCount:1	links:	url:C549774	name:Sterodin	normalName:sterodin	normalWikiTitle:sterodin	predictedType:Chemical
+CANDIDATE	id:9654	inCount:35	outCount:1	links:	url:D009654	name:Norsteroids	normalName:norsteroids	normalWikiTitle:norsteroids	predictedType:Chemical
+CANDIDATE	id:1378	inCount:68	outCount:1	links:	url:D001378	name:Azasteroids	normalName:azasteroids	normalWikiTitle:azasteroids	predictedType:Chemical
+CANDIDATE	id:19432	inCount:0	outCount:1	links:	url:C019432	name:zeroid	normalName:zeroid	normalWikiTitle:zeroid	predictedType:Chemical
+CANDIDATE	id:2566	inCount:0	outCount:2	links:	url:D002566	name:Ceroid	normalName:ceroid	normalWikiTitle:ceroid	predictedType:Chemical
+CANDIDATE	id:49412	inCount:0	outCount:1	links:	url:C049412	name:sweroside	normalName:sweroside	normalWikiTitle:sweroside	predictedType:Chemical
+CANDIDATE	id:35227	inCount:0	outCount:1	links:	url:C035227	name:stepronin	normalName:stepronin	normalWikiTitle:stepronin	predictedType:Chemical
+CANDIDATE	id:13722	inCount:2	outCount:1	links:	url:D013722	name:Teprotide	normalName:teprotide	normalWikiTitle:teprotide	predictedType:Chemical
+CANDIDATE	id:7664	inCount:6	outCount:1	links:	url:D007664	name:Ketosteroids	normalName:ketosteroids	normalWikiTitle:ketosteroids	predictedType:Chemical
+ENTITY	text:cyclosporine	normalName:cyclosporine	predictedType:chemical	q:true	qid:Q452	docId:18261172	origText:cyclosporine	url:D016572
+CANDIDATE	id:16572	inCount:14	outCount:1	links:20123;16559	url:D016572	name:Cyclosporine	normalName:cyclosporine	normalWikiTitle:cyclosporine	predictedType:Chemical
+ENTITY	text:sirolmus	normalName:sirolmus	predictedType:chemical	q:true	qid:Q452	docId:18261172	origText:sirolmus	url:D020123
+CANDIDATE	id:20123	inCount:19	outCount:1	links:20123;16572	url:D020123	name:Sirolimus	normalName:sirolimus	normalWikiTitle:sirolimus	predictedType:Chemical
+CANDIDATE	id:401859	inCount:0	outCount:1	links:	url:C401859	name:temsirolimus	normalName:temsirolimus	normalWikiTitle:temsirolimus	predictedType:Chemical
+CANDIDATE	id:518022	inCount:0	outCount:1	links:	url:C518022	name:umirolimus	normalName:umirolimus	normalWikiTitle:umirolimus	predictedType:Chemical
+CANDIDATE	id:578609	inCount:0	outCount:4	links:	url:C578609	name:triolimus	normalName:triolimus	normalWikiTitle:triolimus	predictedType:Chemical
+CANDIDATE	id:117268	inCount:0	outCount:1	links:	url:C117268	name:pimecrolimus	normalName:pimecrolimus	normalWikiTitle:pimecrolimus	predictedType:Chemical
+CANDIDATE	id:15511	inCount:0	outCount:2	links:	url:C015511	name:spiromustine	normalName:spiromustine	normalWikiTitle:spiromustine	predictedType:Chemical
+CANDIDATE	id:92853	inCount:0	outCount:1	links:	url:C092853	name:simusan	normalName:simusan	normalWikiTitle:simusan	predictedType:Chemical
+CANDIDATE	id:404383	inCount:0	outCount:2	links:	url:C404383	name:rollimusin	normalName:rollimusin	normalWikiTitle:rollimusin	predictedType:Chemical
+CANDIDATE	id:68338	inCount:1	outCount:1	links:	url:D000068338	name:Everolimus	normalName:everolimus	normalWikiTitle:everolimus	predictedType:Chemical
+CANDIDATE	id:16559	inCount:40	outCount:1	links:20123;16572	url:D016559	name:Tacrolimus	normalName:tacrolimus	normalWikiTitle:tacrolimus	predictedType:Chemical
+ENTITY	text:sirolimus	normalName:sirolimus	predictedType:chemical	q:true	qid:Q452	docId:18261172	origText:sirolimus	url:D020123
+CANDIDATE	id:20123	inCount:19	outCount:1	links:20123;16572	url:D020123	name:Sirolimus	normalName:sirolimus	normalWikiTitle:sirolimus	predictedType:Chemical
+ENTITY	text:ACE inhibitor	normalName:ace inhibitor	predictedType:chemical	q:true	qid:Q452	docId:18261172	origText:ACE inhibitor	url:D000806
+CANDIDATE	id:806	inCount:1	outCount:1	links:	url:D000806	name:ACE Inhibitors	normalName:ace inhibitors	normalWikiTitle:ace inhibitors	predictedType:Chemical
+CANDIDATE	id:90219	inCount:0	outCount:1	links:	url:C090219	name:CPLX inhibitor	normalName:cplx inhibitor	normalWikiTitle:cplx inhibitor	predictedType:Chemical
+CANDIDATE	id:61945	inCount:0	outCount:1	links:	url:D061945	name:Caspase Inhibitors	normalName:caspase inhibitors	normalWikiTitle:caspase inhibitors	predictedType:Chemical
+CANDIDATE	id:65095	inCount:0	outCount:1	links:	url:D065095	name:Calcineurin Inhibitors	normalName:calcineurin inhibitors	normalWikiTitle:calcineurin inhibitors	predictedType:Chemical
+CANDIDATE	id:47072	inCount:0	outCount:2	links:	url:D047072	name:Aromatase Inhibitors	normalName:aromatase inhibitors	normalWikiTitle:aromatase inhibitors	predictedType:Chemical
+CANDIDATE	id:4791	inCount:33	outCount:1	links:	url:D004791	name:Enzyme Inhibitors	normalName:enzyme inhibitors	normalWikiTitle:enzyme inhibitors	predictedType:Chemical
+CANDIDATE	id:65427	inCount:0	outCount:1	links:	url:D065427	name:Factor Xa Inhibitors	normalName:factor xa inhibitors	normalWikiTitle:factor xa inhibitors	predictedType:Chemical
+CANDIDATE	id:503464	inCount:0	outCount:1	links:	url:C503464	name:CaMKII inhibitor AIP	normalName:camkii inhibitor aip	normalWikiTitle:camkii inhibitor aip	predictedType:Chemical
+CANDIDATE	id:422362	inCount:0	outCount:1	links:	url:C422362	name:inhibin A	normalName:inhibin a	normalWikiTitle:inhibin a	predictedType:Chemical
+CANDIDATE	id:610759	inCount:0	outCount:2	links:	url:C000610759	name:MEK inhibitor I	normalName:mek inhibitor i	normalWikiTitle:mek inhibitor i	predictedType:Chemical
+CANDIDATE	id:18046	inCount:2	outCount:1	links:	url:D018046	name:Protein C Inhibitor	normalName:protein c inhibitor	normalWikiTitle:protein c inhibitor	predictedType:Chemical
+CANDIDATE	id:806	inCount:1	outCount:1	links:	url:D000806	name:Inhibitors, ACE	normalName:inhibitors, ace	normalWikiTitle:inhibitors, ace	predictedType:Chemical
+CANDIDATE	id:62646	inCount:0	outCount:1	links:	url:D062646	name:ASIC Inhibitors	normalName:asic inhibitors	normalWikiTitle:asic inhibitors	predictedType:Chemical
+CANDIDATE	id:56572	inCount:0	outCount:1	links:	url:D056572	name:Inhibitors, HDAC	normalName:inhibitors, hdac	normalWikiTitle:inhibitors, hdac	predictedType:Chemical
+CANDIDATE	id:56572	inCount:0	outCount:1	links:	url:D056572	name:HDAC Inhibitors	normalName:hdac inhibitors	normalWikiTitle:hdac inhibitors	predictedType:Chemical
+CANDIDATE	id:417985	inCount:0	outCount:1	links:	url:C417985	name:inhibitor BAF	normalName:inhibitor baf	normalWikiTitle:inhibitor baf	predictedType:Chemical
+CANDIDATE	id:98313	inCount:0	outCount:1	links:	url:C098313	name:CIC inhibitor	normalName:cic inhibitor	normalWikiTitle:cic inhibitor	predictedType:Chemical
+CANDIDATE	id:75563	inCount:0	outCount:1	links:	url:D000075563	name:NEP ACE Inhibitors	normalName:nep ace inhibitors	normalWikiTitle:nep ace inhibitors	predictedType:Chemical
+CANDIDATE	id:75563	inCount:0	outCount:1	links:	url:D000075563	name:ACE NEP Inhibitors	normalName:ace nep inhibitors	normalWikiTitle:ace nep inhibitors	predictedType:Chemical
+CANDIDATE	id:75563	inCount:0	outCount:1	links:	url:D000075563	name:ACE-NEP Inhibitors	normalName:ace-nep inhibitors	normalWikiTitle:ace-nep inhibitors	predictedType:Chemical
+ENTITY	text:angiotensin-releasing blocker	normalName:angiotensin-releasing blocker	predictedType:chemical	q:true	qid:Q452	docId:18261172	origText:angiotensin-releasing blocker	url:D057911
+CANDIDATE	id:57911	inCount:2	outCount:1	links:	url:D057911	name:Angiotensin II Receptor Blockers	normalName:angiotensin ii receptor blockers	normalWikiTitle:angiotensin ii receptor blockers	predictedType:Chemical
+CANDIDATE	id:57912	inCount:0	outCount:1	links:	url:D057912	name:Angiotensin II Type 2 Receptor Blockers	normalName:angiotensin ii type 2 receptor blockers	normalWikiTitle:angiotensin ii type 2 receptor blockers	predictedType:Chemical
+CANDIDATE	id:47228	inCount:0	outCount:1	links:	url:D047228	name:Angiotensin II Type 1 Receptor Blockers	normalName:angiotensin ii type 1 receptor blockers	normalWikiTitle:angiotensin ii type 1 receptor blockers	predictedType:Chemical
+CANDIDATE	id:21651	inCount:0	outCount:1	links:	url:C021651	name:crinia-angiotensin	normalName:crinia-angiotensin	normalWikiTitle:crinia-angiotensin	predictedType:Chemical
+CANDIDATE	id:808	inCount:9	outCount:2	links:	url:D000808	name:Angiotensinogen	normalName:angiotensinogen	normalWikiTitle:angiotensinogen	predictedType:Chemical
+CANDIDATE	id:75802	inCount:20	outCount:1	links:	url:D000075802	name:Angiopoietin-like Proteins	normalName:angiopoietin-like proteins	normalWikiTitle:angiopoietin-like proteins	predictedType:Chemical
+CANDIDATE	id:31779	inCount:0	outCount:1	links:	url:C031779	name:orseillein-aniline blue	normalName:orseillein-aniline blue	normalWikiTitle:orseillein-aniline blue	predictedType:Chemical
+CANDIDATE	id:11437	inCount:0	outCount:1	links:	url:C011437	name:angiotensin I, des-Asp(1)-	normalName:angiotensin i, des-asp(1)-	normalWikiTitle:angiotensin i, des-asp(1)-	predictedType:Chemical
+CANDIDATE	id:14621	inCount:0	outCount:1	links:	url:C014621	name:angiotensin I, Ile(8)-	normalName:angiotensin i, ile(8)-	normalWikiTitle:angiotensin i, ile(8)-	predictedType:Chemical
+CANDIDATE	id:803	inCount:21	outCount:1	links:	url:D000803	name:Angiotensin I	normalName:angiotensin i	normalWikiTitle:angiotensin i	predictedType:Chemical
+CANDIDATE	id:46239	inCount:0	outCount:1	links:	url:C046239	name:angiotensin I, Ile(5)-	normalName:angiotensin i, ile(5)-	normalWikiTitle:angiotensin i, ile(5)-	predictedType:Chemical
+CANDIDATE	id:57911	inCount:2	outCount:1	links:	url:D057911	name:Angiotensin Receptor Blockers	normalName:angiotensin receptor blockers	normalWikiTitle:angiotensin receptor blockers	predictedType:Chemical
+CANDIDATE	id:57911	inCount:2	outCount:1	links:	url:D057911	name:Receptor Blockers, Angiotensin	normalName:receptor blockers, angiotensin	normalWikiTitle:receptor blockers, angiotensin	predictedType:Chemical
+CANDIDATE	id:57912	inCount:0	outCount:1	links:	url:D057912	name:Type 2 Angiotensin Receptor Blockers	normalName:type 2 angiotensin receptor blockers	normalWikiTitle:type 2 angiotensin receptor blockers	predictedType:Chemical
+CANDIDATE	id:47228	inCount:0	outCount:1	links:	url:D047228	name:Type 1 Angiotensin Receptor Blockers	normalName:type 1 angiotensin receptor blockers	normalWikiTitle:type 1 angiotensin receptor blockers	predictedType:Chemical

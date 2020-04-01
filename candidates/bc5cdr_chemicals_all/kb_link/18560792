@@ -1,0 +1,4 @@
+ENTITY	text:dopamine	normalName:dopamine	predictedType:chemical	q:true	qid:Q282	docId:18560792	origText:dopamine	url:D004298
+CANDIDATE	id:4298	inCount:90	outCount:2	links:	url:D004298	name:Dopamine	normalName:dopamine	normalWikiTitle:dopamine	predictedType:Chemical
+ENTITY	text:pergolide	normalName:pergolide	predictedType:chemical	q:true	qid:Q282	docId:18560792	origText:pergolide	url:D010479
+CANDIDATE	id:10479	inCount:5	outCount:1	links:	url:D010479	name:Pergolide	normalName:pergolide	normalWikiTitle:pergolide	predictedType:Chemical

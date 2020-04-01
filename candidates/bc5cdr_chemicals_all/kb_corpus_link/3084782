@@ -1,0 +1,6 @@
+ENTITY	text:gold	normalName:gold	predictedType:chemical	q:true	qid:Q757	docId:3084782	origText:gold	url:D006046
+CANDIDATE	id:6046	inCount:8	outCount:2	links:8625;10396	url:D006046	name:Gold	normalName:gold	normalWikiTitle:gold	predictedType:Chemical
+ENTITY	text:D-Penicillamine	normalName:d-penicillamine	predictedType:chemical	q:true	qid:Q757	docId:3084782	origText:D-Penicillamine	url:D010396
+CANDIDATE	id:10396	inCount:23	outCount:1	links:6046	url:D010396	name:D-Penicillamine	normalName:d-penicillamine	normalWikiTitle:d-penicillamine	predictedType:Chemical
+ENTITY	text:Tiopronin	normalName:tiopronin	predictedType:chemical	q:true	qid:Q757	docId:3084782	origText:Tiopronin	url:D008625
+CANDIDATE	id:8625	inCount:2	outCount:2	links:6046	url:D008625	name:Tiopronin	normalName:tiopronin	normalWikiTitle:tiopronin	predictedType:Chemical

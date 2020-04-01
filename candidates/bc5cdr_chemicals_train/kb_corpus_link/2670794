@@ -1,0 +1,25 @@
+ENTITY	text:Angiotension II	normalName:angiotension ii	predictedType:chemical	q:true	qid:Q41	docId:2670794	origText:Angiotension II	url:D000804
+CANDIDATE	id:804	inCount:91	outCount:1	links:	url:D000804	name:Angiotensin II	normalName:angiotensin ii	normalWikiTitle:angiotensin ii	predictedType:Chemical
+CANDIDATE	id:803	inCount:21	outCount:1	links:	url:D000803	name:Angiotensin I	normalName:angiotensin i	normalWikiTitle:angiotensin i	predictedType:Chemical
+CANDIDATE	id:805	inCount:7	outCount:1	links:	url:D000805	name:Angiotensin III	normalName:angiotensin iii	normalWikiTitle:angiotensin iii	predictedType:Chemical
+CANDIDATE	id:104454	inCount:0	outCount:1	links:	url:C104454	name:angiotensin II (1-8)	normalName:angiotensin ii (1-8)	normalWikiTitle:angiotensin ii (1-8)	predictedType:Chemical
+CANDIDATE	id:69545	inCount:0	outCount:1	links:	url:C069545	name:angiotensin II (3-7)	normalName:angiotensin ii (3-7)	normalWikiTitle:angiotensin ii (3-7)	predictedType:Chemical
+CANDIDATE	id:48187	inCount:0	outCount:1	links:	url:C048187	name:angiotensin II (2-7)	normalName:angiotensin ii (2-7)	normalWikiTitle:angiotensin ii (2-7)	predictedType:Chemical
+CANDIDATE	id:48559	inCount:0	outCount:1	links:	url:C048559	name:angiotensin II (1-6)	normalName:angiotensin ii (1-6)	normalWikiTitle:angiotensin ii (1-6)	predictedType:Chemical
+CANDIDATE	id:625519	inCount:0	outCount:1	links:	url:C000625519	name:angiotensin II (1-5)	normalName:angiotensin ii (1-5)	normalWikiTitle:angiotensin ii (1-5)	predictedType:Chemical
+CANDIDATE	id:21651	inCount:0	outCount:1	links:	url:C021651	name:crinia-angiotensin	normalName:crinia-angiotensin	normalWikiTitle:crinia-angiotensin	predictedType:Chemical
+CANDIDATE	id:14621	inCount:0	outCount:1	links:	url:C014621	name:angiotensin I, Ile(8)-	normalName:angiotensin i, ile(8)-	normalWikiTitle:angiotensin i, ile(8)-	predictedType:Chemical
+ENTITY	text:angiotensin	normalName:angiotensin	predictedType:chemical	q:true	qid:Q41	docId:2670794	origText:angiotensin	url:D000809
+CANDIDATE	id:809	inCount:9	outCount:4	links:	url:D000809	name:Angiotensin	normalName:angiotensin	normalWikiTitle:angiotensin	predictedType:Chemical
+ENTITY	text:Captopril	normalName:captopril	predictedType:chemical	q:true	qid:Q41	docId:2670794	origText:Captopril	url:D002216
+CANDIDATE	id:2216	inCount:17	outCount:1	links:	url:D002216	name:Captopril	normalName:captopril	normalWikiTitle:captopril	predictedType:Chemical
+ENTITY	text:AMCA	normalName:amca	predictedType:chemical	q:true	qid:Q41	docId:2670794	origText:AMCA	url:D014148
+CANDIDATE	id:14148	inCount:6	outCount:1	links:14148	url:D014148	name:AMCA	normalName:amca	normalWikiTitle:amca	predictedType:Chemical
+ENTITY	text:bradykinin	normalName:bradykinin	predictedType:chemical	q:true	qid:Q41	docId:2670794	origText:bradykinin	url:D001920
+CANDIDATE	id:1920	inCount:95	outCount:3	links:	url:D001920	name:Bradykinin	normalName:bradykinin	normalWikiTitle:bradykinin	predictedType:Chemical
+ENTITY	text:prostacyclin	normalName:prostacyclin	predictedType:chemical	q:true	qid:Q41	docId:2670794	origText:prostacyclin	url:D011464
+CANDIDATE	id:11464	inCount:88	outCount:1	links:	url:D011464	name:Prostacyclin	normalName:prostacyclin	normalWikiTitle:prostacyclin	predictedType:Chemical
+ENTITY	text:urea	normalName:urea	predictedType:chemical	q:true	qid:Q41	docId:2670794	origText:urea	url:D014508
+CANDIDATE	id:14508	inCount:401	outCount:1	links:	url:D014508	name:Urea	normalName:urea	normalWikiTitle:urea	predictedType:Chemical
+ENTITY	text:tranexamic acid	normalName:tranexamic acid	predictedType:chemical	q:true	qid:Q41	docId:2670794	origText:tranexamic acid	url:D014148
+CANDIDATE	id:14148	inCount:6	outCount:1	links:14148	url:D014148	name:Tranexamic Acid	normalName:tranexamic acid	normalWikiTitle:tranexamic acid	predictedType:Chemical

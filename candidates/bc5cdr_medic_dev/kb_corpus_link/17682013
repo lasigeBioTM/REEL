@@ -1,0 +1,30 @@
+ENTITY	text:leukaemia	normalName:leukaemia	predictedType:disease	q:true	qid:Q332	docId:17682013	origText:leukaemia	url:D007938
+CANDIDATE	id:7938	inCount:12	outCount:1	links:	url:D007938	name:Leukemia	normalName:leukemia	normalWikiTitle:leukemia	predictedType:Disease
+CANDIDATE	id:11289	inCount:0	outCount:2	links:	url:D011289	name:Preleukemia	normalName:preleukemia	normalWikiTitle:preleukemia	predictedType:Disease
+CANDIDATE	id:7970	inCount:4	outCount:1	links:1929	url:D007970	name:Leukopenia	normalName:leukopenia	normalWikiTitle:leukopenia	predictedType:Disease
+CANDIDATE	id:7941	inCount:0	outCount:1	links:	url:D007941	name:Leukemia P388	normalName:leukemia p388	normalWikiTitle:leukemia p388	predictedType:Disease
+CANDIDATE	id:7940	inCount:0	outCount:1	links:	url:D007940	name:Leukemia L5178	normalName:leukemia l5178	normalWikiTitle:leukemia l5178	predictedType:Disease
+CANDIDATE	id:7939	inCount:0	outCount:1	links:	url:D007939	name:Leukemia L1210	normalName:leukemia l1210	normalWikiTitle:leukemia l1210	predictedType:Disease
+CANDIDATE	id:7971	inCount:1	outCount:2	links:	url:D007971	name:Leukoplakia	normalName:leukoplakia	normalWikiTitle:leukoplakia	predictedType:Disease
+CANDIDATE	id:15448	inCount:2	outCount:1	links:	url:D015448	name:Leukemia, B-Cell	normalName:leukemia, b-cell	normalWikiTitle:leukemia, b-cell	predictedType:Disease
+CANDIDATE	id:6947	inCount:4	outCount:1	links:	url:D006947	name:Hyperkalemia	normalName:hyperkalemia	normalWikiTitle:hyperkalemia	predictedType:Disease
+CANDIDATE	id:16582	inCount:0	outCount:3	links:	url:D016582	name:Leukemia, Feline	normalName:leukemia, feline	normalWikiTitle:leukemia, feline	predictedType:Disease
+ENTITY	text:leukoencephalopathy	normalName:leukoencephalopathy	predictedType:disease	q:true	qid:Q332	docId:17682013	origText:leukoencephalopathy	url:D056784
+CANDIDATE	id:56784	inCount:29	outCount:1	links:56784	url:D056784	name:Leukoencephalopathy	normalName:leukoencephalopathy	normalWikiTitle:leukoencephalopathy	predictedType:Disease
+ENTITY	text:stroke	normalName:stroke	predictedType:disease	q:true	qid:Q332	docId:17682013	origText:stroke	url:D020521
+CANDIDATE	id:20521	inCount:2	outCount:1	links:	url:D020521	name:Stroke	normalName:stroke	normalWikiTitle:stroke	predictedType:Disease
+ENTITY	text:cytotoxic oedema within cerebral white matter	normalName:cytotoxic oedema within cerebral white matter	predictedType:disease	q:true	qid:Q332	docId:17682013	origText:cytotoxic oedema within cerebral white matter	url:D001929
+CANDIDATE	id:1929	inCount:2	outCount:1	links:7970	url:D001929	name:Edema, Cytotoxic Brain	normalName:edema, cytotoxic brain	normalWikiTitle:edema, cytotoxic brain	predictedType:Disease
+CANDIDATE	id:536700	inCount:0	outCount:4	links:	url:C536700	name:White forelock with malformations	normalName:white forelock with malformations	normalWikiTitle:white forelock with malformations	predictedType:Disease
+CANDIDATE	id:614306	inCount:0	outCount:1	links:	url:614306	name:COGNITIVE IMPAIRMENT WITH OR WITHOUT CEREBELLAR ATAXIA	normalName:cognitive impairment with or without cerebellar ataxia	normalWikiTitle:cognitive impairment with or without cerebellar ataxia	predictedType:Disease
+CANDIDATE	id:565836	inCount:0	outCount:2	links:	url:C565836	name:Vanishing White Matter Leukodystrophy with Ovarian Failure	normalName:vanishing white matter leukodystrophy with ovarian failure	normalWikiTitle:vanishing white matter leukodystrophy with ovarian failure	predictedType:Disease
+CANDIDATE	id:566007	inCount:0	outCount:3	links:	url:C566007	name:Vasculopathy, Retinal, With Cerebral Leukodystrophy	normalName:vasculopathy, retinal, with cerebral leukodystrophy	normalWikiTitle:vasculopathy, retinal, with cerebral leukodystrophy	predictedType:Disease
+CANDIDATE	id:566332	inCount:0	outCount:1	links:	url:C566332	name:Microcephaly with Simplified Gyral Pattern	normalName:microcephaly with simplified gyral pattern	normalWikiTitle:microcephaly with simplified gyral pattern	predictedType:Disease
+CANDIDATE	id:1929	inCount:2	outCount:1	links:7970	url:D001929	name:Cytotoxic Cerebral Edema	normalName:cytotoxic cerebral edema	normalWikiTitle:cytotoxic cerebral edema	predictedType:Disease
+CANDIDATE	id:1929	inCount:2	outCount:1	links:7970	url:D001929	name:Edema, Cytotoxic Cerebral	normalName:edema, cytotoxic cerebral	normalWikiTitle:edema, cytotoxic cerebral	predictedType:Disease
+CANDIDATE	id:1929	inCount:2	outCount:1	links:7970	url:D001929	name:Cerebral Edema, Cytotoxic	normalName:cerebral edema, cytotoxic	normalWikiTitle:cerebral edema, cytotoxic	predictedType:Disease
+CANDIDATE	id:8269	inCount:0	outCount:1	links:	url:D008269	name:Central Retinal Edema, Cystoid	normalName:central retinal edema, cystoid	normalWikiTitle:central retinal edema, cystoid	predictedType:Disease
+CANDIDATE	id:1929	inCount:2	outCount:1	links:7970	url:D001929	name:Brain Edema, Cytotoxic	normalName:brain edema, cytotoxic	normalWikiTitle:brain edema, cytotoxic	predictedType:Disease
+CANDIDATE	id:1929	inCount:2	outCount:1	links:7970	url:D001929	name:Cytotoxic Brain Edema	normalName:cytotoxic brain edema	normalWikiTitle:cytotoxic brain edema	predictedType:Disease
+CANDIDATE	id:56784	inCount:29	outCount:1	links:56784	url:D056784	name:Leukoencephalopathy with Vanishing White Matter	normalName:leukoencephalopathy with vanishing white matter	normalWikiTitle:leukoencephalopathy with vanishing white matter	predictedType:Disease
+CANDIDATE	id:565836	inCount:0	outCount:2	links:	url:C565836	name:LEUKOENCEPHALOPATHY WITH VANISHING WHITE MATTER	normalName:leukoencephalopathy with vanishing white matter	normalWikiTitle:leukoencephalopathy with vanishing white matter	predictedType:Disease

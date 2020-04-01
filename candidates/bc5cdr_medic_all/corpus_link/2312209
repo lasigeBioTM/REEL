@@ -1,0 +1,38 @@
+ENTITY	text:spasm	normalName:spasm	predictedType:disease	q:true	qid:Q1181	docId:2312209	origText:spasm	url:D013035
+CANDIDATE	id:13035	inCount:5	outCount:1	links:7022	url:D013035	name:Spasm	normalName:spasm	normalWikiTitle:spasm	predictedType:Disease
+ENTITY	text:acute coronary insufficiency	normalName:acute coronary insufficiency	predictedType:disease	q:true	qid:Q1181	docId:2312209	origText:acute coronary insufficiency	url:D054058
+CANDIDATE	id:54058	inCount:0	outCount:1	links:	url:D054058	name:Acute Coronary Syndrome	normalName:acute coronary syndrome	normalWikiTitle:acute coronary syndrome	predictedType:Disease
+CANDIDATE	id:309	inCount:18	outCount:1	links:	url:D000309	name:Adrenal Insufficiency	normalName:adrenal insufficiency	normalWikiTitle:adrenal insufficiency	predictedType:Disease
+CANDIDATE	id:566130	inCount:0	outCount:1	links:	url:C566130	name:Adrenal Insufficiency, Congenital	normalName:adrenal insufficiency, congenital	normalWikiTitle:adrenal insufficiency, congenital	predictedType:Disease
+CANDIDATE	id:48550	inCount:1	outCount:1	links:	url:D048550	name:Hepatic Insufficiency	normalName:hepatic insufficiency	normalWikiTitle:hepatic insufficiency	predictedType:Disease
+CANDIDATE	id:51436	inCount:1	outCount:1	links:	url:D051436	name:Renal Insufficiency, Chronic	normalName:renal insufficiency, chronic	normalWikiTitle:renal insufficiency, chronic	predictedType:Disease
+CANDIDATE	id:1022	inCount:0	outCount:1	links:	url:D001022	name:Aortic Valve Insufficiency	normalName:aortic valve insufficiency	normalWikiTitle:aortic valve insufficiency	predictedType:Disease
+CANDIDATE	id:3324	inCount:4	outCount:2	links:17202;9203	url:D003324	name:Coronary Artery Disease	normalName:coronary artery disease	normalWikiTitle:coronary artery disease	predictedType:Disease
+CANDIDATE	id:58186	inCount:2	outCount:1	links:3324;17202;9336;7022;9203	url:D058186	name:Acute Kidney Injury	normalName:acute kidney injury	normalWikiTitle:acute kidney injury	predictedType:Disease
+CANDIDATE	id:536006	inCount:0	outCount:1	links:	url:C536006	name:Acetylcarnitine deficiency	normalName:acetylcarnitine deficiency	normalWikiTitle:acetylcarnitine deficiency	predictedType:Disease
+CANDIDATE	id:10188	inCount:3	outCount:1	links:	url:D010188	name:Exocrine Pancreatic Insufficiency	normalName:exocrine pancreatic insufficiency	normalWikiTitle:exocrine pancreatic insufficiency	predictedType:Disease
+ENTITY	text:Myocardial infarction	normalName:myocardial infarction	predictedType:disease	q:true	qid:Q1181	docId:2312209	origText:Myocardial infarction	url:D009203
+CANDIDATE	id:9203	inCount:8	outCount:1	links:3324;17202;58186;7022;9336	url:D009203	name:Myocardial Infarction	normalName:myocardial infarction	normalWikiTitle:myocardial infarction	predictedType:Disease
+ENTITY	text:necrosis	normalName:necrosis	predictedType:disease	q:true	qid:Q1181	docId:2312209	origText:necrosis	url:D009336
+CANDIDATE	id:9336	inCount:6	outCount:1	links:17202;58186;7022;9203	url:D009336	name:Necrosis	normalName:necrosis	normalWikiTitle:necrosis	predictedType:Disease
+ENTITY	text:coronary arterial stenosis	normalName:coronary arterial stenosis	predictedType:disease	q:true	qid:Q1181	docId:2312209	origText:coronary arterial stenosis	url:D023921
+CANDIDATE	id:23921	inCount:1	outCount:1	links:	url:D023921	name:Artery Stenoses, Coronary	normalName:artery stenoses, coronary	normalWikiTitle:artery stenoses, coronary	predictedType:Disease
+CANDIDATE	id:23921	inCount:1	outCount:1	links:	url:D023921	name:Coronary Stenosis	normalName:coronary stenosis	normalWikiTitle:coronary stenosis	predictedType:Disease
+CANDIDATE	id:71079	inCount:0	outCount:1	links:	url:D000071079	name:Stenosis, Pulmonary Artery	normalName:stenosis, pulmonary artery	normalWikiTitle:stenosis, pulmonary artery	predictedType:Disease
+CANDIDATE	id:23903	inCount:0	outCount:1	links:	url:D023903	name:Coronary Restenosis	normalName:coronary restenosis	normalWikiTitle:coronary restenosis	predictedType:Disease
+CANDIDATE	id:3324	inCount:4	outCount:2	links:17202;9203	url:D003324	name:Coronary Artery Disease	normalName:coronary artery disease	normalWikiTitle:coronary artery disease	predictedType:Disease
+CANDIDATE	id:2539	inCount:6	outCount:1	links:	url:D002539	name:Cerebral Arterial Diseases	normalName:cerebral arterial diseases	normalWikiTitle:cerebral arterial diseases	predictedType:Disease
+CANDIDATE	id:54058	inCount:0	outCount:1	links:	url:D054058	name:Acute Coronary Syndrome	normalName:acute coronary syndrome	normalWikiTitle:acute coronary syndrome	predictedType:Disease
+CANDIDATE	id:50379	inCount:0	outCount:1	links:	url:D050379	name:Arteriolosclerosis	normalName:arteriolosclerosis	normalWikiTitle:arteriolosclerosis	predictedType:Disease
+CANDIDATE	id:566124	inCount:0	outCount:3	links:	url:C566124	name:Choroidal Osteoma, Bilateral	normalName:choroidal osteoma, bilateral	normalWikiTitle:choroidal osteoma, bilateral	predictedType:Disease
+CANDIDATE	id:563613	inCount:0	outCount:1	links:	url:C563613	name:Lumbar Stenosis, Familial	normalName:lumbar stenosis, familial	normalWikiTitle:lumbar stenosis, familial	predictedType:Disease
+CANDIDATE	id:1159	inCount:2	outCount:2	links:	url:D001159	name:Arterio-Arterial Fistula	normalName:arterio-arterial fistula	normalWikiTitle:arterio-arterial fistula	predictedType:Disease
+CANDIDATE	id:23921	inCount:1	outCount:1	links:	url:D023921	name:Coronary Artery Stenosis	normalName:coronary artery stenosis	normalWikiTitle:coronary artery stenosis	predictedType:Disease
+CANDIDATE	id:23921	inCount:1	outCount:1	links:	url:D023921	name:Artery Stenosis, Coronary	normalName:artery stenosis, coronary	normalWikiTitle:artery stenosis, coronary	predictedType:Disease
+CANDIDATE	id:23921	inCount:1	outCount:1	links:	url:D023921	name:Stenosis, Coronary Artery	normalName:stenosis, coronary artery	normalWikiTitle:stenosis, coronary artery	predictedType:Disease
+CANDIDATE	id:23921	inCount:1	outCount:1	links:	url:D023921	name:Coronary Artery Stenoses	normalName:coronary artery stenoses	normalWikiTitle:coronary artery stenoses	predictedType:Disease
+CANDIDATE	id:23921	inCount:1	outCount:1	links:	url:D023921	name:Stenoses, Coronary Artery	normalName:stenoses, coronary artery	normalWikiTitle:stenoses, coronary artery	predictedType:Disease
+ENTITY	text:myocardial ischemia	normalName:myocardial ischemia	predictedType:disease	q:true	qid:Q1181	docId:2312209	origText:myocardial ischemia	url:D017202
+CANDIDATE	id:17202	inCount:6	outCount:2	links:3324;58186;9336;9203	url:D017202	name:Myocardial Ischemia	normalName:myocardial ischemia	normalWikiTitle:myocardial ischemia	predictedType:Disease
+ENTITY	text:hypotension	normalName:hypotension	predictedType:disease	q:true	qid:Q1181	docId:2312209	origText:hypotension	url:D007022
+CANDIDATE	id:7022	inCount:3	outCount:1	links:9203;58186;9336;13035	url:D007022	name:Hypotension	normalName:hypotension	normalWikiTitle:hypotension	predictedType:Disease

@@ -1,0 +1,6 @@
+ENTITY	text:renal insufficiency	normalName:renal insufficiency	predictedType:disease	q:true	qid:Q254	docId:1300436	origText:renal insufficiency	url:D051437
+CANDIDATE	id:51437	inCount:10	outCount:1	links:51437	url:D051437	name:Renal Insufficiency	normalName:renal insufficiency	normalWikiTitle:renal insufficiency	predictedType:Disease
+ENTITY	text:weight loss	normalName:weight loss	predictedType:disease	q:true	qid:Q254	docId:1300436	origText:weight loss	url:D015431
+CANDIDATE	id:15431	inCount:1	outCount:1	links:	url:D015431	name:Weight Loss	normalName:weight loss	normalWikiTitle:weight loss	predictedType:Disease
+ENTITY	text:Renal failure	normalName:renal failure	predictedType:disease	q:true	qid:Q254	docId:1300436	origText:Renal failure	url:D051437
+CANDIDATE	id:51437	inCount:10	outCount:1	links:51437	url:D051437	name:Renal Failure	normalName:renal failure	normalWikiTitle:renal failure	predictedType:Disease

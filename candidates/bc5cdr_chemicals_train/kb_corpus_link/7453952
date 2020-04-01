@@ -1,0 +1,6 @@
+ENTITY	text:lithium	normalName:lithium	predictedType:chemical	q:true	qid:Q26	docId:7453952	origText:lithium	url:D008094
+CANDIDATE	id:8094	inCount:15	outCount:2	links:	url:D008094	name:Lithium	normalName:lithium	normalWikiTitle:lithium	predictedType:Chemical
+ENTITY	text:potassium	normalName:potassium	predictedType:chemical	q:true	qid:Q26	docId:7453952	origText:potassium	url:D011188
+CANDIDATE	id:11188	inCount:10	outCount:2	links:	url:D011188	name:Potassium	normalName:potassium	normalWikiTitle:potassium	predictedType:Chemical
+ENTITY	text:amiloride	normalName:amiloride	predictedType:chemical	q:true	qid:Q26	docId:7453952	origText:amiloride	url:D000584
+CANDIDATE	id:584	inCount:48	outCount:1	links:	url:D000584	name:Amiloride	normalName:amiloride	normalWikiTitle:amiloride	predictedType:Chemical

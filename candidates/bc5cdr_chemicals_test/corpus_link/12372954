@@ -1,0 +1,8 @@
+ENTITY	text:bendazac lysine	normalName:bendazac lysine	predictedType:chemical	q:true	qid:Q262	docId:12372954	origText:bendazac lysine	url:C036067
+CANDIDATE	id:36067	inCount:0	outCount:1	links:	url:C036067	name:bendazac lysine	normalName:bendazac lysine	normalWikiTitle:bendazac lysine	predictedType:Chemical
+ENTITY	text:nicergoline	normalName:nicergoline	predictedType:chemical	q:true	qid:Q262	docId:12372954	origText:nicergoline	url:D009530
+CANDIDATE	id:9530	inCount:0	outCount:1	links:	url:D009530	name:Nicergoline	normalName:nicergoline	normalWikiTitle:nicergoline	predictedType:Chemical
+ENTITY	text:methylprednisolone	normalName:methylprednisolone	predictedType:chemical	q:true	qid:Q262	docId:12372954	origText:methylprednisolone	url:D008775
+CANDIDATE	id:8775	inCount:29	outCount:1	links:	url:D008775	name:Methylprednisolone	normalName:methylprednisolone	normalWikiTitle:methylprednisolone	predictedType:Chemical
+ENTITY	text:Sermion	normalName:sermion	predictedType:chemical	q:true	qid:Q262	docId:12372954	origText:Sermion	url:D009530
+CANDIDATE	id:9530	inCount:0	outCount:1	links:	url:D009530	name:Sermion	normalName:sermion	normalWikiTitle:sermion	predictedType:Chemical

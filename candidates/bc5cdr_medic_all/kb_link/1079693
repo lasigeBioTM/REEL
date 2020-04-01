@@ -1,0 +1,40 @@
+ENTITY	text:band keratopathy	normalName:band keratopathy	predictedType:disease	q:true	qid:Q644	docId:1079693	origText:band keratopathy	url:C562399
+CANDIDATE	id:562399	inCount:0	outCount:1	links:	url:C562399	name:Band Keratopathy	normalName:band keratopathy	normalWikiTitle:band keratopathy	predictedType:Disease
+ENTITY	text:cataracts	normalName:cataracts	predictedType:disease	q:true	qid:Q644	docId:1079693	origText:cataracts	url:D002386
+CANDIDATE	id:2386	inCount:169	outCount:1	links:2386	url:D002386	name:Cataract	normalName:cataract	normalWikiTitle:cataract	predictedType:Disease
+ENTITY	text:Cataract	normalName:cataract	predictedType:disease	q:true	qid:Q644	docId:1079693	origText:Cataract	url:D002386
+CANDIDATE	id:2386	inCount:169	outCount:1	links:2386	url:D002386	name:Cataract	normalName:cataract	normalWikiTitle:cataract	predictedType:Disease
+ENTITY	text:uveitis	normalName:uveitis	predictedType:disease	q:true	qid:Q644	docId:1079693	origText:uveitis	url:D014605
+CANDIDATE	id:14605	inCount:7	outCount:1	links:	url:D014605	name:Uveitis	normalName:uveitis	normalWikiTitle:uveitis	predictedType:Disease
+ENTITY	text:keratoconjunctivitis	normalName:keratoconjunctivitis	predictedType:disease	q:true	qid:Q644	docId:1079693	origText:keratoconjunctivitis	url:D007637
+CANDIDATE	id:7637	inCount:2	outCount:2	links:	url:D007637	name:Keratoconjunctivitis	normalName:keratoconjunctivitis	normalWikiTitle:keratoconjunctivitis	predictedType:Disease
+ENTITY	text:arthritis	normalName:arthritis	predictedType:disease	q:true	qid:Q644	docId:1079693	origText:arthritis	url:D001168
+CANDIDATE	id:1168	inCount:24	outCount:1	links:	url:D001168	name:Arthritis	normalName:arthritis	normalWikiTitle:arthritis	predictedType:Disease
+ENTITY	text:juvenile rheumatoid arthritis	normalName:juvenile rheumatoid arthritis	predictedType:disease	q:true	qid:Q644	docId:1079693	origText:juvenile rheumatoid arthritis	url:D001171
+CANDIDATE	id:1171	inCount:3	outCount:3	links:	url:D001171	name:Rheumatoid Arthritis, Juvenile	normalName:rheumatoid arthritis, juvenile	normalWikiTitle:rheumatoid arthritis, juvenile	predictedType:Disease
+ENTITY	text:iridocyclitis	normalName:iridocyclitis	predictedType:disease	q:true	qid:Q644	docId:1079693	origText:iridocyclitis	url:D015863
+CANDIDATE	id:15863	inCount:0	outCount:2	links:	url:D015863	name:Iridocyclitis	normalName:iridocyclitis	normalWikiTitle:iridocyclitis	predictedType:Disease
+ENTITY	text:glaucoma	normalName:glaucoma	predictedType:disease	q:true	qid:Q644	docId:1079693	origText:glaucoma	url:D005901
+CANDIDATE	id:5901	inCount:34	outCount:1	links:	url:D005901	name:Glaucoma	normalName:glaucoma	normalWikiTitle:glaucoma	predictedType:Disease
+ENTITY	text:decreased visual acuity	normalName:decreased visual acuity	predictedType:disease	q:true	qid:Q644	docId:1079693	origText:decreased visual acuity	url:D014786
+CANDIDATE	id:14786	inCount:19	outCount:2	links:	url:D014786	name:Disorders, Visual	normalName:disorders, visual	normalWikiTitle:disorders, visual	predictedType:Disease
+CANDIDATE	id:563653	inCount:0	outCount:1	links:	url:C563653	name:Kallikrein, Decreased Urinary Activity of	normalName:kallikrein, decreased urinary activity of	normalWikiTitle:kallikrein, decreased urinary activity of	predictedType:Disease
+CANDIDATE	id:208	inCount:0	outCount:1	links:	url:D000208	name:Acute Disease	normalName:acute disease	normalWikiTitle:acute disease	predictedType:Disease
+CANDIDATE	id:531854	inCount:0	outCount:1	links:	url:C531854	name:Lysosomal acid lipase deficiency	normalName:lysosomal acid lipase deficiency	normalWikiTitle:lysosomal acid lipase deficiency	predictedType:Disease
+CANDIDATE	id:535541	inCount:0	outCount:1	links:	url:C535541	name:Isobutyryl-CoA dehydrogenase deficiency	normalName:isobutyryl-coa dehydrogenase deficiency	normalWikiTitle:isobutyryl-coa dehydrogenase deficiency	predictedType:Disease
+CANDIDATE	id:1308	inCount:1	outCount:3	links:	url:D001308	name:Auditory Perceptual Disorders	normalName:auditory perceptual disorders	normalWikiTitle:auditory perceptual disorders	predictedType:Disease
+CANDIDATE	id:7683	inCount:0	outCount:1	links:	url:D007683	name:Kidney Tubular Necrosis, Acute	normalName:kidney tubular necrosis, acute	normalWikiTitle:kidney tubular necrosis, acute	predictedType:Disease
+CANDIDATE	id:1304	inCount:2	outCount:2	links:	url:D001304	name:Auditory Diseases, Central	normalName:auditory diseases, central	normalWikiTitle:auditory diseases, central	predictedType:Disease
+CANDIDATE	id:566750	inCount:0	outCount:1	links:	url:C566750	name:Acholinesterasemia	normalName:acholinesterasemia	normalWikiTitle:acholinesterasemia	predictedType:Disease
+CANDIDATE	id:12887	inCount:5	outCount:2	links:	url:D012887	name:Skull Fractures	normalName:skull fractures	normalWikiTitle:skull fractures	predictedType:Disease
+CANDIDATE	id:614823	inCount:0	outCount:1	links:	url:614823	name:AORTIC VALVE DISEASE 2	normalName:aortic valve disease 2	normalWikiTitle:aortic valve disease 2	predictedType:Disease
+CANDIDATE	id:15140	inCount:2	outCount:4	links:	url:D015140	name:Acute Onset Vascular Dementia	normalName:acute onset vascular dementia	normalWikiTitle:acute onset vascular dementia	predictedType:Disease
+CANDIDATE	id:14786	inCount:19	outCount:2	links:	url:D014786	name:Visual Disorders	normalName:visual disorders	normalWikiTitle:visual disorders	predictedType:Disease
+CANDIDATE	id:15882	inCount:0	outCount:1	links:	url:D015882	name:Necroses, Acute Retinal	normalName:necroses, acute retinal	normalWikiTitle:necroses, acute retinal	predictedType:Disease
+CANDIDATE	id:15882	inCount:0	outCount:1	links:	url:D015882	name:Acute Retinal Necroses	normalName:acute retinal necroses	normalWikiTitle:acute retinal necroses	predictedType:Disease
+CANDIDATE	id:15882	inCount:0	outCount:1	links:	url:D015882	name:Retinal Necroses, Acute	normalName:retinal necroses, acute	normalWikiTitle:retinal necroses, acute	predictedType:Disease
+CANDIDATE	id:15140	inCount:2	outCount:4	links:	url:D015140	name:Vascular Dementia, Acute Onset	normalName:vascular dementia, acute onset	normalWikiTitle:vascular dementia, acute onset	predictedType:Disease
+CANDIDATE	id:20937	inCount:1	outCount:1	links:	url:D020937	name:Partial Seizures, Visual	normalName:partial seizures, visual	normalWikiTitle:partial seizures, visual	predictedType:Disease
+CANDIDATE	id:20937	inCount:1	outCount:1	links:	url:D020937	name:Visual Partial Seizures	normalName:visual partial seizures	normalWikiTitle:visual partial seizures	predictedType:Disease
+ENTITY	text:photophobia	normalName:photophobia	predictedType:disease	q:true	qid:Q644	docId:1079693	origText:photophobia	url:D020795
+CANDIDATE	id:20795	inCount:2	outCount:1	links:	url:D020795	name:Photophobia	normalName:photophobia	normalWikiTitle:photophobia	predictedType:Disease

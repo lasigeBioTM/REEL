@@ -1,0 +1,26 @@
+ENTITY	text:mydriasis	normalName:mydriasis	predictedType:disease	q:true	qid:Q1239	docId:8590259	origText:mydriasis	url:D015878
+CANDIDATE	id:15878	inCount:1	outCount:1	links:	url:D015878	name:Mydriasis	normalName:mydriasis	normalWikiTitle:mydriasis	predictedType:Disease
+ENTITY	text:entropion	normalName:entropion	predictedType:disease	q:true	qid:Q1239	docId:8590259	origText:entropion	url:D004774
+CANDIDATE	id:4774	inCount:0	outCount:1	links:	url:D004774	name:Entropion	normalName:entropion	normalWikiTitle:entropion	predictedType:Disease
+ENTITY	text:ocular hypotensive	normalName:ocular hypotensive	predictedType:disease	q:true	qid:Q1239	docId:8590259	origText:ocular hypotensive	url:D015814
+CANDIDATE	id:15814	inCount:0	outCount:1	links:	url:D015814	name:Ocular Hypotension	normalName:ocular hypotension	normalWikiTitle:ocular hypotension	predictedType:Disease
+CANDIDATE	id:9798	inCount:1	outCount:1	links:	url:D009798	name:Ocular Hypertension	normalName:ocular hypertension	normalWikiTitle:ocular hypertension	predictedType:Disease
+CANDIDATE	id:6978	inCount:0	outCount:1	links:	url:D006978	name:Hypertension, Renovascular	normalName:hypertension, renovascular	normalWikiTitle:hypertension, renovascular	predictedType:Disease
+CANDIDATE	id:7022	inCount:3	outCount:1	links:	url:D007022	name:Hypotension	normalName:hypotension	normalWikiTitle:hypotension	predictedType:Disease
+CANDIDATE	id:6976	inCount:12	outCount:1	links:	url:D006976	name:Hypertension, Pulmonary	normalName:hypertension, pulmonary	normalWikiTitle:hypertension, pulmonary	predictedType:Disease
+CANDIDATE	id:6848	inCount:0	outCount:1	links:	url:D006848	name:Testicular Hydrocele	normalName:testicular hydrocele	normalWikiTitle:testicular hydrocele	predictedType:Disease
+CANDIDATE	id:563161	inCount:0	outCount:2	links:	url:C563161	name:Hypertensive Nephropathy	normalName:hypertensive nephropathy	normalWikiTitle:hypertensive nephropathy	predictedType:Disease
+CANDIDATE	id:58437	inCount:0	outCount:2	links:	url:D058437	name:Hypertensive Retinopathy	normalName:hypertensive retinopathy	normalWikiTitle:hypertensive retinopathy	predictedType:Disease
+CANDIDATE	id:6973	inCount:18	outCount:1	links:	url:D006973	name:Hypertension	normalName:hypertension	normalWikiTitle:hypertension	predictedType:Disease
+CANDIDATE	id:564750	inCount:0	outCount:5	links:	url:C564750	name:Vascular Hyalinosis	normalName:vascular hyalinosis	normalWikiTitle:vascular hyalinosis	predictedType:Disease
+ENTITY	text:Conjunctival blanching	normalName:conjunctival blanching	predictedType:disease	q:true	qid:Q1239	docId:8590259	origText:Conjunctival blanching	url:D003229
+CANDIDATE	id:3229	inCount:9	outCount:1	links:	url:D003229	name:Conjunctival Diseases	normalName:conjunctival diseases	normalWikiTitle:conjunctival diseases	predictedType:Disease
+CANDIDATE	id:3234	inCount:3	outCount:2	links:	url:D003234	name:Conjunctivitis, Bacterial	normalName:conjunctivitis, bacterial	normalWikiTitle:conjunctivitis, bacterial	predictedType:Disease
+CANDIDATE	id:536377	inCount:0	outCount:1	links:	url:C536377	name:Anonychia congenita	normalName:anonychia congenita	normalWikiTitle:anonychia congenita	predictedType:Disease
+CANDIDATE	id:566307	inCount:1	outCount:2	links:	url:C566307	name:Alacrima, Congenital	normalName:alacrima, congenital	normalWikiTitle:alacrima, congenital	predictedType:Disease
+CANDIDATE	id:3233	inCount:0	outCount:2	links:	url:D003233	name:Conjunctivitis, Allergic	normalName:conjunctivitis, allergic	normalWikiTitle:conjunctivitis, allergic	predictedType:Disease
+CANDIDATE	id:3236	inCount:1	outCount:2	links:	url:D003236	name:Conjunctivitis, Viral	normalName:conjunctivitis, viral	normalWikiTitle:conjunctivitis, viral	predictedType:Disease
+CANDIDATE	id:3231	inCount:5	outCount:1	links:	url:D003231	name:Conjunctivitis	normalName:conjunctivitis	normalWikiTitle:conjunctivitis	predictedType:Disease
+CANDIDATE	id:535983	inCount:0	outCount:1	links:	url:C535983	name:Congenital anosmia	normalName:congenital anosmia	normalWikiTitle:congenital anosmia	predictedType:Disease
+CANDIDATE	id:18886	inCount:0	outCount:1	links:	url:D018886	name:Aphasia, Conduction	normalName:aphasia, conduction	normalWikiTitle:aphasia, conduction	predictedType:Disease
+CANDIDATE	id:19575	inCount:2	outCount:1	links:	url:D019575	name:Blindness, Cortical	normalName:blindness, cortical	normalWikiTitle:blindness, cortical	predictedType:Disease

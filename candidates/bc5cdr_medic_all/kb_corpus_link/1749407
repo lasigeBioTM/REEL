@@ -1,0 +1,51 @@
+ENTITY	text:thrombus	normalName:thrombus	predictedType:disease	q:true	qid:Q642	docId:1749407	origText:thrombus	url:D013927
+CANDIDATE	id:13927	inCount:4	outCount:1	links:13927;17202;13921	url:D013927	name:Thrombus	normalName:thrombus	normalWikiTitle:thrombus	predictedType:Disease
+ENTITY	text:spasm	normalName:spasm	predictedType:disease	q:true	qid:Q642	docId:1749407	origText:spasm	url:D013035
+CANDIDATE	id:13035	inCount:5	outCount:1	links:	url:D013035	name:Spasm	normalName:spasm	normalWikiTitle:spasm	predictedType:Disease
+ENTITY	text:thrombotic	normalName:thrombotic	predictedType:disease	q:true	qid:Q642	docId:1749407	origText:thrombotic	url:D013927
+CANDIDATE	id:13927	inCount:4	outCount:1	links:13927;17202;13921	url:D013927	name:Thrombosis	normalName:thrombosis	normalWikiTitle:thrombosis	predictedType:Disease
+CANDIDATE	id:13922	inCount:4	outCount:2	links:	url:D013922	name:Thrombocytosis	normalName:thrombocytosis	normalWikiTitle:thrombocytosis	predictedType:Disease
+CANDIDATE	id:19851	inCount:16	outCount:1	links:	url:D019851	name:Thrombophilia	normalName:thrombophilia	normalWikiTitle:thrombophilia	predictedType:Disease
+CANDIDATE	id:13924	inCount:1	outCount:2	links:9203	url:D013924	name:Thrombophlebitis	normalName:thrombophlebitis	normalWikiTitle:thrombophlebitis	predictedType:Disease
+CANDIDATE	id:13921	inCount:42	outCount:1	links:13927	url:D013921	name:Thrombocytopenia	normalName:thrombocytopenia	normalWikiTitle:thrombocytopenia	predictedType:Disease
+CANDIDATE	id:13915	inCount:3	outCount:3	links:	url:D013915	name:Thrombasthenia	normalName:thrombasthenia	normalWikiTitle:thrombasthenia	predictedType:Disease
+CANDIDATE	id:567438	inCount:0	outCount:1	links:	url:C567438	name:Thrombocytopenia 4	normalName:thrombocytopenia 4	normalWikiTitle:thrombocytopenia 4	predictedType:Disease
+CANDIDATE	id:616937	inCount:0	outCount:1	links:	url:616937	name:THROMBOCYTOPENIA 6	normalName:thrombocytopenia 6	normalWikiTitle:thrombocytopenia 6	predictedType:Disease
+CANDIDATE	id:567487	inCount:0	outCount:1	links:	url:C567487	name:Thrombocytopenia 3	normalName:thrombocytopenia 3	normalWikiTitle:thrombocytopenia 3	predictedType:Disease
+CANDIDATE	id:564052	inCount:0	outCount:2	links:	url:C564052	name:Thrombocytopenia 1	normalName:thrombocytopenia 1	normalWikiTitle:thrombocytopenia 1	predictedType:Disease
+ENTITY	text:myocardial infarction	normalName:myocardial infarction	predictedType:disease	q:true	qid:Q642	docId:1749407	origText:myocardial infarction	url:D009203
+CANDIDATE	id:9203	inCount:8	outCount:1	links:9203;13924;17202;3324	url:D009203	name:Myocardial Infarction	normalName:myocardial infarction	normalWikiTitle:myocardial infarction	predictedType:Disease
+ENTITY	text:coronary occlusion	normalName:coronary occlusion	predictedType:disease	q:true	qid:Q642	docId:1749407	origText:coronary occlusion	url:D054059
+CANDIDATE	id:54059	inCount:0	outCount:1	links:	url:D054059	name:Coronary Occlusion	normalName:coronary occlusion	normalWikiTitle:coronary occlusion	predictedType:Disease
+ENTITY	text:acute myocardial infarction	normalName:acute myocardial infarction	predictedType:disease	q:true	qid:Q642	docId:1749407	origText:acute myocardial infarction	url:D009203
+CANDIDATE	id:9203	inCount:8	outCount:1	links:9203;13924;17202;3324	url:D009203	name:Myocardial Infarction	normalName:myocardial infarction	normalWikiTitle:myocardial infarction	predictedType:Disease
+CANDIDATE	id:56988	inCount:0	outCount:1	links:	url:D056988	name:Anterior Wall Myocardial Infarction	normalName:anterior wall myocardial infarction	normalWikiTitle:anterior wall myocardial infarction	predictedType:Disease
+CANDIDATE	id:72657	inCount:0	outCount:1	links:	url:D000072657	name:ST Elevation Myocardial Infarction	normalName:st elevation myocardial infarction	normalWikiTitle:st elevation myocardial infarction	predictedType:Disease
+CANDIDATE	id:72658	inCount:0	outCount:1	links:	url:D000072658	name:Non-ST Elevated Myocardial Infarction	normalName:non-st elevated myocardial infarction	normalWikiTitle:non-st elevated myocardial infarction	predictedType:Disease
+CANDIDATE	id:71956	inCount:1	outCount:2	links:	url:D000071956	name:Myocardial Contusions	normalName:myocardial contusions	normalWikiTitle:myocardial contusions	predictedType:Disease
+CANDIDATE	id:9617	inCount:1	outCount:1	links:	url:D009617	name:Nocardia Infections	normalName:nocardia infections	normalWikiTitle:nocardia infections	predictedType:Disease
+CANDIDATE	id:56989	inCount:0	outCount:1	links:	url:D056989	name:Inferior Wall Myocardial Infarction	normalName:inferior wall myocardial infarction	normalWikiTitle:inferior wall myocardial infarction	predictedType:Disease
+CANDIDATE	id:17202	inCount:6	outCount:2	links:9203;13927;3324	url:D017202	name:Myocardial Ischemia	normalName:myocardial ischemia	normalWikiTitle:myocardial ischemia	predictedType:Disease
+CANDIDATE	id:54060	inCount:0	outCount:1	links:	url:D054060	name:Pulmonary Infarction	normalName:pulmonary infarction	normalWikiTitle:pulmonary infarction	predictedType:Disease
+CANDIDATE	id:54084	inCount:0	outCount:1	links:	url:D054084	name:Myocardial Bridging	normalName:myocardial bridging	normalWikiTitle:myocardial bridging	predictedType:Disease
+ENTITY	text:atherosclerotic obstruction	normalName:atherosclerotic obstruction	predictedType:disease	q:true	qid:Q642	docId:1749407	origText:atherosclerotic obstruction	url:D050197
+CANDIDATE	id:50197	inCount:3	outCount:1	links:	url:D050197	name:Atherosclerosis	normalName:atherosclerosis	normalWikiTitle:atherosclerosis	predictedType:Disease
+CANDIDATE	id:58226	inCount:0	outCount:1	links:	url:D058226	name:Plaque, Atherosclerotic	normalName:plaque, atherosclerotic	normalWikiTitle:plaque, atherosclerotic	predictedType:Disease
+CANDIDATE	id:7415	inCount:9	outCount:1	links:	url:D007415	name:Intestinal Obstruction	normalName:intestinal obstruction	normalWikiTitle:intestinal obstruction	predictedType:Disease
+CANDIDATE	id:15508	inCount:0	outCount:2	links:	url:D015508	name:Nasal Obstruction	normalName:nasal obstruction	normalWikiTitle:nasal obstruction	predictedType:Disease
+CANDIDATE	id:1162	inCount:0	outCount:1	links:	url:D001162	name:Arteriosclerosis Obliterans	normalName:arteriosclerosis obliterans	normalWikiTitle:arteriosclerosis obliterans	predictedType:Disease
+CANDIDATE	id:3112	inCount:0	outCount:2	links:	url:D003112	name:Colonic Pseudo-Obstruction	normalName:colonic pseudo-obstruction	normalWikiTitle:colonic pseudo-obstruction	predictedType:Disease
+CANDIDATE	id:17219	inCount:2	outCount:1	links:	url:D017219	name:Gastric Outlet Obstruction	normalName:gastric outlet obstruction	normalWikiTitle:gastric outlet obstruction	predictedType:Disease
+CANDIDATE	id:9999	inCount:6	outCount:1	links:	url:D009999	name:Ossification, Heterotopic	normalName:ossification, heterotopic	normalWikiTitle:ossification, heterotopic	predictedType:Disease
+CANDIDATE	id:12078	inCount:0	outCount:2	links:	url:D012078	name:Renal Artery Obstruction	normalName:renal artery obstruction	normalWikiTitle:renal artery obstruction	predictedType:Disease
+CANDIDATE	id:402	inCount:1	outCount:1	links:	url:D000402	name:Airway Obstruction	normalName:airway obstruction	normalWikiTitle:airway obstruction	predictedType:Disease
+CANDIDATE	id:29424	inCount:5	outCount:1	links:	url:D029424	name:Airflow Obstruction, Chronic	normalName:airflow obstruction, chronic	normalWikiTitle:airflow obstruction, chronic	predictedType:Disease
+CANDIDATE	id:29424	inCount:5	outCount:1	links:	url:D029424	name:Chronic Airflow Obstruction	normalName:chronic airflow obstruction	normalWikiTitle:chronic airflow obstruction	predictedType:Disease
+CANDIDATE	id:29424	inCount:5	outCount:1	links:	url:D029424	name:Chronic Airflow Obstructions	normalName:chronic airflow obstructions	normalWikiTitle:chronic airflow obstructions	predictedType:Disease
+CANDIDATE	id:10302	inCount:4	outCount:1	links:	url:D010302	name:Atherosclerotic Parkinsonism	normalName:atherosclerotic parkinsonism	normalWikiTitle:atherosclerotic parkinsonism	predictedType:Disease
+CANDIDATE	id:29424	inCount:5	outCount:1	links:	url:D029424	name:Airflow Obstructions, Chronic	normalName:airflow obstructions, chronic	normalWikiTitle:airflow obstructions, chronic	predictedType:Disease
+CANDIDATE	id:10302	inCount:4	outCount:1	links:	url:D010302	name:Parkinsonism, Atherosclerotic	normalName:parkinsonism, atherosclerotic	normalWikiTitle:parkinsonism, atherosclerotic	predictedType:Disease
+CANDIDATE	id:3324	inCount:4	outCount:2	links:9203;17202	url:D003324	name:Atherosclerosis, Coronary	normalName:atherosclerosis, coronary	normalWikiTitle:atherosclerosis, coronary	predictedType:Disease
+CANDIDATE	id:3324	inCount:4	outCount:2	links:9203;17202	url:D003324	name:Coronary Atherosclerosis	normalName:coronary atherosclerosis	normalWikiTitle:coronary atherosclerosis	predictedType:Disease
+ENTITY	text:infarction	normalName:infarction	predictedType:disease	q:true	qid:Q642	docId:1749407	origText:infarction	url:D007238
+CANDIDATE	id:7238	inCount:0	outCount:2	links:	url:D007238	name:Infarction	normalName:infarction	normalWikiTitle:infarction	predictedType:Disease

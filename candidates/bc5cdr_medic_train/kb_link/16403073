@@ -1,0 +1,8 @@
+ENTITY	text:torsades de pointes	normalName:torsades de pointes	predictedType:disease	q:true	qid:Q404	docId:16403073	origText:torsades de pointes	url:D016171
+CANDIDATE	id:16171	inCount:0	outCount:1	links:	url:D016171	name:Torsades de Pointes	normalName:torsades de pointes	normalWikiTitle:torsades de pointes	predictedType:Disease
+ENTITY	text:fungal infection	normalName:fungal infection	predictedType:disease	q:true	qid:Q404	docId:16403073	origText:fungal infection	url:D009181
+CANDIDATE	id:9181	inCount:19	outCount:1	links:	url:D009181	name:Infection, Fungal	normalName:infection, fungal	normalWikiTitle:infection, fungal	predictedType:Disease
+ENTITY	text:long QT syndrome	normalName:long qt syndrome	predictedType:disease	q:true	qid:Q404	docId:16403073	origText:long QT syndrome	url:D008133
+CANDIDATE	id:8133	inCount:20	outCount:3	links:	url:D008133	name:Long QT Syndrome	normalName:long qt syndrome	normalWikiTitle:long qt syndrome	predictedType:Disease
+ENTITY	text:coronary artery disease	normalName:coronary artery disease	predictedType:disease	q:true	qid:Q404	docId:16403073	origText:coronary artery disease	url:D003324
+CANDIDATE	id:3324	inCount:4	outCount:2	links:	url:D003324	name:Coronary Artery Disease	normalName:coronary artery disease	normalWikiTitle:coronary artery disease	predictedType:Disease

@@ -1,0 +1,33 @@
+ENTITY	text:psoriasis	normalName:psoriasis	predictedType:disease	q:true	qid:Q383	docId:10328196	origText:psoriasis	url:D011565
+CANDIDATE	id:11565	inCount:3	outCount:1	links:	url:D011565	name:Psoriasis	normalName:psoriasis	normalWikiTitle:psoriasis	predictedType:Disease
+ENTITY	text:toxicity	normalName:toxicity	predictedType:disease	q:true	qid:Q383	docId:10328196	origText:toxicity	url:D064420
+CANDIDATE	id:64420	inCount:10	outCount:1	links:	url:D064420	name:Drug Toxicity	normalName:drug toxicity	normalWikiTitle:drug toxicity	predictedType:Disease
+CANDIDATE	id:66126	inCount:0	outCount:3	links:	url:D066126	name:Cardiotoxicity	normalName:cardiotoxicity	normalWikiTitle:cardiotoxicity	predictedType:Disease
+CANDIDATE	id:15651	inCount:2	outCount:1	links:	url:D015651	name:Mycotoxicosis	normalName:mycotoxicosis	normalWikiTitle:mycotoxicosis	predictedType:Disease
+CANDIDATE	id:13971	inCount:2	outCount:1	links:	url:D013971	name:Thyrotoxicosis	normalName:thyrotoxicosis	normalWikiTitle:thyrotoxicosis	predictedType:Disease
+CANDIDATE	id:14869	inCount:0	outCount:2	links:	url:D014869	name:Water Intoxication	normalName:water intoxication	normalWikiTitle:water intoxication	predictedType:Disease
+CANDIDATE	id:14103	inCount:4	outCount:2	links:	url:D014103	name:Torticollis	normalName:torticollis	normalWikiTitle:torticollis	predictedType:Disease
+CANDIDATE	id:9765	inCount:42	outCount:2	links:	url:D009765	name:Obesity	normalName:obesity	normalWikiTitle:obesity	predictedType:Disease
+CANDIDATE	id:14115	inCount:1	outCount:1	links:	url:D014115	name:Toxemia	normalName:toxemia	normalWikiTitle:toxemia	predictedType:Disease
+CANDIDATE	id:7246	inCount:2	outCount:2	links:	url:D007246	name:Infertility	normalName:infertility	normalWikiTitle:infertility	predictedType:Disease
+CANDIDATE	id:20234	inCount:0	outCount:2	links:	url:D020234	name:Gait Ataxia	normalName:gait ataxia	normalWikiTitle:gait ataxia	predictedType:Disease
+CANDIDATE	id:14069	inCount:1	outCount:1	links:	url:D014069	name:Tonsillitis	normalName:tonsillitis	normalWikiTitle:tonsillitis	predictedType:Disease
+CANDIDATE	id:64420	inCount:10	outCount:1	links:	url:D064420	name:Toxicity, Drug	normalName:toxicity, drug	normalWikiTitle:toxicity, drug	predictedType:Disease
+CANDIDATE	id:17484	inCount:0	outCount:2	links:	url:D017484	name:Phototoxicity	normalName:phototoxicity	normalWikiTitle:phototoxicity	predictedType:Disease
+ENTITY	text:capillary leak	normalName:capillary leak	predictedType:disease	q:true	qid:Q383	docId:10328196	origText:capillary leak	url:D019559
+CANDIDATE	id:19559	inCount:1	outCount:1	links:19559	url:D019559	name:Capillary Leak Syndrome	normalName:capillary leak syndrome	normalWikiTitle:capillary leak syndrome	predictedType:Disease
+CANDIDATE	id:18324	inCount:3	outCount:1	links:	url:D018324	name:Hemangioma, Capillary	normalName:hemangioma, capillary	normalWikiTitle:hemangioma, capillary	predictedType:Disease
+CANDIDATE	id:8441	inCount:0	outCount:2	links:	url:D008441	name:Maxillary Neoplasms	normalName:maxillary neoplasms	normalWikiTitle:maxillary neoplasms	predictedType:Disease
+CANDIDATE	id:7943	inCount:0	outCount:2	links:	url:D007943	name:Leukemia, Hairy Cell	normalName:leukemia, hairy cell	normalWikiTitle:leukemia, hairy cell	predictedType:Disease
+CANDIDATE	id:17733	inCount:0	outCount:2	links:	url:D017733	name:Leukoplakia, Hairy	normalName:leukoplakia, hairy	normalWikiTitle:leukoplakia, hairy	predictedType:Disease
+CANDIDATE	id:536590	inCount:0	outCount:1	links:	url:C536590	name:Alveolar capillary dysplasia	normalName:alveolar capillary dysplasia	normalWikiTitle:alveolar capillary dysplasia	predictedType:Disease
+CANDIDATE	id:10211	inCount:0	outCount:1	links:	url:D010211	name:Papilledema	normalName:papilledema	normalWikiTitle:papilledema	predictedType:Disease
+CANDIDATE	id:537875	inCount:0	outCount:1	links:	url:C537875	name:Laryngeal cleft	normalName:laryngeal cleft	normalWikiTitle:laryngeal cleft	predictedType:Disease
+CANDIDATE	id:10383	inCount:1	outCount:1	links:	url:D010383	name:Pellagra	normalName:pellagra	normalWikiTitle:pellagra	predictedType:Disease
+CANDIDATE	id:2291	inCount:2	outCount:2	links:	url:D002291	name:Carcinoma, Papillary	normalName:carcinoma, papillary	normalWikiTitle:carcinoma, papillary	predictedType:Disease
+ENTITY	text:fever	normalName:fever	predictedType:disease	q:true	qid:Q383	docId:10328196	origText:fever	url:D005334
+CANDIDATE	id:5334	inCount:5	outCount:1	links:	url:D005334	name:Fever	normalName:fever	normalWikiTitle:fever	predictedType:Disease
+ENTITY	text:capillary leak syndrome	normalName:capillary leak syndrome	predictedType:disease	q:true	qid:Q383	docId:10328196	origText:capillary leak syndrome	url:D019559
+CANDIDATE	id:19559	inCount:1	outCount:1	links:19559	url:D019559	name:Capillary Leak Syndrome	normalName:capillary leak syndrome	normalWikiTitle:capillary leak syndrome	predictedType:Disease
+ENTITY	text:anemia	normalName:anemia	predictedType:disease	q:true	qid:Q383	docId:10328196	origText:anemia	url:D000740
+CANDIDATE	id:740	inCount:14	outCount:1	links:	url:D000740	name:Anemia	normalName:anemia	normalWikiTitle:anemia	predictedType:Disease

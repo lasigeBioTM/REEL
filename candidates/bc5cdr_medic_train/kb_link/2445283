@@ -1,0 +1,20 @@
+ENTITY	text:death	normalName:death	predictedType:disease	q:true	qid:Q40	docId:2445283	origText:death	url:D003643
+CANDIDATE	id:3643	inCount:11	outCount:1	links:	url:D003643	name:Death	normalName:death	normalWikiTitle:death	predictedType:Disease
+ENTITY	text:viremia	normalName:viremia	predictedType:disease	q:true	qid:Q40	docId:2445283	origText:viremia	url:D014766
+CANDIDATE	id:14766	inCount:1	outCount:2	links:	url:D014766	name:Viremia	normalName:viremia	normalWikiTitle:viremia	predictedType:Disease
+ENTITY	text:Argentine hemorrhagic fever	normalName:argentine hemorrhagic fever	predictedType:disease	q:true	qid:Q40	docId:2445283	origText:Argentine hemorrhagic fever	url:D006478
+CANDIDATE	id:6478	inCount:0	outCount:2	links:	url:D006478	name:Hemorrhagic Fever, Argentinian	normalName:hemorrhagic fever, argentinian	normalWikiTitle:hemorrhagic fever, argentinian	predictedType:Disease
+CANDIDATE	id:6478	inCount:0	outCount:2	links:	url:D006478	name:Hemorrhagic Fever, American	normalName:hemorrhagic fever, american	normalWikiTitle:hemorrhagic fever, american	predictedType:Disease
+CANDIDATE	id:6479	inCount:0	outCount:3	links:	url:D006479	name:Hemorrhagic Fever, Crimean	normalName:hemorrhagic fever, crimean	normalWikiTitle:hemorrhagic fever, crimean	predictedType:Disease
+CANDIDATE	id:19142	inCount:0	outCount:2	links:	url:D019142	name:Hemorrhagic Fever, Ebola	normalName:hemorrhagic fever, ebola	normalWikiTitle:hemorrhagic fever, ebola	predictedType:Disease
+CANDIDATE	id:6481	inCount:0	outCount:3	links:	url:D006481	name:Hemorrhagic Fever, Omsk	normalName:hemorrhagic fever, omsk	normalWikiTitle:hemorrhagic fever, omsk	predictedType:Disease
+CANDIDATE	id:6482	inCount:11	outCount:1	links:	url:D006482	name:Hemorrhagic Fevers, Viral	normalName:hemorrhagic fevers, viral	normalWikiTitle:hemorrhagic fevers, viral	predictedType:Disease
+CANDIDATE	id:6474	inCount:26	outCount:1	links:	url:D006474	name:Hemorrhagic Disorders	normalName:hemorrhagic disorders	normalWikiTitle:hemorrhagic disorders	predictedType:Disease
+CANDIDATE	id:3232	inCount:0	outCount:2	links:	url:D003232	name:Conjunctivitis, Acute Hemorrhagic	normalName:conjunctivitis, acute hemorrhagic	normalWikiTitle:conjunctivitis, acute hemorrhagic	predictedType:Disease
+CANDIDATE	id:5884	inCount:1	outCount:2	links:	url:D005884	name:Gingival Hemorrhage	normalName:gingival hemorrhage	normalWikiTitle:gingival hemorrhage	predictedType:Disease
+CANDIDATE	id:6471	inCount:3	outCount:2	links:	url:D006471	name:Gastrointestinal Hemorrhage	normalName:gastrointestinal hemorrhage	normalWikiTitle:gastrointestinal hemorrhage	predictedType:Disease
+CANDIDATE	id:5130	inCount:4	outCount:3	links:	url:D005130	name:Eye Hemorrhage	normalName:eye hemorrhage	normalWikiTitle:eye hemorrhage	predictedType:Disease
+CANDIDATE	id:6478	inCount:0	outCount:2	links:	url:D006478	name:Argentinian Hemorrhagic Fever	normalName:argentinian hemorrhagic fever	normalWikiTitle:argentinian hemorrhagic fever	predictedType:Disease
+CANDIDATE	id:6478	inCount:0	outCount:2	links:	url:D006478	name:Fever, Argentinian Hemorrhagic	normalName:fever, argentinian hemorrhagic	normalWikiTitle:fever, argentinian hemorrhagic	predictedType:Disease
+ENTITY	text:anemia	normalName:anemia	predictedType:disease	q:true	qid:Q40	docId:2445283	origText:anemia	url:D000740
+CANDIDATE	id:740	inCount:14	outCount:1	links:	url:D000740	name:Anemia	normalName:anemia	normalWikiTitle:anemia	predictedType:Disease

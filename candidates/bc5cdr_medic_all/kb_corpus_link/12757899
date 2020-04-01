@@ -1,0 +1,25 @@
+ENTITY	text:hippocampal injury	normalName:hippocampal injury	predictedType:disease	q:true	qid:Q1178	docId:12757899	origText:hippocampal injury	url:D001930
+CANDIDATE	id:1930	inCount:7	outCount:2	links:13226;12640	url:D001930	name:Brain Injury, Focal	normalName:brain injury, focal	normalWikiTitle:brain injury, focal	predictedType:Disease
+CANDIDATE	id:67390	inCount:1	outCount:1	links:	url:D000067390	name:Cold Injury	normalName:cold injury	normalWikiTitle:cold injury	predictedType:Disease
+CANDIDATE	id:25981	inCount:2	outCount:1	links:	url:D025981	name:Hip Injuries	normalName:hip injuries	normalWikiTitle:hip injuries	predictedType:Disease
+CANDIDATE	id:56886	inCount:0	outCount:2	links:	url:D056886	name:Contrecoup Injury	normalName:contrecoup injury	normalWikiTitle:contrecoup injury	predictedType:Disease
+CANDIDATE	id:7	inCount:3	outCount:1	links:	url:D000007	name:Abdominal Injuries	normalName:abdominal injuries	normalWikiTitle:abdominal injuries	predictedType:Disease
+CANDIDATE	id:5151	inCount:2	outCount:1	links:	url:D005151	name:Facial Injuries	normalName:facial injuries	normalWikiTitle:facial injuries	predictedType:Disease
+CANDIDATE	id:5543	inCount:2	outCount:1	links:	url:D005543	name:Forearm Injuries	normalName:forearm injuries	normalWikiTitle:forearm injuries	predictedType:Disease
+CANDIDATE	id:65306	inCount:1	outCount:2	links:	url:D065306	name:Corneal Injuries	normalName:corneal injuries	normalWikiTitle:corneal injuries	predictedType:Disease
+CANDIDATE	id:1134	inCount:4	outCount:1	links:	url:D001134	name:Arm Injuries	normalName:arm injuries	normalWikiTitle:arm injuries	predictedType:Disease
+CANDIDATE	id:20208	inCount:1	outCount:2	links:	url:D020208	name:Brain Injury, Chronic	normalName:brain injury, chronic	normalWikiTitle:brain injury, chronic	predictedType:Disease
+CANDIDATE	id:537972	inCount:0	outCount:2	links:	url:C537972	name:Camptodactyly taurinuria	normalName:camptodactyly taurinuria	normalWikiTitle:camptodactyly taurinuria	predictedType:Disease
+CANDIDATE	id:1930	inCount:7	outCount:2	links:13226;12640	url:D001930	name:Focal Brain Injury	normalName:focal brain injury	normalWikiTitle:focal brain injury	predictedType:Disease
+CANDIDATE	id:1930	inCount:7	outCount:2	links:13226;12640	url:D001930	name:Injury, Focal Brain	normalName:injury, focal brain	normalWikiTitle:injury, focal brain	predictedType:Disease
+CANDIDATE	id:5151	inCount:2	outCount:1	links:	url:D005151	name:Injury, Facial	normalName:injury, facial	normalWikiTitle:injury, facial	predictedType:Disease
+CANDIDATE	id:7	inCount:3	outCount:1	links:	url:D000007	name:Abdominal Injury	normalName:abdominal injury	normalWikiTitle:abdominal injury	predictedType:Disease
+CANDIDATE	id:5151	inCount:2	outCount:1	links:	url:D005151	name:Facial Injury	normalName:facial injury	normalWikiTitle:facial injury	predictedType:Disease
+CANDIDATE	id:7	inCount:3	outCount:1	links:	url:D000007	name:Injury, Abdominal	normalName:injury, abdominal	normalWikiTitle:injury, abdominal	predictedType:Disease
+CANDIDATE	id:70598	inCount:0	outCount:1	links:	url:D000070598	name:Injury, ACL	normalName:injury, acl	normalWikiTitle:injury, acl	predictedType:Disease
+CANDIDATE	id:1134	inCount:4	outCount:1	links:	url:D001134	name:Arm Injury	normalName:arm injury	normalWikiTitle:arm injury	predictedType:Disease
+CANDIDATE	id:1134	inCount:4	outCount:1	links:	url:D001134	name:Injury, Arm	normalName:injury, arm	normalWikiTitle:injury, arm	predictedType:Disease
+ENTITY	text:seizure	normalName:seizure	predictedType:disease	q:true	qid:Q1178	docId:12757899	origText:seizure	url:D012640
+CANDIDATE	id:12640	inCount:53	outCount:1	links:1930;13226	url:D012640	name:Seizure	normalName:seizure	normalWikiTitle:seizure	predictedType:Disease
+ENTITY	text:status epilepticus	normalName:status epilepticus	predictedType:disease	q:true	qid:Q1178	docId:12757899	origText:status epilepticus	url:D013226
+CANDIDATE	id:13226	inCount:1	outCount:1	links:1930;12640	url:D013226	name:Status Epilepticus	normalName:status epilepticus	normalWikiTitle:status epilepticus	predictedType:Disease

@@ -1,0 +1,6 @@
+ENTITY	text:acute promyelocytic leukemia	normalName:acute promyelocytic leukemia	predictedType:disease	q:true	qid:Q372	docId:24658375	origText:acute promyelocytic leukemia	url:D015473
+CANDIDATE	id:15473	inCount:0	outCount:1	links:15473	url:D015473	name:Leukemia, Promyelocytic, Acute	normalName:leukemia, promyelocytic, acute	normalWikiTitle:leukemia, promyelocytic, acute	predictedType:Disease
+ENTITY	text:APL	normalName:apl	predictedType:disease	q:true	qid:Q372	docId:24658375	origText:APL	url:D015473
+CANDIDATE	id:15473	inCount:0	outCount:1	links:15473	url:D015473	name:APL	normalName:apl	normalWikiTitle:apl	predictedType:Disease
+ENTITY	text:myositis	normalName:myositis	predictedType:disease	q:true	qid:Q372	docId:24658375	origText:myositis	url:D009220
+CANDIDATE	id:9220	inCount:8	outCount:1	links:	url:D009220	name:Myositis	normalName:myositis	normalWikiTitle:myositis	predictedType:Disease

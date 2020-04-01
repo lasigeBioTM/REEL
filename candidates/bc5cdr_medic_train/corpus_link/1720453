@@ -1,0 +1,68 @@
+ENTITY	text:proteinuria	normalName:proteinuria	predictedType:disease	q:true	qid:Q287	docId:1720453	origText:proteinuria	url:D011507
+CANDIDATE	id:11507	inCount:4	outCount:2	links:66126;419	url:D011507	name:Proteinuria	normalName:proteinuria	normalWikiTitle:proteinuria	predictedType:Disease
+ENTITY	text:tumor	normalName:tumor	predictedType:disease	q:true	qid:Q287	docId:1720453	origText:tumor	url:D009369
+CANDIDATE	id:9369	inCount:18	outCount:1	links:	url:D009369	name:Tumor	normalName:tumor	normalWikiTitle:tumor	predictedType:Disease
+ENTITY	text:Malignant Mesenchymal Tumor	normalName:malignant mesenchymal tumor	predictedType:disease	q:true	qid:Q287	docId:1720453	origText:Malignant Mesenchymal Tumor	url:C535700
+CANDIDATE	id:535700	inCount:0	outCount:1	links:	url:C535700	name:Malignant mesenchymal tumor	normalName:malignant mesenchymal tumor	normalWikiTitle:malignant mesenchymal tumor	predictedType:Disease
+ENTITY	text:aminoaciduria	normalName:aminoaciduria	predictedType:disease	q:true	qid:Q287	docId:1720453	origText:aminoaciduria	url:D000608
+CANDIDATE	id:608	inCount:6	outCount:1	links:	url:D000608	name:Aminoaciduria, Renal	normalName:aminoaciduria, renal	normalWikiTitle:aminoaciduria, renal	predictedType:Disease
+CANDIDATE	id:608	inCount:6	outCount:1	links:	url:D000608	name:Renal Aminoacidurias	normalName:renal aminoacidurias	normalWikiTitle:renal aminoacidurias	predictedType:Disease
+CANDIDATE	id:536285	inCount:0	outCount:1	links:	url:C536285	name:Iminoglycinuria	normalName:iminoglycinuria	normalWikiTitle:iminoglycinuria	predictedType:Disease
+CANDIDATE	id:536171	inCount:0	outCount:2	links:	url:C536171	name:Dicarboxylicaminoaciduria	normalName:dicarboxylicaminoaciduria	normalWikiTitle:dicarboxylicaminoaciduria	predictedType:Disease
+CANDIDATE	id:565630	inCount:0	outCount:4	links:	url:C565630	name:Diaminopentanuria	normalName:diaminopentanuria	normalWikiTitle:diaminopentanuria	predictedType:Disease
+CANDIDATE	id:53158	inCount:0	outCount:1	links:	url:D053158	name:Nocturia	normalName:nocturia	normalWikiTitle:nocturia	predictedType:Disease
+CANDIDATE	id:419	inCount:0	outCount:1	links:66126;11507	url:D000419	name:Albuminuria	normalName:albuminuria	normalWikiTitle:albuminuria	predictedType:Disease
+CANDIDATE	id:565453	inCount:0	outCount:4	links:	url:C565453	name:Ketoadipicaciduria	normalName:ketoadipicaciduria	normalWikiTitle:ketoadipicaciduria	predictedType:Disease
+CANDIDATE	id:73818	inCount:0	outCount:1	links:	url:D000073818	name:Pain, Procedural	normalName:pain, procedural	normalWikiTitle:pain, procedural	predictedType:Disease
+CANDIDATE	id:1002	inCount:0	outCount:2	links:	url:D001002	name:Anuria	normalName:anuria	normalWikiTitle:anuria	predictedType:Disease
+CANDIDATE	id:535845	inCount:0	outCount:1	links:	url:C535845	name:Hawkinsinuria	normalName:hawkinsinuria	normalWikiTitle:hawkinsinuria	predictedType:Disease
+CANDIDATE	id:608	inCount:6	outCount:1	links:	url:D000608	name:Renal Aminoaciduria	normalName:renal aminoaciduria	normalWikiTitle:renal aminoaciduria	predictedType:Disease
+ENTITY	text:mesenchymal tumors	normalName:mesenchymal tumors	predictedType:disease	q:true	qid:Q287	docId:1720453	origText:mesenchymal tumors	url:C535700
+CANDIDATE	id:535700	inCount:0	outCount:1	links:	url:C535700	name:Malignant mesenchymal tumor	normalName:malignant mesenchymal tumor	normalWikiTitle:malignant mesenchymal tumor	predictedType:Disease
+CANDIDATE	id:8637	inCount:1	outCount:1	links:	url:D008637	name:Mesenchymoma	normalName:mesenchymoma	normalWikiTitle:mesenchymoma	predictedType:Disease
+CANDIDATE	id:18199	inCount:0	outCount:2	links:	url:D018199	name:Mixed Tumor, Mesodermal	normalName:mixed tumor, mesodermal	normalWikiTitle:mixed tumor, mesodermal	predictedType:Disease
+CANDIDATE	id:20329	inCount:5	outCount:1	links:	url:D020329	name:Essential Tremor	normalName:essential tremor	normalWikiTitle:essential tremor	predictedType:Disease
+CANDIDATE	id:17599	inCount:4	outCount:2	links:	url:D017599	name:Neuroectodermal Tumors	normalName:neuroectodermal tumors	normalWikiTitle:neuroectodermal tumors	predictedType:Disease
+CANDIDATE	id:536408	inCount:0	outCount:1	links:	url:C536408	name:Neural crest tumor	normalName:neural crest tumor	normalWikiTitle:neural crest tumor	predictedType:Disease
+CANDIDATE	id:36821	inCount:1	outCount:3	links:	url:D036821	name:Endometrial Stromal Tumors	normalName:endometrial stromal tumors	normalWikiTitle:endometrial stromal tumors	predictedType:Disease
+CANDIDATE	id:564777	inCount:0	outCount:2	links:	url:C564777	name:Male Germ Cell Tumor	normalName:male germ cell tumor	normalWikiTitle:male germ cell tumor	predictedType:Disease
+CANDIDATE	id:535838	inCount:0	outCount:1	links:	url:C535838	name:Pancreatic islet cell tumors	normalName:pancreatic islet cell tumors	normalWikiTitle:pancreatic islet cell tumors	predictedType:Disease
+CANDIDATE	id:18254	inCount:0	outCount:2	links:	url:D018254	name:Adenomatoid Tumor	normalName:adenomatoid tumor	normalWikiTitle:adenomatoid tumor	predictedType:Disease
+ENTITY	text:malignant mesenchymal tumors	normalName:malignant mesenchymal tumors	predictedType:disease	q:true	qid:Q287	docId:1720453	origText:malignant mesenchymal tumors	url:C535700
+CANDIDATE	id:535700	inCount:0	outCount:1	links:	url:C535700	name:Malignant mesenchymal tumor	normalName:malignant mesenchymal tumor	normalWikiTitle:malignant mesenchymal tumor	predictedType:Disease
+ENTITY	text:glucosuria	normalName:glucosuria	predictedType:disease	q:true	qid:Q287	docId:1720453	origText:glucosuria	url:D006030
+CANDIDATE	id:6030	inCount:1	outCount:2	links:	url:D006030	name:Glycosuria, Renal	normalName:glycosuria, renal	normalWikiTitle:glycosuria, renal	predictedType:Disease
+CANDIDATE	id:6029	inCount:1	outCount:2	links:	url:D006029	name:Glycosuria	normalName:glycosuria	normalWikiTitle:glycosuria	predictedType:Disease
+CANDIDATE	id:538068	inCount:0	outCount:1	links:	url:C538068	name:Fructosuria	normalName:fructosuria	normalWikiTitle:fructosuria	predictedType:Disease
+CANDIDATE	id:562670	inCount:0	outCount:1	links:	url:C562670	name:Glucoglycinuria	normalName:glucoglycinuria	normalWikiTitle:glucoglycinuria	predictedType:Disease
+CANDIDATE	id:536836	inCount:0	outCount:1	links:	url:C536836	name:Glutathionuria	normalName:glutathionuria	normalWikiTitle:glutathionuria	predictedType:Disease
+CANDIDATE	id:5901	inCount:34	outCount:1	links:	url:D005901	name:Glaucoma	normalName:glaucoma	normalWikiTitle:glaucoma	predictedType:Disease
+CANDIDATE	id:54880	inCount:1	outCount:1	links:	url:D054880	name:Aspartylglucosaminuria	normalName:aspartylglucosaminuria	normalWikiTitle:aspartylglucosaminuria	predictedType:Disease
+CANDIDATE	id:9212	inCount:3	outCount:1	links:	url:D009212	name:Myoglobinuria	normalName:myoglobinuria	normalWikiTitle:myoglobinuria	predictedType:Disease
+CANDIDATE	id:5693	inCount:0	outCount:2	links:	url:D005693	name:Galactosemias	normalName:galactosemias	normalWikiTitle:galactosemias	predictedType:Disease
+CANDIDATE	id:3555	inCount:3	outCount:1	links:	url:D003555	name:Cystinuria	normalName:cystinuria	normalWikiTitle:cystinuria	predictedType:Disease
+ENTITY	text:toxicity	normalName:toxicity	predictedType:disease	q:true	qid:Q287	docId:1720453	origText:toxicity	url:D064420
+CANDIDATE	id:64420	inCount:10	outCount:1	links:	url:D064420	name:Drug Toxicity	normalName:drug toxicity	normalWikiTitle:drug toxicity	predictedType:Disease
+CANDIDATE	id:66126	inCount:0	outCount:3	links:419;11507	url:D066126	name:Cardiotoxicity	normalName:cardiotoxicity	normalWikiTitle:cardiotoxicity	predictedType:Disease
+CANDIDATE	id:15651	inCount:2	outCount:1	links:	url:D015651	name:Mycotoxicosis	normalName:mycotoxicosis	normalWikiTitle:mycotoxicosis	predictedType:Disease
+CANDIDATE	id:13971	inCount:2	outCount:1	links:	url:D013971	name:Thyrotoxicosis	normalName:thyrotoxicosis	normalWikiTitle:thyrotoxicosis	predictedType:Disease
+CANDIDATE	id:14869	inCount:0	outCount:2	links:	url:D014869	name:Water Intoxication	normalName:water intoxication	normalWikiTitle:water intoxication	predictedType:Disease
+CANDIDATE	id:14103	inCount:4	outCount:2	links:	url:D014103	name:Torticollis	normalName:torticollis	normalWikiTitle:torticollis	predictedType:Disease
+CANDIDATE	id:9765	inCount:42	outCount:2	links:	url:D009765	name:Obesity	normalName:obesity	normalWikiTitle:obesity	predictedType:Disease
+CANDIDATE	id:14115	inCount:1	outCount:1	links:	url:D014115	name:Toxemia	normalName:toxemia	normalWikiTitle:toxemia	predictedType:Disease
+CANDIDATE	id:7246	inCount:2	outCount:2	links:	url:D007246	name:Infertility	normalName:infertility	normalWikiTitle:infertility	predictedType:Disease
+CANDIDATE	id:20234	inCount:0	outCount:2	links:	url:D020234	name:Gait Ataxia	normalName:gait ataxia	normalWikiTitle:gait ataxia	predictedType:Disease
+CANDIDATE	id:14069	inCount:1	outCount:1	links:	url:D014069	name:Tonsillitis	normalName:tonsillitis	normalWikiTitle:tonsillitis	predictedType:Disease
+CANDIDATE	id:64420	inCount:10	outCount:1	links:	url:D064420	name:Toxicity, Drug	normalName:toxicity, drug	normalWikiTitle:toxicity, drug	predictedType:Disease
+CANDIDATE	id:17484	inCount:0	outCount:2	links:	url:D017484	name:Phototoxicity	normalName:phototoxicity	normalWikiTitle:phototoxicity	predictedType:Disease
+ENTITY	text:Fanconi's syndrome	normalName:fanconi's syndrome	predictedType:disease	q:true	qid:Q287	docId:1720453	origText:Fanconi's syndrome	url:D005198
+CANDIDATE	id:5198	inCount:4	outCount:1	links:	url:D005198	name:Fanconi Syndrome	normalName:fanconi syndrome	normalWikiTitle:fanconi syndrome	predictedType:Disease
+CANDIDATE	id:536855	inCount:0	outCount:4	links:	url:C536855	name:Fanconi like syndrome	normalName:fanconi like syndrome	normalWikiTitle:fanconi like syndrome	predictedType:Disease
+CANDIDATE	id:537903	inCount:0	outCount:4	links:	url:C537903	name:Banti's syndrome	normalName:banti's syndrome	normalWikiTitle:banti's syndrome	predictedType:Disease
+CANDIDATE	id:536384	inCount:0	outCount:5	links:	url:C536384	name:FACES syndrome	normalName:faces syndrome	normalWikiTitle:faces syndrome	predictedType:Disease
+CANDIDATE	id:10178	inCount:0	outCount:1	links:	url:D010178	name:Pancoast Syndrome	normalName:pancoast syndrome	normalWikiTitle:pancoast syndrome	predictedType:Disease
+CANDIDATE	id:567819	inCount:0	outCount:4	links:	url:C567819	name:Santos Syndrome	normalName:santos syndrome	normalWikiTitle:santos syndrome	predictedType:Disease
+CANDIDATE	id:74962	inCount:0	outCount:2	links:	url:D000074962	name:Kounis Syndrome	normalName:kounis syndrome	normalWikiTitle:kounis syndrome	predictedType:Disease
+CANDIDATE	id:537560	inCount:0	outCount:4	links:	url:C537560	name:Jacobs syndrome	normalName:jacobs syndrome	normalWikiTitle:jacobs syndrome	predictedType:Disease
+CANDIDATE	id:535539	inCount:0	outCount:3	links:	url:C535539	name:Irons Bhan syndrome	normalName:irons bhan syndrome	normalWikiTitle:irons bhan syndrome	predictedType:Disease
+CANDIDATE	id:537408	inCount:0	outCount:3	links:	url:C537408	name:Brunoni syndrome	normalName:brunoni syndrome	normalWikiTitle:brunoni syndrome	predictedType:Disease

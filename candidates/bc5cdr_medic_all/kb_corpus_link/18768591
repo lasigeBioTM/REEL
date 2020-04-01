@@ -1,0 +1,38 @@
+ENTITY	text:nephrotic syndrome	normalName:nephrotic syndrome	predictedType:disease	q:true	qid:Q1445	docId:18768591	origText:nephrotic syndrome	url:D009404
+CANDIDATE	id:9404	inCount:23	outCount:1	links:6949;14511;11507;9404;5355;34141;9401;1201	url:D009404	name:Nephrotic Syndrome	normalName:nephrotic syndrome	normalWikiTitle:nephrotic syndrome	predictedType:Disease
+ENTITY	text:nephrotic	normalName:nephrotic	predictedType:disease	q:true	qid:Q1445	docId:18768591	origText:nephrotic	url:D009404
+CANDIDATE	id:9404	inCount:23	outCount:1	links:6949;14511;11507;9404;5355;34141;9401;1201	url:D009404	name:Nephrotic Syndrome	normalName:nephrotic syndrome	normalWikiTitle:nephrotic syndrome	predictedType:Disease
+CANDIDATE	id:9401	inCount:8	outCount:1	links:6949;14511;11507;9404;5355;34141;1201	url:D009401	name:Nephrosis	normalName:nephrosis	normalWikiTitle:nephrosis	predictedType:Disease
+CANDIDATE	id:9393	inCount:10	outCount:1	links:	url:D009393	name:Nephritis	normalName:nephritis	normalWikiTitle:nephritis	predictedType:Disease
+CANDIDATE	id:53018	inCount:0	outCount:1	links:	url:D053018	name:Pyonephrosis	normalName:pyonephrosis	normalWikiTitle:pyonephrosis	predictedType:Disease
+CANDIDATE	id:53040	inCount:9	outCount:2	links:	url:D053040	name:Nephrolithiasis	normalName:nephrolithiasis	normalWikiTitle:nephrolithiasis	predictedType:Disease
+CANDIDATE	id:10501	inCount:0	outCount:1	links:	url:D010501	name:Perinephritis	normalName:perinephritis	normalWikiTitle:perinephritis	predictedType:Disease
+CANDIDATE	id:1763	inCount:24	outCount:1	links:	url:D001763	name:Blepharoptosis	normalName:blepharoptosis	normalWikiTitle:blepharoptosis	predictedType:Disease
+CANDIDATE	id:6869	inCount:5	outCount:1	links:	url:D006869	name:Hydronephrosis	normalName:hydronephrosis	normalWikiTitle:hydronephrosis	predictedType:Disease
+CANDIDATE	id:11704	inCount:1	outCount:2	links:	url:D011704	name:Pyelonephritis	normalName:pyelonephritis	normalWikiTitle:pyelonephritis	predictedType:Disease
+CANDIDATE	id:9902	inCount:1	outCount:1	links:	url:D009902	name:Optic Neuritis	normalName:optic neuritis	normalWikiTitle:optic neuritis	predictedType:Disease
+ENTITY	text:volume retention	normalName:volume retention	predictedType:disease	q:true	qid:Q1445	docId:18768591	origText:volume retention	url:D016055
+CANDIDATE	id:16055	inCount:0	outCount:1	links:	url:D016055	name:Urinary Retention	normalName:urinary retention	normalWikiTitle:urinary retention	predictedType:Disease
+CANDIDATE	id:56770	inCount:0	outCount:3	links:	url:D056770	name:Netherton Syndrome	normalName:netherton syndrome	normalWikiTitle:netherton syndrome	predictedType:Disease
+CANDIDATE	id:9410	inCount:6	outCount:1	links:	url:D009410	name:Nerve Degeneration	normalName:nerve degeneration	normalWikiTitle:nerve degeneration	predictedType:Disease
+CANDIDATE	id:59468	inCount:0	outCount:1	links:	url:D059468	name:Masked Hypertension	normalName:masked hypertension	normalWikiTitle:masked hypertension	predictedType:Disease
+CANDIDATE	id:6975	inCount:3	outCount:1	links:	url:D006975	name:Hypertension, Portal	normalName:hypertension, portal	normalWikiTitle:hypertension, portal	predictedType:Disease
+CANDIDATE	id:45822	inCount:2	outCount:2	links:	url:D045822	name:Intestinal Volvulus	normalName:intestinal volvulus	normalWikiTitle:intestinal volvulus	predictedType:Disease
+CANDIDATE	id:9798	inCount:1	outCount:1	links:	url:D009798	name:Ocular Hypertension	normalName:ocular hypertension	normalWikiTitle:ocular hypertension	predictedType:Disease
+CANDIDATE	id:60725	inCount:0	outCount:2	links:	url:D060725	name:Uterine Retroversion	normalName:uterine retroversion	normalWikiTitle:uterine retroversion	predictedType:Disease
+CANDIDATE	id:537538	inCount:0	outCount:1	links:	url:C537538	name:Segmentation syndrome 1	normalName:segmentation syndrome 1	normalWikiTitle:segmentation syndrome 1	predictedType:Disease
+CANDIDATE	id:15828	inCount:4	outCount:2	links:	url:D015828	name:Eye Infections, Viral	normalName:eye infections, viral	normalWikiTitle:eye infections, viral	predictedType:Disease
+ENTITY	text:hypoalbuminemia	normalName:hypoalbuminemia	predictedType:disease	q:true	qid:Q1445	docId:18768591	origText:hypoalbuminemia	url:D034141
+CANDIDATE	id:34141	inCount:1	outCount:1	links:6949;14511;11507;9404;5355;9401;1201	url:D034141	name:Hypoalbuminemia	normalName:hypoalbuminemia	normalWikiTitle:hypoalbuminemia	predictedType:Disease
+ENTITY	text:ascites	normalName:ascites	predictedType:disease	q:true	qid:Q1445	docId:18768591	origText:ascites	url:D001201
+CANDIDATE	id:1201	inCount:0	outCount:1	links:6949;11507;9404;5355;34141;9401;14511	url:D001201	name:Ascites	normalName:ascites	normalWikiTitle:ascites	predictedType:Disease
+ENTITY	text:lipidemia	normalName:lipidemia	predictedType:disease	q:true	qid:Q1445	docId:18768591	origText:lipidemia	url:D006949
+CANDIDATE	id:6949	inCount:5	outCount:1	links:14511;11507;9404;5355;34141;9401;1201	url:D006949	name:Lipidemia	normalName:lipidemia	normalWikiTitle:lipidemia	predictedType:Disease
+ENTITY	text:proteinuria	normalName:proteinuria	predictedType:disease	q:true	qid:Q1445	docId:18768591	origText:proteinuria	url:D011507
+CANDIDATE	id:11507	inCount:4	outCount:2	links:6949;14511;9404;5355;34141;9401;1201	url:D011507	name:Proteinuria	normalName:proteinuria	normalWikiTitle:proteinuria	predictedType:Disease
+ENTITY	text:weight gain	normalName:weight gain	predictedType:disease	q:true	qid:Q1445	docId:18768591	origText:weight gain	url:D015430
+CANDIDATE	id:15430	inCount:1	outCount:1	links:	url:D015430	name:Weight Gain	normalName:weight gain	normalWikiTitle:weight gain	predictedType:Disease
+ENTITY	text:fibrosis	normalName:fibrosis	predictedType:disease	q:true	qid:Q1445	docId:18768591	origText:fibrosis	url:D005355
+CANDIDATE	id:5355	inCount:11	outCount:1	links:6949;14511;11507;9404;34141;9401;1201	url:D005355	name:Fibrosis	normalName:fibrosis	normalWikiTitle:fibrosis	predictedType:Disease
+ENTITY	text:uremia	normalName:uremia	predictedType:disease	q:true	qid:Q1445	docId:18768591	origText:uremia	url:D014511
+CANDIDATE	id:14511	inCount:2	outCount:1	links:6949;11507;9404;5355;34141;9401;1201	url:D014511	name:Uremia	normalName:uremia	normalWikiTitle:uremia	predictedType:Disease

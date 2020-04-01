@@ -1,0 +1,36 @@
+ENTITY	text:infection	normalName:infection	predictedType:disease	q:true	qid:Q35	docId:8312343	origText:infection	url:D007239
+CANDIDATE	id:7239	inCount:33	outCount:1	links:6973;7239	url:D007239	name:Infection	normalName:infection	normalWikiTitle:infection	predictedType:Disease
+ENTITY	text:Seizures	normalName:seizures	predictedType:disease	q:true	qid:Q35	docId:8312343	origText:Seizures	url:D012640
+CANDIDATE	id:12640	inCount:53	outCount:1	links:9202	url:D012640	name:Seizure	normalName:seizure	normalWikiTitle:seizure	predictedType:Disease
+ENTITY	text:lymphoproliferative disorder	normalName:lymphoproliferative disorder	predictedType:disease	q:true	qid:Q35	docId:8312343	origText:lymphoproliferative disorder	url:D008232
+CANDIDATE	id:8232	inCount:24	outCount:2	links:	url:D008232	name:Disorder, Lymphoproliferative	normalName:disorder, lymphoproliferative	normalWikiTitle:disorder, lymphoproliferative	predictedType:Disease
+ENTITY	text:infections	normalName:infections	predictedType:disease	q:true	qid:Q35	docId:8312343	origText:infections	url:D007239
+CANDIDATE	id:7239	inCount:33	outCount:1	links:6973;7239	url:D007239	name:Infection	normalName:infection	normalWikiTitle:infection	predictedType:Disease
+ENTITY	text:hypertrophic cardiomyopathy	normalName:hypertrophic cardiomyopathy	predictedType:disease	q:true	qid:Q35	docId:8312343	origText:hypertrophic cardiomyopathy	url:D002312
+CANDIDATE	id:2312	inCount:5	outCount:2	links:2312	url:D002312	name:Cardiomyopathy, Hypertrophic	normalName:cardiomyopathy, hypertrophic	normalWikiTitle:cardiomyopathy, hypertrophic	predictedType:Disease
+ENTITY	text:idiopathic cardiomyopathy	normalName:idiopathic cardiomyopathy	predictedType:disease	q:true	qid:Q35	docId:8312343	origText:idiopathic cardiomyopathy	url:D002311
+CANDIDATE	id:2311	inCount:50	outCount:2	links:	url:D002311	name:Idiopathic Dilated Cardiomyopathy	normalName:idiopathic dilated cardiomyopathy	normalWikiTitle:idiopathic dilated cardiomyopathy	predictedType:Disease
+CANDIDATE	id:536277	inCount:0	outCount:1	links:	url:C536277	name:Idiopathic dilation cardiomyopathy	normalName:idiopathic dilation cardiomyopathy	normalWikiTitle:idiopathic dilation cardiomyopathy	predictedType:Disease
+CANDIDATE	id:2311	inCount:50	outCount:2	links:	url:D002311	name:Cardiomyopathy, Dilated	normalName:cardiomyopathy, dilated	normalWikiTitle:cardiomyopathy, dilated	predictedType:Disease
+CANDIDATE	id:58065	inCount:0	outCount:2	links:	url:D058065	name:Diabetic Cardiomyopathies	normalName:diabetic cardiomyopathies	normalWikiTitle:diabetic cardiomyopathies	predictedType:Disease
+CANDIDATE	id:2312	inCount:5	outCount:2	links:2312	url:D002312	name:Cardiomyopathy, Hypertrophic	normalName:cardiomyopathy, hypertrophic	normalWikiTitle:cardiomyopathy, hypertrophic	predictedType:Disease
+CANDIDATE	id:564679	inCount:0	outCount:1	links:	url:C564679	name:Cardiomyopathy, Dilated, 1l	normalName:cardiomyopathy, dilated, 1l	normalWikiTitle:cardiomyopathy, dilated, 1l	predictedType:Disease
+CANDIDATE	id:567506	inCount:0	outCount:1	links:	url:C567506	name:Cardiomyopathy, Dilated, 1z	normalName:cardiomyopathy, dilated, 1z	normalWikiTitle:cardiomyopathy, dilated, 1z	predictedType:Disease
+CANDIDATE	id:563538	inCount:0	outCount:1	links:	url:C563538	name:Cardiomyopathy, Dilated, 1s	normalName:cardiomyopathy, dilated, 1s	normalWikiTitle:cardiomyopathy, dilated, 1s	predictedType:Disease
+CANDIDATE	id:564390	inCount:0	outCount:1	links:	url:C564390	name:Cardiomyopathy, Dilated, 1M	normalName:cardiomyopathy, dilated, 1m	normalWikiTitle:cardiomyopathy, dilated, 1m	predictedType:Disease
+CANDIDATE	id:566907	inCount:0	outCount:1	links:	url:C566907	name:Cardiomyopathy, Dilated, 1x	normalName:cardiomyopathy, dilated, 1x	normalWikiTitle:cardiomyopathy, dilated, 1x	predictedType:Disease
+CANDIDATE	id:566296	inCount:0	outCount:1	links:	url:C566296	name:Cardiomyopathy, Dilated, 1u	normalName:cardiomyopathy, dilated, 1u	normalWikiTitle:cardiomyopathy, dilated, 1u	predictedType:Disease
+CANDIDATE	id:58065	inCount:0	outCount:2	links:	url:D058065	name:Cardiomyopathy, Diabetic	normalName:cardiomyopathy, diabetic	normalWikiTitle:cardiomyopathy, diabetic	predictedType:Disease
+CANDIDATE	id:58065	inCount:0	outCount:2	links:	url:D058065	name:Diabetic Cardiomyopathy	normalName:diabetic cardiomyopathy	normalWikiTitle:diabetic cardiomyopathy	predictedType:Disease
+CANDIDATE	id:2311	inCount:50	outCount:2	links:	url:D002311	name:Cardiomyopathy, Idiopathic Dilated	normalName:cardiomyopathy, idiopathic dilated	normalWikiTitle:cardiomyopathy, idiopathic dilated	predictedType:Disease
+CANDIDATE	id:2311	inCount:50	outCount:2	links:	url:D002311	name:Dilated Cardiomyopathy, Idiopathic	normalName:dilated cardiomyopathy, idiopathic	normalWikiTitle:dilated cardiomyopathy, idiopathic	predictedType:Disease
+ENTITY	text:valvular heart disease	normalName:valvular heart disease	predictedType:disease	q:true	qid:Q35	docId:8312343	origText:valvular heart disease	url:D006349
+CANDIDATE	id:6349	inCount:17	outCount:1	links:	url:D006349	name:Disease, Valvular Heart	normalName:disease, valvular heart	normalWikiTitle:disease, valvular heart	predictedType:Disease
+ENTITY	text:hypertension	normalName:hypertension	predictedType:disease	q:true	qid:Q35	docId:8312343	origText:hypertension	url:D006973
+CANDIDATE	id:6973	inCount:18	outCount:1	links:9202;7239	url:D006973	name:Hypertension	normalName:hypertension	normalWikiTitle:hypertension	predictedType:Disease
+ENTITY	text:Cytomegalovirus infections	normalName:cytomegalovirus infections	predictedType:disease	q:true	qid:Q35	docId:8312343	origText:Cytomegalovirus infections	url:D003586
+CANDIDATE	id:3586	inCount:3	outCount:1	links:	url:D003586	name:Cytomegalovirus Infections	normalName:cytomegalovirus infections	normalWikiTitle:cytomegalovirus infections	predictedType:Disease
+ENTITY	text:cardiomyopathy	normalName:cardiomyopathy	predictedType:disease	q:true	qid:Q35	docId:8312343	origText:cardiomyopathy	url:D009202
+CANDIDATE	id:9202	inCount:37	outCount:1	links:12640;6973	url:D009202	name:Cardiomyopathy	normalName:cardiomyopathy	normalWikiTitle:cardiomyopathy	predictedType:Disease
+ENTITY	text:atherosclerosis	normalName:atherosclerosis	predictedType:disease	q:true	qid:Q35	docId:8312343	origText:atherosclerosis	url:D050197
+CANDIDATE	id:50197	inCount:3	outCount:1	links:	url:D050197	name:Atherosclerosis	normalName:atherosclerosis	normalWikiTitle:atherosclerosis	predictedType:Disease

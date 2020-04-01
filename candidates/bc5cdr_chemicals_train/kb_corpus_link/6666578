@@ -1,0 +1,16 @@
+ENTITY	text:D-penicillamine	normalName:d-penicillamine	predictedType:chemical	q:true	qid:Q263	docId:6666578	origText:D-penicillamine	url:D010396
+CANDIDATE	id:10396	inCount:23	outCount:1	links:	url:D010396	name:D-Penicillamine	normalName:d-penicillamine	normalWikiTitle:d-penicillamine	predictedType:Chemical
+ENTITY	text:hyaluronate	normalName:hyaluronate	predictedType:chemical	q:true	qid:Q263	docId:6666578	origText:hyaluronate	url:D006820
+CANDIDATE	id:6820	inCount:64	outCount:1	links:	url:D006820	name:Hyaluronan	normalName:hyaluronan	normalWikiTitle:hyaluronan	predictedType:Chemical
+CANDIDATE	id:6218	inCount:0	outCount:3	links:	url:D006218	name:Halofenate	normalName:halofenate	normalWikiTitle:halofenate	predictedType:Chemical
+CANDIDATE	id:51462	inCount:0	outCount:1	links:	url:C051462	name:hyaluramine	normalName:hyaluramine	normalWikiTitle:hyaluramine	predictedType:Chemical
+CANDIDATE	id:19386	inCount:6	outCount:1	links:	url:D019386	name:Alendronate	normalName:alendronate	normalWikiTitle:alendronate	predictedType:Chemical
+CANDIDATE	id:486837	inCount:0	outCount:1	links:	url:C486837	name:aurone	normalName:aurone	normalWikiTitle:aurone	predictedType:Chemical
+CANDIDATE	id:118495	inCount:0	outCount:2	links:	url:C118495	name:hyaluronate alginate	normalName:hyaluronate alginate	normalWikiTitle:hyaluronate alginate	predictedType:Chemical
+CANDIDATE	id:8314	inCount:105	outCount:1	links:	url:D008314	name:Malonates	normalName:malonates	normalWikiTitle:malonates	predictedType:Chemical
+CANDIDATE	id:593473	inCount:0	outCount:2	links:	url:C000593473	name:arhalofenate	normalName:arhalofenate	normalWikiTitle:arhalofenate	predictedType:Chemical
+CANDIDATE	id:590755	inCount:0	outCount:2	links:	url:C000590755	name:hyaluromycin	normalName:hyaluromycin	normalWikiTitle:hyaluromycin	predictedType:Chemical
+CANDIDATE	id:5965	inCount:135	outCount:1	links:	url:D005965	name:Glucuronates	normalName:glucuronates	normalWikiTitle:glucuronates	predictedType:Chemical
+CANDIDATE	id:569580	inCount:0	outCount:1	links:	url:C569580	name:alliumonoate	normalName:alliumonoate	normalWikiTitle:alliumonoate	predictedType:Chemical
+CANDIDATE	id:112514	inCount:0	outCount:2	links:	url:C112514	name:zinc hyaluronate	normalName:zinc hyaluronate	normalWikiTitle:zinc hyaluronate	predictedType:Chemical
+CANDIDATE	id:86359	inCount:0	outCount:1	links:	url:C086359	name:ethyl hyaluronate	normalName:ethyl hyaluronate	normalWikiTitle:ethyl hyaluronate	predictedType:Chemical

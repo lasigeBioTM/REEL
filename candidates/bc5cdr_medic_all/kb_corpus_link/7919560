@@ -1,0 +1,10 @@
+ENTITY	text:congestive heart failure	normalName:congestive heart failure	predictedType:disease	q:true	qid:Q128	docId:7919560	origText:congestive heart failure	url:D006333
+CANDIDATE	id:6333	inCount:5	outCount:1	links:9205	url:D006333	name:Heart Failure, Congestive	normalName:heart failure, congestive	normalWikiTitle:heart failure, congestive	predictedType:Disease
+ENTITY	text:septicemia	normalName:septicemia	predictedType:disease	q:true	qid:Q128	docId:7919560	origText:septicemia	url:D018805
+CANDIDATE	id:18805	inCount:6	outCount:2	links:9205	url:D018805	name:Septicemia	normalName:septicemia	normalWikiTitle:septicemia	predictedType:Disease
+ENTITY	text:infections	normalName:infections	predictedType:disease	q:true	qid:Q128	docId:7919560	origText:infections	url:D007239
+CANDIDATE	id:7239	inCount:33	outCount:1	links:	url:D007239	name:Infection	normalName:infection	normalWikiTitle:infection	predictedType:Disease
+ENTITY	text:Erythema multiforme	normalName:erythema multiforme	predictedType:disease	q:true	qid:Q128	docId:7919560	origText:Erythema multiforme	url:D004892
+CANDIDATE	id:4892	inCount:1	outCount:2	links:9205	url:D004892	name:Erythema Multiforme	normalName:erythema multiforme	normalWikiTitle:erythema multiforme	predictedType:Disease
+ENTITY	text:myocarditis	normalName:myocarditis	predictedType:disease	q:true	qid:Q128	docId:7919560	origText:myocarditis	url:D009205
+CANDIDATE	id:9205	inCount:2	outCount:1	links:6333;18805;4892	url:D009205	name:Myocarditis	normalName:myocarditis	normalWikiTitle:myocarditis	predictedType:Disease

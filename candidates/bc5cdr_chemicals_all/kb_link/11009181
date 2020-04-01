@@ -1,0 +1,6 @@
+ENTITY	text:dopamine	normalName:dopamine	predictedType:chemical	q:true	qid:Q279	docId:11009181	origText:dopamine	url:D004298
+CANDIDATE	id:4298	inCount:90	outCount:2	links:	url:D004298	name:Dopamine	normalName:dopamine	normalWikiTitle:dopamine	predictedType:Chemical
+ENTITY	text:levodopa	normalName:levodopa	predictedType:chemical	q:true	qid:Q279	docId:11009181	origText:levodopa	url:D007980
+CANDIDATE	id:7980	inCount:32	outCount:1	links:	url:D007980	name:Levodopa	normalName:levodopa	normalWikiTitle:levodopa	predictedType:Chemical
+ENTITY	text:Apomorphine	normalName:apomorphine	predictedType:chemical	q:true	qid:Q279	docId:11009181	origText:Apomorphine	url:D001058
+CANDIDATE	id:1058	inCount:29	outCount:1	links:	url:D001058	name:Apomorphine	normalName:apomorphine	normalWikiTitle:apomorphine	predictedType:Chemical

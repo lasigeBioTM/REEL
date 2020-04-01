@@ -1,0 +1,17 @@
+ENTITY	text:congestive heart failure	normalName:congestive heart failure	predictedType:disease	q:true	qid:Q478	docId:20635749	origText:congestive heart failure	url:D006333
+CANDIDATE	id:6333	inCount:5	outCount:1	links:18908;7022	url:D006333	name:Heart Failure, Congestive	normalName:heart failure, congestive	normalWikiTitle:heart failure, congestive	predictedType:Disease
+ENTITY	text:hypotension	normalName:hypotension	predictedType:disease	q:true	qid:Q478	docId:20635749	origText:hypotension	url:D007022
+CANDIDATE	id:7022	inCount:3	outCount:1	links:6333;18908;6948	url:D007022	name:Hypotension	normalName:hypotension	normalWikiTitle:hypotension	predictedType:Disease
+ENTITY	text:weakness	normalName:weakness	predictedType:disease	q:true	qid:Q478	docId:20635749	origText:weakness	url:D018908
+CANDIDATE	id:18908	inCount:6	outCount:3	links:6333;7022	url:D018908	name:Muscle Weakness	normalName:muscle weakness	normalWikiTitle:muscle weakness	predictedType:Disease
+CANDIDATE	id:3638	inCount:110	outCount:1	links:	url:D003638	name:Deafness	normalName:deafness	normalWikiTitle:deafness	predictedType:Disease
+CANDIDATE	id:4775	inCount:2	outCount:2	links:	url:D004775	name:Enuresis	normalName:enuresis	normalWikiTitle:enuresis	predictedType:Disease
+CANDIDATE	id:6948	inCount:1	outCount:1	links:7022	url:D006948	name:Hyperkinesis	normalName:hyperkinesis	normalWikiTitle:hyperkinesis	predictedType:Disease
+CANDIDATE	id:8548	inCount:4	outCount:1	links:	url:D008548	name:Melanosis	normalName:melanosis	normalWikiTitle:melanosis	predictedType:Disease
+CANDIDATE	id:566019	inCount:0	outCount:1	links:	url:C566019	name:Tune Deafness	normalName:tune deafness	normalWikiTitle:tune deafness	predictedType:Disease
+CANDIDATE	id:4428	inCount:0	outCount:2	links:	url:D004428	name:Ear Neoplasms	normalName:ear neoplasms	normalWikiTitle:ear neoplasms	predictedType:Disease
+CANDIDATE	id:64793	inCount:0	outCount:1	links:	url:D064793	name:Teratogenesis	normalName:teratogenesis	normalWikiTitle:teratogenesis	predictedType:Disease
+CANDIDATE	id:46608	inCount:2	outCount:1	links:	url:D046608	name:Synkinesis	normalName:synkinesis	normalWikiTitle:synkinesis	predictedType:Disease
+CANDIDATE	id:77260	inCount:0	outCount:1	links:	url:D000077260	name:Sleepiness	normalName:sleepiness	normalWikiTitle:sleepiness	predictedType:Disease
+ENTITY	text:hypothyroidism	normalName:hypothyroidism	predictedType:disease	q:true	qid:Q478	docId:20635749	origText:hypothyroidism	url:D007037
+CANDIDATE	id:7037	inCount:14	outCount:1	links:	url:D007037	name:Hypothyroidism	normalName:hypothyroidism	normalWikiTitle:hypothyroidism	predictedType:Disease

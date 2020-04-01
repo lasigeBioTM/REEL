@@ -1,0 +1,10 @@
+ENTITY	text:calcium	normalName:calcium	predictedType:chemical	q:true	qid:Q381	docId:16006300	origText:calcium	url:D002118
+CANDIDATE	id:2118	inCount:11	outCount:2	links:	url:D002118	name:Calcium	normalName:calcium	normalWikiTitle:calcium	predictedType:Chemical
+ENTITY	text:Calcium carbonate	normalName:calcium carbonate	predictedType:chemical	q:true	qid:Q381	docId:16006300	origText:Calcium carbonate	url:D002119
+CANDIDATE	id:2119	inCount:15	outCount:3	links:	url:D002119	name:Calcium Carbonate	normalName:calcium carbonate	normalWikiTitle:calcium carbonate	predictedType:Chemical
+ENTITY	text:vitamin D	normalName:vitamin d	predictedType:chemical	q:true	qid:Q381	docId:16006300	origText:vitamin D	url:D014807
+CANDIDATE	id:14807	inCount:27	outCount:1	links:	url:D014807	name:Vitamin D	normalName:vitamin d	normalWikiTitle:vitamin d	predictedType:Chemical
+ENTITY	text:furosemide	normalName:furosemide	predictedType:chemical	q:true	qid:Q381	docId:16006300	origText:furosemide	url:D005665
+CANDIDATE	id:5665	inCount:8	outCount:1	links:	url:D005665	name:Furosemide	normalName:furosemide	normalWikiTitle:furosemide	predictedType:Chemical
+ENTITY	text:1,25-dihydroxyvitamin D	normalName:1,25-dihydroxyvitamin d	predictedType:chemical	q:true	qid:Q381	docId:16006300	origText:1,25-dihydroxyvitamin D	url:C097949
+CANDIDATE	id:97949	inCount:0	outCount:1	links:	url:C097949	name:1,25-dihydroxyvitamin D	normalName:1,25-dihydroxyvitamin d	normalWikiTitle:1,25-dihydroxyvitamin d	predictedType:Chemical

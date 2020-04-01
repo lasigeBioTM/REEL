@@ -1,0 +1,45 @@
+ENTITY	text:hypotensive	normalName:hypotensive	predictedType:disease	q:true	qid:Q715	docId:7352670	origText:hypotensive	url:D007022
+CANDIDATE	id:7022	inCount:3	outCount:1	links:6941;6973;19586	url:D007022	name:Hypotension	normalName:hypotension	normalWikiTitle:hypotension	predictedType:Disease
+CANDIDATE	id:6973	inCount:18	outCount:1	links:7022	url:D006973	name:Hypertension	normalName:hypertension	normalWikiTitle:hypertension	predictedType:Disease
+CANDIDATE	id:7035	inCount:2	outCount:1	links:6941;7022	url:D007035	name:Hypothermia	normalName:hypothermia	normalWikiTitle:hypothermia	predictedType:Disease
+CANDIDATE	id:6987	inCount:1	outCount:1	links:	url:D006987	name:Hypesthesia	normalName:hypesthesia	normalWikiTitle:hypesthesia	predictedType:Disease
+CANDIDATE	id:18476	inCount:1	outCount:1	links:6941;7022	url:D018476	name:Hypokinesia	normalName:hypokinesia	normalWikiTitle:hypokinesia	predictedType:Disease
+CANDIDATE	id:7019	inCount:1	outCount:1	links:	url:D007019	name:Hypoproteinemia	normalName:hypoproteinemia	normalWikiTitle:hypoproteinemia	predictedType:Disease
+CANDIDATE	id:15814	inCount:0	outCount:1	links:	url:D015814	name:Ocular Hypotension	normalName:ocular hypotension	normalWikiTitle:ocular hypotension	predictedType:Disease
+CANDIDATE	id:58246	inCount:0	outCount:1	links:	url:D058246	name:Prehypertension	normalName:prehypertension	normalWikiTitle:prehypertension	predictedType:Disease
+CANDIDATE	id:6977	inCount:3	outCount:2	links:	url:D006977	name:Hypertension, Renal	normalName:hypertension, renal	normalWikiTitle:hypertension, renal	predictedType:Disease
+CANDIDATE	id:6948	inCount:1	outCount:1	links:6941;6973;7022	url:D006948	name:Hyperkinesis	normalName:hyperkinesis	normalWikiTitle:hyperkinesis	predictedType:Disease
+ENTITY	text:hypertensive	normalName:hypertensive	predictedType:disease	q:true	qid:Q715	docId:7352670	origText:hypertensive	url:D006973
+CANDIDATE	id:6973	inCount:18	outCount:1	links:7022	url:D006973	name:Hypertension	normalName:hypertension	normalWikiTitle:hypertension	predictedType:Disease
+CANDIDATE	id:58246	inCount:0	outCount:1	links:	url:D058246	name:Prehypertension	normalName:prehypertension	normalWikiTitle:prehypertension	predictedType:Disease
+CANDIDATE	id:6977	inCount:3	outCount:2	links:	url:D006977	name:Hypertension, Renal	normalName:hypertension, renal	normalWikiTitle:hypertension, renal	predictedType:Disease
+CANDIDATE	id:6941	inCount:0	outCount:1	links:7035;18476;6948;7022	url:D006941	name:Hyperesthesia	normalName:hyperesthesia	normalWikiTitle:hyperesthesia	predictedType:Disease
+CANDIDATE	id:59468	inCount:0	outCount:1	links:	url:D059468	name:Masked Hypertension	normalName:masked hypertension	normalWikiTitle:masked hypertension	predictedType:Disease
+CANDIDATE	id:6967	inCount:9	outCount:1	links:	url:D006967	name:Hypersensitivity	normalName:hypersensitivity	normalWikiTitle:hypersensitivity	predictedType:Disease
+CANDIDATE	id:7022	inCount:3	outCount:1	links:6941;6973;19586	url:D007022	name:Hypotension	normalName:hypotension	normalWikiTitle:hypotension	predictedType:Disease
+CANDIDATE	id:6987	inCount:1	outCount:1	links:	url:D006987	name:Hypesthesia	normalName:hypesthesia	normalWikiTitle:hypesthesia	predictedType:Disease
+CANDIDATE	id:563161	inCount:0	outCount:2	links:	url:C563161	name:Hypertensive Nephropathy	normalName:hypertensive nephropathy	normalWikiTitle:hypertensive nephropathy	predictedType:Disease
+CANDIDATE	id:58437	inCount:0	outCount:2	links:	url:D058437	name:Hypertensive Retinopathy	normalName:hypertensive retinopathy	normalWikiTitle:hypertensive retinopathy	predictedType:Disease
+ENTITY	text:hypotension	normalName:hypotension	predictedType:disease	q:true	qid:Q715	docId:7352670	origText:hypotension	url:D007022
+CANDIDATE	id:7022	inCount:3	outCount:1	links:6941;6973;19586	url:D007022	name:Hypotension	normalName:hypotension	normalWikiTitle:hypotension	predictedType:Disease
+ENTITY	text:increase in blood pressure	normalName:increase in blood pressure	predictedType:disease	q:true	qid:Q715	docId:7352670	origText:increase in blood pressure	url:D006973
+CANDIDATE	id:6973	inCount:18	outCount:1	links:7022	url:D006973	name:Blood Pressures, High	normalName:blood pressures, high	normalWikiTitle:blood pressures, high	predictedType:Disease
+CANDIDATE	id:1796	inCount:12	outCount:1	links:	url:D001796	name:Blood Protein Disorders	normalName:blood protein disorders	normalWikiTitle:blood protein disorders	predictedType:Disease
+CANDIDATE	id:1791	inCount:29	outCount:1	links:	url:D001791	name:Blood Platelet Disorders	normalName:blood platelet disorders	normalWikiTitle:blood platelet disorders	predictedType:Disease
+CANDIDATE	id:18213	inCount:6	outCount:1	links:	url:D018213	name:Neoplasms, Bone Tissue	normalName:neoplasms, bone tissue	normalWikiTitle:neoplasms, bone tissue	predictedType:Disease
+CANDIDATE	id:12035	inCount:4	outCount:3	links:	url:D012035	name:Refsum Disease	normalName:refsum disease	normalWikiTitle:refsum disease	predictedType:Disease
+CANDIDATE	id:60467	inCount:0	outCount:1	links:	url:D060467	name:Disease Resistance	normalName:disease resistance	normalWikiTitle:disease resistance	predictedType:Disease
+CANDIDATE	id:1913	inCount:0	outCount:1	links:	url:D001913	name:Bowen's Disease	normalName:bowen's disease	normalWikiTitle:bowen's disease	predictedType:Disease
+CANDIDATE	id:25861	inCount:32	outCount:2	links:	url:D025861	name:Blood Coagulation Disorders, Inherited	normalName:blood coagulation disorders, inherited	normalWikiTitle:blood coagulation disorders, inherited	predictedType:Disease
+CANDIDATE	id:1778	inCount:21	outCount:1	links:	url:D001778	name:Blood Coagulation Disorders	normalName:blood coagulation disorders	normalWikiTitle:blood coagulation disorders	predictedType:Disease
+CANDIDATE	id:1849	inCount:5	outCount:2	links:	url:D001849	name:Bone Diseases, Endocrine	normalName:bone diseases, endocrine	normalWikiTitle:bone diseases, endocrine	predictedType:Disease
+CANDIDATE	id:20434	inCount:2	outCount:1	links:	url:D020434	name:Abducens Nerve Diseases	normalName:abducens nerve diseases	normalWikiTitle:abducens nerve diseases	predictedType:Disease
+CANDIDATE	id:6973	inCount:18	outCount:1	links:7022	url:D006973	name:High Blood Pressure	normalName:high blood pressure	normalWikiTitle:high blood pressure	predictedType:Disease
+CANDIDATE	id:6973	inCount:18	outCount:1	links:7022	url:D006973	name:Blood Pressure, High	normalName:blood pressure, high	normalWikiTitle:blood pressure, high	predictedType:Disease
+CANDIDATE	id:6973	inCount:18	outCount:1	links:7022	url:D006973	name:High Blood Pressures	normalName:high blood pressures	normalWikiTitle:high blood pressures	predictedType:Disease
+CANDIDATE	id:7022	inCount:3	outCount:1	links:6941;6973;19586	url:D007022	name:Low Blood Pressure	normalName:low blood pressure	normalWikiTitle:low blood pressure	predictedType:Disease
+CANDIDATE	id:7022	inCount:3	outCount:1	links:6941;6973;19586	url:D007022	name:Blood Pressure, Low	normalName:blood pressure, low	normalWikiTitle:blood pressure, low	predictedType:Disease
+CANDIDATE	id:19586	inCount:2	outCount:1	links:7022	url:D019586	name:Elevated ICP (Intracranial Pressure)	normalName:elevated icp (intracranial pressure)	normalWikiTitle:elevated icp (intracranial pressure)	predictedType:Disease
+CANDIDATE	id:19586	inCount:2	outCount:1	links:7022	url:D019586	name:ICP, Elevated (Intracranial Pressure)	normalName:icp, elevated (intracranial pressure)	normalWikiTitle:icp, elevated (intracranial pressure)	predictedType:Disease
+CANDIDATE	id:19586	inCount:2	outCount:1	links:7022	url:D019586	name:ICP (Intracranial Pressure) Increase	normalName:icp (intracranial pressure) increase	normalWikiTitle:icp (intracranial pressure) increase	predictedType:Disease
+CANDIDATE	id:19586	inCount:2	outCount:1	links:7022	url:D019586	name:ICP (Intracranial Pressure) Elevation	normalName:icp (intracranial pressure) elevation	normalWikiTitle:icp (intracranial pressure) elevation	predictedType:Disease

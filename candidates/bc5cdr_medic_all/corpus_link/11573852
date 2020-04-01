@@ -1,0 +1,31 @@
+ENTITY	text:seizure	normalName:seizure	predictedType:disease	q:true	qid:Q79	docId:11573852	origText:seizure	url:D012640
+CANDIDATE	id:12640	inCount:53	outCount:1	links:4830	url:D012640	name:Seizure	normalName:seizure	normalWikiTitle:seizure	predictedType:Disease
+ENTITY	text:cryptococcal meningitis	normalName:cryptococcal meningitis	predictedType:disease	q:true	qid:Q79	docId:11573852	origText:cryptococcal meningitis	url:D016919
+CANDIDATE	id:16919	inCount:0	outCount:2	links:	url:D016919	name:Meningitis, Cryptococcal	normalName:meningitis, cryptococcal	normalWikiTitle:meningitis, cryptococcal	predictedType:Disease
+ENTITY	text:alcohol abuse	normalName:alcohol abuse	predictedType:disease	q:true	qid:Q79	docId:11573852	origText:alcohol abuse	url:D000437
+CANDIDATE	id:437	inCount:0	outCount:1	links:	url:D000437	name:Alcohol Abuse	normalName:alcohol abuse	normalWikiTitle:alcohol abuse	predictedType:Disease
+ENTITY	text:seizures	normalName:seizures	predictedType:disease	q:true	qid:Q79	docId:11573852	origText:seizures	url:D012640
+CANDIDATE	id:12640	inCount:53	outCount:1	links:4830	url:D012640	name:Seizure	normalName:seizure	normalWikiTitle:seizure	predictedType:Disease
+ENTITY	text:grand mal seizures	normalName:grand mal seizures	predictedType:disease	q:true	qid:Q79	docId:11573852	origText:grand mal seizures	url:D004830
+CANDIDATE	id:4830	inCount:1	outCount:1	links:12640	url:D004830	name:Grand Mal Seizure Disorder	normalName:grand mal seizure disorder	normalWikiTitle:grand mal seizure disorder	predictedType:Disease
+CANDIDATE	id:3294	inCount:24	outCount:1	links:	url:D003294	name:Seizures, Febrile	normalName:seizures, febrile	normalWikiTitle:seizures, febrile	predictedType:Disease
+CANDIDATE	id:12640	inCount:53	outCount:1	links:4830	url:D012640	name:Seizures	normalName:seizures	normalWikiTitle:seizures	predictedType:Disease
+CANDIDATE	id:820	inCount:45	outCount:1	links:	url:D000820	name:Animal Diseases	normalName:animal diseases	normalWikiTitle:animal diseases	predictedType:Disease
+CANDIDATE	id:7	inCount:3	outCount:1	links:	url:D000007	name:Abdominal Injuries	normalName:abdominal injuries	normalWikiTitle:abdominal injuries	predictedType:Disease
+CANDIDATE	id:537708	inCount:0	outCount:1	links:	url:C537708	name:Kifafa seizure disorder	normalName:kifafa seizure disorder	normalWikiTitle:kifafa seizure disorder	predictedType:Disease
+CANDIDATE	id:65306	inCount:1	outCount:2	links:	url:D065306	name:Corneal Injuries	normalName:corneal injuries	normalWikiTitle:corneal injuries	predictedType:Disease
+CANDIDATE	id:53207	inCount:0	outCount:1	links:	url:D053207	name:Diurnal Enuresis	normalName:diurnal enuresis	normalWikiTitle:diurnal enuresis	predictedType:Disease
+CANDIDATE	id:607681	inCount:0	outCount:2	links:	url:607681	name:FEBRILE SEIZURES, FAMILIAL, 8	normalName:febrile seizures, familial, 8	normalWikiTitle:febrile seizures, familial, 8	predictedType:Disease
+CANDIDATE	id:6230	inCount:1	outCount:1	links:	url:D006230	name:Hand Injuries	normalName:hand injuries	normalWikiTitle:hand injuries	predictedType:Disease
+CANDIDATE	id:18330	inCount:0	outCount:1	links:	url:D018330	name:Nevus, Intradermal	normalName:nevus, intradermal	normalWikiTitle:nevus, intradermal	predictedType:Disease
+CANDIDATE	id:4830	inCount:1	outCount:1	links:12640	url:D004830	name:Seizure Disorder, Grand Mal	normalName:seizure disorder, grand mal	normalWikiTitle:seizure disorder, grand mal	predictedType:Disease
+CANDIDATE	id:12640	inCount:53	outCount:1	links:4830	url:D012640	name:Seizures, Partial	normalName:seizures, partial	normalWikiTitle:seizures, partial	predictedType:Disease
+CANDIDATE	id:12640	inCount:53	outCount:1	links:4830	url:D012640	name:Partial Seizures	normalName:partial seizures	normalWikiTitle:partial seizures	predictedType:Disease
+CANDIDATE	id:565162	inCount:0	outCount:1	links:	url:C565162	name:Seizures, Familial, 1	normalName:seizures, familial, 1	normalWikiTitle:seizures, familial, 1	predictedType:Disease
+CANDIDATE	id:12640	inCount:53	outCount:1	links:4830	url:D012640	name:Seizures, Focal	normalName:seizures, focal	normalWikiTitle:seizures, focal	predictedType:Disease
+CANDIDATE	id:3294	inCount:24	outCount:1	links:	url:D003294	name:Pyrexial Seizures	normalName:pyrexial seizures	normalWikiTitle:pyrexial seizures	predictedType:Disease
+CANDIDATE	id:12640	inCount:53	outCount:1	links:4830	url:D012640	name:Focal Seizures	normalName:focal seizures	normalWikiTitle:focal seizures	predictedType:Disease
+CANDIDATE	id:3294	inCount:24	outCount:1	links:	url:D003294	name:Seizures, Pyrexial	normalName:seizures, pyrexial	normalWikiTitle:seizures, pyrexial	predictedType:Disease
+CANDIDATE	id:12640	inCount:53	outCount:1	links:4830	url:D012640	name:Generalized Seizures	normalName:generalized seizures	normalWikiTitle:generalized seizures	predictedType:Disease
+ENTITY	text:AIDS	normalName:aids	predictedType:disease	q:true	qid:Q79	docId:11573852	origText:AIDS	url:D000163
+CANDIDATE	id:163	inCount:0	outCount:2	links:	url:D000163	name:AIDS	normalName:aids	normalWikiTitle:aids	predictedType:Disease

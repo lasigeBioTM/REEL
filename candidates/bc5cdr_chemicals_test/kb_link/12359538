@@ -1,0 +1,4 @@
+ENTITY	text:cocaine	normalName:cocaine	predictedType:chemical	q:true	qid:Q317	docId:12359538	origText:cocaine	url:D003042
+CANDIDATE	id:3042	inCount:89	outCount:1	links:	url:D003042	name:Cocaine	normalName:cocaine	normalWikiTitle:cocaine	predictedType:Chemical
+ENTITY	text:creatine	normalName:creatine	predictedType:chemical	q:true	qid:Q317	docId:12359538	origText:creatine	url:D003401
+CANDIDATE	id:3401	inCount:7	outCount:2	links:	url:D003401	name:Creatine	normalName:creatine	normalWikiTitle:creatine	predictedType:Chemical

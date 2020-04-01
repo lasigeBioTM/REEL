@@ -1,0 +1,6 @@
+ENTITY	text:Lamivudine	normalName:lamivudine	predictedType:chemical	q:true	qid:Q172	docId:8985298	origText:Lamivudine	url:D019259
+CANDIDATE	id:19259	inCount:14	outCount:1	links:	url:D019259	name:Lamivudine	normalName:lamivudine	normalWikiTitle:lamivudine	predictedType:Chemical
+ENTITY	text:hepatitis B surface antigen	normalName:hepatitis b surface antigen	predictedType:chemical	q:true	qid:Q172	docId:8985298	origText:hepatitis B surface antigen	url:D006514
+CANDIDATE	id:6514	inCount:4	outCount:1	links:6514	url:D006514	name:Hepatitis B Surface Antigen	normalName:hepatitis b surface antigen	normalWikiTitle:hepatitis b surface antigen	predictedType:Chemical
+ENTITY	text:HBsAg	normalName:hbsag	predictedType:chemical	q:true	qid:Q172	docId:8985298	origText:HBsAg	url:D006514
+CANDIDATE	id:6514	inCount:4	outCount:1	links:6514	url:D006514	name:HBsAg	normalName:hbsag	normalWikiTitle:hbsag	predictedType:Chemical

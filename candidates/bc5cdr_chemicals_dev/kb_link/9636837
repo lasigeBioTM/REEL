@@ -1,0 +1,8 @@
+ENTITY	text:cisplatin	normalName:cisplatin	predictedType:chemical	q:true	qid:Q168	docId:9636837	origText:cisplatin	url:D002945
+CANDIDATE	id:2945	inCount:293	outCount:3	links:	url:D002945	name:Cisplatin	normalName:cisplatin	normalWikiTitle:cisplatin	predictedType:Chemical
+ENTITY	text:Carboplatin	normalName:carboplatin	predictedType:chemical	q:true	qid:Q168	docId:9636837	origText:Carboplatin	url:D016190
+CANDIDATE	id:16190	inCount:64	outCount:1	links:16190	url:D016190	name:Carboplatin	normalName:carboplatin	normalWikiTitle:carboplatin	predictedType:Chemical
+ENTITY	text:platinum	normalName:platinum	predictedType:chemical	q:true	qid:Q168	docId:9636837	origText:platinum	url:D010984
+CANDIDATE	id:10984	inCount:13	outCount:2	links:	url:D010984	name:Platinum	normalName:platinum	normalWikiTitle:platinum	predictedType:Chemical
+ENTITY	text:CBDCA	normalName:cbdca	predictedType:chemical	q:true	qid:Q168	docId:9636837	origText:CBDCA	url:D016190
+CANDIDATE	id:16190	inCount:64	outCount:1	links:16190	url:D016190	name:CBDCA	normalName:cbdca	normalWikiTitle:cbdca	predictedType:Chemical

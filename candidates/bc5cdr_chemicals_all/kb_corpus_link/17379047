@@ -1,0 +1,4 @@
+ENTITY	text:hydrochlorothiazide	normalName:hydrochlorothiazide	predictedType:chemical	q:true	qid:Q63	docId:17379047	origText:hydrochlorothiazide	url:D006852
+CANDIDATE	id:6852	inCount:33	outCount:1	links:6852	url:D006852	name:Hydrochlorothiazide	normalName:hydrochlorothiazide	normalWikiTitle:hydrochlorothiazide	predictedType:Chemical
+ENTITY	text:HCTZ	normalName:hctz	predictedType:chemical	q:true	qid:Q63	docId:17379047	origText:HCTZ	url:D006852
+CANDIDATE	id:6852	inCount:33	outCount:1	links:6852	url:D006852	name:HCTZ	normalName:hctz	normalWikiTitle:hctz	predictedType:Chemical

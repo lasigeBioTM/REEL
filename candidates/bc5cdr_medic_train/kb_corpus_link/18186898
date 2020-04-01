@@ -1,0 +1,66 @@
+ENTITY	text:glycosuria	normalName:glycosuria	predictedType:disease	q:true	qid:Q220	docId:18186898	origText:glycosuria	url:D006029
+CANDIDATE	id:6029	inCount:1	outCount:2	links:	url:D006029	name:Glycosuria	normalName:glycosuria	normalWikiTitle:glycosuria	predictedType:Disease
+ENTITY	text:myopathy	normalName:myopathy	predictedType:disease	q:true	qid:Q220	docId:18186898	origText:myopathy	url:D009135
+CANDIDATE	id:9135	inCount:77	outCount:2	links:5198	url:D009135	name:Myopathy	normalName:myopathy	normalWikiTitle:myopathy	predictedType:Disease
+ENTITY	text:mitochondrial dysfunction	normalName:mitochondrial dysfunction	predictedType:disease	q:true	qid:Q220	docId:18186898	origText:mitochondrial dysfunction	url:D028361
+CANDIDATE	id:28361	inCount:64	outCount:1	links:28361	url:D028361	name:Mitochondrial Diseases	normalName:mitochondrial diseases	normalWikiTitle:mitochondrial diseases	predictedType:Disease
+CANDIDATE	id:565304	inCount:1	outCount:1	links:	url:C565304	name:Multiple Mitochondrial Dysfunctions Syndrome	normalName:multiple mitochondrial dysfunctions syndrome	normalWikiTitle:multiple mitochondrial dysfunctions syndrome	predictedType:Disease
+CANDIDATE	id:540770	inCount:0	outCount:2	links:540770	url:C540770	name:Mitochondrial cytopathy	normalName:mitochondrial cytopathy	normalWikiTitle:mitochondrial cytopathy	predictedType:Disease
+CANDIDATE	id:64706	inCount:1	outCount:2	links:	url:D064706	name:Vocal Cord Dysfunction	normalName:vocal cord dysfunction	normalWikiTitle:vocal cord dysfunction	predictedType:Disease
+CANDIDATE	id:18497	inCount:0	outCount:1	links:	url:D018497	name:Ventricular Dysfunction, Right	normalName:ventricular dysfunction, right	normalWikiTitle:ventricular dysfunction, right	predictedType:Disease
+CANDIDATE	id:18754	inCount:2	outCount:1	links:	url:D018754	name:Ventricular Dysfunction	normalName:ventricular dysfunction	normalWikiTitle:ventricular dysfunction	predictedType:Disease
+CANDIDATE	id:7172	inCount:1	outCount:2	links:	url:D007172	name:Erectile Dysfunction	normalName:erectile dysfunction	normalWikiTitle:erectile dysfunction	predictedType:Disease
+CANDIDATE	id:537475	inCount:0	outCount:1	links:	url:C537475	name:Mitochondrial complex I deficiency	normalName:mitochondrial complex i deficiency	normalWikiTitle:mitochondrial complex i deficiency	predictedType:Disease
+CANDIDATE	id:55031	inCount:0	outCount:1	links:	url:D055031	name:Primary Graft Dysfunction	normalName:primary graft dysfunction	normalWikiTitle:primary graft dysfunction	predictedType:Disease
+CANDIDATE	id:538525	inCount:0	outCount:1	links:	url:C538525	name:Mitochondrial encephalopathy	normalName:mitochondrial encephalopathy	normalWikiTitle:mitochondrial encephalopathy	predictedType:Disease
+ENTITY	text:Renal Fanconi syndrome	normalName:renal fanconi syndrome	predictedType:disease	q:true	qid:Q220	docId:18186898	origText:Renal Fanconi syndrome	url:D005198
+CANDIDATE	id:5198	inCount:4	outCount:1	links:9135;5198	url:D005198	name:Renal Fanconi Syndrome	normalName:renal fanconi syndrome	normalWikiTitle:renal fanconi syndrome	predictedType:Disease
+ENTITY	text:aminoaciduria	normalName:aminoaciduria	predictedType:disease	q:true	qid:Q220	docId:18186898	origText:aminoaciduria	url:D000608
+CANDIDATE	id:608	inCount:6	outCount:1	links:	url:D000608	name:Aminoaciduria, Renal	normalName:aminoaciduria, renal	normalWikiTitle:aminoaciduria, renal	predictedType:Disease
+CANDIDATE	id:608	inCount:6	outCount:1	links:	url:D000608	name:Renal Aminoacidurias	normalName:renal aminoacidurias	normalWikiTitle:renal aminoacidurias	predictedType:Disease
+CANDIDATE	id:536285	inCount:0	outCount:1	links:	url:C536285	name:Iminoglycinuria	normalName:iminoglycinuria	normalWikiTitle:iminoglycinuria	predictedType:Disease
+CANDIDATE	id:536171	inCount:0	outCount:2	links:	url:C536171	name:Dicarboxylicaminoaciduria	normalName:dicarboxylicaminoaciduria	normalWikiTitle:dicarboxylicaminoaciduria	predictedType:Disease
+CANDIDATE	id:565630	inCount:0	outCount:4	links:	url:C565630	name:Diaminopentanuria	normalName:diaminopentanuria	normalWikiTitle:diaminopentanuria	predictedType:Disease
+CANDIDATE	id:53158	inCount:0	outCount:1	links:	url:D053158	name:Nocturia	normalName:nocturia	normalWikiTitle:nocturia	predictedType:Disease
+CANDIDATE	id:419	inCount:0	outCount:1	links:	url:D000419	name:Albuminuria	normalName:albuminuria	normalWikiTitle:albuminuria	predictedType:Disease
+CANDIDATE	id:565453	inCount:0	outCount:4	links:	url:C565453	name:Ketoadipicaciduria	normalName:ketoadipicaciduria	normalWikiTitle:ketoadipicaciduria	predictedType:Disease
+CANDIDATE	id:73818	inCount:0	outCount:1	links:	url:D000073818	name:Pain, Procedural	normalName:pain, procedural	normalWikiTitle:pain, procedural	predictedType:Disease
+CANDIDATE	id:1002	inCount:0	outCount:2	links:	url:D001002	name:Anuria	normalName:anuria	normalWikiTitle:anuria	predictedType:Disease
+CANDIDATE	id:535845	inCount:0	outCount:1	links:	url:C535845	name:Hawkinsinuria	normalName:hawkinsinuria	normalWikiTitle:hawkinsinuria	predictedType:Disease
+CANDIDATE	id:608	inCount:6	outCount:1	links:	url:D000608	name:Renal Aminoaciduria	normalName:renal aminoaciduria	normalWikiTitle:renal aminoaciduria	predictedType:Disease
+ENTITY	text:acidosis	normalName:acidosis	predictedType:disease	q:true	qid:Q220	docId:18186898	origText:acidosis	url:D000138
+CANDIDATE	id:138	inCount:7	outCount:1	links:138	url:D000138	name:Acidosis	normalName:acidosis	normalWikiTitle:acidosis	predictedType:Disease
+ENTITY	text:mitochondrial disorders	normalName:mitochondrial disorders	predictedType:disease	q:true	qid:Q220	docId:18186898	origText:mitochondrial disorders	url:D028361
+CANDIDATE	id:28361	inCount:64	outCount:1	links:28361	url:D028361	name:Disorder, Mitochondrial	normalName:disorder, mitochondrial	normalWikiTitle:disorder, mitochondrial	predictedType:Disease
+ENTITY	text:Wilson's disease	normalName:wilson's disease	predictedType:disease	q:true	qid:Q220	docId:18186898	origText:Wilson's disease	url:D006527
+CANDIDATE	id:6527	inCount:2	outCount:6	links:	url:D006527	name:Wilson's Disease	normalName:wilson's disease	normalWikiTitle:wilson's disease	predictedType:Disease
+ENTITY	text:mitochondrial cytopathy	normalName:mitochondrial cytopathy	predictedType:disease	q:true	qid:Q220	docId:18186898	origText:mitochondrial cytopathy	url:C540770
+CANDIDATE	id:540770	inCount:0	outCount:2	links:540770	url:C540770	name:Mitochondrial cytopathy	normalName:mitochondrial cytopathy	normalWikiTitle:mitochondrial cytopathy	predictedType:Disease
+ENTITY	text:muscle weakness	normalName:muscle weakness	predictedType:disease	q:true	qid:Q220	docId:18186898	origText:muscle weakness	url:D018908
+CANDIDATE	id:18908	inCount:6	outCount:3	links:	url:D018908	name:Muscle Weakness	normalName:muscle weakness	normalWikiTitle:muscle weakness	predictedType:Disease
+ENTITY	text:hepatitis B infection	normalName:hepatitis b infection	predictedType:disease	q:true	qid:Q220	docId:18186898	origText:hepatitis B infection	url:D006509
+CANDIDATE	id:6509	inCount:1	outCount:2	links:	url:D006509	name:Hepatitis B Virus Infection	normalName:hepatitis b virus infection	normalWikiTitle:hepatitis b virus infection	predictedType:Disease
+CANDIDATE	id:6522	inCount:0	outCount:3	links:	url:D006522	name:Hepatitis, Infectious Canine	normalName:hepatitis, infectious canine	normalWikiTitle:hepatitis, infectious canine	predictedType:Disease
+CANDIDATE	id:45464	inCount:0	outCount:1	links:	url:D045464	name:Henipavirus Infections	normalName:henipavirus infections	normalWikiTitle:henipavirus infections	predictedType:Disease
+CANDIDATE	id:16776	inCount:0	outCount:2	links:	url:D016776	name:Blastocystis Infections	normalName:blastocystis infections	normalWikiTitle:blastocystis infections	predictedType:Disease
+CANDIDATE	id:1170	inCount:2	outCount:2	links:	url:D001170	name:Arthritis, Infectious	normalName:arthritis, infectious	normalWikiTitle:arthritis, infectious	predictedType:Disease
+CANDIDATE	id:69544	inCount:1	outCount:2	links:	url:D000069544	name:Infectious Encephalitis	normalName:infectious encephalitis	normalWikiTitle:infectious encephalitis	predictedType:Disease
+CANDIDATE	id:15491	inCount:0	outCount:1	links:	url:D015491	name:HTLV-II Infections	normalName:htlv-ii infections	normalWikiTitle:htlv-ii infections	predictedType:Disease
+CANDIDATE	id:18778	inCount:2	outCount:1	links:	url:D018778	name:Hantavirus Infections	normalName:hantavirus infections	normalWikiTitle:hantavirus infections	predictedType:Disease
+CANDIDATE	id:1442	inCount:0	outCount:1	links:	url:D001442	name:Bacteroides Infections	normalName:bacteroides infections	normalWikiTitle:bacteroides infections	predictedType:Disease
+CANDIDATE	id:18174	inCount:1	outCount:1	links:	url:D018174	name:Arterivirus Infections	normalName:arterivirus infections	normalWikiTitle:arterivirus infections	predictedType:Disease
+CANDIDATE	id:6192	inCount:3	outCount:1	links:	url:D006192	name:Haemophilus Infections	normalName:haemophilus infections	normalWikiTitle:haemophilus infections	predictedType:Disease
+CANDIDATE	id:6506	inCount:0	outCount:2	links:	url:D006506	name:Hepatitis, Infectious	normalName:hepatitis, infectious	normalWikiTitle:hepatitis, infectious	predictedType:Disease
+CANDIDATE	id:6506	inCount:0	outCount:2	links:	url:D006506	name:Infectious Hepatitis	normalName:infectious hepatitis	normalWikiTitle:infectious hepatitis	predictedType:Disease
+CANDIDATE	id:6506	inCount:0	outCount:2	links:	url:D006506	name:Infectious Hepatitides	normalName:infectious hepatitides	normalWikiTitle:infectious hepatitides	predictedType:Disease
+CANDIDATE	id:6506	inCount:0	outCount:2	links:	url:D006506	name:Hepatitides, Infectious	normalName:hepatitides, infectious	normalWikiTitle:hepatitides, infectious	predictedType:Disease
+CANDIDATE	id:19121	inCount:2	outCount:1	links:	url:D019121	name:B cepacia Infection	normalName:b cepacia infection	normalWikiTitle:b cepacia infection	predictedType:Disease
+CANDIDATE	id:19121	inCount:2	outCount:1	links:	url:D019121	name:Infection, B cepacia	normalName:infection, b cepacia	normalWikiTitle:infection, b cepacia	predictedType:Disease
+CANDIDATE	id:19121	inCount:2	outCount:1	links:	url:D019121	name:Infection, B. cepacia	normalName:infection, b. cepacia	normalWikiTitle:infection, b. cepacia	predictedType:Disease
+CANDIDATE	id:19121	inCount:2	outCount:1	links:	url:D019121	name:B. cepacia Infection	normalName:b. cepacia infection	normalWikiTitle:b. cepacia infection	predictedType:Disease
+ENTITY	text:metabolic acidosis	normalName:metabolic acidosis	predictedType:disease	q:true	qid:Q220	docId:18186898	origText:metabolic acidosis	url:D000138
+CANDIDATE	id:138	inCount:7	outCount:1	links:138	url:D000138	name:Acidosis, Metabolic	normalName:acidosis, metabolic	normalWikiTitle:acidosis, metabolic	predictedType:Disease
+ENTITY	text:Fanconi syndrome	normalName:fanconi syndrome	predictedType:disease	q:true	qid:Q220	docId:18186898	origText:Fanconi syndrome	url:D005198
+CANDIDATE	id:5198	inCount:4	outCount:1	links:9135;5198	url:D005198	name:Fanconi Syndrome	normalName:fanconi syndrome	normalWikiTitle:fanconi syndrome	predictedType:Disease
+ENTITY	text:hypophosphatemia	normalName:hypophosphatemia	predictedType:disease	q:true	qid:Q220	docId:18186898	origText:hypophosphatemia	url:D017674
+CANDIDATE	id:17674	inCount:5	outCount:1	links:	url:D017674	name:Hypophosphatemia	normalName:hypophosphatemia	normalWikiTitle:hypophosphatemia	predictedType:Disease

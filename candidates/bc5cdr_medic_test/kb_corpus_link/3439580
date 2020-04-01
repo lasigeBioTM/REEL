@@ -1,0 +1,34 @@
+ENTITY	text:Hypertension	normalName:hypertension	predictedType:disease	q:true	qid:Q90	docId:3439580	origText:Hypertension	url:D006973
+CANDIDATE	id:6973	inCount:18	outCount:1	links:6973;7022;1714	url:D006973	name:Hypertension	normalName:hypertension	normalWikiTitle:hypertension	predictedType:Disease
+ENTITY	text:tumor	normalName:tumor	predictedType:disease	q:true	qid:Q90	docId:3439580	origText:tumor	url:D009369
+CANDIDATE	id:9369	inCount:18	outCount:1	links:	url:D009369	name:Tumor	normalName:tumor	normalWikiTitle:tumor	predictedType:Disease
+ENTITY	text:neuroblastoma	normalName:neuroblastoma	predictedType:disease	q:true	qid:Q90	docId:3439580	origText:neuroblastoma	url:D009447
+CANDIDATE	id:9447	inCount:2	outCount:1	links:	url:D009447	name:Neuroblastoma	normalName:neuroblastoma	normalWikiTitle:neuroblastoma	predictedType:Disease
+ENTITY	text:hypertensive	normalName:hypertensive	predictedType:disease	q:true	qid:Q90	docId:3439580	origText:hypertensive	url:D006973
+CANDIDATE	id:6973	inCount:18	outCount:1	links:6973;7022;1714	url:D006973	name:Hypertension	normalName:hypertension	normalWikiTitle:hypertension	predictedType:Disease
+CANDIDATE	id:58246	inCount:0	outCount:1	links:	url:D058246	name:Prehypertension	normalName:prehypertension	normalWikiTitle:prehypertension	predictedType:Disease
+CANDIDATE	id:6977	inCount:3	outCount:2	links:	url:D006977	name:Hypertension, Renal	normalName:hypertension, renal	normalWikiTitle:hypertension, renal	predictedType:Disease
+CANDIDATE	id:6941	inCount:0	outCount:1	links:	url:D006941	name:Hyperesthesia	normalName:hyperesthesia	normalWikiTitle:hyperesthesia	predictedType:Disease
+CANDIDATE	id:59468	inCount:0	outCount:1	links:	url:D059468	name:Masked Hypertension	normalName:masked hypertension	normalWikiTitle:masked hypertension	predictedType:Disease
+CANDIDATE	id:6967	inCount:9	outCount:1	links:	url:D006967	name:Hypersensitivity	normalName:hypersensitivity	normalWikiTitle:hypersensitivity	predictedType:Disease
+CANDIDATE	id:7022	inCount:3	outCount:1	links:6973	url:D007022	name:Hypotension	normalName:hypotension	normalWikiTitle:hypotension	predictedType:Disease
+CANDIDATE	id:6987	inCount:1	outCount:1	links:	url:D006987	name:Hypesthesia	normalName:hypesthesia	normalWikiTitle:hypesthesia	predictedType:Disease
+CANDIDATE	id:563161	inCount:0	outCount:2	links:	url:C563161	name:Hypertensive Nephropathy	normalName:hypertensive nephropathy	normalWikiTitle:hypertensive nephropathy	predictedType:Disease
+CANDIDATE	id:58437	inCount:0	outCount:2	links:	url:D058437	name:Hypertensive Retinopathy	normalName:hypertensive retinopathy	normalWikiTitle:hypertensive retinopathy	predictedType:Disease
+ENTITY	text:behavior disorder	normalName:behavior disorder	predictedType:disease	q:true	qid:Q90	docId:3439580	origText:behavior disorder	url:D002653
+CANDIDATE	id:2653	inCount:1	outCount:1	links:	url:D002653	name:Child Behavior Disorders	normalName:child behavior disorders	normalWikiTitle:child behavior disorders	predictedType:Disease
+CANDIDATE	id:1714	inCount:11	outCount:1	links:6973	url:D001714	name:Bipolar Disorder	normalName:bipolar disorder	normalWikiTitle:bipolar disorder	predictedType:Disease
+CANDIDATE	id:20187	inCount:0	outCount:1	links:	url:D020187	name:REM Sleep Behavior Disorder	normalName:rem sleep behavior disorder	normalWikiTitle:rem sleep behavior disorder	predictedType:Disease
+CANDIDATE	id:3130	inCount:0	outCount:1	links:	url:D003130	name:Combat Disorders	normalName:combat disorders	normalWikiTitle:combat disorders	predictedType:Disease
+CANDIDATE	id:3291	inCount:0	outCount:1	links:	url:D003291	name:Conversion Disorder	normalName:conversion disorder	normalWikiTitle:conversion disorder	predictedType:Disease
+CANDIDATE	id:54062	inCount:6	outCount:3	links:	url:D054062	name:Deaf-Blind Disorders	normalName:deaf-blind disorders	normalWikiTitle:deaf-blind disorders	predictedType:Disease
+CANDIDATE	id:1321	inCount:7	outCount:1	links:	url:D001321	name:Autistic Disorder	normalName:autistic disorder	normalWikiTitle:autistic disorder	predictedType:Disease
+CANDIDATE	id:5391	inCount:0	outCount:1	links:	url:D005391	name:Firesetting Behavior	normalName:firesetting behavior	normalWikiTitle:firesetting behavior	predictedType:Disease
+CANDIDATE	id:1008	inCount:7	outCount:1	links:	url:D001008	name:Anxiety Disorders	normalName:anxiety disorders	normalWikiTitle:anxiety disorders	predictedType:Disease
+CANDIDATE	id:3680	inCount:5	outCount:2	links:	url:D003680	name:Deglutition Disorders	normalName:deglutition disorders	normalWikiTitle:deglutition disorders	predictedType:Disease
+CANDIDATE	id:1523	inCount:27	outCount:1	links:	url:D001523	name:Behavior Disorders	normalName:behavior disorders	normalWikiTitle:behavior disorders	predictedType:Disease
+CANDIDATE	id:1523	inCount:27	outCount:1	links:	url:D001523	name:Disorders, Behavior	normalName:disorders, behavior	normalWikiTitle:disorders, behavior	predictedType:Disease
+CANDIDATE	id:20187	inCount:0	outCount:1	links:	url:D020187	name:Behavior Disorder, REM	normalName:behavior disorder, rem	normalWikiTitle:behavior disorder, rem	predictedType:Disease
+CANDIDATE	id:20187	inCount:0	outCount:1	links:	url:D020187	name:REM Behavior Disorder	normalName:rem behavior disorder	normalWikiTitle:rem behavior disorder	predictedType:Disease
+CANDIDATE	id:20187	inCount:0	outCount:1	links:	url:D020187	name:REM Behavior Disorders	normalName:rem behavior disorders	normalWikiTitle:rem behavior disorders	predictedType:Disease
+CANDIDATE	id:20187	inCount:0	outCount:1	links:	url:D020187	name:Behavior Disorders, REM	normalName:behavior disorders, rem	normalWikiTitle:behavior disorders, rem	predictedType:Disease

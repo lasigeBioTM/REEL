@@ -1,0 +1,35 @@
+ENTITY	text:pain	normalName:pain	predictedType:disease	q:true	qid:Q250	docId:10524660	origText:pain	url:D010146
+CANDIDATE	id:10146	inCount:34	outCount:1	links:	url:D010146	name:Pain	normalName:pain	normalWikiTitle:pain	predictedType:Disease
+ENTITY	text:headache	normalName:headache	predictedType:disease	q:true	qid:Q250	docId:10524660	origText:headache	url:D006261
+CANDIDATE	id:6261	inCount:2	outCount:1	links:	url:D006261	name:Headache	normalName:headache	normalWikiTitle:headache	predictedType:Disease
+ENTITY	text:migraine without aura	normalName:migraine without aura	predictedType:disease	q:true	qid:Q250	docId:10524660	origText:migraine without aura	url:D020326
+CANDIDATE	id:20326	inCount:8	outCount:1	links:20326	url:D020326	name:Migraine without Aura	normalName:migraine without aura	normalWikiTitle:migraine without aura	predictedType:Disease
+ENTITY	text:migraine with aura	normalName:migraine with aura	predictedType:disease	q:true	qid:Q250	docId:10524660	origText:migraine with aura	url:D020325
+CANDIDATE	id:20325	inCount:10	outCount:1	links:	url:D020325	name:Migraine with Aura	normalName:migraine with aura	normalWikiTitle:migraine with aura	predictedType:Disease
+ENTITY	text:depression	normalName:depression	predictedType:disease	q:true	qid:Q250	docId:10524660	origText:depression	url:D003866
+CANDIDATE	id:3866	inCount:6	outCount:1	links:	url:D003866	name:Depressive Disorder	normalName:depressive disorder	normalWikiTitle:depressive disorder	predictedType:Disease
+CANDIDATE	id:18450	inCount:2	outCount:1	links:	url:D018450	name:Disease Progression	normalName:disease progression	normalWikiTitle:disease progression	predictedType:Disease
+CANDIDATE	id:19052	inCount:0	outCount:2	links:	url:D019052	name:Depression, Postpartum	normalName:depression, postpartum	normalWikiTitle:depression, postpartum	predictedType:Disease
+CANDIDATE	id:146850	inCount:0	outCount:2	links:	url:146850	name:IMMUNE SUPPRESSION	normalName:immune suppression	normalWikiTitle:immune suppression	predictedType:Disease
+CANDIDATE	id:6973	inCount:18	outCount:1	links:	url:D006973	name:Hypertension	normalName:hypertension	normalWikiTitle:hypertension	predictedType:Disease
+CANDIDATE	id:58246	inCount:0	outCount:1	links:	url:D058246	name:Prehypertension	normalName:prehypertension	normalWikiTitle:prehypertension	predictedType:Disease
+CANDIDATE	id:14786	inCount:19	outCount:2	links:	url:D014786	name:Vision Disorders	normalName:vision disorders	normalWikiTitle:vision disorders	predictedType:Disease
+CANDIDATE	id:3665	inCount:0	outCount:1	links:	url:D003665	name:Decompression Sickness	normalName:decompression sickness	normalWikiTitle:decompression sickness	predictedType:Disease
+CANDIDATE	id:12871	inCount:71	outCount:1	links:	url:D012871	name:Skin Diseases	normalName:skin diseases	normalWikiTitle:skin diseases	predictedType:Disease
+CANDIDATE	id:4688	inCount:1	outCount:2	links:	url:D004688	name:Encopresis	normalName:encopresis	normalWikiTitle:encopresis	predictedType:Disease
+CANDIDATE	id:1714	inCount:11	outCount:1	links:	url:D001714	name:Depression, Bipolar	normalName:depression, bipolar	normalWikiTitle:depression, bipolar	predictedType:Disease
+CANDIDATE	id:1714	inCount:11	outCount:1	links:	url:D001714	name:Bipolar Depression	normalName:bipolar depression	normalWikiTitle:bipolar depression	predictedType:Disease
+ENTITY	text:migraineurs	normalName:migraineurs	predictedType:disease	q:true	qid:Q250	docId:10524660	origText:migraineurs	url:D008881
+CANDIDATE	id:8881	inCount:9	outCount:1	links:	url:D008881	name:Migraine	normalName:migraine	normalWikiTitle:migraine	predictedType:Disease
+CANDIDATE	id:71071	inCount:0	outCount:1	links:	url:D000071071	name:Microaneurysm	normalName:microaneurysm	normalWikiTitle:microaneurysm	predictedType:Disease
+CANDIDATE	id:783	inCount:11	outCount:1	links:	url:D000783	name:Aneurysm	normalName:aneurysm	normalWikiTitle:aneurysm	predictedType:Disease
+CANDIDATE	id:5896	inCount:0	outCount:2	links:	url:D005896	name:Glanders	normalName:glanders	normalWikiTitle:glanders	predictedType:Disease
+CANDIDATE	id:5383	inCount:0	outCount:1	links:	url:D005383	name:Finger Injuries	normalName:finger injuries	normalWikiTitle:finger injuries	predictedType:Disease
+CANDIDATE	id:11818	inCount:0	outCount:1	links:	url:D011818	name:Rabies	normalName:rabies	normalWikiTitle:rabies	predictedType:Disease
+CANDIDATE	id:7815	inCount:1	outCount:2	links:	url:D007815	name:Larva Migrans	normalName:larva migrans	normalWikiTitle:larva migrans	predictedType:Disease
+CANDIDATE	id:12301	inCount:0	outCount:2	links:	url:D012301	name:Rinderpest	normalName:rinderpest	normalWikiTitle:rinderpest	predictedType:Disease
+CANDIDATE	id:1720	inCount:2	outCount:2	links:	url:D001720	name:Birth Injuries	normalName:birth injuries	normalWikiTitle:birth injuries	predictedType:Disease
+CANDIDATE	id:20326	inCount:8	outCount:1	links:20326	url:D020326	name:Migraine without Aura	normalName:migraine without aura	normalWikiTitle:migraine without aura	predictedType:Disease
+CANDIDATE	id:5729	inCount:1	outCount:1	links:	url:D005729	name:Ganglioneuroma	normalName:ganglioneuroma	normalWikiTitle:ganglioneuroma	predictedType:Disease
+CANDIDATE	id:8881	inCount:9	outCount:1	links:	url:D008881	name:Migraines	normalName:migraines	normalWikiTitle:migraines	predictedType:Disease
+CANDIDATE	id:157300	inCount:0	outCount:2	links:	url:157300	name:MIGRAINE	normalName:migraine	normalWikiTitle:migraine	predictedType:Disease

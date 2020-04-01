@@ -1,0 +1,19 @@
+ENTITY	text:amnesia	normalName:amnesia	predictedType:disease	q:true	qid:Q190	docId:1616457	origText:amnesia	url:D000647
+CANDIDATE	id:647	inCount:4	outCount:2	links:8569	url:D000647	name:Amnesia	normalName:amnesia	normalWikiTitle:amnesia	predictedType:Disease
+ENTITY	text:memory dissociation	normalName:memory dissociation	predictedType:disease	q:true	qid:Q190	docId:1616457	origText:memory dissociation	url:D008569
+CANDIDATE	id:8569	inCount:2	outCount:1	links:647	url:D008569	name:Deficit, Memory	normalName:deficit, memory	normalWikiTitle:deficit, memory	predictedType:Disease
+CANDIDATE	id:536534	inCount:0	outCount:2	links:	url:C536534	name:VATER association	normalName:vater association	normalWikiTitle:vater association	predictedType:Disease
+CANDIDATE	id:31221	inCount:0	outCount:2	links:	url:D031221	name:Knee Dislocation	normalName:knee dislocation	normalWikiTitle:knee dislocation	predictedType:Disease
+CANDIDATE	id:536495	inCount:0	outCount:2	links:	url:C536495	name:VACTERL association	normalName:vacterl association	normalWikiTitle:vacterl association	predictedType:Disease
+CANDIDATE	id:537892	inCount:0	outCount:3	links:	url:C537892	name:PHACE association	normalName:phace association	normalWikiTitle:phace association	predictedType:Disease
+CANDIDATE	id:31222	inCount:3	outCount:2	links:	url:D031222	name:Patellar Dislocation	normalName:patellar dislocation	normalWikiTitle:patellar dislocation	predictedType:Disease
+CANDIDATE	id:12783	inCount:0	outCount:2	links:	url:D012783	name:Shoulder Dislocation	normalName:shoulder dislocation	normalWikiTitle:shoulder dislocation	predictedType:Disease
+CANDIDATE	id:6617	inCount:0	outCount:2	links:	url:D006617	name:Hip Dislocation	normalName:hip dislocation	normalWikiTitle:hip dislocation	predictedType:Disease
+CANDIDATE	id:4204	inCount:15	outCount:2	links:	url:D004204	name:Joint Dislocations	normalName:joint dislocations	normalWikiTitle:joint dislocations	predictedType:Disease
+CANDIDATE	id:8569	inCount:2	outCount:1	links:647	url:D008569	name:Memory Disorders	normalName:memory disorders	normalWikiTitle:memory disorders	predictedType:Disease
+CANDIDATE	id:72039	inCount:3	outCount:2	links:	url:D000072039	name:Fracture Dislocation	normalName:fracture dislocation	normalWikiTitle:fracture dislocation	predictedType:Disease
+CANDIDATE	id:4213	inCount:1	outCount:1	links:	url:D004213	name:Dissociation	normalName:dissociation	normalWikiTitle:dissociation	predictedType:Disease
+CANDIDATE	id:6327	inCount:13	outCount:2	links:	url:D006327	name:A-V Dissociation	normalName:a-v dissociation	normalWikiTitle:a-v dissociation	predictedType:Disease
+CANDIDATE	id:6327	inCount:13	outCount:2	links:	url:D006327	name:Dissociation, A-V	normalName:dissociation, a-v	normalWikiTitle:dissociation, a-v	predictedType:Disease
+CANDIDATE	id:6327	inCount:13	outCount:2	links:	url:D006327	name:A V Dissociation	normalName:a v dissociation	normalWikiTitle:a v dissociation	predictedType:Disease
+CANDIDATE	id:8569	inCount:2	outCount:1	links:647	url:D008569	name:Memory Deficit	normalName:memory deficit	normalWikiTitle:memory deficit	predictedType:Disease

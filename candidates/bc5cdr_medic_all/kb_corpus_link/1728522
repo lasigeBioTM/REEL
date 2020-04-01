@@ -1,0 +1,4 @@
+ENTITY	text:eosinophilia	normalName:eosinophilia	predictedType:disease	q:true	qid:Q1109	docId:1728522	origText:eosinophilia	url:D004802
+CANDIDATE	id:4802	inCount:14	outCount:1	links:	url:D004802	name:Eosinophilia	normalName:eosinophilia	normalWikiTitle:eosinophilia	predictedType:Disease
+ENTITY	text:granulomas	normalName:granulomas	predictedType:disease	q:true	qid:Q1109	docId:1728522	origText:granulomas	url:D006099
+CANDIDATE	id:6099	inCount:12	outCount:2	links:	url:D006099	name:Granulomas	normalName:granulomas	normalWikiTitle:granulomas	predictedType:Disease

@@ -1,0 +1,8 @@
+ENTITY	text:sarcoma	normalName:sarcoma	predictedType:disease	q:true	qid:Q896	docId:11245434	origText:sarcoma	url:D012509
+CANDIDATE	id:12509	inCount:25	outCount:1	links:	url:D012509	name:Sarcoma	normalName:sarcoma	normalWikiTitle:sarcoma	predictedType:Disease
+ENTITY	text:tumors	normalName:tumors	predictedType:disease	q:true	qid:Q896	docId:11245434	origText:tumors	url:D009369
+CANDIDATE	id:9369	inCount:18	outCount:1	links:	url:D009369	name:Tumor	normalName:tumor	normalWikiTitle:tumor	predictedType:Disease
+ENTITY	text:anemia	normalName:anemia	predictedType:disease	q:true	qid:Q896	docId:11245434	origText:anemia	url:D000740
+CANDIDATE	id:740	inCount:14	outCount:1	links:	url:D000740	name:Anemia	normalName:anemia	normalWikiTitle:anemia	predictedType:Disease
+ENTITY	text:tumor	normalName:tumor	predictedType:disease	q:true	qid:Q896	docId:11245434	origText:tumor	url:D009369
+CANDIDATE	id:9369	inCount:18	outCount:1	links:	url:D009369	name:Tumor	normalName:tumor	normalWikiTitle:tumor	predictedType:Disease

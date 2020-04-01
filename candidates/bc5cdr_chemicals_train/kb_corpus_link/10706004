@@ -1,0 +1,10 @@
+ENTITY	text:L-NAME	normalName:l-name	predictedType:chemical	q:true	qid:Q316	docId:10706004	origText:L-NAME	url:D019331
+CANDIDATE	id:19331	inCount:0	outCount:1	links:19331	url:D019331	name:L-NAME	normalName:l-name	normalWikiTitle:l-name	predictedType:Chemical
+ENTITY	text:nitric oxide	normalName:nitric oxide	predictedType:chemical	q:true	qid:Q316	docId:10706004	origText:nitric oxide	url:D009569
+CANDIDATE	id:9569	inCount:13	outCount:3	links:	url:D009569	name:Nitric Oxide	normalName:nitric oxide	normalWikiTitle:nitric oxide	predictedType:Chemical
+ENTITY	text:N(G)-nitro-L-arginine methyl ester	normalName:n(g)-nitro-l-arginine methyl ester	predictedType:chemical	q:true	qid:Q316	docId:10706004	origText:N(G)-nitro-L-arginine methyl ester	url:D019331
+CANDIDATE	id:19331	inCount:0	outCount:1	links:19331	url:D019331	name:N(G)-Nitro-L-arginine Methyl Ester	normalName:n(g)-nitro-l-arginine methyl ester	normalWikiTitle:n(g)-nitro-l-arginine methyl ester	predictedType:Chemical
+ENTITY	text:sodium	normalName:sodium	predictedType:chemical	q:true	qid:Q316	docId:10706004	origText:sodium	url:D012964
+CANDIDATE	id:12964	inCount:10	outCount:2	links:	url:D012964	name:Sodium	normalName:sodium	normalWikiTitle:sodium	predictedType:Chemical
+ENTITY	text:ATP	normalName:atp	predictedType:chemical	q:true	qid:Q316	docId:10706004	origText:ATP	url:D000255
+CANDIDATE	id:255	inCount:176	outCount:1	links:	url:D000255	name:ATP	normalName:atp	normalWikiTitle:atp	predictedType:Chemical

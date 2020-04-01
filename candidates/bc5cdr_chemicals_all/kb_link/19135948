@@ -1,0 +1,6 @@
+ENTITY	text:methotrexate	normalName:methotrexate	predictedType:chemical	q:true	qid:Q269	docId:19135948	origText:methotrexate	url:D008727
+CANDIDATE	id:8727	inCount:364	outCount:1	links:	url:D008727	name:Methotrexate	normalName:methotrexate	normalWikiTitle:methotrexate	predictedType:Chemical
+ENTITY	text:tacrolimus	normalName:tacrolimus	predictedType:chemical	q:true	qid:Q269	docId:19135948	origText:tacrolimus	url:D016559
+CANDIDATE	id:16559	inCount:40	outCount:1	links:	url:D016559	name:Tacrolimus	normalName:tacrolimus	normalWikiTitle:tacrolimus	predictedType:Chemical
+ENTITY	text:sirolimus	normalName:sirolimus	predictedType:chemical	q:true	qid:Q269	docId:19135948	origText:sirolimus	url:D020123
+CANDIDATE	id:20123	inCount:19	outCount:1	links:	url:D020123	name:Sirolimus	normalName:sirolimus	normalWikiTitle:sirolimus	predictedType:Chemical

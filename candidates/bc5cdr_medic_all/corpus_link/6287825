@@ -1,0 +1,45 @@
+ENTITY	text:Peripheral neuropathy	normalName:peripheral neuropathy	predictedType:disease	q:true	qid:Q1140	docId:6287825	origText:Peripheral neuropathy	url:D010523
+CANDIDATE	id:10523	inCount:37	outCount:1	links:9901	url:D010523	name:Peripheral Neuropathy	normalName:peripheral neuropathy	normalWikiTitle:peripheral neuropathy	predictedType:Disease
+ENTITY	text:connective tissue disorders	normalName:connective tissue disorders	predictedType:disease	q:true	qid:Q1140	docId:6287825	origText:connective tissue disorders	url:D003240
+CANDIDATE	id:3240	inCount:36	outCount:1	links:	url:D003240	name:Disease, Connective Tissue	normalName:disease, connective tissue	normalWikiTitle:disease, connective tissue	predictedType:Disease
+CANDIDATE	id:3240	inCount:36	outCount:1	links:	url:D003240	name:Connective Tissue Diseases	normalName:connective tissue diseases	normalWikiTitle:connective tissue diseases	predictedType:Disease
+CANDIDATE	id:562737	inCount:0	outCount:1	links:	url:C562737	name:Connective Tissue Nevus	normalName:connective tissue nevus	normalWikiTitle:connective tissue nevus	predictedType:Disease
+CANDIDATE	id:8947	inCount:0	outCount:1	links:	url:D008947	name:Mixed Connective Tissue Disease	normalName:mixed connective tissue disease	normalWikiTitle:mixed connective tissue disease	predictedType:Disease
+CANDIDATE	id:17437	inCount:2	outCount:1	links:	url:D017437	name:Skin and Connective Tissue Diseases	normalName:skin and connective tissue diseases	normalWikiTitle:skin and connective tissue diseases	predictedType:Disease
+CANDIDATE	id:9372	inCount:17	outCount:2	links:	url:D009372	name:Neoplasms, Connective Tissue	normalName:neoplasms, connective tissue	normalWikiTitle:neoplasms, connective tissue	predictedType:Disease
+CANDIDATE	id:19970	inCount:0	outCount:1	links:	url:D019970	name:Cocaine-Related Disorders	normalName:cocaine-related disorders	normalWikiTitle:cocaine-related disorders	predictedType:Disease
+CANDIDATE	id:341	inCount:0	outCount:1	links:	url:D000341	name:Affective Disorders, Psychotic	normalName:affective disorders, psychotic	normalWikiTitle:affective disorders, psychotic	predictedType:Disease
+CANDIDATE	id:16574	inCount:0	outCount:1	links:	url:D016574	name:Seasonal Affective Disorder	normalName:seasonal affective disorder	normalWikiTitle:seasonal affective disorder	predictedType:Disease
+CANDIDATE	id:12090	inCount:3	outCount:1	links:	url:D012090	name:Cumulative Trauma Disorders	normalName:cumulative trauma disorders	normalWikiTitle:cumulative trauma disorders	predictedType:Disease
+CANDIDATE	id:74079	inCount:0	outCount:2	links:	url:D000074079	name:Undifferentiated Connective Tissue Diseases	normalName:undifferentiated connective tissue diseases	normalWikiTitle:undifferentiated connective tissue diseases	predictedType:Disease
+CANDIDATE	id:3240	inCount:36	outCount:1	links:	url:D003240	name:Connective Tissue Disease	normalName:connective tissue disease	normalWikiTitle:connective tissue disease	predictedType:Disease
+ENTITY	text:malignancies	normalName:malignancies	predictedType:disease	q:true	qid:Q1140	docId:6287825	origText:malignancies	url:D009369
+CANDIDATE	id:9369	inCount:18	outCount:1	links:	url:D009369	name:Malignancies	normalName:malignancies	normalWikiTitle:malignancies	predictedType:Disease
+ENTITY	text:peripheral nerve disease	normalName:peripheral nerve disease	predictedType:disease	q:true	qid:Q1140	docId:6287825	origText:peripheral nerve disease	url:D010523
+CANDIDATE	id:10523	inCount:37	outCount:1	links:9901	url:D010523	name:Peripheral Nerve Disease	normalName:peripheral nerve disease	normalWikiTitle:peripheral nerve disease	predictedType:Disease
+ENTITY	text:Diabetes mellitus	normalName:diabetes mellitus	predictedType:disease	q:true	qid:Q1140	docId:6287825	origText:Diabetes mellitus	url:D003920
+CANDIDATE	id:3920	inCount:44	outCount:2	links:	url:D003920	name:Diabetes Mellitus	normalName:diabetes mellitus	normalWikiTitle:diabetes mellitus	predictedType:Disease
+ENTITY	text:Guillain-Barr   syndrome	normalName:guillain-barr   syndrome	predictedType:disease	q:true	qid:Q1140	docId:6287825	origText:Guillain-Barr   syndrome	url:D020275
+CANDIDATE	id:20275	inCount:1	outCount:2	links:	url:D020275	name:Guillain-Barré Syndrome	normalName:guillain-barré syndrome	normalWikiTitle:guillain-barré syndrome	predictedType:Disease
+ENTITY	text:Diseases of peripheral nerves	normalName:diseases of peripheral nerves	predictedType:disease	q:true	qid:Q1140	docId:6287825	origText:Diseases of peripheral nerves	url:D010523
+CANDIDATE	id:10523	inCount:37	outCount:1	links:9901	url:D010523	name:Peripheral Nerve Disease	normalName:peripheral nerve disease	normalWikiTitle:peripheral nerve disease	predictedType:Disease
+CANDIDATE	id:10523	inCount:37	outCount:1	links:9901	url:D010523	name:Peripheral Nervous System Diseases	normalName:peripheral nervous system diseases	normalWikiTitle:peripheral nervous system diseases	predictedType:Disease
+CANDIDATE	id:59348	inCount:0	outCount:2	links:	url:D059348	name:Peripheral Nerve Injuries	normalName:peripheral nerve injuries	normalWikiTitle:peripheral nerve injuries	predictedType:Disease
+CANDIDATE	id:20433	inCount:2	outCount:1	links:	url:D020433	name:Trigeminal Nerve Diseases	normalName:trigeminal nerve diseases	normalWikiTitle:trigeminal nerve diseases	predictedType:Disease
+CANDIDATE	id:9901	inCount:13	outCount:2	links:10523	url:D009901	name:Optic Nerve Diseases	normalName:optic nerve diseases	normalWikiTitle:optic nerve diseases	predictedType:Disease
+CANDIDATE	id:20432	inCount:1	outCount:1	links:	url:D020432	name:Trochlear Nerve Diseases	normalName:trochlear nerve diseases	normalWikiTitle:trochlear nerve diseases	predictedType:Disease
+CANDIDATE	id:4935	inCount:11	outCount:1	links:	url:D004935	name:Esophageal Diseases	normalName:esophageal diseases	normalWikiTitle:esophageal diseases	predictedType:Disease
+CANDIDATE	id:20431	inCount:2	outCount:1	links:	url:D020431	name:Olfactory Nerve Diseases	normalName:olfactory nerve diseases	normalWikiTitle:olfactory nerve diseases	predictedType:Disease
+CANDIDATE	id:16491	inCount:8	outCount:1	links:	url:D016491	name:Peripheral Vascular Diseases	normalName:peripheral vascular diseases	normalWikiTitle:peripheral vascular diseases	predictedType:Disease
+CANDIDATE	id:10532	inCount:10	outCount:1	links:	url:D010532	name:Peritoneal Diseases	normalName:peritoneal diseases	normalWikiTitle:peritoneal diseases	predictedType:Disease
+CANDIDATE	id:10483	inCount:2	outCount:2	links:	url:D010483	name:Periapical Diseases	normalName:periapical diseases	normalWikiTitle:periapical diseases	predictedType:Disease
+CANDIDATE	id:10523	inCount:37	outCount:1	links:9901	url:D010523	name:Nerve Diseases, Peripheral	normalName:nerve diseases, peripheral	normalWikiTitle:nerve diseases, peripheral	predictedType:Disease
+CANDIDATE	id:10523	inCount:37	outCount:1	links:9901	url:D010523	name:Peripheral Nerve Diseases	normalName:peripheral nerve diseases	normalWikiTitle:peripheral nerve diseases	predictedType:Disease
+CANDIDATE	id:10523	inCount:37	outCount:1	links:9901	url:D010523	name:Nerve Disease, Peripheral	normalName:nerve disease, peripheral	normalWikiTitle:nerve disease, peripheral	predictedType:Disease
+CANDIDATE	id:20427	inCount:0	outCount:1	links:	url:D020427	name:Peroneal Nerve Diseases	normalName:peroneal nerve diseases	normalWikiTitle:peroneal nerve diseases	predictedType:Disease
+ENTITY	text:cranial neuropathy	normalName:cranial neuropathy	predictedType:disease	q:true	qid:Q1140	docId:6287825	origText:cranial neuropathy	url:D003389
+CANDIDATE	id:3389	inCount:16	outCount:1	links:	url:D003389	name:Neuropathy, Cranial	normalName:neuropathy, cranial	normalWikiTitle:neuropathy, cranial	predictedType:Disease
+ENTITY	text:nutritional deficiency	normalName:nutritional deficiency	predictedType:disease	q:true	qid:Q1140	docId:6287825	origText:nutritional deficiency	url:D044342
+CANDIDATE	id:44342	inCount:5	outCount:1	links:	url:D044342	name:Nutritional Deficiency	normalName:nutritional deficiency	normalWikiTitle:nutritional deficiency	predictedType:Disease
+ENTITY	text:Migraine	normalName:migraine	predictedType:disease	q:true	qid:Q1140	docId:6287825	origText:Migraine	url:D008881
+CANDIDATE	id:8881	inCount:9	outCount:1	links:	url:D008881	name:Migraine	normalName:migraine	normalWikiTitle:migraine	predictedType:Disease

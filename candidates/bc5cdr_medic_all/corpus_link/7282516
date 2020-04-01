@@ -1,0 +1,20 @@
+ENTITY	text:cardiomyopathy	normalName:cardiomyopathy	predictedType:disease	q:true	qid:Q611	docId:7282516	origText:cardiomyopathy	url:D009202
+CANDIDATE	id:9202	inCount:37	outCount:1	links:1919;17202;13610;6333;28361;9203	url:D009202	name:Cardiomyopathy	normalName:cardiomyopathy	normalWikiTitle:cardiomyopathy	predictedType:Disease
+ENTITY	text:myocardial disease	normalName:myocardial disease	predictedType:disease	q:true	qid:Q611	docId:7282516	origText:myocardial disease	url:D009202
+CANDIDATE	id:9202	inCount:37	outCount:1	links:1919;17202;13610;6333;28361;9203	url:D009202	name:Myocardial Disease	normalName:myocardial disease	normalWikiTitle:myocardial disease	predictedType:Disease
+ENTITY	text:myocardial damage	normalName:myocardial damage	predictedType:disease	q:true	qid:Q611	docId:7282516	origText:myocardial damage	url:D009202
+CANDIDATE	id:9202	inCount:37	outCount:1	links:1919;17202;13610;6333;28361;9203	url:D009202	name:Diseases, Myocardial	normalName:diseases, myocardial	normalWikiTitle:diseases, myocardial	predictedType:Disease
+CANDIDATE	id:17202	inCount:6	outCount:2	links:9202	url:D017202	name:Myocardial Ischemia	normalName:myocardial ischemia	normalWikiTitle:myocardial ischemia	predictedType:Disease
+CANDIDATE	id:54084	inCount:0	outCount:1	links:	url:D054084	name:Myocardial Bridging	normalName:myocardial bridging	normalWikiTitle:myocardial bridging	predictedType:Disease
+CANDIDATE	id:9203	inCount:8	outCount:1	links:9202	url:D009203	name:Myocardial Infarction	normalName:myocardial infarction	normalWikiTitle:myocardial infarction	predictedType:Disease
+CANDIDATE	id:3914	inCount:4	outCount:2	links:	url:D003914	name:Dextrocardia	normalName:dextrocardia	normalWikiTitle:dextrocardia	predictedType:Disease
+CANDIDATE	id:7979	inCount:0	outCount:2	links:	url:D007979	name:Levocardia	normalName:levocardia	normalWikiTitle:levocardia	predictedType:Disease
+CANDIDATE	id:71956	inCount:1	outCount:2	links:	url:D000071956	name:Myocardial Contusions	normalName:myocardial contusions	normalWikiTitle:myocardial contusions	predictedType:Disease
+CANDIDATE	id:9205	inCount:2	outCount:1	links:	url:D009205	name:Myocarditis	normalName:myocarditis	normalWikiTitle:myocarditis	predictedType:Disease
+CANDIDATE	id:1919	inCount:0	outCount:1	links:9202	url:D001919	name:Bradycardia	normalName:bradycardia	normalWikiTitle:bradycardia	predictedType:Disease
+CANDIDATE	id:13610	inCount:7	outCount:2	links:9202	url:D013610	name:Tachycardia	normalName:tachycardia	normalWikiTitle:tachycardia	predictedType:Disease
+CANDIDATE	id:28361	inCount:64	outCount:1	links:9202	url:D028361	name:Mitochondrial Diseases	normalName:mitochondrial diseases	normalWikiTitle:mitochondrial diseases	predictedType:Disease
+CANDIDATE	id:9202	inCount:37	outCount:1	links:1919;17202;13610;6333;28361;9203	url:D009202	name:Disease, Myocardial	normalName:disease, myocardial	normalWikiTitle:disease, myocardial	predictedType:Disease
+CANDIDATE	id:9202	inCount:37	outCount:1	links:1919;17202;13610;6333;28361;9203	url:D009202	name:Myocardial Disease	normalName:myocardial disease	normalWikiTitle:myocardial disease	predictedType:Disease
+CANDIDATE	id:9202	inCount:37	outCount:1	links:1919;17202;13610;6333;28361;9203	url:D009202	name:Myocardial Diseases	normalName:myocardial diseases	normalWikiTitle:myocardial diseases	predictedType:Disease
+CANDIDATE	id:6333	inCount:5	outCount:1	links:9202	url:D006333	name:Myocardial Failure	normalName:myocardial failure	normalWikiTitle:myocardial failure	predictedType:Disease

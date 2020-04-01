@@ -1,0 +1,8 @@
+ENTITY	text:phenylacetic acid	normalName:phenylacetic acid	predictedType:chemical	q:true	qid:Q53	docId:2611118	origText:phenylacetic acid	url:C025136
+CANDIDATE	id:25136	inCount:0	outCount:1	links:	url:C025136	name:phenylacetic acid	normalName:phenylacetic acid	normalWikiTitle:phenylacetic acid	predictedType:Chemical
+ENTITY	text:diclofenac	normalName:diclofenac	predictedType:chemical	q:true	qid:Q53	docId:2611118	origText:diclofenac	url:D004008
+CANDIDATE	id:4008	inCount:32	outCount:1	links:4008	url:D004008	name:Diclofenac	normalName:diclofenac	normalWikiTitle:diclofenac	predictedType:Chemical
+ENTITY	text:diclofenac sodium	normalName:diclofenac sodium	predictedType:chemical	q:true	qid:Q53	docId:2611118	origText:diclofenac sodium	url:D004008
+CANDIDATE	id:4008	inCount:32	outCount:1	links:4008	url:D004008	name:Diclofenac, Sodium	normalName:diclofenac, sodium	normalWikiTitle:diclofenac, sodium	predictedType:Chemical
+ENTITY	text:Voltarol	normalName:voltarol	predictedType:chemical	q:true	qid:Q53	docId:2611118	origText:Voltarol	url:D004008
+CANDIDATE	id:4008	inCount:32	outCount:1	links:4008	url:D004008	name:Voltarol	normalName:voltarol	normalWikiTitle:voltarol	predictedType:Chemical

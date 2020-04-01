@@ -1,0 +1,23 @@
+ENTITY	text:acute renal failure	normalName:acute renal failure	predictedType:disease	q:true	qid:Q184	docId:1636026	origText:acute renal failure	url:D058186
+CANDIDATE	id:58186	inCount:2	outCount:1	links:58186	url:D058186	name:Acute Renal Failure	normalName:acute renal failure	normalWikiTitle:acute renal failure	predictedType:Disease
+ENTITY	text:acute declines in renal function	normalName:acute declines in renal function	predictedType:disease	q:true	qid:Q184	docId:1636026	origText:acute declines in renal function	url:D058186
+CANDIDATE	id:58186	inCount:2	outCount:1	links:58186	url:D058186	name:Acute Renal Insufficiency	normalName:acute renal insufficiency	normalWikiTitle:acute renal insufficiency	predictedType:Disease
+CANDIDATE	id:12078	inCount:0	outCount:2	links:	url:D012078	name:Renal Artery Obstruction	normalName:renal artery obstruction	normalWikiTitle:renal artery obstruction	predictedType:Disease
+CANDIDATE	id:564942	inCount:0	outCount:1	links:	url:C564942	name:Neutrophil Actin Dysfunction	normalName:neutrophil actin dysfunction	normalWikiTitle:neutrophil actin dysfunction	predictedType:Disease
+CANDIDATE	id:614962	inCount:0	outCount:2	links:	url:614962	name:LEPTIN DEFICIENCY OR DYSFUNCTION	normalName:leptin deficiency or dysfunction	normalWikiTitle:leptin deficiency or dysfunction	predictedType:Disease
+CANDIDATE	id:51799	inCount:0	outCount:1	links:	url:D051799	name:Delayed Graft Function	normalName:delayed graft function	normalWikiTitle:delayed graft function	predictedType:Disease
+CANDIDATE	id:20217	inCount:0	outCount:2	links:	url:D020217	name:Vertebral Artery Dissection	normalName:vertebral artery dissection	normalWikiTitle:vertebral artery dissection	predictedType:Disease
+CANDIDATE	id:3109	inCount:3	outCount:1	links:	url:D003109	name:Colonic Diseases, Functional	normalName:colonic diseases, functional	normalWikiTitle:colonic diseases, functional	predictedType:Disease
+CANDIDATE	id:300082	inCount:0	outCount:1	links:	url:300082	name:COGNITIVE FUNCTION 1, SOCIAL	normalName:cognitive function 1, social	normalWikiTitle:cognitive function 1, social	predictedType:Disease
+CANDIDATE	id:20215	inCount:1	outCount:2	links:	url:D020215	name:Carotid Artery, Internal, Dissection	normalName:carotid artery, internal, dissection	normalWikiTitle:carotid artery, internal, dissection	predictedType:Disease
+CANDIDATE	id:535672	inCount:0	outCount:1	links:	url:C535672	name:Acute cholinergic dysautonomia	normalName:acute cholinergic dysautonomia	normalWikiTitle:acute cholinergic dysautonomia	predictedType:Disease
+CANDIDATE	id:15828	inCount:4	outCount:2	links:	url:D015828	name:Eye Infections, Viral	normalName:eye infections, viral	normalWikiTitle:eye infections, viral	predictedType:Disease
+CANDIDATE	id:58186	inCount:2	outCount:1	links:58186	url:D058186	name:Renal Insufficiencies, Acute	normalName:renal insufficiencies, acute	normalWikiTitle:renal insufficiencies, acute	predictedType:Disease
+CANDIDATE	id:58186	inCount:2	outCount:1	links:58186	url:D058186	name:Acute Renal Insufficiencies	normalName:acute renal insufficiencies	normalWikiTitle:acute renal insufficiencies	predictedType:Disease
+CANDIDATE	id:58186	inCount:2	outCount:1	links:58186	url:D058186	name:Renal Insufficiency, Acute	normalName:renal insufficiency, acute	normalWikiTitle:renal insufficiency, acute	predictedType:Disease
+CANDIDATE	id:56844	inCount:0	outCount:2	links:	url:D056844	name:Colic, Acute Renal	normalName:colic, acute renal	normalWikiTitle:colic, acute renal	predictedType:Disease
+CANDIDATE	id:56844	inCount:0	outCount:2	links:	url:D056844	name:Renal Colic, Acute	normalName:renal colic, acute	normalWikiTitle:renal colic, acute	predictedType:Disease
+CANDIDATE	id:56844	inCount:0	outCount:2	links:	url:D056844	name:Acute Renal Colic	normalName:acute renal colic	normalWikiTitle:acute renal colic	predictedType:Disease
+CANDIDATE	id:56844	inCount:0	outCount:2	links:	url:D056844	name:Renal Colics, Acute	normalName:renal colics, acute	normalWikiTitle:renal colics, acute	predictedType:Disease
+CANDIDATE	id:56844	inCount:0	outCount:2	links:	url:D056844	name:Acute Renal Colics	normalName:acute renal colics	normalWikiTitle:acute renal colics	predictedType:Disease
+CANDIDATE	id:56844	inCount:0	outCount:2	links:	url:D056844	name:Colics, Acute Renal	normalName:colics, acute renal	normalWikiTitle:colics, acute renal	predictedType:Disease

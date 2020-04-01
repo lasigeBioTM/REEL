@@ -1,0 +1,4 @@
+ENTITY	text:calcium	normalName:calcium	predictedType:chemical	q:true	qid:Q122	docId:3300918	origText:calcium	url:D002118
+CANDIDATE	id:2118	inCount:11	outCount:2	links:	url:D002118	name:Calcium	normalName:calcium	normalWikiTitle:calcium	predictedType:Chemical
+ENTITY	text:methysergide	normalName:methysergide	predictedType:chemical	q:true	qid:Q122	docId:3300918	origText:methysergide	url:D008784
+CANDIDATE	id:8784	inCount:0	outCount:1	links:	url:D008784	name:Methysergide	normalName:methysergide	normalWikiTitle:methysergide	predictedType:Chemical

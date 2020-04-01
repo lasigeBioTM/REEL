@@ -1,0 +1,8 @@
+ENTITY	text:ursodeoxycholic acid	normalName:ursodeoxycholic acid	predictedType:chemical	q:true	qid:Q175	docId:9721172	origText:ursodeoxycholic acid	url:D014580
+CANDIDATE	id:14580	inCount:35	outCount:1	links:	url:D014580	name:Ursodeoxycholic Acid	normalName:ursodeoxycholic acid	normalWikiTitle:ursodeoxycholic acid	predictedType:Chemical
+ENTITY	text:tacrolimus	normalName:tacrolimus	predictedType:chemical	q:true	qid:Q175	docId:9721172	origText:tacrolimus	url:D016559
+CANDIDATE	id:16559	inCount:40	outCount:1	links:	url:D016559	name:Tacrolimus	normalName:tacrolimus	normalWikiTitle:tacrolimus	predictedType:Chemical
+ENTITY	text:prednisone	normalName:prednisone	predictedType:chemical	q:true	qid:Q175	docId:9721172	origText:prednisone	url:D011241
+CANDIDATE	id:11241	inCount:209	outCount:1	links:	url:D011241	name:Prednisone	normalName:prednisone	normalWikiTitle:prednisone	predictedType:Chemical
+ENTITY	text:ibuprofen	normalName:ibuprofen	predictedType:chemical	q:true	qid:Q175	docId:9721172	origText:ibuprofen	url:D007052
+CANDIDATE	id:7052	inCount:34	outCount:1	links:	url:D007052	name:Ibuprofen	normalName:ibuprofen	normalWikiTitle:ibuprofen	predictedType:Chemical

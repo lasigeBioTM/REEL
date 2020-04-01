@@ -1,0 +1,6 @@
+ENTITY	text:beraprost	normalName:beraprost	predictedType:chemical	q:true	qid:Q307	docId:7596955	origText:beraprost	url:C048081
+CANDIDATE	id:48081	inCount:0	outCount:1	links:	url:C048081	name:beraprost	normalName:beraprost	normalWikiTitle:beraprost	predictedType:Chemical
+ENTITY	text:prostacyclin	normalName:prostacyclin	predictedType:chemical	q:true	qid:Q307	docId:7596955	origText:prostacyclin	url:D011464
+CANDIDATE	id:11464	inCount:88	outCount:1	links:	url:D011464	name:Prostacyclin	normalName:prostacyclin	normalWikiTitle:prostacyclin	predictedType:Chemical
+ENTITY	text:cyclic adenosine 3',5'-monophosphate	normalName:cyclic adenosine 3',5'-monophosphate	predictedType:chemical	q:true	qid:Q307	docId:7596955	origText:cyclic adenosine 3',5'-monophosphate	url:D000242
+CANDIDATE	id:242	inCount:75	outCount:2	links:	url:D000242	name:Cyclic 3',5'-Monophosphate, Adenosine	normalName:cyclic 3',5'-monophosphate, adenosine	normalWikiTitle:cyclic 3',5'-monophosphate, adenosine	predictedType:Chemical

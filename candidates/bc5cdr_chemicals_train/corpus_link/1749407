@@ -1,0 +1,4 @@
+ENTITY	text:Cocaine	normalName:cocaine	predictedType:chemical	q:true	qid:Q104	docId:1749407	origText:Cocaine	url:D003042
+CANDIDATE	id:3042	inCount:89	outCount:1	links:	url:D003042	name:Cocaine	normalName:cocaine	normalWikiTitle:cocaine	predictedType:Chemical
+ENTITY	text:oxygen	normalName:oxygen	predictedType:chemical	q:true	qid:Q104	docId:1749407	origText:oxygen	url:D010100
+CANDIDATE	id:10100	inCount:11	outCount:2	links:	url:D010100	name:Oxygen	normalName:oxygen	normalWikiTitle:oxygen	predictedType:Chemical

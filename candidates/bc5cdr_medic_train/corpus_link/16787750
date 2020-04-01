@@ -1,0 +1,20 @@
+ENTITY	text:impaired consciousness	normalName:impaired consciousness	predictedType:disease	q:true	qid:Q67	docId:16787750	origText:impaired consciousness	url:D003244
+CANDIDATE	id:3244	inCount:1	outCount:2	links:10195;1927	url:D003244	name:Consciousness Disorder	normalName:consciousness disorder	normalWikiTitle:consciousness disorder	predictedType:Disease
+CANDIDATE	id:3244	inCount:1	outCount:2	links:10195;1927	url:D003244	name:Consciousness Disorders	normalName:consciousness disorders	normalWikiTitle:consciousness disorders	predictedType:Disease
+CANDIDATE	id:14474	inCount:4	outCount:1	links:	url:D014474	name:Unconsciousness	normalName:unconsciousness	normalWikiTitle:unconsciousness	predictedType:Disease
+CANDIDATE	id:76263	inCount:0	outCount:1	links:	url:D000076263	name:Communicable Diseases, Imported	normalName:communicable diseases, imported	normalWikiTitle:communicable diseases, imported	predictedType:Disease
+CANDIDATE	id:71956	inCount:1	outCount:2	links:	url:D000071956	name:Myocardial Contusions	normalName:myocardial contusions	normalWikiTitle:myocardial contusions	predictedType:Disease
+CANDIDATE	id:18489	inCount:0	outCount:1	links:	url:D018489	name:Space Motion Sickness	normalName:space motion sickness	normalWikiTitle:space motion sickness	predictedType:Disease
+CANDIDATE	id:3811	inCount:6	outCount:1	links:	url:D003811	name:Dentinogenesis Imperfecta	normalName:dentinogenesis imperfecta	normalWikiTitle:dentinogenesis imperfecta	predictedType:Disease
+CANDIDATE	id:3291	inCount:0	outCount:1	links:	url:D003291	name:Conversion Disorder	normalName:conversion disorder	normalWikiTitle:conversion disorder	predictedType:Disease
+CANDIDATE	id:12810	inCount:2	outCount:1	links:	url:D012810	name:Sigmoid Diseases	normalName:sigmoid diseases	normalWikiTitle:sigmoid diseases	predictedType:Disease
+CANDIDATE	id:3251	inCount:8	outCount:1	links:	url:D003251	name:Constriction, Pathologic	normalName:constriction, pathologic	normalWikiTitle:constriction, pathologic	predictedType:Disease
+CANDIDATE	id:10322	inCount:4	outCount:1	links:	url:D010322	name:Parvoviridae Infections	normalName:parvoviridae infections	normalWikiTitle:parvoviridae infections	predictedType:Disease
+ENTITY	text:encephalopathy	normalName:encephalopathy	predictedType:disease	q:true	qid:Q67	docId:16787750	origText:encephalopathy	url:D001927
+CANDIDATE	id:1927	inCount:55	outCount:1	links:3244;10195	url:D001927	name:Encephalopathy	normalName:encephalopathy	normalWikiTitle:encephalopathy	predictedType:Disease
+ENTITY	text:hyperammonemia	normalName:hyperammonemia	predictedType:disease	q:true	qid:Q67	docId:16787750	origText:hyperammonemia	url:D022124
+CANDIDATE	id:22124	inCount:4	outCount:1	links:	url:D022124	name:Hyperammonemia	normalName:hyperammonemia	normalWikiTitle:hyperammonemia	predictedType:Disease
+ENTITY	text:pancreatitis	normalName:pancreatitis	predictedType:disease	q:true	qid:Q67	docId:16787750	origText:pancreatitis	url:D010195
+CANDIDATE	id:10195	inCount:4	outCount:1	links:3244;1927	url:D010195	name:Pancreatitis	normalName:pancreatitis	normalWikiTitle:pancreatitis	predictedType:Disease
+ENTITY	text:seizure	normalName:seizure	predictedType:disease	q:true	qid:Q67	docId:16787750	origText:seizure	url:D012640
+CANDIDATE	id:12640	inCount:53	outCount:1	links:	url:D012640	name:Seizure	normalName:seizure	normalWikiTitle:seizure	predictedType:Disease

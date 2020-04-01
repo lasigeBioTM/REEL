@@ -1,0 +1,6 @@
+ENTITY	text:ethanol	normalName:ethanol	predictedType:chemical	q:true	qid:Q165	docId:11229942	origText:ethanol	url:D000431
+CANDIDATE	id:431	inCount:62	outCount:1	links:3042	url:D000431	name:Ethanol	normalName:ethanol	normalWikiTitle:ethanol	predictedType:Chemical
+ENTITY	text:cocaethylene	normalName:cocaethylene	predictedType:chemical	q:true	qid:Q165	docId:11229942	origText:cocaethylene	url:C066444
+CANDIDATE	id:66444	inCount:0	outCount:1	links:	url:C066444	name:cocaethylene	normalName:cocaethylene	normalWikiTitle:cocaethylene	predictedType:Chemical
+ENTITY	text:Cocaine	normalName:cocaine	predictedType:chemical	q:true	qid:Q165	docId:11229942	origText:Cocaine	url:D003042
+CANDIDATE	id:3042	inCount:89	outCount:1	links:431	url:D003042	name:Cocaine	normalName:cocaine	normalWikiTitle:cocaine	predictedType:Chemical

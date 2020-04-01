@@ -1,0 +1,4 @@
+ENTITY	text:fentanyl	normalName:fentanyl	predictedType:chemical	q:true	qid:Q342	docId:7457821	origText:fentanyl	url:D005283
+CANDIDATE	id:5283	inCount:40	outCount:1	links:	url:D005283	name:Fentanyl	normalName:fentanyl	normalWikiTitle:fentanyl	predictedType:Chemical
+ENTITY	text:Etomidate	normalName:etomidate	predictedType:chemical	q:true	qid:Q342	docId:7457821	origText:Etomidate	url:D005045
+CANDIDATE	id:5045	inCount:10	outCount:1	links:	url:D005045	name:Etomidate	normalName:etomidate	normalWikiTitle:etomidate	predictedType:Chemical

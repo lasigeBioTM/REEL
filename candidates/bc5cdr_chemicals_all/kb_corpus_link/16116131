@@ -1,0 +1,4 @@
+ENTITY	text:levodopa	normalName:levodopa	predictedType:chemical	q:true	qid:Q416	docId:16116131	origText:levodopa	url:D007980
+CANDIDATE	id:7980	inCount:32	outCount:1	links:1058	url:D007980	name:Levodopa	normalName:levodopa	normalWikiTitle:levodopa	predictedType:Chemical
+ENTITY	text:apomorphine	normalName:apomorphine	predictedType:chemical	q:true	qid:Q416	docId:16116131	origText:apomorphine	url:D001058
+CANDIDATE	id:1058	inCount:29	outCount:1	links:7980	url:D001058	name:Apomorphine	normalName:apomorphine	normalWikiTitle:apomorphine	predictedType:Chemical

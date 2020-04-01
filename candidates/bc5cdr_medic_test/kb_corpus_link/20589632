@@ -1,0 +1,19 @@
+ENTITY	text:anemia	normalName:anemia	predictedType:disease	q:true	qid:Q449	docId:20589632	origText:anemia	url:D000740
+CANDIDATE	id:740	inCount:14	outCount:1	links:	url:D000740	name:Anemia	normalName:anemia	normalWikiTitle:anemia	predictedType:Disease
+ENTITY	text:acute leukemia	normalName:acute leukemia	predictedType:disease	q:true	qid:Q449	docId:20589632	origText:acute leukemia	url:D015470
+CANDIDATE	id:15470	inCount:13	outCount:1	links:	url:D015470	name:Leukemia, Myeloid, Acute	normalName:leukemia, myeloid, acute	normalWikiTitle:leukemia, myeloid, acute	predictedType:Disease
+CANDIDATE	id:535673	inCount:0	outCount:1	links:	url:C535673	name:Acute erythroleukemia	normalName:acute erythroleukemia	normalWikiTitle:acute erythroleukemia	predictedType:Disease
+CANDIDATE	id:15448	inCount:2	outCount:1	links:	url:D015448	name:Leukemia, B-Cell	normalName:leukemia, b-cell	normalWikiTitle:leukemia, b-cell	predictedType:Disease
+CANDIDATE	id:564112	inCount:0	outCount:1	links:	url:C564112	name:Leukemia, Acute, X-Linked	normalName:leukemia, acute, x-linked	normalWikiTitle:leukemia, acute, x-linked	predictedType:Disease
+CANDIDATE	id:15458	inCount:4	outCount:1	links:	url:D015458	name:Leukemia, T-Cell	normalName:leukemia, t-cell	normalWikiTitle:leukemia, t-cell	predictedType:Disease
+CANDIDATE	id:7948	inCount:0	outCount:1	links:	url:D007948	name:Leukemia, Monocytic, Acute	normalName:leukemia, monocytic, acute	normalWikiTitle:leukemia, monocytic, acute	predictedType:Disease
+CANDIDATE	id:7938	inCount:12	outCount:1	links:	url:D007938	name:Leukemia	normalName:leukemia	normalWikiTitle:leukemia	predictedType:Disease
+CANDIDATE	id:15471	inCount:0	outCount:1	links:	url:D015471	name:Leukemia, Basophilic, Acute	normalName:leukemia, basophilic, acute	normalWikiTitle:leukemia, basophilic, acute	predictedType:Disease
+CANDIDATE	id:11289	inCount:0	outCount:2	links:	url:D011289	name:Preleukemia	normalName:preleukemia	normalWikiTitle:preleukemia	predictedType:Disease
+CANDIDATE	id:16582	inCount:0	outCount:3	links:	url:D016582	name:Leukemia, Feline	normalName:leukemia, feline	normalWikiTitle:leukemia, feline	predictedType:Disease
+ENTITY	text:hemolytic anemia	normalName:hemolytic anemia	predictedType:disease	q:true	qid:Q449	docId:20589632	origText:hemolytic anemia	url:D000743
+CANDIDATE	id:743	inCount:20	outCount:1	links:	url:D000743	name:Anemia, Hemolytic	normalName:anemia, hemolytic	normalWikiTitle:anemia, hemolytic	predictedType:Disease
+ENTITY	text:hemolysis	normalName:hemolysis	predictedType:disease	q:true	qid:Q449	docId:20589632	origText:hemolysis	url:D006461
+CANDIDATE	id:6461	inCount:2	outCount:1	links:	url:D006461	name:Hemolysis	normalName:hemolysis	normalWikiTitle:hemolysis	predictedType:Disease
+ENTITY	text:hemoglobinuria	normalName:hemoglobinuria	predictedType:disease	q:true	qid:Q449	docId:20589632	origText:hemoglobinuria	url:D006456
+CANDIDATE	id:6456	inCount:1	outCount:1	links:	url:D006456	name:Hemoglobinuria	normalName:hemoglobinuria	normalWikiTitle:hemoglobinuria	predictedType:Disease

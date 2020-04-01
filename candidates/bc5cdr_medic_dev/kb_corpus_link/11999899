@@ -1,0 +1,32 @@
+ENTITY	text:catalepsy	normalName:catalepsy	predictedType:disease	q:true	qid:Q364	docId:11999899	origText:catalepsy	url:D002375
+CANDIDATE	id:2375	inCount:0	outCount:1	links:14202;4409	url:D002375	name:Catalepsy	normalName:catalepsy	normalWikiTitle:catalepsy	predictedType:Disease
+ENTITY	text:tardive dsykinesia	normalName:tardive dsykinesia	predictedType:disease	q:true	qid:Q364	docId:11999899	origText:tardive dsykinesia	url:D004409
+CANDIDATE	id:4409	inCount:1	outCount:3	links:14202;2375	url:D004409	name:Dyskinesia, Drug-Induced	normalName:dyskinesia, drug-induced	normalWikiTitle:dyskinesia, drug-induced	predictedType:Disease
+CANDIDATE	id:71057	inCount:0	outCount:1	links:	url:D000071057	name:Tardive Dyskinesia	normalName:tardive dyskinesia	normalWikiTitle:tardive dyskinesia	predictedType:Disease
+CANDIDATE	id:20820	inCount:25	outCount:2	links:	url:D020820	name:Dyskinesias	normalName:dyskinesias	normalWikiTitle:dyskinesias	predictedType:Disease
+CANDIDATE	id:14593	inCount:0	outCount:1	links:	url:D014593	name:Uterine Inertia	normalName:uterine inertia	normalWikiTitle:uterine inertia	predictedType:Disease
+CANDIDATE	id:57896	inCount:1	outCount:1	links:	url:D057896	name:Striae Distensae	normalName:striae distensae	normalWikiTitle:striae distensae	predictedType:Disease
+CANDIDATE	id:13616	inCount:0	outCount:1	links:	url:D013616	name:Tachycardia, Sinus	normalName:tachycardia, sinus	normalWikiTitle:tachycardia, sinus	predictedType:Disease
+CANDIDATE	id:19687	inCount:0	outCount:2	links:	url:D019687	name:Uterine Inversion	normalName:uterine inversion	normalWikiTitle:uterine inversion	predictedType:Disease
+CANDIDATE	id:46608	inCount:2	outCount:1	links:	url:D046608	name:Synkinesis	normalName:synkinesis	normalWikiTitle:synkinesis	predictedType:Disease
+CANDIDATE	id:648	inCount:0	outCount:1	links:	url:D000648	name:Amnesia, Retrograde	normalName:amnesia, retrograde	normalWikiTitle:amnesia, retrograde	predictedType:Disease
+CANDIDATE	id:50033	inCount:2	outCount:2	links:	url:D050033	name:Thyroid Dysgenesis	normalName:thyroid dysgenesis	normalWikiTitle:thyroid dysgenesis	predictedType:Disease
+ENTITY	text:Parkinson's disease	normalName:parkinson's disease	predictedType:disease	q:true	qid:Q364	docId:11999899	origText:Parkinson's disease	url:D010300
+CANDIDATE	id:10300	inCount:31	outCount:2	links:10300	url:D010300	name:Parkinson's Disease	normalName:parkinson's disease	normalWikiTitle:parkinson's disease	predictedType:Disease
+ENTITY	text:parkinsonian	normalName:parkinsonian	predictedType:disease	q:true	qid:Q364	docId:11999899	origText:parkinsonian	url:D010300
+CANDIDATE	id:10300	inCount:31	outCount:2	links:10300	url:D010300	name:Parkinson Disease	normalName:parkinson disease	normalWikiTitle:parkinson disease	predictedType:Disease
+CANDIDATE	id:20734	inCount:10	outCount:2	links:	url:D020734	name:Parkinsonian Disorders	normalName:parkinsonian disorders	normalWikiTitle:parkinsonian disorders	predictedType:Disease
+CANDIDATE	id:20447	inCount:7	outCount:1	links:	url:D020447	name:Parasomnias	normalName:parasomnias	normalWikiTitle:parasomnias	predictedType:Disease
+CANDIDATE	id:11041	inCount:14	outCount:1	links:	url:D011041	name:Poisoning	normalName:poisoning	normalWikiTitle:poisoning	predictedType:Disease
+CANDIDATE	id:535845	inCount:0	outCount:1	links:	url:C535845	name:Hawkinsinuria	normalName:hawkinsinuria	normalWikiTitle:hawkinsinuria	predictedType:Disease
+CANDIDATE	id:10304	inCount:0	outCount:2	links:	url:D010304	name:Paronychia	normalName:paronychia	normalWikiTitle:paronychia	predictedType:Disease
+CANDIDATE	id:18476	inCount:1	outCount:1	links:	url:D018476	name:Hypokinesia	normalName:hypokinesia	normalWikiTitle:hypokinesia	predictedType:Disease
+CANDIDATE	id:839	inCount:0	outCount:1	links:	url:D000839	name:Aniseikonia	normalName:aniseikonia	normalWikiTitle:aniseikonia	predictedType:Disease
+CANDIDATE	id:537438	inCount:0	outCount:1	links:	url:C537438	name:Arrhinia	normalName:arrhinia	normalWikiTitle:arrhinia	predictedType:Disease
+CANDIDATE	id:10939	inCount:4	outCount:1	links:	url:D010939	name:Plant Poisoning	normalName:plant poisoning	normalWikiTitle:plant poisoning	predictedType:Disease
+CANDIDATE	id:20734	inCount:10	outCount:2	links:	url:D020734	name:Parkinsonism	normalName:parkinsonism	normalWikiTitle:parkinsonism	predictedType:Disease
+CANDIDATE	id:20734	inCount:10	outCount:2	links:	url:D020734	name:Parkinsonian Syndrome	normalName:parkinsonian syndrome	normalWikiTitle:parkinsonian syndrome	predictedType:Disease
+CANDIDATE	id:20447	inCount:7	outCount:1	links:	url:D020447	name:Parasomnia	normalName:parasomnia	normalWikiTitle:parasomnia	predictedType:Disease
+CANDIDATE	id:20734	inCount:10	outCount:2	links:	url:D020734	name:Parkinsonian Diseases	normalName:parkinsonian diseases	normalWikiTitle:parkinsonian diseases	predictedType:Disease
+ENTITY	text:tremor	normalName:tremor	predictedType:disease	q:true	qid:Q364	docId:11999899	origText:tremor	url:D014202
+CANDIDATE	id:14202	inCount:6	outCount:1	links:4409;2375	url:D014202	name:Tremor	normalName:tremor	normalWikiTitle:tremor	predictedType:Disease

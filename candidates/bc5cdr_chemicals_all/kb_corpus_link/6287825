@@ -1,0 +1,6 @@
+ENTITY	text:Isoniazid	normalName:isoniazid	predictedType:chemical	q:true	qid:Q76	docId:6287825	origText:Isoniazid	url:D007538
+CANDIDATE	id:7538	inCount:46	outCount:2	links:12256;13831	url:D007538	name:Isoniazid	normalName:isoniazid	normalWikiTitle:isoniazid	predictedType:Chemical
+ENTITY	text:thiamine	normalName:thiamine	predictedType:chemical	q:true	qid:Q76	docId:6287825	origText:thiamine	url:D013831
+CANDIDATE	id:13831	inCount:62	outCount:2	links:7538;12256	url:D013831	name:Thiamine	normalName:thiamine	normalWikiTitle:thiamine	predictedType:Chemical
+ENTITY	text:riboflavin	normalName:riboflavin	predictedType:chemical	q:true	qid:Q76	docId:6287825	origText:riboflavin	url:D012256
+CANDIDATE	id:12256	inCount:81	outCount:1	links:7538;13831	url:D012256	name:Riboflavin	normalName:riboflavin	normalWikiTitle:riboflavin	predictedType:Chemical

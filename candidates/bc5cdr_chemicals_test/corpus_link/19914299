@@ -1,0 +1,6 @@
+ENTITY	text:5-fluorouracil	normalName:5-fluorouracil	predictedType:chemical	q:true	qid:Q217	docId:19914299	origText:5-fluorouracil	url:D005472
+CANDIDATE	id:5472	inCount:271	outCount:1	links:	url:D005472	name:5 Fluorouracil	normalName:5 fluorouracil	normalWikiTitle:5 fluorouracil	predictedType:Chemical
+ENTITY	text:5-FU	normalName:5-fu	predictedType:chemical	q:true	qid:Q217	docId:19914299	origText:5-FU	url:D005472
+CANDIDATE	id:5472	inCount:271	outCount:1	links:	url:D005472	name:5-FU	normalName:5-fu	normalWikiTitle:5-fu	predictedType:Chemical
+ENTITY	text:Fluoxetine	normalName:fluoxetine	predictedType:chemical	q:true	qid:Q217	docId:19914299	origText:Fluoxetine	url:D005473
+CANDIDATE	id:5473	inCount:8	outCount:1	links:	url:D005473	name:Fluoxetine	normalName:fluoxetine	normalWikiTitle:fluoxetine	predictedType:Chemical

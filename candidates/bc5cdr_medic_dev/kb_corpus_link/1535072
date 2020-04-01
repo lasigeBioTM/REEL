@@ -1,0 +1,10 @@
+ENTITY	text:trichotillomania	normalName:trichotillomania	predictedType:disease	q:true	qid:Q38	docId:1535072	origText:trichotillomania	url:D014256
+CANDIDATE	id:14256	inCount:0	outCount:1	links:	url:D014256	name:Trichotillomania	normalName:trichotillomania	normalWikiTitle:trichotillomania	predictedType:Disease
+ENTITY	text:anxiety	normalName:anxiety	predictedType:disease	q:true	qid:Q38	docId:1535072	origText:anxiety	url:D001008
+CANDIDATE	id:1008	inCount:7	outCount:1	links:	url:D001008	name:ANXIETY	normalName:anxiety	normalWikiTitle:anxiety	predictedType:Disease
+ENTITY	text:affective disorders	normalName:affective disorders	predictedType:disease	q:true	qid:Q38	docId:1535072	origText:affective disorders	url:D019964
+CANDIDATE	id:19964	inCount:2	outCount:1	links:	url:D019964	name:Disorder, Affective	normalName:disorder, affective	normalWikiTitle:disorder, affective	predictedType:Disease
+ENTITY	text:obsessive compulsive disorder	normalName:obsessive compulsive disorder	predictedType:disease	q:true	qid:Q38	docId:1535072	origText:obsessive compulsive disorder	url:D009771
+CANDIDATE	id:9771	inCount:3	outCount:1	links:	url:D009771	name:Obsessive-Compulsive Disorder	normalName:obsessive-compulsive disorder	normalWikiTitle:obsessive-compulsive disorder	predictedType:Disease
+ENTITY	text:male impotence	normalName:male impotence	predictedType:disease	q:true	qid:Q38	docId:1535072	origText:male impotence	url:D007172
+CANDIDATE	id:7172	inCount:1	outCount:2	links:	url:D007172	name:Male Impotence	normalName:male impotence	normalWikiTitle:male impotence	predictedType:Disease

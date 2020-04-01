@@ -1,0 +1,8 @@
+ENTITY	text:Capsaicin	normalName:capsaicin	predictedType:chemical	q:true	qid:Q731	docId:15009014	origText:Capsaicin	url:D002211
+CANDIDATE	id:2211	inCount:38	outCount:4	links:	url:D002211	name:Capsaicin	normalName:capsaicin	normalWikiTitle:capsaicin	predictedType:Chemical
+ENTITY	text:acetylcholine	normalName:acetylcholine	predictedType:chemical	q:true	qid:Q731	docId:15009014	origText:acetylcholine	url:D000109
+CANDIDATE	id:109	inCount:23	outCount:1	links:	url:D000109	name:Acetylcholine	normalName:acetylcholine	normalWikiTitle:acetylcholine	predictedType:Chemical
+ENTITY	text:hexamethonium chloride	normalName:hexamethonium chloride	predictedType:chemical	q:true	qid:Q731	docId:15009014	origText:hexamethonium chloride	url:D018738
+CANDIDATE	id:18738	inCount:0	outCount:1	links:	url:D018738	name:Chloride, Hexamethonium	normalName:chloride, hexamethonium	normalWikiTitle:chloride, hexamethonium	predictedType:Chemical
+ENTITY	text:atropine	normalName:atropine	predictedType:chemical	q:true	qid:Q731	docId:15009014	origText:atropine	url:D001285
+CANDIDATE	id:1285	inCount:16	outCount:1	links:	url:D001285	name:Atropine	normalName:atropine	normalWikiTitle:atropine	predictedType:Chemical

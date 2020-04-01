@@ -1,0 +1,71 @@
+ENTITY	text:breast carcinoma	normalName:breast carcinoma	predictedType:disease	q:true	qid:Q627	docId:11745184	origText:breast carcinoma	url:D001943
+CANDIDATE	id:1943	inCount:19	outCount:2	links:	url:D001943	name:Carcinoma, Breast	normalName:carcinoma, breast	normalWikiTitle:carcinoma, breast	predictedType:Disease
+ENTITY	text:toxicities	normalName:toxicities	predictedType:disease	q:true	qid:Q627	docId:11745184	origText:toxicities	url:D064420
+CANDIDATE	id:64420	inCount:10	outCount:1	links:64420	url:D064420	name:Toxicities, Drug	normalName:toxicities, drug	normalWikiTitle:toxicities, drug	predictedType:Disease
+CANDIDATE	id:15299	inCount:0	outCount:1	links:	url:D015299	name:Discitis	normalName:discitis	normalWikiTitle:discitis	predictedType:Disease
+CANDIDATE	id:9920	inCount:0	outCount:1	links:	url:D009920	name:Orchitis	normalName:orchitis	normalWikiTitle:orchitis	predictedType:Disease
+CANDIDATE	id:14069	inCount:1	outCount:1	links:14069	url:D014069	name:Tonsillitis	normalName:tonsillitis	normalWikiTitle:tonsillitis	predictedType:Disease
+CANDIDATE	id:13966	inCount:4	outCount:1	links:	url:D013966	name:Thyroiditis	normalName:thyroiditis	normalWikiTitle:thyroiditis	predictedType:Disease
+CANDIDATE	id:8417	inCount:0	outCount:2	links:	url:D008417	name:Mastoiditis	normalName:mastoiditis	normalWikiTitle:mastoiditis	predictedType:Disease
+CANDIDATE	id:5499	inCount:2	outCount:1	links:	url:D005499	name:Folliculitis	normalName:folliculitis	normalWikiTitle:folliculitis	predictedType:Disease
+CANDIDATE	id:14120	inCount:2	outCount:2	links:	url:D014120	name:Toxocariasis	normalName:toxocariasis	normalWikiTitle:toxocariasis	predictedType:Disease
+CANDIDATE	id:12173	inCount:3	outCount:1	links:	url:D012173	name:Retinitis	normalName:retinitis	normalWikiTitle:retinitis	predictedType:Disease
+CANDIDATE	id:19449	inCount:0	outCount:1	links:	url:D019449	name:Pouchitis	normalName:pouchitis	normalWikiTitle:pouchitis	predictedType:Disease
+CANDIDATE	id:11349	inCount:1	outCount:2	links:	url:D011349	name:Proctitis	normalName:proctitis	normalWikiTitle:proctitis	predictedType:Disease
+CANDIDATE	id:64420	inCount:10	outCount:1	links:64420	url:D064420	name:Drug Toxicities	normalName:drug toxicities	normalWikiTitle:drug toxicities	predictedType:Disease
+CANDIDATE	id:66126	inCount:0	outCount:3	links:66126	url:D066126	name:Cardiotoxicities	normalName:cardiotoxicities	normalWikiTitle:cardiotoxicities	predictedType:Disease
+CANDIDATE	id:66126	inCount:0	outCount:3	links:66126	url:D066126	name:Toxicities, Cardiac	normalName:toxicities, cardiac	normalWikiTitle:toxicities, cardiac	predictedType:Disease
+CANDIDATE	id:66126	inCount:0	outCount:3	links:66126	url:D066126	name:Cardiac Toxicities	normalName:cardiac toxicities	normalWikiTitle:cardiac toxicities	predictedType:Disease
+CANDIDATE	id:14069	inCount:1	outCount:1	links:14069	url:D014069	name:Tonsillitides	normalName:tonsillitides	normalWikiTitle:tonsillitides	predictedType:Disease
+CANDIDATE	id:8417	inCount:0	outCount:2	links:	url:D008417	name:Mastoiditides	normalName:mastoiditides	normalWikiTitle:mastoiditides	predictedType:Disease
+CANDIDATE	id:15299	inCount:0	outCount:1	links:	url:D015299	name:Discitides	normalName:discitides	normalWikiTitle:discitides	predictedType:Disease
+CANDIDATE	id:9920	inCount:0	outCount:1	links:	url:D009920	name:Orchitides	normalName:orchitides	normalWikiTitle:orchitides	predictedType:Disease
+CANDIDATE	id:13966	inCount:4	outCount:1	links:	url:D013966	name:Thyroiditides	normalName:thyroiditides	normalWikiTitle:thyroiditides	predictedType:Disease
+ENTITY	text:neurotoxicity	normalName:neurotoxicity	predictedType:disease	q:true	qid:Q627	docId:11745184	origText:neurotoxicity	url:D020258
+CANDIDATE	id:20258	inCount:7	outCount:2	links:20258	url:D020258	name:Neurotoxicity Syndromes	normalName:neurotoxicity syndromes	normalWikiTitle:neurotoxicity syndromes	predictedType:Disease
+CANDIDATE	id:66126	inCount:0	outCount:3	links:66126	url:D066126	name:Cardiotoxicity	normalName:cardiotoxicity	normalWikiTitle:cardiotoxicity	predictedType:Disease
+CANDIDATE	id:7246	inCount:2	outCount:2	links:7246	url:D007246	name:Infertility	normalName:infertility	normalWikiTitle:infertility	predictedType:Disease
+CANDIDATE	id:4767	inCount:0	outCount:2	links:	url:D004767	name:Enterotoxemia	normalName:enterotoxemia	normalWikiTitle:enterotoxemia	predictedType:Disease
+CANDIDATE	id:13971	inCount:2	outCount:1	links:13971	url:D013971	name:Thyrotoxicosis	normalName:thyrotoxicosis	normalWikiTitle:thyrotoxicosis	predictedType:Disease
+CANDIDATE	id:9902	inCount:1	outCount:1	links:9902	url:D009902	name:Optic Neuritis	normalName:optic neuritis	normalWikiTitle:optic neuritis	predictedType:Disease
+CANDIDATE	id:20426	inCount:2	outCount:1	links:	url:D020426	name:Sciatic Neuropathy	normalName:sciatic neuropathy	normalWikiTitle:sciatic neuropathy	predictedType:Disease
+CANDIDATE	id:18306	inCount:0	outCount:2	links:	url:D018306	name:Neurocytoma	normalName:neurocytoma	normalWikiTitle:neurocytoma	predictedType:Disease
+CANDIDATE	id:20019	inCount:0	outCount:2	links:	url:D020019	name:Neurocysticercosis	normalName:neurocysticercosis	normalWikiTitle:neurocysticercosis	predictedType:Disease
+CANDIDATE	id:9443	inCount:2	outCount:1	links:	url:D009443	name:Neuritis	normalName:neuritis	normalWikiTitle:neuritis	predictedType:Disease
+ENTITY	text:tumor	normalName:tumor	predictedType:disease	q:true	qid:Q627	docId:11745184	origText:tumor	url:D009369
+CANDIDATE	id:9369	inCount:18	outCount:1	links:	url:D009369	name:Tumor	normalName:tumor	normalWikiTitle:tumor	predictedType:Disease
+ENTITY	text:Neurologic toxicity	normalName:neurologic toxicity	predictedType:disease	q:true	qid:Q627	docId:11745184	origText:Neurologic toxicity	url:D020258
+CANDIDATE	id:20258	inCount:7	outCount:2	links:20258	url:D020258	name:Neurotoxicity Syndromes	normalName:neurotoxicity syndromes	normalWikiTitle:neurotoxicity syndromes	predictedType:Disease
+CANDIDATE	id:66126	inCount:0	outCount:3	links:66126	url:D066126	name:Cardiotoxicity	normalName:cardiotoxicity	normalWikiTitle:cardiotoxicity	predictedType:Disease
+CANDIDATE	id:8532	inCount:0	outCount:1	links:	url:D008532	name:Megacolon, Toxic	normalName:megacolon, toxic	normalWikiTitle:megacolon, toxic	predictedType:Disease
+CANDIDATE	id:17545	inCount:14	outCount:1	links:	url:D017545	name:Aortic Aneurysm, Thoracic	normalName:aortic aneurysm, thoracic	normalWikiTitle:aortic aneurysm, thoracic	predictedType:Disease
+CANDIDATE	id:14277	inCount:0	outCount:1	links:	url:D014277	name:Trigeminal Neuralgia	normalName:trigeminal neuralgia	normalWikiTitle:trigeminal neuralgia	predictedType:Disease
+CANDIDATE	id:9471	inCount:0	outCount:3	links:	url:D009471	name:Neuromyelitis Optica	normalName:neuromyelitis optica	normalWikiTitle:neuromyelitis optica	predictedType:Disease
+CANDIDATE	id:9902	inCount:1	outCount:1	links:9902	url:D009902	name:Optic Neuritis	normalName:optic neuritis	normalWikiTitle:optic neuritis	predictedType:Disease
+CANDIDATE	id:6679	inCount:0	outCount:1	links:	url:D006679	name:HIV Seropositivity	normalName:hiv seropositivity	normalWikiTitle:hiv seropositivity	predictedType:Disease
+CANDIDATE	id:531667	inCount:0	outCount:1	links:	url:C531667	name:5 alpha Fluorouracil toxicity	normalName:5 alpha fluorouracil toxicity	normalWikiTitle:5 alpha fluorouracil toxicity	predictedType:Disease
+CANDIDATE	id:4239	inCount:0	outCount:2	links:	url:D004239	name:Diverticulitis, Colonic	normalName:diverticulitis, colonic	normalWikiTitle:diverticulitis, colonic	predictedType:Disease
+CANDIDATE	id:9461	inCount:26	outCount:2	links:	url:D009461	name:Neurologic Sign	normalName:neurologic sign	normalWikiTitle:neurologic sign	predictedType:Disease
+CANDIDATE	id:9461	inCount:26	outCount:2	links:	url:D009461	name:Sign, Neurologic	normalName:sign, neurologic	normalWikiTitle:sign, neurologic	predictedType:Disease
+CANDIDATE	id:9461	inCount:26	outCount:2	links:	url:D009461	name:Symptom, Neurologic	normalName:symptom, neurologic	normalWikiTitle:symptom, neurologic	predictedType:Disease
+CANDIDATE	id:9461	inCount:26	outCount:2	links:	url:D009461	name:Neurologic Symptom	normalName:neurologic symptom	normalWikiTitle:neurologic symptom	predictedType:Disease
+CANDIDATE	id:64420	inCount:10	outCount:1	links:64420	url:D064420	name:Toxicity, Drug	normalName:toxicity, drug	normalWikiTitle:toxicity, drug	predictedType:Disease
+CANDIDATE	id:9461	inCount:26	outCount:2	links:	url:D009461	name:Signs, Neurologic	normalName:signs, neurologic	normalWikiTitle:signs, neurologic	predictedType:Disease
+CANDIDATE	id:66126	inCount:0	outCount:3	links:66126	url:D066126	name:Toxicity, Cardiac	normalName:toxicity, cardiac	normalWikiTitle:toxicity, cardiac	predictedType:Disease
+CANDIDATE	id:9461	inCount:26	outCount:2	links:	url:D009461	name:Neurologic Signs	normalName:neurologic signs	normalWikiTitle:neurologic signs	predictedType:Disease
+CANDIDATE	id:64420	inCount:10	outCount:1	links:64420	url:D064420	name:Drug Toxicity	normalName:drug toxicity	normalWikiTitle:drug toxicity	predictedType:Disease
+CANDIDATE	id:66126	inCount:0	outCount:3	links:66126	url:D066126	name:Cardiac Toxicity	normalName:cardiac toxicity	normalWikiTitle:cardiac toxicity	predictedType:Disease
+ENTITY	text:toxicity	normalName:toxicity	predictedType:disease	q:true	qid:Q627	docId:11745184	origText:toxicity	url:D064420
+CANDIDATE	id:64420	inCount:10	outCount:1	links:64420	url:D064420	name:Drug Toxicity	normalName:drug toxicity	normalWikiTitle:drug toxicity	predictedType:Disease
+CANDIDATE	id:66126	inCount:0	outCount:3	links:66126	url:D066126	name:Cardiotoxicity	normalName:cardiotoxicity	normalWikiTitle:cardiotoxicity	predictedType:Disease
+CANDIDATE	id:15651	inCount:2	outCount:1	links:	url:D015651	name:Mycotoxicosis	normalName:mycotoxicosis	normalWikiTitle:mycotoxicosis	predictedType:Disease
+CANDIDATE	id:13971	inCount:2	outCount:1	links:13971	url:D013971	name:Thyrotoxicosis	normalName:thyrotoxicosis	normalWikiTitle:thyrotoxicosis	predictedType:Disease
+CANDIDATE	id:14869	inCount:0	outCount:2	links:	url:D014869	name:Water Intoxication	normalName:water intoxication	normalWikiTitle:water intoxication	predictedType:Disease
+CANDIDATE	id:14103	inCount:4	outCount:2	links:	url:D014103	name:Torticollis	normalName:torticollis	normalWikiTitle:torticollis	predictedType:Disease
+CANDIDATE	id:9765	inCount:42	outCount:2	links:	url:D009765	name:Obesity	normalName:obesity	normalWikiTitle:obesity	predictedType:Disease
+CANDIDATE	id:14115	inCount:1	outCount:1	links:	url:D014115	name:Toxemia	normalName:toxemia	normalWikiTitle:toxemia	predictedType:Disease
+CANDIDATE	id:7246	inCount:2	outCount:2	links:7246	url:D007246	name:Infertility	normalName:infertility	normalWikiTitle:infertility	predictedType:Disease
+CANDIDATE	id:20234	inCount:0	outCount:2	links:	url:D020234	name:Gait Ataxia	normalName:gait ataxia	normalWikiTitle:gait ataxia	predictedType:Disease
+CANDIDATE	id:14069	inCount:1	outCount:1	links:14069	url:D014069	name:Tonsillitis	normalName:tonsillitis	normalWikiTitle:tonsillitis	predictedType:Disease
+CANDIDATE	id:64420	inCount:10	outCount:1	links:64420	url:D064420	name:Toxicity, Drug	normalName:toxicity, drug	normalWikiTitle:toxicity, drug	predictedType:Disease
+CANDIDATE	id:17484	inCount:0	outCount:2	links:	url:D017484	name:Phototoxicity	normalName:phototoxicity	normalWikiTitle:phototoxicity	predictedType:Disease

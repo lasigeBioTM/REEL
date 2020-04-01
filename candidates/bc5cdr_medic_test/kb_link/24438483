@@ -1,0 +1,26 @@
+ENTITY	text:asystole	normalName:asystole	predictedType:disease	q:true	qid:Q469	docId:24438483	origText:asystole	url:D006323
+CANDIDATE	id:6323	inCount:2	outCount:1	links:	url:D006323	name:Asystole	normalName:asystole	normalWikiTitle:asystole	predictedType:Disease
+ENTITY	text:cardiovascular depression	normalName:cardiovascular depression	predictedType:disease	q:true	qid:Q469	docId:24438483	origText:cardiovascular depression	url:D002318
+CANDIDATE	id:2318	inCount:5	outCount:1	links:	url:D002318	name:Cardiovascular Diseases	normalName:cardiovascular diseases	normalWikiTitle:cardiovascular diseases	predictedType:Disease
+CANDIDATE	id:53821	inCount:3	outCount:2	links:	url:D053821	name:Cardiovascular Infections	normalName:cardiovascular infections	normalWikiTitle:cardiovascular infections	predictedType:Disease
+CANDIDATE	id:14381	inCount:1	outCount:2	links:	url:D014381	name:Tuberculosis, Cardiovascular	normalName:tuberculosis, cardiovascular	normalWikiTitle:tuberculosis, cardiovascular	predictedType:Disease
+CANDIDATE	id:13589	inCount:0	outCount:2	links:	url:D013589	name:Syphilis, Cardiovascular	normalName:syphilis, cardiovascular	normalWikiTitle:syphilis, cardiovascular	predictedType:Disease
+CANDIDATE	id:73436	inCount:0	outCount:1	links:	url:D000073436	name:Microvascular Rarefaction	normalName:microvascular rarefaction	normalWikiTitle:microvascular rarefaction	predictedType:Disease
+CANDIDATE	id:2561	inCount:17	outCount:2	links:	url:D002561	name:Cerebrovascular Disorders	normalName:cerebrovascular disorders	normalWikiTitle:cerebrovascular disorders	predictedType:Disease
+CANDIDATE	id:11249	inCount:1	outCount:2	links:	url:D011249	name:Pregnancy Complications, Cardiovascular	normalName:pregnancy complications, cardiovascular	normalWikiTitle:pregnancy complications, cardiovascular	predictedType:Disease
+CANDIDATE	id:564596	inCount:0	outCount:1	links:	url:C564596	name:Cataract, Nuclear Progressive	normalName:cataract, nuclear progressive	normalWikiTitle:cataract, nuclear progressive	predictedType:Disease
+CANDIDATE	id:14786	inCount:19	outCount:2	links:	url:D014786	name:Vision Disorders	normalName:vision disorders	normalWikiTitle:vision disorders	predictedType:Disease
+CANDIDATE	id:18450	inCount:2	outCount:1	links:	url:D018450	name:Disease Progression	normalName:disease progression	normalWikiTitle:disease progression	predictedType:Disease
+ENTITY	text:cardiotoxicity	normalName:cardiotoxicity	predictedType:disease	q:true	qid:Q469	docId:24438483	origText:cardiotoxicity	url:D066126
+CANDIDATE	id:66126	inCount:0	outCount:3	links:66126	url:D066126	name:Cardiotoxicity	normalName:cardiotoxicity	normalWikiTitle:cardiotoxicity	predictedType:Disease
+ENTITY	text:cardiotoxic	normalName:cardiotoxic	predictedType:disease	q:true	qid:Q469	docId:24438483	origText:cardiotoxic	url:D066126
+CANDIDATE	id:66126	inCount:0	outCount:3	links:66126	url:D066126	name:Cardiotoxicity	normalName:cardiotoxicity	normalWikiTitle:cardiotoxicity	predictedType:Disease
+CANDIDATE	id:9205	inCount:2	outCount:1	links:	url:D009205	name:Myocarditis	normalName:myocarditis	normalWikiTitle:myocarditis	predictedType:Disease
+CANDIDATE	id:10493	inCount:3	outCount:1	links:	url:D010493	name:Pericarditis	normalName:pericarditis	normalWikiTitle:pericarditis	predictedType:Disease
+CANDIDATE	id:4696	inCount:2	outCount:1	links:	url:D004696	name:Endocarditis	normalName:endocarditis	normalWikiTitle:endocarditis	predictedType:Disease
+CANDIDATE	id:537080	inCount:0	outCount:1	links:	url:C537080	name:Baritosis	normalName:baritosis	normalWikiTitle:baritosis	predictedType:Disease
+CANDIDATE	id:9202	inCount:37	outCount:1	links:	url:D009202	name:Cardiomyopathies	normalName:cardiomyopathies	normalWikiTitle:cardiomyopathies	predictedType:Disease
+CANDIDATE	id:15651	inCount:2	outCount:1	links:	url:D015651	name:Mycotoxicosis	normalName:mycotoxicosis	normalWikiTitle:mycotoxicosis	predictedType:Disease
+CANDIDATE	id:3926	inCount:1	outCount:1	links:	url:D003926	name:Diabetic Coma	normalName:diabetic coma	normalWikiTitle:diabetic coma	predictedType:Disease
+CANDIDATE	id:12770	inCount:0	outCount:2	links:	url:D012770	name:Shock, Cardiogenic	normalName:shock, cardiogenic	normalWikiTitle:shock, cardiogenic	predictedType:Disease
+CANDIDATE	id:54083	inCount:0	outCount:1	links:	url:D054083	name:Ectopia Cordis	normalName:ectopia cordis	normalWikiTitle:ectopia cordis	predictedType:Disease

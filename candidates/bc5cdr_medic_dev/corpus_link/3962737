@@ -1,0 +1,38 @@
+ENTITY	text:tachyarrhythmias	normalName:tachyarrhythmias	predictedType:disease	q:true	qid:Q67	docId:3962737	origText:tachyarrhythmias	url:D013610
+CANDIDATE	id:13610	inCount:7	outCount:2	links:	url:D013610	name:Tachyarrhythmia	normalName:tachyarrhythmia	normalWikiTitle:tachyarrhythmia	predictedType:Disease
+ENTITY	text:alcoholic hepatitis	normalName:alcoholic hepatitis	predictedType:disease	q:true	qid:Q67	docId:3962737	origText:alcoholic hepatitis	url:D006519
+CANDIDATE	id:6519	inCount:0	outCount:2	links:	url:D006519	name:Hepatitis, Alcoholic	normalName:hepatitis, alcoholic	normalWikiTitle:hepatitis, alcoholic	predictedType:Disease
+ENTITY	text:cirrhosis of the liver	normalName:cirrhosis of the liver	predictedType:disease	q:true	qid:Q67	docId:3962737	origText:cirrhosis of the liver	url:D008103
+CANDIDATE	id:8103	inCount:11	outCount:1	links:2779	url:D008103	name:Liver Cirrhosis	normalName:liver cirrhosis	normalWikiTitle:liver cirrhosis	predictedType:Disease
+CANDIDATE	id:8105	inCount:5	outCount:2	links:	url:D008105	name:Liver Cirrhosis, Biliary	normalName:liver cirrhosis, biliary	normalWikiTitle:liver cirrhosis, biliary	predictedType:Disease
+CANDIDATE	id:8104	inCount:0	outCount:2	links:	url:D008104	name:Liver Cirrhosis, Alcoholic	normalName:liver cirrhosis, alcoholic	normalWikiTitle:liver cirrhosis, alcoholic	predictedType:Disease
+CANDIDATE	id:566858	inCount:0	outCount:1	links:	url:C566858	name:Copper-Overload Cirrhosis	normalName:copper-overload cirrhosis	normalWikiTitle:copper-overload cirrhosis	predictedType:Disease
+CANDIDATE	id:562577	inCount:0	outCount:1	links:	url:C562577	name:Cirrhosis, Cryptogenic	normalName:cirrhosis, cryptogenic	normalWikiTitle:cirrhosis, cryptogenic	predictedType:Disease
+CANDIDATE	id:566123	inCount:0	outCount:2	links:	url:C566123	name:Cirrhosis, Familial	normalName:cirrhosis, familial	normalWikiTitle:cirrhosis, familial	predictedType:Disease
+CANDIDATE	id:8106	inCount:0	outCount:1	links:	url:D008106	name:Liver Cirrhosis, Experimental	normalName:liver cirrhosis, experimental	normalWikiTitle:liver cirrhosis, experimental	predictedType:Disease
+CANDIDATE	id:562580	inCount:0	outCount:2	links:	url:C562580	name:Cirrhosis, Familial, with Pulmonary Hypertension	normalName:cirrhosis, familial, with pulmonary hypertension	normalWikiTitle:cirrhosis, familial, with pulmonary hypertension	predictedType:Disease
+CANDIDATE	id:2558	inCount:0	outCount:1	links:	url:D002558	name:Cerebrospinal Fluid Otorrhea	normalName:cerebrospinal fluid otorrhea	normalWikiTitle:cerebrospinal fluid otorrhea	predictedType:Disease
+CANDIDATE	id:563620	inCount:0	outCount:2	links:	url:C563620	name:Lipoma of the Conjunctiva	normalName:lipoma of the conjunctiva	normalWikiTitle:lipoma of the conjunctiva	predictedType:Disease
+ENTITY	text:hepatomegaly	normalName:hepatomegaly	predictedType:disease	q:true	qid:Q67	docId:3962737	origText:hepatomegaly	url:D006529
+CANDIDATE	id:6529	inCount:4	outCount:2	links:	url:D006529	name:Hepatomegaly	normalName:hepatomegaly	normalWikiTitle:hepatomegaly	predictedType:Disease
+ENTITY	text:cholestatic injury	normalName:cholestatic injury	predictedType:disease	q:true	qid:Q67	docId:3962737	origText:cholestatic injury	url:D002779
+CANDIDATE	id:2779	inCount:14	outCount:1	links:8103	url:D002779	name:Cholestasis	normalName:cholestasis	normalWikiTitle:cholestasis	predictedType:Disease
+CANDIDATE	id:1265	inCount:0	outCount:1	links:	url:D001265	name:Athletic Injuries	normalName:athletic injuries	normalWikiTitle:athletic injuries	predictedType:Disease
+CANDIDATE	id:67390	inCount:1	outCount:1	links:	url:D000067390	name:Cold Injury	normalName:cold injury	normalWikiTitle:cold injury	predictedType:Disease
+CANDIDATE	id:4556	inCount:3	outCount:1	links:	url:D004556	name:Electric Injuries	normalName:electric injuries	normalWikiTitle:electric injuries	predictedType:Disease
+CANDIDATE	id:56886	inCount:0	outCount:2	links:	url:D056886	name:Contrecoup Injury	normalName:contrecoup injury	normalWikiTitle:contrecoup injury	predictedType:Disease
+CANDIDATE	id:20208	inCount:1	outCount:2	links:	url:D020208	name:Brain Injury, Chronic	normalName:brain injury, chronic	normalWikiTitle:brain injury, chronic	predictedType:Disease
+CANDIDATE	id:6335	inCount:1	outCount:1	links:	url:D006335	name:Heart Injuries	normalName:heart injuries	normalWikiTitle:heart injuries	predictedType:Disease
+CANDIDATE	id:2780	inCount:11	outCount:2	links:	url:D002780	name:Cholestasis, Intrahepatic	normalName:cholestasis, intrahepatic	normalWikiTitle:cholestasis, intrahepatic	predictedType:Disease
+CANDIDATE	id:15208	inCount:0	outCount:1	links:	url:D015208	name:Smoke Inhalation Injury	normalName:smoke inhalation injury	normalWikiTitle:smoke inhalation injury	predictedType:Disease
+CANDIDATE	id:65306	inCount:1	outCount:2	links:	url:D065306	name:Corneal Injuries	normalName:corneal injuries	normalWikiTitle:corneal injuries	predictedType:Disease
+CANDIDATE	id:13898	inCount:4	outCount:1	links:	url:D013898	name:Injury, Chest	normalName:injury, chest	normalWikiTitle:injury, chest	predictedType:Disease
+CANDIDATE	id:13898	inCount:4	outCount:1	links:	url:D013898	name:Chest Injury	normalName:chest injury	normalWikiTitle:chest injury	predictedType:Disease
+CANDIDATE	id:1265	inCount:0	outCount:1	links:	url:D001265	name:Injury, Athletic	normalName:injury, athletic	normalWikiTitle:injury, athletic	predictedType:Disease
+CANDIDATE	id:1265	inCount:0	outCount:1	links:	url:D001265	name:Athletic Injury	normalName:athletic injury	normalWikiTitle:athletic injury	predictedType:Disease
+CANDIDATE	id:41781	inCount:2	outCount:1	links:	url:D041781	name:Jaundice, Cholestatic	normalName:jaundice, cholestatic	normalWikiTitle:jaundice, cholestatic	predictedType:Disease
+CANDIDATE	id:41781	inCount:2	outCount:1	links:	url:D041781	name:Cholestatic Jaundice	normalName:cholestatic jaundice	normalWikiTitle:cholestatic jaundice	predictedType:Disease
+CANDIDATE	id:4556	inCount:3	outCount:1	links:	url:D004556	name:Electric Injury	normalName:electric injury	normalWikiTitle:electric injury	predictedType:Disease
+CANDIDATE	id:6335	inCount:1	outCount:1	links:	url:D006335	name:Injury, Heart	normalName:injury, heart	normalWikiTitle:injury, heart	predictedType:Disease
+CANDIDATE	id:4556	inCount:3	outCount:1	links:	url:D004556	name:Injury, Electric	normalName:injury, electric	normalWikiTitle:injury, electric	predictedType:Disease
+CANDIDATE	id:6335	inCount:1	outCount:1	links:	url:D006335	name:Heart Injury	normalName:heart injury	normalWikiTitle:heart injury	predictedType:Disease

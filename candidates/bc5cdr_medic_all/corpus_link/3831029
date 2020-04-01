@@ -1,0 +1,4 @@
+ENTITY	text:arrhythmias	normalName:arrhythmias	predictedType:disease	q:true	qid:Q1098	docId:3831029	origText:arrhythmias	url:D001145
+CANDIDATE	id:1145	inCount:27	outCount:2	links:6333	url:D001145	name:Arrhythmia	normalName:arrhythmia	normalWikiTitle:arrhythmia	predictedType:Disease
+ENTITY	text:cardiac failure	normalName:cardiac failure	predictedType:disease	q:true	qid:Q1098	docId:3831029	origText:cardiac failure	url:D006333
+CANDIDATE	id:6333	inCount:5	outCount:1	links:1145	url:D006333	name:Cardiac Failure	normalName:cardiac failure	normalWikiTitle:cardiac failure	predictedType:Disease

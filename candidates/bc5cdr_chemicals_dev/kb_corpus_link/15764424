@@ -1,0 +1,28 @@
+ENTITY	text:catecholamine	normalName:catecholamine	predictedType:chemical	q:true	qid:Q317	docId:15764424	origText:catecholamine	url:D002395
+CANDIDATE	id:2395	inCount:25	outCount:2	links:2395	url:D002395	name:Catecholamines	normalName:catecholamines	normalWikiTitle:catecholamines	predictedType:Chemical
+CANDIDATE	id:522723	inCount:0	outCount:1	links:522723	url:C522723	name:cholamine	normalName:cholamine	normalWikiTitle:cholamine	predictedType:Chemical
+CANDIDATE	id:103141	inCount:0	outCount:2	links:103141	url:C103141	name:carthamine	normalName:carthamine	normalWikiTitle:carthamine	predictedType:Chemical
+CANDIDATE	id:119993	inCount:0	outCount:2	links:119993	url:C119993	name:tamoxifen catechol	normalName:tamoxifen catechol	normalWikiTitle:tamoxifen catechol	predictedType:Chemical
+CANDIDATE	id:2392	inCount:129	outCount:2	links:2392	url:D002392	name:Catechin	normalName:catechin	normalWikiTitle:catechin	predictedType:Chemical
+CANDIDATE	id:3380	inCount:0	outCount:1	links:3380	url:C003380	name:tecomine	normalName:tecomine	normalWikiTitle:tecomine	predictedType:Chemical
+CANDIDATE	id:34221	inCount:0	outCount:1	links:34221	url:C034221	name:catechol	normalName:catechol	normalWikiTitle:catechol	predictedType:Chemical
+CANDIDATE	id:627721	inCount:0	outCount:1	links:627721	url:C000627721	name:cathafoline	normalName:cathafoline	normalWikiTitle:cathafoline	predictedType:Chemical
+CANDIDATE	id:551413	inCount:0	outCount:1	links:551413	url:C551413	name:cathenamine	normalName:cathenamine	normalWikiTitle:cathenamine	predictedType:Chemical
+CANDIDATE	id:82789	inCount:0	outCount:1	links:82789	url:C082789	name:trehalamine	normalName:trehalamine	normalWikiTitle:trehalamine	predictedType:Chemical
+ENTITY	text:amphetamine	normalName:amphetamine	predictedType:chemical	q:true	qid:Q317	docId:15764424	origText:amphetamine	url:D000661
+CANDIDATE	id:661	inCount:1	outCount:1	links:8694;3042	url:D000661	name:Amphetamine	normalName:amphetamine	normalWikiTitle:amphetamine	predictedType:Chemical
+ENTITY	text:Methamphetamine	normalName:methamphetamine	predictedType:chemical	q:true	qid:Q317	docId:15764424	origText:Methamphetamine	url:D008694
+CANDIDATE	id:8694	inCount:44	outCount:1	links:661;3042	url:D008694	name:Methamphetamine	normalName:methamphetamine	normalWikiTitle:methamphetamine	predictedType:Chemical
+ENTITY	text:catecholamines	normalName:catecholamines	predictedType:chemical	q:true	qid:Q317	docId:15764424	origText:catecholamines	url:D002395
+CANDIDATE	id:2395	inCount:25	outCount:2	links:2395	url:D002395	name:Catecholamines	normalName:catecholamines	normalWikiTitle:catecholamines	predictedType:Chemical
+CANDIDATE	id:522723	inCount:0	outCount:1	links:522723	url:C522723	name:cholamine	normalName:cholamine	normalWikiTitle:cholamine	predictedType:Chemical
+CANDIDATE	id:103141	inCount:0	outCount:2	links:103141	url:C103141	name:carthamine	normalName:carthamine	normalWikiTitle:carthamine	predictedType:Chemical
+CANDIDATE	id:119993	inCount:0	outCount:2	links:119993	url:C119993	name:tamoxifen catechol	normalName:tamoxifen catechol	normalWikiTitle:tamoxifen catechol	predictedType:Chemical
+CANDIDATE	id:2392	inCount:129	outCount:2	links:2392	url:D002392	name:Catechin	normalName:catechin	normalWikiTitle:catechin	predictedType:Chemical
+CANDIDATE	id:3380	inCount:0	outCount:1	links:3380	url:C003380	name:tecomine	normalName:tecomine	normalWikiTitle:tecomine	predictedType:Chemical
+CANDIDATE	id:34221	inCount:0	outCount:1	links:34221	url:C034221	name:catechol	normalName:catechol	normalWikiTitle:catechol	predictedType:Chemical
+CANDIDATE	id:627721	inCount:0	outCount:1	links:627721	url:C000627721	name:cathafoline	normalName:cathafoline	normalWikiTitle:cathafoline	predictedType:Chemical
+CANDIDATE	id:551413	inCount:0	outCount:1	links:551413	url:C551413	name:cathenamine	normalName:cathenamine	normalWikiTitle:cathenamine	predictedType:Chemical
+CANDIDATE	id:82789	inCount:0	outCount:1	links:82789	url:C082789	name:trehalamine	normalName:trehalamine	normalWikiTitle:trehalamine	predictedType:Chemical
+ENTITY	text:cocaine	normalName:cocaine	predictedType:chemical	q:true	qid:Q317	docId:15764424	origText:cocaine	url:D003042
+CANDIDATE	id:3042	inCount:89	outCount:1	links:661;8694	url:D003042	name:Cocaine	normalName:cocaine	normalWikiTitle:cocaine	predictedType:Chemical

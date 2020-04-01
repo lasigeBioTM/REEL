@@ -1,0 +1,31 @@
+ENTITY	text:ammonia	normalName:ammonia	predictedType:chemical	q:true	qid:Q425	docId:6323692	origText:ammonia	url:D000641
+CANDIDATE	id:641	inCount:2	outCount:2	links:	url:D000641	name:Ammonia	normalName:ammonia	normalWikiTitle:ammonia	predictedType:Chemical
+ENTITY	text:acetaldehyde	normalName:acetaldehyde	predictedType:chemical	q:true	qid:Q425	docId:6323692	origText:acetaldehyde	url:D000079
+CANDIDATE	id:79	inCount:38	outCount:1	links:	url:D000079	name:Acetaldehyde	normalName:acetaldehyde	normalWikiTitle:acetaldehyde	predictedType:Chemical
+ENTITY	text:amphetamine	normalName:amphetamine	predictedType:chemical	q:true	qid:Q425	docId:6323692	origText:amphetamine	url:D000661
+CANDIDATE	id:661	inCount:1	outCount:1	links:	url:D000661	name:Amphetamine	normalName:amphetamine	normalWikiTitle:amphetamine	predictedType:Chemical
+ENTITY	text:diazepam	normalName:diazepam	predictedType:chemical	q:true	qid:Q425	docId:6323692	origText:diazepam	url:D003975
+CANDIDATE	id:3975	inCount:21	outCount:1	links:18824;14700;9020	url:D003975	name:Diazepam	normalName:diazepam	normalWikiTitle:diazepam	predictedType:Chemical
+ENTITY	text:metrazol	normalName:metrazol	predictedType:chemical	q:true	qid:Q425	docId:6323692	origText:metrazol	url:D010433
+CANDIDATE	id:10433	inCount:2	outCount:1	links:	url:D010433	name:Metrazol	normalName:metrazol	normalWikiTitle:metrazol	predictedType:Chemical
+ENTITY	text:calcium	normalName:calcium	predictedType:chemical	q:true	qid:Q425	docId:6323692	origText:calcium	url:D002118
+CANDIDATE	id:2118	inCount:11	outCount:2	links:	url:D002118	name:Calcium	normalName:calcium	normalWikiTitle:calcium	predictedType:Chemical
+ENTITY	text:catecholamine	normalName:catecholamine	predictedType:chemical	q:true	qid:Q425	docId:6323692	origText:catecholamine	url:D002395
+CANDIDATE	id:2395	inCount:25	outCount:2	links:	url:D002395	name:Catecholamines	normalName:catecholamines	normalWikiTitle:catecholamines	predictedType:Chemical
+CANDIDATE	id:522723	inCount:0	outCount:1	links:	url:C522723	name:cholamine	normalName:cholamine	normalWikiTitle:cholamine	predictedType:Chemical
+CANDIDATE	id:103141	inCount:0	outCount:2	links:	url:C103141	name:carthamine	normalName:carthamine	normalWikiTitle:carthamine	predictedType:Chemical
+CANDIDATE	id:119993	inCount:0	outCount:2	links:	url:C119993	name:tamoxifen catechol	normalName:tamoxifen catechol	normalWikiTitle:tamoxifen catechol	predictedType:Chemical
+CANDIDATE	id:2392	inCount:129	outCount:2	links:	url:D002392	name:Catechin	normalName:catechin	normalWikiTitle:catechin	predictedType:Chemical
+CANDIDATE	id:3380	inCount:0	outCount:1	links:	url:C003380	name:tecomine	normalName:tecomine	normalWikiTitle:tecomine	predictedType:Chemical
+CANDIDATE	id:34221	inCount:0	outCount:1	links:	url:C034221	name:catechol	normalName:catechol	normalWikiTitle:catechol	predictedType:Chemical
+CANDIDATE	id:627721	inCount:0	outCount:1	links:	url:C000627721	name:cathafoline	normalName:cathafoline	normalWikiTitle:cathafoline	predictedType:Chemical
+CANDIDATE	id:551413	inCount:0	outCount:1	links:	url:C551413	name:cathenamine	normalName:cathenamine	normalWikiTitle:cathenamine	predictedType:Chemical
+CANDIDATE	id:82789	inCount:0	outCount:1	links:	url:C082789	name:trehalamine	normalName:trehalamine	normalWikiTitle:trehalamine	predictedType:Chemical
+ENTITY	text:ammonium acetate	normalName:ammonium acetate	predictedType:chemical	q:true	qid:Q425	docId:6323692	origText:ammonium acetate	url:C018824
+CANDIDATE	id:18824	inCount:0	outCount:1	links:3975	url:C018824	name:ammonium acetate	normalName:ammonium acetate	normalWikiTitle:ammonium acetate	predictedType:Chemical
+ENTITY	text:acetylcholine	normalName:acetylcholine	predictedType:chemical	q:true	qid:Q425	docId:6323692	origText:acetylcholine	url:D000109
+CANDIDATE	id:109	inCount:23	outCount:1	links:	url:D000109	name:Acetylcholine	normalName:acetylcholine	normalWikiTitle:acetylcholine	predictedType:Chemical
+ENTITY	text:verapamil	normalName:verapamil	predictedType:chemical	q:true	qid:Q425	docId:6323692	origText:verapamil	url:D014700
+CANDIDATE	id:14700	inCount:37	outCount:1	links:3975;9020	url:D014700	name:Verapamil	normalName:verapamil	normalWikiTitle:verapamil	predictedType:Chemical
+ENTITY	text:morphine	normalName:morphine	predictedType:chemical	q:true	qid:Q425	docId:6323692	origText:morphine	url:D009020
+CANDIDATE	id:9020	inCount:13	outCount:1	links:14700;3975	url:D009020	name:Morphine	normalName:morphine	normalWikiTitle:morphine	predictedType:Chemical

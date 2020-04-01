@@ -1,0 +1,29 @@
+ENTITY	text:weight loss	normalName:weight loss	predictedType:disease	q:true	qid:Q1257	docId:15897593	origText:weight loss	url:D015431
+CANDIDATE	id:15431	inCount:1	outCount:1	links:6402;66126	url:D015431	name:Weight Loss	normalName:weight loss	normalWikiTitle:weight loss	predictedType:Disease
+ENTITY	text:cardiac toxicity	normalName:cardiac toxicity	predictedType:disease	q:true	qid:Q1257	docId:15897593	origText:cardiac toxicity	url:D066126
+CANDIDATE	id:66126	inCount:0	outCount:3	links:6402;15431;66126	url:D066126	name:Cardiac Toxicity	normalName:cardiac toxicity	normalWikiTitle:cardiac toxicity	predictedType:Disease
+ENTITY	text:cardiotoxicity	normalName:cardiotoxicity	predictedType:disease	q:true	qid:Q1257	docId:15897593	origText:cardiotoxicity	url:D066126
+CANDIDATE	id:66126	inCount:0	outCount:3	links:6402;15431;66126	url:D066126	name:Cardiotoxicity	normalName:cardiotoxicity	normalWikiTitle:cardiotoxicity	predictedType:Disease
+ENTITY	text:hematologic toxicity	normalName:hematologic toxicity	predictedType:disease	q:true	qid:Q1257	docId:15897593	origText:hematologic toxicity	url:D006402
+CANDIDATE	id:6402	inCount:22	outCount:1	links:15431;66126	url:D006402	name:Hematologic Diseases	normalName:hematologic diseases	normalWikiTitle:hematologic diseases	predictedType:Disease
+CANDIDATE	id:8532	inCount:0	outCount:1	links:	url:D008532	name:Megacolon, Toxic	normalName:megacolon, toxic	normalWikiTitle:megacolon, toxic	predictedType:Disease
+CANDIDATE	id:19337	inCount:2	outCount:2	links:	url:D019337	name:Hematologic Neoplasms	normalName:hematologic neoplasms	normalWikiTitle:hematologic neoplasms	predictedType:Disease
+CANDIDATE	id:66126	inCount:0	outCount:3	links:6402;15431;66126	url:D066126	name:Cardiotoxicity	normalName:cardiotoxicity	normalWikiTitle:cardiotoxicity	predictedType:Disease
+CANDIDATE	id:6483	inCount:0	outCount:2	links:	url:D006483	name:Hemorrhagic Septicemia	normalName:hemorrhagic septicemia	normalWikiTitle:hemorrhagic septicemia	predictedType:Disease
+CANDIDATE	id:531667	inCount:0	outCount:1	links:	url:C531667	name:5 alpha Fluorouracil toxicity	normalName:5 alpha fluorouracil toxicity	normalWikiTitle:5 alpha fluorouracil toxicity	predictedType:Disease
+CANDIDATE	id:435	inCount:0	outCount:1	links:	url:D000435	name:Alcoholic Intoxication	normalName:alcoholic intoxication	normalWikiTitle:alcoholic intoxication	predictedType:Disease
+CANDIDATE	id:563401	inCount:0	outCount:2	links:	url:C563401	name:Choreoathetosis-Spasticity, Episodic	normalName:choreoathetosis-spasticity, episodic	normalWikiTitle:choreoathetosis-spasticity, episodic	predictedType:Disease
+CANDIDATE	id:10335	inCount:62	outCount:1	links:	url:D010335	name:Pathologic Processes	normalName:pathologic processes	normalWikiTitle:pathologic processes	predictedType:Disease
+CANDIDATE	id:9999	inCount:6	outCount:1	links:	url:D009999	name:Ossification, Heterotopic	normalName:ossification, heterotopic	normalWikiTitle:ossification, heterotopic	predictedType:Disease
+CANDIDATE	id:19337	inCount:2	outCount:2	links:	url:D019337	name:Hematologic Malignancy	normalName:hematologic malignancy	normalWikiTitle:hematologic malignancy	predictedType:Disease
+CANDIDATE	id:19337	inCount:2	outCount:2	links:	url:D019337	name:Malignancy, Hematologic	normalName:malignancy, hematologic	normalWikiTitle:malignancy, hematologic	predictedType:Disease
+CANDIDATE	id:537268	inCount:0	outCount:1	links:	url:C537268	name:Formalin Toxicity	normalName:formalin toxicity	normalWikiTitle:formalin toxicity	predictedType:Disease
+CANDIDATE	id:19337	inCount:2	outCount:2	links:	url:D019337	name:Hematologic Malignancies	normalName:hematologic malignancies	normalWikiTitle:hematologic malignancies	predictedType:Disease
+CANDIDATE	id:19337	inCount:2	outCount:2	links:	url:D019337	name:Hematological Malignancy	normalName:hematological malignancy	normalWikiTitle:hematological malignancy	predictedType:Disease
+CANDIDATE	id:19337	inCount:2	outCount:2	links:	url:D019337	name:Malignancies, Hematologic	normalName:malignancies, hematologic	normalWikiTitle:malignancies, hematologic	predictedType:Disease
+CANDIDATE	id:19337	inCount:2	outCount:2	links:	url:D019337	name:Malignancy, Hematological	normalName:malignancy, hematological	normalWikiTitle:malignancy, hematological	predictedType:Disease
+CANDIDATE	id:66126	inCount:0	outCount:3	links:6402;15431;66126	url:D066126	name:Toxicity, Cardiac	normalName:toxicity, cardiac	normalWikiTitle:toxicity, cardiac	predictedType:Disease
+CANDIDATE	id:17484	inCount:0	outCount:2	links:	url:D017484	name:Phototoxicity	normalName:phototoxicity	normalWikiTitle:phototoxicity	predictedType:Disease
+CANDIDATE	id:66126	inCount:0	outCount:3	links:6402;15431;66126	url:D066126	name:Cardiac Toxicity	normalName:cardiac toxicity	normalWikiTitle:cardiac toxicity	predictedType:Disease
+ENTITY	text:metastases	normalName:metastases	predictedType:disease	q:true	qid:Q1257	docId:15897593	origText:metastases	url:D009362
+CANDIDATE	id:9362	inCount:5	outCount:1	links:	url:D009362	name:Metastases	normalName:metastases	normalWikiTitle:metastases	predictedType:Disease

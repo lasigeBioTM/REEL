@@ -1,0 +1,10 @@
+ENTITY	text:atropine	normalName:atropine	predictedType:chemical	q:true	qid:Q173	docId:6892185	origText:atropine	url:D001285
+CANDIDATE	id:1285	inCount:16	outCount:1	links:	url:D001285	name:Atropine	normalName:atropine	normalWikiTitle:atropine	predictedType:Chemical
+ENTITY	text:carbachol	normalName:carbachol	predictedType:chemical	q:true	qid:Q173	docId:6892185	origText:carbachol	url:D002217
+CANDIDATE	id:2217	inCount:9	outCount:1	links:10830	url:D002217	name:Carbachol	normalName:carbachol	normalWikiTitle:carbachol	predictedType:Chemical
+ENTITY	text:calcium	normalName:calcium	predictedType:chemical	q:true	qid:Q173	docId:6892185	origText:calcium	url:D002118
+CANDIDATE	id:2118	inCount:11	outCount:2	links:	url:D002118	name:Calcium	normalName:calcium	normalWikiTitle:calcium	predictedType:Chemical
+ENTITY	text:calcium chloride	normalName:calcium chloride	predictedType:chemical	q:true	qid:Q173	docId:6892185	origText:calcium chloride	url:D002122
+CANDIDATE	id:2122	inCount:8	outCount:2	links:	url:D002122	name:Calcium Chloride	normalName:calcium chloride	normalWikiTitle:calcium chloride	predictedType:Chemical
+ENTITY	text:eserine	normalName:eserine	predictedType:chemical	q:true	qid:Q173	docId:6892185	origText:eserine	url:D010830
+CANDIDATE	id:10830	inCount:25	outCount:2	links:2217	url:D010830	name:Eserine	normalName:eserine	normalWikiTitle:eserine	predictedType:Chemical

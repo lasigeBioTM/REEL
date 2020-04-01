@@ -1,0 +1,17 @@
+ENTITY	text:thromboembolic	normalName:thromboembolic	predictedType:disease	q:true	qid:Q242	docId:6615052	origText:thromboembolic	url:D013923
+CANDIDATE	id:13923	inCount:3	outCount:1	links:6470;13921;13927	url:D013923	name:Thromboembolism	normalName:thromboembolism	normalWikiTitle:thromboembolism	predictedType:Disease
+CANDIDATE	id:54556	inCount:0	outCount:1	links:6470;13921;13927	url:D054556	name:Venous Thromboembolism	normalName:venous thromboembolism	normalWikiTitle:venous thromboembolism	predictedType:Disease
+CANDIDATE	id:13927	inCount:4	outCount:1	links:6470;13921	url:D013927	name:Thrombosis	normalName:thrombosis	normalWikiTitle:thrombosis	predictedType:Disease
+CANDIDATE	id:13924	inCount:1	outCount:2	links:	url:D013924	name:Thrombophlebitis	normalName:thrombophlebitis	normalWikiTitle:thrombophlebitis	predictedType:Disease
+CANDIDATE	id:19851	inCount:16	outCount:1	links:	url:D019851	name:Thrombophilia	normalName:thrombophilia	normalWikiTitle:thrombophilia	predictedType:Disease
+CANDIDATE	id:13922	inCount:4	outCount:2	links:	url:D013922	name:Thrombocytosis	normalName:thrombocytosis	normalWikiTitle:thrombocytosis	predictedType:Disease
+CANDIDATE	id:13921	inCount:42	outCount:1	links:6470;13927	url:D013921	name:Thrombocytopenia	normalName:thrombocytopenia	normalWikiTitle:thrombocytopenia	predictedType:Disease
+CANDIDATE	id:20246	inCount:5	outCount:1	links:	url:D020246	name:Venous Thrombosis	normalName:venous thrombosis	normalWikiTitle:venous thrombosis	predictedType:Disease
+CANDIDATE	id:4480	inCount:21	outCount:1	links:	url:D004480	name:Ectromelia	normalName:ectromelia	normalWikiTitle:ectromelia	predictedType:Disease
+CANDIDATE	id:13915	inCount:3	outCount:3	links:	url:D013915	name:Thrombasthenia	normalName:thrombasthenia	normalWikiTitle:thrombasthenia	predictedType:Disease
+ENTITY	text:thrombocytopenia	normalName:thrombocytopenia	predictedType:disease	q:true	qid:Q242	docId:6615052	origText:thrombocytopenia	url:D013921
+CANDIDATE	id:13921	inCount:42	outCount:1	links:6470;13927	url:D013921	name:Thrombocytopenia	normalName:thrombocytopenia	normalWikiTitle:thrombocytopenia	predictedType:Disease
+ENTITY	text:thrombosis	normalName:thrombosis	predictedType:disease	q:true	qid:Q242	docId:6615052	origText:thrombosis	url:D013927
+CANDIDATE	id:13927	inCount:4	outCount:1	links:6470;13921	url:D013927	name:Thrombosis	normalName:thrombosis	normalWikiTitle:thrombosis	predictedType:Disease
+ENTITY	text:hemorrhage	normalName:hemorrhage	predictedType:disease	q:true	qid:Q242	docId:6615052	origText:hemorrhage	url:D006470
+CANDIDATE	id:6470	inCount:31	outCount:1	links:54556;13923;13921;13927	url:D006470	name:Hemorrhage	normalName:hemorrhage	normalWikiTitle:hemorrhage	predictedType:Disease

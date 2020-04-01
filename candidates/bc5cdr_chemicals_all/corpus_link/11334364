@@ -1,0 +1,10 @@
+ENTITY	text:proanthocyanidins	normalName:proanthocyanidins	predictedType:chemical	q:true	qid:Q1471	docId:11334364	origText:proanthocyanidins	url:D044945
+CANDIDATE	id:44945	inCount:55	outCount:1	links:	url:D044945	name:Proanthocyanidins	normalName:proanthocyanidins	normalWikiTitle:proanthocyanidins	predictedType:Chemical
+ENTITY	text:acetaminophen	normalName:acetaminophen	predictedType:chemical	q:true	qid:Q1471	docId:11334364	origText:acetaminophen	url:D000082
+CANDIDATE	id:82	inCount:89	outCount:1	links:4317;638	url:D000082	name:Acetaminophen	normalName:acetaminophen	normalWikiTitle:acetaminophen	predictedType:Chemical
+ENTITY	text:doxorubicin	normalName:doxorubicin	predictedType:chemical	q:true	qid:Q1471	docId:11334364	origText:doxorubicin	url:D004317
+CANDIDATE	id:4317	inCount:559	outCount:1	links:82;638	url:D004317	name:Doxorubicin	normalName:doxorubicin	normalWikiTitle:doxorubicin	predictedType:Chemical
+ENTITY	text:IH636 grape seed proanthocyanidin extract	normalName:ih636 grape seed proanthocyanidin extract	predictedType:chemical	q:true	qid:Q1471	docId:11334364	origText:IH636 grape seed proanthocyanidin extract	url:C511402
+CANDIDATE	id:511402	inCount:0	outCount:2	links:	url:C511402	name:IH636 grape seed proanthocyanidin extract	normalName:ih636 grape seed proanthocyanidin extract	normalWikiTitle:ih636 grape seed proanthocyanidin extract	predictedType:Chemical
+ENTITY	text:amiodarone	normalName:amiodarone	predictedType:chemical	q:true	qid:Q1471	docId:11334364	origText:amiodarone	url:D000638
+CANDIDATE	id:638	inCount:17	outCount:1	links:82;4317	url:D000638	name:Amiodarone	normalName:amiodarone	normalWikiTitle:amiodarone	predictedType:Chemical

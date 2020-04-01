@@ -1,0 +1,16 @@
+ENTITY	text:dopamine	normalName:dopamine	predictedType:chemical	q:true	qid:Q245	docId:19940105	origText:dopamine	url:D004298
+CANDIDATE	id:4298	inCount:90	outCount:2	links:	url:D004298	name:Dopamine	normalName:dopamine	normalWikiTitle:dopamine	predictedType:Chemical
+ENTITY	text:glutamate	normalName:glutamate	predictedType:chemical	q:true	qid:Q245	docId:19940105	origText:glutamate	url:D018698
+CANDIDATE	id:18698	inCount:53	outCount:2	links:	url:D018698	name:Glutamate	normalName:glutamate	normalWikiTitle:glutamate	predictedType:Chemical
+ENTITY	text:apomorphine	normalName:apomorphine	predictedType:chemical	q:true	qid:Q245	docId:19940105	origText:apomorphine	url:D001058
+CANDIDATE	id:1058	inCount:29	outCount:1	links:	url:D001058	name:Apomorphine	normalName:apomorphine	normalWikiTitle:apomorphine	predictedType:Chemical
+ENTITY	text:AMN082	normalName:amn082	predictedType:chemical	q:true	qid:Q245	docId:19940105	origText:AMN082	url:C507346
+CANDIDATE	id:507346	inCount:0	outCount:1	links:507346	url:C507346	name:AMN082	normalName:amn082	normalWikiTitle:amn082	predictedType:Chemical
+ENTITY	text:6-hydroxydopamine	normalName:6-hydroxydopamine	predictedType:chemical	q:true	qid:Q245	docId:19940105	origText:6-hydroxydopamine	url:D016627
+CANDIDATE	id:16627	inCount:0	outCount:1	links:16627	url:D016627	name:6-Hydroxydopamine	normalName:6-hydroxydopamine	normalWikiTitle:6-hydroxydopamine	predictedType:Chemical
+ENTITY	text:6-OHDA	normalName:6-ohda	predictedType:chemical	q:true	qid:Q245	docId:19940105	origText:6-OHDA	url:D016627
+CANDIDATE	id:16627	inCount:0	outCount:1	links:16627	url:D016627	name:6-OHDA	normalName:6-ohda	normalWikiTitle:6-ohda	predictedType:Chemical
+ENTITY	text:N,N'-dibenzhydrylethane-1,2-diamine dihydrochloride	normalName:n,n'-dibenzhydrylethane-1,2-diamine dihydrochloride	predictedType:chemical	q:true	qid:Q245	docId:19940105	origText:N,N'-dibenzhydrylethane-1,2-diamine dihydrochloride	url:C507346
+CANDIDATE	id:507346	inCount:0	outCount:1	links:507346	url:C507346	name:N,N'-dibenzhydrylethane-1,2-diamine dihydrochloride	normalName:n,n'-dibenzhydrylethane-1,2-diamine dihydrochloride	normalWikiTitle:n,n'-dibenzhydrylethane-1,2-diamine dihydrochloride	predictedType:Chemical
+ENTITY	text:haloperidol	normalName:haloperidol	predictedType:chemical	q:true	qid:Q245	docId:19940105	origText:haloperidol	url:D006220
+CANDIDATE	id:6220	inCount:24	outCount:1	links:	url:D006220	name:Haloperidol	normalName:haloperidol	normalWikiTitle:haloperidol	predictedType:Chemical

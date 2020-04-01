@@ -1,0 +1,4 @@
+ENTITY	text:risperidone	normalName:risperidone	predictedType:chemical	q:true	qid:Q144	docId:12452552	origText:risperidone	url:D018967
+CANDIDATE	id:18967	inCount:2	outCount:1	links:8728	url:D018967	name:Risperidone	normalName:risperidone	normalWikiTitle:risperidone	predictedType:Chemical
+ENTITY	text:levomepromazine	normalName:levomepromazine	predictedType:chemical	q:true	qid:Q144	docId:12452552	origText:levomepromazine	url:D008728
+CANDIDATE	id:8728	inCount:4	outCount:1	links:18967	url:D008728	name:Levomepromazine	normalName:levomepromazine	normalWikiTitle:levomepromazine	predictedType:Chemical

@@ -1,0 +1,14 @@
+ENTITY	text:fatigue	normalName:fatigue	predictedType:disease	q:true	qid:Q98	docId:17615423	origText:fatigue	url:D005221
+CANDIDATE	id:5221	inCount:2	outCount:1	links:	url:D005221	name:Fatigue	normalName:fatigue	normalWikiTitle:fatigue	predictedType:Disease
+ENTITY	text:atrial fibrillation	normalName:atrial fibrillation	predictedType:disease	q:true	qid:Q98	docId:17615423	origText:atrial fibrillation	url:D001281
+CANDIDATE	id:1281	inCount:16	outCount:1	links:	url:D001281	name:Atrial Fibrillation	normalName:atrial fibrillation	normalWikiTitle:atrial fibrillation	predictedType:Disease
+ENTITY	text:rhabdomyolysis	normalName:rhabdomyolysis	predictedType:disease	q:true	qid:Q98	docId:17615423	origText:rhabdomyolysis	url:D012206
+CANDIDATE	id:12206	inCount:3	outCount:1	links:58186	url:D012206	name:Rhabdomyolysis	normalName:rhabdomyolysis	normalWikiTitle:rhabdomyolysis	predictedType:Disease
+ENTITY	text:acute renal failure	normalName:acute renal failure	predictedType:disease	q:true	qid:Q98	docId:17615423	origText:acute renal failure	url:D058186
+CANDIDATE	id:58186	inCount:2	outCount:1	links:12206	url:D058186	name:Acute Renal Failure	normalName:acute renal failure	normalWikiTitle:acute renal failure	predictedType:Disease
+ENTITY	text:coronary artery disease	normalName:coronary artery disease	predictedType:disease	q:true	qid:Q98	docId:17615423	origText:coronary artery disease	url:D003324
+CANDIDATE	id:3324	inCount:4	outCount:2	links:	url:D003324	name:Coronary Artery Disease	normalName:coronary artery disease	normalWikiTitle:coronary artery disease	predictedType:Disease
+ENTITY	text:pain	normalName:pain	predictedType:disease	q:true	qid:Q98	docId:17615423	origText:pain	url:D010146
+CANDIDATE	id:10146	inCount:34	outCount:1	links:	url:D010146	name:Pain	normalName:pain	normalWikiTitle:pain	predictedType:Disease
+ENTITY	text:hyperlipidemia	normalName:hyperlipidemia	predictedType:disease	q:true	qid:Q98	docId:17615423	origText:hyperlipidemia	url:D006949
+CANDIDATE	id:6949	inCount:5	outCount:1	links:	url:D006949	name:Hyperlipidemia	normalName:hyperlipidemia	normalWikiTitle:hyperlipidemia	predictedType:Disease

@@ -1,0 +1,6 @@
+ENTITY	text:convulsions	normalName:convulsions	predictedType:disease	q:true	qid:Q8	docId:3685052	origText:convulsions	url:D012640
+CANDIDATE	id:12640	inCount:53	outCount:1	links:12640	url:D012640	name:Convulsion	normalName:convulsion	normalWikiTitle:convulsion	predictedType:Disease
+ENTITY	text:seizure	normalName:seizure	predictedType:disease	q:true	qid:Q8	docId:3685052	origText:seizure	url:D012640
+CANDIDATE	id:12640	inCount:53	outCount:1	links:12640	url:D012640	name:Seizure	normalName:seizure	normalWikiTitle:seizure	predictedType:Disease
+ENTITY	text:hypothermia	normalName:hypothermia	predictedType:disease	q:true	qid:Q8	docId:3685052	origText:hypothermia	url:D007035
+CANDIDATE	id:7035	inCount:2	outCount:1	links:	url:D007035	name:Hypothermia	normalName:hypothermia	normalWikiTitle:hypothermia	predictedType:Disease

@@ -1,0 +1,17 @@
+ENTITY	text:congestive heart failure	normalName:congestive heart failure	predictedType:disease	q:true	qid:Q13	docId:7671401	origText:congestive heart failure	url:D006333
+CANDIDATE	id:6333	inCount:5	outCount:1	links:6973	url:D006333	name:Heart Failure, Congestive	normalName:heart failure, congestive	normalWikiTitle:heart failure, congestive	predictedType:Disease
+ENTITY	text:angio-oedema	normalName:angio-oedema	predictedType:disease	q:true	qid:Q13	docId:7671401	origText:angio-oedema	url:D000799
+CANDIDATE	id:799	inCount:4	outCount:2	links:	url:D000799	name:Angioedema	normalName:angioedema	normalWikiTitle:angioedema	predictedType:Disease
+CANDIDATE	id:18229	inCount:0	outCount:1	links:	url:D018229	name:Angiomyoma	normalName:angiomyoma	normalWikiTitle:angiomyoma	predictedType:Disease
+CANDIDATE	id:1929	inCount:2	outCount:1	links:	url:D001929	name:Brain Edema	normalName:brain edema	normalWikiTitle:brain edema	predictedType:Disease
+CANDIDATE	id:18206	inCount:1	outCount:1	links:	url:D018206	name:Angiolipoma	normalName:angiolipoma	normalWikiTitle:angiolipoma	predictedType:Disease
+CANDIDATE	id:18322	inCount:0	outCount:1	links:	url:D018322	name:Angiofibroma	normalName:angiofibroma	normalWikiTitle:angiofibroma	predictedType:Disease
+CANDIDATE	id:538173	inCount:0	outCount:1	links:	url:C538173	name:Acquired angioedema	normalName:acquired angioedema	normalWikiTitle:acquired angioedema	predictedType:Disease
+CANDIDATE	id:18303	inCount:0	outCount:1	links:	url:D018303	name:Ganglioglioma	normalName:ganglioglioma	normalWikiTitle:ganglioglioma	predictedType:Disease
+CANDIDATE	id:4489	inCount:0	outCount:2	links:	url:D004489	name:Edema, Cardiac	normalName:edema, cardiac	normalWikiTitle:edema, cardiac	predictedType:Disease
+CANDIDATE	id:58387	inCount:0	outCount:2	links:	url:D058387	name:Candidemia	normalName:candidemia	normalWikiTitle:candidemia	predictedType:Disease
+CANDIDATE	id:794	inCount:0	outCount:1	links:	url:D000794	name:Angiokeratoma	normalName:angiokeratoma	normalWikiTitle:angiokeratoma	predictedType:Disease
+ENTITY	text:hypertension	normalName:hypertension	predictedType:disease	q:true	qid:Q13	docId:7671401	origText:hypertension	url:D006973
+CANDIDATE	id:6973	inCount:18	outCount:1	links:6333;14581	url:D006973	name:Hypertension	normalName:hypertension	normalWikiTitle:hypertension	predictedType:Disease
+ENTITY	text:urticaria	normalName:urticaria	predictedType:disease	q:true	qid:Q13	docId:7671401	origText:urticaria	url:D014581
+CANDIDATE	id:14581	inCount:6	outCount:2	links:6973	url:D014581	name:Urticaria	normalName:urticaria	normalWikiTitle:urticaria	predictedType:Disease

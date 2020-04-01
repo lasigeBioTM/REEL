@@ -1,0 +1,10 @@
+ENTITY	text:lamivudine	normalName:lamivudine	predictedType:chemical	q:true	qid:Q1241	docId:17854040	origText:lamivudine	url:D019259
+CANDIDATE	id:19259	inCount:14	outCount:1	links:	url:D019259	name:Lamivudine	normalName:lamivudine	normalWikiTitle:lamivudine	predictedType:Chemical
+ENTITY	text:tyrosine	normalName:tyrosine	predictedType:chemical	q:true	qid:Q1241	docId:17854040	origText:tyrosine	url:D014443
+CANDIDATE	id:14443	inCount:271	outCount:1	links:	url:D014443	name:Tyrosine	normalName:tyrosine	normalWikiTitle:tyrosine	predictedType:Chemical
+ENTITY	text:methionine	normalName:methionine	predictedType:chemical	q:true	qid:Q1241	docId:17854040	origText:methionine	url:D008715
+CANDIDATE	id:8715	inCount:103	outCount:3	links:	url:D008715	name:Methionine	normalName:methionine	normalWikiTitle:methionine	predictedType:Chemical
+ENTITY	text:HBsAg	normalName:hbsag	predictedType:chemical	q:true	qid:Q1241	docId:17854040	origText:HBsAg	url:D006514
+CANDIDATE	id:6514	inCount:4	outCount:1	links:	url:D006514	name:HBsAg	normalName:hbsag	normalWikiTitle:hbsag	predictedType:Chemical
+ENTITY	text:aspartate	normalName:aspartate	predictedType:chemical	q:true	qid:Q1241	docId:17854040	origText:aspartate	url:D001224
+CANDIDATE	id:1224	inCount:112	outCount:3	links:	url:D001224	name:Aspartate	normalName:aspartate	normalWikiTitle:aspartate	predictedType:Chemical

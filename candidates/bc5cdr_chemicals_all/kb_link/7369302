@@ -1,0 +1,4 @@
+ENTITY	text:quinine	normalName:quinine	predictedType:chemical	q:true	qid:Q863	docId:7369302	origText:quinine	url:D011803
+CANDIDATE	id:11803	inCount:24	outCount:3	links:11803	url:D011803	name:Quinine	normalName:quinine	normalWikiTitle:quinine	predictedType:Chemical
+ENTITY	text:quinine sulfate	normalName:quinine sulfate	predictedType:chemical	q:true	qid:Q863	docId:7369302	origText:quinine sulfate	url:D011803
+CANDIDATE	id:11803	inCount:24	outCount:3	links:11803	url:D011803	name:Sulfate, Quinine	normalName:sulfate, quinine	normalWikiTitle:sulfate, quinine	predictedType:Chemical

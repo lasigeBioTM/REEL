@@ -1,0 +1,19 @@
+ENTITY	text:arrhythmias	normalName:arrhythmias	predictedType:disease	q:true	qid:Q77	docId:8437969	origText:arrhythmias	url:D001145
+CANDIDATE	id:1145	inCount:27	outCount:2	links:	url:D001145	name:Arrhythmia	normalName:arrhythmia	normalWikiTitle:arrhythmia	predictedType:Disease
+ENTITY	text:Sinus arrest	normalName:sinus arrest	predictedType:disease	q:true	qid:Q77	docId:8437969	origText:Sinus arrest	url:D054138
+CANDIDATE	id:54138	inCount:0	outCount:1	links:1919	url:D054138	name:Sinus Arrest, Cardiac	normalName:sinus arrest, cardiac	normalWikiTitle:sinus arrest, cardiac	predictedType:Disease
+CANDIDATE	id:1146	inCount:2	outCount:1	links:	url:D001146	name:Arrhythmia, Sinus	normalName:arrhythmia, sinus	normalWikiTitle:arrhythmia, sinus	predictedType:Disease
+CANDIDATE	id:1195	inCount:0	outCount:1	links:	url:D001195	name:Asbestosis	normalName:asbestosis	normalWikiTitle:asbestosis	predictedType:Disease
+CANDIDATE	id:10291	inCount:3	outCount:1	links:	url:D010291	name:Paresis	normalName:paresis	normalWikiTitle:paresis	predictedType:Disease
+CANDIDATE	id:1471	inCount:1	outCount:2	links:	url:D001471	name:Barrett Esophagus	normalName:barrett esophagus	normalWikiTitle:barrett esophagus	predictedType:Disease
+CANDIDATE	id:6335	inCount:1	outCount:1	links:	url:D006335	name:Heart Injuries	normalName:heart injuries	normalWikiTitle:heart injuries	predictedType:Disease
+CANDIDATE	id:1753	inCount:0	outCount:1	links:	url:D001753	name:Blast Injuries	normalName:blast injuries	normalWikiTitle:blast injuries	predictedType:Disease
+CANDIDATE	id:20335	inCount:1	outCount:1	links:	url:D020335	name:Paraparesis	normalName:paraparesis	normalWikiTitle:paraparesis	predictedType:Disease
+CANDIDATE	id:10292	inCount:0	outCount:1	links:	url:D010292	name:Paresthesia	normalName:paresthesia	normalWikiTitle:paresthesia	predictedType:Disease
+CANDIDATE	id:70896	inCount:0	outCount:1	links:	url:D000070896	name:Bankart Lesions	normalName:bankart lesions	normalWikiTitle:bankart lesions	predictedType:Disease
+ENTITY	text:cardiac disease	normalName:cardiac disease	predictedType:disease	q:true	qid:Q77	docId:8437969	origText:cardiac disease	url:D006331
+CANDIDATE	id:6331	inCount:29	outCount:1	links:	url:D006331	name:Cardiac Disease	normalName:cardiac disease	normalWikiTitle:cardiac disease	predictedType:Disease
+ENTITY	text:bradyarrhythmias	normalName:bradyarrhythmias	predictedType:disease	q:true	qid:Q77	docId:8437969	origText:bradyarrhythmias	url:D001919
+CANDIDATE	id:1919	inCount:0	outCount:1	links:54138	url:D001919	name:Bradyarrhythmia	normalName:bradyarrhythmia	normalWikiTitle:bradyarrhythmia	predictedType:Disease
+ENTITY	text:leukemia	normalName:leukemia	predictedType:disease	q:true	qid:Q77	docId:8437969	origText:leukemia	url:D007938
+CANDIDATE	id:7938	inCount:12	outCount:1	links:	url:D007938	name:Leukemia	normalName:leukemia	normalWikiTitle:leukemia	predictedType:Disease

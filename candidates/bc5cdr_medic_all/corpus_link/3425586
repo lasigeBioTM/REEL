@@ -1,0 +1,8 @@
+ENTITY	text:hemolysis	normalName:hemolysis	predictedType:disease	q:true	qid:Q1018	docId:3425586	origText:hemolysis	url:D006461
+CANDIDATE	id:6461	inCount:2	outCount:1	links:743	url:D006461	name:Hemolysis	normalName:hemolysis	normalWikiTitle:hemolysis	predictedType:Disease
+ENTITY	text:hemolytic anemia	normalName:hemolytic anemia	predictedType:disease	q:true	qid:Q1018	docId:3425586	origText:hemolytic anemia	url:D000743
+CANDIDATE	id:743	inCount:20	outCount:1	links:6461	url:D000743	name:Anemia, Hemolytic	normalName:anemia, hemolytic	normalWikiTitle:anemia, hemolytic	predictedType:Disease
+ENTITY	text:infection	normalName:infection	predictedType:disease	q:true	qid:Q1018	docId:3425586	origText:infection	url:D007239
+CANDIDATE	id:7239	inCount:33	outCount:1	links:	url:D007239	name:Infection	normalName:infection	normalWikiTitle:infection	predictedType:Disease
+ENTITY	text:leprosy	normalName:leprosy	predictedType:disease	q:true	qid:Q1018	docId:3425586	origText:leprosy	url:D007918
+CANDIDATE	id:7918	inCount:2	outCount:1	links:	url:D007918	name:Leprosy	normalName:leprosy	normalWikiTitle:leprosy	predictedType:Disease

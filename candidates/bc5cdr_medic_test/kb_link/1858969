@@ -1,0 +1,6 @@
+ENTITY	text:encephalitis	normalName:encephalitis	predictedType:disease	q:true	qid:Q297	docId:1858969	origText:encephalitis	url:D004660
+CANDIDATE	id:4660	inCount:9	outCount:1	links:	url:D004660	name:Encephalitis	normalName:encephalitis	normalWikiTitle:encephalitis	predictedType:Disease
+ENTITY	text:filariasis	normalName:filariasis	predictedType:disease	q:true	qid:Q297	docId:1858969	origText:filariasis	url:D005368
+CANDIDATE	id:5368	inCount:8	outCount:1	links:	url:D005368	name:Filariasis	normalName:filariasis	normalWikiTitle:filariasis	predictedType:Disease
+ENTITY	text:loiasis	normalName:loiasis	predictedType:disease	q:true	qid:Q297	docId:1858969	origText:loiasis	url:D008118
+CANDIDATE	id:8118	inCount:0	outCount:1	links:	url:D008118	name:Loiasis	normalName:loiasis	normalWikiTitle:loiasis	predictedType:Disease

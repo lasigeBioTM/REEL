@@ -1,0 +1,16 @@
+ENTITY	text:traumatic	normalName:traumatic	predictedType:disease	q:true	qid:Q826	docId:8410052	origText:traumatic	url:D014947
+CANDIDATE	id:14947	inCount:52	outCount:1	links:	url:D014947	name:Trauma	normalName:trauma	normalWikiTitle:trauma	predictedType:Disease
+CANDIDATE	id:12774	inCount:1	outCount:2	links:	url:D012774	name:Shock, Traumatic	normalName:shock, traumatic	normalWikiTitle:shock, traumatic	predictedType:Disease
+CANDIDATE	id:1469	inCount:2	outCount:1	links:	url:D001469	name:Barotrauma	normalName:barotrauma	normalWikiTitle:barotrauma	predictedType:Disease
+CANDIDATE	id:562989	inCount:0	outCount:1	links:	url:C562989	name:Amastia	normalName:amastia	normalWikiTitle:amastia	predictedType:Disease
+CANDIDATE	id:673	inCount:0	outCount:1	links:	url:D000673	name:Amputation, Traumatic	normalName:amputation, traumatic	normalWikiTitle:amputation, traumatic	predictedType:Disease
+CANDIDATE	id:24801	inCount:3	outCount:1	links:	url:D024801	name:Tauopathies	normalName:tauopathies	normalWikiTitle:tauopathies	predictedType:Disease
+CANDIDATE	id:13724	inCount:10	outCount:1	links:	url:D013724	name:Teratoma	normalName:teratoma	normalWikiTitle:teratoma	predictedType:Disease
+CANDIDATE	id:14141	inCount:0	outCount:3	links:	url:D014141	name:Trachoma	normalName:trachoma	normalWikiTitle:trachoma	predictedType:Disease
+CANDIDATE	id:12213	inCount:3	outCount:3	links:	url:D012213	name:Rheumatic Fever	normalName:rheumatic fever	normalWikiTitle:rheumatic fever	predictedType:Disease
+CANDIDATE	id:1014	inCount:5	outCount:2	links:	url:D001014	name:Aortic Aneurysm	normalName:aortic aneurysm	normalWikiTitle:aortic aneurysm	predictedType:Disease
+CANDIDATE	id:562472	inCount:0	outCount:2	links:	url:C562472	name:Teratoma, Testicular	normalName:teratoma, testicular	normalWikiTitle:teratoma, testicular	predictedType:Disease
+CANDIDATE	id:20207	inCount:0	outCount:2	links:	url:D020207	name:Coma, Traumatic	normalName:coma, traumatic	normalWikiTitle:coma, traumatic	predictedType:Disease
+CANDIDATE	id:20207	inCount:0	outCount:2	links:	url:D020207	name:Traumatic Coma	normalName:traumatic coma	normalWikiTitle:traumatic coma	predictedType:Disease
+ENTITY	text:status epilepticus	normalName:status epilepticus	predictedType:disease	q:true	qid:Q826	docId:8410052	origText:status epilepticus	url:D013226
+CANDIDATE	id:13226	inCount:1	outCount:1	links:	url:D013226	name:Status Epilepticus	normalName:status epilepticus	normalWikiTitle:status epilepticus	predictedType:Disease

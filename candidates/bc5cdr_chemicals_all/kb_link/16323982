@@ -1,0 +1,30 @@
+ENTITY	text:triglycerides	normalName:triglycerides	predictedType:chemical	q:true	qid:Q460	docId:16323982	origText:triglycerides	url:D014280
+CANDIDATE	id:14280	inCount:112	outCount:1	links:14280	url:D014280	name:Triglycerides	normalName:triglycerides	normalWikiTitle:triglycerides	predictedType:Chemical
+CANDIDATE	id:34396	inCount:0	outCount:1	links:34396	url:C034396	name:HDL-triglyceride	normalName:hdl-triglyceride	normalWikiTitle:hdl-triglyceride	predictedType:Chemical
+CANDIDATE	id:4075	inCount:83	outCount:1	links:4075	url:D004075	name:Diglycerides	normalName:diglycerides	normalWikiTitle:diglycerides	predictedType:Chemical
+CANDIDATE	id:5989	inCount:81	outCount:1	links:5989	url:D005989	name:Glycerides	normalName:glycerides	normalWikiTitle:glycerides	predictedType:Chemical
+CANDIDATE	id:40183	inCount:0	outCount:1	links:40183	url:C040183	name:triletide	normalName:triletide	normalWikiTitle:triletide	predictedType:Chemical
+CANDIDATE	id:556319	inCount:0	outCount:1	links:556319	url:C556319	name:hylodiglyceride	normalName:hylodiglyceride	normalWikiTitle:hylodiglyceride	predictedType:Chemical
+CANDIDATE	id:46667	inCount:0	outCount:1	links:46667	url:C046667	name:triperiden	normalName:triperiden	normalWikiTitle:triperiden	predictedType:Chemical
+CANDIDATE	id:594071	inCount:0	outCount:1	links:594071	url:C000594071	name:urgineaglyceride A	normalName:urgineaglyceride a	normalWikiTitle:urgineaglyceride a	predictedType:Chemical
+CANDIDATE	id:611317	inCount:0	outCount:1	links:611317	url:C000611317	name:agaricoglyceride A	normalName:agaricoglyceride a	normalWikiTitle:agaricoglyceride a	predictedType:Chemical
+CANDIDATE	id:5996	inCount:10	outCount:1	links:5996	url:D005996	name:Nitroglycerin	normalName:nitroglycerin	normalWikiTitle:nitroglycerin	predictedType:Chemical
+ENTITY	text:cholesterol	normalName:cholesterol	predictedType:chemical	q:true	qid:Q460	docId:16323982	origText:cholesterol	url:D002784
+CANDIDATE	id:2784	inCount:223	outCount:2	links:2784	url:D002784	name:Cholesterol	normalName:cholesterol	normalWikiTitle:cholesterol	predictedType:Chemical
+ENTITY	text:cyproterone acetate	normalName:cyproterone acetate	predictedType:chemical	q:true	qid:Q460	docId:16323982	origText:cyproterone acetate	url:D017373
+CANDIDATE	id:17373	inCount:5	outCount:1	links:	url:D017373	name:Cyproterone Acetate	normalName:cyproterone acetate	normalWikiTitle:cyproterone acetate	predictedType:Chemical
+ENTITY	text:cholesterols	normalName:cholesterols	predictedType:chemical	q:true	qid:Q460	docId:16323982	origText:cholesterols	url:D002784
+CANDIDATE	id:2784	inCount:223	outCount:2	links:2784	url:D002784	name:Cholesterol	normalName:cholesterol	normalWikiTitle:cholesterol	predictedType:Chemical
+ENTITY	text:triglyceride	normalName:triglyceride	predictedType:chemical	q:true	qid:Q460	docId:16323982	origText:triglyceride	url:D014280
+CANDIDATE	id:14280	inCount:112	outCount:1	links:14280	url:D014280	name:Triglycerides	normalName:triglycerides	normalWikiTitle:triglycerides	predictedType:Chemical
+CANDIDATE	id:34396	inCount:0	outCount:1	links:34396	url:C034396	name:HDL-triglyceride	normalName:hdl-triglyceride	normalWikiTitle:hdl-triglyceride	predictedType:Chemical
+CANDIDATE	id:4075	inCount:83	outCount:1	links:4075	url:D004075	name:Diglycerides	normalName:diglycerides	normalWikiTitle:diglycerides	predictedType:Chemical
+CANDIDATE	id:5989	inCount:81	outCount:1	links:5989	url:D005989	name:Glycerides	normalName:glycerides	normalWikiTitle:glycerides	predictedType:Chemical
+CANDIDATE	id:40183	inCount:0	outCount:1	links:40183	url:C040183	name:triletide	normalName:triletide	normalWikiTitle:triletide	predictedType:Chemical
+CANDIDATE	id:556319	inCount:0	outCount:1	links:556319	url:C556319	name:hylodiglyceride	normalName:hylodiglyceride	normalWikiTitle:hylodiglyceride	predictedType:Chemical
+CANDIDATE	id:46667	inCount:0	outCount:1	links:46667	url:C046667	name:triperiden	normalName:triperiden	normalWikiTitle:triperiden	predictedType:Chemical
+CANDIDATE	id:594071	inCount:0	outCount:1	links:594071	url:C000594071	name:urgineaglyceride A	normalName:urgineaglyceride a	normalWikiTitle:urgineaglyceride a	predictedType:Chemical
+CANDIDATE	id:611317	inCount:0	outCount:1	links:611317	url:C000611317	name:agaricoglyceride A	normalName:agaricoglyceride a	normalWikiTitle:agaricoglyceride a	predictedType:Chemical
+CANDIDATE	id:5996	inCount:10	outCount:1	links:5996	url:D005996	name:Nitroglycerin	normalName:nitroglycerin	normalWikiTitle:nitroglycerin	predictedType:Chemical
+ENTITY	text:estrogen	normalName:estrogen	predictedType:chemical	q:true	qid:Q460	docId:16323982	origText:estrogen	url:D004967
+CANDIDATE	id:4967	inCount:1	outCount:1	links:	url:D004967	name:Estrogen	normalName:estrogen	normalWikiTitle:estrogen	predictedType:Chemical

@@ -1,0 +1,42 @@
+ENTITY	text:nausea	normalName:nausea	predictedType:disease	q:true	qid:Q65	docId:8638876	origText:nausea	url:D009325
+CANDIDATE	id:9325	inCount:2	outCount:1	links:6261;14839;12640	url:D009325	name:Nausea	normalName:nausea	normalWikiTitle:nausea	predictedType:Disease
+ENTITY	text:venous sinus thrombosis	normalName:venous sinus thrombosis	predictedType:disease	q:true	qid:Q65	docId:8638876	origText:venous sinus thrombosis	url:D012851
+CANDIDATE	id:12851	inCount:3	outCount:1	links:2341	url:D012851	name:Sinus Thrombosis, Intracranial	normalName:sinus thrombosis, intracranial	normalWikiTitle:sinus thrombosis, intracranial	predictedType:Disease
+CANDIDATE	id:20246	inCount:5	outCount:1	links:	url:D020246	name:Venous Thrombosis	normalName:venous thrombosis	normalWikiTitle:venous thrombosis	predictedType:Disease
+CANDIDATE	id:54556	inCount:0	outCount:1	links:2341;1157	url:D054556	name:Venous Thromboembolism	normalName:venous thromboembolism	normalWikiTitle:venous thromboembolism	predictedType:Disease
+CANDIDATE	id:20227	inCount:0	outCount:1	links:	url:D020227	name:Lateral Sinus Thrombosis	normalName:lateral sinus thrombosis	normalWikiTitle:lateral sinus thrombosis	predictedType:Disease
+CANDIDATE	id:20225	inCount:0	outCount:1	links:	url:D020225	name:Sagittal Sinus Thrombosis	normalName:sagittal sinus thrombosis	normalWikiTitle:sagittal sinus thrombosis	predictedType:Disease
+CANDIDATE	id:20226	inCount:0	outCount:1	links:	url:D020226	name:Cavernous Sinus Thrombosis	normalName:cavernous sinus thrombosis	normalWikiTitle:cavernous sinus thrombosis	predictedType:Disease
+CANDIDATE	id:13927	inCount:4	outCount:1	links:1157	url:D013927	name:Thrombosis	normalName:thrombosis	normalWikiTitle:thrombosis	predictedType:Disease
+CANDIDATE	id:15524	inCount:0	outCount:1	links:	url:D015524	name:Sphenoid Sinusitis	normalName:sphenoid sinusitis	normalWikiTitle:sphenoid sinusitis	predictedType:Disease
+CANDIDATE	id:15618	inCount:1	outCount:1	links:	url:D015618	name:Histiocytosis, Sinus	normalName:histiocytosis, sinus	normalWikiTitle:histiocytosis, sinus	predictedType:Disease
+CANDIDATE	id:16769	inCount:3	outCount:1	links:	url:D016769	name:Embolism and Thrombosis	normalName:embolism and thrombosis	normalWikiTitle:embolism and thrombosis	predictedType:Disease
+ENTITY	text:headache	normalName:headache	predictedType:disease	q:true	qid:Q65	docId:8638876	origText:headache	url:D006261
+CANDIDATE	id:6261	inCount:2	outCount:1	links:14839;9325	url:D006261	name:Headache	normalName:headache	normalWikiTitle:headache	predictedType:Disease
+ENTITY	text:Diabetes mellitus	normalName:diabetes mellitus	predictedType:disease	q:true	qid:Q65	docId:8638876	origText:Diabetes mellitus	url:D003920
+CANDIDATE	id:3920	inCount:44	outCount:2	links:	url:D003920	name:Diabetes Mellitus	normalName:diabetes mellitus	normalWikiTitle:diabetes mellitus	predictedType:Disease
+ENTITY	text:seizure	normalName:seizure	predictedType:disease	q:true	qid:Q65	docId:8638876	origText:seizure	url:D012640
+CANDIDATE	id:12640	inCount:53	outCount:1	links:14839;9325	url:D012640	name:Seizure	normalName:seizure	normalWikiTitle:seizure	predictedType:Disease
+ENTITY	text:vomiting	normalName:vomiting	predictedType:disease	q:true	qid:Q65	docId:8638876	origText:vomiting	url:D014839
+CANDIDATE	id:14839	inCount:7	outCount:1	links:6261;12640;9325	url:D014839	name:Vomiting	normalName:vomiting	normalWikiTitle:vomiting	predictedType:Disease
+ENTITY	text:occlusion of the left internal carotid artery	normalName:occlusion of the left internal carotid artery	predictedType:disease	q:true	qid:Q65	docId:8638876	origText:occlusion of the left internal carotid artery	url:D001157
+CANDIDATE	id:1157	inCount:14	outCount:1	links:54556;13927	url:D001157	name:Arterial Occlusive Diseases	normalName:arterial occlusive diseases	normalWikiTitle:arterial occlusive diseases	predictedType:Disease
+CANDIDATE	id:564125	inCount:0	outCount:1	links:	url:C564125	name:Internal Carotid Artery, Spontaneous Dissection of	normalName:internal carotid artery, spontaneous dissection of	normalWikiTitle:internal carotid artery, spontaneous dissection of	predictedType:Disease
+CANDIDATE	id:20215	inCount:1	outCount:2	links:	url:D020215	name:Carotid Artery, Internal, Dissection	normalName:carotid artery, internal, dissection	normalWikiTitle:carotid artery, internal, dissection	predictedType:Disease
+CANDIDATE	id:2340	inCount:5	outCount:1	links:	url:D002340	name:Carotid Artery Diseases	normalName:carotid artery diseases	normalWikiTitle:carotid artery diseases	predictedType:Disease
+CANDIDATE	id:20212	inCount:2	outCount:2	links:	url:D020212	name:Carotid Artery Injuries	normalName:carotid artery injuries	normalWikiTitle:carotid artery injuries	predictedType:Disease
+CANDIDATE	id:2341	inCount:0	outCount:2	links:54556;12851	url:D002341	name:Carotid Artery Thrombosis	normalName:carotid artery thrombosis	normalWikiTitle:carotid artery thrombosis	predictedType:Disease
+CANDIDATE	id:20762	inCount:0	outCount:2	links:	url:D020762	name:Infarction, Posterior Cerebral Artery	normalName:infarction, posterior cerebral artery	normalWikiTitle:infarction, posterior cerebral artery	predictedType:Disease
+CANDIDATE	id:20244	inCount:0	outCount:2	links:	url:D020244	name:Infarction, Middle Cerebral Artery	normalName:infarction, middle cerebral artery	normalWikiTitle:infarction, middle cerebral artery	predictedType:Disease
+CANDIDATE	id:608447	inCount:0	outCount:1	links:	url:608447	name:CAROTID INTIMAL MEDIAL THICKNESS 2	normalName:carotid intimal medial thickness 2	normalWikiTitle:carotid intimal medial thickness 2	predictedType:Disease
+CANDIDATE	id:565442	inCount:0	outCount:1	links:	url:C565442	name:Leg, Absence Deformity of, with Congenital Cataract	normalName:leg, absence deformity of, with congenital cataract	normalWikiTitle:leg, absence deformity of, with congenital cataract	predictedType:Disease
+CANDIDATE	id:16893	inCount:0	outCount:2	links:	url:D016893	name:Internal Carotid Artery Stenosis	normalName:internal carotid artery stenosis	normalWikiTitle:internal carotid artery stenosis	predictedType:Disease
+CANDIDATE	id:2341	inCount:0	outCount:2	links:54556;12851	url:D002341	name:Internal Carotid Artery Thrombosis	normalName:internal carotid artery thrombosis	normalWikiTitle:internal carotid artery thrombosis	predictedType:Disease
+CANDIDATE	id:2341	inCount:0	outCount:2	links:54556;12851	url:D002341	name:Thrombosis, Internal Carotid Artery	normalName:thrombosis, internal carotid artery	normalWikiTitle:thrombosis, internal carotid artery	predictedType:Disease
+CANDIDATE	id:563733	inCount:0	outCount:1	links:	url:C563733	name:Intimal Medial Thickness of Internal Carotid Artery	normalName:intimal medial thickness of internal carotid artery	normalWikiTitle:intimal medial thickness of internal carotid artery	predictedType:Disease
+CANDIDATE	id:20244	inCount:0	outCount:2	links:	url:D020244	name:Middle Cerebral Artery Occlusion	normalName:middle cerebral artery occlusion	normalWikiTitle:middle cerebral artery occlusion	predictedType:Disease
+CANDIDATE	id:16893	inCount:0	outCount:2	links:	url:D016893	name:Stenosis, External Carotid Artery	normalName:stenosis, external carotid artery	normalWikiTitle:stenosis, external carotid artery	predictedType:Disease
+CANDIDATE	id:20244	inCount:0	outCount:2	links:	url:D020244	name:Occlusion, Middle Cerebral Artery	normalName:occlusion, middle cerebral artery	normalWikiTitle:occlusion, middle cerebral artery	predictedType:Disease
+CANDIDATE	id:16893	inCount:0	outCount:2	links:	url:D016893	name:External Carotid Artery Stenosis	normalName:external carotid artery stenosis	normalWikiTitle:external carotid artery stenosis	predictedType:Disease
+ENTITY	text:hemiparesis	normalName:hemiparesis	predictedType:disease	q:true	qid:Q65	docId:8638876	origText:hemiparesis	url:D010291
+CANDIDATE	id:10291	inCount:3	outCount:1	links:	url:D010291	name:Hemiparesis	normalName:hemiparesis	normalWikiTitle:hemiparesis	predictedType:Disease

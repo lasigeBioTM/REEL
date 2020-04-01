@@ -1,0 +1,4 @@
+ENTITY	text:aspartate	normalName:aspartate	predictedType:chemical	q:true	qid:Q539	docId:7007443	origText:aspartate	url:D001224
+CANDIDATE	id:1224	inCount:112	outCount:3	links:	url:D001224	name:Aspartate	normalName:aspartate	normalWikiTitle:aspartate	predictedType:Chemical
+ENTITY	text:paracetamol	normalName:paracetamol	predictedType:chemical	q:true	qid:Q539	docId:7007443	origText:paracetamol	url:D000082
+CANDIDATE	id:82	inCount:89	outCount:1	links:	url:D000082	name:Paracetamol	normalName:paracetamol	normalWikiTitle:paracetamol	predictedType:Chemical

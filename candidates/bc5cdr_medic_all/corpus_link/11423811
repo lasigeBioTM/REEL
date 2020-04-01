@@ -1,0 +1,31 @@
+ENTITY	text:ischemia	normalName:ischemia	predictedType:disease	q:true	qid:Q777	docId:11423811	origText:ischemia	url:D007511
+CANDIDATE	id:7511	inCount:3	outCount:1	links:66126;7022;2637	url:D007511	name:Ischemia	normalName:ischemia	normalWikiTitle:ischemia	predictedType:Disease
+ENTITY	text:hypokinesis	normalName:hypokinesis	predictedType:disease	q:true	qid:Q777	docId:11423811	origText:hypokinesis	url:D018476
+CANDIDATE	id:18476	inCount:1	outCount:1	links:	url:D018476	name:Hypokinesia	normalName:hypokinesia	normalWikiTitle:hypokinesia	predictedType:Disease
+CANDIDATE	id:6948	inCount:1	outCount:1	links:2637	url:D006948	name:Hyperkinesis	normalName:hyperkinesis	normalWikiTitle:hyperkinesis	predictedType:Disease
+CANDIDATE	id:46608	inCount:2	outCount:1	links:	url:D046608	name:Synkinesis	normalName:synkinesis	normalWikiTitle:synkinesis	predictedType:Disease
+CANDIDATE	id:20820	inCount:25	outCount:2	links:	url:D020820	name:Dyskinesias	normalName:dyskinesias	normalWikiTitle:dyskinesias	predictedType:Disease
+CANDIDATE	id:7007	inCount:8	outCount:1	links:	url:D007007	name:Hypohidrosis	normalName:hypohidrosis	normalWikiTitle:hypohidrosis	predictedType:Disease
+CANDIDATE	id:7039	inCount:27	outCount:1	links:	url:D007039	name:Hypotrichosis	normalName:hypotrichosis	normalWikiTitle:hypotrichosis	predictedType:Disease
+CANDIDATE	id:7022	inCount:3	outCount:1	links:14869;66126;2637;7511	url:D007022	name:Hypotension	normalName:hypotension	normalWikiTitle:hypotension	predictedType:Disease
+CANDIDATE	id:7008	inCount:1	outCount:1	links:	url:D007008	name:Hypokalemia	normalName:hypokalemia	normalWikiTitle:hypokalemia	predictedType:Disease
+CANDIDATE	id:6869	inCount:5	outCount:1	links:	url:D006869	name:Hydronephrosis	normalName:hydronephrosis	normalWikiTitle:hydronephrosis	predictedType:Disease
+CANDIDATE	id:7000	inCount:0	outCount:1	links:	url:D007000	name:Hypodermyiasis	normalName:hypodermyiasis	normalWikiTitle:hypodermyiasis	predictedType:Disease
+ENTITY	text:toxicity	normalName:toxicity	predictedType:disease	q:true	qid:Q777	docId:11423811	origText:toxicity	url:D064420
+CANDIDATE	id:64420	inCount:10	outCount:1	links:	url:D064420	name:Drug Toxicity	normalName:drug toxicity	normalWikiTitle:drug toxicity	predictedType:Disease
+CANDIDATE	id:66126	inCount:0	outCount:3	links:7022;7511	url:D066126	name:Cardiotoxicity	normalName:cardiotoxicity	normalWikiTitle:cardiotoxicity	predictedType:Disease
+CANDIDATE	id:15651	inCount:2	outCount:1	links:	url:D015651	name:Mycotoxicosis	normalName:mycotoxicosis	normalWikiTitle:mycotoxicosis	predictedType:Disease
+CANDIDATE	id:13971	inCount:2	outCount:1	links:	url:D013971	name:Thyrotoxicosis	normalName:thyrotoxicosis	normalWikiTitle:thyrotoxicosis	predictedType:Disease
+CANDIDATE	id:14869	inCount:0	outCount:2	links:7022	url:D014869	name:Water Intoxication	normalName:water intoxication	normalWikiTitle:water intoxication	predictedType:Disease
+CANDIDATE	id:14103	inCount:4	outCount:2	links:	url:D014103	name:Torticollis	normalName:torticollis	normalWikiTitle:torticollis	predictedType:Disease
+CANDIDATE	id:9765	inCount:42	outCount:2	links:	url:D009765	name:Obesity	normalName:obesity	normalWikiTitle:obesity	predictedType:Disease
+CANDIDATE	id:14115	inCount:1	outCount:1	links:	url:D014115	name:Toxemia	normalName:toxemia	normalWikiTitle:toxemia	predictedType:Disease
+CANDIDATE	id:7246	inCount:2	outCount:2	links:	url:D007246	name:Infertility	normalName:infertility	normalWikiTitle:infertility	predictedType:Disease
+CANDIDATE	id:20234	inCount:0	outCount:2	links:	url:D020234	name:Gait Ataxia	normalName:gait ataxia	normalWikiTitle:gait ataxia	predictedType:Disease
+CANDIDATE	id:14069	inCount:1	outCount:1	links:	url:D014069	name:Tonsillitis	normalName:tonsillitis	normalWikiTitle:tonsillitis	predictedType:Disease
+CANDIDATE	id:64420	inCount:10	outCount:1	links:	url:D064420	name:Toxicity, Drug	normalName:toxicity, drug	normalWikiTitle:toxicity, drug	predictedType:Disease
+CANDIDATE	id:17484	inCount:0	outCount:2	links:	url:D017484	name:Phototoxicity	normalName:phototoxicity	normalWikiTitle:phototoxicity	predictedType:Disease
+ENTITY	text:chest pain	normalName:chest pain	predictedType:disease	q:true	qid:Q777	docId:11423811	origText:chest pain	url:D002637
+CANDIDATE	id:2637	inCount:1	outCount:1	links:6948;7022;7511	url:D002637	name:Chest Pain	normalName:chest pain	normalWikiTitle:chest pain	predictedType:Disease
+ENTITY	text:sinus tachycardia	normalName:sinus tachycardia	predictedType:disease	q:true	qid:Q777	docId:11423811	origText:sinus tachycardia	url:D013616
+CANDIDATE	id:13616	inCount:0	outCount:1	links:	url:D013616	name:Tachycardia, Sinus	normalName:tachycardia, sinus	normalWikiTitle:tachycardia, sinus	predictedType:Disease

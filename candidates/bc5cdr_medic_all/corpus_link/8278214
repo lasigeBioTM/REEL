@@ -1,0 +1,10 @@
+ENTITY	text:hyperesthesia	normalName:hyperesthesia	predictedType:disease	q:true	qid:Q1062	docId:8278214	origText:hyperesthesia	url:D006941
+CANDIDATE	id:6941	inCount:0	outCount:1	links:6930;9207;9437	url:D006941	name:Hyperesthesia	normalName:hyperesthesia	normalWikiTitle:hyperesthesia	predictedType:Disease
+ENTITY	text:myoclonus	normalName:myoclonus	predictedType:disease	q:true	qid:Q1062	docId:8278214	origText:myoclonus	url:D009207
+CANDIDATE	id:9207	inCount:11	outCount:1	links:6930;6941;9437	url:D009207	name:Myoclonus	normalName:myoclonus	normalWikiTitle:myoclonus	predictedType:Disease
+ENTITY	text:neuralgia	normalName:neuralgia	predictedType:disease	q:true	qid:Q1062	docId:8278214	origText:neuralgia	url:D009437
+CANDIDATE	id:9437	inCount:6	outCount:2	links:6930;6941;9207	url:D009437	name:Neuralgia	normalName:neuralgia	normalWikiTitle:neuralgia	predictedType:Disease
+ENTITY	text:cancer	normalName:cancer	predictedType:disease	q:true	qid:Q1062	docId:8278214	origText:cancer	url:D009369
+CANDIDATE	id:9369	inCount:18	outCount:1	links:	url:D009369	name:Cancer	normalName:cancer	normalWikiTitle:cancer	predictedType:Disease
+ENTITY	text:Hyperalgesia	normalName:hyperalgesia	predictedType:disease	q:true	qid:Q1062	docId:8278214	origText:Hyperalgesia	url:D006930
+CANDIDATE	id:6930	inCount:0	outCount:1	links:6941;9207;9437	url:D006930	name:Hyperalgesia	normalName:hyperalgesia	normalWikiTitle:hyperalgesia	predictedType:Disease

@@ -1,0 +1,10 @@
+ENTITY	text:nephrosis	normalName:nephrosis	predictedType:disease	q:true	qid:Q148	docId:8319760	origText:nephrosis	url:D009401
+CANDIDATE	id:9401	inCount:8	outCount:1	links:	url:D009401	name:Nephrosis	normalName:nephrosis	normalWikiTitle:nephrosis	predictedType:Disease
+ENTITY	text:nephrotic syndromes	normalName:nephrotic syndromes	predictedType:disease	q:true	qid:Q148	docId:8319760	origText:nephrotic syndromes	url:D009404
+CANDIDATE	id:9404	inCount:23	outCount:1	links:	url:D009404	name:Nephrotic Syndrome	normalName:nephrotic syndrome	normalWikiTitle:nephrotic syndrome	predictedType:Disease
+ENTITY	text:hypoalbuminemia	normalName:hypoalbuminemia	predictedType:disease	q:true	qid:Q148	docId:8319760	origText:hypoalbuminemia	url:D034141
+CANDIDATE	id:34141	inCount:1	outCount:1	links:	url:D034141	name:Hypoalbuminemia	normalName:hypoalbuminemia	normalWikiTitle:hypoalbuminemia	predictedType:Disease
+ENTITY	text:proteinuria	normalName:proteinuria	predictedType:disease	q:true	qid:Q148	docId:8319760	origText:proteinuria	url:D011507
+CANDIDATE	id:11507	inCount:4	outCount:2	links:	url:D011507	name:Proteinuria	normalName:proteinuria	normalWikiTitle:proteinuria	predictedType:Disease
+ENTITY	text:hypercholesterolemia	normalName:hypercholesterolemia	predictedType:disease	q:true	qid:Q148	docId:8319760	origText:hypercholesterolemia	url:D006937
+CANDIDATE	id:6937	inCount:5	outCount:1	links:	url:D006937	name:Hypercholesterolemia	normalName:hypercholesterolemia	normalWikiTitle:hypercholesterolemia	predictedType:Disease

@@ -1,0 +1,8 @@
+ENTITY	text:Potassium	normalName:potassium	predictedType:chemical	q:true	qid:Q48	docId:7791169	origText:Potassium	url:D011188
+CANDIDATE	id:11188	inCount:10	outCount:2	links:	url:D011188	name:Potassium	normalName:potassium	normalWikiTitle:potassium	predictedType:Chemical
+ENTITY	text:creatinine	normalName:creatinine	predictedType:chemical	q:true	qid:Q48	docId:7791169	origText:creatinine	url:D003404
+CANDIDATE	id:3404	inCount:8	outCount:1	links:	url:D003404	name:Creatinine	normalName:creatinine	normalWikiTitle:creatinine	predictedType:Chemical
+ENTITY	text:misoprostol	normalName:misoprostol	predictedType:chemical	q:true	qid:Q48	docId:7791169	origText:misoprostol	url:D016595
+CANDIDATE	id:16595	inCount:3	outCount:1	links:	url:D016595	name:Misoprostol	normalName:misoprostol	normalWikiTitle:misoprostol	predictedType:Chemical
+ENTITY	text:indomethacin	normalName:indomethacin	predictedType:chemical	q:true	qid:Q48	docId:7791169	origText:indomethacin	url:D007213
+CANDIDATE	id:7213	inCount:40	outCount:1	links:	url:D007213	name:Indomethacin	normalName:indomethacin	normalWikiTitle:indomethacin	predictedType:Chemical

@@ -1,0 +1,45 @@
+ENTITY	text:TBARs	normalName:tbars	predictedType:chemical	q:true	qid:Q331	docId:15858223	origText:TBARs	url:D017392
+CANDIDATE	id:17392	inCount:0	outCount:1	links:17392	url:D017392	name:TBARs	normalName:tbars	normalWikiTitle:tbars	predictedType:Chemical
+ENTITY	text:Valproic acid	normalName:valproic acid	predictedType:chemical	q:true	qid:Q331	docId:15858223	origText:Valproic acid	url:D014635
+CANDIDATE	id:14635	inCount:43	outCount:1	links:	url:D014635	name:Valproic Acid	normalName:valproic acid	normalWikiTitle:valproic acid	predictedType:Chemical
+ENTITY	text:2,4-diene-VPA	normalName:2,4-diene-vpa	predictedType:chemical	q:true	qid:Q331	docId:15858223	origText:2,4-diene-VPA	url:C556631
+CANDIDATE	id:556631	inCount:0	outCount:1	links:	url:C556631	name:2,4-diene-valproic acid	normalName:2,4-diene-valproic acid	normalWikiTitle:2,4-diene-valproic acid	predictedType:Chemical
+CANDIDATE	id:521605	inCount:0	outCount:1	links:	url:C521605	name:stella-2,6-diene	normalName:stella-2,6-diene	normalWikiTitle:stella-2,6-diene	predictedType:Chemical
+CANDIDATE	id:37991	inCount:0	outCount:2	links:	url:C037991	name:2,4-D amine	normalName:2,4-d amine	normalWikiTitle:2,4-d amine	predictedType:Chemical
+CANDIDATE	id:57349	inCount:0	outCount:1	links:	url:C057349	name:2,4-decadienal	normalName:2,4-decadienal	normalWikiTitle:2,4-decadienal	predictedType:Chemical
+CANDIDATE	id:412886	inCount:0	outCount:1	links:	url:C412886	name:2,4-nonadienal	normalName:2,4-nonadienal	normalWikiTitle:2,4-nonadienal	predictedType:Chemical
+CANDIDATE	id:99622	inCount:0	outCount:1	links:	url:C099622	name:pimara-7,15-diene	normalName:pimara-7,15-diene	normalWikiTitle:pimara-7,15-diene	predictedType:Chemical
+CANDIDATE	id:79389	inCount:0	outCount:2	links:	url:C079389	name:2,4-hexadienal	normalName:2,4-hexadienal	normalWikiTitle:2,4-hexadienal	predictedType:Chemical
+CANDIDATE	id:474371	inCount:0	outCount:1	links:	url:C474371	name:2,4-octadienal	normalName:2,4-octadienal	normalWikiTitle:2,4-octadienal	predictedType:Chemical
+CANDIDATE	id:93125	inCount:0	outCount:2	links:	url:C093125	name:taxa-4(5),11(12)diene	normalName:taxa-4(5),11(12)diene	normalWikiTitle:taxa-4(5),11(12)diene	predictedType:Chemical
+CANDIDATE	id:55496	inCount:0	outCount:1	links:	url:C055496	name:o-mentha-1,4-diene	normalName:o-mentha-1,4-diene	normalWikiTitle:o-mentha-1,4-diene	predictedType:Chemical
+CANDIDATE	id:45022	inCount:0	outCount:1	links:45022	url:C045022	name:4-ene VPA	normalName:4-ene vpa	normalWikiTitle:4-ene vpa	predictedType:Chemical
+CANDIDATE	id:45022	inCount:0	outCount:1	links:45022	url:C045022	name:4-en-VPA	normalName:4-en-vpa	normalWikiTitle:4-en-vpa	predictedType:Chemical
+CANDIDATE	id:82456	inCount:0	outCount:1	links:	url:C082456	name:2,4-DCNPA	normalName:2,4-dcnpa	normalWikiTitle:2,4-dcnpa	predictedType:Chemical
+CANDIDATE	id:403943	inCount:0	outCount:1	links:	url:C403943	name:2,4-di-DP	normalName:2,4-di-dp	normalWikiTitle:2,4-di-dp	predictedType:Chemical
+CANDIDATE	id:19297	inCount:12	outCount:1	links:	url:D019297	name:2,4-DNP	normalName:2,4-dnp	normalWikiTitle:2,4-dnp	predictedType:Chemical
+CANDIDATE	id:14168	inCount:0	outCount:1	links:	url:C014168	name:2-enVPA	normalName:2-envpa	normalWikiTitle:2-envpa	predictedType:Chemical
+CANDIDATE	id:42157	inCount:0	outCount:1	links:	url:C042157	name:2,4-DNP-DE	normalName:2,4-dnp-de	normalWikiTitle:2,4-dnp-de	predictedType:Chemical
+ENTITY	text:glutathione	normalName:glutathione	predictedType:chemical	q:true	qid:Q331	docId:15858223	origText:glutathione	url:D005978
+CANDIDATE	id:5978	inCount:255	outCount:1	links:	url:D005978	name:Glutathione	normalName:glutathione	normalWikiTitle:glutathione	predictedType:Chemical
+ENTITY	text:thiobarbituric acid reactive substances	normalName:thiobarbituric acid reactive substances	predictedType:chemical	q:true	qid:Q331	docId:15858223	origText:thiobarbituric acid reactive substances	url:D017392
+CANDIDATE	id:17392	inCount:0	outCount:1	links:17392	url:D017392	name:Thiobarbituric Acid Reactive Substances	normalName:thiobarbituric acid reactive substances	normalWikiTitle:thiobarbituric acid reactive substances	predictedType:Chemical
+ENTITY	text:lipid hydroperoxides	normalName:lipid hydroperoxides	predictedType:chemical	q:true	qid:Q331	docId:15858223	origText:lipid hydroperoxides	url:D008054
+CANDIDATE	id:8054	inCount:16	outCount:2	links:	url:D008054	name:Hydroperoxide, Lipid	normalName:hydroperoxide, lipid	normalWikiTitle:hydroperoxide, lipid	predictedType:Chemical
+CANDIDATE	id:521089	inCount:0	outCount:2	links:	url:C521089	name:lophine hydroperoxide	normalName:lophine hydroperoxide	normalWikiTitle:lophine hydroperoxide	predictedType:Chemical
+CANDIDATE	id:109614	inCount:0	outCount:2	links:	url:C109614	name:linalyl hydroperoxide	normalName:linalyl hydroperoxide	normalWikiTitle:linalyl hydroperoxide	predictedType:Chemical
+CANDIDATE	id:97556	inCount:0	outCount:2	links:	url:C097556	name:pyrone hydroperoxide	normalName:pyrone hydroperoxide	normalWikiTitle:pyrone hydroperoxide	predictedType:Chemical
+CANDIDATE	id:31396	inCount:0	outCount:1	links:	url:C031396	name:vitamin K1-hydroperoxide	normalName:vitamin k1-hydroperoxide	normalWikiTitle:vitamin k1-hydroperoxide	predictedType:Chemical
+CANDIDATE	id:593140	inCount:0	outCount:1	links:	url:C000593140	name:limonene-2-hydroperoxide	normalName:limonene-2-hydroperoxide	normalWikiTitle:limonene-2-hydroperoxide	predictedType:Chemical
+CANDIDATE	id:593139	inCount:0	outCount:1	links:	url:C000593139	name:limonene-1-hydroperoxide	normalName:limonene-1-hydroperoxide	normalWikiTitle:limonene-1-hydroperoxide	predictedType:Chemical
+CANDIDATE	id:608134	inCount:0	outCount:2	links:	url:C000608134	name:urate hydroperoxide	normalName:urate hydroperoxide	normalWikiTitle:urate hydroperoxide	predictedType:Chemical
+CANDIDATE	id:8285	inCount:0	outCount:2	links:	url:C008285	name:linoleic acid hydroperoxide	normalName:linoleic acid hydroperoxide	normalWikiTitle:linoleic acid hydroperoxide	predictedType:Chemical
+CANDIDATE	id:113479	inCount:0	outCount:2	links:	url:C113479	name:skatolyl hydroperoxide	normalName:skatolyl hydroperoxide	normalWikiTitle:skatolyl hydroperoxide	predictedType:Chemical
+CANDIDATE	id:432863	inCount:0	outCount:2	links:	url:C432863	name:lead hydroxide	normalName:lead hydroxide	normalWikiTitle:lead hydroxide	predictedType:Chemical
+CANDIDATE	id:8054	inCount:16	outCount:2	links:	url:D008054	name:Lipid Hydroperoxide	normalName:lipid hydroperoxide	normalWikiTitle:lipid hydroperoxide	predictedType:Chemical
+ENTITY	text:4-ene-VPA	normalName:4-ene-vpa	predictedType:chemical	q:true	qid:Q331	docId:15858223	origText:4-ene-VPA	url:C045022
+CANDIDATE	id:45022	inCount:0	outCount:1	links:45022	url:C045022	name:4-ene VPA	normalName:4-ene vpa	normalWikiTitle:4-ene vpa	predictedType:Chemical
+ENTITY	text:15-F(2t)-isoprostane	normalName:15-f(2t)-isoprostane	predictedType:chemical	q:true	qid:Q331	docId:15858223	origText:15-F(2t)-isoprostane	url:C075750
+CANDIDATE	id:75750	inCount:0	outCount:1	links:75750	url:C075750	name:15-F(2t)-isoprostane	normalName:15-f(2t)-isoprostane	normalWikiTitle:15-f(2t)-isoprostane	predictedType:Chemical
+ENTITY	text:15-F(2t)-IsoP	normalName:15-f(2t)-isop	predictedType:chemical	q:true	qid:Q331	docId:15858223	origText:15-F(2t)-IsoP	url:C075750
+CANDIDATE	id:75750	inCount:0	outCount:1	links:75750	url:C075750	name:15-F(2t)-IsoP	normalName:15-f(2t)-isop	normalWikiTitle:15-f(2t)-isop	predictedType:Chemical

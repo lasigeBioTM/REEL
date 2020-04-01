@@ -1,0 +1,12 @@
+ENTITY	text:5-azacytidine	normalName:5-azacytidine	predictedType:chemical	q:true	qid:Q120	docId:2578334	origText:5-azacytidine	url:D001374
+CANDIDATE	id:1374	inCount:20	outCount:2	links:15073;8770;19813;1564	url:D001374	name:5 Azacytidine	normalName:5 azacytidine	normalWikiTitle:5 azacytidine	predictedType:Chemical
+ENTITY	text:benzo[a]-pyrene	normalName:benzo[a]-pyrene	predictedType:chemical	q:true	qid:Q120	docId:2578334	origText:benzo[a]-pyrene	url:D001564
+CANDIDATE	id:1564	inCount:9	outCount:1	links:15073;8770;19813;1374	url:D001564	name:Benzo(a)pyrene	normalName:benzo(a)pyrene	normalWikiTitle:benzo(a)pyrene	predictedType:Chemical
+ENTITY	text:1,2-dimethylhydrazine	normalName:1,2-dimethylhydrazine	predictedType:chemical	q:true	qid:Q120	docId:2578334	origText:1,2-dimethylhydrazine	url:D019813
+CANDIDATE	id:19813	inCount:0	outCount:1	links:15073;8770;1564;1374	url:D019813	name:1,2-Dimethylhydrazine	normalName:1,2-dimethylhydrazine	normalWikiTitle:1,2-dimethylhydrazine	predictedType:Chemical
+ENTITY	text:cytosine	normalName:cytosine	predictedType:chemical	q:true	qid:Q120	docId:2578334	origText:cytosine	url:D003596
+CANDIDATE	id:3596	inCount:109	outCount:1	links:	url:D003596	name:Cytosine	normalName:cytosine	normalWikiTitle:cytosine	predictedType:Chemical
+ENTITY	text:N-methyl-N-nitrosourea	normalName:n-methyl-n-nitrosourea	predictedType:chemical	q:true	qid:Q120	docId:2578334	origText:N-methyl-N-nitrosourea	url:D008770
+CANDIDATE	id:8770	inCount:17	outCount:1	links:15073;19813;1564;1374	url:D008770	name:N-Methyl-N-nitrosourea	normalName:n-methyl-n-nitrosourea	normalWikiTitle:n-methyl-n-nitrosourea	predictedType:Chemical
+ENTITY	text:2-acetylaminofluorene	normalName:2-acetylaminofluorene	predictedType:chemical	q:true	qid:Q120	docId:2578334	origText:2-acetylaminofluorene	url:D015073
+CANDIDATE	id:15073	inCount:20	outCount:2	links:8770;19813;1564;1374	url:D015073	name:2-Acetylaminofluorene	normalName:2-acetylaminofluorene	normalWikiTitle:2-acetylaminofluorene	predictedType:Chemical

@@ -1,0 +1,17 @@
+ENTITY	text:renal tubular acidosis	normalName:renal tubular acidosis	predictedType:disease	q:true	qid:Q1433	docId:6985498	origText:renal tubular acidosis	url:D000141
+CANDIDATE	id:141	inCount:11	outCount:2	links:	url:D000141	name:Acidosis, Renal Tubular	normalName:acidosis, renal tubular	normalWikiTitle:acidosis, renal tubular	predictedType:Disease
+ENTITY	text:bleeding	normalName:bleeding	predictedType:disease	q:true	qid:Q1433	docId:6985498	origText:bleeding	url:D006470
+CANDIDATE	id:6470	inCount:31	outCount:1	links:	url:D006470	name:Bleeding	normalName:bleeding	normalWikiTitle:bleeding	predictedType:Disease
+ENTITY	text:hepatic insufficiency syndrome	normalName:hepatic insufficiency syndrome	predictedType:disease	q:true	qid:Q1433	docId:6985498	origText:hepatic insufficiency syndrome	url:D048550
+CANDIDATE	id:48550	inCount:1	outCount:1	links:	url:D048550	name:Hepatic Insufficiency	normalName:hepatic insufficiency	normalWikiTitle:hepatic insufficiency	predictedType:Disease
+CANDIDATE	id:53306	inCount:2	outCount:2	links:	url:D053306	name:Hyper-IgM Immunodeficiency Syndrome	normalName:hyper-igm immunodeficiency syndrome	normalWikiTitle:hyper-igm immunodeficiency syndrome	predictedType:Disease
+CANDIDATE	id:1022	inCount:0	outCount:1	links:	url:D001022	name:Aortic Valve Insufficiency	normalName:aortic valve insufficiency	normalWikiTitle:aortic valve insufficiency	predictedType:Disease
+CANDIDATE	id:51436	inCount:1	outCount:1	links:	url:D051436	name:Renal Insufficiency, Chronic	normalName:renal insufficiency, chronic	normalWikiTitle:renal insufficiency, chronic	predictedType:Disease
+CANDIDATE	id:163	inCount:0	outCount:2	links:	url:D000163	name:Acquired Immunodeficiency Syndrome	normalName:acquired immunodeficiency syndrome	normalWikiTitle:acquired immunodeficiency syndrome	predictedType:Disease
+CANDIDATE	id:562717	inCount:0	outCount:1	links:	url:C562717	name:Rh Deficiency Syndrome	normalName:rh deficiency syndrome	normalWikiTitle:rh deficiency syndrome	predictedType:Disease
+CANDIDATE	id:51437	inCount:10	outCount:1	links:	url:D051437	name:Renal Insufficiency	normalName:renal insufficiency	normalWikiTitle:renal insufficiency	predictedType:Disease
+CANDIDATE	id:16181	inCount:0	outCount:3	links:	url:D016181	name:Feline Acquired Immunodeficiency Syndrome	normalName:feline acquired immunodeficiency syndrome	normalWikiTitle:feline acquired immunodeficiency syndrome	predictedType:Disease
+CANDIDATE	id:536830	inCount:0	outCount:1	links:	url:C536830	name:Glut1 Deficiency Syndrome	normalName:glut1 deficiency syndrome	normalWikiTitle:glut1 deficiency syndrome	predictedType:Disease
+CANDIDATE	id:53307	inCount:1	outCount:2	links:	url:D053307	name:Hyper-IgM Immunodeficiency Syndrome, Type 1	normalName:hyper-igm immunodeficiency syndrome, type 1	normalWikiTitle:hyper-igm immunodeficiency syndrome, type 1	predictedType:Disease
+ENTITY	text:acute cholecystitis	normalName:acute cholecystitis	predictedType:disease	q:true	qid:Q1433	docId:6985498	origText:acute cholecystitis	url:D041881
+CANDIDATE	id:41881	inCount:1	outCount:1	links:	url:D041881	name:Cholecystitis, Acute	normalName:cholecystitis, acute	normalWikiTitle:cholecystitis, acute	predictedType:Disease

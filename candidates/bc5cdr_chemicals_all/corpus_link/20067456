@@ -1,0 +1,21 @@
+ENTITY	text:bupropion	normalName:bupropion	predictedType:chemical	q:true	qid:Q1230	docId:20067456	origText:bupropion	url:D016642
+CANDIDATE	id:16642	inCount:7	outCount:1	links:	url:D016642	name:Bupropion	normalName:bupropion	normalWikiTitle:bupropion	predictedType:Chemical
+ENTITY	text:selective serotonin reuptake inhibitor	normalName:selective serotonin reuptake inhibitor	predictedType:chemical	q:true	qid:Q1230	docId:20067456	origText:selective serotonin reuptake inhibitor	url:D017367
+CANDIDATE	id:17367	inCount:0	outCount:2	links:	url:D017367	name:Reuptake Inhibitors, Serotonin	normalName:reuptake inhibitors, serotonin	normalWikiTitle:reuptake inhibitors, serotonin	predictedType:Chemical
+CANDIDATE	id:68760	inCount:0	outCount:1	links:	url:D000068760	name:Serotonin and Noradrenaline Reuptake Inhibitors	normalName:serotonin and noradrenaline reuptake inhibitors	normalWikiTitle:serotonin and noradrenaline reuptake inhibitors	predictedType:Chemical
+CANDIDATE	id:61479	inCount:0	outCount:1	links:	url:C061479	name:protein kinase inhibitor peptide	normalName:protein kinase inhibitor peptide	normalWikiTitle:protein kinase inhibitor peptide	predictedType:Chemical
+CANDIDATE	id:53481	inCount:5	outCount:1	links:	url:D053481	name:Secretory Leukocyte Peptidase Inhibitor	normalName:secretory leukocyte peptidase inhibitor	normalWikiTitle:secretory leukocyte peptidase inhibitor	predictedType:Chemical
+CANDIDATE	id:27509	inCount:0	outCount:1	links:	url:C027509	name:renin inhibitory peptide	normalName:renin inhibitory peptide	normalWikiTitle:renin inhibitory peptide	predictedType:Chemical
+CANDIDATE	id:15842	inCount:4	outCount:1	links:	url:D015842	name:Serine Proteinase Inhibitors	normalName:serine proteinase inhibitors	normalWikiTitle:serine proteinase inhibitors	predictedType:Chemical
+CANDIDATE	id:41553	inCount:0	outCount:1	links:	url:C041553	name:renin inhibitory peptide, statine	normalName:renin inhibitory peptide, statine	normalWikiTitle:renin inhibitory peptide, statine	predictedType:Chemical
+CANDIDATE	id:88339	inCount:0	outCount:1	links:	url:C088339	name:renin inhibitory peptide, R-PEP-27	normalName:renin inhibitory peptide, r-pep-27	normalWikiTitle:renin inhibitory peptide, r-pep-27	predictedType:Chemical
+CANDIDATE	id:17367	inCount:0	outCount:2	links:	url:D017367	name:Serotonin Uptake Inhibitors	normalName:serotonin uptake inhibitors	normalWikiTitle:serotonin uptake inhibitors	predictedType:Chemical
+CANDIDATE	id:597781	inCount:0	outCount:1	links:	url:C000597781	name:peptidase inhibitor 15 protein, rat	normalName:peptidase inhibitor 15 protein, rat	normalWikiTitle:peptidase inhibitor 15 protein, rat	predictedType:Chemical
+CANDIDATE	id:47428	inCount:1	outCount:1	links:	url:D047428	name:Protein Kinase Inhibitors	normalName:protein kinase inhibitors	normalWikiTitle:protein kinase inhibitors	predictedType:Chemical
+CANDIDATE	id:17367	inCount:0	outCount:2	links:	url:D017367	name:Selective Serotonin Reuptake Inhibitors	normalName:selective serotonin reuptake inhibitors	normalWikiTitle:selective serotonin reuptake inhibitors	predictedType:Chemical
+CANDIDATE	id:17367	inCount:0	outCount:2	links:	url:D017367	name:Inhibitors, Serotonin Reuptake	normalName:inhibitors, serotonin reuptake	normalWikiTitle:inhibitors, serotonin reuptake	predictedType:Chemical
+CANDIDATE	id:17367	inCount:0	outCount:2	links:	url:D017367	name:Serotonin Reuptake Inhibitors	normalName:serotonin reuptake inhibitors	normalWikiTitle:serotonin reuptake inhibitors	predictedType:Chemical
+CANDIDATE	id:53491	inCount:20	outCount:1	links:	url:D053491	name:Peptidase Inhibitory Peptides, Secretory	normalName:peptidase inhibitory peptides, secretory	normalWikiTitle:peptidase inhibitory peptides, secretory	predictedType:Chemical
+CANDIDATE	id:15843	inCount:94	outCount:2	links:	url:D015843	name:Inhibitors, Serpin Peptidase	normalName:inhibitors, serpin peptidase	normalWikiTitle:inhibitors, serpin peptidase	predictedType:Chemical
+CANDIDATE	id:15843	inCount:94	outCount:2	links:	url:D015843	name:Serpin Peptidase Inhibitors	normalName:serpin peptidase inhibitors	normalWikiTitle:serpin peptidase inhibitors	predictedType:Chemical
+CANDIDATE	id:15843	inCount:94	outCount:2	links:	url:D015843	name:Peptidase Inhibitors, Serpin	normalName:peptidase inhibitors, serpin	normalWikiTitle:peptidase inhibitors, serpin	predictedType:Chemical

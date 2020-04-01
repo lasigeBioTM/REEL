@@ -1,0 +1,15 @@
+ENTITY	text:albuminuria	normalName:albuminuria	predictedType:disease	q:true	qid:Q62	docId:7066357	origText:albuminuria	url:D000419
+CANDIDATE	id:419	inCount:0	outCount:1	links:	url:D000419	name:Albuminuria	normalName:albuminuria	normalWikiTitle:albuminuria	predictedType:Disease
+ENTITY	text:nephrotic syndrome	normalName:nephrotic syndrome	predictedType:disease	q:true	qid:Q62	docId:7066357	origText:nephrotic syndrome	url:D009404
+CANDIDATE	id:9404	inCount:23	outCount:1	links:9404;9401	url:D009404	name:Nephrotic Syndrome	normalName:nephrotic syndrome	normalWikiTitle:nephrotic syndrome	predictedType:Disease
+ENTITY	text:nephrotic	normalName:nephrotic	predictedType:disease	q:true	qid:Q62	docId:7066357	origText:nephrotic	url:D009404
+CANDIDATE	id:9404	inCount:23	outCount:1	links:9404;9401	url:D009404	name:Nephrotic Syndrome	normalName:nephrotic syndrome	normalWikiTitle:nephrotic syndrome	predictedType:Disease
+CANDIDATE	id:9401	inCount:8	outCount:1	links:9404	url:D009401	name:Nephrosis	normalName:nephrosis	normalWikiTitle:nephrosis	predictedType:Disease
+CANDIDATE	id:9393	inCount:10	outCount:1	links:	url:D009393	name:Nephritis	normalName:nephritis	normalWikiTitle:nephritis	predictedType:Disease
+CANDIDATE	id:53018	inCount:0	outCount:1	links:	url:D053018	name:Pyonephrosis	normalName:pyonephrosis	normalWikiTitle:pyonephrosis	predictedType:Disease
+CANDIDATE	id:53040	inCount:9	outCount:2	links:	url:D053040	name:Nephrolithiasis	normalName:nephrolithiasis	normalWikiTitle:nephrolithiasis	predictedType:Disease
+CANDIDATE	id:10501	inCount:0	outCount:1	links:	url:D010501	name:Perinephritis	normalName:perinephritis	normalWikiTitle:perinephritis	predictedType:Disease
+CANDIDATE	id:1763	inCount:24	outCount:1	links:	url:D001763	name:Blepharoptosis	normalName:blepharoptosis	normalWikiTitle:blepharoptosis	predictedType:Disease
+CANDIDATE	id:6869	inCount:5	outCount:1	links:	url:D006869	name:Hydronephrosis	normalName:hydronephrosis	normalWikiTitle:hydronephrosis	predictedType:Disease
+CANDIDATE	id:11704	inCount:1	outCount:2	links:	url:D011704	name:Pyelonephritis	normalName:pyelonephritis	normalWikiTitle:pyelonephritis	predictedType:Disease
+CANDIDATE	id:9902	inCount:1	outCount:1	links:	url:D009902	name:Optic Neuritis	normalName:optic neuritis	normalWikiTitle:optic neuritis	predictedType:Disease

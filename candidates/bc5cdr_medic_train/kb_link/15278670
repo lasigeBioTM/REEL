@@ -1,0 +1,50 @@
+ENTITY	text:convulsive	normalName:convulsive	predictedType:disease	q:true	qid:Q456	docId:15278670	origText:convulsive	url:D012640
+CANDIDATE	id:12640	inCount:53	outCount:1	links:12640	url:D012640	name:Convulsive Seizure	normalName:convulsive seizure	normalWikiTitle:convulsive seizure	predictedType:Disease
+CANDIDATE	id:3221	inCount:2	outCount:1	links:	url:D003221	name:Confusion	normalName:confusion	normalWikiTitle:confusion	predictedType:Disease
+CANDIDATE	id:3289	inCount:0	outCount:1	links:	url:D003289	name:Convalescence	normalName:convalescence	normalWikiTitle:convalescence	predictedType:Disease
+CANDIDATE	id:3288	inCount:2	outCount:1	links:	url:D003288	name:Contusions	normalName:contusions	normalWikiTitle:contusions	predictedType:Disease
+CANDIDATE	id:7331	inCount:0	outCount:2	links:	url:D007331	name:Insulin Coma	normalName:insulin coma	normalWikiTitle:insulin coma	predictedType:Disease
+CANDIDATE	id:9207	inCount:11	outCount:1	links:	url:D009207	name:Myoclonus	normalName:myoclonus	normalWikiTitle:myoclonus	predictedType:Disease
+CANDIDATE	id:9506	inCount:10	outCount:1	links:	url:D009506	name:Nevus	normalName:nevus	normalWikiTitle:nevus	predictedType:Disease
+CANDIDATE	id:12600	inCount:24	outCount:1	links:	url:D012600	name:Scoliosis	normalName:scoliosis	normalWikiTitle:scoliosis	predictedType:Disease
+CANDIDATE	id:3085	inCount:0	outCount:1	links:	url:D003085	name:Colic	normalName:colic	normalWikiTitle:colic	predictedType:Disease
+CANDIDATE	id:71697	inCount:0	outCount:1	links:	url:D000071697	name:Cellulite	normalName:cellulite	normalWikiTitle:cellulite	predictedType:Disease
+CANDIDATE	id:152	inCount:4	outCount:2	links:	url:D000152	name:Acne Vulgaris	normalName:acne vulgaris	normalWikiTitle:acne vulgaris	predictedType:Disease
+CANDIDATE	id:12640	inCount:53	outCount:1	links:12640	url:D012640	name:Convulsion	normalName:convulsion	normalWikiTitle:convulsion	predictedType:Disease
+CANDIDATE	id:3294	inCount:24	outCount:1	links:	url:D003294	name:Fever Convulsion	normalName:fever convulsion	normalWikiTitle:fever convulsion	predictedType:Disease
+CANDIDATE	id:3294	inCount:24	outCount:1	links:	url:D003294	name:Convulsion, Fever	normalName:convulsion, fever	normalWikiTitle:convulsion, fever	predictedType:Disease
+CANDIDATE	id:12640	inCount:53	outCount:1	links:12640	url:D012640	name:Convulsions	normalName:convulsions	normalWikiTitle:convulsions	predictedType:Disease
+CANDIDATE	id:3294	inCount:24	outCount:1	links:	url:D003294	name:Convulsions, Fever	normalName:convulsions, fever	normalWikiTitle:convulsions, fever	predictedType:Disease
+CANDIDATE	id:3294	inCount:24	outCount:1	links:	url:D003294	name:Fever Convulsions	normalName:fever convulsions	normalWikiTitle:fever convulsions	predictedType:Disease
+CANDIDATE	id:12640	inCount:53	outCount:1	links:12640	url:D012640	name:Seizure, Convulsive	normalName:seizure, convulsive	normalWikiTitle:seizure, convulsive	predictedType:Disease
+CANDIDATE	id:13575	inCount:2	outCount:1	links:	url:D013575	name:Syncope, Convulsive	normalName:syncope, convulsive	normalWikiTitle:syncope, convulsive	predictedType:Disease
+CANDIDATE	id:13575	inCount:2	outCount:1	links:	url:D013575	name:Convulsive Syncope	normalName:convulsive syncope	normalWikiTitle:convulsive syncope	predictedType:Disease
+ENTITY	text:depression	normalName:depression	predictedType:disease	q:true	qid:Q456	docId:15278670	origText:depression	url:D003866
+CANDIDATE	id:3866	inCount:6	outCount:1	links:	url:D003866	name:Depressive Disorder	normalName:depressive disorder	normalWikiTitle:depressive disorder	predictedType:Disease
+CANDIDATE	id:18450	inCount:2	outCount:1	links:	url:D018450	name:Disease Progression	normalName:disease progression	normalWikiTitle:disease progression	predictedType:Disease
+CANDIDATE	id:19052	inCount:0	outCount:2	links:	url:D019052	name:Depression, Postpartum	normalName:depression, postpartum	normalWikiTitle:depression, postpartum	predictedType:Disease
+CANDIDATE	id:146850	inCount:0	outCount:2	links:	url:146850	name:IMMUNE SUPPRESSION	normalName:immune suppression	normalWikiTitle:immune suppression	predictedType:Disease
+CANDIDATE	id:6973	inCount:18	outCount:1	links:	url:D006973	name:Hypertension	normalName:hypertension	normalWikiTitle:hypertension	predictedType:Disease
+CANDIDATE	id:58246	inCount:0	outCount:1	links:	url:D058246	name:Prehypertension	normalName:prehypertension	normalWikiTitle:prehypertension	predictedType:Disease
+CANDIDATE	id:14786	inCount:19	outCount:2	links:	url:D014786	name:Vision Disorders	normalName:vision disorders	normalWikiTitle:vision disorders	predictedType:Disease
+CANDIDATE	id:3665	inCount:0	outCount:1	links:	url:D003665	name:Decompression Sickness	normalName:decompression sickness	normalWikiTitle:decompression sickness	predictedType:Disease
+CANDIDATE	id:12871	inCount:71	outCount:1	links:	url:D012871	name:Skin Diseases	normalName:skin diseases	normalWikiTitle:skin diseases	predictedType:Disease
+CANDIDATE	id:4688	inCount:1	outCount:2	links:	url:D004688	name:Encopresis	normalName:encopresis	normalWikiTitle:encopresis	predictedType:Disease
+CANDIDATE	id:1714	inCount:11	outCount:1	links:	url:D001714	name:Depression, Bipolar	normalName:depression, bipolar	normalWikiTitle:depression, bipolar	predictedType:Disease
+CANDIDATE	id:1714	inCount:11	outCount:1	links:	url:D001714	name:Bipolar Depression	normalName:bipolar depression	normalWikiTitle:bipolar depression	predictedType:Disease
+ENTITY	text:convulsions	normalName:convulsions	predictedType:disease	q:true	qid:Q456	docId:15278670	origText:convulsions	url:D012640
+CANDIDATE	id:12640	inCount:53	outCount:1	links:12640	url:D012640	name:Convulsion	normalName:convulsion	normalWikiTitle:convulsion	predictedType:Disease
+ENTITY	text:toxicity	normalName:toxicity	predictedType:disease	q:true	qid:Q456	docId:15278670	origText:toxicity	url:D064420
+CANDIDATE	id:64420	inCount:10	outCount:1	links:	url:D064420	name:Drug Toxicity	normalName:drug toxicity	normalWikiTitle:drug toxicity	predictedType:Disease
+CANDIDATE	id:66126	inCount:0	outCount:3	links:	url:D066126	name:Cardiotoxicity	normalName:cardiotoxicity	normalWikiTitle:cardiotoxicity	predictedType:Disease
+CANDIDATE	id:15651	inCount:2	outCount:1	links:	url:D015651	name:Mycotoxicosis	normalName:mycotoxicosis	normalWikiTitle:mycotoxicosis	predictedType:Disease
+CANDIDATE	id:13971	inCount:2	outCount:1	links:	url:D013971	name:Thyrotoxicosis	normalName:thyrotoxicosis	normalWikiTitle:thyrotoxicosis	predictedType:Disease
+CANDIDATE	id:14869	inCount:0	outCount:2	links:	url:D014869	name:Water Intoxication	normalName:water intoxication	normalWikiTitle:water intoxication	predictedType:Disease
+CANDIDATE	id:14103	inCount:4	outCount:2	links:	url:D014103	name:Torticollis	normalName:torticollis	normalWikiTitle:torticollis	predictedType:Disease
+CANDIDATE	id:9765	inCount:42	outCount:2	links:	url:D009765	name:Obesity	normalName:obesity	normalWikiTitle:obesity	predictedType:Disease
+CANDIDATE	id:14115	inCount:1	outCount:1	links:	url:D014115	name:Toxemia	normalName:toxemia	normalWikiTitle:toxemia	predictedType:Disease
+CANDIDATE	id:7246	inCount:2	outCount:2	links:	url:D007246	name:Infertility	normalName:infertility	normalWikiTitle:infertility	predictedType:Disease
+CANDIDATE	id:20234	inCount:0	outCount:2	links:	url:D020234	name:Gait Ataxia	normalName:gait ataxia	normalWikiTitle:gait ataxia	predictedType:Disease
+CANDIDATE	id:14069	inCount:1	outCount:1	links:	url:D014069	name:Tonsillitis	normalName:tonsillitis	normalWikiTitle:tonsillitis	predictedType:Disease
+CANDIDATE	id:64420	inCount:10	outCount:1	links:	url:D064420	name:Toxicity, Drug	normalName:toxicity, drug	normalWikiTitle:toxicity, drug	predictedType:Disease
+CANDIDATE	id:17484	inCount:0	outCount:2	links:	url:D017484	name:Phototoxicity	normalName:phototoxicity	normalWikiTitle:phototoxicity	predictedType:Disease

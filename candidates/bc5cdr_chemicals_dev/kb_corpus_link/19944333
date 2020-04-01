@@ -1,0 +1,13 @@
+ENTITY	text:nicorandil	normalName:nicorandil	predictedType:chemical	q:true	qid:Q353	docId:19944333	origText:nicorandil	url:D020108
+CANDIDATE	id:20108	inCount:0	outCount:2	links:	url:D020108	name:Nicorandil	normalName:nicorandil	normalWikiTitle:nicorandil	predictedType:Chemical
+ENTITY	text:nitrates	normalName:nitrates	predictedType:chemical	q:true	qid:Q353	docId:19944333	origText:nitrates	url:D009566
+CANDIDATE	id:9566	inCount:116	outCount:3	links:	url:D009566	name:Nitrates	normalName:nitrates	normalWikiTitle:nitrates	predictedType:Chemical
+CANDIDATE	id:9573	inCount:21	outCount:3	links:	url:D009573	name:Nitrites	normalName:nitrites	normalWikiTitle:nitrites	predictedType:Chemical
+CANDIDATE	id:2951	inCount:97	outCount:1	links:	url:D002951	name:Citrates	normalName:citrates	normalWikiTitle:citrates	predictedType:Chemical
+CANDIDATE	id:5873	inCount:0	outCount:2	links:	url:C005873	name:trolnitrate	normalName:trolnitrate	normalWikiTitle:trolnitrate	predictedType:Chemical
+CANDIDATE	id:9545	inCount:0	outCount:2	links:	url:D009545	name:Nifuratel	normalName:nifuratel	normalWikiTitle:nifuratel	predictedType:Chemical
+CANDIDATE	id:15384	inCount:0	outCount:2	links:	url:C015384	name:nitramine	normalName:nitramine	normalWikiTitle:nitramine	predictedType:Chemical
+CANDIDATE	id:530477	inCount:0	outCount:2	links:	url:C530477	name:urea nitrate	normalName:urea nitrate	normalWikiTitle:urea nitrate	predictedType:Chemical
+CANDIDATE	id:17461	inCount:0	outCount:2	links:	url:C017461	name:lead nitrate	normalName:lead nitrate	normalWikiTitle:lead nitrate	predictedType:Chemical
+CANDIDATE	id:11042	inCount:0	outCount:2	links:	url:C011042	name:nitroscanate	normalName:nitroscanate	normalWikiTitle:nitroscanate	predictedType:Chemical
+CANDIDATE	id:36285	inCount:0	outCount:2	links:	url:C036285	name:amyl nitrate	normalName:amyl nitrate	normalWikiTitle:amyl nitrate	predictedType:Chemical

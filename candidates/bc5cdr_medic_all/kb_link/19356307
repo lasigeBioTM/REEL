@@ -1,0 +1,37 @@
+ENTITY	text:dementia	normalName:dementia	predictedType:disease	q:true	qid:Q804	docId:19356307	origText:dementia	url:D003704
+CANDIDATE	id:3704	inCount:25	outCount:2	links:	url:D003704	name:Dementia	normalName:dementia	normalWikiTitle:dementia	predictedType:Disease
+ENTITY	text:deficit of associative memory	normalName:deficit of associative memory	predictedType:disease	q:true	qid:Q804	docId:19356307	origText:deficit of associative memory	url:D008569
+CANDIDATE	id:8569	inCount:2	outCount:1	links:8569	url:D008569	name:Deficits, Memory	normalName:deficits, memory	normalWikiTitle:deficits, memory	predictedType:Disease
+CANDIDATE	id:536495	inCount:0	outCount:2	links:	url:C536495	name:VACTERL association	normalName:vacterl association	normalWikiTitle:vacterl association	predictedType:Disease
+CANDIDATE	id:537436	inCount:0	outCount:4	links:	url:C537436	name:Aromatase deficiency	normalName:aromatase deficiency	normalWikiTitle:aromatase deficiency	predictedType:Disease
+CANDIDATE	id:536534	inCount:0	outCount:2	links:	url:C536534	name:VATER association	normalName:vater association	normalWikiTitle:vater association	predictedType:Disease
+CANDIDATE	id:5494	inCount:1	outCount:1	links:	url:D005494	name:Folic Acid Deficiency	normalName:folic acid deficiency	normalWikiTitle:folic acid deficiency	predictedType:Disease
+CANDIDATE	id:536006	inCount:0	outCount:1	links:	url:C536006	name:Acetylcarnitine deficiency	normalName:acetylcarnitine deficiency	normalWikiTitle:acetylcarnitine deficiency	predictedType:Disease
+CANDIDATE	id:538235	inCount:0	outCount:2	links:	url:C538235	name:Adenylosuccinate lyase deficiency	normalName:adenylosuccinate lyase deficiency	normalWikiTitle:adenylosuccinate lyase deficiency	predictedType:Disease
+CANDIDATE	id:18798	inCount:1	outCount:2	links:	url:D018798	name:Anemia, Iron-Deficiency	normalName:anemia, iron-deficiency	normalWikiTitle:anemia, iron-deficiency	predictedType:Disease
+CANDIDATE	id:9105	inCount:0	outCount:1	links:	url:D009105	name:Dissociative Identity Disorder	normalName:dissociative identity disorder	normalWikiTitle:dissociative identity disorder	predictedType:Disease
+CANDIDATE	id:536100	inCount:0	outCount:1	links:	url:C536100	name:Myopathic carnitine deficiency	normalName:myopathic carnitine deficiency	normalWikiTitle:myopathic carnitine deficiency	predictedType:Disease
+CANDIDATE	id:536392	inCount:0	outCount:1	links:	url:C536392	name:Factor 8 deficiency, acquired	normalName:factor 8 deficiency, acquired	normalWikiTitle:factor 8 deficiency, acquired	predictedType:Disease
+CANDIDATE	id:8569	inCount:2	outCount:1	links:8569	url:D008569	name:Memory Deficit	normalName:memory deficit	normalWikiTitle:memory deficit	predictedType:Disease
+CANDIDATE	id:8569	inCount:2	outCount:1	links:8569	url:D008569	name:Deficit, Memory	normalName:deficit, memory	normalWikiTitle:deficit, memory	predictedType:Disease
+CANDIDATE	id:8569	inCount:2	outCount:1	links:8569	url:D008569	name:Memory Deficits	normalName:memory deficits	normalWikiTitle:memory deficits	predictedType:Disease
+CANDIDATE	id:536411	inCount:0	outCount:1	links:	url:C536411	name:Deficiency of Cathepsin A	normalName:deficiency of cathepsin a	normalWikiTitle:deficiency of cathepsin a	predictedType:Disease
+CANDIDATE	id:536411	inCount:0	outCount:1	links:	url:C536411	name:Cathepsin A, deficiency of	normalName:cathepsin a, deficiency of	normalWikiTitle:cathepsin a, deficiency of	predictedType:Disease
+CANDIDATE	id:536722	inCount:0	outCount:1	links:	url:C536722	name:Zeta-associated-protein 70 deficiency	normalName:zeta-associated-protein 70 deficiency	normalWikiTitle:zeta-associated-protein 70 deficiency	predictedType:Disease
+CANDIDATE	id:536722	inCount:0	outCount:1	links:	url:C536722	name:Zeta-Associated Protein 70 Deficiency	normalName:zeta-associated protein 70 deficiency	normalWikiTitle:zeta-associated protein 70 deficiency	predictedType:Disease
+CANDIDATE	id:4213	inCount:1	outCount:1	links:	url:D004213	name:Dissociative Reaction	normalName:dissociative reaction	normalWikiTitle:dissociative reaction	predictedType:Disease
+CANDIDATE	id:72716	inCount:0	outCount:1	links:	url:D000072716	name:Pain, Tumor-Associated	normalName:pain, tumor-associated	normalWikiTitle:pain, tumor-associated	predictedType:Disease
+ENTITY	text:memory impaired	normalName:memory impaired	predictedType:disease	q:true	qid:Q804	docId:19356307	origText:memory impaired	url:D008569
+CANDIDATE	id:8569	inCount:2	outCount:1	links:8569	url:D008569	name:Memory Disorder	normalName:memory disorder	normalWikiTitle:memory disorder	predictedType:Disease
+CANDIDATE	id:8569	inCount:2	outCount:1	links:8569	url:D008569	name:Memory Disorders	normalName:memory disorders	normalWikiTitle:memory disorders	predictedType:Disease
+CANDIDATE	id:18200	inCount:0	outCount:1	links:	url:D018200	name:Mixed Tumor, Mullerian	normalName:mixed tumor, mullerian	normalWikiTitle:mixed tumor, mullerian	predictedType:Disease
+CANDIDATE	id:14095	inCount:0	outCount:1	links:	url:D014095	name:Tooth, Impacted	normalName:tooth, impacted	normalWikiTitle:tooth, impacted	predictedType:Disease
+CANDIDATE	id:10211	inCount:0	outCount:1	links:	url:D010211	name:Papilledema	normalName:papilledema	normalWikiTitle:papilledema	predictedType:Disease
+CANDIDATE	id:19773	inCount:0	outCount:1	links:	url:D019773	name:Epiretinal Membrane	normalName:epiretinal membrane	normalWikiTitle:epiretinal membrane	predictedType:Disease
+CANDIDATE	id:11017	inCount:0	outCount:1	links:	url:D011017	name:Pneumonia, Lipid	normalName:pneumonia, lipid	normalWikiTitle:pneumonia, lipid	predictedType:Disease
+CANDIDATE	id:45745	inCount:1	outCount:1	links:	url:D045745	name:Scleroderma, Limited	normalName:scleroderma, limited	normalWikiTitle:scleroderma, limited	predictedType:Disease
+CANDIDATE	id:1714	inCount:11	outCount:1	links:	url:D001714	name:Bipolar Disorder	normalName:bipolar disorder	normalWikiTitle:bipolar disorder	predictedType:Disease
+CANDIDATE	id:65134	inCount:0	outCount:1	links:	url:D065134	name:Lipedema	normalName:lipedema	normalWikiTitle:lipedema	predictedType:Disease
+CANDIDATE	id:57873	inCount:0	outCount:1	links:	url:D057873	name:Peri-Implantitis	normalName:peri-implantitis	normalWikiTitle:peri-implantitis	predictedType:Disease
+CANDIDATE	id:6987	inCount:1	outCount:1	links:	url:D006987	name:Impaired Sensation	normalName:impaired sensation	normalWikiTitle:impaired sensation	predictedType:Disease
+CANDIDATE	id:6987	inCount:1	outCount:1	links:	url:D006987	name:Sensation, Impaired	normalName:sensation, impaired	normalWikiTitle:sensation, impaired	predictedType:Disease

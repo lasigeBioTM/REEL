@@ -1,0 +1,6 @@
+ENTITY	text:sodium	normalName:sodium	predictedType:chemical	q:true	qid:Q982	docId:12481039	origText:sodium	url:D012964
+CANDIDATE	id:12964	inCount:10	outCount:2	links:	url:D012964	name:Sodium	normalName:sodium	normalWikiTitle:sodium	predictedType:Chemical
+ENTITY	text:saxitoxin	normalName:saxitoxin	predictedType:chemical	q:true	qid:Q982	docId:12481039	origText:saxitoxin	url:D012530
+CANDIDATE	id:12530	inCount:14	outCount:2	links:	url:D012530	name:Saxitoxin	normalName:saxitoxin	normalWikiTitle:saxitoxin	predictedType:Chemical
+ENTITY	text:pilocarpine	normalName:pilocarpine	predictedType:chemical	q:true	qid:Q982	docId:12481039	origText:pilocarpine	url:D010862
+CANDIDATE	id:10862	inCount:7	outCount:1	links:	url:D010862	name:Pilocarpine	normalName:pilocarpine	normalWikiTitle:pilocarpine	predictedType:Chemical

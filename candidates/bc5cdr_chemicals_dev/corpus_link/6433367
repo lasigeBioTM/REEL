@@ -1,0 +1,62 @@
+ENTITY	text:Ibuprofen	normalName:ibuprofen	predictedType:chemical	q:true	qid:Q277	docId:6433367	origText:Ibuprofen	url:D007052
+CANDIDATE	id:7052	inCount:34	outCount:1	links:	url:D007052	name:Ibuprofen	normalName:ibuprofen	normalWikiTitle:ibuprofen	predictedType:Chemical
+ENTITY	text:bicuculline	normalName:bicuculline	predictedType:chemical	q:true	qid:Q277	docId:6433367	origText:bicuculline	url:D001640
+CANDIDATE	id:1640	inCount:4	outCount:1	links:10433;10852;5481	url:D001640	name:Bicuculline	normalName:bicuculline	normalWikiTitle:bicuculline	predictedType:Chemical
+ENTITY	text:sulindac	normalName:sulindac	predictedType:chemical	q:true	qid:Q277	docId:6433367	origText:sulindac	url:D013467
+CANDIDATE	id:13467	inCount:12	outCount:1	links:	url:D013467	name:Sulindac	normalName:sulindac	normalWikiTitle:sulindac	predictedType:Chemical
+ENTITY	text:pentetrazol	normalName:pentetrazol	predictedType:chemical	q:true	qid:Q277	docId:6433367	origText:pentetrazol	url:D010433
+CANDIDATE	id:10433	inCount:2	outCount:1	links:10852;1640;5481	url:D010433	name:Pentazol	normalName:pentazol	normalWikiTitle:pentazol	predictedType:Chemical
+CANDIDATE	id:3110	inCount:0	outCount:1	links:	url:C003110	name:phenyltetrazolium	normalName:phenyltetrazolium	normalWikiTitle:phenyltetrazolium	predictedType:Chemical
+CANDIDATE	id:10433	inCount:2	outCount:1	links:10852;1640;5481	url:D010433	name:Pentylenetetrazole	normalName:pentylenetetrazole	normalWikiTitle:pentylenetetrazole	predictedType:Chemical
+CANDIDATE	id:43879	inCount:0	outCount:1	links:	url:C043879	name:phenestrol	normalName:phenestrol	normalWikiTitle:phenestrol	predictedType:Chemical
+CANDIDATE	id:13777	inCount:303	outCount:1	links:	url:D013777	name:Tetrazoles	normalName:tetrazoles	normalWikiTitle:tetrazoles	predictedType:Chemical
+CANDIDATE	id:583264	inCount:0	outCount:2	links:	url:C583264	name:mapenterol	normalName:mapenterol	normalWikiTitle:mapenterol	predictedType:Chemical
+CANDIDATE	id:93430	inCount:0	outCount:1	links:	url:C093430	name:penasterol	normalName:penasterol	normalWikiTitle:penasterol	predictedType:Chemical
+CANDIDATE	id:19106	inCount:0	outCount:1	links:	url:C019106	name:tetralol	normalName:tetralol	normalWikiTitle:tetralol	predictedType:Chemical
+CANDIDATE	id:4953	inCount:1	outCount:1	links:	url:D004953	name:Estetrol	normalName:estetrol	normalWikiTitle:estetrol	predictedType:Chemical
+CANDIDATE	id:12473	inCount:0	outCount:1	links:	url:C012473	name:Penberol	normalName:penberol	normalWikiTitle:penberol	predictedType:Chemical
+CANDIDATE	id:11294	inCount:1	outCount:1	links:	url:D011294	name:Prenalterol	normalName:prenalterol	normalWikiTitle:prenalterol	predictedType:Chemical
+CANDIDATE	id:10433	inCount:2	outCount:1	links:10852;1640;5481	url:D010433	name:Pentetrazole	normalName:pentetrazole	normalWikiTitle:pentetrazole	predictedType:Chemical
+CANDIDATE	id:45574	inCount:0	outCount:1	links:	url:C045574	name:tetrazole	normalName:tetrazole	normalWikiTitle:tetrazole	predictedType:Chemical
+ENTITY	text:meclofenamic acid	normalName:meclofenamic acid	predictedType:chemical	q:true	qid:Q277	docId:6433367	origText:meclofenamic acid	url:D008469
+CANDIDATE	id:8469	inCount:1	outCount:1	links:	url:D008469	name:Meclofenamic Acid	normalName:meclofenamic acid	normalWikiTitle:meclofenamic acid	predictedType:Chemical
+ENTITY	text:picrotoxin	normalName:picrotoxin	predictedType:chemical	q:true	qid:Q277	docId:6433367	origText:picrotoxin	url:D010852
+CANDIDATE	id:10852	inCount:7	outCount:2	links:10433;1640;5481	url:D010852	name:Picrotoxin	normalName:picrotoxin	normalWikiTitle:picrotoxin	predictedType:Chemical
+ENTITY	text:fluorthyl	normalName:fluorthyl	predictedType:chemical	q:true	qid:Q277	docId:6433367	origText:fluorthyl	url:D005481
+CANDIDATE	id:5481	inCount:1	outCount:1	links:10433;1640;10852	url:D005481	name:Fluorothyl	normalName:fluorothyl	normalWikiTitle:fluorothyl	predictedType:Chemical
+CANDIDATE	id:5481	inCount:1	outCount:1	links:10433;1640;10852	url:D005481	name:Flurothyl	normalName:flurothyl	normalWikiTitle:flurothyl	predictedType:Chemical
+CANDIDATE	id:1226	inCount:0	outCount:1	links:	url:C001226	name:fluenethyl	normalName:fluenethyl	normalWikiTitle:fluenethyl	predictedType:Chemical
+CANDIDATE	id:92759	inCount:0	outCount:1	links:	url:C092759	name:fluorobutynol	normalName:fluorobutynol	normalWikiTitle:fluorobutynol	predictedType:Chemical
+CANDIDATE	id:528737	inCount:0	outCount:1	links:	url:C528737	name:flumorph	normalName:flumorph	normalWikiTitle:flumorph	predictedType:Chemical
+CANDIDATE	id:551950	inCount:0	outCount:2	links:	url:C551950	name:fluorastrol	normalName:fluorastrol	normalWikiTitle:fluorastrol	predictedType:Chemical
+CANDIDATE	id:533928	inCount:0	outCount:1	links:	url:C533928	name:difluoroethyne	normalName:difluoroethyne	normalWikiTitle:difluoroethyne	predictedType:Chemical
+CANDIDATE	id:10456	inCount:0	outCount:1	links:	url:C010456	name:fluorethrin	normalName:fluorethrin	normalWikiTitle:fluorethrin	predictedType:Chemical
+CANDIDATE	id:28097	inCount:0	outCount:2	links:	url:C028097	name:fluocaril	normalName:fluocaril	normalWikiTitle:fluocaril	predictedType:Chemical
+CANDIDATE	id:7738	inCount:0	outCount:1	links:	url:C007738	name:fluoranthene	normalName:fluoranthene	normalWikiTitle:fluoranthene	predictedType:Chemical
+CANDIDATE	id:111636	inCount:0	outCount:1	links:	url:C111636	name:fluorasol	normalName:fluorasol	normalWikiTitle:fluorasol	predictedType:Chemical
+ENTITY	text:prostaglandins	normalName:prostaglandins	predictedType:chemical	q:true	qid:Q277	docId:6433367	origText:prostaglandins	url:D011453
+CANDIDATE	id:11453	inCount:31	outCount:1	links:	url:D011453	name:Prostaglandins	normalName:prostaglandins	normalWikiTitle:prostaglandins	predictedType:Chemical
+CANDIDATE	id:11454	inCount:15	outCount:1	links:	url:D011454	name:Prostaglandins A	normalName:prostaglandins a	normalWikiTitle:prostaglandins a	predictedType:Chemical
+CANDIDATE	id:11458	inCount:10	outCount:1	links:	url:D011458	name:Prostaglandins E	normalName:prostaglandins e	normalWikiTitle:prostaglandins e	predictedType:Chemical
+CANDIDATE	id:11456	inCount:9	outCount:1	links:	url:D011456	name:Prostaglandins B	normalName:prostaglandins b	normalWikiTitle:prostaglandins b	predictedType:Chemical
+CANDIDATE	id:100573	inCount:0	outCount:1	links:	url:C100573	name:prostaglandin A1	normalName:prostaglandin a1	normalWikiTitle:prostaglandin a1	predictedType:Chemical
+CANDIDATE	id:11457	inCount:7	outCount:1	links:	url:D011457	name:Prostaglandins D	normalName:prostaglandins d	normalWikiTitle:prostaglandins d	predictedType:Chemical
+CANDIDATE	id:11463	inCount:7	outCount:1	links:	url:D011463	name:Prostaglandins H	normalName:prostaglandins h	normalWikiTitle:prostaglandins h	predictedType:Chemical
+CANDIDATE	id:33246	inCount:0	outCount:1	links:	url:C033246	name:prostaglandin E3	normalName:prostaglandin e3	normalWikiTitle:prostaglandin e3	predictedType:Chemical
+CANDIDATE	id:15230	inCount:18	outCount:1	links:	url:D015230	name:Prostaglandin D2	normalName:prostaglandin d2	normalWikiTitle:prostaglandin d2	predictedType:Chemical
+CANDIDATE	id:44262	inCount:4	outCount:1	links:	url:D044262	name:Prostaglandin H2	normalName:prostaglandin h2	normalWikiTitle:prostaglandin h2	predictedType:Chemical
+ENTITY	text:flurothyl	normalName:flurothyl	predictedType:chemical	q:true	qid:Q277	docId:6433367	origText:flurothyl	url:D005481
+CANDIDATE	id:5481	inCount:1	outCount:1	links:10433;1640;10852	url:D005481	name:Flurothyl	normalName:flurothyl	normalWikiTitle:flurothyl	predictedType:Chemical
+ENTITY	text:prostaglandin	normalName:prostaglandin	predictedType:chemical	q:true	qid:Q277	docId:6433367	origText:prostaglandin	url:D011453
+CANDIDATE	id:11453	inCount:31	outCount:1	links:	url:D011453	name:Prostaglandins	normalName:prostaglandins	normalWikiTitle:prostaglandins	predictedType:Chemical
+CANDIDATE	id:11454	inCount:15	outCount:1	links:	url:D011454	name:Prostaglandins A	normalName:prostaglandins a	normalWikiTitle:prostaglandins a	predictedType:Chemical
+CANDIDATE	id:11458	inCount:10	outCount:1	links:	url:D011458	name:Prostaglandins E	normalName:prostaglandins e	normalWikiTitle:prostaglandins e	predictedType:Chemical
+CANDIDATE	id:11456	inCount:9	outCount:1	links:	url:D011456	name:Prostaglandins B	normalName:prostaglandins b	normalWikiTitle:prostaglandins b	predictedType:Chemical
+CANDIDATE	id:100573	inCount:0	outCount:1	links:	url:C100573	name:prostaglandin A1	normalName:prostaglandin a1	normalWikiTitle:prostaglandin a1	predictedType:Chemical
+CANDIDATE	id:11457	inCount:7	outCount:1	links:	url:D011457	name:Prostaglandins D	normalName:prostaglandins d	normalWikiTitle:prostaglandins d	predictedType:Chemical
+CANDIDATE	id:11463	inCount:7	outCount:1	links:	url:D011463	name:Prostaglandins H	normalName:prostaglandins h	normalWikiTitle:prostaglandins h	predictedType:Chemical
+CANDIDATE	id:33246	inCount:0	outCount:1	links:	url:C033246	name:prostaglandin E3	normalName:prostaglandin e3	normalWikiTitle:prostaglandin e3	predictedType:Chemical
+CANDIDATE	id:15230	inCount:18	outCount:1	links:	url:D015230	name:Prostaglandin D2	normalName:prostaglandin d2	normalWikiTitle:prostaglandin d2	predictedType:Chemical
+CANDIDATE	id:44262	inCount:4	outCount:1	links:	url:D044262	name:Prostaglandin H2	normalName:prostaglandin h2	normalWikiTitle:prostaglandin h2	predictedType:Chemical
+ENTITY	text:mefenamic acid	normalName:mefenamic acid	predictedType:chemical	q:true	qid:Q277	docId:6433367	origText:mefenamic acid	url:D008528
+CANDIDATE	id:8528	inCount:5	outCount:1	links:	url:D008528	name:Mefenamic Acid	normalName:mefenamic acid	normalWikiTitle:mefenamic acid	predictedType:Chemical

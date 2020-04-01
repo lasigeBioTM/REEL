@@ -1,0 +1,37 @@
+ENTITY	text:Epstein Barr Virus infection	normalName:epstein barr virus infection	predictedType:disease	q:true	qid:Q579	docId:6310832	origText:Epstein Barr Virus infection	url:D020031
+CANDIDATE	id:20031	inCount:4	outCount:2	links:	url:D020031	name:Epstein-Barr Virus Infection	normalName:epstein-barr virus infection	normalWikiTitle:epstein-barr virus infection	predictedType:Disease
+ENTITY	text:lymphoma	normalName:lymphoma	predictedType:disease	q:true	qid:Q579	docId:6310832	origText:lymphoma	url:D008223
+CANDIDATE	id:8223	inCount:8	outCount:2	links:	url:D008223	name:Lymphoma	normalName:lymphoma	normalWikiTitle:lymphoma	predictedType:Disease
+ENTITY	text:urinary tract infections	normalName:urinary tract infections	predictedType:disease	q:true	qid:Q579	docId:6310832	origText:urinary tract infections	url:D014552
+CANDIDATE	id:14552	inCount:3	outCount:2	links:	url:D014552	name:Infection, Urinary Tract	normalName:infection, urinary tract	normalWikiTitle:infection, urinary tract	predictedType:Disease
+ENTITY	text:abdominal infections	normalName:abdominal infections	predictedType:disease	q:true	qid:Q579	docId:6310832	origText:abdominal infections	url:D059413
+CANDIDATE	id:59413	inCount:4	outCount:1	links:	url:D059413	name:Infection, Intra-Abdominal	normalName:infection, intra-abdominal	normalWikiTitle:infection, intra-abdominal	predictedType:Disease
+CANDIDATE	id:1899	inCount:2	outCount:2	links:	url:D001899	name:Borrelia Infections	normalName:borrelia infections	normalWikiTitle:borrelia infections	predictedType:Disease
+CANDIDATE	id:1102	inCount:10	outCount:1	links:	url:D001102	name:Arbovirus Infections	normalName:arbovirus infections	normalWikiTitle:arbovirus infections	predictedType:Disease
+CANDIDATE	id:1424	inCount:12	outCount:1	links:	url:D001424	name:Bacterial Infections	normalName:bacterial infections	normalWikiTitle:bacterial infections	predictedType:Disease
+CANDIDATE	id:2690	inCount:5	outCount:2	links:	url:D002690	name:Chlamydia Infections	normalName:chlamydia infections	normalWikiTitle:chlamydia infections	predictedType:Disease
+CANDIDATE	id:7	inCount:3	outCount:1	links:	url:D000007	name:Abdominal Injuries	normalName:abdominal injuries	normalWikiTitle:abdominal injuries	predictedType:Disease
+CANDIDATE	id:257	inCount:2	outCount:1	links:	url:D000257	name:Adenoviridae Infections	normalName:adenoviridae infections	normalWikiTitle:adenoviridae infections	predictedType:Disease
+CANDIDATE	id:5490	inCount:1	outCount:1	links:	url:D005490	name:Focal Infection	normalName:focal infection	normalWikiTitle:focal infection	predictedType:Disease
+CANDIDATE	id:17191	inCount:5	outCount:1	links:	url:D017191	name:Ascaridida Infections	normalName:ascaridida infections	normalWikiTitle:ascaridida infections	predictedType:Disease
+CANDIDATE	id:23521	inCount:2	outCount:1	links:	url:D023521	name:Chlamydophila Infections	normalName:chlamydophila infections	normalWikiTitle:chlamydophila infections	predictedType:Disease
+CANDIDATE	id:1474	inCount:3	outCount:1	links:	url:D001474	name:Bartonella Infections	normalName:bartonella infections	normalWikiTitle:bartonella infections	predictedType:Disease
+CANDIDATE	id:59413	inCount:4	outCount:1	links:	url:D059413	name:Intra-Abdominal Infections	normalName:intra-abdominal infections	normalWikiTitle:intra-abdominal infections	predictedType:Disease
+CANDIDATE	id:59413	inCount:4	outCount:1	links:	url:D059413	name:Infections, Intra-Abdominal	normalName:infections, intra-abdominal	normalWikiTitle:infections, intra-abdominal	predictedType:Disease
+CANDIDATE	id:59413	inCount:4	outCount:1	links:	url:D059413	name:Intra Abdominal Infections	normalName:intra abdominal infections	normalWikiTitle:intra abdominal infections	predictedType:Disease
+CANDIDATE	id:59413	inCount:4	outCount:1	links:	url:D059413	name:Intra-Abdominal Infection	normalName:intra-abdominal infection	normalWikiTitle:intra-abdominal infection	predictedType:Disease
+CANDIDATE	id:1404	inCount:0	outCount:2	links:	url:D001404	name:Babesia Infections	normalName:babesia infections	normalWikiTitle:babesia infections	predictedType:Disease
+CANDIDATE	id:5873	inCount:0	outCount:2	links:	url:D005873	name:Infections, Giardia	normalName:infections, giardia	normalWikiTitle:infections, giardia	predictedType:Disease
+CANDIDATE	id:5873	inCount:0	outCount:2	links:	url:D005873	name:Giardia Infections	normalName:giardia infections	normalWikiTitle:giardia infections	predictedType:Disease
+CANDIDATE	id:1404	inCount:0	outCount:2	links:	url:D001404	name:Infections, Babesia	normalName:infections, babesia	normalWikiTitle:infections, babesia	predictedType:Disease
+CANDIDATE	id:5490	inCount:1	outCount:1	links:	url:D005490	name:Focal Infections	normalName:focal infections	normalWikiTitle:focal infections	predictedType:Disease
+ENTITY	text:staphylococcal infections	normalName:staphylococcal infections	predictedType:disease	q:true	qid:Q579	docId:6310832	origText:staphylococcal infections	url:D013203
+CANDIDATE	id:13203	inCount:3	outCount:1	links:	url:D013203	name:Staphylococcal Infections	normalName:staphylococcal infections	normalWikiTitle:staphylococcal infections	predictedType:Disease
+ENTITY	text:fungal infections	normalName:fungal infections	predictedType:disease	q:true	qid:Q579	docId:6310832	origText:fungal infections	url:D009181
+CANDIDATE	id:9181	inCount:19	outCount:1	links:	url:D009181	name:Infection, Fungal	normalName:infection, fungal	normalWikiTitle:infection, fungal	predictedType:Disease
+ENTITY	text:bacteremias	normalName:bacteremias	predictedType:disease	q:true	qid:Q579	docId:6310832	origText:bacteremias	url:D016470
+CANDIDATE	id:16470	inCount:3	outCount:2	links:	url:D016470	name:Bacteremia	normalName:bacteremia	normalWikiTitle:bacteremia	predictedType:Disease
+ENTITY	text:infection	normalName:infection	predictedType:disease	q:true	qid:Q579	docId:6310832	origText:infection	url:D007239
+CANDIDATE	id:7239	inCount:33	outCount:1	links:7239	url:D007239	name:Infection	normalName:infection	normalWikiTitle:infection	predictedType:Disease
+ENTITY	text:infections	normalName:infections	predictedType:disease	q:true	qid:Q579	docId:6310832	origText:infections	url:D007239
+CANDIDATE	id:7239	inCount:33	outCount:1	links:7239	url:D007239	name:Infection	normalName:infection	normalWikiTitle:infection	predictedType:Disease

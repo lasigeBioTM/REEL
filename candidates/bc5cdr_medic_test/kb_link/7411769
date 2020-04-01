@@ -1,0 +1,23 @@
+ENTITY	text:hyperkalemia	normalName:hyperkalemia	predictedType:disease	q:true	qid:Q29	docId:7411769	origText:hyperkalemia	url:D006947
+CANDIDATE	id:6947	inCount:4	outCount:1	links:	url:D006947	name:Hyperkalemia	normalName:hyperkalemia	normalWikiTitle:hyperkalemia	predictedType:Disease
+ENTITY	text:hyporeninemic hypoaidosteronism	normalName:hyporeninemic hypoaidosteronism	predictedType:disease	q:true	qid:Q29	docId:7411769	origText:hyporeninemic hypoaidosteronism	url:D006994
+CANDIDATE	id:6994	inCount:2	outCount:1	links:	url:D006994	name:Hypoaldosteronism, Hyporeninemic	normalName:hypoaldosteronism, hyporeninemic	normalWikiTitle:hypoaldosteronism, hyporeninemic	predictedType:Disease
+CANDIDATE	id:6994	inCount:2	outCount:1	links:	url:D006994	name:Hypoaldosteronism	normalName:hypoaldosteronism	normalWikiTitle:hypoaldosteronism	predictedType:Disease
+CANDIDATE	id:564162	inCount:0	outCount:1	links:	url:C564162	name:Pseudohypoaldosteronism, Type IIc	normalName:pseudohypoaldosteronism, type iic	normalWikiTitle:pseudohypoaldosteronism, type iic	predictedType:Disease
+CANDIDATE	id:564160	inCount:0	outCount:1	links:	url:C564160	name:Pseudohypoaldosteronism, Type IIa	normalName:pseudohypoaldosteronism, type iia	normalWikiTitle:pseudohypoaldosteronism, type iia	predictedType:Disease
+CANDIDATE	id:614495	inCount:0	outCount:1	links:	url:614495	name:PSEUDOHYPOALDOSTERONISM, TYPE IID	normalName:pseudohypoaldosteronism, type iid	normalWikiTitle:pseudohypoaldosteronism, type iid	predictedType:Disease
+CANDIDATE	id:614496	inCount:0	outCount:1	links:	url:614496	name:PSEUDOHYPOALDOSTERONISM, TYPE IIE	normalName:pseudohypoaldosteronism, type iie	normalWikiTitle:pseudohypoaldosteronism, type iie	predictedType:Disease
+CANDIDATE	id:564161	inCount:0	outCount:1	links:	url:C564161	name:Pseudohypoaldosteronism, Type IIb	normalName:pseudohypoaldosteronism, type iib	normalWikiTitle:pseudohypoaldosteronism, type iib	predictedType:Disease
+CANDIDATE	id:565476	inCount:0	outCount:1	links:	url:C565476	name:Hypoproteinemia, Hypercatabolic	normalName:hypoproteinemia, hypercatabolic	normalWikiTitle:hypoproteinemia, hypercatabolic	predictedType:Disease
+CANDIDATE	id:6929	inCount:6	outCount:1	links:	url:D006929	name:Hyperaldosteronism	normalName:hyperaldosteronism	normalWikiTitle:hyperaldosteronism	predictedType:Disease
+CANDIDATE	id:567258	inCount:0	outCount:1	links:	url:C567258	name:Hypoadiponectinemia	normalName:hypoadiponectinemia	normalWikiTitle:hypoadiponectinemia	predictedType:Disease
+CANDIDATE	id:11546	inCount:6	outCount:1	links:	url:D011546	name:Pseudohypoaldosteronism	normalName:pseudohypoaldosteronism	normalWikiTitle:pseudohypoaldosteronism	predictedType:Disease
+CANDIDATE	id:6994	inCount:2	outCount:1	links:	url:D006994	name:Hyporeninemic Hypoaldosteronism	normalName:hyporeninemic hypoaldosteronism	normalWikiTitle:hyporeninemic hypoaldosteronism	predictedType:Disease
+CANDIDATE	id:6929	inCount:6	outCount:1	links:	url:D006929	name:Hyperaldosteronism, Primary	normalName:hyperaldosteronism, primary	normalWikiTitle:hyperaldosteronism, primary	predictedType:Disease
+CANDIDATE	id:6929	inCount:6	outCount:1	links:	url:D006929	name:Primary Hyperaldosteronism	normalName:primary hyperaldosteronism	normalWikiTitle:primary hyperaldosteronism	predictedType:Disease
+ENTITY	text:diabetes mellitus	normalName:diabetes mellitus	predictedType:disease	q:true	qid:Q29	docId:7411769	origText:diabetes mellitus	url:D003920
+CANDIDATE	id:3920	inCount:44	outCount:2	links:	url:D003920	name:Diabetes Mellitus	normalName:diabetes mellitus	normalWikiTitle:diabetes mellitus	predictedType:Disease
+ENTITY	text:renal insufficiency	normalName:renal insufficiency	predictedType:disease	q:true	qid:Q29	docId:7411769	origText:renal insufficiency	url:D051437
+CANDIDATE	id:51437	inCount:10	outCount:1	links:	url:D051437	name:Renal Insufficiency	normalName:renal insufficiency	normalWikiTitle:renal insufficiency	predictedType:Disease
+ENTITY	text:gouty arthritis	normalName:gouty arthritis	predictedType:disease	q:true	qid:Q29	docId:7411769	origText:gouty arthritis	url:D015210
+CANDIDATE	id:15210	inCount:0	outCount:1	links:	url:D015210	name:Arthritis, Gouty	normalName:arthritis, gouty	normalWikiTitle:arthritis, gouty	predictedType:Disease

@@ -1,0 +1,38 @@
+ENTITY	text:halothane	normalName:halothane	predictedType:chemical	q:true	qid:Q257	docId:19108278	origText:halothane	url:D006221
+CANDIDATE	id:6221	inCount:6	outCount:1	links:	url:D006221	name:Halothane	normalName:halothane	normalWikiTitle:halothane	predictedType:Chemical
+ENTITY	text:fatty acids	normalName:fatty acids	predictedType:chemical	q:true	qid:Q257	docId:19108278	origText:fatty acids	url:D005227
+CANDIDATE	id:5227	inCount:230	outCount:1	links:5227	url:D005227	name:Fatty Acids	normalName:fatty acids	normalWikiTitle:fatty acids	predictedType:Chemical
+CANDIDATE	id:479742	inCount:0	outCount:1	links:479742	url:C479742	name:CLA fatty acid	normalName:cla fatty acid	normalWikiTitle:cla fatty acid	predictedType:Chemical
+CANDIDATE	id:44242	inCount:0	outCount:1	links:44242	url:D044242	name:Trans Fatty Acids	normalName:trans fatty acids	normalWikiTitle:trans fatty acids	predictedType:Chemical
+CANDIDATE	id:604757	inCount:0	outCount:1	links:604757	url:C000604757	name:PC-594 fatty acid	normalName:pc-594 fatty acid	normalWikiTitle:pc-594 fatty acid	predictedType:Chemical
+CANDIDATE	id:11250	inCount:0	outCount:2	links:11250	url:C011250	name:fatty acid ketols	normalName:fatty acid ketols	normalWikiTitle:fatty acid ketols	predictedType:Chemical
+CANDIDATE	id:43371	inCount:3	outCount:1	links:43371	url:D043371	name:Fatty Acids, Omega-6	normalName:fatty acids, omega-6	normalWikiTitle:fatty acids, omega-6	predictedType:Chemical
+CANDIDATE	id:15525	inCount:22	outCount:3	links:15525	url:D015525	name:Fatty Acids, Omega-3	normalName:fatty acids, omega-3	normalWikiTitle:fatty acids, omega-3	predictedType:Chemical
+CANDIDATE	id:1634	inCount:0	outCount:2	links:1634	url:C001634	name:fatty aldehyde	normalName:fatty aldehyde	normalWikiTitle:fatty aldehyde	predictedType:Chemical
+CANDIDATE	id:5232	inCount:5	outCount:1	links:5232	url:D005232	name:Fatty Acids, Volatile	normalName:fatty acids, volatile	normalWikiTitle:fatty acids, volatile	predictedType:Chemical
+CANDIDATE	id:627429	inCount:0	outCount:1	links:627429	url:C000627429	name:matsutoic acid	normalName:matsutoic acid	normalWikiTitle:matsutoic acid	predictedType:Chemical
+ENTITY	text:propranolol	normalName:propranolol	predictedType:chemical	q:true	qid:Q257	docId:19108278	origText:propranolol	url:D011433
+CANDIDATE	id:11433	inCount:46	outCount:2	links:	url:D011433	name:Propranolol	normalName:propranolol	normalWikiTitle:propranolol	predictedType:Chemical
+ENTITY	text:adrenaline	normalName:adrenaline	predictedType:chemical	q:true	qid:Q257	docId:19108278	origText:adrenaline	url:D004837
+CANDIDATE	id:4837	inCount:33	outCount:3	links:	url:D004837	name:Adrenaline	normalName:adrenaline	normalWikiTitle:adrenaline	predictedType:Chemical
+ENTITY	text:ouabain	normalName:ouabain	predictedType:chemical	q:true	qid:Q257	docId:19108278	origText:ouabain	url:D010042
+CANDIDATE	id:10042	inCount:14	outCount:1	links:	url:D010042	name:Ouabain	normalName:ouabain	normalWikiTitle:ouabain	predictedType:Chemical
+ENTITY	text:isoprenaline	normalName:isoprenaline	predictedType:chemical	q:true	qid:Q257	docId:19108278	origText:isoprenaline	url:D007545
+CANDIDATE	id:7545	inCount:12	outCount:2	links:	url:D007545	name:Isoprenaline	normalName:isoprenaline	normalWikiTitle:isoprenaline	predictedType:Chemical
+ENTITY	text:fatty acid	normalName:fatty acid	predictedType:chemical	q:true	qid:Q257	docId:19108278	origText:fatty acid	url:D005227
+CANDIDATE	id:5227	inCount:230	outCount:1	links:5227	url:D005227	name:Fatty Acids	normalName:fatty acids	normalWikiTitle:fatty acids	predictedType:Chemical
+CANDIDATE	id:479742	inCount:0	outCount:1	links:479742	url:C479742	name:CLA fatty acid	normalName:cla fatty acid	normalWikiTitle:cla fatty acid	predictedType:Chemical
+CANDIDATE	id:44242	inCount:0	outCount:1	links:44242	url:D044242	name:Trans Fatty Acids	normalName:trans fatty acids	normalWikiTitle:trans fatty acids	predictedType:Chemical
+CANDIDATE	id:604757	inCount:0	outCount:1	links:604757	url:C000604757	name:PC-594 fatty acid	normalName:pc-594 fatty acid	normalWikiTitle:pc-594 fatty acid	predictedType:Chemical
+CANDIDATE	id:11250	inCount:0	outCount:2	links:11250	url:C011250	name:fatty acid ketols	normalName:fatty acid ketols	normalWikiTitle:fatty acid ketols	predictedType:Chemical
+CANDIDATE	id:43371	inCount:3	outCount:1	links:43371	url:D043371	name:Fatty Acids, Omega-6	normalName:fatty acids, omega-6	normalWikiTitle:fatty acids, omega-6	predictedType:Chemical
+CANDIDATE	id:15525	inCount:22	outCount:3	links:15525	url:D015525	name:Fatty Acids, Omega-3	normalName:fatty acids, omega-3	normalWikiTitle:fatty acids, omega-3	predictedType:Chemical
+CANDIDATE	id:1634	inCount:0	outCount:2	links:1634	url:C001634	name:fatty aldehyde	normalName:fatty aldehyde	normalWikiTitle:fatty aldehyde	predictedType:Chemical
+CANDIDATE	id:5232	inCount:5	outCount:1	links:5232	url:D005232	name:Fatty Acids, Volatile	normalName:fatty acids, volatile	normalWikiTitle:fatty acids, volatile	predictedType:Chemical
+CANDIDATE	id:627429	inCount:0	outCount:1	links:627429	url:C000627429	name:matsutoic acid	normalName:matsutoic acid	normalWikiTitle:matsutoic acid	predictedType:Chemical
+ENTITY	text:glucose	normalName:glucose	predictedType:chemical	q:true	qid:Q257	docId:19108278	origText:glucose	url:D005947
+CANDIDATE	id:5947	inCount:160	outCount:1	links:	url:D005947	name:Glucose	normalName:glucose	normalWikiTitle:glucose	predictedType:Chemical
+ENTITY	text:procaine	normalName:procaine	predictedType:chemical	q:true	qid:Q257	docId:19108278	origText:procaine	url:D011343
+CANDIDATE	id:11343	inCount:33	outCount:1	links:	url:D011343	name:Procaine	normalName:procaine	normalWikiTitle:procaine	predictedType:Chemical
+ENTITY	text:lactate	normalName:lactate	predictedType:chemical	q:true	qid:Q257	docId:19108278	origText:lactate	url:D019344
+CANDIDATE	id:19344	inCount:38	outCount:1	links:	url:D019344	name:Lactate	normalName:lactate	normalWikiTitle:lactate	predictedType:Chemical

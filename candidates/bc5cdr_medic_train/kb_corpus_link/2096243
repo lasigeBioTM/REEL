@@ -1,0 +1,6 @@
+ENTITY	text:leukoencephalopathy	normalName:leukoencephalopathy	predictedType:disease	q:true	qid:Q237	docId:2096243	origText:leukoencephalopathy	url:D056784
+CANDIDATE	id:56784	inCount:29	outCount:1	links:19965	url:D056784	name:Leukoencephalopathy	normalName:leukoencephalopathy	normalWikiTitle:leukoencephalopathy	predictedType:Disease
+ENTITY	text:organic mental disorders	normalName:organic mental disorders	predictedType:disease	q:true	qid:Q237	docId:2096243	origText:organic mental disorders	url:D019965
+CANDIDATE	id:19965	inCount:6	outCount:1	links:56784;19965	url:D019965	name:Mental Disorder, Organic	normalName:mental disorder, organic	normalWikiTitle:mental disorder, organic	predictedType:Disease
+ENTITY	text:Organic mental disorder	normalName:organic mental disorder	predictedType:disease	q:true	qid:Q237	docId:2096243	origText:Organic mental disorder	url:D019965
+CANDIDATE	id:19965	inCount:6	outCount:1	links:56784;19965	url:D019965	name:Mental Disorder, Organic	normalName:mental disorder, organic	normalWikiTitle:mental disorder, organic	predictedType:Disease

@@ -1,0 +1,4 @@
+ENTITY	text:paracetamol	normalName:paracetamol	predictedType:chemical	q:true	qid:Q369	docId:3412544	origText:paracetamol	url:D000082
+CANDIDATE	id:82	inCount:89	outCount:1	links:10615	url:D000082	name:Paracetamol	normalName:paracetamol	normalWikiTitle:paracetamol	predictedType:Chemical
+ENTITY	text:phenacetin	normalName:phenacetin	predictedType:chemical	q:true	qid:Q369	docId:3412544	origText:phenacetin	url:D010615
+CANDIDATE	id:10615	inCount:19	outCount:1	links:82	url:D010615	name:Phenacetin	normalName:phenacetin	normalWikiTitle:phenacetin	predictedType:Chemical

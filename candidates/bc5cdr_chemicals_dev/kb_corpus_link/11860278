@@ -1,0 +1,10 @@
+ENTITY	text:Dopamine	normalName:dopamine	predictedType:chemical	q:true	qid:Q224	docId:11860278	origText:Dopamine	url:D004298
+CANDIDATE	id:4298	inCount:90	outCount:2	links:	url:D004298	name:Dopamine	normalName:dopamine	normalWikiTitle:dopamine	predictedType:Chemical
+ENTITY	text:pilocarpine	normalName:pilocarpine	predictedType:chemical	q:true	qid:Q224	docId:11860278	origText:pilocarpine	url:D010862
+CANDIDATE	id:10862	inCount:7	outCount:1	links:7608	url:D010862	name:Pilocarpine	normalName:pilocarpine	normalWikiTitle:pilocarpine	predictedType:Chemical
+ENTITY	text:glutamate	normalName:glutamate	predictedType:chemical	q:true	qid:Q224	docId:11860278	origText:glutamate	url:D018698
+CANDIDATE	id:18698	inCount:53	outCount:2	links:	url:D018698	name:Glutamate	normalName:glutamate	normalWikiTitle:glutamate	predictedType:Chemical
+ENTITY	text:kainic acid	normalName:kainic acid	predictedType:chemical	q:true	qid:Q224	docId:11860278	origText:kainic acid	url:D007608
+CANDIDATE	id:7608	inCount:17	outCount:1	links:10862	url:D007608	name:Kainic Acid	normalName:kainic acid	normalWikiTitle:kainic acid	predictedType:Chemical
+ENTITY	text:acetylcholine	normalName:acetylcholine	predictedType:chemical	q:true	qid:Q224	docId:11860278	origText:acetylcholine	url:D000109
+CANDIDATE	id:109	inCount:23	outCount:1	links:	url:D000109	name:Acetylcholine	normalName:acetylcholine	normalWikiTitle:acetylcholine	predictedType:Chemical

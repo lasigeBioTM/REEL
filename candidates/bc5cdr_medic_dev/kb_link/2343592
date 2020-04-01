@@ -1,0 +1,27 @@
+ENTITY	text:seizures	normalName:seizures	predictedType:disease	q:true	qid:Q437	docId:2343592	origText:seizures	url:D012640
+CANDIDATE	id:12640	inCount:53	outCount:1	links:12640	url:D012640	name:Seizure	normalName:seizure	normalWikiTitle:seizure	predictedType:Disease
+ENTITY	text:cerebral vascular accident	normalName:cerebral vascular accident	predictedType:disease	q:true	qid:Q437	docId:2343592	origText:cerebral vascular accident	url:D020521
+CANDIDATE	id:20521	inCount:2	outCount:1	links:	url:D020521	name:Acute Cerebrovascular Accident	normalName:acute cerebrovascular accident	normalWikiTitle:acute cerebrovascular accident	predictedType:Disease
+CANDIDATE	id:16491	inCount:8	outCount:1	links:	url:D016491	name:Peripheral Vascular Diseases	normalName:peripheral vascular diseases	normalWikiTitle:peripheral vascular diseases	predictedType:Disease
+CANDIDATE	id:15140	inCount:2	outCount:4	links:	url:D015140	name:Dementia, Vascular	normalName:dementia, vascular	normalWikiTitle:dementia, vascular	predictedType:Disease
+CANDIDATE	id:16779	inCount:0	outCount:2	links:	url:D016779	name:Malaria, Cerebral	normalName:malaria, cerebral	normalWikiTitle:malaria, cerebral	predictedType:Disease
+CANDIDATE	id:531689	inCount:0	outCount:1	links:	url:C531689	name:Acute cerebral Gaucher disease	normalName:acute cerebral gaucher disease	normalWikiTitle:acute cerebral gaucher disease	predictedType:Disease
+CANDIDATE	id:17566	inCount:0	outCount:1	links:	url:D017566	name:Microvascular Angina	normalName:microvascular angina	normalWikiTitle:microvascular angina	predictedType:Disease
+CANDIDATE	id:6259	inCount:9	outCount:1	links:6259	url:D006259	name:Craniocerebral Trauma	normalName:craniocerebral trauma	normalWikiTitle:craniocerebral trauma	predictedType:Disease
+CANDIDATE	id:562761	inCount:0	outCount:1	links:	url:C562761	name:Splenoportal Vascular Anomalies	normalName:splenoportal vascular anomalies	normalWikiTitle:splenoportal vascular anomalies	predictedType:Disease
+CANDIDATE	id:14653	inCount:0	outCount:2	links:	url:D014653	name:Vascular Headaches	normalName:vascular headaches	normalWikiTitle:vascular headaches	predictedType:Disease
+CANDIDATE	id:20758	inCount:1	outCount:2	links:	url:D020758	name:Spinal Cord Vascular Diseases	normalName:spinal cord vascular diseases	normalWikiTitle:spinal cord vascular diseases	predictedType:Disease
+CANDIDATE	id:20214	inCount:3	outCount:2	links:	url:D020214	name:Cerebrovascular Trauma	normalName:cerebrovascular trauma	normalWikiTitle:cerebrovascular trauma	predictedType:Disease
+CANDIDATE	id:2544	inCount:5	outCount:1	links:	url:D002544	name:CEREBROVASCULAR ACCIDENT	normalName:cerebrovascular accident	normalWikiTitle:cerebrovascular accident	predictedType:Disease
+CANDIDATE	id:20521	inCount:2	outCount:1	links:	url:D020521	name:Cerebrovascular Accident	normalName:cerebrovascular accident	normalWikiTitle:cerebrovascular accident	predictedType:Disease
+CANDIDATE	id:20521	inCount:2	outCount:1	links:	url:D020521	name:Cerebrovascular Accidents	normalName:cerebrovascular accidents	normalWikiTitle:cerebrovascular accidents	predictedType:Disease
+CANDIDATE	id:20521	inCount:2	outCount:1	links:	url:D020521	name:Brain Vascular Accident	normalName:brain vascular accident	normalWikiTitle:brain vascular accident	predictedType:Disease
+CANDIDATE	id:20521	inCount:2	outCount:1	links:	url:D020521	name:Vascular Accident, Brain	normalName:vascular accident, brain	normalWikiTitle:vascular accident, brain	predictedType:Disease
+CANDIDATE	id:20521	inCount:2	outCount:1	links:	url:D020521	name:CVA (Cerebrovascular Accident)	normalName:cva (cerebrovascular accident)	normalWikiTitle:cva (cerebrovascular accident)	predictedType:Disease
+CANDIDATE	id:20521	inCount:2	outCount:1	links:	url:D020521	name:Vascular Accidents, Brain	normalName:vascular accidents, brain	normalWikiTitle:vascular accidents, brain	predictedType:Disease
+CANDIDATE	id:20521	inCount:2	outCount:1	links:	url:D020521	name:Brain Vascular Accidents	normalName:brain vascular accidents	normalWikiTitle:brain vascular accidents	predictedType:Disease
+CANDIDATE	id:20521	inCount:2	outCount:1	links:	url:D020521	name:CVAs (Cerebrovascular Accident)	normalName:cvas (cerebrovascular accident)	normalWikiTitle:cvas (cerebrovascular accident)	predictedType:Disease
+ENTITY	text:Seizure	normalName:seizure	predictedType:disease	q:true	qid:Q437	docId:2343592	origText:Seizure	url:D012640
+CANDIDATE	id:12640	inCount:53	outCount:1	links:12640	url:D012640	name:Seizure	normalName:seizure	normalWikiTitle:seizure	predictedType:Disease
+ENTITY	text:head trauma	normalName:head trauma	predictedType:disease	q:true	qid:Q437	docId:2343592	origText:head trauma	url:D006259
+CANDIDATE	id:6259	inCount:9	outCount:1	links:6259	url:D006259	name:Trauma, Head	normalName:trauma, head	normalWikiTitle:trauma, head	predictedType:Disease

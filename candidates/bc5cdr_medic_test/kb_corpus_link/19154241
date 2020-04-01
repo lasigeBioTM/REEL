@@ -1,0 +1,17 @@
+ENTITY	text:hypercalcemic	normalName:hypercalcemic	predictedType:disease	q:true	qid:Q156	docId:19154241	origText:hypercalcemic	url:D006934
+CANDIDATE	id:6934	inCount:10	outCount:2	links:6934;6961	url:D006934	name:Hypercalcemia	normalName:hypercalcemia	normalWikiTitle:hypercalcemia	predictedType:Disease
+CANDIDATE	id:6947	inCount:4	outCount:1	links:	url:D006947	name:Hyperkalemia	normalName:hyperkalemia	normalWikiTitle:hyperkalemia	predictedType:Disease
+CANDIDATE	id:6996	inCount:5	outCount:2	links:	url:D006996	name:Hypocalcemia	normalName:hypocalcemia	normalWikiTitle:hypocalcemia	predictedType:Disease
+CANDIDATE	id:6943	inCount:1	outCount:1	links:	url:D006943	name:Hyperglycemia	normalName:hyperglycemia	normalWikiTitle:hyperglycemia	predictedType:Disease
+CANDIDATE	id:53565	inCount:6	outCount:1	links:	url:D053565	name:Hypercalciuria	normalName:hypercalciuria	normalWikiTitle:hypercalciuria	predictedType:Disease
+CANDIDATE	id:6940	inCount:0	outCount:1	links:	url:D006940	name:Hyperemia	normalName:hyperemia	normalWikiTitle:hyperemia	predictedType:Disease
+CANDIDATE	id:6930	inCount:0	outCount:1	links:	url:D006930	name:Hyperalgesia	normalName:hyperalgesia	normalWikiTitle:hyperalgesia	predictedType:Disease
+CANDIDATE	id:34321	inCount:0	outCount:1	links:	url:D034321	name:Hyperamylasemia	normalName:hyperamylasemia	normalWikiTitle:hyperamylasemia	predictedType:Disease
+CANDIDATE	id:65906	inCount:0	outCount:2	links:	url:D065906	name:Hyperlactatemia	normalName:hyperlactatemia	normalWikiTitle:hyperlactatemia	predictedType:Disease
+CANDIDATE	id:565500	inCount:0	outCount:1	links:	url:C565500	name:Hyperlexia	normalName:hyperlexia	normalWikiTitle:hyperlexia	predictedType:Disease
+ENTITY	text:Primary hyperparathyroidism	normalName:primary hyperparathyroidism	predictedType:disease	q:true	qid:Q156	docId:19154241	origText:Primary hyperparathyroidism	url:D049950
+CANDIDATE	id:49950	inCount:7	outCount:1	links:	url:D049950	name:Hyperparathyroidism, Primary	normalName:hyperparathyroidism, primary	normalWikiTitle:hyperparathyroidism, primary	predictedType:Disease
+ENTITY	text:hypercalcemia	normalName:hypercalcemia	predictedType:disease	q:true	qid:Q156	docId:19154241	origText:hypercalcemia	url:D006934
+CANDIDATE	id:6934	inCount:10	outCount:2	links:6934;6961	url:D006934	name:Hypercalcemia	normalName:hypercalcemia	normalWikiTitle:hypercalcemia	predictedType:Disease
+ENTITY	text:hyperparathyroidism	normalName:hyperparathyroidism	predictedType:disease	q:true	qid:Q156	docId:19154241	origText:hyperparathyroidism	url:D006961
+CANDIDATE	id:6961	inCount:5	outCount:1	links:6934	url:D006961	name:Hyperparathyroidism	normalName:hyperparathyroidism	normalWikiTitle:hyperparathyroidism	predictedType:Disease

@@ -1,0 +1,15 @@
+ENTITY	text:dipyridamole	normalName:dipyridamole	predictedType:chemical	q:true	qid:Q37	docId:891050	origText:dipyridamole	url:D004176
+CANDIDATE	id:4176	inCount:10	outCount:1	links:	url:D004176	name:Dipyridamole	normalName:dipyridamole	normalWikiTitle:dipyridamole	predictedType:Chemical
+ENTITY	text:heparin	normalName:heparin	predictedType:chemical	q:true	qid:Q37	docId:891050	origText:heparin	url:D006493
+CANDIDATE	id:6493	inCount:75	outCount:1	links:3276;3277	url:D006493	name:Heparin	normalName:heparin	normalWikiTitle:heparin	predictedType:Chemical
+ENTITY	text:oral contraceptives	normalName:oral contraceptives	predictedType:chemical	q:true	qid:Q37	docId:891050	origText:oral contraceptives	url:D003276
+CANDIDATE	id:3276	inCount:4	outCount:1	links:6493	url:D003276	name:Contraceptives, Oral	normalName:contraceptives, oral	normalWikiTitle:contraceptives, oral	predictedType:Chemical
+CANDIDATE	id:3281	inCount:2	outCount:1	links:	url:D003281	name:Contraceptives, Postcoital	normalName:contraceptives, postcoital	normalWikiTitle:contraceptives, postcoital	predictedType:Chemical
+CANDIDATE	id:3278	inCount:0	outCount:2	links:	url:D003278	name:Contraceptives, Oral, Hormonal	normalName:contraceptives, oral, hormonal	normalWikiTitle:contraceptives, oral, hormonal	predictedType:Chemical
+CANDIDATE	id:3277	inCount:0	outCount:1	links:6493	url:D003277	name:Contraceptives, Oral, Combined	normalName:contraceptives, oral, combined	normalWikiTitle:contraceptives, oral, combined	predictedType:Chemical
+CANDIDATE	id:80066	inCount:4	outCount:1	links:	url:D000080066	name:Contraceptive Agents, Hormonal	normalName:contraceptive agents, hormonal	normalWikiTitle:contraceptive agents, hormonal	predictedType:Chemical
+CANDIDATE	id:3280	inCount:0	outCount:1	links:	url:D003280	name:Contraceptives, Oral, Synthetic	normalName:contraceptives, oral, synthetic	normalWikiTitle:contraceptives, oral, synthetic	predictedType:Chemical
+CANDIDATE	id:22642	inCount:1	outCount:1	links:	url:D022642	name:Vaccines, Contraceptive	normalName:vaccines, contraceptive	normalWikiTitle:vaccines, contraceptive	predictedType:Chemical
+CANDIDATE	id:3279	inCount:0	outCount:1	links:	url:D003279	name:Contraceptives, Oral, Sequential	normalName:contraceptives, oral, sequential	normalWikiTitle:contraceptives, oral, sequential	predictedType:Chemical
+CANDIDATE	id:3272	inCount:1	outCount:1	links:	url:D003272	name:Contraceptive Agents, Male	normalName:contraceptive agents, male	normalWikiTitle:contraceptive agents, male	predictedType:Chemical
+CANDIDATE	id:3271	inCount:6	outCount:1	links:	url:D003271	name:Contraceptive Agents, Female	normalName:contraceptive agents, female	normalWikiTitle:contraceptive agents, female	predictedType:Chemical

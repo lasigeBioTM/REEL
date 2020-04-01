@@ -1,0 +1,34 @@
+ENTITY	text:pneumoniae	normalName:pneumoniae	predictedType:disease	q:true	qid:Q1413	docId:256433	origText:pneumoniae	url:D011014
+CANDIDATE	id:11014	inCount:10	outCount:2	links:11014	url:D011014	name:Pneumonia	normalName:pneumonia	normalWikiTitle:pneumonia	predictedType:Disease
+CANDIDATE	id:11024	inCount:0	outCount:2	links:	url:D011024	name:Pneumonia, Viral	normalName:pneumonia, viral	normalWikiTitle:pneumonia, viral	predictedType:Disease
+CANDIDATE	id:11017	inCount:0	outCount:1	links:	url:D011017	name:Pneumonia, Lipid	normalName:pneumonia, lipid	normalWikiTitle:pneumonia, lipid	predictedType:Disease
+CANDIDATE	id:11001	inCount:0	outCount:2	links:	url:D011001	name:Pleuropneumonia	normalName:pleuropneumonia	normalWikiTitle:pleuropneumonia	predictedType:Disease
+CANDIDATE	id:1996	inCount:0	outCount:2	links:	url:D001996	name:Bronchopneumonia	normalName:bronchopneumonia	normalWikiTitle:bronchopneumonia	predictedType:Disease
+CANDIDATE	id:11009	inCount:8	outCount:3	links:	url:D011009	name:Pneumoconiosis	normalName:pneumoconiosis	normalWikiTitle:pneumoconiosis	predictedType:Disease
+CANDIDATE	id:9503	inCount:19	outCount:1	links:9503	url:D009503	name:Neutropenia	normalName:neutropenia	normalWikiTitle:neutropenia	predictedType:Disease
+CANDIDATE	id:11022	inCount:0	outCount:2	links:	url:D011022	name:Pneumonia, Rickettsial	normalName:pneumonia, rickettsial	normalWikiTitle:pneumonia, rickettsial	predictedType:Disease
+CANDIDATE	id:11030	inCount:3	outCount:1	links:	url:D011030	name:Pneumothorax	normalName:pneumothorax	normalWikiTitle:pneumothorax	predictedType:Disease
+CANDIDATE	id:59445	inCount:0	outCount:1	links:	url:D059445	name:Anhedonia	normalName:anhedonia	normalWikiTitle:anhedonia	predictedType:Disease
+ENTITY	text:neutropenia	normalName:neutropenia	predictedType:disease	q:true	qid:Q1413	docId:256433	origText:neutropenia	url:D009503
+CANDIDATE	id:9503	inCount:19	outCount:1	links:9503	url:D009503	name:Neutropenia	normalName:neutropenia	normalWikiTitle:neutropenia	predictedType:Disease
+ENTITY	text:Pneumonia	normalName:pneumonia	predictedType:disease	q:true	qid:Q1413	docId:256433	origText:Pneumonia	url:D011014
+CANDIDATE	id:11014	inCount:10	outCount:2	links:11014	url:D011014	name:Pneumonia	normalName:pneumonia	normalWikiTitle:pneumonia	predictedType:Disease
+ENTITY	text:infections	normalName:infections	predictedType:disease	q:true	qid:Q1413	docId:256433	origText:infections	url:D007239
+CANDIDATE	id:7239	inCount:33	outCount:1	links:7239	url:D007239	name:Infection	normalName:infection	normalWikiTitle:infection	predictedType:Disease
+ENTITY	text:infection	normalName:infection	predictedType:disease	q:true	qid:Q1413	docId:256433	origText:infection	url:D007239
+CANDIDATE	id:7239	inCount:33	outCount:1	links:7239	url:D007239	name:Infection	normalName:infection	normalWikiTitle:infection	predictedType:Disease
+ENTITY	text:gram-negative bacillary infections	normalName:gram-negative bacillary infections	predictedType:disease	q:true	qid:Q1413	docId:256433	origText:gram-negative bacillary infections	url:D016905
+CANDIDATE	id:16905	inCount:33	outCount:1	links:	url:D016905	name:Gram-Negative Bacterial Infections	normalName:gram-negative bacterial infections	normalWikiTitle:gram-negative bacterial infections	predictedType:Disease
+CANDIDATE	id:16908	inCount:8	outCount:1	links:	url:D016908	name:Gram-Positive Bacterial Infections	normalName:gram-positive bacterial infections	normalWikiTitle:gram-positive bacterial infections	predictedType:Disease
+CANDIDATE	id:16863	inCount:1	outCount:1	links:	url:D016863	name:Bacillaceae Infections	normalName:bacillaceae infections	normalWikiTitle:bacillaceae infections	predictedType:Disease
+CANDIDATE	id:72742	inCount:4	outCount:1	links:	url:D000072742	name:Invasive Fungal Infections	normalName:invasive fungal infections	normalWikiTitle:invasive fungal infections	predictedType:Disease
+CANDIDATE	id:20806	inCount:4	outCount:2	links:	url:D020806	name:Central Nervous System Bacterial Infections	normalName:central nervous system bacterial infections	normalWikiTitle:central nervous system bacterial infections	predictedType:Disease
+CANDIDATE	id:55499	inCount:0	outCount:1	links:	url:D055499	name:Catheter-Related Infections	normalName:catheter-related infections	normalWikiTitle:catheter-related infections	predictedType:Disease
+CANDIDATE	id:9349	inCount:3	outCount:1	links:	url:D009349	name:Nematode Infections	normalName:nematode infections	normalWikiTitle:nematode infections	predictedType:Disease
+CANDIDATE	id:1424	inCount:12	outCount:1	links:	url:D001424	name:Bacterial Infections	normalName:bacterial infections	normalWikiTitle:bacterial infections	predictedType:Disease
+CANDIDATE	id:2690	inCount:5	outCount:2	links:	url:D002690	name:Chlamydia Infections	normalName:chlamydia infections	normalWikiTitle:chlamydia infections	predictedType:Disease
+CANDIDATE	id:535390	inCount:0	outCount:2	links:	url:C535390	name:Aspergillus niger infection	normalName:aspergillus niger infection	normalWikiTitle:aspergillus niger infection	predictedType:Disease
+ENTITY	text:Azotemia	normalName:azotemia	predictedType:disease	q:true	qid:Q1413	docId:256433	origText:Azotemia	url:D053099
+CANDIDATE	id:53099	inCount:0	outCount:2	links:	url:D053099	name:Azotemia	normalName:azotemia	normalWikiTitle:azotemia	predictedType:Disease
+ENTITY	text:cancer	normalName:cancer	predictedType:disease	q:true	qid:Q1413	docId:256433	origText:cancer	url:D009369
+CANDIDATE	id:9369	inCount:18	outCount:1	links:	url:D009369	name:Cancer	normalName:cancer	normalWikiTitle:cancer	predictedType:Disease

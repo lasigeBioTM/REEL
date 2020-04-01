@@ -1,0 +1,12 @@
+ENTITY	text:hydrocortisone	normalName:hydrocortisone	predictedType:chemical	q:true	qid:Q227	docId:983936	origText:hydrocortisone	url:D006854
+CANDIDATE	id:6854	inCount:91	outCount:3	links:	url:D006854	name:Hydrocortisone	normalName:hydrocortisone	normalWikiTitle:hydrocortisone	predictedType:Chemical
+ENTITY	text:epinephrine	normalName:epinephrine	predictedType:chemical	q:true	qid:Q227	docId:983936	origText:epinephrine	url:D004837
+CANDIDATE	id:4837	inCount:33	outCount:3	links:	url:D004837	name:Epinephrine	normalName:epinephrine	normalWikiTitle:epinephrine	predictedType:Chemical
+ENTITY	text:dipyridamole	normalName:dipyridamole	predictedType:chemical	q:true	qid:Q227	docId:983936	origText:dipyridamole	url:D004176
+CANDIDATE	id:4176	inCount:10	outCount:1	links:	url:D004176	name:Dipyridamole	normalName:dipyridamole	normalWikiTitle:dipyridamole	predictedType:Chemical
+ENTITY	text:calcium	normalName:calcium	predictedType:chemical	q:true	qid:Q227	docId:983936	origText:calcium	url:D002118
+CANDIDATE	id:2118	inCount:11	outCount:2	links:	url:D002118	name:Calcium	normalName:calcium	normalWikiTitle:calcium	predictedType:Chemical
+ENTITY	text:calcium chloride	normalName:calcium chloride	predictedType:chemical	q:true	qid:Q227	docId:983936	origText:calcium chloride	url:D002122
+CANDIDATE	id:2122	inCount:8	outCount:2	links:	url:D002122	name:Calcium Chloride	normalName:calcium chloride	normalWikiTitle:calcium chloride	predictedType:Chemical
+ENTITY	text:acetylsalicylic acid	normalName:acetylsalicylic acid	predictedType:chemical	q:true	qid:Q227	docId:983936	origText:acetylsalicylic acid	url:D001241
+CANDIDATE	id:1241	inCount:106	outCount:1	links:	url:D001241	name:Acid, Acetylsalicylic	normalName:acid, acetylsalicylic	normalWikiTitle:acid, acetylsalicylic	predictedType:Chemical

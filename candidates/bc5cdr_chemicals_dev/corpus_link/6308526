@@ -1,0 +1,4 @@
+ENTITY	text:morphine	normalName:morphine	predictedType:chemical	q:true	qid:Q211	docId:6308526	origText:morphine	url:D009020
+CANDIDATE	id:9020	inCount:13	outCount:1	links:	url:D009020	name:Morphine	normalName:morphine	normalWikiTitle:morphine	predictedType:Chemical
+ENTITY	text:Naloxazone	normalName:naloxazone	predictedType:chemical	q:true	qid:Q211	docId:6308526	origText:Naloxazone	url:C024224
+CANDIDATE	id:24224	inCount:0	outCount:1	links:	url:C024224	name:naloxazone	normalName:naloxazone	normalWikiTitle:naloxazone	predictedType:Chemical

@@ -1,0 +1,6 @@
+ENTITY	text:etoposide	normalName:etoposide	predictedType:chemical	q:true	qid:Q121	docId:20528871	origText:etoposide	url:D005047
+CANDIDATE	id:5047	inCount:303	outCount:2	links:3520	url:D005047	name:Etoposide	normalName:etoposide	normalWikiTitle:etoposide	predictedType:Chemical
+ENTITY	text:nelarabine	normalName:nelarabine	predictedType:chemical	q:true	qid:Q121	docId:20528871	origText:nelarabine	url:C104457
+CANDIDATE	id:104457	inCount:0	outCount:1	links:	url:C104457	name:nelarabine	normalName:nelarabine	normalWikiTitle:nelarabine	predictedType:Chemical
+ENTITY	text:cyclophosphamide	normalName:cyclophosphamide	predictedType:chemical	q:true	qid:Q121	docId:20528871	origText:cyclophosphamide	url:D003520
+CANDIDATE	id:3520	inCount:474	outCount:1	links:5047	url:D003520	name:Cyclophosphamide	normalName:cyclophosphamide	normalWikiTitle:cyclophosphamide	predictedType:Chemical

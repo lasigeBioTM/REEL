@@ -1,0 +1,12 @@
+ENTITY	text:hypertension	normalName:hypertension	predictedType:disease	q:true	qid:Q495	docId:18201582	origText:hypertension	url:D006973
+CANDIDATE	id:6973	inCount:18	outCount:1	links:	url:D006973	name:Hypertension	normalName:hypertension	normalWikiTitle:hypertension	predictedType:Disease
+ENTITY	text:headache	normalName:headache	predictedType:disease	q:true	qid:Q495	docId:18201582	origText:headache	url:D006261
+CANDIDATE	id:6261	inCount:2	outCount:1	links:	url:D006261	name:Headache	normalName:headache	normalWikiTitle:headache	predictedType:Disease
+ENTITY	text:cough	normalName:cough	predictedType:disease	q:true	qid:Q495	docId:18201582	origText:cough	url:D003371
+CANDIDATE	id:3371	inCount:1	outCount:2	links:	url:D003371	name:Cough	normalName:cough	normalWikiTitle:cough	predictedType:Disease
+ENTITY	text:edema	normalName:edema	predictedType:disease	q:true	qid:Q495	docId:18201582	origText:edema	url:D004487
+CANDIDATE	id:4487	inCount:6	outCount:1	links:	url:D004487	name:Edema	normalName:edema	normalWikiTitle:edema	predictedType:Disease
+ENTITY	text:dizziness	normalName:dizziness	predictedType:disease	q:true	qid:Q495	docId:18201582	origText:dizziness	url:D004244
+CANDIDATE	id:4244	inCount:1	outCount:1	links:	url:D004244	name:Dizziness	normalName:dizziness	normalWikiTitle:dizziness	predictedType:Disease
+ENTITY	text:diarrhea	normalName:diarrhea	predictedType:disease	q:true	qid:Q495	docId:18201582	origText:diarrhea	url:D003967
+CANDIDATE	id:3967	inCount:14	outCount:1	links:	url:D003967	name:Diarrhea	normalName:diarrhea	normalWikiTitle:diarrhea	predictedType:Disease

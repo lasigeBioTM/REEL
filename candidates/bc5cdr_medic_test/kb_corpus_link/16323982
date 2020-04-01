@@ -1,0 +1,17 @@
+ENTITY	text:coronary heart disease	normalName:coronary heart disease	predictedType:disease	q:true	qid:Q258	docId:16323982	origText:coronary heart disease	url:D003327
+CANDIDATE	id:3327	inCount:7	outCount:1	links:3327	url:D003327	name:Disease, Coronary Heart	normalName:disease, coronary heart	normalWikiTitle:disease, coronary heart	predictedType:Disease
+ENTITY	text:coronary arterial disease	normalName:coronary arterial disease	predictedType:disease	q:true	qid:Q258	docId:16323982	origText:coronary arterial disease	url:D003324
+CANDIDATE	id:3324	inCount:4	outCount:2	links:3324	url:D003324	name:Coronary Artery Disease	normalName:coronary artery disease	normalWikiTitle:coronary artery disease	predictedType:Disease
+CANDIDATE	id:2539	inCount:6	outCount:1	links:	url:D002539	name:Cerebral Arterial Diseases	normalName:cerebral arterial diseases	normalWikiTitle:cerebral arterial diseases	predictedType:Disease
+CANDIDATE	id:3327	inCount:7	outCount:1	links:3327	url:D003327	name:Coronary Disease	normalName:coronary disease	normalWikiTitle:coronary disease	predictedType:Disease
+CANDIDATE	id:303	inCount:6	outCount:1	links:	url:D000303	name:Adrenal Cortex Diseases	normalName:adrenal cortex diseases	normalWikiTitle:adrenal cortex diseases	predictedType:Disease
+CANDIDATE	id:2340	inCount:5	outCount:1	links:	url:D002340	name:Carotid Artery Diseases	normalName:carotid artery diseases	normalWikiTitle:carotid artery diseases	predictedType:Disease
+CANDIDATE	id:567045	inCount:0	outCount:2	links:	url:C567045	name:Coronary Artery Disease, Autosomal Dominant 2	normalName:coronary artery disease, autosomal dominant 2	normalWikiTitle:coronary artery disease, autosomal dominant 2	predictedType:Disease
+CANDIDATE	id:564258	inCount:0	outCount:2	links:	url:C564258	name:Coronary Artery Disease, Autosomal Dominant, 1	normalName:coronary artery disease, autosomal dominant, 1	normalWikiTitle:coronary artery disease, autosomal dominant, 1	predictedType:Disease
+CANDIDATE	id:565153	inCount:0	outCount:2	links:	url:C565153	name:Coronary Artery Dissection, Spontaneous	normalName:coronary artery dissection, spontaneous	normalWikiTitle:coronary artery dissection, spontaneous	predictedType:Disease
+CANDIDATE	id:2357	inCount:10	outCount:2	links:	url:D002357	name:Cartilage Diseases	normalName:cartilage diseases	normalWikiTitle:cartilage diseases	predictedType:Disease
+CANDIDATE	id:1018	inCount:6	outCount:1	links:	url:D001018	name:Aortic Diseases	normalName:aortic diseases	normalWikiTitle:aortic diseases	predictedType:Disease
+ENTITY	text:prostate cancer	normalName:prostate cancer	predictedType:disease	q:true	qid:Q258	docId:16323982	origText:prostate cancer	url:D011471
+CANDIDATE	id:11471	inCount:19	outCount:2	links:	url:D011471	name:Prostate Cancer	normalName:prostate cancer	normalWikiTitle:prostate cancer	predictedType:Disease
+ENTITY	text:coronary arteriosclerosis	normalName:coronary arteriosclerosis	predictedType:disease	q:true	qid:Q258	docId:16323982	origText:coronary arteriosclerosis	url:D003324
+CANDIDATE	id:3324	inCount:4	outCount:2	links:3324	url:D003324	name:Coronary Arteriosclerosis	normalName:coronary arteriosclerosis	normalWikiTitle:coronary arteriosclerosis	predictedType:Disease

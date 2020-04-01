@@ -1,0 +1,21 @@
+ENTITY	text:risperidone	normalName:risperidone	predictedType:chemical	q:true	qid:Q907	docId:9165568	origText:risperidone	url:D018967
+CANDIDATE	id:18967	inCount:2	outCount:1	links:	url:D018967	name:Risperidone	normalName:risperidone	normalWikiTitle:risperidone	predictedType:Chemical
+ENTITY	text:serotonin	normalName:serotonin	predictedType:chemical	q:true	qid:Q907	docId:9165568	origText:serotonin	url:D012701
+CANDIDATE	id:12701	inCount:48	outCount:2	links:	url:D012701	name:Serotonin	normalName:serotonin	normalWikiTitle:serotonin	predictedType:Chemical
+ENTITY	text:benzisoxazole	normalName:benzisoxazole	predictedType:chemical	q:true	qid:Q907	docId:9165568	origText:benzisoxazole	url:C441200
+CANDIDATE	id:441200	inCount:0	outCount:1	links:	url:C441200	name:1,2-benzisoxazole	normalName:1,2-benzisoxazole	normalWikiTitle:1,2-benzisoxazole	predictedType:Chemical
+CANDIDATE	id:1583	inCount:183	outCount:1	links:	url:D001583	name:Benzoxazoles	normalName:benzoxazoles	normalWikiTitle:benzoxazoles	predictedType:Chemical
+CANDIDATE	id:466948	inCount:0	outCount:1	links:	url:C466948	name:benzisothiazole	normalName:benzisothiazole	normalWikiTitle:benzisothiazole	predictedType:Chemical
+CANDIDATE	id:17057	inCount:0	outCount:1	links:	url:C017057	name:benzoxazolone	normalName:benzoxazolone	normalWikiTitle:benzoxazolone	predictedType:Chemical
+CANDIDATE	id:7555	inCount:403	outCount:1	links:	url:D007555	name:Isoxazoles	normalName:isoxazoles	normalWikiTitle:isoxazoles	predictedType:Chemical
+CANDIDATE	id:5465	inCount:0	outCount:1	links:	url:C005465	name:benzothiazole	normalName:benzothiazole	normalWikiTitle:benzothiazole	predictedType:Chemical
+CANDIDATE	id:9999	inCount:0	outCount:1	links:	url:C009999	name:benzonidazole	normalName:benzonidazole	normalWikiTitle:benzonidazole	predictedType:Chemical
+CANDIDATE	id:12771	inCount:0	outCount:1	links:	url:C012771	name:benzotriazole	normalName:benzotriazole	normalWikiTitle:benzotriazole	predictedType:Chemical
+CANDIDATE	id:52117	inCount:178	outCount:2	links:	url:D052117	name:Benzodioxoles	normalName:benzodioxoles	normalWikiTitle:benzodioxoles	predictedType:Chemical
+CANDIDATE	id:31000	inCount:0	outCount:1	links:	url:C031000	name:benzimidazole	normalName:benzimidazole	normalWikiTitle:benzimidazole	predictedType:Chemical
+ENTITY	text:dantrolene	normalName:dantrolene	predictedType:chemical	q:true	qid:Q907	docId:9165568	origText:dantrolene	url:D003620
+CANDIDATE	id:3620	inCount:12	outCount:1	links:	url:D003620	name:Dantrolene	normalName:dantrolene	normalWikiTitle:dantrolene	predictedType:Chemical
+ENTITY	text:dopamine	normalName:dopamine	predictedType:chemical	q:true	qid:Q907	docId:9165568	origText:dopamine	url:D004298
+CANDIDATE	id:4298	inCount:90	outCount:2	links:	url:D004298	name:Dopamine	normalName:dopamine	normalWikiTitle:dopamine	predictedType:Chemical
+ENTITY	text:bromocriptine	normalName:bromocriptine	predictedType:chemical	q:true	qid:Q907	docId:9165568	origText:bromocriptine	url:D001971
+CANDIDATE	id:1971	inCount:0	outCount:2	links:	url:D001971	name:Bromocriptine	normalName:bromocriptine	normalWikiTitle:bromocriptine	predictedType:Chemical

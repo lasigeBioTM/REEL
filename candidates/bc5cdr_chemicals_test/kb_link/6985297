@@ -1,0 +1,4 @@
+ENTITY	text:potassium	normalName:potassium	predictedType:chemical	q:true	qid:Q495	docId:6985297	origText:potassium	url:D011188
+CANDIDATE	id:11188	inCount:10	outCount:2	links:	url:D011188	name:Potassium	normalName:potassium	normalWikiTitle:potassium	predictedType:Chemical
+ENTITY	text:bepridil	normalName:bepridil	predictedType:chemical	q:true	qid:Q495	docId:6985297	origText:bepridil	url:D015764
+CANDIDATE	id:15764	inCount:3	outCount:1	links:	url:D015764	name:Bepridil	normalName:bepridil	normalWikiTitle:bepridil	predictedType:Chemical

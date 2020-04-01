@@ -1,0 +1,12 @@
+ENTITY	text:atropine	normalName:atropine	predictedType:chemical	q:true	qid:Q949	docId:7785794	origText:atropine	url:D001285
+CANDIDATE	id:1285	inCount:16	outCount:1	links:	url:D001285	name:Atropine	normalName:atropine	normalWikiTitle:atropine	predictedType:Chemical
+ENTITY	text:dobutamine	normalName:dobutamine	predictedType:chemical	q:true	qid:Q949	docId:7785794	origText:dobutamine	url:D004280
+CANDIDATE	id:4280	inCount:2	outCount:2	links:	url:D004280	name:Dobutamine	normalName:dobutamine	normalWikiTitle:dobutamine	predictedType:Chemical
+ENTITY	text:verapamil	normalName:verapamil	predictedType:chemical	q:true	qid:Q949	docId:7785794	origText:verapamil	url:D014700
+CANDIDATE	id:14700	inCount:37	outCount:1	links:2122;8790	url:D014700	name:Verapamil	normalName:verapamil	normalWikiTitle:verapamil	predictedType:Chemical
+ENTITY	text:dopamine	normalName:dopamine	predictedType:chemical	q:true	qid:Q949	docId:7785794	origText:dopamine	url:D004298
+CANDIDATE	id:4298	inCount:90	outCount:2	links:	url:D004298	name:Dopamine	normalName:dopamine	normalWikiTitle:dopamine	predictedType:Chemical
+ENTITY	text:metoprolol	normalName:metoprolol	predictedType:chemical	q:true	qid:Q949	docId:7785794	origText:metoprolol	url:D008790
+CANDIDATE	id:8790	inCount:9	outCount:1	links:14700	url:D008790	name:Metoprolol	normalName:metoprolol	normalWikiTitle:metoprolol	predictedType:Chemical
+ENTITY	text:calcium chloride	normalName:calcium chloride	predictedType:chemical	q:true	qid:Q949	docId:7785794	origText:calcium chloride	url:D002122
+CANDIDATE	id:2122	inCount:8	outCount:2	links:14700	url:D002122	name:Calcium Chloride	normalName:calcium chloride	normalWikiTitle:calcium chloride	predictedType:Chemical

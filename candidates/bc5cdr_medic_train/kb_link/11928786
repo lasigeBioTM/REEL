@@ -1,0 +1,37 @@
+ENTITY	text:cardiac arrest	normalName:cardiac arrest	predictedType:disease	q:true	qid:Q59	docId:11928786	origText:cardiac arrest	url:D006323
+CANDIDATE	id:6323	inCount:2	outCount:1	links:	url:D006323	name:Arrest, Cardiac	normalName:arrest, cardiac	normalWikiTitle:arrest, cardiac	predictedType:Disease
+ENTITY	text:toxicity	normalName:toxicity	predictedType:disease	q:true	qid:Q59	docId:11928786	origText:toxicity	url:D064420
+CANDIDATE	id:64420	inCount:10	outCount:1	links:	url:D064420	name:Drug Toxicity	normalName:drug toxicity	normalWikiTitle:drug toxicity	predictedType:Disease
+CANDIDATE	id:66126	inCount:0	outCount:3	links:	url:D066126	name:Cardiotoxicity	normalName:cardiotoxicity	normalWikiTitle:cardiotoxicity	predictedType:Disease
+CANDIDATE	id:15651	inCount:2	outCount:1	links:	url:D015651	name:Mycotoxicosis	normalName:mycotoxicosis	normalWikiTitle:mycotoxicosis	predictedType:Disease
+CANDIDATE	id:13971	inCount:2	outCount:1	links:	url:D013971	name:Thyrotoxicosis	normalName:thyrotoxicosis	normalWikiTitle:thyrotoxicosis	predictedType:Disease
+CANDIDATE	id:14869	inCount:0	outCount:2	links:	url:D014869	name:Water Intoxication	normalName:water intoxication	normalWikiTitle:water intoxication	predictedType:Disease
+CANDIDATE	id:14103	inCount:4	outCount:2	links:	url:D014103	name:Torticollis	normalName:torticollis	normalWikiTitle:torticollis	predictedType:Disease
+CANDIDATE	id:9765	inCount:42	outCount:2	links:	url:D009765	name:Obesity	normalName:obesity	normalWikiTitle:obesity	predictedType:Disease
+CANDIDATE	id:14115	inCount:1	outCount:1	links:	url:D014115	name:Toxemia	normalName:toxemia	normalWikiTitle:toxemia	predictedType:Disease
+CANDIDATE	id:7246	inCount:2	outCount:2	links:	url:D007246	name:Infertility	normalName:infertility	normalWikiTitle:infertility	predictedType:Disease
+CANDIDATE	id:20234	inCount:0	outCount:2	links:	url:D020234	name:Gait Ataxia	normalName:gait ataxia	normalWikiTitle:gait ataxia	predictedType:Disease
+CANDIDATE	id:14069	inCount:1	outCount:1	links:	url:D014069	name:Tonsillitis	normalName:tonsillitis	normalWikiTitle:tonsillitis	predictedType:Disease
+CANDIDATE	id:64420	inCount:10	outCount:1	links:	url:D064420	name:Toxicity, Drug	normalName:toxicity, drug	normalWikiTitle:toxicity, drug	predictedType:Disease
+CANDIDATE	id:17484	inCount:0	outCount:2	links:	url:D017484	name:Phototoxicity	normalName:phototoxicity	normalWikiTitle:phototoxicity	predictedType:Disease
+ENTITY	text:tachycardia	normalName:tachycardia	predictedType:disease	q:true	qid:Q59	docId:11928786	origText:tachycardia	url:D013610
+CANDIDATE	id:13610	inCount:7	outCount:2	links:	url:D013610	name:Tachycardia	normalName:tachycardia	normalWikiTitle:tachycardia	predictedType:Disease
+ENTITY	text:seizures	normalName:seizures	predictedType:disease	q:true	qid:Q59	docId:11928786	origText:seizures	url:D012640
+CANDIDATE	id:12640	inCount:53	outCount:1	links:12640	url:D012640	name:Seizure	normalName:seizure	normalWikiTitle:seizure	predictedType:Disease
+ENTITY	text:convulsions	normalName:convulsions	predictedType:disease	q:true	qid:Q59	docId:11928786	origText:convulsions	url:D012640
+CANDIDATE	id:12640	inCount:53	outCount:1	links:12640	url:D012640	name:Convulsion	normalName:convulsion	normalWikiTitle:convulsion	predictedType:Disease
+ENTITY	text:hallucinations	normalName:hallucinations	predictedType:disease	q:true	qid:Q59	docId:11928786	origText:hallucinations	url:D006212
+CANDIDATE	id:6212	inCount:1	outCount:1	links:	url:D006212	name:Hallucinations	normalName:hallucinations	normalWikiTitle:hallucinations	predictedType:Disease
+ENTITY	text:cardiac arrhythmias	normalName:cardiac arrhythmias	predictedType:disease	q:true	qid:Q59	docId:11928786	origText:cardiac arrhythmias	url:D001145
+CANDIDATE	id:1145	inCount:27	outCount:2	links:	url:D001145	name:Arrhythmia, Cardiac	normalName:arrhythmia, cardiac	normalWikiTitle:arrhythmia, cardiac	predictedType:Disease
+ENTITY	text:overdose	normalName:overdose	predictedType:disease	q:true	qid:Q59	docId:11928786	origText:overdose	url:D062787
+CANDIDATE	id:62787	inCount:0	outCount:1	links:	url:D062787	name:Drug Overdose	normalName:drug overdose	normalWikiTitle:drug overdose	predictedType:Disease
+CANDIDATE	id:57887	inCount:0	outCount:1	links:	url:D057887	name:Overbite	normalName:overbite	normalWikiTitle:overbite	predictedType:Disease
+CANDIDATE	id:8141	inCount:2	outCount:1	links:	url:D008141	name:Lordosis	normalName:lordosis	normalWikiTitle:lordosis	predictedType:Disease
+CANDIDATE	id:564931	inCount:0	outCount:2	links:	url:C564931	name:Oliver Syndrome	normalName:oliver syndrome	normalWikiTitle:oliver syndrome	predictedType:Disease
+CANDIDATE	id:50177	inCount:1	outCount:1	links:	url:D050177	name:Overweight	normalName:overweight	normalWikiTitle:overweight	predictedType:Disease
+CANDIDATE	id:1882	inCount:0	outCount:2	links:	url:D001882	name:Border Disease	normalName:border disease	normalWikiTitle:border disease	predictedType:Disease
+CANDIDATE	id:12393	inCount:1	outCount:1	links:	url:D012393	name:Rosacea	normalName:rosacea	normalWikiTitle:rosacea	predictedType:Disease
+CANDIDATE	id:14717	inCount:2	outCount:2	links:	url:D014717	name:Vertigo	normalName:vertigo	normalWikiTitle:vertigo	predictedType:Disease
+CANDIDATE	id:7918	inCount:2	outCount:1	links:	url:D007918	name:Leprosy	normalName:leprosy	normalWikiTitle:leprosy	predictedType:Disease
+CANDIDATE	id:6732	inCount:1	outCount:2	links:	url:D006732	name:Horner Syndrome	normalName:horner syndrome	normalWikiTitle:horner syndrome	predictedType:Disease

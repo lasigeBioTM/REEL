@@ -1,0 +1,12 @@
+ENTITY	text:iohexol	normalName:iohexol	predictedType:chemical	q:true	qid:Q16	docId:20195852	origText:iohexol	url:D007472
+CANDIDATE	id:7472	inCount:9	outCount:1	links:3287;38192	url:D007472	name:Iohexol	normalName:iohexol	normalWikiTitle:iohexol	predictedType:Chemical
+ENTITY	text:creatinine	normalName:creatinine	predictedType:chemical	q:true	qid:Q16	docId:20195852	origText:creatinine	url:D003404
+CANDIDATE	id:3404	inCount:8	outCount:1	links:	url:D003404	name:Creatinine	normalName:creatinine	normalWikiTitle:creatinine	predictedType:Chemical
+ENTITY	text:sodium	normalName:sodium	predictedType:chemical	q:true	qid:Q16	docId:20195852	origText:sodium	url:D012964
+CANDIDATE	id:12964	inCount:10	outCount:2	links:	url:D012964	name:Sodium	normalName:sodium	normalWikiTitle:sodium	predictedType:Chemical
+ENTITY	text:potassium	normalName:potassium	predictedType:chemical	q:true	qid:Q16	docId:20195852	origText:potassium	url:D011188
+CANDIDATE	id:11188	inCount:10	outCount:2	links:	url:D011188	name:Potassium	normalName:potassium	normalWikiTitle:potassium	predictedType:Chemical
+ENTITY	text:iopromide	normalName:iopromide	predictedType:chemical	q:true	qid:Q16	docId:20195852	origText:iopromide	url:C038192
+CANDIDATE	id:38192	inCount:0	outCount:1	links:3287;7472	url:C038192	name:iopromide	normalName:iopromide	normalWikiTitle:iopromide	predictedType:Chemical
+ENTITY	text:contrast media	normalName:contrast media	predictedType:chemical	q:true	qid:Q16	docId:20195852	origText:contrast media	url:D003287
+CANDIDATE	id:3287	inCount:0	outCount:2	links:7472;38192	url:D003287	name:Contrast Media	normalName:contrast media	normalWikiTitle:contrast media	predictedType:Chemical

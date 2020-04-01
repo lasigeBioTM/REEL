@@ -1,0 +1,4 @@
+ENTITY	text:nicotine	normalName:nicotine	predictedType:chemical	q:true	qid:Q245	docId:15275829	origText:nicotine	url:D009538
+CANDIDATE	id:9538	inCount:50	outCount:2	links:	url:D009538	name:Nicotine	normalName:nicotine	normalWikiTitle:nicotine	predictedType:Chemical
+ENTITY	text:acetylcholine	normalName:acetylcholine	predictedType:chemical	q:true	qid:Q245	docId:15275829	origText:acetylcholine	url:D000109
+CANDIDATE	id:109	inCount:23	outCount:1	links:	url:D000109	name:Acetylcholine	normalName:acetylcholine	normalWikiTitle:acetylcholine	predictedType:Chemical

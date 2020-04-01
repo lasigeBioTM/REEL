@@ -1,0 +1,8 @@
+ENTITY	text:isoflurane	normalName:isoflurane	predictedType:chemical	q:true	qid:Q226	docId:3676049	origText:isoflurane	url:D007530
+CANDIDATE	id:7530	inCount:1	outCount:1	links:	url:D007530	name:Isoflurane	normalName:isoflurane	normalWikiTitle:isoflurane	predictedType:Chemical
+ENTITY	text:nitrous oxide	normalName:nitrous oxide	predictedType:chemical	q:true	qid:Q226	docId:3676049	origText:nitrous oxide	url:D009609
+CANDIDATE	id:9609	inCount:3	outCount:1	links:	url:D009609	name:Nitrous Oxide	normalName:nitrous oxide	normalWikiTitle:nitrous oxide	predictedType:Chemical
+ENTITY	text:oxygen	normalName:oxygen	predictedType:chemical	q:true	qid:Q226	docId:3676049	origText:oxygen	url:D010100
+CANDIDATE	id:10100	inCount:11	outCount:2	links:	url:D010100	name:Oxygen	normalName:oxygen	normalWikiTitle:oxygen	predictedType:Chemical
+ENTITY	text:xenon	normalName:xenon	predictedType:chemical	q:true	qid:Q226	docId:3676049	origText:xenon	url:D014978
+CANDIDATE	id:14978	inCount:3	outCount:1	links:	url:D014978	name:Xenon	normalName:xenon	normalWikiTitle:xenon	predictedType:Chemical

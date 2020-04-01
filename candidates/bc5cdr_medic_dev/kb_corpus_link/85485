@@ -1,0 +1,21 @@
+ENTITY	text:tumor	normalName:tumor	predictedType:disease	q:true	qid:Q97	docId:85485	origText:tumor	url:D009369
+CANDIDATE	id:9369	inCount:18	outCount:1	links:9369	url:D009369	name:Tumor	normalName:tumor	normalWikiTitle:tumor	predictedType:Disease
+ENTITY	text:liver lesions	normalName:liver lesions	predictedType:disease	q:true	qid:Q97	docId:85485	origText:liver lesions	url:D017093
+CANDIDATE	id:17093	inCount:5	outCount:1	links:	url:D017093	name:Liver Failure	normalName:liver failure	normalWikiTitle:liver failure	predictedType:Disease
+CANDIDATE	id:8100	inCount:2	outCount:2	links:	url:D008100	name:Liver Abscess	normalName:liver abscess	normalWikiTitle:liver abscess	predictedType:Disease
+CANDIDATE	id:10373	inCount:0	outCount:2	links:	url:D010373	name:Lice Infestations	normalName:lice infestations	normalWikiTitle:lice infestations	predictedType:Disease
+CANDIDATE	id:8107	inCount:37	outCount:1	links:	url:D008107	name:Liver Diseases	normalName:liver diseases	normalWikiTitle:liver diseases	predictedType:Disease
+CANDIDATE	id:8103	inCount:11	outCount:1	links:	url:D008103	name:Liver Cirrhosis	normalName:liver cirrhosis	normalWikiTitle:liver cirrhosis	predictedType:Disease
+CANDIDATE	id:10996	inCount:1	outCount:1	links:	url:D010996	name:Pleural Effusion	normalName:pleural effusion	normalWikiTitle:pleural effusion	predictedType:Disease
+CANDIDATE	id:267	inCount:0	outCount:1	links:	url:D000267	name:Tissue Adhesions	normalName:tissue adhesions	normalWikiTitle:tissue adhesions	predictedType:Disease
+CANDIDATE	id:12883	inCount:5	outCount:1	links:	url:D012883	name:Skin Ulcer	normalName:skin ulcer	normalWikiTitle:skin ulcer	predictedType:Disease
+CANDIDATE	id:8924	inCount:2	outCount:1	links:	url:D008924	name:Mite Infestations	normalName:mite infestations	normalWikiTitle:mite infestations	predictedType:Disease
+CANDIDATE	id:16180	inCount:6	outCount:1	links:	url:D016180	name:Lentivirus Infections	normalName:lentivirus infections	normalWikiTitle:lentivirus infections	predictedType:Disease
+CANDIDATE	id:8107	inCount:37	outCount:1	links:	url:D008107	name:Liver Dysfunctions	normalName:liver dysfunctions	normalWikiTitle:liver dysfunctions	predictedType:Disease
+CANDIDATE	id:8107	inCount:37	outCount:1	links:	url:D008107	name:Dysfunctions, Liver	normalName:dysfunctions, liver	normalWikiTitle:dysfunctions, liver	predictedType:Disease
+ENTITY	text:tumors	normalName:tumors	predictedType:disease	q:true	qid:Q97	docId:85485	origText:tumors	url:D009369
+CANDIDATE	id:9369	inCount:18	outCount:1	links:9369	url:D009369	name:Tumor	normalName:tumor	normalWikiTitle:tumor	predictedType:Disease
+ENTITY	text:hepatomas	normalName:hepatomas	predictedType:disease	q:true	qid:Q97	docId:85485	origText:hepatomas	url:D006528
+CANDIDATE	id:6528	inCount:3	outCount:2	links:6528	url:D006528	name:Hepatoma	normalName:hepatoma	normalWikiTitle:hepatoma	predictedType:Disease
+ENTITY	text:hepatoma	normalName:hepatoma	predictedType:disease	q:true	qid:Q97	docId:85485	origText:hepatoma	url:D006528
+CANDIDATE	id:6528	inCount:3	outCount:2	links:6528	url:D006528	name:Hepatoma	normalName:hepatoma	normalWikiTitle:hepatoma	predictedType:Disease

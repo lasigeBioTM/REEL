@@ -1,0 +1,23 @@
+ENTITY	text:decreased cranial to body growth	normalName:decreased cranial to body growth	predictedType:disease	q:true	qid:Q253	docId:16634859	origText:decreased cranial to body growth	url:D006130
+CANDIDATE	id:6130	inCount:185	outCount:1	links:	url:D006130	name:Growth Disorders	normalName:growth disorders	normalWikiTitle:growth disorders	predictedType:Disease
+CANDIDATE	id:3389	inCount:16	outCount:1	links:	url:D003389	name:Cranial Nerve Diseases	normalName:cranial nerve diseases	normalWikiTitle:cranial nerve diseases	predictedType:Disease
+CANDIDATE	id:1836	inCount:3	outCount:1	links:	url:D001836	name:Body Weight Changes	normalName:body weight changes	normalWikiTitle:body weight changes	predictedType:Disease
+CANDIDATE	id:563592	inCount:0	outCount:1	links:	url:C563592	name:Membranous Cranial Ossification, Delayed	normalName:membranous cranial ossification, delayed	normalWikiTitle:membranous cranial ossification, delayed	predictedType:Disease
+CANDIDATE	id:614228	inCount:0	outCount:1	links:	url:614228	name:CHARCOT-MARIE-TOOTH DISEASE, AXONAL, TYPE 2O	normalName:charcot-marie-tooth disease, axonal, type 2o	normalWikiTitle:charcot-marie-tooth disease, axonal, type 2o	predictedType:Disease
+CANDIDATE	id:616687	inCount:0	outCount:1	links:	url:616687	name:CHARCOT-MARIE-TOOTH DISEASE, AXONAL, TYPE 2Y	normalName:charcot-marie-tooth disease, axonal, type 2y	normalWikiTitle:charcot-marie-tooth disease, axonal, type 2y	predictedType:Disease
+CANDIDATE	id:536543	inCount:0	outCount:3	links:	url:C536543	name:Vertebral body fusion overgrowth	normalName:vertebral body fusion overgrowth	normalWikiTitle:vertebral body fusion overgrowth	predictedType:Disease
+CANDIDATE	id:6407	inCount:0	outCount:3	links:	url:D006407	name:Hematoma, Epidural, Cranial	normalName:hematoma, epidural, cranial	normalWikiTitle:hematoma, epidural, cranial	predictedType:Disease
+CANDIDATE	id:565529	inCount:0	outCount:1	links:	url:C565529	name:Growth Factors, Combined Defect of	normalName:growth factors, combined defect of	normalWikiTitle:growth factors, combined defect of	predictedType:Disease
+CANDIDATE	id:536265	inCount:0	outCount:2	links:	url:C536265	name:Radiation induced brachial plexopathy	normalName:radiation induced brachial plexopathy	normalWikiTitle:radiation induced brachial plexopathy	predictedType:Disease
+CANDIDATE	id:20961	inCount:3	outCount:3	links:	url:D020961	name:Lewy Body Disease, Cortical	normalName:lewy body disease, cortical	normalWikiTitle:lewy body disease, cortical	predictedType:Disease
+CANDIDATE	id:20961	inCount:3	outCount:3	links:	url:D020961	name:Cortical Lewy Body Disease	normalName:cortical lewy body disease	normalWikiTitle:cortical lewy body disease	predictedType:Disease
+CANDIDATE	id:12021	inCount:5	outCount:1	links:	url:D012021	name:Reflex, Corneal, Decreased	normalName:reflex, corneal, decreased	normalWikiTitle:reflex, corneal, decreased	predictedType:Disease
+CANDIDATE	id:12021	inCount:5	outCount:1	links:	url:D012021	name:Reflex, Anal, Decreased	normalName:reflex, anal, decreased	normalWikiTitle:reflex, anal, decreased	predictedType:Disease
+CANDIDATE	id:20432	inCount:1	outCount:1	links:	url:D020432	name:Fourth Cranial Nerve Diseases	normalName:fourth cranial nerve diseases	normalWikiTitle:fourth cranial nerve diseases	predictedType:Disease
+CANDIDATE	id:160	inCount:6	outCount:2	links:	url:D000160	name:Eighth Cranial Nerve Diseases	normalName:eighth cranial nerve diseases	normalWikiTitle:eighth cranial nerve diseases	predictedType:Disease
+CANDIDATE	id:20437	inCount:1	outCount:1	links:	url:D020437	name:Twelfth Cranial Nerve Diseases	normalName:twelfth cranial nerve diseases	normalWikiTitle:twelfth cranial nerve diseases	predictedType:Disease
+CANDIDATE	id:20434	inCount:2	outCount:1	links:	url:D020434	name:VIth Cranial Nerve Diseases	normalName:vith cranial nerve diseases	normalWikiTitle:vith cranial nerve diseases	predictedType:Disease
+CANDIDATE	id:20421	inCount:2	outCount:1	links:	url:D020421	name:Tenth Cranial Nerve Diseases	normalName:tenth cranial nerve diseases	normalWikiTitle:tenth cranial nerve diseases	predictedType:Disease
+CANDIDATE	id:15840	inCount:3	outCount:1	links:	url:D015840	name:Third Cranial Nerve Diseases	normalName:third cranial nerve diseases	normalWikiTitle:third cranial nerve diseases	predictedType:Disease
+ENTITY	text:drug abuse	normalName:drug abuse	predictedType:disease	q:true	qid:Q253	docId:16634859	origText:drug abuse	url:D019966
+CANDIDATE	id:19966	inCount:15	outCount:2	links:	url:D019966	name:Drug Abuse	normalName:drug abuse	normalWikiTitle:drug abuse	predictedType:Disease

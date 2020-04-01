@@ -1,0 +1,54 @@
+ENTITY	text:N-methyl-d-aspartate	normalName:n-methyl-d-aspartate	predictedType:chemical	q:true	qid:Q52	docId:11860495	origText:N-methyl-d-aspartate	url:D016202
+CANDIDATE	id:16202	inCount:3	outCount:1	links:16202	url:D016202	name:N-Methyl-D-aspartate	normalName:n-methyl-d-aspartate	normalWikiTitle:n-methyl-d-aspartate	predictedType:Chemical
+ENTITY	text:Steroid	normalName:steroid	predictedType:chemical	q:true	qid:Q52	docId:11860495	origText:Steroid	url:D013256
+CANDIDATE	id:13256	inCount:415	outCount:1	links:13256	url:D013256	name:Steroids	normalName:steroids	normalWikiTitle:steroids	predictedType:Chemical
+CANDIDATE	id:549774	inCount:0	outCount:1	links:549774	url:C549774	name:Sterodin	normalName:sterodin	normalWikiTitle:sterodin	predictedType:Chemical
+CANDIDATE	id:9654	inCount:35	outCount:1	links:9654	url:D009654	name:Norsteroids	normalName:norsteroids	normalWikiTitle:norsteroids	predictedType:Chemical
+CANDIDATE	id:1378	inCount:68	outCount:1	links:1378	url:D001378	name:Azasteroids	normalName:azasteroids	normalWikiTitle:azasteroids	predictedType:Chemical
+CANDIDATE	id:19432	inCount:0	outCount:1	links:19432	url:C019432	name:zeroid	normalName:zeroid	normalWikiTitle:zeroid	predictedType:Chemical
+CANDIDATE	id:2566	inCount:0	outCount:2	links:2566	url:D002566	name:Ceroid	normalName:ceroid	normalWikiTitle:ceroid	predictedType:Chemical
+CANDIDATE	id:49412	inCount:0	outCount:1	links:49412	url:C049412	name:sweroside	normalName:sweroside	normalWikiTitle:sweroside	predictedType:Chemical
+CANDIDATE	id:35227	inCount:0	outCount:1	links:35227	url:C035227	name:stepronin	normalName:stepronin	normalWikiTitle:stepronin	predictedType:Chemical
+CANDIDATE	id:13722	inCount:2	outCount:1	links:13722	url:D013722	name:Teprotide	normalName:teprotide	normalWikiTitle:teprotide	predictedType:Chemical
+CANDIDATE	id:7664	inCount:6	outCount:1	links:7664	url:D007664	name:Ketosteroids	normalName:ketosteroids	normalWikiTitle:ketosteroids	predictedType:Chemical
+ENTITY	text:NMDA	normalName:nmda	predictedType:chemical	q:true	qid:Q52	docId:11860495	origText:NMDA	url:D016202
+CANDIDATE	id:16202	inCount:3	outCount:1	links:16202	url:D016202	name:NMDA	normalName:nmda	normalWikiTitle:nmda	predictedType:Chemical
+ENTITY	text:pregnenolone sulphate	normalName:pregnenolone sulphate	predictedType:chemical	q:true	qid:Q52	docId:11860495	origText:pregnenolone sulphate	url:C018370
+CANDIDATE	id:18370	inCount:0	outCount:1	links:18370	url:C018370	name:pregnenolone sulfate	normalName:pregnenolone sulfate	normalWikiTitle:pregnenolone sulfate	predictedType:Chemical
+CANDIDATE	id:106135	inCount:0	outCount:2	links:106135	url:C106135	name:pregnenolone 3-stearate	normalName:pregnenolone 3-stearate	normalWikiTitle:pregnenolone 3-stearate	predictedType:Chemical
+CANDIDATE	id:579439	inCount:0	outCount:1	links:579439	url:C579439	name:epiallopregnanolone sulfate	normalName:epiallopregnanolone sulfate	normalWikiTitle:epiallopregnanolone sulfate	predictedType:Chemical
+CANDIDATE	id:32535	inCount:0	outCount:1	links:32535	url:C032535	name:17-hydroxypregnenolone sulfate	normalName:17-hydroxypregnenolone sulfate	normalWikiTitle:17-hydroxypregnenolone sulfate	predictedType:Chemical
+CANDIDATE	id:11284	inCount:41	outCount:3	links:	url:D011284	name:Pregnenolone	normalName:pregnenolone	normalWikiTitle:pregnenolone	predictedType:Chemical
+CANDIDATE	id:9021	inCount:0	outCount:1	links:	url:C009021	name:prednisolone tebutate	normalName:prednisolone tebutate	normalWikiTitle:prednisolone tebutate	predictedType:Chemical
+CANDIDATE	id:11280	inCount:40	outCount:1	links:11280	url:D011280	name:Pregnanolone	normalName:pregnanolone	normalWikiTitle:pregnanolone	predictedType:Chemical
+CANDIDATE	id:18201	inCount:0	outCount:1	links:18201	url:C018201	name:adrenaline sulfate	normalName:adrenaline sulfate	normalWikiTitle:adrenaline sulfate	predictedType:Chemical
+CANDIDATE	id:52305	inCount:0	outCount:1	links:52305	url:C052305	name:methylprednisolone suleptanate	normalName:methylprednisolone suleptanate	normalWikiTitle:methylprednisolone suleptanate	predictedType:Chemical
+CANDIDATE	id:542571	inCount:0	outCount:1	links:	url:C542571	name:polydioxane sulfate	normalName:polydioxane sulfate	normalWikiTitle:polydioxane sulfate	predictedType:Chemical
+ENTITY	text:gamma-aminobutyric acid	normalName:gamma-aminobutyric acid	predictedType:chemical	q:true	qid:Q52	docId:11860495	origText:gamma-aminobutyric acid	url:D005680
+CANDIDATE	id:5680	inCount:100	outCount:1	links:5680	url:D005680	name:gamma-Aminobutyric Acid	normalName:gamma-aminobutyric acid	normalWikiTitle:gamma-aminobutyric acid	predictedType:Chemical
+ENTITY	text:scopolamine	normalName:scopolamine	predictedType:chemical	q:true	qid:Q52	docId:11860495	origText:scopolamine	url:D012601
+CANDIDATE	id:12601	inCount:3	outCount:2	links:	url:D012601	name:Scopolamine	normalName:scopolamine	normalWikiTitle:scopolamine	predictedType:Chemical
+ENTITY	text:steroids	normalName:steroids	predictedType:chemical	q:true	qid:Q52	docId:11860495	origText:steroids	url:D013256
+CANDIDATE	id:13256	inCount:415	outCount:1	links:13256	url:D013256	name:Steroids	normalName:steroids	normalWikiTitle:steroids	predictedType:Chemical
+CANDIDATE	id:549774	inCount:0	outCount:1	links:549774	url:C549774	name:Sterodin	normalName:sterodin	normalWikiTitle:sterodin	predictedType:Chemical
+CANDIDATE	id:9654	inCount:35	outCount:1	links:9654	url:D009654	name:Norsteroids	normalName:norsteroids	normalWikiTitle:norsteroids	predictedType:Chemical
+CANDIDATE	id:1378	inCount:68	outCount:1	links:1378	url:D001378	name:Azasteroids	normalName:azasteroids	normalWikiTitle:azasteroids	predictedType:Chemical
+CANDIDATE	id:19432	inCount:0	outCount:1	links:19432	url:C019432	name:zeroid	normalName:zeroid	normalWikiTitle:zeroid	predictedType:Chemical
+CANDIDATE	id:2566	inCount:0	outCount:2	links:2566	url:D002566	name:Ceroid	normalName:ceroid	normalWikiTitle:ceroid	predictedType:Chemical
+CANDIDATE	id:49412	inCount:0	outCount:1	links:49412	url:C049412	name:sweroside	normalName:sweroside	normalWikiTitle:sweroside	predictedType:Chemical
+CANDIDATE	id:35227	inCount:0	outCount:1	links:35227	url:C035227	name:stepronin	normalName:stepronin	normalWikiTitle:stepronin	predictedType:Chemical
+CANDIDATE	id:13722	inCount:2	outCount:1	links:13722	url:D013722	name:Teprotide	normalName:teprotide	normalWikiTitle:teprotide	predictedType:Chemical
+CANDIDATE	id:7664	inCount:6	outCount:1	links:7664	url:D007664	name:Ketosteroids	normalName:ketosteroids	normalWikiTitle:ketosteroids	predictedType:Chemical
+ENTITY	text:GABA	normalName:gaba	predictedType:chemical	q:true	qid:Q52	docId:11860495	origText:GABA	url:D005680
+CANDIDATE	id:5680	inCount:100	outCount:1	links:5680	url:D005680	name:GABA	normalName:gaba	normalWikiTitle:gaba	predictedType:Chemical
+ENTITY	text:epipregnanolone sulphate	normalName:epipregnanolone sulphate	predictedType:chemical	q:true	qid:Q52	docId:11860495	origText:epipregnanolone sulphate	url:C018370
+CANDIDATE	id:18370	inCount:0	outCount:1	links:18370	url:C018370	name:pregnenolone sulfate	normalName:pregnenolone sulfate	normalWikiTitle:pregnenolone sulfate	predictedType:Chemical
+CANDIDATE	id:579439	inCount:0	outCount:1	links:579439	url:C579439	name:epiallopregnanolone sulfate	normalName:epiallopregnanolone sulfate	normalWikiTitle:epiallopregnanolone sulfate	predictedType:Chemical
+CANDIDATE	id:106135	inCount:0	outCount:2	links:106135	url:C106135	name:pregnenolone 3-stearate	normalName:pregnenolone 3-stearate	normalWikiTitle:pregnenolone 3-stearate	predictedType:Chemical
+CANDIDATE	id:11280	inCount:40	outCount:1	links:11280	url:D011280	name:Pregnanolone	normalName:pregnanolone	normalWikiTitle:pregnanolone	predictedType:Chemical
+CANDIDATE	id:18201	inCount:0	outCount:1	links:18201	url:C018201	name:adrenaline sulfate	normalName:adrenaline sulfate	normalWikiTitle:adrenaline sulfate	predictedType:Chemical
+CANDIDATE	id:32535	inCount:0	outCount:1	links:32535	url:C032535	name:17-hydroxypregnenolone sulfate	normalName:17-hydroxypregnenolone sulfate	normalWikiTitle:17-hydroxypregnenolone sulfate	predictedType:Chemical
+CANDIDATE	id:52305	inCount:0	outCount:1	links:52305	url:C052305	name:methylprednisolone suleptanate	normalName:methylprednisolone suleptanate	normalWikiTitle:methylprednisolone suleptanate	predictedType:Chemical
+CANDIDATE	id:36526	inCount:0	outCount:1	links:	url:C036526	name:epinephrine sulfate	normalName:epinephrine sulfate	normalWikiTitle:epinephrine sulfate	predictedType:Chemical
+CANDIDATE	id:475062	inCount:0	outCount:2	links:	url:C475062	name:6-azipregnanolone	normalName:6-azipregnanolone	normalWikiTitle:6-azipregnanolone	predictedType:Chemical
+CANDIDATE	id:2683	inCount:0	outCount:1	links:	url:C002683	name:naloxone-3-ethereal sulfate	normalName:naloxone-3-ethereal sulfate	normalWikiTitle:naloxone-3-ethereal sulfate	predictedType:Chemical

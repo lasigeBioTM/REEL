@@ -1,0 +1,4 @@
+ENTITY	text:cocaine	normalName:cocaine	predictedType:chemical	q:true	qid:Q282	docId:9799166	origText:cocaine	url:D003042
+CANDIDATE	id:3042	inCount:89	outCount:1	links:	url:D003042	name:Cocaine	normalName:cocaine	normalWikiTitle:cocaine	predictedType:Chemical
+ENTITY	text:amphetamine	normalName:amphetamine	predictedType:chemical	q:true	qid:Q282	docId:9799166	origText:amphetamine	url:D000661
+CANDIDATE	id:661	inCount:1	outCount:1	links:	url:D000661	name:Amphetamine	normalName:amphetamine	normalWikiTitle:amphetamine	predictedType:Chemical

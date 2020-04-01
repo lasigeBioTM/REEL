@@ -1,0 +1,32 @@
+ENTITY	text:isoproterenol	normalName:isoproterenol	predictedType:chemical	q:true	qid:Q459	docId:3155884	origText:isoproterenol	url:D007545
+CANDIDATE	id:7545	inCount:12	outCount:2	links:	url:D007545	name:Isoproterenol	normalName:isoproterenol	normalWikiTitle:isoproterenol	predictedType:Chemical
+ENTITY	text:catecholamines	normalName:catecholamines	predictedType:chemical	q:true	qid:Q459	docId:3155884	origText:catecholamines	url:D002395
+CANDIDATE	id:2395	inCount:25	outCount:2	links:2395	url:D002395	name:Catecholamines	normalName:catecholamines	normalWikiTitle:catecholamines	predictedType:Chemical
+CANDIDATE	id:522723	inCount:0	outCount:1	links:522723	url:C522723	name:cholamine	normalName:cholamine	normalWikiTitle:cholamine	predictedType:Chemical
+CANDIDATE	id:103141	inCount:0	outCount:2	links:103141	url:C103141	name:carthamine	normalName:carthamine	normalWikiTitle:carthamine	predictedType:Chemical
+CANDIDATE	id:119993	inCount:0	outCount:2	links:119993	url:C119993	name:tamoxifen catechol	normalName:tamoxifen catechol	normalWikiTitle:tamoxifen catechol	predictedType:Chemical
+CANDIDATE	id:2392	inCount:129	outCount:2	links:2392	url:D002392	name:Catechin	normalName:catechin	normalWikiTitle:catechin	predictedType:Chemical
+CANDIDATE	id:3380	inCount:0	outCount:1	links:3380	url:C003380	name:tecomine	normalName:tecomine	normalWikiTitle:tecomine	predictedType:Chemical
+CANDIDATE	id:34221	inCount:0	outCount:1	links:34221	url:C034221	name:catechol	normalName:catechol	normalWikiTitle:catechol	predictedType:Chemical
+CANDIDATE	id:627721	inCount:0	outCount:1	links:627721	url:C000627721	name:cathafoline	normalName:cathafoline	normalWikiTitle:cathafoline	predictedType:Chemical
+CANDIDATE	id:551413	inCount:0	outCount:1	links:551413	url:C551413	name:cathenamine	normalName:cathenamine	normalWikiTitle:cathenamine	predictedType:Chemical
+CANDIDATE	id:82789	inCount:0	outCount:1	links:82789	url:C082789	name:trehalamine	normalName:trehalamine	normalWikiTitle:trehalamine	predictedType:Chemical
+ENTITY	text:epinephrine	normalName:epinephrine	predictedType:chemical	q:true	qid:Q459	docId:3155884	origText:epinephrine	url:D004837
+CANDIDATE	id:4837	inCount:33	outCount:3	links:	url:D004837	name:Epinephrine	normalName:epinephrine	normalWikiTitle:epinephrine	predictedType:Chemical
+ENTITY	text:streptozotocin	normalName:streptozotocin	predictedType:chemical	q:true	qid:Q459	docId:3155884	origText:streptozotocin	url:D013311
+CANDIDATE	id:13311	inCount:12	outCount:2	links:	url:D013311	name:Streptozotocin	normalName:streptozotocin	normalWikiTitle:streptozotocin	predictedType:Chemical
+ENTITY	text:norepinephrine	normalName:norepinephrine	predictedType:chemical	q:true	qid:Q459	docId:3155884	origText:norepinephrine	url:D009638
+CANDIDATE	id:9638	inCount:31	outCount:4	links:	url:D009638	name:Norepinephrine	normalName:norepinephrine	normalWikiTitle:norepinephrine	predictedType:Chemical
+ENTITY	text:glucose	normalName:glucose	predictedType:chemical	q:true	qid:Q459	docId:3155884	origText:glucose	url:D005947
+CANDIDATE	id:5947	inCount:160	outCount:1	links:	url:D005947	name:Glucose	normalName:glucose	normalWikiTitle:glucose	predictedType:Chemical
+ENTITY	text:catecholamine	normalName:catecholamine	predictedType:chemical	q:true	qid:Q459	docId:3155884	origText:catecholamine	url:D002395
+CANDIDATE	id:2395	inCount:25	outCount:2	links:2395	url:D002395	name:Catecholamines	normalName:catecholamines	normalWikiTitle:catecholamines	predictedType:Chemical
+CANDIDATE	id:522723	inCount:0	outCount:1	links:522723	url:C522723	name:cholamine	normalName:cholamine	normalWikiTitle:cholamine	predictedType:Chemical
+CANDIDATE	id:103141	inCount:0	outCount:2	links:103141	url:C103141	name:carthamine	normalName:carthamine	normalWikiTitle:carthamine	predictedType:Chemical
+CANDIDATE	id:119993	inCount:0	outCount:2	links:119993	url:C119993	name:tamoxifen catechol	normalName:tamoxifen catechol	normalWikiTitle:tamoxifen catechol	predictedType:Chemical
+CANDIDATE	id:2392	inCount:129	outCount:2	links:2392	url:D002392	name:Catechin	normalName:catechin	normalWikiTitle:catechin	predictedType:Chemical
+CANDIDATE	id:3380	inCount:0	outCount:1	links:3380	url:C003380	name:tecomine	normalName:tecomine	normalWikiTitle:tecomine	predictedType:Chemical
+CANDIDATE	id:34221	inCount:0	outCount:1	links:34221	url:C034221	name:catechol	normalName:catechol	normalWikiTitle:catechol	predictedType:Chemical
+CANDIDATE	id:627721	inCount:0	outCount:1	links:627721	url:C000627721	name:cathafoline	normalName:cathafoline	normalWikiTitle:cathafoline	predictedType:Chemical
+CANDIDATE	id:551413	inCount:0	outCount:1	links:551413	url:C551413	name:cathenamine	normalName:cathenamine	normalWikiTitle:cathenamine	predictedType:Chemical
+CANDIDATE	id:82789	inCount:0	outCount:1	links:82789	url:C082789	name:trehalamine	normalName:trehalamine	normalWikiTitle:trehalamine	predictedType:Chemical

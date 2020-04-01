@@ -1,0 +1,12 @@
+ENTITY	text:nitrous oxide	normalName:nitrous oxide	predictedType:chemical	q:true	qid:Q881	docId:7378868	origText:nitrous oxide	url:D009609
+CANDIDATE	id:9609	inCount:3	outCount:1	links:	url:D009609	name:Nitrous Oxide	normalName:nitrous oxide	normalWikiTitle:nitrous oxide	predictedType:Chemical
+ENTITY	text:pancuronium	normalName:pancuronium	predictedType:chemical	q:true	qid:Q881	docId:7378868	origText:pancuronium	url:D010197
+CANDIDATE	id:10197	inCount:8	outCount:1	links:	url:D010197	name:Pancuronium	normalName:pancuronium	normalWikiTitle:pancuronium	predictedType:Chemical
+ENTITY	text:oxygen	normalName:oxygen	predictedType:chemical	q:true	qid:Q881	docId:7378868	origText:oxygen	url:D010100
+CANDIDATE	id:10100	inCount:11	outCount:2	links:6221	url:D010100	name:Oxygen	normalName:oxygen	normalWikiTitle:oxygen	predictedType:Chemical
+ENTITY	text:halothane	normalName:halothane	predictedType:chemical	q:true	qid:Q881	docId:7378868	origText:halothane	url:D006221
+CANDIDATE	id:6221	inCount:6	outCount:1	links:10100	url:D006221	name:Halothane	normalName:halothane	normalWikiTitle:halothane	predictedType:Chemical
+ENTITY	text:Suxamethonium	normalName:suxamethonium	predictedType:chemical	q:true	qid:Q881	docId:7378868	origText:Suxamethonium	url:D013390
+CANDIDATE	id:13390	inCount:3	outCount:2	links:	url:D013390	name:Suxamethonium	normalName:suxamethonium	normalWikiTitle:suxamethonium	predictedType:Chemical
+ENTITY	text:dibucaine	normalName:dibucaine	predictedType:chemical	q:true	qid:Q881	docId:7378868	origText:dibucaine	url:D003992
+CANDIDATE	id:3992	inCount:8	outCount:2	links:	url:D003992	name:Dibucaine	normalName:dibucaine	normalWikiTitle:dibucaine	predictedType:Chemical

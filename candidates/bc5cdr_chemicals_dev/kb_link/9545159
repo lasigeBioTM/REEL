@@ -1,0 +1,17 @@
+ENTITY	text:cisapride	normalName:cisapride	predictedType:chemical	q:true	qid:Q371	docId:9545159	origText:cisapride	url:D020117
+CANDIDATE	id:20117	inCount:1	outCount:4	links:	url:D020117	name:Cisapride	normalName:cisapride	normalWikiTitle:cisapride	predictedType:Chemical
+ENTITY	text:diltiazem	normalName:diltiazem	predictedType:chemical	q:true	qid:Q371	docId:9545159	origText:diltiazem	url:D004110
+CANDIDATE	id:4110	inCount:19	outCount:1	links:	url:D004110	name:Diltiazem	normalName:diltiazem	normalWikiTitle:diltiazem	predictedType:Chemical
+ENTITY	text:erythromycin	normalName:erythromycin	predictedType:chemical	q:true	qid:Q371	docId:9545159	origText:erythromycin	url:D004917
+CANDIDATE	id:4917	inCount:121	outCount:1	links:	url:D004917	name:Erythromycin	normalName:erythromycin	normalWikiTitle:erythromycin	predictedType:Chemical
+ENTITY	text:azole	normalName:azole	predictedType:chemical	q:true	qid:Q371	docId:9545159	origText:azole	url:D001393
+CANDIDATE	id:1393	inCount:41	outCount:1	links:	url:D001393	name:Azoles	normalName:azoles	normalWikiTitle:azoles	predictedType:Chemical
+CANDIDATE	id:39779	inCount:0	outCount:2	links:	url:C039779	name:azarole	normalName:azarole	normalWikiTitle:azarole	predictedType:Chemical
+CANDIDATE	id:421465	inCount:0	outCount:1	links:	url:C421465	name:urazole	normalName:urazole	normalWikiTitle:urazole	predictedType:Chemical
+CANDIDATE	id:96491	inCount:0	outCount:1	links:	url:C096491	name:amole	normalName:amole	normalWikiTitle:amole	predictedType:Chemical
+CANDIDATE	id:31280	inCount:0	outCount:1	links:	url:C031280	name:pyrazole	normalName:pyrazole	normalWikiTitle:pyrazole	predictedType:Chemical
+CANDIDATE	id:10080	inCount:573	outCount:1	links:	url:D010080	name:Oxazoles	normalName:oxazoles	normalWikiTitle:oxazoles	predictedType:Chemical
+CANDIDATE	id:1625	inCount:0	outCount:1	links:	url:D001625	name:Betazole	normalName:betazole	normalWikiTitle:betazole	predictedType:Chemical
+CANDIDATE	id:62784	inCount:0	outCount:1	links:	url:C062784	name:xylazole	normalName:xylazole	normalWikiTitle:xylazole	predictedType:Chemical
+CANDIDATE	id:618351	inCount:0	outCount:1	links:	url:C000618351	name:amhezole	normalName:amhezole	normalWikiTitle:amhezole	predictedType:Chemical
+CANDIDATE	id:446539	inCount:0	outCount:1	links:	url:C446539	name:apiole	normalName:apiole	normalWikiTitle:apiole	predictedType:Chemical

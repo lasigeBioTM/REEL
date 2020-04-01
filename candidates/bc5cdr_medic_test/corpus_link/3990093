@@ -1,0 +1,15 @@
+ENTITY	text:proteinuric	normalName:proteinuric	predictedType:disease	q:true	qid:Q49	docId:3990093	origText:proteinuric	url:D011507
+CANDIDATE	id:11507	inCount:4	outCount:2	links:9401	url:D011507	name:Proteinuria	normalName:proteinuria	normalWikiTitle:proteinuria	predictedType:Disease
+CANDIDATE	id:11371	inCount:12	outCount:1	links:	url:D011371	name:Progeria	normalName:progeria	normalWikiTitle:progeria	predictedType:Disease
+CANDIDATE	id:7019	inCount:1	outCount:1	links:	url:D007019	name:Hypoproteinemia	normalName:hypoproteinemia	normalWikiTitle:hypoproteinemia	predictedType:Disease
+CANDIDATE	id:14595	inCount:0	outCount:1	links:	url:D014595	name:Uterine Perforation	normalName:uterine perforation	normalWikiTitle:uterine perforation	predictedType:Disease
+CANDIDATE	id:10309	inCount:3	outCount:2	links:	url:D010309	name:Parotitis	normalName:parotitis	normalWikiTitle:parotitis	predictedType:Disease
+CANDIDATE	id:11349	inCount:1	outCount:2	links:	url:D011349	name:Proctitis	normalName:proctitis	normalWikiTitle:proctitis	predictedType:Disease
+CANDIDATE	id:10265	inCount:8	outCount:2	links:	url:D010265	name:Paraproteinemias	normalName:paraproteinemias	normalWikiTitle:paraproteinemias	predictedType:Disease
+CANDIDATE	id:18409	inCount:1	outCount:1	links:	url:D018409	name:Foot Injuries	normalName:foot injuries	normalWikiTitle:foot injuries	predictedType:Disease
+CANDIDATE	id:3555	inCount:3	outCount:1	links:	url:D003555	name:Cystinuria	normalName:cystinuria	normalWikiTitle:cystinuria	predictedType:Disease
+CANDIDATE	id:536652	inCount:0	outCount:1	links:	url:C536652	name:Pentosuria	normalName:pentosuria	normalWikiTitle:pentosuria	predictedType:Disease
+ENTITY	text:nephrosis	normalName:nephrosis	predictedType:disease	q:true	qid:Q49	docId:3990093	origText:nephrosis	url:D009401
+CANDIDATE	id:9401	inCount:8	outCount:1	links:11507	url:D009401	name:Nephrosis	normalName:nephrosis	normalWikiTitle:nephrosis	predictedType:Disease
+ENTITY	text:sclerosis	normalName:sclerosis	predictedType:disease	q:true	qid:Q49	docId:3990093	origText:sclerosis	url:D012598
+CANDIDATE	id:12598	inCount:8	outCount:1	links:	url:D012598	name:Sclerosis	normalName:sclerosis	normalWikiTitle:sclerosis	predictedType:Disease

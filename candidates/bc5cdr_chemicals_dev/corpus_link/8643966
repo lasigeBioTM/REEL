@@ -1,0 +1,4 @@
+ENTITY	text:paclitaxel	normalName:paclitaxel	predictedType:chemical	q:true	qid:Q22	docId:8643966	origText:paclitaxel	url:D017239
+CANDIDATE	id:17239	inCount:58	outCount:1	links:	url:D017239	name:Paclitaxel	normalName:paclitaxel	normalWikiTitle:paclitaxel	predictedType:Chemical
+ENTITY	text:Taxol	normalName:taxol	predictedType:chemical	q:true	qid:Q22	docId:8643966	origText:Taxol	url:D017239
+CANDIDATE	id:17239	inCount:58	outCount:1	links:	url:D017239	name:Taxol	normalName:taxol	normalWikiTitle:taxol	predictedType:Chemical

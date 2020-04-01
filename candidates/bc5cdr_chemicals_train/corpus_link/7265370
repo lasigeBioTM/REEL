@@ -1,0 +1,6 @@
+ENTITY	text:Triamterene	normalName:triamterene	predictedType:chemical	q:true	qid:Q263	docId:7265370	origText:Triamterene	url:D014223
+CANDIDATE	id:14223	inCount:18	outCount:1	links:	url:D014223	name:Triamterene	normalName:triamterene	normalWikiTitle:triamterene	predictedType:Chemical
+ENTITY	text:dyazide	normalName:dyazide	predictedType:chemical	q:true	qid:Q263	docId:7265370	origText:dyazide	url:C020743
+CANDIDATE	id:20743	inCount:0	outCount:2	links:	url:C020743	name:Dyazide	normalName:dyazide	normalWikiTitle:dyazide	predictedType:Chemical
+ENTITY	text:hydrochlorothiazide-triamterene	normalName:hydrochlorothiazide-triamterene	predictedType:chemical	q:true	qid:Q263	docId:7265370	origText:hydrochlorothiazide-triamterene	url:C020743
+CANDIDATE	id:20743	inCount:0	outCount:2	links:	url:C020743	name:hydrochlorothiazide-triamterene	normalName:hydrochlorothiazide-triamterene	normalWikiTitle:hydrochlorothiazide-triamterene	predictedType:Chemical

@@ -1,0 +1,25 @@
+ENTITY	text:hyperosmolar, nonketotic coma	normalName:hyperosmolar, nonketotic coma	predictedType:disease	q:true	qid:Q141	docId:9538487	origText:hyperosmolar, nonketotic coma	url:D006944
+CANDIDATE	id:6944	inCount:0	outCount:1	links:6944	url:D006944	name:Nonketotic Hyperosmolar Coma	normalName:nonketotic hyperosmolar coma	normalWikiTitle:nonketotic hyperosmolar coma	predictedType:Disease
+ENTITY	text:polyuric	normalName:polyuric	predictedType:disease	q:true	qid:Q141	docId:9538487	origText:polyuric	url:D011141
+CANDIDATE	id:11141	inCount:1	outCount:2	links:11141	url:D011141	name:Polyuria	normalName:polyuria	normalWikiTitle:polyuria	predictedType:Disease
+CANDIDATE	id:11776	inCount:0	outCount:1	links:	url:D011776	name:Pyuria	normalName:pyuria	normalWikiTitle:pyuria	predictedType:Disease
+CANDIDATE	id:10998	inCount:1	outCount:2	links:	url:D010998	name:Pleurisy	normalName:pleurisy	normalWikiTitle:pleurisy	predictedType:Disease
+CANDIDATE	id:3085	inCount:0	outCount:1	links:	url:D003085	name:Colic	normalName:colic	normalWikiTitle:colic	predictedType:Disease
+CANDIDATE	id:9846	inCount:0	outCount:2	links:	url:D009846	name:Oliguria	normalName:oliguria	normalWikiTitle:oliguria	predictedType:Disease
+CANDIDATE	id:14843	inCount:0	outCount:1	links:	url:D014843	name:Voyeurism	normalName:voyeurism	normalWikiTitle:voyeurism	predictedType:Disease
+CANDIDATE	id:11115	inCount:21	outCount:1	links:	url:D011115	name:Polyneuropathies	normalName:polyneuropathies	normalWikiTitle:polyneuropathies	predictedType:Disease
+CANDIDATE	id:11127	inCount:3	outCount:1	links:	url:D011127	name:Polyps	normalName:polyps	normalWikiTitle:polyps	predictedType:Disease
+CANDIDATE	id:6959	inCount:1	outCount:1	links:	url:D006959	name:Hyperoxaluria	normalName:hyperoxaluria	normalWikiTitle:hyperoxaluria	predictedType:Disease
+CANDIDATE	id:6029	inCount:1	outCount:2	links:	url:D006029	name:Glycosuria	normalName:glycosuria	normalWikiTitle:glycosuria	predictedType:Disease
+ENTITY	text:polyuria	normalName:polyuria	predictedType:disease	q:true	qid:Q141	docId:9538487	origText:polyuria	url:D011141
+CANDIDATE	id:11141	inCount:1	outCount:2	links:11141	url:D011141	name:Polyuria	normalName:polyuria	normalWikiTitle:polyuria	predictedType:Disease
+ENTITY	text:nephrogenic diabetes insipidus	normalName:nephrogenic diabetes insipidus	predictedType:disease	q:true	qid:Q141	docId:9538487	origText:nephrogenic diabetes insipidus	url:D018500
+CANDIDATE	id:18500	inCount:1	outCount:1	links:	url:D018500	name:Diabetes Insipidus, Nephrogenic	normalName:diabetes insipidus, nephrogenic	normalWikiTitle:diabetes insipidus, nephrogenic	predictedType:Disease
+ENTITY	text:polydipsia	normalName:polydipsia	predictedType:disease	q:true	qid:Q141	docId:9538487	origText:polydipsia	url:D059606
+CANDIDATE	id:59606	inCount:1	outCount:2	links:	url:D059606	name:Polydipsia	normalName:polydipsia	normalWikiTitle:polydipsia	predictedType:Disease
+ENTITY	text:Hyperosmolar nonketotic coma	normalName:hyperosmolar nonketotic coma	predictedType:disease	q:true	qid:Q141	docId:9538487	origText:Hyperosmolar nonketotic coma	url:D006944
+CANDIDATE	id:6944	inCount:0	outCount:1	links:6944	url:D006944	name:Nonketotic Hyperosmolar Coma	normalName:nonketotic hyperosmolar coma	normalWikiTitle:nonketotic hyperosmolar coma	predictedType:Disease
+ENTITY	text:type 2 diabetes	normalName:type 2 diabetes	predictedType:disease	q:true	qid:Q141	docId:9538487	origText:type 2 diabetes	url:D003924
+CANDIDATE	id:3924	inCount:19	outCount:1	links:	url:D003924	name:Type 2 Diabetes	normalName:type 2 diabetes	normalWikiTitle:type 2 diabetes	predictedType:Disease
+ENTITY	text:dehydration	normalName:dehydration	predictedType:disease	q:true	qid:Q141	docId:9538487	origText:dehydration	url:D003681
+CANDIDATE	id:3681	inCount:0	outCount:2	links:	url:D003681	name:Dehydration	normalName:dehydration	normalWikiTitle:dehydration	predictedType:Disease

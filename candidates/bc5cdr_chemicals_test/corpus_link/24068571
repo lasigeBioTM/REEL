@@ -1,0 +1,4 @@
+ENTITY	text:propofol	normalName:propofol	predictedType:chemical	q:true	qid:Q383	docId:24068571	origText:propofol	url:D015742
+CANDIDATE	id:15742	inCount:12	outCount:1	links:	url:D015742	name:Propofol	normalName:propofol	normalWikiTitle:propofol	predictedType:Chemical
+ENTITY	text:thiopentone	normalName:thiopentone	predictedType:chemical	q:true	qid:Q383	docId:24068571	origText:thiopentone	url:D013874
+CANDIDATE	id:13874	inCount:3	outCount:1	links:	url:D013874	name:Thiopentone	normalName:thiopentone	normalWikiTitle:thiopentone	predictedType:Chemical

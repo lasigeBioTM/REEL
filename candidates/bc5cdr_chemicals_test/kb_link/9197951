@@ -1,0 +1,4 @@
+ENTITY	text:cocaine	normalName:cocaine	predictedType:chemical	q:true	qid:Q99	docId:9197951	origText:cocaine	url:D003042
+CANDIDATE	id:3042	inCount:89	outCount:1	links:	url:D003042	name:Cocaine	normalName:cocaine	normalWikiTitle:cocaine	predictedType:Chemical
+ENTITY	text:diethylpropion	normalName:diethylpropion	predictedType:chemical	q:true	qid:Q99	docId:9197951	origText:diethylpropion	url:D004053
+CANDIDATE	id:4053	inCount:1	outCount:1	links:	url:D004053	name:Diethylpropion	normalName:diethylpropion	normalWikiTitle:diethylpropion	predictedType:Chemical

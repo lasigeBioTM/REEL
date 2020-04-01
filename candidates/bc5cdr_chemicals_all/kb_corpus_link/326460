@@ -1,0 +1,10 @@
+ENTITY	text:potassium	normalName:potassium	predictedType:chemical	q:true	qid:Q185	docId:326460	origText:potassium	url:D011188
+CANDIDATE	id:11188	inCount:10	outCount:2	links:13999	url:D011188	name:Potassium	normalName:potassium	normalWikiTitle:potassium	predictedType:Chemical
+ENTITY	text:timolol	normalName:timolol	predictedType:chemical	q:true	qid:Q185	docId:326460	origText:timolol	url:D013999
+CANDIDATE	id:13999	inCount:10	outCount:3	links:11188	url:D013999	name:Timolol	normalName:timolol	normalWikiTitle:timolol	predictedType:Chemical
+ENTITY	text:aldosterone	normalName:aldosterone	predictedType:chemical	q:true	qid:Q185	docId:326460	origText:aldosterone	url:D000450
+CANDIDATE	id:450	inCount:23	outCount:2	links:	url:D000450	name:Aldosterone	normalName:aldosterone	normalWikiTitle:aldosterone	predictedType:Chemical
+ENTITY	text:sodium	normalName:sodium	predictedType:chemical	q:true	qid:Q185	docId:326460	origText:sodium	url:D012964
+CANDIDATE	id:12964	inCount:10	outCount:2	links:	url:D012964	name:Sodium	normalName:sodium	normalWikiTitle:sodium	predictedType:Chemical
+ENTITY	text:bendrofluazide	normalName:bendrofluazide	predictedType:chemical	q:true	qid:Q185	docId:326460	origText:bendrofluazide	url:D001539
+CANDIDATE	id:1539	inCount:5	outCount:1	links:	url:D001539	name:Bendrofluazide	normalName:bendrofluazide	normalWikiTitle:bendrofluazide	predictedType:Chemical

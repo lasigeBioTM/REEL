@@ -1,0 +1,6 @@
+ENTITY	text:thiobarbituric acid	normalName:thiobarbituric acid	predictedType:chemical	q:true	qid:Q985	docId:19447152	origText:thiobarbituric acid	url:C029684
+CANDIDATE	id:29684	inCount:0	outCount:1	links:	url:C029684	name:thiobarbituric acid	normalName:thiobarbituric acid	normalWikiTitle:thiobarbituric acid	predictedType:Chemical
+ENTITY	text:ouabain	normalName:ouabain	predictedType:chemical	q:true	qid:Q985	docId:19447152	origText:ouabain	url:D010042
+CANDIDATE	id:10042	inCount:14	outCount:1	links:	url:D010042	name:Ouabain	normalName:ouabain	normalWikiTitle:ouabain	predictedType:Chemical
+ENTITY	text:superoxide	normalName:superoxide	predictedType:chemical	q:true	qid:Q985	docId:19447152	origText:superoxide	url:D013481
+CANDIDATE	id:13481	inCount:1	outCount:1	links:	url:D013481	name:Superoxide	normalName:superoxide	normalWikiTitle:superoxide	predictedType:Chemical

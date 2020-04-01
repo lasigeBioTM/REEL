@@ -1,0 +1,4 @@
+ENTITY	text:Gemcitabine	normalName:gemcitabine	predictedType:chemical	q:true	qid:Q318	docId:10526274	origText:Gemcitabine	url:C056507
+CANDIDATE	id:56507	inCount:0	outCount:1	links:	url:C056507	name:gemcitabine	normalName:gemcitabine	normalWikiTitle:gemcitabine	predictedType:Chemical
+ENTITY	text:cisplatin	normalName:cisplatin	predictedType:chemical	q:true	qid:Q318	docId:10526274	origText:cisplatin	url:D002945
+CANDIDATE	id:2945	inCount:293	outCount:3	links:	url:D002945	name:Cisplatin	normalName:cisplatin	normalWikiTitle:cisplatin	predictedType:Chemical

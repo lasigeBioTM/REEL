@@ -1,0 +1,12 @@
+ENTITY	text:delta 9-tetrahydrocannabinol	normalName:delta 9-tetrahydrocannabinol	predictedType:chemical	q:true	qid:Q68	docId:3031535	origText:delta 9-tetrahydrocannabinol	url:D013759
+CANDIDATE	id:13759	inCount:82	outCount:1	links:6220	url:D013759	name:delta(9)-Tetrahydrocannabinol	normalName:delta(9)-tetrahydrocannabinol	normalWikiTitle:delta(9)-tetrahydrocannabinol	predictedType:Chemical
+ENTITY	text:6-hydroxydopamine	normalName:6-hydroxydopamine	predictedType:chemical	q:true	qid:Q68	docId:3031535	origText:6-hydroxydopamine	url:D016627
+CANDIDATE	id:16627	inCount:0	outCount:1	links:	url:D016627	name:6-Hydroxydopamine	normalName:6-hydroxydopamine	normalWikiTitle:6-hydroxydopamine	predictedType:Chemical
+ENTITY	text:desipramine	normalName:desipramine	predictedType:chemical	q:true	qid:Q68	docId:3031535	origText:desipramine	url:D003891
+CANDIDATE	id:3891	inCount:6	outCount:1	links:	url:D003891	name:Desipramine	normalName:desipramine	normalWikiTitle:desipramine	predictedType:Chemical
+ENTITY	text:THC	normalName:thc	predictedType:chemical	q:true	qid:Q68	docId:3031535	origText:THC	url:D013759
+CANDIDATE	id:13759	inCount:82	outCount:1	links:6220	url:D013759	name:THC	normalName:thc	normalWikiTitle:thc	predictedType:Chemical
+ENTITY	text:haloperidol	normalName:haloperidol	predictedType:chemical	q:true	qid:Q68	docId:3031535	origText:haloperidol	url:D006220
+CANDIDATE	id:6220	inCount:24	outCount:1	links:13759	url:D006220	name:Haloperidol	normalName:haloperidol	normalWikiTitle:haloperidol	predictedType:Chemical
+ENTITY	text:6-OHDA	normalName:6-ohda	predictedType:chemical	q:true	qid:Q68	docId:3031535	origText:6-OHDA	url:D016627
+CANDIDATE	id:16627	inCount:0	outCount:1	links:	url:D016627	name:6-OHDA	normalName:6-ohda	normalWikiTitle:6-ohda	predictedType:Chemical

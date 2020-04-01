@@ -1,0 +1,12 @@
+ENTITY	text:corticosterone	normalName:corticosterone	predictedType:chemical	q:true	qid:Q93	docId:17490864	origText:corticosterone	url:D003345
+CANDIDATE	id:3345	inCount:21	outCount:2	links:	url:D003345	name:Corticosterone	normalName:corticosterone	normalWikiTitle:corticosterone	predictedType:Chemical
+ENTITY	text:serotonin	normalName:serotonin	predictedType:chemical	q:true	qid:Q93	docId:17490864	origText:serotonin	url:D012701
+CANDIDATE	id:12701	inCount:48	outCount:2	links:	url:D012701	name:Serotonin	normalName:serotonin	normalWikiTitle:serotonin	predictedType:Chemical
+ENTITY	text:Amphetamine	normalName:amphetamine	predictedType:chemical	q:true	qid:Q93	docId:17490864	origText:Amphetamine	url:D000661
+CANDIDATE	id:661	inCount:1	outCount:1	links:	url:D000661	name:Amphetamine	normalName:amphetamine	normalWikiTitle:amphetamine	predictedType:Chemical
+ENTITY	text:apomorphine	normalName:apomorphine	predictedType:chemical	q:true	qid:Q93	docId:17490864	origText:apomorphine	url:D001058
+CANDIDATE	id:1058	inCount:29	outCount:1	links:	url:D001058	name:Apomorphine	normalName:apomorphine	normalWikiTitle:apomorphine	predictedType:Chemical
+ENTITY	text:8-OH-DPAT	normalName:8-oh-dpat	predictedType:chemical	q:true	qid:Q93	docId:17490864	origText:8-OH-DPAT	url:D017371
+CANDIDATE	id:17371	inCount:10	outCount:1	links:	url:D017371	name:8-OH-DPAT	normalName:8-oh-dpat	normalWikiTitle:8-oh-dpat	predictedType:Chemical
+ENTITY	text:dopamine	normalName:dopamine	predictedType:chemical	q:true	qid:Q93	docId:17490864	origText:dopamine	url:D004298
+CANDIDATE	id:4298	inCount:90	outCount:2	links:	url:D004298	name:Dopamine	normalName:dopamine	normalWikiTitle:dopamine	predictedType:Chemical

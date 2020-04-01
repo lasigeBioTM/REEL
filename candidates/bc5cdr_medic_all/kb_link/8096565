@@ -1,0 +1,23 @@
+ENTITY	text:ischaemic heart disease	normalName:ischaemic heart disease	predictedType:disease	q:true	qid:Q150	docId:8096565	origText:ischaemic heart disease	url:D017202
+CANDIDATE	id:17202	inCount:6	outCount:2	links:	url:D017202	name:Diseases, Ischemic Heart	normalName:diseases, ischemic heart	normalWikiTitle:diseases, ischemic heart	predictedType:Disease
+CANDIDATE	id:12214	inCount:0	outCount:2	links:	url:D012214	name:Rheumatic Heart Disease	normalName:rheumatic heart disease	normalWikiTitle:rheumatic heart disease	predictedType:Disease
+CANDIDATE	id:6349	inCount:17	outCount:1	links:	url:D006349	name:Heart Valve Diseases	normalName:heart valve diseases	normalWikiTitle:heart valve diseases	predictedType:Disease
+CANDIDATE	id:6357	inCount:0	outCount:3	links:	url:D006357	name:Heartwater Disease	normalName:heartwater disease	normalWikiTitle:heartwater disease	predictedType:Disease
+CANDIDATE	id:13786	inCount:1	outCount:1	links:	url:D013786	name:Thalamic Diseases	normalName:thalamic diseases	normalWikiTitle:thalamic diseases	predictedType:Disease
+CANDIDATE	id:6331	inCount:29	outCount:1	links:	url:D006331	name:Heart Diseases	normalName:heart diseases	normalWikiTitle:heart diseases	predictedType:Disease
+CANDIDATE	id:12216	inCount:9	outCount:2	links:	url:D012216	name:Rheumatic Diseases	normalName:rheumatic diseases	normalWikiTitle:rheumatic diseases	predictedType:Disease
+CANDIDATE	id:7027	inCount:6	outCount:1	links:	url:D007027	name:Hypothalamic Diseases	normalName:hypothalamic diseases	normalWikiTitle:hypothalamic diseases	predictedType:Disease
+CANDIDATE	id:10483	inCount:2	outCount:2	links:	url:D010483	name:Periapical Diseases	normalName:periapical diseases	normalWikiTitle:periapical diseases	predictedType:Disease
+CANDIDATE	id:536166	inCount:0	outCount:2	links:	url:C536166	name:Keshan disease	normalName:keshan disease	normalWikiTitle:keshan disease	predictedType:Disease
+CANDIDATE	id:6734	inCount:4	outCount:1	links:	url:D006734	name:Horse Diseases	normalName:horse diseases	normalWikiTitle:horse diseases	predictedType:Disease
+CANDIDATE	id:17202	inCount:6	outCount:2	links:	url:D017202	name:Heart Disease, Ischemic	normalName:heart disease, ischemic	normalWikiTitle:heart disease, ischemic	predictedType:Disease
+CANDIDATE	id:17202	inCount:6	outCount:2	links:	url:D017202	name:Ischemic Heart Disease	normalName:ischemic heart disease	normalWikiTitle:ischemic heart disease	predictedType:Disease
+CANDIDATE	id:17202	inCount:6	outCount:2	links:	url:D017202	name:Disease, Ischemic Heart	normalName:disease, ischemic heart	normalWikiTitle:disease, ischemic heart	predictedType:Disease
+CANDIDATE	id:17202	inCount:6	outCount:2	links:	url:D017202	name:Ischemic Heart Diseases	normalName:ischemic heart diseases	normalWikiTitle:ischemic heart diseases	predictedType:Disease
+CANDIDATE	id:17202	inCount:6	outCount:2	links:	url:D017202	name:Heart Diseases, Ischemic	normalName:heart diseases, ischemic	normalWikiTitle:heart diseases, ischemic	predictedType:Disease
+ENTITY	text:Prinzmetal's angina	normalName:prinzmetal's angina	predictedType:disease	q:true	qid:Q150	docId:8096565	origText:Prinzmetal's angina	url:D000788
+CANDIDATE	id:788	inCount:1	outCount:1	links:	url:D000788	name:Angina, Prinzmetal's	normalName:angina, prinzmetal's	normalWikiTitle:angina, prinzmetal's	predictedType:Disease
+ENTITY	text:cluster headache	normalName:cluster headache	predictedType:disease	q:true	qid:Q150	docId:8096565	origText:cluster headache	url:D003027
+CANDIDATE	id:3027	inCount:1	outCount:1	links:	url:D003027	name:Cluster Headache	normalName:cluster headache	normalWikiTitle:cluster headache	predictedType:Disease
+ENTITY	text:myocardial infarction	normalName:myocardial infarction	predictedType:disease	q:true	qid:Q150	docId:8096565	origText:myocardial infarction	url:D009203
+CANDIDATE	id:9203	inCount:8	outCount:1	links:	url:D009203	name:Myocardial Infarction	normalName:myocardial infarction	normalWikiTitle:myocardial infarction	predictedType:Disease

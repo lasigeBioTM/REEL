@@ -1,0 +1,54 @@
+ENTITY	text:dopamine	normalName:dopamine	predictedType:chemical	q:true	qid:Q354	docId:6540303	origText:dopamine	url:D004298
+CANDIDATE	id:4298	inCount:90	outCount:2	links:8550;12701;7649	url:D004298	name:Dopamine	normalName:dopamine	normalWikiTitle:dopamine	predictedType:Chemical
+ENTITY	text:ketamine	normalName:ketamine	predictedType:chemical	q:true	qid:Q354	docId:6540303	origText:ketamine	url:D007649
+CANDIDATE	id:7649	inCount:10	outCount:1	links:8550;4298;12701	url:D007649	name:Ketamine	normalName:ketamine	normalWikiTitle:ketamine	predictedType:Chemical
+ENTITY	text:catecholamines	normalName:catecholamines	predictedType:chemical	q:true	qid:Q354	docId:6540303	origText:catecholamines	url:D002395
+CANDIDATE	id:2395	inCount:25	outCount:2	links:	url:D002395	name:Catecholamines	normalName:catecholamines	normalWikiTitle:catecholamines	predictedType:Chemical
+CANDIDATE	id:522723	inCount:0	outCount:1	links:	url:C522723	name:cholamine	normalName:cholamine	normalWikiTitle:cholamine	predictedType:Chemical
+CANDIDATE	id:103141	inCount:0	outCount:2	links:	url:C103141	name:carthamine	normalName:carthamine	normalWikiTitle:carthamine	predictedType:Chemical
+CANDIDATE	id:119993	inCount:0	outCount:2	links:	url:C119993	name:tamoxifen catechol	normalName:tamoxifen catechol	normalWikiTitle:tamoxifen catechol	predictedType:Chemical
+CANDIDATE	id:2392	inCount:129	outCount:2	links:	url:D002392	name:Catechin	normalName:catechin	normalWikiTitle:catechin	predictedType:Chemical
+CANDIDATE	id:3380	inCount:0	outCount:1	links:	url:C003380	name:tecomine	normalName:tecomine	normalWikiTitle:tecomine	predictedType:Chemical
+CANDIDATE	id:34221	inCount:0	outCount:1	links:	url:C034221	name:catechol	normalName:catechol	normalWikiTitle:catechol	predictedType:Chemical
+CANDIDATE	id:627721	inCount:0	outCount:1	links:	url:C000627721	name:cathafoline	normalName:cathafoline	normalWikiTitle:cathafoline	predictedType:Chemical
+CANDIDATE	id:551413	inCount:0	outCount:1	links:	url:C551413	name:cathenamine	normalName:cathenamine	normalWikiTitle:cathenamine	predictedType:Chemical
+CANDIDATE	id:82789	inCount:0	outCount:1	links:	url:C082789	name:trehalamine	normalName:trehalamine	normalWikiTitle:trehalamine	predictedType:Chemical
+ENTITY	text:amines	normalName:amines	predictedType:chemical	q:true	qid:Q354	docId:6540303	origText:amines	url:D000588
+CANDIDATE	id:588	inCount:138	outCount:1	links:588	url:D000588	name:Amines	normalName:amines	normalWikiTitle:amines	predictedType:Chemical
+CANDIDATE	id:2329	inCount:5	outCount:1	links:2329	url:D002329	name:Carmine	normalName:carmine	normalWikiTitle:carmine	predictedType:Chemical
+CANDIDATE	id:514045	inCount:0	outCount:2	links:514045	url:C514045	name:abamine	normalName:abamine	normalWikiTitle:abamine	predictedType:Chemical
+CANDIDATE	id:7884	inCount:0	outCount:1	links:7884	url:C007884	name:gramine	normalName:gramine	normalWikiTitle:gramine	predictedType:Chemical
+CANDIDATE	id:407151	inCount:0	outCount:1	links:407151	url:C407151	name:apomine	normalName:apomine	normalWikiTitle:apomine	predictedType:Chemical
+CANDIDATE	id:488396	inCount:0	outCount:1	links:488396	url:C488396	name:neamine	normalName:neamine	normalWikiTitle:neamine	predictedType:Chemical
+CANDIDATE	id:467072	inCount:0	outCount:1	links:467072	url:C467072	name:jamtine	normalName:jamtine	normalWikiTitle:jamtine	predictedType:Chemical
+CANDIDATE	id:6247	inCount:18	outCount:2	links:6247	url:D006247	name:Harmine	normalName:harmine	normalWikiTitle:harmine	predictedType:Chemical
+CANDIDATE	id:547236	inCount:0	outCount:2	links:547236	url:C547236	name:zeamine	normalName:zeamine	normalWikiTitle:zeamine	predictedType:Chemical
+CANDIDATE	id:1138	inCount:0	outCount:1	links:1138	url:D001138	name:Armin	normalName:armin	normalWikiTitle:armin	predictedType:Chemical
+ENTITY	text:melatonin	normalName:melatonin	predictedType:chemical	q:true	qid:Q354	docId:6540303	origText:melatonin	url:D008550
+CANDIDATE	id:8550	inCount:32	outCount:2	links:12701;4298;7649	url:D008550	name:Melatonin	normalName:melatonin	normalWikiTitle:melatonin	predictedType:Chemical
+ENTITY	text:N-acetyl serotonin	normalName:n-acetyl serotonin	predictedType:chemical	q:true	qid:Q354	docId:6540303	origText:N-acetyl serotonin	url:C006389
+CANDIDATE	id:6389	inCount:0	outCount:1	links:	url:C006389	name:N-acetylserotonin	normalName:n-acetylserotonin	normalWikiTitle:n-acetylserotonin	predictedType:Chemical
+CANDIDATE	id:18490	inCount:3	outCount:1	links:	url:D018490	name:Serotonin Agents	normalName:serotonin agents	normalWikiTitle:serotonin agents	predictedType:Chemical
+CANDIDATE	id:8494	inCount:0	outCount:1	links:	url:C008494	name:N-methylserotonin	normalName:n-methylserotonin	normalWikiTitle:n-methylserotonin	predictedType:Chemical
+CANDIDATE	id:114774	inCount:0	outCount:1	links:	url:C114774	name:N-(p-coumaroyl)serotonin	normalName:n-(p-coumaroyl)serotonin	normalWikiTitle:n-(p-coumaroyl)serotonin	predictedType:Chemical
+CANDIDATE	id:42390	inCount:0	outCount:1	links:	url:C042390	name:alpha-methylserotonin	normalName:alpha-methylserotonin	normalWikiTitle:alpha-methylserotonin	predictedType:Chemical
+CANDIDATE	id:586914	inCount:0	outCount:1	links:	url:C586914	name:N-acetyl-L-proline	normalName:n-acetyl-l-proline	normalWikiTitle:n-acetyl-l-proline	predictedType:Chemical
+CANDIDATE	id:611700	inCount:0	outCount:2	links:	url:C000611700	name:N-acetyl norloline	normalName:n-acetyl norloline	normalWikiTitle:n-acetyl norloline	predictedType:Chemical
+CANDIDATE	id:568177	inCount:0	outCount:2	links:	url:C568177	name:arachidonyl serotonin	normalName:arachidonyl serotonin	normalWikiTitle:arachidonyl serotonin	predictedType:Chemical
+CANDIDATE	id:607210	inCount:0	outCount:1	links:	url:C000607210	name:N-acetyl-l-serinamide	normalName:n-acetyl-l-serinamide	normalWikiTitle:n-acetyl-l-serinamide	predictedType:Chemical
+CANDIDATE	id:34659	inCount:0	outCount:1	links:	url:C034659	name:acetylneurotensin (8-13)	normalName:acetylneurotensin (8-13)	normalWikiTitle:acetylneurotensin (8-13)	predictedType:Chemical
+ENTITY	text:norepinephrine	normalName:norepinephrine	predictedType:chemical	q:true	qid:Q354	docId:6540303	origText:norepinephrine	url:D009638
+CANDIDATE	id:9638	inCount:31	outCount:4	links:	url:D009638	name:Norepinephrine	normalName:norepinephrine	normalWikiTitle:norepinephrine	predictedType:Chemical
+ENTITY	text:Serotonin	normalName:serotonin	predictedType:chemical	q:true	qid:Q354	docId:6540303	origText:Serotonin	url:D012701
+CANDIDATE	id:12701	inCount:48	outCount:2	links:8550;4298;7649	url:D012701	name:Serotonin	normalName:serotonin	normalWikiTitle:serotonin	predictedType:Chemical
+ENTITY	text:amine	normalName:amine	predictedType:chemical	q:true	qid:Q354	docId:6540303	origText:amine	url:D000588
+CANDIDATE	id:588	inCount:138	outCount:1	links:588	url:D000588	name:Amines	normalName:amines	normalWikiTitle:amines	predictedType:Chemical
+CANDIDATE	id:2329	inCount:5	outCount:1	links:2329	url:D002329	name:Carmine	normalName:carmine	normalWikiTitle:carmine	predictedType:Chemical
+CANDIDATE	id:514045	inCount:0	outCount:2	links:514045	url:C514045	name:abamine	normalName:abamine	normalWikiTitle:abamine	predictedType:Chemical
+CANDIDATE	id:7884	inCount:0	outCount:1	links:7884	url:C007884	name:gramine	normalName:gramine	normalWikiTitle:gramine	predictedType:Chemical
+CANDIDATE	id:407151	inCount:0	outCount:1	links:407151	url:C407151	name:apomine	normalName:apomine	normalWikiTitle:apomine	predictedType:Chemical
+CANDIDATE	id:488396	inCount:0	outCount:1	links:488396	url:C488396	name:neamine	normalName:neamine	normalWikiTitle:neamine	predictedType:Chemical
+CANDIDATE	id:467072	inCount:0	outCount:1	links:467072	url:C467072	name:jamtine	normalName:jamtine	normalWikiTitle:jamtine	predictedType:Chemical
+CANDIDATE	id:6247	inCount:18	outCount:2	links:6247	url:D006247	name:Harmine	normalName:harmine	normalWikiTitle:harmine	predictedType:Chemical
+CANDIDATE	id:547236	inCount:0	outCount:2	links:547236	url:C547236	name:zeamine	normalName:zeamine	normalWikiTitle:zeamine	predictedType:Chemical
+CANDIDATE	id:1138	inCount:0	outCount:1	links:1138	url:D001138	name:Armin	normalName:armin	normalWikiTitle:armin	predictedType:Chemical

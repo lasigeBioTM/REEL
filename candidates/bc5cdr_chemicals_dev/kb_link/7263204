@@ -1,0 +1,4 @@
+ENTITY	text:indomethacin	normalName:indomethacin	predictedType:chemical	q:true	qid:Q225	docId:7263204	origText:indomethacin	url:D007213
+CANDIDATE	id:7213	inCount:40	outCount:1	links:	url:D007213	name:Indomethacin	normalName:indomethacin	normalWikiTitle:indomethacin	predictedType:Chemical
+ENTITY	text:allopurinol	normalName:allopurinol	predictedType:chemical	q:true	qid:Q225	docId:7263204	origText:allopurinol	url:D000493
+CANDIDATE	id:493	inCount:12	outCount:1	links:	url:D000493	name:Allopurinol	normalName:allopurinol	normalWikiTitle:allopurinol	predictedType:Chemical

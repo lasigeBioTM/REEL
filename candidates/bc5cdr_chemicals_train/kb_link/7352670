@@ -1,0 +1,10 @@
+ENTITY	text:sodium nitroprusside	normalName:sodium nitroprusside	predictedType:chemical	q:true	qid:Q297	docId:7352670	origText:sodium nitroprusside	url:D009599
+CANDIDATE	id:9599	inCount:2	outCount:1	links:	url:D009599	name:Sodium Nitroprusside	normalName:sodium nitroprusside	normalWikiTitle:sodium nitroprusside	predictedType:Chemical
+ENTITY	text:saralasin	normalName:saralasin	predictedType:chemical	q:true	qid:Q297	docId:7352670	origText:saralasin	url:D012504
+CANDIDATE	id:12504	inCount:1	outCount:1	links:	url:D012504	name:Saralasin	normalName:saralasin	normalWikiTitle:saralasin	predictedType:Chemical
+ENTITY	text:angiotensin II	normalName:angiotensin ii	predictedType:chemical	q:true	qid:Q297	docId:7352670	origText:angiotensin II	url:D000804
+CANDIDATE	id:804	inCount:91	outCount:1	links:	url:D000804	name:Angiotensin II	normalName:angiotensin ii	normalWikiTitle:angiotensin ii	predictedType:Chemical
+ENTITY	text:halothane	normalName:halothane	predictedType:chemical	q:true	qid:Q297	docId:7352670	origText:halothane	url:D006221
+CANDIDATE	id:6221	inCount:6	outCount:1	links:	url:D006221	name:Halothane	normalName:halothane	normalWikiTitle:halothane	predictedType:Chemical
+ENTITY	text:angiotensin	normalName:angiotensin	predictedType:chemical	q:true	qid:Q297	docId:7352670	origText:angiotensin	url:D000809
+CANDIDATE	id:809	inCount:9	outCount:4	links:	url:D000809	name:Angiotensin	normalName:angiotensin	normalWikiTitle:angiotensin	predictedType:Chemical

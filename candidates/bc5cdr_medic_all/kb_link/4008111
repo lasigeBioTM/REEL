@@ -1,0 +1,8 @@
+ENTITY	text:sinoatrial block	normalName:sinoatrial block	predictedType:disease	q:true	qid:Q712	docId:4008111	origText:sinoatrial block	url:D012848
+CANDIDATE	id:12848	inCount:1	outCount:1	links:	url:D012848	name:Sinoatrial Block	normalName:sinoatrial block	normalWikiTitle:sinoatrial block	predictedType:Disease
+ENTITY	text:Wolff-Parkinson-White syndrome	normalName:wolff-parkinson-white syndrome	predictedType:disease	q:true	qid:Q712	docId:4008111	origText:Wolff-Parkinson-White syndrome	url:D014927
+CANDIDATE	id:14927	inCount:0	outCount:2	links:	url:D014927	name:Wolff-Parkinson-White Syndrome	normalName:wolff-parkinson-white syndrome	normalWikiTitle:wolff-parkinson-white syndrome	predictedType:Disease
+ENTITY	text:primary cardiomyopathy	normalName:primary cardiomyopathy	predictedType:disease	q:true	qid:Q712	docId:4008111	origText:primary cardiomyopathy	url:D009202
+CANDIDATE	id:9202	inCount:37	outCount:1	links:	url:D009202	name:Cardiomyopathy, Primary	normalName:cardiomyopathy, primary	normalWikiTitle:cardiomyopathy, primary	predictedType:Disease
+ENTITY	text:supraventricular tachycardia	normalName:supraventricular tachycardia	predictedType:disease	q:true	qid:Q712	docId:4008111	origText:supraventricular tachycardia	url:D013617
+CANDIDATE	id:13617	inCount:3	outCount:1	links:	url:D013617	name:Tachycardia, Supraventricular	normalName:tachycardia, supraventricular	normalWikiTitle:tachycardia, supraventricular	predictedType:Disease

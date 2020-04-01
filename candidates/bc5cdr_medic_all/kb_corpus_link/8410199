@@ -1,0 +1,19 @@
+ENTITY	text:seizures	normalName:seizures	predictedType:disease	q:true	qid:Q206	docId:8410199	origText:seizures	url:D012640
+CANDIDATE	id:12640	inCount:53	outCount:1	links:9410;12640	url:D012640	name:Seizure	normalName:seizure	normalWikiTitle:seizure	predictedType:Disease
+ENTITY	text:seizure	normalName:seizure	predictedType:disease	q:true	qid:Q206	docId:8410199	origText:seizure	url:D012640
+CANDIDATE	id:12640	inCount:53	outCount:1	links:9410;12640	url:D012640	name:Seizure	normalName:seizure	normalWikiTitle:seizure	predictedType:Disease
+ENTITY	text:neuronal degeneration	normalName:neuronal degeneration	predictedType:disease	q:true	qid:Q206	docId:8410199	origText:neuronal degeneration	url:D009410
+CANDIDATE	id:9410	inCount:6	outCount:1	links:12640	url:D009410	name:Degenerations, Neuron	normalName:degenerations, neuron	normalWikiTitle:degenerations, neuron	predictedType:Disease
+CANDIDATE	id:12162	inCount:28	outCount:2	links:	url:D012162	name:Retinal Degeneration	normalName:retinal degeneration	normalWikiTitle:retinal degeneration	predictedType:Disease
+CANDIDATE	id:9410	inCount:6	outCount:1	links:12640	url:D009410	name:Nerve Degeneration	normalName:nerve degeneration	normalWikiTitle:nerve degeneration	predictedType:Disease
+CANDIDATE	id:12183	inCount:0	outCount:1	links:	url:D012183	name:Retrograde Degeneration	normalName:retrograde degeneration	normalWikiTitle:retrograde degeneration	predictedType:Disease
+CANDIDATE	id:20955	inCount:5	outCount:1	links:	url:D020955	name:Striatonigral Degeneration	normalName:striatonigral degeneration	normalWikiTitle:striatonigral degeneration	predictedType:Disease
+CANDIDATE	id:14855	inCount:1	outCount:1	links:	url:D014855	name:Wallerian Degeneration	normalName:wallerian degeneration	normalWikiTitle:wallerian degeneration	predictedType:Disease
+CANDIDATE	id:565309	inCount:0	outCount:1	links:	url:C565309	name:Late-Onset Retinal Degeneration	normalName:late-onset retinal degeneration	normalWikiTitle:late-onset retinal degeneration	predictedType:Disease
+CANDIDATE	id:8268	inCount:33	outCount:1	links:	url:D008268	name:Macular Degeneration	normalName:macular degeneration	normalWikiTitle:macular degeneration	predictedType:Disease
+CANDIDATE	id:537500	inCount:0	outCount:1	links:	url:C537500	name:Striatonigral degeneration infantile	normalName:striatonigral degeneration infantile	normalWikiTitle:striatonigral degeneration infantile	predictedType:Disease
+CANDIDATE	id:536677	inCount:0	outCount:1	links:	url:C536677	name:Snowflake vitreoretinal degeneration	normalName:snowflake vitreoretinal degeneration	normalWikiTitle:snowflake vitreoretinal degeneration	predictedType:Disease
+CANDIDATE	id:563003	inCount:0	outCount:1	links:	url:C563003	name:Pallidopontonigral Degeneration	normalName:pallidopontonigral degeneration	normalWikiTitle:pallidopontonigral degeneration	predictedType:Disease
+CANDIDATE	id:9410	inCount:6	outCount:1	links:12640	url:D009410	name:Degeneration, Neuron	normalName:degeneration, neuron	normalWikiTitle:degeneration, neuron	predictedType:Disease
+CANDIDATE	id:9410	inCount:6	outCount:1	links:12640	url:D009410	name:Neuron Degeneration	normalName:neuron degeneration	normalWikiTitle:neuron degeneration	predictedType:Disease
+CANDIDATE	id:9410	inCount:6	outCount:1	links:12640	url:D009410	name:Neuron Degenerations	normalName:neuron degenerations	normalWikiTitle:neuron degenerations	predictedType:Disease

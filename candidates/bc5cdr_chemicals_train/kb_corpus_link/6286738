@@ -1,0 +1,4 @@
+ENTITY	text:Calcium	normalName:calcium	predictedType:chemical	q:true	qid:Q81	docId:6286738	origText:Calcium	url:D002118
+CANDIDATE	id:2118	inCount:11	outCount:2	links:	url:D002118	name:Calcium	normalName:calcium	normalWikiTitle:calcium	predictedType:Chemical
+ENTITY	text:Vitamin D3	normalName:vitamin d3	predictedType:chemical	q:true	qid:Q81	docId:6286738	origText:Vitamin D3	url:D002762
+CANDIDATE	id:2762	inCount:62	outCount:3	links:	url:D002762	name:Vitamin D3	normalName:vitamin d3	normalWikiTitle:vitamin d3	predictedType:Chemical

@@ -1,0 +1,26 @@
+ENTITY	text:muscular dystrophy	normalName:muscular dystrophy	predictedType:disease	q:true	qid:Q404	docId:753803	origText:muscular dystrophy	url:D009136
+CANDIDATE	id:9136	inCount:50	outCount:2	links:	url:D009136	name:Muscular Dystrophy	normalName:muscular dystrophy	normalWikiTitle:muscular dystrophy	predictedType:Disease
+ENTITY	text:myodystrophy	normalName:myodystrophy	predictedType:disease	q:true	qid:Q404	docId:753803	origText:myodystrophy	url:D009136
+CANDIDATE	id:9136	inCount:50	outCount:2	links:	url:D009136	name:Myodystrophy	normalName:myodystrophy	normalWikiTitle:myodystrophy	predictedType:Disease
+ENTITY	text:Myopathy	normalName:myopathy	predictedType:disease	q:true	qid:Q404	docId:753803	origText:Myopathy	url:D009135
+CANDIDATE	id:9135	inCount:77	outCount:2	links:9202	url:D009135	name:Myopathy	normalName:myopathy	normalWikiTitle:myopathy	predictedType:Disease
+ENTITY	text:myopathic	normalName:myopathic	predictedType:disease	q:true	qid:Q404	docId:753803	origText:myopathic	url:D009135
+CANDIDATE	id:9135	inCount:77	outCount:2	links:9202	url:D009135	name:Myopathy	normalName:myopathy	normalWikiTitle:myopathy	predictedType:Disease
+CANDIDATE	id:155310	inCount:0	outCount:2	links:	url:155310	name:VISCERAL MYOPATHY	normalName:visceral myopathy	normalWikiTitle:visceral myopathy	predictedType:Disease
+CANDIDATE	id:9216	inCount:50	outCount:1	links:	url:D009216	name:Myopia	normalName:myopia	normalWikiTitle:myopia	predictedType:Disease
+CANDIDATE	id:579969	inCount:0	outCount:1	links:	url:C579969	name:Cap Myopathy	normalName:cap myopathy	normalWikiTitle:cap myopathy	predictedType:Disease
+CANDIDATE	id:9202	inCount:37	outCount:1	links:9135	url:D009202	name:Cardiomyopathies	normalName:cardiomyopathies	normalWikiTitle:cardiomyopathies	predictedType:Disease
+CANDIDATE	id:536522	inCount:1	outCount:2	links:	url:C536522	name:Vacuolar myopathy	normalName:vacuolar myopathy	normalWikiTitle:vacuolar myopathy	predictedType:Disease
+CANDIDATE	id:49310	inCount:14	outCount:1	links:	url:D049310	name:Distal Myopathies	normalName:distal myopathies	normalWikiTitle:distal myopathies	predictedType:Disease
+CANDIDATE	id:536607	inCount:0	outCount:1	links:	url:C536607	name:Brody myopathy	normalName:brody myopathy	normalWikiTitle:brody myopathy	predictedType:Disease
+CANDIDATE	id:563775	inCount:0	outCount:1	links:	url:C563775	name:Myotilinopathy	normalName:myotilinopathy	normalWikiTitle:myotilinopathy	predictedType:Disease
+CANDIDATE	id:9208	inCount:0	outCount:1	links:	url:D009208	name:Myoepithelioma	normalName:myoepithelioma	normalWikiTitle:myoepithelioma	predictedType:Disease
+CANDIDATE	id:9205	inCount:2	outCount:1	links:	url:D009205	name:Myocarditis	normalName:myocarditis	normalWikiTitle:myocarditis	predictedType:Disease
+CANDIDATE	id:9135	inCount:77	outCount:2	links:9202	url:D009135	name:Myopathies	normalName:myopathies	normalWikiTitle:myopathies	predictedType:Disease
+CANDIDATE	id:13118	inCount:16	outCount:1	links:	url:D013118	name:Myelopathies	normalName:myelopathies	normalWikiTitle:myelopathies	predictedType:Disease
+CANDIDATE	id:13118	inCount:16	outCount:1	links:	url:D013118	name:Myelopathy	normalName:myelopathy	normalWikiTitle:myelopathy	predictedType:Disease
+CANDIDATE	id:5315	inCount:14	outCount:2	links:	url:D005315	name:Embryopathies	normalName:embryopathies	normalWikiTitle:embryopathies	predictedType:Disease
+CANDIDATE	id:17696	inCount:15	outCount:1	links:	url:D017696	name:Rod Myopathies	normalName:rod myopathies	normalWikiTitle:rod myopathies	predictedType:Disease
+CANDIDATE	id:567129	inCount:0	outCount:2	links:	url:C567129	name:Salih Myopathy	normalName:salih myopathy	normalWikiTitle:salih myopathy	predictedType:Disease
+CANDIDATE	id:5315	inCount:14	outCount:2	links:	url:D005315	name:Embryopathy	normalName:embryopathy	normalWikiTitle:embryopathy	predictedType:Disease
+CANDIDATE	id:17696	inCount:15	outCount:1	links:	url:D017696	name:Myopathies, Rod	normalName:myopathies, rod	normalWikiTitle:myopathies, rod	predictedType:Disease

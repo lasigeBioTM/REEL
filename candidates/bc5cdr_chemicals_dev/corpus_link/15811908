@@ -1,0 +1,8 @@
+ENTITY	text:tiapride	normalName:tiapride	predictedType:chemical	q:true	qid:Q207	docId:15811908	origText:tiapride	url:D063325
+CANDIDATE	id:63325	inCount:0	outCount:2	links:	url:D063325	name:Tiapride	normalName:tiapride	normalWikiTitle:tiapride	predictedType:Chemical
+ENTITY	text:nicardipine	normalName:nicardipine	predictedType:chemical	q:true	qid:Q207	docId:15811908	origText:nicardipine	url:D009529
+CANDIDATE	id:9529	inCount:2	outCount:1	links:	url:D009529	name:Nicardipine	normalName:nicardipine	normalWikiTitle:nicardipine	predictedType:Chemical
+ENTITY	text:verapamil	normalName:verapamil	predictedType:chemical	q:true	qid:Q207	docId:15811908	origText:verapamil	url:D014700
+CANDIDATE	id:14700	inCount:37	outCount:1	links:	url:D014700	name:Verapamil	normalName:verapamil	normalWikiTitle:verapamil	predictedType:Chemical
+ENTITY	text:benzamide	normalName:benzamide	predictedType:chemical	q:true	qid:Q207	docId:15811908	origText:benzamide	url:C037689
+CANDIDATE	id:37689	inCount:0	outCount:1	links:	url:C037689	name:benzamide	normalName:benzamide	normalWikiTitle:benzamide	predictedType:Chemical

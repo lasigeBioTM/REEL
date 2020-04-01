@@ -1,0 +1,16 @@
+ENTITY	text:Pulmonary hypertension	normalName:pulmonary hypertension	predictedType:disease	q:true	qid:Q96	docId:11988250	origText:Pulmonary hypertension	url:D006976
+CANDIDATE	id:6976	inCount:12	outCount:1	links:860	url:D006976	name:Hypertension, Pulmonary	normalName:hypertension, pulmonary	normalWikiTitle:hypertension, pulmonary	predictedType:Disease
+ENTITY	text:hypoxaemia	normalName:hypoxaemia	predictedType:disease	q:true	qid:Q96	docId:11988250	origText:hypoxaemia	url:D000860
+CANDIDATE	id:860	inCount:1	outCount:1	links:6976	url:D000860	name:Hypoxemia	normalName:hypoxemia	normalWikiTitle:hypoxemia	predictedType:Disease
+CANDIDATE	id:7008	inCount:1	outCount:1	links:	url:D007008	name:Hypokalemia	normalName:hypokalemia	normalWikiTitle:hypokalemia	predictedType:Disease
+CANDIDATE	id:6996	inCount:5	outCount:2	links:	url:D006996	name:Hypocalcemia	normalName:hypocalcemia	normalWikiTitle:hypocalcemia	predictedType:Disease
+CANDIDATE	id:860	inCount:1	outCount:1	links:6976	url:D000860	name:Hypoxia	normalName:hypoxia	normalWikiTitle:hypoxia	predictedType:Disease
+CANDIDATE	id:7010	inCount:1	outCount:1	links:	url:D007010	name:Hyponatremia	normalName:hyponatremia	normalWikiTitle:hyponatremia	predictedType:Disease
+CANDIDATE	id:7035	inCount:2	outCount:1	links:	url:D007035	name:Hypothermia	normalName:hypothermia	normalWikiTitle:hypothermia	predictedType:Disease
+CANDIDATE	id:20896	inCount:0	outCount:1	links:	url:D020896	name:Hypovolemia	normalName:hypovolemia	normalWikiTitle:hypovolemia	predictedType:Disease
+CANDIDATE	id:18496	inCount:0	outCount:1	links:	url:D018496	name:Hyperoxia	normalName:hyperoxia	normalWikiTitle:hyperoxia	predictedType:Disease
+CANDIDATE	id:6940	inCount:0	outCount:1	links:	url:D006940	name:Hyperemia	normalName:hyperemia	normalWikiTitle:hyperemia	predictedType:Disease
+CANDIDATE	id:6947	inCount:4	outCount:1	links:	url:D006947	name:Hyperkalemia	normalName:hyperkalemia	normalWikiTitle:hyperkalemia	predictedType:Disease
+CANDIDATE	id:7003	inCount:14	outCount:1	links:	url:D007003	name:Hypoglycemia	normalName:hypoglycemia	normalWikiTitle:hypoglycemia	predictedType:Disease
+ENTITY	text:patent ductus arteriosus	normalName:patent ductus arteriosus	predictedType:disease	q:true	qid:Q96	docId:11988250	origText:patent ductus arteriosus	url:D004374
+CANDIDATE	id:4374	inCount:6	outCount:1	links:	url:D004374	name:Ductus Arteriosus, Patent	normalName:ductus arteriosus, patent	normalWikiTitle:ductus arteriosus, patent	predictedType:Disease

@@ -1,0 +1,40 @@
+ENTITY	text:toxic to the central nervous system	normalName:toxic to the central nervous system	predictedType:disease	q:true	qid:Q144	docId:2476560	origText:toxic to the central nervous system	url:D002493
+CANDIDATE	id:2493	inCount:15	outCount:1	links:741	url:D002493	name:Central Nervous System Diseases	normalName:central nervous system diseases	normalWikiTitle:central nervous system diseases	predictedType:Disease
+CANDIDATE	id:20306	inCount:2	outCount:2	links:	url:D020306	name:Tuberculosis, Central Nervous System	normalName:tuberculosis, central nervous system	normalWikiTitle:tuberculosis, central nervous system	predictedType:Disease
+CANDIDATE	id:20293	inCount:6	outCount:3	links:	url:D020293	name:Vasculitis, Central Nervous System	normalName:vasculitis, central nervous system	normalWikiTitle:vasculitis, central nervous system	predictedType:Disease
+CANDIDATE	id:20863	inCount:5	outCount:2	links:	url:D020863	name:Central Nervous System Cysts	normalName:central nervous system cysts	normalWikiTitle:central nervous system cysts	predictedType:Disease
+CANDIDATE	id:20787	inCount:0	outCount:2	links:	url:D020787	name:Central Nervous System Venous Angioma	normalName:central nervous system venous angioma	normalWikiTitle:central nervous system venous angioma	predictedType:Disease
+CANDIDATE	id:20945	inCount:0	outCount:3	links:	url:D020945	name:Lupus Vasculitis, Central Nervous System	normalName:lupus vasculitis, central nervous system	normalWikiTitle:lupus vasculitis, central nervous system	predictedType:Disease
+CANDIDATE	id:20805	inCount:7	outCount:2	links:	url:D020805	name:Central Nervous System Viral Diseases	normalName:central nervous system viral diseases	normalWikiTitle:central nervous system viral diseases	predictedType:Disease
+CANDIDATE	id:16543	inCount:4	outCount:1	links:	url:D016543	name:Central Nervous System Neoplasms	normalName:central nervous system neoplasms	normalWikiTitle:central nervous system neoplasms	predictedType:Disease
+CANDIDATE	id:2494	inCount:12	outCount:2	links:	url:D002494	name:Central Nervous System Infections	normalName:central nervous system infections	normalWikiTitle:central nervous system infections	predictedType:Disease
+CANDIDATE	id:535276	inCount:0	outCount:1	links:	url:C535276	name:Primary angiitis of the central nervous system	normalName:primary angiitis of the central nervous system	normalWikiTitle:primary angiitis of the central nervous system	predictedType:Disease
+CANDIDATE	id:16543	inCount:4	outCount:1	links:	url:D016543	name:Central Nervous System Tumors	normalName:central nervous system tumors	normalWikiTitle:central nervous system tumors	predictedType:Disease
+CANDIDATE	id:16543	inCount:4	outCount:1	links:	url:D016543	name:Tumors, Central Nervous System	normalName:tumors, central nervous system	normalWikiTitle:tumors, central nervous system	predictedType:Disease
+ENTITY	text:aplastic anaemia	normalName:aplastic anaemia	predictedType:disease	q:true	qid:Q144	docId:2476560	origText:aplastic anaemia	url:D000741
+CANDIDATE	id:741	inCount:5	outCount:2	links:2493	url:D000741	name:Anemia, Aplastic	normalName:anemia, aplastic	normalWikiTitle:anemia, aplastic	predictedType:Disease
+CANDIDATE	id:749	inCount:8	outCount:1	links:	url:D000749	name:Anemia, Megaloblastic	normalName:anemia, megaloblastic	normalWikiTitle:anemia, megaloblastic	predictedType:Disease
+CANDIDATE	id:261100	inCount:0	outCount:2	links:	url:261100	name:MEGALOBLASTIC ANEMIA 1	normalName:megaloblastic anemia 1	normalWikiTitle:megaloblastic anemia 1	predictedType:Disease
+CANDIDATE	id:564815	inCount:2	outCount:4	links:	url:C564815	name:Spastic Ataxia	normalName:spastic ataxia	normalWikiTitle:spastic ataxia	predictedType:Disease
+CANDIDATE	id:756	inCount:9	outCount:2	links:	url:D000756	name:Anemia, Sideroblastic	normalName:anemia, sideroblastic	normalWikiTitle:anemia, sideroblastic	predictedType:Disease
+CANDIDATE	id:538494	inCount:0	outCount:1	links:	url:C538494	name:Aplastic anemia, idiopathic	normalName:aplastic anemia, idiopathic	normalWikiTitle:aplastic anemia, idiopathic	predictedType:Disease
+CANDIDATE	id:743	inCount:20	outCount:1	links:	url:D000743	name:Anemia, Hemolytic	normalName:anemia, hemolytic	normalWikiTitle:anemia, hemolytic	predictedType:Disease
+CANDIDATE	id:29502	inCount:2	outCount:2	links:	url:D029502	name:Anemia, Hypoplastic, Congenital	normalName:anemia, hypoplastic, congenital	normalWikiTitle:anemia, hypoplastic, congenital	predictedType:Disease
+CANDIDATE	id:748	inCount:2	outCount:1	links:	url:D000748	name:Anemia, Macrocytic	normalName:anemia, macrocytic	normalWikiTitle:anemia, macrocytic	predictedType:Disease
+CANDIDATE	id:536644	inCount:0	outCount:1	links:	url:C536644	name:Spastic paraplegia 17	normalName:spastic paraplegia 17	normalWikiTitle:spastic paraplegia 17	predictedType:Disease
+ENTITY	text:scabies	normalName:scabies	predictedType:disease	q:true	qid:Q144	docId:2476560	origText:scabies	url:D012532
+CANDIDATE	id:12532	inCount:0	outCount:2	links:	url:D012532	name:Scabies	normalName:scabies	normalWikiTitle:scabies	predictedType:Disease
+ENTITY	text:toxicity	normalName:toxicity	predictedType:disease	q:true	qid:Q144	docId:2476560	origText:toxicity	url:D064420
+CANDIDATE	id:64420	inCount:10	outCount:1	links:	url:D064420	name:Drug Toxicity	normalName:drug toxicity	normalWikiTitle:drug toxicity	predictedType:Disease
+CANDIDATE	id:66126	inCount:0	outCount:3	links:	url:D066126	name:Cardiotoxicity	normalName:cardiotoxicity	normalWikiTitle:cardiotoxicity	predictedType:Disease
+CANDIDATE	id:15651	inCount:2	outCount:1	links:	url:D015651	name:Mycotoxicosis	normalName:mycotoxicosis	normalWikiTitle:mycotoxicosis	predictedType:Disease
+CANDIDATE	id:13971	inCount:2	outCount:1	links:	url:D013971	name:Thyrotoxicosis	normalName:thyrotoxicosis	normalWikiTitle:thyrotoxicosis	predictedType:Disease
+CANDIDATE	id:14869	inCount:0	outCount:2	links:	url:D014869	name:Water Intoxication	normalName:water intoxication	normalWikiTitle:water intoxication	predictedType:Disease
+CANDIDATE	id:14103	inCount:4	outCount:2	links:	url:D014103	name:Torticollis	normalName:torticollis	normalWikiTitle:torticollis	predictedType:Disease
+CANDIDATE	id:9765	inCount:42	outCount:2	links:	url:D009765	name:Obesity	normalName:obesity	normalWikiTitle:obesity	predictedType:Disease
+CANDIDATE	id:14115	inCount:1	outCount:1	links:	url:D014115	name:Toxemia	normalName:toxemia	normalWikiTitle:toxemia	predictedType:Disease
+CANDIDATE	id:7246	inCount:2	outCount:2	links:	url:D007246	name:Infertility	normalName:infertility	normalWikiTitle:infertility	predictedType:Disease
+CANDIDATE	id:20234	inCount:0	outCount:2	links:	url:D020234	name:Gait Ataxia	normalName:gait ataxia	normalWikiTitle:gait ataxia	predictedType:Disease
+CANDIDATE	id:14069	inCount:1	outCount:1	links:	url:D014069	name:Tonsillitis	normalName:tonsillitis	normalWikiTitle:tonsillitis	predictedType:Disease
+CANDIDATE	id:64420	inCount:10	outCount:1	links:	url:D064420	name:Toxicity, Drug	normalName:toxicity, drug	normalWikiTitle:toxicity, drug	predictedType:Disease
+CANDIDATE	id:17484	inCount:0	outCount:2	links:	url:D017484	name:Phototoxicity	normalName:phototoxicity	normalWikiTitle:phototoxicity	predictedType:Disease

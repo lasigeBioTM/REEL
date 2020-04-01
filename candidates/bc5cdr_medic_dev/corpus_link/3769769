@@ -1,0 +1,13 @@
+ENTITY	text:Bradycardia	normalName:bradycardia	predictedType:disease	q:true	qid:Q165	docId:3769769	origText:Bradycardia	url:D001919
+CANDIDATE	id:1919	inCount:0	outCount:1	links:	url:D001919	name:Bradycardia	normalName:bradycardia	normalWikiTitle:bradycardia	predictedType:Disease
+ENTITY	text:schizophrenic	normalName:schizophrenic	predictedType:disease	q:true	qid:Q165	docId:3769769	origText:schizophrenic	url:D012559
+CANDIDATE	id:12559	inCount:4	outCount:1	links:	url:D012559	name:Schizophrenia	normalName:schizophrenia	normalWikiTitle:schizophrenia	predictedType:Disease
+CANDIDATE	id:12563	inCount:0	outCount:1	links:	url:D012563	name:Schizophrenia, Paranoid	normalName:schizophrenia, paranoid	normalWikiTitle:schizophrenia, paranoid	predictedType:Disease
+CANDIDATE	id:12561	inCount:0	outCount:1	links:	url:D012561	name:Schizophrenia, Childhood	normalName:schizophrenia, childhood	normalWikiTitle:schizophrenia, childhood	predictedType:Disease
+CANDIDATE	id:12560	inCount:0	outCount:1	links:	url:D012560	name:Schizophrenia, Catatonic	normalName:schizophrenia, catatonic	normalWikiTitle:schizophrenia, catatonic	predictedType:Disease
+CANDIDATE	id:12562	inCount:0	outCount:1	links:	url:D012562	name:Schizophrenia, Disorganized	normalName:schizophrenia, disorganized	normalWikiTitle:schizophrenia, disorganized	predictedType:Disease
+CANDIDATE	id:55948	inCount:0	outCount:1	links:	url:D055948	name:Sarcopenia	normalName:sarcopenia	normalWikiTitle:sarcopenia	predictedType:Disease
+CANDIDATE	id:65707	inCount:0	outCount:1	links:	url:D065707	name:Schizencephaly	normalName:schizencephaly	normalWikiTitle:schizencephaly	predictedType:Disease
+CANDIDATE	id:13369	inCount:0	outCount:2	links:	url:D013369	name:Subphrenic Abscess	normalName:subphrenic abscess	normalWikiTitle:subphrenic abscess	predictedType:Disease
+CANDIDATE	id:536634	inCount:0	outCount:1	links:	url:C536634	name:Schizotaxia	normalName:schizotaxia	normalWikiTitle:schizotaxia	predictedType:Disease
+CANDIDATE	id:2825	inCount:1	outCount:2	links:	url:D002825	name:Chorioretinitis	normalName:chorioretinitis	normalWikiTitle:chorioretinitis	predictedType:Disease

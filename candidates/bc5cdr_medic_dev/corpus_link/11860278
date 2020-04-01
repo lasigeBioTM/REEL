@@ -1,0 +1,34 @@
+ENTITY	text:neurotoxicity	normalName:neurotoxicity	predictedType:disease	q:true	qid:Q378	docId:11860278	origText:neurotoxicity	url:D020258
+CANDIDATE	id:20258	inCount:7	outCount:2	links:	url:D020258	name:Neurotoxicity Syndromes	normalName:neurotoxicity syndromes	normalWikiTitle:neurotoxicity syndromes	predictedType:Disease
+CANDIDATE	id:66126	inCount:0	outCount:3	links:	url:D066126	name:Cardiotoxicity	normalName:cardiotoxicity	normalWikiTitle:cardiotoxicity	predictedType:Disease
+CANDIDATE	id:7246	inCount:2	outCount:2	links:	url:D007246	name:Infertility	normalName:infertility	normalWikiTitle:infertility	predictedType:Disease
+CANDIDATE	id:4767	inCount:0	outCount:2	links:	url:D004767	name:Enterotoxemia	normalName:enterotoxemia	normalWikiTitle:enterotoxemia	predictedType:Disease
+CANDIDATE	id:13971	inCount:2	outCount:1	links:	url:D013971	name:Thyrotoxicosis	normalName:thyrotoxicosis	normalWikiTitle:thyrotoxicosis	predictedType:Disease
+CANDIDATE	id:9902	inCount:1	outCount:1	links:	url:D009902	name:Optic Neuritis	normalName:optic neuritis	normalWikiTitle:optic neuritis	predictedType:Disease
+CANDIDATE	id:20426	inCount:2	outCount:1	links:	url:D020426	name:Sciatic Neuropathy	normalName:sciatic neuropathy	normalWikiTitle:sciatic neuropathy	predictedType:Disease
+CANDIDATE	id:18306	inCount:0	outCount:2	links:	url:D018306	name:Neurocytoma	normalName:neurocytoma	normalWikiTitle:neurocytoma	predictedType:Disease
+CANDIDATE	id:20019	inCount:0	outCount:2	links:	url:D020019	name:Neurocysticercosis	normalName:neurocysticercosis	normalWikiTitle:neurocysticercosis	predictedType:Disease
+CANDIDATE	id:9443	inCount:2	outCount:1	links:	url:D009443	name:Neuritis	normalName:neuritis	normalWikiTitle:neuritis	predictedType:Disease
+ENTITY	text:epilepsy	normalName:epilepsy	predictedType:disease	q:true	qid:Q378	docId:11860278	origText:epilepsy	url:D004827
+CANDIDATE	id:4827	inCount:52	outCount:1	links:	url:D004827	name:Epilepsy	normalName:epilepsy	normalWikiTitle:epilepsy	predictedType:Disease
+ENTITY	text:neurodegeneration	normalName:neurodegeneration	predictedType:disease	q:true	qid:Q378	docId:11860278	origText:neurodegeneration	url:D019636
+CANDIDATE	id:19636	inCount:26	outCount:1	links:	url:D019636	name:Neurodegenerative Disease	normalName:neurodegenerative disease	normalWikiTitle:neurodegenerative disease	predictedType:Disease
+CANDIDATE	id:19636	inCount:26	outCount:1	links:	url:D019636	name:Neurodegenerative Diseases	normalName:neurodegenerative diseases	normalWikiTitle:neurodegenerative diseases	predictedType:Disease
+CANDIDATE	id:9450	inCount:0	outCount:2	links:	url:D009450	name:Neurodermatitis	normalName:neurodermatitis	normalWikiTitle:neurodermatitis	predictedType:Disease
+CANDIDATE	id:9410	inCount:6	outCount:1	links:12640	url:D009410	name:Nerve Degeneration	normalName:nerve degeneration	normalWikiTitle:nerve degeneration	predictedType:Disease
+CANDIDATE	id:12162	inCount:28	outCount:2	links:	url:D012162	name:Retinal Degeneration	normalName:retinal degeneration	normalWikiTitle:retinal degeneration	predictedType:Disease
+CANDIDATE	id:8268	inCount:33	outCount:1	links:	url:D008268	name:Macular Degeneration	normalName:macular degeneration	normalWikiTitle:macular degeneration	predictedType:Disease
+CANDIDATE	id:14855	inCount:1	outCount:1	links:	url:D014855	name:Wallerian Degeneration	normalName:wallerian degeneration	normalWikiTitle:wallerian degeneration	predictedType:Disease
+CANDIDATE	id:47728	inCount:0	outCount:1	links:	url:D047728	name:Myopia, Degenerative	normalName:myopia, degenerative	normalWikiTitle:myopia, degenerative	predictedType:Disease
+CANDIDATE	id:12183	inCount:0	outCount:1	links:	url:D012183	name:Retrograde Degeneration	normalName:retrograde degeneration	normalWikiTitle:retrograde degeneration	predictedType:Disease
+CANDIDATE	id:52879	inCount:0	outCount:5	links:	url:D052879	name:Subacute Combined Degeneration	normalName:subacute combined degeneration	normalWikiTitle:subacute combined degeneration	predictedType:Disease
+CANDIDATE	id:15807	inCount:0	outCount:2	links:	url:D015807	name:Eye Injuries, Penetrating	normalName:eye injuries, penetrating	normalWikiTitle:eye injuries, penetrating	predictedType:Disease
+CANDIDATE	id:71700	inCount:1	outCount:2	links:	url:D000071700	name:Cone-Rod Degeneration	normalName:cone-rod degeneration	normalWikiTitle:cone-rod degeneration	predictedType:Disease
+CANDIDATE	id:71700	inCount:1	outCount:2	links:	url:D000071700	name:Cone-Rod Degenerations	normalName:cone-rod degenerations	normalWikiTitle:cone-rod degenerations	predictedType:Disease
+CANDIDATE	id:71700	inCount:1	outCount:2	links:	url:D000071700	name:Cone Rod Degenerations	normalName:cone rod degenerations	normalWikiTitle:cone rod degenerations	predictedType:Disease
+CANDIDATE	id:55959	inCount:1	outCount:1	links:	url:D055959	name:Degeneration, Disk	normalName:degeneration, disk	normalWikiTitle:degeneration, disk	predictedType:Disease
+CANDIDATE	id:55959	inCount:1	outCount:1	links:	url:D055959	name:Degeneration, Disc	normalName:degeneration, disc	normalWikiTitle:degeneration, disc	predictedType:Disease
+CANDIDATE	id:55959	inCount:1	outCount:1	links:	url:D055959	name:Disc Degeneration	normalName:disc degeneration	normalWikiTitle:disc degeneration	predictedType:Disease
+CANDIDATE	id:55959	inCount:1	outCount:1	links:	url:D055959	name:Disk Degeneration	normalName:disk degeneration	normalWikiTitle:disk degeneration	predictedType:Disease
+ENTITY	text:seizures	normalName:seizures	predictedType:disease	q:true	qid:Q378	docId:11860278	origText:seizures	url:D012640
+CANDIDATE	id:12640	inCount:53	outCount:1	links:9410	url:D012640	name:Seizure	normalName:seizure	normalWikiTitle:seizure	predictedType:Disease

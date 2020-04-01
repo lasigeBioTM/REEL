@@ -1,0 +1,71 @@
+ENTITY	text:loss of hearing	normalName:loss of hearing	predictedType:disease	q:true	qid:Q1330	docId:17297207	origText:loss of hearing	url:D034381
+CANDIDATE	id:34381	inCount:37	outCount:1	links:1919;1145	url:D034381	name:Hearing Loss	normalName:hearing loss	normalWikiTitle:hearing loss	predictedType:Disease
+CANDIDATE	id:3639	inCount:0	outCount:1	links:	url:D003639	name:Hearing Loss, Sudden	normalName:hearing loss, sudden	normalWikiTitle:hearing loss, sudden	predictedType:Disease
+CANDIDATE	id:6313	inCount:16	outCount:2	links:	url:D006313	name:Hearing Loss, Central	normalName:hearing loss, central	normalWikiTitle:hearing loss, central	predictedType:Disease
+CANDIDATE	id:46088	inCount:0	outCount:1	links:	url:D046088	name:Hearing Loss, Unilateral	normalName:hearing loss, unilateral	normalWikiTitle:hearing loss, unilateral	predictedType:Disease
+CANDIDATE	id:6319	inCount:216	outCount:1	links:	url:D006319	name:Hearing Loss, Sensorineural	normalName:hearing loss, sensorineural	normalWikiTitle:hearing loss, sensorineural	predictedType:Disease
+CANDIDATE	id:6317	inCount:0	outCount:1	links:	url:D006317	name:Hearing Loss, Noise-Induced	normalName:hearing loss, noise-induced	normalWikiTitle:hearing loss, noise-induced	predictedType:Disease
+CANDIDATE	id:6312	inCount:5	outCount:1	links:	url:D006312	name:Hearing Loss, Bilateral	normalName:hearing loss, bilateral	normalWikiTitle:hearing loss, bilateral	predictedType:Disease
+CANDIDATE	id:6315	inCount:0	outCount:1	links:	url:D006315	name:Hearing Loss, Functional	normalName:hearing loss, functional	normalWikiTitle:hearing loss, functional	predictedType:Disease
+CANDIDATE	id:6314	inCount:20	outCount:1	links:	url:D006314	name:Hearing Loss, Conductive	normalName:hearing loss, conductive	normalWikiTitle:hearing loss, conductive	predictedType:Disease
+CANDIDATE	id:10382	inCount:0	outCount:2	links:	url:D010382	name:Peliosis Hepatis	normalName:peliosis hepatis	normalWikiTitle:peliosis hepatis	predictedType:Disease
+ENTITY	text:arrhythmic	normalName:arrhythmic	predictedType:disease	q:true	qid:Q1330	docId:17297207	origText:arrhythmic	url:D001145
+CANDIDATE	id:1145	inCount:27	outCount:2	links:7008;34381	url:D001145	name:Arrhythmia, Cardiac	normalName:arrhythmia, cardiac	normalWikiTitle:arrhythmia, cardiac	predictedType:Disease
+CANDIDATE	id:1145	inCount:27	outCount:2	links:7008;34381	url:D001145	name:Arrhythmias, Cardiac	normalName:arrhythmias, cardiac	normalWikiTitle:arrhythmias, cardiac	predictedType:Disease
+CANDIDATE	id:1146	inCount:2	outCount:1	links:12848	url:D001146	name:Arrhythmia, Sinus	normalName:arrhythmia, sinus	normalWikiTitle:arrhythmia, sinus	predictedType:Disease
+CANDIDATE	id:9896	inCount:24	outCount:1	links:14839	url:D009896	name:Optic Atrophy	normalName:optic atrophy	normalWikiTitle:optic atrophy	predictedType:Disease
+CANDIDATE	id:7035	inCount:2	outCount:1	links:18879;12848	url:D007035	name:Hypothermia	normalName:hypothermia	normalWikiTitle:hypothermia	predictedType:Disease
+CANDIDATE	id:19263	inCount:0	outCount:1	links:	url:D019263	name:Dysthymic Disorder	normalName:dysthymic disorder	normalWikiTitle:dysthymic disorder	predictedType:Disease
+CANDIDATE	id:311050	inCount:0	outCount:1	links:	url:311050	name:OPTIC ATROPHY 2	normalName:optic atrophy 2	normalWikiTitle:optic atrophy 2	predictedType:Disease
+CANDIDATE	id:565343	inCount:0	outCount:1	links:	url:C565343	name:Optic Atrophy 4	normalName:optic atrophy 4	normalWikiTitle:optic atrophy 4	predictedType:Disease
+CANDIDATE	id:537126	inCount:0	outCount:1	links:	url:C537126	name:Optic atrophy 5	normalName:optic atrophy 5	normalWikiTitle:optic atrophy 5	predictedType:Disease
+CANDIDATE	id:4890	inCount:11	outCount:2	links:	url:D004890	name:Erythema	normalName:erythema	normalWikiTitle:erythema	predictedType:Disease
+CANDIDATE	id:567833	inCount:0	outCount:1	links:	url:C567833	name:Optic Atrophy 7	normalName:optic atrophy 7	normalWikiTitle:optic atrophy 7	predictedType:Disease
+CANDIDATE	id:1145	inCount:27	outCount:2	links:7008;34381	url:D001145	name:Arrhythmia	normalName:arrhythmia	normalWikiTitle:arrhythmia	predictedType:Disease
+CANDIDATE	id:1145	inCount:27	outCount:2	links:7008;34381	url:D001145	name:Arrythmia	normalName:arrythmia	normalWikiTitle:arrythmia	predictedType:Disease
+CANDIDATE	id:13036	inCount:49	outCount:2	links:	url:D013036	name:Hypsarrhythmia	normalName:hypsarrhythmia	normalWikiTitle:hypsarrhythmia	predictedType:Disease
+CANDIDATE	id:13036	inCount:49	outCount:2	links:	url:D013036	name:Hypsarrhythmias	normalName:hypsarrhythmias	normalWikiTitle:hypsarrhythmias	predictedType:Disease
+CANDIDATE	id:1919	inCount:0	outCount:1	links:34381;13280;6331;12848;14839;18879;3967;1145	url:D001919	name:Bradyarrhythmia	normalName:bradyarrhythmia	normalWikiTitle:bradyarrhythmia	predictedType:Disease
+CANDIDATE	id:13610	inCount:7	outCount:2	links:14839;1145	url:D013610	name:Tachyarrhythmia	normalName:tachyarrhythmia	normalWikiTitle:tachyarrhythmia	predictedType:Disease
+CANDIDATE	id:1145	inCount:27	outCount:2	links:7008;34381	url:D001145	name:Cardiac Arrhythmia	normalName:cardiac arrhythmia	normalWikiTitle:cardiac arrhythmia	predictedType:Disease
+ENTITY	text:premature ventricular contraction	normalName:premature ventricular contraction	predictedType:disease	q:true	qid:Q1330	docId:17297207	origText:premature ventricular contraction	url:D018879
+CANDIDATE	id:18879	inCount:1	outCount:1	links:7035;7008;1919	url:D018879	name:Premature Ventricular Contraction	normalName:premature ventricular contraction	normalWikiTitle:premature ventricular contraction	predictedType:Disease
+ENTITY	text:chill	normalName:chill	predictedType:disease	q:true	qid:Q1330	docId:17297207	origText:chill	url:D023341
+CANDIDATE	id:23341	inCount:0	outCount:1	links:	url:D023341	name:Chills	normalName:chills	normalWikiTitle:chills	predictedType:Disease
+CANDIDATE	id:2647	inCount:2	outCount:1	links:	url:D002647	name:Chilblains	normalName:chilblains	normalWikiTitle:chilblains	predictedType:Disease
+CANDIDATE	id:2613	inCount:3	outCount:1	links:	url:D002613	name:Cheilitis	normalName:cheilitis	normalWikiTitle:cheilitis	predictedType:Disease
+CANDIDATE	id:4454	inCount:0	outCount:1	links:	url:D004454	name:Echolalia	normalName:echolalia	normalWikiTitle:echolalia	predictedType:Disease
+CANDIDATE	id:14235	inCount:0	outCount:1	links:	url:D014235	name:Trichinellosis	normalName:trichinellosis	normalWikiTitle:trichinellosis	predictedType:Disease
+ENTITY	text:tinnitus	normalName:tinnitus	predictedType:disease	q:true	qid:Q1330	docId:17297207	origText:tinnitus	url:D014012
+CANDIDATE	id:14012	inCount:1	outCount:1	links:	url:D014012	name:Tinnitus	normalName:tinnitus	normalWikiTitle:tinnitus	predictedType:Disease
+ENTITY	text:diarrhea	normalName:diarrhea	predictedType:disease	q:true	qid:Q1330	docId:17297207	origText:diarrhea	url:D003967
+CANDIDATE	id:3967	inCount:14	outCount:1	links:14839;13280;6331;5334;1919	url:D003967	name:Diarrhea	normalName:diarrhea	normalWikiTitle:diarrhea	predictedType:Disease
+ENTITY	text:jaundice	normalName:jaundice	predictedType:disease	q:true	qid:Q1330	docId:17297207	origText:jaundice	url:D007565
+CANDIDATE	id:7565	inCount:5	outCount:2	links:14839	url:D007565	name:Jaundice	normalName:jaundice	normalWikiTitle:jaundice	predictedType:Disease
+ENTITY	text:arrhythmia	normalName:arrhythmia	predictedType:disease	q:true	qid:Q1330	docId:17297207	origText:arrhythmia	url:D001145
+CANDIDATE	id:1145	inCount:27	outCount:2	links:7008;34381	url:D001145	name:Arrhythmia	normalName:arrhythmia	normalWikiTitle:arrhythmia	predictedType:Disease
+ENTITY	text:vomiting	normalName:vomiting	predictedType:disease	q:true	qid:Q1330	docId:17297207	origText:vomiting	url:D014839
+CANDIDATE	id:14839	inCount:7	outCount:1	links:1919;13610;13280;9896;6331;3967;7565	url:D014839	name:Vomiting	normalName:vomiting	normalWikiTitle:vomiting	predictedType:Disease
+ENTITY	text:arrhythmias	normalName:arrhythmias	predictedType:disease	q:true	qid:Q1330	docId:17297207	origText:arrhythmias	url:D001145
+CANDIDATE	id:1145	inCount:27	outCount:2	links:7008;34381	url:D001145	name:Arrhythmia	normalName:arrhythmia	normalWikiTitle:arrhythmia	predictedType:Disease
+ENTITY	text:fever	normalName:fever	predictedType:disease	q:true	qid:Q1330	docId:17297207	origText:fever	url:D005334
+CANDIDATE	id:5334	inCount:5	outCount:1	links:3967	url:D005334	name:Fever	normalName:fever	normalWikiTitle:fever	predictedType:Disease
+ENTITY	text:heart diseases	normalName:heart diseases	predictedType:disease	q:true	qid:Q1330	docId:17297207	origText:heart diseases	url:D006331
+CANDIDATE	id:6331	inCount:29	outCount:1	links:14839;3967;13280;1919	url:D006331	name:Disease, Heart	normalName:disease, heart	normalWikiTitle:disease, heart	predictedType:Disease
+ENTITY	text:hypokalemia	normalName:hypokalemia	predictedType:disease	q:true	qid:Q1330	docId:17297207	origText:hypokalemia	url:D007008
+CANDIDATE	id:7008	inCount:1	outCount:1	links:18879;1145	url:D007008	name:Hypokalemia	normalName:hypokalemia	normalWikiTitle:hypokalemia	predictedType:Disease
+ENTITY	text:vomitus	normalName:vomitus	predictedType:disease	q:true	qid:Q1330	docId:17297207	origText:vomitus	url:D014839
+CANDIDATE	id:14839	inCount:7	outCount:1	links:1919;13610;13280;9896;6331;3967;7565	url:D014839	name:Vomiting	normalName:vomiting	normalWikiTitle:vomiting	predictedType:Disease
+CANDIDATE	id:10031	inCount:3	outCount:1	links:	url:D010031	name:Otitis	normalName:otitis	normalWikiTitle:otitis	predictedType:Disease
+CANDIDATE	id:13280	inCount:5	outCount:1	links:14839;3967;6331;1919	url:D013280	name:Stomatitis	normalName:stomatitis	normalWikiTitle:stomatitis	predictedType:Disease
+CANDIDATE	id:14605	inCount:7	outCount:1	links:	url:D014605	name:Uveitis	normalName:uveitis	normalWikiTitle:uveitis	predictedType:Disease
+CANDIDATE	id:3092	inCount:7	outCount:2	links:	url:D003092	name:Colitis	normalName:colitis	normalWikiTitle:colitis	predictedType:Disease
+CANDIDATE	id:52880	inCount:0	outCount:2	links:	url:D052880	name:Pyomyositis	normalName:pyomyositis	normalWikiTitle:pyomyositis	predictedType:Disease
+CANDIDATE	id:9187	inCount:4	outCount:2	links:	url:D009187	name:Myelitis	normalName:myelitis	normalWikiTitle:myelitis	predictedType:Disease
+CANDIDATE	id:4716	inCount:0	outCount:2	links:	url:D004716	name:Endometritis	normalName:endometritis	normalWikiTitle:endometritis	predictedType:Disease
+CANDIDATE	id:8413	inCount:1	outCount:2	links:	url:D008413	name:Mastitis	normalName:mastitis	normalWikiTitle:mastitis	predictedType:Disease
+CANDIDATE	id:14012	inCount:1	outCount:1	links:	url:D014012	name:Tinnitus	normalName:tinnitus	normalWikiTitle:tinnitus	predictedType:Disease
+ENTITY	text:sinoatrial block	normalName:sinoatrial block	predictedType:disease	q:true	qid:Q1330	docId:17297207	origText:sinoatrial block	url:D012848
+CANDIDATE	id:12848	inCount:1	outCount:1	links:7035;1146;1919	url:D012848	name:Sinoatrial Block	normalName:sinoatrial block	normalWikiTitle:sinoatrial block	predictedType:Disease
+ENTITY	text:malaria	normalName:malaria	predictedType:disease	q:true	qid:Q1330	docId:17297207	origText:malaria	url:D008288
+CANDIDATE	id:8288	inCount:6	outCount:1	links:	url:D008288	name:Malaria	normalName:malaria	normalWikiTitle:malaria	predictedType:Disease

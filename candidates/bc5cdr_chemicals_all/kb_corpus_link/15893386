@@ -1,0 +1,4 @@
+ENTITY	text:Succinylcholine	normalName:succinylcholine	predictedType:chemical	q:true	qid:Q1264	docId:15893386	origText:Succinylcholine	url:D013390
+CANDIDATE	id:13390	inCount:3	outCount:2	links:15742	url:D013390	name:Succinylcholine	normalName:succinylcholine	normalWikiTitle:succinylcholine	predictedType:Chemical
+ENTITY	text:propofol	normalName:propofol	predictedType:chemical	q:true	qid:Q1264	docId:15893386	origText:propofol	url:D015742
+CANDIDATE	id:15742	inCount:12	outCount:1	links:13390	url:D015742	name:Propofol	normalName:propofol	normalWikiTitle:propofol	predictedType:Chemical

@@ -1,0 +1,19 @@
+ENTITY	text:left ventricular dysfunction	normalName:left ventricular dysfunction	predictedType:disease	q:true	qid:Q428	docId:24842192	origText:left ventricular dysfunction	url:D018487
+CANDIDATE	id:18487	inCount:1	outCount:1	links:	url:D018487	name:Ventricular Dysfunction, Left	normalName:ventricular dysfunction, left	normalWikiTitle:ventricular dysfunction, left	predictedType:Disease
+ENTITY	text:necrosis	normalName:necrosis	predictedType:disease	q:true	qid:Q428	docId:24842192	origText:necrosis	url:D009336
+CANDIDATE	id:9336	inCount:6	outCount:1	links:	url:D009336	name:Necrosis	normalName:necrosis	normalWikiTitle:necrosis	predictedType:Disease
+ENTITY	text:myocardial infarction	normalName:myocardial infarction	predictedType:disease	q:true	qid:Q428	docId:24842192	origText:myocardial infarction	url:D009203
+CANDIDATE	id:9203	inCount:8	outCount:1	links:9203	url:D009203	name:Myocardial Infarction	normalName:myocardial infarction	normalWikiTitle:myocardial infarction	predictedType:Disease
+ENTITY	text:tumor	normalName:tumor	predictedType:disease	q:true	qid:Q428	docId:24842192	origText:tumor	url:D009369
+CANDIDATE	id:9369	inCount:18	outCount:1	links:	url:D009369	name:Tumor	normalName:tumor	normalWikiTitle:tumor	predictedType:Disease
+ENTITY	text:acute myocardial infarction	normalName:acute myocardial infarction	predictedType:disease	q:true	qid:Q428	docId:24842192	origText:acute myocardial infarction	url:D009203
+CANDIDATE	id:9203	inCount:8	outCount:1	links:9203	url:D009203	name:Myocardial Infarction	normalName:myocardial infarction	normalWikiTitle:myocardial infarction	predictedType:Disease
+CANDIDATE	id:56988	inCount:0	outCount:1	links:	url:D056988	name:Anterior Wall Myocardial Infarction	normalName:anterior wall myocardial infarction	normalWikiTitle:anterior wall myocardial infarction	predictedType:Disease
+CANDIDATE	id:72657	inCount:0	outCount:1	links:	url:D000072657	name:ST Elevation Myocardial Infarction	normalName:st elevation myocardial infarction	normalWikiTitle:st elevation myocardial infarction	predictedType:Disease
+CANDIDATE	id:72658	inCount:0	outCount:1	links:	url:D000072658	name:Non-ST Elevated Myocardial Infarction	normalName:non-st elevated myocardial infarction	normalWikiTitle:non-st elevated myocardial infarction	predictedType:Disease
+CANDIDATE	id:71956	inCount:1	outCount:2	links:	url:D000071956	name:Myocardial Contusions	normalName:myocardial contusions	normalWikiTitle:myocardial contusions	predictedType:Disease
+CANDIDATE	id:9617	inCount:1	outCount:1	links:	url:D009617	name:Nocardia Infections	normalName:nocardia infections	normalWikiTitle:nocardia infections	predictedType:Disease
+CANDIDATE	id:56989	inCount:0	outCount:1	links:	url:D056989	name:Inferior Wall Myocardial Infarction	normalName:inferior wall myocardial infarction	normalWikiTitle:inferior wall myocardial infarction	predictedType:Disease
+CANDIDATE	id:17202	inCount:6	outCount:2	links:	url:D017202	name:Myocardial Ischemia	normalName:myocardial ischemia	normalWikiTitle:myocardial ischemia	predictedType:Disease
+CANDIDATE	id:54060	inCount:0	outCount:1	links:	url:D054060	name:Pulmonary Infarction	normalName:pulmonary infarction	normalWikiTitle:pulmonary infarction	predictedType:Disease
+CANDIDATE	id:54084	inCount:0	outCount:1	links:	url:D054084	name:Myocardial Bridging	normalName:myocardial bridging	normalWikiTitle:myocardial bridging	predictedType:Disease

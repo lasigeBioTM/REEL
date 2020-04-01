@@ -1,0 +1,39 @@
+ENTITY	text:cardiovascular alterations	normalName:cardiovascular alterations	predictedType:disease	q:true	qid:Q178	docId:2594614	origText:cardiovascular alterations	url:D018376
+CANDIDATE	id:18376	inCount:6	outCount:2	links:	url:D018376	name:Cardiovascular Abnormalities	normalName:cardiovascular abnormalities	normalWikiTitle:cardiovascular abnormalities	predictedType:Disease
+CANDIDATE	id:54079	inCount:21	outCount:1	links:	url:D054079	name:Vascular Malformations	normalName:vascular malformations	normalWikiTitle:vascular malformations	predictedType:Disease
+CANDIDATE	id:6978	inCount:0	outCount:1	links:	url:D006978	name:Hypertension, Renovascular	normalName:hypertension, renovascular	normalWikiTitle:hypertension, renovascular	predictedType:Disease
+CANDIDATE	id:61205	inCount:3	outCount:1	links:	url:D061205	name:Vascular Calcification	normalName:vascular calcification	normalWikiTitle:vascular calcification	predictedType:Disease
+CANDIDATE	id:17566	inCount:0	outCount:1	links:	url:D017566	name:Microvascular Angina	normalName:microvascular angina	normalWikiTitle:microvascular angina	predictedType:Disease
+CANDIDATE	id:20879	inCount:10	outCount:1	links:	url:D020879	name:Neuromuscular Manifestations	normalName:neuromuscular manifestations	normalWikiTitle:neuromuscular manifestations	predictedType:Disease
+CANDIDATE	id:20252	inCount:1	outCount:2	links:	url:D020252	name:Gastric Antral Vascular Ectasia	normalName:gastric antral vascular ectasia	normalWikiTitle:gastric antral vascular ectasia	predictedType:Disease
+CANDIDATE	id:564750	inCount:0	outCount:5	links:	url:C564750	name:Vascular Hyalinosis	normalName:vascular hyalinosis	normalWikiTitle:vascular hyalinosis	predictedType:Disease
+CANDIDATE	id:73872	inCount:0	outCount:2	links:	url:D000073872	name:Vascular Ring	normalName:vascular ring	normalWikiTitle:vascular ring	predictedType:Disease
+CANDIDATE	id:536895	inCount:0	outCount:1	links:	url:C536895	name:Talonavicular coalition	normalName:talonavicular coalition	normalWikiTitle:talonavicular coalition	predictedType:Disease
+ENTITY	text:cardiovascular impairments	normalName:cardiovascular impairments	predictedType:disease	q:true	qid:Q178	docId:2594614	origText:cardiovascular impairments	url:D002318
+CANDIDATE	id:2318	inCount:5	outCount:1	links:2318	url:D002318	name:Cardiovascular Diseases	normalName:cardiovascular diseases	normalWikiTitle:cardiovascular diseases	predictedType:Disease
+CANDIDATE	id:53821	inCount:3	outCount:2	links:53821	url:D053821	name:Cardiovascular Infections	normalName:cardiovascular infections	normalWikiTitle:cardiovascular infections	predictedType:Disease
+CANDIDATE	id:13589	inCount:0	outCount:2	links:13589	url:D013589	name:Syphilis, Cardiovascular	normalName:syphilis, cardiovascular	normalWikiTitle:syphilis, cardiovascular	predictedType:Disease
+CANDIDATE	id:11249	inCount:1	outCount:2	links:11249	url:D011249	name:Pregnancy Complications, Cardiovascular	normalName:pregnancy complications, cardiovascular	normalWikiTitle:pregnancy complications, cardiovascular	predictedType:Disease
+CANDIDATE	id:14381	inCount:1	outCount:2	links:14381	url:D014381	name:Tuberculosis, Cardiovascular	normalName:tuberculosis, cardiovascular	normalWikiTitle:tuberculosis, cardiovascular	predictedType:Disease
+CANDIDATE	id:2561	inCount:17	outCount:2	links:	url:D002561	name:Cerebrovascular Disorders	normalName:cerebrovascular disorders	normalWikiTitle:cerebrovascular disorders	predictedType:Disease
+CANDIDATE	id:73436	inCount:0	outCount:1	links:73436	url:D000073436	name:Microvascular Rarefaction	normalName:microvascular rarefaction	normalWikiTitle:microvascular rarefaction	predictedType:Disease
+CANDIDATE	id:57925	inCount:0	outCount:2	links:	url:D057925	name:Femoracetabular Impingement	normalName:femoracetabular impingement	normalWikiTitle:femoracetabular impingement	predictedType:Disease
+CANDIDATE	id:20256	inCount:0	outCount:2	links:	url:D020256	name:Choroidal Neovascularization	normalName:choroidal neovascularization	normalWikiTitle:choroidal neovascularization	predictedType:Disease
+CANDIDATE	id:15861	inCount:0	outCount:2	links:	url:D015861	name:Retinal Neovascularization	normalName:retinal neovascularization	normalWikiTitle:retinal neovascularization	predictedType:Disease
+ENTITY	text:cardiovascular toxicity	normalName:cardiovascular toxicity	predictedType:disease	q:true	qid:Q178	docId:2594614	origText:cardiovascular toxicity	url:D002318
+CANDIDATE	id:2318	inCount:5	outCount:1	links:2318	url:D002318	name:Cardiovascular Diseases	normalName:cardiovascular diseases	normalWikiTitle:cardiovascular diseases	predictedType:Disease
+CANDIDATE	id:66126	inCount:0	outCount:3	links:	url:D066126	name:Cardiotoxicity	normalName:cardiotoxicity	normalWikiTitle:cardiotoxicity	predictedType:Disease
+CANDIDATE	id:53821	inCount:3	outCount:2	links:53821	url:D053821	name:Cardiovascular Infections	normalName:cardiovascular infections	normalWikiTitle:cardiovascular infections	predictedType:Disease
+CANDIDATE	id:13589	inCount:0	outCount:2	links:13589	url:D013589	name:Syphilis, Cardiovascular	normalName:syphilis, cardiovascular	normalWikiTitle:syphilis, cardiovascular	predictedType:Disease
+CANDIDATE	id:14381	inCount:1	outCount:2	links:14381	url:D014381	name:Tuberculosis, Cardiovascular	normalName:tuberculosis, cardiovascular	normalWikiTitle:tuberculosis, cardiovascular	predictedType:Disease
+CANDIDATE	id:11249	inCount:1	outCount:2	links:11249	url:D011249	name:Pregnancy Complications, Cardiovascular	normalName:pregnancy complications, cardiovascular	normalWikiTitle:pregnancy complications, cardiovascular	predictedType:Disease
+CANDIDATE	id:531667	inCount:0	outCount:1	links:	url:C531667	name:5 alpha Fluorouracil toxicity	normalName:5 alpha fluorouracil toxicity	normalWikiTitle:5 alpha fluorouracil toxicity	predictedType:Disease
+CANDIDATE	id:566156	inCount:0	outCount:1	links:	url:C566156	name:Cataract, Nuclear Total	normalName:cataract, nuclear total	normalWikiTitle:cataract, nuclear total	predictedType:Disease
+CANDIDATE	id:20214	inCount:3	outCount:2	links:	url:D020214	name:Cerebrovascular Trauma	normalName:cerebrovascular trauma	normalWikiTitle:cerebrovascular trauma	predictedType:Disease
+CANDIDATE	id:73436	inCount:0	outCount:1	links:73436	url:D000073436	name:Microvascular Rarefaction	normalName:microvascular rarefaction	normalWikiTitle:microvascular rarefaction	predictedType:Disease
+CANDIDATE	id:66126	inCount:0	outCount:3	links:	url:D066126	name:Toxicity, Cardiac	normalName:toxicity, cardiac	normalWikiTitle:toxicity, cardiac	predictedType:Disease
+CANDIDATE	id:66126	inCount:0	outCount:3	links:	url:D066126	name:Cardiac Toxicity	normalName:cardiac toxicity	normalWikiTitle:cardiac toxicity	predictedType:Disease
+CANDIDATE	id:53821	inCount:3	outCount:2	links:53821	url:D053821	name:Infection, Cardiovascular	normalName:infection, cardiovascular	normalWikiTitle:infection, cardiovascular	predictedType:Disease
+CANDIDATE	id:9203	inCount:8	outCount:1	links:	url:D009203	name:Cardiovascular Stroke	normalName:cardiovascular stroke	normalWikiTitle:cardiovascular stroke	predictedType:Disease
+CANDIDATE	id:53821	inCount:3	outCount:2	links:53821	url:D053821	name:Cardiovascular Infection	normalName:cardiovascular infection	normalWikiTitle:cardiovascular infection	predictedType:Disease
+CANDIDATE	id:9203	inCount:8	outCount:1	links:	url:D009203	name:Stroke, Cardiovascular	normalName:stroke, cardiovascular	normalWikiTitle:stroke, cardiovascular	predictedType:Disease

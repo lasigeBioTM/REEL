@@ -1,0 +1,13 @@
+ENTITY	text:proteinuria	normalName:proteinuria	predictedType:disease	q:true	qid:Q342	docId:7881871	origText:proteinuria	url:D011507
+CANDIDATE	id:11507	inCount:4	outCount:2	links:11507	url:D011507	name:Proteinuria	normalName:proteinuria	normalWikiTitle:proteinuria	predictedType:Disease
+ENTITY	text:proteinuric injury	normalName:proteinuric injury	predictedType:disease	q:true	qid:Q342	docId:7881871	origText:proteinuric injury	url:D011507
+CANDIDATE	id:11507	inCount:4	outCount:2	links:11507	url:D011507	name:Proteinuria	normalName:proteinuria	normalWikiTitle:proteinuria	predictedType:Disease
+CANDIDATE	id:11488	inCount:1	outCount:1	links:	url:D011488	name:Protein Deficiency	normalName:protein deficiency	normalWikiTitle:protein deficiency	predictedType:Disease
+CANDIDATE	id:15427	inCount:2	outCount:2	links:	url:D015427	name:Reperfusion Injury	normalName:reperfusion injury	normalWikiTitle:reperfusion injury	predictedType:Disease
+CANDIDATE	id:47489	inCount:0	outCount:1	links:	url:D047489	name:Preconception Injuries	normalName:preconception injuries	normalWikiTitle:preconception injuries	predictedType:Disease
+CANDIDATE	id:20151	inCount:4	outCount:3	links:	url:D020151	name:Protein C Deficiency	normalName:protein c deficiency	normalWikiTitle:protein c deficiency	predictedType:Disease
+CANDIDATE	id:20221	inCount:0	outCount:2	links:	url:D020221	name:Optic Nerve Injuries	normalName:optic nerve injuries	normalWikiTitle:optic nerve injuries	predictedType:Disease
+CANDIDATE	id:18455	inCount:3	outCount:3	links:	url:D018455	name:Protein S Deficiency	normalName:protein s deficiency	normalWikiTitle:protein s deficiency	predictedType:Disease
+CANDIDATE	id:49188	inCount:1	outCount:1	links:	url:D049188	name:Prenatal Injuries	normalName:prenatal injuries	normalWikiTitle:prenatal injuries	predictedType:Disease
+CANDIDATE	id:13898	inCount:4	outCount:1	links:	url:D013898	name:Thoracic Injuries	normalName:thoracic injuries	normalWikiTitle:thoracic injuries	predictedType:Disease
+CANDIDATE	id:11475	inCount:1	outCount:1	links:	url:D011475	name:Prosthesis Failure	normalName:prosthesis failure	normalWikiTitle:prosthesis failure	predictedType:Disease

@@ -1,0 +1,4 @@
+ENTITY	text:Wernicke-Korsakoff syndrome	normalName:wernicke-korsakoff syndrome	predictedType:disease	q:true	qid:Q99	docId:3762968	origText:Wernicke-Korsakoff syndrome	url:D020915
+CANDIDATE	id:20915	inCount:1	outCount:1	links:	url:D020915	name:Wernicke Korsakoff Syndrome	normalName:wernicke korsakoff syndrome	normalWikiTitle:wernicke korsakoff syndrome	predictedType:Disease
+ENTITY	text:Wernicke's encephalopathy	normalName:wernicke's encephalopathy	predictedType:disease	q:true	qid:Q99	docId:3762968	origText:Wernicke's encephalopathy	url:D014899
+CANDIDATE	id:14899	inCount:0	outCount:3	links:	url:D014899	name:Wernicke's Encephalopathy	normalName:wernicke's encephalopathy	normalWikiTitle:wernicke's encephalopathy	predictedType:Disease

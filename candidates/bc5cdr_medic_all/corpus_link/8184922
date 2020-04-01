@@ -1,0 +1,16 @@
+ENTITY	text:hypertrophic hearts	normalName:hypertrophic hearts	predictedType:disease	q:true	qid:Q1170	docId:8184922	origText:hypertrophic hearts	url:D006332
+CANDIDATE	id:6332	inCount:5	outCount:2	links:	url:D006332	name:Heart Hypertrophy	normalName:heart hypertrophy	normalWikiTitle:heart hypertrophy	predictedType:Disease
+CANDIDATE	id:5758	inCount:0	outCount:1	links:	url:D005758	name:Gastritis, Hypertrophic	normalName:gastritis, hypertrophic	normalWikiTitle:gastritis, hypertrophic	predictedType:Disease
+CANDIDATE	id:17439	inCount:0	outCount:1	links:	url:D017439	name:Cicatrix, Hypertrophic	normalName:cicatrix, hypertrophic	normalWikiTitle:cicatrix, hypertrophic	predictedType:Disease
+CANDIDATE	id:2312	inCount:5	outCount:2	links:	url:D002312	name:Cardiomyopathy, Hypertrophic	normalName:cardiomyopathy, hypertrophic	normalWikiTitle:cardiomyopathy, hypertrophic	predictedType:Disease
+CANDIDATE	id:6984	inCount:9	outCount:1	links:	url:D006984	name:Hypertrophy	normalName:hypertrophy	normalWikiTitle:hypertrophy	predictedType:Disease
+CANDIDATE	id:537158	inCount:0	outCount:2	links:	url:C537158	name:Hypothalamic hamartomas	normalName:hypothalamic hamartomas	normalWikiTitle:hypothalamic hamartomas	predictedType:Disease
+CANDIDATE	id:5886	inCount:1	outCount:1	links:	url:D005886	name:Gingival Hypertrophy	normalName:gingival hypertrophy	normalWikiTitle:gingival hypertrophy	predictedType:Disease
+CANDIDATE	id:565497	inCount:0	outCount:2	links:	url:C565497	name:Hyperopia, High	normalName:hyperopia, high	normalWikiTitle:hyperopia, high	predictedType:Disease
+CANDIDATE	id:536604	inCount:0	outCount:3	links:	url:C536604	name:Amaurosis hypertrichosis	normalName:amaurosis hypertrichosis	normalWikiTitle:amaurosis hypertrichosis	predictedType:Disease
+CANDIDATE	id:614160	inCount:0	outCount:2	links:	url:614160	name:MUSCLE HYPERTROPHY	normalName:muscle hypertrophy	normalWikiTitle:muscle hypertrophy	predictedType:Disease
+CANDIDATE	id:563014	inCount:1	outCount:2	links:	url:C563014	name:Facial Hemihypertrophy	normalName:facial hemihypertrophy	normalWikiTitle:facial hemihypertrophy	predictedType:Disease
+ENTITY	text:cardiac hypertrophy	normalName:cardiac hypertrophy	predictedType:disease	q:true	qid:Q1170	docId:8184922	origText:cardiac hypertrophy	url:D006332
+CANDIDATE	id:6332	inCount:5	outCount:2	links:	url:D006332	name:Cardiac Hypertrophy	normalName:cardiac hypertrophy	normalWikiTitle:cardiac hypertrophy	predictedType:Disease
+ENTITY	text:hypertrophy	normalName:hypertrophy	predictedType:disease	q:true	qid:Q1170	docId:8184922	origText:hypertrophy	url:D006984
+CANDIDATE	id:6984	inCount:9	outCount:1	links:	url:D006984	name:Hypertrophy	normalName:hypertrophy	normalWikiTitle:hypertrophy	predictedType:Disease

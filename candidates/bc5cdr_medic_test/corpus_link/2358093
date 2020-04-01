@@ -1,0 +1,8 @@
+ENTITY	text:hereditary angioedema	normalName:hereditary angioedema	predictedType:disease	q:true	qid:Q137	docId:2358093	origText:hereditary angioedema	url:D054179
+CANDIDATE	id:54179	inCount:2	outCount:2	links:	url:D054179	name:Hereditary Angioedema	normalName:hereditary angioedema	normalWikiTitle:hereditary angioedema	predictedType:Disease
+ENTITY	text:weight gain	normalName:weight gain	predictedType:disease	q:true	qid:Q137	docId:2358093	origText:weight gain	url:D015430
+CANDIDATE	id:15430	inCount:1	outCount:1	links:9120	url:D015430	name:Weight Gain	normalName:weight gain	normalWikiTitle:weight gain	predictedType:Disease
+ENTITY	text:myalgias	normalName:myalgias	predictedType:disease	q:true	qid:Q137	docId:2358093	origText:myalgias	url:D063806
+CANDIDATE	id:63806	inCount:0	outCount:2	links:	url:D063806	name:Myalgia	normalName:myalgia	normalWikiTitle:myalgia	predictedType:Disease
+ENTITY	text:muscle cramps	normalName:muscle cramps	predictedType:disease	q:true	qid:Q137	docId:2358093	origText:muscle cramps	url:D009120
+CANDIDATE	id:9120	inCount:3	outCount:2	links:15430	url:D009120	name:Cramps, Muscle	normalName:cramps, muscle	normalWikiTitle:cramps, muscle	predictedType:Disease

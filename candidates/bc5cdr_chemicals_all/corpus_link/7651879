@@ -1,0 +1,6 @@
+ENTITY	text:flumazenil	normalName:flumazenil	predictedType:chemical	q:true	qid:Q145	docId:7651879	origText:flumazenil	url:D005442
+CANDIDATE	id:5442	inCount:9	outCount:1	links:	url:D005442	name:Flumazenil	normalName:flumazenil	normalWikiTitle:flumazenil	predictedType:Chemical
+ENTITY	text:benzodiazepine	normalName:benzodiazepine	predictedType:chemical	q:true	qid:Q145	docId:7651879	origText:benzodiazepine	url:D001569
+CANDIDATE	id:1569	inCount:260	outCount:1	links:	url:D001569	name:Benzodiazepine	normalName:benzodiazepine	normalWikiTitle:benzodiazepine	predictedType:Chemical
+ENTITY	text:benzodiazepines	normalName:benzodiazepines	predictedType:chemical	q:true	qid:Q145	docId:7651879	origText:benzodiazepines	url:D001569
+CANDIDATE	id:1569	inCount:260	outCount:1	links:	url:D001569	name:Benzodiazepine	normalName:benzodiazepine	normalWikiTitle:benzodiazepine	predictedType:Chemical

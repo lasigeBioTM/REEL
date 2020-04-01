@@ -1,0 +1,8 @@
+ENTITY	text:ATP	normalName:atp	predictedType:chemical	q:true	qid:Q89	docId:7147232	origText:ATP	url:D000255
+CANDIDATE	id:255	inCount:176	outCount:1	links:255	url:D000255	name:ATP	normalName:atp	normalWikiTitle:atp	predictedType:Chemical
+ENTITY	text:oxygen	normalName:oxygen	predictedType:chemical	q:true	qid:Q89	docId:7147232	origText:oxygen	url:D010100
+CANDIDATE	id:10100	inCount:11	outCount:2	links:	url:D010100	name:Oxygen	normalName:oxygen	normalWikiTitle:oxygen	predictedType:Chemical
+ENTITY	text:sodium nitroprusside	normalName:sodium nitroprusside	predictedType:chemical	q:true	qid:Q89	docId:7147232	origText:sodium nitroprusside	url:D009599
+CANDIDATE	id:9599	inCount:2	outCount:1	links:	url:D009599	name:Sodium Nitroprusside	normalName:sodium nitroprusside	normalWikiTitle:sodium nitroprusside	predictedType:Chemical
+ENTITY	text:adenosine triphosphate	normalName:adenosine triphosphate	predictedType:chemical	q:true	qid:Q89	docId:7147232	origText:adenosine triphosphate	url:D000255
+CANDIDATE	id:255	inCount:176	outCount:1	links:255	url:D000255	name:Adenosine Triphosphate	normalName:adenosine triphosphate	normalWikiTitle:adenosine triphosphate	predictedType:Chemical

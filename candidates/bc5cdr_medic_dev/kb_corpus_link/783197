@@ -1,0 +1,6 @@
+ENTITY	text:coronary artery disease	normalName:coronary artery disease	predictedType:disease	q:true	qid:Q166	docId:783197	origText:coronary artery disease	url:D003324
+CANDIDATE	id:3324	inCount:4	outCount:2	links:	url:D003324	name:Coronary Artery Disease	normalName:coronary artery disease	normalWikiTitle:coronary artery disease	predictedType:Disease
+ENTITY	text:congestive heart failure	normalName:congestive heart failure	predictedType:disease	q:true	qid:Q166	docId:783197	origText:congestive heart failure	url:D006333
+CANDIDATE	id:6333	inCount:5	outCount:1	links:6333	url:D006333	name:Heart Failure, Congestive	normalName:heart failure, congestive	normalWikiTitle:heart failure, congestive	predictedType:Disease
+ENTITY	text:heart failure	normalName:heart failure	predictedType:disease	q:true	qid:Q166	docId:783197	origText:heart failure	url:D006333
+CANDIDATE	id:6333	inCount:5	outCount:1	links:6333	url:D006333	name:Heart Failure	normalName:heart failure	normalWikiTitle:heart failure	predictedType:Disease

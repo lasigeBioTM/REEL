@@ -1,0 +1,35 @@
+ENTITY	text:alpha,beta-meATP	normalName:alpha,beta-meatp	predictedType:chemical	q:true	qid:Q138	docId:17244258	origText:alpha,beta-meATP	url:C002630
+CANDIDATE	id:2630	inCount:0	outCount:1	links:2630	url:C002630	name:alpha,beta-MeATP	normalName:alpha,beta-meatp	normalWikiTitle:alpha,beta-meatp	predictedType:Chemical
+ENTITY	text:carbachol	normalName:carbachol	predictedType:chemical	q:true	qid:Q138	docId:17244258	origText:carbachol	url:D002217
+CANDIDATE	id:2217	inCount:9	outCount:1	links:	url:D002217	name:Carbachol	normalName:carbachol	normalWikiTitle:carbachol	predictedType:Chemical
+ENTITY	text:4-DAMP	normalName:4-damp	predictedType:chemical	q:true	qid:Q138	docId:17244258	origText:4-DAMP	url:C042375
+CANDIDATE	id:42375	inCount:0	outCount:1	links:42375	url:C042375	name:4-DAMP	normalName:4-damp	normalWikiTitle:4-damp	predictedType:Chemical
+ENTITY	text:potassium	normalName:potassium	predictedType:chemical	q:true	qid:Q138	docId:17244258	origText:potassium	url:D011188
+CANDIDATE	id:11188	inCount:10	outCount:2	links:	url:D011188	name:Potassium	normalName:potassium	normalWikiTitle:potassium	predictedType:Chemical
+ENTITY	text:ATP	normalName:atp	predictedType:chemical	q:true	qid:Q138	docId:17244258	origText:ATP	url:D000255
+CANDIDATE	id:255	inCount:176	outCount:1	links:	url:D000255	name:ATP	normalName:atp	normalWikiTitle:atp	predictedType:Chemical
+ENTITY	text:4-diphenylacetoxy-N-methylpiperidine	normalName:4-diphenylacetoxy-n-methylpiperidine	predictedType:chemical	q:true	qid:Q138	docId:17244258	origText:4-diphenylacetoxy-N-methylpiperidine	url:C042375
+CANDIDATE	id:42375	inCount:0	outCount:1	links:42375	url:C042375	name:4-diphenylacetoxy-N-methylpiperidine methiodide	normalName:4-diphenylacetoxy-n-methylpiperidine methiodide	normalWikiTitle:4-diphenylacetoxy-n-methylpiperidine methiodide	predictedType:Chemical
+CANDIDATE	id:519669	inCount:0	outCount:1	links:	url:C519669	name:4-diphenylacetoxy-N-methylpiperidine methobromide	normalName:4-diphenylacetoxy-n-methylpiperidine methobromide	normalWikiTitle:4-diphenylacetoxy-n-methylpiperidine methobromide	predictedType:Chemical
+CANDIDATE	id:61774	inCount:0	outCount:1	links:	url:C061774	name:4-diphenylcarbamyl-N-methylpiperidine	normalName:4-diphenylcarbamyl-n-methylpiperidine	normalWikiTitle:4-diphenylcarbamyl-n-methylpiperidine	predictedType:Chemical
+CANDIDATE	id:56520	inCount:0	outCount:1	links:	url:C056520	name:4-diphenylmethylpiperidine	normalName:4-diphenylmethylpiperidine	normalWikiTitle:4-diphenylmethylpiperidine	predictedType:Chemical
+CANDIDATE	id:84901	inCount:0	outCount:1	links:	url:C084901	name:2-diphenylmethylpiperidine	normalName:2-diphenylmethylpiperidine	normalWikiTitle:2-diphenylmethylpiperidine	predictedType:Chemical
+CANDIDATE	id:423824	inCount:0	outCount:1	links:	url:C423824	name:4-(2-(diphenylmethoxy)ethyl)-1-benzyl piperidine	normalName:4-(2-(diphenylmethoxy)ethyl)-1-benzyl piperidine	normalWikiTitle:4-(2-(diphenylmethoxy)ethyl)-1-benzyl piperidine	predictedType:Chemical
+CANDIDATE	id:105881	inCount:0	outCount:1	links:	url:C105881	name:3,4-methylene-dioxyphenylacetone	normalName:3,4-methylene-dioxyphenylacetone	normalWikiTitle:3,4-methylene-dioxyphenylacetone	predictedType:Chemical
+CANDIDATE	id:11179	inCount:0	outCount:1	links:	url:C011179	name:2,6-bis(diphenylhydroxymethyl)piperidine	normalName:2,6-bis(diphenylhydroxymethyl)piperidine	normalWikiTitle:2,6-bis(diphenylhydroxymethyl)piperidine	predictedType:Chemical
+CANDIDATE	id:50595	inCount:0	outCount:1	links:	url:C050595	name:N-(2-guanidinoethyl)-4-methylpiperidine	normalName:n-(2-guanidinoethyl)-4-methylpiperidine	normalWikiTitle:n-(2-guanidinoethyl)-4-methylpiperidine	predictedType:Chemical
+CANDIDATE	id:471399	inCount:0	outCount:1	links:	url:C471399	name:N-methylpiperidin-4-yl acetate	normalName:n-methylpiperidin-4-yl acetate	normalWikiTitle:n-methylpiperidin-4-yl acetate	predictedType:Chemical
+CANDIDATE	id:98514	inCount:0	outCount:1	links:	url:C098514	name:hexadecyl-N-methylpiperidinium	normalName:hexadecyl-n-methylpiperidinium	normalWikiTitle:hexadecyl-n-methylpiperidinium	predictedType:Chemical
+CANDIDATE	id:9871	inCount:0	outCount:1	links:	url:C009871	name:4-diphenylmethoxy-1-methylpiperidine	normalName:4-diphenylmethoxy-1-methylpiperidine	normalWikiTitle:4-diphenylmethoxy-1-methylpiperidine	predictedType:Chemical
+ENTITY	text:alpha,beta-methylene adenosine-5'-triphosphate	normalName:alpha,beta-methylene adenosine-5'-triphosphate	predictedType:chemical	q:true	qid:Q138	docId:17244258	origText:alpha,beta-methylene adenosine-5'-triphosphate	url:C002630
+CANDIDATE	id:2630	inCount:0	outCount:1	links:2630	url:C002630	name:(.alpha.,.beta.-methylene)adenosine 5'-triphosphate	normalName:(.alpha.,.beta.-methylene)adenosine 5'-triphosphate	normalWikiTitle:(.alpha.,.beta.-methylene)adenosine 5'-triphosphate	predictedType:Chemical
+ENTITY	text:cyclophosphamide	normalName:cyclophosphamide	predictedType:chemical	q:true	qid:Q138	docId:17244258	origText:cyclophosphamide	url:D003520
+CANDIDATE	id:3520	inCount:474	outCount:1	links:	url:D003520	name:Cyclophosphamide	normalName:cyclophosphamide	normalWikiTitle:cyclophosphamide	predictedType:Chemical
+ENTITY	text:isoprenaline	normalName:isoprenaline	predictedType:chemical	q:true	qid:Q138	docId:17244258	origText:isoprenaline	url:D007545
+CANDIDATE	id:7545	inCount:12	outCount:2	links:	url:D007545	name:Isoprenaline	normalName:isoprenaline	normalWikiTitle:isoprenaline	predictedType:Chemical
+ENTITY	text:pirenzepine	normalName:pirenzepine	predictedType:chemical	q:true	qid:Q138	docId:17244258	origText:pirenzepine	url:D010890
+CANDIDATE	id:10890	inCount:11	outCount:1	links:	url:D010890	name:Pirenzepine	normalName:pirenzepine	normalWikiTitle:pirenzepine	predictedType:Chemical
+ENTITY	text:atropine	normalName:atropine	predictedType:chemical	q:true	qid:Q138	docId:17244258	origText:atropine	url:D001285
+CANDIDATE	id:1285	inCount:16	outCount:1	links:	url:D001285	name:Atropine	normalName:atropine	normalWikiTitle:atropine	predictedType:Chemical
+ENTITY	text:methoctramine	normalName:methoctramine	predictedType:chemical	q:true	qid:Q138	docId:17244258	origText:methoctramine	url:C054938
+CANDIDATE	id:54938	inCount:0	outCount:1	links:	url:C054938	name:methoctramine	normalName:methoctramine	normalWikiTitle:methoctramine	predictedType:Chemical

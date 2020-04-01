@@ -1,0 +1,15 @@
+ENTITY	text:cardiac arrhythmias	normalName:cardiac arrhythmias	predictedType:disease	q:true	qid:Q350	docId:6942642	origText:cardiac arrhythmias	url:D001145
+CANDIDATE	id:1145	inCount:27	outCount:2	links:	url:D001145	name:Arrhythmia, Cardiac	normalName:arrhythmia, cardiac	normalWikiTitle:arrhythmia, cardiac	predictedType:Disease
+ENTITY	text:diastolic hypertension	normalName:diastolic hypertension	predictedType:disease	q:true	qid:Q350	docId:6942642	origText:diastolic hypertension	url:C563897
+CANDIDATE	id:563897	inCount:0	outCount:1	links:	url:C563897	name:Hypertension, Diastolic, Resistance to	normalName:hypertension, diastolic, resistance to	normalWikiTitle:hypertension, diastolic, resistance to	predictedType:Disease
+CANDIDATE	id:75222	inCount:0	outCount:1	links:	url:D000075222	name:Essential Hypertension	normalName:essential hypertension	normalWikiTitle:essential hypertension	predictedType:Disease
+CANDIDATE	id:6973	inCount:18	outCount:1	links:	url:D006973	name:Hypertension	normalName:hypertension	normalWikiTitle:hypertension	predictedType:Disease
+CANDIDATE	id:59325	inCount:0	outCount:1	links:	url:D059325	name:Intra-Abdominal Hypertension	normalName:intra-abdominal hypertension	normalWikiTitle:intra-abdominal hypertension	predictedType:Disease
+CANDIDATE	id:59466	inCount:0	outCount:1	links:	url:D059466	name:White Coat Hypertension	normalName:white coat hypertension	normalWikiTitle:white coat hypertension	predictedType:Disease
+CANDIDATE	id:58246	inCount:0	outCount:1	links:	url:D058246	name:Prehypertension	normalName:prehypertension	normalWikiTitle:prehypertension	predictedType:Disease
+CANDIDATE	id:537095	inCount:0	outCount:2	links:	url:C537095	name:Brachydactyly with hypertension	normalName:brachydactyly with hypertension	normalWikiTitle:brachydactyly with hypertension	predictedType:Disease
+CANDIDATE	id:54144	inCount:0	outCount:1	links:	url:D054144	name:Heart Failure, Diastolic	normalName:heart failure, diastolic	normalWikiTitle:heart failure, diastolic	predictedType:Disease
+CANDIDATE	id:7022	inCount:3	outCount:1	links:	url:D007022	name:Hypotension	normalName:hypotension	normalWikiTitle:hypotension	predictedType:Disease
+CANDIDATE	id:536170	inCount:0	outCount:1	links:	url:C536170	name:Diastrophic dysplasia	normalName:diastrophic dysplasia	normalWikiTitle:diastrophic dysplasia	predictedType:Disease
+ENTITY	text:hypokalemia	normalName:hypokalemia	predictedType:disease	q:true	qid:Q350	docId:6942642	origText:hypokalemia	url:D007008
+CANDIDATE	id:7008	inCount:1	outCount:1	links:	url:D007008	name:Hypokalemia	normalName:hypokalemia	normalWikiTitle:hypokalemia	predictedType:Disease

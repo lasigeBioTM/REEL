@@ -1,0 +1,6 @@
+ENTITY	text:atropine	normalName:atropine	predictedType:chemical	q:true	qid:Q203	docId:12139551	origText:atropine	url:D001285
+CANDIDATE	id:1285	inCount:16	outCount:1	links:	url:D001285	name:Atropine	normalName:atropine	normalWikiTitle:atropine	predictedType:Chemical
+ENTITY	text:metoclopramide	normalName:metoclopramide	predictedType:chemical	q:true	qid:Q203	docId:12139551	origText:metoclopramide	url:D008787
+CANDIDATE	id:8787	inCount:18	outCount:4	links:	url:D008787	name:Metoclopramide	normalName:metoclopramide	normalWikiTitle:metoclopramide	predictedType:Chemical
+ENTITY	text:dopamine	normalName:dopamine	predictedType:chemical	q:true	qid:Q203	docId:12139551	origText:dopamine	url:D004298
+CANDIDATE	id:4298	inCount:90	outCount:2	links:	url:D004298	name:Dopamine	normalName:dopamine	normalWikiTitle:dopamine	predictedType:Chemical

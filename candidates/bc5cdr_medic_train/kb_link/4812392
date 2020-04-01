@@ -1,0 +1,6 @@
+ENTITY	text:fibrosis	normalName:fibrosis	predictedType:disease	q:true	qid:Q45	docId:4812392	origText:fibrosis	url:D005355
+CANDIDATE	id:5355	inCount:11	outCount:1	links:	url:D005355	name:Fibrosis	normalName:fibrosis	normalWikiTitle:fibrosis	predictedType:Disease
+ENTITY	text:psoriasis	normalName:psoriasis	predictedType:disease	q:true	qid:Q45	docId:4812392	origText:psoriasis	url:D011565
+CANDIDATE	id:11565	inCount:3	outCount:1	links:	url:D011565	name:Psoriasis	normalName:psoriasis	normalWikiTitle:psoriasis	predictedType:Disease
+ENTITY	text:cholestasis	normalName:cholestasis	predictedType:disease	q:true	qid:Q45	docId:4812392	origText:cholestasis	url:D002779
+CANDIDATE	id:2779	inCount:14	outCount:1	links:	url:D002779	name:Cholestasis	normalName:cholestasis	normalWikiTitle:cholestasis	predictedType:Disease

@@ -1,0 +1,23 @@
+ENTITY	text:thrombophlebitis	normalName:thrombophlebitis	predictedType:disease	q:true	qid:Q852	docId:1255900	origText:thrombophlebitis	url:D013924
+CANDIDATE	id:13924	inCount:1	outCount:2	links:	url:D013924	name:Thrombophlebitis	normalName:thrombophlebitis	normalWikiTitle:thrombophlebitis	predictedType:Disease
+ENTITY	text:infection	normalName:infection	predictedType:disease	q:true	qid:Q852	docId:1255900	origText:infection	url:D007239
+CANDIDATE	id:7239	inCount:33	outCount:1	links:	url:D007239	name:Infection	normalName:infection	normalWikiTitle:infection	predictedType:Disease
+ENTITY	text:inflammation	normalName:inflammation	predictedType:disease	q:true	qid:Q852	docId:1255900	origText:inflammation	url:D007249
+CANDIDATE	id:7249	inCount:14	outCount:1	links:	url:D007249	name:Inflammation	normalName:inflammation	normalWikiTitle:inflammation	predictedType:Disease
+ENTITY	text:submucosal hemorrhage	normalName:submucosal hemorrhage	predictedType:disease	q:true	qid:Q852	docId:1255900	origText:submucosal hemorrhage	url:D006470
+CANDIDATE	id:6470	inCount:31	outCount:1	links:	url:D006470	name:Hemorrhage	normalName:hemorrhage	normalWikiTitle:hemorrhage	predictedType:Disease
+CANDIDATE	id:6472	inCount:1	outCount:3	links:	url:D006472	name:Oral Hemorrhage	normalName:oral hemorrhage	normalWikiTitle:oral hemorrhage	predictedType:Disease
+CANDIDATE	id:13345	inCount:7	outCount:1	links:	url:D013345	name:Subarachnoid Hemorrhage	normalName:subarachnoid hemorrhage	normalWikiTitle:subarachnoid hemorrhage	predictedType:Disease
+CANDIDATE	id:20146	inCount:0	outCount:1	links:	url:D020146	name:Putaminal Hemorrhage	normalName:putaminal hemorrhage	normalWikiTitle:putaminal hemorrhage	predictedType:Disease
+CANDIDATE	id:12166	inCount:3	outCount:2	links:	url:D012166	name:Retinal Hemorrhage	normalName:retinal hemorrhage	normalWikiTitle:retinal hemorrhage	predictedType:Disease
+CANDIDATE	id:6473	inCount:0	outCount:3	links:	url:D006473	name:Postpartum Hemorrhage	normalName:postpartum hemorrhage	normalWikiTitle:postpartum hemorrhage	predictedType:Disease
+CANDIDATE	id:14823	inCount:0	outCount:1	links:	url:D014823	name:Vitreous Hemorrhage	normalName:vitreous hemorrhage	normalWikiTitle:vitreous hemorrhage	predictedType:Disease
+CANDIDATE	id:19315	inCount:0	outCount:2	links:	url:D019315	name:Retrobulbar Hemorrhage	normalName:retrobulbar hemorrhage	normalWikiTitle:retrobulbar hemorrhage	predictedType:Disease
+CANDIDATE	id:6408	inCount:4	outCount:3	links:	url:D006408	name:Hematoma, Subdural	normalName:hematoma, subdural	normalWikiTitle:hematoma, subdural	predictedType:Disease
+CANDIDATE	id:12771	inCount:0	outCount:2	links:	url:D012771	name:Shock, Hemorrhagic	normalName:shock, hemorrhagic	normalWikiTitle:shock, hemorrhagic	predictedType:Disease
+CANDIDATE	id:6408	inCount:4	outCount:3	links:	url:D006408	name:Subdural Hemorrhage	normalName:subdural hemorrhage	normalWikiTitle:subdural hemorrhage	predictedType:Disease
+CANDIDATE	id:6408	inCount:4	outCount:3	links:	url:D006408	name:Hemorrhage, Subdural	normalName:hemorrhage, subdural	normalWikiTitle:hemorrhage, subdural	predictedType:Disease
+CANDIDATE	id:6408	inCount:4	outCount:3	links:	url:D006408	name:Hemorrhages, Subdural	normalName:hemorrhages, subdural	normalWikiTitle:hemorrhages, subdural	predictedType:Disease
+CANDIDATE	id:6408	inCount:4	outCount:3	links:	url:D006408	name:Subdural Hemorrhages	normalName:subdural hemorrhages	normalWikiTitle:subdural hemorrhages	predictedType:Disease
+CANDIDATE	id:16063	inCount:0	outCount:2	links:	url:D016063	name:Hemorrhage, Surgical	normalName:hemorrhage, surgical	normalWikiTitle:hemorrhage, surgical	predictedType:Disease
+CANDIDATE	id:16063	inCount:0	outCount:2	links:	url:D016063	name:Surgical Hemorrhage	normalName:surgical hemorrhage	normalWikiTitle:surgical hemorrhage	predictedType:Disease

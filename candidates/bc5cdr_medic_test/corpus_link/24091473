@@ -1,0 +1,42 @@
+ENTITY	text:cardiac toxicity	normalName:cardiac toxicity	predictedType:disease	q:true	qid:Q53	docId:24091473	origText:cardiac toxicity	url:D066126
+CANDIDATE	id:66126	inCount:0	outCount:3	links:7249	url:D066126	name:Cardiac Toxicity	normalName:cardiac toxicity	normalWikiTitle:cardiac toxicity	predictedType:Disease
+ENTITY	text:ventricular tachycardia	normalName:ventricular tachycardia	predictedType:disease	q:true	qid:Q53	docId:24091473	origText:ventricular tachycardia	url:D017180
+CANDIDATE	id:17180	inCount:4	outCount:1	links:	url:D017180	name:Tachycardia, Ventricular	normalName:tachycardia, ventricular	normalWikiTitle:tachycardia, ventricular	predictedType:Disease
+ENTITY	text:fibrillation	normalName:fibrillation	predictedType:disease	q:true	qid:Q53	docId:24091473	origText:fibrillation	url:D001281
+CANDIDATE	id:1281	inCount:16	outCount:1	links:	url:D001281	name:Atrial Fibrillation	normalName:atrial fibrillation	normalWikiTitle:atrial fibrillation	predictedType:Disease
+CANDIDATE	id:5262	inCount:0	outCount:1	links:	url:D005262	name:Feminization	normalName:feminization	normalWikiTitle:feminization	predictedType:Disease
+CANDIDATE	id:14693	inCount:3	outCount:1	links:	url:D014693	name:Ventricular Fibrillation	normalName:ventricular fibrillation	normalWikiTitle:ventricular fibrillation	predictedType:Disease
+CANDIDATE	id:5207	inCount:1	outCount:1	links:	url:D005207	name:Fasciculation	normalName:fasciculation	normalWikiTitle:fasciculation	predictedType:Disease
+CANDIDATE	id:2059	inCount:1	outCount:1	links:	url:D002059	name:Burns, Inhalation	normalName:burns, inhalation	normalWikiTitle:burns, inhalation	predictedType:Disease
+CANDIDATE	id:7249	inCount:14	outCount:1	links:66126	url:D007249	name:Inflammation	normalName:inflammation	normalWikiTitle:inflammation	predictedType:Disease
+CANDIDATE	id:6985	inCount:2	outCount:2	links:	url:D006985	name:Hyperventilation	normalName:hyperventilation	normalWikiTitle:hyperventilation	predictedType:Disease
+CANDIDATE	id:613980	inCount:0	outCount:1	links:	url:613980	name:ATRIAL FIBRILLATION, FAMILIAL, 9	normalName:atrial fibrillation, familial, 9	normalWikiTitle:atrial fibrillation, familial, 9	predictedType:Disease
+CANDIDATE	id:563817	inCount:0	outCount:1	links:	url:C563817	name:Atrial Fibrillation, Familial, 3	normalName:atrial fibrillation, familial, 3	normalWikiTitle:atrial fibrillation, familial, 3	predictedType:Disease
+CANDIDATE	id:567802	inCount:0	outCount:1	links:	url:C567802	name:Atrial Fibrillation, Familial, 8	normalName:atrial fibrillation, familial, 8	normalWikiTitle:atrial fibrillation, familial, 8	predictedType:Disease
+ENTITY	text:cardiovascular collapse	normalName:cardiovascular collapse	predictedType:disease	q:true	qid:Q53	docId:24091473	origText:cardiovascular collapse	url:D002318
+CANDIDATE	id:2318	inCount:5	outCount:1	links:	url:D002318	name:Disease, Cardiovascular	normalName:disease, cardiovascular	normalWikiTitle:disease, cardiovascular	predictedType:Disease
+CANDIDATE	id:2318	inCount:5	outCount:1	links:	url:D002318	name:Cardiovascular Diseases	normalName:cardiovascular diseases	normalWikiTitle:cardiovascular diseases	predictedType:Disease
+CANDIDATE	id:53821	inCount:3	outCount:2	links:	url:D053821	name:Cardiovascular Infections	normalName:cardiovascular infections	normalWikiTitle:cardiovascular infections	predictedType:Disease
+CANDIDATE	id:13589	inCount:0	outCount:2	links:	url:D013589	name:Syphilis, Cardiovascular	normalName:syphilis, cardiovascular	normalWikiTitle:syphilis, cardiovascular	predictedType:Disease
+CANDIDATE	id:14381	inCount:1	outCount:2	links:	url:D014381	name:Tuberculosis, Cardiovascular	normalName:tuberculosis, cardiovascular	normalWikiTitle:tuberculosis, cardiovascular	predictedType:Disease
+CANDIDATE	id:11249	inCount:1	outCount:2	links:	url:D011249	name:Pregnancy Complications, Cardiovascular	normalName:pregnancy complications, cardiovascular	normalWikiTitle:pregnancy complications, cardiovascular	predictedType:Disease
+CANDIDATE	id:2296	inCount:2	outCount:2	links:	url:D002296	name:Carcinosarcoma	normalName:carcinosarcoma	normalWikiTitle:carcinosarcoma	predictedType:Disease
+CANDIDATE	id:2561	inCount:17	outCount:2	links:	url:D002561	name:Cerebrovascular Disorders	normalName:cerebrovascular disorders	normalWikiTitle:cerebrovascular disorders	predictedType:Disease
+CANDIDATE	id:563533	inCount:0	outCount:1	links:	url:C563533	name:Nasal Alar Collapse, Bilateral	normalName:nasal alar collapse, bilateral	normalWikiTitle:nasal alar collapse, bilateral	predictedType:Disease
+CANDIDATE	id:57971	inCount:0	outCount:1	links:	url:D057971	name:Anterior Capsular Rupture, Ocular	normalName:anterior capsular rupture, ocular	normalWikiTitle:anterior capsular rupture, ocular	predictedType:Disease
+CANDIDATE	id:20214	inCount:3	outCount:2	links:	url:D020214	name:Cerebrovascular Trauma	normalName:cerebrovascular trauma	normalWikiTitle:cerebrovascular trauma	predictedType:Disease
+CANDIDATE	id:2318	inCount:5	outCount:1	links:	url:D002318	name:Cardiovascular Disease	normalName:cardiovascular disease	normalWikiTitle:cardiovascular disease	predictedType:Disease
+ENTITY	text:toxicity	normalName:toxicity	predictedType:disease	q:true	qid:Q53	docId:24091473	origText:toxicity	url:D064420
+CANDIDATE	id:64420	inCount:10	outCount:1	links:	url:D064420	name:Drug Toxicity	normalName:drug toxicity	normalWikiTitle:drug toxicity	predictedType:Disease
+CANDIDATE	id:66126	inCount:0	outCount:3	links:7249	url:D066126	name:Cardiotoxicity	normalName:cardiotoxicity	normalWikiTitle:cardiotoxicity	predictedType:Disease
+CANDIDATE	id:15651	inCount:2	outCount:1	links:	url:D015651	name:Mycotoxicosis	normalName:mycotoxicosis	normalWikiTitle:mycotoxicosis	predictedType:Disease
+CANDIDATE	id:13971	inCount:2	outCount:1	links:	url:D013971	name:Thyrotoxicosis	normalName:thyrotoxicosis	normalWikiTitle:thyrotoxicosis	predictedType:Disease
+CANDIDATE	id:14869	inCount:0	outCount:2	links:	url:D014869	name:Water Intoxication	normalName:water intoxication	normalWikiTitle:water intoxication	predictedType:Disease
+CANDIDATE	id:14103	inCount:4	outCount:2	links:	url:D014103	name:Torticollis	normalName:torticollis	normalWikiTitle:torticollis	predictedType:Disease
+CANDIDATE	id:9765	inCount:42	outCount:2	links:	url:D009765	name:Obesity	normalName:obesity	normalWikiTitle:obesity	predictedType:Disease
+CANDIDATE	id:14115	inCount:1	outCount:1	links:	url:D014115	name:Toxemia	normalName:toxemia	normalWikiTitle:toxemia	predictedType:Disease
+CANDIDATE	id:7246	inCount:2	outCount:2	links:	url:D007246	name:Infertility	normalName:infertility	normalWikiTitle:infertility	predictedType:Disease
+CANDIDATE	id:20234	inCount:0	outCount:2	links:	url:D020234	name:Gait Ataxia	normalName:gait ataxia	normalWikiTitle:gait ataxia	predictedType:Disease
+CANDIDATE	id:14069	inCount:1	outCount:1	links:	url:D014069	name:Tonsillitis	normalName:tonsillitis	normalWikiTitle:tonsillitis	predictedType:Disease
+CANDIDATE	id:64420	inCount:10	outCount:1	links:	url:D064420	name:Toxicity, Drug	normalName:toxicity, drug	normalWikiTitle:toxicity, drug	predictedType:Disease
+CANDIDATE	id:17484	inCount:0	outCount:2	links:	url:D017484	name:Phototoxicity	normalName:phototoxicity	normalWikiTitle:phototoxicity	predictedType:Disease

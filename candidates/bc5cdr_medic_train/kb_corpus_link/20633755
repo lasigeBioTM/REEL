@@ -1,0 +1,14 @@
+ENTITY	text:depressed	normalName:depressed	predictedType:disease	q:true	qid:Q312	docId:20633755	origText:depressed	url:D003866
+CANDIDATE	id:3866	inCount:6	outCount:1	links:	url:D003866	name:Depressive Disorder	normalName:depressive disorder	normalWikiTitle:depressive disorder	predictedType:Disease
+CANDIDATE	id:4688	inCount:1	outCount:2	links:	url:D004688	name:Encopresis	normalName:encopresis	normalWikiTitle:encopresis	predictedType:Disease
+CANDIDATE	id:10291	inCount:3	outCount:1	links:	url:D010291	name:Paresis	normalName:paresis	normalWikiTitle:paresis	predictedType:Disease
+CANDIDATE	id:4775	inCount:2	outCount:2	links:	url:D004775	name:Enuresis	normalName:enuresis	normalWikiTitle:enuresis	predictedType:Disease
+CANDIDATE	id:3638	inCount:110	outCount:1	links:	url:D003638	name:Deafness	normalName:deafness	normalWikiTitle:deafness	predictedType:Disease
+CANDIDATE	id:9401	inCount:8	outCount:1	links:	url:D009401	name:Nephrosis	normalName:nephrosis	normalWikiTitle:nephrosis	predictedType:Disease
+CANDIDATE	id:12806	inCount:1	outCount:1	links:	url:D012806	name:Siderosis	normalName:siderosis	normalWikiTitle:siderosis	predictedType:Disease
+CANDIDATE	id:566019	inCount:0	outCount:1	links:	url:C566019	name:Tune Deafness	normalName:tune deafness	normalWikiTitle:tune deafness	predictedType:Disease
+CANDIDATE	id:6562	inCount:3	outCount:1	links:	url:D006562	name:Herpes Zoster	normalName:herpes zoster	normalWikiTitle:herpes zoster	predictedType:Disease
+CANDIDATE	id:9668	inCount:13	outCount:2	links:	url:D009668	name:Nose Diseases	normalName:nose diseases	normalWikiTitle:nose diseases	predictedType:Disease
+CANDIDATE	id:563392	inCount:0	outCount:3	links:	url:C563392	name:ADRESD	normalName:adresd	normalWikiTitle:adresd	predictedType:Disease
+ENTITY	text:apnea	normalName:apnea	predictedType:disease	q:true	qid:Q312	docId:20633755	origText:apnea	url:D001049
+CANDIDATE	id:1049	inCount:3	outCount:2	links:	url:D001049	name:Apnea	normalName:apnea	normalWikiTitle:apnea	predictedType:Disease

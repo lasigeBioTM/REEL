@@ -1,0 +1,6 @@
+ENTITY	text:arginine vasopressin	normalName:arginine vasopressin	predictedType:chemical	q:true	qid:Q497	docId:8188982	origText:arginine vasopressin	url:D001127
+CANDIDATE	id:1127	inCount:103	outCount:1	links:10656	url:D001127	name:Arginine Vasopressin	normalName:arginine vasopressin	normalWikiTitle:arginine vasopressin	predictedType:Chemical
+ENTITY	text:sodium nitroprusside	normalName:sodium nitroprusside	predictedType:chemical	q:true	qid:Q497	docId:8188982	origText:sodium nitroprusside	url:D009599
+CANDIDATE	id:9599	inCount:2	outCount:1	links:	url:D009599	name:Sodium Nitroprusside	normalName:sodium nitroprusside	normalWikiTitle:sodium nitroprusside	predictedType:Chemical
+ENTITY	text:phenylephrine	normalName:phenylephrine	predictedType:chemical	q:true	qid:Q497	docId:8188982	origText:phenylephrine	url:D010656
+CANDIDATE	id:10656	inCount:28	outCount:1	links:1127	url:D010656	name:Phenylephrine	normalName:phenylephrine	normalWikiTitle:phenylephrine	predictedType:Chemical

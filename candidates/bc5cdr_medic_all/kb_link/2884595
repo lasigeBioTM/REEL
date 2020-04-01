@@ -1,0 +1,4 @@
+ENTITY	text:encephalopathy	normalName:encephalopathy	predictedType:disease	q:true	qid:Q511	docId:2884595	origText:encephalopathy	url:D001927
+CANDIDATE	id:1927	inCount:55	outCount:1	links:	url:D001927	name:Encephalopathy	normalName:encephalopathy	normalWikiTitle:encephalopathy	predictedType:Disease
+ENTITY	text:pertussis	normalName:pertussis	predictedType:disease	q:true	qid:Q511	docId:2884595	origText:pertussis	url:D014917
+CANDIDATE	id:14917	inCount:0	outCount:2	links:	url:D014917	name:Pertussis	normalName:pertussis	normalWikiTitle:pertussis	predictedType:Disease

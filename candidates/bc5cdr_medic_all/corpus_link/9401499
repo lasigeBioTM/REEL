@@ -1,0 +1,4 @@
+ENTITY	text:aplastic anemia	normalName:aplastic anemia	predictedType:disease	q:true	qid:Q1115	docId:9401499	origText:aplastic anemia	url:D000741
+CANDIDATE	id:741	inCount:5	outCount:2	links:380	url:D000741	name:Anemia, Aplastic	normalName:anemia, aplastic	normalWikiTitle:anemia, aplastic	predictedType:Disease
+ENTITY	text:Agranulocytosis	normalName:agranulocytosis	predictedType:disease	q:true	qid:Q1115	docId:9401499	origText:Agranulocytosis	url:D000380
+CANDIDATE	id:380	inCount:3	outCount:1	links:741	url:D000380	name:Agranulocytosis	normalName:agranulocytosis	normalWikiTitle:agranulocytosis	predictedType:Disease

@@ -1,0 +1,10 @@
+ENTITY	text:5-FU	normalName:5-fu	predictedType:chemical	q:true	qid:Q202	docId:12119460	origText:5-FU	url:D005472
+CANDIDATE	id:5472	inCount:271	outCount:1	links:2945;16685;2955	url:D005472	name:5-FU	normalName:5-fu	normalWikiTitle:5-fu	predictedType:Chemical
+ENTITY	text:folinic acid	normalName:folinic acid	predictedType:chemical	q:true	qid:Q202	docId:12119460	origText:folinic acid	url:D002955
+CANDIDATE	id:2955	inCount:88	outCount:1	links:5472;2945;16685	url:D002955	name:Acid, Folinic	normalName:acid, folinic	normalWikiTitle:acid, folinic	predictedType:Chemical
+ENTITY	text:5-fluorouracil	normalName:5-fluorouracil	predictedType:chemical	q:true	qid:Q202	docId:12119460	origText:5-fluorouracil	url:D005472
+CANDIDATE	id:5472	inCount:271	outCount:1	links:2945;16685;2955	url:D005472	name:5 Fluorouracil	normalName:5 fluorouracil	normalWikiTitle:5 fluorouracil	predictedType:Chemical
+ENTITY	text:mitomycin C	normalName:mitomycin c	predictedType:chemical	q:true	qid:Q202	docId:12119460	origText:mitomycin C	url:D016685
+CANDIDATE	id:16685	inCount:74	outCount:1	links:5472;2945;2955	url:D016685	name:Mitomycin C	normalName:mitomycin c	normalWikiTitle:mitomycin c	predictedType:Chemical
+ENTITY	text:cisplatin	normalName:cisplatin	predictedType:chemical	q:true	qid:Q202	docId:12119460	origText:cisplatin	url:D002945
+CANDIDATE	id:2945	inCount:293	outCount:3	links:5472;16685;2955	url:D002945	name:Cisplatin	normalName:cisplatin	normalWikiTitle:cisplatin	predictedType:Chemical

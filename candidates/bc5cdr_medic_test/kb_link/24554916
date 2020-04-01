@@ -1,0 +1,28 @@
+ENTITY	text:Cholestatic	normalName:cholestatic	predictedType:disease	q:true	qid:Q44	docId:24554916	origText:Cholestatic	url:D002779
+CANDIDATE	id:2779	inCount:14	outCount:1	links:2779	url:D002779	name:Cholestasis	normalName:cholestasis	normalWikiTitle:cholestasis	predictedType:Disease
+CANDIDATE	id:2781	inCount:2	outCount:1	links:	url:D002781	name:Cholesteatoma	normalName:cholesteatoma	normalWikiTitle:cholesteatoma	predictedType:Disease
+CANDIDATE	id:2764	inCount:4	outCount:1	links:	url:D002764	name:Cholecystitis	normalName:cholecystitis	normalWikiTitle:cholecystitis	predictedType:Disease
+CANDIDATE	id:2637	inCount:1	outCount:1	links:	url:D002637	name:Chest Pain	normalName:chest pain	normalWikiTitle:chest pain	predictedType:Disease
+CANDIDATE	id:2771	inCount:0	outCount:1	links:	url:D002771	name:Cholera	normalName:cholera	normalWikiTitle:cholera	predictedType:Disease
+CANDIDATE	id:5409	inCount:0	outCount:1	links:	url:D005409	name:Flail Chest	normalName:flail chest	normalWikiTitle:flail chest	predictedType:Disease
+CANDIDATE	id:2761	inCount:1	outCount:1	links:	url:D002761	name:Cholangitis	normalName:cholangitis	normalWikiTitle:cholangitis	predictedType:Disease
+CANDIDATE	id:2769	inCount:4	outCount:1	links:	url:D002769	name:Cholelithiasis	normalName:cholelithiasis	normalWikiTitle:cholelithiasis	predictedType:Disease
+CANDIDATE	id:1651	inCount:0	outCount:1	links:	url:D001651	name:Cholestasis, Extrahepatic	normalName:cholestasis, extrahepatic	normalWikiTitle:cholestasis, extrahepatic	predictedType:Disease
+CANDIDATE	id:2780	inCount:11	outCount:2	links:	url:D002780	name:Cholestasis, Intrahepatic	normalName:cholestasis, intrahepatic	normalWikiTitle:cholestasis, intrahepatic	predictedType:Disease
+ENTITY	text:cholestasis	normalName:cholestasis	predictedType:disease	q:true	qid:Q44	docId:24554916	origText:cholestasis	url:D002779
+CANDIDATE	id:2779	inCount:14	outCount:1	links:2779	url:D002779	name:Cholestasis	normalName:cholestasis	normalWikiTitle:cholestasis	predictedType:Disease
+ENTITY	text:acute liver failure	normalName:acute liver failure	predictedType:disease	q:true	qid:Q44	docId:24554916	origText:acute liver failure	url:D017114
+CANDIDATE	id:17114	inCount:3	outCount:1	links:	url:D017114	name:Liver Failure, Acute	normalName:liver failure, acute	normalWikiTitle:liver failure, acute	predictedType:Disease
+ENTITY	text:acute hepatitis	normalName:acute hepatitis	predictedType:disease	q:true	qid:Q44	docId:24554916	origText:acute hepatitis	url:D006505
+CANDIDATE	id:6505	inCount:5	outCount:1	links:	url:D006505	name:Hepatitis	normalName:hepatitis	normalWikiTitle:hepatitis	predictedType:Disease
+CANDIDATE	id:6506	inCount:0	outCount:2	links:	url:D006506	name:Hepatitis A	normalName:hepatitis a	normalWikiTitle:hepatitis a	predictedType:Disease
+CANDIDATE	id:6526	inCount:1	outCount:2	links:	url:D006526	name:Hepatitis C	normalName:hepatitis c	normalWikiTitle:hepatitis c	predictedType:Disease
+CANDIDATE	id:16751	inCount:0	outCount:2	links:	url:D016751	name:Hepatitis E	normalName:hepatitis e	normalWikiTitle:hepatitis e	predictedType:Disease
+CANDIDATE	id:19693	inCount:0	outCount:2	links:	url:D019693	name:Hepatitis, Autoimmune	normalName:hepatitis, autoimmune	normalWikiTitle:hepatitis, autoimmune	predictedType:Disease
+CANDIDATE	id:3699	inCount:1	outCount:2	links:	url:D003699	name:Hepatitis D	normalName:hepatitis d	normalWikiTitle:hepatitis d	predictedType:Disease
+CANDIDATE	id:538407	inCount:0	outCount:1	links:	url:C538407	name:Acute rheumatism	normalName:acute rheumatism	normalWikiTitle:acute rheumatism	predictedType:Disease
+CANDIDATE	id:6509	inCount:1	outCount:2	links:	url:D006509	name:Hepatitis B	normalName:hepatitis b	normalWikiTitle:hepatitis b	predictedType:Disease
+CANDIDATE	id:562477	inCount:0	outCount:1	links:	url:C562477	name:Halothane Hepatitis	normalName:halothane hepatitis	normalWikiTitle:halothane hepatitis	predictedType:Disease
+CANDIDATE	id:41881	inCount:1	outCount:1	links:	url:D041881	name:Cholecystitis, Acute	normalName:cholecystitis, acute	normalWikiTitle:cholecystitis, acute	predictedType:Disease
+ENTITY	text:poisoning	normalName:poisoning	predictedType:disease	q:true	qid:Q44	docId:24554916	origText:poisoning	url:D011041
+CANDIDATE	id:11041	inCount:14	outCount:1	links:	url:D011041	name:Poisoning	normalName:poisoning	normalWikiTitle:poisoning	predictedType:Disease

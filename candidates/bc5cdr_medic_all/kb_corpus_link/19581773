@@ -1,0 +1,17 @@
+ENTITY	text:diplopia	normalName:diplopia	predictedType:disease	q:true	qid:Q790	docId:19581773	origText:diplopia	url:D004172
+CANDIDATE	id:4172	inCount:0	outCount:1	links:	url:D004172	name:Diplopia	normalName:diplopia	normalWikiTitle:diplopia	predictedType:Disease
+ENTITY	text:ocular myasthenia	normalName:ocular myasthenia	predictedType:disease	q:true	qid:Q790	docId:19581773	origText:ocular myasthenia	url:D009157
+CANDIDATE	id:9157	inCount:5	outCount:2	links:	url:D009157	name:Myasthenia Gravis, Ocular	normalName:myasthenia gravis, ocular	normalWikiTitle:myasthenia gravis, ocular	predictedType:Disease
+CANDIDATE	id:9449	inCount:0	outCount:1	links:	url:D009449	name:Neurocirculatory Asthenia	normalName:neurocirculatory asthenia	normalWikiTitle:neurocirculatory asthenia	predictedType:Disease
+CANDIDATE	id:15814	inCount:0	outCount:1	links:	url:D015814	name:Ocular Hypotension	normalName:ocular hypotension	normalWikiTitle:ocular hypotension	predictedType:Disease
+CANDIDATE	id:9798	inCount:1	outCount:1	links:	url:D009798	name:Ocular Hypertension	normalName:ocular hypertension	normalWikiTitle:ocular hypertension	predictedType:Disease
+CANDIDATE	id:15140	inCount:2	outCount:4	links:	url:D015140	name:Dementia, Vascular	normalName:dementia, vascular	normalWikiTitle:dementia, vascular	predictedType:Disease
+CANDIDATE	id:536522	inCount:1	outCount:2	links:	url:C536522	name:Vacuolar myopathy	normalName:vacuolar myopathy	normalWikiTitle:vacuolar myopathy	predictedType:Disease
+CANDIDATE	id:1247	inCount:0	outCount:1	links:	url:D001247	name:Asthenia	normalName:asthenia	normalWikiTitle:asthenia	predictedType:Disease
+CANDIDATE	id:16117	inCount:4	outCount:1	links:	url:D016117	name:Albinism, Ocular	normalName:albinism, ocular	normalWikiTitle:albinism, ocular	predictedType:Disease
+CANDIDATE	id:5497	inCount:1	outCount:1	links:	url:D005497	name:Follicular Cyst	normalName:follicular cyst	normalWikiTitle:follicular cyst	predictedType:Disease
+CANDIDATE	id:6553	inCount:0	outCount:1	links:	url:D006553	name:Hernia, Obturator	normalName:hernia, obturator	normalWikiTitle:hernia, obturator	predictedType:Disease
+CANDIDATE	id:5352	inCount:0	outCount:1	links:	url:D005352	name:Fibromuscular Dysplasia	normalName:fibromuscular dysplasia	normalWikiTitle:fibromuscular dysplasia	predictedType:Disease
+CANDIDATE	id:9157	inCount:5	outCount:2	links:	url:D009157	name:Ocular Myasthenia Gravis	normalName:ocular myasthenia gravis	normalWikiTitle:ocular myasthenia gravis	predictedType:Disease
+ENTITY	text:chronic hepatitis C	normalName:chronic hepatitis c	predictedType:disease	q:true	qid:Q790	docId:19581773	origText:chronic hepatitis C	url:D019698
+CANDIDATE	id:19698	inCount:0	outCount:2	links:	url:D019698	name:Hepatitis C, Chronic	normalName:hepatitis c, chronic	normalWikiTitle:hepatitis c, chronic	predictedType:Disease

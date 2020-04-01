@@ -1,0 +1,14 @@
+ENTITY	text:epilepsy	normalName:epilepsy	predictedType:disease	q:true	qid:Q138	docId:19184102	origText:epilepsy	url:D004827
+CANDIDATE	id:4827	inCount:52	outCount:1	links:	url:D004827	name:Epilepsy	normalName:epilepsy	normalWikiTitle:epilepsy	predictedType:Disease
+ENTITY	text:weight loss	normalName:weight loss	predictedType:disease	q:true	qid:Q138	docId:19184102	origText:weight loss	url:D015431
+CANDIDATE	id:15431	inCount:1	outCount:1	links:	url:D015431	name:Weight Loss	normalName:weight loss	normalWikiTitle:weight loss	predictedType:Disease
+ENTITY	text:insulin resistance	normalName:insulin resistance	predictedType:disease	q:true	qid:Q138	docId:19184102	origText:insulin resistance	url:D007333
+CANDIDATE	id:7333	inCount:5	outCount:1	links:65626;9765;6946	url:D007333	name:Insulin Resistance	normalName:insulin resistance	normalWikiTitle:insulin resistance	predictedType:Disease
+ENTITY	text:hyperinsulinemia	normalName:hyperinsulinemia	predictedType:disease	q:true	qid:Q138	docId:19184102	origText:hyperinsulinemia	url:D006946
+CANDIDATE	id:6946	inCount:9	outCount:1	links:65626;9765;7333	url:D006946	name:Hyperinsulinemia	normalName:hyperinsulinemia	normalWikiTitle:hyperinsulinemia	predictedType:Disease
+ENTITY	text:NAFLD	normalName:nafld	predictedType:disease	q:true	qid:Q138	docId:19184102	origText:NAFLD	url:D065626
+CANDIDATE	id:65626	inCount:0	outCount:1	links:65626;9765;6946;7333	url:D065626	name:NAFLD	normalName:nafld	normalWikiTitle:nafld	predictedType:Disease
+ENTITY	text:Nonalcoholic fatty liver disease	normalName:nonalcoholic fatty liver disease	predictedType:disease	q:true	qid:Q138	docId:19184102	origText:Nonalcoholic fatty liver disease	url:D065626
+CANDIDATE	id:65626	inCount:0	outCount:1	links:65626;9765;6946;7333	url:D065626	name:Nonalcoholic Fatty Liver Disease	normalName:nonalcoholic fatty liver disease	normalWikiTitle:nonalcoholic fatty liver disease	predictedType:Disease
+ENTITY	text:obesity	normalName:obesity	predictedType:disease	q:true	qid:Q138	docId:19184102	origText:obesity	url:D009765
+CANDIDATE	id:9765	inCount:42	outCount:2	links:65626;6946;7333	url:D009765	name:Obesity	normalName:obesity	normalWikiTitle:obesity	predictedType:Disease

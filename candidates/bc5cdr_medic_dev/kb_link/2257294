@@ -1,0 +1,61 @@
+ENTITY	text:anemic	normalName:anemic	predictedType:disease	q:true	qid:Q353	docId:2257294	origText:anemic	url:D000740
+CANDIDATE	id:740	inCount:14	outCount:1	links:740	url:D000740	name:Anemia	normalName:anemia	normalWikiTitle:anemia	predictedType:Disease
+CANDIDATE	id:849	inCount:0	outCount:1	links:	url:D000849	name:Anomia	normalName:anomia	normalWikiTitle:anomia	predictedType:Disease
+CANDIDATE	id:536524	inCount:0	outCount:1	links:	url:C536524	name:Valinemia	normalName:valinemia	normalWikiTitle:valinemia	predictedType:Disease
+CANDIDATE	id:58387	inCount:0	outCount:2	links:	url:D058387	name:Candidemia	normalName:candidemia	normalWikiTitle:candidemia	predictedType:Disease
+CANDIDATE	id:647	inCount:4	outCount:2	links:	url:D000647	name:Amnesia	normalName:amnesia	normalWikiTitle:amnesia	predictedType:Disease
+CANDIDATE	id:5199	inCount:21	outCount:2	links:	url:D005199	name:Fanconi Anemia	normalName:fanconi anemia	normalWikiTitle:fanconi anemia	predictedType:Disease
+CANDIDATE	id:17543	inCount:0	outCount:1	links:	url:D017543	name:Iliac Aneurysm	normalName:iliac aneurysm	normalWikiTitle:iliac aneurysm	predictedType:Disease
+CANDIDATE	id:17699	inCount:3	outCount:1	links:	url:D017699	name:Pelvic Pain	normalName:pelvic pain	normalWikiTitle:pelvic pain	predictedType:Disease
+CANDIDATE	id:53099	inCount:0	outCount:2	links:	url:D053099	name:Azotemia	normalName:azotemia	normalWikiTitle:azotemia	predictedType:Disease
+CANDIDATE	id:855	inCount:1	outCount:1	links:	url:D000855	name:Anorexia	normalName:anorexia	normalWikiTitle:anorexia	predictedType:Disease
+ENTITY	text:toxicities	normalName:toxicities	predictedType:disease	q:true	qid:Q353	docId:2257294	origText:toxicities	url:D064420
+CANDIDATE	id:64420	inCount:10	outCount:1	links:64420	url:D064420	name:Toxicities, Drug	normalName:toxicities, drug	normalWikiTitle:toxicities, drug	predictedType:Disease
+CANDIDATE	id:15299	inCount:0	outCount:1	links:	url:D015299	name:Discitis	normalName:discitis	normalWikiTitle:discitis	predictedType:Disease
+CANDIDATE	id:9920	inCount:0	outCount:1	links:	url:D009920	name:Orchitis	normalName:orchitis	normalWikiTitle:orchitis	predictedType:Disease
+CANDIDATE	id:14069	inCount:1	outCount:1	links:14069	url:D014069	name:Tonsillitis	normalName:tonsillitis	normalWikiTitle:tonsillitis	predictedType:Disease
+CANDIDATE	id:13966	inCount:4	outCount:1	links:	url:D013966	name:Thyroiditis	normalName:thyroiditis	normalWikiTitle:thyroiditis	predictedType:Disease
+CANDIDATE	id:8417	inCount:0	outCount:2	links:	url:D008417	name:Mastoiditis	normalName:mastoiditis	normalWikiTitle:mastoiditis	predictedType:Disease
+CANDIDATE	id:5499	inCount:2	outCount:1	links:	url:D005499	name:Folliculitis	normalName:folliculitis	normalWikiTitle:folliculitis	predictedType:Disease
+CANDIDATE	id:14120	inCount:2	outCount:2	links:	url:D014120	name:Toxocariasis	normalName:toxocariasis	normalWikiTitle:toxocariasis	predictedType:Disease
+CANDIDATE	id:12173	inCount:3	outCount:1	links:	url:D012173	name:Retinitis	normalName:retinitis	normalWikiTitle:retinitis	predictedType:Disease
+CANDIDATE	id:19449	inCount:0	outCount:1	links:	url:D019449	name:Pouchitis	normalName:pouchitis	normalWikiTitle:pouchitis	predictedType:Disease
+CANDIDATE	id:11349	inCount:1	outCount:2	links:	url:D011349	name:Proctitis	normalName:proctitis	normalWikiTitle:proctitis	predictedType:Disease
+CANDIDATE	id:64420	inCount:10	outCount:1	links:64420	url:D064420	name:Drug Toxicities	normalName:drug toxicities	normalWikiTitle:drug toxicities	predictedType:Disease
+CANDIDATE	id:66126	inCount:0	outCount:3	links:66126	url:D066126	name:Cardiotoxicities	normalName:cardiotoxicities	normalWikiTitle:cardiotoxicities	predictedType:Disease
+CANDIDATE	id:66126	inCount:0	outCount:3	links:66126	url:D066126	name:Toxicities, Cardiac	normalName:toxicities, cardiac	normalWikiTitle:toxicities, cardiac	predictedType:Disease
+CANDIDATE	id:66126	inCount:0	outCount:3	links:66126	url:D066126	name:Cardiac Toxicities	normalName:cardiac toxicities	normalWikiTitle:cardiac toxicities	predictedType:Disease
+CANDIDATE	id:14069	inCount:1	outCount:1	links:14069	url:D014069	name:Tonsillitides	normalName:tonsillitides	normalWikiTitle:tonsillitides	predictedType:Disease
+CANDIDATE	id:8417	inCount:0	outCount:2	links:	url:D008417	name:Mastoiditides	normalName:mastoiditides	normalWikiTitle:mastoiditides	predictedType:Disease
+CANDIDATE	id:15299	inCount:0	outCount:1	links:	url:D015299	name:Discitides	normalName:discitides	normalWikiTitle:discitides	predictedType:Disease
+CANDIDATE	id:9920	inCount:0	outCount:1	links:	url:D009920	name:Orchitides	normalName:orchitides	normalWikiTitle:orchitides	predictedType:Disease
+CANDIDATE	id:13966	inCount:4	outCount:1	links:	url:D013966	name:Thyroiditides	normalName:thyroiditides	normalWikiTitle:thyroiditides	predictedType:Disease
+ENTITY	text:leukopenic	normalName:leukopenic	predictedType:disease	q:true	qid:Q353	docId:2257294	origText:leukopenic	url:D007970
+CANDIDATE	id:7970	inCount:4	outCount:1	links:7970	url:D007970	name:Leukopenia	normalName:leukopenia	normalWikiTitle:leukopenia	predictedType:Disease
+CANDIDATE	id:7938	inCount:12	outCount:1	links:	url:D007938	name:Leukemia	normalName:leukemia	normalWikiTitle:leukemia	predictedType:Disease
+CANDIDATE	id:7971	inCount:1	outCount:2	links:	url:D007971	name:Leukoplakia	normalName:leukoplakia	normalWikiTitle:leukoplakia	predictedType:Disease
+CANDIDATE	id:9503	inCount:19	outCount:1	links:	url:D009503	name:Neutropenia	normalName:neutropenia	normalWikiTitle:neutropenia	predictedType:Disease
+CANDIDATE	id:11001	inCount:0	outCount:2	links:	url:D011001	name:Pleuropneumonia	normalName:pleuropneumonia	normalWikiTitle:pleuropneumonia	predictedType:Disease
+CANDIDATE	id:55496	inCount:0	outCount:1	links:	url:D055496	name:Neurogenic Bowel	normalName:neurogenic bowel	normalWikiTitle:neurogenic bowel	predictedType:Disease
+CANDIDATE	id:5254	inCount:0	outCount:2	links:	url:D005254	name:Feline Panleukopenia	normalName:feline panleukopenia	normalWikiTitle:feline panleukopenia	predictedType:Disease
+CANDIDATE	id:7973	inCount:0	outCount:1	links:	url:D007973	name:Leukorrhea	normalName:leukorrhea	normalWikiTitle:leukorrhea	predictedType:Disease
+CANDIDATE	id:536227	inCount:0	outCount:1	links:	url:C536227	name:Cyclic neutropenia	normalName:cyclic neutropenia	normalWikiTitle:cyclic neutropenia	predictedType:Disease
+CANDIDATE	id:18921	inCount:0	outCount:1	links:	url:D018921	name:Leukostasis	normalName:leukostasis	normalWikiTitle:leukostasis	predictedType:Disease
+ENTITY	text:leukopenia	normalName:leukopenia	predictedType:disease	q:true	qid:Q353	docId:2257294	origText:leukopenia	url:D007970
+CANDIDATE	id:7970	inCount:4	outCount:1	links:7970	url:D007970	name:Leukopenia	normalName:leukopenia	normalWikiTitle:leukopenia	predictedType:Disease
+ENTITY	text:anemia	normalName:anemia	predictedType:disease	q:true	qid:Q353	docId:2257294	origText:anemia	url:D000740
+CANDIDATE	id:740	inCount:14	outCount:1	links:740	url:D000740	name:Anemia	normalName:anemia	normalWikiTitle:anemia	predictedType:Disease
+ENTITY	text:toxicity	normalName:toxicity	predictedType:disease	q:true	qid:Q353	docId:2257294	origText:toxicity	url:D064420
+CANDIDATE	id:64420	inCount:10	outCount:1	links:64420	url:D064420	name:Drug Toxicity	normalName:drug toxicity	normalWikiTitle:drug toxicity	predictedType:Disease
+CANDIDATE	id:66126	inCount:0	outCount:3	links:66126	url:D066126	name:Cardiotoxicity	normalName:cardiotoxicity	normalWikiTitle:cardiotoxicity	predictedType:Disease
+CANDIDATE	id:15651	inCount:2	outCount:1	links:	url:D015651	name:Mycotoxicosis	normalName:mycotoxicosis	normalWikiTitle:mycotoxicosis	predictedType:Disease
+CANDIDATE	id:13971	inCount:2	outCount:1	links:	url:D013971	name:Thyrotoxicosis	normalName:thyrotoxicosis	normalWikiTitle:thyrotoxicosis	predictedType:Disease
+CANDIDATE	id:14869	inCount:0	outCount:2	links:	url:D014869	name:Water Intoxication	normalName:water intoxication	normalWikiTitle:water intoxication	predictedType:Disease
+CANDIDATE	id:14103	inCount:4	outCount:2	links:	url:D014103	name:Torticollis	normalName:torticollis	normalWikiTitle:torticollis	predictedType:Disease
+CANDIDATE	id:9765	inCount:42	outCount:2	links:	url:D009765	name:Obesity	normalName:obesity	normalWikiTitle:obesity	predictedType:Disease
+CANDIDATE	id:14115	inCount:1	outCount:1	links:	url:D014115	name:Toxemia	normalName:toxemia	normalWikiTitle:toxemia	predictedType:Disease
+CANDIDATE	id:7246	inCount:2	outCount:2	links:	url:D007246	name:Infertility	normalName:infertility	normalWikiTitle:infertility	predictedType:Disease
+CANDIDATE	id:20234	inCount:0	outCount:2	links:	url:D020234	name:Gait Ataxia	normalName:gait ataxia	normalWikiTitle:gait ataxia	predictedType:Disease
+CANDIDATE	id:14069	inCount:1	outCount:1	links:14069	url:D014069	name:Tonsillitis	normalName:tonsillitis	normalWikiTitle:tonsillitis	predictedType:Disease
+CANDIDATE	id:64420	inCount:10	outCount:1	links:64420	url:D064420	name:Toxicity, Drug	normalName:toxicity, drug	normalWikiTitle:toxicity, drug	predictedType:Disease
+CANDIDATE	id:17484	inCount:0	outCount:2	links:	url:D017484	name:Phototoxicity	normalName:phototoxicity	normalWikiTitle:phototoxicity	predictedType:Disease

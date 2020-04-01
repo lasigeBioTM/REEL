@@ -1,0 +1,28 @@
+ENTITY	text:salicylate	normalName:salicylate	predictedType:chemical	q:true	qid:Q174	docId:3670965	origText:salicylate	url:D012459
+CANDIDATE	id:12459	inCount:311	outCount:1	links:12459	url:D012459	name:Salicylates	normalName:salicylates	normalWikiTitle:salicylates	predictedType:Chemical
+CANDIDATE	id:693	inCount:0	outCount:1	links:693	url:C000693	name:salicylurate	normalName:salicylurate	normalWikiTitle:salicylurate	predictedType:Chemical
+CANDIDATE	id:31060	inCount:0	outCount:1	links:31060	url:C031060	name:salicylamide	normalName:salicylamide	normalWikiTitle:salicylamide	predictedType:Chemical
+CANDIDATE	id:25771	inCount:0	outCount:1	links:25771	url:C025771	name:lysinsalicylate	normalName:lysinsalicylate	normalWikiTitle:lysinsalicylate	predictedType:Chemical
+CANDIDATE	id:12457	inCount:51	outCount:1	links:12457	url:D012457	name:Salicylamides	normalName:salicylamides	normalWikiTitle:salicylamides	predictedType:Chemical
+CANDIDATE	id:41835	inCount:0	outCount:1	links:41835	url:C041835	name:ethyl salicylate	normalName:ethyl salicylate	normalWikiTitle:ethyl salicylate	predictedType:Chemical
+CANDIDATE	id:526485	inCount:0	outCount:1	links:526485	url:C526485	name:hexyl salicylate	normalName:hexyl salicylate	normalWikiTitle:hexyl salicylate	predictedType:Chemical
+CANDIDATE	id:493238	inCount:0	outCount:1	links:493238	url:C493238	name:butyl salicylate	normalName:butyl salicylate	normalWikiTitle:butyl salicylate	predictedType:Chemical
+CANDIDATE	id:34596	inCount:0	outCount:1	links:34596	url:C034596	name:salicylanilide	normalName:salicylanilide	normalWikiTitle:salicylanilide	predictedType:Chemical
+CANDIDATE	id:44714	inCount:0	outCount:2	links:44714	url:C044714	name:lysine salicylate	normalName:lysine salicylate	normalWikiTitle:lysine salicylate	predictedType:Chemical
+ENTITY	text:acetaminophen	normalName:acetaminophen	predictedType:chemical	q:true	qid:Q174	docId:3670965	origText:acetaminophen	url:D000082
+CANDIDATE	id:82	inCount:89	outCount:1	links:82	url:D000082	name:Acetaminophen	normalName:acetaminophen	normalWikiTitle:acetaminophen	predictedType:Chemical
+ENTITY	text:Aspirin	normalName:aspirin	predictedType:chemical	q:true	qid:Q174	docId:3670965	origText:Aspirin	url:D001241
+CANDIDATE	id:1241	inCount:106	outCount:1	links:	url:D001241	name:Aspirin	normalName:aspirin	normalWikiTitle:aspirin	predictedType:Chemical
+ENTITY	text:salicylates	normalName:salicylates	predictedType:chemical	q:true	qid:Q174	docId:3670965	origText:salicylates	url:D012459
+CANDIDATE	id:12459	inCount:311	outCount:1	links:12459	url:D012459	name:Salicylates	normalName:salicylates	normalWikiTitle:salicylates	predictedType:Chemical
+CANDIDATE	id:693	inCount:0	outCount:1	links:693	url:C000693	name:salicylurate	normalName:salicylurate	normalWikiTitle:salicylurate	predictedType:Chemical
+CANDIDATE	id:31060	inCount:0	outCount:1	links:31060	url:C031060	name:salicylamide	normalName:salicylamide	normalWikiTitle:salicylamide	predictedType:Chemical
+CANDIDATE	id:25771	inCount:0	outCount:1	links:25771	url:C025771	name:lysinsalicylate	normalName:lysinsalicylate	normalWikiTitle:lysinsalicylate	predictedType:Chemical
+CANDIDATE	id:12457	inCount:51	outCount:1	links:12457	url:D012457	name:Salicylamides	normalName:salicylamides	normalWikiTitle:salicylamides	predictedType:Chemical
+CANDIDATE	id:41835	inCount:0	outCount:1	links:41835	url:C041835	name:ethyl salicylate	normalName:ethyl salicylate	normalWikiTitle:ethyl salicylate	predictedType:Chemical
+CANDIDATE	id:526485	inCount:0	outCount:1	links:526485	url:C526485	name:hexyl salicylate	normalName:hexyl salicylate	normalWikiTitle:hexyl salicylate	predictedType:Chemical
+CANDIDATE	id:493238	inCount:0	outCount:1	links:493238	url:C493238	name:butyl salicylate	normalName:butyl salicylate	normalWikiTitle:butyl salicylate	predictedType:Chemical
+CANDIDATE	id:34596	inCount:0	outCount:1	links:34596	url:C034596	name:salicylanilide	normalName:salicylanilide	normalWikiTitle:salicylanilide	predictedType:Chemical
+CANDIDATE	id:44714	inCount:0	outCount:2	links:44714	url:C044714	name:lysine salicylate	normalName:lysine salicylate	normalWikiTitle:lysine salicylate	predictedType:Chemical
+ENTITY	text:paracetamol	normalName:paracetamol	predictedType:chemical	q:true	qid:Q174	docId:3670965	origText:paracetamol	url:D000082
+CANDIDATE	id:82	inCount:89	outCount:1	links:82	url:D000082	name:Paracetamol	normalName:paracetamol	normalWikiTitle:paracetamol	predictedType:Chemical

@@ -1,0 +1,6 @@
+ENTITY	text:haloperidol	normalName:haloperidol	predictedType:chemical	q:true	qid:Q742	docId:7161250	origText:haloperidol	url:D006220
+CANDIDATE	id:6220	inCount:24	outCount:1	links:	url:D006220	name:Haloperidol	normalName:haloperidol	normalWikiTitle:haloperidol	predictedType:Chemical
+ENTITY	text:lorazepam	normalName:lorazepam	predictedType:chemical	q:true	qid:Q742	docId:7161250	origText:lorazepam	url:D008140
+CANDIDATE	id:8140	inCount:9	outCount:1	links:	url:D008140	name:Lorazepam	normalName:lorazepam	normalWikiTitle:lorazepam	predictedType:Chemical
+ENTITY	text:benzodiazepine	normalName:benzodiazepine	predictedType:chemical	q:true	qid:Q742	docId:7161250	origText:benzodiazepine	url:D001569
+CANDIDATE	id:1569	inCount:260	outCount:1	links:	url:D001569	name:Benzodiazepine	normalName:benzodiazepine	normalWikiTitle:benzodiazepine	predictedType:Chemical

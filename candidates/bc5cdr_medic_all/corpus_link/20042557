@@ -1,0 +1,17 @@
+ENTITY	text:delirium	normalName:delirium	predictedType:disease	q:true	qid:Q383	docId:20042557	origText:delirium	url:D003693
+CANDIDATE	id:3693	inCount:1	outCount:2	links:	url:D003693	name:Delirium	normalName:delirium	normalWikiTitle:delirium	predictedType:Disease
+ENTITY	text:Mental Disorders	normalName:mental disorders	predictedType:disease	q:true	qid:Q383	docId:20042557	origText:Mental Disorders	url:D001523
+CANDIDATE	id:1523	inCount:27	outCount:1	links:	url:D001523	name:Mental Disorders	normalName:mental disorders	normalWikiTitle:mental disorders	predictedType:Disease
+ENTITY	text:hip fracture	normalName:hip fracture	predictedType:disease	q:true	qid:Q383	docId:20042557	origText:hip fracture	url:D006620
+CANDIDATE	id:6620	inCount:1	outCount:2	links:	url:D006620	name:Hip Fractures	normalName:hip fractures	normalWikiTitle:hip fractures	predictedType:Disease
+CANDIDATE	id:6616	inCount:0	outCount:1	links:	url:D006616	name:Hip Contracture	normalName:hip contracture	normalWikiTitle:hip contracture	predictedType:Disease
+CANDIDATE	id:12253	inCount:0	outCount:2	links:	url:D012253	name:Rib Fractures	normalName:rib fractures	normalWikiTitle:rib fractures	predictedType:Disease
+CANDIDATE	id:5597	inCount:0	outCount:1	links:	url:D005597	name:Fractures, Open	normalName:fractures, open	normalWikiTitle:fractures, open	predictedType:Disease
+CANDIDATE	id:14082	inCount:1	outCount:1	links:	url:D014082	name:Tooth Fractures	normalName:tooth fractures	normalWikiTitle:tooth fractures	predictedType:Disease
+CANDIDATE	id:69076	inCount:0	outCount:2	links:	url:D000069076	name:Fractures, Multiple	normalName:fractures, multiple	normalWikiTitle:fractures, multiple	predictedType:Disease
+CANDIDATE	id:7572	inCount:2	outCount:2	links:	url:D007572	name:Jaw Fractures	normalName:jaw fractures	normalWikiTitle:jaw fractures	predictedType:Disease
+CANDIDATE	id:13978	inCount:1	outCount:2	links:	url:D013978	name:Tibial Fractures	normalName:tibial fractures	normalWikiTitle:tibial fractures	predictedType:Disease
+CANDIDATE	id:11885	inCount:1	outCount:2	links:	url:D011885	name:Radius Fractures	normalName:radius fractures	normalWikiTitle:radius fractures	predictedType:Disease
+CANDIDATE	id:16103	inCount:0	outCount:2	links:	url:D016103	name:Spinal Fractures	normalName:spinal fractures	normalWikiTitle:spinal fractures	predictedType:Disease
+ENTITY	text:dementia	normalName:dementia	predictedType:disease	q:true	qid:Q383	docId:20042557	origText:dementia	url:D003704
+CANDIDATE	id:3704	inCount:25	outCount:2	links:	url:D003704	name:Dementia	normalName:dementia	normalWikiTitle:dementia	predictedType:Disease

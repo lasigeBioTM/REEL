@@ -1,0 +1,14 @@
+ENTITY	text:beta-CCM	normalName:beta-ccm	predictedType:chemical	q:true	qid:Q378	docId:11206082	origText:beta-CCM	url:C036150
+CANDIDATE	id:36150	inCount:0	outCount:1	links:10852;3975;10433	url:C036150	name:beta-CCM	normalName:beta-ccm	normalWikiTitle:beta-ccm	predictedType:Chemical
+ENTITY	text:benzodiazepine	normalName:benzodiazepine	predictedType:chemical	q:true	qid:Q378	docId:11206082	origText:benzodiazepine	url:D001569
+CANDIDATE	id:1569	inCount:260	outCount:1	links:	url:D001569	name:Benzodiazepine	normalName:benzodiazepine	normalWikiTitle:benzodiazepine	predictedType:Chemical
+ENTITY	text:picrotoxin	normalName:picrotoxin	predictedType:chemical	q:true	qid:Q378	docId:11206082	origText:picrotoxin	url:D010852
+CANDIDATE	id:10852	inCount:7	outCount:2	links:10433;3975;36150	url:D010852	name:Picrotoxin	normalName:picrotoxin	normalWikiTitle:picrotoxin	predictedType:Chemical
+ENTITY	text:GABA	normalName:gaba	predictedType:chemical	q:true	qid:Q378	docId:11206082	origText:GABA	url:D005680
+CANDIDATE	id:5680	inCount:100	outCount:1	links:	url:D005680	name:GABA	normalName:gaba	normalWikiTitle:gaba	predictedType:Chemical
+ENTITY	text:diazepam	normalName:diazepam	predictedType:chemical	q:true	qid:Q378	docId:11206082	origText:diazepam	url:D003975
+CANDIDATE	id:3975	inCount:21	outCount:1	links:10852;10433;36150	url:D003975	name:Diazepam	normalName:diazepam	normalWikiTitle:diazepam	predictedType:Chemical
+ENTITY	text:methyl beta-carboline-3-carboxylate	normalName:methyl beta-carboline-3-carboxylate	predictedType:chemical	q:true	qid:Q378	docId:11206082	origText:methyl beta-carboline-3-carboxylate	url:C036150
+CANDIDATE	id:36150	inCount:0	outCount:1	links:10852;3975;10433	url:C036150	name:methyl beta-carboline-3-carboxylate	normalName:methyl beta-carboline-3-carboxylate	normalWikiTitle:methyl beta-carboline-3-carboxylate	predictedType:Chemical
+ENTITY	text:pentylenetetrazol	normalName:pentylenetetrazol	predictedType:chemical	q:true	qid:Q378	docId:11206082	origText:pentylenetetrazol	url:D010433
+CANDIDATE	id:10433	inCount:2	outCount:1	links:10852;3975;36150	url:D010433	name:Pentylenetetrazol	normalName:pentylenetetrazol	normalWikiTitle:pentylenetetrazol	predictedType:Chemical

@@ -1,0 +1,14 @@
+ENTITY	text:pain	normalName:pain	predictedType:disease	q:true	qid:Q138	docId:17931375	origText:pain	url:D010146
+CANDIDATE	id:10146	inCount:34	outCount:1	links:3288	url:D010146	name:Pain	normalName:pain	normalWikiTitle:pain	predictedType:Disease
+ENTITY	text:bruising	normalName:bruising	predictedType:disease	q:true	qid:Q138	docId:17931375	origText:bruising	url:D003288
+CANDIDATE	id:3288	inCount:2	outCount:1	links:10146	url:D003288	name:Bruise	normalName:bruise	normalWikiTitle:bruise	predictedType:Disease
+CANDIDATE	id:2012	inCount:1	outCount:1	links:	url:D002012	name:Bruxism	normalName:bruxism	normalWikiTitle:bruxism	predictedType:Disease
+CANDIDATE	id:5483	inCount:2	outCount:1	links:	url:D005483	name:Flushing	normalName:flushing	normalWikiTitle:flushing	predictedType:Disease
+CANDIDATE	id:537080	inCount:0	outCount:1	links:	url:C537080	name:Baritosis	normalName:baritosis	normalWikiTitle:baritosis	predictedType:Disease
+CANDIDATE	id:11041	inCount:14	outCount:1	links:	url:D011041	name:Poisoning	normalName:poisoning	normalWikiTitle:poisoning	predictedType:Disease
+CANDIDATE	id:71378	inCount:1	outCount:1	links:	url:D000071378	name:Bunion	normalName:bunion	normalWikiTitle:bunion	predictedType:Disease
+CANDIDATE	id:8630	inCount:1	outCount:1	links:	url:D008630	name:Mercury Poisoning	normalName:mercury poisoning	normalWikiTitle:mercury poisoning	predictedType:Disease
+CANDIDATE	id:63425	inCount:0	outCount:1	links:	url:D063425	name:Binge Drinking	normalName:binge drinking	normalWikiTitle:binge drinking	predictedType:Disease
+CANDIDATE	id:2032	inCount:0	outCount:1	links:	url:D002032	name:Bulimia	normalName:bulimia	normalWikiTitle:bulimia	predictedType:Disease
+CANDIDATE	id:11536	inCount:0	outCount:1	links:	url:D011536	name:Prurigo	normalName:prurigo	normalWikiTitle:prurigo	predictedType:Disease
+CANDIDATE	id:2006	inCount:1	outCount:1	links:	url:D002006	name:Brucellosis	normalName:brucellosis	normalWikiTitle:brucellosis	predictedType:Disease

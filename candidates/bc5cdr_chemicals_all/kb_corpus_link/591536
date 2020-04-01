@@ -1,0 +1,4 @@
+ENTITY	text:sodium warfarin	normalName:sodium warfarin	predictedType:chemical	q:true	qid:Q571	docId:591536	origText:sodium warfarin	url:D014859
+CANDIDATE	id:14859	inCount:14	outCount:1	links:6493	url:D014859	name:Sodium, Warfarin	normalName:sodium, warfarin	normalWikiTitle:sodium, warfarin	predictedType:Chemical
+ENTITY	text:heparin	normalName:heparin	predictedType:chemical	q:true	qid:Q571	docId:591536	origText:heparin	url:D006493
+CANDIDATE	id:6493	inCount:75	outCount:1	links:14859	url:D006493	name:Heparin	normalName:heparin	normalWikiTitle:heparin	predictedType:Chemical

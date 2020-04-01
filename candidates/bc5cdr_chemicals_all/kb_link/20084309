@@ -1,0 +1,13 @@
+ENTITY	text:Flumazenil	normalName:flumazenil	predictedType:chemical	q:true	qid:Q1179	docId:20084309	origText:Flumazenil	url:D005442
+CANDIDATE	id:5442	inCount:9	outCount:1	links:	url:D005442	name:Flumazenil	normalName:flumazenil	normalWikiTitle:flumazenil	predictedType:Chemical
+ENTITY	text:Midazolan	normalName:midazolan	predictedType:chemical	q:true	qid:Q1179	docId:20084309	origText:Midazolan	url:D008874
+CANDIDATE	id:8874	inCount:6	outCount:1	links:	url:D008874	name:Midazolam	normalName:midazolam	normalWikiTitle:midazolam	predictedType:Chemical
+CANDIDATE	id:19329	inCount:3	outCount:3	links:	url:D019329	name:Idazoxan	normalName:idazoxan	normalWikiTitle:idazoxan	predictedType:Chemical
+CANDIDATE	id:117197	inCount:0	outCount:1	links:	url:C117197	name:imidazolone	normalName:imidazolone	normalWikiTitle:imidazolone	predictedType:Chemical
+CANDIDATE	id:29899	inCount:0	outCount:1	links:	url:C029899	name:imidazole	normalName:imidazole	normalWikiTitle:imidazole	predictedType:Chemical
+CANDIDATE	id:48288	inCount:31	outCount:1	links:	url:D048288	name:Imidazolines	normalName:imidazolines	normalWikiTitle:imidazolines	predictedType:Chemical
+CANDIDATE	id:7093	inCount:2071	outCount:1	links:	url:D007093	name:Imidazoles	normalName:imidazoles	normalWikiTitle:imidazoles	predictedType:Chemical
+CANDIDATE	id:607139	inCount:0	outCount:1	links:	url:C000607139	name:bumidazone	normalName:bumidazone	normalWikiTitle:bumidazone	predictedType:Chemical
+CANDIDATE	id:402964	inCount:0	outCount:2	links:	url:C402964	name:imidazolysine	normalName:imidazolysine	normalWikiTitle:imidazolysine	predictedType:Chemical
+CANDIDATE	id:17424	inCount:0	outCount:1	links:	url:C017424	name:2-imidazoline	normalName:2-imidazoline	normalWikiTitle:2-imidazoline	predictedType:Chemical
+CANDIDATE	id:506218	inCount:0	outCount:1	links:	url:C506218	name:diazocan	normalName:diazocan	normalWikiTitle:diazocan	predictedType:Chemical

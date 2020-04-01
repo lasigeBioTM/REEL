@@ -1,0 +1,15 @@
+ENTITY	text:mucopolysaccharide	normalName:mucopolysaccharide	predictedType:chemical	q:true	qid:Q28	docId:11897010	origText:mucopolysaccharide	url:CHEBI:37395
+CANDIDATE	id:37395	inCount:8	outCount:1	links:	url:CHEBI:37395	name:mucopolysaccharide	normalName:mucopolysaccharide	normalWikiTitle:mucopolysaccharide	predictedType:chemical
+ENTITY	text:electron	normalName:electron	predictedType:chemical	q:true	qid:Q28	docId:11897010	origText:electron	url:CHEBI:10545
+CANDIDATE	id:10545	inCount:0	outCount:1	links:	url:CHEBI:10545	name:electron	normalName:electron	normalWikiTitle:electron	predictedType:chemical
+ENTITY	text:32P	normalName:32p	predictedType:chemical	q:true	qid:Q28	docId:11897010	origText:32P	url:CHEBI:37972
+CANDIDATE	id:37972	inCount:0	outCount:1	links:	url:CHEBI:37972	name:(32)P	normalName:(32)p	normalWikiTitle:(32)p	predictedType:chemical
+CANDIDATE	id:144367	inCount:0	outCount:2	links:	url:CHEBI:144367	name:3PO	normalName:3po	normalWikiTitle:3po	predictedType:chemical
+ENTITY	text:ion	normalName:ion	predictedType:chemical	q:true	qid:Q28	docId:11897010	origText:ion	url:CHEBI:24870
+CANDIDATE	id:24870	inCount:7	outCount:1	links:	url:CHEBI:24870	name:ion	normalName:ion	normalWikiTitle:ion	predictedType:chemical
+ENTITY	text:agarose	normalName:agarose	predictedType:chemical	q:true	qid:Q28	docId:11897010	origText:agarose	url:CHEBI:2511
+CANDIDATE	id:2511	inCount:0	outCount:1	links:	url:CHEBI:2511	name:agarose	normalName:agarose	normalWikiTitle:agarose	predictedType:chemical
+ENTITY	text:glycoprotein	normalName:glycoprotein	predictedType:chemical	q:true	qid:Q28	docId:11897010	origText:glycoprotein	url:CHEBI:17089
+CANDIDATE	id:17089	inCount:5	outCount:2	links:	url:CHEBI:17089	name:glycoprotein	normalName:glycoprotein	normalWikiTitle:glycoprotein	predictedType:chemical
+ENTITY	text:cation	normalName:cation	predictedType:chemical	q:true	qid:Q28	docId:11897010	origText:cation	url:CHEBI:36916
+CANDIDATE	id:36916	inCount:6	outCount:1	links:	url:CHEBI:36916	name:cation	normalName:cation	normalWikiTitle:cation	predictedType:chemical

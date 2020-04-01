@@ -1,0 +1,12 @@
+ENTITY	text:nitroprusside	normalName:nitroprusside	predictedType:chemical	q:true	qid:Q466	docId:1969772	origText:nitroprusside	url:D009599
+CANDIDATE	id:9599	inCount:2	outCount:1	links:18818;6221	url:D009599	name:Nitroprusside	normalName:nitroprusside	normalWikiTitle:nitroprusside	predictedType:Chemical
+ENTITY	text:sodium	normalName:sodium	predictedType:chemical	q:true	qid:Q466	docId:1969772	origText:sodium	url:D012964
+CANDIDATE	id:12964	inCount:10	outCount:2	links:	url:D012964	name:Sodium	normalName:sodium	normalWikiTitle:sodium	predictedType:Chemical
+ENTITY	text:fenoldopam	normalName:fenoldopam	predictedType:chemical	q:true	qid:Q466	docId:1969772	origText:fenoldopam	url:D018818
+CANDIDATE	id:18818	inCount:0	outCount:1	links:6221;9599	url:D018818	name:Fenoldopam	normalName:fenoldopam	normalWikiTitle:fenoldopam	predictedType:Chemical
+ENTITY	text:dopamine	normalName:dopamine	predictedType:chemical	q:true	qid:Q466	docId:1969772	origText:dopamine	url:D004298
+CANDIDATE	id:4298	inCount:90	outCount:2	links:	url:D004298	name:Dopamine	normalName:dopamine	normalWikiTitle:dopamine	predictedType:Chemical
+ENTITY	text:Fenoldopam mesylate	normalName:fenoldopam mesylate	predictedType:chemical	q:true	qid:Q466	docId:1969772	origText:Fenoldopam mesylate	url:D018818
+CANDIDATE	id:18818	inCount:0	outCount:1	links:6221;9599	url:D018818	name:Fenoldopam Mesylate	normalName:fenoldopam mesylate	normalWikiTitle:fenoldopam mesylate	predictedType:Chemical
+ENTITY	text:halothane	normalName:halothane	predictedType:chemical	q:true	qid:Q466	docId:1969772	origText:halothane	url:D006221
+CANDIDATE	id:6221	inCount:6	outCount:1	links:18818;9599	url:D006221	name:Halothane	normalName:halothane	normalWikiTitle:halothane	predictedType:Chemical

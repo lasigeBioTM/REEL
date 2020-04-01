@@ -1,0 +1,17 @@
+ENTITY	text:myocardial ischaemia	normalName:myocardial ischaemia	predictedType:disease	q:true	qid:Q219	docId:18086064	origText:myocardial ischaemia	url:D017202
+CANDIDATE	id:17202	inCount:6	outCount:2	links:1919	url:D017202	name:Myocardial Ischemia	normalName:myocardial ischemia	normalWikiTitle:myocardial ischemia	predictedType:Disease
+CANDIDATE	id:9203	inCount:8	outCount:1	links:9203	url:D009203	name:Myocardial Infarction	normalName:myocardial infarction	normalWikiTitle:myocardial infarction	predictedType:Disease
+CANDIDATE	id:54084	inCount:0	outCount:1	links:	url:D054084	name:Myocardial Bridging	normalName:myocardial bridging	normalWikiTitle:myocardial bridging	predictedType:Disease
+CANDIDATE	id:71956	inCount:1	outCount:2	links:	url:D000071956	name:Myocardial Contusions	normalName:myocardial contusions	normalWikiTitle:myocardial contusions	predictedType:Disease
+CANDIDATE	id:65666	inCount:0	outCount:3	links:	url:D065666	name:Mesenteric Ischemia	normalName:mesenteric ischemia	normalWikiTitle:mesenteric ischemia	predictedType:Disease
+CANDIDATE	id:20760	inCount:2	outCount:1	links:	url:D020760	name:Spinal Cord Ischemia	normalName:spinal cord ischemia	normalWikiTitle:spinal cord ischemia	predictedType:Disease
+CANDIDATE	id:13616	inCount:0	outCount:1	links:1919	url:D013616	name:Tachycardia, Sinus	normalName:tachycardia, sinus	normalWikiTitle:tachycardia, sinus	predictedType:Disease
+CANDIDATE	id:19522	inCount:1	outCount:1	links:	url:D019522	name:Vaginal Discharge	normalName:vaginal discharge	normalWikiTitle:vaginal discharge	predictedType:Disease
+CANDIDATE	id:747	inCount:2	outCount:1	links:	url:D000747	name:Anemia, Hypochromic	normalName:anemia, hypochromic	normalWikiTitle:anemia, hypochromic	predictedType:Disease
+CANDIDATE	id:13610	inCount:7	outCount:2	links:	url:D013610	name:Tachycardia	normalName:tachycardia	normalWikiTitle:tachycardia	predictedType:Disease
+ENTITY	text:bradycardia	normalName:bradycardia	predictedType:disease	q:true	qid:Q219	docId:18086064	origText:bradycardia	url:D001919
+CANDIDATE	id:1919	inCount:0	outCount:1	links:17202;7022;13616	url:D001919	name:Bradycardia	normalName:bradycardia	normalWikiTitle:bradycardia	predictedType:Disease
+ENTITY	text:myocardial infarction	normalName:myocardial infarction	predictedType:disease	q:true	qid:Q219	docId:18086064	origText:myocardial infarction	url:D009203
+CANDIDATE	id:9203	inCount:8	outCount:1	links:9203	url:D009203	name:Myocardial Infarction	normalName:myocardial infarction	normalWikiTitle:myocardial infarction	predictedType:Disease
+ENTITY	text:hypotension	normalName:hypotension	predictedType:disease	q:true	qid:Q219	docId:18086064	origText:hypotension	url:D007022
+CANDIDATE	id:7022	inCount:3	outCount:1	links:1919	url:D007022	name:Hypotension	normalName:hypotension	normalWikiTitle:hypotension	predictedType:Disease

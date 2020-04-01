@@ -1,0 +1,10 @@
+ENTITY	text:dehydroepiandrosterone	normalName:dehydroepiandrosterone	predictedType:chemical	q:true	qid:Q1368	docId:24739405	origText:dehydroepiandrosterone	url:D003687
+CANDIDATE	id:3687	inCount:40	outCount:3	links:3687	url:D003687	name:Dehydroepiandrosterone	normalName:dehydroepiandrosterone	normalWikiTitle:dehydroepiandrosterone	predictedType:Chemical
+ENTITY	text:haloperidol	normalName:haloperidol	predictedType:chemical	q:true	qid:Q1368	docId:24739405	origText:haloperidol	url:D006220
+CANDIDATE	id:6220	inCount:24	outCount:1	links:	url:D006220	name:Haloperidol	normalName:haloperidol	normalWikiTitle:haloperidol	predictedType:Chemical
+ENTITY	text:amphetamine	normalName:amphetamine	predictedType:chemical	q:true	qid:Q1368	docId:24739405	origText:amphetamine	url:D000661
+CANDIDATE	id:661	inCount:1	outCount:1	links:	url:D000661	name:Amphetamine	normalName:amphetamine	normalWikiTitle:amphetamine	predictedType:Chemical
+ENTITY	text:apomorphine	normalName:apomorphine	predictedType:chemical	q:true	qid:Q1368	docId:24739405	origText:apomorphine	url:D001058
+CANDIDATE	id:1058	inCount:29	outCount:1	links:	url:D001058	name:Apomorphine	normalName:apomorphine	normalWikiTitle:apomorphine	predictedType:Chemical
+ENTITY	text:DHEA	normalName:dhea	predictedType:chemical	q:true	qid:Q1368	docId:24739405	origText:DHEA	url:D003687
+CANDIDATE	id:3687	inCount:40	outCount:3	links:3687	url:D003687	name:DHEA	normalName:dhea	normalWikiTitle:dhea	predictedType:Chemical

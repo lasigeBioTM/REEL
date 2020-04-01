@@ -1,0 +1,67 @@
+ENTITY	text:bone marrow depression	normalName:bone marrow depression	predictedType:disease	q:true	qid:Q768	docId:18791946	origText:bone marrow depression	url:D001855
+CANDIDATE	id:1855	inCount:14	outCount:1	links:13921;743;15746;20246;748	url:D001855	name:Bone Marrow Diseases	normalName:bone marrow diseases	normalWikiTitle:bone marrow diseases	predictedType:Disease
+CANDIDATE	id:60751	inCount:1	outCount:2	links:	url:D060751	name:Bone Retroversion	normalName:bone retroversion	normalWikiTitle:bone retroversion	predictedType:Disease
+CANDIDATE	id:19052	inCount:0	outCount:2	links:	url:D019052	name:Depression, Postpartum	normalName:depression, postpartum	normalWikiTitle:depression, postpartum	predictedType:Disease
+CANDIDATE	id:1862	inCount:3	outCount:1	links:	url:D001862	name:Bone Resorption	normalName:bone resorption	normalWikiTitle:bone resorption	predictedType:Disease
+CANDIDATE	id:566226	inCount:0	outCount:1	links:	url:C566226	name:Basilar Impression, Primary	normalName:basilar impression, primary	normalWikiTitle:basilar impression, primary	predictedType:Disease
+CANDIDATE	id:1851	inCount:14	outCount:2	links:	url:D001851	name:Bone Diseases, Metabolic	normalName:bone diseases, metabolic	normalWikiTitle:bone diseases, metabolic	predictedType:Disease
+CANDIDATE	id:563875	inCount:0	outCount:1	links:	url:C563875	name:Major Depressive Disorder 2	normalName:major depressive disorder 2	normalWikiTitle:major depressive disorder 2	predictedType:Disease
+CANDIDATE	id:2055	inCount:0	outCount:1	links:	url:D002055	name:Burnout, Professional	normalName:burnout, professional	normalWikiTitle:burnout, professional	predictedType:Disease
+CANDIDATE	id:563919	inCount:0	outCount:1	links:	url:C563919	name:Major Depressive Disorder 1	normalName:major depressive disorder 1	normalWikiTitle:major depressive disorder 1	predictedType:Disease
+CANDIDATE	id:50815	inCount:1	outCount:1	links:	url:D050815	name:Fractures, Compression	normalName:fractures, compression	normalWikiTitle:fractures, compression	predictedType:Disease
+ENTITY	text:haemorrhages	normalName:haemorrhages	predictedType:disease	q:true	qid:Q768	docId:18791946	origText:haemorrhages	url:D006470
+CANDIDATE	id:6470	inCount:31	outCount:1	links:13921;20246;13923;13927	url:D006470	name:Hemorrhage	normalName:hemorrhage	normalWikiTitle:hemorrhage	predictedType:Disease
+CANDIDATE	id:5130	inCount:4	outCount:3	links:	url:D005130	name:Eye Hemorrhage	normalName:eye hemorrhage	normalWikiTitle:eye hemorrhage	predictedType:Disease
+CANDIDATE	id:6472	inCount:1	outCount:3	links:	url:D006472	name:Oral Hemorrhage	normalName:oral hemorrhage	normalWikiTitle:oral hemorrhage	predictedType:Disease
+CANDIDATE	id:12166	inCount:3	outCount:2	links:	url:D012166	name:Retinal Hemorrhage	normalName:retinal hemorrhage	normalWikiTitle:retinal hemorrhage	predictedType:Disease
+CANDIDATE	id:2832	inCount:0	outCount:2	links:	url:D002832	name:Choroid Hemorrhage	normalName:choroid hemorrhage	normalWikiTitle:choroid hemorrhage	predictedType:Disease
+CANDIDATE	id:14592	inCount:3	outCount:2	links:	url:D014592	name:Uterine Hemorrhage	normalName:uterine hemorrhage	normalWikiTitle:uterine hemorrhage	predictedType:Disease
+CANDIDATE	id:568	inCount:3	outCount:1	links:	url:D000568	name:Amenorrhea	normalName:amenorrhea	normalWikiTitle:amenorrhea	predictedType:Disease
+CANDIDATE	id:5884	inCount:1	outCount:2	links:	url:D005884	name:Gingival Hemorrhage	normalName:gingival hemorrhage	normalWikiTitle:gingival hemorrhage	predictedType:Disease
+CANDIDATE	id:14823	inCount:0	outCount:1	links:	url:D014823	name:Vitreous Hemorrhage	normalName:vitreous hemorrhage	normalWikiTitle:vitreous hemorrhage	predictedType:Disease
+CANDIDATE	id:2543	inCount:3	outCount:1	links:12206	url:D002543	name:Cerebral Hemorrhage	normalName:cerebral hemorrhage	normalWikiTitle:cerebral hemorrhage	predictedType:Disease
+ENTITY	text:thrombi	normalName:thrombi	predictedType:disease	q:true	qid:Q768	docId:18791946	origText:thrombi	url:D013927
+CANDIDATE	id:13927	inCount:4	outCount:1	links:13921;6470	url:D013927	name:Thrombosis	normalName:thrombosis	normalWikiTitle:thrombosis	predictedType:Disease
+CANDIDATE	id:19851	inCount:16	outCount:1	links:	url:D019851	name:Thrombophilia	normalName:thrombophilia	normalWikiTitle:thrombophilia	predictedType:Disease
+CANDIDATE	id:13915	inCount:3	outCount:3	links:	url:D013915	name:Thrombasthenia	normalName:thrombasthenia	normalWikiTitle:thrombasthenia	predictedType:Disease
+CANDIDATE	id:13922	inCount:4	outCount:2	links:	url:D013922	name:Thrombocytosis	normalName:thrombocytosis	normalWikiTitle:thrombocytosis	predictedType:Disease
+CANDIDATE	id:13923	inCount:3	outCount:1	links:13921;6470	url:D013923	name:Thromboembolism	normalName:thromboembolism	normalWikiTitle:thromboembolism	predictedType:Disease
+CANDIDATE	id:13924	inCount:1	outCount:2	links:	url:D013924	name:Thrombophlebitis	normalName:thrombophlebitis	normalWikiTitle:thrombophlebitis	predictedType:Disease
+CANDIDATE	id:13921	inCount:42	outCount:1	links:1855;15746;743;6461;11693;6470;748;7565	url:D013921	name:Thrombocytopenia	normalName:thrombocytopenia	normalWikiTitle:thrombocytopenia	predictedType:Disease
+CANDIDATE	id:4480	inCount:21	outCount:1	links:	url:D004480	name:Ectromelia	normalName:ectromelia	normalWikiTitle:ectromelia	predictedType:Disease
+CANDIDATE	id:20246	inCount:5	outCount:1	links:1855;6470;13921	url:D020246	name:Venous Thrombosis	normalName:venous thrombosis	normalWikiTitle:venous thrombosis	predictedType:Disease
+CANDIDATE	id:13798	inCount:0	outCount:2	links:	url:D013798	name:Thecoma	normalName:thecoma	normalWikiTitle:thecoma	predictedType:Disease
+ENTITY	text:jaundice	normalName:jaundice	predictedType:disease	q:true	qid:Q768	docId:18791946	origText:jaundice	url:D007565
+CANDIDATE	id:7565	inCount:5	outCount:2	links:13921;743;11693;15746;741	url:D007565	name:Jaundice	normalName:jaundice	normalWikiTitle:jaundice	predictedType:Disease
+ENTITY	text:petechiae	normalName:petechiae	predictedType:disease	q:true	qid:Q768	docId:18791946	origText:petechiae	url:D011693
+CANDIDATE	id:11693	inCount:8	outCount:3	links:13921;743;15746;7565	url:D011693	name:Petechiae	normalName:petechiae	normalWikiTitle:petechiae	predictedType:Disease
+ENTITY	text:haemolysis	normalName:haemolysis	predictedType:disease	q:true	qid:Q768	docId:18791946	origText:haemolysis	url:D006461
+CANDIDATE	id:6461	inCount:2	outCount:1	links:13921;743	url:D006461	name:Hemolysis	normalName:hemolysis	normalWikiTitle:hemolysis	predictedType:Disease
+CANDIDATE	id:6469	inCount:0	outCount:3	links:	url:D006469	name:Hemoptysis	normalName:hemoptysis	normalWikiTitle:hemoptysis	predictedType:Disease
+CANDIDATE	id:12206	inCount:3	outCount:1	links:2543	url:D012206	name:Rhabdomyolysis	normalName:rhabdomyolysis	normalWikiTitle:rhabdomyolysis	predictedType:Disease
+CANDIDATE	id:1329	inCount:0	outCount:1	links:	url:D001329	name:Autolysis	normalName:autolysis	normalWikiTitle:autolysis	predictedType:Disease
+CANDIDATE	id:6188	inCount:0	outCount:1	links:	url:D006188	name:Haemonchiasis	normalName:haemonchiasis	normalWikiTitle:haemonchiasis	predictedType:Disease
+CANDIDATE	id:10014	inCount:13	outCount:1	links:	url:D010014	name:Osteolysis	normalName:osteolysis	normalWikiTitle:osteolysis	predictedType:Disease
+CANDIDATE	id:4617	inCount:5	outCount:1	links:	url:D004617	name:Embolism	normalName:embolism	normalWikiTitle:embolism	predictedType:Disease
+CANDIDATE	id:54039	inCount:3	outCount:1	links:	url:D054039	name:Onycholysis	normalName:onycholysis	normalWikiTitle:onycholysis	predictedType:Disease
+CANDIDATE	id:62788	inCount:0	outCount:1	links:	url:D062788	name:Adenomyosis	normalName:adenomyosis	normalWikiTitle:adenomyosis	predictedType:Disease
+CANDIDATE	id:10688	inCount:2	outCount:1	links:	url:D010688	name:Phimosis	normalName:phimosis	normalWikiTitle:phimosis	predictedType:Disease
+ENTITY	text:abdominal pain	normalName:abdominal pain	predictedType:disease	q:true	qid:Q768	docId:18791946	origText:abdominal pain	url:D015746
+CANDIDATE	id:15746	inCount:2	outCount:2	links:1855;743;11693;748;13921;7565	url:D015746	name:Abdominal Pain	normalName:abdominal pain	normalWikiTitle:abdominal pain	predictedType:Disease
+ENTITY	text:urinary tract infection	normalName:urinary tract infection	predictedType:disease	q:true	qid:Q768	docId:18791946	origText:urinary tract infection	url:D014552
+CANDIDATE	id:14552	inCount:3	outCount:2	links:	url:D014552	name:Infection, Urinary Tract	normalName:infection, urinary tract	normalWikiTitle:infection, urinary tract	predictedType:Disease
+ENTITY	text:thrombocytopenia	normalName:thrombocytopenia	predictedType:disease	q:true	qid:Q768	docId:18791946	origText:thrombocytopenia	url:D013921
+CANDIDATE	id:13921	inCount:42	outCount:1	links:1855;15746;743;6461;11693;6470;748;7565	url:D013921	name:Thrombocytopenia	normalName:thrombocytopenia	normalWikiTitle:thrombocytopenia	predictedType:Disease
+ENTITY	text:purpura	normalName:purpura	predictedType:disease	q:true	qid:Q768	docId:18791946	origText:purpura	url:D011693
+CANDIDATE	id:11693	inCount:8	outCount:3	links:13921;743;15746;7565	url:D011693	name:Purpura	normalName:purpura	normalWikiTitle:purpura	predictedType:Disease
+ENTITY	text:haemolytic anaemia	normalName:haemolytic anaemia	predictedType:disease	q:true	qid:Q768	docId:18791946	origText:haemolytic anaemia	url:D000743
+CANDIDATE	id:743	inCount:20	outCount:1	links:1855;15746;6461;11693;13921;7565	url:D000743	name:Anemia, Hemolytic	normalName:anemia, hemolytic	normalWikiTitle:anemia, hemolytic	predictedType:Disease
+CANDIDATE	id:538437	inCount:0	outCount:1	links:	url:C538437	name:Immuno-hemolytic anemia	normalName:immuno-hemolytic anemia	normalWikiTitle:immuno-hemolytic anemia	predictedType:Disease
+CANDIDATE	id:748	inCount:2	outCount:1	links:1855;15746;13921	url:D000748	name:Anemia, Macrocytic	normalName:anemia, macrocytic	normalWikiTitle:anemia, macrocytic	predictedType:Disease
+CANDIDATE	id:741	inCount:5	outCount:2	links:7565	url:D000741	name:Anemia, Aplastic	normalName:anemia, aplastic	normalWikiTitle:anemia, aplastic	predictedType:Disease
+CANDIDATE	id:745	inCount:20	outCount:2	links:	url:D000745	name:Anemia, Hemolytic, Congenital	normalName:anemia, hemolytic, congenital	normalWikiTitle:anemia, hemolytic, congenital	predictedType:Disease
+CANDIDATE	id:744	inCount:6	outCount:2	links:	url:D000744	name:Anemia, Hemolytic, Autoimmune	normalName:anemia, hemolytic, autoimmune	normalWikiTitle:anemia, hemolytic, autoimmune	predictedType:Disease
+CANDIDATE	id:756	inCount:9	outCount:2	links:	url:D000756	name:Anemia, Sideroblastic	normalName:anemia, sideroblastic	normalWikiTitle:anemia, sideroblastic	predictedType:Disease
+CANDIDATE	id:749	inCount:8	outCount:1	links:	url:D000749	name:Anemia, Megaloblastic	normalName:anemia, megaloblastic	normalWikiTitle:anemia, megaloblastic	predictedType:Disease
+CANDIDATE	id:261100	inCount:0	outCount:2	links:	url:261100	name:MEGALOBLASTIC ANEMIA 1	normalName:megaloblastic anemia 1	normalWikiTitle:megaloblastic anemia 1	predictedType:Disease
+CANDIDATE	id:750	inCount:0	outCount:2	links:	url:D000750	name:Anemia, Myelophthisic	normalName:anemia, myelophthisic	normalWikiTitle:anemia, myelophthisic	predictedType:Disease

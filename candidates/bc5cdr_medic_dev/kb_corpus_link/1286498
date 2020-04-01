@@ -1,0 +1,6 @@
+ENTITY	text:nausea	normalName:nausea	predictedType:disease	q:true	qid:Q113	docId:1286498	origText:nausea	url:D009325
+CANDIDATE	id:9325	inCount:2	outCount:1	links:14839	url:D009325	name:Nausea	normalName:nausea	normalWikiTitle:nausea	predictedType:Disease
+ENTITY	text:vomiting	normalName:vomiting	predictedType:disease	q:true	qid:Q113	docId:1286498	origText:vomiting	url:D014839
+CANDIDATE	id:14839	inCount:7	outCount:1	links:9325	url:D014839	name:Vomiting	normalName:vomiting	normalWikiTitle:vomiting	predictedType:Disease
+ENTITY	text:pain	normalName:pain	predictedType:disease	q:true	qid:Q113	docId:1286498	origText:pain	url:D010146
+CANDIDATE	id:10146	inCount:34	outCount:1	links:	url:D010146	name:Pain	normalName:pain	normalWikiTitle:pain	predictedType:Disease

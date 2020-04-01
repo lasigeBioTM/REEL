@@ -1,0 +1,4 @@
+ENTITY	text:omeprazole	normalName:omeprazole	predictedType:chemical	q:true	qid:Q232	docId:1992636	origText:omeprazole	url:D009853
+CANDIDATE	id:9853	inCount:10	outCount:1	links:	url:D009853	name:Omeprazole	normalName:omeprazole	normalWikiTitle:omeprazole	predictedType:Chemical
+ENTITY	text:bilirubin	normalName:bilirubin	predictedType:chemical	q:true	qid:Q232	docId:1992636	origText:bilirubin	url:D001663
+CANDIDATE	id:1663	inCount:20	outCount:1	links:	url:D001663	name:Bilirubin	normalName:bilirubin	normalWikiTitle:bilirubin	predictedType:Chemical

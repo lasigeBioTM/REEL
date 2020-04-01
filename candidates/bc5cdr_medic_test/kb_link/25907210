@@ -1,0 +1,34 @@
+ENTITY	text:Kidney cancer	normalName:kidney cancer	predictedType:disease	q:true	qid:Q322	docId:25907210	origText:Kidney cancer	url:D007680
+CANDIDATE	id:7680	inCount:7	outCount:2	links:	url:D007680	name:Cancer, Kidney	normalName:cancer, kidney	normalWikiTitle:cancer, kidney	predictedType:Disease
+ENTITY	text:lung cancer	normalName:lung cancer	predictedType:disease	q:true	qid:Q322	docId:25907210	origText:lung cancer	url:D008175
+CANDIDATE	id:8175	inCount:12	outCount:2	links:	url:D008175	name:Cancer, Lung	normalName:cancer, lung	normalWikiTitle:cancer, lung	predictedType:Disease
+ENTITY	text:tumours	normalName:tumours	predictedType:disease	q:true	qid:Q322	docId:25907210	origText:tumours	url:D009369
+CANDIDATE	id:9369	inCount:18	outCount:1	links:9369	url:D009369	name:Tumors	normalName:tumors	normalWikiTitle:tumors	predictedType:Disease
+CANDIDATE	id:14202	inCount:6	outCount:1	links:14202	url:D014202	name:Tremor	normalName:tremor	normalWikiTitle:tremor	predictedType:Disease
+CANDIDATE	id:53608	inCount:0	outCount:1	links:53608	url:D053608	name:Stupor	normalName:stupor	normalWikiTitle:stupor	predictedType:Disease
+CANDIDATE	id:9396	inCount:9	outCount:3	links:9396	url:D009396	name:Wilms Tumor	normalName:wilms tumor	normalWikiTitle:wilms tumor	predictedType:Disease
+CANDIDATE	id:563168	inCount:0	outCount:2	links:563168	url:C563168	name:Askin Tumor	normalName:askin tumor	normalWikiTitle:askin tumor	predictedType:Disease
+CANDIDATE	id:5918	inCount:1	outCount:1	links:5918	url:D005918	name:Glomus Tumor	normalName:glomus tumor	normalWikiTitle:glomus tumor	predictedType:Disease
+CANDIDATE	id:601583	inCount:0	outCount:1	links:601583	url:601583	name:WILMS TUMOR 5	normalName:wilms tumor 5	normalWikiTitle:wilms tumor 5	predictedType:Disease
+CANDIDATE	id:616806	inCount:0	outCount:1	links:616806	url:616806	name:WILMS TUMOR 6	normalName:wilms tumor 6	normalWikiTitle:wilms tumor 6	predictedType:Disease
+CANDIDATE	id:563336	inCount:0	outCount:1	links:563336	url:C563336	name:Wilms Tumor 4	normalName:wilms tumor 4	normalWikiTitle:wilms tumor 4	predictedType:Disease
+CANDIDATE	id:6337	inCount:1	outCount:1	links:6337	url:D006337	name:Heart Murmurs	normalName:heart murmurs	normalWikiTitle:heart murmurs	predictedType:Disease
+CANDIDATE	id:565991	inCount:0	outCount:1	links:565991	url:C565991	name:Wilms Tumor 3	normalName:wilms tumor 3	normalWikiTitle:wilms tumor 3	predictedType:Disease
+CANDIDATE	id:9369	inCount:18	outCount:1	links:9369	url:D009369	name:Tumor	normalName:tumor	normalWikiTitle:tumor	predictedType:Disease
+ENTITY	text:prostate cancer	normalName:prostate cancer	predictedType:disease	q:true	qid:Q322	docId:25907210	origText:prostate cancer	url:D011471
+CANDIDATE	id:11471	inCount:19	outCount:2	links:	url:D011471	name:Prostate Cancer	normalName:prostate cancer	normalWikiTitle:prostate cancer	predictedType:Disease
+ENTITY	text:tumour	normalName:tumour	predictedType:disease	q:true	qid:Q322	docId:25907210	origText:tumour	url:D009369
+CANDIDATE	id:9369	inCount:18	outCount:1	links:9369	url:D009369	name:Tumors	normalName:tumors	normalWikiTitle:tumors	predictedType:Disease
+CANDIDATE	id:14202	inCount:6	outCount:1	links:14202	url:D014202	name:Tremor	normalName:tremor	normalWikiTitle:tremor	predictedType:Disease
+CANDIDATE	id:53608	inCount:0	outCount:1	links:53608	url:D053608	name:Stupor	normalName:stupor	normalWikiTitle:stupor	predictedType:Disease
+CANDIDATE	id:9396	inCount:9	outCount:3	links:9396	url:D009396	name:Wilms Tumor	normalName:wilms tumor	normalWikiTitle:wilms tumor	predictedType:Disease
+CANDIDATE	id:563168	inCount:0	outCount:2	links:563168	url:C563168	name:Askin Tumor	normalName:askin tumor	normalWikiTitle:askin tumor	predictedType:Disease
+CANDIDATE	id:5918	inCount:1	outCount:1	links:5918	url:D005918	name:Glomus Tumor	normalName:glomus tumor	normalWikiTitle:glomus tumor	predictedType:Disease
+CANDIDATE	id:601583	inCount:0	outCount:1	links:601583	url:601583	name:WILMS TUMOR 5	normalName:wilms tumor 5	normalWikiTitle:wilms tumor 5	predictedType:Disease
+CANDIDATE	id:616806	inCount:0	outCount:1	links:616806	url:616806	name:WILMS TUMOR 6	normalName:wilms tumor 6	normalWikiTitle:wilms tumor 6	predictedType:Disease
+CANDIDATE	id:563336	inCount:0	outCount:1	links:563336	url:C563336	name:Wilms Tumor 4	normalName:wilms tumor 4	normalWikiTitle:wilms tumor 4	predictedType:Disease
+CANDIDATE	id:6337	inCount:1	outCount:1	links:6337	url:D006337	name:Heart Murmurs	normalName:heart murmurs	normalWikiTitle:heart murmurs	predictedType:Disease
+CANDIDATE	id:565991	inCount:0	outCount:1	links:565991	url:C565991	name:Wilms Tumor 3	normalName:wilms tumor 3	normalWikiTitle:wilms tumor 3	predictedType:Disease
+CANDIDATE	id:9369	inCount:18	outCount:1	links:9369	url:D009369	name:Tumor	normalName:tumor	normalWikiTitle:tumor	predictedType:Disease
+ENTITY	text:cancer	normalName:cancer	predictedType:disease	q:true	qid:Q322	docId:25907210	origText:cancer	url:D009369
+CANDIDATE	id:9369	inCount:18	outCount:1	links:9369	url:D009369	name:Cancer	normalName:cancer	normalWikiTitle:cancer	predictedType:Disease

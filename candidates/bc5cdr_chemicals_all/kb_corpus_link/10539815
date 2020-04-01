@@ -1,0 +1,8 @@
+ENTITY	text:creatinine	normalName:creatinine	predictedType:chemical	q:true	qid:Q1193	docId:10539815	origText:creatinine	url:D003404
+CANDIDATE	id:3404	inCount:8	outCount:1	links:	url:D003404	name:Creatinine	normalName:creatinine	normalWikiTitle:creatinine	predictedType:Chemical
+ENTITY	text:diuretic	normalName:diuretic	predictedType:chemical	q:true	qid:Q1193	docId:10539815	origText:diuretic	url:D004232
+CANDIDATE	id:4232	inCount:4	outCount:1	links:4656	url:D004232	name:Diuretic	normalName:diuretic	normalWikiTitle:diuretic	predictedType:Chemical
+ENTITY	text:enalapril	normalName:enalapril	predictedType:chemical	q:true	qid:Q1193	docId:10539815	origText:enalapril	url:D004656
+CANDIDATE	id:4656	inCount:8	outCount:1	links:4232	url:D004656	name:Enalapril	normalName:enalapril	normalWikiTitle:enalapril	predictedType:Chemical
+ENTITY	text:angiotensin	normalName:angiotensin	predictedType:chemical	q:true	qid:Q1193	docId:10539815	origText:angiotensin	url:D000809
+CANDIDATE	id:809	inCount:9	outCount:4	links:	url:D000809	name:Angiotensin	normalName:angiotensin	normalWikiTitle:angiotensin	predictedType:Chemical

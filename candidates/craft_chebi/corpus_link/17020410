@@ -1,0 +1,72 @@
+ENTITY	text:Haematoxylin	normalName:haematoxylin	predictedType:chemical	q:true	qid:Q44	docId:17020410	origText:Haematoxylin	url:CHEBI:51686
+CANDIDATE	id:51686	inCount:2	outCount:4	links:	url:CHEBI:51686	name:haematoxylin	normalName:haematoxylin	normalWikiTitle:haematoxylin	predictedType:chemical
+ENTITY	text:argininosuccinate	normalName:argininosuccinate	predictedType:chemical	q:true	qid:Q44	docId:17020410	origText:argininosuccinate	url:CHEBI:57472
+CANDIDATE	id:57472	inCount:0	outCount:1	links:	url:CHEBI:57472	name:(N(omega)-L-arginino)succinate(1-)	normalName:(n(omega)-l-arginino)succinate(1-)	normalWikiTitle:(n(omega)-l-arginino)succinate(1-)	predictedType:chemical
+CANDIDATE	id:89639	inCount:0	outCount:2	links:	url:CHEBI:89639	name:Canavaninosuccinate	normalName:canavaninosuccinate	normalWikiTitle:canavaninosuccinate	predictedType:chemical
+CANDIDATE	id:32695	inCount:2	outCount:1	links:	url:CHEBI:32695	name:argininate	normalName:argininate	normalWikiTitle:argininate	predictedType:chemical
+CANDIDATE	id:135355	inCount:0	outCount:2	links:	url:CHEBI:135355	name:pregnenolone succinate	normalName:pregnenolone succinate	normalWikiTitle:pregnenolone succinate	predictedType:chemical
+CANDIDATE	id:73706	inCount:0	outCount:1	links:	url:CHEBI:73706	name:bromosuccinate	normalName:bromosuccinate	normalWikiTitle:bromosuccinate	predictedType:chemical
+CANDIDATE	id:66874	inCount:0	outCount:1	links:	url:CHEBI:66874	name:carnosinate	normalName:carnosinate	normalWikiTitle:carnosinate	predictedType:chemical
+CANDIDATE	id:135790	inCount:0	outCount:2	links:	url:CHEBI:135790	name:estriol succinate	normalName:estriol succinate	normalWikiTitle:estriol succinate	predictedType:chemical
+CANDIDATE	id:26806	inCount:2	outCount:1	links:	url:CHEBI:26806	name:succinate	normalName:succinate	normalWikiTitle:succinate	predictedType:chemical
+CANDIDATE	id:32681	inCount:0	outCount:2	links:	url:CHEBI:32681	name:L-argininate	normalName:l-argininate	normalWikiTitle:l-argininate	predictedType:chemical
+CANDIDATE	id:32688	inCount:0	outCount:1	links:	url:CHEBI:32688	name:D-argininate	normalName:d-argininate	normalWikiTitle:d-argininate	predictedType:chemical
+ENTITY	text:mineral	normalName:mineral	predictedType:chemical	q:true	qid:Q44	docId:17020410	origText:mineral	url:CHEBI:46662
+CANDIDATE	id:46662	inCount:15	outCount:1	links:	url:CHEBI:46662	name:mineral	normalName:mineral	normalWikiTitle:mineral	predictedType:chemical
+ENTITY	text:globin	normalName:globin	predictedType:chemical	q:true	qid:Q44	docId:17020410	origText:globin	url:CHEBI:5386
+CANDIDATE	id:5386	inCount:3	outCount:1	links:	url:CHEBI:5386	name:globin	normalName:globin	normalWikiTitle:globin	predictedType:chemical
+ENTITY	text:ethidium bromide	normalName:ethidium bromide	predictedType:chemical	q:true	qid:Q44	docId:17020410	origText:ethidium bromide	url:CHEBI:4883
+CANDIDATE	id:4883	inCount:0	outCount:1	links:	url:CHEBI:4883	name:ethidium bromide	normalName:ethidium bromide	normalWikiTitle:ethidium bromide	predictedType:chemical
+ENTITY	text:galactose-1-phosphate	normalName:galactose-1-phosphate	predictedType:chemical	q:true	qid:Q44	docId:17020410	origText:galactose-1-phosphate	url:CHEBI:53025
+CANDIDATE	id:53025	inCount:2	outCount:1	links:	url:CHEBI:53025	name:L-galactose 1-phosphate	normalName:l-galactose 1-phosphate	normalWikiTitle:l-galactose 1-phosphate	predictedType:chemical
+CANDIDATE	id:20960	inCount:5	outCount:1	links:	url:CHEBI:20960	name:galactose phosphate	normalName:galactose phosphate	normalWikiTitle:galactose phosphate	predictedType:chemical
+CANDIDATE	id:58908	inCount:2	outCount:1	links:	url:CHEBI:58908	name:L-galactose 1-phosphate(2-)	normalName:l-galactose 1-phosphate(2-)	normalWikiTitle:l-galactose 1-phosphate(2-)	predictedType:chemical
+CANDIDATE	id:12937	inCount:2	outCount:1	links:	url:CHEBI:12937	name:D-galactose 6-phosphate	normalName:d-galactose 6-phosphate	normalWikiTitle:d-galactose 6-phosphate	predictedType:chemical
+CANDIDATE	id:28339	inCount:0	outCount:1	links:	url:CHEBI:28339	name:lactose 6'-phosphate	normalName:lactose 6'-phosphate	normalWikiTitle:lactose 6'-phosphate	predictedType:chemical
+CANDIDATE	id:63592	inCount:0	outCount:1	links:	url:CHEBI:63592	name:maltose 1-phosphate	normalName:maltose 1-phosphate	normalWikiTitle:maltose 1-phosphate	predictedType:chemical
+CANDIDATE	id:25004	inCount:1	outCount:1	links:	url:CHEBI:25004	name:lactose phosphate	normalName:lactose phosphate	normalWikiTitle:lactose phosphate	predictedType:chemical
+CANDIDATE	id:28663	inCount:0	outCount:3	links:	url:CHEBI:28663	name:galactitol 1-phosphate	normalName:galactitol 1-phosphate	normalWikiTitle:galactitol 1-phosphate	predictedType:chemical
+CANDIDATE	id:28207	inCount:2	outCount:1	links:	url:CHEBI:28207	name:D-galactosamine 1-phosphate	normalName:d-galactosamine 1-phosphate	normalWikiTitle:d-galactosamine 1-phosphate	predictedType:chemical
+CANDIDATE	id:79080	inCount:0	outCount:1	links:	url:CHEBI:79080	name:lactose 6-phosphate(2-)	normalName:lactose 6-phosphate(2-)	normalWikiTitle:lactose 6-phosphate(2-)	predictedType:chemical
+ENTITY	text:methylmalonyl CoA	normalName:methylmalonyl coa	predictedType:chemical	q:true	qid:Q44	docId:17020410	origText:methylmalonyl CoA	url:CHEBI:16625
+CANDIDATE	id:16625	inCount:2	outCount:1	links:	url:CHEBI:16625	name:methylmalonyl-CoA	normalName:methylmalonyl-coa	normalWikiTitle:methylmalonyl-coa	predictedType:chemical
+ENTITY	text:methylmalonic	normalName:methylmalonic	predictedType:chemical	q:true	qid:Q44	docId:17020410	origText:methylmalonic	url:CHEBI:30860
+CANDIDATE	id:30860	inCount:0	outCount:1	links:	url:CHEBI:30860	name:methylmalonic acid	normalName:methylmalonic acid	normalWikiTitle:methylmalonic acid	predictedType:chemical
+CANDIDATE	id:741548	inCount:0	outCount:1	links:	url:CHEBI:741548	name:ethylmalonic acid	normalName:ethylmalonic acid	normalWikiTitle:ethylmalonic acid	predictedType:chemical
+CANDIDATE	id:111517	inCount:0	outCount:1	links:	url:CHEBI:111517	name:dimethylmalonic acid	normalName:dimethylmalonic acid	normalWikiTitle:dimethylmalonic acid	predictedType:chemical
+CANDIDATE	id:132938	inCount:1	outCount:1	links:	url:CHEBI:132938	name:ethylmalonate	normalName:ethylmalonate	normalWikiTitle:ethylmalonate	predictedType:chemical
+CANDIDATE	id:30861	inCount:0	outCount:1	links:	url:CHEBI:30861	name:methylmalonate(1-)	normalName:methylmalonate(1-)	normalWikiTitle:methylmalonate(1-)	predictedType:chemical
+CANDIDATE	id:17453	inCount:0	outCount:1	links:	url:CHEBI:17453	name:methylmalonate(2-)	normalName:methylmalonate(2-)	normalWikiTitle:methylmalonate(2-)	predictedType:chemical
+CANDIDATE	id:59338	inCount:0	outCount:1	links:	url:CHEBI:59338	name:methylammonium	normalName:methylammonium	normalWikiTitle:methylammonium	predictedType:chemical
+CANDIDATE	id:14597	inCount:0	outCount:1	links:	url:CHEBI:14597	name:methylarsonite	normalName:methylarsonite	normalWikiTitle:methylarsonite	predictedType:chemical
+CANDIDATE	id:16625	inCount:2	outCount:1	links:	url:CHEBI:16625	name:methylmalonyl-CoA	normalName:methylmalonyl-coa	normalWikiTitle:methylmalonyl-coa	predictedType:chemical
+CANDIDATE	id:81963	inCount:0	outCount:1	links:	url:CHEBI:81963	name:Methyldymron	normalName:methyldymron	normalWikiTitle:methyldymron	predictedType:chemical
+ENTITY	text:electron	normalName:electron	predictedType:chemical	q:true	qid:Q44	docId:17020410	origText:electron	url:CHEBI:10545
+CANDIDATE	id:10545	inCount:0	outCount:1	links:	url:CHEBI:10545	name:electron	normalName:electron	normalWikiTitle:electron	predictedType:chemical
+ENTITY	text:EtBr	normalName:etbr	predictedType:chemical	q:true	qid:Q44	docId:17020410	origText:EtBr	url:CHEBI:4883
+CANDIDATE	id:4883	inCount:0	outCount:1	links:	url:CHEBI:4883	name:EtBr	normalName:etbr	normalWikiTitle:etbr	predictedType:chemical
+CANDIDATE	id:35701	inCount:22	outCount:1	links:	url:CHEBI:35701	name:ester	normalName:ester	normalWikiTitle:ester	predictedType:chemical
+CANDIDATE	id:25698	inCount:243	outCount:1	links:	url:CHEBI:25698	name:ether	normalName:ether	normalWikiTitle:ether	predictedType:chemical
+CANDIDATE	id:72793	inCount:6	outCount:1	links:	url:CHEBI:72793	name:HETrE	normalName:hetre	normalWikiTitle:hetre	predictedType:chemical
+CANDIDATE	id:135366	inCount:0	outCount:1	links:	url:CHEBI:135366	name:eterobarb	normalName:eterobarb	normalWikiTitle:eterobarb	predictedType:chemical
+CANDIDATE	id:33573	inCount:75	outCount:1	links:	url:CHEBI:33573	name:tetrol	normalName:tetrol	normalWikiTitle:tetrol	predictedType:chemical
+CANDIDATE	id:135535	inCount:0	outCount:1	links:	url:CHEBI:135535	name:etofibrate	normalName:etofibrate	normalWikiTitle:etofibrate	predictedType:chemical
+CANDIDATE	id:64007	inCount:5	outCount:4	links:	url:CHEBI:64007	name:EET	normalName:eet	normalWikiTitle:eet	predictedType:chemical
+CANDIDATE	id:30173	inCount:0	outCount:1	links:	url:CHEBI:30173	name:metaborate	normalName:metaborate	normalWikiTitle:metaborate	predictedType:chemical
+CANDIDATE	id:7491	inCount:0	outCount:1	links:	url:CHEBI:7491	name:Neburon	normalName:neburon	normalWikiTitle:neburon	predictedType:chemical
+CANDIDATE	id:73612	inCount:0	outCount:1	links:	url:CHEBI:73612	name:Met-Pro	normalName:met-pro	normalWikiTitle:met-pro	predictedType:chemical
+CANDIDATE	id:39275	inCount:0	outCount:3	links:	url:CHEBI:39275	name:MeBr	normalName:mebr	normalWikiTitle:mebr	predictedType:chemical
+CANDIDATE	id:141564	inCount:0	outCount:2	links:	url:CHEBI:141564	name:ETBE	normalName:etbe	normalWikiTitle:etbe	predictedType:chemical
+ENTITY	text:propinyl-CoA	normalName:propinyl-coa	predictedType:chemical	q:true	qid:Q44	docId:17020410	origText:propinyl-CoA	url:CHEBI:15539
+CANDIDATE	id:15539	inCount:0	outCount:1	links:	url:CHEBI:15539	name:propionyl-CoA	normalName:propionyl-coa	normalWikiTitle:propionyl-coa	predictedType:chemical
+CANDIDATE	id:57392	inCount:0	outCount:2	links:	url:CHEBI:57392	name:propionyl-CoA(4-)	normalName:propionyl-coa(4-)	normalWikiTitle:propionyl-coa(4-)	predictedType:chemical
+CANDIDATE	id:26302	inCount:0	outCount:1	links:	url:CHEBI:26302	name:propenoyl-CoA	normalName:propenoyl-coa	normalWikiTitle:propenoyl-coa	predictedType:chemical
+CANDIDATE	id:26296	inCount:3	outCount:1	links:	url:CHEBI:26296	name:propanoyl-CoAs	normalName:propanoyl-coas	normalWikiTitle:propanoyl-coas	predictedType:chemical
+CANDIDATE	id:51341	inCount:2	outCount:3	links:	url:CHEBI:51341	name:pristanoyl-CoA	normalName:pristanoyl-coa	normalWikiTitle:pristanoyl-coa	predictedType:chemical
+CANDIDATE	id:81995	inCount:0	outCount:1	links:	url:CHEBI:81995	name:Propylmalonyl-CoA	normalName:propylmalonyl-coa	normalWikiTitle:propylmalonyl-coa	predictedType:chemical
+CANDIDATE	id:26294	inCount:0	outCount:1	links:	url:CHEBI:26294	name:propionyl group	normalName:propionyl group	normalWikiTitle:propionyl group	predictedType:chemical
+CANDIDATE	id:28673	inCount:0	outCount:1	links:	url:CHEBI:28673	name:3-oxopropanoyl-CoA	normalName:3-oxopropanoyl-coa	normalWikiTitle:3-oxopropanoyl-coa	predictedType:chemical
+CANDIDATE	id:62415	inCount:0	outCount:1	links:	url:CHEBI:62415	name:propanoyl-AMP	normalName:propanoyl-amp	normalWikiTitle:propanoyl-amp	predictedType:chemical
+CANDIDATE	id:15473	inCount:0	outCount:1	links:	url:CHEBI:15473	name:crotonoyl-CoA	normalName:crotonoyl-coa	normalWikiTitle:crotonoyl-coa	predictedType:chemical
+ENTITY	text:reagents	normalName:reagents	predictedType:chemical	q:true	qid:Q44	docId:17020410	origText:reagents	url:CHEBI:33893
+CANDIDATE	id:33893	inCount:15	outCount:1	links:	url:CHEBI:33893	name:reagent	normalName:reagent	normalWikiTitle:reagent	predictedType:chemical

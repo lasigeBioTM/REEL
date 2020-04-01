@@ -1,0 +1,27 @@
+ENTITY	text:autoimmune diseases	normalName:autoimmune diseases	predictedType:disease	q:true	qid:Q1192	docId:15517007	origText:autoimmune diseases	url:D001327
+CANDIDATE	id:1327	inCount:50	outCount:1	links:1327	url:D001327	name:Autoimmune Disease	normalName:autoimmune disease	normalWikiTitle:autoimmune disease	predictedType:Disease
+ENTITY	text:heart damage	normalName:heart damage	predictedType:disease	q:true	qid:Q1192	docId:15517007	origText:heart damage	url:D006331
+CANDIDATE	id:6331	inCount:29	outCount:1	links:	url:D006331	name:Disease, Heart	normalName:disease, heart	normalWikiTitle:disease, heart	predictedType:Disease
+CANDIDATE	id:6331	inCount:29	outCount:1	links:	url:D006331	name:Heart Diseases	normalName:heart diseases	normalWikiTitle:heart diseases	predictedType:Disease
+CANDIDATE	id:6323	inCount:2	outCount:1	links:	url:D006323	name:Heart Arrest	normalName:heart arrest	normalWikiTitle:heart arrest	predictedType:Disease
+CANDIDATE	id:6333	inCount:5	outCount:1	links:	url:D006333	name:Heart Failure	normalName:heart failure	normalWikiTitle:heart failure	predictedType:Disease
+CANDIDATE	id:6322	inCount:0	outCount:2	links:	url:D006322	name:Heart Aneurysm	normalName:heart aneurysm	normalWikiTitle:heart aneurysm	predictedType:Disease
+CANDIDATE	id:6357	inCount:0	outCount:3	links:	url:D006357	name:Heartwater Disease	normalName:heartwater disease	normalWikiTitle:heartwater disease	predictedType:Disease
+CANDIDATE	id:6250	inCount:0	outCount:3	links:	url:D006250	name:Hartnup Disease	normalName:hartnup disease	normalWikiTitle:hartnup disease	predictedType:Disease
+CANDIDATE	id:4427	inCount:21	outCount:1	links:	url:D004427	name:Ear Diseases	normalName:ear diseases	normalWikiTitle:ear diseases	predictedType:Disease
+CANDIDATE	id:6520	inCount:1	outCount:2	links:	url:D006520	name:Hepatitis, Animal	normalName:hepatitis, animal	normalWikiTitle:hepatitis, animal	predictedType:Disease
+CANDIDATE	id:54144	inCount:0	outCount:1	links:	url:D054144	name:Heart Failure, Diastolic	normalName:heart failure, diastolic	normalWikiTitle:heart failure, diastolic	predictedType:Disease
+CANDIDATE	id:6201	inCount:49	outCount:1	links:	url:D006201	name:Hair Diseases	normalName:hair diseases	normalWikiTitle:hair diseases	predictedType:Disease
+CANDIDATE	id:6331	inCount:29	outCount:1	links:	url:D006331	name:Heart Disease	normalName:heart disease	normalWikiTitle:heart disease	predictedType:Disease
+ENTITY	text:multiple sclerosis	normalName:multiple sclerosis	predictedType:disease	q:true	qid:Q1192	docId:15517007	origText:multiple sclerosis	url:D009103
+CANDIDATE	id:9103	inCount:4	outCount:1	links:	url:D009103	name:Multiple Sclerosis	normalName:multiple sclerosis	normalWikiTitle:multiple sclerosis	predictedType:Disease
+ENTITY	text:infections	normalName:infections	predictedType:disease	q:true	qid:Q1192	docId:15517007	origText:infections	url:D007239
+CANDIDATE	id:7239	inCount:33	outCount:1	links:	url:D007239	name:Infection	normalName:infection	normalWikiTitle:infection	predictedType:Disease
+ENTITY	text:cardiotoxicity	normalName:cardiotoxicity	predictedType:disease	q:true	qid:Q1192	docId:15517007	origText:cardiotoxicity	url:D066126
+CANDIDATE	id:66126	inCount:0	outCount:3	links:66126	url:D066126	name:Cardiotoxicity	normalName:cardiotoxicity	normalWikiTitle:cardiotoxicity	predictedType:Disease
+ENTITY	text:systemic sclerosis	normalName:systemic sclerosis	predictedType:disease	q:true	qid:Q1192	docId:15517007	origText:systemic sclerosis	url:D012595
+CANDIDATE	id:12595	inCount:6	outCount:2	links:	url:D012595	name:Systemic Sclerosis	normalName:systemic sclerosis	normalWikiTitle:systemic sclerosis	predictedType:Disease
+ENTITY	text:cardiac toxicity	normalName:cardiac toxicity	predictedType:disease	q:true	qid:Q1192	docId:15517007	origText:cardiac toxicity	url:D066126
+CANDIDATE	id:66126	inCount:0	outCount:3	links:66126	url:D066126	name:Cardiac Toxicity	normalName:cardiac toxicity	normalWikiTitle:cardiac toxicity	predictedType:Disease
+ENTITY	text:autoimmune disease	normalName:autoimmune disease	predictedType:disease	q:true	qid:Q1192	docId:15517007	origText:autoimmune disease	url:D001327
+CANDIDATE	id:1327	inCount:50	outCount:1	links:1327	url:D001327	name:Autoimmune Disease	normalName:autoimmune disease	normalWikiTitle:autoimmune disease	predictedType:Disease

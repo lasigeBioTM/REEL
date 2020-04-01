@@ -1,0 +1,25 @@
+ENTITY	text:heart failure	normalName:heart failure	predictedType:disease	q:true	qid:Q1015	docId:16586083	origText:heart failure	url:D006333
+CANDIDATE	id:6333	inCount:5	outCount:1	links:	url:D006333	name:Heart Failure	normalName:heart failure	normalWikiTitle:heart failure	predictedType:Disease
+ENTITY	text:cardiovascular toxicity	normalName:cardiovascular toxicity	predictedType:disease	q:true	qid:Q1015	docId:16586083	origText:cardiovascular toxicity	url:D002318
+CANDIDATE	id:2318	inCount:5	outCount:1	links:	url:D002318	name:Cardiovascular Diseases	normalName:cardiovascular diseases	normalWikiTitle:cardiovascular diseases	predictedType:Disease
+CANDIDATE	id:66126	inCount:0	outCount:3	links:	url:D066126	name:Cardiotoxicity	normalName:cardiotoxicity	normalWikiTitle:cardiotoxicity	predictedType:Disease
+CANDIDATE	id:53821	inCount:3	outCount:2	links:	url:D053821	name:Cardiovascular Infections	normalName:cardiovascular infections	normalWikiTitle:cardiovascular infections	predictedType:Disease
+CANDIDATE	id:13589	inCount:0	outCount:2	links:	url:D013589	name:Syphilis, Cardiovascular	normalName:syphilis, cardiovascular	normalWikiTitle:syphilis, cardiovascular	predictedType:Disease
+CANDIDATE	id:14381	inCount:1	outCount:2	links:	url:D014381	name:Tuberculosis, Cardiovascular	normalName:tuberculosis, cardiovascular	normalWikiTitle:tuberculosis, cardiovascular	predictedType:Disease
+CANDIDATE	id:11249	inCount:1	outCount:2	links:	url:D011249	name:Pregnancy Complications, Cardiovascular	normalName:pregnancy complications, cardiovascular	normalWikiTitle:pregnancy complications, cardiovascular	predictedType:Disease
+CANDIDATE	id:531667	inCount:0	outCount:1	links:	url:C531667	name:5 alpha Fluorouracil toxicity	normalName:5 alpha fluorouracil toxicity	normalWikiTitle:5 alpha fluorouracil toxicity	predictedType:Disease
+CANDIDATE	id:566156	inCount:0	outCount:1	links:	url:C566156	name:Cataract, Nuclear Total	normalName:cataract, nuclear total	normalWikiTitle:cataract, nuclear total	predictedType:Disease
+CANDIDATE	id:20214	inCount:3	outCount:2	links:	url:D020214	name:Cerebrovascular Trauma	normalName:cerebrovascular trauma	normalWikiTitle:cerebrovascular trauma	predictedType:Disease
+CANDIDATE	id:73436	inCount:0	outCount:1	links:	url:D000073436	name:Microvascular Rarefaction	normalName:microvascular rarefaction	normalWikiTitle:microvascular rarefaction	predictedType:Disease
+CANDIDATE	id:66126	inCount:0	outCount:3	links:	url:D066126	name:Toxicity, Cardiac	normalName:toxicity, cardiac	normalWikiTitle:toxicity, cardiac	predictedType:Disease
+CANDIDATE	id:66126	inCount:0	outCount:3	links:	url:D066126	name:Cardiac Toxicity	normalName:cardiac toxicity	normalWikiTitle:cardiac toxicity	predictedType:Disease
+CANDIDATE	id:53821	inCount:3	outCount:2	links:	url:D053821	name:Infection, Cardiovascular	normalName:infection, cardiovascular	normalWikiTitle:infection, cardiovascular	predictedType:Disease
+CANDIDATE	id:9203	inCount:8	outCount:1	links:9203	url:D009203	name:Cardiovascular Stroke	normalName:cardiovascular stroke	normalWikiTitle:cardiovascular stroke	predictedType:Disease
+CANDIDATE	id:53821	inCount:3	outCount:2	links:	url:D053821	name:Cardiovascular Infection	normalName:cardiovascular infection	normalWikiTitle:cardiovascular infection	predictedType:Disease
+CANDIDATE	id:9203	inCount:8	outCount:1	links:9203	url:D009203	name:Stroke, Cardiovascular	normalName:stroke, cardiovascular	normalWikiTitle:stroke, cardiovascular	predictedType:Disease
+ENTITY	text:hypertension	normalName:hypertension	predictedType:disease	q:true	qid:Q1015	docId:16586083	origText:hypertension	url:D006973
+CANDIDATE	id:6973	inCount:18	outCount:1	links:	url:D006973	name:Hypertension	normalName:hypertension	normalWikiTitle:hypertension	predictedType:Disease
+ENTITY	text:stroke	normalName:stroke	predictedType:disease	q:true	qid:Q1015	docId:16586083	origText:stroke	url:D020521
+CANDIDATE	id:20521	inCount:2	outCount:1	links:	url:D020521	name:Stroke	normalName:stroke	normalWikiTitle:stroke	predictedType:Disease
+ENTITY	text:myocardial infarction	normalName:myocardial infarction	predictedType:disease	q:true	qid:Q1015	docId:16586083	origText:myocardial infarction	url:D009203
+CANDIDATE	id:9203	inCount:8	outCount:1	links:9203	url:D009203	name:Myocardial Infarction	normalName:myocardial infarction	normalWikiTitle:myocardial infarction	predictedType:Disease

@@ -1,0 +1,30 @@
+ENTITY	text:Rhabdomyolysis	normalName:rhabdomyolysis	predictedType:disease	q:true	qid:Q1095	docId:24927617	origText:Rhabdomyolysis	url:D012206
+CANDIDATE	id:12206	inCount:3	outCount:1	links:	url:D012206	name:Rhabdomyolysis	normalName:rhabdomyolysis	normalWikiTitle:rhabdomyolysis	predictedType:Disease
+ENTITY	text:hepatitis C virus infected	normalName:hepatitis c virus infected	predictedType:disease	q:true	qid:Q1095	docId:24927617	origText:hepatitis C virus infected	url:D006526
+CANDIDATE	id:6526	inCount:1	outCount:2	links:	url:D006526	name:Hepatitis C	normalName:hepatitis c	normalWikiTitle:hepatitis c	predictedType:Disease
+CANDIDATE	id:6522	inCount:0	outCount:3	links:	url:D006522	name:Hepatitis, Infectious Canine	normalName:hepatitis, infectious canine	normalWikiTitle:hepatitis, infectious canine	predictedType:Disease
+CANDIDATE	id:69544	inCount:1	outCount:2	links:	url:D000069544	name:Infectious Encephalitis	normalName:infectious encephalitis	normalWikiTitle:infectious encephalitis	predictedType:Disease
+CANDIDATE	id:1170	inCount:2	outCount:2	links:	url:D001170	name:Arthritis, Infectious	normalName:arthritis, infectious	normalWikiTitle:arthritis, infectious	predictedType:Disease
+CANDIDATE	id:20031	inCount:4	outCount:2	links:	url:D020031	name:Epstein-Barr Virus Infections	normalName:epstein-barr virus infections	normalWikiTitle:epstein-barr virus infections	predictedType:Disease
+CANDIDATE	id:6525	inCount:5	outCount:2	links:	url:D006525	name:Hepatitis, Viral, Human	normalName:hepatitis, viral, human	normalWikiTitle:hepatitis, viral, human	predictedType:Disease
+CANDIDATE	id:45464	inCount:0	outCount:1	links:	url:D045464	name:Henipavirus Infections	normalName:henipavirus infections	normalWikiTitle:henipavirus infections	predictedType:Disease
+CANDIDATE	id:4266	inCount:9	outCount:1	links:	url:D004266	name:DNA Virus Infections	normalName:dna virus infections	normalWikiTitle:dna virus infections	predictedType:Disease
+CANDIDATE	id:18778	inCount:2	outCount:1	links:	url:D018778	name:Hantavirus Infections	normalName:hantavirus infections	normalWikiTitle:hantavirus infections	predictedType:Disease
+CANDIDATE	id:15491	inCount:0	outCount:1	links:	url:D015491	name:HTLV-II Infections	normalName:htlv-ii infections	normalWikiTitle:htlv-ii infections	predictedType:Disease
+CANDIDATE	id:6509	inCount:1	outCount:2	links:	url:D006509	name:Hepatitis B Virus Infection	normalName:hepatitis b virus infection	normalWikiTitle:hepatitis b virus infection	predictedType:Disease
+CANDIDATE	id:6506	inCount:0	outCount:2	links:	url:D006506	name:Hepatitis, Infectious	normalName:hepatitis, infectious	normalWikiTitle:hepatitis, infectious	predictedType:Disease
+CANDIDATE	id:6506	inCount:0	outCount:2	links:	url:D006506	name:Infectious Hepatitis	normalName:infectious hepatitis	normalWikiTitle:infectious hepatitis	predictedType:Disease
+ENTITY	text:toxicity	normalName:toxicity	predictedType:disease	q:true	qid:Q1095	docId:24927617	origText:toxicity	url:D064420
+CANDIDATE	id:64420	inCount:10	outCount:1	links:	url:D064420	name:Drug Toxicity	normalName:drug toxicity	normalWikiTitle:drug toxicity	predictedType:Disease
+CANDIDATE	id:66126	inCount:0	outCount:3	links:	url:D066126	name:Cardiotoxicity	normalName:cardiotoxicity	normalWikiTitle:cardiotoxicity	predictedType:Disease
+CANDIDATE	id:15651	inCount:2	outCount:1	links:	url:D015651	name:Mycotoxicosis	normalName:mycotoxicosis	normalWikiTitle:mycotoxicosis	predictedType:Disease
+CANDIDATE	id:13971	inCount:2	outCount:1	links:	url:D013971	name:Thyrotoxicosis	normalName:thyrotoxicosis	normalWikiTitle:thyrotoxicosis	predictedType:Disease
+CANDIDATE	id:14869	inCount:0	outCount:2	links:	url:D014869	name:Water Intoxication	normalName:water intoxication	normalWikiTitle:water intoxication	predictedType:Disease
+CANDIDATE	id:14103	inCount:4	outCount:2	links:	url:D014103	name:Torticollis	normalName:torticollis	normalWikiTitle:torticollis	predictedType:Disease
+CANDIDATE	id:9765	inCount:42	outCount:2	links:	url:D009765	name:Obesity	normalName:obesity	normalWikiTitle:obesity	predictedType:Disease
+CANDIDATE	id:14115	inCount:1	outCount:1	links:	url:D014115	name:Toxemia	normalName:toxemia	normalWikiTitle:toxemia	predictedType:Disease
+CANDIDATE	id:7246	inCount:2	outCount:2	links:	url:D007246	name:Infertility	normalName:infertility	normalWikiTitle:infertility	predictedType:Disease
+CANDIDATE	id:20234	inCount:0	outCount:2	links:	url:D020234	name:Gait Ataxia	normalName:gait ataxia	normalWikiTitle:gait ataxia	predictedType:Disease
+CANDIDATE	id:14069	inCount:1	outCount:1	links:	url:D014069	name:Tonsillitis	normalName:tonsillitis	normalWikiTitle:tonsillitis	predictedType:Disease
+CANDIDATE	id:64420	inCount:10	outCount:1	links:	url:D064420	name:Toxicity, Drug	normalName:toxicity, drug	normalWikiTitle:toxicity, drug	predictedType:Disease
+CANDIDATE	id:17484	inCount:0	outCount:2	links:	url:D017484	name:Phototoxicity	normalName:phototoxicity	normalWikiTitle:phototoxicity	predictedType:Disease

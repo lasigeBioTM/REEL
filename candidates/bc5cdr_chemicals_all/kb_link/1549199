@@ -1,0 +1,6 @@
+ENTITY	text:dopamine	normalName:dopamine	predictedType:chemical	q:true	qid:Q769	docId:1549199	origText:dopamine	url:D004298
+CANDIDATE	id:4298	inCount:90	outCount:2	links:	url:D004298	name:Dopamine	normalName:dopamine	normalWikiTitle:dopamine	predictedType:Chemical
+ENTITY	text:carbidopa	normalName:carbidopa	predictedType:chemical	q:true	qid:Q769	docId:1549199	origText:carbidopa	url:D002230
+CANDIDATE	id:2230	inCount:3	outCount:2	links:	url:D002230	name:Carbidopa	normalName:carbidopa	normalWikiTitle:carbidopa	predictedType:Chemical
+ENTITY	text:levodopa	normalName:levodopa	predictedType:chemical	q:true	qid:Q769	docId:1549199	origText:levodopa	url:D007980
+CANDIDATE	id:7980	inCount:32	outCount:1	links:	url:D007980	name:Levodopa	normalName:levodopa	normalWikiTitle:levodopa	predictedType:Chemical

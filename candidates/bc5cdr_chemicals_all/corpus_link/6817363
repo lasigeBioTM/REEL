@@ -1,0 +1,25 @@
+ENTITY	text:cycloheximide	normalName:cycloheximide	predictedType:chemical	q:true	qid:Q1307	docId:6817363	origText:cycloheximide	url:D003513
+CANDIDATE	id:3513	inCount:5	outCount:1	links:2701;12601	url:D003513	name:Cycloheximide	normalName:cycloheximide	normalWikiTitle:cycloheximide	predictedType:Chemical
+ENTITY	text:chloramphenicol	normalName:chloramphenicol	predictedType:chemical	q:true	qid:Q1307	docId:6817363	origText:chloramphenicol	url:D002701
+CANDIDATE	id:2701	inCount:49	outCount:2	links:3513;12601	url:D002701	name:Chloramphenicol	normalName:chloramphenicol	normalWikiTitle:chloramphenicol	predictedType:Chemical
+ENTITY	text:pyrrolidinone	normalName:pyrrolidinone	predictedType:chemical	q:true	qid:Q1307	docId:6817363	origText:pyrrolidinone	url:D011760
+CANDIDATE	id:11760	inCount:324	outCount:1	links:	url:D011760	name:Pyrrolidinones	normalName:pyrrolidinones	normalWikiTitle:pyrrolidinones	predictedType:Chemical
+CANDIDATE	id:32519	inCount:0	outCount:1	links:	url:C032519	name:pyrrolidine	normalName:pyrrolidine	normalWikiTitle:pyrrolidine	predictedType:Chemical
+CANDIDATE	id:11759	inCount:828	outCount:1	links:	url:D011759	name:Pyrrolidines	normalName:pyrrolidines	normalWikiTitle:pyrrolidines	predictedType:Chemical
+CANDIDATE	id:28537	inCount:0	outCount:1	links:	url:C028537	name:2-pyrrolidone	normalName:2-pyrrolidone	normalWikiTitle:2-pyrrolidone	predictedType:Chemical
+CANDIDATE	id:13231	inCount:0	outCount:1	links:	url:C013231	name:pyrroline	normalName:pyrroline	normalWikiTitle:pyrroline	predictedType:Chemical
+CANDIDATE	id:560163	inCount:0	outCount:1	links:	url:C560163	name:palmyrrolinone	normalName:palmyrrolinone	normalWikiTitle:palmyrrolinone	predictedType:Chemical
+CANDIDATE	id:15484	inCount:0	outCount:1	links:	url:C015484	name:pyridinoline	normalName:pyridinoline	normalWikiTitle:pyridinoline	predictedType:Chemical
+CANDIDATE	id:121283	inCount:0	outCount:1	links:	url:C121283	name:diaminopyrrolidinone	normalName:diaminopyrrolidinone	normalWikiTitle:diaminopyrrolidinone	predictedType:Chemical
+CANDIDATE	id:42414	inCount:0	outCount:1	links:	url:C042414	name:aprolidine	normalName:aprolidine	normalWikiTitle:aprolidine	predictedType:Chemical
+CANDIDATE	id:434794	inCount:0	outCount:1	links:	url:C434794	name:pyrollidone 2	normalName:pyrollidone 2	normalWikiTitle:pyrollidone 2	predictedType:Chemical
+ENTITY	text:1-anisoyl-2-pyrrolidinone	normalName:1-anisoyl-2-pyrrolidinone	predictedType:chemical	q:true	qid:Q1307	docId:6817363	origText:1-anisoyl-2-pyrrolidinone	url:C036466
+CANDIDATE	id:36466	inCount:0	outCount:1	links:	url:C036466	name:1-anisoyl-2-pyrrolidinone	normalName:1-anisoyl-2-pyrrolidinone	normalWikiTitle:1-anisoyl-2-pyrrolidinone	predictedType:Chemical
+ENTITY	text:aniracetam	normalName:aniracetam	predictedType:chemical	q:true	qid:Q1307	docId:6817363	origText:aniracetam	url:C036466
+CANDIDATE	id:36466	inCount:0	outCount:1	links:	url:C036466	name:aniracetam	normalName:aniracetam	normalWikiTitle:aniracetam	predictedType:Chemical
+ENTITY	text:Piracetam	normalName:piracetam	predictedType:chemical	q:true	qid:Q1307	docId:6817363	origText:Piracetam	url:D010889
+CANDIDATE	id:10889	inCount:9	outCount:2	links:	url:D010889	name:Piracetam	normalName:piracetam	normalWikiTitle:piracetam	predictedType:Chemical
+ENTITY	text:Ro 13-5057	normalName:ro 13-5057	predictedType:chemical	q:true	qid:Q1307	docId:6817363	origText:Ro 13-5057	url:C036466
+CANDIDATE	id:36466	inCount:0	outCount:1	links:	url:C036466	name:Ro 13-5057	normalName:ro 13-5057	normalWikiTitle:ro 13-5057	predictedType:Chemical
+ENTITY	text:scopolamine	normalName:scopolamine	predictedType:chemical	q:true	qid:Q1307	docId:6817363	origText:scopolamine	url:D012601
+CANDIDATE	id:12601	inCount:3	outCount:2	links:2701;3513	url:D012601	name:Scopolamine	normalName:scopolamine	normalWikiTitle:scopolamine	predictedType:Chemical

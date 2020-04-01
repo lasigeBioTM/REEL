@@ -1,0 +1,12 @@
+ENTITY	text:Death	normalName:death	predictedType:disease	q:true	qid:Q152	docId:3192036	origText:Death	url:D003643
+CANDIDATE	id:3643	inCount:11	outCount:1	links:	url:D003643	name:Death	normalName:death	normalWikiTitle:death	predictedType:Disease
+ENTITY	text:gestational trophoblastic disease	normalName:gestational trophoblastic disease	predictedType:disease	q:true	qid:Q152	docId:3192036	origText:gestational trophoblastic disease	url:D031901
+CANDIDATE	id:31901	inCount:1	outCount:1	links:	url:D031901	name:Gestational Trophoblastic Disease	normalName:gestational trophoblastic disease	normalWikiTitle:gestational trophoblastic disease	predictedType:Disease
+ENTITY	text:necrosis	normalName:necrosis	predictedType:disease	q:true	qid:Q152	docId:3192036	origText:necrosis	url:D009336
+CANDIDATE	id:9336	inCount:6	outCount:1	links:	url:D009336	name:Necrosis	normalName:necrosis	normalWikiTitle:necrosis	predictedType:Disease
+ENTITY	text:embolism	normalName:embolism	predictedType:disease	q:true	qid:Q152	docId:3192036	origText:embolism	url:D004617
+CANDIDATE	id:4617	inCount:5	outCount:1	links:	url:D004617	name:Embolism	normalName:embolism	normalWikiTitle:embolism	predictedType:Disease
+ENTITY	text:tumor	normalName:tumor	predictedType:disease	q:true	qid:Q152	docId:3192036	origText:tumor	url:D009369
+CANDIDATE	id:9369	inCount:18	outCount:1	links:	url:D009369	name:Tumor	normalName:tumor	normalWikiTitle:tumor	predictedType:Disease
+ENTITY	text:choriocarcinoma	normalName:choriocarcinoma	predictedType:disease	q:true	qid:Q152	docId:3192036	origText:choriocarcinoma	url:D002822
+CANDIDATE	id:2822	inCount:2	outCount:2	links:	url:D002822	name:Choriocarcinoma	normalName:choriocarcinoma	normalWikiTitle:choriocarcinoma	predictedType:Disease

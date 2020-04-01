@@ -1,0 +1,6 @@
+ENTITY	text:lithium	normalName:lithium	predictedType:chemical	q:true	qid:Q1101	docId:10354657	origText:lithium	url:D008094
+CANDIDATE	id:8094	inCount:15	outCount:2	links:	url:D008094	name:Lithium	normalName:lithium	normalWikiTitle:lithium	predictedType:Chemical
+ENTITY	text:magnesium	normalName:magnesium	predictedType:chemical	q:true	qid:Q1101	docId:10354657	origText:magnesium	url:D008274
+CANDIDATE	id:8274	inCount:26	outCount:2	links:	url:D008274	name:Magnesium	normalName:magnesium	normalWikiTitle:magnesium	predictedType:Chemical
+ENTITY	text:calcium	normalName:calcium	predictedType:chemical	q:true	qid:Q1101	docId:10354657	origText:calcium	url:D002118
+CANDIDATE	id:2118	inCount:11	outCount:2	links:	url:D002118	name:Calcium	normalName:calcium	normalWikiTitle:calcium	predictedType:Chemical

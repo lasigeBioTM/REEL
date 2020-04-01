@@ -1,0 +1,13 @@
+ENTITY	text:chest pain	normalName:chest pain	predictedType:disease	q:true	qid:Q162	docId:9570197	origText:chest pain	url:D002637
+CANDIDATE	id:2637	inCount:1	outCount:1	links:18487	url:D002637	name:Chest Pain	normalName:chest pain	normalWikiTitle:chest pain	predictedType:Disease
+ENTITY	text:deterioration of left ventricular (LV) systolic function	normalName:deterioration of left ventricular (lv) systolic function	predictedType:disease	q:true	qid:Q162	docId:9570197	origText:deterioration of left ventricular (LV) systolic function	url:D018487
+CANDIDATE	id:18487	inCount:1	outCount:1	links:2637	url:D018487	name:Ventricular Dysfunction, Left	normalName:ventricular dysfunction, left	normalWikiTitle:ventricular dysfunction, left	predictedType:Disease
+CANDIDATE	id:14694	inCount:2	outCount:1	links:	url:D014694	name:Ventricular Outflow Obstruction	normalName:ventricular outflow obstruction	normalWikiTitle:ventricular outflow obstruction	predictedType:Disease
+CANDIDATE	id:6345	inCount:6	outCount:1	links:	url:D006345	name:Heart Septal Defects, Ventricular	normalName:heart septal defects, ventricular	normalWikiTitle:heart septal defects, ventricular	predictedType:Disease
+CANDIDATE	id:6527	inCount:2	outCount:6	links:	url:D006527	name:Hepatolenticular Degeneration	normalName:hepatolenticular degeneration	normalWikiTitle:hepatolenticular degeneration	predictedType:Disease
+CANDIDATE	id:56830	inCount:8	outCount:4	links:	url:D056830	name:Isolated Noncompaction of the Ventricular Myocardium	normalName:isolated noncompaction of the ventricular myocardium	normalWikiTitle:isolated noncompaction of the ventricular myocardium	predictedType:Disease
+CANDIDATE	id:20785	inCount:6	outCount:2	links:	url:D020785	name:Central Nervous System Vascular Malformations	normalName:central nervous system vascular malformations	normalWikiTitle:central nervous system vascular malformations	predictedType:Disease
+CANDIDATE	id:18497	inCount:0	outCount:1	links:	url:D018497	name:Ventricular Dysfunction, Right	normalName:ventricular dysfunction, right	normalWikiTitle:ventricular dysfunction, right	predictedType:Disease
+CANDIDATE	id:18754	inCount:2	outCount:1	links:	url:D018754	name:Ventricular Dysfunction	normalName:ventricular dysfunction	normalWikiTitle:ventricular dysfunction	predictedType:Disease
+CANDIDATE	id:54091	inCount:6	outCount:1	links:	url:D054091	name:Periventricular Nodular Heterotopia	normalName:periventricular nodular heterotopia	normalWikiTitle:periventricular nodular heterotopia	predictedType:Disease
+CANDIDATE	id:537182	inCount:0	outCount:1	links:	url:C537182	name:Paroxysmal ventricular fibrillation	normalName:paroxysmal ventricular fibrillation	normalWikiTitle:paroxysmal ventricular fibrillation	predictedType:Disease

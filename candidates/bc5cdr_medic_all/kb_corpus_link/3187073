@@ -1,0 +1,29 @@
+ENTITY	text:chest pain	normalName:chest pain	predictedType:disease	q:true	qid:Q486	docId:3187073	origText:chest pain	url:D002637
+CANDIDATE	id:2637	inCount:1	outCount:1	links:2318;3645;14693;1281	url:D002637	name:Chest Pain	normalName:chest pain	normalWikiTitle:chest pain	predictedType:Disease
+ENTITY	text:ventricular fibrillation	normalName:ventricular fibrillation	predictedType:disease	q:true	qid:Q486	docId:3187073	origText:ventricular fibrillation	url:D014693
+CANDIDATE	id:14693	inCount:3	outCount:1	links:2637;2318;1281	url:D014693	name:Ventricular Fibrillation	normalName:ventricular fibrillation	normalWikiTitle:ventricular fibrillation	predictedType:Disease
+ENTITY	text:tachyarrhythmia	normalName:tachyarrhythmia	predictedType:disease	q:true	qid:Q486	docId:3187073	origText:tachyarrhythmia	url:D013610
+CANDIDATE	id:13610	inCount:7	outCount:2	links:66126	url:D013610	name:Tachyarrhythmia	normalName:tachyarrhythmia	normalWikiTitle:tachyarrhythmia	predictedType:Disease
+ENTITY	text:cardiovascular disease	normalName:cardiovascular disease	predictedType:disease	q:true	qid:Q486	docId:3187073	origText:cardiovascular disease	url:D002318
+CANDIDATE	id:2318	inCount:5	outCount:1	links:2637;14693;1281	url:D002318	name:Disease, Cardiovascular	normalName:disease, cardiovascular	normalWikiTitle:disease, cardiovascular	predictedType:Disease
+ENTITY	text:cardiotoxicity	normalName:cardiotoxicity	predictedType:disease	q:true	qid:Q486	docId:3187073	origText:cardiotoxicity	url:D066126
+CANDIDATE	id:66126	inCount:0	outCount:3	links:13610;1281	url:D066126	name:Cardiotoxicity	normalName:cardiotoxicity	normalWikiTitle:cardiotoxicity	predictedType:Disease
+ENTITY	text:head and neck carcinoma	normalName:head and neck carcinoma	predictedType:disease	q:true	qid:Q486	docId:3187073	origText:head and neck carcinoma	url:D006258
+CANDIDATE	id:6258	inCount:8	outCount:1	links:	url:D006258	name:Cancer of Head and Neck	normalName:cancer of head and neck	normalWikiTitle:cancer of head and neck	predictedType:Disease
+CANDIDATE	id:77195	inCount:0	outCount:2	links:	url:D000077195	name:Squamous Cell Carcinoma of Head and Neck	normalName:squamous cell carcinoma of head and neck	normalWikiTitle:squamous cell carcinoma of head and neck	predictedType:Disease
+CANDIDATE	id:2284	inCount:0	outCount:1	links:	url:D002284	name:Carcinoma, Brown-Pearce	normalName:carcinoma, brown-pearce	normalWikiTitle:carcinoma, brown-pearce	predictedType:Disease
+CANDIDATE	id:562463	inCount:0	outCount:1	links:	url:C562463	name:Pancreatic Carcinoma	normalName:pancreatic carcinoma	normalWikiTitle:pancreatic carcinoma	predictedType:Disease
+CANDIDATE	id:3528	inCount:0	outCount:1	links:	url:D003528	name:Carcinoma, Adenoid Cystic	normalName:carcinoma, adenoid cystic	normalWikiTitle:carcinoma, adenoid cystic	predictedType:Disease
+CANDIDATE	id:18266	inCount:0	outCount:2	links:	url:D018266	name:Adenocarcinoma, Sebaceous	normalName:adenocarcinoma, sebaceous	normalWikiTitle:adenocarcinoma, sebaceous	predictedType:Disease
+CANDIDATE	id:18267	inCount:0	outCount:1	links:	url:D018267	name:Carcinoma, Acinar Cell	normalName:carcinoma, acinar cell	normalWikiTitle:carcinoma, acinar cell	predictedType:Disease
+CANDIDATE	id:15266	inCount:0	outCount:3	links:	url:D015266	name:Carcinoma, Merkel Cell	normalName:carcinoma, merkel cell	normalWikiTitle:carcinoma, merkel cell	predictedType:Disease
+CANDIDATE	id:18280	inCount:0	outCount:2	links:	url:D018280	name:Carcinoma, Skin Appendage	normalName:carcinoma, skin appendage	normalWikiTitle:carcinoma, skin appendage	predictedType:Disease
+CANDIDATE	id:536474	inCount:0	outCount:2	links:	url:C536474	name:Urachal adenocarcinoma	normalName:urachal adenocarcinoma	normalWikiTitle:urachal adenocarcinoma	predictedType:Disease
+CANDIDATE	id:538557	inCount:0	outCount:1	links:	url:C538557	name:Renal cell carcinoma 1	normalName:renal cell carcinoma 1	normalWikiTitle:renal cell carcinoma 1	predictedType:Disease
+CANDIDATE	id:6258	inCount:8	outCount:1	links:	url:D006258	name:Head and Neck Cancer	normalName:head and neck cancer	normalWikiTitle:head and neck cancer	predictedType:Disease
+CANDIDATE	id:77195	inCount:0	outCount:2	links:	url:D000077195	name:Squamous Cell Carcinoma, Head And Neck	normalName:squamous cell carcinoma, head and neck	normalWikiTitle:squamous cell carcinoma, head and neck	predictedType:Disease
+CANDIDATE	id:77195	inCount:0	outCount:2	links:	url:D000077195	name:Head and Neck Squamous Cell Carcinoma	normalName:head and neck squamous cell carcinoma	normalWikiTitle:head and neck squamous cell carcinoma	predictedType:Disease
+ENTITY	text:sudden death	normalName:sudden death	predictedType:disease	q:true	qid:Q486	docId:3187073	origText:sudden death	url:D003645
+CANDIDATE	id:3645	inCount:5	outCount:1	links:2637	url:D003645	name:Death, Sudden	normalName:death, sudden	normalWikiTitle:death, sudden	predictedType:Disease
+ENTITY	text:atrial fibrillation	normalName:atrial fibrillation	predictedType:disease	q:true	qid:Q486	docId:3187073	origText:atrial fibrillation	url:D001281
+CANDIDATE	id:1281	inCount:16	outCount:1	links:2637;2318;14693;66126	url:D001281	name:Atrial Fibrillation	normalName:atrial fibrillation	normalWikiTitle:atrial fibrillation	predictedType:Disease

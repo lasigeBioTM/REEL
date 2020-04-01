@@ -1,0 +1,8 @@
+ENTITY	text:cephalothin	normalName:cephalothin	predictedType:chemical	q:true	qid:Q214	docId:1130930	origText:cephalothin	url:D002512
+CANDIDATE	id:2512	inCount:4	outCount:1	links:5839	url:D002512	name:Cephalothin	normalName:cephalothin	normalWikiTitle:cephalothin	predictedType:Chemical
+ENTITY	text:cephalothin sodium	normalName:cephalothin sodium	predictedType:chemical	q:true	qid:Q214	docId:1130930	origText:cephalothin sodium	url:D002512
+CANDIDATE	id:2512	inCount:4	outCount:1	links:5839	url:D002512	name:Cephalothin, Sodium	normalName:cephalothin, sodium	normalWikiTitle:cephalothin, sodium	predictedType:Chemical
+ENTITY	text:gentamicin	normalName:gentamicin	predictedType:chemical	q:true	qid:Q214	docId:1130930	origText:gentamicin	url:D005839
+CANDIDATE	id:5839	inCount:33	outCount:1	links:2512	url:D005839	name:Gentamicin	normalName:gentamicin	normalWikiTitle:gentamicin	predictedType:Chemical
+ENTITY	text:gentamicin sulfate	normalName:gentamicin sulfate	predictedType:chemical	q:true	qid:Q214	docId:1130930	origText:gentamicin sulfate	url:D005839
+CANDIDATE	id:5839	inCount:33	outCount:1	links:2512	url:D005839	name:Gentamicin Sulfate	normalName:gentamicin sulfate	normalWikiTitle:gentamicin sulfate	predictedType:Chemical

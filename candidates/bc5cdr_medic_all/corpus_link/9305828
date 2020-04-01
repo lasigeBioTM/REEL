@@ -1,0 +1,10 @@
+ENTITY	text:temporal lobe epilepsy	normalName:temporal lobe epilepsy	predictedType:disease	q:true	qid:Q906	docId:9305828	origText:temporal lobe epilepsy	url:D004833
+CANDIDATE	id:4833	inCount:9	outCount:2	links:13226;4827;12640	url:D004833	name:Epilepsy, Temporal Lobe	normalName:epilepsy, temporal lobe	normalWikiTitle:epilepsy, temporal lobe	predictedType:Disease
+ENTITY	text:seizure	normalName:seizure	predictedType:disease	q:true	qid:Q906	docId:9305828	origText:seizure	url:D012640
+CANDIDATE	id:12640	inCount:53	outCount:1	links:4833;13226;4827	url:D012640	name:Seizure	normalName:seizure	normalWikiTitle:seizure	predictedType:Disease
+ENTITY	text:epilepsy	normalName:epilepsy	predictedType:disease	q:true	qid:Q906	docId:9305828	origText:epilepsy	url:D004827
+CANDIDATE	id:4827	inCount:52	outCount:1	links:4833;13226;12640	url:D004827	name:Epilepsy	normalName:epilepsy	normalWikiTitle:epilepsy	predictedType:Disease
+ENTITY	text:seizures	normalName:seizures	predictedType:disease	q:true	qid:Q906	docId:9305828	origText:seizures	url:D012640
+CANDIDATE	id:12640	inCount:53	outCount:1	links:4833;13226;4827	url:D012640	name:Seizure	normalName:seizure	normalWikiTitle:seizure	predictedType:Disease
+ENTITY	text:status epilepticus	normalName:status epilepticus	predictedType:disease	q:true	qid:Q906	docId:9305828	origText:status epilepticus	url:D013226
+CANDIDATE	id:13226	inCount:1	outCount:1	links:4833;4827;12640	url:D013226	name:Status Epilepticus	normalName:status epilepticus	normalWikiTitle:status epilepticus	predictedType:Disease

@@ -1,0 +1,4 @@
+ENTITY	text:drug hypersensitivity	normalName:drug hypersensitivity	predictedType:disease	q:true	qid:Q117	docId:2818777	origText:drug hypersensitivity	url:D004342
+CANDIDATE	id:4342	inCount:3	outCount:2	links:17093	url:D004342	name:Drug Hypersensitivity	normalName:drug hypersensitivity	normalWikiTitle:drug hypersensitivity	predictedType:Disease
+ENTITY	text:hepatic failure	normalName:hepatic failure	predictedType:disease	q:true	qid:Q117	docId:2818777	origText:hepatic failure	url:D017093
+CANDIDATE	id:17093	inCount:5	outCount:1	links:4342	url:D017093	name:Hepatic Failure	normalName:hepatic failure	normalWikiTitle:hepatic failure	predictedType:Disease

@@ -1,0 +1,12 @@
+ENTITY	text:metoprolol	normalName:metoprolol	predictedType:chemical	q:true	qid:Q318	docId:1848636	origText:metoprolol	url:D008790
+CANDIDATE	id:8790	inCount:9	outCount:1	links:11188	url:D008790	name:Metoprolol	normalName:metoprolol	normalWikiTitle:metoprolol	predictedType:Chemical
+ENTITY	text:alpha-hydroxymetoprolol	normalName:alpha-hydroxymetoprolol	predictedType:chemical	q:true	qid:Q318	docId:1848636	origText:alpha-hydroxymetoprolol	url:C029504
+CANDIDATE	id:29504	inCount:0	outCount:1	links:	url:C029504	name:alpha-hydroxymetoprolol	normalName:alpha-hydroxymetoprolol	normalWikiTitle:alpha-hydroxymetoprolol	predictedType:Chemical
+ENTITY	text:Debrisoquine	normalName:debrisoquine	predictedType:chemical	q:true	qid:Q318	docId:1848636	origText:Debrisoquine	url:D003647
+CANDIDATE	id:3647	inCount:4	outCount:1	links:	url:D003647	name:Debrisoquine	normalName:debrisoquine	normalWikiTitle:debrisoquine	predictedType:Chemical
+ENTITY	text:terbutaline	normalName:terbutaline	predictedType:chemical	q:true	qid:Q318	docId:1848636	origText:terbutaline	url:D013726
+CANDIDATE	id:13726	inCount:8	outCount:1	links:	url:D013726	name:Terbutaline	normalName:terbutaline	normalWikiTitle:terbutaline	predictedType:Chemical
+ENTITY	text:sparteine	normalName:sparteine	predictedType:chemical	q:true	qid:Q318	docId:1848636	origText:sparteine	url:D013034
+CANDIDATE	id:13034	inCount:21	outCount:2	links:	url:D013034	name:Sparteine	normalName:sparteine	normalWikiTitle:sparteine	predictedType:Chemical
+ENTITY	text:potassium	normalName:potassium	predictedType:chemical	q:true	qid:Q318	docId:1848636	origText:potassium	url:D011188
+CANDIDATE	id:11188	inCount:10	outCount:2	links:8790	url:D011188	name:Potassium	normalName:potassium	normalWikiTitle:potassium	predictedType:Chemical

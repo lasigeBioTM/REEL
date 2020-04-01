@@ -1,0 +1,24 @@
+ENTITY	text:Apnea	normalName:apnea	predictedType:disease	q:true	qid:Q724	docId:12752472	origText:Apnea	url:D001049
+CANDIDATE	id:1049	inCount:3	outCount:2	links:	url:D001049	name:Apnea	normalName:apnea	normalWikiTitle:apnea	predictedType:Disease
+ENTITY	text:hyperventilation	normalName:hyperventilation	predictedType:disease	q:true	qid:Q724	docId:12752472	origText:hyperventilation	url:D006985
+CANDIDATE	id:6985	inCount:2	outCount:2	links:	url:D006985	name:Hyperventilation	normalName:hyperventilation	normalWikiTitle:hyperventilation	predictedType:Disease
+ENTITY	text:seizures	normalName:seizures	predictedType:disease	q:true	qid:Q724	docId:12752472	origText:seizures	url:D012640
+CANDIDATE	id:12640	inCount:53	outCount:1	links:	url:D012640	name:Seizure	normalName:seizure	normalWikiTitle:seizure	predictedType:Disease
+ENTITY	text:epilepsy	normalName:epilepsy	predictedType:disease	q:true	qid:Q724	docId:12752472	origText:epilepsy	url:D004827
+CANDIDATE	id:4827	inCount:52	outCount:1	links:4827	url:D004827	name:Epilepsy	normalName:epilepsy	normalWikiTitle:epilepsy	predictedType:Disease
+ENTITY	text:epileptic	normalName:epileptic	predictedType:disease	q:true	qid:Q724	docId:12752472	origText:epileptic	url:D004827
+CANDIDATE	id:4827	inCount:52	outCount:1	links:4827	url:D004827	name:Epilepsies	normalName:epilepsies	normalWikiTitle:epilepsies	predictedType:Disease
+CANDIDATE	id:4827	inCount:52	outCount:1	links:4827	url:D004827	name:Epilepsy	normalName:epilepsy	normalWikiTitle:epilepsy	predictedType:Disease
+CANDIDATE	id:13226	inCount:1	outCount:1	links:	url:D013226	name:Status Epilepticus	normalName:status epilepticus	normalWikiTitle:status epilepticus	predictedType:Disease
+CANDIDATE	id:73376	inCount:9	outCount:1	links:	url:D000073376	name:Epileptic Syndromes	normalName:epileptic syndromes	normalWikiTitle:epileptic syndromes	predictedType:Disease
+CANDIDATE	id:7079	inCount:1	outCount:2	links:	url:D007079	name:Ileitis	normalName:ileitis	normalWikiTitle:ileitis	predictedType:Disease
+CANDIDATE	id:19305	inCount:3	outCount:2	links:	url:D019305	name:Epilepsy, Rolandic	normalName:epilepsy, rolandic	normalWikiTitle:epilepsy, rolandic	predictedType:Disease
+CANDIDATE	id:4479	inCount:12	outCount:2	links:	url:D004479	name:Ectopia Lentis	normalName:ectopia lentis	normalWikiTitle:ectopia lentis	predictedType:Disease
+CANDIDATE	id:15845	inCount:1	outCount:1	links:	url:D015845	name:Tonic Pupil	normalName:tonic pupil	normalWikiTitle:tonic pupil	predictedType:Disease
+CANDIDATE	id:4830	inCount:1	outCount:1	links:	url:D004830	name:Epilepsy, Tonic-Clonic	normalName:epilepsy, tonic-clonic	normalWikiTitle:epilepsy, tonic-clonic	predictedType:Disease
+CANDIDATE	id:4942	inCount:0	outCount:2	links:	url:D004942	name:Esophagitis, Peptic	normalName:esophagitis, peptic	normalWikiTitle:esophagitis, peptic	predictedType:Disease
+CANDIDATE	id:4828	inCount:9	outCount:1	links:	url:D004828	name:Epilepsies, Partial	normalName:epilepsies, partial	normalWikiTitle:epilepsies, partial	predictedType:Disease
+CANDIDATE	id:4829	inCount:20	outCount:1	links:	url:D004829	name:Tonic Epilepsy	normalName:tonic epilepsy	normalWikiTitle:tonic epilepsy	predictedType:Disease
+CANDIDATE	id:4829	inCount:20	outCount:1	links:	url:D004829	name:Epilepsy, Tonic	normalName:epilepsy, tonic	normalWikiTitle:epilepsy, tonic	predictedType:Disease
+CANDIDATE	id:4829	inCount:20	outCount:1	links:	url:D004829	name:Epilepsies, Tonic	normalName:epilepsies, tonic	normalWikiTitle:epilepsies, tonic	predictedType:Disease
+CANDIDATE	id:4829	inCount:20	outCount:1	links:	url:D004829	name:Tonic Epilepsies	normalName:tonic epilepsies	normalWikiTitle:tonic epilepsies	predictedType:Disease

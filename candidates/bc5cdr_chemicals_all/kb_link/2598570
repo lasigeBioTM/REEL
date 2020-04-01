@@ -1,0 +1,6 @@
+ENTITY	text:ibuprofen	normalName:ibuprofen	predictedType:chemical	q:true	qid:Q402	docId:2598570	origText:ibuprofen	url:D007052
+CANDIDATE	id:7052	inCount:34	outCount:1	links:	url:D007052	name:Ibuprofen	normalName:ibuprofen	normalWikiTitle:ibuprofen	predictedType:Chemical
+ENTITY	text:uric acid	normalName:uric acid	predictedType:chemical	q:true	qid:Q402	docId:2598570	origText:uric acid	url:D014527
+CANDIDATE	id:14527	inCount:21	outCount:1	links:	url:D014527	name:Uric Acid	normalName:uric acid	normalWikiTitle:uric acid	predictedType:Chemical
+ENTITY	text:suprofen	normalName:suprofen	predictedType:chemical	q:true	qid:Q402	docId:2598570	origText:suprofen	url:D013496
+CANDIDATE	id:13496	inCount:4	outCount:1	links:	url:D013496	name:Suprofen	normalName:suprofen	normalWikiTitle:suprofen	predictedType:Chemical

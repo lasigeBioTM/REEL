@@ -1,0 +1,17 @@
+ENTITY	text:parkinsonian	normalName:parkinsonian	predictedType:disease	q:true	qid:Q265	docId:12231232	origText:parkinsonian	url:D010300
+CANDIDATE	id:10300	inCount:31	outCount:2	links:	url:D010300	name:Parkinson Disease	normalName:parkinson disease	normalWikiTitle:parkinson disease	predictedType:Disease
+CANDIDATE	id:20734	inCount:10	outCount:2	links:	url:D020734	name:Parkinsonian Disorders	normalName:parkinsonian disorders	normalWikiTitle:parkinsonian disorders	predictedType:Disease
+CANDIDATE	id:20447	inCount:7	outCount:1	links:	url:D020447	name:Parasomnias	normalName:parasomnias	normalWikiTitle:parasomnias	predictedType:Disease
+CANDIDATE	id:11041	inCount:14	outCount:1	links:	url:D011041	name:Poisoning	normalName:poisoning	normalWikiTitle:poisoning	predictedType:Disease
+CANDIDATE	id:535845	inCount:0	outCount:1	links:	url:C535845	name:Hawkinsinuria	normalName:hawkinsinuria	normalWikiTitle:hawkinsinuria	predictedType:Disease
+CANDIDATE	id:10304	inCount:0	outCount:2	links:	url:D010304	name:Paronychia	normalName:paronychia	normalWikiTitle:paronychia	predictedType:Disease
+CANDIDATE	id:18476	inCount:1	outCount:1	links:	url:D018476	name:Hypokinesia	normalName:hypokinesia	normalWikiTitle:hypokinesia	predictedType:Disease
+CANDIDATE	id:839	inCount:0	outCount:1	links:	url:D000839	name:Aniseikonia	normalName:aniseikonia	normalWikiTitle:aniseikonia	predictedType:Disease
+CANDIDATE	id:537438	inCount:0	outCount:1	links:	url:C537438	name:Arrhinia	normalName:arrhinia	normalWikiTitle:arrhinia	predictedType:Disease
+CANDIDATE	id:10939	inCount:4	outCount:1	links:	url:D010939	name:Plant Poisoning	normalName:plant poisoning	normalWikiTitle:plant poisoning	predictedType:Disease
+CANDIDATE	id:20734	inCount:10	outCount:2	links:	url:D020734	name:Parkinsonism	normalName:parkinsonism	normalWikiTitle:parkinsonism	predictedType:Disease
+CANDIDATE	id:20734	inCount:10	outCount:2	links:	url:D020734	name:Parkinsonian Syndrome	normalName:parkinsonian syndrome	normalWikiTitle:parkinsonian syndrome	predictedType:Disease
+CANDIDATE	id:20447	inCount:7	outCount:1	links:	url:D020447	name:Parasomnia	normalName:parasomnia	normalWikiTitle:parasomnia	predictedType:Disease
+CANDIDATE	id:20734	inCount:10	outCount:2	links:	url:D020734	name:Parkinsonian Diseases	normalName:parkinsonian diseases	normalWikiTitle:parkinsonian diseases	predictedType:Disease
+ENTITY	text:muscle rigidity	normalName:muscle rigidity	predictedType:disease	q:true	qid:Q265	docId:12231232	origText:muscle rigidity	url:D009127
+CANDIDATE	id:9127	inCount:3	outCount:2	links:	url:D009127	name:Muscle Rigidity	normalName:muscle rigidity	normalWikiTitle:muscle rigidity	predictedType:Disease

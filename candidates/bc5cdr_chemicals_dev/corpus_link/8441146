@@ -1,0 +1,4 @@
+ENTITY	text:gold	normalName:gold	predictedType:chemical	q:true	qid:Q363	docId:8441146	origText:gold	url:D006046
+CANDIDATE	id:6046	inCount:8	outCount:2	links:10396	url:D006046	name:Gold	normalName:gold	normalWikiTitle:gold	predictedType:Chemical
+ENTITY	text:D-penicillamine	normalName:d-penicillamine	predictedType:chemical	q:true	qid:Q363	docId:8441146	origText:D-penicillamine	url:D010396
+CANDIDATE	id:10396	inCount:23	outCount:1	links:6046	url:D010396	name:D-Penicillamine	normalName:d-penicillamine	normalWikiTitle:d-penicillamine	predictedType:Chemical

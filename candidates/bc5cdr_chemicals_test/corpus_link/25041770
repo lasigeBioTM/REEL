@@ -1,0 +1,4 @@
+ENTITY	text:simvastatin	normalName:simvastatin	predictedType:chemical	q:true	qid:Q179	docId:25041770	origText:simvastatin	url:D019821
+CANDIDATE	id:19821	inCount:7	outCount:1	links:17291	url:D019821	name:Simvastatin	normalName:simvastatin	normalWikiTitle:simvastatin	predictedType:Chemical
+ENTITY	text:clarithromycin	normalName:clarithromycin	predictedType:chemical	q:true	qid:Q179	docId:25041770	origText:clarithromycin	url:D017291
+CANDIDATE	id:17291	inCount:3	outCount:1	links:19821	url:D017291	name:Clarithromycin	normalName:clarithromycin	normalWikiTitle:clarithromycin	predictedType:Chemical

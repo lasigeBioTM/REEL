@@ -1,0 +1,10 @@
+ENTITY	text:hypothermia	normalName:hypothermia	predictedType:disease	q:true	qid:Q1156	docId:6308526	origText:hypothermia	url:D007035
+CANDIDATE	id:7035	inCount:2	outCount:1	links:	url:D007035	name:Hypothermia	normalName:hypothermia	normalWikiTitle:hypothermia	predictedType:Disease
+ENTITY	text:bradycardia	normalName:bradycardia	predictedType:disease	q:true	qid:Q1156	docId:6308526	origText:bradycardia	url:D001919
+CANDIDATE	id:1919	inCount:0	outCount:1	links:	url:D001919	name:Bradycardia	normalName:bradycardia	normalWikiTitle:bradycardia	predictedType:Disease
+ENTITY	text:respiratory depression	normalName:respiratory depression	predictedType:disease	q:true	qid:Q1156	docId:6308526	origText:respiratory depression	url:D012131
+CANDIDATE	id:12131	inCount:13	outCount:1	links:	url:D012131	name:Respiratory Depression	normalName:respiratory depression	normalWikiTitle:respiratory depression	predictedType:Disease
+ENTITY	text:hypotension	normalName:hypotension	predictedType:disease	q:true	qid:Q1156	docId:6308526	origText:hypotension	url:D007022
+CANDIDATE	id:7022	inCount:3	outCount:1	links:	url:D007022	name:Hypotension	normalName:hypotension	normalWikiTitle:hypotension	predictedType:Disease
+ENTITY	text:catalepsy	normalName:catalepsy	predictedType:disease	q:true	qid:Q1156	docId:6308526	origText:catalepsy	url:D002375
+CANDIDATE	id:2375	inCount:0	outCount:1	links:	url:D002375	name:Catalepsy	normalName:catalepsy	normalWikiTitle:catalepsy	predictedType:Disease

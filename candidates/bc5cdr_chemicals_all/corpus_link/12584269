@@ -1,0 +1,8 @@
+ENTITY	text:tacrolimus	normalName:tacrolimus	predictedType:chemical	q:true	qid:Q867	docId:12584269	origText:tacrolimus	url:D016559
+CANDIDATE	id:16559	inCount:40	outCount:1	links:20123;16572	url:D016559	name:Tacrolimus	normalName:tacrolimus	normalWikiTitle:tacrolimus	predictedType:Chemical
+ENTITY	text:sirolimus	normalName:sirolimus	predictedType:chemical	q:true	qid:Q867	docId:12584269	origText:sirolimus	url:D020123
+CANDIDATE	id:20123	inCount:19	outCount:1	links:16572;16559	url:D020123	name:Sirolimus	normalName:sirolimus	normalWikiTitle:sirolimus	predictedType:Chemical
+ENTITY	text:cyclosporine A	normalName:cyclosporine a	predictedType:chemical	q:true	qid:Q867	docId:12584269	origText:cyclosporine A	url:D016572
+CANDIDATE	id:16572	inCount:14	outCount:1	links:20123;16559	url:D016572	name:Cyclosporine A	normalName:cyclosporine a	normalWikiTitle:cyclosporine a	predictedType:Chemical
+ENTITY	text:FK506	normalName:fk506	predictedType:chemical	q:true	qid:Q867	docId:12584269	origText:FK506	url:D016559
+CANDIDATE	id:16559	inCount:40	outCount:1	links:20123;16572	url:D016559	name:FK506	normalName:fk506	normalWikiTitle:fk506	predictedType:Chemical

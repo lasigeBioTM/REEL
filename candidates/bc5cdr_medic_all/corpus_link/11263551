@@ -1,0 +1,36 @@
+ENTITY	text:osteoporosis	normalName:osteoporosis	predictedType:disease	q:true	qid:Q210	docId:11263551	origText:osteoporosis	url:D010024
+CANDIDATE	id:10024	inCount:21	outCount:1	links:10146	url:D010024	name:Osteoporosis	normalName:osteoporosis	normalWikiTitle:osteoporosis	predictedType:Disease
+ENTITY	text:pain	normalName:pain	predictedType:disease	q:true	qid:Q210	docId:11263551	origText:pain	url:D010146
+CANDIDATE	id:10146	inCount:34	outCount:1	links:10024	url:D010146	name:Pain	normalName:pain	normalWikiTitle:pain	predictedType:Disease
+ENTITY	text:foot deformities	normalName:foot deformities	predictedType:disease	q:true	qid:Q210	docId:11263551	origText:foot deformities	url:D005530
+CANDIDATE	id:5530	inCount:9	outCount:1	links:	url:D005530	name:Foot Deformities	normalName:foot deformities	normalWikiTitle:foot deformities	predictedType:Disease
+ENTITY	text:stress fractures	normalName:stress fractures	predictedType:disease	q:true	qid:Q210	docId:11263551	origText:stress fractures	url:D015775
+CANDIDATE	id:15775	inCount:0	outCount:1	links:	url:D015775	name:Fractures, Stress	normalName:fractures, stress	normalWikiTitle:fractures, stress	predictedType:Disease
+ENTITY	text:gout	normalName:gout	predictedType:disease	q:true	qid:Q210	docId:11263551	origText:gout	url:D006073
+CANDIDATE	id:6073	inCount:6	outCount:4	links:	url:D006073	name:Gout	normalName:gout	normalWikiTitle:gout	predictedType:Disease
+ENTITY	text:polyneuropathy	normalName:polyneuropathy	predictedType:disease	q:true	qid:Q210	docId:11263551	origText:polyneuropathy	url:D011115
+CANDIDATE	id:11115	inCount:21	outCount:1	links:9336	url:D011115	name:Polyneuropathy	normalName:polyneuropathy	normalWikiTitle:polyneuropathy	predictedType:Disease
+ENTITY	text:avascular necrosis	normalName:avascular necrosis	predictedType:disease	q:true	qid:Q210	docId:11263551	origText:avascular necrosis	url:D010020
+CANDIDATE	id:10020	inCount:5	outCount:2	links:	url:D010020	name:Avascular Necrosis of Bone	normalName:avascular necrosis of bone	normalWikiTitle:avascular necrosis of bone	predictedType:Disease
+CANDIDATE	id:14381	inCount:1	outCount:2	links:	url:D014381	name:Tuberculosis, Cardiovascular	normalName:tuberculosis, cardiovascular	normalWikiTitle:tuberculosis, cardiovascular	predictedType:Disease
+CANDIDATE	id:53821	inCount:3	outCount:2	links:	url:D053821	name:Cardiovascular Infections	normalName:cardiovascular infections	normalWikiTitle:cardiovascular infections	predictedType:Disease
+CANDIDATE	id:12598	inCount:8	outCount:1	links:	url:D012598	name:Sclerosis	normalName:sclerosis	normalWikiTitle:sclerosis	predictedType:Disease
+CANDIDATE	id:5218	inCount:0	outCount:1	links:	url:D005218	name:Fat Necrosis	normalName:fat necrosis	normalWikiTitle:fat necrosis	predictedType:Disease
+CANDIDATE	id:14392	inCount:0	outCount:2	links:	url:D014392	name:Tuberculosis, Ocular	normalName:tuberculosis, ocular	normalWikiTitle:tuberculosis, ocular	predictedType:Disease
+CANDIDATE	id:2318	inCount:5	outCount:1	links:	url:D002318	name:Cardiovascular Diseases	normalName:cardiovascular diseases	normalWikiTitle:cardiovascular diseases	predictedType:Disease
+CANDIDATE	id:13589	inCount:0	outCount:2	links:	url:D013589	name:Syphilis, Cardiovascular	normalName:syphilis, cardiovascular	normalWikiTitle:syphilis, cardiovascular	predictedType:Disease
+CANDIDATE	id:9336	inCount:6	outCount:1	links:11115	url:D009336	name:Necrosis	normalName:necrosis	normalWikiTitle:necrosis	predictedType:Disease
+CANDIDATE	id:15827	inCount:0	outCount:2	links:	url:D015827	name:Onchocerciasis, Ocular	normalName:onchocerciasis, ocular	normalWikiTitle:onchocerciasis, ocular	predictedType:Disease
+CANDIDATE	id:45463	inCount:1	outCount:1	links:	url:D045463	name:Avulavirus Infections	normalName:avulavirus infections	normalWikiTitle:avulavirus infections	predictedType:Disease
+CANDIDATE	id:10020	inCount:5	outCount:2	links:	url:D010020	name:Bone Avascular Necrosis	normalName:bone avascular necrosis	normalWikiTitle:bone avascular necrosis	predictedType:Disease
+CANDIDATE	id:10020	inCount:5	outCount:2	links:	url:D010020	name:Necrosis, Avascular, of Bone	normalName:necrosis, avascular, of bone	normalWikiTitle:necrosis, avascular, of bone	predictedType:Disease
+CANDIDATE	id:6461	inCount:2	outCount:1	links:	url:D006461	name:Extravascular Hemolysis	normalName:extravascular hemolysis	normalWikiTitle:extravascular hemolysis	predictedType:Disease
+CANDIDATE	id:6461	inCount:2	outCount:1	links:	url:D006461	name:Hemolysis, Extravascular	normalName:hemolysis, extravascular	normalWikiTitle:hemolysis, extravascular	predictedType:Disease
+CANDIDATE	id:5271	inCount:1	outCount:1	links:	url:D005271	name:Necrosis, Avascular, of Femur Head	normalName:necrosis, avascular, of femur head	normalWikiTitle:necrosis, avascular, of femur head	predictedType:Disease
+CANDIDATE	id:5271	inCount:1	outCount:1	links:	url:D005271	name:Avascular Necrosis of Femur Head	normalName:avascular necrosis of femur head	normalWikiTitle:avascular necrosis of femur head	predictedType:Disease
+ENTITY	text:hyperparathyroidism	normalName:hyperparathyroidism	predictedType:disease	q:true	qid:Q210	docId:11263551	origText:hyperparathyroidism	url:D006961
+CANDIDATE	id:6961	inCount:5	outCount:1	links:	url:D006961	name:Hyperparathyroidism	normalName:hyperparathyroidism	normalWikiTitle:hyperparathyroidism	predictedType:Disease
+ENTITY	text:reflex sympathetic dystrophy	normalName:reflex sympathetic dystrophy	predictedType:disease	q:true	qid:Q210	docId:11263551	origText:reflex sympathetic dystrophy	url:D012019
+CANDIDATE	id:12019	inCount:0	outCount:1	links:	url:D012019	name:Reflex Sympathetic Dystrophy	normalName:reflex sympathetic dystrophy	normalWikiTitle:reflex sympathetic dystrophy	predictedType:Disease
+ENTITY	text:intermittent claudication	normalName:intermittent claudication	predictedType:disease	q:true	qid:Q210	docId:11263551	origText:intermittent claudication	url:D007383
+CANDIDATE	id:7383	inCount:0	outCount:2	links:	url:D007383	name:Intermittent Claudication	normalName:intermittent claudication	normalWikiTitle:intermittent claudication	predictedType:Disease

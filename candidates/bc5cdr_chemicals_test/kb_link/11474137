@@ -1,0 +1,31 @@
+ENTITY	text:superoxide	normalName:superoxide	predictedType:chemical	q:true	qid:Q346	docId:11474137	origText:superoxide	url:D013481
+CANDIDATE	id:13481	inCount:1	outCount:1	links:	url:D013481	name:Superoxide	normalName:superoxide	normalWikiTitle:superoxide	predictedType:Chemical
+ENTITY	text:zinc	normalName:zinc	predictedType:chemical	q:true	qid:Q346	docId:11474137	origText:zinc	url:D015032
+CANDIDATE	id:15032	inCount:17	outCount:2	links:15032	url:D015032	name:Zinc	normalName:zinc	normalWikiTitle:zinc	predictedType:Chemical
+ENTITY	text:iron	normalName:iron	predictedType:chemical	q:true	qid:Q346	docId:11474137	origText:iron	url:D007501
+CANDIDATE	id:7501	inCount:40	outCount:2	links:	url:D007501	name:Iron	normalName:iron	normalWikiTitle:iron	predictedType:Chemical
+ENTITY	text:aminoglycoside	normalName:aminoglycoside	predictedType:chemical	q:true	qid:Q346	docId:11474137	origText:aminoglycoside	url:D000617
+CANDIDATE	id:617	inCount:339	outCount:1	links:	url:D000617	name:Aminoglycosides	normalName:aminoglycosides	normalWikiTitle:aminoglycosides	predictedType:Chemical
+CANDIDATE	id:572445	inCount:0	outCount:2	links:	url:C572445	name:aminoglycoside NB84	normalName:aminoglycoside nb84	normalWikiTitle:aminoglycoside nb84	predictedType:Chemical
+CANDIDATE	id:20970	inCount:0	outCount:1	links:	url:C020970	name:aminoglycogen	normalName:aminoglycogen	normalWikiTitle:aminoglycogen	predictedType:Chemical
+CANDIDATE	id:15614	inCount:0	outCount:1	links:	url:C015614	name:aminoglycoside 66-40C	normalName:aminoglycoside 66-40c	normalWikiTitle:aminoglycoside 66-40c	predictedType:Chemical
+CANDIDATE	id:5351	inCount:0	outCount:1	links:	url:C005351	name:1-aminoglucose	normalName:1-aminoglucose	normalWikiTitle:1-aminoglucose	predictedType:Chemical
+CANDIDATE	id:13865	inCount:33	outCount:2	links:	url:D013865	name:Thioglycosides	normalName:thioglycosides	normalWikiTitle:thioglycosides	predictedType:Chemical
+CANDIDATE	id:87807	inCount:0	outCount:1	links:	url:C087807	name:daucoglycoside	normalName:daucoglycoside	normalWikiTitle:daucoglycoside	predictedType:Chemical
+CANDIDATE	id:33013	inCount:0	outCount:1	links:	url:C033013	name:iminoglycine	normalName:iminoglycine	normalWikiTitle:iminoglycine	predictedType:Chemical
+CANDIDATE	id:507900	inCount:0	outCount:1	links:	url:C507900	name:diaminoglyoxime	normalName:diaminoglyoxime	normalWikiTitle:diaminoglyoxime	predictedType:Chemical
+CANDIDATE	id:51618	inCount:0	outCount:1	links:	url:C051618	name:mycoside A	normalName:mycoside a	normalWikiTitle:mycoside a	predictedType:Chemical
+ENTITY	text:kanamycin	normalName:kanamycin	predictedType:chemical	q:true	qid:Q346	docId:11474137	origText:kanamycin	url:D007612
+CANDIDATE	id:7612	inCount:29	outCount:1	links:	url:D007612	name:Kanamycin	normalName:kanamycin	normalWikiTitle:kanamycin	predictedType:Chemical
+ENTITY	text:copper	normalName:copper	predictedType:chemical	q:true	qid:Q346	docId:11474137	origText:copper	url:D003300
+CANDIDATE	id:3300	inCount:62	outCount:2	links:	url:D003300	name:Copper	normalName:copper	normalWikiTitle:copper	predictedType:Chemical
+ENTITY	text:oxygen	normalName:oxygen	predictedType:chemical	q:true	qid:Q346	docId:11474137	origText:oxygen	url:D010100
+CANDIDATE	id:10100	inCount:11	outCount:2	links:	url:D010100	name:Oxygen	normalName:oxygen	normalWikiTitle:oxygen	predictedType:Chemical
+ENTITY	text:Zn	normalName:zn	predictedType:chemical	q:true	qid:Q346	docId:11474137	origText:Zn	url:D015032
+CANDIDATE	id:15032	inCount:17	outCount:2	links:15032	url:D015032	name:Zinc	normalName:zinc	normalWikiTitle:zinc	predictedType:Chemical
+CANDIDATE	id:38646	inCount:0	outCount:1	links:	url:C038646	name:Zonyl	normalName:zonyl	normalWikiTitle:zonyl	predictedType:Chemical
+CANDIDATE	id:15038	inCount:13	outCount:2	links:	url:D015038	name:Zineb	normalName:zineb	normalWikiTitle:zineb	predictedType:Chemical
+CANDIDATE	id:10126	inCount:5	outCount:1	links:	url:D010126	name:Ozone	normalName:ozone	normalWikiTitle:ozone	predictedType:Chemical
+CANDIDATE	id:511723	inCount:0	outCount:1	links:	url:C511723	name:zodin	normalName:zodin	normalWikiTitle:zodin	predictedType:Chemical
+CANDIDATE	id:60351	inCount:0	outCount:2	links:	url:C060351	name:NC 5Z	normalName:nc 5z	normalWikiTitle:nc 5z	predictedType:Chemical
+CANDIDATE	id:10423	inCount:0	outCount:2	links:	url:C010423	name:ZNP	normalName:znp	normalWikiTitle:znp	predictedType:Chemical

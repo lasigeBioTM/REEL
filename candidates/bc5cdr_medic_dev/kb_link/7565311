@@ -1,0 +1,4 @@
+ENTITY	text:Acute renal failure	normalName:acute renal failure	predictedType:disease	q:true	qid:Q465	docId:7565311	origText:Acute renal failure	url:D058186
+CANDIDATE	id:58186	inCount:2	outCount:1	links:	url:D058186	name:Acute Renal Failure	normalName:acute renal failure	normalWikiTitle:acute renal failure	predictedType:Disease
+ENTITY	text:embryonal rhabdomyosarcoma	normalName:embryonal rhabdomyosarcoma	predictedType:disease	q:true	qid:Q465	docId:7565311	origText:embryonal rhabdomyosarcoma	url:D018233
+CANDIDATE	id:18233	inCount:0	outCount:1	links:	url:D018233	name:Rhabdomyosarcoma, Embryonal	normalName:rhabdomyosarcoma, embryonal	normalWikiTitle:rhabdomyosarcoma, embryonal	predictedType:Disease

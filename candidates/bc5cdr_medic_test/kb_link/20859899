@@ -1,0 +1,10 @@
+ENTITY	text:bradycardia	normalName:bradycardia	predictedType:disease	q:true	qid:Q107	docId:20859899	origText:bradycardia	url:D001919
+CANDIDATE	id:1919	inCount:0	outCount:1	links:	url:D001919	name:Bradycardia	normalName:bradycardia	normalWikiTitle:bradycardia	predictedType:Disease
+ENTITY	text:Syncope	normalName:syncope	predictedType:disease	q:true	qid:Q107	docId:20859899	origText:Syncope	url:D013575
+CANDIDATE	id:13575	inCount:2	outCount:1	links:	url:D013575	name:Syncope	normalName:syncope	normalWikiTitle:syncope	predictedType:Disease
+ENTITY	text:myocardial infarction	normalName:myocardial infarction	predictedType:disease	q:true	qid:Q107	docId:20859899	origText:myocardial infarction	url:D009203
+CANDIDATE	id:9203	inCount:8	outCount:1	links:	url:D009203	name:Myocardial Infarction	normalName:myocardial infarction	normalWikiTitle:myocardial infarction	predictedType:Disease
+ENTITY	text:hyperkalemia	normalName:hyperkalemia	predictedType:disease	q:true	qid:Q107	docId:20859899	origText:hyperkalemia	url:D006947
+CANDIDATE	id:6947	inCount:4	outCount:1	links:	url:D006947	name:Hyperkalemia	normalName:hyperkalemia	normalWikiTitle:hyperkalemia	predictedType:Disease
+ENTITY	text:loss of consciousness	normalName:loss of consciousness	predictedType:disease	q:true	qid:Q107	docId:20859899	origText:loss of consciousness	url:D014474
+CANDIDATE	id:14474	inCount:4	outCount:1	links:	url:D014474	name:Consciousness, Loss of	normalName:consciousness, loss of	normalWikiTitle:consciousness, loss of	predictedType:Disease

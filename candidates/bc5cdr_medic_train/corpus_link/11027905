@@ -1,0 +1,31 @@
+ENTITY	text:vomiting	normalName:vomiting	predictedType:disease	q:true	qid:Q89	docId:11027905	origText:vomiting	url:D014839
+CANDIDATE	id:14839	inCount:7	outCount:1	links:9325;10146;6212	url:D014839	name:Vomiting	normalName:vomiting	normalWikiTitle:vomiting	predictedType:Disease
+ENTITY	text:neuropathic pain	normalName:neuropathic pain	predictedType:disease	q:true	qid:Q89	docId:11027905	origText:neuropathic pain	url:D009437
+CANDIDATE	id:9437	inCount:6	outCount:2	links:	url:D009437	name:Pain, Neuropathic	normalName:pain, neuropathic	normalWikiTitle:pain, neuropathic	predictedType:Disease
+ENTITY	text:nausea	normalName:nausea	predictedType:disease	q:true	qid:Q89	docId:11027905	origText:nausea	url:D009325
+CANDIDATE	id:9325	inCount:2	outCount:1	links:14839;10146;6212	url:D009325	name:Nausea	normalName:nausea	normalWikiTitle:nausea	predictedType:Disease
+ENTITY	text:Pain	normalName:pain	predictedType:disease	q:true	qid:Q89	docId:11027905	origText:Pain	url:D010146
+CANDIDATE	id:10146	inCount:34	outCount:1	links:14839;3221;9325	url:D010146	name:Pain	normalName:pain	normalWikiTitle:pain	predictedType:Disease
+ENTITY	text:Hallucinations	normalName:hallucinations	predictedType:disease	q:true	qid:Q89	docId:11027905	origText:Hallucinations	url:D006212
+CANDIDATE	id:6212	inCount:1	outCount:1	links:14839;9325	url:D006212	name:Hallucinations	normalName:hallucinations	normalWikiTitle:hallucinations	predictedType:Disease
+ENTITY	text:confusion	normalName:confusion	predictedType:disease	q:true	qid:Q89	docId:11027905	origText:confusion	url:D003221
+CANDIDATE	id:3221	inCount:2	outCount:1	links:10146	url:D003221	name:Confusion	normalName:confusion	normalWikiTitle:confusion	predictedType:Disease
+ENTITY	text:cancer	normalName:cancer	predictedType:disease	q:true	qid:Q89	docId:11027905	origText:cancer	url:D009369
+CANDIDATE	id:9369	inCount:18	outCount:1	links:	url:D009369	name:Cancer	normalName:cancer	normalWikiTitle:cancer	predictedType:Disease
+ENTITY	text:dry mouth	normalName:dry mouth	predictedType:disease	q:true	qid:Q89	docId:11027905	origText:dry mouth	url:D014987
+CANDIDATE	id:14987	inCount:1	outCount:1	links:	url:D014987	name:Mouth Dryness	normalName:mouth dryness	normalWikiTitle:mouth dryness	predictedType:Disease
+CANDIDATE	id:4368	inCount:0	outCount:1	links:	url:D004368	name:Dry Socket	normalName:dry socket	normalWikiTitle:dry socket	predictedType:Disease
+CANDIDATE	id:9059	inCount:32	outCount:1	links:	url:D009059	name:Mouth Diseases	normalName:mouth diseases	normalWikiTitle:mouth diseases	predictedType:Disease
+CANDIDATE	id:536607	inCount:0	outCount:1	links:	url:C536607	name:Brody myopathy	normalName:brody myopathy	normalWikiTitle:brody myopathy	predictedType:Disease
+CANDIDATE	id:9058	inCount:0	outCount:2	links:	url:D009058	name:Mouth Breathing	normalName:mouth breathing	normalWikiTitle:mouth breathing	predictedType:Disease
+CANDIDATE	id:9066	inCount:1	outCount:2	links:	url:D009066	name:Mouth, Edentulous	normalName:mouth, edentulous	normalWikiTitle:mouth, edentulous	predictedType:Disease
+CANDIDATE	id:536962	inCount:0	outCount:3	links:	url:C536962	name:Timothy syndrome	normalName:timothy syndrome	normalWikiTitle:timothy syndrome	predictedType:Disease
+CANDIDATE	id:9223	inCount:1	outCount:3	links:	url:D009223	name:Myotonic Dystrophy	normalName:myotonic dystrophy	normalWikiTitle:myotonic dystrophy	predictedType:Disease
+CANDIDATE	id:536748	inCount:0	outCount:2	links:	url:C536748	name:Worth syndrome	normalName:worth syndrome	normalWikiTitle:worth syndrome	predictedType:Disease
+CANDIDATE	id:14987	inCount:1	outCount:1	links:	url:D014987	name:Dryness, Mouth	normalName:dryness, mouth	normalWikiTitle:dryness, mouth	predictedType:Disease
+CANDIDATE	id:9062	inCount:6	outCount:2	links:	url:D009062	name:Cancer, Mouth	normalName:cancer, mouth	normalWikiTitle:cancer, mouth	predictedType:Disease
+CANDIDATE	id:9062	inCount:6	outCount:2	links:	url:D009062	name:Mouth Cancer	normalName:mouth cancer	normalWikiTitle:mouth cancer	predictedType:Disease
+CANDIDATE	id:9062	inCount:6	outCount:2	links:	url:D009062	name:Mouth Cancers	normalName:mouth cancers	normalWikiTitle:mouth cancers	predictedType:Disease
+CANDIDATE	id:9059	inCount:32	outCount:1	links:	url:D009059	name:Mouth Disease	normalName:mouth disease	normalWikiTitle:mouth disease	predictedType:Disease
+CANDIDATE	id:9062	inCount:6	outCount:2	links:	url:D009062	name:Cancers, Mouth	normalName:cancers, mouth	normalWikiTitle:cancers, mouth	predictedType:Disease
+CANDIDATE	id:9059	inCount:32	outCount:1	links:	url:D009059	name:Disease, Mouth	normalName:disease, mouth	normalWikiTitle:disease, mouth	predictedType:Disease

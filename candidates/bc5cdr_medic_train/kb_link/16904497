@@ -1,0 +1,4 @@
+ENTITY	text:radiculopathy	normalName:radiculopathy	predictedType:disease	q:true	qid:Q394	docId:16904497	origText:radiculopathy	url:D011843
+CANDIDATE	id:11843	inCount:0	outCount:1	links:	url:D011843	name:Radiculopathy	normalName:radiculopathy	normalWikiTitle:radiculopathy	predictedType:Disease
+ENTITY	text:numbness	normalName:numbness	predictedType:disease	q:true	qid:Q394	docId:16904497	origText:numbness	url:D006987
+CANDIDATE	id:6987	inCount:1	outCount:1	links:	url:D006987	name:Numbness	normalName:numbness	normalWikiTitle:numbness	predictedType:Disease

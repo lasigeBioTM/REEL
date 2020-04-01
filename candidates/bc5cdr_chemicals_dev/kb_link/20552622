@@ -1,0 +1,4 @@
+ENTITY	text:salbutamol	normalName:salbutamol	predictedType:chemical	q:true	qid:Q333	docId:20552622	origText:salbutamol	url:D000420
+CANDIDATE	id:420	inCount:12	outCount:2	links:	url:D000420	name:Salbutamol	normalName:salbutamol	normalWikiTitle:salbutamol	predictedType:Chemical
+ENTITY	text:atenolol	normalName:atenolol	predictedType:chemical	q:true	qid:Q333	docId:20552622	origText:atenolol	url:D001262
+CANDIDATE	id:1262	inCount:5	outCount:1	links:	url:D001262	name:Atenolol	normalName:atenolol	normalWikiTitle:atenolol	predictedType:Chemical

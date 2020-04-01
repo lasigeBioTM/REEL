@@ -1,0 +1,18 @@
+ENTITY	text:dopamine	normalName:dopamine	predictedType:chemical	q:true	qid:Q433	docId:17490790	origText:dopamine	url:D004298
+CANDIDATE	id:4298	inCount:90	outCount:2	links:	url:D004298	name:Dopamine	normalName:dopamine	normalWikiTitle:dopamine	predictedType:Chemical
+ENTITY	text:iron dextran	normalName:iron dextran	predictedType:chemical	q:true	qid:Q433	docId:17490790	origText:iron dextran	url:D007505
+CANDIDATE	id:7505	inCount:2	outCount:2	links:	url:D007505	name:Iron-Dextran Complex	normalName:iron-dextran complex	normalWikiTitle:iron-dextran complex	predictedType:Chemical
+CANDIDATE	id:68634	inCount:0	outCount:2	links:	url:C068634	name:dextran-NAD	normalName:dextran-nad	normalWikiTitle:dextran-nad	predictedType:Chemical
+CANDIDATE	id:51311	inCount:0	outCount:2	links:	url:C051311	name:rhodamine dextran	normalName:rhodamine dextran	normalWikiTitle:rhodamine dextran	predictedType:Chemical
+CANDIDATE	id:19266	inCount:0	outCount:1	links:	url:D019266	name:Iron, Dietary	normalName:iron, dietary	normalWikiTitle:iron, dietary	predictedType:Chemical
+CANDIDATE	id:44195	inCount:0	outCount:2	links:	url:C044195	name:insulin-dextran	normalName:insulin-dextran	normalWikiTitle:insulin-dextran	predictedType:Chemical
+CANDIDATE	id:28348	inCount:0	outCount:1	links:	url:C028348	name:estrandron	normalName:estrandron	normalWikiTitle:estrandron	predictedType:Chemical
+CANDIDATE	id:42790	inCount:0	outCount:2	links:	url:C042790	name:mitomycin C-dextran	normalName:mitomycin c-dextran	normalWikiTitle:mitomycin c-dextran	predictedType:Chemical
+CANDIDATE	id:9801	inCount:0	outCount:1	links:	url:C009801	name:stearoyl dextran	normalName:stearoyl dextran	normalWikiTitle:stearoyl dextran	predictedType:Chemical
+CANDIDATE	id:515608	inCount:0	outCount:1	links:	url:C515608	name:densiron	normalName:densiron	normalWikiTitle:densiron	predictedType:Chemical
+CANDIDATE	id:3912	inCount:7	outCount:1	links:	url:D003912	name:Dextrins	normalName:dextrins	normalWikiTitle:dextrins	predictedType:Chemical
+CANDIDATE	id:94094	inCount:0	outCount:2	links:	url:C094094	name:dextran-USPIO	normalName:dextran-uspio	normalWikiTitle:dextran-uspio	predictedType:Chemical
+ENTITY	text:Iron	normalName:iron	predictedType:chemical	q:true	qid:Q433	docId:17490790	origText:Iron	url:D007501
+CANDIDATE	id:7501	inCount:40	outCount:2	links:	url:D007501	name:Iron	normalName:iron	normalWikiTitle:iron	predictedType:Chemical
+ENTITY	text:tyrosine	normalName:tyrosine	predictedType:chemical	q:true	qid:Q433	docId:17490790	origText:tyrosine	url:D014443
+CANDIDATE	id:14443	inCount:271	outCount:1	links:	url:D014443	name:Tyrosine	normalName:tyrosine	normalWikiTitle:tyrosine	predictedType:Chemical

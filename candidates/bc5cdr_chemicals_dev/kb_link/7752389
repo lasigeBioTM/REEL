@@ -1,0 +1,33 @@
+ENTITY	text:SR 48,968	normalName:sr 48,968	predictedType:chemical	q:true	qid:Q243	docId:7752389	origText:SR 48,968	url:C073839
+CANDIDATE	id:73839	inCount:0	outCount:2	links:	url:C073839	name:SR 48968	normalName:sr 48968	normalWikiTitle:sr 48968	predictedType:Chemical
+CANDIDATE	id:471424	inCount:0	outCount:2	links:	url:C471424	name:SR 149568	normalName:sr 149568	normalWikiTitle:sr 149568	predictedType:Chemical
+CANDIDATE	id:480528	inCount:0	outCount:1	links:	url:C480528	name:SR 4668	normalName:sr 4668	normalWikiTitle:sr 4668	predictedType:Chemical
+CANDIDATE	id:114797	inCount:0	outCount:1	links:	url:C114797	name:SR 4895	normalName:sr 4895	normalWikiTitle:sr 4895	predictedType:Chemical
+CANDIDATE	id:110142	inCount:0	outCount:2	links:	url:C110142	name:Ro 48-8684	normalName:ro 48-8684	normalWikiTitle:ro 48-8684	predictedType:Chemical
+CANDIDATE	id:109442	inCount:0	outCount:1	links:	url:C109442	name:R 486	normalName:r 486	normalWikiTitle:r 486	predictedType:Chemical
+CANDIDATE	id:80164	inCount:0	outCount:1	links:	url:C080164	name:SC 49648	normalName:sc 49648	normalWikiTitle:sc 49648	predictedType:Chemical
+CANDIDATE	id:79087	inCount:0	outCount:2	links:	url:C079087	name:SR 48692	normalName:sr 48692	normalWikiTitle:sr 48692	predictedType:Chemical
+CANDIDATE	id:114947	inCount:0	outCount:2	links:	url:C114947	name:SR 142948	normalName:sr 142948	normalWikiTitle:sr 142948	predictedType:Chemical
+CANDIDATE	id:1747	inCount:0	outCount:1	links:	url:C001747	name:Ro 4-6824	normalName:ro 4-6824	normalWikiTitle:ro 4-6824	predictedType:Chemical
+ENTITY	text:PGE2	normalName:pge2	predictedType:chemical	q:true	qid:Q243	docId:7752389	origText:PGE2	url:D015232
+CANDIDATE	id:15232	inCount:51	outCount:1	links:15232	url:D015232	name:PGE2	normalName:pge2	normalWikiTitle:pge2	predictedType:Chemical
+ENTITY	text:tachykinins	normalName:tachykinins	predictedType:chemical	q:true	qid:Q243	docId:7752389	origText:tachykinins	url:D015320
+CANDIDATE	id:15320	inCount:41	outCount:3	links:	url:D015320	name:Tachykinins	normalName:tachykinins	normalWikiTitle:tachykinins	predictedType:Chemical
+ENTITY	text:Prostaglandin E2	normalName:prostaglandin e2	predictedType:chemical	q:true	qid:Q243	docId:7752389	origText:Prostaglandin E2	url:D015232
+CANDIDATE	id:15232	inCount:51	outCount:1	links:15232	url:D015232	name:Prostaglandin E2	normalName:prostaglandin e2	normalWikiTitle:prostaglandin e2	predictedType:Chemical
+ENTITY	text:Prostanoids	normalName:prostanoids	predictedType:chemical	q:true	qid:Q243	docId:7752389	origText:Prostanoids	url:D011453
+CANDIDATE	id:11453	inCount:31	outCount:1	links:	url:D011453	name:Prostanoids	normalName:prostanoids	normalWikiTitle:prostanoids	predictedType:Chemical
+ENTITY	text:prostaglandin (PG) E2	normalName:prostaglandin (pg) e2	predictedType:chemical	q:true	qid:Q243	docId:7752389	origText:prostaglandin (PG) E2	url:D015232
+CANDIDATE	id:15232	inCount:51	outCount:1	links:15232	url:D015232	name:Prostaglandin E2	normalName:prostaglandin e2	normalWikiTitle:prostaglandin e2	predictedType:Chemical
+CANDIDATE	id:11458	inCount:10	outCount:1	links:	url:D011458	name:Prostaglandins E	normalName:prostaglandins e	normalWikiTitle:prostaglandins e	predictedType:Chemical
+CANDIDATE	id:33246	inCount:0	outCount:1	links:	url:C033246	name:prostaglandin E3	normalName:prostaglandin e3	normalWikiTitle:prostaglandin e3	predictedType:Chemical
+CANDIDATE	id:15230	inCount:18	outCount:1	links:	url:D015230	name:Prostaglandin D2	normalName:prostaglandin d2	normalWikiTitle:prostaglandin d2	predictedType:Chemical
+CANDIDATE	id:44262	inCount:4	outCount:1	links:	url:D044262	name:Prostaglandin H2	normalName:prostaglandin h2	normalWikiTitle:prostaglandin h2	predictedType:Chemical
+CANDIDATE	id:42026	inCount:0	outCount:1	links:	url:C042026	name:prostaglandin B2	normalName:prostaglandin b2	normalWikiTitle:prostaglandin b2	predictedType:Chemical
+CANDIDATE	id:86635	inCount:0	outCount:1	links:	url:C086635	name:prostaglandin E0	normalName:prostaglandin e0	normalWikiTitle:prostaglandin e0	predictedType:Chemical
+CANDIDATE	id:38291	inCount:0	outCount:1	links:	url:C038291	name:prostaglandin G2	normalName:prostaglandin g2	normalWikiTitle:prostaglandin g2	predictedType:Chemical
+CANDIDATE	id:11462	inCount:2	outCount:1	links:	url:D011462	name:Prostaglandins G	normalName:prostaglandins g	normalWikiTitle:prostaglandins g	predictedType:Chemical
+CANDIDATE	id:100008	inCount:0	outCount:1	links:	url:C100008	name:prostaglandin A2	normalName:prostaglandin a2	normalWikiTitle:prostaglandin a2	predictedType:Chemical
+CANDIDATE	id:32515	inCount:0	outCount:1	links:	url:C032515	name:8,12-epi-prostaglandin E2	normalName:8,12-epi-prostaglandin e2	normalWikiTitle:8,12-epi-prostaglandin e2	predictedType:Chemical
+CANDIDATE	id:15232	inCount:51	outCount:1	links:15232	url:D015232	name:E2, Prostaglandin	normalName:e2, prostaglandin	normalWikiTitle:e2, prostaglandin	predictedType:Chemical
+CANDIDATE	id:11464	inCount:88	outCount:1	links:	url:D011464	name:Prostaglandin I(2)	normalName:prostaglandin i(2)	normalWikiTitle:prostaglandin i(2)	predictedType:Chemical

@@ -1,0 +1,21 @@
+ENTITY	text:edema	normalName:edema	predictedType:disease	q:true	qid:Q166	docId:6747681	origText:edema	url:D004487
+CANDIDATE	id:4487	inCount:6	outCount:1	links:	url:D004487	name:Edema	normalName:edema	normalWikiTitle:edema	predictedType:Disease
+ENTITY	text:tumor	normalName:tumor	predictedType:disease	q:true	qid:Q166	docId:6747681	origText:tumor	url:D009369
+CANDIDATE	id:9369	inCount:18	outCount:1	links:	url:D009369	name:Tumor	normalName:tumor	normalWikiTitle:tumor	predictedType:Disease
+ENTITY	text:loss of vision	normalName:loss of vision	predictedType:disease	q:true	qid:Q166	docId:6747681	origText:loss of vision	url:D014786
+CANDIDATE	id:14786	inCount:19	outCount:2	links:	url:D014786	name:Vision Disorders	normalName:vision disorders	normalWikiTitle:vision disorders	predictedType:Disease
+CANDIDATE	id:15354	inCount:0	outCount:1	links:	url:D015354	name:Vision, Low	normalName:vision, low	normalWikiTitle:vision, low	predictedType:Disease
+CANDIDATE	id:3117	inCount:12	outCount:2	links:	url:D003117	name:Color Vision Defects	normalName:color vision defects	normalWikiTitle:color vision defects	predictedType:Disease
+CANDIDATE	id:16388	inCount:0	outCount:2	links:	url:D016388	name:Tooth Loss	normalName:tooth loss	normalWikiTitle:tooth loss	predictedType:Disease
+CANDIDATE	id:7102	inCount:0	outCount:1	links:	url:D007102	name:Immersion Foot	normalName:immersion foot	normalWikiTitle:immersion foot	predictedType:Disease
+CANDIDATE	id:3428	inCount:2	outCount:2	links:	url:D003428	name:Cross Infection	normalName:cross infection	normalWikiTitle:cross infection	predictedType:Disease
+CANDIDATE	id:65710	inCount:0	outCount:1	links:	url:D065710	name:Glossoptosis	normalName:glossoptosis	normalWikiTitle:glossoptosis	predictedType:Disease
+CANDIDATE	id:7446	inCount:0	outCount:1	links:	url:D007446	name:Chromosome Inversion	normalName:chromosome inversion	normalWikiTitle:chromosome inversion	predictedType:Disease
+CANDIDATE	id:57066	inCount:0	outCount:2	links:	url:D057066	name:Low Tension Glaucoma	normalName:low tension glaucoma	normalWikiTitle:low tension glaucoma	predictedType:Disease
+CANDIDATE	id:536523	inCount:0	outCount:1	links:	url:C536523	name:Vagina, absence of	normalName:vagina, absence of	normalWikiTitle:vagina, absence of	predictedType:Disease
+ENTITY	text:retinal vasculitis	normalName:retinal vasculitis	predictedType:disease	q:true	qid:Q166	docId:6747681	origText:retinal vasculitis	url:D031300
+CANDIDATE	id:31300	inCount:1	outCount:2	links:	url:D031300	name:Retinal Vasculitis	normalName:retinal vasculitis	normalWikiTitle:retinal vasculitis	predictedType:Disease
+ENTITY	text:malignant gliomas	normalName:malignant gliomas	predictedType:disease	q:true	qid:Q166	docId:6747681	origText:malignant gliomas	url:D005910
+CANDIDATE	id:5910	inCount:8	outCount:1	links:	url:D005910	name:Glioma, Malignant	normalName:glioma, malignant	normalWikiTitle:glioma, malignant	predictedType:Disease
+ENTITY	text:astrocytomas	normalName:astrocytomas	predictedType:disease	q:true	qid:Q166	docId:6747681	origText:astrocytomas	url:D001254
+CANDIDATE	id:1254	inCount:4	outCount:1	links:	url:D001254	name:Astrocytomas	normalName:astrocytomas	normalWikiTitle:astrocytomas	predictedType:Disease

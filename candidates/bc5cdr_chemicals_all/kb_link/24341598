@@ -1,0 +1,23 @@
+ENTITY	text:diltiazem	normalName:diltiazem	predictedType:chemical	q:true	qid:Q379	docId:24341598	origText:diltiazem	url:D004110
+CANDIDATE	id:4110	inCount:19	outCount:1	links:	url:D004110	name:Diltiazem	normalName:diltiazem	normalWikiTitle:diltiazem	predictedType:Chemical
+ENTITY	text:calcium	normalName:calcium	predictedType:chemical	q:true	qid:Q379	docId:24341598	origText:calcium	url:D002118
+CANDIDATE	id:2118	inCount:11	outCount:2	links:	url:D002118	name:Calcium	normalName:calcium	normalWikiTitle:calcium	predictedType:Chemical
+ENTITY	text:sodium chloride	normalName:sodium chloride	predictedType:chemical	q:true	qid:Q379	docId:24341598	origText:sodium chloride	url:D012965
+CANDIDATE	id:12965	inCount:37	outCount:2	links:	url:D012965	name:Sodium Chloride	normalName:sodium chloride	normalWikiTitle:sodium chloride	predictedType:Chemical
+ENTITY	text:creatinine	normalName:creatinine	predictedType:chemical	q:true	qid:Q379	docId:24341598	origText:creatinine	url:D003404
+CANDIDATE	id:3404	inCount:8	outCount:1	links:	url:D003404	name:Creatinine	normalName:creatinine	normalWikiTitle:creatinine	predictedType:Chemical
+ENTITY	text:sodium bicarbonate	normalName:sodium bicarbonate	predictedType:chemical	q:true	qid:Q379	docId:24341598	origText:sodium bicarbonate	url:D017693
+CANDIDATE	id:17693	inCount:27	outCount:2	links:	url:D017693	name:Sodium Bicarbonate	normalName:sodium bicarbonate	normalWikiTitle:sodium bicarbonate	predictedType:Chemical
+ENTITY	text:dextrose	normalName:dextrose	predictedType:chemical	q:true	qid:Q379	docId:24341598	origText:dextrose	url:D005947
+CANDIDATE	id:5947	inCount:160	outCount:1	links:	url:D005947	name:Dextrose	normalName:dextrose	normalWikiTitle:dextrose	predictedType:Chemical
+ENTITY	text:contrast	normalName:contrast	predictedType:chemical	q:true	qid:Q379	docId:24341598	origText:contrast	url:D003287
+CANDIDATE	id:3287	inCount:0	outCount:2	links:	url:D003287	name:Contrast Media	normalName:contrast media	normalWikiTitle:contrast media	predictedType:Chemical
+CANDIDATE	id:33691	inCount:0	outCount:1	links:	url:C033691	name:contrapsin	normalName:contrapsin	normalWikiTitle:contrapsin	predictedType:Chemical
+CANDIDATE	id:502316	inCount:0	outCount:1	links:	url:C502316	name:cotransin	normalName:cotransin	normalWikiTitle:cotransin	predictedType:Chemical
+CANDIDATE	id:52800	inCount:0	outCount:1	links:	url:C052800	name:contortin	normalName:contortin	normalWikiTitle:contortin	predictedType:Chemical
+CANDIDATE	id:49675	inCount:0	outCount:1	links:	url:C049675	name:cantastim	normalName:cantastim	normalWikiTitle:cantastim	predictedType:Chemical
+CANDIDATE	id:631275	inCount:0	outCount:1	links:	url:C000631275	name:Ontruzant	normalName:ontruzant	normalWikiTitle:ontruzant	predictedType:Chemical
+CANDIDATE	id:52760	inCount:0	outCount:1	links:	url:C052760	name:contracon	normalName:contracon	normalWikiTitle:contracon	predictedType:Chemical
+CANDIDATE	id:66979	inCount:0	outCount:1	links:	url:C066979	name:contractin A	normalName:contractin a	normalWikiTitle:contractin a	predictedType:Chemical
+CANDIDATE	id:25174	inCount:0	outCount:1	links:	url:C025174	name:controphos	normalName:controphos	normalWikiTitle:controphos	predictedType:Chemical
+CANDIDATE	id:607405	inCount:0	outCount:1	links:	url:C000607405	name:contramutan N	normalName:contramutan n	normalWikiTitle:contramutan n	predictedType:Chemical

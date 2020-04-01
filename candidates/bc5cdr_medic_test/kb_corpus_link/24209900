@@ -1,0 +1,14 @@
+ENTITY	text:lymphoma	normalName:lymphoma	predictedType:disease	q:true	qid:Q223	docId:24209900	origText:lymphoma	url:D008223
+CANDIDATE	id:8223	inCount:8	outCount:2	links:	url:D008223	name:Lymphoma	normalName:lymphoma	normalWikiTitle:lymphoma	predictedType:Disease
+ENTITY	text:encephalopathy	normalName:encephalopathy	predictedType:disease	q:true	qid:Q223	docId:24209900	origText:encephalopathy	url:D001927
+CANDIDATE	id:1927	inCount:55	outCount:1	links:12640	url:D001927	name:Encephalopathy	normalName:encephalopathy	normalWikiTitle:encephalopathy	predictedType:Disease
+ENTITY	text:non-convulsive status epilepticus	normalName:non-convulsive status epilepticus	predictedType:disease	q:true	qid:Q223	docId:24209900	origText:non-convulsive status epilepticus	url:D013226
+CANDIDATE	id:13226	inCount:1	outCount:1	links:12640	url:D013226	name:Non Convulsive Status Epilepticus	normalName:non convulsive status epilepticus	normalWikiTitle:non convulsive status epilepticus	predictedType:Disease
+ENTITY	text:convulsions	normalName:convulsions	predictedType:disease	q:true	qid:Q223	docId:24209900	origText:convulsions	url:D012640
+CANDIDATE	id:12640	inCount:53	outCount:1	links:1927;13226	url:D012640	name:Convulsion	normalName:convulsion	normalWikiTitle:convulsion	predictedType:Disease
+ENTITY	text:sarcomas	normalName:sarcomas	predictedType:disease	q:true	qid:Q223	docId:24209900	origText:sarcomas	url:D012509
+CANDIDATE	id:12509	inCount:25	outCount:1	links:	url:D012509	name:Sarcoma	normalName:sarcoma	normalWikiTitle:sarcoma	predictedType:Disease
+ENTITY	text:cancers	normalName:cancers	predictedType:disease	q:true	qid:Q223	docId:24209900	origText:cancers	url:D009369
+CANDIDATE	id:9369	inCount:18	outCount:1	links:9369	url:D009369	name:Cancer	normalName:cancer	normalWikiTitle:cancer	predictedType:Disease
+ENTITY	text:Cancer	normalName:cancer	predictedType:disease	q:true	qid:Q223	docId:24209900	origText:Cancer	url:D009369
+CANDIDATE	id:9369	inCount:18	outCount:1	links:9369	url:D009369	name:Cancer	normalName:cancer	normalWikiTitle:cancer	predictedType:Disease

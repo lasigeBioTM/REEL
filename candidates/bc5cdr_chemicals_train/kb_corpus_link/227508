@@ -1,0 +1,6 @@
+ENTITY	text:alpha-methyldopa	normalName:alpha-methyldopa	predictedType:chemical	q:true	qid:Q485	docId:227508	origText:alpha-methyldopa	url:D008750
+CANDIDATE	id:8750	inCount:9	outCount:1	links:	url:D008750	name:alpha Methyldopa	normalName:alpha methyldopa	normalWikiTitle:alpha methyldopa	predictedType:Chemical
+ENTITY	text:clonidine	normalName:clonidine	predictedType:chemical	q:true	qid:Q485	docId:227508	origText:clonidine	url:D003000
+CANDIDATE	id:3000	inCount:39	outCount:1	links:	url:D003000	name:Clonidine	normalName:clonidine	normalWikiTitle:clonidine	predictedType:Chemical
+ENTITY	text:Naloxone	normalName:naloxone	predictedType:chemical	q:true	qid:Q485	docId:227508	origText:Naloxone	url:D009270
+CANDIDATE	id:9270	inCount:20	outCount:1	links:	url:D009270	name:Naloxone	normalName:naloxone	normalWikiTitle:naloxone	predictedType:Chemical

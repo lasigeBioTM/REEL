@@ -1,0 +1,6 @@
+ENTITY	text:BHA	normalName:bha	predictedType:chemical	q:true	qid:Q1042	docId:3131282	origText:BHA	url:D002083
+CANDIDATE	id:2083	inCount:8	outCount:1	links:2083	url:D002083	name:BHA	normalName:bha	normalWikiTitle:bha	predictedType:Chemical
+ENTITY	text:butylated hydroxyanisole	normalName:butylated hydroxyanisole	predictedType:chemical	q:true	qid:Q1042	docId:3131282	origText:butylated hydroxyanisole	url:D002083
+CANDIDATE	id:2083	inCount:8	outCount:1	links:2083	url:D002083	name:Butylated Hydroxyanisole	normalName:butylated hydroxyanisole	normalWikiTitle:butylated hydroxyanisole	predictedType:Chemical
+ENTITY	text:retinyl acetate	normalName:retinyl acetate	predictedType:chemical	q:true	qid:Q1042	docId:3131282	origText:retinyl acetate	url:C009166
+CANDIDATE	id:9166	inCount:0	outCount:2	links:	url:C009166	name:retinyl acetate	normalName:retinyl acetate	normalWikiTitle:retinyl acetate	predictedType:Chemical

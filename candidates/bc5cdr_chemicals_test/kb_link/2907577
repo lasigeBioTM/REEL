@@ -1,0 +1,18 @@
+ENTITY	text:8-phenyltheophylline	normalName:8-phenyltheophylline	predictedType:chemical	q:true	qid:Q476	docId:2907577	origText:8-phenyltheophylline	url:C028322
+CANDIDATE	id:28322	inCount:0	outCount:1	links:	url:C028322	name:8-phenyltheophylline	normalName:8-phenyltheophylline	normalWikiTitle:8-phenyltheophylline	predictedType:Chemical
+ENTITY	text:p-aminohippuric acid	normalName:p-aminohippuric acid	predictedType:chemical	q:true	qid:Q476	docId:2907577	origText:p-aminohippuric acid	url:D010130
+CANDIDATE	id:10130	inCount:0	outCount:2	links:	url:D010130	name:p-Aminohippuric Acid	normalName:p-aminohippuric acid	normalWikiTitle:p-aminohippuric acid	predictedType:Chemical
+ENTITY	text:Adenosine	normalName:adenosine	predictedType:chemical	q:true	qid:Q476	docId:2907577	origText:Adenosine	url:D000241
+CANDIDATE	id:241	inCount:475	outCount:2	links:	url:D000241	name:Adenosine	normalName:adenosine	normalWikiTitle:adenosine	predictedType:Chemical
+ENTITY	text:polyethylene glycol	normalName:polyethylene glycol	predictedType:chemical	q:true	qid:Q476	docId:2907577	origText:polyethylene glycol	url:D011092
+CANDIDATE	id:11092	inCount:714	outCount:1	links:	url:D011092	name:Polyethylene Glycol	normalName:polyethylene glycol	normalWikiTitle:polyethylene glycol	predictedType:Chemical
+ENTITY	text:enprofylline	normalName:enprofylline	predictedType:chemical	q:true	qid:Q476	docId:2907577	origText:enprofylline	url:C034347
+CANDIDATE	id:34347	inCount:0	outCount:1	links:	url:C034347	name:enprofylline	normalName:enprofylline	normalWikiTitle:enprofylline	predictedType:Chemical
+ENTITY	text:gentamicin	normalName:gentamicin	predictedType:chemical	q:true	qid:Q476	docId:2907577	origText:gentamicin	url:D005839
+CANDIDATE	id:5839	inCount:33	outCount:1	links:	url:D005839	name:Gentamicin	normalName:gentamicin	normalWikiTitle:gentamicin	predictedType:Chemical
+ENTITY	text:urea	normalName:urea	predictedType:chemical	q:true	qid:Q476	docId:2907577	origText:urea	url:D014508
+CANDIDATE	id:14508	inCount:401	outCount:1	links:	url:D014508	name:Urea	normalName:urea	normalWikiTitle:urea	predictedType:Chemical
+ENTITY	text:creatinine	normalName:creatinine	predictedType:chemical	q:true	qid:Q476	docId:2907577	origText:creatinine	url:D003404
+CANDIDATE	id:3404	inCount:8	outCount:1	links:	url:D003404	name:Creatinine	normalName:creatinine	normalWikiTitle:creatinine	predictedType:Chemical
+ENTITY	text:theophylline	normalName:theophylline	predictedType:chemical	q:true	qid:Q476	docId:2907577	origText:theophylline	url:D013806
+CANDIDATE	id:13806	inCount:113	outCount:1	links:	url:D013806	name:Theophylline	normalName:theophylline	normalWikiTitle:theophylline	predictedType:Chemical

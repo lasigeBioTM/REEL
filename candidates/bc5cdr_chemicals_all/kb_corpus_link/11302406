@@ -1,0 +1,4 @@
+ENTITY	text:Fluconazole	normalName:fluconazole	predictedType:chemical	q:true	qid:Q737	docId:11302406	origText:Fluconazole	url:D015725
+CANDIDATE	id:15725	inCount:2	outCount:1	links:11188	url:D015725	name:Fluconazole	normalName:fluconazole	normalWikiTitle:fluconazole	predictedType:Chemical
+ENTITY	text:potassium	normalName:potassium	predictedType:chemical	q:true	qid:Q737	docId:11302406	origText:potassium	url:D011188
+CANDIDATE	id:11188	inCount:10	outCount:2	links:15725	url:D011188	name:Potassium	normalName:potassium	normalWikiTitle:potassium	predictedType:Chemical

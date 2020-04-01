@@ -1,0 +1,32 @@
+ENTITY	text:lethargy	normalName:lethargy	predictedType:disease	q:true	qid:Q1469	docId:1424076	origText:lethargy	url:D053609
+CANDIDATE	id:53609	inCount:0	outCount:1	links:	url:D053609	name:Lethargy	normalName:lethargy	normalWikiTitle:lethargy	predictedType:Disease
+ENTITY	text:hyponatremia	normalName:hyponatremia	predictedType:disease	q:true	qid:Q1469	docId:1424076	origText:hyponatremia	url:D007010
+CANDIDATE	id:7010	inCount:1	outCount:1	links:	url:D007010	name:Hyponatremia	normalName:hyponatremia	normalWikiTitle:hyponatremia	predictedType:Disease
+ENTITY	text:weakness	normalName:weakness	predictedType:disease	q:true	qid:Q1469	docId:1424076	origText:weakness	url:D018908
+CANDIDATE	id:18908	inCount:6	outCount:3	links:	url:D018908	name:Muscle Weakness	normalName:muscle weakness	normalWikiTitle:muscle weakness	predictedType:Disease
+CANDIDATE	id:3638	inCount:110	outCount:1	links:	url:D003638	name:Deafness	normalName:deafness	normalWikiTitle:deafness	predictedType:Disease
+CANDIDATE	id:4775	inCount:2	outCount:2	links:	url:D004775	name:Enuresis	normalName:enuresis	normalWikiTitle:enuresis	predictedType:Disease
+CANDIDATE	id:6948	inCount:1	outCount:1	links:	url:D006948	name:Hyperkinesis	normalName:hyperkinesis	normalWikiTitle:hyperkinesis	predictedType:Disease
+CANDIDATE	id:8548	inCount:4	outCount:1	links:	url:D008548	name:Melanosis	normalName:melanosis	normalWikiTitle:melanosis	predictedType:Disease
+CANDIDATE	id:566019	inCount:0	outCount:1	links:	url:C566019	name:Tune Deafness	normalName:tune deafness	normalWikiTitle:tune deafness	predictedType:Disease
+CANDIDATE	id:4428	inCount:0	outCount:2	links:	url:D004428	name:Ear Neoplasms	normalName:ear neoplasms	normalWikiTitle:ear neoplasms	predictedType:Disease
+CANDIDATE	id:64793	inCount:0	outCount:1	links:	url:D064793	name:Teratogenesis	normalName:teratogenesis	normalWikiTitle:teratogenesis	predictedType:Disease
+CANDIDATE	id:46608	inCount:2	outCount:1	links:	url:D046608	name:Synkinesis	normalName:synkinesis	normalWikiTitle:synkinesis	predictedType:Disease
+CANDIDATE	id:77260	inCount:0	outCount:1	links:	url:D000077260	name:Sleepiness	normalName:sleepiness	normalWikiTitle:sleepiness	predictedType:Disease
+ENTITY	text:multiple myeloma	normalName:multiple myeloma	predictedType:disease	q:true	qid:Q1469	docId:1424076	origText:multiple myeloma	url:D009101
+CANDIDATE	id:9101	inCount:1	outCount:4	links:	url:D009101	name:Multiple Myeloma	normalName:multiple myeloma	normalWikiTitle:multiple myeloma	predictedType:Disease
+ENTITY	text:Syndrome of inappropriate secretion of antidiuretic hormone	normalName:syndrome of inappropriate secretion of antidiuretic hormone	predictedType:disease	q:true	qid:Q1469	docId:1424076	origText:Syndrome of inappropriate secretion of antidiuretic hormone	url:D007177
+CANDIDATE	id:7177	inCount:1	outCount:2	links:	url:D007177	name:Syndrome of Inappropriate ADH (SIADH) Secretion	normalName:syndrome of inappropriate adh (siadh) secretion	normalWikiTitle:syndrome of inappropriate adh (siadh) secretion	predictedType:Disease
+CANDIDATE	id:564491	inCount:0	outCount:2	links:	url:C564491	name:Nephrogenic Syndrome of Inappropriate Antidiuresis	normalName:nephrogenic syndrome of inappropriate antidiuresis	normalWikiTitle:nephrogenic syndrome of inappropriate antidiuresis	predictedType:Disease
+CANDIDATE	id:7177	inCount:1	outCount:2	links:	url:D007177	name:Inappropriate ADH Syndrome	normalName:inappropriate adh syndrome	normalWikiTitle:inappropriate adh syndrome	predictedType:Disease
+CANDIDATE	id:616920	inCount:0	outCount:4	links:	url:616920	name:HEART AND BRAIN MALFORMATION SYNDROME	normalName:heart and brain malformation syndrome	normalWikiTitle:heart and brain malformation syndrome	predictedType:Disease
+CANDIDATE	id:536404	inCount:0	outCount:1	links:	url:C536404	name:Nephrotic syndrome, idiopathic, steroid-resistant	normalName:nephrotic syndrome, idiopathic, steroid-resistant	normalWikiTitle:nephrotic syndrome, idiopathic, steroid-resistant	predictedType:Disease
+CANDIDATE	id:565129	inCount:0	outCount:4	links:	url:C565129	name:Cutis Gyrata Syndrome of Beare And Stevenson	normalName:cutis gyrata syndrome of beare and stevenson	normalWikiTitle:cutis gyrata syndrome of beare and stevenson	predictedType:Disease
+CANDIDATE	id:535950	inCount:0	outCount:1	links:	url:C535950	name:Dianzani autoimmune lymphoproliferative syndrome	normalName:dianzani autoimmune lymphoproliferative syndrome	normalWikiTitle:dianzani autoimmune lymphoproliferative syndrome	predictedType:Disease
+CANDIDATE	id:535571	inCount:0	outCount:4	links:	url:C535571	name:Cantu Sanchez-Corona Fragoso syndrome	normalName:cantu sanchez-corona fragoso syndrome	normalWikiTitle:cantu sanchez-corona fragoso syndrome	predictedType:Disease
+CANDIDATE	id:20759	inCount:0	outCount:1	links:	url:D020759	name:Anterior Spinal Artery Syndrome	normalName:anterior spinal artery syndrome	normalWikiTitle:anterior spinal artery syndrome	predictedType:Disease
+CANDIDATE	id:56735	inCount:7	outCount:3	links:	url:D056735	name:Autoimmune Lymphoproliferative Syndrome	normalName:autoimmune lymphoproliferative syndrome	normalWikiTitle:autoimmune lymphoproliferative syndrome	predictedType:Disease
+CANDIDATE	id:536299	inCount:0	outCount:4	links:	url:C536299	name:Partington Anderson syndrome	normalName:partington anderson syndrome	normalWikiTitle:partington anderson syndrome	predictedType:Disease
+CANDIDATE	id:7177	inCount:1	outCount:2	links:	url:D007177	name:Antidiuretic Hormone, Inappropriate Secretion	normalName:antidiuretic hormone, inappropriate secretion	normalWikiTitle:antidiuretic hormone, inappropriate secretion	predictedType:Disease
+CANDIDATE	id:172	inCount:6	outCount:2	links:	url:D000172	name:Inappropriate Growth Hormone Secretion Syndrome (Acromegaly)	normalName:inappropriate growth hormone secretion syndrome (acromegaly)	normalWikiTitle:inappropriate growth hormone secretion syndrome (acromegaly)	predictedType:Disease
+CANDIDATE	id:47748	inCount:1	outCount:1	links:	url:D047748	name:Inappropriate ACTH Secretion Syndrome	normalName:inappropriate acth secretion syndrome	normalWikiTitle:inappropriate acth secretion syndrome	predictedType:Disease

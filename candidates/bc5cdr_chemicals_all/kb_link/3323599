@@ -1,0 +1,8 @@
+ENTITY	text:ruthenium	normalName:ruthenium	predictedType:chemical	q:true	qid:Q1496	docId:3323599	origText:ruthenium	url:D012428
+CANDIDATE	id:12428	inCount:4	outCount:2	links:	url:D012428	name:Ruthenium	normalName:ruthenium	normalWikiTitle:ruthenium	predictedType:Chemical
+ENTITY	text:puromycin-aminonucleoside	normalName:puromycin-aminonucleoside	predictedType:chemical	q:true	qid:Q1496	docId:3323599	origText:puromycin-aminonucleoside	url:D011692
+CANDIDATE	id:11692	inCount:4	outCount:2	links:11692	url:D011692	name:Puromycin Aminonucleoside	normalName:puromycin aminonucleoside	normalWikiTitle:puromycin aminonucleoside	predictedType:Chemical
+ENTITY	text:creatinine	normalName:creatinine	predictedType:chemical	q:true	qid:Q1496	docId:3323599	origText:creatinine	url:D003404
+CANDIDATE	id:3404	inCount:8	outCount:1	links:	url:D003404	name:Creatinine	normalName:creatinine	normalWikiTitle:creatinine	predictedType:Chemical
+ENTITY	text:aminonucleoside	normalName:aminonucleoside	predictedType:chemical	q:true	qid:Q1496	docId:3323599	origText:aminonucleoside	url:D011692
+CANDIDATE	id:11692	inCount:4	outCount:2	links:11692	url:D011692	name:Aminonucleoside	normalName:aminonucleoside	normalWikiTitle:aminonucleoside	predictedType:Chemical

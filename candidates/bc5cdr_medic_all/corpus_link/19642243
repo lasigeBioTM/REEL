@@ -1,0 +1,12 @@
+ENTITY	text:Fanconi syndrome	normalName:fanconi syndrome	predictedType:disease	q:true	qid:Q1366	docId:19642243	origText:Fanconi syndrome	url:D005198
+CANDIDATE	id:5198	inCount:4	outCount:1	links:58186	url:D005198	name:Fanconi Syndrome	normalName:fanconi syndrome	normalWikiTitle:fanconi syndrome	predictedType:Disease
+ENTITY	text:Renal failure	normalName:renal failure	predictedType:disease	q:true	qid:Q1366	docId:19642243	origText:Renal failure	url:D051437
+CANDIDATE	id:51437	inCount:10	outCount:1	links:58186	url:D051437	name:Renal Failure	normalName:renal failure	normalWikiTitle:renal failure	predictedType:Disease
+ENTITY	text:Acute renal failure	normalName:acute renal failure	predictedType:disease	q:true	qid:Q1366	docId:19642243	origText:Acute renal failure	url:D058186
+CANDIDATE	id:58186	inCount:2	outCount:1	links:5198;51437	url:D058186	name:Acute Renal Failure	normalName:acute renal failure	normalWikiTitle:acute renal failure	predictedType:Disease
+ENTITY	text:renal insufficiency	normalName:renal insufficiency	predictedType:disease	q:true	qid:Q1366	docId:19642243	origText:renal insufficiency	url:D051437
+CANDIDATE	id:51437	inCount:10	outCount:1	links:58186	url:D051437	name:Renal Insufficiency	normalName:renal insufficiency	normalWikiTitle:renal insufficiency	predictedType:Disease
+ENTITY	text:osteomyelitis	normalName:osteomyelitis	predictedType:disease	q:true	qid:Q1366	docId:19642243	origText:osteomyelitis	url:D010019
+CANDIDATE	id:10019	inCount:7	outCount:1	links:	url:D010019	name:Osteomyelitis	normalName:osteomyelitis	normalWikiTitle:osteomyelitis	predictedType:Disease
+ENTITY	text:AIDS	normalName:aids	predictedType:disease	q:true	qid:Q1366	docId:19642243	origText:AIDS	url:D000163
+CANDIDATE	id:163	inCount:0	outCount:2	links:	url:D000163	name:AIDS	normalName:aids	normalWikiTitle:aids	predictedType:Disease

@@ -1,0 +1,6 @@
+ENTITY	text:pinacidil	normalName:pinacidil	predictedType:chemical	q:true	qid:Q250	docId:2173761	origText:pinacidil	url:D020110
+CANDIDATE	id:20110	inCount:4	outCount:1	links:5996;19806	url:D020110	name:Pinacidil	normalName:pinacidil	normalWikiTitle:pinacidil	predictedType:Chemical
+ENTITY	text:cromakalim	normalName:cromakalim	predictedType:chemical	q:true	qid:Q250	docId:2173761	origText:cromakalim	url:D019806
+CANDIDATE	id:19806	inCount:5	outCount:2	links:5996;20110	url:D019806	name:Cromakalim	normalName:cromakalim	normalWikiTitle:cromakalim	predictedType:Chemical
+ENTITY	text:nitroglycerin	normalName:nitroglycerin	predictedType:chemical	q:true	qid:Q250	docId:2173761	origText:nitroglycerin	url:D005996
+CANDIDATE	id:5996	inCount:10	outCount:1	links:19806;20110	url:D005996	name:Nitroglycerin	normalName:nitroglycerin	normalWikiTitle:nitroglycerin	predictedType:Chemical

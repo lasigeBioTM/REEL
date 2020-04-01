@@ -1,0 +1,6 @@
+ENTITY	text:agoraphobia	normalName:agoraphobia	predictedType:disease	q:true	qid:Q280	docId:6387529	origText:agoraphobia	url:D000379
+CANDIDATE	id:379	inCount:0	outCount:1	links:	url:D000379	name:Agoraphobia	normalName:agoraphobia	normalWikiTitle:agoraphobia	predictedType:Disease
+ENTITY	text:panic disorders	normalName:panic disorders	predictedType:disease	q:true	qid:Q280	docId:6387529	origText:panic disorders	url:D016584
+CANDIDATE	id:16584	inCount:2	outCount:1	links:16584	url:D016584	name:Panic Disorder	normalName:panic disorder	normalWikiTitle:panic disorder	predictedType:Disease
+ENTITY	text:panic disorder	normalName:panic disorder	predictedType:disease	q:true	qid:Q280	docId:6387529	origText:panic disorder	url:D016584
+CANDIDATE	id:16584	inCount:2	outCount:1	links:16584	url:D016584	name:Panic Disorder	normalName:panic disorder	normalWikiTitle:panic disorder	predictedType:Disease

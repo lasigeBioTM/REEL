@@ -1,0 +1,24 @@
+ENTITY	text:bone marrow hypoplasia	normalName:bone marrow hypoplasia	predictedType:disease	q:true	qid:Q1387	docId:7072798	origText:bone marrow hypoplasia	url:D001855
+CANDIDATE	id:1855	inCount:14	outCount:1	links:	url:D001855	name:Marrow Disease, Bone	normalName:marrow disease, bone	normalWikiTitle:marrow disease, bone	predictedType:Disease
+CANDIDATE	id:1855	inCount:14	outCount:1	links:	url:D001855	name:Bone Marrow Diseases	normalName:bone marrow diseases	normalWikiTitle:bone marrow diseases	predictedType:Disease
+CANDIDATE	id:5357	inCount:8	outCount:1	links:	url:D005357	name:Fibrous Dysplasia of Bone	normalName:fibrous dysplasia of bone	normalWikiTitle:fibrous dysplasia of bone	predictedType:Disease
+CANDIDATE	id:537291	inCount:0	outCount:2	links:	url:C537291	name:Gracile bone dysplasia	normalName:gracile bone dysplasia	normalWikiTitle:gracile bone dysplasia	predictedType:Disease
+CANDIDATE	id:565005	inCount:0	outCount:2	links:	url:C565005	name:Foveal Hypoplasia, Isolated	normalName:foveal hypoplasia, isolated	normalWikiTitle:foveal hypoplasia, isolated	predictedType:Disease
+CANDIDATE	id:566735	inCount:0	outCount:1	links:	url:C566735	name:Pubic Bone Dysplasia	normalName:pubic bone dysplasia	normalWikiTitle:pubic bone dysplasia	predictedType:Disease
+CANDIDATE	id:1859	inCount:9	outCount:2	links:	url:D001859	name:Bone Neoplasms	normalName:bone neoplasms	normalWikiTitle:bone neoplasms	predictedType:Disease
+CANDIDATE	id:537551	inCount:0	outCount:1	links:	url:C537551	name:Microcornea corectopia macular hypoplasia	normalName:microcornea corectopia macular hypoplasia	normalWikiTitle:microcornea corectopia macular hypoplasia	predictedType:Disease
+CANDIDATE	id:563490	inCount:0	outCount:1	links:	url:C563490	name:Orbital Margin, Hypoplasia of	normalName:orbital margin, hypoplasia of	normalWikiTitle:orbital margin, hypoplasia of	predictedType:Disease
+CANDIDATE	id:562568	inCount:3	outCount:2	links:	url:C562568	name:Cerebellar Hypoplasia	normalName:cerebellar hypoplasia	normalWikiTitle:cerebellar hypoplasia	predictedType:Disease
+CANDIDATE	id:20518	inCount:0	outCount:1	links:	url:D020518	name:Focal Nodular Hyperplasia	normalName:focal nodular hyperplasia	normalWikiTitle:focal nodular hyperplasia	predictedType:Disease
+CANDIDATE	id:55728	inCount:2	outCount:1	links:	url:D055728	name:Bone Marrow Fibrosis	normalName:bone marrow fibrosis	normalWikiTitle:bone marrow fibrosis	predictedType:Disease
+CANDIDATE	id:55728	inCount:2	outCount:1	links:	url:D055728	name:Fibrosis, Bone Marrow	normalName:fibrosis, bone marrow	normalWikiTitle:fibrosis, bone marrow	predictedType:Disease
+CANDIDATE	id:1855	inCount:14	outCount:1	links:	url:D001855	name:Bone Marrow Disease	normalName:bone marrow disease	normalWikiTitle:bone marrow disease	predictedType:Disease
+CANDIDATE	id:538069	inCount:0	outCount:2	links:	url:C538069	name:Ulnar hypoplasia	normalName:ulnar hypoplasia	normalWikiTitle:ulnar hypoplasia	predictedType:Disease
+CANDIDATE	id:5357	inCount:8	outCount:1	links:	url:D005357	name:Bone Fibrous Dysplasia	normalName:bone fibrous dysplasia	normalWikiTitle:bone fibrous dysplasia	predictedType:Disease
+CANDIDATE	id:1855	inCount:14	outCount:1	links:	url:D001855	name:Disease, Bone Marrow	normalName:disease, bone marrow	normalWikiTitle:disease, bone marrow	predictedType:Disease
+ENTITY	text:aplastic anemia	normalName:aplastic anemia	predictedType:disease	q:true	qid:Q1387	docId:7072798	origText:aplastic anemia	url:D000741
+CANDIDATE	id:741	inCount:5	outCount:2	links:	url:D000741	name:Anemia, Aplastic	normalName:anemia, aplastic	normalWikiTitle:anemia, aplastic	predictedType:Disease
+ENTITY	text:cataract	normalName:cataract	predictedType:disease	q:true	qid:Q1387	docId:7072798	origText:cataract	url:D002386
+CANDIDATE	id:2386	inCount:169	outCount:1	links:	url:D002386	name:Cataract	normalName:cataract	normalWikiTitle:cataract	predictedType:Disease
+ENTITY	text:pancytopenia	normalName:pancytopenia	predictedType:disease	q:true	qid:Q1387	docId:7072798	origText:pancytopenia	url:D010198
+CANDIDATE	id:10198	inCount:5	outCount:1	links:	url:D010198	name:Pancytopenia	normalName:pancytopenia	normalWikiTitle:pancytopenia	predictedType:Disease

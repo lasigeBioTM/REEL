@@ -1,0 +1,49 @@
+ENTITY	text:cyanosis	normalName:cyanosis	predictedType:disease	q:true	qid:Q300	docId:6794356	origText:cyanosis	url:D003490
+CANDIDATE	id:3490	inCount:4	outCount:1	links:1145;3866	url:D003490	name:Cyanosis	normalName:cyanosis	normalWikiTitle:cyanosis	predictedType:Disease
+ENTITY	text:tricuspid regurgitation	normalName:tricuspid regurgitation	predictedType:disease	q:true	qid:Q300	docId:6794356	origText:tricuspid regurgitation	url:D014262
+CANDIDATE	id:14262	inCount:0	outCount:1	links:	url:D014262	name:Regurgitation, Tricuspid	normalName:regurgitation, tricuspid	normalWikiTitle:regurgitation, tricuspid	predictedType:Disease
+ENTITY	text:cardiac disease	normalName:cardiac disease	predictedType:disease	q:true	qid:Q300	docId:6794356	origText:cardiac disease	url:D006331
+CANDIDATE	id:6331	inCount:29	outCount:1	links:6333;6402;66126;9422	url:D006331	name:Cardiac Disease	normalName:cardiac disease	normalWikiTitle:cardiac disease	predictedType:Disease
+ENTITY	text:atrial flutter	normalName:atrial flutter	predictedType:disease	q:true	qid:Q300	docId:6794356	origText:atrial flutter	url:D001282
+CANDIDATE	id:1282	inCount:0	outCount:1	links:	url:D001282	name:Atrial Flutter	normalName:atrial flutter	normalWikiTitle:atrial flutter	predictedType:Disease
+ENTITY	text:Tricuspid valve regurgitation	normalName:tricuspid valve regurgitation	predictedType:disease	q:true	qid:Q300	docId:6794356	origText:Tricuspid valve regurgitation	url:D014262
+CANDIDATE	id:14262	inCount:0	outCount:1	links:	url:D014262	name:Regurgitation, Tricuspid Valve	normalName:regurgitation, tricuspid valve	normalWikiTitle:regurgitation, tricuspid valve	predictedType:Disease
+ENTITY	text:neurologic depression	normalName:neurologic depression	predictedType:disease	q:true	qid:Q300	docId:6794356	origText:neurologic depression	url:D003866
+CANDIDATE	id:3866	inCount:6	outCount:1	links:1145;3490	url:D003866	name:Neurosis, Depressive	normalName:neurosis, depressive	normalWikiTitle:neurosis, depressive	predictedType:Disease
+CANDIDATE	id:9461	inCount:26	outCount:2	links:	url:D009461	name:Neurologic Manifestations	normalName:neurologic manifestations	normalWikiTitle:neurologic manifestations	predictedType:Disease
+CANDIDATE	id:20233	inCount:2	outCount:1	links:	url:D020233	name:Gait Disorders, Neurologic	normalName:gait disorders, neurologic	normalWikiTitle:gait disorders, neurologic	predictedType:Disease
+CANDIDATE	id:14570	inCount:9	outCount:2	links:	url:D014570	name:Urologic Diseases	normalName:urologic diseases	normalWikiTitle:urologic diseases	predictedType:Disease
+CANDIDATE	id:14571	inCount:4	outCount:1	links:	url:D014571	name:Urologic Neoplasms	normalName:urologic neoplasms	normalWikiTitle:urologic neoplasms	predictedType:Disease
+CANDIDATE	id:9497	inCount:0	outCount:2	links:	url:D009497	name:Neurotic Disorders	normalName:neurotic disorders	normalWikiTitle:neurotic disorders	predictedType:Disease
+CANDIDATE	id:20924	inCount:6	outCount:1	links:	url:D020924	name:Urological Manifestations	normalName:urological manifestations	normalWikiTitle:urological manifestations	predictedType:Disease
+CANDIDATE	id:20790	inCount:1	outCount:1	links:	url:D020790	name:Diabetes Insipidus, Neurogenic	normalName:diabetes insipidus, neurogenic	normalWikiTitle:diabetes insipidus, neurogenic	predictedType:Disease
+CANDIDATE	id:3665	inCount:0	outCount:1	links:	url:D003665	name:Decompression Sickness	normalName:decompression sickness	normalWikiTitle:decompression sickness	predictedType:Disease
+CANDIDATE	id:6402	inCount:22	outCount:1	links:6333;6331;66126	url:D006402	name:Hematologic Diseases	normalName:hematologic diseases	normalWikiTitle:hematologic diseases	predictedType:Disease
+CANDIDATE	id:53836	inCount:0	outCount:1	links:	url:D053836	name:DNA Degradation, Necrotic	normalName:dna degradation, necrotic	normalWikiTitle:dna degradation, necrotic	predictedType:Disease
+CANDIDATE	id:3866	inCount:6	outCount:1	links:1145;3490	url:D003866	name:Neurotic Depression	normalName:neurotic depression	normalWikiTitle:neurotic depression	predictedType:Disease
+CANDIDATE	id:3866	inCount:6	outCount:1	links:1145;3490	url:D003866	name:Depression, Neurotic	normalName:depression, neurotic	normalWikiTitle:depression, neurotic	predictedType:Disease
+CANDIDATE	id:3866	inCount:6	outCount:1	links:1145;3490	url:D003866	name:Depressions, Neurotic	normalName:depressions, neurotic	normalWikiTitle:depressions, neurotic	predictedType:Disease
+CANDIDATE	id:3866	inCount:6	outCount:1	links:1145;3490	url:D003866	name:Neurotic Depressions	normalName:neurotic depressions	normalWikiTitle:neurotic depressions	predictedType:Disease
+CANDIDATE	id:3866	inCount:6	outCount:1	links:1145;3490	url:D003866	name:Depressive Neurosis	normalName:depressive neurosis	normalWikiTitle:depressive neurosis	predictedType:Disease
+CANDIDATE	id:9461	inCount:26	outCount:2	links:	url:D009461	name:Dysfunction, Neurologic	normalName:dysfunction, neurologic	normalWikiTitle:dysfunction, neurologic	predictedType:Disease
+CANDIDATE	id:9461	inCount:26	outCount:2	links:	url:D009461	name:Neurologic Dysfunction	normalName:neurologic dysfunction	normalWikiTitle:neurologic dysfunction	predictedType:Disease
+CANDIDATE	id:9461	inCount:26	outCount:2	links:	url:D009461	name:Dysfunctions, Neurologic	normalName:dysfunctions, neurologic	normalWikiTitle:dysfunctions, neurologic	predictedType:Disease
+CANDIDATE	id:9422	inCount:27	outCount:1	links:6333;6331	url:D009422	name:Neurologic Disorders	normalName:neurologic disorders	normalWikiTitle:neurologic disorders	predictedType:Disease
+ENTITY	text:cardiac arrhythmia	normalName:cardiac arrhythmia	predictedType:disease	q:true	qid:Q300	docId:6794356	origText:cardiac arrhythmia	url:D001145
+CANDIDATE	id:1145	inCount:27	outCount:2	links:3490;3866	url:D001145	name:Arrhythmia, Cardiac	normalName:arrhythmia, cardiac	normalWikiTitle:arrhythmia, cardiac	predictedType:Disease
+ENTITY	text:congestive heart failure	normalName:congestive heart failure	predictedType:disease	q:true	qid:Q300	docId:6794356	origText:congestive heart failure	url:D006333
+CANDIDATE	id:6333	inCount:5	outCount:1	links:6331;6402;66126;9422	url:D006333	name:Heart Failure, Congestive	normalName:heart failure, congestive	normalWikiTitle:heart failure, congestive	predictedType:Disease
+ENTITY	text:toxicity	normalName:toxicity	predictedType:disease	q:true	qid:Q300	docId:6794356	origText:toxicity	url:D064420
+CANDIDATE	id:64420	inCount:10	outCount:1	links:	url:D064420	name:Drug Toxicity	normalName:drug toxicity	normalWikiTitle:drug toxicity	predictedType:Disease
+CANDIDATE	id:66126	inCount:0	outCount:3	links:6333;6331;6402	url:D066126	name:Cardiotoxicity	normalName:cardiotoxicity	normalWikiTitle:cardiotoxicity	predictedType:Disease
+CANDIDATE	id:15651	inCount:2	outCount:1	links:	url:D015651	name:Mycotoxicosis	normalName:mycotoxicosis	normalWikiTitle:mycotoxicosis	predictedType:Disease
+CANDIDATE	id:13971	inCount:2	outCount:1	links:	url:D013971	name:Thyrotoxicosis	normalName:thyrotoxicosis	normalWikiTitle:thyrotoxicosis	predictedType:Disease
+CANDIDATE	id:14869	inCount:0	outCount:2	links:	url:D014869	name:Water Intoxication	normalName:water intoxication	normalWikiTitle:water intoxication	predictedType:Disease
+CANDIDATE	id:14103	inCount:4	outCount:2	links:	url:D014103	name:Torticollis	normalName:torticollis	normalWikiTitle:torticollis	predictedType:Disease
+CANDIDATE	id:9765	inCount:42	outCount:2	links:	url:D009765	name:Obesity	normalName:obesity	normalWikiTitle:obesity	predictedType:Disease
+CANDIDATE	id:14115	inCount:1	outCount:1	links:	url:D014115	name:Toxemia	normalName:toxemia	normalWikiTitle:toxemia	predictedType:Disease
+CANDIDATE	id:7246	inCount:2	outCount:2	links:	url:D007246	name:Infertility	normalName:infertility	normalWikiTitle:infertility	predictedType:Disease
+CANDIDATE	id:20234	inCount:0	outCount:2	links:	url:D020234	name:Gait Ataxia	normalName:gait ataxia	normalWikiTitle:gait ataxia	predictedType:Disease
+CANDIDATE	id:14069	inCount:1	outCount:1	links:	url:D014069	name:Tonsillitis	normalName:tonsillitis	normalWikiTitle:tonsillitis	predictedType:Disease
+CANDIDATE	id:64420	inCount:10	outCount:1	links:	url:D064420	name:Toxicity, Drug	normalName:toxicity, drug	normalWikiTitle:toxicity, drug	predictedType:Disease
+CANDIDATE	id:17484	inCount:0	outCount:2	links:	url:D017484	name:Phototoxicity	normalName:phototoxicity	normalWikiTitle:phototoxicity	predictedType:Disease

@@ -1,0 +1,47 @@
+ENTITY	text:tonic pupillary	normalName:tonic pupillary	predictedType:disease	q:true	qid:Q466	docId:7369302	origText:tonic pupillary	url:D015845
+CANDIDATE	id:15845	inCount:1	outCount:1	links:550;1766	url:D015845	name:Tonic Pupil	normalName:tonic pupil	normalWikiTitle:tonic pupil	predictedType:Disease
+CANDIDATE	id:77273	inCount:0	outCount:2	links:	url:D000077273	name:Thyroid Cancer, Papillary	normalName:thyroid cancer, papillary	normalWikiTitle:thyroid cancer, papillary	predictedType:Disease
+CANDIDATE	id:18324	inCount:3	outCount:1	links:	url:D018324	name:Hemangioma, Capillary	normalName:hemangioma, capillary	normalWikiTitle:hemangioma, capillary	predictedType:Disease
+CANDIDATE	id:537169	inCount:0	outCount:2	links:	url:C537169	name:Papular urticaria	normalName:papular urticaria	normalWikiTitle:papular urticaria	predictedType:Disease
+CANDIDATE	id:11696	inCount:3	outCount:3	links:	url:D011696	name:Purpura, Thrombocytopenic	normalName:purpura, thrombocytopenic	normalWikiTitle:purpura, thrombocytopenic	predictedType:Disease
+CANDIDATE	id:562485	inCount:0	outCount:1	links:	url:C562485	name:Pili Torti	normalName:pili torti	normalWikiTitle:pili torti	predictedType:Disease
+CANDIDATE	id:4830	inCount:1	outCount:1	links:	url:D004830	name:Epilepsy, Tonic-Clonic	normalName:epilepsy, tonic-clonic	normalWikiTitle:epilepsy, tonic-clonic	predictedType:Disease
+CANDIDATE	id:19305	inCount:3	outCount:2	links:	url:D019305	name:Epilepsy, Rolandic	normalName:epilepsy, rolandic	normalWikiTitle:epilepsy, rolandic	predictedType:Disease
+CANDIDATE	id:13985	inCount:0	outCount:1	links:	url:D013985	name:Tick Paralysis	normalName:tick paralysis	normalWikiTitle:tick paralysis	predictedType:Disease
+CANDIDATE	id:14397	inCount:1	outCount:3	links:	url:D014397	name:Tuberculosis, Pulmonary	normalName:tuberculosis, pulmonary	normalWikiTitle:tuberculosis, pulmonary	predictedType:Disease
+ENTITY	text:toxicity	normalName:toxicity	predictedType:disease	q:true	qid:Q466	docId:7369302	origText:toxicity	url:D064420
+CANDIDATE	id:64420	inCount:10	outCount:1	links:	url:D064420	name:Drug Toxicity	normalName:drug toxicity	normalWikiTitle:drug toxicity	predictedType:Disease
+CANDIDATE	id:66126	inCount:0	outCount:3	links:	url:D066126	name:Cardiotoxicity	normalName:cardiotoxicity	normalWikiTitle:cardiotoxicity	predictedType:Disease
+CANDIDATE	id:15651	inCount:2	outCount:1	links:	url:D015651	name:Mycotoxicosis	normalName:mycotoxicosis	normalWikiTitle:mycotoxicosis	predictedType:Disease
+CANDIDATE	id:13971	inCount:2	outCount:1	links:	url:D013971	name:Thyrotoxicosis	normalName:thyrotoxicosis	normalWikiTitle:thyrotoxicosis	predictedType:Disease
+CANDIDATE	id:14869	inCount:0	outCount:2	links:	url:D014869	name:Water Intoxication	normalName:water intoxication	normalWikiTitle:water intoxication	predictedType:Disease
+CANDIDATE	id:14103	inCount:4	outCount:2	links:	url:D014103	name:Torticollis	normalName:torticollis	normalWikiTitle:torticollis	predictedType:Disease
+CANDIDATE	id:9765	inCount:42	outCount:2	links:	url:D009765	name:Obesity	normalName:obesity	normalWikiTitle:obesity	predictedType:Disease
+CANDIDATE	id:14115	inCount:1	outCount:1	links:	url:D014115	name:Toxemia	normalName:toxemia	normalWikiTitle:toxemia	predictedType:Disease
+CANDIDATE	id:7246	inCount:2	outCount:2	links:	url:D007246	name:Infertility	normalName:infertility	normalWikiTitle:infertility	predictedType:Disease
+CANDIDATE	id:20234	inCount:0	outCount:2	links:	url:D020234	name:Gait Ataxia	normalName:gait ataxia	normalWikiTitle:gait ataxia	predictedType:Disease
+CANDIDATE	id:14069	inCount:1	outCount:1	links:	url:D014069	name:Tonsillitis	normalName:tonsillitis	normalWikiTitle:tonsillitis	predictedType:Disease
+CANDIDATE	id:64420	inCount:10	outCount:1	links:	url:D064420	name:Toxicity, Drug	normalName:toxicity, drug	normalWikiTitle:toxicity, drug	predictedType:Disease
+CANDIDATE	id:17484	inCount:0	outCount:2	links:	url:D017484	name:Phototoxicity	normalName:phototoxicity	normalWikiTitle:phototoxicity	predictedType:Disease
+ENTITY	text:leg cramps	normalName:leg cramps	predictedType:disease	q:true	qid:Q466	docId:7369302	origText:leg cramps	url:D009120
+CANDIDATE	id:9120	inCount:3	outCount:2	links:	url:D009120	name:Cramps	normalName:cramps	normalWikiTitle:cramps	predictedType:Disease
+CANDIDATE	id:9120	inCount:3	outCount:2	links:	url:D009120	name:Muscle Cramp	normalName:muscle cramp	normalWikiTitle:muscle cramp	predictedType:Disease
+CANDIDATE	id:11225	inCount:4	outCount:1	links:	url:D011225	name:Pre-Eclampsia	normalName:pre-eclampsia	normalWikiTitle:pre-eclampsia	predictedType:Disease
+CANDIDATE	id:10264	inCount:13	outCount:1	links:	url:D010264	name:Paraplegia	normalName:paraplegia	normalWikiTitle:paraplegia	predictedType:Disease
+CANDIDATE	id:12608	inCount:0	outCount:2	links:	url:D012608	name:Scrapie	normalName:scrapie	normalWikiTitle:scrapie	predictedType:Disease
+CANDIDATE	id:7868	inCount:0	outCount:1	links:	url:D007868	name:Leg Dermatoses	normalName:leg dermatoses	normalWikiTitle:leg dermatoses	predictedType:Disease
+CANDIDATE	id:11391	inCount:1	outCount:1	links:	url:D011391	name:Prolapse	normalName:prolapse	normalWikiTitle:prolapse	predictedType:Disease
+CANDIDATE	id:563563	inCount:0	outCount:1	links:	url:C563563	name:Muscle Cramps, Familial	normalName:muscle cramps, familial	normalWikiTitle:muscle cramps, familial	predictedType:Disease
+CANDIDATE	id:7869	inCount:7	outCount:1	links:	url:D007869	name:Leg Injuries	normalName:leg injuries	normalWikiTitle:leg injuries	predictedType:Disease
+CANDIDATE	id:2422	inCount:0	outCount:2	links:	url:D002422	name:Causalgia	normalName:causalgia	normalWikiTitle:causalgia	predictedType:Disease
+CANDIDATE	id:2385	inCount:0	outCount:1	links:	url:D002385	name:Cataplexy	normalName:cataplexy	normalWikiTitle:cataplexy	predictedType:Disease
+CANDIDATE	id:9120	inCount:3	outCount:2	links:	url:D009120	name:Muscle Cramps	normalName:muscle cramps	normalWikiTitle:muscle cramps	predictedType:Disease
+CANDIDATE	id:9120	inCount:3	outCount:2	links:	url:D009120	name:Cramps, Muscle	normalName:cramps, muscle	normalWikiTitle:cramps, muscle	predictedType:Disease
+CANDIDATE	id:18882	inCount:2	outCount:1	links:	url:D018882	name:Cramps, Heat	normalName:cramps, heat	normalWikiTitle:cramps, heat	predictedType:Disease
+CANDIDATE	id:18882	inCount:2	outCount:1	links:	url:D018882	name:Heat Cramps	normalName:heat cramps	normalWikiTitle:heat cramps	predictedType:Disease
+CANDIDATE	id:9120	inCount:3	outCount:2	links:	url:D009120	name:Limb Cramps	normalName:limb cramps	normalWikiTitle:limb cramps	predictedType:Disease
+CANDIDATE	id:9120	inCount:3	outCount:2	links:	url:D009120	name:Cramps, Limb	normalName:cramps, limb	normalWikiTitle:cramps, limb	predictedType:Disease
+ENTITY	text:blindness	normalName:blindness	predictedType:disease	q:true	qid:Q466	docId:7369302	origText:blindness	url:D001766
+CANDIDATE	id:1766	inCount:11	outCount:1	links:550;15845	url:D001766	name:Blindness	normalName:blindness	normalWikiTitle:blindness	predictedType:Disease
+ENTITY	text:amblyopia	normalName:amblyopia	predictedType:disease	q:true	qid:Q466	docId:7369302	origText:amblyopia	url:D000550
+CANDIDATE	id:550	inCount:2	outCount:2	links:15845;1766	url:D000550	name:Amblyopia	normalName:amblyopia	normalWikiTitle:amblyopia	predictedType:Disease

@@ -1,0 +1,17 @@
+ENTITY	text:MDMA	normalName:mdma	predictedType:chemical	q:true	qid:Q2	docId:24190587	origText:MDMA	url:D018817
+CANDIDATE	id:18817	inCount:2	outCount:1	links:	url:D018817	name:MDMA	normalName:mdma	normalWikiTitle:mdma	predictedType:Chemical
+ENTITY	text:ecstasy	normalName:ecstasy	predictedType:chemical	q:true	qid:Q2	docId:24190587	origText:ecstasy	url:D018817
+CANDIDATE	id:18817	inCount:2	outCount:1	links:	url:D018817	name:Ecstasy (Drug)	normalName:ecstasy (drug)	normalWikiTitle:ecstasy (drug)	predictedType:Chemical
+CANDIDATE	id:67355	inCount:0	outCount:3	links:	url:C067355	name:estasol	normalName:estasol	normalWikiTitle:estasol	predictedType:Chemical
+CANDIDATE	id:4962	inCount:13	outCount:1	links:	url:D004962	name:Estranes	normalName:estranes	normalWikiTitle:estranes	predictedType:Chemical
+CANDIDATE	id:504857	inCount:0	outCount:1	links:	url:C504857	name:plectasin	normalName:plectasin	normalWikiTitle:plectasin	predictedType:Chemical
+CANDIDATE	id:4952	inCount:14	outCount:1	links:	url:D004952	name:Esters	normalName:esters	normalWikiTitle:esters	predictedType:Chemical
+CANDIDATE	id:559928	inCount:0	outCount:1	links:	url:C559928	name:JECTOS	normalName:jectos	normalWikiTitle:jectos	predictedType:Chemical
+CANDIDATE	id:3539	inCount:0	outCount:1	links:	url:D003539	name:Cystaphos	normalName:cystaphos	normalWikiTitle:cystaphos	predictedType:Chemical
+CANDIDATE	id:16752	inCount:0	outCount:1	links:	url:C016752	name:smecta	normalName:smecta	normalWikiTitle:smecta	predictedType:Chemical
+CANDIDATE	id:545343	inCount:0	outCount:1	links:	url:C545343	name:Ecasol	normalName:ecasol	normalWikiTitle:ecasol	predictedType:Chemical
+CANDIDATE	id:8670	inCount:11	outCount:1	links:	url:D008670	name:Metals	normalName:metals	normalWikiTitle:metals	predictedType:Chemical
+CANDIDATE	id:11261	inCount:0	outCount:1	links:	url:C011261	name:Gestyl	normalName:gestyl	normalWikiTitle:gestyl	predictedType:Chemical
+CANDIDATE	id:9695	inCount:0	outCount:1	links:	url:C009695	name:stas	normalName:stas	normalWikiTitle:stas	predictedType:Chemical
+ENTITY	text:cortisol	normalName:cortisol	predictedType:chemical	q:true	qid:Q2	docId:24190587	origText:cortisol	url:D006854
+CANDIDATE	id:6854	inCount:91	outCount:3	links:	url:D006854	name:Cortisol	normalName:cortisol	normalWikiTitle:cortisol	predictedType:Chemical

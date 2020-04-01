@@ -1,0 +1,6 @@
+ENTITY	text:Verapamil	normalName:verapamil	predictedType:chemical	q:true	qid:Q207	docId:3371379	origText:Verapamil	url:D014700
+CANDIDATE	id:14700	inCount:37	outCount:1	links:	url:D014700	name:Verapamil	normalName:verapamil	normalWikiTitle:verapamil	predictedType:Chemical
+ENTITY	text:calcium	normalName:calcium	predictedType:chemical	q:true	qid:Q207	docId:3371379	origText:calcium	url:D002118
+CANDIDATE	id:2118	inCount:11	outCount:2	links:	url:D002118	name:Calcium	normalName:calcium	normalWikiTitle:calcium	predictedType:Chemical
+ENTITY	text:carbamazepine	normalName:carbamazepine	predictedType:chemical	q:true	qid:Q207	docId:3371379	origText:carbamazepine	url:D002220
+CANDIDATE	id:2220	inCount:15	outCount:1	links:	url:D002220	name:Carbamazepine	normalName:carbamazepine	normalWikiTitle:carbamazepine	predictedType:Chemical

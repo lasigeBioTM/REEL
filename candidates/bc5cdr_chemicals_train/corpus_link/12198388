@@ -1,0 +1,12 @@
+ENTITY	text:ethanol	normalName:ethanol	predictedType:chemical	q:true	qid:Q117	docId:12198388	origText:ethanol	url:D000431
+CANDIDATE	id:431	inCount:62	outCount:1	links:2217	url:D000431	name:Ethanol	normalName:ethanol	normalWikiTitle:ethanol	predictedType:Chemical
+ENTITY	text:carbachol	normalName:carbachol	predictedType:chemical	q:true	qid:Q117	docId:12198388	origText:carbachol	url:D002217
+CANDIDATE	id:2217	inCount:9	outCount:1	links:9538;431;9388	url:D002217	name:Carbachol	normalName:carbachol	normalWikiTitle:carbachol	predictedType:Chemical
+ENTITY	text:acetylcholine	normalName:acetylcholine	predictedType:chemical	q:true	qid:Q117	docId:12198388	origText:acetylcholine	url:D000109
+CANDIDATE	id:109	inCount:23	outCount:1	links:	url:D000109	name:Acetylcholine	normalName:acetylcholine	normalWikiTitle:acetylcholine	predictedType:Chemical
+ENTITY	text:nicotine	normalName:nicotine	predictedType:chemical	q:true	qid:Q117	docId:12198388	origText:nicotine	url:D009538
+CANDIDATE	id:9538	inCount:50	outCount:2	links:2217;9388	url:D009538	name:Nicotine	normalName:nicotine	normalWikiTitle:nicotine	predictedType:Chemical
+ENTITY	text:neostigmine	normalName:neostigmine	predictedType:chemical	q:true	qid:Q117	docId:12198388	origText:neostigmine	url:D009388
+CANDIDATE	id:9388	inCount:3	outCount:2	links:2217;9538	url:D009388	name:Neostigmine	normalName:neostigmine	normalWikiTitle:neostigmine	predictedType:Chemical
+ENTITY	text:potassium	normalName:potassium	predictedType:chemical	q:true	qid:Q117	docId:12198388	origText:potassium	url:D011188
+CANDIDATE	id:11188	inCount:10	outCount:2	links:	url:D011188	name:Potassium	normalName:potassium	normalWikiTitle:potassium	predictedType:Chemical

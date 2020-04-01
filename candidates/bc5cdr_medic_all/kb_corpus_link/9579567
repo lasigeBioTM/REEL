@@ -1,0 +1,8 @@
+ENTITY	text:endometrial carcinoma	normalName:endometrial carcinoma	predictedType:disease	q:true	qid:Q1464	docId:9579567	origText:endometrial carcinoma	url:D016889
+CANDIDATE	id:16889	inCount:2	outCount:1	links:16889;1943	url:D016889	name:Carcinoma, Endometrial	normalName:carcinoma, endometrial	normalWikiTitle:carcinoma, endometrial	predictedType:Disease
+ENTITY	text:endometrial cancer	normalName:endometrial cancer	predictedType:disease	q:true	qid:Q1464	docId:9579567	origText:endometrial cancer	url:D016889
+CANDIDATE	id:16889	inCount:2	outCount:1	links:16889;1943	url:D016889	name:Cancer, Endometrial	normalName:cancer, endometrial	normalWikiTitle:cancer, endometrial	predictedType:Disease
+ENTITY	text:Endometrial cancers	normalName:endometrial cancers	predictedType:disease	q:true	qid:Q1464	docId:9579567	origText:Endometrial cancers	url:D016889
+CANDIDATE	id:16889	inCount:2	outCount:1	links:16889;1943	url:D016889	name:Cancer, Endometrial	normalName:cancer, endometrial	normalWikiTitle:cancer, endometrial	predictedType:Disease
+ENTITY	text:breast cancer	normalName:breast cancer	predictedType:disease	q:true	qid:Q1464	docId:9579567	origText:breast cancer	url:D001943
+CANDIDATE	id:1943	inCount:19	outCount:2	links:16889	url:D001943	name:Breast Cancer	normalName:breast cancer	normalWikiTitle:breast cancer	predictedType:Disease

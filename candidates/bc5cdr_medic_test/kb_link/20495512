@@ -1,0 +1,4 @@
+ENTITY	text:Thrombosis	normalName:thrombosis	predictedType:disease	q:true	qid:Q23	docId:20495512	origText:Thrombosis	url:D013927
+CANDIDATE	id:13927	inCount:4	outCount:1	links:	url:D013927	name:Thrombosis	normalName:thrombosis	normalWikiTitle:thrombosis	predictedType:Disease
+ENTITY	text:thrombocytopenia	normalName:thrombocytopenia	predictedType:disease	q:true	qid:Q23	docId:20495512	origText:thrombocytopenia	url:D013921
+CANDIDATE	id:13921	inCount:42	outCount:1	links:	url:D013921	name:Thrombocytopenia	normalName:thrombocytopenia	normalWikiTitle:thrombocytopenia	predictedType:Disease

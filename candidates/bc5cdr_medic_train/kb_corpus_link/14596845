@@ -1,0 +1,28 @@
+ENTITY	text:drug dependency	normalName:drug dependency	predictedType:disease	q:true	qid:Q207	docId:14596845	origText:drug dependency	url:D019966
+CANDIDATE	id:19966	inCount:15	outCount:2	links:19966	url:D019966	name:Drug Dependence	normalName:drug dependence	normalWikiTitle:drug dependence	predictedType:Disease
+CANDIDATE	id:74607	inCount:0	outCount:1	links:74607	url:D000074607	name:Opium Dependence	normalName:opium dependence	normalWikiTitle:opium dependence	predictedType:Disease
+CANDIDATE	id:6556	inCount:0	outCount:1	links:6556	url:D006556	name:Heroin Dependence	normalName:heroin dependence	normalWikiTitle:heroin dependence	predictedType:Disease
+CANDIDATE	id:9021	inCount:0	outCount:1	links:9021	url:D009021	name:Morphine Dependence	normalName:morphine dependence	normalWikiTitle:morphine dependence	predictedType:Disease
+CANDIDATE	id:17099	inCount:0	outCount:1	links:17099	url:D017099	name:IgG Deficiency	normalName:igg deficiency	normalWikiTitle:igg deficiency	predictedType:Disease
+CANDIDATE	id:17098	inCount:4	outCount:1	links:17098	url:D017098	name:IgA Deficiency	normalName:iga deficiency	normalWikiTitle:iga deficiency	predictedType:Disease
+CANDIDATE	id:11274	inCount:1	outCount:1	links:11274	url:D011274	name:Pregnancy, Tubal	normalName:pregnancy, tubal	normalWikiTitle:pregnancy, tubal	predictedType:Disease
+CANDIDATE	id:565767	inCount:0	outCount:1	links:	url:C565767	name:VDAC Deficiency	normalName:vdac deficiency	normalWikiTitle:vdac deficiency	predictedType:Disease
+CANDIDATE	id:11273	inCount:0	outCount:1	links:	url:D011273	name:Pregnancy, Prolonged	normalName:pregnancy, prolonged	normalWikiTitle:pregnancy, prolonged	predictedType:Disease
+CANDIDATE	id:16711	inCount:0	outCount:1	links:	url:D016711	name:Yang Deficiency	normalName:yang deficiency	normalWikiTitle:yang deficiency	predictedType:Disease
+CANDIDATE	id:77428	inCount:0	outCount:1	links:77428	url:D000077428	name:GATA2 Deficiency	normalName:gata2 deficiency	normalWikiTitle:gata2 deficiency	predictedType:Disease
+CANDIDATE	id:19966	inCount:15	outCount:2	links:19966	url:D019966	name:Dependence, Drug	normalName:dependence, drug	normalWikiTitle:dependence, drug	predictedType:Disease
+ENTITY	text:sugar dependency	normalName:sugar dependency	predictedType:disease	q:true	qid:Q207	docId:14596845	origText:sugar dependency	url:D019966
+CANDIDATE	id:19966	inCount:15	outCount:2	links:19966	url:D019966	name:Substance Dependence	normalName:substance dependence	normalWikiTitle:substance dependence	predictedType:Disease
+CANDIDATE	id:74607	inCount:0	outCount:1	links:74607	url:D000074607	name:Opium Dependence	normalName:opium dependence	normalWikiTitle:opium dependence	predictedType:Disease
+CANDIDATE	id:6556	inCount:0	outCount:1	links:6556	url:D006556	name:Heroin Dependence	normalName:heroin dependence	normalWikiTitle:heroin dependence	predictedType:Disease
+CANDIDATE	id:9021	inCount:0	outCount:1	links:9021	url:D009021	name:Morphine Dependence	normalName:morphine dependence	normalWikiTitle:morphine dependence	predictedType:Disease
+CANDIDATE	id:17098	inCount:4	outCount:1	links:17098	url:D017098	name:IgA Deficiency	normalName:iga deficiency	normalWikiTitle:iga deficiency	predictedType:Disease
+CANDIDATE	id:11274	inCount:1	outCount:1	links:11274	url:D011274	name:Pregnancy, Tubal	normalName:pregnancy, tubal	normalWikiTitle:pregnancy, tubal	predictedType:Disease
+CANDIDATE	id:77428	inCount:0	outCount:1	links:77428	url:D000077428	name:GATA2 Deficiency	normalName:gata2 deficiency	normalWikiTitle:gata2 deficiency	predictedType:Disease
+CANDIDATE	id:8268	inCount:33	outCount:1	links:	url:D008268	name:Macular Degeneration	normalName:macular degeneration	normalWikiTitle:macular degeneration	predictedType:Disease
+CANDIDATE	id:15140	inCount:2	outCount:4	links:	url:D015140	name:Dementia, Vascular	normalName:dementia, vascular	normalWikiTitle:dementia, vascular	predictedType:Disease
+CANDIDATE	id:4806	inCount:2	outCount:1	links:	url:D004806	name:Ependymoma	normalName:ependymoma	normalWikiTitle:ependymoma	predictedType:Disease
+CANDIDATE	id:17099	inCount:0	outCount:1	links:17099	url:D017099	name:IgG Deficiency	normalName:igg deficiency	normalWikiTitle:igg deficiency	predictedType:Disease
+CANDIDATE	id:19966	inCount:15	outCount:2	links:19966	url:D019966	name:Dependence, Drug	normalName:dependence, drug	normalWikiTitle:dependence, drug	predictedType:Disease
+CANDIDATE	id:19966	inCount:15	outCount:2	links:19966	url:D019966	name:Drug Dependence	normalName:drug dependence	normalWikiTitle:drug dependence	predictedType:Disease
+CANDIDATE	id:19966	inCount:15	outCount:2	links:19966	url:D019966	name:Dependence, Substance	normalName:dependence, substance	normalWikiTitle:dependence, substance	predictedType:Disease

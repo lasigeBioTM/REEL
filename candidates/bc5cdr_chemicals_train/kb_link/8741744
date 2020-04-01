@@ -1,0 +1,8 @@
+ENTITY	text:choline	normalName:choline	predictedType:chemical	q:true	qid:Q320	docId:8741744	origText:choline	url:D002794
+CANDIDATE	id:2794	inCount:102	outCount:3	links:	url:D002794	name:Choline	normalName:choline	normalWikiTitle:choline	predictedType:Chemical
+ENTITY	text:nicotine	normalName:nicotine	predictedType:chemical	q:true	qid:Q320	docId:8741744	origText:nicotine	url:D009538
+CANDIDATE	id:9538	inCount:50	outCount:2	links:	url:D009538	name:Nicotine	normalName:nicotine	normalWikiTitle:nicotine	predictedType:Chemical
+ENTITY	text:kainic acid	normalName:kainic acid	predictedType:chemical	q:true	qid:Q320	docId:8741744	origText:kainic acid	url:D007608
+CANDIDATE	id:7608	inCount:17	outCount:1	links:	url:D007608	name:Kainic Acid	normalName:kainic acid	normalWikiTitle:kainic acid	predictedType:Chemical
+ENTITY	text:tyrosine	normalName:tyrosine	predictedType:chemical	q:true	qid:Q320	docId:8741744	origText:tyrosine	url:D014443
+CANDIDATE	id:14443	inCount:271	outCount:1	links:	url:D014443	name:Tyrosine	normalName:tyrosine	normalWikiTitle:tyrosine	predictedType:Chemical

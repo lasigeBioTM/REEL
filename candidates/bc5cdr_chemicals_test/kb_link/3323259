@@ -1,0 +1,32 @@
+ENTITY	text:calcium channel blockers	normalName:calcium channel blockers	predictedType:chemical	q:true	qid:Q423	docId:3323259	origText:calcium channel blockers	url:D002121
+CANDIDATE	id:2121	inCount:0	outCount:3	links:2121	url:D002121	name:Calcium Channel Blockers	normalName:calcium channel blockers	normalWikiTitle:calcium channel blockers	predictedType:Chemical
+ENTITY	text:diltiazem	normalName:diltiazem	predictedType:chemical	q:true	qid:Q423	docId:3323259	origText:diltiazem	url:D004110
+CANDIDATE	id:4110	inCount:19	outCount:1	links:	url:D004110	name:Diltiazem	normalName:diltiazem	normalWikiTitle:diltiazem	predictedType:Chemical
+ENTITY	text:nifedipine	normalName:nifedipine	predictedType:chemical	q:true	qid:Q423	docId:3323259	origText:nifedipine	url:D009543
+CANDIDATE	id:9543	inCount:42	outCount:1	links:	url:D009543	name:Nifedipine	normalName:nifedipine	normalWikiTitle:nifedipine	predictedType:Chemical
+ENTITY	text:nimodipine	normalName:nimodipine	predictedType:chemical	q:true	qid:Q423	docId:3323259	origText:nimodipine	url:D009553
+CANDIDATE	id:9553	inCount:1	outCount:2	links:	url:D009553	name:Nimodipine	normalName:nimodipine	normalWikiTitle:nimodipine	predictedType:Chemical
+ENTITY	text:verapamil	normalName:verapamil	predictedType:chemical	q:true	qid:Q423	docId:3323259	origText:verapamil	url:D014700
+CANDIDATE	id:14700	inCount:37	outCount:1	links:	url:D014700	name:Verapamil	normalName:verapamil	normalWikiTitle:verapamil	predictedType:Chemical
+ENTITY	text:dihydropyridine	normalName:dihydropyridine	predictedType:chemical	q:true	qid:Q423	docId:3323259	origText:dihydropyridine	url:C038806
+CANDIDATE	id:38806	inCount:0	outCount:1	links:38806	url:C038806	name:dihydropyridine	normalName:dihydropyridine	normalWikiTitle:dihydropyridine	predictedType:Chemical
+ENTITY	text:calcium channel blocking agents	normalName:calcium channel blocking agents	predictedType:chemical	q:true	qid:Q423	docId:3323259	origText:calcium channel blocking agents	url:D002121
+CANDIDATE	id:2121	inCount:0	outCount:3	links:2121	url:D002121	name:Calcium Channel Blocking Drugs	normalName:calcium channel blocking drugs	normalWikiTitle:calcium channel blocking drugs	predictedType:Chemical
+CANDIDATE	id:2121	inCount:0	outCount:3	links:2121	url:D002121	name:Calcium Channel Blockers	normalName:calcium channel blockers	normalWikiTitle:calcium channel blockers	predictedType:Chemical
+CANDIDATE	id:2120	inCount:0	outCount:3	links:	url:D002120	name:Calcium Channel Agonists	normalName:calcium channel agonists	normalWikiTitle:calcium channel agonists	predictedType:Chemical
+CANDIDATE	id:65096	inCount:0	outCount:1	links:	url:D065096	name:Calcium Chelating Agents	normalName:calcium chelating agents	normalWikiTitle:calcium chelating agents	predictedType:Chemical
+CANDIDATE	id:107887	inCount:0	outCount:1	links:	url:C107887	name:AR-1 (Ca channel blocker)	normalName:ar-1 (ca channel blocker)	normalWikiTitle:ar-1 (ca channel blocker)	predictedType:Chemical
+CANDIDATE	id:9466	inCount:2	outCount:1	links:	url:D009466	name:Neuromuscular Blocking Agents	normalName:neuromuscular blocking agents	normalWikiTitle:neuromuscular blocking agents	predictedType:Chemical
+CANDIDATE	id:13092	inCount:0	outCount:1	links:	url:D013092	name:Spermatogenesis-Blocking Agents	normalName:spermatogenesis-blocking agents	normalWikiTitle:spermatogenesis-blocking agents	predictedType:Chemical
+CANDIDATE	id:109838	inCount:0	outCount:1	links:	url:C109838	name:clapearl bonding agent	normalName:clapearl bonding agent	normalWikiTitle:clapearl bonding agent	predictedType:Chemical
+CANDIDATE	id:61046	inCount:0	outCount:1	links:	url:D061046	name:Biological Control Agents	normalName:biological control agents	normalWikiTitle:biological control agents	predictedType:Chemical
+CANDIDATE	id:58206	inCount:0	outCount:2	links:	url:D058206	name:Hair Bleaching Agents	normalName:hair bleaching agents	normalWikiTitle:hair bleaching agents	predictedType:Chemical
+CANDIDATE	id:54045	inCount:0	outCount:1	links:	url:D054045	name:Biological Warfare Agents	normalName:biological warfare agents	normalWikiTitle:biological warfare agents	predictedType:Chemical
+ENTITY	text:nisoldipine	normalName:nisoldipine	predictedType:chemical	q:true	qid:Q423	docId:3323259	origText:nisoldipine	url:D015737
+CANDIDATE	id:15737	inCount:0	outCount:1	links:	url:D015737	name:Nisoldipine	normalName:nisoldipine	normalWikiTitle:nisoldipine	predictedType:Chemical
+ENTITY	text:1,4-dihydropyridine	normalName:1,4-dihydropyridine	predictedType:chemical	q:true	qid:Q423	docId:3323259	origText:1,4-dihydropyridine	url:C038806
+CANDIDATE	id:38806	inCount:0	outCount:1	links:38806	url:C038806	name:1,4-dihydropyridine	normalName:1,4-dihydropyridine	normalWikiTitle:1,4-dihydropyridine	predictedType:Chemical
+ENTITY	text:nitrendipine	normalName:nitrendipine	predictedType:chemical	q:true	qid:Q423	docId:3323259	origText:nitrendipine	url:D009568
+CANDIDATE	id:9568	inCount:4	outCount:1	links:	url:D009568	name:Nitrendipine	normalName:nitrendipine	normalWikiTitle:nitrendipine	predictedType:Chemical
+ENTITY	text:calcium	normalName:calcium	predictedType:chemical	q:true	qid:Q423	docId:3323259	origText:calcium	url:D002118
+CANDIDATE	id:2118	inCount:11	outCount:2	links:	url:D002118	name:Calcium	normalName:calcium	normalWikiTitle:calcium	predictedType:Chemical

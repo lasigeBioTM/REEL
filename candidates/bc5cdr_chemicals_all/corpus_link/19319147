@@ -1,0 +1,13 @@
+ENTITY	text:warfarin	normalName:warfarin	predictedType:chemical	q:true	qid:Q966	docId:19319147	origText:warfarin	url:D014859
+CANDIDATE	id:14859	inCount:14	outCount:1	links:	url:D014859	name:Warfarin	normalName:warfarin	normalWikiTitle:warfarin	predictedType:Chemical
+ENTITY	text:prothrombin complex concentrate	normalName:prothrombin complex concentrate	predictedType:chemical	q:true	qid:Q966	docId:19319147	origText:prothrombin complex concentrate	url:C025667
+CANDIDATE	id:25667	inCount:0	outCount:1	links:	url:C025667	name:prothrombin complex concentrates	normalName:prothrombin complex concentrates	normalWikiTitle:prothrombin complex concentrates	predictedType:Chemical
+CANDIDATE	id:22475	inCount:0	outCount:2	links:	url:C022475	name:prothrombinase complex	normalName:prothrombinase complex	normalWikiTitle:prothrombinase complex	predictedType:Chemical
+CANDIDATE	id:416547	inCount:0	outCount:3	links:	url:C416547	name:copper-ethanolamine complex	normalName:copper-ethanolamine complex	normalWikiTitle:copper-ethanolamine complex	predictedType:Chemical
+CANDIDATE	id:50707	inCount:0	outCount:1	links:	url:C050707	name:prothrombin Barcelona	normalName:prothrombin barcelona	normalWikiTitle:prothrombin barcelona	predictedType:Chemical
+CANDIDATE	id:51338	inCount:0	outCount:1	links:	url:C051338	name:prothrombin Perija	normalName:prothrombin perija	normalWikiTitle:prothrombin perija	predictedType:Chemical
+CANDIDATE	id:50800	inCount:0	outCount:1	links:	url:C050800	name:prothrombin Clamart	normalName:prothrombin clamart	normalWikiTitle:prothrombin clamart	predictedType:Chemical
+CANDIDATE	id:40593	inCount:0	outCount:1	links:	url:C040593	name:prothrombin Metz	normalName:prothrombin metz	normalWikiTitle:prothrombin metz	predictedType:Chemical
+CANDIDATE	id:78638	inCount:0	outCount:2	links:	url:C078638	name:copper-neocuproine complex	normalName:copper-neocuproine complex	normalWikiTitle:copper-neocuproine complex	predictedType:Chemical
+CANDIDATE	id:54062	inCount:0	outCount:2	links:	url:C054062	name:copper(II)-tyrosine complex	normalName:copper(ii)-tyrosine complex	normalWikiTitle:copper(ii)-tyrosine complex	predictedType:Chemical
+CANDIDATE	id:7505	inCount:2	outCount:2	links:	url:D007505	name:Iron-Dextran Complex	normalName:iron-dextran complex	normalWikiTitle:iron-dextran complex	predictedType:Chemical

@@ -1,0 +1,4 @@
+ENTITY	text:piroxicam	normalName:piroxicam	predictedType:chemical	q:true	qid:Q182	docId:8308951	origText:piroxicam	url:D010894
+CANDIDATE	id:10894	inCount:13	outCount:1	links:	url:D010894	name:Piroxicam	normalName:piroxicam	normalWikiTitle:piroxicam	predictedType:Chemical
+ENTITY	text:warfarin	normalName:warfarin	predictedType:chemical	q:true	qid:Q182	docId:8308951	origText:warfarin	url:D014859
+CANDIDATE	id:14859	inCount:14	outCount:1	links:	url:D014859	name:Warfarin	normalName:warfarin	normalWikiTitle:warfarin	predictedType:Chemical

@@ -1,0 +1,39 @@
+ENTITY	text:HCFC 124	normalName:hcfc 124	predictedType:chemical	q:true	qid:Q608	docId:9284778	origText:HCFC 124	url:C072959
+CANDIDATE	id:72959	inCount:0	outCount:1	links:72959	url:C072959	name:HCFC-124	normalName:hcfc-124	normalWikiTitle:hcfc-124	predictedType:Chemical
+ENTITY	text:1,1-dichloro-2,2,2-trifluoroethane	normalName:1,1-dichloro-2,2,2-trifluoroethane	predictedType:chemical	q:true	qid:Q608	docId:9284778	origText:1,1-dichloro-2,2,2-trifluoroethane	url:C067411
+CANDIDATE	id:67411	inCount:0	outCount:1	links:67411	url:C067411	name:1,1-dichloro-2,2,2-trifluoroethane	normalName:1,1-dichloro-2,2,2-trifluoroethane	normalWikiTitle:1,1-dichloro-2,2,2-trifluoroethane	predictedType:Chemical
+ENTITY	text:halothane	normalName:halothane	predictedType:chemical	q:true	qid:Q608	docId:9284778	origText:halothane	url:D006221
+CANDIDATE	id:6221	inCount:6	outCount:1	links:	url:D006221	name:Halothane	normalName:halothane	normalWikiTitle:halothane	predictedType:Chemical
+ENTITY	text:ozone	normalName:ozone	predictedType:chemical	q:true	qid:Q608	docId:9284778	origText:ozone	url:D010126
+CANDIDATE	id:10126	inCount:5	outCount:1	links:	url:D010126	name:Ozone	normalName:ozone	normalWikiTitle:ozone	predictedType:Chemical
+ENTITY	text:trifluoroacetyl	normalName:trifluoroacetyl	predictedType:chemical	q:true	qid:Q608	docId:9284778	origText:trifluoroacetyl	url:D014269
+CANDIDATE	id:14269	inCount:4	outCount:1	links:	url:D014269	name:Trifluoroacetate	normalName:trifluoroacetate	normalWikiTitle:trifluoroacetate	predictedType:Chemical
+CANDIDATE	id:528648	inCount:0	outCount:1	links:	url:C528648	name:vinyl trifluoroacetate	normalName:vinyl trifluoroacetate	normalWikiTitle:vinyl trifluoroacetate	predictedType:Chemical
+CANDIDATE	id:9551	inCount:0	outCount:1	links:	url:C009551	name:trifluoroacetanilide	normalName:trifluoroacetanilide	normalWikiTitle:trifluoroacetanilide	predictedType:Chemical
+CANDIDATE	id:13311	inCount:0	outCount:1	links:	url:C013311	name:insulin, trifluoroacetyl-	normalName:insulin, trifluoroacetyl-	normalWikiTitle:insulin, trifluoroacetyl-	predictedType:Chemical
+CANDIDATE	id:30688	inCount:0	outCount:2	links:	url:C030688	name:trifluoroacetamide	normalName:trifluoroacetamide	normalWikiTitle:trifluoroacetamide	predictedType:Chemical
+CANDIDATE	id:598770	inCount:0	outCount:2	links:	url:C000598770	name:2-trifluoroacetylphenol	normalName:2-trifluoroacetylphenol	normalWikiTitle:2-trifluoroacetylphenol	predictedType:Chemical
+CANDIDATE	id:55298	inCount:0	outCount:1	links:	url:C055298	name:trifluoroacetaldehyde	normalName:trifluoroacetaldehyde	normalWikiTitle:trifluoroacetaldehyde	predictedType:Chemical
+CANDIDATE	id:14270	inCount:3	outCount:1	links:	url:D014270	name:Trifluoroethanol	normalName:trifluoroethanol	normalWikiTitle:trifluoroethanol	predictedType:Chemical
+CANDIDATE	id:500395	inCount:0	outCount:1	links:	url:C500395	name:trifluoroacetyl chloride	normalName:trifluoroacetyl chloride	normalWikiTitle:trifluoroacetyl chloride	predictedType:Chemical
+CANDIDATE	id:32626	inCount:0	outCount:1	links:	url:C032626	name:trifluoroethylamine	normalName:trifluoroethylamine	normalWikiTitle:trifluoroethylamine	predictedType:Chemical
+CANDIDATE	id:36853	inCount:0	outCount:1	links:	url:C036853	name:trifluoroacetyldaunomycin	normalName:trifluoroacetyldaunomycin	normalWikiTitle:trifluoroacetyldaunomycin	predictedType:Chemical
+ENTITY	text:HCFC 123	normalName:hcfc 123	predictedType:chemical	q:true	qid:Q608	docId:9284778	origText:HCFC 123	url:C067411
+CANDIDATE	id:67411	inCount:0	outCount:1	links:67411	url:C067411	name:HCFC 123	normalName:hcfc 123	normalWikiTitle:hcfc 123	predictedType:Chemical
+ENTITY	text:chlorofluorocarbons	normalName:chlorofluorocarbons	predictedType:chemical	q:true	qid:Q608	docId:9284778	origText:chlorofluorocarbons	url:D017402
+CANDIDATE	id:17402	inCount:20	outCount:2	links:	url:D017402	name:Chlorofluorocarbons	normalName:chlorofluorocarbons	normalWikiTitle:chlorofluorocarbons	predictedType:Chemical
+ENTITY	text:1-chloro-1,2,2,2-tetrafluoroethane	normalName:1-chloro-1,2,2,2-tetrafluoroethane	predictedType:chemical	q:true	qid:Q608	docId:9284778	origText:1-chloro-1,2,2,2-tetrafluoroethane	url:C072959
+CANDIDATE	id:72959	inCount:0	outCount:1	links:72959	url:C072959	name:2-chloro-1,1,1,2-tetrafuoroethane	normalName:2-chloro-1,1,1,2-tetrafuoroethane	normalWikiTitle:2-chloro-1,1,1,2-tetrafuoroethane	predictedType:Chemical
+CANDIDATE	id:67411	inCount:0	outCount:1	links:67411	url:C067411	name:2,2-dichloro-1,1,1-trifluoroethane	normalName:2,2-dichloro-1,1,1-trifluoroethane	normalWikiTitle:2,2-dichloro-1,1,1-trifluoroethane	predictedType:Chemical
+CANDIDATE	id:97537	inCount:0	outCount:1	links:	url:C097537	name:1,2-dichloro-1,1,2-trifluoroethane	normalName:1,2-dichloro-1,1,2-trifluoroethane	normalWikiTitle:1,2-dichloro-1,1,2-trifluoroethane	predictedType:Chemical
+CANDIDATE	id:5850	inCount:0	outCount:1	links:	url:C005850	name:1,1,1-trichloro-2,2,2-trifluoroethane	normalName:1,1,1-trichloro-2,2,2-trifluoroethane	normalWikiTitle:1,1,1-trichloro-2,2,2-trifluoroethane	predictedType:Chemical
+CANDIDATE	id:7786	inCount:0	outCount:1	links:	url:C007786	name:1,1,2-trichloro-1,2,2-trifluoroethane	normalName:1,1,2-trichloro-1,2,2-trifluoroethane	normalWikiTitle:1,1,2-trichloro-1,2,2-trifluoroethane	predictedType:Chemical
+CANDIDATE	id:67537	inCount:0	outCount:1	links:	url:C067537	name:2-chloro-1,1-difluoroethane	normalName:2-chloro-1,1-difluoroethane	normalWikiTitle:2-chloro-1,1-difluoroethane	predictedType:Chemical
+CANDIDATE	id:72793	inCount:0	outCount:1	links:	url:C072793	name:1,2-dichloro-1,1-difluoroethane	normalName:1,2-dichloro-1,1-difluoroethane	normalWikiTitle:1,2-dichloro-1,1-difluoroethane	predictedType:Chemical
+CANDIDATE	id:68320	inCount:0	outCount:1	links:	url:C068320	name:1,1-dichloro-1-fluoroethane	normalName:1,1-dichloro-1-fluoroethane	normalWikiTitle:1,1-dichloro-1-fluoroethane	predictedType:Chemical
+CANDIDATE	id:48547	inCount:0	outCount:1	links:	url:C048547	name:1-chloro-1,1-difluoroethane	normalName:1-chloro-1,1-difluoroethane	normalWikiTitle:1-chloro-1,1-difluoroethane	predictedType:Chemical
+CANDIDATE	id:72959	inCount:0	outCount:1	links:72959	url:C072959	name:1,1,1,2-tetrafluoro-2-chloroethane	normalName:1,1,1,2-tetrafluoro-2-chloroethane	normalWikiTitle:1,1,1,2-tetrafluoro-2-chloroethane	predictedType:Chemical
+CANDIDATE	id:54365	inCount:0	outCount:1	links:	url:C054365	name:1,1-dichloro-2,2-difluoroethylene	normalName:1,1-dichloro-2,2-difluoroethylene	normalWikiTitle:1,1-dichloro-2,2-difluoroethylene	predictedType:Chemical
+CANDIDATE	id:7783	inCount:0	outCount:1	links:	url:C007783	name:1,2-dichloro-1,1,2,2-tetrafluoroethane	normalName:1,2-dichloro-1,1,2,2-tetrafluoroethane	normalWikiTitle:1,2-dichloro-1,1,2,2-tetrafluoroethane	predictedType:Chemical
+CANDIDATE	id:16800	inCount:0	outCount:1	links:	url:C016800	name:1-chloro-2,2,2-trifluoroethane	normalName:1-chloro-2,2,2-trifluoroethane	normalWikiTitle:1-chloro-2,2,2-trifluoroethane	predictedType:Chemical
+CANDIDATE	id:67411	inCount:0	outCount:1	links:67411	url:C067411	name:1,1-dichloro-2,2,2-trifluoroethane	normalName:1,1-dichloro-2,2,2-trifluoroethane	normalWikiTitle:1,1-dichloro-2,2,2-trifluoroethane	predictedType:Chemical

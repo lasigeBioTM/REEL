@@ -1,0 +1,54 @@
+ENTITY	text:leukoencephalopathy	normalName:leukoencephalopathy	predictedType:disease	q:true	qid:Q134	docId:20470218	origText:leukoencephalopathy	url:D056784
+CANDIDATE	id:56784	inCount:29	outCount:1	links:	url:D056784	name:Leukoencephalopathy	normalName:leukoencephalopathy	normalWikiTitle:leukoencephalopathy	predictedType:Disease
+ENTITY	text:Central nervous system complications	normalName:central nervous system complications	predictedType:disease	q:true	qid:Q134	docId:20470218	origText:Central nervous system complications	url:D002493
+CANDIDATE	id:2493	inCount:15	outCount:1	links:2493	url:D002493	name:Central Nervous System Diseases	normalName:central nervous system diseases	normalWikiTitle:central nervous system diseases	predictedType:Disease
+CANDIDATE	id:2494	inCount:12	outCount:2	links:2494	url:D002494	name:Central Nervous System Infections	normalName:central nervous system infections	normalWikiTitle:central nervous system infections	predictedType:Disease
+CANDIDATE	id:16543	inCount:4	outCount:1	links:16543	url:D016543	name:Central Nervous System Neoplasms	normalName:central nervous system neoplasms	normalWikiTitle:central nervous system neoplasms	predictedType:Disease
+CANDIDATE	id:20314	inCount:2	outCount:2	links:20314	url:D020314	name:Central Nervous System Fungal Infections	normalName:central nervous system fungal infections	normalWikiTitle:central nervous system fungal infections	predictedType:Disease
+CANDIDATE	id:20863	inCount:5	outCount:2	links:20863	url:D020863	name:Central Nervous System Cysts	normalName:central nervous system cysts	normalWikiTitle:central nervous system cysts	predictedType:Disease
+CANDIDATE	id:20809	inCount:2	outCount:1	links:20809	url:D020809	name:Central Nervous System Helminthiasis	normalName:central nervous system helminthiasis	normalWikiTitle:central nervous system helminthiasis	predictedType:Disease
+CANDIDATE	id:9421	inCount:26	outCount:2	links:9421	url:D009421	name:Nervous System Malformations	normalName:nervous system malformations	normalWikiTitle:nervous system malformations	predictedType:Disease
+CANDIDATE	id:20785	inCount:6	outCount:2	links:20785	url:D020785	name:Central Nervous System Vascular Malformations	normalName:central nervous system vascular malformations	normalWikiTitle:central nervous system vascular malformations	predictedType:Disease
+CANDIDATE	id:20806	inCount:4	outCount:2	links:20806	url:D020806	name:Central Nervous System Bacterial Infections	normalName:central nervous system bacterial infections	normalWikiTitle:central nervous system bacterial infections	predictedType:Disease
+CANDIDATE	id:20808	inCount:3	outCount:2	links:20808	url:D020808	name:Central Nervous System Protozoal Infections	normalName:central nervous system protozoal infections	normalWikiTitle:central nervous system protozoal infections	predictedType:Disease
+ENTITY	text:inappropriate antidiuretic hormone secretion	normalName:inappropriate antidiuretic hormone secretion	predictedType:disease	q:true	qid:Q134	docId:20470218	origText:inappropriate antidiuretic hormone secretion	url:D007177
+CANDIDATE	id:7177	inCount:1	outCount:2	links:	url:D007177	name:Antidiuretic Hormone, Inappropriate Secretion	normalName:antidiuretic hormone, inappropriate secretion	normalWikiTitle:antidiuretic hormone, inappropriate secretion	predictedType:Disease
+ENTITY	text:encephalopathy	normalName:encephalopathy	predictedType:disease	q:true	qid:Q134	docId:20470218	origText:encephalopathy	url:D001927
+CANDIDATE	id:1927	inCount:55	outCount:1	links:10523	url:D001927	name:Encephalopathy	normalName:encephalopathy	normalWikiTitle:encephalopathy	predictedType:Disease
+ENTITY	text:toxicity	normalName:toxicity	predictedType:disease	q:true	qid:Q134	docId:20470218	origText:toxicity	url:D064420
+CANDIDATE	id:64420	inCount:10	outCount:1	links:	url:D064420	name:Drug Toxicity	normalName:drug toxicity	normalWikiTitle:drug toxicity	predictedType:Disease
+CANDIDATE	id:66126	inCount:0	outCount:3	links:	url:D066126	name:Cardiotoxicity	normalName:cardiotoxicity	normalWikiTitle:cardiotoxicity	predictedType:Disease
+CANDIDATE	id:15651	inCount:2	outCount:1	links:	url:D015651	name:Mycotoxicosis	normalName:mycotoxicosis	normalWikiTitle:mycotoxicosis	predictedType:Disease
+CANDIDATE	id:13971	inCount:2	outCount:1	links:	url:D013971	name:Thyrotoxicosis	normalName:thyrotoxicosis	normalWikiTitle:thyrotoxicosis	predictedType:Disease
+CANDIDATE	id:14869	inCount:0	outCount:2	links:	url:D014869	name:Water Intoxication	normalName:water intoxication	normalWikiTitle:water intoxication	predictedType:Disease
+CANDIDATE	id:14103	inCount:4	outCount:2	links:	url:D014103	name:Torticollis	normalName:torticollis	normalWikiTitle:torticollis	predictedType:Disease
+CANDIDATE	id:9765	inCount:42	outCount:2	links:	url:D009765	name:Obesity	normalName:obesity	normalWikiTitle:obesity	predictedType:Disease
+CANDIDATE	id:14115	inCount:1	outCount:1	links:	url:D014115	name:Toxemia	normalName:toxemia	normalWikiTitle:toxemia	predictedType:Disease
+CANDIDATE	id:7246	inCount:2	outCount:2	links:	url:D007246	name:Infertility	normalName:infertility	normalWikiTitle:infertility	predictedType:Disease
+CANDIDATE	id:20234	inCount:0	outCount:2	links:	url:D020234	name:Gait Ataxia	normalName:gait ataxia	normalWikiTitle:gait ataxia	predictedType:Disease
+CANDIDATE	id:14069	inCount:1	outCount:1	links:	url:D014069	name:Tonsillitis	normalName:tonsillitis	normalWikiTitle:tonsillitis	predictedType:Disease
+CANDIDATE	id:64420	inCount:10	outCount:1	links:	url:D064420	name:Toxicity, Drug	normalName:toxicity, drug	normalWikiTitle:toxicity, drug	predictedType:Disease
+CANDIDATE	id:17484	inCount:0	outCount:2	links:	url:D017484	name:Phototoxicity	normalName:phototoxicity	normalWikiTitle:phototoxicity	predictedType:Disease
+ENTITY	text:ALL	normalName:all	predictedType:disease	q:true	qid:Q134	docId:20470218	origText:ALL	url:D054198
+CANDIDATE	id:54198	inCount:3	outCount:1	links:54198	url:D054198	name:ALL	normalName:all	normalWikiTitle:all	predictedType:Disease
+ENTITY	text:leukemic infiltration	normalName:leukemic infiltration	predictedType:disease	q:true	qid:Q134	docId:20470218	origText:leukemic infiltration	url:D017254
+CANDIDATE	id:17254	inCount:0	outCount:1	links:	url:D017254	name:Leukemic Infiltration	normalName:leukemic infiltration	normalWikiTitle:leukemic infiltration	predictedType:Disease
+ENTITY	text:stroke	normalName:stroke	predictedType:disease	q:true	qid:Q134	docId:20470218	origText:stroke	url:D020521
+CANDIDATE	id:20521	inCount:2	outCount:1	links:	url:D020521	name:Stroke	normalName:stroke	normalWikiTitle:stroke	predictedType:Disease
+ENTITY	text:acute lymphoblastic leukemia	normalName:acute lymphoblastic leukemia	predictedType:disease	q:true	qid:Q134	docId:20470218	origText:acute lymphoblastic leukemia	url:D054198
+CANDIDATE	id:54198	inCount:3	outCount:1	links:54198	url:D054198	name:Leukemia, Acute Lymphoblastic	normalName:leukemia, acute lymphoblastic	normalWikiTitle:leukemia, acute lymphoblastic	predictedType:Disease
+ENTITY	text:temporal lobe epilepsy	normalName:temporal lobe epilepsy	predictedType:disease	q:true	qid:Q134	docId:20470218	origText:temporal lobe epilepsy	url:D004833
+CANDIDATE	id:4833	inCount:9	outCount:2	links:	url:D004833	name:Epilepsy, Temporal Lobe	normalName:epilepsy, temporal lobe	normalWikiTitle:epilepsy, temporal lobe	predictedType:Disease
+ENTITY	text:peripheral neuropathy	normalName:peripheral neuropathy	predictedType:disease	q:true	qid:Q134	docId:20470218	origText:peripheral neuropathy	url:D010523
+CANDIDATE	id:10523	inCount:37	outCount:1	links:1927	url:D010523	name:Peripheral Neuropathy	normalName:peripheral neuropathy	normalWikiTitle:peripheral neuropathy	predictedType:Disease
+ENTITY	text:Central nervous system (CNS) complications	normalName:central nervous system (cns) complications	predictedType:disease	q:true	qid:Q134	docId:20470218	origText:Central nervous system (CNS) complications	url:D002493
+CANDIDATE	id:2493	inCount:15	outCount:1	links:2493	url:D002493	name:Central Nervous System Diseases	normalName:central nervous system diseases	normalWikiTitle:central nervous system diseases	predictedType:Disease
+CANDIDATE	id:2494	inCount:12	outCount:2	links:2494	url:D002494	name:Central Nervous System Infections	normalName:central nervous system infections	normalWikiTitle:central nervous system infections	predictedType:Disease
+CANDIDATE	id:16543	inCount:4	outCount:1	links:16543	url:D016543	name:Central Nervous System Neoplasms	normalName:central nervous system neoplasms	normalWikiTitle:central nervous system neoplasms	predictedType:Disease
+CANDIDATE	id:20314	inCount:2	outCount:2	links:20314	url:D020314	name:Central Nervous System Fungal Infections	normalName:central nervous system fungal infections	normalWikiTitle:central nervous system fungal infections	predictedType:Disease
+CANDIDATE	id:20863	inCount:5	outCount:2	links:20863	url:D020863	name:Central Nervous System Cysts	normalName:central nervous system cysts	normalWikiTitle:central nervous system cysts	predictedType:Disease
+CANDIDATE	id:20806	inCount:4	outCount:2	links:20806	url:D020806	name:Central Nervous System Bacterial Infections	normalName:central nervous system bacterial infections	normalWikiTitle:central nervous system bacterial infections	predictedType:Disease
+CANDIDATE	id:20809	inCount:2	outCount:1	links:20809	url:D020809	name:Central Nervous System Helminthiasis	normalName:central nervous system helminthiasis	normalWikiTitle:central nervous system helminthiasis	predictedType:Disease
+CANDIDATE	id:9421	inCount:26	outCount:2	links:9421	url:D009421	name:Nervous System Malformations	normalName:nervous system malformations	normalWikiTitle:nervous system malformations	predictedType:Disease
+CANDIDATE	id:20785	inCount:6	outCount:2	links:20785	url:D020785	name:Central Nervous System Vascular Malformations	normalName:central nervous system vascular malformations	normalWikiTitle:central nervous system vascular malformations	predictedType:Disease
+CANDIDATE	id:20808	inCount:3	outCount:2	links:20808	url:D020808	name:Central Nervous System Protozoal Infections	normalName:central nervous system protozoal infections	normalWikiTitle:central nervous system protozoal infections	predictedType:Disease

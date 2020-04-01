@@ -1,0 +1,42 @@
+ENTITY	text:tachycardia	normalName:tachycardia	predictedType:disease	q:true	qid:Q1496	docId:19657887	origText:tachycardia	url:D013610
+CANDIDATE	id:13610	inCount:7	outCount:2	links:5483;4417;6973;7022	url:D013610	name:Tachycardia	normalName:tachycardia	normalWikiTitle:tachycardia	predictedType:Disease
+ENTITY	text:arterial hypotension	normalName:arterial hypotension	predictedType:disease	q:true	qid:Q1496	docId:19657887	origText:arterial hypotension	url:D007022
+CANDIDATE	id:7022	inCount:3	outCount:1	links:13610;5483;8113;4417	url:D007022	name:Hypotension	normalName:hypotension	normalWikiTitle:hypotension	predictedType:Disease
+CANDIDATE	id:75222	inCount:0	outCount:1	links:	url:D000075222	name:Essential Hypertension	normalName:essential hypertension	normalWikiTitle:essential hypertension	predictedType:Disease
+CANDIDATE	id:58246	inCount:0	outCount:1	links:	url:D058246	name:Prehypertension	normalName:prehypertension	normalWikiTitle:prehypertension	predictedType:Disease
+CANDIDATE	id:308	inCount:3	outCount:1	links:	url:D000308	name:Adrenocortical Hyperfunction	normalName:adrenocortical hyperfunction	normalWikiTitle:adrenocortical hyperfunction	predictedType:Disease
+CANDIDATE	id:57774	inCount:0	outCount:2	links:	url:D057774	name:Post-Exercise Hypotension	normalName:post-exercise hypotension	normalWikiTitle:post-exercise hypotension	predictedType:Disease
+CANDIDATE	id:15818	inCount:5	outCount:2	links:	url:D015818	name:Eye Infections, Bacterial	normalName:eye infections, bacterial	normalWikiTitle:eye infections, bacterial	predictedType:Disease
+CANDIDATE	id:6973	inCount:18	outCount:1	links:13610;4417	url:D006973	name:Hypertension	normalName:hypertension	normalWikiTitle:hypertension	predictedType:Disease
+CANDIDATE	id:18410	inCount:7	outCount:2	links:	url:D018410	name:Pneumonia, Bacterial	normalName:pneumonia, bacterial	normalWikiTitle:pneumonia, bacterial	predictedType:Disease
+CANDIDATE	id:59325	inCount:0	outCount:1	links:	url:D059325	name:Intra-Abdominal Hypertension	normalName:intra-abdominal hypertension	normalWikiTitle:intra-abdominal hypertension	predictedType:Disease
+CANDIDATE	id:537963	inCount:0	outCount:2	links:	url:C537963	name:Calvarial hyperostosis	normalName:calvarial hyperostosis	normalWikiTitle:calvarial hyperostosis	predictedType:Disease
+CANDIDATE	id:6940	inCount:0	outCount:1	links:	url:D006940	name:Arterial Hyperemia	normalName:arterial hyperemia	normalWikiTitle:arterial hyperemia	predictedType:Disease
+CANDIDATE	id:6940	inCount:0	outCount:1	links:	url:D006940	name:Hyperemia, Arterial	normalName:hyperemia, arterial	normalWikiTitle:hyperemia, arterial	predictedType:Disease
+CANDIDATE	id:46110	inCount:3	outCount:2	links:	url:D046110	name:Hypertension, Gestational	normalName:hypertension, gestational	normalWikiTitle:hypertension, gestational	predictedType:Disease
+CANDIDATE	id:46110	inCount:3	outCount:2	links:	url:D046110	name:Gestational Hypertension	normalName:gestational hypertension	normalWikiTitle:gestational hypertension	predictedType:Disease
+ENTITY	text:flushing	normalName:flushing	predictedType:disease	q:true	qid:Q1496	docId:19657887	origText:flushing	url:D005483
+CANDIDATE	id:5483	inCount:2	outCount:1	links:5483;13610;7022;4417	url:D005483	name:Flushing	normalName:flushing	normalWikiTitle:flushing	predictedType:Disease
+ENTITY	text:flushing of the face	normalName:flushing of the face	predictedType:disease	q:true	qid:Q1496	docId:19657887	origText:flushing of the face	url:D005483
+CANDIDATE	id:5483	inCount:2	outCount:1	links:5483;13610;7022;4417	url:D005483	name:Flushing	normalName:flushing	normalWikiTitle:flushing	predictedType:Disease
+CANDIDATE	id:3480	inCount:1	outCount:1	links:	url:D003480	name:Cushing Syndrome	normalName:cushing syndrome	normalWikiTitle:cushing syndrome	predictedType:Disease
+CANDIDATE	id:5203	inCount:0	outCount:2	links:	url:D005203	name:Farmer's Lung	normalName:farmer's lung	normalWikiTitle:farmer's lung	predictedType:Disease
+CANDIDATE	id:538511	inCount:0	outCount:1	links:	url:C538511	name:Cancer of the oviduct	normalName:cancer of the oviduct	normalWikiTitle:cancer of the oviduct	predictedType:Disease
+CANDIDATE	id:14084	inCount:0	outCount:1	links:	url:D014084	name:Tooth Avulsion	normalName:tooth avulsion	normalWikiTitle:tooth avulsion	predictedType:Disease
+CANDIDATE	id:536384	inCount:0	outCount:5	links:	url:C536384	name:FACES syndrome	normalName:faces syndrome	normalWikiTitle:faces syndrome	predictedType:Disease
+CANDIDATE	id:536588	inCount:0	outCount:2	links:	url:C536588	name:Alsing syndrome	normalName:alsing syndrome	normalWikiTitle:alsing syndrome	predictedType:Disease
+CANDIDATE	id:14082	inCount:1	outCount:1	links:	url:D014082	name:Tooth Fractures	normalName:tooth fractures	normalWikiTitle:tooth fractures	predictedType:Disease
+CANDIDATE	id:565010	inCount:0	outCount:1	links:	url:C565010	name:Fingerprints, Absence of	normalName:fingerprints, absence of	normalWikiTitle:fingerprints, absence of	predictedType:Disease
+CANDIDATE	id:9058	inCount:0	outCount:2	links:	url:D009058	name:Mouth Breathing	normalName:mouth breathing	normalWikiTitle:mouth breathing	predictedType:Disease
+CANDIDATE	id:8175	inCount:12	outCount:2	links:	url:D008175	name:Cancer of the Lung	normalName:cancer of the lung	normalWikiTitle:cancer of the lung	predictedType:Disease
+CANDIDATE	id:8048	inCount:0	outCount:2	links:	url:D008048	name:Cancer of the Lip	normalName:cancer of the lip	normalWikiTitle:cancer of the lip	predictedType:Disease
+CANDIDATE	id:3110	inCount:1	outCount:1	links:	url:D003110	name:Cancer of the Colon	normalName:cancer of the colon	normalWikiTitle:cancer of the colon	predictedType:Disease
+CANDIDATE	id:7078	inCount:0	outCount:2	links:	url:D007078	name:Cancer of the ILEUM	normalName:cancer of the ileum	normalWikiTitle:cancer of the ileum	predictedType:Disease
+CANDIDATE	id:9062	inCount:6	outCount:2	links:	url:D009062	name:Cancer of the Mouth	normalName:cancer of the mouth	normalWikiTitle:cancer of the mouth	predictedType:Disease
+CANDIDATE	id:8113	inCount:5	outCount:2	links:7022	url:D008113	name:Cancer of the Liver	normalName:cancer of the liver	normalWikiTitle:cancer of the liver	predictedType:Disease
+CANDIDATE	id:19042	inCount:0	outCount:2	links:	url:D019042	name:Cancer of the Muscle	normalName:cancer of the muscle	normalWikiTitle:cancer of the muscle	predictedType:Disease
+CANDIDATE	id:8175	inCount:12	outCount:2	links:	url:D008175	name:Cancer of Lung	normalName:cancer of lung	normalWikiTitle:cancer of lung	predictedType:Disease
+CANDIDATE	id:4938	inCount:4	outCount:3	links:	url:D004938	name:Cancer of the Esophagus	normalName:cancer of the esophagus	normalWikiTitle:cancer of the esophagus	predictedType:Disease
+CANDIDATE	id:7680	inCount:7	outCount:2	links:	url:D007680	name:Cancer of the Kidney	normalName:cancer of the kidney	normalWikiTitle:cancer of the kidney	predictedType:Disease
+ENTITY	text:dyspnea	normalName:dyspnea	predictedType:disease	q:true	qid:Q1496	docId:19657887	origText:dyspnea	url:D004417
+CANDIDATE	id:4417	inCount:1	outCount:2	links:5483;13610;6973;7022	url:D004417	name:Dyspnea	normalName:dyspnea	normalWikiTitle:dyspnea	predictedType:Disease

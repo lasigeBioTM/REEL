@@ -1,0 +1,6 @@
+ENTITY	text:acute renal failure	normalName:acute renal failure	predictedType:disease	q:true	qid:Q119	docId:2709684	origText:acute renal failure	url:D058186
+CANDIDATE	id:58186	inCount:2	outCount:1	links:	url:D058186	name:Acute Renal Failure	normalName:acute renal failure	normalWikiTitle:acute renal failure	predictedType:Disease
+ENTITY	text:glycosuria	normalName:glycosuria	predictedType:disease	q:true	qid:Q119	docId:2709684	origText:glycosuria	url:D006029
+CANDIDATE	id:6029	inCount:1	outCount:2	links:	url:D006029	name:Glycosuria	normalName:glycosuria	normalWikiTitle:glycosuria	predictedType:Disease
+ENTITY	text:diabetes mellitus	normalName:diabetes mellitus	predictedType:disease	q:true	qid:Q119	docId:2709684	origText:diabetes mellitus	url:D003920
+CANDIDATE	id:3920	inCount:44	outCount:2	links:	url:D003920	name:Diabetes Mellitus	normalName:diabetes mellitus	normalWikiTitle:diabetes mellitus	predictedType:Disease

@@ -1,0 +1,18 @@
+ENTITY	text:hypertrophic	normalName:hypertrophic	predictedType:disease	q:true	qid:Q451	docId:6203632	origText:hypertrophic	url:D006984
+CANDIDATE	id:6984	inCount:9	outCount:1	links:	url:D006984	name:Hypertrophies	normalName:hypertrophies	normalWikiTitle:hypertrophies	predictedType:Disease
+CANDIDATE	id:6984	inCount:9	outCount:1	links:	url:D006984	name:Hypertrophy	normalName:hypertrophy	normalWikiTitle:hypertrophy	predictedType:Disease
+CANDIDATE	id:6956	inCount:4	outCount:1	links:	url:D006956	name:Hyperopia	normalName:hyperopia	normalWikiTitle:hyperopia	predictedType:Disease
+CANDIDATE	id:614160	inCount:0	outCount:2	links:	url:614160	name:MUSCLE HYPERTROPHY	normalName:muscle hypertrophy	normalWikiTitle:muscle hypertrophy	predictedType:Disease
+CANDIDATE	id:17439	inCount:0	outCount:1	links:	url:D017439	name:Cicatrix, Hypertrophic	normalName:cicatrix, hypertrophic	normalWikiTitle:cicatrix, hypertrophic	predictedType:Disease
+CANDIDATE	id:5758	inCount:0	outCount:1	links:	url:D005758	name:Gastritis, Hypertrophic	normalName:gastritis, hypertrophic	normalWikiTitle:gastritis, hypertrophic	predictedType:Disease
+CANDIDATE	id:6963	inCount:2	outCount:1	links:	url:D006963	name:Hyperphagia	normalName:hyperphagia	normalWikiTitle:hyperphagia	predictedType:Disease
+CANDIDATE	id:6983	inCount:27	outCount:1	links:	url:D006983	name:Hypertrichosis	normalName:hypertrichosis	normalWikiTitle:hypertrichosis	predictedType:Disease
+CANDIDATE	id:18496	inCount:0	outCount:1	links:	url:D018496	name:Hyperoxia	normalName:hyperoxia	normalWikiTitle:hyperoxia	predictedType:Disease
+CANDIDATE	id:6980	inCount:6	outCount:1	links:	url:D006980	name:Hyperthyroidism	normalName:hyperthyroidism	normalWikiTitle:hyperthyroidism	predictedType:Disease
+CANDIDATE	id:15576	inCount:12	outCount:1	links:	url:D015576	name:Hyperostosis	normalName:hyperostosis	normalWikiTitle:hyperostosis	predictedType:Disease
+ENTITY	text:hypertrophy	normalName:hypertrophy	predictedType:disease	q:true	qid:Q451	docId:6203632	origText:hypertrophy	url:D006984
+CANDIDATE	id:6984	inCount:9	outCount:1	links:	url:D006984	name:Hypertrophy	normalName:hypertrophy	normalWikiTitle:hypertrophy	predictedType:Disease
+ENTITY	text:hyperplasia	normalName:hyperplasia	predictedType:disease	q:true	qid:Q451	docId:6203632	origText:hyperplasia	url:D006965
+CANDIDATE	id:6965	inCount:4	outCount:1	links:6332	url:D006965	name:Hyperplasia	normalName:hyperplasia	normalWikiTitle:hyperplasia	predictedType:Disease
+ENTITY	text:cardiac hypertrophy	normalName:cardiac hypertrophy	predictedType:disease	q:true	qid:Q451	docId:6203632	origText:cardiac hypertrophy	url:D006332
+CANDIDATE	id:6332	inCount:5	outCount:2	links:6965	url:D006332	name:Cardiac Hypertrophy	normalName:cardiac hypertrophy	normalWikiTitle:cardiac hypertrophy	predictedType:Disease

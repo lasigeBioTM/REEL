@@ -1,0 +1,12 @@
+ENTITY	text:5-fluorouracil	normalName:5-fluorouracil	predictedType:chemical	q:true	qid:Q297	docId:8739323	origText:5-fluorouracil	url:D005472
+CANDIDATE	id:5472	inCount:271	outCount:1	links:5472	url:D005472	name:5 Fluorouracil	normalName:5 fluorouracil	normalWikiTitle:5 fluorouracil	predictedType:Chemical
+ENTITY	text:cyclophosphamide	normalName:cyclophosphamide	predictedType:chemical	q:true	qid:Q297	docId:8739323	origText:cyclophosphamide	url:D003520
+CANDIDATE	id:3520	inCount:474	outCount:1	links:8727	url:D003520	name:Cyclophosphamide	normalName:cyclophosphamide	normalWikiTitle:cyclophosphamide	predictedType:Chemical
+ENTITY	text:creatinine	normalName:creatinine	predictedType:chemical	q:true	qid:Q297	docId:8739323	origText:creatinine	url:D003404
+CANDIDATE	id:3404	inCount:8	outCount:1	links:	url:D003404	name:Creatinine	normalName:creatinine	normalWikiTitle:creatinine	predictedType:Chemical
+ENTITY	text:nitrogranulogen	normalName:nitrogranulogen	predictedType:chemical	q:true	qid:Q297	docId:8739323	origText:nitrogranulogen	url:D008466
+CANDIDATE	id:8466	inCount:18	outCount:1	links:	url:D008466	name:Nitrogranulogen	normalName:nitrogranulogen	normalWikiTitle:nitrogranulogen	predictedType:Chemical
+ENTITY	text:5-FU	normalName:5-fu	predictedType:chemical	q:true	qid:Q297	docId:8739323	origText:5-FU	url:D005472
+CANDIDATE	id:5472	inCount:271	outCount:1	links:5472	url:D005472	name:5-FU	normalName:5-fu	normalWikiTitle:5-fu	predictedType:Chemical
+ENTITY	text:methotrexate	normalName:methotrexate	predictedType:chemical	q:true	qid:Q297	docId:8739323	origText:methotrexate	url:D008727
+CANDIDATE	id:8727	inCount:364	outCount:1	links:3520	url:D008727	name:Methotrexate	normalName:methotrexate	normalWikiTitle:methotrexate	predictedType:Chemical

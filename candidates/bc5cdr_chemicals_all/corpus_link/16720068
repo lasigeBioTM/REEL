@@ -1,0 +1,14 @@
+ENTITY	text:aspartate	normalName:aspartate	predictedType:chemical	q:true	qid:Q1439	docId:16720068	origText:aspartate	url:D001224
+CANDIDATE	id:1224	inCount:112	outCount:3	links:	url:D001224	name:Aspartate	normalName:aspartate	normalWikiTitle:aspartate	predictedType:Chemical
+ENTITY	text:paroxetine	normalName:paroxetine	predictedType:chemical	q:true	qid:Q1439	docId:16720068	origText:paroxetine	url:D017374
+CANDIDATE	id:17374	inCount:1	outCount:1	links:525	url:D017374	name:Paroxetine	normalName:paroxetine	normalWikiTitle:paroxetine	predictedType:Chemical
+ENTITY	text:creatine	normalName:creatine	predictedType:chemical	q:true	qid:Q1439	docId:16720068	origText:creatine	url:D003401
+CANDIDATE	id:3401	inCount:7	outCount:2	links:	url:D003401	name:Creatine	normalName:creatine	normalWikiTitle:creatine	predictedType:Chemical
+ENTITY	text:alanine	normalName:alanine	predictedType:chemical	q:true	qid:Q1439	docId:16720068	origText:alanine	url:D000409
+CANDIDATE	id:409	inCount:359	outCount:1	links:	url:D000409	name:Alanine	normalName:alanine	normalWikiTitle:alanine	predictedType:Chemical
+ENTITY	text:bromocriptine	normalName:bromocriptine	predictedType:chemical	q:true	qid:Q1439	docId:16720068	origText:bromocriptine	url:D001971
+CANDIDATE	id:1971	inCount:0	outCount:2	links:	url:D001971	name:Bromocriptine	normalName:bromocriptine	normalWikiTitle:bromocriptine	predictedType:Chemical
+ENTITY	text:alprazolam	normalName:alprazolam	predictedType:chemical	q:true	qid:Q1439	docId:16720068	origText:alprazolam	url:D000525
+CANDIDATE	id:525	inCount:4	outCount:1	links:3975;17374	url:D000525	name:Alprazolam	normalName:alprazolam	normalWikiTitle:alprazolam	predictedType:Chemical
+ENTITY	text:diazepam	normalName:diazepam	predictedType:chemical	q:true	qid:Q1439	docId:16720068	origText:diazepam	url:D003975
+CANDIDATE	id:3975	inCount:21	outCount:1	links:525	url:D003975	name:Diazepam	normalName:diazepam	normalWikiTitle:diazepam	predictedType:Chemical

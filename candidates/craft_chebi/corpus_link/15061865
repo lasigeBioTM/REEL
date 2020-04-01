@@ -1,0 +1,88 @@
+ENTITY	text:dopamine receptor antagonists	normalName:dopamine receptor antagonists	predictedType:chemical	q:true	qid:Q15	docId:15061865	origText:dopamine receptor antagonists	url:CHEBI:48561
+CANDIDATE	id:48561	inCount:0	outCount:1	links:18243	url:CHEBI:48561	name:dopaminergic antagonist	normalName:dopaminergic antagonist	normalWikiTitle:dopaminergic antagonist	predictedType:chemical
+CANDIDATE	id:131787	inCount:0	outCount:1	links:	url:CHEBI:131787	name:dopamine receptor D2 antagonist	normalName:dopamine receptor d2 antagonist	normalWikiTitle:dopamine receptor d2 antagonist	predictedType:chemical
+CANDIDATE	id:131795	inCount:0	outCount:1	links:	url:CHEBI:131795	name:dopamine receptor D1 agonist	normalName:dopamine receptor d1 agonist	normalWikiTitle:dopamine receptor d1 agonist	predictedType:chemical
+CANDIDATE	id:76531	inCount:0	outCount:1	links:	url:CHEBI:76531	name:odorant receptor antagonist	normalName:odorant receptor antagonist	normalWikiTitle:odorant receptor antagonist	predictedType:chemical
+CANDIDATE	id:83296	inCount:0	outCount:1	links:	url:CHEBI:83296	name:orexin receptor antagonist	normalName:orexin receptor antagonist	normalWikiTitle:orexin receptor antagonist	predictedType:chemical
+CANDIDATE	id:60605	inCount:2	outCount:2	links:	url:CHEBI:60605	name:opioid receptor antagonist	normalName:opioid receptor antagonist	normalWikiTitle:opioid receptor antagonist	predictedType:chemical
+CANDIDATE	id:70774	inCount:0	outCount:1	links:	url:CHEBI:70774	name:capsaicin receptor antagonist	normalName:capsaicin receptor antagonist	normalWikiTitle:capsaicin receptor antagonist	predictedType:chemical
+CANDIDATE	id:60643	inCount:0	outCount:1	links:	url:CHEBI:60643	name:NMDA receptor antagonist	normalName:nmda receptor antagonist	normalWikiTitle:nmda receptor antagonist	predictedType:chemical
+CANDIDATE	id:62754	inCount:0	outCount:1	links:	url:CHEBI:62754	name:glycine receptor antagonist	normalName:glycine receptor antagonist	normalWikiTitle:glycine receptor antagonist	predictedType:chemical
+CANDIDATE	id:51451	inCount:1	outCount:1	links:	url:CHEBI:51451	name:endothelin receptor antagonist	normalName:endothelin receptor antagonist	normalWikiTitle:endothelin receptor antagonist	predictedType:chemical
+ENTITY	text:drugs	normalName:drugs	predictedType:chemical	q:true	qid:Q15	docId:15061865	origText:drugs	url:CHEBI:23888
+CANDIDATE	id:23888	inCount:65	outCount:1	links:18243	url:CHEBI:23888	name:drug	normalName:drug	normalWikiTitle:drug	predictedType:chemical
+ENTITY	text:pharmacological	normalName:pharmacological	predictedType:chemical	q:true	qid:Q15	docId:15061865	origText:pharmacological	url:CHEBI:52217
+CANDIDATE	id:52217	inCount:5	outCount:1	links:	url:CHEBI:52217	name:pharmaceutical	normalName:pharmaceutical	normalWikiTitle:pharmaceutical	predictedType:chemical
+CANDIDATE	id:52210	inCount:11	outCount:1	links:	url:CHEBI:52210	name:pharmacological role	normalName:pharmacological role	normalWikiTitle:pharmacological role	predictedType:chemical
+CANDIDATE	id:27943	inCount:0	outCount:1	links:	url:CHEBI:27943	name:harmalol	normalName:harmalol	normalWikiTitle:harmalol	predictedType:chemical
+CANDIDATE	id:258351	inCount:0	outCount:5	links:	url:CHEBI:258351	name:practolol	normalName:practolol	normalWikiTitle:practolol	predictedType:chemical
+CANDIDATE	id:35232	inCount:0	outCount:1	links:	url:CHEBI:35232	name:radiopharmaceutical	normalName:radiopharmaceutical	normalWikiTitle:radiopharmaceutical	predictedType:chemical
+CANDIDATE	id:81866	inCount:0	outCount:4	links:	url:CHEBI:81866	name:Pyraclonil	normalName:pyraclonil	normalWikiTitle:pyraclonil	predictedType:chemical
+CANDIDATE	id:91090	inCount:0	outCount:1	links:	url:CHEBI:91090	name:charcoal	normalName:charcoal	normalWikiTitle:charcoal	predictedType:chemical
+CANDIDATE	id:52211	inCount:2	outCount:1	links:	url:CHEBI:52211	name:physiological role	normalName:physiological role	normalWikiTitle:physiological role	predictedType:chemical
+CANDIDATE	id:28172	inCount:0	outCount:1	links:	url:CHEBI:28172	name:harmaline	normalName:harmaline	normalWikiTitle:harmaline	predictedType:chemical
+CANDIDATE	id:50752	inCount:1	outCount:1	links:	url:CHEBI:50752	name:pyrazolotriazole	normalName:pyrazolotriazole	normalWikiTitle:pyrazolotriazole	predictedType:chemical
+ENTITY	text:dopaminergic	normalName:dopaminergic	predictedType:chemical	q:true	qid:Q15	docId:15061865	origText:dopaminergic	url:CHEBI:18243
+CANDIDATE	id:18243	inCount:0	outCount:1	links:48561;33290;23888;78741	url:CHEBI:18243	name:dopamine	normalName:dopamine	normalWikiTitle:dopamine	predictedType:chemical
+CANDIDATE	id:48560	inCount:3	outCount:1	links:	url:CHEBI:48560	name:dopaminergic agent	normalName:dopaminergic agent	normalWikiTitle:dopaminergic agent	predictedType:chemical
+CANDIDATE	id:135507	inCount:0	outCount:1	links:	url:CHEBI:135507	name:dopexamine	normalName:dopexamine	normalWikiTitle:dopexamine	predictedType:chemical
+CANDIDATE	id:135359	inCount:0	outCount:1	links:	url:CHEBI:135359	name:denopamine	normalName:denopamine	normalWikiTitle:denopamine	predictedType:chemical
+CANDIDATE	id:31513	inCount:0	outCount:1	links:	url:CHEBI:31513	name:Docarpamine	normalName:docarpamine	normalWikiTitle:docarpamine	predictedType:chemical
+CANDIDATE	id:78741	inCount:0	outCount:3	links:18243	url:CHEBI:78741	name:oxidopamine	normalName:oxidopamine	normalWikiTitle:oxidopamine	predictedType:chemical
+CANDIDATE	id:48561	inCount:0	outCount:1	links:18243	url:CHEBI:48561	name:dopaminergic antagonist	normalName:dopaminergic antagonist	normalWikiTitle:dopaminergic antagonist	predictedType:chemical
+CANDIDATE	id:44715	inCount:0	outCount:1	links:	url:CHEBI:44715	name:(R)-octopamine	normalName:(r)-octopamine	normalWikiTitle:(r)-octopamine	predictedType:chemical
+CANDIDATE	id:59905	inCount:0	outCount:1	links:	url:CHEBI:59905	name:dopaminium(1+)	normalName:dopaminium(1+)	normalWikiTitle:dopaminium(1+)	predictedType:chemical
+CANDIDATE	id:135306	inCount:0	outCount:2	links:	url:CHEBI:135306	name:ibopamine	normalName:ibopamine	normalWikiTitle:ibopamine	predictedType:chemical
+ENTITY	text:sulpiride	normalName:sulpiride	predictedType:chemical	q:true	qid:Q15	docId:15061865	origText:sulpiride	url:CHEBI:32168
+CANDIDATE	id:32168	inCount:2	outCount:3	links:	url:CHEBI:32168	name:sulpiride	normalName:sulpiride	normalWikiTitle:sulpiride	predictedType:chemical
+ENTITY	text:dopamine antagonists	normalName:dopamine antagonists	predictedType:chemical	q:true	qid:Q15	docId:15061865	origText:dopamine antagonists	url:CHEBI:48561
+CANDIDATE	id:48561	inCount:0	outCount:1	links:18243	url:CHEBI:48561	name:dopaminergic antagonist	normalName:dopaminergic antagonist	normalWikiTitle:dopaminergic antagonist	predictedType:chemical
+CANDIDATE	id:51065	inCount:1	outCount:1	links:	url:CHEBI:51065	name:dopamine agonist	normalName:dopamine agonist	normalWikiTitle:dopamine agonist	predictedType:chemical
+CANDIDATE	id:37956	inCount:3	outCount:2	links:	url:CHEBI:37956	name:histamine antagonist	normalName:histamine antagonist	normalWikiTitle:histamine antagonist	predictedType:chemical
+CANDIDATE	id:138931	inCount:0	outCount:1	links:	url:CHEBI:138931	name:glutamine antagonist	normalName:glutamine antagonist	normalWikiTitle:glutamine antagonist	predictedType:chemical
+CANDIDATE	id:49020	inCount:14	outCount:2	links:	url:CHEBI:49020	name:hormone antagonist	normalName:hormone antagonist	normalWikiTitle:hormone antagonist	predictedType:chemical
+CANDIDATE	id:55347	inCount:0	outCount:1	links:	url:CHEBI:55347	name:vitamin K antagonist	normalName:vitamin k antagonist	normalWikiTitle:vitamin k antagonist	predictedType:chemical
+CANDIDATE	id:23891	inCount:0	outCount:1	links:	url:CHEBI:23891	name:ecdysone antagonists	normalName:ecdysone antagonists	normalWikiTitle:ecdysone antagonists	predictedType:chemical
+CANDIDATE	id:131787	inCount:0	outCount:1	links:	url:CHEBI:131787	name:dopamine receptor D2 antagonist	normalName:dopamine receptor d2 antagonist	normalWikiTitle:dopamine receptor d2 antagonist	predictedType:chemical
+CANDIDATE	id:130181	inCount:0	outCount:1	links:	url:CHEBI:130181	name:calmodulin antagonist	normalName:calmodulin antagonist	normalWikiTitle:calmodulin antagonist	predictedType:chemical
+CANDIDATE	id:78248	inCount:0	outCount:1	links:	url:CHEBI:78248	name:vitamin B1 antagonist	normalName:vitamin b1 antagonist	normalWikiTitle:vitamin b1 antagonist	predictedType:chemical
+ENTITY	text:Dopamine	normalName:dopamine	predictedType:chemical	q:true	qid:Q15	docId:15061865	origText:Dopamine	url:CHEBI:18243
+CANDIDATE	id:18243	inCount:0	outCount:1	links:48561;33290;23888;78741	url:CHEBI:18243	name:dopamine	normalName:dopamine	normalWikiTitle:dopamine	predictedType:chemical
+ENTITY	text:dopamine antagonist	normalName:dopamine antagonist	predictedType:chemical	q:true	qid:Q15	docId:15061865	origText:dopamine antagonist	url:CHEBI:48561
+CANDIDATE	id:48561	inCount:0	outCount:1	links:18243	url:CHEBI:48561	name:dopaminergic antagonist	normalName:dopaminergic antagonist	normalWikiTitle:dopaminergic antagonist	predictedType:chemical
+CANDIDATE	id:51065	inCount:1	outCount:1	links:	url:CHEBI:51065	name:dopamine agonist	normalName:dopamine agonist	normalWikiTitle:dopamine agonist	predictedType:chemical
+CANDIDATE	id:37956	inCount:3	outCount:2	links:	url:CHEBI:37956	name:histamine antagonist	normalName:histamine antagonist	normalWikiTitle:histamine antagonist	predictedType:chemical
+CANDIDATE	id:138931	inCount:0	outCount:1	links:	url:CHEBI:138931	name:glutamine antagonist	normalName:glutamine antagonist	normalWikiTitle:glutamine antagonist	predictedType:chemical
+CANDIDATE	id:49020	inCount:14	outCount:2	links:	url:CHEBI:49020	name:hormone antagonist	normalName:hormone antagonist	normalWikiTitle:hormone antagonist	predictedType:chemical
+CANDIDATE	id:55347	inCount:0	outCount:1	links:	url:CHEBI:55347	name:vitamin K antagonist	normalName:vitamin k antagonist	normalWikiTitle:vitamin k antagonist	predictedType:chemical
+CANDIDATE	id:23891	inCount:0	outCount:1	links:	url:CHEBI:23891	name:ecdysone antagonists	normalName:ecdysone antagonists	normalWikiTitle:ecdysone antagonists	predictedType:chemical
+CANDIDATE	id:131787	inCount:0	outCount:1	links:	url:CHEBI:131787	name:dopamine receptor D2 antagonist	normalName:dopamine receptor d2 antagonist	normalWikiTitle:dopamine receptor d2 antagonist	predictedType:chemical
+CANDIDATE	id:130181	inCount:0	outCount:1	links:	url:CHEBI:130181	name:calmodulin antagonist	normalName:calmodulin antagonist	normalWikiTitle:calmodulin antagonist	predictedType:chemical
+CANDIDATE	id:78248	inCount:0	outCount:1	links:	url:CHEBI:78248	name:vitamin B1 antagonist	normalName:vitamin b1 antagonist	normalWikiTitle:vitamin b1 antagonist	predictedType:chemical
+ENTITY	text:cocaine	normalName:cocaine	predictedType:chemical	q:true	qid:Q15	docId:15061865	origText:cocaine	url:CHEBI:27958
+CANDIDATE	id:27958	inCount:0	outCount:4	links:33290	url:CHEBI:27958	name:cocaine	normalName:cocaine	normalWikiTitle:cocaine	predictedType:chemical
+ENTITY	text:mixture	normalName:mixture	predictedType:chemical	q:true	qid:Q15	docId:15061865	origText:mixture	url:CHEBI:60004
+CANDIDATE	id:60004	inCount:122	outCount:1	links:	url:CHEBI:60004	name:mixture	normalName:mixture	normalWikiTitle:mixture	predictedType:chemical
+ENTITY	text:6-OHDA	normalName:6-ohda	predictedType:chemical	q:true	qid:Q15	docId:15061865	origText:6-OHDA	url:CHEBI:78741
+CANDIDATE	id:78741	inCount:0	outCount:3	links:18243	url:CHEBI:78741	name:6-OHDA	normalName:6-ohda	normalWikiTitle:6-ohda	predictedType:chemical
+CANDIDATE	id:79233	inCount:0	outCount:3	links:	url:CHEBI:79233	name:bhas#26	normalName:bhas#26	normalWikiTitle:bhas#26	predictedType:chemical
+CANDIDATE	id:31330	inCount:0	outCount:1	links:	url:CHEBI:31330	name:C26-CoA	normalName:c26-coa	normalWikiTitle:c26-coa	predictedType:chemical
+CANDIDATE	id:80446	inCount:0	outCount:1	links:	url:CHEBI:80446	name:10-OPDA	normalName:10-opda	normalWikiTitle:10-opda	predictedType:chemical
+CANDIDATE	id:79358	inCount:0	outCount:4	links:	url:CHEBI:79358	name:ibha#26	normalName:ibha#26	normalWikiTitle:ibha#26	predictedType:chemical
+CANDIDATE	id:79227	inCount:0	outCount:3	links:	url:CHEBI:79227	name:bhas#16	normalName:bhas#16	normalWikiTitle:bhas#16	predictedType:chemical
+CANDIDATE	id:86325	inCount:0	outCount:5	links:	url:CHEBI:86325	name:BDA-366	normalName:bda-366	normalWikiTitle:bda-366	predictedType:chemical
+CANDIDATE	id:79238	inCount:0	outCount:3	links:	url:CHEBI:79238	name:bhas#36	normalName:bhas#36	normalWikiTitle:bhas#36	predictedType:chemical
+CANDIDATE	id:79353	inCount:0	outCount:4	links:	url:CHEBI:79353	name:ibha#16	normalName:ibha#16	normalWikiTitle:ibha#16	predictedType:chemical
+CANDIDATE	id:72613	inCount:0	outCount:1	links:	url:CHEBI:72613	name:16-HDoHE	normalName:16-hdohe	normalWikiTitle:16-hdohe	predictedType:chemical
+CANDIDATE	id:52672	inCount:0	outCount:3	links:	url:CHEBI:52672	name:rhodamine 6G	normalName:rhodamine 6g	normalWikiTitle:rhodamine 6g	predictedType:chemical
+CANDIDATE	id:38362	inCount:0	outCount:1	links:	url:CHEBI:38362	name:6-ODA	normalName:6-oda	normalWikiTitle:6-oda	predictedType:chemical
+CANDIDATE	id:20725	inCount:0	outCount:1	links:	url:CHEBI:20725	name:6-OHdopa	normalName:6-ohdopa	normalWikiTitle:6-ohdopa	predictedType:chemical
+CANDIDATE	id:38362	inCount:0	outCount:1	links:	url:CHEBI:38362	name:6-ODYA	normalName:6-odya	normalWikiTitle:6-odya	predictedType:chemical
+CANDIDATE	id:137822	inCount:0	outCount:3	links:	url:CHEBI:137822	name:HDCA-6G	normalName:hdca-6g	normalWikiTitle:hdca-6g	predictedType:chemical
+CANDIDATE	id:28801	inCount:0	outCount:1	links:	url:CHEBI:28801	name:9-ODA	normalName:9-oda	normalWikiTitle:9-oda	predictedType:chemical
+CANDIDATE	id:83149	inCount:0	outCount:4	links:	url:CHEBI:83149	name:hyda#1	normalName:hyda#1	normalWikiTitle:hyda#1	predictedType:chemical
+CANDIDATE	id:136905	inCount:0	outCount:3	links:	url:CHEBI:136905	name:HDCA-6G(2-)	normalName:hdca-6g(2-)	normalWikiTitle:hdca-6g(2-)	predictedType:chemical
+CANDIDATE	id:40304	inCount:0	outCount:1	links:	url:CHEBI:40304	name:8-OHdG	normalName:8-ohdg	normalWikiTitle:8-ohdg	predictedType:chemical
+CANDIDATE	id:28801	inCount:0	outCount:1	links:	url:CHEBI:28801	name:9-ODYA	normalName:9-odya	normalWikiTitle:9-odya	predictedType:chemical
+ENTITY	text:food	normalName:food	predictedType:chemical	q:true	qid:Q15	docId:15061865	origText:food	url:CHEBI:33290
+CANDIDATE	id:33290	inCount:0	outCount:1	links:27958;18243	url:CHEBI:33290	name:food	normalName:food	normalWikiTitle:food	predictedType:chemical

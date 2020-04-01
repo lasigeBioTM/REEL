@@ -1,0 +1,6 @@
+ENTITY	text:N-butyl-deoxynojirimycin	normalName:n-butyl-deoxynojirimycin	predictedType:chemical	q:true	qid:Q373	docId:7905523	origText:N-butyl-deoxynojirimycin	url:C059896
+CANDIDATE	id:59896	inCount:0	outCount:1	links:59896	url:C059896	name:n-butyl deoxynojirimycin	normalName:n-butyl deoxynojirimycin	normalWikiTitle:n-butyl deoxynojirimycin	predictedType:Chemical
+ENTITY	text:zidovudine	normalName:zidovudine	predictedType:chemical	q:true	qid:Q373	docId:7905523	origText:zidovudine	url:D015215
+CANDIDATE	id:15215	inCount:86	outCount:2	links:	url:D015215	name:Zidovudine	normalName:zidovudine	normalWikiTitle:zidovudine	predictedType:Chemical
+ENTITY	text:SC-48334	normalName:sc-48334	predictedType:chemical	q:true	qid:Q373	docId:7905523	origText:SC-48334	url:C059896
+CANDIDATE	id:59896	inCount:0	outCount:1	links:59896	url:C059896	name:SC-48334	normalName:sc-48334	normalWikiTitle:sc-48334	predictedType:Chemical

@@ -1,0 +1,4 @@
+ENTITY	text:isoproterenol	normalName:isoproterenol	predictedType:chemical	q:true	qid:Q948	docId:19058010	origText:isoproterenol	url:D007545
+CANDIDATE	id:7545	inCount:12	outCount:2	links:	url:D007545	name:Isoproterenol	normalName:isoproterenol	normalWikiTitle:isoproterenol	predictedType:Chemical
+ENTITY	text:vitamin E	normalName:vitamin e	predictedType:chemical	q:true	qid:Q948	docId:19058010	origText:vitamin E	url:D014810
+CANDIDATE	id:14810	inCount:73	outCount:1	links:	url:D014810	name:Vitamin E	normalName:vitamin e	normalWikiTitle:vitamin e	predictedType:Chemical

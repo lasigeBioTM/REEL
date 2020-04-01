@@ -1,0 +1,8 @@
+ENTITY	text:sodium	normalName:sodium	predictedType:chemical	q:true	qid:Q497	docId:18768591	origText:sodium	url:D012964
+CANDIDATE	id:12964	inCount:10	outCount:2	links:	url:D012964	name:Sodium	normalName:sodium	normalWikiTitle:sodium	predictedType:Chemical
+ENTITY	text:aldosterone	normalName:aldosterone	predictedType:chemical	q:true	qid:Q497	docId:18768591	origText:aldosterone	url:D000450
+CANDIDATE	id:450	inCount:23	outCount:2	links:	url:D000450	name:Aldosterone	normalName:aldosterone	normalWikiTitle:aldosterone	predictedType:Chemical
+ENTITY	text:doxorubicin	normalName:doxorubicin	predictedType:chemical	q:true	qid:Q497	docId:18768591	origText:doxorubicin	url:D004317
+CANDIDATE	id:4317	inCount:559	outCount:1	links:	url:D004317	name:Doxorubicin	normalName:doxorubicin	normalWikiTitle:doxorubicin	predictedType:Chemical
+ENTITY	text:urea	normalName:urea	predictedType:chemical	q:true	qid:Q497	docId:18768591	origText:urea	url:D014508
+CANDIDATE	id:14508	inCount:401	outCount:1	links:	url:D014508	name:Urea	normalName:urea	normalWikiTitle:urea	predictedType:Chemical

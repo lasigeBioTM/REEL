@@ -1,0 +1,19 @@
+ENTITY	text:17beta-estradiol	normalName:17beta-estradiol	predictedType:chemical	q:true	qid:Q444	docId:15145918	origText:17beta-estradiol	url:D004958
+CANDIDATE	id:4958	inCount:306	outCount:2	links:	url:D004958	name:Estradiol-17beta	normalName:estradiol-17beta	normalWikiTitle:estradiol-17beta	predictedType:Chemical
+ENTITY	text:alpha-methyldopa	normalName:alpha-methyldopa	predictedType:chemical	q:true	qid:Q444	docId:15145918	origText:alpha-methyldopa	url:D008750
+CANDIDATE	id:8750	inCount:9	outCount:1	links:	url:D008750	name:alpha Methyldopa	normalName:alpha methyldopa	normalWikiTitle:alpha methyldopa	predictedType:Chemical
+ENTITY	text:estrogen	normalName:estrogen	predictedType:chemical	q:true	qid:Q444	docId:15145918	origText:estrogen	url:D004967
+CANDIDATE	id:4967	inCount:1	outCount:1	links:	url:D004967	name:Estrogen	normalName:estrogen	normalWikiTitle:estrogen	predictedType:Chemical
+ENTITY	text:clonidine	normalName:clonidine	predictedType:chemical	q:true	qid:Q444	docId:15145918	origText:clonidine	url:D003000
+CANDIDATE	id:3000	inCount:39	outCount:1	links:	url:D003000	name:Clonidine	normalName:clonidine	normalWikiTitle:clonidine	predictedType:Chemical
+ENTITY	text:imidazoline	normalName:imidazoline	predictedType:chemical	q:true	qid:Q444	docId:15145918	origText:imidazoline	url:D048288
+CANDIDATE	id:48288	inCount:31	outCount:1	links:	url:D048288	name:Imidazolines	normalName:imidazolines	normalWikiTitle:imidazolines	predictedType:Chemical
+CANDIDATE	id:402964	inCount:0	outCount:2	links:	url:C402964	name:imidazolysine	normalName:imidazolysine	normalWikiTitle:imidazolysine	predictedType:Chemical
+CANDIDATE	id:17424	inCount:0	outCount:1	links:	url:C017424	name:2-imidazoline	normalName:2-imidazoline	normalWikiTitle:2-imidazoline	predictedType:Chemical
+CANDIDATE	id:117197	inCount:0	outCount:1	links:	url:C117197	name:imidazolone	normalName:imidazolone	normalWikiTitle:imidazolone	predictedType:Chemical
+CANDIDATE	id:29155	inCount:0	outCount:1	links:	url:C029155	name:imidoline	normalName:imidoline	normalWikiTitle:imidoline	predictedType:Chemical
+CANDIDATE	id:29899	inCount:0	outCount:1	links:	url:C029899	name:imidazole	normalName:imidazole	normalWikiTitle:imidazole	predictedType:Chemical
+CANDIDATE	id:48289	inCount:121	outCount:1	links:	url:D048289	name:Imidazolidines	normalName:imidazolidines	normalWikiTitle:imidazolidines	predictedType:Chemical
+CANDIDATE	id:120946	inCount:0	outCount:2	links:	url:C120946	name:furimidazoline	normalName:furimidazoline	normalWikiTitle:furimidazoline	predictedType:Chemical
+CANDIDATE	id:7093	inCount:2071	outCount:1	links:	url:D007093	name:Imidazoles	normalName:imidazoles	normalWikiTitle:imidazoles	predictedType:Chemical
+CANDIDATE	id:604522	inCount:0	outCount:1	links:	url:C000604522	name:2-imidazolidone	normalName:2-imidazolidone	normalWikiTitle:2-imidazolidone	predictedType:Chemical

@@ -1,0 +1,19 @@
+ENTITY	text:losartan	normalName:losartan	predictedType:chemical	q:true	qid:Q318	docId:11256525	origText:losartan	url:D019808
+CANDIDATE	id:19808	inCount:6	outCount:3	links:	url:D019808	name:Losartan	normalName:losartan	normalWikiTitle:losartan	predictedType:Chemical
+ENTITY	text:furosemide	normalName:furosemide	predictedType:chemical	q:true	qid:Q318	docId:11256525	origText:furosemide	url:D005665
+CANDIDATE	id:5665	inCount:8	outCount:1	links:	url:D005665	name:Furosemide	normalName:furosemide	normalWikiTitle:furosemide	predictedType:Chemical
+ENTITY	text:angiotensin II	normalName:angiotensin ii	predictedType:chemical	q:true	qid:Q318	docId:11256525	origText:angiotensin II	url:D000804
+CANDIDATE	id:804	inCount:91	outCount:1	links:	url:D000804	name:Angiotensin II	normalName:angiotensin ii	normalWikiTitle:angiotensin ii	predictedType:Chemical
+ENTITY	text:amine	normalName:amine	predictedType:chemical	q:true	qid:Q318	docId:11256525	origText:amine	url:D000588
+CANDIDATE	id:588	inCount:138	outCount:1	links:	url:D000588	name:Amines	normalName:amines	normalWikiTitle:amines	predictedType:Chemical
+CANDIDATE	id:2329	inCount:5	outCount:1	links:	url:D002329	name:Carmine	normalName:carmine	normalWikiTitle:carmine	predictedType:Chemical
+CANDIDATE	id:514045	inCount:0	outCount:2	links:	url:C514045	name:abamine	normalName:abamine	normalWikiTitle:abamine	predictedType:Chemical
+CANDIDATE	id:7884	inCount:0	outCount:1	links:	url:C007884	name:gramine	normalName:gramine	normalWikiTitle:gramine	predictedType:Chemical
+CANDIDATE	id:407151	inCount:0	outCount:1	links:	url:C407151	name:apomine	normalName:apomine	normalWikiTitle:apomine	predictedType:Chemical
+CANDIDATE	id:488396	inCount:0	outCount:1	links:	url:C488396	name:neamine	normalName:neamine	normalWikiTitle:neamine	predictedType:Chemical
+CANDIDATE	id:467072	inCount:0	outCount:1	links:	url:C467072	name:jamtine	normalName:jamtine	normalWikiTitle:jamtine	predictedType:Chemical
+CANDIDATE	id:6247	inCount:18	outCount:2	links:	url:D006247	name:Harmine	normalName:harmine	normalWikiTitle:harmine	predictedType:Chemical
+CANDIDATE	id:547236	inCount:0	outCount:2	links:	url:C547236	name:zeamine	normalName:zeamine	normalWikiTitle:zeamine	predictedType:Chemical
+CANDIDATE	id:1138	inCount:0	outCount:1	links:	url:D001138	name:Armin	normalName:armin	normalWikiTitle:armin	predictedType:Chemical
+ENTITY	text:angiotensin	normalName:angiotensin	predictedType:chemical	q:true	qid:Q318	docId:11256525	origText:angiotensin	url:D000809
+CANDIDATE	id:809	inCount:9	outCount:4	links:	url:D000809	name:Angiotensin	normalName:angiotensin	normalWikiTitle:angiotensin	predictedType:Chemical

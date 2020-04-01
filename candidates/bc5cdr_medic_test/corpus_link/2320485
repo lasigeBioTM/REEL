@@ -1,0 +1,21 @@
+ENTITY	text:hemolytic anemia	normalName:hemolytic anemia	predictedType:disease	q:true	qid:Q413	docId:2320485	origText:hemolytic anemia	url:D000743
+CANDIDATE	id:743	inCount:20	outCount:1	links:	url:D000743	name:Anemia, Hemolytic	normalName:anemia, hemolytic	normalWikiTitle:anemia, hemolytic	predictedType:Disease
+ENTITY	text:autoimmune hemolytic anemia	normalName:autoimmune hemolytic anemia	predictedType:disease	q:true	qid:Q413	docId:2320485	origText:autoimmune hemolytic anemia	url:D000744
+CANDIDATE	id:744	inCount:6	outCount:2	links:	url:D000744	name:Anemia, Hemolytic, Autoimmune	normalName:anemia, hemolytic, autoimmune	normalWikiTitle:anemia, hemolytic, autoimmune	predictedType:Disease
+ENTITY	text:hemolytic anemias	normalName:hemolytic anemias	predictedType:disease	q:true	qid:Q413	docId:2320485	origText:hemolytic anemias	url:D000743
+CANDIDATE	id:743	inCount:20	outCount:1	links:	url:D000743	name:Anemia, Hemolytic	normalName:anemia, hemolytic	normalWikiTitle:anemia, hemolytic	predictedType:Disease
+ENTITY	text:syncope	normalName:syncope	predictedType:disease	q:true	qid:Q413	docId:2320485	origText:syncope	url:D013575
+CANDIDATE	id:13575	inCount:2	outCount:1	links:	url:D013575	name:Syncope	normalName:syncope	normalWikiTitle:syncope	predictedType:Disease
+ENTITY	text:trauma	normalName:trauma	predictedType:disease	q:true	qid:Q413	docId:2320485	origText:trauma	url:D014947
+CANDIDATE	id:14947	inCount:52	outCount:1	links:	url:D014947	name:Trauma	normalName:trauma	normalWikiTitle:trauma	predictedType:Disease
+ENTITY	text:emergency department	normalName:emergency department	predictedType:disease	q:true	qid:Q413	docId:2320485	origText:emergency department	url:D004630
+CANDIDATE	id:4630	inCount:0	outCount:1	links:	url:D004630	name:Emergencies	normalName:emergencies	normalWikiTitle:emergencies	predictedType:Disease
+CANDIDATE	id:71257	inCount:0	outCount:2	links:	url:D000071257	name:Emergence Delirium	normalName:emergence delirium	normalWikiTitle:emergence delirium	predictedType:Disease
+CANDIDATE	id:12163	inCount:10	outCount:1	links:	url:D012163	name:Retinal Detachment	normalName:retinal detachment	normalWikiTitle:retinal detachment	predictedType:Disease
+CANDIDATE	id:3161	inCount:3	outCount:2	links:	url:D003161	name:Compartment Syndromes	normalName:compartment syndromes	normalWikiTitle:compartment syndromes	predictedType:Disease
+CANDIDATE	id:8546	inCount:0	outCount:2	links:	url:D008546	name:Melanoma, Experimental	normalName:melanoma, experimental	normalWikiTitle:melanoma, experimental	predictedType:Disease
+CANDIDATE	id:63130	inCount:0	outCount:2	links:	url:D063130	name:Maternal Death	normalName:maternal death	normalWikiTitle:maternal death	predictedType:Disease
+CANDIDATE	id:55535	inCount:0	outCount:2	links:	url:D055535	name:Morgellons Disease	normalName:morgellons disease	normalWikiTitle:morgellons disease	predictedType:Disease
+CANDIDATE	id:7049	inCount:1	outCount:1	links:	url:D007049	name:Iatrogenic Disease	normalName:iatrogenic disease	normalWikiTitle:iatrogenic disease	predictedType:Disease
+CANDIDATE	id:52776	inCount:6	outCount:1	links:	url:D052776	name:Female Urogenital Diseases	normalName:female urogenital diseases	normalWikiTitle:female urogenital diseases	predictedType:Disease
+CANDIDATE	id:1177	inCount:2	outCount:1	links:	url:D001177	name:Arthropathy, Neurogenic	normalName:arthropathy, neurogenic	normalWikiTitle:arthropathy, neurogenic	predictedType:Disease

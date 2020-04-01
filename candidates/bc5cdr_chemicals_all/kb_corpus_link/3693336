@@ -1,0 +1,14 @@
+ENTITY	text:Triazolam	normalName:triazolam	predictedType:chemical	q:true	qid:Q732	docId:3693336	origText:Triazolam	url:D014229
+CANDIDATE	id:14229	inCount:2	outCount:1	links:8795;14229	url:D014229	name:Triazolam	normalName:triazolam	normalWikiTitle:triazolam	predictedType:Chemical
+ENTITY	text:triazolo	normalName:triazolo	predictedType:chemical	q:true	qid:Q732	docId:3693336	origText:triazolo	url:D014229
+CANDIDATE	id:14229	inCount:2	outCount:1	links:8795;14229	url:D014229	name:Triazolam	normalName:triazolam	normalWikiTitle:triazolam	predictedType:Chemical
+CANDIDATE	id:411644	inCount:0	outCount:2	links:	url:C411644	name:trizol	normalName:trizol	normalWikiTitle:trizol	predictedType:Chemical
+CANDIDATE	id:14230	inCount:973	outCount:1	links:	url:D014230	name:Triazoles	normalName:triazoles	normalWikiTitle:triazoles	predictedType:Chemical
+CANDIDATE	id:55942	inCount:0	outCount:1	links:	url:C055942	name:ridazolol	normalName:ridazolol	normalWikiTitle:ridazolol	predictedType:Chemical
+CANDIDATE	id:2268	inCount:0	outCount:1	links:	url:C002268	name:tazolol	normalName:tazolol	normalWikiTitle:tazolol	predictedType:Chemical
+CANDIDATE	id:14547	inCount:0	outCount:1	links:	url:C014547	name:etridiazol	normalName:etridiazol	normalWikiTitle:etridiazol	predictedType:Chemical
+CANDIDATE	id:12584	inCount:0	outCount:2	links:	url:C012584	name:triazophos	normalName:triazophos	normalWikiTitle:triazophos	predictedType:Chemical
+CANDIDATE	id:70221	inCount:0	outCount:1	links:	url:C070221	name:travolol	normalName:travolol	normalWikiTitle:travolol	predictedType:Chemical
+CANDIDATE	id:111824	inCount:0	outCount:2	links:	url:C111824	name:trazolan	normalName:trazolan	normalWikiTitle:trazolan	predictedType:Chemical
+CANDIDATE	id:531183	inCount:0	outCount:1	links:	url:C531183	name:pityriazole	normalName:pityriazole	normalWikiTitle:pityriazole	predictedType:Chemical
+CANDIDATE	id:8795	inCount:37	outCount:1	links:14229	url:D008795	name:Trivazol	normalName:trivazol	normalWikiTitle:trivazol	predictedType:Chemical

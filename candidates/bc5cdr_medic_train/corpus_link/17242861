@@ -1,0 +1,6 @@
+ENTITY	text:temporal lobe epilepsy	normalName:temporal lobe epilepsy	predictedType:disease	q:true	qid:Q171	docId:17242861	origText:temporal lobe epilepsy	url:D004833
+CANDIDATE	id:4833	inCount:9	outCount:2	links:12640	url:D004833	name:Epilepsy, Temporal Lobe	normalName:epilepsy, temporal lobe	normalWikiTitle:epilepsy, temporal lobe	predictedType:Disease
+ENTITY	text:seizure	normalName:seizure	predictedType:disease	q:true	qid:Q171	docId:17242861	origText:seizure	url:D012640
+CANDIDATE	id:12640	inCount:53	outCount:1	links:4833	url:D012640	name:Seizure	normalName:seizure	normalWikiTitle:seizure	predictedType:Disease
+ENTITY	text:seizures	normalName:seizures	predictedType:disease	q:true	qid:Q171	docId:17242861	origText:seizures	url:D012640
+CANDIDATE	id:12640	inCount:53	outCount:1	links:4833	url:D012640	name:Seizure	normalName:seizure	normalWikiTitle:seizure	predictedType:Disease

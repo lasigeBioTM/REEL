@@ -1,0 +1,46 @@
+ENTITY	text:bradycardia	normalName:bradycardia	predictedType:disease	q:true	qid:Q352	docId:12101159	origText:bradycardia	url:D001919
+CANDIDATE	id:1919	inCount:0	outCount:1	links:7022;66126;6323;62787	url:D001919	name:Bradycardia	normalName:bradycardia	normalWikiTitle:bradycardia	predictedType:Disease
+ENTITY	text:toxicity	normalName:toxicity	predictedType:disease	q:true	qid:Q352	docId:12101159	origText:toxicity	url:D064420
+CANDIDATE	id:64420	inCount:10	outCount:1	links:	url:D064420	name:Drug Toxicity	normalName:drug toxicity	normalWikiTitle:drug toxicity	predictedType:Disease
+CANDIDATE	id:66126	inCount:0	outCount:3	links:1919	url:D066126	name:Cardiotoxicity	normalName:cardiotoxicity	normalWikiTitle:cardiotoxicity	predictedType:Disease
+CANDIDATE	id:15651	inCount:2	outCount:1	links:	url:D015651	name:Mycotoxicosis	normalName:mycotoxicosis	normalWikiTitle:mycotoxicosis	predictedType:Disease
+CANDIDATE	id:13971	inCount:2	outCount:1	links:	url:D013971	name:Thyrotoxicosis	normalName:thyrotoxicosis	normalWikiTitle:thyrotoxicosis	predictedType:Disease
+CANDIDATE	id:14869	inCount:0	outCount:2	links:7022	url:D014869	name:Water Intoxication	normalName:water intoxication	normalWikiTitle:water intoxication	predictedType:Disease
+CANDIDATE	id:14103	inCount:4	outCount:2	links:	url:D014103	name:Torticollis	normalName:torticollis	normalWikiTitle:torticollis	predictedType:Disease
+CANDIDATE	id:9765	inCount:42	outCount:2	links:	url:D009765	name:Obesity	normalName:obesity	normalWikiTitle:obesity	predictedType:Disease
+CANDIDATE	id:14115	inCount:1	outCount:1	links:	url:D014115	name:Toxemia	normalName:toxemia	normalWikiTitle:toxemia	predictedType:Disease
+CANDIDATE	id:7246	inCount:2	outCount:2	links:	url:D007246	name:Infertility	normalName:infertility	normalWikiTitle:infertility	predictedType:Disease
+CANDIDATE	id:20234	inCount:0	outCount:2	links:	url:D020234	name:Gait Ataxia	normalName:gait ataxia	normalWikiTitle:gait ataxia	predictedType:Disease
+CANDIDATE	id:14069	inCount:1	outCount:1	links:	url:D014069	name:Tonsillitis	normalName:tonsillitis	normalWikiTitle:tonsillitis	predictedType:Disease
+CANDIDATE	id:64420	inCount:10	outCount:1	links:	url:D064420	name:Toxicity, Drug	normalName:toxicity, drug	normalWikiTitle:toxicity, drug	predictedType:Disease
+CANDIDATE	id:17484	inCount:0	outCount:2	links:	url:D017484	name:Phototoxicity	normalName:phototoxicity	normalWikiTitle:phototoxicity	predictedType:Disease
+ENTITY	text:overdose	normalName:overdose	predictedType:disease	q:true	qid:Q352	docId:12101159	origText:overdose	url:D062787
+CANDIDATE	id:62787	inCount:0	outCount:1	links:6323;7022;1919	url:D062787	name:Drug Overdose	normalName:drug overdose	normalWikiTitle:drug overdose	predictedType:Disease
+CANDIDATE	id:57887	inCount:0	outCount:1	links:	url:D057887	name:Overbite	normalName:overbite	normalWikiTitle:overbite	predictedType:Disease
+CANDIDATE	id:8141	inCount:2	outCount:1	links:	url:D008141	name:Lordosis	normalName:lordosis	normalWikiTitle:lordosis	predictedType:Disease
+CANDIDATE	id:564931	inCount:0	outCount:2	links:	url:C564931	name:Oliver Syndrome	normalName:oliver syndrome	normalWikiTitle:oliver syndrome	predictedType:Disease
+CANDIDATE	id:50177	inCount:1	outCount:1	links:	url:D050177	name:Overweight	normalName:overweight	normalWikiTitle:overweight	predictedType:Disease
+CANDIDATE	id:1882	inCount:0	outCount:2	links:	url:D001882	name:Border Disease	normalName:border disease	normalWikiTitle:border disease	predictedType:Disease
+CANDIDATE	id:12393	inCount:1	outCount:1	links:	url:D012393	name:Rosacea	normalName:rosacea	normalWikiTitle:rosacea	predictedType:Disease
+CANDIDATE	id:14717	inCount:2	outCount:2	links:	url:D014717	name:Vertigo	normalName:vertigo	normalWikiTitle:vertigo	predictedType:Disease
+CANDIDATE	id:7918	inCount:2	outCount:1	links:	url:D007918	name:Leprosy	normalName:leprosy	normalWikiTitle:leprosy	predictedType:Disease
+CANDIDATE	id:6732	inCount:1	outCount:2	links:	url:D006732	name:Horner Syndrome	normalName:horner syndrome	normalWikiTitle:horner syndrome	predictedType:Disease
+ENTITY	text:hypotension	normalName:hypotension	predictedType:disease	q:true	qid:Q352	docId:12101159	origText:hypotension	url:D007022
+CANDIDATE	id:7022	inCount:3	outCount:1	links:62787;6323;14869;1919	url:D007022	name:Hypotension	normalName:hypotension	normalWikiTitle:hypotension	predictedType:Disease
+ENTITY	text:asystole	normalName:asystole	predictedType:disease	q:true	qid:Q352	docId:12101159	origText:asystole	url:D006323
+CANDIDATE	id:6323	inCount:2	outCount:1	links:62787;6323;7022;1919	url:D006323	name:Asystole	normalName:asystole	normalWikiTitle:asystole	predictedType:Disease
+ENTITY	text:cardiac arrest	normalName:cardiac arrest	predictedType:disease	q:true	qid:Q352	docId:12101159	origText:cardiac arrest	url:D006323
+CANDIDATE	id:6323	inCount:2	outCount:1	links:62787;6323;7022;1919	url:D006323	name:Arrest, Cardiac	normalName:arrest, cardiac	normalWikiTitle:arrest, cardiac	predictedType:Disease
+ENTITY	text:asystolic	normalName:asystolic	predictedType:disease	q:true	qid:Q352	docId:12101159	origText:asystolic	url:D006323
+CANDIDATE	id:6323	inCount:2	outCount:1	links:62787;6323;7022;1919	url:D006323	name:Asystoles	normalName:asystoles	normalWikiTitle:asystoles	predictedType:Disease
+CANDIDATE	id:17574	inCount:0	outCount:1	links:	url:D017574	name:Parasystole	normalName:parasystole	normalWikiTitle:parasystole	predictedType:Disease
+CANDIDATE	id:54160	inCount:0	outCount:1	links:	url:D054160	name:Systolic Murmurs	normalName:systolic murmurs	normalWikiTitle:systolic murmurs	predictedType:Disease
+CANDIDATE	id:13580	inCount:29	outCount:2	links:	url:D013580	name:Synostosis	normalName:synostosis	normalWikiTitle:synostosis	predictedType:Disease
+CANDIDATE	id:1195	inCount:0	outCount:1	links:	url:D001195	name:Asbestosis	normalName:asbestosis	normalWikiTitle:asbestosis	predictedType:Disease
+CANDIDATE	id:4421	inCount:16	outCount:1	links:	url:D004421	name:Dystonia	normalName:dystonia	normalWikiTitle:dystonia	predictedType:Disease
+CANDIDATE	id:4420	inCount:1	outCount:1	links:	url:D004420	name:Dystocia	normalName:dystocia	normalWikiTitle:dystocia	predictedType:Disease
+CANDIDATE	id:8659	inCount:23	outCount:1	links:	url:D008659	name:Metabolic Diseases	normalName:metabolic diseases	normalWikiTitle:metabolic diseases	predictedType:Disease
+CANDIDATE	id:54143	inCount:0	outCount:1	links:	url:D054143	name:Heart Failure, Systolic	normalName:heart failure, systolic	normalWikiTitle:heart failure, systolic	predictedType:Disease
+CANDIDATE	id:5497	inCount:1	outCount:1	links:	url:D005497	name:Follicular Cyst	normalName:follicular cyst	normalWikiTitle:follicular cyst	predictedType:Disease
+CANDIDATE	id:8415	inCount:5	outCount:3	links:	url:D008415	name:Mastocytosis	normalName:mastocytosis	normalWikiTitle:mastocytosis	predictedType:Disease
+CANDIDATE	id:6323	inCount:2	outCount:1	links:62787;6323;7022;1919	url:D006323	name:Asystole	normalName:asystole	normalWikiTitle:asystole	predictedType:Disease

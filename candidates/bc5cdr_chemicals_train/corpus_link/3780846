@@ -1,0 +1,4 @@
+ENTITY	text:morphine	normalName:morphine	predictedType:chemical	q:true	qid:Q16	docId:3780846	origText:morphine	url:D009020
+CANDIDATE	id:9020	inCount:13	outCount:1	links:6220	url:D009020	name:Morphine	normalName:morphine	normalWikiTitle:morphine	predictedType:Chemical
+ENTITY	text:haloperidol	normalName:haloperidol	predictedType:chemical	q:true	qid:Q16	docId:3780846	origText:haloperidol	url:D006220
+CANDIDATE	id:6220	inCount:24	outCount:1	links:9020	url:D006220	name:Haloperidol	normalName:haloperidol	normalWikiTitle:haloperidol	predictedType:Chemical

@@ -1,0 +1,8 @@
+ENTITY	text:sertraline	normalName:sertraline	predictedType:chemical	q:true	qid:Q468	docId:14742097	origText:sertraline	url:D020280
+CANDIDATE	id:20280	inCount:2	outCount:1	links:5473;17374	url:D020280	name:Sertraline	normalName:sertraline	normalWikiTitle:sertraline	predictedType:Chemical
+ENTITY	text:ephedrine	normalName:ephedrine	predictedType:chemical	q:true	qid:Q468	docId:14742097	origText:ephedrine	url:D004809
+CANDIDATE	id:4809	inCount:31	outCount:2	links:	url:D004809	name:Ephedrine	normalName:ephedrine	normalWikiTitle:ephedrine	predictedType:Chemical
+ENTITY	text:paroxetine	normalName:paroxetine	predictedType:chemical	q:true	qid:Q468	docId:14742097	origText:paroxetine	url:D017374
+CANDIDATE	id:17374	inCount:1	outCount:1	links:20280;5473	url:D017374	name:Paroxetine	normalName:paroxetine	normalWikiTitle:paroxetine	predictedType:Chemical
+ENTITY	text:fluoxetine	normalName:fluoxetine	predictedType:chemical	q:true	qid:Q468	docId:14742097	origText:fluoxetine	url:D005473
+CANDIDATE	id:5473	inCount:8	outCount:1	links:20280;17374	url:D005473	name:Fluoxetine	normalName:fluoxetine	normalWikiTitle:fluoxetine	predictedType:Chemical

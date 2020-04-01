@@ -1,0 +1,4 @@
+ENTITY	text:midazolam	normalName:midazolam	predictedType:chemical	q:true	qid:Q381	docId:8514073	origText:midazolam	url:D008874
+CANDIDATE	id:8874	inCount:6	outCount:1	links:3975	url:D008874	name:Midazolam	normalName:midazolam	normalWikiTitle:midazolam	predictedType:Chemical
+ENTITY	text:diazepam	normalName:diazepam	predictedType:chemical	q:true	qid:Q381	docId:8514073	origText:diazepam	url:D003975
+CANDIDATE	id:3975	inCount:21	outCount:1	links:8874	url:D003975	name:Diazepam	normalName:diazepam	normalWikiTitle:diazepam	predictedType:Chemical

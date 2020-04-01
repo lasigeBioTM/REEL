@@ -1,0 +1,4 @@
+ENTITY	text:spasm	normalName:spasm	predictedType:disease	q:true	qid:Q1342	docId:7315949	origText:spasm	url:D013035
+CANDIDATE	id:13035	inCount:5	outCount:1	links:	url:D013035	name:Spasm	normalName:spasm	normalWikiTitle:spasm	predictedType:Disease
+ENTITY	text:hernias	normalName:hernias	predictedType:disease	q:true	qid:Q1342	docId:7315949	origText:hernias	url:D006547
+CANDIDATE	id:6547	inCount:10	outCount:1	links:	url:D006547	name:Hernias	normalName:hernias	normalWikiTitle:hernias	predictedType:Disease

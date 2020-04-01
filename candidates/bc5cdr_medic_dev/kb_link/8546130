@@ -1,0 +1,21 @@
+ENTITY	text:uremia	normalName:uremia	predictedType:disease	q:true	qid:Q277	docId:8546130	origText:uremia	url:D014511
+CANDIDATE	id:14511	inCount:2	outCount:1	links:	url:D014511	name:Uremia	normalName:uremia	normalWikiTitle:uremia	predictedType:Disease
+ENTITY	text:neurotoxic	normalName:neurotoxic	predictedType:disease	q:true	qid:Q277	docId:8546130	origText:neurotoxic	url:D020258
+CANDIDATE	id:20258	inCount:7	outCount:2	links:	url:D020258	name:Neurotoxicity Syndromes	normalName:neurotoxicity syndromes	normalWikiTitle:neurotoxicity syndromes	predictedType:Disease
+CANDIDATE	id:4767	inCount:0	outCount:2	links:	url:D004767	name:Enterotoxemia	normalName:enterotoxemia	normalWikiTitle:enterotoxemia	predictedType:Disease
+CANDIDATE	id:9443	inCount:2	outCount:1	links:	url:D009443	name:Neuritis	normalName:neuritis	normalWikiTitle:neuritis	predictedType:Disease
+CANDIDATE	id:18306	inCount:0	outCount:2	links:	url:D018306	name:Neurocytoma	normalName:neurocytoma	normalWikiTitle:neurocytoma	predictedType:Disease
+CANDIDATE	id:9902	inCount:1	outCount:1	links:	url:D009902	name:Optic Neuritis	normalName:optic neuritis	normalWikiTitle:optic neuritis	predictedType:Disease
+CANDIDATE	id:11030	inCount:3	outCount:1	links:	url:D011030	name:Pneumothorax	normalName:pneumothorax	normalWikiTitle:pneumothorax	predictedType:Disease
+CANDIDATE	id:1014	inCount:5	outCount:2	links:	url:D001014	name:Aortic Aneurysm	normalName:aortic aneurysm	normalWikiTitle:aortic aneurysm	predictedType:Disease
+CANDIDATE	id:18321	inCount:0	outCount:2	links:	url:D018321	name:Neurothekeoma	normalName:neurothekeoma	normalWikiTitle:neurothekeoma	predictedType:Disease
+CANDIDATE	id:9447	inCount:2	outCount:1	links:	url:D009447	name:Neuroblastoma	normalName:neuroblastoma	normalWikiTitle:neuroblastoma	predictedType:Disease
+CANDIDATE	id:14987	inCount:1	outCount:1	links:	url:D014987	name:Xerostomia	normalName:xerostomia	normalWikiTitle:xerostomia	predictedType:Disease
+ENTITY	text:visual hallucinations	normalName:visual hallucinations	predictedType:disease	q:true	qid:Q277	docId:8546130	origText:visual hallucinations	url:D006212
+CANDIDATE	id:6212	inCount:1	outCount:1	links:	url:D006212	name:Hallucinations, Visual	normalName:hallucinations, visual	normalWikiTitle:hallucinations, visual	predictedType:Disease
+ENTITY	text:ESRD	normalName:esrd	predictedType:disease	q:true	qid:Q277	docId:8546130	origText:ESRD	url:D007676
+CANDIDATE	id:7676	inCount:3	outCount:1	links:7676	url:D007676	name:ESRD	normalName:esrd	normalWikiTitle:esrd	predictedType:Disease
+ENTITY	text:end-stage renal disease	normalName:end-stage renal disease	predictedType:disease	q:true	qid:Q277	docId:8546130	origText:end-stage renal disease	url:D007676
+CANDIDATE	id:7676	inCount:3	outCount:1	links:7676	url:D007676	name:Renal Disease, End Stage	normalName:renal disease, end stage	normalWikiTitle:renal disease, end stage	predictedType:Disease
+ENTITY	text:chronic renal failure	normalName:chronic renal failure	predictedType:disease	q:true	qid:Q277	docId:8546130	origText:chronic renal failure	url:D007676
+CANDIDATE	id:7676	inCount:3	outCount:1	links:7676	url:D007676	name:Chronic Renal Failure	normalName:chronic renal failure	normalWikiTitle:chronic renal failure	predictedType:Disease

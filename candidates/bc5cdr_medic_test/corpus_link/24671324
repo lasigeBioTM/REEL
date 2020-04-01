@@ -1,0 +1,19 @@
+ENTITY	text:Waldenstrom macroglobulinaemia	normalName:waldenstrom macroglobulinaemia	predictedType:disease	q:true	qid:Q474	docId:24671324	origText:Waldenstrom macroglobulinaemia	url:D008258
+CANDIDATE	id:8258	inCount:0	outCount:4	links:	url:D008258	name:Waldenstrom Macroglobulinaemia	normalName:waldenstrom macroglobulinaemia	normalWikiTitle:waldenstrom macroglobulinaemia	predictedType:Disease
+ENTITY	text:neutropenia	normalName:neutropenia	predictedType:disease	q:true	qid:Q474	docId:24671324	origText:neutropenia	url:D009503
+CANDIDATE	id:9503	inCount:19	outCount:1	links:19115	url:D009503	name:Neutropenia	normalName:neutropenia	normalWikiTitle:neutropenia	predictedType:Disease
+ENTITY	text:Necrotising fasciitis	normalName:necrotising fasciitis	predictedType:disease	q:true	qid:Q474	docId:24671324	origText:Necrotising fasciitis	url:D019115
+CANDIDATE	id:19115	inCount:0	outCount:2	links:9503	url:D019115	name:Fasciitis, Necrotizing	normalName:fasciitis, necrotizing	normalWikiTitle:fasciitis, necrotizing	predictedType:Disease
+CANDIDATE	id:20345	inCount:0	outCount:1	links:	url:D020345	name:Enterocolitis, Necrotizing	normalName:enterocolitis, necrotizing	normalWikiTitle:enterocolitis, necrotizing	predictedType:Disease
+CANDIDATE	id:536779	inCount:0	outCount:1	links:	url:C536779	name:Systemic necrotizing angiitis	normalName:systemic necrotizing angiitis	normalWikiTitle:systemic necrotizing angiitis	predictedType:Disease
+CANDIDATE	id:5218	inCount:0	outCount:1	links:	url:D005218	name:Fat Necrosis	normalName:fat necrosis	normalWikiTitle:fat necrosis	predictedType:Disease
+CANDIDATE	id:36981	inCount:0	outCount:2	links:	url:D036981	name:Fasciitis, Plantar	normalName:fasciitis, plantar	normalWikiTitle:fasciitis, plantar	predictedType:Disease
+CANDIDATE	id:20042	inCount:0	outCount:1	links:	url:D020042	name:Histiocytic Necrotizing Lymphadenitis	normalName:histiocytic necrotizing lymphadenitis	normalWikiTitle:histiocytic necrotizing lymphadenitis	predictedType:Disease
+CANDIDATE	id:5208	inCount:4	outCount:1	links:	url:D005208	name:Fasciitis	normalName:fasciitis	normalWikiTitle:fasciitis	predictedType:Disease
+CANDIDATE	id:15209	inCount:3	outCount:1	links:	url:D015209	name:Cholangitis, Sclerosing	normalName:cholangitis, sclerosing	normalWikiTitle:cholangitis, sclerosing	predictedType:Disease
+CANDIDATE	id:16776	inCount:0	outCount:2	links:	url:D016776	name:Blastocystis Infections	normalName:blastocystis infections	normalWikiTitle:blastocystis infections	predictedType:Disease
+CANDIDATE	id:7299	inCount:0	outCount:1	links:	url:D007299	name:Insect Bites and Stings	normalName:insect bites and stings	normalWikiTitle:insect bites and stings	predictedType:Disease
+ENTITY	text:malignancies	normalName:malignancies	predictedType:disease	q:true	qid:Q474	docId:24671324	origText:malignancies	url:D009369
+CANDIDATE	id:9369	inCount:18	outCount:1	links:	url:D009369	name:Malignancies	normalName:malignancies	normalWikiTitle:malignancies	predictedType:Disease
+ENTITY	text:bacterial infections	normalName:bacterial infections	predictedType:disease	q:true	qid:Q474	docId:24671324	origText:bacterial infections	url:D001424
+CANDIDATE	id:1424	inCount:12	outCount:1	links:	url:D001424	name:Bacterial Infections	normalName:bacterial infections	normalWikiTitle:bacterial infections	predictedType:Disease

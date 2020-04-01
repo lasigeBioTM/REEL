@@ -1,0 +1,4 @@
+ENTITY	text:capsaicin	normalName:capsaicin	predictedType:chemical	q:true	qid:Q125	docId:11752998	origText:capsaicin	url:D002211
+CANDIDATE	id:2211	inCount:38	outCount:4	links:	url:D002211	name:Capsaicin	normalName:capsaicin	normalWikiTitle:capsaicin	predictedType:Chemical
+ENTITY	text:adenosine	normalName:adenosine	predictedType:chemical	q:true	qid:Q125	docId:11752998	origText:adenosine	url:D000241
+CANDIDATE	id:241	inCount:475	outCount:2	links:	url:D000241	name:Adenosine	normalName:adenosine	normalWikiTitle:adenosine	predictedType:Chemical

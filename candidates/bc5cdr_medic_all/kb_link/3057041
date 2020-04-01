@@ -1,0 +1,13 @@
+ENTITY	text:seasonal allergic rhinitis	normalName:seasonal allergic rhinitis	predictedType:disease	q:true	qid:Q943	docId:3057041	origText:seasonal allergic rhinitis	url:D006255
+CANDIDATE	id:6255	inCount:0	outCount:1	links:6255	url:D006255	name:Rhinitis, Allergic, Seasonal	normalName:rhinitis, allergic, seasonal	normalWikiTitle:rhinitis, allergic, seasonal	predictedType:Disease
+ENTITY	text:spring allergic rhinitis	normalName:spring allergic rhinitis	predictedType:disease	q:true	qid:Q943	docId:3057041	origText:spring allergic rhinitis	url:D006255
+CANDIDATE	id:6255	inCount:0	outCount:1	links:6255	url:D006255	name:Rhinitis, Allergic, Seasonal	normalName:rhinitis, allergic, seasonal	normalWikiTitle:rhinitis, allergic, seasonal	predictedType:Disease
+CANDIDATE	id:65631	inCount:2	outCount:2	links:	url:D065631	name:Rhinitis, Allergic	normalName:rhinitis, allergic	normalWikiTitle:rhinitis, allergic	predictedType:Disease
+CANDIDATE	id:12221	inCount:0	outCount:1	links:	url:D012221	name:Rhinitis, Allergic, Perennial	normalName:rhinitis, allergic, perennial	normalWikiTitle:rhinitis, allergic, perennial	predictedType:Disease
+CANDIDATE	id:542	inCount:5	outCount:2	links:	url:D000542	name:Alveolitis, Extrinsic Allergic	normalName:alveolitis, extrinsic allergic	normalWikiTitle:alveolitis, extrinsic allergic	predictedType:Disease
+CANDIDATE	id:12222	inCount:0	outCount:1	links:	url:D012222	name:Rhinitis, Atrophic	normalName:rhinitis, atrophic	normalWikiTitle:rhinitis, atrophic	predictedType:Disease
+CANDIDATE	id:20779	inCount:0	outCount:1	links:	url:D020779	name:Sinus Pericranii	normalName:sinus pericranii	normalWikiTitle:sinus pericranii	predictedType:Disease
+CANDIDATE	id:3233	inCount:0	outCount:2	links:	url:D003233	name:Conjunctivitis, Allergic	normalName:conjunctivitis, allergic	normalWikiTitle:conjunctivitis, allergic	predictedType:Disease
+CANDIDATE	id:15209	inCount:3	outCount:1	links:	url:D015209	name:Cholangitis, Sclerosing	normalName:cholangitis, sclerosing	normalWikiTitle:cholangitis, sclerosing	predictedType:Disease
+CANDIDATE	id:536775	inCount:0	outCount:1	links:	url:C536775	name:Syphilitic aseptic meningitis	normalName:syphilitic aseptic meningitis	normalWikiTitle:syphilitic aseptic meningitis	predictedType:Disease
+CANDIDATE	id:2575	inCount:0	outCount:1	links:	url:D002575	name:Uterine Cervicitis	normalName:uterine cervicitis	normalWikiTitle:uterine cervicitis	predictedType:Disease

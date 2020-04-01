@@ -1,0 +1,4 @@
+ENTITY	text:myocardial ischemia	normalName:myocardial ischemia	predictedType:disease	q:true	qid:Q981	docId:17491223	origText:myocardial ischemia	url:D017202
+CANDIDATE	id:17202	inCount:6	outCount:2	links:7511	url:D017202	name:Myocardial Ischemia	normalName:myocardial ischemia	normalWikiTitle:myocardial ischemia	predictedType:Disease
+ENTITY	text:ischemia	normalName:ischemia	predictedType:disease	q:true	qid:Q981	docId:17491223	origText:ischemia	url:D007511
+CANDIDATE	id:7511	inCount:3	outCount:1	links:17202	url:D007511	name:Ischemia	normalName:ischemia	normalWikiTitle:ischemia	predictedType:Disease

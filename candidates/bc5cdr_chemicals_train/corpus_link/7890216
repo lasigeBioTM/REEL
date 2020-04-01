@@ -1,0 +1,8 @@
+ENTITY	text:ursodeoxycholic acid	normalName:ursodeoxycholic acid	predictedType:chemical	q:true	qid:Q205	docId:7890216	origText:ursodeoxycholic acid	url:D014580
+CANDIDATE	id:14580	inCount:35	outCount:1	links:	url:D014580	name:Ursodeoxycholic Acid	normalName:ursodeoxycholic acid	normalWikiTitle:ursodeoxycholic acid	predictedType:Chemical
+ENTITY	text:calcium	normalName:calcium	predictedType:chemical	q:true	qid:Q205	docId:7890216	origText:calcium	url:D002118
+CANDIDATE	id:2118	inCount:11	outCount:2	links:	url:D002118	name:Calcium	normalName:calcium	normalWikiTitle:calcium	predictedType:Chemical
+ENTITY	text:cholesterol	normalName:cholesterol	predictedType:chemical	q:true	qid:Q205	docId:7890216	origText:cholesterol	url:D002784
+CANDIDATE	id:2784	inCount:223	outCount:2	links:	url:D002784	name:Cholesterol	normalName:cholesterol	normalWikiTitle:cholesterol	predictedType:Chemical
+ENTITY	text:octreotide	normalName:octreotide	predictedType:chemical	q:true	qid:Q205	docId:7890216	origText:octreotide	url:D015282
+CANDIDATE	id:15282	inCount:54	outCount:1	links:	url:D015282	name:Octreotide	normalName:octreotide	normalWikiTitle:octreotide	predictedType:Chemical

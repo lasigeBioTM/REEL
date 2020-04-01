@@ -1,0 +1,14 @@
+ENTITY	text:gamma-aminobutyric acid	normalName:gamma-aminobutyric acid	predictedType:chemical	q:true	qid:Q398	docId:1360900	origText:gamma-aminobutyric acid	url:D005680
+CANDIDATE	id:5680	inCount:100	outCount:1	links:	url:D005680	name:gamma-Aminobutyric Acid	normalName:gamma-aminobutyric acid	normalWikiTitle:gamma-aminobutyric acid	predictedType:Chemical
+ENTITY	text:N-methyl-D-aspartate	normalName:n-methyl-d-aspartate	predictedType:chemical	q:true	qid:Q398	docId:1360900	origText:N-methyl-D-aspartate	url:D016202
+CANDIDATE	id:16202	inCount:3	outCount:1	links:	url:D016202	name:N-Methyl-D-aspartate	normalName:n-methyl-d-aspartate	normalWikiTitle:n-methyl-d-aspartate	predictedType:Chemical
+ENTITY	text:Ethacrynic acid	normalName:ethacrynic acid	predictedType:chemical	q:true	qid:Q398	docId:1360900	origText:Ethacrynic acid	url:D004976
+CANDIDATE	id:4976	inCount:8	outCount:1	links:	url:D004976	name:Ethacrynic Acid	normalName:ethacrynic acid	normalWikiTitle:ethacrynic acid	predictedType:Chemical
+ENTITY	text:acetylcholine	normalName:acetylcholine	predictedType:chemical	q:true	qid:Q398	docId:1360900	origText:acetylcholine	url:D000109
+CANDIDATE	id:109	inCount:23	outCount:1	links:	url:D000109	name:Acetylcholine	normalName:acetylcholine	normalWikiTitle:acetylcholine	predictedType:Chemical
+ENTITY	text:5-hydroxytryptamine	normalName:5-hydroxytryptamine	predictedType:chemical	q:true	qid:Q398	docId:1360900	origText:5-hydroxytryptamine	url:D012701
+CANDIDATE	id:12701	inCount:48	outCount:2	links:12701	url:D012701	name:5 Hydroxytryptamine	normalName:5 hydroxytryptamine	normalWikiTitle:5 hydroxytryptamine	predictedType:Chemical
+ENTITY	text:5-HT	normalName:5-ht	predictedType:chemical	q:true	qid:Q398	docId:1360900	origText:5-HT	url:D012701
+CANDIDATE	id:12701	inCount:48	outCount:2	links:12701	url:D012701	name:5-HT	normalName:5-ht	normalWikiTitle:5-ht	predictedType:Chemical
+ENTITY	text:glutamate	normalName:glutamate	predictedType:chemical	q:true	qid:Q398	docId:1360900	origText:glutamate	url:D018698
+CANDIDATE	id:18698	inCount:53	outCount:2	links:	url:D018698	name:Glutamate	normalName:glutamate	normalWikiTitle:glutamate	predictedType:Chemical

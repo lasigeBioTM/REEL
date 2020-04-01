@@ -1,0 +1,38 @@
+ENTITY	text:trypan blue	normalName:trypan blue	predictedType:chemical	q:true	qid:Q207	docId:17035713	origText:trypan blue	url:D014343
+CANDIDATE	id:14343	inCount:2	outCount:2	links:	url:D014343	name:Trypan Blue	normalName:trypan blue	normalWikiTitle:trypan blue	predictedType:Chemical
+ENTITY	text:cysteine	normalName:cysteine	predictedType:chemical	q:true	qid:Q207	docId:17035713	origText:cysteine	url:D003545
+CANDIDATE	id:3545	inCount:282	outCount:3	links:	url:D003545	name:Cysteine	normalName:cysteine	normalWikiTitle:cysteine	predictedType:Chemical
+ENTITY	text:ifosfamide	normalName:ifosfamide	predictedType:chemical	q:true	qid:Q207	docId:17035713	origText:ifosfamide	url:D007069
+CANDIDATE	id:7069	inCount:106	outCount:2	links:	url:D007069	name:Ifosfamide	normalName:ifosfamide	normalWikiTitle:ifosfamide	predictedType:Chemical
+ENTITY	text:Chloroacetaldehyde	normalName:chloroacetaldehyde	predictedType:chemical	q:true	qid:Q207	docId:17035713	origText:Chloroacetaldehyde	url:C004656
+CANDIDATE	id:4656	inCount:0	outCount:1	links:	url:C004656	name:chloroacetaldehyde	normalName:chloroacetaldehyde	normalWikiTitle:chloroacetaldehyde	predictedType:Chemical
+ENTITY	text:thiol	normalName:thiol	predictedType:chemical	q:true	qid:Q207	docId:17035713	origText:thiol	url:D013438
+CANDIDATE	id:13438	inCount:425	outCount:1	links:13438	url:D013438	name:Thiols	normalName:thiols	normalWikiTitle:thiols	predictedType:Chemical
+CANDIDATE	id:7949	inCount:0	outCount:2	links:7949	url:C007949	name:hithiol	normalName:hithiol	normalWikiTitle:hithiol	predictedType:Chemical
+CANDIDATE	id:4848	inCount:0	outCount:1	links:4848	url:C004848	name:dithiol	normalName:dithiol	normalWikiTitle:dithiol	predictedType:Chemical
+CANDIDATE	id:14494	inCount:1	outCount:1	links:14494	url:D014494	name:Unithiol	normalName:unithiol	normalWikiTitle:unithiol	predictedType:Chemical
+CANDIDATE	id:3460	inCount:0	outCount:1	links:3460	url:C003460	name:threitol	normalName:threitol	normalWikiTitle:threitol	predictedType:Chemical
+CANDIDATE	id:58983	inCount:0	outCount:1	links:58983	url:C058983	name:phethiol	normalName:phethiol	normalWikiTitle:phethiol	predictedType:Chemical
+CANDIDATE	id:8730	inCount:0	outCount:1	links:8730	url:C008730	name:oxathiol	normalName:oxathiol	normalWikiTitle:oxathiol	predictedType:Chemical
+CANDIDATE	id:100038	inCount:0	outCount:1	links:100038	url:C100038	name:ethion	normalName:ethion	normalWikiTitle:ethion	predictedType:Chemical
+CANDIDATE	id:576138	inCount:0	outCount:1	links:576138	url:C576138	name:heliol	normalName:heliol	normalWikiTitle:heliol	predictedType:Chemical
+CANDIDATE	id:46627	inCount:0	outCount:1	links:46627	url:C046627	name:osthol	normalName:osthol	normalWikiTitle:osthol	predictedType:Chemical
+CANDIDATE	id:46889	inCount:0	outCount:2	links:46889	url:C046889	name:tritol	normalName:tritol	normalWikiTitle:tritol	predictedType:Chemical
+CANDIDATE	id:8625	inCount:2	outCount:2	links:8625	url:D008625	name:Thiola	normalName:thiola	normalWikiTitle:thiola	predictedType:Chemical
+ENTITY	text:cisplatin	normalName:cisplatin	predictedType:chemical	q:true	qid:Q207	docId:17035713	origText:cisplatin	url:D002945
+CANDIDATE	id:2945	inCount:293	outCount:3	links:	url:D002945	name:Cisplatin	normalName:cisplatin	normalWikiTitle:cisplatin	predictedType:Chemical
+ENTITY	text:acrolein	normalName:acrolein	predictedType:chemical	q:true	qid:Q207	docId:17035713	origText:acrolein	url:D000171
+CANDIDATE	id:171	inCount:53	outCount:1	links:	url:D000171	name:Acrolein	normalName:acrolein	normalWikiTitle:acrolein	predictedType:Chemical
+ENTITY	text:thiols	normalName:thiols	predictedType:chemical	q:true	qid:Q207	docId:17035713	origText:thiols	url:D013438
+CANDIDATE	id:13438	inCount:425	outCount:1	links:13438	url:D013438	name:Thiols	normalName:thiols	normalWikiTitle:thiols	predictedType:Chemical
+CANDIDATE	id:7949	inCount:0	outCount:2	links:7949	url:C007949	name:hithiol	normalName:hithiol	normalWikiTitle:hithiol	predictedType:Chemical
+CANDIDATE	id:4848	inCount:0	outCount:1	links:4848	url:C004848	name:dithiol	normalName:dithiol	normalWikiTitle:dithiol	predictedType:Chemical
+CANDIDATE	id:14494	inCount:1	outCount:1	links:14494	url:D014494	name:Unithiol	normalName:unithiol	normalWikiTitle:unithiol	predictedType:Chemical
+CANDIDATE	id:3460	inCount:0	outCount:1	links:3460	url:C003460	name:threitol	normalName:threitol	normalWikiTitle:threitol	predictedType:Chemical
+CANDIDATE	id:58983	inCount:0	outCount:1	links:58983	url:C058983	name:phethiol	normalName:phethiol	normalWikiTitle:phethiol	predictedType:Chemical
+CANDIDATE	id:8730	inCount:0	outCount:1	links:8730	url:C008730	name:oxathiol	normalName:oxathiol	normalWikiTitle:oxathiol	predictedType:Chemical
+CANDIDATE	id:100038	inCount:0	outCount:1	links:100038	url:C100038	name:ethion	normalName:ethion	normalWikiTitle:ethion	predictedType:Chemical
+CANDIDATE	id:576138	inCount:0	outCount:1	links:576138	url:C576138	name:heliol	normalName:heliol	normalWikiTitle:heliol	predictedType:Chemical
+CANDIDATE	id:46627	inCount:0	outCount:1	links:46627	url:C046627	name:osthol	normalName:osthol	normalWikiTitle:osthol	predictedType:Chemical
+CANDIDATE	id:46889	inCount:0	outCount:2	links:46889	url:C046889	name:tritol	normalName:tritol	normalWikiTitle:tritol	predictedType:Chemical
+CANDIDATE	id:8625	inCount:2	outCount:2	links:8625	url:D008625	name:Thiola	normalName:thiola	normalWikiTitle:thiola	predictedType:Chemical

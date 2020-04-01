@@ -1,0 +1,4 @@
+ENTITY	text:Clonidine	normalName:clonidine	predictedType:chemical	q:true	qid:Q391	docId:18182964	origText:Clonidine	url:D003000
+CANDIDATE	id:3000	inCount:39	outCount:1	links:	url:D003000	name:Clonidine	normalName:clonidine	normalWikiTitle:clonidine	predictedType:Chemical
+ENTITY	text:methylphenidate	normalName:methylphenidate	predictedType:chemical	q:true	qid:Q391	docId:18182964	origText:methylphenidate	url:D008774
+CANDIDATE	id:8774	inCount:9	outCount:2	links:	url:D008774	name:Methylphenidate	normalName:methylphenidate	normalWikiTitle:methylphenidate	predictedType:Chemical

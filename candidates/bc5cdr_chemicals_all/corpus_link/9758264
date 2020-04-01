@@ -1,0 +1,4 @@
+ENTITY	text:carbamazepine	normalName:carbamazepine	predictedType:chemical	q:true	qid:Q827	docId:9758264	origText:carbamazepine	url:D002220
+CANDIDATE	id:2220	inCount:15	outCount:1	links:	url:D002220	name:Carbamazepine	normalName:carbamazepine	normalWikiTitle:carbamazepine	predictedType:Chemical
+ENTITY	text:folic acid	normalName:folic acid	predictedType:chemical	q:true	qid:Q827	docId:9758264	origText:folic acid	url:D005492
+CANDIDATE	id:5492	inCount:121	outCount:1	links:	url:D005492	name:Folic Acid	normalName:folic acid	normalWikiTitle:folic acid	predictedType:Chemical

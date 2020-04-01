@@ -1,0 +1,12 @@
+ENTITY	text:Diltiazem	normalName:diltiazem	predictedType:chemical	q:true	qid:Q295	docId:11282081	origText:Diltiazem	url:D004110
+CANDIDATE	id:4110	inCount:19	outCount:1	links:14700;9020	url:D004110	name:Diltiazem	normalName:diltiazem	normalWikiTitle:diltiazem	predictedType:Chemical
+ENTITY	text:chloralose	normalName:chloralose	predictedType:chemical	q:true	qid:Q295	docId:11282081	origText:chloralose	url:D002698
+CANDIDATE	id:2698	inCount:0	outCount:2	links:	url:D002698	name:Chloralose	normalName:chloralose	normalWikiTitle:chloralose	predictedType:Chemical
+ENTITY	text:verapamil	normalName:verapamil	predictedType:chemical	q:true	qid:Q295	docId:11282081	origText:verapamil	url:D014700
+CANDIDATE	id:14700	inCount:37	outCount:1	links:4110;9020	url:D014700	name:Verapamil	normalName:verapamil	normalWikiTitle:verapamil	predictedType:Chemical
+ENTITY	text:atropine	normalName:atropine	predictedType:chemical	q:true	qid:Q295	docId:11282081	origText:atropine	url:D001285
+CANDIDATE	id:1285	inCount:16	outCount:1	links:	url:D001285	name:Atropine	normalName:atropine	normalWikiTitle:atropine	predictedType:Chemical
+ENTITY	text:morphine	normalName:morphine	predictedType:chemical	q:true	qid:Q295	docId:11282081	origText:morphine	url:D009020
+CANDIDATE	id:9020	inCount:13	outCount:1	links:4110;14700	url:D009020	name:Morphine	normalName:morphine	normalWikiTitle:morphine	predictedType:Chemical
+ENTITY	text:nadolol	normalName:nadolol	predictedType:chemical	q:true	qid:Q295	docId:11282081	origText:nadolol	url:D009248
+CANDIDATE	id:9248	inCount:4	outCount:1	links:	url:D009248	name:Nadolol	normalName:nadolol	normalWikiTitle:nadolol	predictedType:Chemical

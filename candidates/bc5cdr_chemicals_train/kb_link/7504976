@@ -1,0 +1,29 @@
+ENTITY	text:N  omercazole	normalName:n  omercazole	predictedType:chemical	q:true	qid:Q195	docId:7504976	origText:N  omercazole	url:D002231
+CANDIDATE	id:2231	inCount:0	outCount:1	links:2231	url:D002231	name:Neomercazole	normalName:neomercazole	normalWikiTitle:neomercazole	predictedType:Chemical
+CANDIDATE	id:9853	inCount:10	outCount:1	links:	url:D009853	name:Omeprazole	normalName:omeprazole	normalWikiTitle:omeprazole	predictedType:Chemical
+CANDIDATE	id:64098	inCount:1	outCount:1	links:	url:D064098	name:Esomeprazole	normalName:esomeprazole	normalWikiTitle:esomeprazole	predictedType:Chemical
+CANDIDATE	id:59851	inCount:0	outCount:1	links:	url:C059851	name:omeprazole acid	normalName:omeprazole acid	normalWikiTitle:omeprazole acid	predictedType:Chemical
+CANDIDATE	id:15739	inCount:1	outCount:1	links:	url:D015739	name:Nocodazole	normalName:nocodazole	normalWikiTitle:nocodazole	predictedType:Chemical
+CANDIDATE	id:92109	inCount:0	outCount:1	links:	url:C092109	name:meroxazole	normalName:meroxazole	normalWikiTitle:meroxazole	predictedType:Chemical
+CANDIDATE	id:579828	inCount:0	outCount:1	links:	url:C579828	name:omeprazole-N-oxide	normalName:omeprazole-n-oxide	normalWikiTitle:omeprazole-n-oxide	predictedType:Chemical
+CANDIDATE	id:9554	inCount:0	outCount:1	links:	url:D009554	name:Nimorazole	normalName:nimorazole	normalWikiTitle:nimorazole	predictedType:Chemical
+CANDIDATE	id:8351	inCount:0	outCount:1	links:	url:C008351	name:mepiprazole	normalName:mepiprazole	normalWikiTitle:mepiprazole	predictedType:Chemical
+CANDIDATE	id:50566	inCount:0	outCount:1	links:	url:C050566	name:omoconazole	normalName:omoconazole	normalWikiTitle:omoconazole	predictedType:Chemical
+CANDIDATE	id:627121	inCount:0	outCount:1	links:	url:C000627121	name:metconazole	normalName:metconazole	normalWikiTitle:metconazole	predictedType:Chemical
+CANDIDATE	id:8713	inCount:3	outCount:2	links:	url:D008713	name:Mercazole	normalName:mercazole	normalWikiTitle:mercazole	predictedType:Chemical
+ENTITY	text:carbimazole	normalName:carbimazole	predictedType:chemical	q:true	qid:Q195	docId:7504976	origText:carbimazole	url:D002231
+CANDIDATE	id:2231	inCount:0	outCount:1	links:2231	url:D002231	name:Carbimazole	normalName:carbimazole	normalWikiTitle:carbimazole	predictedType:Chemical
+ENTITY	text:Basd  ne	normalName:basd  ne	predictedType:chemical	q:true	qid:Q195	docId:7504976	origText:Basd  ne	url:C019269
+CANDIDATE	id:19269	inCount:0	outCount:1	links:19269	url:C019269	name:Basdène	normalName:basdène	normalWikiTitle:basdène	predictedType:Chemical
+CANDIDATE	id:518693	inCount:0	outCount:1	links:	url:C518693	name:basudin	normalName:basudin	normalWikiTitle:basudin	predictedType:Chemical
+CANDIDATE	id:28705	inCount:0	outCount:1	links:	url:C028705	name:bone ash	normalName:bone ash	normalWikiTitle:bone ash	predictedType:Chemical
+CANDIDATE	id:58249	inCount:0	outCount:2	links:	url:C058249	name:ebastine	normalName:ebastine	normalWikiTitle:ebastine	predictedType:Chemical
+CANDIDATE	id:560342	inCount:0	outCount:1	links:	url:C560342	name:bacosine	normalName:bacosine	normalWikiTitle:bacosine	predictedType:Chemical
+CANDIDATE	id:57239	inCount:0	outCount:1	links:	url:C057239	name:vobasine	normalName:vobasine	normalWikiTitle:vobasine	predictedType:Chemical
+CANDIDATE	id:601311	inCount:0	outCount:2	links:	url:C000601311	name:lobatoside N	normalName:lobatoside n	normalWikiTitle:lobatoside n	predictedType:Chemical
+CANDIDATE	id:5709	inCount:0	outCount:1	links:	url:C005709	name:raubasine	normalName:raubasine	normalWikiTitle:raubasine	predictedType:Chemical
+CANDIDATE	id:467923	inCount:0	outCount:1	links:	url:C467923	name:brasilane	normalName:brasilane	normalWikiTitle:brasilane	predictedType:Chemical
+CANDIDATE	id:10181	inCount:0	outCount:2	links:	url:C010181	name:herbadine	normalName:herbadine	normalWikiTitle:herbadine	predictedType:Chemical
+CANDIDATE	id:448920	inCount:0	outCount:1	links:	url:C448920	name:aldene	normalName:aldene	normalWikiTitle:aldene	predictedType:Chemical
+ENTITY	text:benzylthiouracil	normalName:benzylthiouracil	predictedType:chemical	q:true	qid:Q195	docId:7504976	origText:benzylthiouracil	url:C019269
+CANDIDATE	id:19269	inCount:0	outCount:1	links:19269	url:C019269	name:benzylthiouracil	normalName:benzylthiouracil	normalWikiTitle:benzylthiouracil	predictedType:Chemical

@@ -1,0 +1,17 @@
+ENTITY	text:amphothericin B	normalName:amphothericin b	predictedType:chemical	q:true	qid:Q445	docId:3708922	origText:amphothericin B	url:D000666
+CANDIDATE	id:666	inCount:27	outCount:1	links:5839;16572	url:D000666	name:Amphotericin B	normalName:amphotericin b	normalWikiTitle:amphotericin b	predictedType:Chemical
+CANDIDATE	id:41989	inCount:0	outCount:1	links:	url:C041989	name:amphotericin A	normalName:amphotericin a	normalWikiTitle:amphotericin a	predictedType:Chemical
+CANDIDATE	id:548364	inCount:0	outCount:2	links:	url:C548364	name:aspericin B	normalName:aspericin b	normalWikiTitle:aspericin b	predictedType:Chemical
+CANDIDATE	id:539921	inCount:0	outCount:1	links:	url:C539921	name:atricin B	normalName:atricin b	normalWikiTitle:atricin b	predictedType:Chemical
+CANDIDATE	id:544344	inCount:0	outCount:1	links:	url:C544344	name:ascotricin B	normalName:ascotricin b	normalWikiTitle:ascotricin b	predictedType:Chemical
+CANDIDATE	id:598877	inCount:0	outCount:1	links:	url:C000598877	name:americanin B	normalName:americanin b	normalWikiTitle:americanin b	predictedType:Chemical
+CANDIDATE	id:2166	inCount:118	outCount:1	links:	url:D002166	name:Camptothecin	normalName:camptothecin	normalWikiTitle:camptothecin	predictedType:Chemical
+CANDIDATE	id:57100	inCount:0	outCount:1	links:	url:C057100	name:asperlicin B	normalName:asperlicin b	normalWikiTitle:asperlicin b	predictedType:Chemical
+CANDIDATE	id:551688	inCount:0	outCount:1	links:	url:C551688	name:amphiasterin B4	normalName:amphiasterin b4	normalWikiTitle:amphiasterin b4	predictedType:Chemical
+CANDIDATE	id:68538	inCount:0	outCount:1	links:	url:C068538	name:liposomal amphotericin B	normalName:liposomal amphotericin b	normalWikiTitle:liposomal amphotericin b	predictedType:Chemical
+ENTITY	text:cyclosporine	normalName:cyclosporine	predictedType:chemical	q:true	qid:Q445	docId:3708922	origText:cyclosporine	url:D016572
+CANDIDATE	id:16572	inCount:14	outCount:1	links:5839;666;7654	url:D016572	name:Cyclosporine	normalName:cyclosporine	normalWikiTitle:cyclosporine	predictedType:Chemical
+ENTITY	text:gentamicin	normalName:gentamicin	predictedType:chemical	q:true	qid:Q445	docId:3708922	origText:gentamicin	url:D005839
+CANDIDATE	id:5839	inCount:33	outCount:1	links:666;16572	url:D005839	name:Gentamicin	normalName:gentamicin	normalWikiTitle:gentamicin	predictedType:Chemical
+ENTITY	text:ketoconazole	normalName:ketoconazole	predictedType:chemical	q:true	qid:Q445	docId:3708922	origText:ketoconazole	url:D007654
+CANDIDATE	id:7654	inCount:4	outCount:1	links:16572	url:D007654	name:Ketoconazole	normalName:ketoconazole	normalWikiTitle:ketoconazole	predictedType:Chemical

@@ -1,0 +1,4 @@
+ENTITY	text:intracerebral hemorrhage	normalName:intracerebral hemorrhage	predictedType:disease	q:true	qid:Q580	docId:8308951	origText:intracerebral hemorrhage	url:D002543
+CANDIDATE	id:2543	inCount:3	outCount:1	links:6406	url:D002543	name:Hemorrhage, Intracerebral	normalName:hemorrhage, intracerebral	normalWikiTitle:hemorrhage, intracerebral	predictedType:Disease
+ENTITY	text:hematoma	normalName:hematoma	predictedType:disease	q:true	qid:Q580	docId:8308951	origText:hematoma	url:D006406
+CANDIDATE	id:6406	inCount:3	outCount:1	links:2543	url:D006406	name:Hematoma	normalName:hematoma	normalWikiTitle:hematoma	predictedType:Disease

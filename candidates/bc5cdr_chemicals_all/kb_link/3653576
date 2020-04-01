@@ -1,0 +1,8 @@
+ENTITY	text:hexachloro-1:3-butadiene	normalName:hexachloro-1:3-butadiene	predictedType:chemical	q:true	qid:Q886	docId:3653576	origText:hexachloro-1:3-butadiene	url:C001335
+CANDIDATE	id:1335	inCount:0	outCount:1	links:	url:C001335	name:hexachloro-1,3-butadiene	normalName:hexachloro-1,3-butadiene	normalWikiTitle:hexachloro-1,3-butadiene	predictedType:Chemical
+ENTITY	text:2-bromoethylamine	normalName:2-bromoethylamine	predictedType:chemical	q:true	qid:Q886	docId:3653576	origText:2-bromoethylamine	url:C004504
+CANDIDATE	id:4504	inCount:0	outCount:1	links:	url:C004504	name:2-bromoethylamine	normalName:2-bromoethylamine	normalWikiTitle:2-bromoethylamine	predictedType:Chemical
+ENTITY	text:puromycin aminonucleoside	normalName:puromycin aminonucleoside	predictedType:chemical	q:true	qid:Q886	docId:3653576	origText:puromycin aminonucleoside	url:D011692
+CANDIDATE	id:11692	inCount:4	outCount:2	links:	url:D011692	name:Puromycin Aminonucleoside	normalName:puromycin aminonucleoside	normalWikiTitle:puromycin aminonucleoside	predictedType:Chemical
+ENTITY	text:glucose	normalName:glucose	predictedType:chemical	q:true	qid:Q886	docId:3653576	origText:glucose	url:D005947
+CANDIDATE	id:5947	inCount:160	outCount:1	links:	url:D005947	name:Glucose	normalName:glucose	normalWikiTitle:glucose	predictedType:Chemical

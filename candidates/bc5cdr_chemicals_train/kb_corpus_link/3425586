@@ -1,0 +1,15 @@
+ENTITY	text:Dapsone	normalName:dapsone	predictedType:chemical	q:true	qid:Q484	docId:3425586	origText:Dapsone	url:D003622
+CANDIDATE	id:3622	inCount:19	outCount:1	links:	url:D003622	name:Dapsone	normalName:dapsone	normalWikiTitle:dapsone	predictedType:Chemical
+ENTITY	text:pentose phosphate	normalName:pentose phosphate	predictedType:chemical	q:true	qid:Q484	docId:3425586	origText:pentose phosphate	url:D010428
+CANDIDATE	id:10428	inCount:30	outCount:1	links:	url:D010428	name:Pentosephosphates	normalName:pentosephosphates	normalWikiTitle:pentosephosphates	predictedType:Chemical
+CANDIDATE	id:59709	inCount:0	outCount:2	links:	url:C059709	name:pentamannose phosphate	normalName:pentamannose phosphate	normalWikiTitle:pentamannose phosphate	predictedType:Chemical
+CANDIDATE	id:61400	inCount:0	outCount:2	links:	url:C061400	name:etoposide phosphate	normalName:etoposide phosphate	normalWikiTitle:etoposide phosphate	predictedType:Chemical
+CANDIDATE	id:26959	inCount:0	outCount:1	links:	url:C026959	name:erythrose 4-phosphate	normalName:erythrose 4-phosphate	normalWikiTitle:erythrose 4-phosphate	predictedType:Chemical
+CANDIDATE	id:244	inCount:93	outCount:1	links:	url:D000244	name:Adenosine Diphosphate	normalName:adenosine diphosphate	normalWikiTitle:adenosine diphosphate	predictedType:Chemical
+CANDIDATE	id:6600	inCount:18	outCount:1	links:	url:D006600	name:Hexosephosphates	normalName:hexosephosphates	normalWikiTitle:hexosephosphates	predictedType:Chemical
+CANDIDATE	id:14526	inCount:0	outCount:1	links:	url:C014526	name:ephedrine phosphate	normalName:ephedrine phosphate	normalWikiTitle:ephedrine phosphate	predictedType:Chemical
+CANDIDATE	id:47217	inCount:0	outCount:1	links:	url:C047217	name:mannose 1-phosphate	normalName:mannose 1-phosphate	normalWikiTitle:mannose 1-phosphate	predictedType:Chemical
+CANDIDATE	id:25416	inCount:0	outCount:1	links:	url:C025416	name:chitose-6-phosphate	normalName:chitose-6-phosphate	normalWikiTitle:chitose-6-phosphate	predictedType:Chemical
+CANDIDATE	id:87475	inCount:0	outCount:1	links:	url:C087475	name:maltose 6-phosphate	normalName:maltose 6-phosphate	normalWikiTitle:maltose 6-phosphate	predictedType:Chemical
+ENTITY	text:glutathione	normalName:glutathione	predictedType:chemical	q:true	qid:Q484	docId:3425586	origText:glutathione	url:D005978
+CANDIDATE	id:5978	inCount:255	outCount:1	links:	url:D005978	name:Glutathione	normalName:glutathione	normalWikiTitle:glutathione	predictedType:Chemical

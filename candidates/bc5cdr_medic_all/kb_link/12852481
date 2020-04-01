@@ -1,0 +1,50 @@
+ENTITY	text:VSDs	normalName:vsds	predictedType:disease	q:true	qid:Q1059	docId:12852481	origText:VSDs	url:D006345
+CANDIDATE	id:6345	inCount:6	outCount:1	links:6345	url:D006345	name:VSD1	normalName:vsd1	normalWikiTitle:vsd1	predictedType:Disease
+CANDIDATE	id:6345	inCount:6	outCount:1	links:6345	url:D006345	name:VSD2	normalName:vsd2	normalWikiTitle:vsd2	predictedType:Disease
+CANDIDATE	id:6345	inCount:6	outCount:1	links:6345	url:D006345	name:VSD3	normalName:vsd3	normalWikiTitle:vsd3	predictedType:Disease
+CANDIDATE	id:562831	inCount:0	outCount:1	links:562831	url:C562831	name:AVSD	normalName:avsd	normalWikiTitle:avsd	predictedType:Disease
+CANDIDATE	id:29461	inCount:3	outCount:1	links:29461	url:D029461	name:SD	normalName:sd	normalWikiTitle:sd	predictedType:Disease
+CANDIDATE	id:562831	inCount:0	outCount:1	links:562831	url:C562831	name:AVSD4	normalName:avsd4	normalWikiTitle:avsd4	predictedType:Disease
+CANDIDATE	id:562831	inCount:0	outCount:1	links:562831	url:C562831	name:AVSD5	normalName:avsd5	normalWikiTitle:avsd5	predictedType:Disease
+CANDIDATE	id:562831	inCount:0	outCount:1	links:562831	url:C562831	name:AVSD3	normalName:avsd3	normalWikiTitle:avsd3	predictedType:Disease
+CANDIDATE	id:52517	inCount:0	outCount:1	links:52517	url:D052517	name:MSD	normalName:msd	normalWikiTitle:msd	predictedType:Disease
+CANDIDATE	id:566092	inCount:0	outCount:2	links:566092	url:C566092	name:SD4	normalName:sd4	normalWikiTitle:sd4	predictedType:Disease
+ENTITY	text:gastrointestinal toxicity	normalName:gastrointestinal toxicity	predictedType:disease	q:true	qid:Q1059	docId:12852481	origText:gastrointestinal toxicity	url:D005767
+CANDIDATE	id:5767	inCount:12	outCount:1	links:	url:D005767	name:Gastrointestinal Diseases	normalName:gastrointestinal diseases	normalWikiTitle:gastrointestinal diseases	predictedType:Disease
+CANDIDATE	id:14385	inCount:0	outCount:2	links:	url:D014385	name:Tuberculosis, Gastrointestinal	normalName:tuberculosis, gastrointestinal	normalWikiTitle:tuberculosis, gastrointestinal	predictedType:Disease
+CANDIDATE	id:5770	inCount:7	outCount:2	links:	url:D005770	name:Gastrointestinal Neoplasms	normalName:gastrointestinal neoplasms	normalWikiTitle:gastrointestinal neoplasms	predictedType:Disease
+CANDIDATE	id:46152	inCount:2	outCount:2	links:	url:D046152	name:Gastrointestinal Stromal Tumors	normalName:gastrointestinal stromal tumors	normalWikiTitle:gastrointestinal stromal tumors	predictedType:Disease
+CANDIDATE	id:6471	inCount:3	outCount:2	links:	url:D006471	name:Gastrointestinal Hemorrhage	normalName:gastrointestinal hemorrhage	normalWikiTitle:gastrointestinal hemorrhage	predictedType:Disease
+CANDIDATE	id:571911	inCount:0	outCount:2	links:	url:C571911	name:Gastrointestinal anthrax	normalName:gastrointestinal anthrax	normalWikiTitle:gastrointestinal anthrax	predictedType:Disease
+CANDIDATE	id:180000	inCount:0	outCount:2	links:	url:180000	name:RETINAL ARTERIES, TORTUOSITY OF	normalName:retinal arteries, tortuosity of	normalWikiTitle:retinal arteries, tortuosity of	predictedType:Disease
+CANDIDATE	id:7417	inCount:1	outCount:1	links:	url:D007417	name:Intestinal Polyps	normalName:intestinal polyps	normalWikiTitle:intestinal polyps	predictedType:Disease
+CANDIDATE	id:562441	inCount:0	outCount:1	links:	url:C562441	name:Intestinal Atresia, Multiple	normalName:intestinal atresia, multiple	normalWikiTitle:intestinal atresia, multiple	predictedType:Disease
+CANDIDATE	id:562842	inCount:0	outCount:2	links:	url:C562842	name:Carcinoid Tumors, Intestinal	normalName:carcinoid tumors, intestinal	normalWikiTitle:carcinoid tumors, intestinal	predictedType:Disease
+CANDIDATE	id:535740	inCount:0	outCount:1	links:	url:C535740	name:CDG, GASTROINTESTINAL TYPE	normalName:cdg, gastrointestinal type	normalWikiTitle:cdg, gastrointestinal type	predictedType:Disease
+ENTITY	text:DH	normalName:dh	predictedType:disease	q:true	qid:Q1059	docId:12852481	origText:DH	url:D065630
+CANDIDATE	id:65630	inCount:7	outCount:2	links:	url:D065630	name:DIH	normalName:dih	normalWikiTitle:dih	predictedType:Disease
+CANDIDATE	id:3643	inCount:11	outCount:1	links:	url:D003643	name:Death	normalName:death	normalWikiTitle:death	predictedType:Disease
+CANDIDATE	id:65630	inCount:7	outCount:2	links:	url:D065630	name:CDH	normalName:cdh	normalWikiTitle:cdh	predictedType:Disease
+CANDIDATE	id:566369	inCount:0	outCount:3	links:	url:C566369	name:DHS	normalName:dhs	normalWikiTitle:dhs	predictedType:Disease
+CANDIDATE	id:142700	inCount:0	outCount:1	links:	url:142700	name:DDH	normalName:ddh	normalWikiTitle:ddh	predictedType:Disease
+CANDIDATE	id:535729	inCount:0	outCount:1	links:	url:C535729	name:DSH	normalName:dsh	normalWikiTitle:dsh	predictedType:Disease
+CANDIDATE	id:565705	inCount:0	outCount:2	links:	url:C565705	name:NDH	normalName:ndh	normalWikiTitle:ndh	predictedType:Disease
+CANDIDATE	id:5489	inCount:0	outCount:3	links:	url:D005489	name:FDH	normalName:fdh	normalWikiTitle:fdh	predictedType:Disease
+CANDIDATE	id:1289	inCount:2	outCount:1	links:	url:D001289	name:ADDH	normalName:addh	normalWikiTitle:addh	predictedType:Disease
+CANDIDATE	id:562769	inCount:0	outCount:1	links:	url:C562769	name:TDH3	normalName:tdh3	normalWikiTitle:tdh3	predictedType:Disease
+CANDIDATE	id:567194	inCount:0	outCount:2	links:	url:C567194	name:DUH2	normalName:duh2	normalWikiTitle:duh2	predictedType:Disease
+ENTITY	text:hydrocephalus	normalName:hydrocephalus	predictedType:disease	q:true	qid:Q1059	docId:12852481	origText:hydrocephalus	url:D006849
+CANDIDATE	id:6849	inCount:38	outCount:1	links:	url:D006849	name:Hydrocephalus	normalName:hydrocephalus	normalWikiTitle:hydrocephalus	predictedType:Disease
+ENTITY	text:ventricular septal defects	normalName:ventricular septal defects	predictedType:disease	q:true	qid:Q1059	docId:12852481	origText:ventricular septal defects	url:D006345
+CANDIDATE	id:6345	inCount:6	outCount:1	links:6345	url:D006345	name:Septal Defect, Ventricular	normalName:septal defect, ventricular	normalWikiTitle:septal defect, ventricular	predictedType:Disease
+ENTITY	text:VSD	normalName:vsd	predictedType:disease	q:true	qid:Q1059	docId:12852481	origText:VSD	url:D006345
+CANDIDATE	id:6345	inCount:6	outCount:1	links:6345	url:D006345	name:VSD1	normalName:vsd1	normalWikiTitle:vsd1	predictedType:Disease
+CANDIDATE	id:6345	inCount:6	outCount:1	links:6345	url:D006345	name:VSD2	normalName:vsd2	normalWikiTitle:vsd2	predictedType:Disease
+CANDIDATE	id:6345	inCount:6	outCount:1	links:6345	url:D006345	name:VSD3	normalName:vsd3	normalWikiTitle:vsd3	predictedType:Disease
+CANDIDATE	id:562831	inCount:0	outCount:1	links:562831	url:C562831	name:AVSD	normalName:avsd	normalWikiTitle:avsd	predictedType:Disease
+CANDIDATE	id:29461	inCount:3	outCount:1	links:29461	url:D029461	name:SD	normalName:sd	normalWikiTitle:sd	predictedType:Disease
+CANDIDATE	id:562831	inCount:0	outCount:1	links:562831	url:C562831	name:AVSD4	normalName:avsd4	normalWikiTitle:avsd4	predictedType:Disease
+CANDIDATE	id:562831	inCount:0	outCount:1	links:562831	url:C562831	name:AVSD5	normalName:avsd5	normalWikiTitle:avsd5	predictedType:Disease
+CANDIDATE	id:562831	inCount:0	outCount:1	links:562831	url:C562831	name:AVSD3	normalName:avsd3	normalWikiTitle:avsd3	predictedType:Disease
+CANDIDATE	id:52517	inCount:0	outCount:1	links:52517	url:D052517	name:MSD	normalName:msd	normalWikiTitle:msd	predictedType:Disease
+CANDIDATE	id:566092	inCount:0	outCount:2	links:566092	url:C566092	name:SD4	normalName:sd4	normalWikiTitle:sd4	predictedType:Disease

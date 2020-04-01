@@ -1,0 +1,10 @@
+ENTITY	text:gamma-vinyl GABA	normalName:gamma-vinyl gaba	predictedType:chemical	q:true	qid:Q12	docId:12684739	origText:gamma-vinyl GABA	url:D020888
+CANDIDATE	id:20888	inCount:0	outCount:1	links:20888	url:D020888	name:gamma Vinyl GABA	normalName:gamma vinyl gaba	normalWikiTitle:gamma vinyl gaba	predictedType:Chemical
+ENTITY	text:cocaine	normalName:cocaine	predictedType:chemical	q:true	qid:Q12	docId:12684739	origText:cocaine	url:D003042
+CANDIDATE	id:3042	inCount:89	outCount:1	links:	url:D003042	name:Cocaine	normalName:cocaine	normalWikiTitle:cocaine	predictedType:Chemical
+ENTITY	text:GABA	normalName:gaba	predictedType:chemical	q:true	qid:Q12	docId:12684739	origText:GABA	url:D005680
+CANDIDATE	id:5680	inCount:100	outCount:1	links:	url:D005680	name:GABA	normalName:gaba	normalWikiTitle:gaba	predictedType:Chemical
+ENTITY	text:vigabatrin	normalName:vigabatrin	predictedType:chemical	q:true	qid:Q12	docId:12684739	origText:vigabatrin	url:D020888
+CANDIDATE	id:20888	inCount:0	outCount:1	links:20888	url:D020888	name:Vigabatrin	normalName:vigabatrin	normalWikiTitle:vigabatrin	predictedType:Chemical
+ENTITY	text:dopamine	normalName:dopamine	predictedType:chemical	q:true	qid:Q12	docId:12684739	origText:dopamine	url:D004298
+CANDIDATE	id:4298	inCount:90	outCount:2	links:	url:D004298	name:Dopamine	normalName:dopamine	normalWikiTitle:dopamine	predictedType:Chemical

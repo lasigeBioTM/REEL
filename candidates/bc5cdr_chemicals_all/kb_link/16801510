@@ -1,0 +1,4 @@
+ENTITY	text:methadone	normalName:methadone	predictedType:chemical	q:true	qid:Q300	docId:16801510	origText:methadone	url:D008691
+CANDIDATE	id:8691	inCount:9	outCount:1	links:	url:D008691	name:Methadone	normalName:methadone	normalWikiTitle:methadone	predictedType:Chemical
+ENTITY	text:potassium	normalName:potassium	predictedType:chemical	q:true	qid:Q300	docId:16801510	origText:potassium	url:D011188
+CANDIDATE	id:11188	inCount:10	outCount:2	links:	url:D011188	name:Potassium	normalName:potassium	normalWikiTitle:potassium	predictedType:Chemical

@@ -1,0 +1,26 @@
+ENTITY	text:acetaminophen	normalName:acetaminophen	predictedType:chemical	q:true	qid:Q408	docId:4082192	origText:acetaminophen	url:D000082
+CANDIDATE	id:82	inCount:89	outCount:1	links:82	url:D000082	name:Acetaminophen	normalName:acetaminophen	normalWikiTitle:acetaminophen	predictedType:Chemical
+ENTITY	text:BNPP	normalName:bnpp	predictedType:chemical	q:true	qid:Q408	docId:4082192	origText:BNPP	url:C002887
+CANDIDATE	id:2887	inCount:0	outCount:1	links:2887	url:C002887	name:BNPP-4	normalName:bnpp-4	normalWikiTitle:bnpp-4	predictedType:Chemical
+CANDIDATE	id:544847	inCount:0	outCount:1	links:	url:C544847	name:BP-PM6	normalName:bp-pm6	normalWikiTitle:bp-pm6	predictedType:Chemical
+CANDIDATE	id:479860	inCount:0	outCount:1	links:	url:C479860	name:BnSP-6	normalName:bnsp-6	normalWikiTitle:bnsp-6	predictedType:Chemical
+CANDIDATE	id:114367	inCount:0	outCount:1	links:	url:C114367	name:PPDm2 B	normalName:ppdm2 b	normalWikiTitle:ppdm2 b	predictedType:Chemical
+CANDIDATE	id:28835	inCount:0	outCount:1	links:	url:C028835	name:biopulp	normalName:biopulp	normalWikiTitle:biopulp	predictedType:Chemical
+CANDIDATE	id:549092	inCount:0	outCount:1	links:	url:C549092	name:Brp-LPA	normalName:brp-lpa	normalWikiTitle:brp-lpa	predictedType:Chemical
+CANDIDATE	id:584364	inCount:0	outCount:1	links:	url:C584364	name:3MB-PP1	normalName:3mb-pp1	normalWikiTitle:3mb-pp1	predictedType:Chemical
+CANDIDATE	id:526113	inCount:0	outCount:1	links:	url:C526113	name:neopeptin B	normalName:neopeptin b	normalWikiTitle:neopeptin b	predictedType:Chemical
+CANDIDATE	id:2887	inCount:0	outCount:1	links:2887	url:C002887	name:BpNPP	normalName:bpnpp	normalWikiTitle:bpnpp	predictedType:Chemical
+CANDIDATE	id:45503	inCount:0	outCount:1	links:	url:C045503	name:BNPMP	normalName:bnpmp	normalWikiTitle:bnpmp	predictedType:Chemical
+CANDIDATE	id:82483	inCount:0	outCount:2	links:	url:C082483	name:ENPP	normalName:enpp	normalWikiTitle:enpp	predictedType:Chemical
+CANDIDATE	id:46393	inCount:0	outCount:1	links:	url:C046393	name:BPDP	normalName:bpdp	normalWikiTitle:bpdp	predictedType:Chemical
+CANDIDATE	id:74663	inCount:0	outCount:1	links:	url:C074663	name:NPIP	normalName:npip	normalWikiTitle:npip	predictedType:Chemical
+CANDIDATE	id:6791	inCount:0	outCount:1	links:	url:C006791	name:BPP1	normalName:bpp1	normalWikiTitle:bpp1	predictedType:Chemical
+CANDIDATE	id:63701	inCount:0	outCount:1	links:	url:C063701	name:NPPS	normalName:npps	normalWikiTitle:npps	predictedType:Chemical
+CANDIDATE	id:58176	inCount:0	outCount:1	links:	url:C058176	name:NPPB	normalName:nppb	normalWikiTitle:nppb	predictedType:Chemical
+CANDIDATE	id:68798	inCount:0	outCount:2	links:	url:C068798	name:PNPP	normalName:pnpp	normalWikiTitle:pnpp	predictedType:Chemical
+ENTITY	text:bis(p-nitrophenyl) phosphate	normalName:bis(p-nitrophenyl) phosphate	predictedType:chemical	q:true	qid:Q408	docId:4082192	origText:bis(p-nitrophenyl) phosphate	url:C002887
+CANDIDATE	id:2887	inCount:0	outCount:1	links:2887	url:C002887	name:bis(p-nitrophenyl)phosphate	normalName:bis(p-nitrophenyl)phosphate	normalWikiTitle:bis(p-nitrophenyl)phosphate	predictedType:Chemical
+ENTITY	text:APAP	normalName:apap	predictedType:chemical	q:true	qid:Q408	docId:4082192	origText:APAP	url:D000082
+CANDIDATE	id:82	inCount:89	outCount:1	links:82	url:D000082	name:APAP	normalName:apap	normalWikiTitle:apap	predictedType:Chemical
+ENTITY	text:p-aminophenol	normalName:p-aminophenol	predictedType:chemical	q:true	qid:Q408	docId:4082192	origText:p-aminophenol	url:C026729
+CANDIDATE	id:26729	inCount:0	outCount:1	links:	url:C026729	name:p-aminophenol	normalName:p-aminophenol	normalWikiTitle:p-aminophenol	predictedType:Chemical

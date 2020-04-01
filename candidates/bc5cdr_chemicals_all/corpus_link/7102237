@@ -1,0 +1,10 @@
+ENTITY	text:scopolamine	normalName:scopolamine	predictedType:chemical	q:true	qid:Q1134	docId:7102237	origText:scopolamine	url:D012601
+CANDIDATE	id:12601	inCount:3	outCount:2	links:9020;9567	url:D012601	name:Scopolamine	normalName:scopolamine	normalWikiTitle:scopolamine	predictedType:Chemical
+ENTITY	text:nitrazepam	normalName:nitrazepam	predictedType:chemical	q:true	qid:Q1134	docId:7102237	origText:nitrazepam	url:D009567
+CANDIDATE	id:9567	inCount:7	outCount:1	links:12601	url:D009567	name:Nitrazepam	normalName:nitrazepam	normalWikiTitle:nitrazepam	predictedType:Chemical
+ENTITY	text:morphine	normalName:morphine	predictedType:chemical	q:true	qid:Q1134	docId:7102237	origText:morphine	url:D009020
+CANDIDATE	id:9020	inCount:13	outCount:1	links:13874;12601	url:D009020	name:Morphine	normalName:morphine	normalWikiTitle:morphine	predictedType:Chemical
+ENTITY	text:thiopentone	normalName:thiopentone	predictedType:chemical	q:true	qid:Q1134	docId:7102237	origText:thiopentone	url:D013874
+CANDIDATE	id:13874	inCount:3	outCount:1	links:9020;8874	url:D013874	name:Thiopentone	normalName:thiopentone	normalWikiTitle:thiopentone	predictedType:Chemical
+ENTITY	text:Midazolam	normalName:midazolam	predictedType:chemical	q:true	qid:Q1134	docId:7102237	origText:Midazolam	url:D008874
+CANDIDATE	id:8874	inCount:6	outCount:1	links:13874	url:D008874	name:Midazolam	normalName:midazolam	normalWikiTitle:midazolam	predictedType:Chemical

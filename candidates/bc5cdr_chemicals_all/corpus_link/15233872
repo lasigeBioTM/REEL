@@ -1,0 +1,39 @@
+ENTITY	text:alcoholic extract of the berries of hawthorn	normalName:alcoholic extract of the berries of hawthorn	predictedType:chemical	q:true	qid:Q978	docId:15233872	origText:alcoholic extract of the berries of hawthorn	url:C007145
+CANDIDATE	id:7145	inCount:0	outCount:1	links:	url:C007145	name:hawthorn leaf with flower	normalName:hawthorn leaf with flower	normalWikiTitle:hawthorn leaf with flower	predictedType:Chemical
+CANDIDATE	id:7145	inCount:0	outCount:1	links:	url:C007145	name:hawthorn leaf with flower extract	normalName:hawthorn leaf with flower extract	normalWikiTitle:hawthorn leaf with flower extract	predictedType:Chemical
+CANDIDATE	id:18675	inCount:0	outCount:1	links:	url:C018675	name:tetrahydrofurfuryl alcohol, (S)-isomer	normalName:tetrahydrofurfuryl alcohol, (s)-isomer	normalWikiTitle:tetrahydrofurfuryl alcohol, (s)-isomer	predictedType:Chemical
+CANDIDATE	id:18675	inCount:0	outCount:1	links:	url:C018675	name:tetrahydrofurfuryl alcohol, (R)-isomer	normalName:tetrahydrofurfuryl alcohol, (r)-isomer	normalWikiTitle:tetrahydrofurfuryl alcohol, (r)-isomer	predictedType:Chemical
+CANDIDATE	id:53099	inCount:0	outCount:3	links:	url:C053099	name:allantoin - heparin - onion extract	normalName:allantoin - heparin - onion extract	normalWikiTitle:allantoin - heparin - onion extract	predictedType:Chemical
+CANDIDATE	id:4365	inCount:1237	outCount:1	links:	url:D004365	name:Plant Extracts, Chinese	normalName:plant extracts, chinese	normalWikiTitle:plant extracts, chinese	predictedType:Chemical
+CANDIDATE	id:4365	inCount:1237	outCount:1	links:	url:D004365	name:Extracts, Chinese Plant	normalName:extracts, chinese plant	normalWikiTitle:extracts, chinese plant	predictedType:Chemical
+CANDIDATE	id:4365	inCount:1237	outCount:1	links:	url:D004365	name:Chinese Plant Extracts	normalName:chinese plant extracts	normalWikiTitle:chinese plant extracts	predictedType:Chemical
+CANDIDATE	id:577093	inCount:0	outCount:2	links:	url:C577093	name:APHC1 protein, Heteractis crispa	normalName:aphc1 protein, heteractis crispa	normalWikiTitle:aphc1 protein, heteractis crispa	predictedType:Chemical
+CANDIDATE	id:28385	inCount:0	outCount:1	links:	url:C028385	name:para-(trifluoromethyl)benzyl alcohol	normalName:para-(trifluoromethyl)benzyl alcohol	normalWikiTitle:para-(trifluoromethyl)benzyl alcohol	predictedType:Chemical
+ENTITY	text:tincture of Crataegus	normalName:tincture of crataegus	predictedType:chemical	q:true	qid:Q978	docId:15233872	origText:tincture of Crataegus	url:C007145
+CANDIDATE	id:7145	inCount:0	outCount:1	links:	url:C007145	name:crataegus extract	normalName:crataegus extract	normalWikiTitle:crataegus extract	predictedType:Chemical
+CANDIDATE	id:629560	inCount:0	outCount:2	links:	url:C000629560	name:crataegusin A	normalName:crataegusin a	normalWikiTitle:crataegusin a	predictedType:Chemical
+CANDIDATE	id:629559	inCount:0	outCount:2	links:	url:C000629559	name:crataegusin B	normalName:crataegusin b	normalWikiTitle:crataegusin b	predictedType:Chemical
+CANDIDATE	id:76689	inCount:0	outCount:5	links:	url:C076689	name:Fungoid Tincture	normalName:fungoid tincture	normalWikiTitle:fungoid tincture	predictedType:Chemical
+CANDIDATE	id:451026	inCount:0	outCount:2	links:	url:C451026	name:crataegioside	normalName:crataegioside	normalWikiTitle:crataegioside	predictedType:Chemical
+CANDIDATE	id:4837	inCount:0	outCount:3	links:	url:C004837	name:onychofissan tincture	normalName:onychofissan tincture	normalWikiTitle:onychofissan tincture	predictedType:Chemical
+CANDIDATE	id:29939	inCount:0	outCount:1	links:	url:C029939	name:corticosterone acetate	normalName:corticosterone acetate	normalWikiTitle:corticosterone acetate	predictedType:Chemical
+CANDIDATE	id:434251	inCount:0	outCount:1	links:	url:C434251	name:Charthamus tinctorius extract	normalName:charthamus tinctorius extract	normalWikiTitle:charthamus tinctorius extract	predictedType:Chemical
+CANDIDATE	id:115762	inCount:0	outCount:3	links:	url:C115762	name:Crest Multicare	normalName:crest multicare	normalWikiTitle:crest multicare	predictedType:Chemical
+CANDIDATE	id:532963	inCount:0	outCount:2	links:	url:C532963	name:ASO4 mixture	normalName:aso4 mixture	normalWikiTitle:aso4 mixture	predictedType:Chemical
+ENTITY	text:ADP	normalName:adp	predictedType:chemical	q:true	qid:Q978	docId:15233872	origText:ADP	url:D000244
+CANDIDATE	id:244	inCount:93	outCount:1	links:	url:D000244	name:ADP	normalName:adp	normalWikiTitle:adp	predictedType:Chemical
+ENTITY	text:isoproterenol	normalName:isoproterenol	predictedType:chemical	q:true	qid:Q978	docId:15233872	origText:isoproterenol	url:D007545
+CANDIDATE	id:7545	inCount:12	outCount:2	links:	url:D007545	name:Isoproterenol	normalName:isoproterenol	normalWikiTitle:isoproterenol	predictedType:Chemical
+ENTITY	text:oxygen	normalName:oxygen	predictedType:chemical	q:true	qid:Q978	docId:15233872	origText:oxygen	url:D010100
+CANDIDATE	id:10100	inCount:11	outCount:2	links:	url:D010100	name:Oxygen	normalName:oxygen	normalWikiTitle:oxygen	predictedType:Chemical
+ENTITY	text:Crataegus oxycantha	normalName:crataegus oxycantha	predictedType:chemical	q:true	qid:Q978	docId:15233872	origText:Crataegus oxycantha	url:C007145
+CANDIDATE	id:7145	inCount:0	outCount:1	links:	url:C007145	name:crataegus extract	normalName:crataegus extract	normalWikiTitle:crataegus extract	predictedType:Chemical
+CANDIDATE	id:629560	inCount:0	outCount:2	links:	url:C000629560	name:crataegusin A	normalName:crataegusin a	normalWikiTitle:crataegusin a	predictedType:Chemical
+CANDIDATE	id:629559	inCount:0	outCount:2	links:	url:C000629559	name:crataegusin B	normalName:crataegusin b	normalWikiTitle:crataegusin b	predictedType:Chemical
+CANDIDATE	id:556091	inCount:0	outCount:1	links:	url:C556091	name:lanthanum citrate	normalName:lanthanum citrate	normalWikiTitle:lanthanum citrate	predictedType:Chemical
+CANDIDATE	id:2563	inCount:0	outCount:1	links:	url:C002563	name:xanthan gum	normalName:xanthan gum	normalWikiTitle:xanthan gum	predictedType:Chemical
+CANDIDATE	id:528876	inCount:0	outCount:2	links:	url:C528876	name:cellulose xanthate	normalName:cellulose xanthate	normalWikiTitle:cellulose xanthate	predictedType:Chemical
+CANDIDATE	id:34568	inCount:0	outCount:1	links:	url:C034568	name:cadeguomycin	normalName:cadeguomycin	normalWikiTitle:cadeguomycin	predictedType:Chemical
+CANDIDATE	id:119467	inCount:0	outCount:1	links:	url:C119467	name:lanthanum carbonate	normalName:lanthanum carbonate	normalWikiTitle:lanthanum carbonate	predictedType:Chemical
+CANDIDATE	id:13899	inCount:0	outCount:1	links:	url:C013899	name:crataemon	normalName:crataemon	normalWikiTitle:crataemon	predictedType:Chemical
+CANDIDATE	id:31061	inCount:0	outCount:1	links:	url:C031061	name:pyrantel citrate	normalName:pyrantel citrate	normalWikiTitle:pyrantel citrate	predictedType:Chemical

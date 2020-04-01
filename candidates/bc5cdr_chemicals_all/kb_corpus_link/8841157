@@ -1,0 +1,8 @@
+ENTITY	text:angiotensin II	normalName:angiotensin ii	predictedType:chemical	q:true	qid:Q943	docId:8841157	origText:angiotensin II	url:D000804
+CANDIDATE	id:804	inCount:91	outCount:1	links:	url:D000804	name:Angiotensin II	normalName:angiotensin ii	normalWikiTitle:angiotensin ii	predictedType:Chemical
+ENTITY	text:amlodipine	normalName:amlodipine	predictedType:chemical	q:true	qid:Q943	docId:8841157	origText:amlodipine	url:D017311
+CANDIDATE	id:17311	inCount:10	outCount:1	links:	url:D017311	name:Amlodipine	normalName:amlodipine	normalWikiTitle:amlodipine	predictedType:Chemical
+ENTITY	text:calcium	normalName:calcium	predictedType:chemical	q:true	qid:Q943	docId:8841157	origText:calcium	url:D002118
+CANDIDATE	id:2118	inCount:11	outCount:2	links:	url:D002118	name:Calcium	normalName:calcium	normalWikiTitle:calcium	predictedType:Chemical
+ENTITY	text:dihydropyridine	normalName:dihydropyridine	predictedType:chemical	q:true	qid:Q943	docId:8841157	origText:dihydropyridine	url:C038806
+CANDIDATE	id:38806	inCount:0	outCount:1	links:	url:C038806	name:dihydropyridine	normalName:dihydropyridine	normalWikiTitle:dihydropyridine	predictedType:Chemical

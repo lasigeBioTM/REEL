@@ -1,0 +1,4 @@
+ENTITY	text:Pure red cell aplasia	normalName:pure red cell aplasia	predictedType:disease	q:true	qid:Q191	docId:146391	origText:Pure red cell aplasia	url:D012010
+CANDIDATE	id:12010	inCount:1	outCount:1	links:	url:D012010	name:Red-Cell Aplasia, Pure	normalName:red-cell aplasia, pure	normalWikiTitle:red-cell aplasia, pure	predictedType:Disease
+ENTITY	text:skin rash	normalName:skin rash	predictedType:disease	q:true	qid:Q191	docId:146391	origText:skin rash	url:D005076
+CANDIDATE	id:5076	inCount:1	outCount:1	links:	url:D005076	name:Rash, Skin	normalName:rash, skin	normalWikiTitle:rash, skin	predictedType:Disease

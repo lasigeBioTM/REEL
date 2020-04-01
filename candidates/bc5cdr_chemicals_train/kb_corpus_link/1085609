@@ -1,0 +1,4 @@
+ENTITY	text:isoniazid	normalName:isoniazid	predictedType:chemical	q:true	qid:Q129	docId:1085609	origText:isoniazid	url:D007538
+CANDIDATE	id:7538	inCount:46	outCount:2	links:	url:D007538	name:Isoniazid	normalName:isoniazid	normalWikiTitle:isoniazid	predictedType:Chemical
+ENTITY	text:pyridoxine	normalName:pyridoxine	predictedType:chemical	q:true	qid:Q129	docId:1085609	origText:pyridoxine	url:D011736
+CANDIDATE	id:11736	inCount:59	outCount:1	links:	url:D011736	name:Pyridoxine	normalName:pyridoxine	normalWikiTitle:pyridoxine	predictedType:Chemical

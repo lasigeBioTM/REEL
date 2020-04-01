@@ -1,0 +1,4 @@
+ENTITY	text:Pethidine	normalName:pethidine	predictedType:chemical	q:true	qid:Q221	docId:9672936	origText:Pethidine	url:D008614
+CANDIDATE	id:8614	inCount:11	outCount:1	links:	url:D008614	name:Pethidine	normalName:pethidine	normalWikiTitle:pethidine	predictedType:Chemical
+ENTITY	text:norpethidine	normalName:norpethidine	predictedType:chemical	q:true	qid:Q221	docId:9672936	origText:norpethidine	url:C002752
+CANDIDATE	id:2752	inCount:0	outCount:1	links:	url:C002752	name:norpethidine	normalName:norpethidine	normalWikiTitle:norpethidine	predictedType:Chemical

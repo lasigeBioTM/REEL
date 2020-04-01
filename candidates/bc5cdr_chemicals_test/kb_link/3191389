@@ -1,0 +1,12 @@
+ENTITY	text:pilocarpine	normalName:pilocarpine	predictedType:chemical	q:true	qid:Q193	docId:3191389	origText:pilocarpine	url:D010862
+CANDIDATE	id:10862	inCount:7	outCount:1	links:	url:D010862	name:Pilocarpine	normalName:pilocarpine	normalWikiTitle:pilocarpine	predictedType:Chemical
+ENTITY	text:sodium salicylate	normalName:sodium salicylate	predictedType:chemical	q:true	qid:Q193	docId:3191389	origText:sodium salicylate	url:D012980
+CANDIDATE	id:12980	inCount:1	outCount:1	links:	url:D012980	name:Sodium Salicylate	normalName:sodium salicylate	normalWikiTitle:sodium salicylate	predictedType:Chemical
+ENTITY	text:indomethacin	normalName:indomethacin	predictedType:chemical	q:true	qid:Q193	docId:3191389	origText:indomethacin	url:D007213
+CANDIDATE	id:7213	inCount:40	outCount:1	links:	url:D007213	name:Indomethacin	normalName:indomethacin	normalWikiTitle:indomethacin	predictedType:Chemical
+ENTITY	text:ibuprofen	normalName:ibuprofen	predictedType:chemical	q:true	qid:Q193	docId:3191389	origText:ibuprofen	url:D007052
+CANDIDATE	id:7052	inCount:34	outCount:1	links:	url:D007052	name:Ibuprofen	normalName:ibuprofen	normalWikiTitle:ibuprofen	predictedType:Chemical
+ENTITY	text:mefenamic acid	normalName:mefenamic acid	predictedType:chemical	q:true	qid:Q193	docId:3191389	origText:mefenamic acid	url:D008528
+CANDIDATE	id:8528	inCount:5	outCount:1	links:	url:D008528	name:Mefenamic Acid	normalName:mefenamic acid	normalWikiTitle:mefenamic acid	predictedType:Chemical
+ENTITY	text:phenylbutazone	normalName:phenylbutazone	predictedType:chemical	q:true	qid:Q193	docId:3191389	origText:phenylbutazone	url:D010653
+CANDIDATE	id:10653	inCount:27	outCount:1	links:	url:D010653	name:Phenylbutazone	normalName:phenylbutazone	normalWikiTitle:phenylbutazone	predictedType:Chemical

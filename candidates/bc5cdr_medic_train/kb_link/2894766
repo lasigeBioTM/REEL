@@ -1,0 +1,23 @@
+ENTITY	text:lupus erythematosus	normalName:lupus erythematosus	predictedType:disease	q:true	qid:Q307	docId:2894766	origText:lupus erythematosus	url:D008180
+CANDIDATE	id:8180	inCount:8	outCount:2	links:	url:D008180	name:Lupus Erythematosus, Systemic	normalName:lupus erythematosus, systemic	normalWikiTitle:lupus erythematosus, systemic	predictedType:Disease
+CANDIDATE	id:8179	inCount:1	outCount:1	links:	url:D008179	name:Lupus Erythematosus, Discoid	normalName:lupus erythematosus, discoid	normalWikiTitle:lupus erythematosus, discoid	predictedType:Disease
+CANDIDATE	id:8178	inCount:2	outCount:2	links:	url:D008178	name:Lupus Erythematosus, Cutaneous	normalName:lupus erythematosus, cutaneous	normalWikiTitle:lupus erythematosus, cutaneous	predictedType:Disease
+CANDIDATE	id:15435	inCount:0	outCount:2	links:	url:D015435	name:Panniculitis, Lupus Erythematosus	normalName:panniculitis, lupus erythematosus	normalWikiTitle:panniculitis, lupus erythematosus	predictedType:Disease
+CANDIDATE	id:536397	inCount:0	outCount:1	links:	url:C536397	name:Neonatal Systemic lupus erythematosus	normalName:neonatal systemic lupus erythematosus	normalWikiTitle:neonatal systemic lupus erythematosus	predictedType:Disease
+CANDIDATE	id:4893	inCount:3	outCount:2	links:	url:D004893	name:Erythema Nodosum	normalName:erythema nodosum	normalWikiTitle:erythema nodosum	predictedType:Disease
+CANDIDATE	id:12536	inCount:9	outCount:1	links:	url:D012536	name:Scalp Dermatoses	normalName:scalp dermatoses	normalWikiTitle:scalp dermatoses	predictedType:Disease
+CANDIDATE	id:15440	inCount:0	outCount:1	links:	url:D015440	name:Leprosy, Lepromatous	normalName:leprosy, lepromatous	normalWikiTitle:leprosy, lepromatous	predictedType:Disease
+CANDIDATE	id:16731	inCount:1	outCount:3	links:	url:D016731	name:Erythema Infectiosum	normalName:erythema infectiosum	normalWikiTitle:erythema infectiosum	predictedType:Disease
+CANDIDATE	id:563621	inCount:0	outCount:2	links:	url:C563621	name:Lip, Hamartomatous	normalName:lip, hamartomatous	normalWikiTitle:lip, hamartomatous	predictedType:Disease
+ENTITY	text:inflammatory bowel disease	normalName:inflammatory bowel disease	predictedType:disease	q:true	qid:Q307	docId:2894766	origText:inflammatory bowel disease	url:D015212
+CANDIDATE	id:15212	inCount:31	outCount:2	links:	url:D015212	name:Inflammatory Bowel Disease	normalName:inflammatory bowel disease	normalWikiTitle:inflammatory bowel disease	predictedType:Disease
+ENTITY	text:cardiac tamponade	normalName:cardiac tamponade	predictedType:disease	q:true	qid:Q307	docId:2894766	origText:cardiac tamponade	url:D002305
+CANDIDATE	id:2305	inCount:0	outCount:1	links:	url:D002305	name:Cardiac Tamponade	normalName:cardiac tamponade	normalWikiTitle:cardiac tamponade	predictedType:Disease
+ENTITY	text:pleural effusions	normalName:pleural effusions	predictedType:disease	q:true	qid:Q307	docId:2894766	origText:pleural effusions	url:D010996
+CANDIDATE	id:10996	inCount:1	outCount:1	links:	url:D010996	name:Pleural Effusion	normalName:pleural effusion	normalWikiTitle:pleural effusion	predictedType:Disease
+ENTITY	text:ulcerative colitis	normalName:ulcerative colitis	predictedType:disease	q:true	qid:Q307	docId:2894766	origText:ulcerative colitis	url:D003093
+CANDIDATE	id:3093	inCount:1	outCount:2	links:	url:D003093	name:Colitis, Ulcerative	normalName:colitis, ulcerative	normalWikiTitle:colitis, ulcerative	predictedType:Disease
+ENTITY	text:Pneumonitis	normalName:pneumonitis	predictedType:disease	q:true	qid:Q307	docId:2894766	origText:Pneumonitis	url:D011014
+CANDIDATE	id:11014	inCount:10	outCount:2	links:	url:D011014	name:Pneumonitis	normalName:pneumonitis	normalWikiTitle:pneumonitis	predictedType:Disease
+ENTITY	text:serositis	normalName:serositis	predictedType:disease	q:true	qid:Q307	docId:2894766	origText:serositis	url:D012700
+CANDIDATE	id:12700	inCount:0	outCount:1	links:	url:D012700	name:Serositis	normalName:serositis	normalWikiTitle:serositis	predictedType:Disease

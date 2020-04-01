@@ -1,0 +1,15 @@
+ENTITY	text:nucleosides	normalName:nucleosides	predictedType:chemical	q:true	qid:Q393	docId:7710775	origText:nucleosides	url:D009705
+CANDIDATE	id:9705	inCount:138	outCount:2	links:	url:D009705	name:Nucleosides	normalName:nucleosides	normalWikiTitle:nucleosides	predictedType:Chemical
+CANDIDATE	id:9704	inCount:3	outCount:1	links:	url:D009704	name:Nucleoside Q	normalName:nucleoside q	normalWikiTitle:nucleoside q	predictedType:Chemical
+CANDIDATE	id:61350	inCount:0	outCount:2	links:	url:C061350	name:nauclecoside	normalName:nauclecoside	normalWikiTitle:nauclecoside	predictedType:Chemical
+CANDIDATE	id:51634	inCount:0	outCount:1	links:	url:C051634	name:nucleoside oQ	normalName:nucleoside oq	normalWikiTitle:nucleoside oq	predictedType:Chemical
+CANDIDATE	id:9711	inCount:57	outCount:1	links:	url:D009711	name:Nucleotides	normalName:nucleotides	normalWikiTitle:nucleotides	predictedType:Chemical
+CANDIDATE	id:61349	inCount:0	outCount:2	links:	url:C061349	name:nauclecosidine	normalName:nauclecosidine	normalWikiTitle:nauclecosidine	predictedType:Chemical
+CANDIDATE	id:26376	inCount:0	outCount:1	links:	url:C026376	name:Q nucleotide	normalName:q nucleotide	normalWikiTitle:q nucleotide	predictedType:Chemical
+CANDIDATE	id:12263	inCount:99	outCount:1	links:	url:D012263	name:Ribonucleosides	normalName:ribonucleosides	normalWikiTitle:ribonucleosides	predictedType:Chemical
+CANDIDATE	id:13872	inCount:66	outCount:2	links:	url:D013872	name:Thionucleosides	normalName:thionucleosides	normalWikiTitle:thionucleosides	predictedType:Chemical
+CANDIDATE	id:609707	inCount:0	outCount:2	links:	url:C000609707	name:NZ51 nucleoside	normalName:nz51 nucleoside	normalWikiTitle:nz51 nucleoside	predictedType:Chemical
+ENTITY	text:malondialdehyde	normalName:malondialdehyde	predictedType:chemical	q:true	qid:Q393	docId:7710775	origText:malondialdehyde	url:D008315
+CANDIDATE	id:8315	inCount:11	outCount:1	links:	url:D008315	name:Malondialdehyde	normalName:malondialdehyde	normalWikiTitle:malondialdehyde	predictedType:Chemical
+ENTITY	text:nitroprusside	normalName:nitroprusside	predictedType:chemical	q:true	qid:Q393	docId:7710775	origText:nitroprusside	url:D009599
+CANDIDATE	id:9599	inCount:2	outCount:1	links:	url:D009599	name:Nitroprusside	normalName:nitroprusside	normalWikiTitle:nitroprusside	predictedType:Chemical

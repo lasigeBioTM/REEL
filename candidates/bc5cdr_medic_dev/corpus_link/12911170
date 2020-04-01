@@ -1,0 +1,8 @@
+ENTITY	text:interstitial nephritis	normalName:interstitial nephritis	predictedType:disease	q:true	qid:Q230	docId:12911170	origText:interstitial nephritis	url:D009395
+CANDIDATE	id:9395	inCount:8	outCount:1	links:7676;743	url:D009395	name:Nephritis, Interstitial	normalName:nephritis, interstitial	normalWikiTitle:nephritis, interstitial	predictedType:Disease
+ENTITY	text:end-stage renal disease	normalName:end-stage renal disease	predictedType:disease	q:true	qid:Q230	docId:12911170	origText:end-stage renal disease	url:D007676
+CANDIDATE	id:7676	inCount:3	outCount:1	links:9395;743	url:D007676	name:Renal Disease, End Stage	normalName:renal disease, end stage	normalWikiTitle:renal disease, end stage	predictedType:Disease
+ENTITY	text:autoimmune hemolytic anemia	normalName:autoimmune hemolytic anemia	predictedType:disease	q:true	qid:Q230	docId:12911170	origText:autoimmune hemolytic anemia	url:D000744
+CANDIDATE	id:744	inCount:6	outCount:2	links:	url:D000744	name:Anemia, Hemolytic, Autoimmune	normalName:anemia, hemolytic, autoimmune	normalWikiTitle:anemia, hemolytic, autoimmune	predictedType:Disease
+ENTITY	text:hemolytic anemia	normalName:hemolytic anemia	predictedType:disease	q:true	qid:Q230	docId:12911170	origText:hemolytic anemia	url:D000743
+CANDIDATE	id:743	inCount:20	outCount:1	links:9395;7676	url:D000743	name:Anemia, Hemolytic	normalName:anemia, hemolytic	normalWikiTitle:anemia, hemolytic	predictedType:Disease

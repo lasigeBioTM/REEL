@@ -1,0 +1,4 @@
+ENTITY	text:tumor	normalName:tumor	predictedType:disease	q:true	qid:Q136	docId:6888657	origText:tumor	url:D009369
+CANDIDATE	id:9369	inCount:18	outCount:1	links:	url:D009369	name:Tumor	normalName:tumor	normalWikiTitle:tumor	predictedType:Disease
+ENTITY	text:Pituitary tumors	normalName:pituitary tumors	predictedType:disease	q:true	qid:Q136	docId:6888657	origText:Pituitary tumors	url:D010911
+CANDIDATE	id:10911	inCount:3	outCount:3	links:	url:D010911	name:Pituitary Tumors	normalName:pituitary tumors	normalWikiTitle:pituitary tumors	predictedType:Disease

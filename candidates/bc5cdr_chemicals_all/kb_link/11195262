@@ -1,0 +1,4 @@
+ENTITY	text:sodium valproate	normalName:sodium valproate	predictedType:chemical	q:true	qid:Q1387	docId:11195262	origText:sodium valproate	url:D014635
+CANDIDATE	id:14635	inCount:43	outCount:1	links:	url:D014635	name:Sodium Valproate	normalName:sodium valproate	normalWikiTitle:sodium valproate	predictedType:Chemical
+ENTITY	text:sodium	normalName:sodium	predictedType:chemical	q:true	qid:Q1387	docId:11195262	origText:sodium	url:D012964
+CANDIDATE	id:12964	inCount:10	outCount:2	links:	url:D012964	name:Sodium	normalName:sodium	normalWikiTitle:sodium	predictedType:Chemical

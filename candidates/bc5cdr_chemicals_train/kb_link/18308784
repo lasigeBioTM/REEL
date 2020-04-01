@@ -1,0 +1,21 @@
+ENTITY	text:ginsenoside	normalName:ginsenoside	predictedType:chemical	q:true	qid:Q453	docId:18308784	origText:ginsenoside	url:D036145
+CANDIDATE	id:36145	inCount:96	outCount:2	links:	url:D036145	name:Ginsenosides	normalName:ginsenosides	normalWikiTitle:ginsenosides	predictedType:Chemical
+CANDIDATE	id:93162	inCount:0	outCount:1	links:	url:C093162	name:ginsenoside B	normalName:ginsenoside b	normalWikiTitle:ginsenoside b	predictedType:Chemical
+CANDIDATE	id:441661	inCount:0	outCount:1	links:	url:C441661	name:ginsenoside I	normalName:ginsenoside i	normalWikiTitle:ginsenoside i	predictedType:Chemical
+CANDIDATE	id:67211	inCount:0	outCount:1	links:	url:C067211	name:ginsenoside La	normalName:ginsenoside la	normalWikiTitle:ginsenoside la	predictedType:Chemical
+CANDIDATE	id:44462	inCount:0	outCount:1	links:	url:C044462	name:ginsenoside Rc	normalName:ginsenoside rc	normalWikiTitle:ginsenoside rc	predictedType:Chemical
+CANDIDATE	id:482461	inCount:0	outCount:1	links:	url:C482461	name:ginsenoside Mc	normalName:ginsenoside mc	normalWikiTitle:ginsenoside mc	predictedType:Chemical
+CANDIDATE	id:64378	inCount:0	outCount:1	links:	url:C064378	name:ginsenoside Ro	normalName:ginsenoside ro	normalWikiTitle:ginsenoside ro	predictedType:Chemical
+CANDIDATE	id:455200	inCount:0	outCount:1	links:	url:C455200	name:ginsenoside II	normalName:ginsenoside ii	normalWikiTitle:ginsenoside ii	predictedType:Chemical
+CANDIDATE	id:55328	inCount:0	outCount:1	links:	url:C055328	name:ginsenoside Rf	normalName:ginsenoside rf	normalWikiTitle:ginsenoside rf	predictedType:Chemical
+CANDIDATE	id:49863	inCount:0	outCount:1	links:	url:C049863	name:ginsenoside Rd	normalName:ginsenoside rd	normalWikiTitle:ginsenoside rd	predictedType:Chemical
+ENTITY	text:NMDA	normalName:nmda	predictedType:chemical	q:true	qid:Q453	docId:18308784	origText:NMDA	url:D016202
+CANDIDATE	id:16202	inCount:3	outCount:1	links:16202	url:D016202	name:NMDA	normalName:nmda	normalWikiTitle:nmda	predictedType:Chemical
+ENTITY	text:Ginsenoside Rg1	normalName:ginsenoside rg1	predictedType:chemical	q:true	qid:Q453	docId:18308784	origText:Ginsenoside Rg1	url:C035054
+CANDIDATE	id:35054	inCount:0	outCount:1	links:	url:C035054	name:ginsenoside Rg1	normalName:ginsenoside rg1	normalWikiTitle:ginsenoside rg1	predictedType:Chemical
+ENTITY	text:MK801	normalName:mk801	predictedType:chemical	q:true	qid:Q453	docId:18308784	origText:MK801	url:D016291
+CANDIDATE	id:16291	inCount:9	outCount:1	links:	url:D016291	name:MK801	normalName:mk801	normalWikiTitle:mk801	predictedType:Chemical
+ENTITY	text:morphine	normalName:morphine	predictedType:chemical	q:true	qid:Q453	docId:18308784	origText:morphine	url:D009020
+CANDIDATE	id:9020	inCount:13	outCount:1	links:	url:D009020	name:Morphine	normalName:morphine	normalWikiTitle:morphine	predictedType:Chemical
+ENTITY	text:N-methyl-D-aspartate	normalName:n-methyl-d-aspartate	predictedType:chemical	q:true	qid:Q453	docId:18308784	origText:N-methyl-D-aspartate	url:D016202
+CANDIDATE	id:16202	inCount:3	outCount:1	links:16202	url:D016202	name:N-Methyl-D-aspartate	normalName:n-methyl-d-aspartate	normalWikiTitle:n-methyl-d-aspartate	predictedType:Chemical

@@ -1,0 +1,10 @@
+ENTITY	text:medetomidine	normalName:medetomidine	predictedType:chemical	q:true	qid:Q834	docId:2569282	origText:medetomidine	url:D020926
+CANDIDATE	id:20926	inCount:1	outCount:1	links:	url:D020926	name:Medetomidine	normalName:medetomidine	normalWikiTitle:medetomidine	predictedType:Chemical
+ENTITY	text:idazoxan	normalName:idazoxan	predictedType:chemical	q:true	qid:Q834	docId:2569282	origText:idazoxan	url:D019329
+CANDIDATE	id:19329	inCount:3	outCount:3	links:	url:D019329	name:Idazoxan	normalName:idazoxan	normalWikiTitle:idazoxan	predictedType:Chemical
+ENTITY	text:alfentanil	normalName:alfentanil	predictedType:chemical	q:true	qid:Q834	docId:2569282	origText:alfentanil	url:D015760
+CANDIDATE	id:15760	inCount:0	outCount:1	links:	url:D015760	name:Alfentanil	normalName:alfentanil	normalWikiTitle:alfentanil	predictedType:Chemical
+ENTITY	text:DG-5128	normalName:dg-5128	predictedType:chemical	q:true	qid:Q834	docId:2569282	origText:DG-5128	url:C032368
+CANDIDATE	id:32368	inCount:0	outCount:1	links:	url:C032368	name:DG 5128	normalName:dg 5128	normalWikiTitle:dg 5128	predictedType:Chemical
+ENTITY	text:Dexmedetomidine	normalName:dexmedetomidine	predictedType:chemical	q:true	qid:Q834	docId:2569282	origText:Dexmedetomidine	url:D020927
+CANDIDATE	id:20927	inCount:0	outCount:1	links:	url:D020927	name:Dexmedetomidine	normalName:dexmedetomidine	normalWikiTitle:dexmedetomidine	predictedType:Chemical

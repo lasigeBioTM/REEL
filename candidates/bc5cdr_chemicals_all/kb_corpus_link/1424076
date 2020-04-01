@@ -1,0 +1,8 @@
+ENTITY	text:vincristine	normalName:vincristine	predictedType:chemical	q:true	qid:Q997	docId:1424076	origText:vincristine	url:D014750
+CANDIDATE	id:14750	inCount:474	outCount:1	links:3907	url:D014750	name:Vincristine	normalName:vincristine	normalWikiTitle:vincristine	predictedType:Chemical
+ENTITY	text:sodium	normalName:sodium	predictedType:chemical	q:true	qid:Q997	docId:1424076	origText:sodium	url:D012964
+CANDIDATE	id:12964	inCount:10	outCount:2	links:	url:D012964	name:Sodium	normalName:sodium	normalWikiTitle:sodium	predictedType:Chemical
+ENTITY	text:dexamethasone	normalName:dexamethasone	predictedType:chemical	q:true	qid:Q997	docId:1424076	origText:dexamethasone	url:D003907
+CANDIDATE	id:3907	inCount:138	outCount:2	links:4317;14750	url:D003907	name:Dexamethasone	normalName:dexamethasone	normalWikiTitle:dexamethasone	predictedType:Chemical
+ENTITY	text:doxorubicin	normalName:doxorubicin	predictedType:chemical	q:true	qid:Q997	docId:1424076	origText:doxorubicin	url:D004317
+CANDIDATE	id:4317	inCount:559	outCount:1	links:3907	url:D004317	name:Doxorubicin	normalName:doxorubicin	normalWikiTitle:doxorubicin	predictedType:Chemical

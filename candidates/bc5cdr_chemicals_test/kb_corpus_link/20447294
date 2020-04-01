@@ -1,0 +1,10 @@
+ENTITY	text:sodium	normalName:sodium	predictedType:chemical	q:true	qid:Q405	docId:20447294	origText:sodium	url:D012964
+CANDIDATE	id:12964	inCount:10	outCount:2	links:	url:D012964	name:Sodium	normalName:sodium	normalWikiTitle:sodium	predictedType:Chemical
+ENTITY	text:streptozotocin	normalName:streptozotocin	predictedType:chemical	q:true	qid:Q405	docId:20447294	origText:streptozotocin	url:D013311
+CANDIDATE	id:13311	inCount:12	outCount:2	links:2351;9020	url:D013311	name:Streptozotocin	normalName:streptozotocin	normalWikiTitle:streptozotocin	predictedType:Chemical
+ENTITY	text:carrageenan	normalName:carrageenan	predictedType:chemical	q:true	qid:Q405	docId:20447294	origText:carrageenan	url:D002351
+CANDIDATE	id:2351	inCount:13	outCount:1	links:13311;9020	url:D002351	name:Carrageenan	normalName:carrageenan	normalWikiTitle:carrageenan	predictedType:Chemical
+ENTITY	text:morphine	normalName:morphine	predictedType:chemical	q:true	qid:Q405	docId:20447294	origText:morphine	url:D009020
+CANDIDATE	id:9020	inCount:13	outCount:1	links:13311;2351	url:D009020	name:Morphine	normalName:morphine	normalWikiTitle:morphine	predictedType:Chemical
+ENTITY	text:CNSB002	normalName:cnsb002	predictedType:chemical	q:true	qid:Q405	docId:20447294	origText:CNSB002	url:C401121
+CANDIDATE	id:401121	inCount:0	outCount:1	links:	url:C401121	name:CNSB002	normalName:cnsb002	normalWikiTitle:cnsb002	predictedType:Chemical

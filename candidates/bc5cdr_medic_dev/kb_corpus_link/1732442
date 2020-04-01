@@ -1,0 +1,23 @@
+ENTITY	text:myocardial impairment	normalName:myocardial impairment	predictedType:disease	q:true	qid:Q223	docId:1732442	origText:myocardial impairment	url:D009202
+CANDIDATE	id:9202	inCount:37	outCount:1	links:9202	url:D009202	name:Disease, Myocardial	normalName:disease, myocardial	normalWikiTitle:disease, myocardial	predictedType:Disease
+CANDIDATE	id:9203	inCount:8	outCount:1	links:9202	url:D009203	name:Myocardial Infarction	normalName:myocardial infarction	normalWikiTitle:myocardial infarction	predictedType:Disease
+CANDIDATE	id:17202	inCount:6	outCount:2	links:	url:D017202	name:Myocardial Ischemia	normalName:myocardial ischemia	normalWikiTitle:myocardial ischemia	predictedType:Disease
+CANDIDATE	id:54084	inCount:0	outCount:1	links:	url:D054084	name:Myocardial Bridging	normalName:myocardial bridging	normalWikiTitle:myocardial bridging	predictedType:Disease
+CANDIDATE	id:71956	inCount:1	outCount:2	links:	url:D000071956	name:Myocardial Contusions	normalName:myocardial contusions	normalWikiTitle:myocardial contusions	predictedType:Disease
+CANDIDATE	id:14582	inCount:0	outCount:2	links:	url:D014582	name:Urticaria Pigmentosa	normalName:urticaria pigmentosa	normalWikiTitle:urticaria pigmentosa	predictedType:Disease
+CANDIDATE	id:535438	inCount:0	outCount:1	links:	url:C535438	name:Bidirectional tachycardia	normalName:bidirectional tachycardia	normalWikiTitle:bidirectional tachycardia	predictedType:Disease
+CANDIDATE	id:54139	inCount:2	outCount:1	links:	url:D054139	name:Tachycardia, Reciprocating	normalName:tachycardia, reciprocating	normalWikiTitle:tachycardia, reciprocating	predictedType:Disease
+CANDIDATE	id:56988	inCount:0	outCount:1	links:	url:D056988	name:Anterior Wall Myocardial Infarction	normalName:anterior wall myocardial infarction	normalWikiTitle:anterior wall myocardial infarction	predictedType:Disease
+CANDIDATE	id:73818	inCount:0	outCount:1	links:	url:D000073818	name:Pain, Procedural	normalName:pain, procedural	normalWikiTitle:pain, procedural	predictedType:Disease
+CANDIDATE	id:13614	inCount:1	outCount:1	links:	url:D013614	name:Tachycardia, Paroxysmal	normalName:tachycardia, paroxysmal	normalWikiTitle:tachycardia, paroxysmal	predictedType:Disease
+CANDIDATE	id:6333	inCount:5	outCount:1	links:9202	url:D006333	name:Myocardial Failure	normalName:myocardial failure	normalWikiTitle:myocardial failure	predictedType:Disease
+CANDIDATE	id:9203	inCount:8	outCount:1	links:9202	url:D009203	name:Myocardial Infarct	normalName:myocardial infarct	normalWikiTitle:myocardial infarct	predictedType:Disease
+CANDIDATE	id:9203	inCount:8	outCount:1	links:9202	url:D009203	name:Infarct, Myocardial	normalName:infarct, myocardial	normalWikiTitle:infarct, myocardial	predictedType:Disease
+CANDIDATE	id:9203	inCount:8	outCount:1	links:9202	url:D009203	name:Infarcts, Myocardial	normalName:infarcts, myocardial	normalWikiTitle:infarcts, myocardial	predictedType:Disease
+CANDIDATE	id:9203	inCount:8	outCount:1	links:9202	url:D009203	name:Myocardial Infarcts	normalName:myocardial infarcts	normalWikiTitle:myocardial infarcts	predictedType:Disease
+CANDIDATE	id:14786	inCount:19	outCount:2	links:	url:D014786	name:Visual Impairment	normalName:visual impairment	normalWikiTitle:visual impairment	predictedType:Disease
+CANDIDATE	id:14786	inCount:19	outCount:2	links:	url:D014786	name:Impairment, Visual	normalName:impairment, visual	normalWikiTitle:impairment, visual	predictedType:Disease
+CANDIDATE	id:14786	inCount:19	outCount:2	links:	url:D014786	name:Impairments, Visual	normalName:impairments, visual	normalWikiTitle:impairments, visual	predictedType:Disease
+CANDIDATE	id:14786	inCount:19	outCount:2	links:	url:D014786	name:Visual Impairments	normalName:visual impairments	normalWikiTitle:visual impairments	predictedType:Disease
+ENTITY	text:cardiomyopathy	normalName:cardiomyopathy	predictedType:disease	q:true	qid:Q223	docId:1732442	origText:cardiomyopathy	url:D009202
+CANDIDATE	id:9202	inCount:37	outCount:1	links:9202	url:D009202	name:Cardiomyopathy	normalName:cardiomyopathy	normalWikiTitle:cardiomyopathy	predictedType:Disease

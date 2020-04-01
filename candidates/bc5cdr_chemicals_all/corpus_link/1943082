@@ -1,0 +1,6 @@
+ENTITY	text:GSSG	normalName:gssg	predictedType:chemical	q:true	qid:Q673	docId:1943082	origText:GSSG	url:D019803
+CANDIDATE	id:19803	inCount:5	outCount:1	links:	url:D019803	name:GSSG	normalName:gssg	normalWikiTitle:gssg	predictedType:Chemical
+ENTITY	text:glutathione	normalName:glutathione	predictedType:chemical	q:true	qid:Q673	docId:1943082	origText:glutathione	url:D005978
+CANDIDATE	id:5978	inCount:255	outCount:1	links:	url:D005978	name:Glutathione	normalName:glutathione	normalWikiTitle:glutathione	predictedType:Chemical
+ENTITY	text:Oxidized glutathione	normalName:oxidized glutathione	predictedType:chemical	q:true	qid:Q673	docId:1943082	origText:Oxidized glutathione	url:D019803
+CANDIDATE	id:19803	inCount:5	outCount:1	links:	url:D019803	name:Oxidized Glutathione	normalName:oxidized glutathione	normalWikiTitle:oxidized glutathione	predictedType:Chemical

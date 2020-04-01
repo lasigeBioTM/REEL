@@ -1,0 +1,4 @@
+ENTITY	text:heart failure	normalName:heart failure	predictedType:disease	q:true	qid:Q1170	docId:14975762	origText:heart failure	url:D006333
+CANDIDATE	id:6333	inCount:5	outCount:1	links:	url:D006333	name:Heart Failure	normalName:heart failure	normalWikiTitle:heart failure	predictedType:Disease
+ENTITY	text:tumor	normalName:tumor	predictedType:disease	q:true	qid:Q1170	docId:14975762	origText:tumor	url:D009369
+CANDIDATE	id:9369	inCount:18	outCount:1	links:	url:D009369	name:Tumor	normalName:tumor	normalWikiTitle:tumor	predictedType:Disease

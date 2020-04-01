@@ -1,0 +1,40 @@
+ENTITY	text:manic	normalName:manic	predictedType:disease	q:true	qid:Q1404	docId:9197951	origText:manic	url:D001714
+CANDIDATE	id:1714	inCount:11	outCount:1	links:	url:D001714	name:Manias	normalName:manias	normalWikiTitle:manias	predictedType:Disease
+CANDIDATE	id:7565	inCount:5	outCount:2	links:1714	url:D007565	name:Jaundice	normalName:jaundice	normalWikiTitle:jaundice	predictedType:Disease
+CANDIDATE	id:8548	inCount:4	outCount:1	links:	url:D008548	name:Melanosis	normalName:melanosis	normalWikiTitle:melanosis	predictedType:Disease
+CANDIDATE	id:1002	inCount:0	outCount:2	links:	url:D001002	name:Anuria	normalName:anuria	normalWikiTitle:anuria	predictedType:Disease
+CANDIDATE	id:849	inCount:0	outCount:1	links:	url:D000849	name:Anomia	normalName:anomia	normalWikiTitle:anomia	predictedType:Disease
+CANDIDATE	id:740	inCount:14	outCount:1	links:	url:D000740	name:Anemia	normalName:anemia	normalWikiTitle:anemia	predictedType:Disease
+CANDIDATE	id:59373	inCount:0	outCount:1	links:	url:D059373	name:Mastodynia	normalName:mastodynia	normalWikiTitle:mastodynia	predictedType:Disease
+CANDIDATE	id:15875	inCount:0	outCount:1	links:	url:D015875	name:Anisocoria	normalName:anisocoria	normalWikiTitle:anisocoria	predictedType:Disease
+CANDIDATE	id:6391	inCount:14	outCount:1	links:	url:D006391	name:Hemangioma	normalName:hemangioma	normalWikiTitle:hemangioma	predictedType:Disease
+CANDIDATE	id:535983	inCount:0	outCount:1	links:	url:C535983	name:ANIC	normalName:anic	normalWikiTitle:anic	predictedType:Disease
+CANDIDATE	id:1714	inCount:11	outCount:1	links:	url:D001714	name:Mania	normalName:mania	normalWikiTitle:mania	predictedType:Disease
+CANDIDATE	id:58540	inCount:0	outCount:4	links:	url:D058540	name:AIC	normalName:aic	normalWikiTitle:aic	predictedType:Disease
+CANDIDATE	id:537984	inCount:0	outCount:1	links:	url:C537984	name:HMSNIC	normalName:hmsnic	normalWikiTitle:hmsnic	predictedType:Disease
+CANDIDATE	id:565737	inCount:0	outCount:1	links:	url:C565737	name:NAIC	normalName:naic	normalWikiTitle:naic	predictedType:Disease
+CANDIDATE	id:537555	inCount:0	outCount:2	links:	url:C537555	name:MHAC	normalName:mhac	normalWikiTitle:mhac	predictedType:Disease
+CANDIDATE	id:20386	inCount:0	outCount:2	links:	url:D020386	name:NMAN	normalName:nman	normalWikiTitle:nman	predictedType:Disease
+CANDIDATE	id:613376	inCount:0	outCount:1	links:	url:613376	name:HMN IIC	normalName:hmn iic	normalWikiTitle:hmn iic	predictedType:Disease
+CANDIDATE	id:614298	inCount:0	outCount:2	links:	url:614298	name:MPAN	normalName:mpan	normalWikiTitle:mpan	predictedType:Disease
+ENTITY	text:mania	normalName:mania	predictedType:disease	q:true	qid:Q1404	docId:9197951	origText:mania	url:D001714
+CANDIDATE	id:1714	inCount:11	outCount:1	links:	url:D001714	name:Mania	normalName:mania	normalWikiTitle:mania	predictedType:Disease
+ENTITY	text:pupillary oscillation	normalName:pupillary oscillation	predictedType:disease	q:true	qid:Q1404	docId:9197951	origText:pupillary oscillation	url:D011681
+CANDIDATE	id:11681	inCount:12	outCount:2	links:	url:D011681	name:Pupillary Function, Abnormal	normalName:pupillary function, abnormal	normalWikiTitle:pupillary function, abnormal	predictedType:Disease
+CANDIDATE	id:2291	inCount:2	outCount:2	links:	url:D002291	name:Carcinoma, Papillary	normalName:carcinoma, papillary	normalWikiTitle:carcinoma, papillary	predictedType:Disease
+CANDIDATE	id:54060	inCount:0	outCount:1	links:	url:D054060	name:Pulmonary Infarction	normalName:pulmonary infarction	normalWikiTitle:pulmonary infarction	predictedType:Disease
+CANDIDATE	id:31222	inCount:3	outCount:2	links:	url:D031222	name:Patellar Dislocation	normalName:patellar dislocation	normalWikiTitle:patellar dislocation	predictedType:Disease
+CANDIDATE	id:231	inCount:2	outCount:1	links:	url:D000231	name:Adenocarcinoma, Papillary	normalName:adenocarcinoma, papillary	normalWikiTitle:adenocarcinoma, papillary	predictedType:Disease
+CANDIDATE	id:608852	inCount:0	outCount:1	links:	url:608852	name:PULMONARY FUNCTION	normalName:pulmonary function	normalWikiTitle:pulmonary function	predictedType:Disease
+CANDIDATE	id:566872	inCount:0	outCount:1	links:	url:C566872	name:Dilution, Pigmentary	normalName:dilution, pigmentary	normalWikiTitle:dilution, pigmentary	predictedType:Disease
+CANDIDATE	id:53120	inCount:1	outCount:2	links:	url:D053120	name:Respiratory Aspiration	normalName:respiratory aspiration	normalWikiTitle:respiratory aspiration	predictedType:Disease
+CANDIDATE	id:11015	inCount:1	outCount:1	links:	url:D011015	name:Pneumonia, Aspiration	normalName:pneumonia, aspiration	normalWikiTitle:pneumonia, aspiration	predictedType:Disease
+CANDIDATE	id:536185	inCount:0	outCount:1	links:	url:C536185	name:Ectopia pupillae	normalName:ectopia pupillae	normalWikiTitle:ectopia pupillae	predictedType:Disease
+CANDIDATE	id:14693	inCount:3	outCount:1	links:	url:D014693	name:Ventricular Fibrillation	normalName:ventricular fibrillation	normalWikiTitle:ventricular fibrillation	predictedType:Disease
+CANDIDATE	id:11681	inCount:12	outCount:2	links:	url:D011681	name:Occlusion, Pupillary	normalName:occlusion, pupillary	normalWikiTitle:occlusion, pupillary	predictedType:Disease
+CANDIDATE	id:11681	inCount:12	outCount:2	links:	url:D011681	name:Pupillary Occlusion	normalName:pupillary occlusion	normalWikiTitle:pupillary occlusion	predictedType:Disease
+CANDIDATE	id:11681	inCount:12	outCount:2	links:	url:D011681	name:Pupillary Occlusions	normalName:pupillary occlusions	normalWikiTitle:pupillary occlusions	predictedType:Disease
+CANDIDATE	id:11681	inCount:12	outCount:2	links:	url:D011681	name:Occlusions, Pupillary	normalName:occlusions, pupillary	normalWikiTitle:occlusions, pupillary	predictedType:Disease
+CANDIDATE	id:15877	inCount:4	outCount:1	links:	url:D015877	name:Miosis, Pupillary	normalName:miosis, pupillary	normalWikiTitle:miosis, pupillary	predictedType:Disease
+CANDIDATE	id:15877	inCount:4	outCount:1	links:	url:D015877	name:Pupillary Miosis	normalName:pupillary miosis	normalWikiTitle:pupillary miosis	predictedType:Disease
+CANDIDATE	id:11681	inCount:12	outCount:2	links:	url:D011681	name:Abnormal Pupillary Function	normalName:abnormal pupillary function	normalWikiTitle:abnormal pupillary function	predictedType:Disease

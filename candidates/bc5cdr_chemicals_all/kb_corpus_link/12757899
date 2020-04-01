@@ -1,0 +1,12 @@
+ENTITY	text:kainic acid	normalName:kainic acid	predictedType:chemical	q:true	qid:Q1052	docId:12757899	origText:kainic acid	url:D007608
+CANDIDATE	id:7608	inCount:17	outCount:1	links:10862;8094	url:D007608	name:Kainic Acid	normalName:kainic acid	normalWikiTitle:kainic acid	predictedType:Chemical
+ENTITY	text:17beta-estradiol	normalName:17beta-estradiol	predictedType:chemical	q:true	qid:Q1052	docId:12757899	origText:17beta-estradiol	url:D004958
+CANDIDATE	id:4958	inCount:306	outCount:2	links:10862;4958	url:D004958	name:Estradiol-17beta	normalName:estradiol-17beta	normalWikiTitle:estradiol-17beta	predictedType:Chemical
+ENTITY	text:Estradiol	normalName:estradiol	predictedType:chemical	q:true	qid:Q1052	docId:12757899	origText:Estradiol	url:D004958
+CANDIDATE	id:4958	inCount:306	outCount:2	links:10862;4958	url:D004958	name:Estradiol	normalName:estradiol	normalWikiTitle:estradiol	predictedType:Chemical
+ENTITY	text:silver	normalName:silver	predictedType:chemical	q:true	qid:Q1052	docId:12757899	origText:silver	url:D012834
+CANDIDATE	id:12834	inCount:20	outCount:2	links:	url:D012834	name:Silver	normalName:silver	normalWikiTitle:silver	predictedType:Chemical
+ENTITY	text:pilocarpine	normalName:pilocarpine	predictedType:chemical	q:true	qid:Q1052	docId:12757899	origText:pilocarpine	url:D010862
+CANDIDATE	id:10862	inCount:7	outCount:1	links:8094;7608;4958	url:D010862	name:Pilocarpine	normalName:pilocarpine	normalWikiTitle:pilocarpine	predictedType:Chemical
+ENTITY	text:lithium	normalName:lithium	predictedType:chemical	q:true	qid:Q1052	docId:12757899	origText:lithium	url:D008094
+CANDIDATE	id:8094	inCount:15	outCount:2	links:10862;7608	url:D008094	name:Lithium	normalName:lithium	normalWikiTitle:lithium	predictedType:Chemical

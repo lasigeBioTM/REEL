@@ -1,0 +1,6 @@
+ENTITY	text:phenothiazines	normalName:phenothiazines	predictedType:chemical	q:true	qid:Q103	docId:8473723	origText:phenothiazines	url:D010640
+CANDIDATE	id:10640	inCount:140	outCount:2	links:	url:D010640	name:Phenothiazines	normalName:phenothiazines	normalWikiTitle:phenothiazines	predictedType:Chemical
+ENTITY	text:fluvoxamine	normalName:fluvoxamine	predictedType:chemical	q:true	qid:Q103	docId:8473723	origText:fluvoxamine	url:D016666
+CANDIDATE	id:16666	inCount:2	outCount:1	links:	url:D016666	name:Fluvoxamine	normalName:fluvoxamine	normalWikiTitle:fluvoxamine	predictedType:Chemical
+ENTITY	text:levomepromazine	normalName:levomepromazine	predictedType:chemical	q:true	qid:Q103	docId:8473723	origText:levomepromazine	url:D008728
+CANDIDATE	id:8728	inCount:4	outCount:1	links:	url:D008728	name:Levomepromazine	normalName:levomepromazine	normalWikiTitle:levomepromazine	predictedType:Chemical

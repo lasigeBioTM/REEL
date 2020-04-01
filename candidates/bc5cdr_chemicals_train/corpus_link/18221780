@@ -1,0 +1,10 @@
+ENTITY	text:morphine	normalName:morphine	predictedType:chemical	q:true	qid:Q227	docId:18221780	origText:morphine	url:D009020
+CANDIDATE	id:9020	inCount:13	outCount:1	links:	url:D009020	name:Morphine	normalName:morphine	normalWikiTitle:morphine	predictedType:Chemical
+ENTITY	text:capsaicin	normalName:capsaicin	predictedType:chemical	q:true	qid:Q227	docId:18221780	origText:capsaicin	url:D002211
+CANDIDATE	id:2211	inCount:38	outCount:4	links:	url:D002211	name:Capsaicin	normalName:capsaicin	normalWikiTitle:capsaicin	predictedType:Chemical
+ENTITY	text:NMDA	normalName:nmda	predictedType:chemical	q:true	qid:Q227	docId:18221780	origText:NMDA	url:D016202
+CANDIDATE	id:16202	inCount:3	outCount:1	links:	url:D016202	name:NMDA	normalName:nmda	normalWikiTitle:nmda	predictedType:Chemical
+ENTITY	text:N-methyl-D-aspartate	normalName:n-methyl-d-aspartate	predictedType:chemical	q:true	qid:Q227	docId:18221780	origText:N-methyl-D-aspartate	url:D016202
+CANDIDATE	id:16202	inCount:3	outCount:1	links:	url:D016202	name:N-Methyl-D-aspartate	normalName:n-methyl-d-aspartate	normalWikiTitle:n-methyl-d-aspartate	predictedType:Chemical
+ENTITY	text:dextromethorphan	normalName:dextromethorphan	predictedType:chemical	q:true	qid:Q227	docId:18221780	origText:dextromethorphan	url:D003915
+CANDIDATE	id:3915	inCount:14	outCount:1	links:	url:D003915	name:Dextromethorphan	normalName:dextromethorphan	normalWikiTitle:dextromethorphan	predictedType:Chemical

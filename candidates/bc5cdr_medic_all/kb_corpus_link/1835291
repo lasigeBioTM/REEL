@@ -1,0 +1,4 @@
+ENTITY	text:chronic airflow obstruction	normalName:chronic airflow obstruction	predictedType:disease	q:true	qid:Q3	docId:1835291	origText:chronic airflow obstruction	url:D029424
+CANDIDATE	id:29424	inCount:5	outCount:1	links:29424	url:D029424	name:Chronic Airflow Obstruction	normalName:chronic airflow obstruction	normalWikiTitle:chronic airflow obstruction	predictedType:Disease
+ENTITY	text:chronic obstructive pulmonary disease	normalName:chronic obstructive pulmonary disease	predictedType:disease	q:true	qid:Q3	docId:1835291	origText:chronic obstructive pulmonary disease	url:D029424
+CANDIDATE	id:29424	inCount:5	outCount:1	links:29424	url:D029424	name:Pulmonary Disease, Chronic Obstructive	normalName:pulmonary disease, chronic obstructive	normalWikiTitle:pulmonary disease, chronic obstructive	predictedType:Disease

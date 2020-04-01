@@ -1,0 +1,8 @@
+ENTITY	text:cirrhosis	normalName:cirrhosis	predictedType:disease	q:true	qid:Q374	docId:3827439	origText:cirrhosis	url:D005355
+CANDIDATE	id:5355	inCount:11	outCount:1	links:58186	url:D005355	name:Cirrhosis	normalName:cirrhosis	normalWikiTitle:cirrhosis	predictedType:Disease
+ENTITY	text:acute renal failure	normalName:acute renal failure	predictedType:disease	q:true	qid:Q374	docId:3827439	origText:acute renal failure	url:D058186
+CANDIDATE	id:58186	inCount:2	outCount:1	links:5355;51437	url:D058186	name:Acute Renal Failure	normalName:acute renal failure	normalWikiTitle:acute renal failure	predictedType:Disease
+ENTITY	text:renal failure	normalName:renal failure	predictedType:disease	q:true	qid:Q374	docId:3827439	origText:renal failure	url:D051437
+CANDIDATE	id:51437	inCount:10	outCount:1	links:58186	url:D051437	name:Renal Failure	normalName:renal failure	normalWikiTitle:renal failure	predictedType:Disease
+ENTITY	text:sporotrichosis	normalName:sporotrichosis	predictedType:disease	q:true	qid:Q374	docId:3827439	origText:sporotrichosis	url:D013174
+CANDIDATE	id:13174	inCount:0	outCount:1	links:	url:D013174	name:Sporotrichosis	normalName:sporotrichosis	normalWikiTitle:sporotrichosis	predictedType:Disease

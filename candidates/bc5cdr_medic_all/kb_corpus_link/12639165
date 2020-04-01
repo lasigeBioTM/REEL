@@ -1,0 +1,4 @@
+ENTITY	text:jaundice	normalName:jaundice	predictedType:disease	q:true	qid:Q547	docId:12639165	origText:jaundice	url:D007565
+CANDIDATE	id:7565	inCount:5	outCount:2	links:2779	url:D007565	name:Jaundice	normalName:jaundice	normalWikiTitle:jaundice	predictedType:Disease
+ENTITY	text:cholestasis	normalName:cholestasis	predictedType:disease	q:true	qid:Q547	docId:12639165	origText:cholestasis	url:D002779
+CANDIDATE	id:2779	inCount:14	outCount:1	links:7565	url:D002779	name:Cholestasis	normalName:cholestasis	normalWikiTitle:cholestasis	predictedType:Disease

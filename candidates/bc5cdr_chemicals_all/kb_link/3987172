@@ -1,0 +1,6 @@
+ENTITY	text:norepinephrine	normalName:norepinephrine	predictedType:chemical	q:true	qid:Q47	docId:3987172	origText:norepinephrine	url:D009638
+CANDIDATE	id:9638	inCount:31	outCount:4	links:	url:D009638	name:Norepinephrine	normalName:norepinephrine	normalWikiTitle:norepinephrine	predictedType:Chemical
+ENTITY	text:phenylpropanolamine	normalName:phenylpropanolamine	predictedType:chemical	q:true	qid:Q47	docId:3987172	origText:phenylpropanolamine	url:D010665
+CANDIDATE	id:10665	inCount:33	outCount:1	links:	url:D010665	name:Phenylpropanolamine	normalName:phenylpropanolamine	normalWikiTitle:phenylpropanolamine	predictedType:Chemical
+ENTITY	text:Propranolol	normalName:propranolol	predictedType:chemical	q:true	qid:Q47	docId:3987172	origText:Propranolol	url:D011433
+CANDIDATE	id:11433	inCount:46	outCount:2	links:	url:D011433	name:Propranolol	normalName:propranolol	normalWikiTitle:propranolol	predictedType:Chemical

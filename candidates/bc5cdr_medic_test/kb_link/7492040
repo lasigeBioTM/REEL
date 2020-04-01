@@ -1,0 +1,54 @@
+ENTITY	text:seizures	normalName:seizures	predictedType:disease	q:true	qid:Q152	docId:7492040	origText:seizures	url:D012640
+CANDIDATE	id:12640	inCount:53	outCount:1	links:	url:D012640	name:Seizure	normalName:seizure	normalWikiTitle:seizure	predictedType:Disease
+ENTITY	text:myocardial infarction	normalName:myocardial infarction	predictedType:disease	q:true	qid:Q152	docId:7492040	origText:myocardial infarction	url:D009203
+CANDIDATE	id:9203	inCount:8	outCount:1	links:9203	url:D009203	name:Myocardial Infarction	normalName:myocardial infarction	normalWikiTitle:myocardial infarction	predictedType:Disease
+ENTITY	text:ventricular fibrillation	normalName:ventricular fibrillation	predictedType:disease	q:true	qid:Q152	docId:7492040	origText:ventricular fibrillation	url:D014693
+CANDIDATE	id:14693	inCount:3	outCount:1	links:	url:D014693	name:Ventricular Fibrillation	normalName:ventricular fibrillation	normalWikiTitle:ventricular fibrillation	predictedType:Disease
+ENTITY	text:MI	normalName:mi	predictedType:disease	q:true	qid:Q152	docId:7492040	origText:MI	url:D009203
+CANDIDATE	id:9203	inCount:8	outCount:1	links:9203	url:D009203	name:MCI2	normalName:mci2	normalWikiTitle:mci2	predictedType:Disease
+CANDIDATE	id:300337	inCount:0	outCount:2	links:	url:300337	name:HMI	normalName:hmi	normalWikiTitle:hmi	predictedType:Disease
+CANDIDATE	id:564108	inCount:0	outCount:2	links:	url:C564108	name:MDI	normalName:mdi	normalWikiTitle:mdi	predictedType:Disease
+CANDIDATE	id:535689	inCount:0	outCount:4	links:	url:C535689	name:MIP	normalName:mip	normalWikiTitle:mip	predictedType:Disease
+CANDIDATE	id:535689	inCount:0	outCount:4	links:	url:C535689	name:TMIP	normalName:tmip	normalWikiTitle:tmip	predictedType:Disease
+CANDIDATE	id:4831	inCount:17	outCount:2	links:	url:D004831	name:SMEI	normalName:smei	normalWikiTitle:smei	predictedType:Disease
+CANDIDATE	id:155310	inCount:0	outCount:2	links:	url:155310	name:MMIH	normalName:mmih	normalWikiTitle:mmih	predictedType:Disease
+CANDIDATE	id:567832	inCount:0	outCount:1	links:	url:C567832	name:MIAR	normalName:miar	normalWikiTitle:miar	predictedType:Disease
+CANDIDATE	id:614817	inCount:0	outCount:1	links:	url:614817	name:KMIN	normalName:kmin	normalWikiTitle:kmin	predictedType:Disease
+CANDIDATE	id:536266	inCount:0	outCount:2	links:	url:C536266	name:MNRI	normalName:mnri	normalWikiTitle:mnri	predictedType:Disease
+ENTITY	text:bradydysrhythmias	normalName:bradydysrhythmias	predictedType:disease	q:true	qid:Q152	docId:7492040	origText:bradydysrhythmias	url:D001919
+CANDIDATE	id:1919	inCount:0	outCount:1	links:	url:D001919	name:Bradycardias	normalName:bradycardias	normalWikiTitle:bradycardias	predictedType:Disease
+CANDIDATE	id:1146	inCount:2	outCount:1	links:	url:D001146	name:Arrhythmia, Sinus	normalName:arrhythmia, sinus	normalWikiTitle:arrhythmia, sinus	predictedType:Disease
+CANDIDATE	id:4401	inCount:7	outCount:1	links:	url:D004401	name:Dysarthria	normalName:dysarthria	normalWikiTitle:dysarthria	predictedType:Disease
+CANDIDATE	id:537098	inCount:0	outCount:1	links:	url:C537098	name:Brachyolmia	normalName:brachyolmia	normalWikiTitle:brachyolmia	predictedType:Disease
+CANDIDATE	id:1919	inCount:0	outCount:1	links:	url:D001919	name:Bradycardia	normalName:bradycardia	normalWikiTitle:bradycardia	predictedType:Disease
+CANDIDATE	id:1145	inCount:27	outCount:2	links:	url:D001145	name:Arrhythmias, Cardiac	normalName:arrhythmias, cardiac	normalWikiTitle:arrhythmias, cardiac	predictedType:Disease
+CANDIDATE	id:1249	inCount:16	outCount:3	links:	url:D001249	name:Asthma	normalName:asthma	normalWikiTitle:asthma	predictedType:Disease
+CANDIDATE	id:564392	inCount:0	outCount:2	links:	url:C564392	name:Bothnia Retinal Dystrophy	normalName:bothnia retinal dystrophy	normalWikiTitle:bothnia retinal dystrophy	predictedType:Disease
+CANDIDATE	id:20920	inCount:3	outCount:1	links:	url:D020920	name:Dyssomnias	normalName:dyssomnias	normalWikiTitle:dyssomnias	predictedType:Disease
+CANDIDATE	id:6871	inCount:0	outCount:3	links:	url:D006871	name:Hydrophthalmos	normalName:hydrophthalmos	normalWikiTitle:hydrophthalmos	predictedType:Disease
+CANDIDATE	id:2545	inCount:4	outCount:1	links:	url:D002545	name:Brain Ischemia	normalName:brain ischemia	normalWikiTitle:brain ischemia	predictedType:Disease
+CANDIDATE	id:1919	inCount:0	outCount:1	links:	url:D001919	name:Bradyarrhythmias	normalName:bradyarrhythmias	normalWikiTitle:bradyarrhythmias	predictedType:Disease
+CANDIDATE	id:1919	inCount:0	outCount:1	links:	url:D001919	name:Bradyarrhythmia	normalName:bradyarrhythmia	normalWikiTitle:bradyarrhythmia	predictedType:Disease
+CANDIDATE	id:1145	inCount:27	outCount:2	links:	url:D001145	name:Cardiac Dysrhythmia	normalName:cardiac dysrhythmia	normalWikiTitle:cardiac dysrhythmia	predictedType:Disease
+CANDIDATE	id:1145	inCount:27	outCount:2	links:	url:D001145	name:Dysrhythmia, Cardiac	normalName:dysrhythmia, cardiac	normalWikiTitle:dysrhythmia, cardiac	predictedType:Disease
+CANDIDATE	id:13036	inCount:49	outCount:2	links:	url:D013036	name:Hypsarrhythmias	normalName:hypsarrhythmias	normalWikiTitle:hypsarrhythmias	predictedType:Disease
+CANDIDATE	id:1145	inCount:27	outCount:2	links:	url:D001145	name:Arrhythmia	normalName:arrhythmia	normalWikiTitle:arrhythmia	predictedType:Disease
+CANDIDATE	id:13610	inCount:7	outCount:2	links:	url:D013610	name:Tachyarrhythmias	normalName:tachyarrhythmias	normalWikiTitle:tachyarrhythmias	predictedType:Disease
+CANDIDATE	id:13036	inCount:49	outCount:2	links:	url:D013036	name:Hypsarrhythmia	normalName:hypsarrhythmia	normalWikiTitle:hypsarrhythmia	predictedType:Disease
+CANDIDATE	id:4401	inCount:7	outCount:1	links:	url:D004401	name:Dysarthrias	normalName:dysarthrias	normalWikiTitle:dysarthrias	predictedType:Disease
+ENTITY	text:toxicity	normalName:toxicity	predictedType:disease	q:true	qid:Q152	docId:7492040	origText:toxicity	url:D064420
+CANDIDATE	id:64420	inCount:10	outCount:1	links:	url:D064420	name:Drug Toxicity	normalName:drug toxicity	normalWikiTitle:drug toxicity	predictedType:Disease
+CANDIDATE	id:66126	inCount:0	outCount:3	links:	url:D066126	name:Cardiotoxicity	normalName:cardiotoxicity	normalWikiTitle:cardiotoxicity	predictedType:Disease
+CANDIDATE	id:15651	inCount:2	outCount:1	links:	url:D015651	name:Mycotoxicosis	normalName:mycotoxicosis	normalWikiTitle:mycotoxicosis	predictedType:Disease
+CANDIDATE	id:13971	inCount:2	outCount:1	links:	url:D013971	name:Thyrotoxicosis	normalName:thyrotoxicosis	normalWikiTitle:thyrotoxicosis	predictedType:Disease
+CANDIDATE	id:14869	inCount:0	outCount:2	links:	url:D014869	name:Water Intoxication	normalName:water intoxication	normalWikiTitle:water intoxication	predictedType:Disease
+CANDIDATE	id:14103	inCount:4	outCount:2	links:	url:D014103	name:Torticollis	normalName:torticollis	normalWikiTitle:torticollis	predictedType:Disease
+CANDIDATE	id:9765	inCount:42	outCount:2	links:	url:D009765	name:Obesity	normalName:obesity	normalWikiTitle:obesity	predictedType:Disease
+CANDIDATE	id:14115	inCount:1	outCount:1	links:	url:D014115	name:Toxemia	normalName:toxemia	normalWikiTitle:toxemia	predictedType:Disease
+CANDIDATE	id:7246	inCount:2	outCount:2	links:	url:D007246	name:Infertility	normalName:infertility	normalWikiTitle:infertility	predictedType:Disease
+CANDIDATE	id:20234	inCount:0	outCount:2	links:	url:D020234	name:Gait Ataxia	normalName:gait ataxia	normalWikiTitle:gait ataxia	predictedType:Disease
+CANDIDATE	id:14069	inCount:1	outCount:1	links:	url:D014069	name:Tonsillitis	normalName:tonsillitis	normalWikiTitle:tonsillitis	predictedType:Disease
+CANDIDATE	id:64420	inCount:10	outCount:1	links:	url:D064420	name:Toxicity, Drug	normalName:toxicity, drug	normalWikiTitle:toxicity, drug	predictedType:Disease
+CANDIDATE	id:17484	inCount:0	outCount:2	links:	url:D017484	name:Phototoxicity	normalName:phototoxicity	normalWikiTitle:phototoxicity	predictedType:Disease
+ENTITY	text:ventricular tachycardia	normalName:ventricular tachycardia	predictedType:disease	q:true	qid:Q152	docId:7492040	origText:ventricular tachycardia	url:D017180
+CANDIDATE	id:17180	inCount:4	outCount:1	links:	url:D017180	name:Tachycardia, Ventricular	normalName:tachycardia, ventricular	normalWikiTitle:tachycardia, ventricular	predictedType:Disease

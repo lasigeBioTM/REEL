@@ -1,0 +1,73 @@
+ENTITY	text:Parkinson's disease	normalName:parkinson's disease	predictedType:disease	q:true	qid:Q795	docId:2355241	origText:Parkinson's disease	url:D010300
+CANDIDATE	id:10300	inCount:31	outCount:2	links:10300	url:D010300	name:Parkinson's Disease	normalName:parkinson's disease	normalWikiTitle:parkinson's disease	predictedType:Disease
+ENTITY	text:cerebral infarction	normalName:cerebral infarction	predictedType:disease	q:true	qid:Q795	docId:2355241	origText:cerebral infarction	url:D002544
+CANDIDATE	id:2544	inCount:5	outCount:1	links:6973;6948;2543;7022;6331	url:D002544	name:Cerebral Infarction	normalName:cerebral infarction	normalWikiTitle:cerebral infarction	predictedType:Disease
+ENTITY	text:parkinsonian	normalName:parkinsonian	predictedType:disease	q:true	qid:Q795	docId:2355241	origText:parkinsonian	url:D010300
+CANDIDATE	id:10300	inCount:31	outCount:2	links:10300	url:D010300	name:Parkinson Disease	normalName:parkinson disease	normalWikiTitle:parkinson disease	predictedType:Disease
+CANDIDATE	id:20734	inCount:10	outCount:2	links:	url:D020734	name:Parkinsonian Disorders	normalName:parkinsonian disorders	normalWikiTitle:parkinsonian disorders	predictedType:Disease
+CANDIDATE	id:20447	inCount:7	outCount:1	links:7022	url:D020447	name:Parasomnias	normalName:parasomnias	normalWikiTitle:parasomnias	predictedType:Disease
+CANDIDATE	id:11041	inCount:14	outCount:1	links:	url:D011041	name:Poisoning	normalName:poisoning	normalWikiTitle:poisoning	predictedType:Disease
+CANDIDATE	id:535845	inCount:0	outCount:1	links:	url:C535845	name:Hawkinsinuria	normalName:hawkinsinuria	normalWikiTitle:hawkinsinuria	predictedType:Disease
+CANDIDATE	id:10304	inCount:0	outCount:2	links:	url:D010304	name:Paronychia	normalName:paronychia	normalWikiTitle:paronychia	predictedType:Disease
+CANDIDATE	id:18476	inCount:1	outCount:1	links:6948;18476;7035;7022	url:D018476	name:Hypokinesia	normalName:hypokinesia	normalWikiTitle:hypokinesia	predictedType:Disease
+CANDIDATE	id:839	inCount:0	outCount:1	links:	url:D000839	name:Aniseikonia	normalName:aniseikonia	normalWikiTitle:aniseikonia	predictedType:Disease
+CANDIDATE	id:537438	inCount:0	outCount:1	links:	url:C537438	name:Arrhinia	normalName:arrhinia	normalWikiTitle:arrhinia	predictedType:Disease
+CANDIDATE	id:10939	inCount:4	outCount:1	links:	url:D010939	name:Plant Poisoning	normalName:plant poisoning	normalWikiTitle:plant poisoning	predictedType:Disease
+CANDIDATE	id:20734	inCount:10	outCount:2	links:	url:D020734	name:Parkinsonism	normalName:parkinsonism	normalWikiTitle:parkinsonism	predictedType:Disease
+CANDIDATE	id:20734	inCount:10	outCount:2	links:	url:D020734	name:Parkinsonian Syndrome	normalName:parkinsonian syndrome	normalWikiTitle:parkinsonian syndrome	predictedType:Disease
+CANDIDATE	id:20447	inCount:7	outCount:1	links:7022	url:D020447	name:Parasomnia	normalName:parasomnia	normalWikiTitle:parasomnia	predictedType:Disease
+CANDIDATE	id:20734	inCount:10	outCount:2	links:	url:D020734	name:Parkinsonian Diseases	normalName:parkinsonian diseases	normalWikiTitle:parkinsonian diseases	predictedType:Disease
+ENTITY	text:death	normalName:death	predictedType:disease	q:true	qid:Q795	docId:2355241	origText:death	url:D003643
+CANDIDATE	id:3643	inCount:11	outCount:1	links:3643	url:D003643	name:Death	normalName:death	normalWikiTitle:death	predictedType:Disease
+ENTITY	text:deaths	normalName:deaths	predictedType:disease	q:true	qid:Q795	docId:2355241	origText:deaths	url:D003643
+CANDIDATE	id:3643	inCount:11	outCount:1	links:3643	url:D003643	name:Death	normalName:death	normalWikiTitle:death	predictedType:Disease
+ENTITY	text:cerebral haemorrhage	normalName:cerebral haemorrhage	predictedType:disease	q:true	qid:Q795	docId:2355241	origText:cerebral haemorrhage	url:D002543
+CANDIDATE	id:2543	inCount:3	outCount:1	links:2544;6948;6973;6331	url:D002543	name:Cerebral Hemorrhage	normalName:cerebral hemorrhage	normalWikiTitle:cerebral hemorrhage	predictedType:Disease
+CANDIDATE	id:20202	inCount:0	outCount:2	links:	url:D020202	name:Cerebral Hemorrhage, Traumatic	normalName:cerebral hemorrhage, traumatic	normalWikiTitle:cerebral hemorrhage, traumatic	predictedType:Disease
+CANDIDATE	id:5130	inCount:4	outCount:3	links:	url:D005130	name:Eye Hemorrhage	normalName:eye hemorrhage	normalWikiTitle:eye hemorrhage	predictedType:Disease
+CANDIDATE	id:2832	inCount:0	outCount:2	links:	url:D002832	name:Choroid Hemorrhage	normalName:choroid hemorrhage	normalWikiTitle:choroid hemorrhage	predictedType:Disease
+CANDIDATE	id:74042	inCount:0	outCount:1	links:	url:D000074042	name:Cerebral Intraventricular Hemorrhage	normalName:cerebral intraventricular hemorrhage	normalWikiTitle:cerebral intraventricular hemorrhage	predictedType:Disease
+CANDIDATE	id:16779	inCount:0	outCount:2	links:	url:D016779	name:Malaria, Cerebral	normalName:malaria, cerebral	normalWikiTitle:malaria, cerebral	predictedType:Disease
+CANDIDATE	id:6470	inCount:31	outCount:1	links:6331	url:D006470	name:Hemorrhage	normalName:hemorrhage	normalWikiTitle:hemorrhage	predictedType:Disease
+CANDIDATE	id:5884	inCount:1	outCount:2	links:	url:D005884	name:Gingival Hemorrhage	normalName:gingival hemorrhage	normalWikiTitle:gingival hemorrhage	predictedType:Disease
+CANDIDATE	id:537946	inCount:0	outCount:2	links:	url:C537946	name:Cerebral sarcoma	normalName:cerebral sarcoma	normalWikiTitle:cerebral sarcoma	predictedType:Disease
+CANDIDATE	id:6471	inCount:3	outCount:2	links:	url:D006471	name:Gastrointestinal Hemorrhage	normalName:gastrointestinal hemorrhage	normalWikiTitle:gastrointestinal hemorrhage	predictedType:Disease
+ENTITY	text:septicaemia	normalName:septicaemia	predictedType:disease	q:true	qid:Q795	docId:2355241	origText:septicaemia	url:D018805
+CANDIDATE	id:18805	inCount:6	outCount:2	links:11014	url:D018805	name:Pyaemia	normalName:pyaemia	normalWikiTitle:pyaemia	predictedType:Disease
+CANDIDATE	id:53714	inCount:0	outCount:1	links:	url:D053714	name:Aspermia	normalName:aspermia	normalWikiTitle:aspermia	predictedType:Disease
+CANDIDATE	id:7511	inCount:3	outCount:1	links:7022	url:D007511	name:Ischemia	normalName:ischemia	normalWikiTitle:ischemia	predictedType:Disease
+CANDIDATE	id:6996	inCount:5	outCount:2	links:6973	url:D006996	name:Hypocalcemia	normalName:hypocalcemia	normalWikiTitle:hypocalcemia	predictedType:Disease
+CANDIDATE	id:6483	inCount:0	outCount:2	links:	url:D006483	name:Hemorrhagic Septicemia	normalName:hemorrhagic septicemia	normalWikiTitle:hemorrhagic septicemia	predictedType:Disease
+CANDIDATE	id:538320	inCount:0	outCount:1	links:	url:C538320	name:Histidinemia	normalName:histidinemia	normalWikiTitle:histidinemia	predictedType:Disease
+CANDIDATE	id:14581	inCount:6	outCount:2	links:6973;7022	url:D014581	name:Urticaria	normalName:urticaria	normalWikiTitle:urticaria	predictedType:Disease
+CANDIDATE	id:4461	inCount:0	outCount:1	links:	url:D004461	name:Eclampsia	normalName:eclampsia	normalWikiTitle:eclampsia	predictedType:Disease
+CANDIDATE	id:14406	inCount:0	outCount:1	links:	url:D014406	name:Tularemia	normalName:tularemia	normalWikiTitle:tularemia	predictedType:Disease
+CANDIDATE	id:4485	inCount:4	outCount:2	links:	url:D004485	name:Eczema	normalName:eczema	normalWikiTitle:eczema	predictedType:Disease
+CANDIDATE	id:740	inCount:14	outCount:1	links:6331	url:D000740	name:Anemia	normalName:anemia	normalWikiTitle:anemia	predictedType:Disease
+CANDIDATE	id:18805	inCount:6	outCount:2	links:11014	url:D018805	name:Septicemia	normalName:septicemia	normalWikiTitle:septicemia	predictedType:Disease
+CANDIDATE	id:18805	inCount:6	outCount:2	links:11014	url:D018805	name:Septicemias	normalName:septicemias	normalWikiTitle:septicemias	predictedType:Disease
+CANDIDATE	id:6483	inCount:0	outCount:2	links:	url:D006483	name:Septicaemia, Hemorrhagic	normalName:septicaemia, hemorrhagic	normalWikiTitle:septicaemia, hemorrhagic	predictedType:Disease
+CANDIDATE	id:6483	inCount:0	outCount:2	links:	url:D006483	name:Hemorrhagic Septicaemia	normalName:hemorrhagic septicaemia	normalWikiTitle:hemorrhagic septicaemia	predictedType:Disease
+CANDIDATE	id:11225	inCount:4	outCount:1	links:	url:D011225	name:EPH Toxemia	normalName:eph toxemia	normalWikiTitle:eph toxemia	predictedType:Disease
+CANDIDATE	id:10930	inCount:0	outCount:1	links:	url:D010930	name:Plague, Septicemic	normalName:plague, septicemic	normalWikiTitle:plague, septicemic	predictedType:Disease
+CANDIDATE	id:10930	inCount:0	outCount:1	links:	url:D010930	name:Septicemic Plague	normalName:septicemic plague	normalWikiTitle:septicemic plague	predictedType:Disease
+CANDIDATE	id:11225	inCount:4	outCount:1	links:	url:D011225	name:Toxemia, EPH	normalName:toxemia, eph	normalWikiTitle:toxemia, eph	predictedType:Disease
+ENTITY	text:bronchitis	normalName:bronchitis	predictedType:disease	q:true	qid:Q795	docId:2355241	origText:bronchitis	url:D001991
+CANDIDATE	id:1991	inCount:3	outCount:3	links:	url:D001991	name:Bronchitis	normalName:bronchitis	normalWikiTitle:bronchitis	predictedType:Disease
+ENTITY	text:heart diseases	normalName:heart diseases	predictedType:disease	q:true	qid:Q795	docId:2355241	origText:heart diseases	url:D006331
+CANDIDATE	id:6331	inCount:29	outCount:1	links:2544;6948;740;2543;6470	url:D006331	name:Disease, Heart	normalName:disease, heart	normalWikiTitle:disease, heart	predictedType:Disease
+ENTITY	text:pneumonia	normalName:pneumonia	predictedType:disease	q:true	qid:Q795	docId:2355241	origText:pneumonia	url:D011014
+CANDIDATE	id:11014	inCount:10	outCount:2	links:18805;7035	url:D011014	name:Pneumonia	normalName:pneumonia	normalWikiTitle:pneumonia	predictedType:Disease
+ENTITY	text:hypotensive	normalName:hypotensive	predictedType:disease	q:true	qid:Q795	docId:2355241	origText:hypotensive	url:D007022
+CANDIDATE	id:7022	inCount:3	outCount:1	links:2544;14581;18476;20447;7511	url:D007022	name:Hypotension	normalName:hypotension	normalWikiTitle:hypotension	predictedType:Disease
+CANDIDATE	id:6973	inCount:18	outCount:1	links:2544;14581;2543;6996	url:D006973	name:Hypertension	normalName:hypertension	normalWikiTitle:hypertension	predictedType:Disease
+CANDIDATE	id:7035	inCount:2	outCount:1	links:11014;18476	url:D007035	name:Hypothermia	normalName:hypothermia	normalWikiTitle:hypothermia	predictedType:Disease
+CANDIDATE	id:6987	inCount:1	outCount:1	links:	url:D006987	name:Hypesthesia	normalName:hypesthesia	normalWikiTitle:hypesthesia	predictedType:Disease
+CANDIDATE	id:18476	inCount:1	outCount:1	links:6948;18476;7035;7022	url:D018476	name:Hypokinesia	normalName:hypokinesia	normalWikiTitle:hypokinesia	predictedType:Disease
+CANDIDATE	id:7019	inCount:1	outCount:1	links:	url:D007019	name:Hypoproteinemia	normalName:hypoproteinemia	normalWikiTitle:hypoproteinemia	predictedType:Disease
+CANDIDATE	id:15814	inCount:0	outCount:1	links:	url:D015814	name:Ocular Hypotension	normalName:ocular hypotension	normalWikiTitle:ocular hypotension	predictedType:Disease
+CANDIDATE	id:58246	inCount:0	outCount:1	links:	url:D058246	name:Prehypertension	normalName:prehypertension	normalWikiTitle:prehypertension	predictedType:Disease
+CANDIDATE	id:6977	inCount:3	outCount:2	links:	url:D006977	name:Hypertension, Renal	normalName:hypertension, renal	normalWikiTitle:hypertension, renal	predictedType:Disease
+CANDIDATE	id:6948	inCount:1	outCount:1	links:2544;2543;18476;6331	url:D006948	name:Hyperkinesis	normalName:hyperkinesis	normalWikiTitle:hyperkinesis	predictedType:Disease
+ENTITY	text:neoplasms	normalName:neoplasms	predictedType:disease	q:true	qid:Q795	docId:2355241	origText:neoplasms	url:D009369
+CANDIDATE	id:9369	inCount:18	outCount:1	links:	url:D009369	name:Neoplasm	normalName:neoplasm	normalWikiTitle:neoplasm	predictedType:Disease

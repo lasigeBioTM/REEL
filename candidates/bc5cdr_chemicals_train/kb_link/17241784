@@ -1,0 +1,4 @@
+ENTITY	text:prednisolone	normalName:prednisolone	predictedType:chemical	q:true	qid:Q183	docId:17241784	origText:prednisolone	url:D011239
+CANDIDATE	id:11239	inCount:207	outCount:1	links:	url:D011239	name:Prednisolone	normalName:prednisolone	normalWikiTitle:prednisolone	predictedType:Chemical
+ENTITY	text:methotrexate	normalName:methotrexate	predictedType:chemical	q:true	qid:Q183	docId:17241784	origText:methotrexate	url:D008727
+CANDIDATE	id:8727	inCount:364	outCount:1	links:	url:D008727	name:Methotrexate	normalName:methotrexate	normalWikiTitle:methotrexate	predictedType:Chemical

@@ -1,0 +1,14 @@
+ENTITY	text:quinidine	normalName:quinidine	predictedType:chemical	q:true	qid:Q68	docId:17297207	origText:quinidine	url:D011802
+CANDIDATE	id:11802	inCount:21	outCount:3	links:	url:D011802	name:Quinidine	normalName:quinidine	normalWikiTitle:quinidine	predictedType:Chemical
+ENTITY	text:Quinine	normalName:quinine	predictedType:chemical	q:true	qid:Q68	docId:17297207	origText:Quinine	url:D011803
+CANDIDATE	id:11803	inCount:24	outCount:3	links:	url:D011803	name:Quinine	normalName:quinine	normalWikiTitle:quinine	predictedType:Chemical
+ENTITY	text:potassium aspartate	normalName:potassium aspartate	predictedType:chemical	q:true	qid:Q68	docId:17297207	origText:potassium aspartate	url:D001224
+CANDIDATE	id:1224	inCount:112	outCount:3	links:	url:D001224	name:Aspartate, Potassium	normalName:aspartate, potassium	normalWikiTitle:aspartate, potassium	predictedType:Chemical
+ENTITY	text:lidocaine	normalName:lidocaine	predictedType:chemical	q:true	qid:Q68	docId:17297207	origText:lidocaine	url:D008012
+CANDIDATE	id:8012	inCount:68	outCount:1	links:	url:D008012	name:Lidocaine	normalName:lidocaine	normalWikiTitle:lidocaine	predictedType:Chemical
+ENTITY	text:bilirubin	normalName:bilirubin	predictedType:chemical	q:true	qid:Q68	docId:17297207	origText:bilirubin	url:D001663
+CANDIDATE	id:1663	inCount:20	outCount:1	links:	url:D001663	name:Bilirubin	normalName:bilirubin	normalWikiTitle:bilirubin	predictedType:Chemical
+ENTITY	text:potassium	normalName:potassium	predictedType:chemical	q:true	qid:Q68	docId:17297207	origText:potassium	url:D011188
+CANDIDATE	id:11188	inCount:10	outCount:2	links:	url:D011188	name:Potassium	normalName:potassium	normalWikiTitle:potassium	predictedType:Chemical
+ENTITY	text:dextrose	normalName:dextrose	predictedType:chemical	q:true	qid:Q68	docId:17297207	origText:dextrose	url:D005947
+CANDIDATE	id:5947	inCount:160	outCount:1	links:	url:D005947	name:Dextrose	normalName:dextrose	normalWikiTitle:dextrose	predictedType:Chemical

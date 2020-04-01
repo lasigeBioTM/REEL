@@ -1,0 +1,10 @@
+ENTITY	text:flank pain	normalName:flank pain	predictedType:disease	q:true	qid:Q740	docId:2598570	origText:flank pain	url:D021501
+CANDIDATE	id:21501	inCount:0	outCount:1	links:	url:D021501	name:Flank Pain	normalName:flank pain	normalWikiTitle:flank pain	predictedType:Disease
+ENTITY	text:kidney stones	normalName:kidney stones	predictedType:disease	q:true	qid:Q740	docId:2598570	origText:kidney stones	url:D007669
+CANDIDATE	id:7669	inCount:3	outCount:2	links:	url:D007669	name:Kidney Stones	normalName:kidney stones	normalWikiTitle:kidney stones	predictedType:Disease
+ENTITY	text:asthma	normalName:asthma	predictedType:disease	q:true	qid:Q740	docId:2598570	origText:asthma	url:D001249
+CANDIDATE	id:1249	inCount:16	outCount:3	links:	url:D001249	name:Asthma	normalName:asthma	normalWikiTitle:asthma	predictedType:Disease
+ENTITY	text:gout	normalName:gout	predictedType:disease	q:true	qid:Q740	docId:2598570	origText:gout	url:D006073
+CANDIDATE	id:6073	inCount:6	outCount:4	links:	url:D006073	name:Gout	normalName:gout	normalWikiTitle:gout	predictedType:Disease
+ENTITY	text:hay fever	normalName:hay fever	predictedType:disease	q:true	qid:Q740	docId:2598570	origText:hay fever	url:D006255
+CANDIDATE	id:6255	inCount:0	outCount:1	links:	url:D006255	name:Hay Fever	normalName:hay fever	normalWikiTitle:hay fever	predictedType:Disease

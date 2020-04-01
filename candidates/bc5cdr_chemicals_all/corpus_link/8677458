@@ -1,0 +1,4 @@
+ENTITY	text:ifosfamide	normalName:ifosfamide	predictedType:chemical	q:true	qid:Q723	docId:8677458	origText:ifosfamide	url:D007069
+CANDIDATE	id:7069	inCount:106	outCount:2	links:15080	url:D007069	name:Ifosfamide	normalName:ifosfamide	normalWikiTitle:ifosfamide	predictedType:Chemical
+ENTITY	text:mesna	normalName:mesna	predictedType:chemical	q:true	qid:Q723	docId:8677458	origText:mesna	url:D015080
+CANDIDATE	id:15080	inCount:22	outCount:2	links:7069	url:D015080	name:Mesna	normalName:mesna	normalWikiTitle:mesna	predictedType:Chemical

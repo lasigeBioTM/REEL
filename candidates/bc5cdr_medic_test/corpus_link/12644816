@@ -1,0 +1,50 @@
+ENTITY	text:constipation	normalName:constipation	predictedType:disease	q:true	qid:Q420	docId:12644816	origText:constipation	url:D003248
+CANDIDATE	id:3248	inCount:3	outCount:1	links:5076;4244;10523	url:D003248	name:Constipation	normalName:constipation	normalWikiTitle:constipation	predictedType:Disease
+ENTITY	text:peripheral sensory neuropathy	normalName:peripheral sensory neuropathy	predictedType:disease	q:true	qid:Q420	docId:12644816	origText:peripheral sensory neuropathy	url:D010523
+CANDIDATE	id:10523	inCount:37	outCount:1	links:5076;3248;4244	url:D010523	name:Peripheral Neuropathies	normalName:peripheral neuropathies	normalWikiTitle:peripheral neuropathies	predictedType:Disease
+CANDIDATE	id:548028	inCount:0	outCount:1	links:	url:C548028	name:Inherited Peripheral Neuropathy	normalName:inherited peripheral neuropathy	normalWikiTitle:inherited peripheral neuropathy	predictedType:Disease
+CANDIDATE	id:563813	inCount:0	outCount:1	links:	url:C563813	name:Peripheral Cone Dystrophy	normalName:peripheral cone dystrophy	normalWikiTitle:peripheral cone dystrophy	predictedType:Disease
+CANDIDATE	id:20425	inCount:0	outCount:1	links:	url:D020425	name:Radial Neuropathy	normalName:radial neuropathy	normalWikiTitle:radial neuropathy	predictedType:Disease
+CANDIDATE	id:20937	inCount:1	outCount:1	links:	url:D020937	name:Epilepsy, Partial, Sensory	normalName:epilepsy, partial, sensory	normalWikiTitle:epilepsy, partial, sensory	predictedType:Disease
+CANDIDATE	id:20427	inCount:0	outCount:1	links:	url:D020427	name:Peroneal Neuropathies	normalName:peroneal neuropathies	normalWikiTitle:peroneal neuropathies	predictedType:Disease
+CANDIDATE	id:565864	inCount:0	outCount:1	links:	url:C565864	name:Cerebral Angiopathy, Dysphoric	normalName:cerebral angiopathy, dysphoric	normalWikiTitle:cerebral angiopathy, dysphoric	predictedType:Disease
+CANDIDATE	id:20429	inCount:1	outCount:1	links:	url:D020429	name:Tibial Neuropathy	normalName:tibial neuropathy	normalWikiTitle:tibial neuropathy	predictedType:Disease
+CANDIDATE	id:564945	inCount:0	outCount:2	links:	url:C564945	name:Neuropathy, Painful	normalName:neuropathy, painful	normalWikiTitle:neuropathy, painful	predictedType:Disease
+CANDIDATE	id:20424	inCount:2	outCount:1	links:	url:D020424	name:Ulnar Neuropathies	normalName:ulnar neuropathies	normalWikiTitle:ulnar neuropathies	predictedType:Disease
+CANDIDATE	id:536870	inCount:0	outCount:2	links:	url:C536870	name:Spastic paraplegia neuropathy poikiloderma	normalName:spastic paraplegia neuropathy poikiloderma	normalWikiTitle:spastic paraplegia neuropathy poikiloderma	predictedType:Disease
+CANDIDATE	id:10523	inCount:37	outCount:1	links:5076;3248;4244	url:D010523	name:Neuropathy, Peripheral	normalName:neuropathy, peripheral	normalWikiTitle:neuropathy, peripheral	predictedType:Disease
+CANDIDATE	id:10523	inCount:37	outCount:1	links:5076;3248;4244	url:D010523	name:Peripheral Neuropathy	normalName:peripheral neuropathy	normalWikiTitle:peripheral neuropathy	predictedType:Disease
+CANDIDATE	id:16491	inCount:8	outCount:1	links:	url:D016491	name:Peripheral Angiopathy	normalName:peripheral angiopathy	normalWikiTitle:peripheral angiopathy	predictedType:Disease
+CANDIDATE	id:537989	inCount:0	outCount:1	links:	url:C537989	name:Peripheral sensory neuropathy, autosomal dominant (PSN)	normalName:peripheral sensory neuropathy, autosomal dominant (psn)	normalWikiTitle:peripheral sensory neuropathy, autosomal dominant (psn)	predictedType:Disease
+CANDIDATE	id:16491	inCount:8	outCount:1	links:	url:D016491	name:Angiopathy, Peripheral	normalName:angiopathy, peripheral	normalWikiTitle:angiopathy, peripheral	predictedType:Disease
+CANDIDATE	id:20427	inCount:0	outCount:1	links:	url:D020427	name:Neuropathy, Peroneal	normalName:neuropathy, peroneal	normalWikiTitle:neuropathy, peroneal	predictedType:Disease
+CANDIDATE	id:20427	inCount:0	outCount:1	links:	url:D020427	name:Peroneal Neuropathy	normalName:peroneal neuropathy	normalWikiTitle:peroneal neuropathy	predictedType:Disease
+ENTITY	text:prostate cancer	normalName:prostate cancer	predictedType:disease	q:true	qid:Q420	docId:12644816	origText:prostate cancer	url:D011471
+CANDIDATE	id:11471	inCount:19	outCount:2	links:	url:D011471	name:Prostate Cancer	normalName:prostate cancer	normalWikiTitle:prostate cancer	predictedType:Disease
+ENTITY	text:dizziness	normalName:dizziness	predictedType:disease	q:true	qid:Q420	docId:12644816	origText:dizziness	url:D004244
+CANDIDATE	id:4244	inCount:1	outCount:1	links:5076;3248;10523	url:D004244	name:Dizziness	normalName:dizziness	normalWikiTitle:dizziness	predictedType:Disease
+ENTITY	text:rash	normalName:rash	predictedType:disease	q:true	qid:Q420	docId:12644816	origText:rash	url:D005076
+CANDIDATE	id:5076	inCount:1	outCount:1	links:3248;10523;4244	url:D005076	name:Rash	normalName:rash	normalWikiTitle:rash	predictedType:Disease
+ENTITY	text:haematological malignancies	normalName:haematological malignancies	predictedType:disease	q:true	qid:Q420	docId:12644816	origText:haematological malignancies	url:D019337
+CANDIDATE	id:19337	inCount:2	outCount:2	links:	url:D019337	name:Hematopoietic Malignancies	normalName:hematopoietic malignancies	normalWikiTitle:hematopoietic malignancies	predictedType:Disease
+CANDIDATE	id:19337	inCount:2	outCount:2	links:	url:D019337	name:Hematologic Neoplasms	normalName:hematologic neoplasms	normalWikiTitle:hematologic neoplasms	predictedType:Disease
+CANDIDATE	id:562740	inCount:0	outCount:1	links:	url:C562740	name:Hemangiopericytoma, Malignant	normalName:hemangiopericytoma, malignant	normalWikiTitle:hemangiopericytoma, malignant	predictedType:Disease
+CANDIDATE	id:54853	inCount:0	outCount:3	links:	url:D054853	name:Malignant Atrophic Papulosis	normalName:malignant atrophic papulosis	normalWikiTitle:malignant atrophic papulosis	predictedType:Disease
+CANDIDATE	id:12553	inCount:0	outCount:2	links:	url:D012553	name:Schistosomiasis haematobia	normalName:schistosomiasis haematobia	normalWikiTitle:schistosomiasis haematobia	predictedType:Disease
+CANDIDATE	id:8305	inCount:11	outCount:2	links:	url:D008305	name:Malignant Hyperthermia	normalName:malignant hyperthermia	normalWikiTitle:malignant hyperthermia	predictedType:Disease
+CANDIDATE	id:47508	inCount:0	outCount:1	links:	url:D047508	name:Massive Hepatic Necrosis	normalName:massive hepatic necrosis	normalWikiTitle:massive hepatic necrosis	predictedType:Disease
+CANDIDATE	id:563405	inCount:0	outCount:1	links:	url:C563405	name:Migraine, Sporadic Hemiplegic	normalName:migraine, sporadic hemiplegic	normalWikiTitle:migraine, sporadic hemiplegic	predictedType:Disease
+CANDIDATE	id:567160	inCount:0	outCount:1	links:	url:C567160	name:Anemia, Sideroblastic, Autosomal Dominant	normalName:anemia, sideroblastic, autosomal dominant	normalWikiTitle:anemia, sideroblastic, autosomal dominant	predictedType:Disease
+CANDIDATE	id:11250	inCount:0	outCount:2	links:	url:D011250	name:Pregnancy Complications, Hematologic	normalName:pregnancy complications, hematologic	normalWikiTitle:pregnancy complications, hematologic	predictedType:Disease
+CANDIDATE	id:8304	inCount:0	outCount:2	links:	url:D008304	name:Malignant Catarrh	normalName:malignant catarrh	normalWikiTitle:malignant catarrh	predictedType:Disease
+CANDIDATE	id:19337	inCount:2	outCount:2	links:	url:D019337	name:Hematological Malignancies	normalName:hematological malignancies	normalWikiTitle:hematological malignancies	predictedType:Disease
+CANDIDATE	id:19337	inCount:2	outCount:2	links:	url:D019337	name:Malignancies, Hematological	normalName:malignancies, hematological	normalWikiTitle:malignancies, hematological	predictedType:Disease
+CANDIDATE	id:19337	inCount:2	outCount:2	links:	url:D019337	name:Hematologic Malignancies	normalName:hematologic malignancies	normalWikiTitle:hematologic malignancies	predictedType:Disease
+CANDIDATE	id:19337	inCount:2	outCount:2	links:	url:D019337	name:Malignancies, Hematologic	normalName:malignancies, hematologic	normalWikiTitle:malignancies, hematologic	predictedType:Disease
+CANDIDATE	id:19337	inCount:2	outCount:2	links:	url:D019337	name:Hematological Malignancy	normalName:hematological malignancy	normalWikiTitle:hematological malignancy	predictedType:Disease
+CANDIDATE	id:19337	inCount:2	outCount:2	links:	url:D019337	name:Malignancy, Hematological	normalName:malignancy, hematological	normalWikiTitle:malignancy, hematological	predictedType:Disease
+CANDIDATE	id:19337	inCount:2	outCount:2	links:	url:D019337	name:Hematologic Malignancy	normalName:hematologic malignancy	normalWikiTitle:hematologic malignancy	predictedType:Disease
+CANDIDATE	id:19337	inCount:2	outCount:2	links:	url:D019337	name:Malignancy, Hematologic	normalName:malignancy, hematologic	normalWikiTitle:malignancy, hematologic	predictedType:Disease
+CANDIDATE	id:19337	inCount:2	outCount:2	links:	url:D019337	name:Malignancies, Hematopoietic	normalName:malignancies, hematopoietic	normalWikiTitle:malignancies, hematopoietic	predictedType:Disease
+ENTITY	text:peripheral neuropathy	normalName:peripheral neuropathy	predictedType:disease	q:true	qid:Q420	docId:12644816	origText:peripheral neuropathy	url:D010523
+CANDIDATE	id:10523	inCount:37	outCount:1	links:5076;3248;4244	url:D010523	name:Peripheral Neuropathy	normalName:peripheral neuropathy	normalWikiTitle:peripheral neuropathy	predictedType:Disease

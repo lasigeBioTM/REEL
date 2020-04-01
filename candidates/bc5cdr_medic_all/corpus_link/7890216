@@ -1,0 +1,34 @@
+ENTITY	text:gall bladder stones	normalName:gall bladder stones	predictedType:disease	q:true	qid:Q254	docId:7890216	origText:gall bladder stones	url:D042882
+CANDIDATE	id:42882	inCount:2	outCount:3	links:	url:D042882	name:Gall Stones	normalName:gall stones	normalWikiTitle:gall stones	predictedType:Disease
+CANDIDATE	id:42882	inCount:2	outCount:3	links:	url:D042882	name:Gallstones	normalName:gallstones	normalWikiTitle:gallstones	predictedType:Disease
+CANDIDATE	id:1744	inCount:0	outCount:2	links:	url:D001744	name:Urinary Bladder Calculi	normalName:urinary bladder calculi	normalWikiTitle:urinary bladder calculi	predictedType:Disease
+CANDIDATE	id:1746	inCount:1	outCount:2	links:	url:D001746	name:Bladder Exstrophy	normalName:bladder exstrophy	normalWikiTitle:bladder exstrophy	predictedType:Disease
+CANDIDATE	id:22125	inCount:0	outCount:1	links:	url:D022125	name:Lacerations	normalName:lacerations	normalWikiTitle:lacerations	predictedType:Disease
+CANDIDATE	id:537001	inCount:0	outCount:1	links:	url:C537001	name:Left-sided gallbladder	normalName:left-sided gallbladder	normalWikiTitle:left-sided gallbladder	predictedType:Disease
+CANDIDATE	id:18330	inCount:0	outCount:1	links:	url:D018330	name:Nevus, Intradermal	normalName:nevus, intradermal	normalWikiTitle:nevus, intradermal	predictedType:Disease
+CANDIDATE	id:54062	inCount:6	outCount:3	links:	url:D054062	name:Deaf-Blind Disorders	normalName:deaf-blind disorders	normalWikiTitle:deaf-blind disorders	predictedType:Disease
+CANDIDATE	id:1424	inCount:12	outCount:1	links:	url:D001424	name:Bacterial Infections	normalName:bacterial infections	normalWikiTitle:bacterial infections	predictedType:Disease
+CANDIDATE	id:1745	inCount:13	outCount:1	links:	url:D001745	name:Urinary Bladder Diseases	normalName:urinary bladder diseases	normalWikiTitle:urinary bladder diseases	predictedType:Disease
+CANDIDATE	id:18882	inCount:2	outCount:1	links:	url:D018882	name:Heat Stress Disorders	normalName:heat stress disorders	normalWikiTitle:heat stress disorders	predictedType:Disease
+CANDIDATE	id:1744	inCount:0	outCount:2	links:	url:D001744	name:Stones, Bladder	normalName:stones, bladder	normalWikiTitle:stones, bladder	predictedType:Disease
+CANDIDATE	id:1744	inCount:0	outCount:2	links:	url:D001744	name:Bladder Stones	normalName:bladder stones	normalWikiTitle:bladder stones	predictedType:Disease
+CANDIDATE	id:1744	inCount:0	outCount:2	links:	url:D001744	name:Bladder Stone	normalName:bladder stone	normalWikiTitle:bladder stone	predictedType:Disease
+CANDIDATE	id:1744	inCount:0	outCount:2	links:	url:D001744	name:Stone, Bladder	normalName:stone, bladder	normalWikiTitle:stone, bladder	predictedType:Disease
+CANDIDATE	id:1749	inCount:2	outCount:2	links:	url:D001749	name:Bladder Cancers	normalName:bladder cancers	normalWikiTitle:bladder cancers	predictedType:Disease
+ENTITY	text:gall stone	normalName:gall stone	predictedType:disease	q:true	qid:Q254	docId:7890216	origText:gall stone	url:D042882
+CANDIDATE	id:42882	inCount:2	outCount:3	links:	url:D042882	name:Gall Stone	normalName:gall stone	normalWikiTitle:gall stone	predictedType:Disease
+ENTITY	text:acromegaly	normalName:acromegaly	predictedType:disease	q:true	qid:Q254	docId:7890216	origText:acromegaly	url:D000172
+CANDIDATE	id:172	inCount:6	outCount:2	links:	url:D000172	name:Acromegaly	normalName:acromegaly	normalWikiTitle:acromegaly	predictedType:Disease
+ENTITY	text:gall stones	normalName:gall stones	predictedType:disease	q:true	qid:Q254	docId:7890216	origText:gall stones	url:D042882
+CANDIDATE	id:42882	inCount:2	outCount:3	links:	url:D042882	name:Gall Stone	normalName:gall stone	normalWikiTitle:gall stone	predictedType:Disease
+ENTITY	text:acromegalic	normalName:acromegalic	predictedType:disease	q:true	qid:Q254	docId:7890216	origText:acromegalic	url:D000172
+CANDIDATE	id:172	inCount:6	outCount:2	links:	url:D000172	name:Acromegaly	normalName:acromegaly	normalWikiTitle:acromegaly	predictedType:Disease
+CANDIDATE	id:6332	inCount:5	outCount:2	links:	url:D006332	name:Cardiomegaly	normalName:cardiomegaly	normalWikiTitle:cardiomegaly	predictedType:Disease
+CANDIDATE	id:4480	inCount:21	outCount:1	links:	url:D004480	name:Ectromelia	normalName:ectromelia	normalWikiTitle:ectromelia	predictedType:Disease
+CANDIDATE	id:3085	inCount:0	outCount:1	links:	url:D003085	name:Colic	normalName:colic	normalWikiTitle:colic	predictedType:Disease
+CANDIDATE	id:6529	inCount:4	outCount:2	links:	url:D006529	name:Hepatomegaly	normalName:hepatomegaly	normalWikiTitle:hepatomegaly	predictedType:Disease
+CANDIDATE	id:8260	inCount:1	outCount:1	links:	url:D008260	name:Macroglossia	normalName:macroglossia	normalWikiTitle:macroglossia	predictedType:Disease
+CANDIDATE	id:535702	inCount:0	outCount:1	links:	url:C535702	name:Malonic aciduria	normalName:malonic aciduria	normalWikiTitle:malonic aciduria	predictedType:Disease
+CANDIDATE	id:14137	inCount:0	outCount:3	links:	url:D014137	name:Tracheobronchomegaly	normalName:tracheobronchomegaly	normalWikiTitle:tracheobronchomegaly	predictedType:Disease
+CANDIDATE	id:55092	inCount:1	outCount:3	links:	url:D055092	name:Laryngomalacia	normalName:laryngomalacia	normalWikiTitle:laryngomalacia	predictedType:Disease
+CANDIDATE	id:169	inCount:1	outCount:2	links:	url:D000169	name:Acrodermatitis	normalName:acrodermatitis	normalWikiTitle:acrodermatitis	predictedType:Disease

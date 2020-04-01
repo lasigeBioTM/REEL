@@ -1,0 +1,25 @@
+ENTITY	text:corticosteroids	normalName:corticosteroids	predictedType:chemical	q:true	qid:Q1372	docId:7910951	origText:corticosteroids	url:D000305
+CANDIDATE	id:305	inCount:8	outCount:1	links:	url:D000305	name:Corticosteroids	normalName:corticosteroids	normalWikiTitle:corticosteroids	predictedType:Chemical
+CANDIDATE	id:3345	inCount:21	outCount:2	links:	url:D003345	name:Corticosterone	normalName:corticosterone	normalWikiTitle:corticosterone	predictedType:Chemical
+CANDIDATE	id:540640	inCount:0	outCount:1	links:	url:C540640	name:ptilosteroid C	normalName:ptilosteroid c	normalWikiTitle:ptilosteroid c	predictedType:Chemical
+CANDIDATE	id:6889	inCount:5	outCount:1	links:	url:D006889	name:Hydroxycorticosteroids	normalName:hydroxycorticosteroids	normalWikiTitle:hydroxycorticosteroids	predictedType:Chemical
+CANDIDATE	id:534366	inCount:0	outCount:1	links:	url:C534366	name:parathiosteroid C	normalName:parathiosteroid c	normalWikiTitle:parathiosteroid c	predictedType:Chemical
+CANDIDATE	id:26367	inCount:0	outCount:1	links:	url:C026367	name:corticosterone nitroxide	normalName:corticosterone nitroxide	normalWikiTitle:corticosterone nitroxide	predictedType:Chemical
+CANDIDATE	id:54598	inCount:0	outCount:1	links:	url:C054598	name:corticostatin	normalName:corticostatin	normalWikiTitle:corticostatin	predictedType:Chemical
+CANDIDATE	id:3525	inCount:1	outCount:1	links:	url:D003525	name:Cyclosteroids	normalName:cyclosteroids	normalWikiTitle:cyclosteroids	predictedType:Chemical
+CANDIDATE	id:10897	inCount:0	outCount:1	links:	url:C010897	name:corticotensin	normalName:corticotensin	normalWikiTitle:corticotensin	predictedType:Chemical
+CANDIDATE	id:15062	inCount:5	outCount:1	links:	url:D015062	name:11-Hydroxycorticosteroids	normalName:11-hydroxycorticosteroids	normalWikiTitle:11-hydroxycorticosteroids	predictedType:Chemical
+CANDIDATE	id:9654	inCount:35	outCount:1	links:	url:D009654	name:Norsteroids	normalName:norsteroids	normalWikiTitle:norsteroids	predictedType:Chemical
+ENTITY	text:vecuronium	normalName:vecuronium	predictedType:chemical	q:true	qid:Q1372	docId:7910951	origText:vecuronium	url:D014673
+CANDIDATE	id:14673	inCount:14	outCount:1	links:	url:D014673	name:Vecuronium	normalName:vecuronium	normalWikiTitle:vecuronium	predictedType:Chemical
+ENTITY	text:nondepolarizing neuromuscular blocking agents	normalName:nondepolarizing neuromuscular blocking agents	predictedType:chemical	q:true	qid:Q1372	docId:7910951	origText:nondepolarizing neuromuscular blocking agents	url:D003473
+CANDIDATE	id:3473	inCount:0	outCount:1	links:	url:D003473	name:Neuromuscular Nondepolarizing Agents	normalName:neuromuscular nondepolarizing agents	normalWikiTitle:neuromuscular nondepolarizing agents	predictedType:Chemical
+CANDIDATE	id:9466	inCount:2	outCount:1	links:	url:D009466	name:Neuromuscular Blocking Agents	normalName:neuromuscular blocking agents	normalWikiTitle:neuromuscular blocking agents	predictedType:Chemical
+CANDIDATE	id:9467	inCount:0	outCount:1	links:	url:D009467	name:Neuromuscular Depolarizing Agents	normalName:neuromuscular depolarizing agents	normalWikiTitle:neuromuscular depolarizing agents	predictedType:Chemical
+CANDIDATE	id:13092	inCount:0	outCount:1	links:	url:D013092	name:Spermatogenesis-Blocking Agents	normalName:spermatogenesis-blocking agents	normalWikiTitle:spermatogenesis-blocking agents	predictedType:Chemical
+CANDIDATE	id:9465	inCount:2	outCount:1	links:	url:D009465	name:Neuromuscular Agents	normalName:neuromuscular agents	normalWikiTitle:neuromuscular agents	predictedType:Chemical
+CANDIDATE	id:50299	inCount:2	outCount:1	links:	url:D050299	name:Fibrin Modulating Agents	normalName:fibrin modulating agents	normalWikiTitle:fibrin modulating agents	predictedType:Chemical
+CANDIDATE	id:65096	inCount:0	outCount:1	links:	url:D065096	name:Calcium Chelating Agents	normalName:calcium chelating agents	normalWikiTitle:calcium chelating agents	predictedType:Chemical
+CANDIDATE	id:18906	inCount:0	outCount:2	links:	url:D018906	name:Antineoplastic Agents, Alkylating	normalName:antineoplastic agents, alkylating	normalWikiTitle:antineoplastic agents, alkylating	predictedType:Chemical
+CANDIDATE	id:65104	inCount:0	outCount:1	links:	url:D065104	name:Cystine Depleting Agents	normalName:cystine depleting agents	normalWikiTitle:cystine depleting agents	predictedType:Chemical
+CANDIDATE	id:109838	inCount:0	outCount:1	links:	url:C109838	name:clapearl bonding agent	normalName:clapearl bonding agent	normalWikiTitle:clapearl bonding agent	predictedType:Chemical

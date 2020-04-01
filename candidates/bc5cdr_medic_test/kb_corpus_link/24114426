@@ -1,0 +1,27 @@
+ENTITY	text:impaired memory	normalName:impaired memory	predictedType:disease	q:true	qid:Q224	docId:24114426	origText:impaired memory	url:D008569
+CANDIDATE	id:8569	inCount:2	outCount:1	links:3866;1714	url:D008569	name:Memory Disorder	normalName:memory disorder	normalWikiTitle:memory disorder	predictedType:Disease
+CANDIDATE	id:8569	inCount:2	outCount:1	links:3866;1714	url:D008569	name:Memory Disorders	normalName:memory disorders	normalWikiTitle:memory disorders	predictedType:Disease
+CANDIDATE	id:18200	inCount:0	outCount:1	links:	url:D018200	name:Mixed Tumor, Mullerian	normalName:mixed tumor, mullerian	normalWikiTitle:mixed tumor, mullerian	predictedType:Disease
+CANDIDATE	id:14095	inCount:0	outCount:1	links:	url:D014095	name:Tooth, Impacted	normalName:tooth, impacted	normalWikiTitle:tooth, impacted	predictedType:Disease
+CANDIDATE	id:10211	inCount:0	outCount:1	links:14786	url:D010211	name:Papilledema	normalName:papilledema	normalWikiTitle:papilledema	predictedType:Disease
+CANDIDATE	id:19773	inCount:0	outCount:1	links:	url:D019773	name:Epiretinal Membrane	normalName:epiretinal membrane	normalWikiTitle:epiretinal membrane	predictedType:Disease
+CANDIDATE	id:11017	inCount:0	outCount:1	links:	url:D011017	name:Pneumonia, Lipid	normalName:pneumonia, lipid	normalWikiTitle:pneumonia, lipid	predictedType:Disease
+CANDIDATE	id:45745	inCount:1	outCount:1	links:	url:D045745	name:Scleroderma, Limited	normalName:scleroderma, limited	normalWikiTitle:scleroderma, limited	predictedType:Disease
+CANDIDATE	id:1714	inCount:11	outCount:1	links:6973;3866;1714	url:D001714	name:Bipolar Disorder	normalName:bipolar disorder	normalWikiTitle:bipolar disorder	predictedType:Disease
+CANDIDATE	id:65134	inCount:0	outCount:1	links:	url:D065134	name:Lipedema	normalName:lipedema	normalWikiTitle:lipedema	predictedType:Disease
+CANDIDATE	id:57873	inCount:0	outCount:1	links:	url:D057873	name:Peri-Implantitis	normalName:peri-implantitis	normalWikiTitle:peri-implantitis	predictedType:Disease
+CANDIDATE	id:6987	inCount:1	outCount:1	links:	url:D006987	name:Impaired Sensation	normalName:impaired sensation	normalWikiTitle:impaired sensation	predictedType:Disease
+CANDIDATE	id:6987	inCount:1	outCount:1	links:	url:D006987	name:Sensation, Impaired	normalName:sensation, impaired	normalWikiTitle:sensation, impaired	predictedType:Disease
+ENTITY	text:Depression	normalName:depression	predictedType:disease	q:true	qid:Q224	docId:24114426	origText:Depression	url:D003866
+CANDIDATE	id:3866	inCount:6	outCount:1	links:8569;1714	url:D003866	name:Depressive Disorder	normalName:depressive disorder	normalWikiTitle:depressive disorder	predictedType:Disease
+CANDIDATE	id:18450	inCount:2	outCount:1	links:	url:D018450	name:Disease Progression	normalName:disease progression	normalWikiTitle:disease progression	predictedType:Disease
+CANDIDATE	id:19052	inCount:0	outCount:2	links:	url:D019052	name:Depression, Postpartum	normalName:depression, postpartum	normalWikiTitle:depression, postpartum	predictedType:Disease
+CANDIDATE	id:146850	inCount:0	outCount:2	links:	url:146850	name:IMMUNE SUPPRESSION	normalName:immune suppression	normalWikiTitle:immune suppression	predictedType:Disease
+CANDIDATE	id:6973	inCount:18	outCount:1	links:1714	url:D006973	name:Hypertension	normalName:hypertension	normalWikiTitle:hypertension	predictedType:Disease
+CANDIDATE	id:58246	inCount:0	outCount:1	links:	url:D058246	name:Prehypertension	normalName:prehypertension	normalWikiTitle:prehypertension	predictedType:Disease
+CANDIDATE	id:14786	inCount:19	outCount:2	links:10211	url:D014786	name:Vision Disorders	normalName:vision disorders	normalWikiTitle:vision disorders	predictedType:Disease
+CANDIDATE	id:3665	inCount:0	outCount:1	links:	url:D003665	name:Decompression Sickness	normalName:decompression sickness	normalWikiTitle:decompression sickness	predictedType:Disease
+CANDIDATE	id:12871	inCount:71	outCount:1	links:	url:D012871	name:Skin Diseases	normalName:skin diseases	normalWikiTitle:skin diseases	predictedType:Disease
+CANDIDATE	id:4688	inCount:1	outCount:2	links:	url:D004688	name:Encopresis	normalName:encopresis	normalWikiTitle:encopresis	predictedType:Disease
+CANDIDATE	id:1714	inCount:11	outCount:1	links:6973;3866;1714	url:D001714	name:Depression, Bipolar	normalName:depression, bipolar	normalWikiTitle:depression, bipolar	predictedType:Disease
+CANDIDATE	id:1714	inCount:11	outCount:1	links:6973;3866;1714	url:D001714	name:Bipolar Depression	normalName:bipolar depression	normalWikiTitle:bipolar depression	predictedType:Disease

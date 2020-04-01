@@ -1,0 +1,6 @@
+ENTITY	text:Methamphetamine	normalName:methamphetamine	predictedType:chemical	q:true	qid:Q553	docId:18410508	origText:Methamphetamine	url:D008694
+CANDIDATE	id:8694	inCount:44	outCount:1	links:15632	url:D008694	name:Methamphetamine	normalName:methamphetamine	normalWikiTitle:methamphetamine	predictedType:Chemical
+ENTITY	text:dopamine	normalName:dopamine	predictedType:chemical	q:true	qid:Q553	docId:18410508	origText:dopamine	url:D004298
+CANDIDATE	id:4298	inCount:90	outCount:2	links:	url:D004298	name:Dopamine	normalName:dopamine	normalWikiTitle:dopamine	predictedType:Chemical
+ENTITY	text:MPTP	normalName:mptp	predictedType:chemical	q:true	qid:Q553	docId:18410508	origText:MPTP	url:D015632
+CANDIDATE	id:15632	inCount:30	outCount:1	links:8694	url:D015632	name:MPTP	normalName:mptp	normalWikiTitle:mptp	predictedType:Chemical

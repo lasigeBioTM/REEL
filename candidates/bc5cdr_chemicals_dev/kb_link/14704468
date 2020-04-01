@@ -1,0 +1,18 @@
+ENTITY	text:loreclezole	normalName:loreclezole	predictedType:chemical	q:true	qid:Q74	docId:14704468	origText:loreclezole	url:C066440
+CANDIDATE	id:66440	inCount:0	outCount:1	links:	url:C066440	name:loreclezole	normalName:loreclezole	normalWikiTitle:loreclezole	predictedType:Chemical
+ENTITY	text:carbamazepine	normalName:carbamazepine	predictedType:chemical	q:true	qid:Q74	docId:14704468	origText:carbamazepine	url:D002220
+CANDIDATE	id:2220	inCount:15	outCount:1	links:	url:D002220	name:Carbamazepine	normalName:carbamazepine	normalWikiTitle:carbamazepine	predictedType:Chemical
+ENTITY	text:valproate	normalName:valproate	predictedType:chemical	q:true	qid:Q74	docId:14704468	origText:valproate	url:D014635
+CANDIDATE	id:14635	inCount:43	outCount:1	links:	url:D014635	name:Valproate	normalName:valproate	normalWikiTitle:valproate	predictedType:Chemical
+ENTITY	text:clonazepam	normalName:clonazepam	predictedType:chemical	q:true	qid:Q74	docId:14704468	origText:clonazepam	url:D002998
+CANDIDATE	id:2998	inCount:5	outCount:1	links:	url:D002998	name:Clonazepam	normalName:clonazepam	normalWikiTitle:clonazepam	predictedType:Chemical
+ENTITY	text:calcium	normalName:calcium	predictedType:chemical	q:true	qid:Q74	docId:14704468	origText:calcium	url:D002118
+CANDIDATE	id:2118	inCount:11	outCount:2	links:	url:D002118	name:Calcium	normalName:calcium	normalWikiTitle:calcium	predictedType:Chemical
+ENTITY	text:aminophylline	normalName:aminophylline	predictedType:chemical	q:true	qid:Q74	docId:14704468	origText:aminophylline	url:D000628
+CANDIDATE	id:628	inCount:10	outCount:2	links:	url:D000628	name:Aminophylline	normalName:aminophylline	normalWikiTitle:aminophylline	predictedType:Chemical
+ENTITY	text:N-methyl-D-aspartic acid	normalName:n-methyl-d-aspartic acid	predictedType:chemical	q:true	qid:Q74	docId:14704468	origText:N-methyl-D-aspartic acid	url:D016202
+CANDIDATE	id:16202	inCount:3	outCount:1	links:	url:D016202	name:N Methyl D aspartic Acid	normalName:n methyl d aspartic acid	normalWikiTitle:n methyl d aspartic acid	predictedType:Chemical
+ENTITY	text:BAY k-8644	normalName:bay k-8644	predictedType:chemical	q:true	qid:Q74	docId:14704468	origText:BAY k-8644	url:D001498
+CANDIDATE	id:1498	inCount:0	outCount:2	links:	url:D001498	name:Bay-K-8644	normalName:bay-k-8644	normalWikiTitle:bay-k-8644	predictedType:Chemical
+ENTITY	text:bicuculline	normalName:bicuculline	predictedType:chemical	q:true	qid:Q74	docId:14704468	origText:bicuculline	url:D001640
+CANDIDATE	id:1640	inCount:4	outCount:1	links:	url:D001640	name:Bicuculline	normalName:bicuculline	normalWikiTitle:bicuculline	predictedType:Chemical

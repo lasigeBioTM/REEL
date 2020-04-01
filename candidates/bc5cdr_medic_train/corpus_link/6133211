@@ -1,0 +1,34 @@
+ENTITY	text:Potter-type IIa polycystic kidney	normalName:potter-type iia polycystic kidney	predictedType:disease	q:true	qid:Q410	docId:6133211	origText:Potter-type IIa polycystic kidney	url:D007690
+CANDIDATE	id:7690	inCount:15	outCount:3	links:6345;3025;1017	url:D007690	name:Polycystic Kidney Diseases	normalName:polycystic kidney diseases	normalWikiTitle:polycystic kidney diseases	predictedType:Disease
+CANDIDATE	id:566792	inCount:0	outCount:1	links:	url:C566792	name:Potter Type III Polycystic Kidney Disease	normalName:potter type iii polycystic kidney disease	normalWikiTitle:potter type iii polycystic kidney disease	predictedType:Disease
+CANDIDATE	id:536326	inCount:0	outCount:1	links:	url:C536326	name:Polycystic kidney disease, type 1	normalName:polycystic kidney disease, type 1	normalWikiTitle:polycystic kidney disease, type 1	predictedType:Disease
+CANDIDATE	id:537586	inCount:0	outCount:1	links:	url:C537586	name:Serpentine fibula polycystic kidney syndrome	normalName:serpentine fibula polycystic kidney syndrome	normalWikiTitle:serpentine fibula polycystic kidney syndrome	predictedType:Disease
+CANDIDATE	id:17044	inCount:3	outCount:1	links:	url:D017044	name:Polycystic Kidney, Autosomal Recessive	normalName:polycystic kidney, autosomal recessive	normalWikiTitle:polycystic kidney, autosomal recessive	predictedType:Disease
+CANDIDATE	id:536328	inCount:0	outCount:2	links:	url:C536328	name:Polycystic kidneys, severe infantile with tuberous sclerosis	normalName:polycystic kidneys, severe infantile with tuberous sclerosis	normalWikiTitle:polycystic kidneys, severe infantile with tuberous sclerosis	predictedType:Disease
+CANDIDATE	id:16891	inCount:2	outCount:1	links:	url:D016891	name:Polycystic Kidney, Autosomal Dominant	normalName:polycystic kidney, autosomal dominant	normalWikiTitle:polycystic kidney, autosomal dominant	predictedType:Disease
+CANDIDATE	id:564738	inCount:0	outCount:1	links:	url:C564738	name:Pontocerebellar Hypoplasia Type 2A	normalName:pontocerebellar hypoplasia type 2a	normalWikiTitle:pontocerebellar hypoplasia type 2a	predictedType:Disease
+CANDIDATE	id:537481	inCount:0	outCount:2	links:	url:C537481	name:Spastic diplegia infantile type	normalName:spastic diplegia infantile type	normalWikiTitle:spastic diplegia infantile type	predictedType:Disease
+CANDIDATE	id:536330	inCount:0	outCount:2	links:	url:C536330	name:Polycystic liver disease	normalName:polycystic liver disease	normalWikiTitle:polycystic liver disease	predictedType:Disease
+ENTITY	text:Crohn's disease	normalName:crohn's disease	predictedType:disease	q:true	qid:Q410	docId:6133211	origText:Crohn's disease	url:D003424
+CANDIDATE	id:3424	inCount:1	outCount:1	links:	url:D003424	name:Crohn's Disease	normalName:crohn's disease	normalWikiTitle:crohn's disease	predictedType:Disease
+ENTITY	text:talipes equinovarus	normalName:talipes equinovarus	predictedType:disease	q:true	qid:Q410	docId:6133211	origText:talipes equinovarus	url:D003025
+CANDIDATE	id:3025	inCount:8	outCount:1	links:6345;1017;7690	url:D003025	name:Talipes Equinovarus	normalName:talipes equinovarus	normalWikiTitle:talipes equinovarus	predictedType:Disease
+ENTITY	text:ventricular septal defect	normalName:ventricular septal defect	predictedType:disease	q:true	qid:Q410	docId:6133211	origText:ventricular septal defect	url:D006345
+CANDIDATE	id:6345	inCount:6	outCount:1	links:3025;1017;7690	url:D006345	name:Septal Defect, Ventricular	normalName:septal defect, ventricular	normalWikiTitle:septal defect, ventricular	predictedType:Disease
+ENTITY	text:inflammatory bowel disease	normalName:inflammatory bowel disease	predictedType:disease	q:true	qid:Q410	docId:6133211	origText:inflammatory bowel disease	url:D015212
+CANDIDATE	id:15212	inCount:31	outCount:2	links:	url:D015212	name:Inflammatory Bowel Disease	normalName:inflammatory bowel disease	normalWikiTitle:inflammatory bowel disease	predictedType:Disease
+ENTITY	text:coarctation of the aorta	normalName:coarctation of the aorta	predictedType:disease	q:true	qid:Q410	docId:6133211	origText:coarctation of the aorta	url:D001017
+CANDIDATE	id:1017	inCount:3	outCount:1	links:6345;3025;7690	url:D001017	name:Coarctation of the Aorta	normalName:coarctation of the aorta	normalWikiTitle:coarctation of the aorta	predictedType:Disease
+ENTITY	text:congenital anomalies	normalName:congenital anomalies	predictedType:disease	q:true	qid:Q410	docId:6133211	origText:congenital anomalies	url:D000013
+CANDIDATE	id:13	inCount:50	outCount:1	links:	url:D000013	name:Congenital Abnormalities	normalName:congenital abnormalities	normalWikiTitle:congenital abnormalities	predictedType:Disease
+CANDIDATE	id:535983	inCount:0	outCount:1	links:	url:C535983	name:Congenital anosmia	normalName:congenital anosmia	normalWikiTitle:congenital anosmia	predictedType:Disease
+CANDIDATE	id:14564	inCount:52	outCount:3	links:	url:D014564	name:Urogenital Abnormalities	normalName:urogenital abnormalities	normalWikiTitle:urogenital abnormalities	predictedType:Disease
+CANDIDATE	id:565682	inCount:0	outCount:1	links:	url:C565682	name:Amputation, Congenital	normalName:amputation, congenital	normalWikiTitle:amputation, congenital	predictedType:Disease
+CANDIDATE	id:536377	inCount:0	outCount:1	links:	url:C536377	name:Anonychia congenita	normalName:anonychia congenita	normalWikiTitle:anonychia congenita	predictedType:Disease
+CANDIDATE	id:566307	inCount:1	outCount:2	links:	url:C566307	name:Alacrima, Congenital	normalName:alacrima, congenital	normalWikiTitle:alacrima, congenital	predictedType:Disease
+CANDIDATE	id:57130	inCount:24	outCount:2	links:	url:D057130	name:Leber Congenital Amaurosis	normalName:leber congenital amaurosis	normalWikiTitle:leber congenital amaurosis	predictedType:Disease
+CANDIDATE	id:562858	inCount:0	outCount:1	links:	url:C562858	name:Cholesteatoma, Congenital	normalName:cholesteatoma, congenital	normalWikiTitle:cholesteatoma, congenital	predictedType:Disease
+CANDIDATE	id:565327	inCount:0	outCount:1	links:	url:C565327	name:Leber Congenital Amaurosis 6	normalName:leber congenital amaurosis 6	normalWikiTitle:leber congenital amaurosis 6	predictedType:Disease
+CANDIDATE	id:565814	inCount:0	outCount:2	links:	url:C565814	name:Leber Congenital Amaurosis 3	normalName:leber congenital amaurosis 3	normalWikiTitle:leber congenital amaurosis 3	predictedType:Disease
+ENTITY	text:ulcerative colitis	normalName:ulcerative colitis	predictedType:disease	q:true	qid:Q410	docId:6133211	origText:ulcerative colitis	url:D003093
+CANDIDATE	id:3093	inCount:1	outCount:2	links:	url:D003093	name:Colitis, Ulcerative	normalName:colitis, ulcerative	normalWikiTitle:colitis, ulcerative	predictedType:Disease

@@ -1,0 +1,6 @@
+ENTITY	text:brain tumors	normalName:brain tumors	predictedType:disease	q:true	qid:Q1325	docId:16132524	origText:brain tumors	url:D001932
+CANDIDATE	id:1932	inCount:16	outCount:2	links:	url:D001932	name:Brain Tumor	normalName:brain tumor	normalWikiTitle:brain tumor	predictedType:Disease
+ENTITY	text:glioblastoma	normalName:glioblastoma	predictedType:disease	q:true	qid:Q1325	docId:16132524	origText:glioblastoma	url:D005909
+CANDIDATE	id:5909	inCount:0	outCount:1	links:	url:D005909	name:Glioblastoma	normalName:glioblastoma	normalWikiTitle:glioblastoma	predictedType:Disease
+ENTITY	text:brain edema	normalName:brain edema	predictedType:disease	q:true	qid:Q1325	docId:16132524	origText:brain edema	url:D001929
+CANDIDATE	id:1929	inCount:2	outCount:1	links:	url:D001929	name:Brain Edema	normalName:brain edema	normalWikiTitle:brain edema	predictedType:Disease

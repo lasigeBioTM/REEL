@@ -1,0 +1,6 @@
+ENTITY	text:mydriasis	normalName:mydriasis	predictedType:disease	q:true	qid:Q39	docId:6892185	origText:mydriasis	url:D015878
+CANDIDATE	id:15878	inCount:1	outCount:1	links:	url:D015878	name:Mydriasis	normalName:mydriasis	normalWikiTitle:mydriasis	predictedType:Disease
+ENTITY	text:tremor	normalName:tremor	predictedType:disease	q:true	qid:Q39	docId:6892185	origText:tremor	url:D014202
+CANDIDATE	id:14202	inCount:6	outCount:1	links:	url:D014202	name:Tremor	normalName:tremor	normalWikiTitle:tremor	predictedType:Disease
+ENTITY	text:clonic-tonic convulsions	normalName:clonic-tonic convulsions	predictedType:disease	q:true	qid:Q39	docId:6892185	origText:clonic-tonic convulsions	url:D004830
+CANDIDATE	id:4830	inCount:1	outCount:1	links:	url:D004830	name:Convulsions, Tonic Clonic	normalName:convulsions, tonic clonic	normalWikiTitle:convulsions, tonic clonic	predictedType:Disease

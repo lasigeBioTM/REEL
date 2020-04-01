@@ -1,0 +1,4 @@
+ENTITY	text:myocardial infarction	normalName:myocardial infarction	predictedType:disease	q:true	qid:Q177	docId:8659767	origText:myocardial infarction	url:D009203
+CANDIDATE	id:9203	inCount:8	outCount:1	links:	url:D009203	name:Myocardial Infarction	normalName:myocardial infarction	normalWikiTitle:myocardial infarction	predictedType:Disease
+ENTITY	text:ventricular tachycardia	normalName:ventricular tachycardia	predictedType:disease	q:true	qid:Q177	docId:8659767	origText:ventricular tachycardia	url:D017180
+CANDIDATE	id:17180	inCount:4	outCount:1	links:	url:D017180	name:Tachycardia, Ventricular	normalName:tachycardia, ventricular	normalWikiTitle:tachycardia, ventricular	predictedType:Disease

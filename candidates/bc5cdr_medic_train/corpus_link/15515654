@@ -1,0 +1,30 @@
+ENTITY	text:thalassemic	normalName:thalassemic	predictedType:disease	q:true	qid:Q104	docId:15515654	origText:thalassemic	url:D013789
+CANDIDATE	id:13789	inCount:3	outCount:2	links:	url:D013789	name:Thalassemia	normalName:thalassemia	normalWikiTitle:thalassemia	predictedType:Disease
+CANDIDATE	id:17086	inCount:4	outCount:1	links:	url:D017086	name:beta-Thalassemia	normalName:beta-thalassemia	normalWikiTitle:beta-thalassemia	predictedType:Disease
+CANDIDATE	id:55538	inCount:1	outCount:1	links:	url:D055538	name:delta-Thalassemia	normalName:delta-thalassemia	normalWikiTitle:delta-thalassemia	predictedType:Disease
+CANDIDATE	id:17085	inCount:4	outCount:1	links:	url:D017085	name:alpha-Thalassemia	normalName:alpha-thalassemia	normalWikiTitle:alpha-thalassemia	predictedType:Disease
+CANDIDATE	id:34321	inCount:0	outCount:1	links:	url:D034321	name:Hyperamylasemia	normalName:hyperamylasemia	normalWikiTitle:hyperamylasemia	predictedType:Disease
+CANDIDATE	id:562716	inCount:0	outCount:2	links:	url:C562716	name:Delta-Beta Thalassemia	normalName:delta-beta thalassemia	normalWikiTitle:delta-beta thalassemia	predictedType:Disease
+CANDIDATE	id:57770	inCount:0	outCount:1	links:	url:D057770	name:Hyalinosis, Systemic	normalName:hyalinosis, systemic	normalWikiTitle:hyalinosis, systemic	predictedType:Disease
+CANDIDATE	id:14406	inCount:0	outCount:1	links:	url:D014406	name:Tularemia	normalName:tularemia	normalWikiTitle:tularemia	predictedType:Disease
+CANDIDATE	id:5693	inCount:0	outCount:2	links:	url:D005693	name:Galactosemias	normalName:galactosemias	normalWikiTitle:galactosemias	predictedType:Disease
+CANDIDATE	id:13786	inCount:1	outCount:1	links:	url:D013786	name:Thalamic Diseases	normalName:thalamic diseases	normalWikiTitle:thalamic diseases	predictedType:Disease
+ENTITY	text:hearing loss	normalName:hearing loss	predictedType:disease	q:true	qid:Q104	docId:15515654	origText:hearing loss	url:D034381
+CANDIDATE	id:34381	inCount:37	outCount:1	links:6319	url:D034381	name:Hearing Loss	normalName:hearing loss	normalWikiTitle:hearing loss	predictedType:Disease
+ENTITY	text:sensorineural hearing loss	normalName:sensorineural hearing loss	predictedType:disease	q:true	qid:Q104	docId:15515654	origText:sensorineural hearing loss	url:D006319
+CANDIDATE	id:6319	inCount:216	outCount:1	links:34381	url:D006319	name:Hearing Loss, Sensorineural	normalName:hearing loss, sensorineural	normalWikiTitle:hearing loss, sensorineural	predictedType:Disease
+ENTITY	text:beta-thalassemia	normalName:beta-thalassemia	predictedType:disease	q:true	qid:Q104	docId:15515654	origText:beta-thalassemia	url:D017086
+CANDIDATE	id:17086	inCount:4	outCount:1	links:	url:D017086	name:beta-Thalassemia	normalName:beta-thalassemia	normalWikiTitle:beta-thalassemia	predictedType:Disease
+ENTITY	text:hearing impairment	normalName:hearing impairment	predictedType:disease	q:true	qid:Q104	docId:15515654	origText:hearing impairment	url:D034381
+CANDIDATE	id:34381	inCount:37	outCount:1	links:6319	url:D034381	name:Hearing Impairment	normalName:hearing impairment	normalWikiTitle:hearing impairment	predictedType:Disease
+ENTITY	text:beta-thalassemic	normalName:beta-thalassemic	predictedType:disease	q:true	qid:Q104	docId:15515654	origText:beta-thalassemic	url:D017086
+CANDIDATE	id:17086	inCount:4	outCount:1	links:	url:D017086	name:beta-Thalassemia	normalName:beta-thalassemia	normalWikiTitle:beta-thalassemia	predictedType:Disease
+CANDIDATE	id:55538	inCount:1	outCount:1	links:	url:D055538	name:delta-Thalassemia	normalName:delta-thalassemia	normalWikiTitle:delta-thalassemia	predictedType:Disease
+CANDIDATE	id:562716	inCount:0	outCount:2	links:	url:C562716	name:Delta-Beta Thalassemia	normalName:delta-beta thalassemia	normalWikiTitle:delta-beta thalassemia	predictedType:Disease
+CANDIDATE	id:13789	inCount:3	outCount:2	links:	url:D013789	name:Thalassemia	normalName:thalassemia	normalWikiTitle:thalassemia	predictedType:Disease
+CANDIDATE	id:17085	inCount:4	outCount:1	links:	url:D017085	name:alpha-Thalassemia	normalName:alpha-thalassemia	normalWikiTitle:alpha-thalassemia	predictedType:Disease
+CANDIDATE	id:13786	inCount:1	outCount:1	links:	url:D013786	name:Thalamic Diseases	normalName:thalamic diseases	normalWikiTitle:thalamic diseases	predictedType:Disease
+CANDIDATE	id:566065	inCount:0	outCount:1	links:	url:C566065	name:Thalassemia, Beta+, Silent Allele	normalName:thalassemia, beta+, silent allele	normalWikiTitle:thalassemia, beta+, silent allele	predictedType:Disease
+CANDIDATE	id:7027	inCount:6	outCount:1	links:	url:D007027	name:Hypothalamic Diseases	normalName:hypothalamic diseases	normalWikiTitle:hypothalamic diseases	predictedType:Disease
+CANDIDATE	id:741	inCount:5	outCount:2	links:	url:D000741	name:Anemia, Aplastic	normalName:anemia, aplastic	normalWikiTitle:anemia, aplastic	predictedType:Disease
+CANDIDATE	id:537158	inCount:0	outCount:2	links:	url:C537158	name:Hypothalamic hamartomas	normalName:hypothalamic hamartomas	normalWikiTitle:hypothalamic hamartomas	predictedType:Disease

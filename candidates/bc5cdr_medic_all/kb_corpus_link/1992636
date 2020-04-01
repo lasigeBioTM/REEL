@@ -1,0 +1,21 @@
+ENTITY	text:Zollinger-Ellison syndrome	normalName:zollinger-ellison syndrome	predictedType:disease	q:true	qid:Q571	docId:1992636	origText:Zollinger-Ellison syndrome	url:D015043
+CANDIDATE	id:15043	inCount:0	outCount:5	links:	url:D015043	name:Zollinger-Ellison Syndrome	normalName:zollinger-ellison syndrome	normalWikiTitle:zollinger-ellison syndrome	predictedType:Disease
+ENTITY	text:Hemolytic anemia	normalName:hemolytic anemia	predictedType:disease	q:true	qid:Q571	docId:1992636	origText:Hemolytic anemia	url:D000743
+CANDIDATE	id:743	inCount:20	outCount:1	links:53609;4417;10437	url:D000743	name:Anemia, Hemolytic	normalName:anemia, hemolytic	normalWikiTitle:anemia, hemolytic	predictedType:Disease
+ENTITY	text:lethargy	normalName:lethargy	predictedType:disease	q:true	qid:Q571	docId:1992636	origText:lethargy	url:D053609
+CANDIDATE	id:53609	inCount:0	outCount:1	links:743;4417;10437	url:D053609	name:Lethargy	normalName:lethargy	normalWikiTitle:lethargy	predictedType:Disease
+ENTITY	text:shortness of breath	normalName:shortness of breath	predictedType:disease	q:true	qid:Q571	docId:1992636	origText:shortness of breath	url:D004417
+CANDIDATE	id:4417	inCount:1	outCount:2	links:743;53609;10437	url:D004417	name:Shortness of Breath	normalName:shortness of breath	normalWikiTitle:shortness of breath	predictedType:Disease
+ENTITY	text:peptic ulcer disease	normalName:peptic ulcer disease	predictedType:disease	q:true	qid:Q571	docId:1992636	origText:peptic ulcer disease	url:D010437
+CANDIDATE	id:10437	inCount:6	outCount:2	links:743;53609;4417	url:D010437	name:Peptic Ulcer	normalName:peptic ulcer	normalWikiTitle:peptic ulcer	predictedType:Disease
+CANDIDATE	id:13733	inCount:6	outCount:2	links:	url:D013733	name:Testicular Diseases	normalName:testicular diseases	normalWikiTitle:testicular diseases	predictedType:Disease
+CANDIDATE	id:10438	inCount:0	outCount:1	links:	url:D010438	name:Peptic Ulcer Hemorrhage	normalName:peptic ulcer hemorrhage	normalWikiTitle:peptic ulcer hemorrhage	predictedType:Disease
+CANDIDATE	id:10409	inCount:7	outCount:1	links:	url:D010409	name:Penile Diseases	normalName:penile diseases	normalWikiTitle:penile diseases	predictedType:Disease
+CANDIDATE	id:76385	inCount:2	outCount:2	links:	url:D000076385	name:Diverticular Diseases	normalName:diverticular diseases	normalWikiTitle:diverticular diseases	predictedType:Disease
+CANDIDATE	id:15837	inCount:3	outCount:1	links:	url:D015837	name:Vestibular Diseases	normalName:vestibular diseases	normalWikiTitle:vestibular diseases	predictedType:Disease
+CANDIDATE	id:10483	inCount:2	outCount:2	links:	url:D010483	name:Periapical Diseases	normalName:periapical diseases	normalWikiTitle:periapical diseases	predictedType:Disease
+CANDIDATE	id:5878	inCount:0	outCount:1	links:	url:D005878	name:Gilbert Disease	normalName:gilbert disease	normalWikiTitle:gilbert disease	predictedType:Disease
+CANDIDATE	id:536252	inCount:0	outCount:1	links:	url:C536252	name:Pyle disease	normalName:pyle disease	normalWikiTitle:pyle disease	predictedType:Disease
+CANDIDATE	id:8575	inCount:0	outCount:1	links:	url:D008575	name:Meniere Disease	normalName:meniere disease	normalWikiTitle:meniere disease	predictedType:Disease
+CANDIDATE	id:13733	inCount:6	outCount:2	links:	url:D013733	name:Disease, Testicular	normalName:disease, testicular	normalWikiTitle:disease, testicular	predictedType:Disease
+CANDIDATE	id:13733	inCount:6	outCount:2	links:	url:D013733	name:Testicular Disease	normalName:testicular disease	normalWikiTitle:testicular disease	predictedType:Disease

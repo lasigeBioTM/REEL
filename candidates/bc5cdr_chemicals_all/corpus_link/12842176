@@ -1,0 +1,12 @@
+ENTITY	text:N-nitrosodimethylamine	normalName:n-nitrosodimethylamine	predictedType:chemical	q:true	qid:Q483	docId:12842176	origText:N-nitrosodimethylamine	url:D004128
+CANDIDATE	id:4128	inCount:9	outCount:1	links:	url:D004128	name:N Nitrosodimethylamine	normalName:n nitrosodimethylamine	normalWikiTitle:n nitrosodimethylamine	predictedType:Chemical
+ENTITY	text:lindane	normalName:lindane	predictedType:chemical	q:true	qid:Q483	docId:12842176	origText:lindane	url:D001556
+CANDIDATE	id:1556	inCount:14	outCount:1	links:	url:D001556	name:Lindane	normalName:lindane	normalWikiTitle:lindane	predictedType:Chemical
+ENTITY	text:phenobarbital	normalName:phenobarbital	predictedType:chemical	q:true	qid:Q483	docId:12842176	origText:phenobarbital	url:D010634
+CANDIDATE	id:10634	inCount:50	outCount:1	links:	url:D010634	name:Phenobarbital	normalName:phenobarbital	normalWikiTitle:phenobarbital	predictedType:Chemical
+ENTITY	text:cobalt chloride	normalName:cobalt chloride	predictedType:chemical	q:true	qid:Q483	docId:12842176	origText:cobalt chloride	url:C018021
+CANDIDATE	id:18021	inCount:0	outCount:1	links:	url:C018021	name:cobalt chloride	normalName:cobalt chloride	normalWikiTitle:cobalt chloride	predictedType:Chemical
+ENTITY	text:3-methylcholanthrene	normalName:3-methylcholanthrene	predictedType:chemical	q:true	qid:Q483	docId:12842176	origText:3-methylcholanthrene	url:D008748
+CANDIDATE	id:8748	inCount:18	outCount:1	links:	url:D008748	name:3 Methylcholanthrene	normalName:3 methylcholanthrene	normalWikiTitle:3 methylcholanthrene	predictedType:Chemical
+ENTITY	text:ethanol	normalName:ethanol	predictedType:chemical	q:true	qid:Q483	docId:12842176	origText:ethanol	url:D000431
+CANDIDATE	id:431	inCount:62	outCount:1	links:	url:D000431	name:Ethanol	normalName:ethanol	normalWikiTitle:ethanol	predictedType:Chemical

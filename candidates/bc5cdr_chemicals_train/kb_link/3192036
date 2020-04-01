@@ -1,0 +1,20 @@
+ENTITY	text:Etoposide	normalName:etoposide	predictedType:chemical	q:true	qid:Q437	docId:3192036	origText:Etoposide	url:D005047
+CANDIDATE	id:5047	inCount:303	outCount:2	links:	url:D005047	name:Etoposide	normalName:etoposide	normalWikiTitle:etoposide	predictedType:Chemical
+ENTITY	text:Cisplatin	normalName:cisplatin	predictedType:chemical	q:true	qid:Q437	docId:3192036	origText:Cisplatin	url:D002945
+CANDIDATE	id:2945	inCount:293	outCount:3	links:	url:D002945	name:Cisplatin	normalName:cisplatin	normalWikiTitle:cisplatin	predictedType:Chemical
+ENTITY	text:Cyclophosphamide	normalName:cyclophosphamide	predictedType:chemical	q:true	qid:Q437	docId:3192036	origText:Cyclophosphamide	url:D003520
+CANDIDATE	id:3520	inCount:474	outCount:1	links:	url:D003520	name:Cyclophosphamide	normalName:cyclophosphamide	normalWikiTitle:cyclophosphamide	predictedType:Chemical
+ENTITY	text:Methotrexate	normalName:methotrexate	predictedType:chemical	q:true	qid:Q437	docId:3192036	origText:Methotrexate	url:D008727
+CANDIDATE	id:8727	inCount:364	outCount:1	links:	url:D008727	name:Methotrexate	normalName:methotrexate	normalWikiTitle:methotrexate	predictedType:Chemical
+ENTITY	text:Actomycin-D	normalName:actomycin-d	predictedType:chemical	q:true	qid:Q437	docId:3192036	origText:Actomycin-D	url:D003609
+CANDIDATE	id:3609	inCount:72	outCount:2	links:	url:D003609	name:Actinomycin D	normalName:actinomycin d	normalWikiTitle:actinomycin d	predictedType:Chemical
+CANDIDATE	id:33233	inCount:0	outCount:1	links:	url:C033233	name:actinomycin D1	normalName:actinomycin d1	normalWikiTitle:actinomycin d1	predictedType:Chemical
+CANDIDATE	id:33234	inCount:0	outCount:1	links:	url:C033234	name:actinomycin D2	normalName:actinomycin d2	normalWikiTitle:actinomycin d2	predictedType:Chemical
+CANDIDATE	id:63719	inCount:0	outCount:1	links:	url:C063719	name:altromycin D	normalName:altromycin d	normalWikiTitle:altromycin d	predictedType:Chemical
+CANDIDATE	id:47794	inCount:0	outCount:1	links:	url:C047794	name:acetomycin	normalName:acetomycin	normalWikiTitle:acetomycin	predictedType:Chemical
+CANDIDATE	id:586385	inCount:0	outCount:1	links:	url:C586385	name:actinomycin G	normalName:actinomycin g	normalWikiTitle:actinomycin g	predictedType:Chemical
+CANDIDATE	id:34768	inCount:0	outCount:1	links:	url:C034768	name:actinomycin K	normalName:actinomycin k	normalWikiTitle:actinomycin k	predictedType:Chemical
+CANDIDATE	id:41783	inCount:0	outCount:1	links:	url:C041783	name:actinomycin X	normalName:actinomycin x	normalWikiTitle:actinomycin x	predictedType:Chemical
+CANDIDATE	id:94496	inCount:0	outCount:1	links:	url:C094496	name:N8-actinomycin D	normalName:n8-actinomycin d	normalWikiTitle:n8-actinomycin d	predictedType:Chemical
+CANDIDATE	id:10008	inCount:0	outCount:1	links:	url:C010008	name:actinomycin C3	normalName:actinomycin c3	normalWikiTitle:actinomycin c3	predictedType:Chemical
+CANDIDATE	id:27845	inCount:0	outCount:1	links:	url:C027845	name:bacillomycin D	normalName:bacillomycin d	normalWikiTitle:bacillomycin d	predictedType:Chemical

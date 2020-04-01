@@ -1,0 +1,49 @@
+ENTITY	text:Neuroinflammation	normalName:neuroinflammation	predictedType:disease	q:true	qid:Q364	docId:20034406	origText:Neuroinflammation	url:D007249
+CANDIDATE	id:7249	inCount:14	outCount:1	links:	url:D007249	name:Inflammation	normalName:inflammation	normalWikiTitle:inflammation	predictedType:Disease
+CANDIDATE	id:77162	inCount:0	outCount:1	links:	url:D000077162	name:Neurolymphomatosis	normalName:neurolymphomatosis	normalWikiTitle:neurolymphomatosis	predictedType:Disease
+CANDIDATE	id:9442	inCount:2	outCount:2	links:	url:D009442	name:Neurilemmoma	normalName:neurilemmoma	normalWikiTitle:neurilemmoma	predictedType:Disease
+CANDIDATE	id:2059	inCount:1	outCount:1	links:	url:D002059	name:Burns, Inhalation	normalName:burns, inhalation	normalWikiTitle:burns, inhalation	predictedType:Disease
+CANDIDATE	id:9447	inCount:2	outCount:1	links:	url:D009447	name:Neuroblastoma	normalName:neuroblastoma	normalWikiTitle:neuroblastoma	predictedType:Disease
+CANDIDATE	id:20078	inCount:0	outCount:2	links:	url:D020078	name:Neurogenic Inflammation	normalName:neurogenic inflammation	normalWikiTitle:neurogenic inflammation	predictedType:Disease
+CANDIDATE	id:7238	inCount:0	outCount:2	links:	url:D007238	name:Infarction	normalName:infarction	normalWikiTitle:infarction	predictedType:Disease
+CANDIDATE	id:17253	inCount:12	outCount:4	links:	url:D017253	name:Neurofibromatoses	normalName:neurofibromatoses	normalWikiTitle:neurofibromatoses	predictedType:Disease
+CANDIDATE	id:17564	inCount:0	outCount:3	links:	url:D017564	name:Radiation Pneumonitis	normalName:radiation pneumonitis	normalWikiTitle:radiation pneumonitis	predictedType:Disease
+CANDIDATE	id:58734	inCount:0	outCount:1	links:	url:D058734	name:Exsanguination	normalName:exsanguination	normalWikiTitle:exsanguination	predictedType:Disease
+CANDIDATE	id:10031	inCount:3	outCount:1	links:	url:D010031	name:Ear Inflammation	normalName:ear inflammation	normalWikiTitle:ear inflammation	predictedType:Disease
+CANDIDATE	id:10031	inCount:3	outCount:1	links:	url:D010031	name:Inflammation, Ear	normalName:inflammation, ear	normalWikiTitle:inflammation, ear	predictedType:Disease
+ENTITY	text:neuroinflammatory	normalName:neuroinflammatory	predictedType:disease	q:true	qid:Q364	docId:20034406	origText:neuroinflammatory	url:D007249
+CANDIDATE	id:7249	inCount:14	outCount:1	links:	url:D007249	name:Inflammation	normalName:inflammation	normalWikiTitle:inflammation	predictedType:Disease
+CANDIDATE	id:77162	inCount:0	outCount:1	links:	url:D000077162	name:Neurolymphomatosis	normalName:neurolymphomatosis	normalWikiTitle:neurolymphomatosis	predictedType:Disease
+CANDIDATE	id:9442	inCount:2	outCount:2	links:	url:D009442	name:Neurilemmoma	normalName:neurilemmoma	normalWikiTitle:neurilemmoma	predictedType:Disease
+CANDIDATE	id:531720	inCount:0	outCount:1	links:	url:C531720	name:Noninflammatory corneal thinning	normalName:noninflammatory corneal thinning	normalWikiTitle:noninflammatory corneal thinning	predictedType:Disease
+CANDIDATE	id:9447	inCount:2	outCount:1	links:	url:D009447	name:Neuroblastoma	normalName:neuroblastoma	normalWikiTitle:neuroblastoma	predictedType:Disease
+CANDIDATE	id:15212	inCount:31	outCount:2	links:	url:D015212	name:Inflammatory Bowel Diseases	normalName:inflammatory bowel diseases	normalWikiTitle:inflammatory bowel diseases	predictedType:Disease
+CANDIDATE	id:7757	inCount:0	outCount:2	links:	url:D007757	name:Laboratory Infection	normalName:laboratory infection	normalWikiTitle:laboratory infection	predictedType:Disease
+CANDIDATE	id:292	inCount:5	outCount:2	links:	url:D000292	name:Pelvic Inflammatory Disease	normalName:pelvic inflammatory disease	normalWikiTitle:pelvic inflammatory disease	predictedType:Disease
+CANDIDATE	id:17253	inCount:12	outCount:4	links:	url:D017253	name:Neurofibromatoses	normalName:neurofibromatoses	normalWikiTitle:neurofibromatoses	predictedType:Disease
+CANDIDATE	id:565234	inCount:0	outCount:1	links:	url:C565234	name:Inflammatory Bowel Disease 5	normalName:inflammatory bowel disease 5	normalWikiTitle:inflammatory bowel disease 5	predictedType:Disease
+CANDIDATE	id:10031	inCount:3	outCount:1	links:	url:D010031	name:Ear Inflammation	normalName:ear inflammation	normalWikiTitle:ear inflammation	predictedType:Disease
+CANDIDATE	id:10031	inCount:3	outCount:1	links:	url:D010031	name:Inflammation, Ear	normalName:inflammation, ear	normalWikiTitle:inflammation, ear	predictedType:Disease
+CANDIDATE	id:10000	inCount:0	outCount:1	links:	url:D010000	name:Bone Inflammation	normalName:bone inflammation	normalWikiTitle:bone inflammation	predictedType:Disease
+CANDIDATE	id:10031	inCount:3	outCount:1	links:	url:D010031	name:Inflammations, Ear	normalName:inflammations, ear	normalWikiTitle:inflammations, ear	predictedType:Disease
+CANDIDATE	id:10031	inCount:3	outCount:1	links:	url:D010031	name:Ear Inflammations	normalName:ear inflammations	normalWikiTitle:ear inflammations	predictedType:Disease
+CANDIDATE	id:10000	inCount:0	outCount:1	links:	url:D010000	name:Inflammation, Bone	normalName:inflammation, bone	normalWikiTitle:inflammation, bone	predictedType:Disease
+CANDIDATE	id:58922	inCount:0	outCount:1	links:	url:D058922	name:Inflammatory Breast Cancer	normalName:inflammatory breast cancer	normalWikiTitle:inflammatory breast cancer	predictedType:Disease
+CANDIDATE	id:58922	inCount:0	outCount:1	links:	url:D058922	name:Breast Cancer, Inflammatory	normalName:breast cancer, inflammatory	normalWikiTitle:breast cancer, inflammatory	predictedType:Disease
+CANDIDATE	id:58922	inCount:0	outCount:1	links:	url:D058922	name:Cancer, Inflammatory Breast	normalName:cancer, inflammatory breast	normalWikiTitle:cancer, inflammatory breast	predictedType:Disease
+ENTITY	text:seizures	normalName:seizures	predictedType:disease	q:true	qid:Q364	docId:20034406	origText:seizures	url:D012640
+CANDIDATE	id:12640	inCount:53	outCount:1	links:13226	url:D012640	name:Seizure	normalName:seizure	normalWikiTitle:seizure	predictedType:Disease
+ENTITY	text:hypertrophied	normalName:hypertrophied	predictedType:disease	q:true	qid:Q364	docId:20034406	origText:hypertrophied	url:D006984
+CANDIDATE	id:6984	inCount:9	outCount:1	links:	url:D006984	name:Hypertrophies	normalName:hypertrophies	normalWikiTitle:hypertrophies	predictedType:Disease
+CANDIDATE	id:6984	inCount:9	outCount:1	links:	url:D006984	name:Hypertrophy	normalName:hypertrophy	normalWikiTitle:hypertrophy	predictedType:Disease
+CANDIDATE	id:6956	inCount:4	outCount:1	links:	url:D006956	name:Hyperopia	normalName:hyperopia	normalWikiTitle:hyperopia	predictedType:Disease
+CANDIDATE	id:614160	inCount:0	outCount:2	links:	url:614160	name:MUSCLE HYPERTROPHY	normalName:muscle hypertrophy	normalWikiTitle:muscle hypertrophy	predictedType:Disease
+CANDIDATE	id:6980	inCount:6	outCount:1	links:	url:D006980	name:Hyperthyroidism	normalName:hyperthyroidism	normalWikiTitle:hyperthyroidism	predictedType:Disease
+CANDIDATE	id:6983	inCount:27	outCount:1	links:	url:D006983	name:Hypertrichosis	normalName:hypertrichosis	normalWikiTitle:hypertrichosis	predictedType:Disease
+CANDIDATE	id:6963	inCount:2	outCount:1	links:	url:D006963	name:Hyperphagia	normalName:hyperphagia	normalWikiTitle:hyperphagia	predictedType:Disease
+CANDIDATE	id:6981	inCount:5	outCount:1	links:	url:D006981	name:Hyperthyroxinemia	normalName:hyperthyroxinemia	normalWikiTitle:hyperthyroxinemia	predictedType:Disease
+CANDIDATE	id:17439	inCount:0	outCount:1	links:	url:D017439	name:Cicatrix, Hypertrophic	normalName:cicatrix, hypertrophic	normalWikiTitle:cicatrix, hypertrophic	predictedType:Disease
+CANDIDATE	id:18496	inCount:0	outCount:1	links:	url:D018496	name:Hyperoxia	normalName:hyperoxia	normalWikiTitle:hyperoxia	predictedType:Disease
+CANDIDATE	id:15576	inCount:12	outCount:1	links:	url:D015576	name:Hyperostosis	normalName:hyperostosis	normalWikiTitle:hyperostosis	predictedType:Disease
+ENTITY	text:status epilepticus	normalName:status epilepticus	predictedType:disease	q:true	qid:Q364	docId:20034406	origText:status epilepticus	url:D013226
+CANDIDATE	id:13226	inCount:1	outCount:1	links:12640	url:D013226	name:Status Epilepticus	normalName:status epilepticus	normalWikiTitle:status epilepticus	predictedType:Disease

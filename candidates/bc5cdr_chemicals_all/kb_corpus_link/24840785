@@ -1,0 +1,6 @@
+ENTITY	text:biotin	normalName:biotin	predictedType:chemical	q:true	qid:Q1108	docId:24840785	origText:biotin	url:D001710
+CANDIDATE	id:1710	inCount:228	outCount:2	links:	url:D001710	name:Biotin	normalName:biotin	normalWikiTitle:biotin	predictedType:Chemical
+ENTITY	text:lactate	normalName:lactate	predictedType:chemical	q:true	qid:Q1108	docId:24840785	origText:lactate	url:D019344
+CANDIDATE	id:19344	inCount:38	outCount:1	links:	url:D019344	name:Lactate	normalName:lactate	normalWikiTitle:lactate	predictedType:Chemical
+ENTITY	text:Aconitine	normalName:aconitine	predictedType:chemical	q:true	qid:Q1108	docId:24840785	origText:Aconitine	url:D000157
+CANDIDATE	id:157	inCount:70	outCount:1	links:	url:D000157	name:Aconitine	normalName:aconitine	normalWikiTitle:aconitine	predictedType:Chemical

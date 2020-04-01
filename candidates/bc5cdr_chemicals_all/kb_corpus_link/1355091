@@ -1,0 +1,19 @@
+ENTITY	text:noradrenaline	normalName:noradrenaline	predictedType:chemical	q:true	qid:Q786	docId:1355091	origText:noradrenaline	url:D009638
+CANDIDATE	id:9638	inCount:31	outCount:4	links:14282;56299	url:D009638	name:Noradrenaline	normalName:noradrenaline	normalWikiTitle:noradrenaline	predictedType:Chemical
+ENTITY	text:Abbott-53693	normalName:abbott-53693	predictedType:chemical	q:true	qid:Q786	docId:1355091	origText:Abbott-53693	url:C056299
+CANDIDATE	id:56299	inCount:0	outCount:1	links:14282;9638	url:C056299	name:A 53693	normalName:a 53693	normalWikiTitle:a 53693	predictedType:Chemical
+CANDIDATE	id:6294	inCount:0	outCount:1	links:	url:C006294	name:Abbott 31699	normalName:abbott 31699	normalWikiTitle:abbott 31699	predictedType:Chemical
+CANDIDATE	id:979	inCount:0	outCount:1	links:	url:C000979	name:Abbott 29590	normalName:abbott 29590	normalWikiTitle:abbott 29590	predictedType:Chemical
+CANDIDATE	id:74241	inCount:0	outCount:2	links:	url:C074241	name:Abbott 69992	normalName:abbott 69992	normalWikiTitle:abbott 69992	predictedType:Chemical
+CANDIDATE	id:6299	inCount:0	outCount:1	links:	url:C006299	name:Abbott 34519	normalName:abbott 34519	normalWikiTitle:abbott 34519	predictedType:Chemical
+CANDIDATE	id:515749	inCount:0	outCount:2	links:	url:C515749	name:Abbott-232	normalName:abbott-232	normalWikiTitle:abbott-232	predictedType:Chemical
+CANDIDATE	id:79555	inCount:0	outCount:2	links:	url:C079555	name:Abbott 77003	normalName:abbott 77003	normalWikiTitle:abbott 77003	predictedType:Chemical
+CANDIDATE	id:13782	inCount:0	outCount:1	links:	url:C013782	name:Abbott 41988	normalName:abbott 41988	normalWikiTitle:abbott 41988	predictedType:Chemical
+CANDIDATE	id:6223	inCount:0	outCount:1	links:	url:C006223	name:Abbott 40060	normalName:abbott 40060	normalWikiTitle:abbott 40060	predictedType:Chemical
+CANDIDATE	id:98560	inCount:0	outCount:2	links:	url:C098560	name:Abbott 84768	normalName:abbott 84768	normalWikiTitle:abbott 84768	predictedType:Chemical
+ENTITY	text:cirazoline	normalName:cirazoline	predictedType:chemical	q:true	qid:Q786	docId:1355091	origText:cirazoline	url:C014282
+CANDIDATE	id:14282	inCount:0	outCount:1	links:9638;56299	url:C014282	name:cirazoline	normalName:cirazoline	normalWikiTitle:cirazoline	predictedType:Chemical
+ENTITY	text:rauwolscine	normalName:rauwolscine	predictedType:chemical	q:true	qid:Q786	docId:1355091	origText:rauwolscine	url:D015016
+CANDIDATE	id:15016	inCount:27	outCount:1	links:	url:D015016	name:Rauwolscine	normalName:rauwolscine	normalWikiTitle:rauwolscine	predictedType:Chemical
+ENTITY	text:prazosin	normalName:prazosin	predictedType:chemical	q:true	qid:Q786	docId:1355091	origText:prazosin	url:D011224
+CANDIDATE	id:11224	inCount:24	outCount:1	links:	url:D011224	name:Prazosin	normalName:prazosin	normalWikiTitle:prazosin	predictedType:Chemical

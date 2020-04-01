@@ -1,0 +1,26 @@
+ENTITY	text:tachycardia	normalName:tachycardia	predictedType:disease	q:true	qid:Q12	docId:3358181	origText:tachycardia	url:D013610
+CANDIDATE	id:13610	inCount:7	outCount:2	links:7022	url:D013610	name:Tachycardia	normalName:tachycardia	normalWikiTitle:tachycardia	predictedType:Disease
+ENTITY	text:cardiovascular complications	normalName:cardiovascular complications	predictedType:disease	q:true	qid:Q12	docId:3358181	origText:cardiovascular complications	url:D002318
+CANDIDATE	id:2318	inCount:5	outCount:1	links:6948	url:D002318	name:Cardiovascular Diseases	normalName:cardiovascular diseases	normalWikiTitle:cardiovascular diseases	predictedType:Disease
+CANDIDATE	id:11249	inCount:1	outCount:2	links:	url:D011249	name:Pregnancy Complications, Cardiovascular	normalName:pregnancy complications, cardiovascular	normalWikiTitle:pregnancy complications, cardiovascular	predictedType:Disease
+CANDIDATE	id:53821	inCount:3	outCount:2	links:	url:D053821	name:Cardiovascular Infections	normalName:cardiovascular infections	normalWikiTitle:cardiovascular infections	predictedType:Disease
+CANDIDATE	id:13589	inCount:0	outCount:2	links:	url:D013589	name:Syphilis, Cardiovascular	normalName:syphilis, cardiovascular	normalWikiTitle:syphilis, cardiovascular	predictedType:Disease
+CANDIDATE	id:14381	inCount:1	outCount:2	links:	url:D014381	name:Tuberculosis, Cardiovascular	normalName:tuberculosis, cardiovascular	normalWikiTitle:tuberculosis, cardiovascular	predictedType:Disease
+CANDIDATE	id:20256	inCount:0	outCount:2	links:	url:D020256	name:Choroidal Neovascularization	normalName:choroidal neovascularization	normalWikiTitle:choroidal neovascularization	predictedType:Disease
+CANDIDATE	id:18188	inCount:0	outCount:1	links:	url:D018188	name:Cardiovirus Infections	normalName:cardiovirus infections	normalWikiTitle:cardiovirus infections	predictedType:Disease
+CANDIDATE	id:73436	inCount:0	outCount:1	links:	url:D000073436	name:Microvascular Rarefaction	normalName:microvascular rarefaction	normalWikiTitle:microvascular rarefaction	predictedType:Disease
+CANDIDATE	id:16510	inCount:0	outCount:1	links:	url:D016510	name:Corneal Neovascularization	normalName:corneal neovascularization	normalWikiTitle:corneal neovascularization	predictedType:Disease
+CANDIDATE	id:58442	inCount:0	outCount:1	links:	url:D058442	name:Capsule Opacification	normalName:capsule opacification	normalWikiTitle:capsule opacification	predictedType:Disease
+ENTITY	text:preterm labor	normalName:preterm labor	predictedType:disease	q:true	qid:Q12	docId:3358181	origText:preterm labor	url:D007752
+CANDIDATE	id:7752	inCount:1	outCount:1	links:	url:D007752	name:Preterm Labor	normalName:preterm labor	normalWikiTitle:preterm labor	predictedType:Disease
+ENTITY	text:hypotensive	normalName:hypotensive	predictedType:disease	q:true	qid:Q12	docId:3358181	origText:hypotensive	url:D007022
+CANDIDATE	id:7022	inCount:3	outCount:1	links:13610	url:D007022	name:Hypotension	normalName:hypotension	normalWikiTitle:hypotension	predictedType:Disease
+CANDIDATE	id:6973	inCount:18	outCount:1	links:	url:D006973	name:Hypertension	normalName:hypertension	normalWikiTitle:hypertension	predictedType:Disease
+CANDIDATE	id:7035	inCount:2	outCount:1	links:	url:D007035	name:Hypothermia	normalName:hypothermia	normalWikiTitle:hypothermia	predictedType:Disease
+CANDIDATE	id:6987	inCount:1	outCount:1	links:	url:D006987	name:Hypesthesia	normalName:hypesthesia	normalWikiTitle:hypesthesia	predictedType:Disease
+CANDIDATE	id:18476	inCount:1	outCount:1	links:	url:D018476	name:Hypokinesia	normalName:hypokinesia	normalWikiTitle:hypokinesia	predictedType:Disease
+CANDIDATE	id:7019	inCount:1	outCount:1	links:	url:D007019	name:Hypoproteinemia	normalName:hypoproteinemia	normalWikiTitle:hypoproteinemia	predictedType:Disease
+CANDIDATE	id:15814	inCount:0	outCount:1	links:	url:D015814	name:Ocular Hypotension	normalName:ocular hypotension	normalWikiTitle:ocular hypotension	predictedType:Disease
+CANDIDATE	id:58246	inCount:0	outCount:1	links:	url:D058246	name:Prehypertension	normalName:prehypertension	normalWikiTitle:prehypertension	predictedType:Disease
+CANDIDATE	id:6977	inCount:3	outCount:2	links:	url:D006977	name:Hypertension, Renal	normalName:hypertension, renal	normalWikiTitle:hypertension, renal	predictedType:Disease
+CANDIDATE	id:6948	inCount:1	outCount:1	links:2318	url:D006948	name:Hyperkinesis	normalName:hyperkinesis	normalWikiTitle:hyperkinesis	predictedType:Disease

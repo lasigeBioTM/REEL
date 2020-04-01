@@ -1,0 +1,36 @@
+ENTITY	text:fluorocitrate	normalName:fluorocitrate	predictedType:chemical	q:true	qid:Q94	docId:7858459	origText:fluorocitrate	url:C007744
+CANDIDATE	id:7744	inCount:0	outCount:1	links:	url:C007744	name:fluorocitrate	normalName:fluorocitrate	normalWikiTitle:fluorocitrate	predictedType:Chemical
+ENTITY	text:fluoroacetate	normalName:fluoroacetate	predictedType:chemical	q:true	qid:Q94	docId:7858459	origText:fluoroacetate	url:D005463
+CANDIDATE	id:5463	inCount:25	outCount:2	links:	url:D005463	name:Fluoroacetates	normalName:fluoroacetates	normalWikiTitle:fluoroacetates	predictedType:Chemical
+CANDIDATE	id:7741	inCount:0	outCount:1	links:	url:C007741	name:fluoroacetamide	normalName:fluoroacetamide	normalWikiTitle:fluoroacetamide	predictedType:Chemical
+CANDIDATE	id:418987	inCount:0	outCount:1	links:	url:C418987	name:fluoroacetone	normalName:fluoroacetone	normalWikiTitle:fluoroacetone	predictedType:Chemical
+CANDIDATE	id:7744	inCount:0	outCount:1	links:	url:C007744	name:fluorocitrate	normalName:fluorocitrate	normalWikiTitle:fluorocitrate	predictedType:Chemical
+CANDIDATE	id:62845	inCount:13	outCount:2	links:	url:D062845	name:Chloroacetates	normalName:chloroacetates	normalWikiTitle:chloroacetates	predictedType:Chemical
+CANDIDATE	id:18546	inCount:0	outCount:1	links:	url:C018546	name:3-fluorooxaloacetate	normalName:3-fluorooxaloacetate	normalWikiTitle:3-fluorooxaloacetate	predictedType:Chemical
+CANDIDATE	id:7385	inCount:0	outCount:1	links:	url:C007385	name:difluorooxaloacetate	normalName:difluorooxaloacetate	normalWikiTitle:difluorooxaloacetate	predictedType:Chemical
+CANDIDATE	id:29999	inCount:0	outCount:1	links:	url:C029999	name:fluoromethane	normalName:fluoromethane	normalWikiTitle:fluoromethane	predictedType:Chemical
+CANDIDATE	id:75898	inCount:0	outCount:1	links:	url:C075898	name:fluoroacetaldehyde	normalName:fluoroacetaldehyde	normalWikiTitle:fluoroacetaldehyde	predictedType:Chemical
+CANDIDATE	id:30688	inCount:0	outCount:2	links:	url:C030688	name:trifluoroacetamide	normalName:trifluoroacetamide	normalWikiTitle:trifluoroacetamide	predictedType:Chemical
+ENTITY	text:cisplatinum	normalName:cisplatinum	predictedType:chemical	q:true	qid:Q94	docId:7858459	origText:cisplatinum	url:D002945
+CANDIDATE	id:2945	inCount:293	outCount:3	links:13831;5472	url:D002945	name:cis Platinum	normalName:cis platinum	normalWikiTitle:cis platinum	predictedType:Chemical
+CANDIDATE	id:2945	inCount:293	outCount:3	links:13831;5472	url:D002945	name:Cisplatin	normalName:cisplatin	normalWikiTitle:cisplatin	predictedType:Chemical
+CANDIDATE	id:10984	inCount:13	outCount:2	links:	url:D010984	name:Platinum	normalName:platinum	normalWikiTitle:platinum	predictedType:Chemical
+CANDIDATE	id:572014	inCount:0	outCount:1	links:	url:C572014	name:E platinum	normalName:e platinum	normalWikiTitle:e platinum	predictedType:Chemical
+CANDIDATE	id:37510	inCount:0	outCount:3	links:	url:C037510	name:DVP (cisplatin)	normalName:dvp (cisplatin)	normalWikiTitle:dvp (cisplatin)	predictedType:Chemical
+CANDIDATE	id:606482	inCount:0	outCount:1	links:	url:C000606482	name:myrisplatin	normalName:myrisplatin	normalWikiTitle:myrisplatin	predictedType:Chemical
+CANDIDATE	id:514637	inCount:0	outCount:2	links:	url:C514637	name:platinum oxide	normalName:platinum oxide	normalWikiTitle:platinum oxide	predictedType:Chemical
+CANDIDATE	id:7510	inCount:56	outCount:1	links:	url:D007510	name:Isatin	normalName:isatin	normalWikiTitle:isatin	predictedType:Chemical
+CANDIDATE	id:30173	inCount:0	outCount:1	links:	url:C030173	name:platinum chloride	normalName:platinum chloride	normalWikiTitle:platinum chloride	predictedType:Chemical
+CANDIDATE	id:98361	inCount:0	outCount:1	links:	url:C098361	name:plactin C	normalName:plactin c	normalWikiTitle:plactin c	predictedType:Chemical
+CANDIDATE	id:615092	inCount:0	outCount:1	links:	url:C000615092	name:Platinum-188	normalName:platinum-188	normalWikiTitle:platinum-188	predictedType:Chemical
+CANDIDATE	id:2945	inCount:293	outCount:3	links:13831;5472	url:D002945	name:cis-Platinum	normalName:cis-platinum	normalWikiTitle:cis-platinum	predictedType:Chemical
+ENTITY	text:thiamine	normalName:thiamine	predictedType:chemical	q:true	qid:Q94	docId:7858459	origText:thiamine	url:D013831
+CANDIDATE	id:13831	inCount:62	outCount:2	links:2945	url:D013831	name:Thiamine	normalName:thiamine	normalWikiTitle:thiamine	predictedType:Chemical
+ENTITY	text:5-fluorouracil	normalName:5-fluorouracil	predictedType:chemical	q:true	qid:Q94	docId:7858459	origText:5-fluorouracil	url:D005472
+CANDIDATE	id:5472	inCount:271	outCount:1	links:2945;5047;2955	url:D005472	name:5 Fluorouracil	normalName:5 fluorouracil	normalWikiTitle:5 fluorouracil	predictedType:Chemical
+ENTITY	text:etoposide	normalName:etoposide	predictedType:chemical	q:true	qid:Q94	docId:7858459	origText:etoposide	url:D005047
+CANDIDATE	id:5047	inCount:303	outCount:2	links:2955;5472	url:D005047	name:Etoposide	normalName:etoposide	normalWikiTitle:etoposide	predictedType:Chemical
+ENTITY	text:folinic acid	normalName:folinic acid	predictedType:chemical	q:true	qid:Q94	docId:7858459	origText:folinic acid	url:D002955
+CANDIDATE	id:2955	inCount:88	outCount:1	links:5047;5472	url:D002955	name:Acid, Folinic	normalName:acid, folinic	normalWikiTitle:acid, folinic	predictedType:Chemical
+ENTITY	text:dihydrouracil	normalName:dihydrouracil	predictedType:chemical	q:true	qid:Q94	docId:7858459	origText:dihydrouracil	url:C007419
+CANDIDATE	id:7419	inCount:0	outCount:1	links:	url:C007419	name:dihydrouracil	normalName:dihydrouracil	normalWikiTitle:dihydrouracil	predictedType:Chemical

@@ -1,0 +1,4 @@
+ENTITY	text:impotence	normalName:impotence	predictedType:disease	q:true	qid:Q1264	docId:8386779	origText:impotence	url:D007172
+CANDIDATE	id:7172	inCount:1	outCount:2	links:	url:D007172	name:Impotence	normalName:impotence	normalWikiTitle:impotence	predictedType:Disease
+ENTITY	text:erectile dysfunction	normalName:erectile dysfunction	predictedType:disease	q:true	qid:Q1264	docId:8386779	origText:erectile dysfunction	url:D007172
+CANDIDATE	id:7172	inCount:1	outCount:2	links:	url:D007172	name:Erectile Dysfunction	normalName:erectile dysfunction	normalWikiTitle:erectile dysfunction	predictedType:Disease

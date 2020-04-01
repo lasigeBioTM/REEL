@@ -1,0 +1,12 @@
+ENTITY	text:d-amphetamine	normalName:d-amphetamine	predictedType:chemical	q:true	qid:Q186	docId:20705401	origText:d-amphetamine	url:D003913
+CANDIDATE	id:3913	inCount:7	outCount:1	links:	url:D003913	name:d-Amphetamine	normalName:d-amphetamine	normalWikiTitle:d-amphetamine	predictedType:Chemical
+ENTITY	text:Serotonin	normalName:serotonin	predictedType:chemical	q:true	qid:Q186	docId:20705401	origText:Serotonin	url:D012701
+CANDIDATE	id:12701	inCount:48	outCount:2	links:12701	url:D012701	name:Serotonin	normalName:serotonin	normalWikiTitle:serotonin	predictedType:Chemical
+ENTITY	text:methamphetamine	normalName:methamphetamine	predictedType:chemical	q:true	qid:Q186	docId:20705401	origText:methamphetamine	url:D008694
+CANDIDATE	id:8694	inCount:44	outCount:1	links:	url:D008694	name:Methamphetamine	normalName:methamphetamine	normalWikiTitle:methamphetamine	predictedType:Chemical
+ENTITY	text:clozapine	normalName:clozapine	predictedType:chemical	q:true	qid:Q186	docId:20705401	origText:clozapine	url:D003024
+CANDIDATE	id:3024	inCount:15	outCount:1	links:	url:D003024	name:Clozapine	normalName:clozapine	normalWikiTitle:clozapine	predictedType:Chemical
+ENTITY	text:phencyclidine	normalName:phencyclidine	predictedType:chemical	q:true	qid:Q186	docId:20705401	origText:phencyclidine	url:D010622
+CANDIDATE	id:10622	inCount:43	outCount:1	links:	url:D010622	name:Phencyclidine	normalName:phencyclidine	normalWikiTitle:phencyclidine	predictedType:Chemical
+ENTITY	text:5-HT	normalName:5-ht	predictedType:chemical	q:true	qid:Q186	docId:20705401	origText:5-HT	url:D012701
+CANDIDATE	id:12701	inCount:48	outCount:2	links:12701	url:D012701	name:5-HT	normalName:5-ht	normalWikiTitle:5-ht	predictedType:Chemical

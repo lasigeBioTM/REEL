@@ -1,0 +1,10 @@
+ENTITY	text:hyperalgesia	normalName:hyperalgesia	predictedType:disease	q:true	qid:Q481	docId:20447294	origText:hyperalgesia	url:D006930
+CANDIDATE	id:6930	inCount:0	outCount:1	links:10146;3929;7249	url:D006930	name:Hyperalgesia	normalName:hyperalgesia	normalWikiTitle:hyperalgesia	predictedType:Disease
+ENTITY	text:neuropathic pain	normalName:neuropathic pain	predictedType:disease	q:true	qid:Q481	docId:20447294	origText:neuropathic pain	url:D009437
+CANDIDATE	id:9437	inCount:6	outCount:2	links:	url:D009437	name:Pain, Neuropathic	normalName:pain, neuropathic	normalWikiTitle:pain, neuropathic	predictedType:Disease
+ENTITY	text:diabetic neuropathy	normalName:diabetic neuropathy	predictedType:disease	q:true	qid:Q481	docId:20447294	origText:diabetic neuropathy	url:D003929
+CANDIDATE	id:3929	inCount:2	outCount:2	links:7249;6930	url:D003929	name:Neuropathy, Diabetic	normalName:neuropathy, diabetic	normalWikiTitle:neuropathy, diabetic	predictedType:Disease
+ENTITY	text:inflammation	normalName:inflammation	predictedType:disease	q:true	qid:Q481	docId:20447294	origText:inflammation	url:D007249
+CANDIDATE	id:7249	inCount:14	outCount:1	links:3929;6930	url:D007249	name:Inflammation	normalName:inflammation	normalWikiTitle:inflammation	predictedType:Disease
+ENTITY	text:pain	normalName:pain	predictedType:disease	q:true	qid:Q481	docId:20447294	origText:pain	url:D010146
+CANDIDATE	id:10146	inCount:34	outCount:1	links:6930	url:D010146	name:Pain	normalName:pain	normalWikiTitle:pain	predictedType:Disease

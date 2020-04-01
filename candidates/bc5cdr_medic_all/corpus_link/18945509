@@ -1,0 +1,42 @@
+ENTITY	text:type 2 diabetes	normalName:type 2 diabetes	predictedType:disease	q:true	qid:Q329	docId:18945509	origText:type 2 diabetes	url:D003924
+CANDIDATE	id:3924	inCount:19	outCount:1	links:	url:D003924	name:Type 2 Diabetes	normalName:type 2 diabetes	normalWikiTitle:type 2 diabetes	predictedType:Disease
+ENTITY	text:diabetes	normalName:diabetes	predictedType:disease	q:true	qid:Q329	docId:18945509	origText:diabetes	url:D003920
+CANDIDATE	id:3920	inCount:44	outCount:2	links:	url:D003920	name:Diabetes Mellitus	normalName:diabetes mellitus	normalWikiTitle:diabetes mellitus	predictedType:Disease
+CANDIDATE	id:3970	inCount:2	outCount:1	links:	url:D003970	name:Diastema	normalName:diastema	normalWikiTitle:diastema	predictedType:Disease
+CANDIDATE	id:0	inCount:27	outCount:0	links:	url:00000000000	name:Diseases	normalName:diseases	normalWikiTitle:diseases	predictedType:Disease
+CANDIDATE	id:3919	inCount:7	outCount:2	links:	url:D003919	name:Diabetes Insipidus	normalName:diabetes insipidus	normalWikiTitle:diabetes insipidus	predictedType:Disease
+CANDIDATE	id:562772	inCount:0	outCount:1	links:	url:C562772	name:Mason-Type Diabetes	normalName:mason-type diabetes	normalWikiTitle:mason-type diabetes	predictedType:Disease
+CANDIDATE	id:538011	inCount:0	outCount:2	links:	url:C538011	name:Eales disease	normalName:eales disease	normalWikiTitle:eales disease	predictedType:Disease
+CANDIDATE	id:11818	inCount:0	outCount:1	links:	url:D011818	name:Rabies	normalName:rabies	normalWikiTitle:rabies	predictedType:Disease
+CANDIDATE	id:7905	inCount:4	outCount:1	links:	url:D007905	name:Lens Diseases	normalName:lens diseases	normalWikiTitle:lens diseases	predictedType:Disease
+CANDIDATE	id:17719	inCount:0	outCount:3	links:	url:D017719	name:Diabetic Foot	normalName:diabetic foot	normalWikiTitle:diabetic foot	predictedType:Disease
+CANDIDATE	id:16640	inCount:1	outCount:2	links:	url:D016640	name:Diabetes, Gestational	normalName:diabetes, gestational	normalWikiTitle:diabetes, gestational	predictedType:Disease
+CANDIDATE	id:11236	inCount:0	outCount:1	links:	url:D011236	name:Prediabetes	normalName:prediabetes	normalWikiTitle:prediabetes	predictedType:Disease
+CANDIDATE	id:3970	inCount:2	outCount:1	links:	url:D003970	name:Diastemas	normalName:diastemas	normalWikiTitle:diastemas	predictedType:Disease
+CANDIDATE	id:4198	inCount:4	outCount:1	links:	url:D004198	name:Diathesis	normalName:diathesis	normalWikiTitle:diathesis	predictedType:Disease
+CANDIDATE	id:4198	inCount:4	outCount:1	links:	url:D004198	name:Diatheses	normalName:diatheses	normalWikiTitle:diatheses	predictedType:Disease
+CANDIDATE	id:3922	inCount:26	outCount:2	links:	url:D003922	name:Diabetes, Type 1	normalName:diabetes, type 1	normalWikiTitle:diabetes, type 1	predictedType:Disease
+CANDIDATE	id:6432	inCount:6	outCount:2	links:	url:D006432	name:Bronze Diabetes	normalName:bronze diabetes	normalWikiTitle:bronze diabetes	predictedType:Disease
+CANDIDATE	id:3924	inCount:19	outCount:1	links:	url:D003924	name:Diabetes, Type 2	normalName:diabetes, type 2	normalWikiTitle:diabetes, type 2	predictedType:Disease
+CANDIDATE	id:3922	inCount:26	outCount:2	links:	url:D003922	name:Type 1 Diabetes	normalName:type 1 diabetes	normalWikiTitle:type 1 diabetes	predictedType:Disease
+CANDIDATE	id:6432	inCount:6	outCount:2	links:	url:D006432	name:Diabetes, Bronze	normalName:diabetes, bronze	normalWikiTitle:diabetes, bronze	predictedType:Disease
+CANDIDATE	id:3924	inCount:19	outCount:1	links:	url:D003924	name:Type 2 Diabetes	normalName:type 2 diabetes	normalWikiTitle:type 2 diabetes	predictedType:Disease
+ENTITY	text:type 2 diabetic	normalName:type 2 diabetic	predictedType:disease	q:true	qid:Q329	docId:18945509	origText:type 2 diabetic	url:D003924
+CANDIDATE	id:3924	inCount:19	outCount:1	links:	url:D003924	name:Type 2 Diabetes	normalName:type 2 diabetes	normalWikiTitle:type 2 diabetes	predictedType:Disease
+CANDIDATE	id:3924	inCount:19	outCount:1	links:	url:D003924	name:Diabetes Mellitus, Type 2	normalName:diabetes mellitus, type 2	normalWikiTitle:diabetes mellitus, type 2	predictedType:Disease
+CANDIDATE	id:17719	inCount:0	outCount:3	links:	url:D017719	name:Diabetic Foot	normalName:diabetic foot	normalWikiTitle:diabetic foot	predictedType:Disease
+CANDIDATE	id:11236	inCount:0	outCount:1	links:	url:D011236	name:Prediabetic State	normalName:prediabetic state	normalWikiTitle:prediabetic state	predictedType:Disease
+CANDIDATE	id:536372	inCount:0	outCount:1	links:	url:C536372	name:Aniridia, type 2	normalName:aniridia, type 2	normalWikiTitle:aniridia, type 2	predictedType:Disease
+CANDIDATE	id:3922	inCount:26	outCount:2	links:	url:D003922	name:Diabetes Mellitus, Type 1	normalName:diabetes mellitus, type 1	normalWikiTitle:diabetes mellitus, type 1	predictedType:Disease
+CANDIDATE	id:562772	inCount:0	outCount:1	links:	url:C562772	name:Mason-Type Diabetes	normalName:mason-type diabetes	normalWikiTitle:mason-type diabetes	predictedType:Disease
+CANDIDATE	id:535506	inCount:0	outCount:2	links:	url:C535506	name:Episodic Ataxia, Type 2	normalName:episodic ataxia, type 2	normalWikiTitle:episodic ataxia, type 2	predictedType:Disease
+CANDIDATE	id:3926	inCount:1	outCount:1	links:	url:D003926	name:Diabetic Coma	normalName:diabetic coma	normalWikiTitle:diabetic coma	predictedType:Disease
+CANDIDATE	id:3930	inCount:1	outCount:2	links:	url:D003930	name:Diabetic Retinopathy	normalName:diabetic retinopathy	normalWikiTitle:diabetic retinopathy	predictedType:Disease
+CANDIDATE	id:538153	inCount:0	outCount:1	links:	url:C538153	name:Syndactyly, type 2	normalName:syndactyly, type 2	normalWikiTitle:syndactyly, type 2	predictedType:Disease
+CANDIDATE	id:3924	inCount:19	outCount:1	links:	url:D003924	name:Diabetes, Type 2	normalName:diabetes, type 2	normalWikiTitle:diabetes, type 2	predictedType:Disease
+CANDIDATE	id:3922	inCount:26	outCount:2	links:	url:D003922	name:Diabetes, Type 1	normalName:diabetes, type 1	normalWikiTitle:diabetes, type 1	predictedType:Disease
+CANDIDATE	id:3922	inCount:26	outCount:2	links:	url:D003922	name:Type 1 Diabetes	normalName:type 1 diabetes	normalWikiTitle:type 1 diabetes	predictedType:Disease
+CANDIDATE	id:71698	inCount:0	outCount:2	links:	url:D000071698	name:Diabetes, Type 1.5	normalName:diabetes, type 1.5	normalWikiTitle:diabetes, type 1.5	predictedType:Disease
+CANDIDATE	id:71698	inCount:0	outCount:2	links:	url:D000071698	name:Type 1.5 Diabetes	normalName:type 1.5 diabetes	normalWikiTitle:type 1.5 diabetes	predictedType:Disease
+ENTITY	text:coronary artery disease	normalName:coronary artery disease	predictedType:disease	q:true	qid:Q329	docId:18945509	origText:coronary artery disease	url:D003324
+CANDIDATE	id:3324	inCount:4	outCount:2	links:	url:D003324	name:Coronary Artery Disease	normalName:coronary artery disease	normalWikiTitle:coronary artery disease	predictedType:Disease

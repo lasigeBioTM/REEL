@@ -1,0 +1,16 @@
+ENTITY	text:SKF 38393	normalName:skf 38393	predictedType:chemical	q:true	qid:Q1402	docId:1833784	origText:SKF 38393	url:D015647
+CANDIDATE	id:15647	inCount:6	outCount:1	links:	url:D015647	name:SKF 38393	normalName:skf 38393	normalWikiTitle:skf 38393	predictedType:Chemical
+ENTITY	text:hexamethonium	normalName:hexamethonium	predictedType:chemical	q:true	qid:Q1402	docId:1833784	origText:hexamethonium	url:D018738
+CANDIDATE	id:18738	inCount:0	outCount:1	links:	url:D018738	name:Hexamethonium	normalName:hexamethonium	normalWikiTitle:hexamethonium	predictedType:Chemical
+ENTITY	text:raclopride	normalName:raclopride	predictedType:chemical	q:true	qid:Q1402	docId:1833784	origText:raclopride	url:D020891
+CANDIDATE	id:20891	inCount:0	outCount:2	links:	url:D020891	name:Raclopride	normalName:raclopride	normalWikiTitle:raclopride	predictedType:Chemical
+ENTITY	text:dopamine	normalName:dopamine	predictedType:chemical	q:true	qid:Q1402	docId:1833784	origText:dopamine	url:D004298
+CANDIDATE	id:4298	inCount:90	outCount:2	links:	url:D004298	name:Dopamine	normalName:dopamine	normalWikiTitle:dopamine	predictedType:Chemical
+ENTITY	text:nicotine	normalName:nicotine	predictedType:chemical	q:true	qid:Q1402	docId:1833784	origText:nicotine	url:D009538
+CANDIDATE	id:9538	inCount:50	outCount:2	links:534628;5476	url:D009538	name:Nicotine	normalName:nicotine	normalWikiTitle:nicotine	predictedType:Chemical
+ENTITY	text:fluphenazine	normalName:fluphenazine	predictedType:chemical	q:true	qid:Q1402	docId:1833784	origText:fluphenazine	url:D005476
+CANDIDATE	id:5476	inCount:11	outCount:1	links:534628;9538	url:D005476	name:Fluphenazine	normalName:fluphenazine	normalWikiTitle:fluphenazine	predictedType:Chemical
+ENTITY	text:mecamylamine	normalName:mecamylamine	predictedType:chemical	q:true	qid:Q1402	docId:1833784	origText:mecamylamine	url:D008464
+CANDIDATE	id:8464	inCount:0	outCount:1	links:	url:D008464	name:Mecamylamine	normalName:mecamylamine	normalWikiTitle:mecamylamine	predictedType:Chemical
+ENTITY	text:SCH 23390	normalName:sch 23390	predictedType:chemical	q:true	qid:Q1402	docId:1833784	origText:SCH 23390	url:C534628
+CANDIDATE	id:534628	inCount:0	outCount:1	links:5476;9538	url:C534628	name:SCH 23390	normalName:sch 23390	normalWikiTitle:sch 23390	predictedType:Chemical

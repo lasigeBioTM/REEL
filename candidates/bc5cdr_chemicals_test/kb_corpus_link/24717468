@@ -1,0 +1,4 @@
+ENTITY	text:dexmedetomidine	normalName:dexmedetomidine	predictedType:chemical	q:true	qid:Q13	docId:24717468	origText:dexmedetomidine	url:D020927
+CANDIDATE	id:20927	inCount:0	outCount:1	links:15742	url:D020927	name:Dexmedetomidine	normalName:dexmedetomidine	normalWikiTitle:dexmedetomidine	predictedType:Chemical
+ENTITY	text:propofol	normalName:propofol	predictedType:chemical	q:true	qid:Q13	docId:24717468	origText:propofol	url:D015742
+CANDIDATE	id:15742	inCount:12	outCount:1	links:20927	url:D015742	name:Propofol	normalName:propofol	normalWikiTitle:propofol	predictedType:Chemical

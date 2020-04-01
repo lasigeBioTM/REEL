@@ -1,0 +1,26 @@
+ENTITY	text:painful muscle	normalName:painful muscle	predictedType:disease	q:true	qid:Q1371	docId:12202650	origText:painful muscle	url:D063806
+CANDIDATE	id:63806	inCount:0	outCount:2	links:63806	url:D063806	name:Pains, Muscle	normalName:pains, muscle	normalWikiTitle:pains, muscle	predictedType:Disease
+CANDIDATE	id:59352	inCount:2	outCount:2	links:	url:D059352	name:Musculoskeletal Pain	normalName:musculoskeletal pain	normalWikiTitle:musculoskeletal pain	predictedType:Disease
+CANDIDATE	id:9128	inCount:17	outCount:2	links:	url:D009128	name:Muscle Spasticity	normalName:muscle spasticity	normalWikiTitle:muscle spasticity	predictedType:Disease
+CANDIDATE	id:18908	inCount:6	outCount:3	links:	url:D018908	name:Muscle Weakness	normalName:muscle weakness	normalWikiTitle:muscle weakness	predictedType:Disease
+CANDIDATE	id:19042	inCount:0	outCount:2	links:	url:D019042	name:Muscle Neoplasms	normalName:muscle neoplasms	normalWikiTitle:muscle neoplasms	predictedType:Disease
+CANDIDATE	id:9379	inCount:7	outCount:1	links:	url:D009379	name:Neoplasms, Muscle Tissue	normalName:neoplasms, muscle tissue	normalWikiTitle:neoplasms, muscle tissue	predictedType:Disease
+CANDIDATE	id:531833	inCount:0	outCount:1	links:	url:C531833	name:Ophthalmoplegia, painful	normalName:ophthalmoplegia, painful	normalWikiTitle:ophthalmoplegia, painful	predictedType:Disease
+CANDIDATE	id:2637	inCount:1	outCount:1	links:	url:D002637	name:Chest Pain	normalName:chest pain	normalWikiTitle:chest pain	predictedType:Disease
+CANDIDATE	id:59787	inCount:0	outCount:1	links:	url:D059787	name:Acute Pain	normalName:acute pain	normalWikiTitle:acute pain	predictedType:Disease
+CANDIDATE	id:564945	inCount:0	outCount:2	links:	url:C564945	name:Neuropathy, Painful	normalName:neuropathy, painful	normalWikiTitle:neuropathy, painful	predictedType:Disease
+CANDIDATE	id:72716	inCount:0	outCount:1	links:	url:D000072716	name:Cancer Pain	normalName:cancer pain	normalWikiTitle:cancer pain	predictedType:Disease
+CANDIDATE	id:63806	inCount:0	outCount:2	links:63806	url:D063806	name:Pain, Muscle	normalName:pain, muscle	normalWikiTitle:pain, muscle	predictedType:Disease
+CANDIDATE	id:63806	inCount:0	outCount:2	links:63806	url:D063806	name:Muscle Pain	normalName:muscle pain	normalWikiTitle:muscle pain	predictedType:Disease
+CANDIDATE	id:10291	inCount:3	outCount:1	links:	url:D010291	name:Paresis, Muscle	normalName:paresis, muscle	normalWikiTitle:paresis, muscle	predictedType:Disease
+CANDIDATE	id:10291	inCount:3	outCount:1	links:	url:D010291	name:Muscle Paresis	normalName:muscle paresis	normalWikiTitle:muscle paresis	predictedType:Disease
+CANDIDATE	id:13035	inCount:5	outCount:1	links:	url:D013035	name:Spasm, Muscle	normalName:spasm, muscle	normalWikiTitle:spasm, muscle	predictedType:Disease
+CANDIDATE	id:13035	inCount:5	outCount:1	links:	url:D013035	name:Muscle Spasm	normalName:muscle spasm	normalWikiTitle:muscle spasm	predictedType:Disease
+CANDIDATE	id:13035	inCount:5	outCount:1	links:	url:D013035	name:Muscle Spasms	normalName:muscle spasms	normalWikiTitle:muscle spasms	predictedType:Disease
+CANDIDATE	id:13035	inCount:5	outCount:1	links:	url:D013035	name:Spasms, Muscle	normalName:spasms, muscle	normalWikiTitle:spasms, muscle	predictedType:Disease
+ENTITY	text:muscle pain	normalName:muscle pain	predictedType:disease	q:true	qid:Q1371	docId:12202650	origText:muscle pain	url:D063806
+CANDIDATE	id:63806	inCount:0	outCount:2	links:63806	url:D063806	name:Muscle Pain	normalName:muscle pain	normalWikiTitle:muscle pain	predictedType:Disease
+ENTITY	text:temporomandibular disorders	normalName:temporomandibular disorders	predictedType:disease	q:true	qid:Q1371	docId:12202650	origText:temporomandibular disorders	url:D013705
+CANDIDATE	id:13705	inCount:2	outCount:3	links:	url:D013705	name:Temporomandibular Disorders	normalName:temporomandibular disorders	normalWikiTitle:temporomandibular disorders	predictedType:Disease
+ENTITY	text:pain	normalName:pain	predictedType:disease	q:true	qid:Q1371	docId:12202650	origText:pain	url:D010146
+CANDIDATE	id:10146	inCount:34	outCount:1	links:	url:D010146	name:Pain	normalName:pain	normalWikiTitle:pain	predictedType:Disease

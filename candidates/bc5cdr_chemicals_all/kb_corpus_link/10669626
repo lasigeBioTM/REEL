@@ -1,0 +1,25 @@
+ENTITY	text:gamma-carboxyglutamate	normalName:gamma-carboxyglutamate	predictedType:chemical	q:true	qid:Q1411	docId:10669626	origText:gamma-carboxyglutamate	url:D015055
+CANDIDATE	id:15055	inCount:3	outCount:2	links:15055	url:D015055	name:gamma Carboxyglutamate	normalName:gamma carboxyglutamate	normalWikiTitle:gamma carboxyglutamate	predictedType:Chemical
+ENTITY	text:gamma-carboxylated	normalName:gamma-carboxylated	predictedType:chemical	q:true	qid:Q1411	docId:10669626	origText:gamma-carboxylated	url:D015055
+CANDIDATE	id:15055	inCount:3	outCount:2	links:15055	url:D015055	name:gamma Carboxyglutamate	normalName:gamma carboxyglutamate	normalWikiTitle:gamma carboxyglutamate	predictedType:Chemical
+CANDIDATE	id:55572	inCount:0	outCount:1	links:	url:C055572	name:gamma-carboline	normalName:gamma-carboline	normalWikiTitle:gamma-carboline	predictedType:Chemical
+CANDIDATE	id:14391	inCount:0	outCount:1	links:	url:C014391	name:gamma-carboxyglutamylleucine	normalName:gamma-carboxyglutamylleucine	normalWikiTitle:gamma-carboxyglutamylleucine	predictedType:Chemical
+CANDIDATE	id:535162	inCount:0	outCount:1	links:	url:C535162	name:oseltamivir carboxylate	normalName:oseltamivir carboxylate	normalWikiTitle:oseltamivir carboxylate	predictedType:Chemical
+CANDIDATE	id:539052	inCount:0	outCount:1	links:	url:C539052	name:gamma-abscisolactone	normalName:gamma-abscisolactone	normalWikiTitle:gamma-abscisolactone	predictedType:Chemical
+CANDIDATE	id:61545	inCount:0	outCount:1	links:	url:D061545	name:Carbonated Water	normalName:carbonated water	normalWikiTitle:carbonated water	predictedType:Chemical
+CANDIDATE	id:553563	inCount:0	outCount:1	links:	url:C553563	name:pyrazine-2-carboxylate	normalName:pyrazine-2-carboxylate	normalWikiTitle:pyrazine-2-carboxylate	predictedType:Chemical
+CANDIDATE	id:511058	inCount:0	outCount:1	links:	url:C511058	name:gamma-bisabolene	normalName:gamma-bisabolene	normalWikiTitle:gamma-bisabolene	predictedType:Chemical
+CANDIDATE	id:41069	inCount:0	outCount:1	links:	url:C041069	name:carboxyl radical	normalName:carboxyl radical	normalWikiTitle:carboxyl radical	predictedType:Chemical
+CANDIDATE	id:517611	inCount:0	outCount:1	links:	url:C517611	name:gamma-dodecalactone	normalName:gamma-dodecalactone	normalWikiTitle:gamma-dodecalactone	predictedType:Chemical
+CANDIDATE	id:11968	inCount:0	outCount:1	links:	url:C011968	name:papaverine codecarboxylate	normalName:papaverine codecarboxylate	normalWikiTitle:papaverine codecarboxylate	predictedType:Chemical
+CANDIDATE	id:15055	inCount:3	outCount:2	links:15055	url:D015055	name:gamma-Carboxyglutamate	normalName:gamma-carboxyglutamate	normalWikiTitle:gamma-carboxyglutamate	predictedType:Chemical
+ENTITY	text:vitamin K	normalName:vitamin k	predictedType:chemical	q:true	qid:Q1411	docId:10669626	origText:vitamin K	url:D014812
+CANDIDATE	id:14812	inCount:12	outCount:2	links:	url:D014812	name:Vitamin K	normalName:vitamin k	normalWikiTitle:vitamin k	predictedType:Chemical
+ENTITY	text:phosphate	normalName:phosphate	predictedType:chemical	q:true	qid:Q1411	docId:10669626	origText:phosphate	url:D010710
+CANDIDATE	id:10710	inCount:107	outCount:2	links:	url:D010710	name:Phosphate	normalName:phosphate	normalWikiTitle:phosphate	predictedType:Chemical
+ENTITY	text:calcium	normalName:calcium	predictedType:chemical	q:true	qid:Q1411	docId:10669626	origText:calcium	url:D002118
+CANDIDATE	id:2118	inCount:11	outCount:2	links:	url:D002118	name:Calcium	normalName:calcium	normalWikiTitle:calcium	predictedType:Chemical
+ENTITY	text:Warfarin	normalName:warfarin	predictedType:chemical	q:true	qid:Q1411	docId:10669626	origText:Warfarin	url:D014859
+CANDIDATE	id:14859	inCount:14	outCount:1	links:	url:D014859	name:Warfarin	normalName:warfarin	normalWikiTitle:warfarin	predictedType:Chemical
+ENTITY	text:vitamin D	normalName:vitamin d	predictedType:chemical	q:true	qid:Q1411	docId:10669626	origText:vitamin D	url:D014807
+CANDIDATE	id:14807	inCount:27	outCount:1	links:	url:D014807	name:Vitamin D	normalName:vitamin d	normalWikiTitle:vitamin d	predictedType:Chemical

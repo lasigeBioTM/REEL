@@ -1,0 +1,4 @@
+ENTITY	text:doxorubicin	normalName:doxorubicin	predictedType:chemical	q:true	qid:Q91	docId:24675088	origText:doxorubicin	url:D004317
+CANDIDATE	id:4317	inCount:559	outCount:1	links:	url:D004317	name:Doxorubicin	normalName:doxorubicin	normalWikiTitle:doxorubicin	predictedType:Chemical
+ENTITY	text:gadolinium	normalName:gadolinium	predictedType:chemical	q:true	qid:Q91	docId:24675088	origText:gadolinium	url:D005682
+CANDIDATE	id:5682	inCount:20	outCount:1	links:	url:D005682	name:Gadolinium	normalName:gadolinium	normalWikiTitle:gadolinium	predictedType:Chemical

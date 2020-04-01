@@ -1,0 +1,4 @@
+ENTITY	text:isoflurane	normalName:isoflurane	predictedType:chemical	q:true	qid:Q807	docId:8424298	origText:isoflurane	url:D007530
+CANDIDATE	id:7530	inCount:1	outCount:1	links:	url:D007530	name:Isoflurane	normalName:isoflurane	normalWikiTitle:isoflurane	predictedType:Chemical
+ENTITY	text:labetalol	normalName:labetalol	predictedType:chemical	q:true	qid:Q807	docId:8424298	origText:labetalol	url:D007741
+CANDIDATE	id:7741	inCount:0	outCount:2	links:	url:D007741	name:Labetalol	normalName:labetalol	normalWikiTitle:labetalol	predictedType:Chemical

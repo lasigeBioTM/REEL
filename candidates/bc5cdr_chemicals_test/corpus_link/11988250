@@ -1,0 +1,4 @@
+ENTITY	text:ibuprofen	normalName:ibuprofen	predictedType:chemical	q:true	qid:Q227	docId:11988250	origText:ibuprofen	url:D007052
+CANDIDATE	id:7052	inCount:34	outCount:1	links:	url:D007052	name:Ibuprofen	normalName:ibuprofen	normalWikiTitle:ibuprofen	predictedType:Chemical
+ENTITY	text:nitric oxide	normalName:nitric oxide	predictedType:chemical	q:true	qid:Q227	docId:11988250	origText:nitric oxide	url:D009569
+CANDIDATE	id:9569	inCount:13	outCount:3	links:	url:D009569	name:Nitric Oxide	normalName:nitric oxide	normalWikiTitle:nitric oxide	predictedType:Chemical

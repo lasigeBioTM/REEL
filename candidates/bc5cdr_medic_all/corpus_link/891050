@@ -1,0 +1,8 @@
+ENTITY	text:hypertension	normalName:hypertension	predictedType:disease	q:true	qid:Q75	docId:891050	origText:hypertension	url:D006973
+CANDIDATE	id:6973	inCount:18	outCount:1	links:	url:D006973	name:Hypertension	normalName:hypertension	normalWikiTitle:hypertension	predictedType:Disease
+ENTITY	text:oliguria	normalName:oliguria	predictedType:disease	q:true	qid:Q75	docId:891050	origText:oliguria	url:D009846
+CANDIDATE	id:9846	inCount:0	outCount:2	links:	url:D009846	name:Oliguria	normalName:oliguria	normalWikiTitle:oliguria	predictedType:Disease
+ENTITY	text:anuria	normalName:anuria	predictedType:disease	q:true	qid:Q75	docId:891050	origText:anuria	url:D001002
+CANDIDATE	id:1002	inCount:0	outCount:2	links:	url:D001002	name:Anuria	normalName:anuria	normalWikiTitle:anuria	predictedType:Disease
+ENTITY	text:hemolytic uremic syndrome	normalName:hemolytic uremic syndrome	predictedType:disease	q:true	qid:Q75	docId:891050	origText:hemolytic uremic syndrome	url:D006463
+CANDIDATE	id:6463	inCount:2	outCount:3	links:	url:D006463	name:Hemolytic-Uremic Syndrome	normalName:hemolytic-uremic syndrome	normalWikiTitle:hemolytic-uremic syndrome	predictedType:Disease

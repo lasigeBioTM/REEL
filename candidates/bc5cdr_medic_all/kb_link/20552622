@@ -1,0 +1,21 @@
+ENTITY	text:atrial tachyarrhythmia	normalName:atrial tachyarrhythmia	predictedType:disease	q:true	qid:Q482	docId:20552622	origText:atrial tachyarrhythmia	url:D013617
+CANDIDATE	id:13617	inCount:3	outCount:1	links:	url:D013617	name:Tachycardia, Supraventricular	normalName:tachycardia, supraventricular	normalWikiTitle:tachycardia, supraventricular	predictedType:Disease
+CANDIDATE	id:13612	inCount:0	outCount:1	links:	url:D013612	name:Tachycardia, Ectopic Atrial	normalName:tachycardia, ectopic atrial	normalWikiTitle:tachycardia, ectopic atrial	predictedType:Disease
+CANDIDATE	id:566237	inCount:0	outCount:1	links:	url:C566237	name:Atrial Tachyarrhythmia with Short PR Interval	normalName:atrial tachyarrhythmia with short pr interval	normalWikiTitle:atrial tachyarrhythmia with short pr interval	predictedType:Disease
+CANDIDATE	id:13614	inCount:1	outCount:1	links:	url:D013614	name:Tachycardia, Paroxysmal	normalName:tachycardia, paroxysmal	normalWikiTitle:tachycardia, paroxysmal	predictedType:Disease
+CANDIDATE	id:535438	inCount:0	outCount:1	links:	url:C535438	name:Bidirectional tachycardia	normalName:bidirectional tachycardia	normalWikiTitle:bidirectional tachycardia	predictedType:Disease
+CANDIDATE	id:13920	inCount:0	outCount:3	links:	url:D013920	name:Thrombocythemia, Essential	normalName:thrombocythemia, essential	normalWikiTitle:thrombocythemia, essential	predictedType:Disease
+CANDIDATE	id:563467	inCount:0	outCount:1	links:	url:C563467	name:Hypertryptophanemia, Familial	normalName:hypertryptophanemia, familial	normalWikiTitle:hypertryptophanemia, familial	predictedType:Disease
+CANDIDATE	id:536150	inCount:0	outCount:2	links:	url:C536150	name:Keratoacanthoma familial	normalName:keratoacanthoma familial	normalWikiTitle:keratoacanthoma familial	predictedType:Disease
+CANDIDATE	id:616201	inCount:0	outCount:2	links:	url:616201	name:CHRONIC ATRIAL AND INTESTINAL DYSRHYTHMIA	normalName:chronic atrial and intestinal dysrhythmia	normalWikiTitle:chronic atrial and intestinal dysrhythmia	predictedType:Disease
+CANDIDATE	id:13616	inCount:0	outCount:1	links:	url:D013616	name:Tachycardia, Sinus	normalName:tachycardia, sinus	normalWikiTitle:tachycardia, sinus	predictedType:Disease
+CANDIDATE	id:13610	inCount:7	outCount:2	links:13610	url:D013610	name:Tachyarrhythmia	normalName:tachyarrhythmia	normalWikiTitle:tachyarrhythmia	predictedType:Disease
+CANDIDATE	id:13610	inCount:7	outCount:2	links:13610	url:D013610	name:Tachyarrhythmias	normalName:tachyarrhythmias	normalWikiTitle:tachyarrhythmias	predictedType:Disease
+CANDIDATE	id:1919	inCount:0	outCount:1	links:	url:D001919	name:Bradyarrhythmia	normalName:bradyarrhythmia	normalWikiTitle:bradyarrhythmia	predictedType:Disease
+CANDIDATE	id:1145	inCount:27	outCount:2	links:1145	url:D001145	name:Cardiac Dysrhythmia	normalName:cardiac dysrhythmia	normalWikiTitle:cardiac dysrhythmia	predictedType:Disease
+CANDIDATE	id:1145	inCount:27	outCount:2	links:1145	url:D001145	name:Dysrhythmia, Cardiac	normalName:dysrhythmia, cardiac	normalWikiTitle:dysrhythmia, cardiac	predictedType:Disease
+CANDIDATE	id:1919	inCount:0	outCount:1	links:	url:D001919	name:Bradyarrhythmias	normalName:bradyarrhythmias	normalWikiTitle:bradyarrhythmias	predictedType:Disease
+ENTITY	text:arrhythmia	normalName:arrhythmia	predictedType:disease	q:true	qid:Q482	docId:20552622	origText:arrhythmia	url:D001145
+CANDIDATE	id:1145	inCount:27	outCount:2	links:1145	url:D001145	name:Arrhythmia	normalName:arrhythmia	normalWikiTitle:arrhythmia	predictedType:Disease
+ENTITY	text:tachycardia	normalName:tachycardia	predictedType:disease	q:true	qid:Q482	docId:20552622	origText:tachycardia	url:D013610
+CANDIDATE	id:13610	inCount:7	outCount:2	links:13610	url:D013610	name:Tachycardia	normalName:tachycardia	normalWikiTitle:tachycardia	predictedType:Disease

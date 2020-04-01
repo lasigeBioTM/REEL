@@ -1,0 +1,10 @@
+ENTITY	text:allopurinol	normalName:allopurinol	predictedType:chemical	q:true	qid:Q907	docId:17439425	origText:allopurinol	url:D000493
+CANDIDATE	id:493	inCount:12	outCount:1	links:	url:D000493	name:Allopurinol	normalName:allopurinol	normalWikiTitle:allopurinol	predictedType:Chemical
+ENTITY	text:xanthine	normalName:xanthine	predictedType:chemical	q:true	qid:Q907	docId:17439425	origText:xanthine	url:D019820
+CANDIDATE	id:19820	inCount:1	outCount:1	links:	url:D019820	name:Xanthine	normalName:xanthine	normalWikiTitle:xanthine	predictedType:Chemical
+ENTITY	text:nitric oxide	normalName:nitric oxide	predictedType:chemical	q:true	qid:Q907	docId:17439425	origText:nitric oxide	url:D009569
+CANDIDATE	id:9569	inCount:13	outCount:3	links:3907	url:D009569	name:Nitric Oxide	normalName:nitric oxide	normalWikiTitle:nitric oxide	predictedType:Chemical
+ENTITY	text:urate	normalName:urate	predictedType:chemical	q:true	qid:Q907	docId:17439425	origText:urate	url:D014527
+CANDIDATE	id:14527	inCount:21	outCount:1	links:	url:D014527	name:Urate	normalName:urate	normalWikiTitle:urate	predictedType:Chemical
+ENTITY	text:dexamethasone	normalName:dexamethasone	predictedType:chemical	q:true	qid:Q907	docId:17439425	origText:dexamethasone	url:D003907
+CANDIDATE	id:3907	inCount:138	outCount:2	links:9569	url:D003907	name:Dexamethasone	normalName:dexamethasone	normalWikiTitle:dexamethasone	predictedType:Chemical

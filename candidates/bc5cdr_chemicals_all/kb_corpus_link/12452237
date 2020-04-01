@@ -1,0 +1,8 @@
+ENTITY	text:succinylcholine	normalName:succinylcholine	predictedType:chemical	q:true	qid:Q1351	docId:12452237	origText:succinylcholine	url:D013390
+CANDIDATE	id:13390	inCount:3	outCount:2	links:9020;13874;8012	url:D013390	name:Succinylcholine	normalName:succinylcholine	normalWikiTitle:succinylcholine	predictedType:Chemical
+ENTITY	text:Morphine	normalName:morphine	predictedType:chemical	q:true	qid:Q1351	docId:12452237	origText:Morphine	url:D009020
+CANDIDATE	id:9020	inCount:13	outCount:1	links:13874;13390;8012	url:D009020	name:Morphine	normalName:morphine	normalWikiTitle:morphine	predictedType:Chemical
+ENTITY	text:lidocaine	normalName:lidocaine	predictedType:chemical	q:true	qid:Q1351	docId:12452237	origText:lidocaine	url:D008012
+CANDIDATE	id:8012	inCount:68	outCount:1	links:9020;13390	url:D008012	name:Lidocaine	normalName:lidocaine	normalWikiTitle:lidocaine	predictedType:Chemical
+ENTITY	text:thiopental	normalName:thiopental	predictedType:chemical	q:true	qid:Q1351	docId:12452237	origText:thiopental	url:D013874
+CANDIDATE	id:13874	inCount:3	outCount:1	links:9020;13390	url:D013874	name:Thiopental	normalName:thiopental	normalWikiTitle:thiopental	predictedType:Chemical

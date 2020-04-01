@@ -1,0 +1,16 @@
+ENTITY	text:5-HT	normalName:5-ht	predictedType:chemical	q:true	qid:Q951	docId:15957009	origText:5-HT	url:D012701
+CANDIDATE	id:12701	inCount:48	outCount:2	links:12701	url:D012701	name:5-HT	normalName:5-ht	normalWikiTitle:5-ht	predictedType:Chemical
+ENTITY	text:tryptophan	normalName:tryptophan	predictedType:chemical	q:true	qid:Q951	docId:15957009	origText:tryptophan	url:D014364
+CANDIDATE	id:14364	inCount:167	outCount:2	links:	url:D014364	name:Tryptophan	normalName:tryptophan	normalWikiTitle:tryptophan	predictedType:Chemical
+ENTITY	text:3-benzenesulfonyl-7-(4-methyl-piperazin-1-yl)1H-indole	normalName:3-benzenesulfonyl-7-(4-methyl-piperazin-1-yl)1h-indole	predictedType:chemical	q:true	qid:Q951	docId:15957009	origText:3-benzenesulfonyl-7-(4-methyl-piperazin-1-yl)1H-indole	url:C507242
+CANDIDATE	id:507242	inCount:0	outCount:2	links:507242	url:C507242	name:3-benzenesulfonyl-7-(4-methyl-piperazin-1-yl)1H-indole	normalName:3-benzenesulfonyl-7-(4-methyl-piperazin-1-yl)1h-indole	normalWikiTitle:3-benzenesulfonyl-7-(4-methyl-piperazin-1-yl)1h-indole	predictedType:Chemical
+ENTITY	text:scopolamine	normalName:scopolamine	predictedType:chemical	q:true	qid:Q951	docId:15957009	origText:scopolamine	url:D012601
+CANDIDATE	id:12601	inCount:3	outCount:2	links:	url:D012601	name:Scopolamine	normalName:scopolamine	normalWikiTitle:scopolamine	predictedType:Chemical
+ENTITY	text:acetylcholine	normalName:acetylcholine	predictedType:chemical	q:true	qid:Q951	docId:15957009	origText:acetylcholine	url:D000109
+CANDIDATE	id:109	inCount:23	outCount:1	links:	url:D000109	name:Acetylcholine	normalName:acetylcholine	normalWikiTitle:acetylcholine	predictedType:Chemical
+ENTITY	text:metrifonate	normalName:metrifonate	predictedType:chemical	q:true	qid:Q951	docId:15957009	origText:metrifonate	url:D014236
+CANDIDATE	id:14236	inCount:5	outCount:1	links:	url:D014236	name:Metrifonate	normalName:metrifonate	normalWikiTitle:metrifonate	predictedType:Chemical
+ENTITY	text:Ro4368554	normalName:ro4368554	predictedType:chemical	q:true	qid:Q951	docId:15957009	origText:Ro4368554	url:C507242
+CANDIDATE	id:507242	inCount:0	outCount:2	links:507242	url:C507242	name:Ro4368554	normalName:ro4368554	normalWikiTitle:ro4368554	predictedType:Chemical
+ENTITY	text:serotonin	normalName:serotonin	predictedType:chemical	q:true	qid:Q951	docId:15957009	origText:serotonin	url:D012701
+CANDIDATE	id:12701	inCount:48	outCount:2	links:12701	url:D012701	name:Serotonin	normalName:serotonin	normalWikiTitle:serotonin	predictedType:Chemical

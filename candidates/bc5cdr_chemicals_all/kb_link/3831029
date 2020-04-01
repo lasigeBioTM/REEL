@@ -1,0 +1,6 @@
+ENTITY	text:TA-064	normalName:ta-064	predictedType:chemical	q:true	qid:Q1221	docId:3831029	origText:TA-064	url:C037293
+CANDIDATE	id:37293	inCount:0	outCount:1	links:37293	url:C037293	name:TA-064	normalName:ta-064	normalWikiTitle:ta-064	predictedType:Chemical
+ENTITY	text:denopamine	normalName:denopamine	predictedType:chemical	q:true	qid:Q1221	docId:3831029	origText:denopamine	url:C037293
+CANDIDATE	id:37293	inCount:0	outCount:1	links:37293	url:C037293	name:denopamine	normalName:denopamine	normalWikiTitle:denopamine	predictedType:Chemical
+ENTITY	text:pentobarbital	normalName:pentobarbital	predictedType:chemical	q:true	qid:Q1221	docId:3831029	origText:pentobarbital	url:D010424
+CANDIDATE	id:10424	inCount:10	outCount:1	links:	url:D010424	name:Pentobarbital	normalName:pentobarbital	normalWikiTitle:pentobarbital	predictedType:Chemical

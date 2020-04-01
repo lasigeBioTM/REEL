@@ -1,0 +1,6 @@
+ENTITY	text:Dopamine	normalName:dopamine	predictedType:chemical	q:true	qid:Q150	docId:20533999	origText:Dopamine	url:D004298
+CANDIDATE	id:4298	inCount:90	outCount:2	links:	url:D004298	name:Dopamine	normalName:dopamine	normalWikiTitle:dopamine	predictedType:Chemical
+ENTITY	text:methamphetamine	normalName:methamphetamine	predictedType:chemical	q:true	qid:Q150	docId:20533999	origText:methamphetamine	url:D008694
+CANDIDATE	id:8694	inCount:44	outCount:1	links:	url:D008694	name:Methamphetamine	normalName:methamphetamine	normalWikiTitle:methamphetamine	predictedType:Chemical
+ENTITY	text:alpha-methyl-para-tyrosine	normalName:alpha-methyl-para-tyrosine	predictedType:chemical	q:true	qid:Q150	docId:20533999	origText:alpha-methyl-para-tyrosine	url:D019805
+CANDIDATE	id:19805	inCount:0	outCount:1	links:	url:D019805	name:alpha Methyl para tyrosine	normalName:alpha methyl para tyrosine	normalWikiTitle:alpha methyl para tyrosine	predictedType:Chemical

@@ -1,0 +1,19 @@
+ENTITY	text:acute lymphoblastic leukemia	normalName:acute lymphoblastic leukemia	predictedType:disease	q:true	qid:Q392	docId:9132810	origText:acute lymphoblastic leukemia	url:D054198
+CANDIDATE	id:54198	inCount:3	outCount:1	links:	url:D054198	name:Leukemia, Acute Lymphoblastic	normalName:leukemia, acute lymphoblastic	normalWikiTitle:leukemia, acute lymphoblastic	predictedType:Disease
+ENTITY	text:necrosis	normalName:necrosis	predictedType:disease	q:true	qid:Q392	docId:9132810	origText:necrosis	url:D009336
+CANDIDATE	id:9336	inCount:6	outCount:1	links:56784;3711	url:D009336	name:Necrosis	normalName:necrosis	normalWikiTitle:necrosis	predictedType:Disease
+ENTITY	text:leukoencephalopathy	normalName:leukoencephalopathy	predictedType:disease	q:true	qid:Q392	docId:9132810	origText:leukoencephalopathy	url:D056784
+CANDIDATE	id:56784	inCount:29	outCount:1	links:9336;3711	url:D056784	name:Leukoencephalopathy	normalName:leukoencephalopathy	normalWikiTitle:leukoencephalopathy	predictedType:Disease
+ENTITY	text:loss of myelination	normalName:loss of myelination	predictedType:disease	q:true	qid:Q392	docId:9132810	origText:loss of myelination	url:D003711
+CANDIDATE	id:3711	inCount:13	outCount:1	links:56784;9336	url:D003711	name:Demyelinations	normalName:demyelinations	normalWikiTitle:demyelinations	predictedType:Disease
+CANDIDATE	id:562400	inCount:0	outCount:2	links:	url:C562400	name:Hyperpigmentation of Eyelids	normalName:hyperpigmentation of eyelids	normalWikiTitle:hyperpigmentation of eyelids	predictedType:Disease
+CANDIDATE	id:566258	inCount:0	outCount:1	links:	url:C566258	name:Arms, Malformation of	normalName:arms, malformation of	normalWikiTitle:arms, malformation of	predictedType:Disease
+CANDIDATE	id:19960	inCount:2	outCount:1	links:	url:D019960	name:Elimination Disorders	normalName:elimination disorders	normalWikiTitle:elimination disorders	predictedType:Disease
+CANDIDATE	id:3428	inCount:2	outCount:2	links:	url:D003428	name:Cross Infection	normalName:cross infection	normalWikiTitle:cross infection	predictedType:Disease
+CANDIDATE	id:567847	inCount:0	outCount:3	links:	url:C567847	name:Hypomyelination, Global Cerebral	normalName:hypomyelination, global cerebral	normalWikiTitle:hypomyelination, global cerebral	predictedType:Disease
+CANDIDATE	id:11051	inCount:2	outCount:3	links:	url:D011051	name:Poliomyelitis	normalName:poliomyelitis	normalWikiTitle:poliomyelitis	predictedType:Disease
+CANDIDATE	id:536136	inCount:0	outCount:2	links:	url:C536136	name:Mediastinal Fibrosis	normalName:mediastinal fibrosis	normalWikiTitle:mediastinal fibrosis	predictedType:Disease
+CANDIDATE	id:10019	inCount:7	outCount:1	links:	url:D010019	name:Osteomyelitis	normalName:osteomyelitis	normalWikiTitle:osteomyelitis	predictedType:Disease
+CANDIDATE	id:300337	inCount:0	outCount:2	links:	url:300337	name:HYPOMELANOSIS OF ITO	normalName:hypomelanosis of ito	normalWikiTitle:hypomelanosis of ito	predictedType:Disease
+CANDIDATE	id:565610	inCount:0	outCount:5	links:	url:C565610	name:Dysmyelination With Jaundice	normalName:dysmyelination with jaundice	normalWikiTitle:dysmyelination with jaundice	predictedType:Disease
+CANDIDATE	id:3711	inCount:13	outCount:1	links:56784;9336	url:D003711	name:Demyelination	normalName:demyelination	normalWikiTitle:demyelination	predictedType:Disease

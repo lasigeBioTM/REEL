@@ -1,0 +1,54 @@
+ENTITY	text:IDDM	normalName:iddm	predictedType:disease	q:true	qid:Q11	docId:10743694	origText:IDDM	url:D003922
+CANDIDATE	id:3922	inCount:26	outCount:2	links:3922;9202;5767;20258;8232;11537;743	url:D003922	name:IDDM	normalName:iddm	normalWikiTitle:iddm	predictedType:Disease
+ENTITY	text:neurotoxicity	normalName:neurotoxicity	predictedType:disease	q:true	qid:Q11	docId:10743694	origText:neurotoxicity	url:D020258
+CANDIDATE	id:20258	inCount:7	outCount:2	links:3922;9202;5767;8232;11537;743	url:D020258	name:Neurotoxicity Syndromes	normalName:neurotoxicity syndromes	normalWikiTitle:neurotoxicity syndromes	predictedType:Disease
+CANDIDATE	id:66126	inCount:0	outCount:3	links:9202	url:D066126	name:Cardiotoxicity	normalName:cardiotoxicity	normalWikiTitle:cardiotoxicity	predictedType:Disease
+CANDIDATE	id:7246	inCount:2	outCount:2	links:	url:D007246	name:Infertility	normalName:infertility	normalWikiTitle:infertility	predictedType:Disease
+CANDIDATE	id:4767	inCount:0	outCount:2	links:	url:D004767	name:Enterotoxemia	normalName:enterotoxemia	normalWikiTitle:enterotoxemia	predictedType:Disease
+CANDIDATE	id:13971	inCount:2	outCount:1	links:	url:D013971	name:Thyrotoxicosis	normalName:thyrotoxicosis	normalWikiTitle:thyrotoxicosis	predictedType:Disease
+CANDIDATE	id:9902	inCount:1	outCount:1	links:	url:D009902	name:Optic Neuritis	normalName:optic neuritis	normalWikiTitle:optic neuritis	predictedType:Disease
+CANDIDATE	id:20426	inCount:2	outCount:1	links:	url:D020426	name:Sciatic Neuropathy	normalName:sciatic neuropathy	normalWikiTitle:sciatic neuropathy	predictedType:Disease
+CANDIDATE	id:18306	inCount:0	outCount:2	links:	url:D018306	name:Neurocytoma	normalName:neurocytoma	normalWikiTitle:neurocytoma	predictedType:Disease
+CANDIDATE	id:20019	inCount:0	outCount:2	links:	url:D020019	name:Neurocysticercosis	normalName:neurocysticercosis	normalWikiTitle:neurocysticercosis	predictedType:Disease
+CANDIDATE	id:9443	inCount:2	outCount:1	links:	url:D009443	name:Neuritis	normalName:neuritis	normalWikiTitle:neuritis	predictedType:Disease
+ENTITY	text:post-transplant lmphoproliferate disease	normalName:post-transplant lmphoproliferate disease	predictedType:disease	q:true	qid:Q11	docId:10743694	origText:post-transplant lmphoproliferate disease	url:D008232
+CANDIDATE	id:8232	inCount:24	outCount:2	links:3922;9202;5767;20258;11537;743	url:D008232	name:Lymphoproliferative Diseases, X-Linked	normalName:lymphoproliferative diseases, x-linked	normalWikiTitle:lymphoproliferative diseases, x-linked	predictedType:Disease
+CANDIDATE	id:8232	inCount:24	outCount:2	links:3922;9202;5767;20258;11537;743	url:D008232	name:Lymphoproliferative Disorders	normalName:lymphoproliferative disorders	normalWikiTitle:lymphoproliferative disorders	predictedType:Disease
+CANDIDATE	id:7161	inCount:0	outCount:4	links:	url:D007161	name:Immunoproliferative Small Intestinal Disease	normalName:immunoproliferative small intestinal disease	normalWikiTitle:immunoproliferative small intestinal disease	predictedType:Disease
+CANDIDATE	id:563551	inCount:0	outCount:2	links:	url:C563551	name:Myeloproliferative Syndrome, Transient	normalName:myeloproliferative syndrome, transient	normalWikiTitle:myeloproliferative syndrome, transient	predictedType:Disease
+CANDIDATE	id:566024	inCount:0	outCount:2	links:	url:C566024	name:Transient Myeloproliferative Disorder of Down Syndrome	normalName:transient myeloproliferative disorder of down syndrome	normalWikiTitle:transient myeloproliferative disorder of down syndrome	predictedType:Disease
+CANDIDATE	id:168600	inCount:0	outCount:1	links:	url:168600	name:PARKINSON DISEASE, LATE-ONSET	normalName:parkinson disease, late-onset	normalWikiTitle:parkinson disease, late-onset	predictedType:Disease
+CANDIDATE	id:565538	inCount:0	outCount:1	links:	url:C565538	name:Glycoprotein Storage Disease	normalName:glycoprotein storage disease	normalWikiTitle:glycoprotein storage disease	predictedType:Disease
+CANDIDATE	id:10214	inCount:2	outCount:1	links:	url:D010214	name:Papillon-Lefevre Disease	normalName:papillon-lefevre disease	normalWikiTitle:papillon-lefevre disease	predictedType:Disease
+CANDIDATE	id:77342	inCount:0	outCount:1	links:	url:D000077342	name:Post-Lyme Disease Syndrome	normalName:post-lyme disease syndrome	normalWikiTitle:post-lyme disease syndrome	predictedType:Disease
+CANDIDATE	id:564422	inCount:0	outCount:2	links:	url:C564422	name:Glutamyl Ribose-5-Phosphate Storage Disease	normalName:glutamyl ribose-5-phosphate storage disease	normalWikiTitle:glutamyl ribose-5-phosphate storage disease	predictedType:Disease
+CANDIDATE	id:12140	inCount:17	outCount:1	links:	url:D012140	name:Respiratory Tract Diseases	normalName:respiratory tract diseases	normalWikiTitle:respiratory tract diseases	predictedType:Disease
+CANDIDATE	id:8232	inCount:24	outCount:2	links:3922;9202;5767;20258;11537;743	url:D008232	name:X-Linked Lymphoproliferative Disease	normalName:x-linked lymphoproliferative disease	normalWikiTitle:x-linked lymphoproliferative disease	predictedType:Disease
+CANDIDATE	id:8232	inCount:24	outCount:2	links:3922;9202;5767;20258;11537;743	url:D008232	name:X Linked Lymphoproliferative Disease	normalName:x linked lymphoproliferative disease	normalWikiTitle:x linked lymphoproliferative disease	predictedType:Disease
+CANDIDATE	id:77342	inCount:0	outCount:1	links:	url:D000077342	name:Post Treatment Lyme Disease	normalName:post treatment lyme disease	normalWikiTitle:post treatment lyme disease	predictedType:Disease
+CANDIDATE	id:77342	inCount:0	outCount:1	links:	url:D000077342	name:Lyme Disease, Post-Treatment	normalName:lyme disease, post-treatment	normalWikiTitle:lyme disease, post-treatment	predictedType:Disease
+CANDIDATE	id:8232	inCount:24	outCount:2	links:3922;9202;5767;20258;11537;743	url:D008232	name:Lymphoproliferative Disease, X Linked	normalName:lymphoproliferative disease, x linked	normalWikiTitle:lymphoproliferative disease, x linked	predictedType:Disease
+CANDIDATE	id:77342	inCount:0	outCount:1	links:	url:D000077342	name:Post-Treatment Lyme Disease	normalName:post-treatment lyme disease	normalWikiTitle:post-treatment lyme disease	predictedType:Disease
+CANDIDATE	id:8232	inCount:24	outCount:2	links:3922;9202;5767;20258;11537;743	url:D008232	name:Disease, X-Linked Lymphoproliferative	normalName:disease, x-linked lymphoproliferative	normalWikiTitle:disease, x-linked lymphoproliferative	predictedType:Disease
+CANDIDATE	id:8232	inCount:24	outCount:2	links:3922;9202;5767;20258;11537;743	url:D008232	name:Lymphoproliferative Disease, X-Linked	normalName:lymphoproliferative disease, x-linked	normalWikiTitle:lymphoproliferative disease, x-linked	predictedType:Disease
+CANDIDATE	id:8232	inCount:24	outCount:2	links:3922;9202;5767;20258;11537;743	url:D008232	name:Diseases, X-Linked Lymphoproliferative	normalName:diseases, x-linked lymphoproliferative	normalWikiTitle:diseases, x-linked lymphoproliferative	predictedType:Disease
+ENTITY	text:pruritus	normalName:pruritus	predictedType:disease	q:true	qid:Q11	docId:10743694	origText:pruritus	url:D011537
+CANDIDATE	id:11537	inCount:6	outCount:2	links:3922;9202;5767;20258;8232;743	url:D011537	name:Pruritus	normalName:pruritus	normalWikiTitle:pruritus	predictedType:Disease
+ENTITY	text:hemolytic anemia	normalName:hemolytic anemia	predictedType:disease	q:true	qid:Q11	docId:10743694	origText:hemolytic anemia	url:D000743
+CANDIDATE	id:743	inCount:20	outCount:1	links:3922;9202;20258;5767;8232;11537	url:D000743	name:Anemia, Hemolytic	normalName:anemia, hemolytic	normalWikiTitle:anemia, hemolytic	predictedType:Disease
+ENTITY	text:gastrointestinal (GI) toxicity	normalName:gastrointestinal (gi) toxicity	predictedType:disease	q:true	qid:Q11	docId:10743694	origText:gastrointestinal (GI) toxicity	url:D005767
+CANDIDATE	id:5767	inCount:12	outCount:1	links:3922;9202;20258;8232;11537;743	url:D005767	name:Gastrointestinal Diseases	normalName:gastrointestinal diseases	normalWikiTitle:gastrointestinal diseases	predictedType:Disease
+CANDIDATE	id:14385	inCount:0	outCount:2	links:	url:D014385	name:Tuberculosis, Gastrointestinal	normalName:tuberculosis, gastrointestinal	normalWikiTitle:tuberculosis, gastrointestinal	predictedType:Disease
+CANDIDATE	id:46152	inCount:2	outCount:2	links:	url:D046152	name:Gastrointestinal Stromal Tumors	normalName:gastrointestinal stromal tumors	normalWikiTitle:gastrointestinal stromal tumors	predictedType:Disease
+CANDIDATE	id:5770	inCount:7	outCount:2	links:	url:D005770	name:Gastrointestinal Neoplasms	normalName:gastrointestinal neoplasms	normalWikiTitle:gastrointestinal neoplasms	predictedType:Disease
+CANDIDATE	id:6471	inCount:3	outCount:2	links:	url:D006471	name:Gastrointestinal Hemorrhage	normalName:gastrointestinal hemorrhage	normalWikiTitle:gastrointestinal hemorrhage	predictedType:Disease
+CANDIDATE	id:571911	inCount:0	outCount:2	links:	url:C571911	name:Gastrointestinal anthrax	normalName:gastrointestinal anthrax	normalWikiTitle:gastrointestinal anthrax	predictedType:Disease
+CANDIDATE	id:7411	inCount:8	outCount:2	links:	url:D007411	name:Intestinal Diseases, Parasitic	normalName:intestinal diseases, parasitic	normalWikiTitle:intestinal diseases, parasitic	predictedType:Disease
+CANDIDATE	id:180000	inCount:0	outCount:2	links:	url:180000	name:RETINAL ARTERIES, TORTUOSITY OF	normalName:retinal arteries, tortuosity of	normalWikiTitle:retinal arteries, tortuosity of	predictedType:Disease
+CANDIDATE	id:531849	inCount:0	outCount:1	links:	url:C531849	name:Intestinal lipophagic granulomatosis	normalName:intestinal lipophagic granulomatosis	normalWikiTitle:intestinal lipophagic granulomatosis	predictedType:Disease
+CANDIDATE	id:538058	inCount:0	outCount:1	links:	url:C538058	name:Aganglionosis, total intestinal	normalName:aganglionosis, total intestinal	normalWikiTitle:aganglionosis, total intestinal	predictedType:Disease
+CANDIDATE	id:535740	inCount:0	outCount:1	links:	url:C535740	name:CDG, GASTROINTESTINAL TYPE	normalName:cdg, gastrointestinal type	normalWikiTitle:cdg, gastrointestinal type	predictedType:Disease
+ENTITY	text:cardiomyopathy	normalName:cardiomyopathy	predictedType:disease	q:true	qid:Q11	docId:10743694	origText:cardiomyopathy	url:D009202
+CANDIDATE	id:9202	inCount:37	outCount:1	links:3922;66126;20258;5767;8232;11537;743	url:D009202	name:Cardiomyopathy	normalName:cardiomyopathy	normalWikiTitle:cardiomyopathy	predictedType:Disease
+ENTITY	text:(insulin-dependent) diabetes mellitus	normalName:(insulin-dependent) diabetes mellitus	predictedType:disease	q:true	qid:Q11	docId:10743694	origText:(insulin-dependent) diabetes mellitus	url:D003922
+CANDIDATE	id:3922	inCount:26	outCount:2	links:3922;9202;5767;20258;8232;11537;743	url:D003922	name:Diabetes Mellitus, Insulin-Dependent	normalName:diabetes mellitus, insulin-dependent	normalWikiTitle:diabetes mellitus, insulin-dependent	predictedType:Disease

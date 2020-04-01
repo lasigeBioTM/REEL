@@ -1,0 +1,21 @@
+ENTITY	text:choline	normalName:choline	predictedType:chemical	q:true	qid:Q1246	docId:16428827	origText:choline	url:D002794
+CANDIDATE	id:2794	inCount:102	outCount:3	links:	url:D002794	name:Choline	normalName:choline	normalWikiTitle:choline	predictedType:Chemical
+ENTITY	text:4',7-dihydroxy-isoflavone	normalName:4',7-dihydroxy-isoflavone	predictedType:chemical	q:true	qid:Q1246	docId:16428827	origText:4',7-dihydroxy-isoflavone	url:C004742
+CANDIDATE	id:4742	inCount:0	outCount:1	links:	url:C004742	name:7,4'-dihydroxyisoflavone	normalName:7,4'-dihydroxyisoflavone	normalWikiTitle:7,4'-dihydroxyisoflavone	predictedType:Chemical
+CANDIDATE	id:85172	inCount:0	outCount:1	links:	url:C085172	name:4',7-dihydroxyflavone	normalName:4',7-dihydroxyflavone	normalWikiTitle:4',7-dihydroxyflavone	predictedType:Chemical
+CANDIDATE	id:618353	inCount:0	outCount:1	links:	url:C000618353	name:7,4'-dihydroxyflavone	normalName:7,4'-dihydroxyflavone	normalWikiTitle:7,4'-dihydroxyflavone	predictedType:Chemical
+CANDIDATE	id:61214	inCount:0	outCount:1	links:	url:C061214	name:4',7,8-trihydroxyisoflavone	normalName:4',7,8-trihydroxyisoflavone	normalWikiTitle:4',7,8-trihydroxyisoflavone	predictedType:Chemical
+CANDIDATE	id:502165	inCount:0	outCount:1	links:	url:C502165	name:7,8,4'-trihydroxyisoflavone	normalName:7,8,4'-trihydroxyisoflavone	normalWikiTitle:7,8,4'-trihydroxyisoflavone	predictedType:Chemical
+CANDIDATE	id:506346	inCount:0	outCount:1	links:	url:C506346	name:2',4',7-trihydroxyisoflavone	normalName:2',4',7-trihydroxyisoflavone	normalWikiTitle:2',4',7-trihydroxyisoflavone	predictedType:Chemical
+CANDIDATE	id:582365	inCount:0	outCount:1	links:	url:C582365	name:7-hydroxyisoflavone	normalName:7-hydroxyisoflavone	normalWikiTitle:7-hydroxyisoflavone	predictedType:Chemical
+CANDIDATE	id:61213	inCount:0	outCount:1	links:	url:C061213	name:3',4',7-trihydroxyisoflavone	normalName:3',4',7-trihydroxyisoflavone	normalWikiTitle:3',4',7-trihydroxyisoflavone	predictedType:Chemical
+CANDIDATE	id:502164	inCount:0	outCount:1	links:	url:C502164	name:6,7,4'-trihydroxyisoflavone	normalName:6,7,4'-trihydroxyisoflavone	normalWikiTitle:6,7,4'-trihydroxyisoflavone	predictedType:Chemical
+CANDIDATE	id:58142	inCount:0	outCount:1	links:	url:C058142	name:3',7-dihydroxyisoflavan	normalName:3',7-dihydroxyisoflavan	normalWikiTitle:3',7-dihydroxyisoflavan	predictedType:Chemical
+CANDIDATE	id:422925	inCount:0	outCount:1	links:	url:C422925	name:3,7-dihydroxyflavone	normalName:3,7-dihydroxyflavone	normalWikiTitle:3,7-dihydroxyflavone	predictedType:Chemical
+CANDIDATE	id:7610	inCount:0	outCount:1	links:	url:C007610	name:4',7-dihydroxyisoflavane	normalName:4',7-dihydroxyisoflavane	normalWikiTitle:4',7-dihydroxyisoflavane	predictedType:Chemical
+ENTITY	text:Daidzein	normalName:daidzein	predictedType:chemical	q:true	qid:Q1246	docId:16428827	origText:Daidzein	url:C004742
+CANDIDATE	id:4742	inCount:0	outCount:1	links:	url:C004742	name:daidzein	normalName:daidzein	normalWikiTitle:daidzein	predictedType:Chemical
+ENTITY	text:acetylcholine	normalName:acetylcholine	predictedType:chemical	q:true	qid:Q1246	docId:16428827	origText:acetylcholine	url:D000109
+CANDIDATE	id:109	inCount:23	outCount:1	links:	url:D000109	name:Acetylcholine	normalName:acetylcholine	normalWikiTitle:acetylcholine	predictedType:Chemical
+ENTITY	text:scopolamine	normalName:scopolamine	predictedType:chemical	q:true	qid:Q1246	docId:16428827	origText:scopolamine	url:D012601
+CANDIDATE	id:12601	inCount:3	outCount:2	links:	url:D012601	name:Scopolamine	normalName:scopolamine	normalWikiTitle:scopolamine	predictedType:Chemical

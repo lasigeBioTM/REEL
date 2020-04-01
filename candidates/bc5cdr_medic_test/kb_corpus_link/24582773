@@ -1,0 +1,45 @@
+ENTITY	text:substance abuse disorder	normalName:substance abuse disorder	predictedType:disease	q:true	qid:Q225	docId:24582773	origText:substance abuse disorder	url:D019966
+CANDIDATE	id:19966	inCount:15	outCount:2	links:	url:D019966	name:Substance-Related Disorders	normalName:substance-related disorders	normalWikiTitle:substance-related disorders	predictedType:Disease
+CANDIDATE	id:75067	inCount:0	outCount:1	links:	url:D000075067	name:Substance Abuse, Oral	normalName:substance abuse, oral	normalWikiTitle:substance abuse, oral	predictedType:Disease
+CANDIDATE	id:15819	inCount:0	outCount:1	links:	url:D015819	name:Substance Abuse, Intravenous	normalName:substance abuse, intravenous	normalWikiTitle:substance abuse, intravenous	predictedType:Disease
+CANDIDATE	id:275	inCount:0	outCount:1	links:	url:D000275	name:Adjustment Disorders	normalName:adjustment disorders	normalWikiTitle:adjustment disorders	predictedType:Disease
+CANDIDATE	id:40701	inCount:0	outCount:1	links:	url:D040701	name:Stress Disorders, Traumatic, Acute	normalName:stress disorders, traumatic, acute	normalWikiTitle:stress disorders, traumatic, acute	predictedType:Disease
+CANDIDATE	id:20921	inCount:2	outCount:1	links:	url:D020921	name:Sleep Arousal Disorders	normalName:sleep arousal disorders	normalWikiTitle:sleep arousal disorders	predictedType:Disease
+CANDIDATE	id:16584	inCount:2	outCount:1	links:1008	url:D016584	name:Panic Disorder	normalName:panic disorder	normalWikiTitle:panic disorder	predictedType:Disease
+CANDIDATE	id:11605	inCount:1	outCount:3	links:987;1714	url:D011605	name:Psychoses, Substance-Induced	normalName:psychoses, substance-induced	normalWikiTitle:psychoses, substance-induced	predictedType:Disease
+CANDIDATE	id:67877	inCount:2	outCount:1	links:	url:D000067877	name:Autism Spectrum Disorder	normalName:autism spectrum disorder	normalWikiTitle:autism spectrum disorder	predictedType:Disease
+CANDIDATE	id:13651	inCount:3	outCount:1	links:	url:D013651	name:Taste Disorders	normalName:taste disorders	normalWikiTitle:taste disorders	predictedType:Disease
+ENTITY	text:personality disorder	normalName:personality disorder	predictedType:disease	q:true	qid:Q225	docId:24582773	origText:personality disorder	url:D010554
+CANDIDATE	id:10554	inCount:10	outCount:1	links:	url:D010554	name:Personality Disorder	normalName:personality disorder	normalWikiTitle:personality disorder	predictedType:Disease
+ENTITY	text:antisocial disorder	normalName:antisocial disorder	predictedType:disease	q:true	qid:Q225	docId:24582773	origText:antisocial disorder	url:D000987
+CANDIDATE	id:987	inCount:0	outCount:1	links:11605;1714	url:D000987	name:Antisocial Personality Disorder	normalName:antisocial personality disorder	normalWikiTitle:antisocial personality disorder	predictedType:Disease
+CANDIDATE	id:1321	inCount:7	outCount:1	links:	url:D001321	name:Autistic Disorder	normalName:autistic disorder	normalWikiTitle:autistic disorder	predictedType:Disease
+CANDIDATE	id:2653	inCount:1	outCount:1	links:	url:D002653	name:Child Behavior Disorders	normalName:child behavior disorders	normalWikiTitle:child behavior disorders	predictedType:Disease
+CANDIDATE	id:1714	inCount:11	outCount:1	links:11605;1714	url:D001714	name:Bipolar Disorder	normalName:bipolar disorder	normalWikiTitle:bipolar disorder	predictedType:Disease
+CANDIDATE	id:3072	inCount:8	outCount:1	links:	url:D003072	name:Cognition Disorders	normalName:cognition disorders	normalWikiTitle:cognition disorders	predictedType:Disease
+CANDIDATE	id:1184	inCount:1	outCount:1	links:	url:D001184	name:Articulation Disorders	normalName:articulation disorders	normalWikiTitle:articulation disorders	predictedType:Disease
+CANDIDATE	id:1008	inCount:7	outCount:1	links:16584	url:D001008	name:Anxiety Disorders	normalName:anxiety disorders	normalWikiTitle:anxiety disorders	predictedType:Disease
+CANDIDATE	id:17271	inCount:2	outCount:2	links:	url:D017271	name:Craniomandibular Disorders	normalName:craniomandibular disorders	normalWikiTitle:craniomandibular disorders	predictedType:Disease
+CANDIDATE	id:425	inCount:2	outCount:2	links:	url:D000425	name:Alcohol Amnestic Disorder	normalName:alcohol amnestic disorder	normalWikiTitle:alcohol amnestic disorder	predictedType:Disease
+CANDIDATE	id:3130	inCount:0	outCount:1	links:	url:D003130	name:Combat Disorders	normalName:combat disorders	normalWikiTitle:combat disorders	predictedType:Disease
+CANDIDATE	id:12002	inCount:9	outCount:1	links:	url:D012002	name:Anorectal Disorder	normalName:anorectal disorder	normalWikiTitle:anorectal disorder	predictedType:Disease
+CANDIDATE	id:12002	inCount:9	outCount:1	links:	url:D012002	name:Anorectal Disorders	normalName:anorectal disorders	normalWikiTitle:anorectal disorders	predictedType:Disease
+ENTITY	text:manic	normalName:manic	predictedType:disease	q:true	qid:Q225	docId:24582773	origText:manic	url:D001714
+CANDIDATE	id:1714	inCount:11	outCount:1	links:11605;1714	url:D001714	name:Manias	normalName:manias	normalWikiTitle:manias	predictedType:Disease
+CANDIDATE	id:7565	inCount:5	outCount:2	links:	url:D007565	name:Jaundice	normalName:jaundice	normalWikiTitle:jaundice	predictedType:Disease
+CANDIDATE	id:8548	inCount:4	outCount:1	links:	url:D008548	name:Melanosis	normalName:melanosis	normalWikiTitle:melanosis	predictedType:Disease
+CANDIDATE	id:1002	inCount:0	outCount:2	links:	url:D001002	name:Anuria	normalName:anuria	normalWikiTitle:anuria	predictedType:Disease
+CANDIDATE	id:849	inCount:0	outCount:1	links:	url:D000849	name:Anomia	normalName:anomia	normalWikiTitle:anomia	predictedType:Disease
+CANDIDATE	id:740	inCount:14	outCount:1	links:	url:D000740	name:Anemia	normalName:anemia	normalWikiTitle:anemia	predictedType:Disease
+CANDIDATE	id:59373	inCount:0	outCount:1	links:	url:D059373	name:Mastodynia	normalName:mastodynia	normalWikiTitle:mastodynia	predictedType:Disease
+CANDIDATE	id:15875	inCount:0	outCount:1	links:	url:D015875	name:Anisocoria	normalName:anisocoria	normalWikiTitle:anisocoria	predictedType:Disease
+CANDIDATE	id:6391	inCount:14	outCount:1	links:	url:D006391	name:Hemangioma	normalName:hemangioma	normalWikiTitle:hemangioma	predictedType:Disease
+CANDIDATE	id:535983	inCount:0	outCount:1	links:	url:C535983	name:ANIC	normalName:anic	normalWikiTitle:anic	predictedType:Disease
+CANDIDATE	id:1714	inCount:11	outCount:1	links:11605;1714	url:D001714	name:Mania	normalName:mania	normalWikiTitle:mania	predictedType:Disease
+CANDIDATE	id:58540	inCount:0	outCount:4	links:	url:D058540	name:AIC	normalName:aic	normalWikiTitle:aic	predictedType:Disease
+CANDIDATE	id:537984	inCount:0	outCount:1	links:	url:C537984	name:HMSNIC	normalName:hmsnic	normalWikiTitle:hmsnic	predictedType:Disease
+CANDIDATE	id:565737	inCount:0	outCount:1	links:	url:C565737	name:NAIC	normalName:naic	normalWikiTitle:naic	predictedType:Disease
+CANDIDATE	id:537555	inCount:0	outCount:2	links:	url:C537555	name:MHAC	normalName:mhac	normalWikiTitle:mhac	predictedType:Disease
+CANDIDATE	id:20386	inCount:0	outCount:2	links:	url:D020386	name:NMAN	normalName:nman	normalWikiTitle:nman	predictedType:Disease
+CANDIDATE	id:613376	inCount:0	outCount:1	links:	url:613376	name:HMN IIC	normalName:hmn iic	normalWikiTitle:hmn iic	predictedType:Disease
+CANDIDATE	id:614298	inCount:0	outCount:2	links:	url:614298	name:MPAN	normalName:mpan	normalWikiTitle:mpan	predictedType:Disease

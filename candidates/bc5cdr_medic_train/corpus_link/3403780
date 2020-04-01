@@ -1,0 +1,4 @@
+ENTITY	text:coma	normalName:coma	predictedType:disease	q:true	qid:Q498	docId:3403780	origText:coma	url:D003128
+CANDIDATE	id:3128	inCount:3	outCount:1	links:	url:D003128	name:Coma	normalName:coma	normalWikiTitle:coma	predictedType:Disease
+ENTITY	text:metabolic acidosis	normalName:metabolic acidosis	predictedType:disease	q:true	qid:Q498	docId:3403780	origText:metabolic acidosis	url:D000138
+CANDIDATE	id:138	inCount:7	outCount:1	links:	url:D000138	name:Acidosis, Metabolic	normalName:acidosis, metabolic	normalWikiTitle:acidosis, metabolic	predictedType:Disease

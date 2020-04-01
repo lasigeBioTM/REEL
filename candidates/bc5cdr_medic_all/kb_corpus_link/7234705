@@ -1,0 +1,23 @@
+ENTITY	text:syncope	normalName:syncope	predictedType:disease	q:true	qid:Q1272	docId:7234705	origText:syncope	url:D013575
+CANDIDATE	id:13575	inCount:2	outCount:1	links:8133	url:D013575	name:Syncope	normalName:syncope	normalWikiTitle:syncope	predictedType:Disease
+ENTITY	text:ventricular fibrillation	normalName:ventricular fibrillation	predictedType:disease	q:true	qid:Q1272	docId:7234705	origText:ventricular fibrillation	url:D014693
+CANDIDATE	id:14693	inCount:3	outCount:1	links:17180;18879;8133	url:D014693	name:Ventricular Fibrillation	normalName:ventricular fibrillation	normalWikiTitle:ventricular fibrillation	predictedType:Disease
+ENTITY	text:arrhythmia	normalName:arrhythmia	predictedType:disease	q:true	qid:Q1272	docId:7234705	origText:arrhythmia	url:D001145
+CANDIDATE	id:1145	inCount:27	outCount:2	links:17180	url:D001145	name:Arrhythmia	normalName:arrhythmia	normalWikiTitle:arrhythmia	predictedType:Disease
+ENTITY	text:premature ventricular contractions	normalName:premature ventricular contractions	predictedType:disease	q:true	qid:Q1272	docId:7234705	origText:premature ventricular contractions	url:D018879
+CANDIDATE	id:18879	inCount:1	outCount:1	links:17180;14693	url:D018879	name:Premature Ventricular Contraction	normalName:premature ventricular contraction	normalWikiTitle:premature ventricular contraction	predictedType:Disease
+ENTITY	text:prolonged Q-T syndrome	normalName:prolonged q-t syndrome	predictedType:disease	q:true	qid:Q1272	docId:7234705	origText:prolonged Q-T syndrome	url:D008133
+CANDIDATE	id:8133	inCount:20	outCount:3	links:14693;13575	url:D008133	name:Long QT Syndrome	normalName:long qt syndrome	normalWikiTitle:long qt syndrome	predictedType:Disease
+CANDIDATE	id:11045	inCount:0	outCount:1	links:	url:D011045	name:Poland Syndrome	normalName:poland syndrome	normalWikiTitle:poland syndrome	predictedType:Disease
+CANDIDATE	id:537034	inCount:0	outCount:2	links:	url:C537034	name:Long QT syndrome type 3	normalName:long qt syndrome type 3	normalWikiTitle:long qt syndrome type 3	predictedType:Disease
+CANDIDATE	id:566766	inCount:0	outCount:1	links:	url:C566766	name:Long Qt Syndrome 5	normalName:long qt syndrome 5	normalWikiTitle:long qt syndrome 5	predictedType:Disease
+CANDIDATE	id:566333	inCount:0	outCount:1	links:	url:C566333	name:Long Qt Syndrome 6	normalName:long qt syndrome 6	normalWikiTitle:long qt syndrome 6	predictedType:Disease
+CANDIDATE	id:567515	inCount:0	outCount:1	links:	url:C567515	name:Long Qt Syndrome 9	normalName:long qt syndrome 9	normalWikiTitle:long qt syndrome 9	predictedType:Disease
+CANDIDATE	id:565840	inCount:0	outCount:1	links:	url:C565840	name:Long Qt Syndrome 3	normalName:long qt syndrome 3	normalWikiTitle:long qt syndrome 3	predictedType:Disease
+CANDIDATE	id:563428	inCount:0	outCount:1	links:	url:C563428	name:Long Qt Syndrome 4	normalName:long qt syndrome 4	normalWikiTitle:long qt syndrome 4	predictedType:Disease
+CANDIDATE	id:563614	inCount:0	outCount:1	links:	url:C563614	name:Long Qt Syndrome 2	normalName:long qt syndrome 2	normalWikiTitle:long qt syndrome 2	predictedType:Disease
+CANDIDATE	id:535810	inCount:0	outCount:2	links:	url:C535810	name:Moloney syndrome	normalName:moloney syndrome	normalWikiTitle:moloney syndrome	predictedType:Disease
+ENTITY	text:atrial flutter	normalName:atrial flutter	predictedType:disease	q:true	qid:Q1272	docId:7234705	origText:atrial flutter	url:D001282
+CANDIDATE	id:1282	inCount:0	outCount:1	links:	url:D001282	name:Atrial Flutter	normalName:atrial flutter	normalWikiTitle:atrial flutter	predictedType:Disease
+ENTITY	text:ventricular tachycardia	normalName:ventricular tachycardia	predictedType:disease	q:true	qid:Q1272	docId:7234705	origText:ventricular tachycardia	url:D017180
+CANDIDATE	id:17180	inCount:4	outCount:1	links:18879;1145;14693	url:D017180	name:Tachycardia, Ventricular	normalName:tachycardia, ventricular	normalWikiTitle:tachycardia, ventricular	predictedType:Disease

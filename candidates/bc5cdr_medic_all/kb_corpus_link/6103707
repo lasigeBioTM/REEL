@@ -1,0 +1,4 @@
+ENTITY	text:Dizziness	normalName:dizziness	predictedType:disease	q:true	qid:Q129	docId:6103707	origText:Dizziness	url:D004244
+CANDIDATE	id:4244	inCount:1	outCount:1	links:10146	url:D004244	name:Dizziness	normalName:dizziness	normalWikiTitle:dizziness	predictedType:Disease
+ENTITY	text:pain	normalName:pain	predictedType:disease	q:true	qid:Q129	docId:6103707	origText:pain	url:D010146
+CANDIDATE	id:10146	inCount:34	outCount:1	links:4244	url:D010146	name:Pain	normalName:pain	normalWikiTitle:pain	predictedType:Disease

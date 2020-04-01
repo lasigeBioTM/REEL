@@ -1,0 +1,16 @@
+ENTITY	text:blood coagulation	normalName:blood coagulation	predictedType:disease	q:true	qid:Q1195	docId:10193204	origText:blood coagulation	url:D001778
+CANDIDATE	id:1778	inCount:21	outCount:1	links:	url:D001778	name:Coagulation Disorder, Blood	normalName:coagulation disorder, blood	normalWikiTitle:coagulation disorder, blood	predictedType:Disease
+CANDIDATE	id:1778	inCount:21	outCount:1	links:	url:D001778	name:Blood Coagulation Disorders	normalName:blood coagulation disorders	normalWikiTitle:blood coagulation disorders	predictedType:Disease
+CANDIDATE	id:25861	inCount:32	outCount:2	links:	url:D025861	name:Blood Coagulation Disorders, Inherited	normalName:blood coagulation disorders, inherited	normalWikiTitle:blood coagulation disorders, inherited	predictedType:Disease
+CANDIDATE	id:20256	inCount:0	outCount:2	links:	url:D020256	name:Choroidal Neovascularization	normalName:choroidal neovascularization	normalWikiTitle:choroidal neovascularization	predictedType:Disease
+CANDIDATE	id:5549	inCount:2	outCount:2	links:	url:D005549	name:Foreign-Body Reaction	normalName:foreign-body reaction	normalWikiTitle:foreign-body reaction	predictedType:Disease
+CANDIDATE	id:858	inCount:0	outCount:1	links:	url:D000858	name:Anovulation	normalName:anovulation	normalWikiTitle:anovulation	predictedType:Disease
+CANDIDATE	id:1017	inCount:3	outCount:1	links:	url:D001017	name:Aortic Coarctation	normalName:aortic coarctation	normalWikiTitle:aortic coarctation	predictedType:Disease
+CANDIDATE	id:857	inCount:18	outCount:1	links:	url:D000857	name:Olfaction Disorders	normalName:olfaction disorders	normalWikiTitle:olfaction disorders	predictedType:Disease
+CANDIDATE	id:5548	inCount:2	outCount:1	links:	url:D005548	name:Foreign-Body Migration	normalName:foreign-body migration	normalWikiTitle:foreign-body migration	predictedType:Disease
+CANDIDATE	id:7906	inCount:1	outCount:1	links:	url:D007906	name:Lens Subluxation	normalName:lens subluxation	normalWikiTitle:lens subluxation	predictedType:Disease
+CANDIDATE	id:49248	inCount:0	outCount:1	links:	url:D049248	name:Decapitation	normalName:decapitation	normalWikiTitle:decapitation	predictedType:Disease
+CANDIDATE	id:1778	inCount:21	outCount:1	links:	url:D001778	name:Blood Coagulation Disorder	normalName:blood coagulation disorder	normalWikiTitle:blood coagulation disorder	predictedType:Disease
+CANDIDATE	id:1778	inCount:21	outCount:1	links:	url:D001778	name:Disorder, Blood Coagulation	normalName:disorder, blood coagulation	normalWikiTitle:disorder, blood coagulation	predictedType:Disease
+ENTITY	text:thrombosis	normalName:thrombosis	predictedType:disease	q:true	qid:Q1195	docId:10193204	origText:thrombosis	url:D013927
+CANDIDATE	id:13927	inCount:4	outCount:1	links:	url:D013927	name:Thrombosis	normalName:thrombosis	normalWikiTitle:thrombosis	predictedType:Disease

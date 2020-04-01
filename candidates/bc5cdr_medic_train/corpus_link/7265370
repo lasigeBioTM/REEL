@@ -1,0 +1,4 @@
+ENTITY	text:hypertension	normalName:hypertension	predictedType:disease	q:true	qid:Q193	docId:7265370	origText:hypertension	url:D006973
+CANDIDATE	id:6973	inCount:18	outCount:1	links:	url:D006973	name:Hypertension	normalName:hypertension	normalWikiTitle:hypertension	predictedType:Disease
+ENTITY	text:nephrolithiasis	normalName:nephrolithiasis	predictedType:disease	q:true	qid:Q193	docId:7265370	origText:nephrolithiasis	url:D053040
+CANDIDATE	id:53040	inCount:9	outCount:2	links:	url:D053040	name:Nephrolithiasis	normalName:nephrolithiasis	normalWikiTitle:nephrolithiasis	predictedType:Disease

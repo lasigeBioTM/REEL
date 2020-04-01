@@ -1,0 +1,4 @@
+ENTITY	text:cyclosporin A	normalName:cyclosporin a	predictedType:chemical	q:true	qid:Q570	docId:3865016	origText:cyclosporin A	url:D016572
+CANDIDATE	id:16572	inCount:14	outCount:1	links:5047	url:D016572	name:Cyclosporin A	normalName:cyclosporin a	normalWikiTitle:cyclosporin a	predictedType:Chemical
+ENTITY	text:etoposide	normalName:etoposide	predictedType:chemical	q:true	qid:Q570	docId:3865016	origText:etoposide	url:D005047
+CANDIDATE	id:5047	inCount:303	outCount:2	links:16572	url:D005047	name:Etoposide	normalName:etoposide	normalWikiTitle:etoposide	predictedType:Chemical

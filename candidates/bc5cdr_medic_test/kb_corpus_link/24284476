@@ -1,0 +1,4 @@
+ENTITY	text:memory loss	normalName:memory loss	predictedType:disease	q:true	qid:Q334	docId:24284476	origText:memory loss	url:D008569
+CANDIDATE	id:8569	inCount:2	outCount:1	links:647	url:D008569	name:Memory Loss	normalName:memory loss	normalWikiTitle:memory loss	predictedType:Disease
+ENTITY	text:amnesia	normalName:amnesia	predictedType:disease	q:true	qid:Q334	docId:24284476	origText:amnesia	url:D000647
+CANDIDATE	id:647	inCount:4	outCount:2	links:8569	url:D000647	name:Amnesia	normalName:amnesia	normalWikiTitle:amnesia	predictedType:Disease

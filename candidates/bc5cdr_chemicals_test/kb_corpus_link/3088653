@@ -1,0 +1,17 @@
+ENTITY	text:methyl scopolamine	normalName:methyl scopolamine	predictedType:chemical	q:true	qid:Q182	docId:3088653	origText:methyl scopolamine	url:D019832
+CANDIDATE	id:19832	inCount:0	outCount:1	links:	url:D019832	name:N-Methylscopolamine	normalName:n-methylscopolamine	normalWikiTitle:n-methylscopolamine	predictedType:Chemical
+CANDIDATE	id:483319	inCount:0	outCount:1	links:	url:C483319	name:methylproamine	normalName:methylproamine	normalWikiTitle:methylproamine	predictedType:Chemical
+CANDIDATE	id:17506	inCount:0	outCount:1	links:	url:C017506	name:methylcholine	normalName:methylcholine	normalWikiTitle:methylcholine	predictedType:Chemical
+CANDIDATE	id:12601	inCount:3	outCount:2	links:12601;9020	url:D012601	name:Scopolamine	normalName:scopolamine	normalWikiTitle:scopolamine	predictedType:Chemical
+CANDIDATE	id:27451	inCount:0	outCount:1	links:	url:C027451	name:methylamine	normalName:methylamine	normalWikiTitle:methylamine	predictedType:Chemical
+CANDIDATE	id:450701	inCount:0	outCount:1	links:	url:C450701	name:ethylcobalamin	normalName:ethylcobalamin	normalWikiTitle:ethylcobalamin	predictedType:Chemical
+CANDIDATE	id:410154	inCount:0	outCount:1	links:	url:C410154	name:methyl vancosaminide	normalName:methyl vancosaminide	normalWikiTitle:methyl vancosaminide	predictedType:Chemical
+CANDIDATE	id:40637	inCount:0	outCount:1	links:	url:C040637	name:6-methylscoparone	normalName:6-methylscoparone	normalWikiTitle:6-methylscoparone	predictedType:Chemical
+CANDIDATE	id:40638	inCount:0	outCount:1	links:	url:C040638	name:7-methylscoparone	normalName:7-methylscoparone	normalWikiTitle:7-methylscoparone	predictedType:Chemical
+CANDIDATE	id:535000	inCount:0	outCount:1	links:	url:C535000	name:methyl sarcophytoate	normalName:methyl sarcophytoate	normalWikiTitle:methyl sarcophytoate	predictedType:Chemical
+ENTITY	text:morphine	normalName:morphine	predictedType:chemical	q:true	qid:Q182	docId:3088653	origText:morphine	url:D009020
+CANDIDATE	id:9020	inCount:13	outCount:1	links:12601	url:D009020	name:Morphine	normalName:morphine	normalWikiTitle:morphine	predictedType:Chemical
+ENTITY	text:scopolamine	normalName:scopolamine	predictedType:chemical	q:true	qid:Q182	docId:3088653	origText:scopolamine	url:D012601
+CANDIDATE	id:12601	inCount:3	outCount:2	links:12601;9020	url:D012601	name:Scopolamine	normalName:scopolamine	normalWikiTitle:scopolamine	predictedType:Chemical
+ENTITY	text:naloxone	normalName:naloxone	predictedType:chemical	q:true	qid:Q182	docId:3088653	origText:naloxone	url:D009270
+CANDIDATE	id:9270	inCount:20	outCount:1	links:	url:D009270	name:Naloxone	normalName:naloxone	normalWikiTitle:naloxone	predictedType:Chemical

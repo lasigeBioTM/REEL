@@ -1,0 +1,64 @@
+ENTITY	text:epicardial coronary disease	normalName:epicardial coronary disease	predictedType:disease	q:true	qid:Q426	docId:19300240	origText:epicardial coronary disease	url:D003327
+CANDIDATE	id:3327	inCount:7	outCount:1	links:	url:D003327	name:Heart Diseases, Coronary	normalName:heart diseases, coronary	normalWikiTitle:heart diseases, coronary	predictedType:Disease
+CANDIDATE	id:3327	inCount:7	outCount:1	links:	url:D003327	name:Coronary Disease	normalName:coronary disease	normalWikiTitle:coronary disease	predictedType:Disease
+CANDIDATE	id:536215	inCount:0	outCount:1	links:	url:C536215	name:Pediatric Crohn's disease	normalName:pediatric crohn's disease	normalWikiTitle:pediatric crohn's disease	predictedType:Disease
+CANDIDATE	id:13118	inCount:16	outCount:1	links:	url:D013118	name:Spinal Cord Diseases	normalName:spinal cord diseases	normalWikiTitle:spinal cord diseases	predictedType:Disease
+CANDIDATE	id:3324	inCount:4	outCount:2	links:	url:D003324	name:Coronary Artery Disease	normalName:coronary artery disease	normalWikiTitle:coronary artery disease	predictedType:Disease
+CANDIDATE	id:3109	inCount:3	outCount:1	links:	url:D003109	name:Colonic Diseases, Functional	normalName:colonic diseases, functional	normalWikiTitle:colonic diseases, functional	predictedType:Disease
+CANDIDATE	id:564895	inCount:0	outCount:2	links:	url:C564895	name:Pericardial Effusion, Chronic	normalName:pericardial effusion, chronic	normalWikiTitle:pericardial effusion, chronic	predictedType:Disease
+CANDIDATE	id:20758	inCount:1	outCount:2	links:	url:D020758	name:Spinal Cord Vascular Diseases	normalName:spinal cord vascular diseases	normalWikiTitle:spinal cord vascular diseases	predictedType:Disease
+CANDIDATE	id:3389	inCount:16	outCount:1	links:	url:D003389	name:Cranial Nerve Diseases	normalName:cranial nerve diseases	normalWikiTitle:cranial nerve diseases	predictedType:Disease
+CANDIDATE	id:17282	inCount:15	outCount:3	links:	url:D017282	name:Tick-Borne Diseases	normalName:tick-borne diseases	normalWikiTitle:tick-borne diseases	predictedType:Disease
+CANDIDATE	id:2372	inCount:0	outCount:3	links:	url:D002372	name:Cat-Scratch Disease	normalName:cat-scratch disease	normalWikiTitle:cat-scratch disease	predictedType:Disease
+CANDIDATE	id:3327	inCount:7	outCount:1	links:	url:D003327	name:Heart Disease, Coronary	normalName:heart disease, coronary	normalWikiTitle:heart disease, coronary	predictedType:Disease
+CANDIDATE	id:3327	inCount:7	outCount:1	links:	url:D003327	name:Coronary Heart Disease	normalName:coronary heart disease	normalWikiTitle:coronary heart disease	predictedType:Disease
+CANDIDATE	id:3327	inCount:7	outCount:1	links:	url:D003327	name:Disease, Coronary Heart	normalName:disease, coronary heart	normalWikiTitle:disease, coronary heart	predictedType:Disease
+CANDIDATE	id:3327	inCount:7	outCount:1	links:	url:D003327	name:Diseases, Coronary Heart	normalName:diseases, coronary heart	normalWikiTitle:diseases, coronary heart	predictedType:Disease
+CANDIDATE	id:3327	inCount:7	outCount:1	links:	url:D003327	name:Coronary Heart Diseases	normalName:coronary heart diseases	normalWikiTitle:coronary heart diseases	predictedType:Disease
+ENTITY	text:ischemic	normalName:ischemic	predictedType:disease	q:true	qid:Q426	docId:19300240	origText:ischemic	url:D007511
+CANDIDATE	id:7511	inCount:3	outCount:1	links:	url:D007511	name:Ischemia	normalName:ischemia	normalWikiTitle:ischemia	predictedType:Disease
+CANDIDATE	id:17091	inCount:0	outCount:2	links:	url:D017091	name:Colitis, Ischemic	normalName:colitis, ischemic	normalWikiTitle:colitis, ischemic	predictedType:Disease
+CANDIDATE	id:2545	inCount:4	outCount:1	links:	url:D002545	name:Brain Ischemia	normalName:brain ischemia	normalWikiTitle:brain ischemia	predictedType:Disease
+CANDIDATE	id:2057	inCount:0	outCount:1	links:	url:D002057	name:Burns, Chemical	normalName:burns, chemical	normalWikiTitle:burns, chemical	predictedType:Disease
+CANDIDATE	id:65666	inCount:0	outCount:3	links:	url:D065666	name:Mesenteric Ischemia	normalName:mesenteric ischemia	normalWikiTitle:mesenteric ischemia	predictedType:Disease
+CANDIDATE	id:17202	inCount:6	outCount:2	links:	url:D017202	name:Myocardial Ischemia	normalName:myocardial ischemia	normalWikiTitle:myocardial ischemia	predictedType:Disease
+CANDIDATE	id:54061	inCount:0	outCount:2	links:	url:D054061	name:Ischemic Contracture	normalName:ischemic contracture	normalWikiTitle:ischemic contracture	predictedType:Disease
+CANDIDATE	id:12216	inCount:9	outCount:2	links:	url:D012216	name:Rheumatic Diseases	normalName:rheumatic diseases	normalWikiTitle:rheumatic diseases	predictedType:Disease
+CANDIDATE	id:14766	inCount:1	outCount:2	links:	url:D014766	name:Viremia	normalName:viremia	normalWikiTitle:viremia	predictedType:Disease
+ENTITY	text:cancer	normalName:cancer	predictedType:disease	q:true	qid:Q426	docId:19300240	origText:cancer	url:D009369
+CANDIDATE	id:9369	inCount:18	outCount:1	links:	url:D009369	name:Cancer	normalName:cancer	normalWikiTitle:cancer	predictedType:Disease
+ENTITY	text:Cardiotoxicity	normalName:cardiotoxicity	predictedType:disease	q:true	qid:Q426	docId:19300240	origText:Cardiotoxicity	url:D066126
+CANDIDATE	id:66126	inCount:0	outCount:3	links:66126	url:D066126	name:Cardiotoxicity	normalName:cardiotoxicity	normalWikiTitle:cardiotoxicity	predictedType:Disease
+ENTITY	text:coronary vasospasm	normalName:coronary vasospasm	predictedType:disease	q:true	qid:Q426	docId:19300240	origText:coronary vasospasm	url:D003329
+CANDIDATE	id:3329	inCount:1	outCount:1	links:	url:D003329	name:Coronary Vasospasm	normalName:coronary vasospasm	normalWikiTitle:coronary vasospasm	predictedType:Disease
+ENTITY	text:colorectal cancer	normalName:colorectal cancer	predictedType:disease	q:true	qid:Q426	docId:19300240	origText:colorectal cancer	url:D015179
+CANDIDATE	id:15179	inCount:6	outCount:3	links:	url:D015179	name:Cancer, Colorectal	normalName:cancer, colorectal	normalWikiTitle:cancer, colorectal	predictedType:Disease
+ENTITY	text:apical ballooning syndrome	normalName:apical ballooning syndrome	predictedType:disease	q:true	qid:Q426	docId:19300240	origText:apical ballooning syndrome	url:D054549
+CANDIDATE	id:54549	inCount:1	outCount:1	links:	url:D054549	name:Syndrome, Apical Ballooning	normalName:syndrome, apical ballooning	normalWikiTitle:syndrome, apical ballooning	predictedType:Disease
+ENTITY	text:hyperkinesis	normalName:hyperkinesis	predictedType:disease	q:true	qid:Q426	docId:19300240	origText:hyperkinesis	url:D006948
+CANDIDATE	id:6948	inCount:1	outCount:1	links:	url:D006948	name:Hyperkinesis	normalName:hyperkinesis	normalWikiTitle:hyperkinesis	predictedType:Disease
+ENTITY	text:chest pain	normalName:chest pain	predictedType:disease	q:true	qid:Q426	docId:19300240	origText:chest pain	url:D002637
+CANDIDATE	id:2637	inCount:1	outCount:1	links:	url:D002637	name:Chest Pain	normalName:chest pain	normalWikiTitle:chest pain	predictedType:Disease
+ENTITY	text:cardiac complications	normalName:cardiac complications	predictedType:disease	q:true	qid:Q426	docId:19300240	origText:cardiac complications	url:D005117
+CANDIDATE	id:5117	inCount:3	outCount:2	links:	url:D005117	name:Cardiac Complexes, Premature	normalName:cardiac complexes, premature	normalWikiTitle:cardiac complexes, premature	predictedType:Disease
+CANDIDATE	id:11249	inCount:1	outCount:2	links:	url:D011249	name:Pregnancy Complications, Cardiovascular	normalName:pregnancy complications, cardiovascular	normalWikiTitle:pregnancy complications, cardiovascular	predictedType:Disease
+CANDIDATE	id:17191	inCount:5	outCount:1	links:	url:D017191	name:Ascaridida Infections	normalName:ascaridida infections	normalWikiTitle:ascaridida infections	predictedType:Disease
+CANDIDATE	id:1017	inCount:3	outCount:1	links:	url:D001017	name:Aortic Coarctation	normalName:aortic coarctation	normalWikiTitle:aortic coarctation	predictedType:Disease
+CANDIDATE	id:53821	inCount:3	outCount:2	links:	url:D053821	name:Cardiovascular Infections	normalName:cardiovascular infections	normalWikiTitle:cardiovascular infections	predictedType:Disease
+CANDIDATE	id:9202	inCount:37	outCount:1	links:	url:D009202	name:Cardiomyopathies	normalName:cardiomyopathies	normalWikiTitle:cardiomyopathies	predictedType:Disease
+CANDIDATE	id:115080	inCount:0	outCount:2	links:	url:115080	name:CARDIAC CONDUCTION DEFECT	normalName:cardiac conduction defect	normalWikiTitle:cardiac conduction defect	predictedType:Disease
+CANDIDATE	id:565884	inCount:0	outCount:2	links:	url:C565884	name:Cardiac Lipidosis, Familial	normalName:cardiac lipidosis, familial	normalWikiTitle:cardiac lipidosis, familial	predictedType:Disease
+CANDIDATE	id:2690	inCount:5	outCount:2	links:	url:D002690	name:Chlamydia Infections	normalName:chlamydia infections	normalWikiTitle:chlamydia infections	predictedType:Disease
+CANDIDATE	id:2305	inCount:0	outCount:1	links:	url:D002305	name:Cardiac Tamponade	normalName:cardiac tamponade	normalWikiTitle:cardiac tamponade	predictedType:Disease
+CANDIDATE	id:71956	inCount:1	outCount:2	links:	url:D000071956	name:Contusions, Cardiac	normalName:contusions, cardiac	normalWikiTitle:contusions, cardiac	predictedType:Disease
+CANDIDATE	id:71956	inCount:1	outCount:2	links:	url:D000071956	name:Cardiac Contusions	normalName:cardiac contusions	normalWikiTitle:cardiac contusions	predictedType:Disease
+CANDIDATE	id:56104	inCount:0	outCount:2	links:	url:D056104	name:Cardiac Concussions	normalName:cardiac concussions	normalWikiTitle:cardiac concussions	predictedType:Disease
+CANDIDATE	id:56104	inCount:0	outCount:2	links:	url:D056104	name:Concussions, Cardiac	normalName:concussions, cardiac	normalWikiTitle:concussions, cardiac	predictedType:Disease
+CANDIDATE	id:71956	inCount:1	outCount:2	links:	url:D000071956	name:Cardiac Contusion	normalName:cardiac contusion	normalWikiTitle:cardiac contusion	predictedType:Disease
+CANDIDATE	id:71956	inCount:1	outCount:2	links:	url:D000071956	name:Contusion, Cardiac	normalName:contusion, cardiac	normalWikiTitle:contusion, cardiac	predictedType:Disease
+CANDIDATE	id:66126	inCount:0	outCount:3	links:66126	url:D066126	name:Toxicities, Cardiac	normalName:toxicities, cardiac	normalWikiTitle:toxicities, cardiac	predictedType:Disease
+CANDIDATE	id:56104	inCount:0	outCount:2	links:	url:D056104	name:Concussion, Cardiac	normalName:concussion, cardiac	normalWikiTitle:concussion, cardiac	predictedType:Disease
+CANDIDATE	id:56104	inCount:0	outCount:2	links:	url:D056104	name:Cardiac Concussion	normalName:cardiac concussion	normalWikiTitle:cardiac concussion	predictedType:Disease
+CANDIDATE	id:66126	inCount:0	outCount:3	links:66126	url:D066126	name:Cardiac Toxicities	normalName:cardiac toxicities	normalWikiTitle:cardiac toxicities	predictedType:Disease
+ENTITY	text:thrombus	normalName:thrombus	predictedType:disease	q:true	qid:Q426	docId:19300240	origText:thrombus	url:D013927
+CANDIDATE	id:13927	inCount:4	outCount:1	links:	url:D013927	name:Thrombus	normalName:thrombus	normalWikiTitle:thrombus	predictedType:Disease

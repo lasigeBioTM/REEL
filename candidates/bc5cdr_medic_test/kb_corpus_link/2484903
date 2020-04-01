@@ -1,0 +1,15 @@
+ENTITY	text:hyperthyroidism	normalName:hyperthyroidism	predictedType:disease	q:true	qid:Q468	docId:2484903	origText:hyperthyroidism	url:D006980
+CANDIDATE	id:6980	inCount:6	outCount:1	links:	url:D006980	name:Hyperthyroidism	normalName:hyperthyroidism	normalWikiTitle:hyperthyroidism	predictedType:Disease
+ENTITY	text:hepatocellular necrosis	normalName:hepatocellular necrosis	predictedType:disease	q:true	qid:Q468	docId:2484903	origText:hepatocellular necrosis	url:D047508
+CANDIDATE	id:47508	inCount:0	outCount:1	links:	url:D047508	name:Massive Hepatic Necrosis	normalName:massive hepatic necrosis	normalWikiTitle:massive hepatic necrosis	predictedType:Disease
+CANDIDATE	id:5218	inCount:0	outCount:1	links:	url:D005218	name:Fat Necrosis	normalName:fat necrosis	normalWikiTitle:fat necrosis	predictedType:Disease
+CANDIDATE	id:14392	inCount:0	outCount:2	links:	url:D014392	name:Tuberculosis, Ocular	normalName:tuberculosis, ocular	normalWikiTitle:tuberculosis, ocular	predictedType:Disease
+CANDIDATE	id:20065	inCount:0	outCount:2	links:	url:D020065	name:Hepatopulmonary Syndrome	normalName:hepatopulmonary syndrome	normalWikiTitle:hepatopulmonary syndrome	predictedType:Disease
+CANDIDATE	id:14394	inCount:1	outCount:2	links:	url:D014394	name:Tuberculosis, Osteoarticular	normalName:tuberculosis, osteoarticular	normalWikiTitle:tuberculosis, osteoarticular	predictedType:Disease
+CANDIDATE	id:14386	inCount:0	outCount:2	links:	url:D014386	name:Tuberculosis, Hepatic	normalName:tuberculosis, hepatic	normalWikiTitle:tuberculosis, hepatic	predictedType:Disease
+CANDIDATE	id:507	inCount:0	outCount:3	links:	url:D000507	name:Mucinosis, Follicular	normalName:mucinosis, follicular	normalWikiTitle:mucinosis, follicular	predictedType:Disease
+CANDIDATE	id:6528	inCount:3	outCount:2	links:	url:D006528	name:Carcinoma, Hepatocellular	normalName:carcinoma, hepatocellular	normalWikiTitle:carcinoma, hepatocellular	predictedType:Disease
+CANDIDATE	id:9335	inCount:0	outCount:2	links:	url:D009335	name:Necrobiosis Lipoidica	normalName:necrobiosis lipoidica	normalWikiTitle:necrobiosis lipoidica	predictedType:Disease
+CANDIDATE	id:1474	inCount:3	outCount:1	links:	url:D001474	name:Bartonella Infections	normalName:bartonella infections	normalWikiTitle:bartonella infections	predictedType:Disease
+CANDIDATE	id:7673	inCount:0	outCount:1	links:	url:D007673	name:Glomerular Necrosis	normalName:glomerular necrosis	normalWikiTitle:glomerular necrosis	predictedType:Disease
+CANDIDATE	id:7673	inCount:0	outCount:1	links:	url:D007673	name:Necrosis, Glomerular	normalName:necrosis, glomerular	normalWikiTitle:necrosis, glomerular	predictedType:Disease

@@ -1,0 +1,6 @@
+ENTITY	text:isoproterenol	normalName:isoproterenol	predictedType:chemical	q:true	qid:Q937	docId:11897407	origText:isoproterenol	url:D007545
+CANDIDATE	id:7545	inCount:12	outCount:2	links:	url:D007545	name:Isoproterenol	normalName:isoproterenol	normalWikiTitle:isoproterenol	predictedType:Chemical
+ENTITY	text:glucaric acid	normalName:glucaric acid	predictedType:chemical	q:true	qid:Q937	docId:11897407	origText:glucaric acid	url:D005937
+CANDIDATE	id:5937	inCount:12	outCount:1	links:	url:D005937	name:Glucaric Acid	normalName:glucaric acid	normalWikiTitle:glucaric acid	predictedType:Chemical
+ENTITY	text:99mTc-glucarate	normalName:99mtc-glucarate	predictedType:chemical	q:true	qid:Q937	docId:11897407	origText:99mTc-glucarate	url:C067171
+CANDIDATE	id:67171	inCount:0	outCount:2	links:	url:C067171	name:99mTc glucarate	normalName:99mtc glucarate	normalWikiTitle:99mtc glucarate	predictedType:Chemical

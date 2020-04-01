@@ -1,0 +1,4 @@
+ENTITY	text:cocaine	normalName:cocaine	predictedType:chemical	q:true	qid:Q32	docId:18996674	origText:cocaine	url:D003042
+CANDIDATE	id:3042	inCount:89	outCount:1	links:	url:D003042	name:Cocaine	normalName:cocaine	normalWikiTitle:cocaine	predictedType:Chemical
+ENTITY	text:epinephrine	normalName:epinephrine	predictedType:chemical	q:true	qid:Q32	docId:18996674	origText:epinephrine	url:D004837
+CANDIDATE	id:4837	inCount:33	outCount:3	links:	url:D004837	name:Epinephrine	normalName:epinephrine	normalWikiTitle:epinephrine	predictedType:Chemical

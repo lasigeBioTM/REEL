@@ -1,0 +1,6 @@
+ENTITY	text:atracurium	normalName:atracurium	predictedType:chemical	q:true	qid:Q257	docId:8638206	origText:atracurium	url:D001279
+CANDIDATE	id:1279	inCount:1	outCount:1	links:1279	url:D001279	name:Atracurium	normalName:atracurium	normalWikiTitle:atracurium	predictedType:Chemical
+ENTITY	text:Atracurium besylate	normalName:atracurium besylate	predictedType:chemical	q:true	qid:Q257	docId:8638206	origText:Atracurium besylate	url:D001279
+CANDIDATE	id:1279	inCount:1	outCount:1	links:1279	url:D001279	name:Atracurium Besylate	normalName:atracurium besylate	normalWikiTitle:atracurium besylate	predictedType:Chemical
+ENTITY	text:vecuronium bromide	normalName:vecuronium bromide	predictedType:chemical	q:true	qid:Q257	docId:8638206	origText:vecuronium bromide	url:D014673
+CANDIDATE	id:14673	inCount:14	outCount:1	links:	url:D014673	name:Vecuronium Bromide	normalName:vecuronium bromide	normalWikiTitle:vecuronium bromide	predictedType:Chemical

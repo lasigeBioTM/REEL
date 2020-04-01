@@ -1,0 +1,16 @@
+ENTITY	text:muscular dystrophy	normalName:muscular dystrophy	predictedType:disease	q:true	qid:Q615	docId:15042318	origText:muscular dystrophy	url:D009136
+CANDIDATE	id:9136	inCount:50	outCount:2	links:	url:D009136	name:Muscular Dystrophy	normalName:muscular dystrophy	normalWikiTitle:muscular dystrophy	predictedType:Disease
+ENTITY	text:cardiac arrhythmias	normalName:cardiac arrhythmias	predictedType:disease	q:true	qid:Q615	docId:15042318	origText:cardiac arrhythmias	url:D001145
+CANDIDATE	id:1145	inCount:27	outCount:2	links:1145	url:D001145	name:Arrhythmia, Cardiac	normalName:arrhythmia, cardiac	normalWikiTitle:arrhythmia, cardiac	predictedType:Disease
+ENTITY	text:Steinert's disease	normalName:steinert's disease	predictedType:disease	q:true	qid:Q615	docId:15042318	origText:Steinert's disease	url:D009223
+CANDIDATE	id:9223	inCount:1	outCount:3	links:9223	url:D009223	name:Steinert's Disease	normalName:steinert's disease	normalWikiTitle:steinert's disease	predictedType:Disease
+ENTITY	text:gastric lymphoma	normalName:gastric lymphoma	predictedType:disease	q:true	qid:Q615	docId:15042318	origText:gastric lymphoma	url:C535648
+CANDIDATE	id:535648	inCount:0	outCount:2	links:	url:C535648	name:Gastric lymphoma	normalName:gastric lymphoma	normalWikiTitle:gastric lymphoma	predictedType:Disease
+ENTITY	text:myotonic dystrophy	normalName:myotonic dystrophy	predictedType:disease	q:true	qid:Q615	docId:15042318	origText:myotonic dystrophy	url:D009223
+CANDIDATE	id:9223	inCount:1	outCount:3	links:9223	url:D009223	name:Myotonic Dystrophy	normalName:myotonic dystrophy	normalWikiTitle:myotonic dystrophy	predictedType:Disease
+ENTITY	text:Atrial fibrillation	normalName:atrial fibrillation	predictedType:disease	q:true	qid:Q615	docId:15042318	origText:Atrial fibrillation	url:D001281
+CANDIDATE	id:1281	inCount:16	outCount:1	links:	url:D001281	name:Atrial Fibrillation	normalName:atrial fibrillation	normalWikiTitle:atrial fibrillation	predictedType:Disease
+ENTITY	text:arrhythmia	normalName:arrhythmia	predictedType:disease	q:true	qid:Q615	docId:15042318	origText:arrhythmia	url:D001145
+CANDIDATE	id:1145	inCount:27	outCount:2	links:1145	url:D001145	name:Arrhythmia	normalName:arrhythmia	normalWikiTitle:arrhythmia	predictedType:Disease
+ENTITY	text:cardiac toxicity	normalName:cardiac toxicity	predictedType:disease	q:true	qid:Q615	docId:15042318	origText:cardiac toxicity	url:D066126
+CANDIDATE	id:66126	inCount:0	outCount:3	links:	url:D066126	name:Cardiac Toxicity	normalName:cardiac toxicity	normalWikiTitle:cardiac toxicity	predictedType:Disease

@@ -1,0 +1,4 @@
+ENTITY	text:hypertension	normalName:hypertension	predictedType:disease	q:true	qid:Q238	docId:2632720	origText:hypertension	url:D006973
+CANDIDATE	id:6973	inCount:18	outCount:1	links:	url:D006973	name:Hypertension	normalName:hypertension	normalWikiTitle:hypertension	predictedType:Disease
+ENTITY	text:Cushing's syndrome	normalName:cushing's syndrome	predictedType:disease	q:true	qid:Q238	docId:2632720	origText:Cushing's syndrome	url:D003480
+CANDIDATE	id:3480	inCount:1	outCount:1	links:	url:D003480	name:Syndrome, Cushing's	normalName:syndrome, cushing's	normalWikiTitle:syndrome, cushing's	predictedType:Disease

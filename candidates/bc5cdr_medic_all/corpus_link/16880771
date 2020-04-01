@@ -1,0 +1,44 @@
+ENTITY	text:stroke	normalName:stroke	predictedType:disease	q:true	qid:Q1292	docId:16880771	origText:stroke	url:D020521
+CANDIDATE	id:20521	inCount:2	outCount:1	links:7859	url:D020521	name:Stroke	normalName:stroke	normalWikiTitle:stroke	predictedType:Disease
+ENTITY	text:impaired novel word learning	normalName:impaired novel word learning	predictedType:disease	q:true	qid:Q1292	docId:16880771	origText:impaired novel word learning	url:D007859
+CANDIDATE	id:7859	inCount:10	outCount:2	links:20521	url:D007859	name:Learning Disorders	normalName:learning disorders	normalWikiTitle:learning disorders	predictedType:Disease
+CANDIDATE	id:62026	inCount:0	outCount:3	links:	url:D062026	name:Alice in Wonderland Syndrome	normalName:alice in wonderland syndrome	normalWikiTitle:alice in wonderland syndrome	predictedType:Disease
+CANDIDATE	id:18200	inCount:0	outCount:1	links:	url:D018200	name:Mixed Tumor, Mullerian	normalName:mixed tumor, mullerian	normalWikiTitle:mixed tumor, mullerian	predictedType:Disease
+CANDIDATE	id:6312	inCount:5	outCount:1	links:	url:D006312	name:Hearing Loss, Bilateral	normalName:hearing loss, bilateral	normalWikiTitle:hearing loss, bilateral	predictedType:Disease
+CANDIDATE	id:535910	inCount:0	outCount:5	links:	url:C535910	name:Marden-Walker syndrome	normalName:marden-walker syndrome	normalWikiTitle:marden-walker syndrome	predictedType:Disease
+CANDIDATE	id:67559	inCount:0	outCount:1	links:	url:D000067559	name:Specific Learning Disorder	normalName:specific learning disorder	normalWikiTitle:specific learning disorder	predictedType:Disease
+CANDIDATE	id:537066	inCount:0	outCount:7	links:	url:C537066	name:Flynn Aird syndrome	normalName:flynn aird syndrome	normalWikiTitle:flynn aird syndrome	predictedType:Disease
+CANDIDATE	id:45745	inCount:1	outCount:1	links:	url:D045745	name:Scleroderma, Limited	normalName:scleroderma, limited	normalWikiTitle:scleroderma, limited	predictedType:Disease
+CANDIDATE	id:538173	inCount:0	outCount:1	links:	url:C538173	name:Acquired angioedema	normalName:acquired angioedema	normalWikiTitle:acquired angioedema	predictedType:Disease
+CANDIDATE	id:535909	inCount:0	outCount:4	links:	url:C535909	name:Marden Walker like syndrome	normalName:marden walker like syndrome	normalWikiTitle:marden walker like syndrome	predictedType:Disease
+CANDIDATE	id:4411	inCount:1	outCount:2	links:	url:D004411	name:Blindness, Acquired Word	normalName:blindness, acquired word	normalWikiTitle:blindness, acquired word	predictedType:Disease
+CANDIDATE	id:4411	inCount:1	outCount:2	links:	url:D004411	name:Acquired Word Blindness	normalName:acquired word blindness	normalWikiTitle:acquired word blindness	predictedType:Disease
+CANDIDATE	id:4411	inCount:1	outCount:2	links:	url:D004411	name:Word Blindness, Acquired	normalName:word blindness, acquired	normalWikiTitle:word blindness, acquired	predictedType:Disease
+CANDIDATE	id:4411	inCount:1	outCount:2	links:	url:D004411	name:Acquired Word Blindnesses	normalName:acquired word blindnesses	normalWikiTitle:acquired word blindnesses	predictedType:Disease
+CANDIDATE	id:4411	inCount:1	outCount:2	links:	url:D004411	name:Blindnesses, Acquired Word	normalName:blindnesses, acquired word	normalWikiTitle:blindnesses, acquired word	predictedType:Disease
+CANDIDATE	id:4411	inCount:1	outCount:2	links:	url:D004411	name:Word Blindnesses, Acquired	normalName:word blindnesses, acquired	normalWikiTitle:word blindnesses, acquired	predictedType:Disease
+CANDIDATE	id:8588	inCount:5	outCount:2	links:	url:D008588	name:Meningocele, Acquired	normalName:meningocele, acquired	normalWikiTitle:meningocele, acquired	predictedType:Disease
+CANDIDATE	id:8588	inCount:5	outCount:2	links:	url:D008588	name:Acquired Meningocele	normalName:acquired meningocele	normalWikiTitle:acquired meningocele	predictedType:Disease
+CANDIDATE	id:8591	inCount:3	outCount:1	links:	url:D008591	name:Myelomeningocele, Acquired	normalName:myelomeningocele, acquired	normalWikiTitle:myelomeningocele, acquired	predictedType:Disease
+CANDIDATE	id:8591	inCount:3	outCount:1	links:	url:D008591	name:Acquired Meningomyelocele	normalName:acquired meningomyelocele	normalWikiTitle:acquired meningomyelocele	predictedType:Disease
+ENTITY	text:impairs associative learning	normalName:impairs associative learning	predictedType:disease	q:true	qid:Q1292	docId:16880771	origText:impairs associative learning	url:D007859
+CANDIDATE	id:7859	inCount:10	outCount:2	links:20521	url:D007859	name:Learning Disorders	normalName:learning disorders	normalWikiTitle:learning disorders	predictedType:Disease
+CANDIDATE	id:537892	inCount:0	outCount:3	links:	url:C537892	name:PHACE association	normalName:phace association	normalWikiTitle:phace association	predictedType:Disease
+CANDIDATE	id:536534	inCount:0	outCount:2	links:	url:C536534	name:VATER association	normalName:vater association	normalWikiTitle:vater association	predictedType:Disease
+CANDIDATE	id:564107	inCount:0	outCount:2	links:	url:C564107	name:Mental Retardation associated with Psoriasis	normalName:mental retardation associated with psoriasis	normalWikiTitle:mental retardation associated with psoriasis	predictedType:Disease
+CANDIDATE	id:536633	inCount:0	outCount:1	links:	url:C536633	name:Schisis association	normalName:schisis association	normalWikiTitle:schisis association	predictedType:Disease
+CANDIDATE	id:59226	inCount:1	outCount:1	links:	url:D059226	name:Nociceptive Pain	normalName:nociceptive pain	normalWikiTitle:nociceptive pain	predictedType:Disease
+CANDIDATE	id:36841	inCount:0	outCount:1	links:	url:D036841	name:Ciguatera Poisoning	normalName:ciguatera poisoning	normalWikiTitle:ciguatera poisoning	predictedType:Disease
+CANDIDATE	id:536495	inCount:0	outCount:2	links:	url:C536495	name:VACTERL association	normalName:vacterl association	normalWikiTitle:vacterl association	predictedType:Disease
+CANDIDATE	id:53717	inCount:0	outCount:2	links:	url:D053717	name:Pneumonia, Ventilator-Associated	normalName:pneumonia, ventilator-associated	normalWikiTitle:pneumonia, ventilator-associated	predictedType:Disease
+CANDIDATE	id:77299	inCount:0	outCount:2	links:	url:D000077299	name:Healthcare-Associated Pneumonia	normalName:healthcare-associated pneumonia	normalWikiTitle:healthcare-associated pneumonia	predictedType:Disease
+CANDIDATE	id:4213	inCount:1	outCount:1	links:	url:D004213	name:Dissociative Reaction	normalName:dissociative reaction	normalWikiTitle:dissociative reaction	predictedType:Disease
+CANDIDATE	id:72716	inCount:0	outCount:1	links:	url:D000072716	name:Neoplasm-Associated Pain	normalName:neoplasm-associated pain	normalWikiTitle:neoplasm-associated pain	predictedType:Disease
+CANDIDATE	id:72716	inCount:0	outCount:1	links:	url:D000072716	name:Neoplasm Associated Pain	normalName:neoplasm associated pain	normalWikiTitle:neoplasm associated pain	predictedType:Disease
+CANDIDATE	id:72716	inCount:0	outCount:1	links:	url:D000072716	name:Pain, Neoplasm-Associated	normalName:pain, neoplasm-associated	normalWikiTitle:pain, neoplasm-associated	predictedType:Disease
+CANDIDATE	id:18886	inCount:0	outCount:1	links:	url:D018886	name:Dysphasia, Associative	normalName:dysphasia, associative	normalWikiTitle:dysphasia, associative	predictedType:Disease
+CANDIDATE	id:18886	inCount:0	outCount:1	links:	url:D018886	name:Associative Dysphasia	normalName:associative dysphasia	normalWikiTitle:associative dysphasia	predictedType:Disease
+CANDIDATE	id:4213	inCount:1	outCount:1	links:	url:D004213	name:Reaction, Dissociative	normalName:reaction, dissociative	normalWikiTitle:reaction, dissociative	predictedType:Disease
+CANDIDATE	id:72716	inCount:0	outCount:1	links:	url:D000072716	name:Cancer Associated Pain	normalName:cancer associated pain	normalWikiTitle:cancer associated pain	predictedType:Disease
+CANDIDATE	id:72716	inCount:0	outCount:1	links:	url:D000072716	name:Neoplasm-Associated Pains	normalName:neoplasm-associated pains	normalWikiTitle:neoplasm-associated pains	predictedType:Disease
+CANDIDATE	id:4213	inCount:1	outCount:1	links:	url:D004213	name:Reactions, Dissociative	normalName:reactions, dissociative	normalWikiTitle:reactions, dissociative	predictedType:Disease

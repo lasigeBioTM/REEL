@@ -1,0 +1,6 @@
+ENTITY	text:Cardiomyopathy	normalName:cardiomyopathy	predictedType:disease	q:true	qid:Q760	docId:7449470	origText:Cardiomyopathy	url:D009202
+CANDIDATE	id:9202	inCount:37	outCount:1	links:66126	url:D009202	name:Cardiomyopathy	normalName:cardiomyopathy	normalWikiTitle:cardiomyopathy	predictedType:Disease
+ENTITY	text:cardiotoxicity	normalName:cardiotoxicity	predictedType:disease	q:true	qid:Q760	docId:7449470	origText:cardiotoxicity	url:D066126
+CANDIDATE	id:66126	inCount:0	outCount:3	links:9202	url:D066126	name:Cardiotoxicity	normalName:cardiotoxicity	normalWikiTitle:cardiotoxicity	predictedType:Disease
+ENTITY	text:Cardiac toxicity	normalName:cardiac toxicity	predictedType:disease	q:true	qid:Q760	docId:7449470	origText:Cardiac toxicity	url:D066126
+CANDIDATE	id:66126	inCount:0	outCount:3	links:9202	url:D066126	name:Cardiac Toxicity	normalName:cardiac toxicity	normalWikiTitle:cardiac toxicity	predictedType:Disease

@@ -1,0 +1,26 @@
+ENTITY	text:DM-9384	normalName:dm-9384	predictedType:chemical	q:true	qid:Q543	docId:8829135	origText:DM-9384	url:C058876
+CANDIDATE	id:58876	inCount:0	outCount:1	links:58876	url:C058876	name:DM-9384	normalName:dm-9384	normalWikiTitle:dm-9384	predictedType:Chemical
+ENTITY	text:dopamine	normalName:dopamine	predictedType:chemical	q:true	qid:Q543	docId:8829135	origText:dopamine	url:D004298
+CANDIDATE	id:4298	inCount:90	outCount:2	links:	url:D004298	name:Dopamine	normalName:dopamine	normalWikiTitle:dopamine	predictedType:Chemical
+ENTITY	text:Nefiracetam	normalName:nefiracetam	predictedType:chemical	q:true	qid:Q543	docId:8829135	origText:Nefiracetam	url:C058876
+CANDIDATE	id:58876	inCount:0	outCount:1	links:58876	url:C058876	name:nefiracetam	normalName:nefiracetam	normalWikiTitle:nefiracetam	predictedType:Chemical
+ENTITY	text:spiperone	normalName:spiperone	predictedType:chemical	q:true	qid:Q543	docId:8829135	origText:spiperone	url:D013134
+CANDIDATE	id:13134	inCount:20	outCount:2	links:	url:D013134	name:Spiperone	normalName:spiperone	normalWikiTitle:spiperone	predictedType:Chemical
+ENTITY	text:SCH 23390	normalName:sch 23390	predictedType:chemical	q:true	qid:Q543	docId:8829135	origText:SCH 23390	url:C534628
+CANDIDATE	id:534628	inCount:0	outCount:1	links:1058	url:C534628	name:SCH 23390	normalName:sch 23390	normalWikiTitle:sch 23390	predictedType:Chemical
+ENTITY	text:scopolamine	normalName:scopolamine	predictedType:chemical	q:true	qid:Q543	docId:8829135	origText:scopolamine	url:D012601
+CANDIDATE	id:12601	inCount:3	outCount:2	links:1058	url:D012601	name:Scopolamine	normalName:scopolamine	normalWikiTitle:scopolamine	predictedType:Chemical
+ENTITY	text:pyrrolidone	normalName:pyrrolidone	predictedType:chemical	q:true	qid:Q543	docId:8829135	origText:pyrrolidone	url:D011760
+CANDIDATE	id:11760	inCount:324	outCount:1	links:	url:D011760	name:Pyrrolidones	normalName:pyrrolidones	normalWikiTitle:pyrrolidones	predictedType:Chemical
+CANDIDATE	id:28537	inCount:0	outCount:1	links:	url:C028537	name:2-pyrrolidone	normalName:2-pyrrolidone	normalWikiTitle:2-pyrrolidone	predictedType:Chemical
+CANDIDATE	id:32519	inCount:0	outCount:1	links:	url:C032519	name:pyrrolidine	normalName:pyrrolidine	normalWikiTitle:pyrrolidine	predictedType:Chemical
+CANDIDATE	id:13231	inCount:0	outCount:1	links:	url:C013231	name:pyrroline	normalName:pyrroline	normalWikiTitle:pyrroline	predictedType:Chemical
+CANDIDATE	id:11760	inCount:324	outCount:1	links:	url:D011760	name:Pyrrolidinones	normalName:pyrrolidinones	normalWikiTitle:pyrrolidinones	predictedType:Chemical
+CANDIDATE	id:11759	inCount:828	outCount:1	links:	url:D011759	name:Pyrrolidines	normalName:pyrrolidines	normalWikiTitle:pyrrolidines	predictedType:Chemical
+CANDIDATE	id:434794	inCount:0	outCount:1	links:	url:C434794	name:pyrollidone 2	normalName:pyrollidone 2	normalWikiTitle:pyrollidone 2	predictedType:Chemical
+CANDIDATE	id:456839	inCount:0	outCount:1	links:	url:C456839	name:pyrrolysine	normalName:pyrrolysine	normalWikiTitle:pyrrolysine	predictedType:Chemical
+CANDIDATE	id:434793	inCount:0	outCount:1	links:	url:C434793	name:pyrollidone 15	normalName:pyrollidone 15	normalWikiTitle:pyrollidone 15	predictedType:Chemical
+CANDIDATE	id:11728	inCount:441	outCount:1	links:	url:D011728	name:Pyridones	normalName:pyridones	normalWikiTitle:pyridones	predictedType:Chemical
+CANDIDATE	id:502979	inCount:0	outCount:2	links:	url:C502979	name:spylidone	normalName:spylidone	normalWikiTitle:spylidone	predictedType:Chemical
+ENTITY	text:apomorphine	normalName:apomorphine	predictedType:chemical	q:true	qid:Q543	docId:8829135	origText:apomorphine	url:D001058
+CANDIDATE	id:1058	inCount:29	outCount:1	links:534628;12601	url:D001058	name:Apomorphine	normalName:apomorphine	normalWikiTitle:apomorphine	predictedType:Chemical

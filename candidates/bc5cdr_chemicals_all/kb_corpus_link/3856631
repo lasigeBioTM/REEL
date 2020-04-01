@@ -1,0 +1,6 @@
+ENTITY	text:bilirubin	normalName:bilirubin	predictedType:chemical	q:true	qid:Q1296	docId:3856631	origText:bilirubin	url:D001663
+CANDIDATE	id:1663	inCount:20	outCount:1	links:	url:D001663	name:Bilirubin	normalName:bilirubin	normalWikiTitle:bilirubin	predictedType:Chemical
+ENTITY	text:Leucovorin	normalName:leucovorin	predictedType:chemical	q:true	qid:Q1296	docId:3856631	origText:Leucovorin	url:D002955
+CANDIDATE	id:2955	inCount:88	outCount:1	links:8727	url:D002955	name:Leucovorin	normalName:leucovorin	normalWikiTitle:leucovorin	predictedType:Chemical
+ENTITY	text:methotrexate	normalName:methotrexate	predictedType:chemical	q:true	qid:Q1296	docId:3856631	origText:methotrexate	url:D008727
+CANDIDATE	id:8727	inCount:364	outCount:1	links:2955	url:D008727	name:Methotrexate	normalName:methotrexate	normalWikiTitle:methotrexate	predictedType:Chemical

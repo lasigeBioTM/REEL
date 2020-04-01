@@ -1,0 +1,6 @@
+ENTITY	text:L-DOPA	normalName:l-dopa	predictedType:chemical	q:true	qid:Q110	docId:17532790	origText:L-DOPA	url:D007980
+CANDIDATE	id:7980	inCount:32	outCount:1	links:1971	url:D007980	name:L-Dopa	normalName:l-dopa	normalWikiTitle:l-dopa	predictedType:Chemical
+ENTITY	text:6-hydroxydopamine	normalName:6-hydroxydopamine	predictedType:chemical	q:true	qid:Q110	docId:17532790	origText:6-hydroxydopamine	url:D016627
+CANDIDATE	id:16627	inCount:0	outCount:1	links:	url:D016627	name:6-Hydroxydopamine	normalName:6-hydroxydopamine	normalWikiTitle:6-hydroxydopamine	predictedType:Chemical
+ENTITY	text:bromocriptine	normalName:bromocriptine	predictedType:chemical	q:true	qid:Q110	docId:17532790	origText:bromocriptine	url:D001971
+CANDIDATE	id:1971	inCount:0	outCount:2	links:7980	url:D001971	name:Bromocriptine	normalName:bromocriptine	normalWikiTitle:bromocriptine	predictedType:Chemical

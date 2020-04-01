@@ -1,0 +1,8 @@
+ENTITY	text:alfentanil	normalName:alfentanil	predictedType:chemical	q:true	qid:Q1047	docId:3115150	origText:alfentanil	url:D015760
+CANDIDATE	id:15760	inCount:0	outCount:1	links:	url:D015760	name:Alfentanil	normalName:alfentanil	normalWikiTitle:alfentanil	predictedType:Chemical
+ENTITY	text:Ketanserin	normalName:ketanserin	predictedType:chemical	q:true	qid:Q1047	docId:3115150	origText:Ketanserin	url:D007650
+CANDIDATE	id:7650	inCount:11	outCount:2	links:	url:D007650	name:Ketanserin	normalName:ketanserin	normalWikiTitle:ketanserin	predictedType:Chemical
+ENTITY	text:Chlordiazepoxide	normalName:chlordiazepoxide	predictedType:chemical	q:true	qid:Q1047	docId:3115150	origText:Chlordiazepoxide	url:D002707
+CANDIDATE	id:2707	inCount:8	outCount:1	links:	url:D002707	name:Chlordiazepoxide	normalName:chlordiazepoxide	normalWikiTitle:chlordiazepoxide	predictedType:Chemical
+ENTITY	text:serotonin	normalName:serotonin	predictedType:chemical	q:true	qid:Q1047	docId:3115150	origText:serotonin	url:D012701
+CANDIDATE	id:12701	inCount:48	outCount:2	links:	url:D012701	name:Serotonin	normalName:serotonin	normalWikiTitle:serotonin	predictedType:Chemical

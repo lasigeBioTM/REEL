@@ -1,0 +1,12 @@
+ENTITY	text:myocardiopathy	normalName:myocardiopathy	predictedType:disease	q:true	qid:Q74	docId:20084309	origText:myocardiopathy	url:D009202
+CANDIDATE	id:9202	inCount:37	outCount:1	links:20521	url:D009202	name:Myocardiopathy	normalName:myocardiopathy	normalWikiTitle:myocardiopathy	predictedType:Disease
+ENTITY	text:mitral regurgitation	normalName:mitral regurgitation	predictedType:disease	q:true	qid:Q74	docId:20084309	origText:mitral regurgitation	url:D008944
+CANDIDATE	id:8944	inCount:1	outCount:1	links:	url:D008944	name:Mitral Regurgitation	normalName:mitral regurgitation	normalWikiTitle:mitral regurgitation	predictedType:Disease
+ENTITY	text:hypoxia	normalName:hypoxia	predictedType:disease	q:true	qid:Q74	docId:20084309	origText:hypoxia	url:D000860
+CANDIDATE	id:860	inCount:1	outCount:1	links:	url:D000860	name:Hypoxia	normalName:hypoxia	normalWikiTitle:hypoxia	predictedType:Disease
+ENTITY	text:stroke	normalName:stroke	predictedType:disease	q:true	qid:Q74	docId:20084309	origText:stroke	url:D020521
+CANDIDATE	id:20521	inCount:2	outCount:1	links:9202;7022	url:D020521	name:Stroke	normalName:stroke	normalWikiTitle:stroke	predictedType:Disease
+ENTITY	text:hypotension	normalName:hypotension	predictedType:disease	q:true	qid:Q74	docId:20084309	origText:hypotension	url:D007022
+CANDIDATE	id:7022	inCount:3	outCount:1	links:20521	url:D007022	name:Hypotension	normalName:hypotension	normalWikiTitle:hypotension	predictedType:Disease
+ENTITY	text:airway obstruction	normalName:airway obstruction	predictedType:disease	q:true	qid:Q74	docId:20084309	origText:airway obstruction	url:D000402
+CANDIDATE	id:402	inCount:1	outCount:1	links:	url:D000402	name:Airway Obstruction	normalName:airway obstruction	normalWikiTitle:airway obstruction	predictedType:Disease

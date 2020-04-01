@@ -1,0 +1,22 @@
+ENTITY	text:apomorphine	normalName:apomorphine	predictedType:chemical	q:true	qid:Q366	docId:16867021	origText:apomorphine	url:D001058
+CANDIDATE	id:1058	inCount:29	outCount:1	links:	url:D001058	name:Apomorphine	normalName:apomorphine	normalWikiTitle:apomorphine	predictedType:Chemical
+ENTITY	text:histamine	normalName:histamine	predictedType:chemical	q:true	qid:Q366	docId:16867021	origText:histamine	url:D006632
+CANDIDATE	id:6632	inCount:55	outCount:4	links:	url:D006632	name:Histamine	normalName:histamine	normalWikiTitle:histamine	predictedType:Chemical
+ENTITY	text:thioperamide	normalName:thioperamide	predictedType:chemical	q:true	qid:Q366	docId:16867021	origText:thioperamide	url:C052075
+CANDIDATE	id:52075	inCount:0	outCount:1	links:	url:C052075	name:thioperamide	normalName:thioperamide	normalWikiTitle:thioperamide	predictedType:Chemical
+ENTITY	text:(R)-alpha-methylhistamine	normalName:(r)-alpha-methylhistamine	predictedType:chemical	q:true	qid:Q366	docId:16867021	origText:(R)-alpha-methylhistamine	url:C069357
+CANDIDATE	id:69357	inCount:0	outCount:1	links:	url:C069357	name:alpha-methylhistamine	normalName:alpha-methylhistamine	normalWikiTitle:alpha-methylhistamine	predictedType:Chemical
+CANDIDATE	id:46181	inCount:0	outCount:1	links:	url:C046181	name:alpha-methylhistidine	normalName:alpha-methylhistidine	normalWikiTitle:alpha-methylhistidine	predictedType:Chemical
+CANDIDATE	id:54284	inCount:0	outCount:1	links:	url:C054284	name:alpha-fluoromethylhistamine	normalName:alpha-fluoromethylhistamine	normalWikiTitle:alpha-fluoromethylhistamine	predictedType:Chemical
+CANDIDATE	id:69368	inCount:0	outCount:1	links:	url:C069368	name:alpha,beta-dimethylhistamine	normalName:alpha,beta-dimethylhistamine	normalWikiTitle:alpha,beta-dimethylhistamine	predictedType:Chemical
+CANDIDATE	id:27426	inCount:0	outCount:1	links:	url:C027426	name:alpha,N(alpha)-dimethylhistamine	normalName:alpha,n(alpha)-dimethylhistamine	normalWikiTitle:alpha,n(alpha)-dimethylhistamine	predictedType:Chemical
+CANDIDATE	id:31205	inCount:0	outCount:1	links:	url:C031205	name:3-methylhistamine	normalName:3-methylhistamine	normalWikiTitle:3-methylhistamine	predictedType:Chemical
+CANDIDATE	id:26259	inCount:0	outCount:1	links:	url:C026259	name:2-methylhistamine	normalName:2-methylhistamine	normalWikiTitle:2-methylhistamine	predictedType:Chemical
+CANDIDATE	id:48140	inCount:0	outCount:1	links:	url:C048140	name:N-methylhistamine	normalName:n-methylhistamine	normalWikiTitle:n-methylhistamine	predictedType:Chemical
+CANDIDATE	id:25566	inCount:0	outCount:1	links:	url:C025566	name:4-methylhistamine	normalName:4-methylhistamine	normalWikiTitle:4-methylhistamine	predictedType:Chemical
+CANDIDATE	id:23492	inCount:0	outCount:1	links:	url:C023492	name:alpha-methyldopamine	normalName:alpha-methyldopamine	normalWikiTitle:alpha-methyldopamine	predictedType:Chemical
+CANDIDATE	id:48140	inCount:0	outCount:1	links:	url:C048140	name:N(alpha)-methylhistamine	normalName:n(alpha)-methylhistamine	normalWikiTitle:n(alpha)-methylhistamine	predictedType:Chemical
+ENTITY	text:amphetamine	normalName:amphetamine	predictedType:chemical	q:true	qid:Q366	docId:16867021	origText:amphetamine	url:D000661
+CANDIDATE	id:661	inCount:1	outCount:1	links:	url:D000661	name:Amphetamine	normalName:amphetamine	normalWikiTitle:amphetamine	predictedType:Chemical
+ENTITY	text:haloperidol	normalName:haloperidol	predictedType:chemical	q:true	qid:Q366	docId:16867021	origText:haloperidol	url:D006220
+CANDIDATE	id:6220	inCount:24	outCount:1	links:	url:D006220	name:Haloperidol	normalName:haloperidol	normalWikiTitle:haloperidol	predictedType:Chemical

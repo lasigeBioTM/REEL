@@ -1,0 +1,10 @@
+ENTITY	text:glycine	normalName:glycine	predictedType:chemical	q:true	qid:Q470	docId:9630698	origText:glycine	url:D005998
+CANDIDATE	id:5998	inCount:463	outCount:1	links:	url:D005998	name:Glycine	normalName:glycine	normalWikiTitle:glycine	predictedType:Chemical
+ENTITY	text:haloperidol	normalName:haloperidol	predictedType:chemical	q:true	qid:Q470	docId:9630698	origText:haloperidol	url:D006220
+CANDIDATE	id:6220	inCount:24	outCount:1	links:	url:D006220	name:Haloperidol	normalName:haloperidol	normalWikiTitle:haloperidol	predictedType:Chemical
+ENTITY	text:5,7-DCKA	normalName:5,7-dcka	predictedType:chemical	q:true	qid:Q470	docId:9630698	origText:5,7-DCKA	url:C066192
+CANDIDATE	id:66192	inCount:0	outCount:1	links:	url:C066192	name:5,7-DCKA	normalName:5,7-dcka	normalWikiTitle:5,7-dcka	predictedType:Chemical
+ENTITY	text:5,7-dichlorokynurenic acid	normalName:5,7-dichlorokynurenic acid	predictedType:chemical	q:true	qid:Q470	docId:9630698	origText:5,7-dichlorokynurenic acid	url:C066192
+CANDIDATE	id:66192	inCount:0	outCount:1	links:	url:C066192	name:5,7-dichlorokynurenic acid	normalName:5,7-dichlorokynurenic acid	normalWikiTitle:5,7-dichlorokynurenic acid	predictedType:Chemical
+ENTITY	text:NMDA	normalName:nmda	predictedType:chemical	q:true	qid:Q470	docId:9630698	origText:NMDA	url:D016202
+CANDIDATE	id:16202	inCount:3	outCount:1	links:	url:D016202	name:NMDA	normalName:nmda	normalWikiTitle:nmda	predictedType:Chemical

@@ -1,0 +1,39 @@
+ENTITY	text:paraesthesia	normalName:paraesthesia	predictedType:disease	q:true	qid:Q203	docId:17786501	origText:paraesthesia	url:D010292
+CANDIDATE	id:10292	inCount:0	outCount:1	links:12607	url:D010292	name:Paresthesia	normalName:paresthesia	normalWikiTitle:paresthesia	predictedType:Disease
+CANDIDATE	id:6941	inCount:0	outCount:1	links:	url:D006941	name:Hyperesthesia	normalName:hyperesthesia	normalWikiTitle:hyperesthesia	predictedType:Disease
+CANDIDATE	id:18512	inCount:0	outCount:2	links:	url:D018512	name:Parasitemia	normalName:parasitemia	normalWikiTitle:parasitemia	predictedType:Disease
+CANDIDATE	id:6987	inCount:1	outCount:1	links:	url:D006987	name:Hypesthesia	normalName:hypesthesia	normalWikiTitle:hypesthesia	predictedType:Disease
+CANDIDATE	id:66190	inCount:0	outCount:1	links:	url:D066190	name:Allesthesia	normalName:allesthesia	normalWikiTitle:allesthesia	predictedType:Disease
+CANDIDATE	id:1247	inCount:0	outCount:1	links:	url:D001247	name:Asthenia	normalName:asthenia	normalWikiTitle:asthenia	predictedType:Disease
+CANDIDATE	id:562460	inCount:0	outCount:1	links:	url:C562460	name:Synesthesia	normalName:synesthesia	normalWikiTitle:synesthesia	predictedType:Disease
+CANDIDATE	id:6323	inCount:2	outCount:1	links:	url:D006323	name:Heart Arrest	normalName:heart arrest	normalWikiTitle:heart arrest	predictedType:Disease
+CANDIDATE	id:9440	inCount:0	outCount:1	links:	url:D009440	name:Neurasthenia	normalName:neurasthenia	normalWikiTitle:neurasthenia	predictedType:Disease
+CANDIDATE	id:1248	inCount:0	outCount:1	links:	url:D001248	name:Asthenopia	normalName:asthenopia	normalWikiTitle:asthenopia	predictedType:Disease
+ENTITY	text:scotomata	normalName:scotomata	predictedType:disease	q:true	qid:Q203	docId:17786501	origText:scotomata	url:D012607
+CANDIDATE	id:12607	inCount:1	outCount:1	links:10292;14786	url:D012607	name:Scotoma	normalName:scotoma	normalWikiTitle:scotoma	predictedType:Disease
+CANDIDATE	id:531639	inCount:0	outCount:1	links:	url:C531639	name:Stomatodynia	normalName:stomatodynia	normalWikiTitle:stomatodynia	predictedType:Disease
+CANDIDATE	id:2828	inCount:2	outCount:1	links:	url:D002828	name:Choristoma	normalName:choristoma	normalWikiTitle:choristoma	predictedType:Disease
+CANDIDATE	id:13280	inCount:5	outCount:1	links:	url:D013280	name:Stomatitis	normalName:stomatitis	normalWikiTitle:stomatitis	predictedType:Disease
+CANDIDATE	id:3128	inCount:3	outCount:1	links:14786	url:D003128	name:Coma	normalName:coma	normalWikiTitle:coma	predictedType:Disease
+CANDIDATE	id:10016	inCount:5	outCount:1	links:	url:D010016	name:Osteoma	normalName:osteoma	normalWikiTitle:osteoma	predictedType:Disease
+CANDIDATE	id:12509	inCount:25	outCount:1	links:	url:D012509	name:Sarcoma	normalName:sarcoma	normalWikiTitle:sarcoma	predictedType:Disease
+CANDIDATE	id:1254	inCount:4	outCount:1	links:	url:D001254	name:Astrocytoma	normalName:astrocytoma	normalWikiTitle:astrocytoma	predictedType:Disease
+CANDIDATE	id:8265	inCount:3	outCount:1	links:	url:D008265	name:Macrostomia	normalName:macrostomia	normalWikiTitle:macrostomia	predictedType:Disease
+CANDIDATE	id:565299	inCount:0	outCount:1	links:	url:C565299	name:Anisomastia	normalName:anisomastia	normalWikiTitle:anisomastia	predictedType:Disease
+ENTITY	text:numbness	normalName:numbness	predictedType:disease	q:true	qid:Q203	docId:17786501	origText:numbness	url:D006987
+CANDIDATE	id:6987	inCount:1	outCount:1	links:	url:D006987	name:Numbness	normalName:numbness	normalWikiTitle:numbness	predictedType:Disease
+ENTITY	text:headaches	normalName:headaches	predictedType:disease	q:true	qid:Q203	docId:17786501	origText:headaches	url:D006261
+CANDIDATE	id:6261	inCount:2	outCount:1	links:	url:D006261	name:Headache	normalName:headache	normalWikiTitle:headache	predictedType:Disease
+ENTITY	text:alcohol dependence	normalName:alcohol dependence	predictedType:disease	q:true	qid:Q203	docId:17786501	origText:alcohol dependence	url:D000437
+CANDIDATE	id:437	inCount:0	outCount:1	links:	url:D000437	name:Alcohol Dependence	normalName:alcohol dependence	normalWikiTitle:alcohol dependence	predictedType:Disease
+ENTITY	text:loss of vision	normalName:loss of vision	predictedType:disease	q:true	qid:Q203	docId:17786501	origText:loss of vision	url:D014786
+CANDIDATE	id:14786	inCount:19	outCount:2	links:3128;12607	url:D014786	name:Vision Disorders	normalName:vision disorders	normalWikiTitle:vision disorders	predictedType:Disease
+CANDIDATE	id:15354	inCount:0	outCount:1	links:	url:D015354	name:Vision, Low	normalName:vision, low	normalWikiTitle:vision, low	predictedType:Disease
+CANDIDATE	id:3117	inCount:12	outCount:2	links:	url:D003117	name:Color Vision Defects	normalName:color vision defects	normalWikiTitle:color vision defects	predictedType:Disease
+CANDIDATE	id:16388	inCount:0	outCount:2	links:	url:D016388	name:Tooth Loss	normalName:tooth loss	normalWikiTitle:tooth loss	predictedType:Disease
+CANDIDATE	id:7102	inCount:0	outCount:1	links:	url:D007102	name:Immersion Foot	normalName:immersion foot	normalWikiTitle:immersion foot	predictedType:Disease
+CANDIDATE	id:3428	inCount:2	outCount:2	links:	url:D003428	name:Cross Infection	normalName:cross infection	normalWikiTitle:cross infection	predictedType:Disease
+CANDIDATE	id:65710	inCount:0	outCount:1	links:	url:D065710	name:Glossoptosis	normalName:glossoptosis	normalWikiTitle:glossoptosis	predictedType:Disease
+CANDIDATE	id:7446	inCount:0	outCount:1	links:	url:D007446	name:Chromosome Inversion	normalName:chromosome inversion	normalWikiTitle:chromosome inversion	predictedType:Disease
+CANDIDATE	id:57066	inCount:0	outCount:2	links:	url:D057066	name:Low Tension Glaucoma	normalName:low tension glaucoma	normalWikiTitle:low tension glaucoma	predictedType:Disease
+CANDIDATE	id:536523	inCount:0	outCount:1	links:	url:C536523	name:Vagina, absence of	normalName:vagina, absence of	normalWikiTitle:vagina, absence of	predictedType:Disease

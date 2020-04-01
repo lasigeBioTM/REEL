@@ -1,0 +1,80 @@
+ENTITY	text:chronic liver disease	normalName:chronic liver disease	predictedType:disease	q:true	qid:Q250	docId:17346443	origText:chronic liver disease	url:D008107
+CANDIDATE	id:8107	inCount:37	outCount:1	links:1714	url:D008107	name:Liver Diseases	normalName:liver diseases	normalWikiTitle:liver diseases	predictedType:Disease
+CANDIDATE	id:8108	inCount:3	outCount:2	links:	url:D008108	name:Liver Diseases, Alcoholic	normalName:liver diseases, alcoholic	normalWikiTitle:liver diseases, alcoholic	predictedType:Disease
+CANDIDATE	id:2908	inCount:2	outCount:1	links:	url:D002908	name:Chronic Disease	normalName:chronic disease	normalWikiTitle:chronic disease	predictedType:Disease
+CANDIDATE	id:34081	inCount:0	outCount:2	links:	url:D034081	name:Wasting Disease, Chronic	normalName:wasting disease, chronic	normalWikiTitle:wasting disease, chronic	predictedType:Disease
+CANDIDATE	id:3424	inCount:1	outCount:1	links:	url:D003424	name:Crohn Disease	normalName:crohn disease	normalWikiTitle:crohn disease	predictedType:Disease
+CANDIDATE	id:614823	inCount:0	outCount:1	links:	url:614823	name:AORTIC VALVE DISEASE 2	normalName:aortic valve disease 2	normalWikiTitle:aortic valve disease 2	predictedType:Disease
+CANDIDATE	id:3108	inCount:7	outCount:1	links:	url:D003108	name:Colonic Diseases	normalName:colonic diseases	normalWikiTitle:colonic diseases	predictedType:Disease
+CANDIDATE	id:563178	inCount:1	outCount:2	links:	url:C563178	name:Aortic Valve Disease 1	normalName:aortic valve disease 1	normalWikiTitle:aortic valve disease 1	predictedType:Disease
+CANDIDATE	id:3389	inCount:16	outCount:1	links:1008	url:D003389	name:Cranial Nerve Diseases	normalName:cranial nerve diseases	normalWikiTitle:cranial nerve diseases	predictedType:Disease
+CANDIDATE	id:15862	inCount:12	outCount:1	links:	url:D015862	name:Choroid Diseases	normalName:choroid diseases	normalWikiTitle:choroid diseases	predictedType:Disease
+CANDIDATE	id:77342	inCount:0	outCount:1	links:	url:D000077342	name:Lyme Disease, Chronic	normalName:lyme disease, chronic	normalWikiTitle:lyme disease, chronic	predictedType:Disease
+CANDIDATE	id:77342	inCount:0	outCount:1	links:	url:D000077342	name:Chronic Lyme Disease	normalName:chronic lyme disease	normalWikiTitle:chronic lyme disease	predictedType:Disease
+CANDIDATE	id:8108	inCount:3	outCount:2	links:	url:D008108	name:Liver Disease, Alcoholic	normalName:liver disease, alcoholic	normalWikiTitle:liver disease, alcoholic	predictedType:Disease
+CANDIDATE	id:8108	inCount:3	outCount:2	links:	url:D008108	name:Alcoholic Liver Disease	normalName:alcoholic liver disease	normalWikiTitle:alcoholic liver disease	predictedType:Disease
+ENTITY	text:Wilson's disease	normalName:wilson's disease	predictedType:disease	q:true	qid:Q250	docId:17346443	origText:Wilson's disease	url:D006527
+CANDIDATE	id:6527	inCount:2	outCount:6	links:	url:D006527	name:Wilson's Disease	normalName:wilson's disease	normalWikiTitle:wilson's disease	predictedType:Disease
+ENTITY	text:Wilson disease	normalName:wilson disease	predictedType:disease	q:true	qid:Q250	docId:17346443	origText:Wilson disease	url:D006527
+CANDIDATE	id:6527	inCount:2	outCount:6	links:	url:D006527	name:Wilson Disease	normalName:wilson disease	normalWikiTitle:wilson disease	predictedType:Disease
+ENTITY	text:depression	normalName:depression	predictedType:disease	q:true	qid:Q250	docId:17346443	origText:depression	url:D003866
+CANDIDATE	id:3866	inCount:6	outCount:1	links:1008	url:D003866	name:Depressive Disorder	normalName:depressive disorder	normalWikiTitle:depressive disorder	predictedType:Disease
+CANDIDATE	id:18450	inCount:2	outCount:1	links:	url:D018450	name:Disease Progression	normalName:disease progression	normalWikiTitle:disease progression	predictedType:Disease
+CANDIDATE	id:19052	inCount:0	outCount:2	links:	url:D019052	name:Depression, Postpartum	normalName:depression, postpartum	normalWikiTitle:depression, postpartum	predictedType:Disease
+CANDIDATE	id:146850	inCount:0	outCount:2	links:	url:146850	name:IMMUNE SUPPRESSION	normalName:immune suppression	normalWikiTitle:immune suppression	predictedType:Disease
+CANDIDATE	id:6973	inCount:18	outCount:1	links:1008	url:D006973	name:Hypertension	normalName:hypertension	normalWikiTitle:hypertension	predictedType:Disease
+CANDIDATE	id:58246	inCount:0	outCount:1	links:	url:D058246	name:Prehypertension	normalName:prehypertension	normalWikiTitle:prehypertension	predictedType:Disease
+CANDIDATE	id:14786	inCount:19	outCount:2	links:12871	url:D014786	name:Vision Disorders	normalName:vision disorders	normalWikiTitle:vision disorders	predictedType:Disease
+CANDIDATE	id:3665	inCount:0	outCount:1	links:	url:D003665	name:Decompression Sickness	normalName:decompression sickness	normalWikiTitle:decompression sickness	predictedType:Disease
+CANDIDATE	id:12871	inCount:71	outCount:1	links:66126	url:D012871	name:Skin Diseases	normalName:skin diseases	normalWikiTitle:skin diseases	predictedType:Disease
+CANDIDATE	id:4688	inCount:1	outCount:2	links:	url:D004688	name:Encopresis	normalName:encopresis	normalWikiTitle:encopresis	predictedType:Disease
+CANDIDATE	id:1714	inCount:11	outCount:1	links:1008;8107	url:D001714	name:Depression, Bipolar	normalName:depression, bipolar	normalWikiTitle:depression, bipolar	predictedType:Disease
+CANDIDATE	id:1714	inCount:11	outCount:1	links:1008;8107	url:D001714	name:Bipolar Depression	normalName:bipolar depression	normalWikiTitle:bipolar depression	predictedType:Disease
+ENTITY	text:skin lesion	normalName:skin lesion	predictedType:disease	q:true	qid:Q250	docId:17346443	origText:skin lesion	url:D012871
+CANDIDATE	id:12871	inCount:71	outCount:1	links:66126	url:D012871	name:Skin Diseases	normalName:skin diseases	normalWikiTitle:skin diseases	predictedType:Disease
+CANDIDATE	id:12877	inCount:12	outCount:1	links:	url:D012877	name:Skin Manifestations	normalName:skin manifestations	normalWikiTitle:skin manifestations	predictedType:Disease
+CANDIDATE	id:65008	inCount:0	outCount:1	links:	url:D065008	name:Scorpion Stings	normalName:scorpion stings	normalWikiTitle:scorpion stings	predictedType:Disease
+CANDIDATE	id:7088	inCount:0	outCount:1	links:	url:D007088	name:Illusions	normalName:illusions	normalWikiTitle:illusions	predictedType:Disease
+CANDIDATE	id:7876	inCount:1	outCount:2	links:	url:D007876	name:Legionellosis	normalName:legionellosis	normalWikiTitle:legionellosis	predictedType:Disease
+CANDIDATE	id:7922	inCount:1	outCount:2	links:	url:D007922	name:Leptospirosis	normalName:leptospirosis	normalWikiTitle:leptospirosis	predictedType:Disease
+CANDIDATE	id:19687	inCount:0	outCount:2	links:	url:D019687	name:Uterine Inversion	normalName:uterine inversion	normalWikiTitle:uterine inversion	predictedType:Disease
+CANDIDATE	id:1404	inCount:0	outCount:2	links:	url:D001404	name:Babesiosis	normalName:babesiosis	normalWikiTitle:babesiosis	predictedType:Disease
+CANDIDATE	id:15354	inCount:0	outCount:1	links:	url:D015354	name:Vision, Low	normalName:vision, low	normalWikiTitle:vision, low	predictedType:Disease
+CANDIDATE	id:7855	inCount:1	outCount:1	links:	url:D007855	name:Lead Poisoning	normalName:lead poisoning	normalWikiTitle:lead poisoning	predictedType:Disease
+CANDIDATE	id:69836	inCount:0	outCount:1	links:	url:D000069836	name:Avulsion, Skin	normalName:avulsion, skin	normalWikiTitle:avulsion, skin	predictedType:Disease
+CANDIDATE	id:69836	inCount:0	outCount:1	links:	url:D000069836	name:Skin Avulsion	normalName:skin avulsion	normalWikiTitle:skin avulsion	predictedType:Disease
+CANDIDATE	id:69836	inCount:0	outCount:1	links:	url:D000069836	name:Avulsions, Skin	normalName:avulsions, skin	normalWikiTitle:avulsions, skin	predictedType:Disease
+CANDIDATE	id:69836	inCount:0	outCount:1	links:	url:D000069836	name:Skin Avulsions	normalName:skin avulsions	normalWikiTitle:skin avulsions	predictedType:Disease
+CANDIDATE	id:9506	inCount:10	outCount:1	links:	url:D009506	name:Skin Moles	normalName:skin moles	normalWikiTitle:skin moles	predictedType:Disease
+CANDIDATE	id:9506	inCount:10	outCount:1	links:	url:D009506	name:Moles, Skin	normalName:moles, skin	normalWikiTitle:moles, skin	predictedType:Disease
+CANDIDATE	id:9506	inCount:10	outCount:1	links:	url:D009506	name:Mole, Skin	normalName:mole, skin	normalWikiTitle:mole, skin	predictedType:Disease
+CANDIDATE	id:9506	inCount:10	outCount:1	links:	url:D009506	name:Skin Mole	normalName:skin mole	normalWikiTitle:skin mole	predictedType:Disease
+CANDIDATE	id:12877	inCount:12	outCount:1	links:	url:D012877	name:Skin Manifestation	normalName:skin manifestation	normalWikiTitle:skin manifestation	predictedType:Disease
+CANDIDATE	id:12877	inCount:12	outCount:1	links:	url:D012877	name:Manifestation, Skin	normalName:manifestation, skin	normalWikiTitle:manifestation, skin	predictedType:Disease
+ENTITY	text:lichenoid dermatitis	normalName:lichenoid dermatitis	predictedType:disease	q:true	qid:Q250	docId:17346443	origText:lichenoid dermatitis	url:D017512
+CANDIDATE	id:17512	inCount:4	outCount:1	links:	url:D017512	name:Lichenoid Eruptions	normalName:lichenoid eruptions	normalWikiTitle:lichenoid eruptions	predictedType:Disease
+CANDIDATE	id:11040	inCount:0	outCount:1	links:	url:D011040	name:Dermatitis, Toxicodendron	normalName:dermatitis, toxicodendron	normalWikiTitle:dermatitis, toxicodendron	predictedType:Disease
+CANDIDATE	id:17484	inCount:0	outCount:2	links:	url:D017484	name:Dermatitis, Phototoxic	normalName:dermatitis, phototoxic	normalWikiTitle:dermatitis, phototoxic	predictedType:Disease
+CANDIDATE	id:3874	inCount:1	outCount:3	links:	url:D003874	name:Dermatitis Herpetiformis	normalName:dermatitis herpetiformis	normalWikiTitle:dermatitis herpetiformis	predictedType:Disease
+CANDIDATE	id:58066	inCount:0	outCount:2	links:	url:D058066	name:Digital Dermatitis	normalName:digital dermatitis	normalWikiTitle:digital dermatitis	predictedType:Disease
+CANDIDATE	id:12628	inCount:3	outCount:4	links:	url:D012628	name:Dermatitis, Seborrheic	normalName:dermatitis, seborrheic	normalWikiTitle:dermatitis, seborrheic	predictedType:Disease
+CANDIDATE	id:3873	inCount:4	outCount:2	links:	url:D003873	name:Dermatitis, Exfoliative	normalName:dermatitis, exfoliative	normalWikiTitle:dermatitis, exfoliative	predictedType:Disease
+CANDIDATE	id:17453	inCount:2	outCount:1	links:	url:D017453	name:Dermatitis, Irritant	normalName:dermatitis, irritant	normalWikiTitle:dermatitis, irritant	predictedType:Disease
+CANDIDATE	id:19557	inCount:0	outCount:2	links:	url:D019557	name:Dermatitis, Perioral	normalName:dermatitis, perioral	normalWikiTitle:dermatitis, perioral	predictedType:Disease
+CANDIDATE	id:3872	inCount:20	outCount:1	links:	url:D003872	name:Dermatitis	normalName:dermatitis	normalWikiTitle:dermatitis	predictedType:Disease
+ENTITY	text:toxicity	normalName:toxicity	predictedType:disease	q:true	qid:Q250	docId:17346443	origText:toxicity	url:D064420
+CANDIDATE	id:64420	inCount:10	outCount:1	links:	url:D064420	name:Drug Toxicity	normalName:drug toxicity	normalWikiTitle:drug toxicity	predictedType:Disease
+CANDIDATE	id:66126	inCount:0	outCount:3	links:12871	url:D066126	name:Cardiotoxicity	normalName:cardiotoxicity	normalWikiTitle:cardiotoxicity	predictedType:Disease
+CANDIDATE	id:15651	inCount:2	outCount:1	links:	url:D015651	name:Mycotoxicosis	normalName:mycotoxicosis	normalWikiTitle:mycotoxicosis	predictedType:Disease
+CANDIDATE	id:13971	inCount:2	outCount:1	links:	url:D013971	name:Thyrotoxicosis	normalName:thyrotoxicosis	normalWikiTitle:thyrotoxicosis	predictedType:Disease
+CANDIDATE	id:14869	inCount:0	outCount:2	links:	url:D014869	name:Water Intoxication	normalName:water intoxication	normalWikiTitle:water intoxication	predictedType:Disease
+CANDIDATE	id:14103	inCount:4	outCount:2	links:	url:D014103	name:Torticollis	normalName:torticollis	normalWikiTitle:torticollis	predictedType:Disease
+CANDIDATE	id:9765	inCount:42	outCount:2	links:	url:D009765	name:Obesity	normalName:obesity	normalWikiTitle:obesity	predictedType:Disease
+CANDIDATE	id:14115	inCount:1	outCount:1	links:	url:D014115	name:Toxemia	normalName:toxemia	normalWikiTitle:toxemia	predictedType:Disease
+CANDIDATE	id:7246	inCount:2	outCount:2	links:	url:D007246	name:Infertility	normalName:infertility	normalWikiTitle:infertility	predictedType:Disease
+CANDIDATE	id:20234	inCount:0	outCount:2	links:	url:D020234	name:Gait Ataxia	normalName:gait ataxia	normalWikiTitle:gait ataxia	predictedType:Disease
+CANDIDATE	id:14069	inCount:1	outCount:1	links:	url:D014069	name:Tonsillitis	normalName:tonsillitis	normalWikiTitle:tonsillitis	predictedType:Disease
+CANDIDATE	id:64420	inCount:10	outCount:1	links:	url:D064420	name:Toxicity, Drug	normalName:toxicity, drug	normalWikiTitle:toxicity, drug	predictedType:Disease
+CANDIDATE	id:17484	inCount:0	outCount:2	links:	url:D017484	name:Phototoxicity	normalName:phototoxicity	normalWikiTitle:phototoxicity	predictedType:Disease
+ENTITY	text:anxiety	normalName:anxiety	predictedType:disease	q:true	qid:Q250	docId:17346443	origText:anxiety	url:D001008
+CANDIDATE	id:1008	inCount:7	outCount:1	links:3866;1714;6973;3389	url:D001008	name:ANXIETY	normalName:anxiety	normalWikiTitle:anxiety	predictedType:Disease

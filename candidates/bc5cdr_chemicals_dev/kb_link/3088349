@@ -1,0 +1,4 @@
+ENTITY	text:6-OHDA	normalName:6-ohda	predictedType:chemical	q:true	qid:Q396	docId:3088349	origText:6-OHDA	url:D016627
+CANDIDATE	id:16627	inCount:0	outCount:1	links:	url:D016627	name:6-OHDA	normalName:6-ohda	normalWikiTitle:6-ohda	predictedType:Chemical
+ENTITY	text:amphetamine	normalName:amphetamine	predictedType:chemical	q:true	qid:Q396	docId:3088349	origText:amphetamine	url:D000661
+CANDIDATE	id:661	inCount:1	outCount:1	links:	url:D000661	name:Amphetamine	normalName:amphetamine	normalWikiTitle:amphetamine	predictedType:Chemical

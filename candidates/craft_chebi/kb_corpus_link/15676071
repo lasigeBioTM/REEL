@@ -1,0 +1,22 @@
+ENTITY	text:glutaraldehyde	normalName:glutaraldehyde	predictedType:chemical	q:true	qid:Q45	docId:15676071	origText:glutaraldehyde	url:CHEBI:64276
+CANDIDATE	id:64276	inCount:0	outCount:1	links:	url:CHEBI:64276	name:glutaraldehyde	normalName:glutaraldehyde	normalWikiTitle:glutaraldehyde	predictedType:chemical
+ENTITY	text:mixture	normalName:mixture	predictedType:chemical	q:true	qid:Q45	docId:15676071	origText:mixture	url:CHEBI:60004
+CANDIDATE	id:60004	inCount:122	outCount:1	links:	url:CHEBI:60004	name:mixture	normalName:mixture	normalWikiTitle:mixture	predictedType:chemical
+ENTITY	text:electron	normalName:electron	predictedType:chemical	q:true	qid:Q45	docId:15676071	origText:electron	url:CHEBI:10545
+CANDIDATE	id:10545	inCount:0	outCount:1	links:	url:CHEBI:10545	name:electron	normalName:electron	normalWikiTitle:electron	predictedType:chemical
+ENTITY	text:cyclic nucleotide	normalName:cyclic nucleotide	predictedType:chemical	q:true	qid:Q45	docId:15676071	origText:cyclic nucleotide	url:CHEBI:23447
+CANDIDATE	id:23447	inCount:4	outCount:1	links:	url:CHEBI:23447	name:cyclic nucleotide	normalName:cyclic nucleotide	normalWikiTitle:cyclic nucleotide	predictedType:chemical
+ENTITY	text:tannic acid	normalName:tannic acid	predictedType:chemical	q:true	qid:Q45	docId:15676071	origText:tannic acid	url:CHEBI:75211
+CANDIDATE	id:75211	inCount:0	outCount:3	links:	url:CHEBI:75211	name:tannic acid	normalName:tannic acid	normalWikiTitle:tannic acid	predictedType:chemical
+ENTITY	text:carbon dioxide	normalName:carbon dioxide	predictedType:chemical	q:true	qid:Q45	docId:15676071	origText:carbon dioxide	url:CHEBI:16526
+CANDIDATE	id:16526	inCount:0	outCount:3	links:75958	url:CHEBI:16526	name:carbon dioxide	normalName:carbon dioxide	normalWikiTitle:carbon dioxide	predictedType:chemical
+ENTITY	text:lipid	normalName:lipid	predictedType:chemical	q:true	qid:Q45	docId:15676071	origText:lipid	url:CHEBI:18059
+CANDIDATE	id:18059	inCount:53	outCount:1	links:	url:CHEBI:18059	name:lipid	normalName:lipid	normalWikiTitle:lipid	predictedType:chemical
+ENTITY	text:ethanol	normalName:ethanol	predictedType:chemical	q:true	qid:Q45	docId:15676071	origText:ethanol	url:CHEBI:16236
+CANDIDATE	id:16236	inCount:0	outCount:4	links:	url:CHEBI:16236	name:ethanol	normalName:ethanol	normalWikiTitle:ethanol	predictedType:chemical
+ENTITY	text:formaldehyde	normalName:formaldehyde	predictedType:chemical	q:true	qid:Q45	docId:15676071	origText:formaldehyde	url:CHEBI:16842
+CANDIDATE	id:16842	inCount:0	outCount:2	links:	url:CHEBI:16842	name:formaldehyde	normalName:formaldehyde	normalWikiTitle:formaldehyde	predictedType:chemical
+ENTITY	text:solution	normalName:solution	predictedType:chemical	q:true	qid:Q45	docId:15676071	origText:solution	url:CHEBI:75958
+CANDIDATE	id:75958	inCount:0	outCount:1	links:16526	url:CHEBI:75958	name:solution	normalName:solution	normalWikiTitle:solution	predictedType:chemical
+ENTITY	text:fixative	normalName:fixative	predictedType:chemical	q:true	qid:Q45	docId:15676071	origText:fixative	url:CHEBI:50913
+CANDIDATE	id:50913	inCount:0	outCount:1	links:	url:CHEBI:50913	name:fixative	normalName:fixative	normalWikiTitle:fixative	predictedType:chemical

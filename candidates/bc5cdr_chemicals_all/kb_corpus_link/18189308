@@ -1,0 +1,4 @@
+ENTITY	text:cyclophosphamide	normalName:cyclophosphamide	predictedType:chemical	q:true	qid:Q680	docId:18189308	origText:cyclophosphamide	url:D003520
+CANDIDATE	id:3520	inCount:474	outCount:1	links:	url:D003520	name:Cyclophosphamide	normalName:cyclophosphamide	normalWikiTitle:cyclophosphamide	predictedType:Chemical
+ENTITY	text:tyrosine	normalName:tyrosine	predictedType:chemical	q:true	qid:Q680	docId:18189308	origText:tyrosine	url:D014443
+CANDIDATE	id:14443	inCount:271	outCount:1	links:	url:D014443	name:Tyrosine	normalName:tyrosine	normalWikiTitle:tyrosine	predictedType:Chemical

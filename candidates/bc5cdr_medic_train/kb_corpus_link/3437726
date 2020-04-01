@@ -1,0 +1,21 @@
+ENTITY	text:impairment of ventricular function	normalName:impairment of ventricular function	predictedType:disease	q:true	qid:Q4	docId:3437726	origText:impairment of ventricular function	url:D018754
+CANDIDATE	id:18754	inCount:2	outCount:1	links:7022;54537	url:D018754	name:Ventricular Dysfunction	normalName:ventricular dysfunction	normalWikiTitle:ventricular dysfunction	predictedType:Disease
+CANDIDATE	id:18487	inCount:1	outCount:1	links:	url:D018487	name:Ventricular Dysfunction, Left	normalName:ventricular dysfunction, left	normalWikiTitle:ventricular dysfunction, left	predictedType:Disease
+CANDIDATE	id:18497	inCount:0	outCount:1	links:	url:D018497	name:Ventricular Dysfunction, Right	normalName:ventricular dysfunction, right	normalWikiTitle:ventricular dysfunction, right	predictedType:Disease
+CANDIDATE	id:14694	inCount:2	outCount:1	links:	url:D014694	name:Ventricular Outflow Obstruction	normalName:ventricular outflow obstruction	normalWikiTitle:ventricular outflow obstruction	predictedType:Disease
+CANDIDATE	id:609470	inCount:0	outCount:1	links:	url:609470	name:LEFT VENTRICULAR NONCOMPACTION 2	normalName:left ventricular noncompaction 2	normalWikiTitle:left ventricular noncompaction 2	predictedType:Disease
+CANDIDATE	id:615373	inCount:0	outCount:1	links:	url:615373	name:LEFT VENTRICULAR NONCOMPACTION 8	normalName:left ventricular noncompaction 8	normalWikiTitle:left ventricular noncompaction 8	predictedType:Disease
+CANDIDATE	id:537182	inCount:0	outCount:1	links:	url:C537182	name:Paroxysmal ventricular fibrillation	normalName:paroxysmal ventricular fibrillation	normalWikiTitle:paroxysmal ventricular fibrillation	predictedType:Disease
+CANDIDATE	id:615092	inCount:0	outCount:1	links:	url:615092	name:LEFT VENTRICULAR NONCOMPACTION 7	normalName:left ventricular noncompaction 7	normalWikiTitle:left ventricular noncompaction 7	predictedType:Disease
+CANDIDATE	id:604169	inCount:0	outCount:1	links:	url:604169	name:LEFT VENTRICULAR NONCOMPACTION 1	normalName:left ventricular noncompaction 1	normalWikiTitle:left ventricular noncompaction 1	predictedType:Disease
+CANDIDATE	id:615396	inCount:0	outCount:1	links:	url:615396	name:LEFT VENTRICULAR NONCOMPACTION 10	normalName:left ventricular noncompaction 10	normalWikiTitle:left ventricular noncompaction 10	predictedType:Disease
+ENTITY	text:AV block	normalName:av block	predictedType:disease	q:true	qid:Q4	docId:3437726	origText:AV block	url:D054537
+CANDIDATE	id:54537	inCount:1	outCount:1	links:7022;18754	url:D054537	name:AV Block	normalName:av block	normalWikiTitle:av block	predictedType:Disease
+ENTITY	text:coronary artery disease	normalName:coronary artery disease	predictedType:disease	q:true	qid:Q4	docId:3437726	origText:coronary artery disease	url:D003324
+CANDIDATE	id:3324	inCount:4	outCount:2	links:	url:D003324	name:Coronary Artery Disease	normalName:coronary artery disease	normalWikiTitle:coronary artery disease	predictedType:Disease
+ENTITY	text:shock	normalName:shock	predictedType:disease	q:true	qid:Q4	docId:3437726	origText:shock	url:D012769
+CANDIDATE	id:12769	inCount:6	outCount:1	links:7022	url:D012769	name:Shock	normalName:shock	normalWikiTitle:shock	predictedType:Disease
+ENTITY	text:adverse drug reactions	normalName:adverse drug reactions	predictedType:disease	q:true	qid:Q4	docId:3437726	origText:adverse drug reactions	url:D064420
+CANDIDATE	id:64420	inCount:10	outCount:1	links:	url:D064420	name:Adverse Drug Reaction	normalName:adverse drug reaction	normalWikiTitle:adverse drug reaction	predictedType:Disease
+ENTITY	text:hypotension	normalName:hypotension	predictedType:disease	q:true	qid:Q4	docId:3437726	origText:hypotension	url:D007022
+CANDIDATE	id:7022	inCount:3	outCount:1	links:18754;54537;12769	url:D007022	name:Hypotension	normalName:hypotension	normalWikiTitle:hypotension	predictedType:Disease

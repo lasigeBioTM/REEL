@@ -1,0 +1,28 @@
+ENTITY	text:heparan sulphate	normalName:heparan sulphate	predictedType:chemical	q:true	qid:Q109	docId:8690168	origText:heparan sulphate	url:D006497
+CANDIDATE	id:6497	inCount:10	outCount:1	links:	url:D006497	name:Sulfate, Heparan	normalName:sulfate, heparan	normalWikiTitle:sulfate, heparan	predictedType:Chemical
+CANDIDATE	id:6497	inCount:10	outCount:1	links:	url:D006497	name:Heparitin Sulfate	normalName:heparitin sulfate	normalWikiTitle:heparitin sulfate	predictedType:Chemical
+CANDIDATE	id:562174	inCount:0	outCount:1	links:	url:C562174	name:M402 heparan sulfate	normalName:m402 heparan sulfate	normalWikiTitle:m402 heparan sulfate	predictedType:Chemical
+CANDIDATE	id:106771	inCount:0	outCount:1	links:	url:C106771	name:acharan sulfate	normalName:acharan sulfate	normalWikiTitle:acharan sulfate	predictedType:Chemical
+CANDIDATE	id:37405	inCount:0	outCount:1	links:	url:C037405	name:heparin-sepharose	normalName:heparin-sepharose	normalWikiTitle:heparin-sepharose	predictedType:Chemical
+CANDIDATE	id:16264	inCount:3	outCount:1	links:	url:D016264	name:Dextran Sulfate	normalName:dextran sulfate	normalWikiTitle:dextran sulfate	predictedType:Chemical
+CANDIDATE	id:7632	inCount:1	outCount:1	links:	url:D007632	name:Keratan Sulfate	normalName:keratan sulfate	normalWikiTitle:keratan sulfate	predictedType:Chemical
+CANDIDATE	id:40709	inCount:0	outCount:1	links:	url:C040709	name:N-desulfoheparan sulfate	normalName:n-desulfoheparan sulfate	normalWikiTitle:n-desulfoheparan sulfate	predictedType:Chemical
+CANDIDATE	id:8272	inCount:0	outCount:1	links:	url:C008272	name:levan sulfate	normalName:levan sulfate	normalWikiTitle:levan sulfate	predictedType:Chemical
+CANDIDATE	id:3871	inCount:8	outCount:1	links:	url:D003871	name:Dermatan Sulfate	normalName:dermatan sulfate	normalWikiTitle:dermatan sulfate	predictedType:Chemical
+CANDIDATE	id:78963	inCount:0	outCount:1	links:	url:C078963	name:arabinan sulfate	normalName:arabinan sulfate	normalWikiTitle:arabinan sulfate	predictedType:Chemical
+CANDIDATE	id:6497	inCount:10	outCount:1	links:	url:D006497	name:Heparan Sulfate	normalName:heparan sulfate	normalWikiTitle:heparan sulfate	predictedType:Chemical
+ENTITY	text:streptozotocin	normalName:streptozotocin	predictedType:chemical	q:true	qid:Q109	docId:8690168	origText:streptozotocin	url:D013311
+CANDIDATE	id:13311	inCount:12	outCount:2	links:	url:D013311	name:Streptozotocin	normalName:streptozotocin	normalWikiTitle:streptozotocin	predictedType:Chemical
+ENTITY	text:cuprolinic blue	normalName:cuprolinic blue	predictedType:chemical	q:true	qid:Q109	docId:8690168	origText:cuprolinic blue	url:C015445
+CANDIDATE	id:15445	inCount:0	outCount:2	links:	url:C015445	name:cuprolinic blue	normalName:cuprolinic blue	normalWikiTitle:cuprolinic blue	predictedType:Chemical
+ENTITY	text:glycosaminoglycan	normalName:glycosaminoglycan	predictedType:chemical	q:true	qid:Q109	docId:8690168	origText:glycosaminoglycan	url:D006025
+CANDIDATE	id:6025	inCount:41	outCount:1	links:	url:D006025	name:Glycosaminoglycans	normalName:glycosaminoglycans	normalWikiTitle:glycosaminoglycans	predictedType:Chemical
+CANDIDATE	id:20341	inCount:0	outCount:1	links:	url:C020341	name:glucosaminoglycans	normalName:glucosaminoglycans	normalWikiTitle:glucosaminoglycans	predictedType:Chemical
+CANDIDATE	id:7815	inCount:0	outCount:1	links:	url:C007815	name:galactosaminoglycan	normalName:galactosaminoglycan	normalWikiTitle:galactosaminoglycan	predictedType:Chemical
+CANDIDATE	id:39448	inCount:0	outCount:2	links:	url:C039448	name:lactosaminoglycan	normalName:lactosaminoglycan	normalWikiTitle:lactosaminoglycan	predictedType:Chemical
+CANDIDATE	id:62157	inCount:0	outCount:1	links:	url:C062157	name:galactosaminogalactan	normalName:galactosaminogalactan	normalWikiTitle:galactosaminogalactan	predictedType:Chemical
+CANDIDATE	id:16489	inCount:0	outCount:1	links:	url:C016489	name:hexosaminoglycans	normalName:hexosaminoglycans	normalWikiTitle:hexosaminoglycans	predictedType:Chemical
+CANDIDATE	id:18303	inCount:0	outCount:1	links:	url:C018303	name:glycosaminoglucuronates	normalName:glycosaminoglucuronates	normalWikiTitle:glycosaminoglucuronates	predictedType:Chemical
+CANDIDATE	id:42947	inCount:0	outCount:1	links:	url:C042947	name:polylactosamino-proteoglycan	normalName:polylactosamino-proteoglycan	normalWikiTitle:polylactosamino-proteoglycan	predictedType:Chemical
+CANDIDATE	id:15247	inCount:0	outCount:1	links:	url:C015247	name:glycosminine	normalName:glycosminine	normalWikiTitle:glycosminine	predictedType:Chemical
+CANDIDATE	id:42476	inCount:0	outCount:2	links:	url:C042476	name:sialylfucosyllactosaminoglycan	normalName:sialylfucosyllactosaminoglycan	normalWikiTitle:sialylfucosyllactosaminoglycan	predictedType:Chemical

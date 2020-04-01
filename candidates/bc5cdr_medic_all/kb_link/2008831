@@ -1,0 +1,30 @@
+ENTITY	text:spasm	normalName:spasm	predictedType:disease	q:true	qid:Q1249	docId:2008831	origText:spasm	url:D013035
+CANDIDATE	id:13035	inCount:5	outCount:1	links:	url:D013035	name:Spasm	normalName:spasm	normalWikiTitle:spasm	predictedType:Disease
+ENTITY	text:variant angina	normalName:variant angina	predictedType:disease	q:true	qid:Q1249	docId:2008831	origText:variant angina	url:D000788
+CANDIDATE	id:788	inCount:1	outCount:1	links:	url:D000788	name:Angina Pectoris, Variant	normalName:angina pectoris, variant	normalWikiTitle:angina pectoris, variant	predictedType:Disease
+CANDIDATE	id:536421	inCount:0	outCount:1	links:	url:C536421	name:Prinzmetal's variant angina	normalName:prinzmetal's variant angina	normalWikiTitle:prinzmetal's variant angina	predictedType:Disease
+CANDIDATE	id:789	inCount:1	outCount:1	links:	url:D000789	name:Angina, Unstable	normalName:angina, unstable	normalWikiTitle:angina, unstable	predictedType:Disease
+CANDIDATE	id:787	inCount:3	outCount:2	links:787	url:D000787	name:Angina Pectoris	normalName:angina pectoris	normalWikiTitle:angina pectoris	predictedType:Disease
+CANDIDATE	id:535570	inCount:0	outCount:1	links:	url:C535570	name:Acalvaria	normalName:acalvaria	normalWikiTitle:acalvaria	predictedType:Disease
+CANDIDATE	id:566865	inCount:0	outCount:1	links:	url:C566865	name:Ataxia-Telangiectasia Variant	normalName:ataxia-telangiectasia variant	normalWikiTitle:ataxia-telangiectasia variant	predictedType:Disease
+CANDIDATE	id:10049	inCount:13	outCount:2	links:	url:D010049	name:Ovarian Diseases	normalName:ovarian diseases	normalWikiTitle:ovarian diseases	predictedType:Disease
+CANDIDATE	id:8289	inCount:0	outCount:2	links:	url:D008289	name:Malaria, Avian	normalName:malaria, avian	normalWikiTitle:malaria, avian	predictedType:Disease
+CANDIDATE	id:17566	inCount:0	outCount:1	links:	url:D017566	name:Microvascular Angina	normalName:microvascular angina	normalWikiTitle:microvascular angina	predictedType:Disease
+CANDIDATE	id:536347	inCount:0	outCount:2	links:	url:C536347	name:Vibratory angioedema	normalName:vibratory angioedema	normalWikiTitle:vibratory angioedema	predictedType:Disease
+CANDIDATE	id:5892	inCount:0	outCount:3	links:	url:D005892	name:Angina, Vincent	normalName:angina, vincent	normalWikiTitle:angina, vincent	predictedType:Disease
+CANDIDATE	id:5892	inCount:0	outCount:3	links:	url:D005892	name:Vincent Angina	normalName:vincent angina	normalWikiTitle:vincent angina	predictedType:Disease
+ENTITY	text:angina pectoris	normalName:angina pectoris	predictedType:disease	q:true	qid:Q1249	docId:2008831	origText:angina pectoris	url:D000787
+CANDIDATE	id:787	inCount:3	outCount:2	links:787	url:D000787	name:Angina Pectoris	normalName:angina pectoris	normalWikiTitle:angina pectoris	predictedType:Disease
+ENTITY	text:chest pain	normalName:chest pain	predictedType:disease	q:true	qid:Q1249	docId:2008831	origText:chest pain	url:D002637
+CANDIDATE	id:2637	inCount:1	outCount:1	links:	url:D002637	name:Chest Pain	normalName:chest pain	normalWikiTitle:chest pain	predictedType:Disease
+ENTITY	text:coronary spasm	normalName:coronary spasm	predictedType:disease	q:true	qid:Q1249	docId:2008831	origText:coronary spasm	url:D003329
+CANDIDATE	id:3329	inCount:1	outCount:1	links:	url:D003329	name:Coronary Vasospasm	normalName:coronary vasospasm	normalWikiTitle:coronary vasospasm	predictedType:Disease
+CANDIDATE	id:3327	inCount:7	outCount:1	links:	url:D003327	name:Coronary Disease	normalName:coronary disease	normalWikiTitle:coronary disease	predictedType:Disease
+CANDIDATE	id:23921	inCount:1	outCount:1	links:	url:D023921	name:Coronary Stenosis	normalName:coronary stenosis	normalWikiTitle:coronary stenosis	predictedType:Disease
+CANDIDATE	id:1986	inCount:0	outCount:1	links:	url:D001986	name:Bronchial Spasm	normalName:bronchial spasm	normalWikiTitle:bronchial spasm	predictedType:Disease
+CANDIDATE	id:23903	inCount:0	outCount:1	links:	url:D023903	name:Coronary Restenosis	normalName:coronary restenosis	normalWikiTitle:coronary restenosis	predictedType:Disease
+CANDIDATE	id:3328	inCount:0	outCount:2	links:	url:D003328	name:Coronary Thrombosis	normalName:coronary thrombosis	normalWikiTitle:coronary thrombosis	predictedType:Disease
+CANDIDATE	id:3324	inCount:4	outCount:2	links:	url:D003324	name:Coronary Artery Disease	normalName:coronary artery disease	normalWikiTitle:coronary artery disease	predictedType:Disease
+CANDIDATE	id:54059	inCount:0	outCount:1	links:	url:D054059	name:Coronary Occlusion	normalName:coronary occlusion	normalWikiTitle:coronary occlusion	predictedType:Disease
+CANDIDATE	id:536773	inCount:0	outCount:1	links:	url:C536773	name:Syphilis, secondary	normalName:syphilis, secondary	normalWikiTitle:syphilis, secondary	predictedType:Disease
+CANDIDATE	id:1997	inCount:0	outCount:2	links:	url:D001997	name:Bronchopulmonary Dysplasia	normalName:bronchopulmonary dysplasia	normalWikiTitle:bronchopulmonary dysplasia	predictedType:Disease

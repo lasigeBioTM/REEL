@@ -1,0 +1,6 @@
+ENTITY	text:heparin	normalName:heparin	predictedType:chemical	q:true	qid:Q228	docId:9158667	origText:heparin	url:D006493
+CANDIDATE	id:6493	inCount:75	outCount:1	links:14212	url:D006493	name:Heparin	normalName:heparin	normalWikiTitle:heparin	predictedType:Chemical
+ENTITY	text:all-trans-retinoic acid	normalName:all-trans-retinoic acid	predictedType:chemical	q:true	qid:Q228	docId:9158667	origText:all-trans-retinoic acid	url:D014212
+CANDIDATE	id:14212	inCount:84	outCount:2	links:6493	url:D014212	name:Acid, all-trans-Retinoic	normalName:acid, all-trans-retinoic	normalWikiTitle:acid, all-trans-retinoic	predictedType:Chemical
+ENTITY	text:tranexamic acid	normalName:tranexamic acid	predictedType:chemical	q:true	qid:Q228	docId:9158667	origText:tranexamic acid	url:D014148
+CANDIDATE	id:14148	inCount:6	outCount:1	links:	url:D014148	name:Tranexamic Acid	normalName:tranexamic acid	normalWikiTitle:tranexamic acid	predictedType:Chemical

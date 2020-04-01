@@ -1,0 +1,32 @@
+ENTITY	text:overdose	normalName:overdose	predictedType:disease	q:true	qid:Q259	docId:9034419	origText:overdose	url:D062787
+CANDIDATE	id:62787	inCount:0	outCount:1	links:12640	url:D062787	name:Drug Overdose	normalName:drug overdose	normalWikiTitle:drug overdose	predictedType:Disease
+CANDIDATE	id:57887	inCount:0	outCount:1	links:	url:D057887	name:Overbite	normalName:overbite	normalWikiTitle:overbite	predictedType:Disease
+CANDIDATE	id:8141	inCount:2	outCount:1	links:	url:D008141	name:Lordosis	normalName:lordosis	normalWikiTitle:lordosis	predictedType:Disease
+CANDIDATE	id:564931	inCount:0	outCount:2	links:	url:C564931	name:Oliver Syndrome	normalName:oliver syndrome	normalWikiTitle:oliver syndrome	predictedType:Disease
+CANDIDATE	id:50177	inCount:1	outCount:1	links:	url:D050177	name:Overweight	normalName:overweight	normalWikiTitle:overweight	predictedType:Disease
+CANDIDATE	id:1882	inCount:0	outCount:2	links:	url:D001882	name:Border Disease	normalName:border disease	normalWikiTitle:border disease	predictedType:Disease
+CANDIDATE	id:12393	inCount:1	outCount:1	links:12640	url:D012393	name:Rosacea	normalName:rosacea	normalWikiTitle:rosacea	predictedType:Disease
+CANDIDATE	id:14717	inCount:2	outCount:2	links:12640	url:D014717	name:Vertigo	normalName:vertigo	normalWikiTitle:vertigo	predictedType:Disease
+CANDIDATE	id:7918	inCount:2	outCount:1	links:	url:D007918	name:Leprosy	normalName:leprosy	normalWikiTitle:leprosy	predictedType:Disease
+CANDIDATE	id:6732	inCount:1	outCount:2	links:	url:D006732	name:Horner Syndrome	normalName:horner syndrome	normalWikiTitle:horner syndrome	predictedType:Disease
+ENTITY	text:Seizure	normalName:seizure	predictedType:disease	q:true	qid:Q259	docId:9034419	origText:Seizure	url:D012640
+CANDIDATE	id:12640	inCount:53	outCount:1	links:62787;14717;12393	url:D012640	name:Seizure	normalName:seizure	normalWikiTitle:seizure	predictedType:Disease
+ENTITY	text:major depression	normalName:major depression	predictedType:disease	q:true	qid:Q259	docId:9034419	origText:major depression	url:D003865
+CANDIDATE	id:3865	inCount:2	outCount:1	links:	url:D003865	name:Depressive Disorder, Major	normalName:depressive disorder, major	normalWikiTitle:depressive disorder, major	predictedType:Disease
+CANDIDATE	id:19052	inCount:0	outCount:2	links:	url:D019052	name:Depression, Postpartum	normalName:depression, postpartum	normalWikiTitle:depression, postpartum	predictedType:Disease
+CANDIDATE	id:563875	inCount:0	outCount:1	links:	url:C563875	name:Major Depressive Disorder 2	normalName:major depressive disorder 2	normalWikiTitle:major depressive disorder 2	predictedType:Disease
+CANDIDATE	id:563919	inCount:0	outCount:1	links:	url:C563919	name:Major Depressive Disorder 1	normalName:major depressive disorder 1	normalWikiTitle:major depressive disorder 1	predictedType:Disease
+CANDIDATE	id:3866	inCount:6	outCount:1	links:	url:D003866	name:Depressive Disorder	normalName:depressive disorder	normalWikiTitle:depressive disorder	predictedType:Disease
+CANDIDATE	id:50815	inCount:1	outCount:1	links:	url:D050815	name:Fractures, Compression	normalName:fractures, compression	normalWikiTitle:fractures, compression	predictedType:Disease
+CANDIDATE	id:6976	inCount:12	outCount:1	links:	url:D006976	name:Hypertension, Pulmonary	normalName:hypertension, pulmonary	normalWikiTitle:hypertension, pulmonary	predictedType:Disease
+CANDIDATE	id:3665	inCount:0	outCount:1	links:	url:D003665	name:Decompression Sickness	normalName:decompression sickness	normalWikiTitle:decompression sickness	predictedType:Disease
+CANDIDATE	id:59468	inCount:0	outCount:1	links:	url:D059468	name:Masked Hypertension	normalName:masked hypertension	normalWikiTitle:masked hypertension	predictedType:Disease
+CANDIDATE	id:6975	inCount:3	outCount:1	links:	url:D006975	name:Hypertension, Portal	normalName:hypertension, portal	normalWikiTitle:hypertension, portal	predictedType:Disease
+CANDIDATE	id:61218	inCount:0	outCount:1	links:	url:D061218	name:Depression, Refractory	normalName:depression, refractory	normalWikiTitle:depression, refractory	predictedType:Disease
+CANDIDATE	id:61218	inCount:0	outCount:1	links:	url:D061218	name:Refractory Depression	normalName:refractory depression	normalWikiTitle:refractory depression	predictedType:Disease
+CANDIDATE	id:12131	inCount:13	outCount:1	links:	url:D012131	name:Respiratory Depression	normalName:respiratory depression	normalWikiTitle:respiratory depression	predictedType:Disease
+CANDIDATE	id:12131	inCount:13	outCount:1	links:	url:D012131	name:Ventilatory Depression	normalName:ventilatory depression	normalWikiTitle:ventilatory depression	predictedType:Disease
+CANDIDATE	id:61218	inCount:0	outCount:1	links:	url:D061218	name:Depressions, Refractory	normalName:depressions, refractory	normalWikiTitle:depressions, refractory	predictedType:Disease
+CANDIDATE	id:3866	inCount:6	outCount:1	links:	url:D003866	name:Depression, Unipolar	normalName:depression, unipolar	normalWikiTitle:depression, unipolar	predictedType:Disease
+CANDIDATE	id:3866	inCount:6	outCount:1	links:	url:D003866	name:Unipolar Depression	normalName:unipolar depression	normalWikiTitle:unipolar depression	predictedType:Disease
+CANDIDATE	id:61218	inCount:0	outCount:1	links:	url:D061218	name:Refractory Depressions	normalName:refractory depressions	normalWikiTitle:refractory depressions	predictedType:Disease

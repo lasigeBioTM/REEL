@@ -1,0 +1,4 @@
+ENTITY	text:baclofen	normalName:baclofen	predictedType:chemical	q:true	qid:Q270	docId:17263743	origText:baclofen	url:D001418
+CANDIDATE	id:1418	inCount:11	outCount:1	links:	url:D001418	name:Baclofen	normalName:baclofen	normalWikiTitle:baclofen	predictedType:Chemical
+ENTITY	text:clonidine	normalName:clonidine	predictedType:chemical	q:true	qid:Q270	docId:17263743	origText:clonidine	url:D003000
+CANDIDATE	id:3000	inCount:39	outCount:1	links:	url:D003000	name:Clonidine	normalName:clonidine	normalWikiTitle:clonidine	predictedType:Chemical

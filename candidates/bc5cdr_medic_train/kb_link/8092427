@@ -1,0 +1,8 @@
+ENTITY	text:Anaphylaxis	normalName:anaphylaxis	predictedType:disease	q:true	qid:Q365	docId:8092427	origText:Anaphylaxis	url:D000707
+CANDIDATE	id:707	inCount:0	outCount:1	links:	url:D000707	name:Anaphylaxis	normalName:anaphylaxis	normalWikiTitle:anaphylaxis	predictedType:Disease
+ENTITY	text:MDM	normalName:mdm	predictedType:disease	q:true	qid:Q365	docId:8092427	origText:MDM	url:D007645
+CANDIDATE	id:7645	inCount:41	outCount:2	links:	url:D007645	name:MDM	normalName:mdm	normalWikiTitle:mdm	predictedType:Disease
+ENTITY	text:angioedema	normalName:angioedema	predictedType:disease	q:true	qid:Q365	docId:8092427	origText:angioedema	url:D000799
+CANDIDATE	id:799	inCount:4	outCount:2	links:	url:D000799	name:Angioedema	normalName:angioedema	normalWikiTitle:angioedema	predictedType:Disease
+ENTITY	text:urticaria	normalName:urticaria	predictedType:disease	q:true	qid:Q365	docId:8092427	origText:urticaria	url:D014581
+CANDIDATE	id:14581	inCount:6	outCount:2	links:	url:D014581	name:Urticaria	normalName:urticaria	normalWikiTitle:urticaria	predictedType:Disease

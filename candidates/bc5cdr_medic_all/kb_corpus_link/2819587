@@ -1,0 +1,4 @@
+ENTITY	text:venous thrombosis	normalName:venous thrombosis	predictedType:disease	q:true	qid:Q1254	docId:2819587	origText:venous thrombosis	url:D020246
+CANDIDATE	id:20246	inCount:5	outCount:1	links:20246	url:D020246	name:Venous Thrombosis	normalName:venous thrombosis	normalWikiTitle:venous thrombosis	predictedType:Disease
+ENTITY	text:deep venous thrombosis	normalName:deep venous thrombosis	predictedType:disease	q:true	qid:Q1254	docId:2819587	origText:deep venous thrombosis	url:D020246
+CANDIDATE	id:20246	inCount:5	outCount:1	links:20246	url:D020246	name:Venous Thrombosis, Deep	normalName:venous thrombosis, deep	normalWikiTitle:venous thrombosis, deep	predictedType:Disease

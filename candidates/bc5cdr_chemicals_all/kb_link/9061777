@@ -1,0 +1,10 @@
+ENTITY	text:MK-801	normalName:mk-801	predictedType:chemical	q:true	qid:Q1454	docId:9061777	origText:MK-801	url:D016291
+CANDIDATE	id:16291	inCount:9	outCount:1	links:	url:D016291	name:MK 801	normalName:mk 801	normalWikiTitle:mk 801	predictedType:Chemical
+ENTITY	text:NMDA	normalName:nmda	predictedType:chemical	q:true	qid:Q1454	docId:9061777	origText:NMDA	url:D016202
+CANDIDATE	id:16202	inCount:3	outCount:1	links:	url:D016202	name:NMDA	normalName:nmda	normalWikiTitle:nmda	predictedType:Chemical
+ENTITY	text:pentobarbital	normalName:pentobarbital	predictedType:chemical	q:true	qid:Q1454	docId:9061777	origText:pentobarbital	url:D010424
+CANDIDATE	id:10424	inCount:10	outCount:1	links:	url:D010424	name:Pentobarbital	normalName:pentobarbital	normalWikiTitle:pentobarbital	predictedType:Chemical
+ENTITY	text:Scopolamine	normalName:scopolamine	predictedType:chemical	q:true	qid:Q1454	docId:9061777	origText:Scopolamine	url:D012601
+CANDIDATE	id:12601	inCount:3	outCount:2	links:	url:D012601	name:Scopolamine	normalName:scopolamine	normalWikiTitle:scopolamine	predictedType:Chemical
+ENTITY	text:pilocarpine	normalName:pilocarpine	predictedType:chemical	q:true	qid:Q1454	docId:9061777	origText:pilocarpine	url:D010862
+CANDIDATE	id:10862	inCount:7	outCount:1	links:	url:D010862	name:Pilocarpine	normalName:pilocarpine	normalWikiTitle:pilocarpine	predictedType:Chemical

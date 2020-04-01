@@ -1,0 +1,18 @@
+ENTITY	text:malignancies	normalName:malignancies	predictedType:disease	q:true	qid:Q593	docId:16369751	origText:malignancies	url:D009369
+CANDIDATE	id:9369	inCount:18	outCount:1	links:	url:D009369	name:Malignancies	normalName:malignancies	normalWikiTitle:malignancies	predictedType:Disease
+ENTITY	text:right bundle branch block	normalName:right bundle branch block	predictedType:disease	q:true	qid:Q593	docId:16369751	origText:right bundle branch block	url:D002037
+CANDIDATE	id:2037	inCount:1	outCount:1	links:787;788;2637	url:D002037	name:Right Bundle-Branch Block	normalName:right bundle-branch block	normalWikiTitle:right bundle-branch block	predictedType:Disease
+ENTITY	text:cardiotoxicity	normalName:cardiotoxicity	predictedType:disease	q:true	qid:Q593	docId:16369751	origText:cardiotoxicity	url:D066126
+CANDIDATE	id:66126	inCount:0	outCount:3	links:	url:D066126	name:Cardiotoxicity	normalName:cardiotoxicity	normalWikiTitle:cardiotoxicity	predictedType:Disease
+ENTITY	text:precordial pain	normalName:precordial pain	predictedType:disease	q:true	qid:Q593	docId:16369751	origText:precordial pain	url:D002637
+CANDIDATE	id:2637	inCount:1	outCount:1	links:2037	url:D002637	name:Precordial Catch	normalName:precordial catch	normalWikiTitle:precordial catch	predictedType:Disease
+CANDIDATE	id:73818	inCount:0	outCount:1	links:	url:D000073818	name:Pain, Procedural	normalName:pain, procedural	normalWikiTitle:pain, procedural	predictedType:Disease
+CANDIDATE	id:787	inCount:3	outCount:2	links:2037	url:D000787	name:Angina Pectoris	normalName:angina pectoris	normalWikiTitle:angina pectoris	predictedType:Disease
+CANDIDATE	id:53591	inCount:0	outCount:1	links:	url:D053591	name:Pain, Referred	normalName:pain, referred	normalWikiTitle:pain, referred	predictedType:Disease
+CANDIDATE	id:59265	inCount:0	outCount:1	links:	url:D059265	name:Visceral Pain	normalName:visceral pain	normalWikiTitle:visceral pain	predictedType:Disease
+CANDIDATE	id:10490	inCount:1	outCount:1	links:	url:D010490	name:Pericardial Effusion	normalName:pericardial effusion	normalWikiTitle:pericardial effusion	predictedType:Disease
+CANDIDATE	id:17699	inCount:3	outCount:1	links:	url:D017699	name:Pelvic Pain	normalName:pelvic pain	normalWikiTitle:pelvic pain	predictedType:Disease
+CANDIDATE	id:10923	inCount:0	outCount:2	links:	url:D010923	name:Placenta Previa	normalName:placenta previa	normalWikiTitle:placenta previa	predictedType:Disease
+CANDIDATE	id:566720	inCount:0	outCount:3	links:	url:C566720	name:Retinal Aplasia	normalName:retinal aplasia	normalWikiTitle:retinal aplasia	predictedType:Disease
+CANDIDATE	id:18246	inCount:0	outCount:1	links:	url:D018246	name:Adrenocortical Adenoma	normalName:adrenocortical adenoma	normalWikiTitle:adrenocortical adenoma	predictedType:Disease
+CANDIDATE	id:788	inCount:1	outCount:1	links:2037	url:D000788	name:Angina Pectoris, Variant	normalName:angina pectoris, variant	normalWikiTitle:angina pectoris, variant	predictedType:Disease

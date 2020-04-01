@@ -1,0 +1,4 @@
+ENTITY	text:digoxin	normalName:digoxin	predictedType:chemical	q:true	qid:Q1206	docId:1449452	origText:digoxin	url:D004077
+CANDIDATE	id:4077	inCount:22	outCount:2	links:	url:D004077	name:Digoxin	normalName:digoxin	normalWikiTitle:digoxin	predictedType:Chemical
+ENTITY	text:Angiotensin	normalName:angiotensin	predictedType:chemical	q:true	qid:Q1206	docId:1449452	origText:Angiotensin	url:D000809
+CANDIDATE	id:809	inCount:9	outCount:4	links:	url:D000809	name:Angiotensin	normalName:angiotensin	normalWikiTitle:angiotensin	predictedType:Chemical

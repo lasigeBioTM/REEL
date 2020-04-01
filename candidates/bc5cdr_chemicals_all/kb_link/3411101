@@ -1,0 +1,25 @@
+ENTITY	text:Quinidine	normalName:quinidine	predictedType:chemical	q:true	qid:Q1169	docId:3411101	origText:Quinidine	url:D011802
+CANDIDATE	id:11802	inCount:21	outCount:3	links:	url:D011802	name:Quinidine	normalName:quinidine	normalWikiTitle:quinidine	predictedType:Chemical
+ENTITY	text:phenylethylbarbiturate	normalName:phenylethylbarbiturate	predictedType:chemical	q:true	qid:Q1169	docId:3411101	origText:phenylethylbarbiturate	url:C033457
+CANDIDATE	id:33457	inCount:0	outCount:2	links:33457	url:C033457	name:quinidine phenylethylbarbiturate	normalName:quinidine phenylethylbarbiturate	normalWikiTitle:quinidine phenylethylbarbiturate	predictedType:Chemical
+CANDIDATE	id:33239	inCount:0	outCount:2	links:	url:C033239	name:ajmaline phenylbarbiturate	normalName:ajmaline phenylbarbiturate	normalWikiTitle:ajmaline phenylbarbiturate	predictedType:Chemical
+CANDIDATE	id:419359	inCount:0	outCount:2	links:	url:C419359	name:phenylthiocarbamate	normalName:phenylthiocarbamate	normalWikiTitle:phenylthiocarbamate	predictedType:Chemical
+CANDIDATE	id:13858	inCount:24	outCount:1	links:	url:D013858	name:Thiobarbiturates	normalName:thiobarbiturates	normalWikiTitle:thiobarbiturates	predictedType:Chemical
+CANDIDATE	id:3101	inCount:0	outCount:1	links:	url:C003101	name:phenylmethyloxadiazole	normalName:phenylmethyloxadiazole	normalWikiTitle:phenylmethyloxadiazole	predictedType:Chemical
+CANDIDATE	id:510581	inCount:0	outCount:1	links:	url:C510581	name:3-phenylethylandrosterone	normalName:3-phenylethylandrosterone	normalWikiTitle:3-phenylethylandrosterone	predictedType:Chemical
+CANDIDATE	id:10670	inCount:26	outCount:1	links:	url:D010670	name:Phenylthiourea	normalName:phenylthiourea	normalWikiTitle:phenylthiourea	predictedType:Chemical
+CANDIDATE	id:526490	inCount:0	outCount:1	links:	url:C526490	name:phenethyl salicylate	normalName:phenethyl salicylate	normalWikiTitle:phenethyl salicylate	predictedType:Chemical
+CANDIDATE	id:49868	inCount:0	outCount:1	links:	url:C049868	name:phenyl phenylacetate	normalName:phenyl phenylacetate	normalWikiTitle:phenyl phenylacetate	predictedType:Chemical
+CANDIDATE	id:539851	inCount:0	outCount:2	links:	url:C539851	name:triphenylmethylamine	normalName:triphenylmethylamine	normalWikiTitle:triphenylmethylamine	predictedType:Chemical
+CANDIDATE	id:628565	inCount:0	outCount:1	links:	url:C000628565	name:phenethyl tiglate	normalName:phenethyl tiglate	normalWikiTitle:phenethyl tiglate	predictedType:Chemical
+CANDIDATE	id:10634	inCount:50	outCount:1	links:	url:D010634	name:Phenylethylbarbituric Acid	normalName:phenylethylbarbituric acid	normalWikiTitle:phenylethylbarbituric acid	predictedType:Chemical
+CANDIDATE	id:10634	inCount:50	outCount:1	links:	url:D010634	name:Acid, Phenylethylbarbituric	normalName:acid, phenylethylbarbituric	normalWikiTitle:acid, phenylethylbarbituric	predictedType:Chemical
+CANDIDATE	id:10629	inCount:4	outCount:1	links:	url:D010629	name:Phenylethylbiguanide	normalName:phenylethylbiguanide	normalWikiTitle:phenylethylbiguanide	predictedType:Chemical
+CANDIDATE	id:6843	inCount:0	outCount:1	links:	url:C006843	name:phenethylaminecitrate	normalName:phenethylaminecitrate	normalWikiTitle:phenethylaminecitrate	predictedType:Chemical
+CANDIDATE	id:5825	inCount:0	outCount:1	links:	url:C005825	name:phenylethylacetylurea	normalName:phenylethylacetylurea	normalWikiTitle:phenylethylacetylurea	predictedType:Chemical
+CANDIDATE	id:526490	inCount:0	outCount:1	links:	url:C526490	name:phenylethyl salicylate	normalName:phenylethyl salicylate	normalWikiTitle:phenylethyl salicylate	predictedType:Chemical
+CANDIDATE	id:1596	inCount:171	outCount:2	links:	url:D001596	name:Phenylmethylamine	normalName:phenylmethylamine	normalWikiTitle:phenylmethylamine	predictedType:Chemical
+CANDIDATE	id:10634	inCount:50	outCount:1	links:	url:D010634	name:Phenylbarbital	normalName:phenylbarbital	normalWikiTitle:phenylbarbital	predictedType:Chemical
+CANDIDATE	id:10627	inCount:178	outCount:1	links:	url:D010627	name:Phenylethylamines	normalName:phenylethylamines	normalWikiTitle:phenylethylamines	predictedType:Chemical
+ENTITY	text:Quinidine phenylethylbarbiturate	normalName:quinidine phenylethylbarbiturate	predictedType:chemical	q:true	qid:Q1169	docId:3411101	origText:Quinidine phenylethylbarbiturate	url:C033457
+CANDIDATE	id:33457	inCount:0	outCount:2	links:33457	url:C033457	name:quinidine phenylethylbarbiturate	normalName:quinidine phenylethylbarbiturate	normalWikiTitle:quinidine phenylethylbarbiturate	predictedType:Chemical

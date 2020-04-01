@@ -1,0 +1,34 @@
+ENTITY	text:haemorrhage	normalName:haemorrhage	predictedType:disease	q:true	qid:Q427	docId:19058474	origText:haemorrhage	url:D006470
+CANDIDATE	id:6470	inCount:31	outCount:1	links:	url:D006470	name:Hemorrhage	normalName:hemorrhage	normalWikiTitle:hemorrhage	predictedType:Disease
+CANDIDATE	id:5130	inCount:4	outCount:3	links:	url:D005130	name:Eye Hemorrhage	normalName:eye hemorrhage	normalWikiTitle:eye hemorrhage	predictedType:Disease
+CANDIDATE	id:6472	inCount:1	outCount:3	links:	url:D006472	name:Oral Hemorrhage	normalName:oral hemorrhage	normalWikiTitle:oral hemorrhage	predictedType:Disease
+CANDIDATE	id:12166	inCount:3	outCount:2	links:	url:D012166	name:Retinal Hemorrhage	normalName:retinal hemorrhage	normalWikiTitle:retinal hemorrhage	predictedType:Disease
+CANDIDATE	id:2832	inCount:0	outCount:2	links:2832	url:D002832	name:Choroid Hemorrhage	normalName:choroid hemorrhage	normalWikiTitle:choroid hemorrhage	predictedType:Disease
+CANDIDATE	id:14592	inCount:3	outCount:2	links:	url:D014592	name:Uterine Hemorrhage	normalName:uterine hemorrhage	normalWikiTitle:uterine hemorrhage	predictedType:Disease
+CANDIDATE	id:568	inCount:3	outCount:1	links:	url:D000568	name:Amenorrhea	normalName:amenorrhea	normalWikiTitle:amenorrhea	predictedType:Disease
+CANDIDATE	id:5884	inCount:1	outCount:2	links:5884	url:D005884	name:Gingival Hemorrhage	normalName:gingival hemorrhage	normalWikiTitle:gingival hemorrhage	predictedType:Disease
+CANDIDATE	id:14823	inCount:0	outCount:1	links:	url:D014823	name:Vitreous Hemorrhage	normalName:vitreous hemorrhage	normalWikiTitle:vitreous hemorrhage	predictedType:Disease
+CANDIDATE	id:2543	inCount:3	outCount:1	links:2543	url:D002543	name:Cerebral Hemorrhage	normalName:cerebral hemorrhage	normalWikiTitle:cerebral hemorrhage	predictedType:Disease
+ENTITY	text:haemopericardium	normalName:haemopericardium	predictedType:disease	q:true	qid:Q427	docId:19058474	origText:haemopericardium	url:D010490
+CANDIDATE	id:10490	inCount:1	outCount:1	links:	url:D010490	name:Hemopericardium	normalName:hemopericardium	normalWikiTitle:hemopericardium	predictedType:Disease
+CANDIDATE	id:11026	inCount:0	outCount:1	links:	url:D011026	name:Pneumopericardium	normalName:pneumopericardium	normalWikiTitle:pneumopericardium	predictedType:Disease
+CANDIDATE	id:51516	inCount:0	outCount:1	links:	url:D051516	name:Hemospermia	normalName:hemospermia	normalWikiTitle:hemospermia	predictedType:Disease
+CANDIDATE	id:6465	inCount:0	outCount:2	links:	url:D006465	name:Hemoperitoneum	normalName:hemoperitoneum	normalWikiTitle:hemoperitoneum	predictedType:Disease
+CANDIDATE	id:10493	inCount:3	outCount:1	links:	url:D010493	name:Pericarditis	normalName:pericarditis	normalWikiTitle:pericarditis	predictedType:Disease
+CANDIDATE	id:752	inCount:1	outCount:2	links:	url:D000752	name:Anemia, Pernicious	normalName:anemia, pernicious	normalWikiTitle:anemia, pernicious	predictedType:Disease
+CANDIDATE	id:10490	inCount:1	outCount:1	links:	url:D010490	name:Pericardial Effusion	normalName:pericardial effusion	normalWikiTitle:pericardial effusion	predictedType:Disease
+CANDIDATE	id:6393	inCount:3	outCount:1	links:	url:D006393	name:Hemangiopericytoma	normalName:hemangiopericytoma	normalWikiTitle:hemangiopericytoma	predictedType:Disease
+CANDIDATE	id:2822	inCount:2	outCount:2	links:	url:D002822	name:Choriocarcinoma	normalName:choriocarcinoma	normalWikiTitle:choriocarcinoma	predictedType:Disease
+CANDIDATE	id:6964	inCount:4	outCount:1	links:	url:D006964	name:Hyperpituitarism	normalName:hyperpituitarism	normalWikiTitle:hyperpituitarism	predictedType:Disease
+CANDIDATE	id:531609	inCount:0	outCount:1	links:	url:C531609	name:Diffuse alopecia	normalName:diffuse alopecia	normalWikiTitle:diffuse alopecia	predictedType:Disease
+ENTITY	text:gastrointestinal haemorrhage	normalName:gastrointestinal haemorrhage	predictedType:disease	q:true	qid:Q427	docId:19058474	origText:gastrointestinal haemorrhage	url:D006471
+CANDIDATE	id:6471	inCount:3	outCount:2	links:	url:D006471	name:Gastrointestinal Hemorrhage	normalName:gastrointestinal hemorrhage	normalWikiTitle:gastrointestinal hemorrhage	predictedType:Disease
+CANDIDATE	id:5770	inCount:7	outCount:2	links:	url:D005770	name:Gastrointestinal Neoplasms	normalName:gastrointestinal neoplasms	normalWikiTitle:gastrointestinal neoplasms	predictedType:Disease
+CANDIDATE	id:5884	inCount:1	outCount:2	links:5884	url:D005884	name:Gingival Hemorrhage	normalName:gingival hemorrhage	normalWikiTitle:gingival hemorrhage	predictedType:Disease
+CANDIDATE	id:46152	inCount:2	outCount:2	links:	url:D046152	name:Gastrointestinal Stromal Tumors	normalName:gastrointestinal stromal tumors	normalWikiTitle:gastrointestinal stromal tumors	predictedType:Disease
+CANDIDATE	id:14385	inCount:0	outCount:2	links:	url:D014385	name:Tuberculosis, Gastrointestinal	normalName:tuberculosis, gastrointestinal	normalWikiTitle:tuberculosis, gastrointestinal	predictedType:Disease
+CANDIDATE	id:2543	inCount:3	outCount:1	links:2543	url:D002543	name:Cerebral Hemorrhage	normalName:cerebral hemorrhage	normalWikiTitle:cerebral hemorrhage	predictedType:Disease
+CANDIDATE	id:571911	inCount:0	outCount:2	links:	url:C571911	name:Gastrointestinal anthrax	normalName:gastrointestinal anthrax	normalWikiTitle:gastrointestinal anthrax	predictedType:Disease
+CANDIDATE	id:20145	inCount:1	outCount:2	links:	url:D020145	name:Basal Ganglia Hemorrhage	normalName:basal ganglia hemorrhage	normalWikiTitle:basal ganglia hemorrhage	predictedType:Disease
+CANDIDATE	id:562842	inCount:0	outCount:2	links:	url:C562842	name:Carcinoid Tumors, Intestinal	normalName:carcinoid tumors, intestinal	normalWikiTitle:carcinoid tumors, intestinal	predictedType:Disease
+CANDIDATE	id:2832	inCount:0	outCount:2	links:2832	url:D002832	name:Choroid Hemorrhage	normalName:choroid hemorrhage	normalWikiTitle:choroid hemorrhage	predictedType:Disease

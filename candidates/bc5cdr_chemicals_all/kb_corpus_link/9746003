@@ -1,0 +1,8 @@
+ENTITY	text:vigabatrin	normalName:vigabatrin	predictedType:chemical	q:true	qid:Q1031	docId:9746003	origText:vigabatrin	url:D020888
+CANDIDATE	id:20888	inCount:0	outCount:1	links:2220	url:D020888	name:Vigabatrin	normalName:vigabatrin	normalWikiTitle:vigabatrin	predictedType:Chemical
+ENTITY	text:sodium valproate	normalName:sodium valproate	predictedType:chemical	q:true	qid:Q1031	docId:9746003	origText:sodium valproate	url:D014635
+CANDIDATE	id:14635	inCount:43	outCount:1	links:2220	url:D014635	name:Sodium Valproate	normalName:sodium valproate	normalWikiTitle:sodium valproate	predictedType:Chemical
+ENTITY	text:carbamazepine	normalName:carbamazepine	predictedType:chemical	q:true	qid:Q1031	docId:9746003	origText:carbamazepine	url:D002220
+CANDIDATE	id:2220	inCount:15	outCount:1	links:20888;14635	url:D002220	name:Carbamazepine	normalName:carbamazepine	normalWikiTitle:carbamazepine	predictedType:Chemical
+ENTITY	text:ethosuximide	normalName:ethosuximide	predictedType:chemical	q:true	qid:Q1031	docId:9746003	origText:ethosuximide	url:D005013
+CANDIDATE	id:5013	inCount:1	outCount:1	links:	url:D005013	name:Ethosuximide	normalName:ethosuximide	normalWikiTitle:ethosuximide	predictedType:Chemical

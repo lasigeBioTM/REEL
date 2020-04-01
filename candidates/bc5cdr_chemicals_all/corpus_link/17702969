@@ -1,0 +1,6 @@
+ENTITY	text:serotonin	normalName:serotonin	predictedType:chemical	q:true	qid:Q1415	docId:17702969	origText:serotonin	url:D012701
+CANDIDATE	id:12701	inCount:48	outCount:2	links:	url:D012701	name:Serotonin	normalName:serotonin	normalWikiTitle:serotonin	predictedType:Chemical
+ENTITY	text:fluoxetine	normalName:fluoxetine	predictedType:chemical	q:true	qid:Q1415	docId:17702969	origText:fluoxetine	url:D005473
+CANDIDATE	id:5473	inCount:8	outCount:1	links:	url:D005473	name:Fluoxetine	normalName:fluoxetine	normalWikiTitle:fluoxetine	predictedType:Chemical
+ENTITY	text:oxygen	normalName:oxygen	predictedType:chemical	q:true	qid:Q1415	docId:17702969	origText:oxygen	url:D010100
+CANDIDATE	id:10100	inCount:11	outCount:2	links:	url:D010100	name:Oxygen	normalName:oxygen	normalWikiTitle:oxygen	predictedType:Chemical

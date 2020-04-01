@@ -1,0 +1,10 @@
+ENTITY	text:diltiazem	normalName:diltiazem	predictedType:chemical	q:true	qid:Q772	docId:3437726	origText:diltiazem	url:D004110
+CANDIDATE	id:4110	inCount:19	outCount:1	links:8790;11405	url:D004110	name:Diltiazem	normalName:diltiazem	normalWikiTitle:diltiazem	predictedType:Chemical
+ENTITY	text:metoprolol	normalName:metoprolol	predictedType:chemical	q:true	qid:Q772	docId:3437726	origText:metoprolol	url:D008790
+CANDIDATE	id:8790	inCount:9	outCount:1	links:11405;4110	url:D008790	name:Metoprolol	normalName:metoprolol	normalWikiTitle:metoprolol	predictedType:Chemical
+ENTITY	text:debrisoquine	normalName:debrisoquine	predictedType:chemical	q:true	qid:Q772	docId:3437726	origText:debrisoquine	url:D003647
+CANDIDATE	id:3647	inCount:4	outCount:1	links:	url:D003647	name:Debrisoquine	normalName:debrisoquine	normalWikiTitle:debrisoquine	predictedType:Chemical
+ENTITY	text:sparteine	normalName:sparteine	predictedType:chemical	q:true	qid:Q772	docId:3437726	origText:sparteine	url:D013034
+CANDIDATE	id:13034	inCount:21	outCount:2	links:	url:D013034	name:Sparteine	normalName:sparteine	normalWikiTitle:sparteine	predictedType:Chemical
+ENTITY	text:propafenone	normalName:propafenone	predictedType:chemical	q:true	qid:Q772	docId:3437726	origText:propafenone	url:D011405
+CANDIDATE	id:11405	inCount:10	outCount:1	links:8790;4110	url:D011405	name:Propafenone	normalName:propafenone	normalWikiTitle:propafenone	predictedType:Chemical

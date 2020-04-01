@@ -1,0 +1,64 @@
+ENTITY	text:Kaposi's sarcoma	normalName:kaposi's sarcoma	predictedType:disease	q:true	qid:Q444	docId:17175308	origText:Kaposi's sarcoma	url:D012514
+CANDIDATE	id:12514	inCount:3	outCount:3	links:	url:D012514	name:Kaposi's Sarcoma	normalName:kaposi's sarcoma	normalWikiTitle:kaposi's sarcoma	predictedType:Disease
+ENTITY	text:Proteinuria	normalName:proteinuria	predictedType:disease	q:true	qid:Q444	docId:17175308	origText:Proteinuria	url:D011507
+CANDIDATE	id:11507	inCount:4	outCount:2	links:9401;9404	url:D011507	name:Proteinuria	normalName:proteinuria	normalWikiTitle:proteinuria	predictedType:Disease
+ENTITY	text:nephrotic	normalName:nephrotic	predictedType:disease	q:true	qid:Q444	docId:17175308	origText:nephrotic	url:D009404
+CANDIDATE	id:9404	inCount:23	outCount:1	links:11507	url:D009404	name:Nephrotic Syndrome	normalName:nephrotic syndrome	normalWikiTitle:nephrotic syndrome	predictedType:Disease
+CANDIDATE	id:9401	inCount:8	outCount:1	links:11507	url:D009401	name:Nephrosis	normalName:nephrosis	normalWikiTitle:nephrosis	predictedType:Disease
+CANDIDATE	id:9393	inCount:10	outCount:1	links:	url:D009393	name:Nephritis	normalName:nephritis	normalWikiTitle:nephritis	predictedType:Disease
+CANDIDATE	id:53018	inCount:0	outCount:1	links:	url:D053018	name:Pyonephrosis	normalName:pyonephrosis	normalWikiTitle:pyonephrosis	predictedType:Disease
+CANDIDATE	id:53040	inCount:9	outCount:2	links:	url:D053040	name:Nephrolithiasis	normalName:nephrolithiasis	normalWikiTitle:nephrolithiasis	predictedType:Disease
+CANDIDATE	id:10501	inCount:0	outCount:1	links:	url:D010501	name:Perinephritis	normalName:perinephritis	normalWikiTitle:perinephritis	predictedType:Disease
+CANDIDATE	id:1763	inCount:24	outCount:1	links:	url:D001763	name:Blepharoptosis	normalName:blepharoptosis	normalWikiTitle:blepharoptosis	predictedType:Disease
+CANDIDATE	id:6869	inCount:5	outCount:1	links:	url:D006869	name:Hydronephrosis	normalName:hydronephrosis	normalWikiTitle:hydronephrosis	predictedType:Disease
+CANDIDATE	id:11704	inCount:1	outCount:2	links:	url:D011704	name:Pyelonephritis	normalName:pyelonephritis	normalWikiTitle:pyelonephritis	predictedType:Disease
+CANDIDATE	id:9902	inCount:1	outCount:1	links:	url:D009902	name:Optic Neuritis	normalName:optic neuritis	normalWikiTitle:optic neuritis	predictedType:Disease
+ENTITY	text:membranoproliferative glomerulopathy	normalName:membranoproliferative glomerulopathy	predictedType:disease	q:true	qid:Q444	docId:17175308	origText:membranoproliferative glomerulopathy	url:D015433
+CANDIDATE	id:15433	inCount:0	outCount:2	links:	url:D015433	name:Glomerulonephritis, Membranous	normalName:glomerulonephritis, membranous	normalWikiTitle:glomerulonephritis, membranous	predictedType:Disease
+CANDIDATE	id:15432	inCount:7	outCount:2	links:	url:D015432	name:Glomerulonephritis, Membranoproliferative	normalName:glomerulonephritis, membranoproliferative	normalWikiTitle:glomerulonephritis, membranoproliferative	predictedType:Disease
+CANDIDATE	id:564423	inCount:0	outCount:2	links:	url:C564423	name:Membranoproliferative Glomerulonephritis, X-Linked	normalName:membranoproliferative glomerulonephritis, x-linked	normalWikiTitle:membranoproliferative glomerulonephritis, x-linked	predictedType:Disease
+CANDIDATE	id:567089	inCount:0	outCount:1	links:	url:C567089	name:Lipoprotein Glomerulopathy	normalName:lipoprotein glomerulopathy	normalWikiTitle:lipoprotein glomerulopathy	predictedType:Disease
+CANDIDATE	id:7160	inCount:3	outCount:1	links:	url:D007160	name:Immunoproliferative Disorders	normalName:immunoproliferative disorders	normalWikiTitle:immunoproliferative disorders	predictedType:Disease
+CANDIDATE	id:8232	inCount:24	outCount:2	links:	url:D008232	name:Lymphoproliferative Disorders	normalName:lymphoproliferative disorders	normalWikiTitle:lymphoproliferative disorders	predictedType:Disease
+CANDIDATE	id:9196	inCount:11	outCount:1	links:	url:D009196	name:Myeloproliferative Disorders	normalName:myeloproliferative disorders	normalWikiTitle:myeloproliferative disorders	predictedType:Disease
+CANDIDATE	id:54437	inCount:4	outCount:1	links:	url:D054437	name:Myelodysplastic-Myeloproliferative Diseases	normalName:myelodysplastic-myeloproliferative diseases	normalWikiTitle:myelodysplastic-myeloproliferative diseases	predictedType:Disease
+CANDIDATE	id:5921	inCount:11	outCount:1	links:	url:D005921	name:Glomerulonephritis	normalName:glomerulonephritis	normalWikiTitle:glomerulonephritis	predictedType:Disease
+CANDIDATE	id:615122	inCount:0	outCount:1	links:	url:615122	name:LYMPHOPROLIFERATIVE SYNDROME 2	normalName:lymphoproliferative syndrome 2	normalWikiTitle:lymphoproliferative syndrome 2	predictedType:Disease
+ENTITY	text:interstitial nephritis	normalName:interstitial nephritis	predictedType:disease	q:true	qid:Q444	docId:17175308	origText:interstitial nephritis	url:D009395
+CANDIDATE	id:9395	inCount:8	outCount:1	links:	url:D009395	name:Nephritis, Interstitial	normalName:nephritis, interstitial	normalWikiTitle:nephritis, interstitial	predictedType:Disease
+ENTITY	text:renal cell carsinom	normalName:renal cell carsinom	predictedType:disease	q:true	qid:Q444	docId:17175308	origText:renal cell carsinom	url:D002292
+CANDIDATE	id:2292	inCount:5	outCount:2	links:	url:D002292	name:Carcinoma, Renal Cell	normalName:carcinoma, renal cell	normalWikiTitle:carcinoma, renal cell	predictedType:Disease
+CANDIDATE	id:538557	inCount:0	outCount:1	links:	url:C538557	name:Renal cell carcinoma 1	normalName:renal cell carcinoma 1	normalWikiTitle:renal cell carcinoma 1	predictedType:Disease
+CANDIDATE	id:15266	inCount:0	outCount:3	links:	url:D015266	name:Carcinoma, Merkel Cell	normalName:carcinoma, merkel cell	normalWikiTitle:carcinoma, merkel cell	predictedType:Disease
+CANDIDATE	id:18288	inCount:1	outCount:1	links:	url:D018288	name:Carcinoma, Small Cell	normalName:carcinoma, small cell	normalWikiTitle:carcinoma, small cell	predictedType:Disease
+CANDIDATE	id:18287	inCount:0	outCount:1	links:	url:D018287	name:Carcinoma, Large Cell	normalName:carcinoma, large cell	normalWikiTitle:carcinoma, large cell	predictedType:Disease
+CANDIDATE	id:536851	inCount:0	outCount:1	links:	url:C536851	name:Familial renal cell carcinoma	normalName:familial renal cell carcinoma	normalWikiTitle:familial renal cell carcinoma	predictedType:Disease
+CANDIDATE	id:2295	inCount:0	outCount:1	links:	url:D002295	name:Carcinoma, Transitional Cell	normalName:carcinoma, transitional cell	normalWikiTitle:carcinoma, transitional cell	predictedType:Disease
+CANDIDATE	id:55752	inCount:0	outCount:1	links:	url:D055752	name:Small Cell Lung Carcinoma	normalName:small cell lung carcinoma	normalWikiTitle:small cell lung carcinoma	predictedType:Disease
+CANDIDATE	id:18273	inCount:4	outCount:2	links:	url:D018273	name:Carcinoma, Islet Cell	normalName:carcinoma, islet cell	normalWikiTitle:carcinoma, islet cell	predictedType:Disease
+CANDIDATE	id:18286	inCount:0	outCount:1	links:	url:D018286	name:Carcinoma, Giant Cell	normalName:carcinoma, giant cell	normalWikiTitle:carcinoma, giant cell	predictedType:Disease
+ENTITY	text:skin cancers	normalName:skin cancers	predictedType:disease	q:true	qid:Q444	docId:17175308	origText:skin cancers	url:D012878
+CANDIDATE	id:12878	inCount:41	outCount:2	links:	url:D012878	name:Cancers, Skin	normalName:cancers, skin	normalWikiTitle:cancers, skin	predictedType:Disease
+ENTITY	text:neoplasia	normalName:neoplasia	predictedType:disease	q:true	qid:Q444	docId:17175308	origText:neoplasia	url:D009369
+CANDIDATE	id:9369	inCount:18	outCount:1	links:	url:D009369	name:Neoplasia	normalName:neoplasia	normalWikiTitle:neoplasia	predictedType:Disease
+ENTITY	text:intestinal tumors	normalName:intestinal tumors	predictedType:disease	q:true	qid:Q444	docId:17175308	origText:intestinal tumors	url:D007414
+CANDIDATE	id:7414	inCount:9	outCount:2	links:	url:D007414	name:Intestinal Neoplasms	normalName:intestinal neoplasms	normalWikiTitle:intestinal neoplasms	predictedType:Disease
+CANDIDATE	id:562842	inCount:0	outCount:2	links:	url:C562842	name:Carcinoid Tumors, Intestinal	normalName:carcinoid tumors, intestinal	normalWikiTitle:carcinoid tumors, intestinal	predictedType:Disease
+CANDIDATE	id:7417	inCount:1	outCount:1	links:	url:D007417	name:Intestinal Polyps	normalName:intestinal polyps	normalWikiTitle:intestinal polyps	predictedType:Disease
+CANDIDATE	id:45822	inCount:2	outCount:2	links:	url:D045822	name:Intestinal Volvulus	normalName:intestinal volvulus	normalWikiTitle:intestinal volvulus	predictedType:Disease
+CANDIDATE	id:7415	inCount:9	outCount:1	links:	url:D007415	name:Intestinal Obstruction	normalName:intestinal obstruction	normalWikiTitle:intestinal obstruction	predictedType:Disease
+CANDIDATE	id:46152	inCount:2	outCount:2	links:	url:D046152	name:Gastrointestinal Stromal Tumors	normalName:gastrointestinal stromal tumors	normalWikiTitle:gastrointestinal stromal tumors	predictedType:Disease
+CANDIDATE	id:44483	inCount:4	outCount:1	links:	url:D044483	name:Intestinal Polyposis	normalName:intestinal polyposis	normalWikiTitle:intestinal polyposis	predictedType:Disease
+CANDIDATE	id:536408	inCount:0	outCount:1	links:	url:C536408	name:Neural crest tumor	normalName:neural crest tumor	normalWikiTitle:neural crest tumor	predictedType:Disease
+CANDIDATE	id:7416	inCount:0	outCount:1	links:	url:D007416	name:Intestinal Perforation	normalName:intestinal perforation	normalWikiTitle:intestinal perforation	predictedType:Disease
+CANDIDATE	id:20329	inCount:5	outCount:1	links:	url:D020329	name:Essential Tremor	normalName:essential tremor	normalWikiTitle:essential tremor	predictedType:Disease
+CANDIDATE	id:19572	inCount:1	outCount:2	links:	url:D019572	name:Tumors, Retinal	normalName:tumors, retinal	normalWikiTitle:tumors, retinal	predictedType:Disease
+CANDIDATE	id:19572	inCount:1	outCount:2	links:	url:D019572	name:Retinal Tumors	normalName:retinal tumors	normalWikiTitle:retinal tumors	predictedType:Disease
+CANDIDATE	id:10871	inCount:1	outCount:2	links:	url:D010871	name:Pineal Tumors	normalName:pineal tumors	normalWikiTitle:pineal tumors	predictedType:Disease
+CANDIDATE	id:19572	inCount:1	outCount:2	links:	url:D019572	name:Tumor, Retinal	normalName:tumor, retinal	normalWikiTitle:tumor, retinal	predictedType:Disease
+CANDIDATE	id:10871	inCount:1	outCount:2	links:	url:D010871	name:Tumors, Pineal	normalName:tumors, pineal	normalWikiTitle:tumors, pineal	predictedType:Disease
+CANDIDATE	id:19572	inCount:1	outCount:2	links:	url:D019572	name:Retinal Tumor	normalName:retinal tumor	normalWikiTitle:retinal tumor	predictedType:Disease
+CANDIDATE	id:15192	inCount:2	outCount:1	links:	url:D015192	name:Infratentorial Tumors	normalName:infratentorial tumors	normalWikiTitle:infratentorial tumors	predictedType:Disease
+CANDIDATE	id:15192	inCount:2	outCount:1	links:	url:D015192	name:Tumors, Infratentorial	normalName:tumors, infratentorial	normalWikiTitle:tumors, infratentorial	predictedType:Disease
+CANDIDATE	id:7984	inCount:1	outCount:1	links:	url:D007984	name:Interstitial Cell Tumors	normalName:interstitial cell tumors	normalWikiTitle:interstitial cell tumors	predictedType:Disease
+CANDIDATE	id:7984	inCount:1	outCount:1	links:	url:D007984	name:Tumors, Interstitial Cell	normalName:tumors, interstitial cell	normalWikiTitle:tumors, interstitial cell	predictedType:Disease

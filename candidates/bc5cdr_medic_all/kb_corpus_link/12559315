@@ -1,0 +1,6 @@
+ENTITY	text:mastocytosis	normalName:mastocytosis	predictedType:disease	q:true	qid:Q868	docId:12559315	origText:mastocytosis	url:D008415
+CANDIDATE	id:8415	inCount:5	outCount:3	links:18856	url:D008415	name:Mastocytosis	normalName:mastocytosis	normalWikiTitle:mastocytosis	predictedType:Disease
+ENTITY	text:cystitis	normalName:cystitis	predictedType:disease	q:true	qid:Q868	docId:12559315	origText:cystitis	url:D003556
+CANDIDATE	id:3556	inCount:2	outCount:1	links:	url:D003556	name:Cystitis	normalName:cystitis	normalWikiTitle:cystitis	predictedType:Disease
+ENTITY	text:interstitial cystitis	normalName:interstitial cystitis	predictedType:disease	q:true	qid:Q868	docId:12559315	origText:interstitial cystitis	url:D018856
+CANDIDATE	id:18856	inCount:0	outCount:1	links:8415	url:D018856	name:Cystitis, Interstitial	normalName:cystitis, interstitial	normalWikiTitle:cystitis, interstitial	predictedType:Disease

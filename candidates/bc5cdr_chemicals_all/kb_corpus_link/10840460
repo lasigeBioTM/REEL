@@ -1,0 +1,8 @@
+ENTITY	text:morphine	normalName:morphine	predictedType:chemical	q:true	qid:Q300	docId:10840460	origText:morphine	url:D009020
+CANDIDATE	id:9020	inCount:13	outCount:1	links:	url:D009020	name:Morphine	normalName:morphine	normalWikiTitle:morphine	predictedType:Chemical
+ENTITY	text:Cyclophosphamide	normalName:cyclophosphamide	predictedType:chemical	q:true	qid:Q300	docId:10840460	origText:Cyclophosphamide	url:D003520
+CANDIDATE	id:3520	inCount:474	outCount:1	links:171	url:D003520	name:Cyclophosphamide	normalName:cyclophosphamide	normalWikiTitle:cyclophosphamide	predictedType:Chemical
+ENTITY	text:acrolein	normalName:acrolein	predictedType:chemical	q:true	qid:Q300	docId:10840460	origText:acrolein	url:D000171
+CANDIDATE	id:171	inCount:53	outCount:1	links:3520	url:D000171	name:Acrolein	normalName:acrolein	normalWikiTitle:acrolein	predictedType:Chemical
+ENTITY	text:naloxone	normalName:naloxone	predictedType:chemical	q:true	qid:Q300	docId:10840460	origText:naloxone	url:D009270
+CANDIDATE	id:9270	inCount:20	outCount:1	links:	url:D009270	name:Naloxone	normalName:naloxone	normalWikiTitle:naloxone	predictedType:Chemical

@@ -1,0 +1,4 @@
+ENTITY	text:peripheral neuropathy	normalName:peripheral neuropathy	predictedType:disease	q:true	qid:Q438	docId:11439380	origText:peripheral neuropathy	url:D010523
+CANDIDATE	id:10523	inCount:37	outCount:1	links:	url:D010523	name:Peripheral Neuropathy	normalName:peripheral neuropathy	normalWikiTitle:peripheral neuropathy	predictedType:Disease
+ENTITY	text:prostate cancer	normalName:prostate cancer	predictedType:disease	q:true	qid:Q438	docId:11439380	origText:prostate cancer	url:D011471
+CANDIDATE	id:11471	inCount:19	outCount:2	links:	url:D011471	name:Prostate Cancer	normalName:prostate cancer	normalWikiTitle:prostate cancer	predictedType:Disease

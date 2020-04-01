@@ -1,0 +1,14 @@
+ENTITY	text:alpha-tocopherol	normalName:alpha-tocopherol	predictedType:chemical	q:true	qid:Q337	docId:10704919	origText:alpha-tocopherol	url:D024502
+CANDIDATE	id:24502	inCount:18	outCount:1	links:24502	url:D024502	name:alpha-Tocopherol	normalName:alpha-tocopherol	normalWikiTitle:alpha-tocopherol	predictedType:Chemical
+ENTITY	text:hydroxyl	normalName:hydroxyl	predictedType:chemical	q:true	qid:Q337	docId:10704919	origText:hydroxyl	url:D017665
+CANDIDATE	id:17665	inCount:0	outCount:2	links:	url:D017665	name:Hydroxyl	normalName:hydroxyl	normalWikiTitle:hydroxyl	predictedType:Chemical
+ENTITY	text:oxygen	normalName:oxygen	predictedType:chemical	q:true	qid:Q337	docId:10704919	origText:oxygen	url:D010100
+CANDIDATE	id:10100	inCount:11	outCount:2	links:	url:D010100	name:Oxygen	normalName:oxygen	normalWikiTitle:oxygen	predictedType:Chemical
+ENTITY	text:tocopherols	normalName:tocopherols	predictedType:chemical	q:true	qid:Q337	docId:10704919	origText:tocopherols	url:D024505
+CANDIDATE	id:24505	inCount:24	outCount:1	links:	url:D024505	name:Tocopherols	normalName:tocopherols	normalWikiTitle:tocopherols	predictedType:Chemical
+ENTITY	text:tamoxifen	normalName:tamoxifen	predictedType:chemical	q:true	qid:Q337	docId:10704919	origText:tamoxifen	url:D013629
+CANDIDATE	id:13629	inCount:91	outCount:1	links:	url:D013629	name:Tamoxifen	normalName:tamoxifen	normalWikiTitle:tamoxifen	predictedType:Chemical
+ENTITY	text:AAPH	normalName:aaph	predictedType:chemical	q:true	qid:Q337	docId:10704919	origText:AAPH	url:C046728
+CANDIDATE	id:46728	inCount:0	outCount:1	links:	url:C046728	name:AAPH	normalName:aaph	normalWikiTitle:aaph	predictedType:Chemical
+ENTITY	text:alpha-tocopherol acetate	normalName:alpha-tocopherol acetate	predictedType:chemical	q:true	qid:Q337	docId:10704919	origText:alpha-tocopherol acetate	url:D024502
+CANDIDATE	id:24502	inCount:18	outCount:1	links:24502	url:D024502	name:alpha Tocopherol Acetate	normalName:alpha tocopherol acetate	normalWikiTitle:alpha tocopherol acetate	predictedType:Chemical

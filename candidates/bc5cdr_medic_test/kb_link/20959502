@@ -1,0 +1,25 @@
+ENTITY	text:weakness	normalName:weakness	predictedType:disease	q:true	qid:Q180	docId:20959502	origText:weakness	url:D018908
+CANDIDATE	id:18908	inCount:6	outCount:3	links:	url:D018908	name:Muscle Weakness	normalName:muscle weakness	normalWikiTitle:muscle weakness	predictedType:Disease
+CANDIDATE	id:3638	inCount:110	outCount:1	links:	url:D003638	name:Deafness	normalName:deafness	normalWikiTitle:deafness	predictedType:Disease
+CANDIDATE	id:4775	inCount:2	outCount:2	links:	url:D004775	name:Enuresis	normalName:enuresis	normalWikiTitle:enuresis	predictedType:Disease
+CANDIDATE	id:6948	inCount:1	outCount:1	links:	url:D006948	name:Hyperkinesis	normalName:hyperkinesis	normalWikiTitle:hyperkinesis	predictedType:Disease
+CANDIDATE	id:8548	inCount:4	outCount:1	links:	url:D008548	name:Melanosis	normalName:melanosis	normalWikiTitle:melanosis	predictedType:Disease
+CANDIDATE	id:566019	inCount:0	outCount:1	links:	url:C566019	name:Tune Deafness	normalName:tune deafness	normalWikiTitle:tune deafness	predictedType:Disease
+CANDIDATE	id:4428	inCount:0	outCount:2	links:	url:D004428	name:Ear Neoplasms	normalName:ear neoplasms	normalWikiTitle:ear neoplasms	predictedType:Disease
+CANDIDATE	id:64793	inCount:0	outCount:1	links:	url:D064793	name:Teratogenesis	normalName:teratogenesis	normalWikiTitle:teratogenesis	predictedType:Disease
+CANDIDATE	id:46608	inCount:2	outCount:1	links:	url:D046608	name:Synkinesis	normalName:synkinesis	normalWikiTitle:synkinesis	predictedType:Disease
+CANDIDATE	id:77260	inCount:0	outCount:1	links:	url:D000077260	name:Sleepiness	normalName:sleepiness	normalWikiTitle:sleepiness	predictedType:Disease
+ENTITY	text:pneumonia	normalName:pneumonia	predictedType:disease	q:true	qid:Q180	docId:20959502	origText:pneumonia	url:D011014
+CANDIDATE	id:11014	inCount:10	outCount:2	links:	url:D011014	name:Pneumonia	normalName:pneumonia	normalWikiTitle:pneumonia	predictedType:Disease
+ENTITY	text:meningitis	normalName:meningitis	predictedType:disease	q:true	qid:Q180	docId:20959502	origText:meningitis	url:D008581
+CANDIDATE	id:8581	inCount:6	outCount:1	links:	url:D008581	name:Meningitis	normalName:meningitis	normalWikiTitle:meningitis	predictedType:Disease
+ENTITY	text:acute renal failure	normalName:acute renal failure	predictedType:disease	q:true	qid:Q180	docId:20959502	origText:acute renal failure	url:D058186
+CANDIDATE	id:58186	inCount:2	outCount:1	links:	url:D058186	name:Acute Renal Failure	normalName:acute renal failure	normalWikiTitle:acute renal failure	predictedType:Disease
+ENTITY	text:infection	normalName:infection	predictedType:disease	q:true	qid:Q180	docId:20959502	origText:infection	url:D007239
+CANDIDATE	id:7239	inCount:33	outCount:1	links:	url:D007239	name:Infection	normalName:infection	normalWikiTitle:infection	predictedType:Disease
+ENTITY	text:interstitial nephritis	normalName:interstitial nephritis	predictedType:disease	q:true	qid:Q180	docId:20959502	origText:interstitial nephritis	url:D009395
+CANDIDATE	id:9395	inCount:8	outCount:1	links:	url:D009395	name:Nephritis, Interstitial	normalName:nephritis, interstitial	normalWikiTitle:nephritis, interstitial	predictedType:Disease
+ENTITY	text:bacteremia	normalName:bacteremia	predictedType:disease	q:true	qid:Q180	docId:20959502	origText:bacteremia	url:D016470
+CANDIDATE	id:16470	inCount:3	outCount:2	links:	url:D016470	name:Bacteremia	normalName:bacteremia	normalWikiTitle:bacteremia	predictedType:Disease
+ENTITY	text:cardiac arrest	normalName:cardiac arrest	predictedType:disease	q:true	qid:Q180	docId:20959502	origText:cardiac arrest	url:D006323
+CANDIDATE	id:6323	inCount:2	outCount:1	links:	url:D006323	name:Arrest, Cardiac	normalName:arrest, cardiac	normalWikiTitle:arrest, cardiac	predictedType:Disease

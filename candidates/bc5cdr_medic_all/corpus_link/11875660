@@ -1,0 +1,30 @@
+ENTITY	text:anencephaly	normalName:anencephaly	predictedType:disease	q:true	qid:Q1443	docId:11875660	origText:anencephaly	url:D000757
+CANDIDATE	id:757	inCount:4	outCount:2	links:	url:D000757	name:Anencephaly	normalName:anencephaly	normalWikiTitle:anencephaly	predictedType:Disease
+ENTITY	text:hemorrhaging	normalName:hemorrhaging	predictedType:disease	q:true	qid:Q1443	docId:11875660	origText:hemorrhaging	url:D006470
+CANDIDATE	id:6470	inCount:31	outCount:1	links:	url:D006470	name:Hemorrhage	normalName:hemorrhage	normalWikiTitle:hemorrhage	predictedType:Disease
+CANDIDATE	id:12166	inCount:3	outCount:2	links:	url:D012166	name:Retinal Hemorrhage	normalName:retinal hemorrhage	normalWikiTitle:retinal hemorrhage	predictedType:Disease
+CANDIDATE	id:14592	inCount:3	outCount:2	links:	url:D014592	name:Uterine Hemorrhage	normalName:uterine hemorrhage	normalWikiTitle:uterine hemorrhage	predictedType:Disease
+CANDIDATE	id:8595	inCount:0	outCount:2	links:	url:D008595	name:Menorrhagia	normalName:menorrhagia	normalWikiTitle:menorrhagia	predictedType:Disease
+CANDIDATE	id:6484	inCount:0	outCount:2	links:	url:D006484	name:Hemorrhoids	normalName:hemorrhoids	normalWikiTitle:hemorrhoids	predictedType:Disease
+CANDIDATE	id:12771	inCount:0	outCount:2	links:	url:D012771	name:Shock, Hemorrhagic	normalName:shock, hemorrhagic	normalWikiTitle:shock, hemorrhagic	predictedType:Disease
+CANDIDATE	id:540322	inCount:0	outCount:1	links:	url:C540322	name:Hemorrhagic jaundice	normalName:hemorrhagic jaundice	normalWikiTitle:hemorrhagic jaundice	predictedType:Disease
+CANDIDATE	id:5130	inCount:4	outCount:3	links:	url:D005130	name:Eye Hemorrhage	normalName:eye hemorrhage	normalWikiTitle:eye hemorrhage	predictedType:Disease
+CANDIDATE	id:20146	inCount:0	outCount:1	links:	url:D020146	name:Putaminal Hemorrhage	normalName:putaminal hemorrhage	normalWikiTitle:putaminal hemorrhage	predictedType:Disease
+CANDIDATE	id:8796	inCount:0	outCount:1	links:	url:D008796	name:Metrorrhagia	normalName:metrorrhagia	normalWikiTitle:metrorrhagia	predictedType:Disease
+ENTITY	text:exencephalic	normalName:exencephalic	predictedType:disease	q:true	qid:Q1443	docId:11875660	origText:exencephalic	url:D009436
+CANDIDATE	id:9436	inCount:11	outCount:1	links:	url:D009436	name:Exencephaly	normalName:exencephaly	normalWikiTitle:exencephaly	predictedType:Disease
+CANDIDATE	id:4660	inCount:9	outCount:1	links:	url:D004660	name:Encephalitis	normalName:encephalitis	normalWikiTitle:encephalitis	predictedType:Disease
+CANDIDATE	id:4677	inCount:24	outCount:2	links:	url:D004677	name:Encephalocele	normalName:encephalocele	normalWikiTitle:encephalocele	predictedType:Disease
+CANDIDATE	id:757	inCount:4	outCount:2	links:	url:D000757	name:Anencephaly	normalName:anencephaly	normalWikiTitle:anencephaly	predictedType:Disease
+CANDIDATE	id:58627	inCount:27	outCount:2	links:	url:D058627	name:Megalencephaly	normalName:megalencephaly	normalWikiTitle:megalencephaly	predictedType:Disease
+CANDIDATE	id:65708	inCount:2	outCount:2	links:	url:D065708	name:Porencephaly	normalName:porencephaly	normalWikiTitle:porencephaly	predictedType:Disease
+CANDIDATE	id:20363	inCount:1	outCount:3	links:	url:D020363	name:Limbic Encephalitis	normalName:limbic encephalitis	normalWikiTitle:limbic encephalitis	predictedType:Disease
+CANDIDATE	id:8590	inCount:1	outCount:4	links:	url:D008590	name:Meningoencephalitis	normalName:meningoencephalitis	normalWikiTitle:meningoencephalitis	predictedType:Disease
+CANDIDATE	id:54082	inCount:16	outCount:1	links:	url:D054082	name:Lissencephaly	normalName:lissencephaly	normalWikiTitle:lissencephaly	predictedType:Disease
+CANDIDATE	id:4678	inCount:2	outCount:1	links:	url:D004678	name:Encephalomalacia	normalName:encephalomalacia	normalWikiTitle:encephalomalacia	predictedType:Disease
+CANDIDATE	id:4675	inCount:0	outCount:3	links:	url:D004675	name:Encephalitis, Tick-Borne	normalName:encephalitis, tick-borne	normalWikiTitle:encephalitis, tick-borne	predictedType:Disease
+CANDIDATE	id:9436	inCount:11	outCount:1	links:	url:D009436	name:Exencephalies	normalName:exencephalies	normalWikiTitle:exencephalies	predictedType:Disease
+ENTITY	text:exencephaly	normalName:exencephaly	predictedType:disease	q:true	qid:Q1443	docId:11875660	origText:exencephaly	url:D009436
+CANDIDATE	id:9436	inCount:11	outCount:1	links:	url:D009436	name:Exencephaly	normalName:exencephaly	normalWikiTitle:exencephaly	predictedType:Disease
+ENTITY	text:circulatory failure	normalName:circulatory failure	predictedType:disease	q:true	qid:Q1443	docId:11875660	origText:circulatory failure	url:D012769
+CANDIDATE	id:12769	inCount:6	outCount:1	links:	url:D012769	name:Circulatory Failure	normalName:circulatory failure	normalWikiTitle:circulatory failure	predictedType:Disease

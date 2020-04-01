@@ -1,0 +1,8 @@
+ENTITY	text:arginine vasopressin	normalName:arginine vasopressin	predictedType:chemical	q:true	qid:Q420	docId:9406968	origText:arginine vasopressin	url:D001127
+CANDIDATE	id:1127	inCount:103	outCount:1	links:	url:D001127	name:Arginine Vasopressin	normalName:arginine vasopressin	normalWikiTitle:arginine vasopressin	predictedType:Chemical
+ENTITY	text:sodium	normalName:sodium	predictedType:chemical	q:true	qid:Q420	docId:9406968	origText:sodium	url:D012964
+CANDIDATE	id:12964	inCount:10	outCount:2	links:	url:D012964	name:Sodium	normalName:sodium	normalWikiTitle:sodium	predictedType:Chemical
+ENTITY	text:lithium	normalName:lithium	predictedType:chemical	q:true	qid:Q420	docId:9406968	origText:lithium	url:D008094
+CANDIDATE	id:8094	inCount:15	outCount:2	links:	url:D008094	name:Lithium	normalName:lithium	normalWikiTitle:lithium	predictedType:Chemical
+ENTITY	text:vasopressin	normalName:vasopressin	predictedType:chemical	q:true	qid:Q420	docId:9406968	origText:vasopressin	url:D014667
+CANDIDATE	id:14667	inCount:20	outCount:3	links:	url:D014667	name:Vasopressin	normalName:vasopressin	normalWikiTitle:vasopressin	predictedType:Chemical

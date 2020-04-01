@@ -1,0 +1,14 @@
+ENTITY	text:myocardial infarctions	normalName:myocardial infarctions	predictedType:disease	q:true	qid:Q368	docId:7988234	origText:myocardial infarctions	url:D009203
+CANDIDATE	id:9203	inCount:8	outCount:1	links:3324;6973;799;2637	url:D009203	name:Myocardial Infarction	normalName:myocardial infarction	normalWikiTitle:myocardial infarction	predictedType:Disease
+ENTITY	text:Angioedema	normalName:angioedema	predictedType:disease	q:true	qid:Q368	docId:7988234	origText:Angioedema	url:D000799
+CANDIDATE	id:799	inCount:4	outCount:2	links:2637;9203	url:D000799	name:Angioedema	normalName:angioedema	normalWikiTitle:angioedema	predictedType:Disease
+ENTITY	text:hypertension	normalName:hypertension	predictedType:disease	q:true	qid:Q368	docId:7988234	origText:hypertension	url:D006973
+CANDIDATE	id:6973	inCount:18	outCount:1	links:9203	url:D006973	name:Hypertension	normalName:hypertension	normalWikiTitle:hypertension	predictedType:Disease
+ENTITY	text:chest pain	normalName:chest pain	predictedType:disease	q:true	qid:Q368	docId:7988234	origText:chest pain	url:D002637
+CANDIDATE	id:2637	inCount:1	outCount:1	links:3324;799;9203	url:D002637	name:Chest Pain	normalName:chest pain	normalWikiTitle:chest pain	predictedType:Disease
+ENTITY	text:pulmonary edema	normalName:pulmonary edema	predictedType:disease	q:true	qid:Q368	docId:7988234	origText:pulmonary edema	url:D011654
+CANDIDATE	id:11654	inCount:1	outCount:1	links:	url:D011654	name:Pulmonary Edema	normalName:pulmonary edema	normalWikiTitle:pulmonary edema	predictedType:Disease
+ENTITY	text:coronary artery disease	normalName:coronary artery disease	predictedType:disease	q:true	qid:Q368	docId:7988234	origText:coronary artery disease	url:D003324
+CANDIDATE	id:3324	inCount:4	outCount:2	links:2637;9203	url:D003324	name:Coronary Artery Disease	normalName:coronary artery disease	normalWikiTitle:coronary artery disease	predictedType:Disease
+ENTITY	text:diabetes mellitus	normalName:diabetes mellitus	predictedType:disease	q:true	qid:Q368	docId:7988234	origText:diabetes mellitus	url:D003920
+CANDIDATE	id:3920	inCount:44	outCount:2	links:	url:D003920	name:Diabetes Mellitus	normalName:diabetes mellitus	normalWikiTitle:diabetes mellitus	predictedType:Disease

@@ -1,0 +1,13 @@
+ENTITY	text:pulmonary hypertension	normalName:pulmonary hypertension	predictedType:disease	q:true	qid:Q176	docId:10713017	origText:pulmonary hypertension	url:D006976
+CANDIDATE	id:6976	inCount:12	outCount:1	links:	url:D006976	name:Hypertension, Pulmonary	normalName:hypertension, pulmonary	normalWikiTitle:hypertension, pulmonary	predictedType:Disease
+ENTITY	text:PPH	normalName:pph	predictedType:disease	q:true	qid:Q176	docId:10713017	origText:PPH	url:D006976
+CANDIDATE	id:6976	inCount:12	outCount:1	links:	url:D006976	name:PPH1	normalName:pph1	normalWikiTitle:pph1	predictedType:Disease
+CANDIDATE	id:65627	inCount:1	outCount:1	links:	url:D065627	name:PPH2	normalName:pph2	normalWikiTitle:pph2	predictedType:Disease
+CANDIDATE	id:566381	inCount:0	outCount:3	links:	url:C566381	name:MPPH	normalName:mpph	normalWikiTitle:mpph	predictedType:Disease
+CANDIDATE	id:65627	inCount:1	outCount:1	links:	url:D065627	name:PPH3	normalName:pph3	normalWikiTitle:pph3	predictedType:Disease
+CANDIDATE	id:535830	inCount:0	outCount:3	links:	url:C535830	name:PPSH	normalName:ppsh	normalWikiTitle:ppsh	predictedType:Disease
+CANDIDATE	id:11556	inCount:0	outCount:1	links:	url:D011556	name:PPHP	normalName:pphp	normalWikiTitle:pphp	predictedType:Disease
+CANDIDATE	id:65627	inCount:1	outCount:1	links:	url:D065627	name:PPH4	normalName:pph4	normalWikiTitle:pph4	predictedType:Disease
+CANDIDATE	id:566381	inCount:0	outCount:3	links:	url:C566381	name:MPPH3	normalName:mpph3	normalWikiTitle:mpph3	predictedType:Disease
+CANDIDATE	id:566381	inCount:0	outCount:3	links:	url:C566381	name:MPPH1	normalName:mpph1	normalWikiTitle:mpph1	predictedType:Disease
+CANDIDATE	id:614023	inCount:0	outCount:3	links:	url:614023	name:PSPHD	normalName:psphd	normalWikiTitle:psphd	predictedType:Disease

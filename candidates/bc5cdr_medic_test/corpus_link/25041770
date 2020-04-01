@@ -1,0 +1,4 @@
+ENTITY	text:Rhabdomyolysis	normalName:rhabdomyolysis	predictedType:disease	q:true	qid:Q110	docId:25041770	origText:Rhabdomyolysis	url:D012206
+CANDIDATE	id:12206	inCount:3	outCount:1	links:9135	url:D012206	name:Rhabdomyolysis	normalName:rhabdomyolysis	normalWikiTitle:rhabdomyolysis	predictedType:Disease
+ENTITY	text:myopathy	normalName:myopathy	predictedType:disease	q:true	qid:Q110	docId:25041770	origText:myopathy	url:D009135
+CANDIDATE	id:9135	inCount:77	outCount:2	links:12206	url:D009135	name:Myopathy	normalName:myopathy	normalWikiTitle:myopathy	predictedType:Disease

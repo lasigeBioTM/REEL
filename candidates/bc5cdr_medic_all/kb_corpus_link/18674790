@@ -1,0 +1,7 @@
+ENTITY	text:cardiotoxicity	normalName:cardiotoxicity	predictedType:disease	q:true	qid:Q585	docId:18674790	origText:cardiotoxicity	url:D066126
+CANDIDATE	id:66126	inCount:0	outCount:3	links:	url:D066126	name:Cardiotoxicity	normalName:cardiotoxicity	normalWikiTitle:cardiotoxicity	predictedType:Disease
+ENTITY	text:obese	normalName:obese	predictedType:disease	q:true	qid:Q585	docId:18674790	origText:obese	url:D009765
+CANDIDATE	id:9765	inCount:42	outCount:2	links:9765	url:D009765	name:Obesity	normalName:obesity	normalWikiTitle:obesity	predictedType:Disease
+CANDIDATE	id:11818	inCount:0	outCount:1	links:	url:D011818	name:Rabies	normalName:rabies	normalWikiTitle:rabies	predictedType:Disease
+ENTITY	text:obesity	normalName:obesity	predictedType:disease	q:true	qid:Q585	docId:18674790	origText:obesity	url:D009765
+CANDIDATE	id:9765	inCount:42	outCount:2	links:9765	url:D009765	name:Obesity	normalName:obesity	normalWikiTitle:obesity	predictedType:Disease

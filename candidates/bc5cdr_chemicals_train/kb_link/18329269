@@ -1,0 +1,4 @@
+ENTITY	text:adenosine	normalName:adenosine	predictedType:chemical	q:true	qid:Q167	docId:18329269	origText:adenosine	url:D000241
+CANDIDATE	id:241	inCount:475	outCount:2	links:	url:D000241	name:Adenosine	normalName:adenosine	normalWikiTitle:adenosine	predictedType:Chemical
+ENTITY	text:haloperidol	normalName:haloperidol	predictedType:chemical	q:true	qid:Q167	docId:18329269	origText:haloperidol	url:D006220
+CANDIDATE	id:6220	inCount:24	outCount:1	links:	url:D006220	name:Haloperidol	normalName:haloperidol	normalWikiTitle:haloperidol	predictedType:Chemical

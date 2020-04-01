@@ -1,0 +1,6 @@
+ENTITY	text:scopolamine	normalName:scopolamine	predictedType:chemical	q:true	qid:Q125	docId:16755009	origText:scopolamine	url:D012601
+CANDIDATE	id:12601	inCount:3	outCount:2	links:3975	url:D012601	name:Scopolamine	normalName:scopolamine	normalWikiTitle:scopolamine	predictedType:Chemical
+ENTITY	text:Diazepam	normalName:diazepam	predictedType:chemical	q:true	qid:Q125	docId:16755009	origText:Diazepam	url:D003975
+CANDIDATE	id:3975	inCount:21	outCount:1	links:12601	url:D003975	name:Diazepam	normalName:diazepam	normalWikiTitle:diazepam	predictedType:Chemical
+ENTITY	text:cholesterol	normalName:cholesterol	predictedType:chemical	q:true	qid:Q125	docId:16755009	origText:cholesterol	url:D002784
+CANDIDATE	id:2784	inCount:223	outCount:2	links:	url:D002784	name:Cholesterol	normalName:cholesterol	normalWikiTitle:cholesterol	predictedType:Chemical

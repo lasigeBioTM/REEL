@@ -1,0 +1,30 @@
+ENTITY	text:L-3,4-dihydroxyphenylalanine	normalName:l-3,4-dihydroxyphenylalanine	predictedType:chemical	q:true	qid:Q323	docId:8045270	origText:L-3,4-dihydroxyphenylalanine	url:D007980
+CANDIDATE	id:7980	inCount:32	outCount:1	links:7980;12110	url:D007980	name:L-3,4-Dihydroxyphenylalanine	normalName:l-3,4-dihydroxyphenylalanine	normalWikiTitle:l-3,4-dihydroxyphenylalanine	predictedType:Chemical
+ENTITY	text:haloperidol	normalName:haloperidol	predictedType:chemical	q:true	qid:Q323	docId:8045270	origText:haloperidol	url:D006220
+CANDIDATE	id:6220	inCount:24	outCount:1	links:12110;61282	url:D006220	name:Haloperidol	normalName:haloperidol	normalWikiTitle:haloperidol	predictedType:Chemical
+ENTITY	text:L-DOPA	normalName:l-dopa	predictedType:chemical	q:true	qid:Q323	docId:8045270	origText:L-DOPA	url:D007980
+CANDIDATE	id:7980	inCount:32	outCount:1	links:7980;12110	url:D007980	name:L-Dopa	normalName:l-dopa	normalWikiTitle:l-dopa	predictedType:Chemical
+ENTITY	text:adenosine	normalName:adenosine	predictedType:chemical	q:true	qid:Q323	docId:8045270	origText:adenosine	url:D000241
+CANDIDATE	id:241	inCount:475	outCount:2	links:	url:D000241	name:Adenosine	normalName:adenosine	normalWikiTitle:adenosine	predictedType:Chemical
+ENTITY	text:reserpine	normalName:reserpine	predictedType:chemical	q:true	qid:Q323	docId:8045270	origText:reserpine	url:D012110
+CANDIDATE	id:12110	inCount:25	outCount:1	links:7980;6220;61282	url:D012110	name:Reserpine	normalName:reserpine	normalWikiTitle:reserpine	predictedType:Chemical
+ENTITY	text:KF17837	normalName:kf17837	predictedType:chemical	q:true	qid:Q323	docId:8045270	origText:KF17837	url:C081198
+CANDIDATE	id:81198	inCount:0	outCount:1	links:	url:C081198	name:KF17837S	normalName:kf17837s	normalWikiTitle:kf17837s	predictedType:Chemical
+CANDIDATE	id:81198	inCount:0	outCount:1	links:	url:C081198	name:KF 17837	normalName:kf 17837	normalWikiTitle:kf 17837	predictedType:Chemical
+CANDIDATE	id:576694	inCount:0	outCount:2	links:	url:C576694	name:GKT137831	normalName:gkt137831	normalWikiTitle:gkt137831	predictedType:Chemical
+CANDIDATE	id:623380	inCount:0	outCount:1	links:	url:C000623380	name:F16357	normalName:f16357	normalWikiTitle:f16357	predictedType:Chemical
+CANDIDATE	id:490814	inCount:0	outCount:1	links:	url:C490814	name:KL1037	normalName:kl1037	normalWikiTitle:kl1037	predictedType:Chemical
+CANDIDATE	id:107417	inCount:0	outCount:2	links:	url:C107417	name:Ro 31-7837	normalName:ro 31-7837	normalWikiTitle:ro 31-7837	predictedType:Chemical
+CANDIDATE	id:599718	inCount:0	outCount:2	links:	url:C000599718	name:GSK1278863	normalName:gsk1278863	normalWikiTitle:gsk1278863	predictedType:Chemical
+CANDIDATE	id:405422	inCount:0	outCount:1	links:	url:C405422	name:KF18446	normalName:kf18446	normalWikiTitle:kf18446	predictedType:Chemical
+CANDIDATE	id:548448	inCount:0	outCount:2	links:	url:C548448	name:CJ 1737	normalName:cj 1737	normalWikiTitle:cj 1737	predictedType:Chemical
+CANDIDATE	id:11043	inCount:0	outCount:1	links:	url:C011043	name:CB 1837	normalName:cb 1837	normalWikiTitle:cb 1837	predictedType:Chemical
+CANDIDATE	id:429325	inCount:0	outCount:1	links:	url:C429325	name:KF19418	normalName:kf19418	normalWikiTitle:kf19418	predictedType:Chemical
+CANDIDATE	id:102271	inCount:0	outCount:2	links:	url:C102271	name:KF17643	normalName:kf17643	normalWikiTitle:kf17643	predictedType:Chemical
+CANDIDATE	id:67197	inCount:0	outCount:1	links:	url:C067197	name:KF15372	normalName:kf15372	normalWikiTitle:kf15372	predictedType:Chemical
+CANDIDATE	id:443180	inCount:0	outCount:2	links:	url:C443180	name:KF31327	normalName:kf31327	normalWikiTitle:kf31327	predictedType:Chemical
+CANDIDATE	id:86544	inCount:0	outCount:1	links:	url:C086544	name:KF17828	normalName:kf17828	normalWikiTitle:kf17828	predictedType:Chemical
+ENTITY	text:CGS 21680	normalName:cgs 21680	predictedType:chemical	q:true	qid:Q323	docId:8045270	origText:CGS 21680	url:C061282
+CANDIDATE	id:61282	inCount:0	outCount:2	links:6220;12110	url:C061282	name:CGS 21680	normalName:cgs 21680	normalWikiTitle:cgs 21680	predictedType:Chemical
+ENTITY	text:benserazide	normalName:benserazide	predictedType:chemical	q:true	qid:Q323	docId:8045270	origText:benserazide	url:D001545
+CANDIDATE	id:1545	inCount:1	outCount:1	links:	url:D001545	name:Benserazide	normalName:benserazide	normalWikiTitle:benserazide	predictedType:Chemical

@@ -1,0 +1,6 @@
+ENTITY	text:embryopathy	normalName:embryopathy	predictedType:disease	q:true	qid:Q446	docId:920167	origText:embryopathy	url:D005315
+CANDIDATE	id:5315	inCount:14	outCount:2	links:	url:D005315	name:Embryopathy	normalName:embryopathy	normalWikiTitle:embryopathy	predictedType:Disease
+ENTITY	text:stippled epiphyses	normalName:stippled epiphyses	predictedType:disease	q:true	qid:Q446	docId:920167	origText:stippled epiphyses	url:D002806
+CANDIDATE	id:2806	inCount:9	outCount:1	links:	url:D002806	name:Epiphyses, Stippled	normalName:epiphyses, stippled	normalWikiTitle:epiphyses, stippled	predictedType:Disease
+ENTITY	text:chondrodysplasia punctata	normalName:chondrodysplasia punctata	predictedType:disease	q:true	qid:Q446	docId:920167	origText:chondrodysplasia punctata	url:D002806
+CANDIDATE	id:2806	inCount:9	outCount:1	links:	url:D002806	name:Chondrodysplasia Punctata	normalName:chondrodysplasia punctata	normalWikiTitle:chondrodysplasia punctata	predictedType:Disease

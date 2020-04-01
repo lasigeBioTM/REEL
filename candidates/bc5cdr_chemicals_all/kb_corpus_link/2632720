@@ -1,0 +1,10 @@
+ENTITY	text:cortisol	normalName:cortisol	predictedType:chemical	q:true	qid:Q84	docId:2632720	origText:cortisol	url:D006854
+CANDIDATE	id:6854	inCount:91	outCount:3	links:7654;3900	url:D006854	name:Cortisol	normalName:cortisol	normalWikiTitle:cortisol	predictedType:Chemical
+ENTITY	text:11-deoxycortisol	normalName:11-deoxycortisol	predictedType:chemical	q:true	qid:Q84	docId:2632720	origText:11-deoxycortisol	url:D003350
+CANDIDATE	id:3350	inCount:10	outCount:2	links:	url:D003350	name:11-Deoxycortisol	normalName:11-deoxycortisol	normalWikiTitle:11-deoxycortisol	predictedType:Chemical
+ENTITY	text:deoxycorticosterone	normalName:deoxycorticosterone	predictedType:chemical	q:true	qid:Q84	docId:2632720	origText:deoxycorticosterone	url:D003900
+CANDIDATE	id:3900	inCount:25	outCount:2	links:6854;7654	url:D003900	name:Deoxycorticosterone	normalName:deoxycorticosterone	normalWikiTitle:deoxycorticosterone	predictedType:Chemical
+ENTITY	text:aldosterone	normalName:aldosterone	predictedType:chemical	q:true	qid:Q84	docId:2632720	origText:aldosterone	url:D000450
+CANDIDATE	id:450	inCount:23	outCount:2	links:	url:D000450	name:Aldosterone	normalName:aldosterone	normalWikiTitle:aldosterone	predictedType:Chemical
+ENTITY	text:ketoconazole	normalName:ketoconazole	predictedType:chemical	q:true	qid:Q84	docId:2632720	origText:ketoconazole	url:D007654
+CANDIDATE	id:7654	inCount:4	outCount:1	links:6854;3900	url:D007654	name:Ketoconazole	normalName:ketoconazole	normalWikiTitle:ketoconazole	predictedType:Chemical

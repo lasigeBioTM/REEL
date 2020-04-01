@@ -1,0 +1,19 @@
+ENTITY	text:death	normalName:death	predictedType:disease	q:true	qid:Q79	docId:16337777	origText:death	url:D003643
+CANDIDATE	id:3643	inCount:11	outCount:1	links:	url:D003643	name:Death	normalName:death	normalWikiTitle:death	predictedType:Disease
+ENTITY	text:Mitochondrial abnormalities	normalName:mitochondrial abnormalities	predictedType:disease	q:true	qid:Q79	docId:16337777	origText:Mitochondrial abnormalities	url:D028361
+CANDIDATE	id:28361	inCount:64	outCount:1	links:	url:D028361	name:Mitochondrial Diseases	normalName:mitochondrial diseases	normalWikiTitle:mitochondrial diseases	predictedType:Disease
+CANDIDATE	id:19767	inCount:9	outCount:2	links:	url:D019767	name:Maxillofacial Abnormalities	normalName:maxillofacial abnormalities	normalWikiTitle:maxillofacial abnormalities	predictedType:Disease
+CANDIDATE	id:13	inCount:50	outCount:1	links:	url:D000013	name:Congenital Abnormalities	normalName:congenital abnormalities	normalWikiTitle:congenital abnormalities	predictedType:Disease
+CANDIDATE	id:19465	inCount:223	outCount:1	links:	url:D019465	name:Craniofacial Abnormalities	normalName:craniofacial abnormalities	normalWikiTitle:craniofacial abnormalities	predictedType:Disease
+CANDIDATE	id:14564	inCount:52	outCount:3	links:	url:D014564	name:Urogenital Abnormalities	normalName:urogenital abnormalities	normalWikiTitle:urogenital abnormalities	predictedType:Disease
+CANDIDATE	id:9056	inCount:13	outCount:2	links:	url:D009056	name:Mouth Abnormalities	normalName:mouth abnormalities	normalWikiTitle:mouth abnormalities	predictedType:Disease
+CANDIDATE	id:14071	inCount:53	outCount:2	links:	url:D014071	name:Tooth Abnormalities	normalName:tooth abnormalities	normalWikiTitle:tooth abnormalities	predictedType:Disease
+CANDIDATE	id:17237	inCount:11	outCount:2	links:	url:D017237	name:Mitochondrial Encephalomyopathies	normalName:mitochondrial encephalomyopathies	normalWikiTitle:mitochondrial encephalomyopathies	predictedType:Disease
+CANDIDATE	id:15	inCount:389	outCount:1	links:	url:D000015	name:Abnormalities, Multiple	normalName:abnormalities, multiple	normalWikiTitle:abnormalities, multiple	predictedType:Disease
+CANDIDATE	id:12868	inCount:63	outCount:2	links:	url:D012868	name:Skin Abnormalities	normalName:skin abnormalities	normalWikiTitle:skin abnormalities	predictedType:Disease
+ENTITY	text:temporal lobe epilepsy	normalName:temporal lobe epilepsy	predictedType:disease	q:true	qid:Q79	docId:16337777	origText:temporal lobe epilepsy	url:D004833
+CANDIDATE	id:4833	inCount:9	outCount:2	links:13226;4827	url:D004833	name:Epilepsy, Temporal Lobe	normalName:epilepsy, temporal lobe	normalWikiTitle:epilepsy, temporal lobe	predictedType:Disease
+ENTITY	text:epilepsy	normalName:epilepsy	predictedType:disease	q:true	qid:Q79	docId:16337777	origText:epilepsy	url:D004827
+CANDIDATE	id:4827	inCount:52	outCount:1	links:13226;4833	url:D004827	name:Epilepsy	normalName:epilepsy	normalWikiTitle:epilepsy	predictedType:Disease
+ENTITY	text:status epilepticus	normalName:status epilepticus	predictedType:disease	q:true	qid:Q79	docId:16337777	origText:status epilepticus	url:D013226
+CANDIDATE	id:13226	inCount:1	outCount:1	links:4827;4833	url:D013226	name:Status Epilepticus	normalName:status epilepticus	normalWikiTitle:status epilepticus	predictedType:Disease

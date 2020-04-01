@@ -1,0 +1,8 @@
+ENTITY	text:desipramine	normalName:desipramine	predictedType:chemical	q:true	qid:Q439	docId:8800187	origText:desipramine	url:D003891
+CANDIDATE	id:3891	inCount:6	outCount:1	links:2122	url:D003891	name:Desipramine	normalName:desipramine	normalWikiTitle:desipramine	predictedType:Chemical
+ENTITY	text:calcium chloride	normalName:calcium chloride	predictedType:chemical	q:true	qid:Q439	docId:8800187	origText:calcium chloride	url:D002122
+CANDIDATE	id:2122	inCount:8	outCount:2	links:3891	url:D002122	name:Calcium Chloride	normalName:calcium chloride	normalWikiTitle:calcium chloride	predictedType:Chemical
+ENTITY	text:calcium	normalName:calcium	predictedType:chemical	q:true	qid:Q439	docId:8800187	origText:calcium	url:D002118
+CANDIDATE	id:2118	inCount:11	outCount:2	links:	url:D002118	name:Calcium	normalName:calcium	normalWikiTitle:calcium	predictedType:Chemical
+ENTITY	text:4-aminopyridine	normalName:4-aminopyridine	predictedType:chemical	q:true	qid:Q439	docId:8800187	origText:4-aminopyridine	url:D015761
+CANDIDATE	id:15761	inCount:15	outCount:1	links:	url:D015761	name:4-Aminopyridine	normalName:4-aminopyridine	normalWikiTitle:4-aminopyridine	predictedType:Chemical

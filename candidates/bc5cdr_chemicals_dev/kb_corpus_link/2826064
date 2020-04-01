@@ -1,0 +1,6 @@
+ENTITY	text:potassium	normalName:potassium	predictedType:chemical	q:true	qid:Q351	docId:2826064	origText:potassium	url:D011188
+CANDIDATE	id:11188	inCount:10	outCount:2	links:	url:D011188	name:Potassium	normalName:potassium	normalWikiTitle:potassium	predictedType:Chemical
+ENTITY	text:oxprenolol	normalName:oxprenolol	predictedType:chemical	q:true	qid:Q351	docId:2826064	origText:oxprenolol	url:D010096
+CANDIDATE	id:10096	inCount:4	outCount:1	links:	url:D010096	name:Oxprenolol	normalName:oxprenolol	normalWikiTitle:oxprenolol	predictedType:Chemical
+ENTITY	text:terbutaline	normalName:terbutaline	predictedType:chemical	q:true	qid:Q351	docId:2826064	origText:terbutaline	url:D013726
+CANDIDATE	id:13726	inCount:8	outCount:1	links:	url:D013726	name:Terbutaline	normalName:terbutaline	normalWikiTitle:terbutaline	predictedType:Chemical

@@ -1,0 +1,57 @@
+ENTITY	text:cyanosis	normalName:cyanosis	predictedType:disease	q:true	qid:Q1426	docId:20195852	origText:cyanosis	url:D003490
+CANDIDATE	id:3490	inCount:4	outCount:1	links:	url:D003490	name:Cyanosis	normalName:cyanosis	normalWikiTitle:cyanosis	predictedType:Disease
+ENTITY	text:renal failure	normalName:renal failure	predictedType:disease	q:true	qid:Q1426	docId:20195852	origText:renal failure	url:D051437
+CANDIDATE	id:51437	inCount:10	outCount:1	links:51437	url:D051437	name:Renal Failure	normalName:renal failure	normalWikiTitle:renal failure	predictedType:Disease
+ENTITY	text:Injury to the kidney	normalName:injury to the kidney	predictedType:disease	q:true	qid:Q1426	docId:20195852	origText:Injury to the kidney	url:D058186
+CANDIDATE	id:58186	inCount:2	outCount:1	links:58186	url:D058186	name:Acute Kidney Injury	normalName:acute kidney injury	normalWikiTitle:acute kidney injury	predictedType:Disease
+CANDIDATE	id:13708	inCount:2	outCount:1	links:13708	url:D013708	name:Tendon Injuries	normalName:tendon injuries	normalWikiTitle:tendon injuries	predictedType:Disease
+CANDIDATE	id:7718	inCount:4	outCount:1	links:	url:D007718	name:Knee Injuries	normalName:knee injuries	normalWikiTitle:knee injuries	predictedType:Disease
+CANDIDATE	id:13898	inCount:4	outCount:1	links:	url:D013898	name:Thoracic Injuries	normalName:thoracic injuries	normalWikiTitle:thoracic injuries	predictedType:Disease
+CANDIDATE	id:18677	inCount:2	outCount:2	links:	url:D018677	name:Tooth Injuries	normalName:tooth injuries	normalWikiTitle:tooth injuries	predictedType:Disease
+CANDIDATE	id:5183	inCount:5	outCount:1	links:5183	url:D005183	name:Failure to Thrive	normalName:failure to thrive	normalWikiTitle:failure to thrive	predictedType:Disease
+CANDIDATE	id:7869	inCount:7	outCount:1	links:	url:D007869	name:Leg Injuries	normalName:leg injuries	normalWikiTitle:leg injuries	predictedType:Disease
+CANDIDATE	id:20221	inCount:0	outCount:2	links:	url:D020221	name:Optic Nerve Injuries	normalName:optic nerve injuries	normalWikiTitle:optic nerve injuries	predictedType:Disease
+CANDIDATE	id:17695	inCount:1	outCount:1	links:	url:D017695	name:Soft Tissue Injuries	normalName:soft tissue injuries	normalWikiTitle:soft tissue injuries	predictedType:Disease
+CANDIDATE	id:61247	inCount:0	outCount:1	links:	url:D061247	name:Trochlear Nerve Injuries	normalName:trochlear nerve injuries	normalWikiTitle:trochlear nerve injuries	predictedType:Disease
+CANDIDATE	id:7718	inCount:4	outCount:1	links:	url:D007718	name:Injury, Knee	normalName:injury, knee	normalWikiTitle:injury, knee	predictedType:Disease
+CANDIDATE	id:7718	inCount:4	outCount:1	links:	url:D007718	name:Knee Injury	normalName:knee injury	normalWikiTitle:knee injury	predictedType:Disease
+ENTITY	text:renal injury	normalName:renal injury	predictedType:disease	q:true	qid:Q1426	docId:20195852	origText:renal injury	url:D058186
+CANDIDATE	id:58186	inCount:2	outCount:1	links:58186	url:D058186	name:Renal Injury, Acute	normalName:renal injury, acute	normalWikiTitle:renal injury, acute	predictedType:Disease
+CANDIDATE	id:49188	inCount:1	outCount:1	links:	url:D049188	name:Prenatal Injuries	normalName:prenatal injuries	normalWikiTitle:prenatal injuries	predictedType:Disease
+CANDIDATE	id:55370	inCount:5	outCount:2	links:	url:D055370	name:Lung Injury	normalName:lung injury	normalWikiTitle:lung injury	predictedType:Disease
+CANDIDATE	id:15427	inCount:2	outCount:2	links:	url:D015427	name:Reperfusion Injury	normalName:reperfusion injury	normalWikiTitle:reperfusion injury	predictedType:Disease
+CANDIDATE	id:13124	inCount:1	outCount:1	links:	url:D013124	name:Spinal Injuries	normalName:spinal injuries	normalWikiTitle:spinal injuries	predictedType:Disease
+CANDIDATE	id:51437	inCount:10	outCount:1	links:51437	url:D051437	name:Renal Insufficiency	normalName:renal insufficiency	normalWikiTitle:renal insufficiency	predictedType:Disease
+CANDIDATE	id:608	inCount:6	outCount:1	links:	url:D000608	name:Renal Aminoacidurias	normalName:renal aminoacidurias	normalWikiTitle:renal aminoacidurias	predictedType:Disease
+CANDIDATE	id:56844	inCount:0	outCount:2	links:	url:D056844	name:Renal Colic	normalName:renal colic	normalWikiTitle:renal colic	predictedType:Disease
+CANDIDATE	id:564873	inCount:0	outCount:1	links:	url:C564873	name:Prenatal Bowing	normalName:prenatal bowing	normalWikiTitle:prenatal bowing	predictedType:Disease
+CANDIDATE	id:13708	inCount:2	outCount:1	links:13708	url:D013708	name:Tendon Injuries	normalName:tendon injuries	normalWikiTitle:tendon injuries	predictedType:Disease
+CANDIDATE	id:61221	inCount:1	outCount:2	links:	url:D061221	name:Trigeminal Nerve Injuries	normalName:trigeminal nerve injuries	normalWikiTitle:trigeminal nerve injuries	predictedType:Disease
+CANDIDATE	id:49188	inCount:1	outCount:1	links:	url:D049188	name:Injury, Prenatal	normalName:injury, prenatal	normalWikiTitle:injury, prenatal	predictedType:Disease
+CANDIDATE	id:49188	inCount:1	outCount:1	links:	url:D049188	name:Prenatal Injury	normalName:prenatal injury	normalWikiTitle:prenatal injury	predictedType:Disease
+CANDIDATE	id:13313	inCount:0	outCount:1	links:	url:D013313	name:Moral Injury	normalName:moral injury	normalWikiTitle:moral injury	predictedType:Disease
+CANDIDATE	id:13313	inCount:0	outCount:1	links:	url:D013313	name:Injury, Moral	normalName:injury, moral	normalWikiTitle:injury, moral	predictedType:Disease
+CANDIDATE	id:13124	inCount:1	outCount:1	links:	url:D013124	name:Injury, Spinal	normalName:injury, spinal	normalWikiTitle:injury, spinal	predictedType:Disease
+CANDIDATE	id:58186	inCount:2	outCount:1	links:58186	url:D058186	name:Acute Renal Injury	normalName:acute renal injury	normalWikiTitle:acute renal injury	predictedType:Disease
+CANDIDATE	id:13124	inCount:1	outCount:1	links:	url:D013124	name:Spinal Injury	normalName:spinal injury	normalWikiTitle:spinal injury	predictedType:Disease
+ENTITY	text:Failure of kidney function	normalName:failure of kidney function	predictedType:disease	q:true	qid:Q1426	docId:20195852	origText:Failure of kidney function	url:D051437
+CANDIDATE	id:51437	inCount:10	outCount:1	links:51437	url:D051437	name:Failures, Kidney	normalName:failures, kidney	normalWikiTitle:failures, kidney	predictedType:Disease
+CANDIDATE	id:5183	inCount:5	outCount:1	links:5183	url:D005183	name:Failure to Thrive	normalName:failure to thrive	normalWikiTitle:failure to thrive	predictedType:Disease
+CANDIDATE	id:614962	inCount:0	outCount:2	links:	url:614962	name:LEPTIN DEFICIENCY OR DYSFUNCTION	normalName:leptin deficiency or dysfunction	normalWikiTitle:leptin deficiency or dysfunction	predictedType:Disease
+CANDIDATE	id:58186	inCount:2	outCount:1	links:58186	url:D058186	name:Acute Kidney Injury	normalName:acute kidney injury	normalWikiTitle:acute kidney injury	predictedType:Disease
+CANDIDATE	id:9102	inCount:0	outCount:1	links:	url:D009102	name:Multiple Organ Failure	normalName:multiple organ failure	normalWikiTitle:multiple organ failure	predictedType:Disease
+CANDIDATE	id:537440	inCount:0	outCount:1	links:	url:C537440	name:Arterial calcification of infancy	normalName:arterial calcification of infancy	normalWikiTitle:arterial calcification of infancy	predictedType:Disease
+CANDIDATE	id:7676	inCount:3	outCount:1	links:	url:D007676	name:Kidney Failure, Chronic	normalName:kidney failure, chronic	normalWikiTitle:kidney failure, chronic	predictedType:Disease
+CANDIDATE	id:616483	inCount:0	outCount:1	links:	url:616483	name:INFANTILE LIVER FAILURE SYNDROME 2	normalName:infantile liver failure syndrome 2	normalWikiTitle:infantile liver failure syndrome 2	predictedType:Disease
+CANDIDATE	id:615438	inCount:0	outCount:1	links:	url:615438	name:INFANTILE LIVER FAILURE SYNDROME 1	normalName:infantile liver failure syndrome 1	normalWikiTitle:infantile liver failure syndrome 1	predictedType:Disease
+CANDIDATE	id:564942	inCount:0	outCount:1	links:	url:C564942	name:Neutrophil Actin Dysfunction	normalName:neutrophil actin dysfunction	normalWikiTitle:neutrophil actin dysfunction	predictedType:Disease
+CANDIDATE	id:7669	inCount:3	outCount:2	links:	url:D007669	name:Kidney Calculi	normalName:kidney calculi	normalWikiTitle:kidney calculi	predictedType:Disease
+CANDIDATE	id:69337	inCount:0	outCount:1	links:	url:D000069337	name:Fusion of Kidney	normalName:fusion of kidney	normalWikiTitle:fusion of kidney	predictedType:Disease
+CANDIDATE	id:51437	inCount:10	outCount:1	links:51437	url:D051437	name:Failure, Kidney	normalName:failure, kidney	normalWikiTitle:failure, kidney	predictedType:Disease
+CANDIDATE	id:51437	inCount:10	outCount:1	links:51437	url:D051437	name:Kidney Failure	normalName:kidney failure	normalWikiTitle:kidney failure	predictedType:Disease
+CANDIDATE	id:51437	inCount:10	outCount:1	links:51437	url:D051437	name:Kidney Failures	normalName:kidney failures	normalWikiTitle:kidney failures	predictedType:Disease
+CANDIDATE	id:69337	inCount:0	outCount:1	links:	url:D000069337	name:Congenital Fusion of Kidneys	normalName:congenital fusion of kidneys	normalWikiTitle:congenital fusion of kidneys	predictedType:Disease
+CANDIDATE	id:17114	inCount:3	outCount:1	links:	url:D017114	name:Fulminating Liver Failure	normalName:fulminating liver failure	normalWikiTitle:fulminating liver failure	predictedType:Disease
+CANDIDATE	id:17114	inCount:3	outCount:1	links:	url:D017114	name:Liver Failure, Fulminating	normalName:liver failure, fulminating	normalWikiTitle:liver failure, fulminating	predictedType:Disease
+CANDIDATE	id:17114	inCount:3	outCount:1	links:	url:D017114	name:Liver Failures, Fulminating	normalName:liver failures, fulminating	normalWikiTitle:liver failures, fulminating	predictedType:Disease
+CANDIDATE	id:17114	inCount:3	outCount:1	links:	url:D017114	name:Fulminating Liver Failures	normalName:fulminating liver failures	normalWikiTitle:fulminating liver failures	predictedType:Disease

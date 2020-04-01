@@ -1,0 +1,28 @@
+ENTITY	text:hyperkinesis	normalName:hyperkinesis	predictedType:disease	q:true	qid:Q353	docId:150790	origText:hyperkinesis	url:D006948
+CANDIDATE	id:6948	inCount:1	outCount:1	links:	url:D006948	name:Hyperkinesis	normalName:hyperkinesis	normalWikiTitle:hyperkinesis	predictedType:Disease
+ENTITY	text:behavioral deterioration	normalName:behavioral deterioration	predictedType:disease	q:true	qid:Q353	docId:150790	origText:behavioral deterioration	url:D002653
+CANDIDATE	id:2653	inCount:1	outCount:1	links:2653	url:D002653	name:Child Behavior Disorders	normalName:child behavior disorders	normalWikiTitle:child behavior disorders	predictedType:Disease
+CANDIDATE	id:75902	inCount:0	outCount:1	links:	url:D000075902	name:Clinical Deterioration	normalName:clinical deterioration	normalWikiTitle:clinical deterioration	predictedType:Disease
+CANDIDATE	id:57112	inCount:0	outCount:1	links:	url:D057112	name:Corneal Perforation	normalName:corneal perforation	normalWikiTitle:corneal perforation	predictedType:Disease
+CANDIDATE	id:4939	inCount:2	outCount:2	links:	url:D004939	name:Esophageal Perforation	normalName:esophageal perforation	normalWikiTitle:esophageal perforation	predictedType:Disease
+CANDIDATE	id:5391	inCount:0	outCount:1	links:5391	url:D005391	name:Firesetting Behavior	normalName:firesetting behavior	normalWikiTitle:firesetting behavior	predictedType:Disease
+CANDIDATE	id:7416	inCount:0	outCount:1	links:	url:D007416	name:Intestinal Perforation	normalName:intestinal perforation	normalWikiTitle:intestinal perforation	predictedType:Disease
+CANDIDATE	id:12120	inCount:20	outCount:1	links:	url:D012120	name:Respiration Disorders	normalName:respiration disorders	normalWikiTitle:respiration disorders	predictedType:Disease
+CANDIDATE	id:58736	inCount:0	outCount:1	links:	url:D058736	name:Intrauterine Device Migration	normalName:intrauterine device migration	normalWikiTitle:intrauterine device migration	predictedType:Disease
+CANDIDATE	id:1017	inCount:3	outCount:1	links:	url:D001017	name:Aortic Coarctation	normalName:aortic coarctation	normalWikiTitle:aortic coarctation	predictedType:Disease
+CANDIDATE	id:14102	inCount:6	outCount:1	links:	url:D014102	name:Torsion Abnormality	normalName:torsion abnormality	normalWikiTitle:torsion abnormality	predictedType:Disease
+ENTITY	text:behavioral disorder	normalName:behavioral disorder	predictedType:disease	q:true	qid:Q353	docId:150790	origText:behavioral disorder	url:D002653
+CANDIDATE	id:2653	inCount:1	outCount:1	links:2653	url:D002653	name:Child Behavior Disorders	normalName:child behavior disorders	normalWikiTitle:child behavior disorders	predictedType:Disease
+CANDIDATE	id:1714	inCount:11	outCount:1	links:	url:D001714	name:Bipolar Disorder	normalName:bipolar disorder	normalWikiTitle:bipolar disorder	predictedType:Disease
+CANDIDATE	id:20187	inCount:0	outCount:1	links:	url:D020187	name:REM Sleep Behavior Disorder	normalName:rem sleep behavior disorder	normalWikiTitle:rem sleep behavior disorder	predictedType:Disease
+CANDIDATE	id:565842	inCount:0	outCount:1	links:	url:C565842	name:Brittle Bone Disorder	normalName:brittle bone disorder	normalWikiTitle:brittle bone disorder	predictedType:Disease
+CANDIDATE	id:3130	inCount:0	outCount:1	links:	url:D003130	name:Combat Disorders	normalName:combat disorders	normalWikiTitle:combat disorders	predictedType:Disease
+CANDIDATE	id:3291	inCount:0	outCount:1	links:	url:D003291	name:Conversion Disorder	normalName:conversion disorder	normalWikiTitle:conversion disorder	predictedType:Disease
+CANDIDATE	id:54062	inCount:6	outCount:3	links:	url:D054062	name:Deaf-Blind Disorders	normalName:deaf-blind disorders	normalWikiTitle:deaf-blind disorders	predictedType:Disease
+CANDIDATE	id:5391	inCount:0	outCount:1	links:5391	url:D005391	name:Firesetting Behavior	normalName:firesetting behavior	normalWikiTitle:firesetting behavior	predictedType:Disease
+CANDIDATE	id:20921	inCount:2	outCount:1	links:	url:D020921	name:Sleep Arousal Disorders	normalName:sleep arousal disorders	normalWikiTitle:sleep arousal disorders	predictedType:Disease
+CANDIDATE	id:17271	inCount:2	outCount:2	links:	url:D017271	name:Craniomandibular Disorders	normalName:craniomandibular disorders	normalWikiTitle:craniomandibular disorders	predictedType:Disease
+CANDIDATE	id:1523	inCount:27	outCount:1	links:	url:D001523	name:Behavior Disorders	normalName:behavior disorders	normalWikiTitle:behavior disorders	predictedType:Disease
+CANDIDATE	id:1523	inCount:27	outCount:1	links:	url:D001523	name:Disorders, Behavior	normalName:disorders, behavior	normalWikiTitle:disorders, behavior	predictedType:Disease
+CANDIDATE	id:20187	inCount:0	outCount:1	links:	url:D020187	name:Behavior Disorder, REM	normalName:behavior disorder, rem	normalWikiTitle:behavior disorder, rem	predictedType:Disease
+CANDIDATE	id:20187	inCount:0	outCount:1	links:	url:D020187	name:REM Behavior Disorder	normalName:rem behavior disorder	normalWikiTitle:rem behavior disorder	predictedType:Disease

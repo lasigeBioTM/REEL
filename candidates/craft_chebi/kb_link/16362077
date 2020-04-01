@@ -1,0 +1,119 @@
+ENTITY	text:estrogen	normalName:estrogen	predictedType:chemical	q:true	qid:Q66	docId:16362077	origText:estrogen	url:CHEBI:50114
+CANDIDATE	id:50114	inCount:3	outCount:1	links:	url:CHEBI:50114	name:estrogen	normalName:estrogen	normalWikiTitle:estrogen	predictedType:Chemical
+ENTITY	text:immunogenic	normalName:immunogenic	predictedType:chemical	q:true	qid:Q66	docId:16362077	origText:immunogenic	url:CHEBI:60816
+CANDIDATE	id:60816	inCount:0	outCount:1	links:	url:CHEBI:60816	name:immunogen	normalName:immunogen	normalWikiTitle:immunogen	predictedType:Chemical
+CANDIDATE	id:137736	inCount:0	outCount:1	links:	url:CHEBI:137736	name:anxiogenic	normalName:anxiogenic	normalWikiTitle:anxiogenic	predictedType:Chemical
+CANDIDATE	id:25699	inCount:3	outCount:2	links:	url:CHEBI:25699	name:organic ion	normalName:organic ion	normalWikiTitle:organic ion	predictedType:Chemical
+CANDIDATE	id:70685	inCount:0	outCount:1	links:	url:CHEBI:70685	name:Rotungenic acid	normalName:rotungenic acid	normalWikiTitle:rotungenic acid	predictedType:Chemical
+CANDIDATE	id:38243	inCount:0	outCount:4	links:	url:CHEBI:38243	name:bipindogenin	normalName:bipindogenin	normalWikiTitle:bipindogenin	predictedType:Chemical
+CANDIDATE	id:38407	inCount:3	outCount:1	links:	url:CHEBI:38407	name:muconic acid	normalName:muconic acid	normalWikiTitle:muconic acid	predictedType:Chemical
+CANDIDATE	id:144273	inCount:0	outCount:1	links:	url:CHEBI:144273	name:Muronic acid	normalName:muronic acid	normalWikiTitle:muronic acid	predictedType:Chemical
+CANDIDATE	id:31319	inCount:0	outCount:1	links:	url:CHEBI:31319	name:Bufogenin	normalName:bufogenin	normalWikiTitle:bufogenin	predictedType:Chemical
+CANDIDATE	id:4629	inCount:0	outCount:4	links:	url:CHEBI:4629	name:diosgenin	normalName:diosgenin	normalWikiTitle:diosgenin	predictedType:Chemical
+CANDIDATE	id:10086	inCount:0	outCount:1	links:	url:CHEBI:10086	name:Yamogenin	normalName:yamogenin	normalWikiTitle:yamogenin	predictedType:Chemical
+ENTITY	text:anesthetic	normalName:anesthetic	predictedType:chemical	q:true	qid:Q66	docId:16362077	origText:anesthetic	url:CHEBI:38867
+CANDIDATE	id:38867	inCount:2	outCount:1	links:	url:CHEBI:38867	name:anaesthetic	normalName:anaesthetic	normalWikiTitle:anaesthetic	predictedType:Chemical
+CANDIDATE	id:36333	inCount:1	outCount:1	links:	url:CHEBI:36333	name:local anaesthetic	normalName:local anaesthetic	normalWikiTitle:local anaesthetic	predictedType:Chemical
+CANDIDATE	id:26841	inCount:0	outCount:2	links:	url:CHEBI:26841	name:synthetic auxin	normalName:synthetic auxin	normalWikiTitle:synthetic auxin	predictedType:Chemical
+CANDIDATE	id:50919	inCount:0	outCount:1	links:	url:CHEBI:50919	name:antiemetic	normalName:antiemetic	normalWikiTitle:antiemetic	predictedType:Chemical
+CANDIDATE	id:48425	inCount:0	outCount:1	links:	url:CHEBI:48425	name:topical anaesthetic	normalName:topical anaesthetic	normalWikiTitle:topical anaesthetic	predictedType:Chemical
+CANDIDATE	id:38869	inCount:2	outCount:1	links:	url:CHEBI:38869	name:general anaesthetic	normalName:general anaesthetic	normalWikiTitle:general anaesthetic	predictedType:Chemical
+CANDIDATE	id:87635	inCount:13	outCount:1	links:	url:CHEBI:87635	name:statin (synthetic)	normalName:statin (synthetic)	normalWikiTitle:statin (synthetic)	predictedType:Chemical
+CANDIDATE	id:35493	inCount:0	outCount:1	links:	url:CHEBI:35493	name:antipyretic	normalName:antipyretic	normalWikiTitle:antipyretic	predictedType:Chemical
+CANDIDATE	id:16753	inCount:0	outCount:2	links:	url:CHEBI:16753	name:pantetheine	normalName:pantetheine	normalWikiTitle:pantetheine	predictedType:Chemical
+CANDIDATE	id:10073	inCount:0	outCount:1	links:	url:CHEBI:10073	name:Xanthyletin	normalName:xanthyletin	normalWikiTitle:xanthyletin	predictedType:Chemical
+ENTITY	text:mineral	normalName:mineral	predictedType:chemical	q:true	qid:Q66	docId:16362077	origText:mineral	url:CHEBI:46662
+CANDIDATE	id:46662	inCount:15	outCount:1	links:	url:CHEBI:46662	name:mineral	normalName:mineral	normalWikiTitle:mineral	predictedType:Chemical
+ENTITY	text:mixture	normalName:mixture	predictedType:chemical	q:true	qid:Q66	docId:16362077	origText:mixture	url:CHEBI:60004
+CANDIDATE	id:60004	inCount:122	outCount:1	links:	url:CHEBI:60004	name:mixture	normalName:mixture	normalWikiTitle:mixture	predictedType:Chemical
+ENTITY	text:electron	normalName:electron	predictedType:chemical	q:true	qid:Q66	docId:16362077	origText:electron	url:CHEBI:10545
+CANDIDATE	id:10545	inCount:0	outCount:1	links:	url:CHEBI:10545	name:electron	normalName:electron	normalWikiTitle:electron	predictedType:Chemical
+ENTITY	text:agarose	normalName:agarose	predictedType:chemical	q:true	qid:Q66	docId:16362077	origText:agarose	url:CHEBI:2511
+CANDIDATE	id:2511	inCount:0	outCount:1	links:	url:CHEBI:2511	name:agarose	normalName:agarose	normalWikiTitle:agarose	predictedType:Chemical
+ENTITY	text:puromycin	normalName:puromycin	predictedType:chemical	q:true	qid:Q66	docId:16362077	origText:puromycin	url:CHEBI:17939
+CANDIDATE	id:17939	inCount:0	outCount:1	links:	url:CHEBI:17939	name:puromycin	normalName:puromycin	normalWikiTitle:puromycin	predictedType:Chemical
+ENTITY	text:MMA	normalName:mma	predictedType:chemical	q:true	qid:Q66	docId:16362077	origText:MMA	url:CHEBI:34840
+CANDIDATE	id:34840	inCount:0	outCount:1	links:	url:CHEBI:34840	name:MMA	normalName:mma	normalWikiTitle:mma	predictedType:Chemical
+CANDIDATE	id:25690	inCount:1	outCount:1	links:	url:CHEBI:25690	name:ommatin	normalName:ommatin	normalWikiTitle:ommatin	predictedType:Chemical
+CANDIDATE	id:16134	inCount:0	outCount:3	links:	url:CHEBI:16134	name:ammonia	normalName:ammonia	normalWikiTitle:ammonia	predictedType:Chemical
+CANDIDATE	id:80198	inCount:0	outCount:1	links:	url:CHEBI:80198	name:Mas8	normalName:mas8	normalWikiTitle:mas8	predictedType:Chemical
+CANDIDATE	id:5593	inCount:0	outCount:1	links:	url:CHEBI:5593	name:HMMF	normalName:hmmf	normalWikiTitle:hmmf	predictedType:Chemical
+CANDIDATE	id:77066	inCount:0	outCount:1	links:	url:CHEBI:77066	name:MPLA	normalName:mpla	normalWikiTitle:mpla	predictedType:Chemical
+CANDIDATE	id:6617	inCount:0	outCount:1	links:	url:CHEBI:6617	name:MEGA	normalName:mega	normalWikiTitle:mega	predictedType:Chemical
+CANDIDATE	id:80197	inCount:0	outCount:1	links:	url:CHEBI:80197	name:Mas7	normalName:mas7	normalWikiTitle:mas7	predictedType:Chemical
+CANDIDATE	id:33986	inCount:0	outCount:1	links:	url:CHEBI:33986	name:muramate	normalName:muramate	normalWikiTitle:muramate	predictedType:Chemical
+CANDIDATE	id:60759	inCount:0	outCount:2	links:	url:CHEBI:60759	name:PMMA	normalName:pmma	normalWikiTitle:pmma	predictedType:Chemical
+CANDIDATE	id:134817	inCount:0	outCount:1	links:	url:CHEBI:134817	name:OMMA	normalName:omma	normalWikiTitle:omma	predictedType:Chemical
+CANDIDATE	id:1391	inCount:0	outCount:2	links:	url:CHEBI:1391	name:MDMA	normalName:mdma	normalWikiTitle:mdma	predictedType:Chemical
+CANDIDATE	id:73610	inCount:0	outCount:1	links:	url:CHEBI:73610	name:MA	normalName:ma	normalWikiTitle:ma	predictedType:Chemical
+CANDIDATE	id:53458	inCount:1	outCount:2	links:	url:CHEBI:53458	name:MM	normalName:mm	normalWikiTitle:mm	predictedType:Chemical
+CANDIDATE	id:2687	inCount:0	outCount:3	links:	url:CHEBI:2687	name:mAMSA	normalName:mamsa	normalWikiTitle:mamsa	predictedType:Chemical
+CANDIDATE	id:30212	inCount:0	outCount:1	links:	url:CHEBI:30212	name:gamma	normalName:gamma	normalWikiTitle:gamma	predictedType:Chemical
+CANDIDATE	id:17141	inCount:0	outCount:2	links:	url:CHEBI:17141	name:MEA	normalName:mea	normalWikiTitle:mea	predictedType:Chemical
+CANDIDATE	id:53464	inCount:0	outCount:2	links:	url:CHEBI:53464	name:MMX	normalName:mmx	normalWikiTitle:mmx	predictedType:Chemical
+ENTITY	text:calcein	normalName:calcein	predictedType:chemical	q:true	qid:Q66	docId:16362077	origText:calcein	url:CHEBI:51903
+CANDIDATE	id:51903	inCount:0	outCount:1	links:	url:CHEBI:51903	name:calcein	normalName:calcein	normalWikiTitle:calcein	predictedType:Chemical
+ENTITY	text:ethidium bromide	normalName:ethidium bromide	predictedType:chemical	q:true	qid:Q66	docId:16362077	origText:ethidium bromide	url:CHEBI:4883
+CANDIDATE	id:4883	inCount:0	outCount:1	links:	url:CHEBI:4883	name:ethidium bromide	normalName:ethidium bromide	normalWikiTitle:ethidium bromide	predictedType:Chemical
+ENTITY	text:reagent	normalName:reagent	predictedType:chemical	q:true	qid:Q66	docId:16362077	origText:reagent	url:CHEBI:33893
+CANDIDATE	id:33893	inCount:15	outCount:1	links:	url:CHEBI:33893	name:reagent	normalName:reagent	normalWikiTitle:reagent	predictedType:Chemical
+ENTITY	text:tetracycline	normalName:tetracycline	predictedType:chemical	q:true	qid:Q66	docId:16362077	origText:tetracycline	url:CHEBI:27902
+CANDIDATE	id:27902	inCount:0	outCount:2	links:	url:CHEBI:27902	name:tetracycline	normalName:tetracycline	normalWikiTitle:tetracycline	predictedType:Chemical
+ENTITY	text:pioglitazone	normalName:pioglitazone	predictedType:chemical	q:true	qid:Q66	docId:16362077	origText:pioglitazone	url:CHEBI:8228
+CANDIDATE	id:8228	inCount:0	outCount:3	links:	url:CHEBI:8228	name:pioglitazone	normalName:pioglitazone	normalWikiTitle:pioglitazone	predictedType:Chemical
+ENTITY	text:acid	normalName:acid	predictedType:chemical	q:true	qid:Q66	docId:16362077	origText:acid	url:CHEBI:37527
+CANDIDATE	id:37527	inCount:2	outCount:1	links:	url:CHEBI:37527	name:acid	normalName:acid	normalWikiTitle:acid	predictedType:Chemical
+ENTITY	text:hematoxylin	normalName:hematoxylin	predictedType:chemical	q:true	qid:Q66	docId:16362077	origText:hematoxylin	url:CHEBI:51686
+CANDIDATE	id:51686	inCount:2	outCount:4	links:	url:CHEBI:51686	name:haematoxylin	normalName:haematoxylin	normalWikiTitle:haematoxylin	predictedType:Chemical
+CANDIDATE	id:51684	inCount:0	outCount:1	links:	url:CHEBI:51684	name:(-)-haematoxylin	normalName:(-)-haematoxylin	normalWikiTitle:(-)-haematoxylin	predictedType:Chemical
+CANDIDATE	id:5601	inCount:0	outCount:1	links:	url:CHEBI:5601	name:(+)-haematoxylin	normalName:(+)-haematoxylin	normalWikiTitle:(+)-haematoxylin	predictedType:Chemical
+CANDIDATE	id:36161	inCount:0	outCount:1	links:	url:CHEBI:36161	name:hematin	normalName:hematin	normalWikiTitle:hematin	predictedType:Chemical
+CANDIDATE	id:6405	inCount:0	outCount:1	links:	url:CHEBI:6405	name:Lemmatoxin	normalName:lemmatoxin	normalWikiTitle:lemmatoxin	predictedType:Chemical
+CANDIDATE	id:90116	inCount:0	outCount:5	links:	url:CHEBI:90116	name:hematein	normalName:hematein	normalWikiTitle:hematein	predictedType:Chemical
+CANDIDATE	id:5822	inCount:0	outCount:1	links:	url:CHEBI:5822	name:Hymatoxin A	normalName:hymatoxin a	normalWikiTitle:hymatoxin a	predictedType:Chemical
+CANDIDATE	id:10070	inCount:0	outCount:1	links:	url:CHEBI:10070	name:Xanthoxylin	normalName:xanthoxylin	normalWikiTitle:xanthoxylin	predictedType:Chemical
+CANDIDATE	id:80724	inCount:0	outCount:1	links:	url:CHEBI:80724	name:HMT-toxin	normalName:hmt-toxin	normalWikiTitle:hmt-toxin	predictedType:Chemical
+CANDIDATE	id:70549	inCount:0	outCount:1	links:	url:CHEBI:70549	name:huratoxin	normalName:huratoxin	normalWikiTitle:huratoxin	predictedType:Chemical
+ENTITY	text:neomycin	normalName:neomycin	predictedType:chemical	q:true	qid:Q66	docId:16362077	origText:neomycin	url:CHEBI:7507
+CANDIDATE	id:7507	inCount:0	outCount:2	links:	url:CHEBI:7507	name:neomycin	normalName:neomycin	normalWikiTitle:neomycin	predictedType:Chemical
+ENTITY	text:17β estradiol	normalName:17β estradiol	predictedType:chemical	q:true	qid:Q66	docId:16362077	origText:17β estradiol	url:CHEBI:16469
+CANDIDATE	id:16469	inCount:0	outCount:2	links:	url:CHEBI:16469	name:17beta-estradiol	normalName:17beta-estradiol	normalWikiTitle:17beta-estradiol	predictedType:Chemical
+CANDIDATE	id:23965	inCount:2	outCount:2	links:	url:CHEBI:23965	name:estradiol	normalName:estradiol	normalWikiTitle:estradiol	predictedType:Chemical
+CANDIDATE	id:17160	inCount:0	outCount:3	links:	url:CHEBI:17160	name:17alpha-estradiol	normalName:17alpha-estradiol	normalWikiTitle:17alpha-estradiol	predictedType:Chemical
+CANDIDATE	id:42156	inCount:0	outCount:3	links:	url:CHEBI:42156	name:17-epiestriol	normalName:17-epiestriol	normalWikiTitle:17-epiestriol	predictedType:Chemical
+CANDIDATE	id:34165	inCount:0	outCount:1	links:	url:CHEBI:34165	name:16-Ketoestradiol	normalName:16-ketoestradiol	normalWikiTitle:16-ketoestradiol	predictedType:Chemical
+CANDIDATE	id:75736	inCount:0	outCount:1	links:	url:CHEBI:75736	name:tramadol(1+)	normalName:tramadol(1+)	normalWikiTitle:tramadol(1+)	predictedType:Chemical
+CANDIDATE	id:27974	inCount:0	outCount:3	links:	url:CHEBI:27974	name:estriol	normalName:estriol	normalWikiTitle:estriol	predictedType:Chemical
+CANDIDATE	id:34331	inCount:0	outCount:1	links:	url:CHEBI:34331	name:3-Deoxyestradiol	normalName:3-deoxyestradiol	normalWikiTitle:3-deoxyestradiol	predictedType:Chemical
+CANDIDATE	id:135981	inCount:0	outCount:1	links:	url:CHEBI:135981	name:estradiol acetate	normalName:estradiol acetate	normalWikiTitle:estradiol acetate	predictedType:Chemical
+CANDIDATE	id:75738	inCount:0	outCount:2	links:	url:CHEBI:75738	name:(S,S)-tramadol(1+)	normalName:(s,s)-tramadol(1+)	normalWikiTitle:(s,s)-tramadol(1+)	predictedType:Chemical
+ENTITY	text:inhibitors	normalName:inhibitors	predictedType:chemical	q:true	qid:Q66	docId:16362077	origText:inhibitors	url:CHEBI:35222
+CANDIDATE	id:35222	inCount:57	outCount:1	links:	url:CHEBI:35222	name:inhibitor	normalName:inhibitor	normalWikiTitle:inhibitor	predictedType:Chemical
+ENTITY	text:silver nitrate	normalName:silver nitrate	predictedType:chemical	q:true	qid:Q66	docId:16362077	origText:silver nitrate	url:CHEBI:32130
+CANDIDATE	id:32130	inCount:0	outCount:2	links:	url:CHEBI:32130	name:silver(1+) nitrate	normalName:silver(1+) nitrate	normalWikiTitle:silver(1+) nitrate	predictedType:Chemical
+CANDIDATE	id:51082	inCount:2	outCount:1	links:	url:CHEBI:51082	name:nitrate salt	normalName:nitrate salt	normalWikiTitle:nitrate salt	predictedType:Chemical
+CANDIDATE	id:51081	inCount:2	outCount:1	links:	url:CHEBI:51081	name:nitrates	normalName:nitrates	normalWikiTitle:nitrates	predictedType:Chemical
+CANDIDATE	id:30512	inCount:0	outCount:1	links:	url:CHEBI:30512	name:silver atom	normalName:silver atom	normalWikiTitle:silver atom	predictedType:Chemical
+CANDIDATE	id:33968	inCount:4	outCount:1	links:	url:CHEBI:33968	name:silver salt	normalName:silver salt	normalWikiTitle:silver salt	predictedType:Chemical
+CANDIDATE	id:63005	inCount:0	outCount:2	links:	url:CHEBI:63005	name:sodium nitrate	normalName:sodium nitrate	normalWikiTitle:sodium nitrate	predictedType:Chemical
+CANDIDATE	id:46648	inCount:1	outCount:1	links:	url:CHEBI:46648	name:nitrite salt	normalName:nitrite salt	normalWikiTitle:nitrite salt	predictedType:Chemical
+CANDIDATE	id:31724	inCount:0	outCount:1	links:	url:CHEBI:31724	name:Isoaminile citrate	normalName:isoaminile citrate	normalWikiTitle:isoaminile citrate	predictedType:Chemical
+CANDIDATE	id:50744	inCount:10	outCount:1	links:	url:CHEBI:50744	name:citrate salt	normalName:citrate salt	normalWikiTitle:citrate salt	predictedType:Chemical
+CANDIDATE	id:58987	inCount:0	outCount:1	links:	url:CHEBI:58987	name:sildenafil citrate	normalName:sildenafil citrate	normalWikiTitle:sildenafil citrate	predictedType:Chemical
+ENTITY	text:glycolmethacrylate	normalName:glycolmethacrylate	predictedType:chemical	q:true	qid:Q66	docId:16362077	origText:glycolmethacrylate	url:CHEBI:34288
+CANDIDATE	id:34288	inCount:0	outCount:1	links:	url:CHEBI:34288	name:2-hydroxyethyl methacrylate	normalName:2-hydroxyethyl methacrylate	normalWikiTitle:2-hydroxyethyl methacrylate	predictedType:Chemical
+CANDIDATE	id:132844	inCount:0	outCount:2	links:	url:CHEBI:132844	name:glycidyl methacrylate	normalName:glycidyl methacrylate	normalWikiTitle:glycidyl methacrylate	predictedType:Chemical
+CANDIDATE	id:25218	inCount:0	outCount:1	links:	url:CHEBI:25218	name:methacrylate	normalName:methacrylate	normalWikiTitle:methacrylate	predictedType:Chemical
+CANDIDATE	id:60008	inCount:0	outCount:1	links:	url:CHEBI:60008	name:glycolithocholate	normalName:glycolithocholate	normalWikiTitle:glycolithocholate	predictedType:Chemical
+CANDIDATE	id:51759	inCount:0	outCount:2	links:	url:CHEBI:51759	name:methacrylamide	normalName:methacrylamide	normalWikiTitle:methacrylamide	predictedType:Chemical
+CANDIDATE	id:34580	inCount:0	outCount:1	links:	url:CHEBI:34580	name:Bisphenol A glycidylmethacrylate	normalName:bisphenol a glycidylmethacrylate	normalWikiTitle:bisphenol a glycidylmethacrylate	predictedType:Chemical
+CANDIDATE	id:4834	inCount:0	outCount:1	links:	url:CHEBI:4834	name:Erioflorin methacrylate	normalName:erioflorin methacrylate	normalWikiTitle:erioflorin methacrylate	predictedType:Chemical
+CANDIDATE	id:27754	inCount:0	outCount:1	links:	url:CHEBI:27754	name:methacrylyl-CoA	normalName:methacrylyl-coa	normalWikiTitle:methacrylyl-coa	predictedType:Chemical
+CANDIDATE	id:84979	inCount:0	outCount:1	links:	url:CHEBI:84979	name:2-ethylacrylate	normalName:2-ethylacrylate	normalWikiTitle:2-ethylacrylate	predictedType:Chemical
+CANDIDATE	id:29746	inCount:0	outCount:2	links:	url:CHEBI:29746	name:glycocholate	normalName:glycocholate	normalWikiTitle:glycocholate	predictedType:Chemical
+ENTITY	text:vitamin D	normalName:vitamin d	predictedType:chemical	q:true	qid:Q66	docId:16362077	origText:vitamin D	url:CHEBI:27300
+CANDIDATE	id:27300	inCount:31	outCount:1	links:	url:CHEBI:27300	name:vitamin D	normalName:vitamin d	normalWikiTitle:vitamin d	predictedType:Chemical
+ENTITY	text:fluorochrome	normalName:fluorochrome	predictedType:chemical	q:true	qid:Q66	docId:16362077	origText:fluorochrome	url:CHEBI:51217
+CANDIDATE	id:51217	inCount:0	outCount:1	links:	url:CHEBI:51217	name:fluorochrome	normalName:fluorochrome	normalWikiTitle:fluorochrome	predictedType:Chemical
+ENTITY	text:ammonium hydroxide	normalName:ammonium hydroxide	predictedType:chemical	q:true	qid:Q66	docId:16362077	origText:ammonium hydroxide	url:CHEBI:18219
+CANDIDATE	id:18219	inCount:0	outCount:1	links:	url:CHEBI:18219	name:ammonium hydroxide	normalName:ammonium hydroxide	normalWikiTitle:ammonium hydroxide	predictedType:Chemical

@@ -1,0 +1,67 @@
+ENTITY	text:Gastrointestinal toxicosis	normalName:gastrointestinal toxicosis	predictedType:disease	q:true	qid:Q95	docId:21418164	origText:Gastrointestinal toxicosis	url:D005767
+CANDIDATE	id:5767	inCount:12	outCount:1	links:17093;14839;13921;9503;740	url:D005767	name:Gastrointestinal Diseases	normalName:gastrointestinal diseases	normalWikiTitle:gastrointestinal diseases	predictedType:Disease
+CANDIDATE	id:14385	inCount:0	outCount:2	links:	url:D014385	name:Tuberculosis, Gastrointestinal	normalName:tuberculosis, gastrointestinal	normalWikiTitle:tuberculosis, gastrointestinal	predictedType:Disease
+CANDIDATE	id:5770	inCount:7	outCount:2	links:	url:D005770	name:Gastrointestinal Neoplasms	normalName:gastrointestinal neoplasms	normalWikiTitle:gastrointestinal neoplasms	predictedType:Disease
+CANDIDATE	id:46152	inCount:2	outCount:2	links:	url:D046152	name:Gastrointestinal Stromal Tumors	normalName:gastrointestinal stromal tumors	normalWikiTitle:gastrointestinal stromal tumors	predictedType:Disease
+CANDIDATE	id:44483	inCount:4	outCount:1	links:	url:D044483	name:Intestinal Polyposis	normalName:intestinal polyposis	normalWikiTitle:intestinal polyposis	predictedType:Disease
+CANDIDATE	id:6471	inCount:3	outCount:2	links:	url:D006471	name:Gastrointestinal Hemorrhage	normalName:gastrointestinal hemorrhage	normalWikiTitle:gastrointestinal hemorrhage	predictedType:Disease
+CANDIDATE	id:571911	inCount:0	outCount:2	links:	url:C571911	name:Gastrointestinal anthrax	normalName:gastrointestinal anthrax	normalWikiTitle:gastrointestinal anthrax	predictedType:Disease
+CANDIDATE	id:562842	inCount:0	outCount:2	links:	url:C562842	name:Carcinoid Tumors, Intestinal	normalName:carcinoid tumors, intestinal	normalWikiTitle:carcinoid tumors, intestinal	predictedType:Disease
+CANDIDATE	id:7222	inCount:0	outCount:2	links:	url:D007222	name:Inert Gas Narcosis	normalName:inert gas narcosis	normalWikiTitle:inert gas narcosis	predictedType:Disease
+CANDIDATE	id:5759	inCount:13	outCount:1	links:	url:D005759	name:Gastroenteritis	normalName:gastroenteritis	normalWikiTitle:gastroenteritis	predictedType:Disease
+ENTITY	text:neutropenia	normalName:neutropenia	predictedType:disease	q:true	qid:Q95	docId:21418164	origText:neutropenia	url:D009503
+CANDIDATE	id:9503	inCount:19	outCount:1	links:66126;13921;740;5767;14839;17093	url:D009503	name:Neutropenia	normalName:neutropenia	normalWikiTitle:neutropenia	predictedType:Disease
+ENTITY	text:anaemia	normalName:anaemia	predictedType:disease	q:true	qid:Q95	docId:21418164	origText:anaemia	url:D000740
+CANDIDATE	id:740	inCount:14	outCount:1	links:17093;14839;13921;9503;5767	url:D000740	name:Anemia	normalName:anemia	normalWikiTitle:anemia	predictedType:Disease
+CANDIDATE	id:849	inCount:0	outCount:1	links:	url:D000849	name:Anomia	normalName:anomia	normalWikiTitle:anomia	predictedType:Disease
+CANDIDATE	id:536524	inCount:0	outCount:1	links:	url:C536524	name:Valinemia	normalName:valinemia	normalWikiTitle:valinemia	predictedType:Disease
+CANDIDATE	id:58387	inCount:0	outCount:2	links:	url:D058387	name:Candidemia	normalName:candidemia	normalWikiTitle:candidemia	predictedType:Disease
+CANDIDATE	id:647	inCount:4	outCount:2	links:1930	url:D000647	name:Amnesia	normalName:amnesia	normalWikiTitle:amnesia	predictedType:Disease
+CANDIDATE	id:53099	inCount:0	outCount:2	links:	url:D053099	name:Azotemia	normalName:azotemia	normalWikiTitle:azotemia	predictedType:Disease
+CANDIDATE	id:855	inCount:1	outCount:1	links:	url:D000855	name:Anorexia	normalName:anorexia	normalWikiTitle:anorexia	predictedType:Disease
+CANDIDATE	id:16469	inCount:1	outCount:2	links:	url:D016469	name:Fungemia	normalName:fungemia	normalWikiTitle:fungemia	predictedType:Disease
+CANDIDATE	id:53714	inCount:0	outCount:1	links:	url:D053714	name:Aspermia	normalName:aspermia	normalWikiTitle:aspermia	predictedType:Disease
+CANDIDATE	id:18512	inCount:0	outCount:2	links:	url:D018512	name:Parasitemia	normalName:parasitemia	normalWikiTitle:parasitemia	predictedType:Disease
+ENTITY	text:vomiting	normalName:vomiting	predictedType:disease	q:true	qid:Q95	docId:21418164	origText:vomiting	url:D014839
+CANDIDATE	id:14839	inCount:7	outCount:1	links:17093;740;13921;9503;5767	url:D014839	name:Vomiting	normalName:vomiting	normalWikiTitle:vomiting	predictedType:Disease
+ENTITY	text:brain tumour	normalName:brain tumour	predictedType:disease	q:true	qid:Q95	docId:21418164	origText:brain tumour	url:D001932
+CANDIDATE	id:1932	inCount:16	outCount:2	links:	url:D001932	name:Tumors, Brain	normalName:tumors, brain	normalWikiTitle:tumors, brain	predictedType:Disease
+CANDIDATE	id:563168	inCount:0	outCount:2	links:	url:C563168	name:Askin Tumor	normalName:askin tumor	normalWikiTitle:askin tumor	predictedType:Disease
+CANDIDATE	id:1948	inCount:0	outCount:2	links:	url:D001948	name:Brenner Tumor	normalName:brenner tumor	normalWikiTitle:brenner tumor	predictedType:Disease
+CANDIDATE	id:18335	inCount:4	outCount:1	links:	url:D018335	name:Rhabdoid Tumor	normalName:rhabdoid tumor	normalWikiTitle:rhabdoid tumor	predictedType:Disease
+CANDIDATE	id:18285	inCount:0	outCount:1	links:	url:D018285	name:Klatskin Tumor	normalName:klatskin tumor	normalWikiTitle:klatskin tumor	predictedType:Disease
+CANDIDATE	id:70624	inCount:0	outCount:2	links:	url:D000070624	name:Brain Contusion	normalName:brain contusion	normalWikiTitle:brain contusion	predictedType:Disease
+CANDIDATE	id:9058	inCount:0	outCount:2	links:	url:D009058	name:Mouth Breathing	normalName:mouth breathing	normalWikiTitle:mouth breathing	predictedType:Disease
+CANDIDATE	id:2276	inCount:3	outCount:2	links:	url:D002276	name:Carcinoid Tumor	normalName:carcinoid tumor	normalWikiTitle:carcinoid tumor	predictedType:Disease
+CANDIDATE	id:14072	inCount:0	outCount:1	links:	url:D014072	name:Tooth Abrasion	normalName:tooth abrasion	normalWikiTitle:tooth abrasion	predictedType:Disease
+CANDIDATE	id:535558	inCount:0	outCount:1	links:	url:C535558	name:Abrikosov's tumor	normalName:abrikosov's tumor	normalWikiTitle:abrikosov's tumor	predictedType:Disease
+CANDIDATE	id:1930	inCount:7	outCount:2	links:647	url:D001930	name:Brain Injuries	normalName:brain injuries	normalWikiTitle:brain injuries	predictedType:Disease
+CANDIDATE	id:1932	inCount:16	outCount:2	links:	url:D001932	name:Tumor, Brain	normalName:tumor, brain	normalWikiTitle:tumor, brain	predictedType:Disease
+CANDIDATE	id:1932	inCount:16	outCount:2	links:	url:D001932	name:Brain Tumor	normalName:brain tumor	normalWikiTitle:brain tumor	predictedType:Disease
+CANDIDATE	id:1932	inCount:16	outCount:2	links:	url:D001932	name:Brain Tumors	normalName:brain tumors	normalWikiTitle:brain tumors	predictedType:Disease
+CANDIDATE	id:20295	inCount:0	outCount:1	links:	url:D020295	name:Midbrain Tumor	normalName:midbrain tumor	normalWikiTitle:midbrain tumor	predictedType:Disease
+CANDIDATE	id:20295	inCount:0	outCount:1	links:	url:D020295	name:Tumor, Midbrain	normalName:tumor, midbrain	normalWikiTitle:tumor, midbrain	predictedType:Disease
+CANDIDATE	id:20295	inCount:0	outCount:1	links:	url:D020295	name:Midbrain Tumors	normalName:midbrain tumors	normalWikiTitle:midbrain tumors	predictedType:Disease
+CANDIDATE	id:20295	inCount:0	outCount:1	links:	url:D020295	name:Tumors, Midbrain	normalName:tumors, midbrain	normalWikiTitle:tumors, midbrain	predictedType:Disease
+CANDIDATE	id:20295	inCount:0	outCount:1	links:	url:D020295	name:Brainstem Tumor	normalName:brainstem tumor	normalWikiTitle:brainstem tumor	predictedType:Disease
+CANDIDATE	id:20295	inCount:0	outCount:1	links:	url:D020295	name:Brainstem Tumors	normalName:brainstem tumors	normalWikiTitle:brainstem tumors	predictedType:Disease
+ENTITY	text:thrombocytopenia	normalName:thrombocytopenia	predictedType:disease	q:true	qid:Q95	docId:21418164	origText:thrombocytopenia	url:D013921
+CANDIDATE	id:13921	inCount:42	outCount:1	links:17093;740;9503;14839;5767	url:D013921	name:Thrombocytopenia	normalName:thrombocytopenia	normalWikiTitle:thrombocytopenia	predictedType:Disease
+ENTITY	text:lymphoma	normalName:lymphoma	predictedType:disease	q:true	qid:Q95	docId:21418164	origText:lymphoma	url:D008223
+CANDIDATE	id:8223	inCount:8	outCount:2	links:	url:D008223	name:Lymphoma	normalName:lymphoma	normalWikiTitle:lymphoma	predictedType:Disease
+ENTITY	text:toxicity	normalName:toxicity	predictedType:disease	q:true	qid:Q95	docId:21418164	origText:toxicity	url:D064420
+CANDIDATE	id:64420	inCount:10	outCount:1	links:	url:D064420	name:Drug Toxicity	normalName:drug toxicity	normalWikiTitle:drug toxicity	predictedType:Disease
+CANDIDATE	id:66126	inCount:0	outCount:3	links:9503	url:D066126	name:Cardiotoxicity	normalName:cardiotoxicity	normalWikiTitle:cardiotoxicity	predictedType:Disease
+CANDIDATE	id:15651	inCount:2	outCount:1	links:	url:D015651	name:Mycotoxicosis	normalName:mycotoxicosis	normalWikiTitle:mycotoxicosis	predictedType:Disease
+CANDIDATE	id:13971	inCount:2	outCount:1	links:	url:D013971	name:Thyrotoxicosis	normalName:thyrotoxicosis	normalWikiTitle:thyrotoxicosis	predictedType:Disease
+CANDIDATE	id:14869	inCount:0	outCount:2	links:	url:D014869	name:Water Intoxication	normalName:water intoxication	normalWikiTitle:water intoxication	predictedType:Disease
+CANDIDATE	id:14103	inCount:4	outCount:2	links:	url:D014103	name:Torticollis	normalName:torticollis	normalWikiTitle:torticollis	predictedType:Disease
+CANDIDATE	id:9765	inCount:42	outCount:2	links:	url:D009765	name:Obesity	normalName:obesity	normalWikiTitle:obesity	predictedType:Disease
+CANDIDATE	id:14115	inCount:1	outCount:1	links:	url:D014115	name:Toxemia	normalName:toxemia	normalWikiTitle:toxemia	predictedType:Disease
+CANDIDATE	id:7246	inCount:2	outCount:2	links:	url:D007246	name:Infertility	normalName:infertility	normalWikiTitle:infertility	predictedType:Disease
+CANDIDATE	id:20234	inCount:0	outCount:2	links:	url:D020234	name:Gait Ataxia	normalName:gait ataxia	normalWikiTitle:gait ataxia	predictedType:Disease
+CANDIDATE	id:14069	inCount:1	outCount:1	links:	url:D014069	name:Tonsillitis	normalName:tonsillitis	normalWikiTitle:tonsillitis	predictedType:Disease
+CANDIDATE	id:64420	inCount:10	outCount:1	links:	url:D064420	name:Toxicity, Drug	normalName:toxicity, drug	normalWikiTitle:toxicity, drug	predictedType:Disease
+CANDIDATE	id:17484	inCount:0	outCount:2	links:	url:D017484	name:Phototoxicity	normalName:phototoxicity	normalWikiTitle:phototoxicity	predictedType:Disease
+ENTITY	text:hepatic failure	normalName:hepatic failure	predictedType:disease	q:true	qid:Q95	docId:21418164	origText:hepatic failure	url:D017093
+CANDIDATE	id:17093	inCount:5	outCount:1	links:740;13921;9503;14839;5767	url:D017093	name:Hepatic Failure	normalName:hepatic failure	normalWikiTitle:hepatic failure	predictedType:Disease

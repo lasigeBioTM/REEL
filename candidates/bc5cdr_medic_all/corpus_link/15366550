@@ -1,0 +1,17 @@
+ENTITY	text:polydipsia	normalName:polydipsia	predictedType:disease	q:true	qid:Q166	docId:15366550	origText:polydipsia	url:D059606
+CANDIDATE	id:59606	inCount:1	outCount:2	links:	url:D059606	name:Polydipsia	normalName:polydipsia	normalWikiTitle:polydipsia	predictedType:Disease
+ENTITY	text:nephrogenic DI	normalName:nephrogenic di	predictedType:disease	q:true	qid:Q166	docId:15366550	origText:nephrogenic DI	url:D018500
+CANDIDATE	id:18500	inCount:1	outCount:1	links:3919	url:D018500	name:Diabetes Insipidus, Nephrogenic	normalName:diabetes insipidus, nephrogenic	normalWikiTitle:diabetes insipidus, nephrogenic	predictedType:Disease
+CANDIDATE	id:55496	inCount:0	outCount:1	links:	url:D055496	name:Neurogenic Bowel	normalName:neurogenic bowel	normalWikiTitle:neurogenic bowel	predictedType:Disease
+CANDIDATE	id:58535	inCount:0	outCount:1	links:	url:D058535	name:Echogenic Bowel	normalName:echogenic bowel	normalWikiTitle:echogenic bowel	predictedType:Disease
+CANDIDATE	id:7049	inCount:1	outCount:1	links:	url:D007049	name:Iatrogenic Disease	normalName:iatrogenic disease	normalWikiTitle:iatrogenic disease	predictedType:Disease
+CANDIDATE	id:9401	inCount:8	outCount:1	links:	url:D009401	name:Nephrosis	normalName:nephrosis	normalWikiTitle:nephrosis	predictedType:Disease
+CANDIDATE	id:54989	inCount:0	outCount:2	links:	url:D054989	name:Nephrogenic Fibrosing Dermopathy	normalName:nephrogenic fibrosing dermopathy	normalWikiTitle:nephrogenic fibrosing dermopathy	predictedType:Disease
+CANDIDATE	id:59607	inCount:0	outCount:1	links:	url:D059607	name:Polydipsia, Psychogenic	normalName:polydipsia, psychogenic	normalWikiTitle:polydipsia, psychogenic	predictedType:Disease
+CANDIDATE	id:9402	inCount:0	outCount:1	links:	url:D009402	name:Nephrosis, Lipoid	normalName:nephrosis, lipoid	normalWikiTitle:nephrosis, lipoid	predictedType:Disease
+CANDIDATE	id:20078	inCount:0	outCount:2	links:	url:D020078	name:Neurogenic Inflammation	normalName:neurogenic inflammation	normalWikiTitle:neurogenic inflammation	predictedType:Disease
+CANDIDATE	id:6869	inCount:5	outCount:1	links:	url:D006869	name:Hydronephrosis	normalName:hydronephrosis	normalWikiTitle:hydronephrosis	predictedType:Disease
+CANDIDATE	id:1750	inCount:0	outCount:2	links:	url:D001750	name:Bladder, Neurogenic	normalName:bladder, neurogenic	normalWikiTitle:bladder, neurogenic	predictedType:Disease
+CANDIDATE	id:1750	inCount:0	outCount:2	links:	url:D001750	name:Neurogenic Bladder	normalName:neurogenic bladder	normalWikiTitle:neurogenic bladder	predictedType:Disease
+ENTITY	text:diabetes insipidus	normalName:diabetes insipidus	predictedType:disease	q:true	qid:Q166	docId:15366550	origText:diabetes insipidus	url:D003919
+CANDIDATE	id:3919	inCount:7	outCount:2	links:18500	url:D003919	name:Diabetes Insipidus	normalName:diabetes insipidus	normalWikiTitle:diabetes insipidus	predictedType:Disease

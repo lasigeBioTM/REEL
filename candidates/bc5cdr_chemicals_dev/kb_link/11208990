@@ -1,0 +1,21 @@
+ENTITY	text:acetylcholine	normalName:acetylcholine	predictedType:chemical	q:true	qid:Q423	docId:11208990	origText:acetylcholine	url:D000109
+CANDIDATE	id:109	inCount:23	outCount:1	links:	url:D000109	name:Acetylcholine	normalName:acetylcholine	normalWikiTitle:acetylcholine	predictedType:Chemical
+ENTITY	text:adriamycin	normalName:adriamycin	predictedType:chemical	q:true	qid:Q423	docId:11208990	origText:adriamycin	url:D004317
+CANDIDATE	id:4317	inCount:559	outCount:1	links:	url:D004317	name:Adriamycin	normalName:adriamycin	normalWikiTitle:adriamycin	predictedType:Chemical
+ENTITY	text:nitric oxide	normalName:nitric oxide	predictedType:chemical	q:true	qid:Q423	docId:11208990	origText:nitric oxide	url:D009569
+CANDIDATE	id:9569	inCount:13	outCount:3	links:	url:D009569	name:Nitric Oxide	normalName:nitric oxide	normalWikiTitle:nitric oxide	predictedType:Chemical
+ENTITY	text:nitrite	normalName:nitrite	predictedType:chemical	q:true	qid:Q423	docId:11208990	origText:nitrite	url:D009573
+CANDIDATE	id:9573	inCount:21	outCount:3	links:	url:D009573	name:Nitrites	normalName:nitrites	normalWikiTitle:nitrites	predictedType:Chemical
+CANDIDATE	id:9566	inCount:116	outCount:3	links:	url:D009566	name:Nitrates	normalName:nitrates	normalWikiTitle:nitrates	predictedType:Chemical
+CANDIDATE	id:9570	inCount:682	outCount:1	links:	url:D009570	name:Nitriles	normalName:nitriles	normalWikiTitle:nitriles	predictedType:Chemical
+CANDIDATE	id:25117	inCount:0	outCount:1	links:	url:C025117	name:hyponitrite	normalName:hyponitrite	normalWikiTitle:hyponitrite	predictedType:Chemical
+CANDIDATE	id:15384	inCount:0	outCount:2	links:	url:C015384	name:nitramine	normalName:nitramine	normalWikiTitle:nitramine	predictedType:Chemical
+CANDIDATE	id:8599	inCount:0	outCount:1	links:	url:C008599	name:nitromide	normalName:nitromide	normalWikiTitle:nitromide	predictedType:Chemical
+CANDIDATE	id:601274	inCount:0	outCount:2	links:	url:C000601274	name:natrolite	normalName:natrolite	normalWikiTitle:natrolite	predictedType:Chemical
+CANDIDATE	id:680	inCount:3	outCount:1	links:	url:D000680	name:Amyl Nitrite	normalName:amyl nitrite	normalWikiTitle:amyl nitrite	predictedType:Chemical
+CANDIDATE	id:21126	inCount:0	outCount:1	links:	url:C021126	name:nitroquine	normalName:nitroquine	normalWikiTitle:nitroquine	predictedType:Chemical
+CANDIDATE	id:51411	inCount:0	outCount:1	links:	url:C051411	name:richterite	normalName:richterite	normalWikiTitle:richterite	predictedType:Chemical
+ENTITY	text:phenylephrine	normalName:phenylephrine	predictedType:chemical	q:true	qid:Q423	docId:11208990	origText:phenylephrine	url:D010656
+CANDIDATE	id:10656	inCount:28	outCount:1	links:	url:D010656	name:Phenylephrine	normalName:phenylephrine	normalWikiTitle:phenylephrine	predictedType:Chemical
+ENTITY	text:aminoguanidine	normalName:aminoguanidine	predictedType:chemical	q:true	qid:Q423	docId:11208990	origText:aminoguanidine	url:C004479
+CANDIDATE	id:4479	inCount:0	outCount:1	links:	url:C004479	name:aminoguanidine	normalName:aminoguanidine	normalWikiTitle:aminoguanidine	predictedType:Chemical

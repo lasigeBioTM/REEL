@@ -1,0 +1,12 @@
+ENTITY	text:cardiomyopathy	normalName:cardiomyopathy	predictedType:disease	q:true	qid:Q1030	docId:7739955	origText:cardiomyopathy	url:D009202
+CANDIDATE	id:9202	inCount:37	outCount:1	links:6323	url:D009202	name:Cardiomyopathy	normalName:cardiomyopathy	normalWikiTitle:cardiomyopathy	predictedType:Disease
+ENTITY	text:cardiogenic shock	normalName:cardiogenic shock	predictedType:disease	q:true	qid:Q1030	docId:7739955	origText:cardiogenic shock	url:D012770
+CANDIDATE	id:12770	inCount:0	outCount:2	links:9205	url:D012770	name:Shock, Cardiogenic	normalName:shock, cardiogenic	normalWikiTitle:shock, cardiogenic	predictedType:Disease
+ENTITY	text:hypotension	normalName:hypotension	predictedType:disease	q:true	qid:Q1030	docId:7739955	origText:hypotension	url:D007022
+CANDIDATE	id:7022	inCount:3	outCount:1	links:12769;6323	url:D007022	name:Hypotension	normalName:hypotension	normalWikiTitle:hypotension	predictedType:Disease
+ENTITY	text:circulatory failure	normalName:circulatory failure	predictedType:disease	q:true	qid:Q1030	docId:7739955	origText:circulatory failure	url:D012769
+CANDIDATE	id:12769	inCount:6	outCount:1	links:7022	url:D012769	name:Circulatory Failure	normalName:circulatory failure	normalWikiTitle:circulatory failure	predictedType:Disease
+ENTITY	text:myocarditis	normalName:myocarditis	predictedType:disease	q:true	qid:Q1030	docId:7739955	origText:myocarditis	url:D009205
+CANDIDATE	id:9205	inCount:2	outCount:1	links:12770	url:D009205	name:Myocarditis	normalName:myocarditis	normalWikiTitle:myocarditis	predictedType:Disease
+ENTITY	text:cardiac arrest	normalName:cardiac arrest	predictedType:disease	q:true	qid:Q1030	docId:7739955	origText:cardiac arrest	url:D006323
+CANDIDATE	id:6323	inCount:2	outCount:1	links:9202;7022	url:D006323	name:Arrest, Cardiac	normalName:arrest, cardiac	normalWikiTitle:arrest, cardiac	predictedType:Disease

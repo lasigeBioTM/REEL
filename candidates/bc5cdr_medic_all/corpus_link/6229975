@@ -1,0 +1,8 @@
+ENTITY	text:infarction	normalName:infarction	predictedType:disease	q:true	qid:Q1057	docId:6229975	origText:infarction	url:D007238
+CANDIDATE	id:7238	inCount:0	outCount:2	links:	url:D007238	name:Infarction	normalName:infarction	normalWikiTitle:infarction	predictedType:Disease
+ENTITY	text:bradycardia	normalName:bradycardia	predictedType:disease	q:true	qid:Q1057	docId:6229975	origText:bradycardia	url:D001919
+CANDIDATE	id:1919	inCount:0	outCount:1	links:6332;9203	url:D001919	name:Bradycardia	normalName:bradycardia	normalWikiTitle:bradycardia	predictedType:Disease
+ENTITY	text:myocardial infarction	normalName:myocardial infarction	predictedType:disease	q:true	qid:Q1057	docId:6229975	origText:myocardial infarction	url:D009203
+CANDIDATE	id:9203	inCount:8	outCount:1	links:6332;1919	url:D009203	name:Myocardial Infarction	normalName:myocardial infarction	normalWikiTitle:myocardial infarction	predictedType:Disease
+ENTITY	text:cardiomegaly	normalName:cardiomegaly	predictedType:disease	q:true	qid:Q1057	docId:6229975	origText:cardiomegaly	url:D006332
+CANDIDATE	id:6332	inCount:5	outCount:2	links:1919;9203	url:D006332	name:Cardiomegaly	normalName:cardiomegaly	normalWikiTitle:cardiomegaly	predictedType:Disease

@@ -1,0 +1,4 @@
+ENTITY	text:levodopa	normalName:levodopa	predictedType:chemical	q:true	qid:Q862	docId:15625689	origText:levodopa	url:D007980
+CANDIDATE	id:7980	inCount:32	outCount:1	links:	url:D007980	name:Levodopa	normalName:levodopa	normalWikiTitle:levodopa	predictedType:Chemical
+ENTITY	text:barium	normalName:barium	predictedType:chemical	q:true	qid:Q862	docId:15625689	origText:barium	url:D001464
+CANDIDATE	id:1464	inCount:5	outCount:2	links:	url:D001464	name:Barium	normalName:barium	normalWikiTitle:barium	predictedType:Chemical

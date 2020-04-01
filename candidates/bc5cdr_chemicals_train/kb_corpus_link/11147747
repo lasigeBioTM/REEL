@@ -1,0 +1,29 @@
+ENTITY	text:serotonin	normalName:serotonin	predictedType:chemical	q:true	qid:Q143	docId:11147747	origText:serotonin	url:D012701
+CANDIDATE	id:12701	inCount:48	outCount:2	links:	url:D012701	name:Serotonin	normalName:serotonin	normalWikiTitle:serotonin	predictedType:Chemical
+ENTITY	text:sertraline	normalName:sertraline	predictedType:chemical	q:true	qid:Q143	docId:11147747	origText:sertraline	url:D020280
+CANDIDATE	id:20280	inCount:2	outCount:1	links:17374;16651;18490	url:D020280	name:Sertraline	normalName:sertraline	normalWikiTitle:sertraline	predictedType:Chemical
+ENTITY	text:Serotonergic antidepressants	normalName:serotonergic antidepressants	predictedType:chemical	q:true	qid:Q143	docId:11147747	origText:Serotonergic antidepressants	url:D018490
+CANDIDATE	id:18490	inCount:3	outCount:1	links:17374;16651;20280	url:D018490	name:Agents, Serotonergic	normalName:agents, serotonergic	normalWikiTitle:agents, serotonergic	predictedType:Chemical
+CANDIDATE	id:12702	inCount:4	outCount:1	links:	url:D012702	name:Serotonin Antagonists	normalName:serotonin antagonists	normalWikiTitle:serotonin antagonists	predictedType:Chemical
+CANDIDATE	id:18490	inCount:3	outCount:1	links:17374;16651;20280	url:D018490	name:Serotonin Agents	normalName:serotonin agents	normalWikiTitle:serotonin agents	predictedType:Chemical
+CANDIDATE	id:2492	inCount:4	outCount:2	links:	url:D002492	name:Central Nervous System Depressants	normalName:central nervous system depressants	normalWikiTitle:central nervous system depressants	predictedType:Chemical
+CANDIDATE	id:59902	inCount:0	outCount:2	links:	url:C059902	name:serotonin adipinate	normalName:serotonin adipinate	normalWikiTitle:serotonin adipinate	predictedType:Chemical
+CANDIDATE	id:58914	inCount:2	outCount:1	links:	url:D058914	name:Purinergic Antagonists	normalName:purinergic antagonists	normalWikiTitle:purinergic antagonists	predictedType:Chemical
+CANDIDATE	id:58913	inCount:2	outCount:1	links:	url:D058913	name:Purinergic Agonists	normalName:purinergic agonists	normalWikiTitle:purinergic agonists	predictedType:Chemical
+CANDIDATE	id:18680	inCount:2	outCount:1	links:	url:D018680	name:Cholinergic Antagonists	normalName:cholinergic antagonists	normalWikiTitle:cholinergic antagonists	predictedType:Chemical
+CANDIDATE	id:1067	inCount:0	outCount:1	links:	url:D001067	name:Appetite Depressants	normalName:appetite depressants	normalWikiTitle:appetite depressants	predictedType:Chemical
+CANDIDATE	id:18679	inCount:2	outCount:1	links:	url:D018679	name:Cholinergic Agonists	normalName:cholinergic agonists	normalWikiTitle:cholinergic agonists	predictedType:Chemical
+CANDIDATE	id:988	inCount:3	outCount:3	links:	url:D000988	name:Antispermatogenic Agents	normalName:antispermatogenic agents	normalWikiTitle:antispermatogenic agents	predictedType:Chemical
+CANDIDATE	id:17366	inCount:4	outCount:1	links:	url:D017366	name:Agonists, Serotonergic	normalName:agonists, serotonergic	normalWikiTitle:agonists, serotonergic	predictedType:Chemical
+CANDIDATE	id:17366	inCount:4	outCount:1	links:	url:D017366	name:Serotonergic Agonists	normalName:serotonergic agonists	normalWikiTitle:serotonergic agonists	predictedType:Chemical
+CANDIDATE	id:18490	inCount:3	outCount:1	links:17374;16651;20280	url:D018490	name:Serotonergic Agents	normalName:serotonergic agents	normalWikiTitle:serotonergic agents	predictedType:Chemical
+CANDIDATE	id:12702	inCount:4	outCount:1	links:	url:D012702	name:Agents, Antiserotonergic	normalName:agents, antiserotonergic	normalWikiTitle:agents, antiserotonergic	predictedType:Chemical
+CANDIDATE	id:12702	inCount:4	outCount:1	links:	url:D012702	name:Antiserotonergic Agents	normalName:antiserotonergic agents	normalWikiTitle:antiserotonergic agents	predictedType:Chemical
+CANDIDATE	id:929	inCount:0	outCount:1	links:	url:D000929	name:Antidepressants, Tricyclic	normalName:antidepressants, tricyclic	normalWikiTitle:antidepressants, tricyclic	predictedType:Chemical
+CANDIDATE	id:17366	inCount:4	outCount:1	links:	url:D017366	name:Serotonergic Agonist	normalName:serotonergic agonist	normalWikiTitle:serotonergic agonist	predictedType:Chemical
+CANDIDATE	id:17366	inCount:4	outCount:1	links:	url:D017366	name:Agonist, Serotonergic	normalName:agonist, serotonergic	normalWikiTitle:agonist, serotonergic	predictedType:Chemical
+CANDIDATE	id:929	inCount:0	outCount:1	links:	url:D000929	name:Tricyclic Antidepressants	normalName:tricyclic antidepressants	normalWikiTitle:tricyclic antidepressants	predictedType:Chemical
+ENTITY	text:paroxetine	normalName:paroxetine	predictedType:chemical	q:true	qid:Q143	docId:11147747	origText:paroxetine	url:D017374
+CANDIDATE	id:17374	inCount:1	outCount:1	links:16651;18490;20280	url:D017374	name:Paroxetine	normalName:paroxetine	normalWikiTitle:paroxetine	predictedType:Chemical
+ENTITY	text:lithium carbonate	normalName:lithium carbonate	predictedType:chemical	q:true	qid:Q143	docId:11147747	origText:lithium carbonate	url:D016651
+CANDIDATE	id:16651	inCount:0	outCount:2	links:17374;18490;20280	url:D016651	name:Lithium Carbonate	normalName:lithium carbonate	normalWikiTitle:lithium carbonate	predictedType:Chemical

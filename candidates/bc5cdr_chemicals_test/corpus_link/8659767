@@ -1,0 +1,6 @@
+ENTITY	text:Epinephrine	normalName:epinephrine	predictedType:chemical	q:true	qid:Q12	docId:8659767	origText:Epinephrine	url:D004837
+CANDIDATE	id:4837	inCount:33	outCount:3	links:6221;2045	url:D004837	name:Epinephrine	normalName:epinephrine	normalWikiTitle:epinephrine	predictedType:Chemical
+ENTITY	text:bupivacaine	normalName:bupivacaine	predictedType:chemical	q:true	qid:Q12	docId:8659767	origText:bupivacaine	url:D002045
+CANDIDATE	id:2045	inCount:4	outCount:1	links:6221;4837	url:D002045	name:Bupivacaine	normalName:bupivacaine	normalWikiTitle:bupivacaine	predictedType:Chemical
+ENTITY	text:halothane	normalName:halothane	predictedType:chemical	q:true	qid:Q12	docId:8659767	origText:halothane	url:D006221
+CANDIDATE	id:6221	inCount:6	outCount:1	links:4837;2045	url:D006221	name:Halothane	normalName:halothane	normalWikiTitle:halothane	predictedType:Chemical

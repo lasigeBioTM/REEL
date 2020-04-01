@@ -1,0 +1,4 @@
+ENTITY	text:calcium chloride	normalName:calcium chloride	predictedType:chemical	q:true	qid:Q287	docId:10533019	origText:calcium chloride	url:D002122
+CANDIDATE	id:2122	inCount:8	outCount:2	links:	url:D002122	name:Calcium Chloride	normalName:calcium chloride	normalWikiTitle:calcium chloride	predictedType:Chemical
+ENTITY	text:diltiazem	normalName:diltiazem	predictedType:chemical	q:true	qid:Q287	docId:10533019	origText:diltiazem	url:D004110
+CANDIDATE	id:4110	inCount:19	outCount:1	links:	url:D004110	name:Diltiazem	normalName:diltiazem	normalWikiTitle:diltiazem	predictedType:Chemical

@@ -1,0 +1,4 @@
+ENTITY	text:digoxin	normalName:digoxin	predictedType:chemical	q:true	qid:Q84	docId:12678199	origText:digoxin	url:D004077
+CANDIDATE	id:4077	inCount:22	outCount:2	links:	url:D004077	name:Digoxin	normalName:digoxin	normalWikiTitle:digoxin	predictedType:Chemical
+ENTITY	text:Amiodarone	normalName:amiodarone	predictedType:chemical	q:true	qid:Q84	docId:12678199	origText:Amiodarone	url:D000638
+CANDIDATE	id:638	inCount:17	outCount:1	links:	url:D000638	name:Amiodarone	normalName:amiodarone	normalWikiTitle:amiodarone	predictedType:Chemical

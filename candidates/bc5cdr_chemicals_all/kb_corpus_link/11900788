@@ -1,0 +1,12 @@
+ENTITY	text:naloxone	normalName:naloxone	predictedType:chemical	q:true	qid:Q788	docId:11900788	origText:naloxone	url:D009270
+CANDIDATE	id:9270	inCount:20	outCount:1	links:	url:D009270	name:Naloxone	normalName:naloxone	normalWikiTitle:naloxone	predictedType:Chemical
+ENTITY	text:hexamethonium	normalName:hexamethonium	predictedType:chemical	q:true	qid:Q788	docId:11900788	origText:hexamethonium	url:D018738
+CANDIDATE	id:18738	inCount:0	outCount:1	links:	url:D018738	name:Hexamethonium	normalName:hexamethonium	normalWikiTitle:hexamethonium	predictedType:Chemical
+ENTITY	text:atropine	normalName:atropine	predictedType:chemical	q:true	qid:Q788	docId:11900788	origText:atropine	url:D001285
+CANDIDATE	id:1285	inCount:16	outCount:1	links:	url:D001285	name:Atropine	normalName:atropine	normalWikiTitle:atropine	predictedType:Chemical
+ENTITY	text:morphine	normalName:morphine	predictedType:chemical	q:true	qid:Q788	docId:11900788	origText:morphine	url:D009020
+CANDIDATE	id:9020	inCount:13	outCount:1	links:9538	url:D009020	name:Morphine	normalName:morphine	normalWikiTitle:morphine	predictedType:Chemical
+ENTITY	text:mecamylamine	normalName:mecamylamine	predictedType:chemical	q:true	qid:Q788	docId:11900788	origText:mecamylamine	url:D008464
+CANDIDATE	id:8464	inCount:0	outCount:1	links:	url:D008464	name:Mecamylamine	normalName:mecamylamine	normalWikiTitle:mecamylamine	predictedType:Chemical
+ENTITY	text:Nicotine	normalName:nicotine	predictedType:chemical	q:true	qid:Q788	docId:11900788	origText:Nicotine	url:D009538
+CANDIDATE	id:9538	inCount:50	outCount:2	links:9020	url:D009538	name:Nicotine	normalName:nicotine	normalWikiTitle:nicotine	predictedType:Chemical

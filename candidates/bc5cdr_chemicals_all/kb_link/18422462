@@ -1,0 +1,12 @@
+ENTITY	text:zidovudine	normalName:zidovudine	predictedType:chemical	q:true	qid:Q1129	docId:18422462	origText:zidovudine	url:D015215
+CANDIDATE	id:15215	inCount:86	outCount:2	links:	url:D015215	name:Zidovudine	normalName:zidovudine	normalWikiTitle:zidovudine	predictedType:Chemical
+ENTITY	text:3TC	normalName:3tc	predictedType:chemical	q:true	qid:Q1129	docId:18422462	origText:3TC	url:D019259
+CANDIDATE	id:19259	inCount:14	outCount:1	links:	url:D019259	name:3TC	normalName:3tc	normalWikiTitle:3tc	predictedType:Chemical
+ENTITY	text:d4T	normalName:d4t	predictedType:chemical	q:true	qid:Q1129	docId:18422462	origText:d4T	url:D018119
+CANDIDATE	id:18119	inCount:12	outCount:2	links:	url:D018119	name:D4T	normalName:d4t	normalWikiTitle:d4t	predictedType:Chemical
+ENTITY	text:alanine	normalName:alanine	predictedType:chemical	q:true	qid:Q1129	docId:18422462	origText:alanine	url:D000409
+CANDIDATE	id:409	inCount:359	outCount:1	links:	url:D000409	name:Alanine	normalName:alanine	normalWikiTitle:alanine	predictedType:Chemical
+ENTITY	text:nevirapine	normalName:nevirapine	predictedType:chemical	q:true	qid:Q1129	docId:18422462	origText:nevirapine	url:D019829
+CANDIDATE	id:19829	inCount:8	outCount:1	links:	url:D019829	name:Nevirapine	normalName:nevirapine	normalWikiTitle:nevirapine	predictedType:Chemical
+ENTITY	text:efavirenz	normalName:efavirenz	predictedType:chemical	q:true	qid:Q1129	docId:18422462	origText:efavirenz	url:C098320
+CANDIDATE	id:98320	inCount:0	outCount:1	links:	url:C098320	name:efavirenz	normalName:efavirenz	normalWikiTitle:efavirenz	predictedType:Chemical

@@ -1,0 +1,6 @@
+ENTITY	text:sensorineural hearing loss	normalName:sensorineural hearing loss	predictedType:disease	q:true	qid:Q393	docId:16298782	origText:sensorineural hearing loss	url:D006319
+CANDIDATE	id:6319	inCount:216	outCount:1	links:34381;6316	url:D006319	name:Hearing Loss, Sensorineural	normalName:hearing loss, sensorineural	normalWikiTitle:hearing loss, sensorineural	predictedType:Disease
+ENTITY	text:high-frequency hearing loss	normalName:high-frequency hearing loss	predictedType:disease	q:true	qid:Q393	docId:16298782	origText:high-frequency hearing loss	url:D006316
+CANDIDATE	id:6316	inCount:0	outCount:1	links:6319	url:D006316	name:Hearing Loss, High-Frequency	normalName:hearing loss, high-frequency	normalWikiTitle:hearing loss, high-frequency	predictedType:Disease
+ENTITY	text:hearing loss	normalName:hearing loss	predictedType:disease	q:true	qid:Q393	docId:16298782	origText:hearing loss	url:D034381
+CANDIDATE	id:34381	inCount:37	outCount:1	links:6319	url:D034381	name:Hearing Loss	normalName:hearing loss	normalWikiTitle:hearing loss	predictedType:Disease

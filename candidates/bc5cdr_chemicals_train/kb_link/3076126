@@ -1,0 +1,14 @@
+ENTITY	text:Lovastatin	normalName:lovastatin	predictedType:chemical	q:true	qid:Q449	docId:3076126	origText:Lovastatin	url:D008148
+CANDIDATE	id:8148	inCount:14	outCount:1	links:	url:D008148	name:Lovastatin	normalName:lovastatin	normalWikiTitle:lovastatin	predictedType:Chemical
+ENTITY	text:cyclosporin	normalName:cyclosporin	predictedType:chemical	q:true	qid:Q449	docId:3076126	origText:cyclosporin	url:D016572
+CANDIDATE	id:16572	inCount:14	outCount:1	links:	url:D016572	name:Cyclosporin	normalName:cyclosporin	normalWikiTitle:cyclosporin	predictedType:Chemical
+ENTITY	text:niacin	normalName:niacin	predictedType:chemical	q:true	qid:Q449	docId:3076126	origText:niacin	url:D009525
+CANDIDATE	id:9525	inCount:51	outCount:1	links:	url:D009525	name:Niacin	normalName:niacin	normalWikiTitle:niacin	predictedType:Chemical
+ENTITY	text:gemfibrozil	normalName:gemfibrozil	predictedType:chemical	q:true	qid:Q449	docId:3076126	origText:gemfibrozil	url:D015248
+CANDIDATE	id:15248	inCount:8	outCount:2	links:	url:D015248	name:Gemfibrozil	normalName:gemfibrozil	normalWikiTitle:gemfibrozil	predictedType:Chemical
+ENTITY	text:cholesterol	normalName:cholesterol	predictedType:chemical	q:true	qid:Q449	docId:3076126	origText:cholesterol	url:D002784
+CANDIDATE	id:2784	inCount:223	outCount:2	links:	url:D002784	name:Cholesterol	normalName:cholesterol	normalWikiTitle:cholesterol	predictedType:Chemical
+ENTITY	text:simvastatin	normalName:simvastatin	predictedType:chemical	q:true	qid:Q449	docId:3076126	origText:simvastatin	url:D019821
+CANDIDATE	id:19821	inCount:7	outCount:1	links:	url:D019821	name:Simvastatin	normalName:simvastatin	normalWikiTitle:simvastatin	predictedType:Chemical
+ENTITY	text:creatine	normalName:creatine	predictedType:chemical	q:true	qid:Q449	docId:3076126	origText:creatine	url:D003401
+CANDIDATE	id:3401	inCount:7	outCount:2	links:	url:D003401	name:Creatine	normalName:creatine	normalWikiTitle:creatine	predictedType:Chemical

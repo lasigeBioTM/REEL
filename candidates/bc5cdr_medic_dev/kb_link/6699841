@@ -1,0 +1,13 @@
+ENTITY	text:Renal papillary necrosis	normalName:renal papillary necrosis	predictedType:disease	q:true	qid:Q406	docId:6699841	origText:Renal papillary necrosis	url:D007681
+CANDIDATE	id:7681	inCount:0	outCount:1	links:	url:D007681	name:Kidney Papillary Necrosis	normalName:kidney papillary necrosis	normalWikiTitle:kidney papillary necrosis	predictedType:Disease
+CANDIDATE	id:536482	inCount:0	outCount:2	links:	url:C536482	name:Hereditary renal agenesis	normalName:hereditary renal agenesis	normalWikiTitle:hereditary renal agenesis	predictedType:Disease
+CANDIDATE	id:77273	inCount:0	outCount:2	links:	url:D000077273	name:Thyroid Cancer, Papillary	normalName:thyroid cancer, papillary	normalWikiTitle:thyroid cancer, papillary	predictedType:Disease
+CANDIDATE	id:2291	inCount:2	outCount:2	links:	url:D002291	name:Carcinoma, Papillary	normalName:carcinoma, papillary	normalWikiTitle:carcinoma, papillary	predictedType:Disease
+CANDIDATE	id:536185	inCount:0	outCount:1	links:	url:C536185	name:Ectopia pupillae	normalName:ectopia pupillae	normalWikiTitle:ectopia pupillae	predictedType:Disease
+CANDIDATE	id:538614	inCount:0	outCount:1	links:	url:C538614	name:Papillary renal cell carcinoma, sporadic	normalName:papillary renal cell carcinoma, sporadic	normalWikiTitle:papillary renal cell carcinoma, sporadic	predictedType:Disease
+CANDIDATE	id:563287	inCount:0	outCount:2	links:	url:C563287	name:Prepapillary Vascular Loops	normalName:prepapillary vascular loops	normalWikiTitle:prepapillary vascular loops	predictedType:Disease
+CANDIDATE	id:19572	inCount:1	outCount:2	links:	url:D019572	name:Retinal Neoplasms	normalName:retinal neoplasms	normalWikiTitle:retinal neoplasms	predictedType:Disease
+CANDIDATE	id:18324	inCount:3	outCount:1	links:	url:D018324	name:Hemangioma, Capillary	normalName:hemangioma, capillary	normalWikiTitle:hemangioma, capillary	predictedType:Disease
+CANDIDATE	id:10157	inCount:0	outCount:2	links:	url:D010157	name:Palatal Neoplasms	normalName:palatal neoplasms	normalWikiTitle:palatal neoplasms	predictedType:Disease
+ENTITY	text:rheumatoid arthritis	normalName:rheumatoid arthritis	predictedType:disease	q:true	qid:Q406	docId:6699841	origText:rheumatoid arthritis	url:D001172
+CANDIDATE	id:1172	inCount:8	outCount:3	links:	url:D001172	name:Arthritis, Rheumatoid	normalName:arthritis, rheumatoid	normalWikiTitle:arthritis, rheumatoid	predictedType:Disease

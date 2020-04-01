@@ -1,0 +1,17 @@
+ENTITY	text:simvastatin	normalName:simvastatin	predictedType:chemical	q:true	qid:Q315	docId:18752389	origText:simvastatin	url:D019821
+CANDIDATE	id:19821	inCount:7	outCount:1	links:	url:D019821	name:Simvastatin	normalName:simvastatin	normalWikiTitle:simvastatin	predictedType:Chemical
+ENTITY	text:escitalopram	normalName:escitalopram	predictedType:chemical	q:true	qid:Q315	docId:18752389	origText:escitalopram	url:D015283
+CANDIDATE	id:15283	inCount:7	outCount:3	links:	url:D015283	name:Escitalopram	normalName:escitalopram	normalWikiTitle:escitalopram	predictedType:Chemical
+ENTITY	text:uridine diphosphate	normalName:uridine diphosphate	predictedType:chemical	q:true	qid:Q315	docId:18752389	origText:uridine diphosphate	url:D014530
+CANDIDATE	id:14530	inCount:27	outCount:1	links:	url:D014530	name:Uridine Diphosphate	normalName:uridine diphosphate	normalWikiTitle:uridine diphosphate	predictedType:Chemical
+ENTITY	text:simvastatin hydroxy acid	normalName:simvastatin hydroxy acid	predictedType:chemical	q:true	qid:Q315	docId:18752389	origText:simvastatin hydroxy acid	url:C532833
+CANDIDATE	id:532833	inCount:0	outCount:1	links:	url:C532833	name:simvastatin hydroxyacid	normalName:simvastatin hydroxyacid	normalWikiTitle:simvastatin hydroxyacid	predictedType:Chemical
+CANDIDATE	id:483161	inCount:0	outCount:1	links:	url:C483161	name:beta-hydroxy simvastatin acid	normalName:beta-hydroxy simvastatin acid	normalWikiTitle:beta-hydroxy simvastatin acid	predictedType:Chemical
+CANDIDATE	id:63287	inCount:0	outCount:1	links:	url:C063287	name:simvastatin acid	normalName:simvastatin acid	normalWikiTitle:simvastatin acid	predictedType:Chemical
+CANDIDATE	id:11274	inCount:0	outCount:1	links:	url:C011274	name:3-hydroxyaspartic acid	normalName:3-hydroxyaspartic acid	normalWikiTitle:3-hydroxyaspartic acid	predictedType:Chemical
+CANDIDATE	id:464901	inCount:0	outCount:1	links:	url:C464901	name:5-hydroxyisatin	normalName:5-hydroxyisatin	normalWikiTitle:5-hydroxyisatin	predictedType:Chemical
+CANDIDATE	id:539357	inCount:0	outCount:1	links:	url:C539357	name:12-hydroxy stearic acid	normalName:12-hydroxy stearic acid	normalWikiTitle:12-hydroxy stearic acid	predictedType:Chemical
+CANDIDATE	id:33297	inCount:0	outCount:1	links:	url:C033297	name:4-hydroxyritalinic acid	normalName:4-hydroxyritalinic acid	normalWikiTitle:4-hydroxyritalinic acid	predictedType:Chemical
+CANDIDATE	id:108961	inCount:0	outCount:1	links:	url:C108961	name:3-hydroxypristanic acid	normalName:3-hydroxypristanic acid	normalWikiTitle:3-hydroxypristanic acid	predictedType:Chemical
+CANDIDATE	id:518963	inCount:0	outCount:1	links:	url:C518963	name:2-hydroxyatorvastatin	normalName:2-hydroxyatorvastatin	normalWikiTitle:2-hydroxyatorvastatin	predictedType:Chemical
+CANDIDATE	id:447263	inCount:0	outCount:1	links:	url:C447263	name:6-hydroxyisopimaric acid	normalName:6-hydroxyisopimaric acid	normalWikiTitle:6-hydroxyisopimaric acid	predictedType:Chemical

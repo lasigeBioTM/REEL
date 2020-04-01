@@ -1,0 +1,4 @@
+ENTITY	text:thallium	normalName:thallium	predictedType:chemical	q:true	qid:Q59	docId:1564236	origText:thallium	url:D013793
+CANDIDATE	id:13793	inCount:8	outCount:1	links:	url:D013793	name:Thallium	normalName:thallium	normalWikiTitle:thallium	predictedType:Chemical
+ENTITY	text:dipyridamole	normalName:dipyridamole	predictedType:chemical	q:true	qid:Q59	docId:1564236	origText:dipyridamole	url:D004176
+CANDIDATE	id:4176	inCount:10	outCount:1	links:	url:D004176	name:Dipyridamole	normalName:dipyridamole	normalWikiTitle:dipyridamole	predictedType:Chemical

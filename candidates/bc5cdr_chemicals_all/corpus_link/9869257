@@ -1,0 +1,17 @@
+ENTITY	text:3alpha-tropyl 2-(p-bromophenyl)propionate	normalName:3alpha-tropyl 2-(p-bromophenyl)propionate	predictedType:chemical	q:true	qid:Q577	docId:9869257	origText:3alpha-tropyl 2-(p-bromophenyl)propionate	url:C087567
+CANDIDATE	id:87567	inCount:0	outCount:2	links:	url:C087567	name:N-methyltropan-3-yl 2-(4-bromophenyl)propionate	normalName:n-methyltropan-3-yl 2-(4-bromophenyl)propionate	normalWikiTitle:n-methyltropan-3-yl 2-(4-bromophenyl)propionate	predictedType:Chemical
+CANDIDATE	id:568307	inCount:0	outCount:2	links:	url:C568307	name:3-bromo-2-oxopropionate-1-propyl ester	normalName:3-bromo-2-oxopropionate-1-propyl ester	normalWikiTitle:3-bromo-2-oxopropionate-1-propyl ester	predictedType:Chemical
+CANDIDATE	id:11177	inCount:0	outCount:1	links:	url:C011177	name:4-biphenylmethyl-(tropyl-alpha-tropinium)	normalName:4-biphenylmethyl-(tropyl-alpha-tropinium)	normalWikiTitle:4-biphenylmethyl-(tropyl-alpha-tropinium)	predictedType:Chemical
+CANDIDATE	id:106486	inCount:0	outCount:1	links:	url:C106486	name:3-alpha-tropyl-2-(phenylthio)butyrate	normalName:3-alpha-tropyl-2-(phenylthio)butyrate	normalWikiTitle:3-alpha-tropyl-2-(phenylthio)butyrate	predictedType:Chemical
+CANDIDATE	id:577721	inCount:0	outCount:2	links:	url:C577721	name:alpha-methylbenzyl propionate	normalName:alpha-methylbenzyl propionate	normalWikiTitle:alpha-methylbenzyl propionate	predictedType:Chemical
+CANDIDATE	id:498246	inCount:0	outCount:2	links:	url:C498246	name:octyl hydroxyphenylpropionate	normalName:octyl hydroxyphenylpropionate	normalWikiTitle:octyl hydroxyphenylpropionate	predictedType:Chemical
+CANDIDATE	id:77404	inCount:0	outCount:1	links:	url:C077404	name:2-bromo-3-phenylpropionic acid	normalName:2-bromo-3-phenylpropionic acid	normalWikiTitle:2-bromo-3-phenylpropionic acid	predictedType:Chemical
+CANDIDATE	id:86100	inCount:0	outCount:2	links:	url:C086100	name:methyl alpha-(4-nitrophenyl)-beta-(1-pyrrolidinyl)propionate	normalName:methyl alpha-(4-nitrophenyl)-beta-(1-pyrrolidinyl)propionate	normalWikiTitle:methyl alpha-(4-nitrophenyl)-beta-(1-pyrrolidinyl)propionate	predictedType:Chemical
+CANDIDATE	id:87569	inCount:0	outCount:2	links:	url:C087569	name:N-methyltropan-3-yl 2-(phenylthio)propionate	normalName:n-methyltropan-3-yl 2-(phenylthio)propionate	normalWikiTitle:n-methyltropan-3-yl 2-(phenylthio)propionate	predictedType:Chemical
+CANDIDATE	id:114459	inCount:0	outCount:1	links:	url:C114459	name:4-phenyl-2-propionamidotetraline	normalName:4-phenyl-2-propionamidotetraline	normalWikiTitle:4-phenyl-2-propionamidotetraline	predictedType:Chemical
+ENTITY	text:S-(-)-ET-126	normalName:s-(-)-et-126	predictedType:chemical	q:true	qid:Q577	docId:9869257	origText:S-(-)-ET-126	url:C098725
+CANDIDATE	id:98725	inCount:0	outCount:2	links:12601	url:C098725	name:S-(-)-ET 126	normalName:s-(-)-et 126	normalWikiTitle:s-(-)-et 126	predictedType:Chemical
+ENTITY	text:acetylcholine	normalName:acetylcholine	predictedType:chemical	q:true	qid:Q577	docId:9869257	origText:acetylcholine	url:D000109
+CANDIDATE	id:109	inCount:23	outCount:1	links:	url:D000109	name:Acetylcholine	normalName:acetylcholine	normalWikiTitle:acetylcholine	predictedType:Chemical
+ENTITY	text:scopolamine	normalName:scopolamine	predictedType:chemical	q:true	qid:Q577	docId:9869257	origText:scopolamine	url:D012601
+CANDIDATE	id:12601	inCount:3	outCount:2	links:98725	url:D012601	name:Scopolamine	normalName:scopolamine	normalWikiTitle:scopolamine	predictedType:Chemical

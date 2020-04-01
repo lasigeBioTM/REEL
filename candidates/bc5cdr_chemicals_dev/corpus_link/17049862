@@ -1,0 +1,6 @@
+ENTITY	text:adrenaline	normalName:adrenaline	predictedType:chemical	q:true	qid:Q463	docId:17049862	origText:adrenaline	url:D004837
+CANDIDATE	id:4837	inCount:33	outCount:3	links:10672	url:D004837	name:Adrenaline	normalName:adrenaline	normalWikiTitle:adrenaline	predictedType:Chemical
+ENTITY	text:atropine	normalName:atropine	predictedType:chemical	q:true	qid:Q463	docId:17049862	origText:atropine	url:D001285
+CANDIDATE	id:1285	inCount:16	outCount:1	links:	url:D001285	name:Atropine	normalName:atropine	normalWikiTitle:atropine	predictedType:Chemical
+ENTITY	text:phenytoin	normalName:phenytoin	predictedType:chemical	q:true	qid:Q463	docId:17049862	origText:phenytoin	url:D010672
+CANDIDATE	id:10672	inCount:38	outCount:1	links:4837	url:D010672	name:Phenytoin	normalName:phenytoin	normalWikiTitle:phenytoin	predictedType:Chemical

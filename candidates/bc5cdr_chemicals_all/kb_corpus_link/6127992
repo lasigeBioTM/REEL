@@ -1,0 +1,23 @@
+ENTITY	text:verapamil	normalName:verapamil	predictedType:chemical	q:true	qid:Q1495	docId:6127992	origText:verapamil	url:D014700
+CANDIDATE	id:14700	inCount:37	outCount:1	links:319	url:D014700	name:Verapamil	normalName:verapamil	normalWikiTitle:verapamil	predictedType:Chemical
+ENTITY	text:beta-adrenergic blocking drugs	normalName:beta-adrenergic blocking drugs	predictedType:chemical	q:true	qid:Q1495	docId:6127992	origText:beta-adrenergic blocking drugs	url:D000319
+CANDIDATE	id:319	inCount:3	outCount:1	links:14700	url:D000319	name:Blocking Agents, beta-Adrenergic	normalName:blocking agents, beta-adrenergic	normalWikiTitle:blocking agents, beta-adrenergic	predictedType:Chemical
+CANDIDATE	id:18674	inCount:2	outCount:1	links:	url:D018674	name:Adrenergic Antagonists	normalName:adrenergic antagonists	normalWikiTitle:adrenergic antagonists	predictedType:Chemical
+CANDIDATE	id:322	inCount:2	outCount:1	links:	url:D000322	name:Adrenergic Agonists	normalName:adrenergic agonists	normalWikiTitle:adrenergic agonists	predictedType:Chemical
+CANDIDATE	id:445259	inCount:0	outCount:1	links:	url:C445259	name:beta-adrenergic receptor kinase inhibitory peptide	normalName:beta-adrenergic receptor kinase inhibitory peptide	normalWikiTitle:beta-adrenergic receptor kinase inhibitory peptide	predictedType:Chemical
+CANDIDATE	id:18663	inCount:3	outCount:1	links:	url:D018663	name:Adrenergic Agents	normalName:adrenergic agents	normalWikiTitle:adrenergic agents	predictedType:Chemical
+CANDIDATE	id:9466	inCount:2	outCount:1	links:	url:D009466	name:Neuromuscular Blocking Agents	normalName:neuromuscular blocking agents	normalWikiTitle:neuromuscular blocking agents	predictedType:Chemical
+CANDIDATE	id:319	inCount:3	outCount:1	links:14700	url:D000319	name:Adrenergic beta-Antagonists	normalName:adrenergic beta-antagonists	normalWikiTitle:adrenergic beta-antagonists	predictedType:Chemical
+CANDIDATE	id:13092	inCount:0	outCount:1	links:	url:D013092	name:Spermatogenesis-Blocking Agents	normalName:spermatogenesis-blocking agents	normalWikiTitle:spermatogenesis-blocking agents	predictedType:Chemical
+CANDIDATE	id:318	inCount:3	outCount:1	links:	url:D000318	name:Adrenergic beta-Agonists	normalName:adrenergic beta-agonists	normalWikiTitle:adrenergic beta-agonists	predictedType:Chemical
+CANDIDATE	id:18759	inCount:0	outCount:2	links:	url:D018759	name:Adrenergic Uptake Inhibitors	normalName:adrenergic uptake inhibitors	normalWikiTitle:adrenergic uptake inhibitors	predictedType:Chemical
+CANDIDATE	id:58666	inCount:0	outCount:1	links:	url:D058666	name:Adrenergic beta-2 Receptor Agonists	normalName:adrenergic beta-2 receptor agonists	normalWikiTitle:adrenergic beta-2 receptor agonists	predictedType:Chemical
+CANDIDATE	id:319	inCount:3	outCount:1	links:14700	url:D000319	name:Adrenergic beta-Blockers	normalName:adrenergic beta-blockers	normalWikiTitle:adrenergic beta-blockers	predictedType:Chemical
+CANDIDATE	id:319	inCount:3	outCount:1	links:14700	url:D000319	name:Blockers, beta-Adrenergic	normalName:blockers, beta-adrenergic	normalWikiTitle:blockers, beta-adrenergic	predictedType:Chemical
+CANDIDATE	id:319	inCount:3	outCount:1	links:14700	url:D000319	name:beta-Adrenergic Blockers	normalName:beta-adrenergic blockers	normalWikiTitle:beta-adrenergic blockers	predictedType:Chemical
+CANDIDATE	id:319	inCount:3	outCount:1	links:14700	url:D000319	name:beta Blockers, Adrenergic	normalName:beta blockers, adrenergic	normalWikiTitle:beta blockers, adrenergic	predictedType:Chemical
+CANDIDATE	id:319	inCount:3	outCount:1	links:14700	url:D000319	name:beta Adrenergic Blockers	normalName:beta adrenergic blockers	normalWikiTitle:beta adrenergic blockers	predictedType:Chemical
+CANDIDATE	id:319	inCount:3	outCount:1	links:14700	url:D000319	name:beta-Blockers, Adrenergic	normalName:beta-blockers, adrenergic	normalWikiTitle:beta-blockers, adrenergic	predictedType:Chemical
+CANDIDATE	id:319	inCount:3	outCount:1	links:14700	url:D000319	name:Agents, beta-Adrenergic Blocking	normalName:agents, beta-adrenergic blocking	normalWikiTitle:agents, beta-adrenergic blocking	predictedType:Chemical
+CANDIDATE	id:319	inCount:3	outCount:1	links:14700	url:D000319	name:beta-Adrenergic Blocking Agents	normalName:beta-adrenergic blocking agents	normalWikiTitle:beta-adrenergic blocking agents	predictedType:Chemical
+CANDIDATE	id:18674	inCount:2	outCount:1	links:	url:D018674	name:Agents, Adrenergic-Blocking	normalName:agents, adrenergic-blocking	normalWikiTitle:agents, adrenergic-blocking	predictedType:Chemical

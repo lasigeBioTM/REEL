@@ -1,0 +1,22 @@
+ENTITY	text:tacrolimus	normalName:tacrolimus	predictedType:chemical	q:true	qid:Q213	docId:8701950	origText:tacrolimus	url:D016559
+CANDIDATE	id:16559	inCount:40	outCount:1	links:1241;305;16572;16559	url:D016559	name:Tacrolimus	normalName:tacrolimus	normalWikiTitle:tacrolimus	predictedType:Chemical
+ENTITY	text:cyclosporin A	normalName:cyclosporin a	predictedType:chemical	q:true	qid:Q213	docId:8701950	origText:cyclosporin A	url:D016572
+CANDIDATE	id:16572	inCount:14	outCount:1	links:1241;305;16559	url:D016572	name:Cyclosporin A	normalName:cyclosporin a	normalWikiTitle:cyclosporin a	predictedType:Chemical
+ENTITY	text:dipyridamole	normalName:dipyridamole	predictedType:chemical	q:true	qid:Q213	docId:8701950	origText:dipyridamole	url:D004176
+CANDIDATE	id:4176	inCount:10	outCount:1	links:	url:D004176	name:Dipyridamole	normalName:dipyridamole	normalWikiTitle:dipyridamole	predictedType:Chemical
+ENTITY	text:corticosteroids	normalName:corticosteroids	predictedType:chemical	q:true	qid:Q213	docId:8701950	origText:corticosteroids	url:D000305
+CANDIDATE	id:305	inCount:8	outCount:1	links:16572;16559	url:D000305	name:Corticosteroids	normalName:corticosteroids	normalWikiTitle:corticosteroids	predictedType:Chemical
+CANDIDATE	id:3345	inCount:21	outCount:2	links:	url:D003345	name:Corticosterone	normalName:corticosterone	normalWikiTitle:corticosterone	predictedType:Chemical
+CANDIDATE	id:540640	inCount:0	outCount:1	links:	url:C540640	name:ptilosteroid C	normalName:ptilosteroid c	normalWikiTitle:ptilosteroid c	predictedType:Chemical
+CANDIDATE	id:6889	inCount:5	outCount:1	links:	url:D006889	name:Hydroxycorticosteroids	normalName:hydroxycorticosteroids	normalWikiTitle:hydroxycorticosteroids	predictedType:Chemical
+CANDIDATE	id:534366	inCount:0	outCount:1	links:	url:C534366	name:parathiosteroid C	normalName:parathiosteroid c	normalWikiTitle:parathiosteroid c	predictedType:Chemical
+CANDIDATE	id:26367	inCount:0	outCount:1	links:	url:C026367	name:corticosterone nitroxide	normalName:corticosterone nitroxide	normalWikiTitle:corticosterone nitroxide	predictedType:Chemical
+CANDIDATE	id:54598	inCount:0	outCount:1	links:	url:C054598	name:corticostatin	normalName:corticostatin	normalWikiTitle:corticostatin	predictedType:Chemical
+CANDIDATE	id:3525	inCount:1	outCount:1	links:	url:D003525	name:Cyclosteroids	normalName:cyclosteroids	normalWikiTitle:cyclosteroids	predictedType:Chemical
+CANDIDATE	id:10897	inCount:0	outCount:1	links:	url:C010897	name:corticotensin	normalName:corticotensin	normalWikiTitle:corticotensin	predictedType:Chemical
+CANDIDATE	id:15062	inCount:5	outCount:1	links:	url:D015062	name:11-Hydroxycorticosteroids	normalName:11-hydroxycorticosteroids	normalWikiTitle:11-hydroxycorticosteroids	predictedType:Chemical
+CANDIDATE	id:9654	inCount:35	outCount:1	links:	url:D009654	name:Norsteroids	normalName:norsteroids	normalWikiTitle:norsteroids	predictedType:Chemical
+ENTITY	text:FK506	normalName:fk506	predictedType:chemical	q:true	qid:Q213	docId:8701950	origText:FK506	url:D016559
+CANDIDATE	id:16559	inCount:40	outCount:1	links:1241;305;16572;16559	url:D016559	name:FK506	normalName:fk506	normalWikiTitle:fk506	predictedType:Chemical
+ENTITY	text:aspirin	normalName:aspirin	predictedType:chemical	q:true	qid:Q213	docId:8701950	origText:aspirin	url:D001241
+CANDIDATE	id:1241	inCount:106	outCount:1	links:16572;16559	url:D001241	name:Aspirin	normalName:aspirin	normalWikiTitle:aspirin	predictedType:Chemical

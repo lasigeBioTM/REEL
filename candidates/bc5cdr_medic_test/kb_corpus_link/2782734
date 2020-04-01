@@ -1,0 +1,26 @@
+ENTITY	text:asthmatics	normalName:asthmatics	predictedType:disease	q:true	qid:Q26	docId:2782734	origText:asthmatics	url:D001249
+CANDIDATE	id:1249	inCount:16	outCount:3	links:1249	url:D001249	name:Asthma	normalName:asthma	normalWikiTitle:asthma	predictedType:Disease
+CANDIDATE	id:1251	inCount:0	outCount:1	links:1251	url:D001251	name:Astigmatism	normalName:astigmatism	normalWikiTitle:astigmatism	predictedType:Disease
+CANDIDATE	id:13224	inCount:0	outCount:1	links:13224	url:D013224	name:Status Asthmaticus	normalName:status asthmaticus	normalWikiTitle:status asthmaticus	predictedType:Disease
+CANDIDATE	id:14973	inCount:5	outCount:1	links:14973	url:D014973	name:Xanthomatosis	normalName:xanthomatosis	normalWikiTitle:xanthomatosis	predictedType:Disease
+CANDIDATE	id:535346	inCount:0	outCount:1	links:535346	url:C535346	name:Catatrichy	normalName:catatrichy	normalWikiTitle:catatrichy	predictedType:Disease
+CANDIDATE	id:13280	inCount:5	outCount:1	links:13280	url:D013280	name:Stomatitis	normalName:stomatitis	normalWikiTitle:stomatitis	predictedType:Disease
+CANDIDATE	id:562989	inCount:0	outCount:1	links:562989	url:C562989	name:Amastia	normalName:amastia	normalWikiTitle:amastia	predictedType:Disease
+CANDIDATE	id:536288	inCount:0	outCount:1	links:536288	url:C536288	name:Thymic aplasia	normalName:thymic aplasia	normalWikiTitle:thymic aplasia	predictedType:Disease
+CANDIDATE	id:565299	inCount:0	outCount:1	links:565299	url:C565299	name:Anisomastia	normalName:anisomastia	normalWikiTitle:anisomastia	predictedType:Disease
+CANDIDATE	id:3970	inCount:2	outCount:1	links:3970	url:D003970	name:Diastema	normalName:diastema	normalWikiTitle:diastema	predictedType:Disease
+ENTITY	text:tremor	normalName:tremor	predictedType:disease	q:true	qid:Q26	docId:2782734	origText:tremor	url:D014202
+CANDIDATE	id:14202	inCount:6	outCount:1	links:	url:D014202	name:Tremor	normalName:tremor	normalWikiTitle:tremor	predictedType:Disease
+ENTITY	text:asthmatic	normalName:asthmatic	predictedType:disease	q:true	qid:Q26	docId:2782734	origText:asthmatic	url:D001249
+CANDIDATE	id:1249	inCount:16	outCount:3	links:1249	url:D001249	name:Asthma	normalName:asthma	normalWikiTitle:asthma	predictedType:Disease
+CANDIDATE	id:1251	inCount:0	outCount:1	links:1251	url:D001251	name:Astigmatism	normalName:astigmatism	normalWikiTitle:astigmatism	predictedType:Disease
+CANDIDATE	id:13224	inCount:0	outCount:1	links:13224	url:D013224	name:Status Asthmaticus	normalName:status asthmaticus	normalWikiTitle:status asthmaticus	predictedType:Disease
+CANDIDATE	id:14973	inCount:5	outCount:1	links:14973	url:D014973	name:Xanthomatosis	normalName:xanthomatosis	normalWikiTitle:xanthomatosis	predictedType:Disease
+CANDIDATE	id:535346	inCount:0	outCount:1	links:535346	url:C535346	name:Catatrichy	normalName:catatrichy	normalWikiTitle:catatrichy	predictedType:Disease
+CANDIDATE	id:13280	inCount:5	outCount:1	links:13280	url:D013280	name:Stomatitis	normalName:stomatitis	normalWikiTitle:stomatitis	predictedType:Disease
+CANDIDATE	id:562989	inCount:0	outCount:1	links:562989	url:C562989	name:Amastia	normalName:amastia	normalWikiTitle:amastia	predictedType:Disease
+CANDIDATE	id:536288	inCount:0	outCount:1	links:536288	url:C536288	name:Thymic aplasia	normalName:thymic aplasia	normalWikiTitle:thymic aplasia	predictedType:Disease
+CANDIDATE	id:565299	inCount:0	outCount:1	links:565299	url:C565299	name:Anisomastia	normalName:anisomastia	normalWikiTitle:anisomastia	predictedType:Disease
+CANDIDATE	id:3970	inCount:2	outCount:1	links:3970	url:D003970	name:Diastema	normalName:diastema	normalWikiTitle:diastema	predictedType:Disease
+ENTITY	text:asthma	normalName:asthma	predictedType:disease	q:true	qid:Q26	docId:2782734	origText:asthma	url:D001249
+CANDIDATE	id:1249	inCount:16	outCount:3	links:1249	url:D001249	name:Asthma	normalName:asthma	normalWikiTitle:asthma	predictedType:Disease

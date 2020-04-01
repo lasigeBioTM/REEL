@@ -1,0 +1,21 @@
+ENTITY	text:hepatoma	normalName:hepatoma	predictedType:disease	q:true	qid:Q471	docId:15265979	origText:hepatoma	url:D006528
+CANDIDATE	id:6528	inCount:3	outCount:2	links:	url:D006528	name:Hepatoma	normalName:hepatoma	normalWikiTitle:hepatoma	predictedType:Disease
+ENTITY	text:hepatotoxic	normalName:hepatotoxic	predictedType:disease	q:true	qid:Q471	docId:15265979	origText:hepatotoxic	url:D056486
+CANDIDATE	id:56486	inCount:2	outCount:3	links:	url:D056486	name:Hepatitides, Toxic	normalName:hepatitides, toxic	normalWikiTitle:hepatitides, toxic	predictedType:Disease
+CANDIDATE	id:6505	inCount:5	outCount:1	links:	url:D006505	name:Hepatitis	normalName:hepatitis	normalWikiTitle:hepatitis	predictedType:Disease
+CANDIDATE	id:3699	inCount:1	outCount:2	links:	url:D003699	name:Hepatitis D	normalName:hepatitis d	normalWikiTitle:hepatitis d	predictedType:Disease
+CANDIDATE	id:6506	inCount:0	outCount:2	links:	url:D006506	name:Hepatitis A	normalName:hepatitis a	normalWikiTitle:hepatitis a	predictedType:Disease
+CANDIDATE	id:18197	inCount:0	outCount:1	links:	url:D018197	name:Hepatoblastoma	normalName:hepatoblastoma	normalWikiTitle:hepatoblastoma	predictedType:Disease
+CANDIDATE	id:6526	inCount:1	outCount:2	links:	url:D006526	name:Hepatitis C	normalName:hepatitis c	normalWikiTitle:hepatitis c	predictedType:Disease
+CANDIDATE	id:6509	inCount:1	outCount:2	links:	url:D006509	name:Hepatitis B	normalName:hepatitis b	normalWikiTitle:hepatitis b	predictedType:Disease
+CANDIDATE	id:16751	inCount:0	outCount:2	links:	url:D016751	name:Hepatitis E	normalName:hepatitis e	normalWikiTitle:hepatitis e	predictedType:Disease
+CANDIDATE	id:8532	inCount:0	outCount:1	links:	url:D008532	name:Megacolon, Toxic	normalName:megacolon, toxic	normalWikiTitle:megacolon, toxic	predictedType:Disease
+CANDIDATE	id:4767	inCount:0	outCount:2	links:	url:D004767	name:Enterotoxemia	normalName:enterotoxemia	normalWikiTitle:enterotoxemia	predictedType:Disease
+CANDIDATE	id:6491	inCount:1	outCount:2	links:	url:D006491	name:Hemothorax	normalName:hemothorax	normalWikiTitle:hemothorax	predictedType:Disease
+CANDIDATE	id:56486	inCount:2	outCount:3	links:	url:D056486	name:Hepatitis, Toxic	normalName:hepatitis, toxic	normalWikiTitle:hepatitis, toxic	predictedType:Disease
+CANDIDATE	id:56486	inCount:2	outCount:3	links:	url:D056486	name:Toxic Hepatitis	normalName:toxic hepatitis	normalWikiTitle:toxic hepatitis	predictedType:Disease
+CANDIDATE	id:56486	inCount:2	outCount:3	links:	url:D056486	name:Toxic Hepatitides	normalName:toxic hepatitides	normalWikiTitle:toxic hepatitides	predictedType:Disease
+ENTITY	text:weight loss	normalName:weight loss	predictedType:disease	q:true	qid:Q471	docId:15265979	origText:weight loss	url:D015431
+CANDIDATE	id:15431	inCount:1	outCount:1	links:	url:D015431	name:Weight Loss	normalName:weight loss	normalWikiTitle:weight loss	predictedType:Disease
+ENTITY	text:hepatomegaly	normalName:hepatomegaly	predictedType:disease	q:true	qid:Q471	docId:15265979	origText:hepatomegaly	url:D006529
+CANDIDATE	id:6529	inCount:4	outCount:2	links:	url:D006529	name:Hepatomegaly	normalName:hepatomegaly	normalWikiTitle:hepatomegaly	predictedType:Disease

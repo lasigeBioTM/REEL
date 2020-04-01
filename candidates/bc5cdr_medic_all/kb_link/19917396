@@ -1,0 +1,6 @@
+ENTITY	text:hypertrophy	normalName:hypertrophy	predictedType:disease	q:true	qid:Q556	docId:19917396	origText:hypertrophy	url:D006984
+CANDIDATE	id:6984	inCount:9	outCount:1	links:	url:D006984	name:Hypertrophy	normalName:hypertrophy	normalWikiTitle:hypertrophy	predictedType:Disease
+ENTITY	text:edema	normalName:edema	predictedType:disease	q:true	qid:Q556	docId:19917396	origText:edema	url:D004487
+CANDIDATE	id:4487	inCount:6	outCount:1	links:	url:D004487	name:Edema	normalName:edema	normalWikiTitle:edema	predictedType:Disease
+ENTITY	text:cardiac toxicity	normalName:cardiac toxicity	predictedType:disease	q:true	qid:Q556	docId:19917396	origText:cardiac toxicity	url:D066126
+CANDIDATE	id:66126	inCount:0	outCount:3	links:	url:D066126	name:Cardiac Toxicity	normalName:cardiac toxicity	normalWikiTitle:cardiac toxicity	predictedType:Disease

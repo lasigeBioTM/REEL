@@ -1,0 +1,30 @@
+ENTITY	text:venous congestion	normalName:venous congestion	predictedType:disease	q:true	qid:Q587	docId:6503301	origText:venous congestion	url:D006940
+CANDIDATE	id:6940	inCount:0	outCount:1	links:	url:D006940	name:Congestion, Venous	normalName:congestion, venous	normalWikiTitle:congestion, venous	predictedType:Disease
+ENTITY	text:death	normalName:death	predictedType:disease	q:true	qid:Q587	docId:6503301	origText:death	url:D003643
+CANDIDATE	id:3643	inCount:11	outCount:1	links:	url:D003643	name:Death	normalName:death	normalWikiTitle:death	predictedType:Disease
+ENTITY	text:thrombosis	normalName:thrombosis	predictedType:disease	q:true	qid:Q587	docId:6503301	origText:thrombosis	url:D013927
+CANDIDATE	id:13927	inCount:4	outCount:1	links:1157	url:D013927	name:Thrombosis	normalName:thrombosis	normalWikiTitle:thrombosis	predictedType:Disease
+ENTITY	text:melanoma	normalName:melanoma	predictedType:disease	q:true	qid:Q587	docId:6503301	origText:melanoma	url:D008545
+CANDIDATE	id:8545	inCount:9	outCount:2	links:	url:D008545	name:Melanoma	normalName:melanoma	normalWikiTitle:melanoma	predictedType:Disease
+ENTITY	text:Veno-occlusive liver disease	normalName:veno-occlusive liver disease	predictedType:disease	q:true	qid:Q587	docId:6503301	origText:Veno-occlusive liver disease	url:D006504
+CANDIDATE	id:6504	inCount:1	outCount:2	links:	url:D006504	name:Hepatic Veno-Occlusive Disease	normalName:hepatic veno-occlusive disease	normalWikiTitle:hepatic veno-occlusive disease	predictedType:Disease
+CANDIDATE	id:11668	inCount:0	outCount:2	links:	url:D011668	name:Pulmonary Veno-Occlusive Disease	normalName:pulmonary veno-occlusive disease	normalWikiTitle:pulmonary veno-occlusive disease	predictedType:Disease
+CANDIDATE	id:536330	inCount:0	outCount:2	links:	url:C536330	name:Polycystic liver disease	normalName:polycystic liver disease	normalWikiTitle:polycystic liver disease	predictedType:Disease
+CANDIDATE	id:58625	inCount:0	outCount:1	links:	url:D058625	name:End Stage Liver Disease	normalName:end stage liver disease	normalWikiTitle:end stage liver disease	predictedType:Disease
+CANDIDATE	id:535463	inCount:0	outCount:2	links:	url:C535463	name:Mainzer-Saldino Disease	normalName:mainzer-saldino disease	normalWikiTitle:mainzer-saldino disease	predictedType:Disease
+CANDIDATE	id:8109	inCount:4	outCount:2	links:	url:D008109	name:Liver Diseases, Parasitic	normalName:liver diseases, parasitic	normalWikiTitle:liver diseases, parasitic	predictedType:Disease
+CANDIDATE	id:1157	inCount:14	outCount:1	links:13927	url:D001157	name:Arterial Occlusive Diseases	normalName:arterial occlusive diseases	normalWikiTitle:arterial occlusive diseases	predictedType:Disease
+CANDIDATE	id:8107	inCount:37	outCount:1	links:	url:D008107	name:Liver Diseases	normalName:liver diseases	normalWikiTitle:liver diseases	predictedType:Disease
+CANDIDATE	id:12832	inCount:0	outCount:2	links:	url:D012832	name:Silo Filler's Disease	normalName:silo filler's disease	normalWikiTitle:silo filler's disease	predictedType:Disease
+CANDIDATE	id:168600	inCount:0	outCount:1	links:	url:168600	name:PARKINSON DISEASE, LATE-ONSET	normalName:parkinson disease, late-onset	normalWikiTitle:parkinson disease, late-onset	predictedType:Disease
+ENTITY	text:veno-occlusive disease of the liver	normalName:veno-occlusive disease of the liver	predictedType:disease	q:true	qid:Q587	docId:6503301	origText:veno-occlusive disease of the liver	url:D006504
+CANDIDATE	id:6504	inCount:1	outCount:2	links:	url:D006504	name:Hepatic Veno-Occlusive Disease	normalName:hepatic veno-occlusive disease	normalWikiTitle:hepatic veno-occlusive disease	predictedType:Disease
+CANDIDATE	id:11668	inCount:0	outCount:2	links:	url:D011668	name:Pulmonary Veno-Occlusive Disease	normalName:pulmonary veno-occlusive disease	normalWikiTitle:pulmonary veno-occlusive disease	predictedType:Disease
+CANDIDATE	id:536330	inCount:0	outCount:2	links:	url:C536330	name:Polycystic liver disease	normalName:polycystic liver disease	normalWikiTitle:polycystic liver disease	predictedType:Disease
+CANDIDATE	id:58625	inCount:0	outCount:1	links:	url:D058625	name:End Stage Liver Disease	normalName:end stage liver disease	normalWikiTitle:end stage liver disease	predictedType:Disease
+CANDIDATE	id:20431	inCount:2	outCount:1	links:	url:D020431	name:Olfactory Nerve Diseases	normalName:olfactory nerve diseases	normalWikiTitle:olfactory nerve diseases	predictedType:Disease
+CANDIDATE	id:8109	inCount:4	outCount:2	links:	url:D008109	name:Liver Diseases, Parasitic	normalName:liver diseases, parasitic	normalWikiTitle:liver diseases, parasitic	predictedType:Disease
+CANDIDATE	id:15840	inCount:3	outCount:1	links:	url:D015840	name:Oculomotor Nerve Diseases	normalName:oculomotor nerve diseases	normalWikiTitle:oculomotor nerve diseases	predictedType:Disease
+CANDIDATE	id:537395	inCount:0	outCount:1	links:	url:C537395	name:Neuronal intranuclear inclusion disease	normalName:neuronal intranuclear inclusion disease	normalWikiTitle:neuronal intranuclear inclusion disease	predictedType:Disease
+CANDIDATE	id:9265	inCount:0	outCount:3	links:	url:D009265	name:Nairobi Sheep Disease	normalName:nairobi sheep disease	normalWikiTitle:nairobi sheep disease	predictedType:Disease
+CANDIDATE	id:168600	inCount:0	outCount:1	links:	url:168600	name:PARKINSON DISEASE, LATE-ONSET	normalName:parkinson disease, late-onset	normalWikiTitle:parkinson disease, late-onset	predictedType:Disease

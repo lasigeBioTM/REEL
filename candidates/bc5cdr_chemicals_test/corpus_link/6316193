@@ -1,0 +1,12 @@
+ENTITY	text:cholecystokinin octapeptide	normalName:cholecystokinin octapeptide	predictedType:chemical	q:true	qid:Q48	docId:6316193	origText:cholecystokinin octapeptide	url:D012844
+CANDIDATE	id:12844	inCount:48	outCount:1	links:	url:D012844	name:Cholecystokinin Octapeptide	normalName:cholecystokinin octapeptide	normalWikiTitle:cholecystokinin octapeptide	predictedType:Chemical
+ENTITY	text:CCK-8	normalName:cck-8	predictedType:chemical	q:true	qid:Q48	docId:6316193	origText:CCK-8	url:D012844
+CANDIDATE	id:12844	inCount:48	outCount:1	links:	url:D012844	name:CCK-8	normalName:cck-8	normalWikiTitle:cck-8	predictedType:Chemical
+ENTITY	text:caerulein	normalName:caerulein	predictedType:chemical	q:true	qid:Q48	docId:6316193	origText:caerulein	url:D002108
+CANDIDATE	id:2108	inCount:7	outCount:1	links:	url:D002108	name:Caerulein	normalName:caerulein	normalWikiTitle:caerulein	predictedType:Chemical
+ENTITY	text:cholecystokinin	normalName:cholecystokinin	predictedType:chemical	q:true	qid:Q48	docId:6316193	origText:cholecystokinin	url:D002766
+CANDIDATE	id:2766	inCount:54	outCount:2	links:	url:D002766	name:Cholecystokinin	normalName:cholecystokinin	normalWikiTitle:cholecystokinin	predictedType:Chemical
+ENTITY	text:diazepam	normalName:diazepam	predictedType:chemical	q:true	qid:Q48	docId:6316193	origText:diazepam	url:D003975
+CANDIDATE	id:3975	inCount:21	outCount:1	links:10852	url:D003975	name:Diazepam	normalName:diazepam	normalWikiTitle:diazepam	predictedType:Chemical
+ENTITY	text:picrotoxin	normalName:picrotoxin	predictedType:chemical	q:true	qid:Q48	docId:6316193	origText:picrotoxin	url:D010852
+CANDIDATE	id:10852	inCount:7	outCount:2	links:3975	url:D010852	name:Picrotoxin	normalName:picrotoxin	normalWikiTitle:picrotoxin	predictedType:Chemical

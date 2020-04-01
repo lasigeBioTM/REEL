@@ -1,0 +1,15 @@
+ENTITY	text:hypokalemia	normalName:hypokalemia	predictedType:disease	q:true	qid:Q320	docId:17379047	origText:hypokalemia	url:D007008
+CANDIDATE	id:7008	inCount:1	outCount:1	links:7022	url:D007008	name:Hypokalemia	normalName:hypokalemia	normalWikiTitle:hypokalemia	predictedType:Disease
+ENTITY	text:hypertensive	normalName:hypertensive	predictedType:disease	q:true	qid:Q320	docId:17379047	origText:hypertensive	url:D006973
+CANDIDATE	id:6973	inCount:18	outCount:1	links:	url:D006973	name:Hypertension	normalName:hypertension	normalWikiTitle:hypertension	predictedType:Disease
+CANDIDATE	id:58246	inCount:0	outCount:1	links:	url:D058246	name:Prehypertension	normalName:prehypertension	normalWikiTitle:prehypertension	predictedType:Disease
+CANDIDATE	id:6977	inCount:3	outCount:2	links:	url:D006977	name:Hypertension, Renal	normalName:hypertension, renal	normalWikiTitle:hypertension, renal	predictedType:Disease
+CANDIDATE	id:6941	inCount:0	outCount:1	links:	url:D006941	name:Hyperesthesia	normalName:hyperesthesia	normalWikiTitle:hyperesthesia	predictedType:Disease
+CANDIDATE	id:59468	inCount:0	outCount:1	links:	url:D059468	name:Masked Hypertension	normalName:masked hypertension	normalWikiTitle:masked hypertension	predictedType:Disease
+CANDIDATE	id:6967	inCount:9	outCount:1	links:	url:D006967	name:Hypersensitivity	normalName:hypersensitivity	normalWikiTitle:hypersensitivity	predictedType:Disease
+CANDIDATE	id:7022	inCount:3	outCount:1	links:7008;6973	url:D007022	name:Hypotension	normalName:hypotension	normalWikiTitle:hypotension	predictedType:Disease
+CANDIDATE	id:6987	inCount:1	outCount:1	links:	url:D006987	name:Hypesthesia	normalName:hypesthesia	normalWikiTitle:hypesthesia	predictedType:Disease
+CANDIDATE	id:563161	inCount:0	outCount:2	links:	url:C563161	name:Hypertensive Nephropathy	normalName:hypertensive nephropathy	normalWikiTitle:hypertensive nephropathy	predictedType:Disease
+CANDIDATE	id:58437	inCount:0	outCount:2	links:	url:D058437	name:Hypertensive Retinopathy	normalName:hypertensive retinopathy	normalWikiTitle:hypertensive retinopathy	predictedType:Disease
+ENTITY	text:hypertension	normalName:hypertension	predictedType:disease	q:true	qid:Q320	docId:17379047	origText:hypertension	url:D006973
+CANDIDATE	id:6973	inCount:18	outCount:1	links:	url:D006973	name:Hypertension	normalName:hypertension	normalWikiTitle:hypertension	predictedType:Disease

@@ -1,0 +1,6 @@
+ENTITY	text:apomorphine	normalName:apomorphine	predictedType:chemical	q:true	qid:Q897	docId:6293644	origText:apomorphine	url:D001058
+CANDIDATE	id:1058	inCount:29	outCount:1	links:6220	url:D001058	name:Apomorphine	normalName:apomorphine	normalWikiTitle:apomorphine	predictedType:Chemical
+ENTITY	text:haloperidol	normalName:haloperidol	predictedType:chemical	q:true	qid:Q897	docId:6293644	origText:haloperidol	url:D006220
+CANDIDATE	id:6220	inCount:24	outCount:1	links:1058	url:D006220	name:Haloperidol	normalName:haloperidol	normalWikiTitle:haloperidol	predictedType:Chemical
+ENTITY	text:DOPAC	normalName:dopac	predictedType:chemical	q:true	qid:Q897	docId:6293644	origText:DOPAC	url:D015102
+CANDIDATE	id:15102	inCount:3	outCount:1	links:	url:D015102	name:DOPAC	normalName:dopac	normalWikiTitle:dopac	predictedType:Chemical

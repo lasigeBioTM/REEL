@@ -1,0 +1,6 @@
+ENTITY	text:scopolamine	normalName:scopolamine	predictedType:chemical	q:true	qid:Q132	docId:19356307	origText:scopolamine	url:D012601
+CANDIDATE	id:12601	inCount:3	outCount:2	links:	url:D012601	name:Scopolamine	normalName:scopolamine	normalWikiTitle:scopolamine	predictedType:Chemical
+ENTITY	text:s-perillyl alcohol	normalName:s-perillyl alcohol	predictedType:chemical	q:true	qid:Q132	docId:19356307	origText:s-perillyl alcohol	url:C032208
+CANDIDATE	id:32208	inCount:0	outCount:1	links:	url:C032208	name:(S)-perillyl alcohol	normalName:(s)-perillyl alcohol	normalWikiTitle:(s)-perillyl alcohol	predictedType:Chemical
+ENTITY	text:dopamine	normalName:dopamine	predictedType:chemical	q:true	qid:Q132	docId:19356307	origText:dopamine	url:D004298
+CANDIDATE	id:4298	inCount:90	outCount:2	links:	url:D004298	name:Dopamine	normalName:dopamine	normalWikiTitle:dopamine	predictedType:Chemical

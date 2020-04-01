@@ -1,0 +1,25 @@
+ENTITY	text:thrombocytopenia	normalName:thrombocytopenia	predictedType:disease	q:true	qid:Q524	docId:24459006	origText:thrombocytopenia	url:D013921
+CANDIDATE	id:13921	inCount:42	outCount:1	links:380;6402	url:D013921	name:Thrombocytopenia	normalName:thrombocytopenia	normalWikiTitle:thrombocytopenia	predictedType:Disease
+ENTITY	text:agranulocytosis	normalName:agranulocytosis	predictedType:disease	q:true	qid:Q524	docId:24459006	origText:agranulocytosis	url:D000380
+CANDIDATE	id:380	inCount:3	outCount:1	links:6402;13921	url:D000380	name:Agranulocytosis	normalName:agranulocytosis	normalWikiTitle:agranulocytosis	predictedType:Disease
+ENTITY	text:blood dyscrasias	normalName:blood dyscrasias	predictedType:disease	q:true	qid:Q524	docId:24459006	origText:blood dyscrasias	url:D006402
+CANDIDATE	id:6402	inCount:22	outCount:1	links:380;13921	url:D006402	name:Blood Disease	normalName:blood disease	normalWikiTitle:blood disease	predictedType:Disease
+CANDIDATE	id:536573	inCount:0	outCount:3	links:	url:C536573	name:Boomerang dysplasia	normalName:boomerang dysplasia	normalWikiTitle:boomerang dysplasia	predictedType:Disease
+CANDIDATE	id:70631	inCount:1	outCount:1	links:	url:D000070631	name:Diastasis, Bone	normalName:diastasis, bone	normalWikiTitle:diastasis, bone	predictedType:Disease
+CANDIDATE	id:567664	inCount:0	outCount:2	links:	url:C567664	name:Omodysplasia 2	normalName:omodysplasia 2	normalWikiTitle:omodysplasia 2	predictedType:Disease
+CANDIDATE	id:60368	inCount:0	outCount:1	links:	url:D060368	name:Lobomycosis	normalName:lobomycosis	normalWikiTitle:lobomycosis	predictedType:Disease
+CANDIDATE	id:18126	inCount:3	outCount:1	links:	url:D018126	name:Odontodysplasia	normalName:odontodysplasia	normalWikiTitle:odontodysplasia	predictedType:Disease
+CANDIDATE	id:10009	inCount:225	outCount:2	links:	url:D010009	name:Osteochondrodysplasias	normalName:osteochondrodysplasias	normalWikiTitle:osteochondrodysplasias	predictedType:Disease
+CANDIDATE	id:1752	inCount:0	outCount:2	links:	url:D001752	name:Blast Crisis	normalName:blast crisis	normalWikiTitle:blast crisis	predictedType:Disease
+CANDIDATE	id:14120	inCount:2	outCount:2	links:	url:D014120	name:Toxocariasis	normalName:toxocariasis	normalWikiTitle:toxocariasis	predictedType:Disease
+CANDIDATE	id:10040	inCount:6	outCount:1	links:	url:D010040	name:Otosclerosis	normalName:otosclerosis	normalWikiTitle:otosclerosis	predictedType:Disease
+CANDIDATE	id:16063	inCount:0	outCount:2	links:	url:D016063	name:Blood Loss, Surgical	normalName:blood loss, surgical	normalWikiTitle:blood loss, surgical	predictedType:Disease
+CANDIDATE	id:6402	inCount:22	outCount:1	links:380;13921	url:D006402	name:Blood Diseases	normalName:blood diseases	normalWikiTitle:blood diseases	predictedType:Disease
+CANDIDATE	id:6402	inCount:22	outCount:1	links:380;13921	url:D006402	name:Diseases, Blood	normalName:diseases, blood	normalWikiTitle:diseases, blood	predictedType:Disease
+CANDIDATE	id:1848	inCount:89	outCount:1	links:	url:D001848	name:Bone Dysplasias	normalName:bone dysplasias	normalWikiTitle:bone dysplasias	predictedType:Disease
+CANDIDATE	id:1848	inCount:89	outCount:1	links:	url:D001848	name:Dysplasias, Bone	normalName:dysplasias, bone	normalWikiTitle:dysplasias, bone	predictedType:Disease
+CANDIDATE	id:6402	inCount:22	outCount:1	links:380;13921	url:D006402	name:Disease, Blood	normalName:disease, blood	normalWikiTitle:disease, blood	predictedType:Disease
+CANDIDATE	id:1848	inCount:89	outCount:1	links:	url:D001848	name:Dysplasia, Bone	normalName:dysplasia, bone	normalWikiTitle:dysplasia, bone	predictedType:Disease
+CANDIDATE	id:1039	inCount:0	outCount:1	links:	url:D001039	name:Broca's Dysphasia	normalName:broca's dysphasia	normalWikiTitle:broca's dysphasia	predictedType:Disease
+CANDIDATE	id:1848	inCount:89	outCount:1	links:	url:D001848	name:Bone Dysplasia	normalName:bone dysplasia	normalWikiTitle:bone dysplasia	predictedType:Disease
+CANDIDATE	id:1039	inCount:0	outCount:1	links:	url:D001039	name:Dysphasia, Broca's	normalName:dysphasia, broca's	normalWikiTitle:dysphasia, broca's	predictedType:Disease

@@ -1,0 +1,6 @@
+ENTITY	text:chronic hepatitis B	normalName:chronic hepatitis b	predictedType:disease	q:true	qid:Q180	docId:17954033	origText:chronic hepatitis B	url:D019694
+CANDIDATE	id:19694	inCount:0	outCount:2	links:6509	url:D019694	name:Hepatitis B, Chronic	normalName:hepatitis b, chronic	normalWikiTitle:hepatitis b, chronic	predictedType:Disease
+ENTITY	text:chronic hepatitis B virus infection	normalName:chronic hepatitis b virus infection	predictedType:disease	q:true	qid:Q180	docId:17954033	origText:chronic hepatitis B virus infection	url:D019694
+CANDIDATE	id:19694	inCount:0	outCount:2	links:6509	url:D019694	name:Hepatitis B Virus Infection, Chronic	normalName:hepatitis b virus infection, chronic	normalWikiTitle:hepatitis b virus infection, chronic	predictedType:Disease
+ENTITY	text:hepatitis B	normalName:hepatitis b	predictedType:disease	q:true	qid:Q180	docId:17954033	origText:hepatitis B	url:D006509
+CANDIDATE	id:6509	inCount:1	outCount:2	links:19694	url:D006509	name:Hepatitis B	normalName:hepatitis b	normalWikiTitle:hepatitis b	predictedType:Disease

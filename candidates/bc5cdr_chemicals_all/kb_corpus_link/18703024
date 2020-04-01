@@ -1,0 +1,10 @@
+ENTITY	text:dopamine	normalName:dopamine	predictedType:chemical	q:true	qid:Q950	docId:18703024	origText:dopamine	url:D004298
+CANDIDATE	id:4298	inCount:90	outCount:2	links:	url:D004298	name:Dopamine	normalName:dopamine	normalWikiTitle:dopamine	predictedType:Chemical
+ENTITY	text:apomorphine	normalName:apomorphine	predictedType:chemical	q:true	qid:Q950	docId:18703024	origText:apomorphine	url:D001058
+CANDIDATE	id:1058	inCount:29	outCount:1	links:16291;6220;661	url:D001058	name:Apomorphine	normalName:apomorphine	normalWikiTitle:apomorphine	predictedType:Chemical
+ENTITY	text:amphetamine	normalName:amphetamine	predictedType:chemical	q:true	qid:Q950	docId:18703024	origText:amphetamine	url:D000661
+CANDIDATE	id:661	inCount:1	outCount:1	links:16291;1058;6220	url:D000661	name:Amphetamine	normalName:amphetamine	normalWikiTitle:amphetamine	predictedType:Chemical
+ENTITY	text:haloperidol	normalName:haloperidol	predictedType:chemical	q:true	qid:Q950	docId:18703024	origText:haloperidol	url:D006220
+CANDIDATE	id:6220	inCount:24	outCount:1	links:1058;661	url:D006220	name:Haloperidol	normalName:haloperidol	normalWikiTitle:haloperidol	predictedType:Chemical
+ENTITY	text:MK-801	normalName:mk-801	predictedType:chemical	q:true	qid:Q950	docId:18703024	origText:MK-801	url:D016291
+CANDIDATE	id:16291	inCount:9	outCount:1	links:1058;661	url:D016291	name:MK 801	normalName:mk 801	normalWikiTitle:mk 801	predictedType:Chemical

@@ -1,0 +1,23 @@
+ENTITY	text:Parkinson's disease	normalName:parkinson's disease	predictedType:disease	q:true	qid:Q942	docId:17490790	origText:Parkinson's disease	url:D010300
+CANDIDATE	id:10300	inCount:31	outCount:2	links:	url:D010300	name:Parkinson's Disease	normalName:parkinson's disease	normalWikiTitle:parkinson's disease	predictedType:Disease
+ENTITY	text:degeneration of dopaminergic neurons	normalName:degeneration of dopaminergic neurons	predictedType:disease	q:true	qid:Q942	docId:17490790	origText:degeneration of dopaminergic neurons	url:D009410
+CANDIDATE	id:9410	inCount:6	outCount:1	links:	url:D009410	name:Degenerations, Neuron	normalName:degenerations, neuron	normalWikiTitle:degenerations, neuron	predictedType:Disease
+CANDIDATE	id:9410	inCount:6	outCount:1	links:	url:D009410	name:Nerve Degeneration	normalName:nerve degeneration	normalWikiTitle:nerve degeneration	predictedType:Disease
+CANDIDATE	id:531847	inCount:0	outCount:1	links:	url:C531847	name:Wallerian degeneration of the pyramidal tract	normalName:wallerian degeneration of the pyramidal tract	normalWikiTitle:wallerian degeneration of the pyramidal tract	predictedType:Disease
+CANDIDATE	id:616118	inCount:0	outCount:1	links:	url:616118	name:MACULAR DEGENERATION, EARLY-ONSET	normalName:macular degeneration, early-onset	normalWikiTitle:macular degeneration, early-onset	predictedType:Disease
+CANDIDATE	id:6527	inCount:2	outCount:6	links:	url:D006527	name:Hepatolenticular Degeneration	normalName:hepatolenticular degeneration	normalWikiTitle:hepatolenticular degeneration	predictedType:Disease
+CANDIDATE	id:13132	inCount:27	outCount:3	links:	url:D013132	name:Spinocerebellar Degenerations	normalName:spinocerebellar degenerations	normalWikiTitle:spinocerebellar degenerations	predictedType:Disease
+CANDIDATE	id:14855	inCount:1	outCount:1	links:	url:D014855	name:Wallerian Degeneration	normalName:wallerian degeneration	normalWikiTitle:wallerian degeneration	predictedType:Disease
+CANDIDATE	id:8268	inCount:33	outCount:1	links:	url:D008268	name:Macular Degeneration	normalName:macular degeneration	normalWikiTitle:macular degeneration	predictedType:Disease
+CANDIDATE	id:565309	inCount:0	outCount:1	links:	url:C565309	name:Late-Onset Retinal Degeneration	normalName:late-onset retinal degeneration	normalWikiTitle:late-onset retinal degeneration	predictedType:Disease
+CANDIDATE	id:57135	inCount:0	outCount:1	links:	url:D057135	name:Wet Macular Degeneration	normalName:wet macular degeneration	normalWikiTitle:wet macular degeneration	predictedType:Disease
+CANDIDATE	id:55959	inCount:1	outCount:1	links:	url:D055959	name:Intervertebral Disc Degeneration	normalName:intervertebral disc degeneration	normalWikiTitle:intervertebral disc degeneration	predictedType:Disease
+CANDIDATE	id:9410	inCount:6	outCount:1	links:	url:D009410	name:Degeneration, Neuron	normalName:degeneration, neuron	normalWikiTitle:degeneration, neuron	predictedType:Disease
+CANDIDATE	id:9410	inCount:6	outCount:1	links:	url:D009410	name:Neuron Degeneration	normalName:neuron degeneration	normalWikiTitle:neuron degeneration	predictedType:Disease
+CANDIDATE	id:9410	inCount:6	outCount:1	links:	url:D009410	name:Neuron Degenerations	normalName:neuron degenerations	normalWikiTitle:neuron degenerations	predictedType:Disease
+CANDIDATE	id:19636	inCount:26	outCount:1	links:	url:D019636	name:Neurologic Disorder, Degenerative	normalName:neurologic disorder, degenerative	normalWikiTitle:neurologic disorder, degenerative	predictedType:Disease
+CANDIDATE	id:535602	inCount:0	outCount:1	links:	url:C535602	name:Doyne honeycomb degeneration of retina	normalName:doyne honeycomb degeneration of retina	normalWikiTitle:doyne honeycomb degeneration of retina	predictedType:Disease
+CANDIDATE	id:19636	inCount:26	outCount:1	links:	url:D019636	name:Degenerative Neurologic Disorder	normalName:degenerative neurologic disorder	normalWikiTitle:degenerative neurologic disorder	predictedType:Disease
+CANDIDATE	id:19636	inCount:26	outCount:1	links:	url:D019636	name:Neurologic Disorders, Degenerative	normalName:neurologic disorders, degenerative	normalWikiTitle:neurologic disorders, degenerative	predictedType:Disease
+CANDIDATE	id:11085	inCount:2	outCount:1	links:	url:D011085	name:Ovarian Degeneration, Sclerocystic	normalName:ovarian degeneration, sclerocystic	normalWikiTitle:ovarian degeneration, sclerocystic	predictedType:Disease
+CANDIDATE	id:19636	inCount:26	outCount:1	links:	url:D019636	name:Degenerative Neurologic Disorders	normalName:degenerative neurologic disorders	normalWikiTitle:degenerative neurologic disorders	predictedType:Disease

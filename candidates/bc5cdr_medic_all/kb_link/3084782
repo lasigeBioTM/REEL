@@ -1,0 +1,22 @@
+ENTITY	text:dermatitis	normalName:dermatitis	predictedType:disease	q:true	qid:Q153	docId:3084782	origText:dermatitis	url:D003872
+CANDIDATE	id:3872	inCount:20	outCount:1	links:	url:D003872	name:Dermatitis	normalName:dermatitis	normalWikiTitle:dermatitis	predictedType:Disease
+ENTITY	text:rheumatoid arthritis	normalName:rheumatoid arthritis	predictedType:disease	q:true	qid:Q153	docId:3084782	origText:rheumatoid arthritis	url:D001172
+CANDIDATE	id:1172	inCount:8	outCount:3	links:1172	url:D001172	name:Arthritis, Rheumatoid	normalName:arthritis, rheumatoid	normalWikiTitle:arthritis, rheumatoid	predictedType:Disease
+ENTITY	text:nephritis	normalName:nephritis	predictedType:disease	q:true	qid:Q153	docId:3084782	origText:nephritis	url:D009393
+CANDIDATE	id:9393	inCount:10	outCount:1	links:	url:D009393	name:Nephritis	normalName:nephritis	normalWikiTitle:nephritis	predictedType:Disease
+ENTITY	text:RA	normalName:ra	predictedType:disease	q:true	qid:Q153	docId:3084782	origText:RA	url:D001172
+CANDIDATE	id:1172	inCount:8	outCount:3	links:1172	url:D001172	name:RA	normalName:ra	normalWikiTitle:ra	predictedType:Disease
+ENTITY	text:Toxicity	normalName:toxicity	predictedType:disease	q:true	qid:Q153	docId:3084782	origText:Toxicity	url:D064420
+CANDIDATE	id:64420	inCount:10	outCount:1	links:	url:D064420	name:Drug Toxicity	normalName:drug toxicity	normalWikiTitle:drug toxicity	predictedType:Disease
+CANDIDATE	id:66126	inCount:0	outCount:3	links:	url:D066126	name:Cardiotoxicity	normalName:cardiotoxicity	normalWikiTitle:cardiotoxicity	predictedType:Disease
+CANDIDATE	id:15651	inCount:2	outCount:1	links:	url:D015651	name:Mycotoxicosis	normalName:mycotoxicosis	normalWikiTitle:mycotoxicosis	predictedType:Disease
+CANDIDATE	id:13971	inCount:2	outCount:1	links:	url:D013971	name:Thyrotoxicosis	normalName:thyrotoxicosis	normalWikiTitle:thyrotoxicosis	predictedType:Disease
+CANDIDATE	id:14869	inCount:0	outCount:2	links:	url:D014869	name:Water Intoxication	normalName:water intoxication	normalWikiTitle:water intoxication	predictedType:Disease
+CANDIDATE	id:14103	inCount:4	outCount:2	links:	url:D014103	name:Torticollis	normalName:torticollis	normalWikiTitle:torticollis	predictedType:Disease
+CANDIDATE	id:9765	inCount:42	outCount:2	links:	url:D009765	name:Obesity	normalName:obesity	normalWikiTitle:obesity	predictedType:Disease
+CANDIDATE	id:14115	inCount:1	outCount:1	links:	url:D014115	name:Toxemia	normalName:toxemia	normalWikiTitle:toxemia	predictedType:Disease
+CANDIDATE	id:7246	inCount:2	outCount:2	links:	url:D007246	name:Infertility	normalName:infertility	normalWikiTitle:infertility	predictedType:Disease
+CANDIDATE	id:20234	inCount:0	outCount:2	links:	url:D020234	name:Gait Ataxia	normalName:gait ataxia	normalWikiTitle:gait ataxia	predictedType:Disease
+CANDIDATE	id:14069	inCount:1	outCount:1	links:	url:D014069	name:Tonsillitis	normalName:tonsillitis	normalWikiTitle:tonsillitis	predictedType:Disease
+CANDIDATE	id:64420	inCount:10	outCount:1	links:	url:D064420	name:Toxicity, Drug	normalName:toxicity, drug	normalWikiTitle:toxicity, drug	predictedType:Disease
+CANDIDATE	id:17484	inCount:0	outCount:2	links:	url:D017484	name:Phototoxicity	normalName:phototoxicity	normalWikiTitle:phototoxicity	predictedType:Disease

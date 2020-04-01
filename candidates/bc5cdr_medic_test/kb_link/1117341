@@ -1,0 +1,24 @@
+ENTITY	text:hyperglycemia	normalName:hyperglycemia	predictedType:disease	q:true	qid:Q205	docId:1117341	origText:hyperglycemia	url:D006943
+CANDIDATE	id:6943	inCount:1	outCount:1	links:6943	url:D006943	name:Hyperglycemia	normalName:hyperglycemia	normalWikiTitle:hyperglycemia	predictedType:Disease
+ENTITY	text:Hyperglycemic	normalName:hyperglycemic	predictedType:disease	q:true	qid:Q205	docId:1117341	origText:Hyperglycemic	url:D006943
+CANDIDATE	id:6943	inCount:1	outCount:1	links:6943	url:D006943	name:Hyperglycemia	normalName:hyperglycemia	normalWikiTitle:hyperglycemia	predictedType:Disease
+CANDIDATE	id:7003	inCount:14	outCount:1	links:	url:D007003	name:Hypoglycemia	normalName:hypoglycemia	normalWikiTitle:hypoglycemia	predictedType:Disease
+CANDIDATE	id:6934	inCount:10	outCount:2	links:	url:D006934	name:Hypercalcemia	normalName:hypercalcemia	normalWikiTitle:hypercalcemia	predictedType:Disease
+CANDIDATE	id:15228	inCount:4	outCount:1	links:	url:D015228	name:Hypertriglyceridemia	normalName:hypertriglyceridemia	normalWikiTitle:hypertriglyceridemia	predictedType:Disease
+CANDIDATE	id:6940	inCount:0	outCount:1	links:	url:D006940	name:Hyperemia	normalName:hyperemia	normalWikiTitle:hyperemia	predictedType:Disease
+CANDIDATE	id:6947	inCount:4	outCount:1	links:	url:D006947	name:Hyperkalemia	normalName:hyperkalemia	normalWikiTitle:hyperkalemia	predictedType:Disease
+CANDIDATE	id:65906	inCount:0	outCount:2	links:	url:D065906	name:Hyperlactatemia	normalName:hyperlactatemia	normalWikiTitle:hyperlactatemia	predictedType:Disease
+CANDIDATE	id:20167	inCount:3	outCount:2	links:	url:D020167	name:Hyperlysinemias	normalName:hyperlysinemias	normalWikiTitle:hyperlysinemias	predictedType:Disease
+CANDIDATE	id:138500	inCount:0	outCount:1	links:	url:138500	name:HYPERGLYCINURIA	normalName:hyperglycinuria	normalWikiTitle:hyperglycinuria	predictedType:Disease
+CANDIDATE	id:565500	inCount:0	outCount:1	links:	url:C565500	name:Hyperlexia	normalName:hyperlexia	normalWikiTitle:hyperlexia	predictedType:Disease
+ENTITY	text:glucosuria	normalName:glucosuria	predictedType:disease	q:true	qid:Q205	docId:1117341	origText:glucosuria	url:D006030
+CANDIDATE	id:6030	inCount:1	outCount:2	links:	url:D006030	name:Glycosuria, Renal	normalName:glycosuria, renal	normalWikiTitle:glycosuria, renal	predictedType:Disease
+CANDIDATE	id:6029	inCount:1	outCount:2	links:	url:D006029	name:Glycosuria	normalName:glycosuria	normalWikiTitle:glycosuria	predictedType:Disease
+CANDIDATE	id:538068	inCount:0	outCount:1	links:	url:C538068	name:Fructosuria	normalName:fructosuria	normalWikiTitle:fructosuria	predictedType:Disease
+CANDIDATE	id:562670	inCount:0	outCount:1	links:	url:C562670	name:Glucoglycinuria	normalName:glucoglycinuria	normalWikiTitle:glucoglycinuria	predictedType:Disease
+CANDIDATE	id:536836	inCount:0	outCount:1	links:	url:C536836	name:Glutathionuria	normalName:glutathionuria	normalWikiTitle:glutathionuria	predictedType:Disease
+CANDIDATE	id:5901	inCount:34	outCount:1	links:	url:D005901	name:Glaucoma	normalName:glaucoma	normalWikiTitle:glaucoma	predictedType:Disease
+CANDIDATE	id:54880	inCount:1	outCount:1	links:	url:D054880	name:Aspartylglucosaminuria	normalName:aspartylglucosaminuria	normalWikiTitle:aspartylglucosaminuria	predictedType:Disease
+CANDIDATE	id:9212	inCount:3	outCount:1	links:	url:D009212	name:Myoglobinuria	normalName:myoglobinuria	normalWikiTitle:myoglobinuria	predictedType:Disease
+CANDIDATE	id:5693	inCount:0	outCount:2	links:	url:D005693	name:Galactosemias	normalName:galactosemias	normalWikiTitle:galactosemias	predictedType:Disease
+CANDIDATE	id:3555	inCount:3	outCount:1	links:	url:D003555	name:Cystinuria	normalName:cystinuria	normalWikiTitle:cystinuria	predictedType:Disease

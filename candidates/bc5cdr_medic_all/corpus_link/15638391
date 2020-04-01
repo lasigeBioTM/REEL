@@ -1,0 +1,6 @@
+ENTITY	text:hyperprolactinemia	normalName:hyperprolactinemia	predictedType:disease	q:true	qid:Q614	docId:15638391	origText:hyperprolactinemia	url:D006966
+CANDIDATE	id:6966	inCount:1	outCount:1	links:	url:D006966	name:Hyperprolactinemia	normalName:hyperprolactinemia	normalWikiTitle:hyperprolactinemia	predictedType:Disease
+ENTITY	text:hypertrophy	normalName:hypertrophy	predictedType:disease	q:true	qid:Q614	docId:15638391	origText:hypertrophy	url:D006984
+CANDIDATE	id:6984	inCount:9	outCount:1	links:	url:D006984	name:Hypertrophy	normalName:hypertrophy	normalWikiTitle:hypertrophy	predictedType:Disease
+ENTITY	text:hyperplasia	normalName:hyperplasia	predictedType:disease	q:true	qid:Q614	docId:15638391	origText:hyperplasia	url:D006965
+CANDIDATE	id:6965	inCount:4	outCount:1	links:	url:D006965	name:Hyperplasia	normalName:hyperplasia	normalWikiTitle:hyperplasia	predictedType:Disease

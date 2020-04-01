@@ -1,0 +1,4 @@
+ENTITY	text:necrosis	normalName:necrosis	predictedType:disease	q:true	qid:Q142	docId:15858223	origText:necrosis	url:D009336
+CANDIDATE	id:9336	inCount:6	outCount:1	links:	url:D009336	name:Necrosis	normalName:necrosis	normalWikiTitle:necrosis	predictedType:Disease
+ENTITY	text:inflammation	normalName:inflammation	predictedType:disease	q:true	qid:Q142	docId:15858223	origText:inflammation	url:D007249
+CANDIDATE	id:7249	inCount:14	outCount:1	links:	url:D007249	name:Inflammation	normalName:inflammation	normalWikiTitle:inflammation	predictedType:Disease

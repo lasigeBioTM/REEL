@@ -1,0 +1,4 @@
+ENTITY	text:lactate	normalName:lactate	predictedType:chemical	q:true	qid:Q434	docId:3703509	origText:lactate	url:D019344
+CANDIDATE	id:19344	inCount:38	outCount:1	links:	url:D019344	name:Lactate	normalName:lactate	normalWikiTitle:lactate	predictedType:Chemical
+ENTITY	text:prednisone	normalName:prednisone	predictedType:chemical	q:true	qid:Q434	docId:3703509	origText:prednisone	url:D011241
+CANDIDATE	id:11241	inCount:209	outCount:1	links:	url:D011241	name:Prednisone	normalName:prednisone	normalWikiTitle:prednisone	predictedType:Chemical

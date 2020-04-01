@@ -1,0 +1,6 @@
+ENTITY	text:bupivacaine	normalName:bupivacaine	predictedType:chemical	q:true	qid:Q302	docId:7189975	origText:bupivacaine	url:D002045
+CANDIDATE	id:2045	inCount:4	outCount:1	links:4616;8012	url:D002045	name:Bupivacaine	normalName:bupivacaine	normalWikiTitle:bupivacaine	predictedType:Chemical
+ENTITY	text:lidocaine	normalName:lidocaine	predictedType:chemical	q:true	qid:Q302	docId:7189975	origText:lidocaine	url:D008012
+CANDIDATE	id:8012	inCount:68	outCount:1	links:4616;2045	url:D008012	name:Lidocaine	normalName:lidocaine	normalWikiTitle:lidocaine	predictedType:Chemical
+ENTITY	text:chloroprocaine	normalName:chloroprocaine	predictedType:chemical	q:true	qid:Q302	docId:7189975	origText:chloroprocaine	url:C004616
+CANDIDATE	id:4616	inCount:0	outCount:1	links:8012;2045	url:C004616	name:chloroprocaine	normalName:chloroprocaine	normalWikiTitle:chloroprocaine	predictedType:Chemical

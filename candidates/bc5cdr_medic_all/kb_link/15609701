@@ -1,0 +1,19 @@
+ENTITY	text:ventricular tachycardia	normalName:ventricular tachycardia	predictedType:disease	q:true	qid:Q385	docId:15609701	origText:ventricular tachycardia	url:D017180
+CANDIDATE	id:17180	inCount:4	outCount:1	links:	url:D017180	name:Tachycardia, Ventricular	normalName:tachycardia, ventricular	normalWikiTitle:tachycardia, ventricular	predictedType:Disease
+ENTITY	text:Coronary vasospasm	normalName:coronary vasospasm	predictedType:disease	q:true	qid:Q385	docId:15609701	origText:Coronary vasospasm	url:D003329
+CANDIDATE	id:3329	inCount:1	outCount:1	links:3329	url:D003329	name:Coronary Vasospasm	normalName:coronary vasospasm	normalWikiTitle:coronary vasospasm	predictedType:Disease
+ENTITY	text:coronary spasm	normalName:coronary spasm	predictedType:disease	q:true	qid:Q385	docId:15609701	origText:coronary spasm	url:D003329
+CANDIDATE	id:3329	inCount:1	outCount:1	links:3329	url:D003329	name:Coronary Vasospasm	normalName:coronary vasospasm	normalWikiTitle:coronary vasospasm	predictedType:Disease
+CANDIDATE	id:3327	inCount:7	outCount:1	links:	url:D003327	name:Coronary Disease	normalName:coronary disease	normalWikiTitle:coronary disease	predictedType:Disease
+CANDIDATE	id:23921	inCount:1	outCount:1	links:	url:D023921	name:Coronary Stenosis	normalName:coronary stenosis	normalWikiTitle:coronary stenosis	predictedType:Disease
+CANDIDATE	id:1986	inCount:0	outCount:1	links:	url:D001986	name:Bronchial Spasm	normalName:bronchial spasm	normalWikiTitle:bronchial spasm	predictedType:Disease
+CANDIDATE	id:23903	inCount:0	outCount:1	links:	url:D023903	name:Coronary Restenosis	normalName:coronary restenosis	normalWikiTitle:coronary restenosis	predictedType:Disease
+CANDIDATE	id:3328	inCount:0	outCount:2	links:	url:D003328	name:Coronary Thrombosis	normalName:coronary thrombosis	normalWikiTitle:coronary thrombosis	predictedType:Disease
+CANDIDATE	id:3324	inCount:4	outCount:2	links:	url:D003324	name:Coronary Artery Disease	normalName:coronary artery disease	normalWikiTitle:coronary artery disease	predictedType:Disease
+CANDIDATE	id:54059	inCount:0	outCount:1	links:	url:D054059	name:Coronary Occlusion	normalName:coronary occlusion	normalWikiTitle:coronary occlusion	predictedType:Disease
+CANDIDATE	id:536773	inCount:0	outCount:1	links:	url:C536773	name:Syphilis, secondary	normalName:syphilis, secondary	normalWikiTitle:syphilis, secondary	predictedType:Disease
+CANDIDATE	id:1997	inCount:0	outCount:2	links:	url:D001997	name:Bronchopulmonary Dysplasia	normalName:bronchopulmonary dysplasia	normalWikiTitle:bronchopulmonary dysplasia	predictedType:Disease
+ENTITY	text:ventricular dysfunction	normalName:ventricular dysfunction	predictedType:disease	q:true	qid:Q385	docId:15609701	origText:ventricular dysfunction	url:D018754
+CANDIDATE	id:18754	inCount:2	outCount:1	links:	url:D018754	name:Ventricular Dysfunction	normalName:ventricular dysfunction	normalWikiTitle:ventricular dysfunction	predictedType:Disease
+ENTITY	text:dilated cardiomyopathy	normalName:dilated cardiomyopathy	predictedType:disease	q:true	qid:Q385	docId:15609701	origText:dilated cardiomyopathy	url:D002311
+CANDIDATE	id:2311	inCount:50	outCount:2	links:	url:D002311	name:Cardiomyopathy, Dilated	normalName:cardiomyopathy, dilated	normalWikiTitle:cardiomyopathy, dilated	predictedType:Disease

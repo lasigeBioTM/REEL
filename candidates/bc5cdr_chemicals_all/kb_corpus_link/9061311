@@ -1,0 +1,21 @@
+ENTITY	text:formyl-methionyl-leucyl-phenylalanine	normalName:formyl-methionyl-leucyl-phenylalanine	predictedType:chemical	q:true	qid:Q272	docId:9061311	origText:formyl-methionyl-leucyl-phenylalanine	url:D009240
+CANDIDATE	id:9240	inCount:32	outCount:4	links:	url:D009240	name:N Formyl Methionyl Leucyl Phenylalanine	normalName:n formyl methionyl leucyl phenylalanine	normalWikiTitle:n formyl methionyl leucyl phenylalanine	predictedType:Chemical
+CANDIDATE	id:42205	inCount:0	outCount:1	links:	url:C042205	name:methionyl-leucyl-phenylalanine	normalName:methionyl-leucyl-phenylalanine	normalWikiTitle:methionyl-leucyl-phenylalanine	predictedType:Chemical
+CANDIDATE	id:23976	inCount:0	outCount:1	links:	url:C023976	name:N-formylmethionyl-methionyl-phenylalanine	normalName:n-formylmethionyl-methionyl-phenylalanine	normalWikiTitle:n-formylmethionyl-methionyl-phenylalanine	predictedType:Chemical
+CANDIDATE	id:17330	inCount:0	outCount:1	links:	url:C017330	name:N-formylmethionylphenylalanine	normalName:n-formylmethionylphenylalanine	normalWikiTitle:n-formylmethionylphenylalanine	predictedType:Chemical
+CANDIDATE	id:55978	inCount:0	outCount:1	links:	url:C055978	name:N-formyl-methionyl-leucyl-phenylalanyl-phenylalanine	normalName:n-formyl-methionyl-leucyl-phenylalanyl-phenylalanine	normalWikiTitle:n-formyl-methionyl-leucyl-phenylalanyl-phenylalanine	predictedType:Chemical
+CANDIDATE	id:46832	inCount:0	outCount:1	links:	url:C046832	name:t-butyloxycarbonyl-methionyl-leucyl-phenylalanine	normalName:t-butyloxycarbonyl-methionyl-leucyl-phenylalanine	normalWikiTitle:t-butyloxycarbonyl-methionyl-leucyl-phenylalanine	predictedType:Chemical
+CANDIDATE	id:40300	inCount:0	outCount:1	links:	url:C040300	name:N-formylmethionyl-cycloleucyl-phenylalanine	normalName:n-formylmethionyl-cycloleucyl-phenylalanine	normalWikiTitle:n-formylmethionyl-cycloleucyl-phenylalanine	predictedType:Chemical
+CANDIDATE	id:42932	inCount:0	outCount:1	links:	url:C042932	name:formylmethionyl-leucyl-phenylalanine methyl ester	normalName:formylmethionyl-leucyl-phenylalanine methyl ester	normalWikiTitle:formylmethionyl-leucyl-phenylalanine methyl ester	predictedType:Chemical
+CANDIDATE	id:24998	inCount:0	outCount:1	links:	url:C024998	name:N-formylnorleucyl-leucyl-4-phenylalanine	normalName:n-formylnorleucyl-leucyl-4-phenylalanine	normalWikiTitle:n-formylnorleucyl-leucyl-4-phenylalanine	predictedType:Chemical
+CANDIDATE	id:97577	inCount:0	outCount:1	links:	url:C097577	name:N-formyl-norleucyl-phenylalanine	normalName:n-formyl-norleucyl-phenylalanine	normalWikiTitle:n-formyl-norleucyl-phenylalanine	predictedType:Chemical
+CANDIDATE	id:105982	inCount:0	outCount:1	links:	url:C105982	name:formyl-methionyl-leucyl-N-methylphenylalanine methyl ester	normalName:formyl-methionyl-leucyl-n-methylphenylalanine methyl ester	normalWikiTitle:formyl-methionyl-leucyl-n-methylphenylalanine methyl ester	predictedType:Chemical
+CANDIDATE	id:9240	inCount:32	outCount:4	links:	url:D009240	name:N-Formyl-Methionyl-Leucyl-Phenylalanine	normalName:n-formyl-methionyl-leucyl-phenylalanine	normalWikiTitle:n-formyl-methionyl-leucyl-phenylalanine	predictedType:Chemical
+ENTITY	text:superoxide	normalName:superoxide	predictedType:chemical	q:true	qid:Q272	docId:9061311	origText:superoxide	url:D013481
+CANDIDATE	id:13481	inCount:1	outCount:1	links:	url:D013481	name:Superoxide	normalName:superoxide	normalWikiTitle:superoxide	predictedType:Chemical
+ENTITY	text:paracetamol	normalName:paracetamol	predictedType:chemical	q:true	qid:Q272	docId:9061311	origText:paracetamol	url:D000082
+CANDIDATE	id:82	inCount:89	outCount:1	links:10100	url:D000082	name:Paracetamol	normalName:paracetamol	normalWikiTitle:paracetamol	predictedType:Chemical
+ENTITY	text:hydrogen peroxide	normalName:hydrogen peroxide	predictedType:chemical	q:true	qid:Q272	docId:9061311	origText:hydrogen peroxide	url:D006861
+CANDIDATE	id:6861	inCount:26	outCount:1	links:	url:D006861	name:Hydrogen Peroxide	normalName:hydrogen peroxide	normalWikiTitle:hydrogen peroxide	predictedType:Chemical
+ENTITY	text:oxygen	normalName:oxygen	predictedType:chemical	q:true	qid:Q272	docId:9061311	origText:oxygen	url:D010100
+CANDIDATE	id:10100	inCount:11	outCount:2	links:82	url:D010100	name:Oxygen	normalName:oxygen	normalWikiTitle:oxygen	predictedType:Chemical

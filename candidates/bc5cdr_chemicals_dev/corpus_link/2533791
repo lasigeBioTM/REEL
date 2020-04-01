@@ -1,0 +1,19 @@
+ENTITY	text:hepatitis B surface antigen	normalName:hepatitis b surface antigen	predictedType:chemical	q:true	qid:Q300	docId:2533791	origText:hepatitis B surface antigen	url:D006514
+CANDIDATE	id:6514	inCount:4	outCount:1	links:6513	url:D006514	name:Hepatitis B Surface Antigen	normalName:hepatitis b surface antigen	normalWikiTitle:hepatitis b surface antigen	predictedType:Chemical
+ENTITY	text:HBeAg	normalName:hbeag	predictedType:chemical	q:true	qid:Q300	docId:2533791	origText:HBeAg	url:D006513
+CANDIDATE	id:6513	inCount:0	outCount:1	links:6514	url:D006513	name:HBeAg	normalName:hbeag	normalWikiTitle:hbeag	predictedType:Chemical
+ENTITY	text:HBsAg	normalName:hbsag	predictedType:chemical	q:true	qid:Q300	docId:2533791	origText:HBsAg	url:D006514
+CANDIDATE	id:6514	inCount:4	outCount:1	links:6513	url:D006514	name:HBsAg	normalName:hbsag	normalWikiTitle:hbsag	predictedType:Chemical
+ENTITY	text:hepatitis B vaccine	normalName:hepatitis b vaccine	predictedType:chemical	q:true	qid:Q300	docId:2533791	origText:hepatitis B vaccine	url:D017325
+CANDIDATE	id:17325	inCount:31	outCount:1	links:	url:D017325	name:Vaccine, Hepatitis B	normalName:vaccine, hepatitis b	normalWikiTitle:vaccine, hepatitis b	predictedType:Chemical
+ENTITY	text:hepatitis B e antigen	normalName:hepatitis b e antigen	predictedType:chemical	q:true	qid:Q300	docId:2533791	origText:hepatitis B e antigen	url:D006513
+CANDIDATE	id:6513	inCount:0	outCount:1	links:6514	url:D006513	name:Hepatitis B e Antigens	normalName:hepatitis b e antigens	normalWikiTitle:hepatitis b e antigens	predictedType:Chemical
+CANDIDATE	id:6511	inCount:3	outCount:1	links:	url:D006511	name:Hepatitis B Antigens	normalName:hepatitis b antigens	normalWikiTitle:hepatitis b antigens	predictedType:Chemical
+CANDIDATE	id:6512	inCount:1	outCount:1	links:	url:D006512	name:Hepatitis B Core Antigens	normalName:hepatitis b core antigens	normalWikiTitle:hepatitis b core antigens	predictedType:Chemical
+CANDIDATE	id:18936	inCount:3	outCount:1	links:	url:D018936	name:Hepatitis C Antigens	normalName:hepatitis c antigens	normalWikiTitle:hepatitis c antigens	predictedType:Chemical
+CANDIDATE	id:18963	inCount:5	outCount:1	links:	url:D018963	name:Hepatitis Antigens	normalName:hepatitis antigens	normalWikiTitle:hepatitis antigens	predictedType:Chemical
+CANDIDATE	id:35923	inCount:1	outCount:1	links:	url:D035923	name:Hepatitis delta Antigens	normalName:hepatitis delta antigens	normalWikiTitle:hepatitis delta antigens	predictedType:Chemical
+CANDIDATE	id:35921	inCount:0	outCount:1	links:	url:D035921	name:Hepatitis A Antigens	normalName:hepatitis a antigens	normalWikiTitle:hepatitis a antigens	predictedType:Chemical
+CANDIDATE	id:6514	inCount:4	outCount:1	links:6513	url:D006514	name:Hepatitis B Surface Antigens	normalName:hepatitis b surface antigens	normalWikiTitle:hepatitis b surface antigens	predictedType:Chemical
+CANDIDATE	id:56677	inCount:0	outCount:1	links:	url:C056677	name:HLA-E antigen	normalName:hla-e antigen	normalWikiTitle:hla-e antigen	predictedType:Chemical
+CANDIDATE	id:562477	inCount:0	outCount:1	links:	url:C562477	name:Halothane Hepatitis	normalName:halothane hepatitis	normalWikiTitle:halothane hepatitis	predictedType:Chemical

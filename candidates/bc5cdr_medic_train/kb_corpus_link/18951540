@@ -1,0 +1,4 @@
+ENTITY	text:Parkinson's disease	normalName:parkinson's disease	predictedType:disease	q:true	qid:Q443	docId:18951540	origText:Parkinson's disease	url:D010300
+CANDIDATE	id:10300	inCount:31	outCount:2	links:	url:D010300	name:Parkinson's Disease	normalName:parkinson's disease	normalWikiTitle:parkinson's disease	predictedType:Disease
+ENTITY	text:dystonia	normalName:dystonia	predictedType:disease	q:true	qid:Q443	docId:18951540	origText:dystonia	url:D004421
+CANDIDATE	id:4421	inCount:16	outCount:1	links:	url:D004421	name:Dystonia	normalName:dystonia	normalWikiTitle:dystonia	predictedType:Disease

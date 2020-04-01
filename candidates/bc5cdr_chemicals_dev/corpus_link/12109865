@@ -1,0 +1,6 @@
+ENTITY	text:LMWH	normalName:lmwh	predictedType:chemical	q:true	qid:Q83	docId:12109865	origText:LMWH	url:D006495
+CANDIDATE	id:6495	inCount:26	outCount:1	links:6493	url:D006495	name:LMWH	normalName:lmwh	normalWikiTitle:lmwh	predictedType:Chemical
+ENTITY	text:Unfractionated heparin	normalName:unfractionated heparin	predictedType:chemical	q:true	qid:Q83	docId:12109865	origText:Unfractionated heparin	url:D006493
+CANDIDATE	id:6493	inCount:75	outCount:1	links:6495	url:D006493	name:Heparin, Unfractionated	normalName:heparin, unfractionated	normalWikiTitle:heparin, unfractionated	predictedType:Chemical
+ENTITY	text:Low-molecular-weight heparin	normalName:low-molecular-weight heparin	predictedType:chemical	q:true	qid:Q83	docId:12109865	origText:Low-molecular-weight heparin	url:D006495
+CANDIDATE	id:6495	inCount:26	outCount:1	links:6493	url:D006495	name:Heparin, Low-Molecular-Weight	normalName:heparin, low-molecular-weight	normalWikiTitle:heparin, low-molecular-weight	predictedType:Chemical

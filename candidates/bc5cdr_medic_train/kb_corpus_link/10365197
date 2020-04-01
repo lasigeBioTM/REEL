@@ -1,0 +1,6 @@
+ENTITY	text:depressive disorders	normalName:depressive disorders	predictedType:disease	q:true	qid:Q274	docId:10365197	origText:depressive disorders	url:D003866
+CANDIDATE	id:3866	inCount:6	outCount:1	links:	url:D003866	name:Depressive Disorder	normalName:depressive disorder	normalWikiTitle:depressive disorder	predictedType:Disease
+ENTITY	text:mood disorder	normalName:mood disorder	predictedType:disease	q:true	qid:Q274	docId:10365197	origText:mood disorder	url:D019964
+CANDIDATE	id:19964	inCount:2	outCount:1	links:19964	url:D019964	name:Disorder, Mood	normalName:disorder, mood	normalWikiTitle:disorder, mood	predictedType:Disease
+ENTITY	text:mood disorders	normalName:mood disorders	predictedType:disease	q:true	qid:Q274	docId:10365197	origText:mood disorders	url:D019964
+CANDIDATE	id:19964	inCount:2	outCount:1	links:19964	url:D019964	name:Disorder, Mood	normalName:disorder, mood	normalWikiTitle:disorder, mood	predictedType:Disease

@@ -1,0 +1,10 @@
+ENTITY	text:heart failure	normalName:heart failure	predictedType:disease	q:true	qid:Q569	docId:3711722	origText:heart failure	url:D006333
+CANDIDATE	id:6333	inCount:5	outCount:1	links:	url:D006333	name:Heart Failure	normalName:heart failure	normalWikiTitle:heart failure	predictedType:Disease
+ENTITY	text:coronary artery disease	normalName:coronary artery disease	predictedType:disease	q:true	qid:Q569	docId:3711722	origText:coronary artery disease	url:D003324
+CANDIDATE	id:3324	inCount:4	outCount:2	links:	url:D003324	name:Coronary Artery Disease	normalName:coronary artery disease	normalWikiTitle:coronary artery disease	predictedType:Disease
+ENTITY	text:rheumatic disease	normalName:rheumatic disease	predictedType:disease	q:true	qid:Q569	docId:3711722	origText:rheumatic disease	url:D012216
+CANDIDATE	id:12216	inCount:9	outCount:2	links:	url:D012216	name:Disease, Rheumatic	normalName:disease, rheumatic	normalWikiTitle:disease, rheumatic	predictedType:Disease
+ENTITY	text:cardiomyopathy	normalName:cardiomyopathy	predictedType:disease	q:true	qid:Q569	docId:3711722	origText:cardiomyopathy	url:D009202
+CANDIDATE	id:9202	inCount:37	outCount:1	links:	url:D009202	name:Cardiomyopathy	normalName:cardiomyopathy	normalWikiTitle:cardiomyopathy	predictedType:Disease
+ENTITY	text:coronary disease	normalName:coronary disease	predictedType:disease	q:true	qid:Q569	docId:3711722	origText:coronary disease	url:D003327
+CANDIDATE	id:3327	inCount:7	outCount:1	links:	url:D003327	name:Coronary Disease	normalName:coronary disease	normalWikiTitle:coronary disease	predictedType:Disease

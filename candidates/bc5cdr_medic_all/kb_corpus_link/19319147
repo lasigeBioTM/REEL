@@ -1,0 +1,10 @@
+ENTITY	text:intracerebral hemorrhage	normalName:intracerebral hemorrhage	predictedType:disease	q:true	qid:Q26	docId:19319147	origText:intracerebral hemorrhage	url:D002543
+CANDIDATE	id:2543	inCount:3	outCount:1	links:20521;2543;6406;6470	url:D002543	name:Hemorrhage, Intracerebral	normalName:hemorrhage, intracerebral	normalWikiTitle:hemorrhage, intracerebral	predictedType:Disease
+ENTITY	text:hemorrhage	normalName:hemorrhage	predictedType:disease	q:true	qid:Q26	docId:19319147	origText:hemorrhage	url:D006470
+CANDIDATE	id:6470	inCount:31	outCount:1	links:6406;2543	url:D006470	name:Hemorrhage	normalName:hemorrhage	normalWikiTitle:hemorrhage	predictedType:Disease
+ENTITY	text:ICH	normalName:ich	predictedType:disease	q:true	qid:Q26	docId:19319147	origText:ICH	url:D002543
+CANDIDATE	id:2543	inCount:3	outCount:1	links:20521;2543;6406;6470	url:D002543	name:ICH	normalName:ich	normalWikiTitle:ich	predictedType:Disease
+ENTITY	text:stroke	normalName:stroke	predictedType:disease	q:true	qid:Q26	docId:19319147	origText:stroke	url:D020521
+CANDIDATE	id:20521	inCount:2	outCount:1	links:2543	url:D020521	name:Stroke	normalName:stroke	normalWikiTitle:stroke	predictedType:Disease
+ENTITY	text:hematomas	normalName:hematomas	predictedType:disease	q:true	qid:Q26	docId:19319147	origText:hematomas	url:D006406
+CANDIDATE	id:6406	inCount:3	outCount:1	links:2543;6470	url:D006406	name:Hematoma	normalName:hematoma	normalWikiTitle:hematoma	predictedType:Disease

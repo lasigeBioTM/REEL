@@ -1,0 +1,23 @@
+ENTITY	text:locomotor hyperactivity	normalName:locomotor hyperactivity	predictedType:disease	q:true	qid:Q1276	docId:17490864	origText:locomotor hyperactivity	url:D006948
+CANDIDATE	id:6948	inCount:1	outCount:1	links:12559	url:D006948	name:Hyperactivity, Motor	normalName:hyperactivity, motor	normalWikiTitle:hyperactivity, motor	predictedType:Disease
+CANDIDATE	id:20315	inCount:0	outCount:1	links:	url:D020315	name:Latex Hypersensitivity	normalName:latex hypersensitivity	normalWikiTitle:latex hypersensitivity	predictedType:Disease
+CANDIDATE	id:21184	inCount:0	outCount:1	links:	url:D021184	name:Nut Hypersensitivity	normalName:nut hypersensitivity	normalWikiTitle:nut hypersensitivity	predictedType:Disease
+CANDIDATE	id:12130	inCount:6	outCount:2	links:	url:D012130	name:Respiratory Hypersensitivity	normalName:respiratory hypersensitivity	normalWikiTitle:respiratory hypersensitivity	predictedType:Disease
+CANDIDATE	id:16269	inCount:0	outCount:1	links:	url:D016269	name:Milk Hypersensitivity	normalName:milk hypersensitivity	normalWikiTitle:milk hypersensitivity	predictedType:Disease
+CANDIDATE	id:21182	inCount:0	outCount:1	links:	url:D021182	name:Wheat Hypersensitivity	normalName:wheat hypersensitivity	normalWikiTitle:wheat hypersensitivity	predictedType:Disease
+CANDIDATE	id:21183	inCount:0	outCount:1	links:	url:D021183	name:Peanut Hypersensitivity	normalName:peanut hypersensitivity	normalWikiTitle:peanut hypersensitivity	predictedType:Disease
+CANDIDATE	id:6969	inCount:10	outCount:1	links:	url:D006969	name:Hypersensitivity, Immediate	normalName:hypersensitivity, immediate	normalWikiTitle:hypersensitivity, immediate	predictedType:Disease
+CANDIDATE	id:615217	inCount:0	outCount:3	links:	url:615217	name:ATAXIA-OCULOMOTOR APRAXIA 3	normalName:ataxia-oculomotor apraxia 3	normalWikiTitle:ataxia-oculomotor apraxia 3	predictedType:Disease
+CANDIDATE	id:616267	inCount:0	outCount:3	links:	url:616267	name:ATAXIA-OCULOMOTOR APRAXIA 4	normalName:ataxia-oculomotor apraxia 4	normalWikiTitle:ataxia-oculomotor apraxia 4	predictedType:Disease
+CANDIDATE	id:6967	inCount:9	outCount:1	links:	url:D006967	name:Hypersensitivity	normalName:hypersensitivity	normalWikiTitle:hypersensitivity	predictedType:Disease
+CANDIDATE	id:6948	inCount:1	outCount:1	links:12559	url:D006948	name:Motor Hyperactivity	normalName:motor hyperactivity	normalWikiTitle:motor hyperactivity	predictedType:Disease
+CANDIDATE	id:11595	inCount:1	outCount:2	links:	url:D011595	name:Hyperactivity, Psychomotor	normalName:hyperactivity, psychomotor	normalWikiTitle:hyperactivity, psychomotor	predictedType:Disease
+CANDIDATE	id:11595	inCount:1	outCount:2	links:	url:D011595	name:Psychomotor Hyperactivity	normalName:psychomotor hyperactivity	normalWikiTitle:psychomotor hyperactivity	predictedType:Disease
+CANDIDATE	id:13606	inCount:1	outCount:2	links:	url:D013606	name:Ataxia, Locomotor	normalName:ataxia, locomotor	normalWikiTitle:ataxia, locomotor	predictedType:Disease
+CANDIDATE	id:13606	inCount:1	outCount:2	links:	url:D013606	name:Locomotor Ataxia	normalName:locomotor ataxia	normalWikiTitle:locomotor ataxia	predictedType:Disease
+CANDIDATE	id:13606	inCount:1	outCount:2	links:	url:D013606	name:Ataxias, Locomotor	normalName:ataxias, locomotor	normalWikiTitle:ataxias, locomotor	predictedType:Disease
+CANDIDATE	id:13606	inCount:1	outCount:2	links:	url:D013606	name:Locomotor Ataxias	normalName:locomotor ataxias	normalWikiTitle:locomotor ataxias	predictedType:Disease
+CANDIDATE	id:15840	inCount:3	outCount:1	links:	url:D015840	name:Neuropathy, Oculomotor	normalName:neuropathy, oculomotor	normalWikiTitle:neuropathy, oculomotor	predictedType:Disease
+CANDIDATE	id:15840	inCount:3	outCount:1	links:	url:D015840	name:Oculomotor Neuropathy	normalName:oculomotor neuropathy	normalWikiTitle:oculomotor neuropathy	predictedType:Disease
+ENTITY	text:schizophrenia	normalName:schizophrenia	predictedType:disease	q:true	qid:Q1276	docId:17490864	origText:schizophrenia	url:D012559
+CANDIDATE	id:12559	inCount:4	outCount:1	links:6948	url:D012559	name:Schizophrenia	normalName:schizophrenia	normalWikiTitle:schizophrenia	predictedType:Disease

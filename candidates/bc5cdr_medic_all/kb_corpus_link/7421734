@@ -1,0 +1,8 @@
+ENTITY	text:Endometrial carcinoma	normalName:endometrial carcinoma	predictedType:disease	q:true	qid:Q1426	docId:7421734	origText:Endometrial carcinoma	url:D016889
+CANDIDATE	id:16889	inCount:2	outCount:1	links:16889	url:D016889	name:Carcinoma, Endometrial	normalName:carcinoma, endometrial	normalWikiTitle:carcinoma, endometrial	predictedType:Disease
+ENTITY	text:endometrial cancer	normalName:endometrial cancer	predictedType:disease	q:true	qid:Q1426	docId:7421734	origText:endometrial cancer	url:D016889
+CANDIDATE	id:16889	inCount:2	outCount:1	links:16889	url:D016889	name:Cancer, Endometrial	normalName:cancer, endometrial	normalWikiTitle:cancer, endometrial	predictedType:Disease
+ENTITY	text:Hodgkin disease	normalName:hodgkin disease	predictedType:disease	q:true	qid:Q1426	docId:7421734	origText:Hodgkin disease	url:D006689
+CANDIDATE	id:6689	inCount:2	outCount:1	links:	url:D006689	name:Hodgkin Disease	normalName:hodgkin disease	normalWikiTitle:hodgkin disease	predictedType:Disease
+ENTITY	text:cancer	normalName:cancer	predictedType:disease	q:true	qid:Q1426	docId:7421734	origText:cancer	url:D009369
+CANDIDATE	id:9369	inCount:18	outCount:1	links:	url:D009369	name:Cancer	normalName:cancer	normalWikiTitle:cancer	predictedType:Disease

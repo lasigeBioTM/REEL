@@ -1,0 +1,8 @@
+ENTITY	text:methylprednisolone	normalName:methylprednisolone	predictedType:chemical	q:true	qid:Q279	docId:7919560	origText:methylprednisolone	url:D008775
+CANDIDATE	id:8775	inCount:29	outCount:1	links:	url:D008775	name:Methylprednisolone	normalName:methylprednisolone	normalWikiTitle:methylprednisolone	predictedType:Chemical
+ENTITY	text:penicillins	normalName:penicillins	predictedType:chemical	q:true	qid:Q279	docId:7919560	origText:penicillins	url:D010406
+CANDIDATE	id:10406	inCount:59	outCount:1	links:	url:D010406	name:Penicillin	normalName:penicillin	normalWikiTitle:penicillin	predictedType:Chemical
+ENTITY	text:gentamicin	normalName:gentamicin	predictedType:chemical	q:true	qid:Q279	docId:7919560	origText:gentamicin	url:D005839
+CANDIDATE	id:5839	inCount:33	outCount:1	links:	url:D005839	name:Gentamicin	normalName:gentamicin	normalWikiTitle:gentamicin	predictedType:Chemical
+ENTITY	text:ampicillin	normalName:ampicillin	predictedType:chemical	q:true	qid:Q279	docId:7919560	origText:ampicillin	url:D000667
+CANDIDATE	id:667	inCount:26	outCount:1	links:	url:D000667	name:Ampicillin	normalName:ampicillin	normalWikiTitle:ampicillin	predictedType:Chemical

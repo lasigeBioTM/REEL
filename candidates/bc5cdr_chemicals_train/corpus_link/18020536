@@ -1,0 +1,8 @@
+ENTITY	text:oxazepam	normalName:oxazepam	predictedType:chemical	q:true	qid:Q361	docId:18020536	origText:oxazepam	url:D010076
+CANDIDATE	id:10076	inCount:7	outCount:1	links:	url:D010076	name:Oxazepam	normalName:oxazepam	normalWikiTitle:oxazepam	predictedType:Chemical
+ENTITY	text:benzodiazepines	normalName:benzodiazepines	predictedType:chemical	q:true	qid:Q361	docId:18020536	origText:benzodiazepines	url:D001569
+CANDIDATE	id:1569	inCount:260	outCount:1	links:	url:D001569	name:Benzodiazepine	normalName:benzodiazepine	normalWikiTitle:benzodiazepine	predictedType:Chemical
+ENTITY	text:temazepam	normalName:temazepam	predictedType:chemical	q:true	qid:Q361	docId:18020536	origText:temazepam	url:D013693
+CANDIDATE	id:13693	inCount:5	outCount:1	links:	url:D013693	name:Temazepam	normalName:temazepam	normalWikiTitle:temazepam	predictedType:Chemical
+ENTITY	text:zopiclone	normalName:zopiclone	predictedType:chemical	q:true	qid:Q361	docId:18020536	origText:zopiclone	url:C515050
+CANDIDATE	id:515050	inCount:0	outCount:2	links:	url:C515050	name:zopiclone	normalName:zopiclone	normalWikiTitle:zopiclone	predictedType:Chemical

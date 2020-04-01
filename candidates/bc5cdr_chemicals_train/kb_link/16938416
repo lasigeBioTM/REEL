@@ -1,0 +1,17 @@
+ENTITY	text:testosterone	normalName:testosterone	predictedType:chemical	q:true	qid:Q433	docId:16938416	origText:testosterone	url:D013739
+CANDIDATE	id:13739	inCount:97	outCount:2	links:	url:D013739	name:Testosterone	normalName:testosterone	normalWikiTitle:testosterone	predictedType:Chemical
+ENTITY	text:estradiol- and testosterone esters	normalName:estradiol- and testosterone esters	predictedType:chemical	q:true	qid:Q433	docId:16938416	origText:estradiol- and testosterone esters	url:C032109
+CANDIDATE	id:32109	inCount:0	outCount:2	links:	url:C032109	name:ethynodiol testosterone ester	normalName:ethynodiol testosterone ester	normalWikiTitle:ethynodiol testosterone ester	predictedType:Chemical
+CANDIDATE	id:13916	inCount:0	outCount:2	links:	url:C013916	name:estradiol valerate, testosterone enantate drug combination	normalName:estradiol valerate, testosterone enantate drug combination	normalWikiTitle:estradiol valerate, testosterone enantate drug combination	predictedType:Chemical
+CANDIDATE	id:45165	inCount:10	outCount:1	links:	url:D045165	name:Testosterone Congeners	normalName:testosterone congeners	normalWikiTitle:testosterone congeners	predictedType:Chemical
+CANDIDATE	id:20509	inCount:0	outCount:1	links:	url:C020509	name:testosterone 17 beta-carboxylic acid	normalName:testosterone 17 beta-carboxylic acid	normalWikiTitle:testosterone 17 beta-carboxylic acid	predictedType:Chemical
+CANDIDATE	id:40594	inCount:0	outCount:1	links:	url:C040594	name:testosterone acetate	normalName:testosterone acetate	normalWikiTitle:testosterone acetate	predictedType:Chemical
+CANDIDATE	id:10791	inCount:0	outCount:2	links:	url:C010791	name:testosterone mustard	normalName:testosterone mustard	normalWikiTitle:testosterone mustard	predictedType:Chemical
+CANDIDATE	id:20290	inCount:0	outCount:1	links:	url:C020290	name:dimeric testosterone	normalName:dimeric testosterone	normalWikiTitle:dimeric testosterone	predictedType:Chemical
+CANDIDATE	id:9556	inCount:0	outCount:1	links:	url:C009556	name:7-trifluoromethyltestosterone acetate	normalName:7-trifluoromethyltestosterone acetate	normalWikiTitle:7-trifluoromethyltestosterone acetate	predictedType:Chemical
+CANDIDATE	id:584347	inCount:0	outCount:2	links:	url:C584347	name:xestospongic acid methyl ester	normalName:xestospongic acid methyl ester	normalWikiTitle:xestospongic acid methyl ester	predictedType:Chemical
+CANDIDATE	id:41677	inCount:0	outCount:1	links:	url:C041677	name:testosterone decanoate	normalName:testosterone decanoate	normalWikiTitle:testosterone decanoate	predictedType:Chemical
+ENTITY	text:estrogen	normalName:estrogen	predictedType:chemical	q:true	qid:Q433	docId:16938416	origText:estrogen	url:D004967
+CANDIDATE	id:4967	inCount:1	outCount:1	links:	url:D004967	name:Estrogen	normalName:estrogen	normalWikiTitle:estrogen	predictedType:Chemical
+ENTITY	text:cholesterol	normalName:cholesterol	predictedType:chemical	q:true	qid:Q433	docId:16938416	origText:cholesterol	url:D002784
+CANDIDATE	id:2784	inCount:223	outCount:2	links:	url:D002784	name:Cholesterol	normalName:cholesterol	normalWikiTitle:cholesterol	predictedType:Chemical

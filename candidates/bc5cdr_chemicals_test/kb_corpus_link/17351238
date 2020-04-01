@@ -1,0 +1,24 @@
+ENTITY	text:oxygen	normalName:oxygen	predictedType:chemical	q:true	qid:Q416	docId:17351238	origText:oxygen	url:D010100
+CANDIDATE	id:10100	inCount:11	outCount:2	links:5996	url:D010100	name:Oxygen	normalName:oxygen	normalWikiTitle:oxygen	predictedType:Chemical
+ENTITY	text:glyceryl trinitrate	normalName:glyceryl trinitrate	predictedType:chemical	q:true	qid:Q416	docId:17351238	origText:glyceryl trinitrate	url:D005996
+CANDIDATE	id:5996	inCount:10	outCount:1	links:10100	url:D005996	name:Trinitrate, Glyceryl	normalName:trinitrate, glyceryl	normalWikiTitle:trinitrate, glyceryl	predictedType:Chemical
+ENTITY	text:atropine sulphate	normalName:atropine sulphate	predictedType:chemical	q:true	qid:Q416	docId:17351238	origText:atropine sulphate	url:D001285
+CANDIDATE	id:1285	inCount:16	outCount:1	links:	url:D001285	name:Atropine Sulfate	normalName:atropine sulfate	normalWikiTitle:atropine sulfate	predictedType:Chemical
+CANDIDATE	id:17296	inCount:0	outCount:1	links:	url:C017296	name:estrone sulfate	normalName:estrone sulfate	normalWikiTitle:estrone sulfate	predictedType:Chemical
+CANDIDATE	id:2076	inCount:6	outCount:1	links:	url:D002076	name:Butirosin Sulfate	normalName:butirosin sulfate	normalWikiTitle:butirosin sulfate	predictedType:Chemical
+CANDIDATE	id:28559	inCount:0	outCount:1	links:	url:C028559	name:bathocuproine sulfonate	normalName:bathocuproine sulfonate	normalWikiTitle:bathocuproine sulfonate	predictedType:Chemical
+CANDIDATE	id:26905	inCount:0	outCount:1	links:	url:C026905	name:androsterone sulfate	normalName:androsterone sulfate	normalWikiTitle:androsterone sulfate	predictedType:Chemical
+CANDIDATE	id:558473	inCount:0	outCount:1	links:	url:C558473	name:sulcardine sulfate	normalName:sulcardine sulfate	normalWikiTitle:sulcardine sulfate	predictedType:Chemical
+CANDIDATE	id:18201	inCount:0	outCount:1	links:	url:C018201	name:adrenaline sulfate	normalName:adrenaline sulfate	normalWikiTitle:adrenaline sulfate	predictedType:Chemical
+CANDIDATE	id:68801	inCount:0	outCount:1	links:	url:C068801	name:N-acetyldopamine-sulfate	normalName:n-acetyldopamine-sulfate	normalWikiTitle:n-acetyldopamine-sulfate	predictedType:Chemical
+CANDIDATE	id:37715	inCount:0	outCount:1	links:	url:C037715	name:aldosterone 21-sulfate	normalName:aldosterone 21-sulfate	normalWikiTitle:aldosterone 21-sulfate	predictedType:Chemical
+CANDIDATE	id:36040	inCount:0	outCount:1	links:	url:C036040	name:serine O-sulfate	normalName:serine o-sulfate	normalWikiTitle:serine o-sulfate	predictedType:Chemical
+CANDIDATE	id:466639	inCount:0	outCount:2	links:	url:C466639	name:catechin sulfate	normalName:catechin sulfate	normalWikiTitle:catechin sulfate	predictedType:Chemical
+CANDIDATE	id:1285	inCount:16	outCount:1	links:	url:D001285	name:Sulfate, Atropine	normalName:sulfate, atropine	normalWikiTitle:sulfate, atropine	predictedType:Chemical
+CANDIDATE	id:17296	inCount:0	outCount:1	links:	url:C017296	name:oestrone sulphate	normalName:oestrone sulphate	normalWikiTitle:oestrone sulphate	predictedType:Chemical
+CANDIDATE	id:2076	inCount:6	outCount:1	links:	url:D002076	name:Butirosin Sulphate	normalName:butirosin sulphate	normalWikiTitle:butirosin sulphate	predictedType:Chemical
+CANDIDATE	id:2076	inCount:6	outCount:1	links:	url:D002076	name:Sulphate, Butirosin	normalName:sulphate, butirosin	normalWikiTitle:sulphate, butirosin	predictedType:Chemical
+CANDIDATE	id:53014	inCount:0	outCount:1	links:	url:C053014	name:amprotropine phosphate	normalName:amprotropine phosphate	normalWikiTitle:amprotropine phosphate	predictedType:Chemical
+CANDIDATE	id:2738	inCount:26	outCount:1	links:	url:D002738	name:Sulphate, Chloroquine	normalName:sulphate, chloroquine	normalWikiTitle:sulphate, chloroquine	predictedType:Chemical
+CANDIDATE	id:2738	inCount:26	outCount:1	links:	url:D002738	name:Chloroquine Sulphate	normalName:chloroquine sulphate	normalWikiTitle:chloroquine sulphate	predictedType:Chemical
+CANDIDATE	id:1379	inCount:3	outCount:2	links:	url:D001379	name:Azathioprine Sulfate	normalName:azathioprine sulfate	normalWikiTitle:azathioprine sulfate	predictedType:Chemical

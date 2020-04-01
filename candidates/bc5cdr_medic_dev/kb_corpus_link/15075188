@@ -1,0 +1,10 @@
+ENTITY	text:proteinuria	normalName:proteinuria	predictedType:disease	q:true	qid:Q407	docId:15075188	origText:proteinuria	url:D011507
+CANDIDATE	id:11507	inCount:4	outCount:2	links:9404;1201;34141	url:D011507	name:Proteinuria	normalName:proteinuria	normalWikiTitle:proteinuria	predictedType:Disease
+ENTITY	text:ascites	normalName:ascites	predictedType:disease	q:true	qid:Q407	docId:15075188	origText:ascites	url:D001201
+CANDIDATE	id:1201	inCount:0	outCount:1	links:9404;11507;34141	url:D001201	name:Ascites	normalName:ascites	normalWikiTitle:ascites	predictedType:Disease
+ENTITY	text:nephrotic syndrome	normalName:nephrotic syndrome	predictedType:disease	q:true	qid:Q407	docId:15075188	origText:nephrotic syndrome	url:D009404
+CANDIDATE	id:9404	inCount:23	outCount:1	links:1201;11507;34141	url:D009404	name:Nephrotic Syndrome	normalName:nephrotic syndrome	normalWikiTitle:nephrotic syndrome	predictedType:Disease
+ENTITY	text:edema	normalName:edema	predictedType:disease	q:true	qid:Q407	docId:15075188	origText:edema	url:D004487
+CANDIDATE	id:4487	inCount:6	outCount:1	links:	url:D004487	name:Edema	normalName:edema	normalWikiTitle:edema	predictedType:Disease
+ENTITY	text:hypoalbuminemia	normalName:hypoalbuminemia	predictedType:disease	q:true	qid:Q407	docId:15075188	origText:hypoalbuminemia	url:D034141
+CANDIDATE	id:34141	inCount:1	outCount:1	links:9404;1201;11507	url:D034141	name:Hypoalbuminemia	normalName:hypoalbuminemia	normalWikiTitle:hypoalbuminemia	predictedType:Disease

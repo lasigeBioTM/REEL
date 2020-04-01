@@ -1,0 +1,6 @@
+ENTITY	text:dilated cardiomyopathy	normalName:dilated cardiomyopathy	predictedType:disease	q:true	qid:Q33	docId:17484470	origText:dilated cardiomyopathy	url:D002311
+CANDIDATE	id:2311	inCount:50	outCount:2	links:	url:D002311	name:Cardiomyopathy, Dilated	normalName:cardiomyopathy, dilated	normalWikiTitle:cardiomyopathy, dilated	predictedType:Disease
+ENTITY	text:mitral regurgitation	normalName:mitral regurgitation	predictedType:disease	q:true	qid:Q33	docId:17484470	origText:mitral regurgitation	url:D008944
+CANDIDATE	id:8944	inCount:1	outCount:1	links:	url:D008944	name:Mitral Regurgitation	normalName:mitral regurgitation	normalWikiTitle:mitral regurgitation	predictedType:Disease
+ENTITY	text:heart failure	normalName:heart failure	predictedType:disease	q:true	qid:Q33	docId:17484470	origText:heart failure	url:D006333
+CANDIDATE	id:6333	inCount:5	outCount:1	links:	url:D006333	name:Heart Failure	normalName:heart failure	normalWikiTitle:heart failure	predictedType:Disease

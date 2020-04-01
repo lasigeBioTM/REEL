@@ -1,0 +1,6 @@
+ENTITY	text:serotonin	normalName:serotonin	predictedType:chemical	q:true	qid:Q305	docId:9323412	origText:serotonin	url:D012701
+CANDIDATE	id:12701	inCount:48	outCount:2	links:	url:D012701	name:Serotonin	normalName:serotonin	normalWikiTitle:serotonin	predictedType:Chemical
+ENTITY	text:propofol	normalName:propofol	predictedType:chemical	q:true	qid:Q305	docId:9323412	origText:propofol	url:D015742
+CANDIDATE	id:15742	inCount:12	outCount:1	links:	url:D015742	name:Propofol	normalName:propofol	normalWikiTitle:propofol	predictedType:Chemical
+ENTITY	text:ondansetron	normalName:ondansetron	predictedType:chemical	q:true	qid:Q305	docId:9323412	origText:ondansetron	url:D017294
+CANDIDATE	id:17294	inCount:2	outCount:2	links:	url:D017294	name:Ondansetron	normalName:ondansetron	normalWikiTitle:ondansetron	predictedType:Chemical

@@ -1,0 +1,6 @@
+ENTITY	text:dopamine	normalName:dopamine	predictedType:chemical	q:true	qid:Q1290	docId:11890511	origText:dopamine	url:D004298
+CANDIDATE	id:4298	inCount:90	outCount:2	links:	url:D004298	name:Dopamine	normalName:dopamine	normalWikiTitle:dopamine	predictedType:Chemical
+ENTITY	text:6-hydroxydopamine	normalName:6-hydroxydopamine	predictedType:chemical	q:true	qid:Q1290	docId:11890511	origText:6-hydroxydopamine	url:D016627
+CANDIDATE	id:16627	inCount:0	outCount:1	links:	url:D016627	name:6-Hydroxydopamine	normalName:6-hydroxydopamine	normalWikiTitle:6-hydroxydopamine	predictedType:Chemical
+ENTITY	text:apomorphine	normalName:apomorphine	predictedType:chemical	q:true	qid:Q1290	docId:11890511	origText:apomorphine	url:D001058
+CANDIDATE	id:1058	inCount:29	outCount:1	links:	url:D001058	name:Apomorphine	normalName:apomorphine	normalWikiTitle:apomorphine	predictedType:Chemical

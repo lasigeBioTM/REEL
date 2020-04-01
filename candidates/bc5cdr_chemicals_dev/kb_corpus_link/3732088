@@ -1,0 +1,10 @@
+ENTITY	text:norepinephrine	normalName:norepinephrine	predictedType:chemical	q:true	qid:Q470	docId:3732088	origText:norepinephrine	url:D009638
+CANDIDATE	id:9638	inCount:31	outCount:4	links:9638	url:D009638	name:Norepinephrine	normalName:norepinephrine	normalWikiTitle:norepinephrine	predictedType:Chemical
+ENTITY	text:potassium	normalName:potassium	predictedType:chemical	q:true	qid:Q470	docId:3732088	origText:potassium	url:D011188
+CANDIDATE	id:11188	inCount:10	outCount:2	links:	url:D011188	name:Potassium	normalName:potassium	normalWikiTitle:potassium	predictedType:Chemical
+ENTITY	text:noradrenaline	normalName:noradrenaline	predictedType:chemical	q:true	qid:Q470	docId:3732088	origText:noradrenaline	url:D009638
+CANDIDATE	id:9638	inCount:31	outCount:4	links:9638	url:D009638	name:Noradrenaline	normalName:noradrenaline	normalWikiTitle:noradrenaline	predictedType:Chemical
+ENTITY	text:amiloride	normalName:amiloride	predictedType:chemical	q:true	qid:Q470	docId:3732088	origText:amiloride	url:D000584
+CANDIDATE	id:584	inCount:48	outCount:1	links:	url:D000584	name:Amiloride	normalName:amiloride	normalWikiTitle:amiloride	predictedType:Chemical
+ENTITY	text:chlorthalidone	normalName:chlorthalidone	predictedType:chemical	q:true	qid:Q470	docId:3732088	origText:chlorthalidone	url:D002752
+CANDIDATE	id:2752	inCount:7	outCount:3	links:	url:D002752	name:Chlorthalidone	normalName:chlorthalidone	normalWikiTitle:chlorthalidone	predictedType:Chemical

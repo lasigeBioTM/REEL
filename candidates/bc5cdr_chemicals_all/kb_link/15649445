@@ -1,0 +1,6 @@
+ENTITY	text:haloperidol	normalName:haloperidol	predictedType:chemical	q:true	qid:Q687	docId:15649445	origText:haloperidol	url:D006220
+CANDIDATE	id:6220	inCount:24	outCount:1	links:	url:D006220	name:Haloperidol	normalName:haloperidol	normalWikiTitle:haloperidol	predictedType:Chemical
+ENTITY	text:reserpine	normalName:reserpine	predictedType:chemical	q:true	qid:Q687	docId:15649445	origText:reserpine	url:D012110
+CANDIDATE	id:12110	inCount:25	outCount:1	links:	url:D012110	name:Reserpine	normalName:reserpine	normalWikiTitle:reserpine	predictedType:Chemical
+ENTITY	text:glutamate	normalName:glutamate	predictedType:chemical	q:true	qid:Q687	docId:15649445	origText:glutamate	url:D018698
+CANDIDATE	id:18698	inCount:53	outCount:2	links:	url:D018698	name:Glutamate	normalName:glutamate	normalWikiTitle:glutamate	predictedType:Chemical

@@ -1,0 +1,22 @@
+ENTITY	text:dopamine	normalName:dopamine	predictedType:chemical	q:true	qid:Q347	docId:19419794	origText:dopamine	url:D004298
+CANDIDATE	id:4298	inCount:90	outCount:2	links:	url:D004298	name:Dopamine	normalName:dopamine	normalWikiTitle:dopamine	predictedType:Chemical
+ENTITY	text:L-DOPA+benserazide	normalName:l-dopa+benserazide	predictedType:chemical	q:true	qid:Q347	docId:19419794	origText:L-DOPA+benserazide	url:C005177
+CANDIDATE	id:5177	inCount:0	outCount:2	links:	url:C005177	name:benserazide - levodopa	normalName:benserazide - levodopa	normalWikiTitle:benserazide - levodopa	predictedType:Chemical
+CANDIDATE	id:1545	inCount:1	outCount:1	links:	url:D001545	name:Benserazide	normalName:benserazide	normalWikiTitle:benserazide	predictedType:Chemical
+CANDIDATE	id:1544	inCount:5	outCount:1	links:	url:D001544	name:Benperidol	normalName:benperidol	normalWikiTitle:benperidol	predictedType:Chemical
+CANDIDATE	id:13838	inCount:0	outCount:1	links:	url:C013838	name:benzidol	normalName:benzidol	normalWikiTitle:benzidol	predictedType:Chemical
+CANDIDATE	id:52987	inCount:0	outCount:1	links:	url:C052987	name:O-benzoylserine	normalName:o-benzoylserine	normalWikiTitle:o-benzoylserine	predictedType:Chemical
+CANDIDATE	id:85520	inCount:0	outCount:1	links:	url:C085520	name:bistramide D	normalName:bistramide d	normalWikiTitle:bistramide d	predictedType:Chemical
+CANDIDATE	id:493024	inCount:0	outCount:2	links:	url:C493024	name:bidenoside D	normalName:bidenoside d	normalWikiTitle:bidenoside d	predictedType:Chemical
+CANDIDATE	id:20159	inCount:0	outCount:1	links:	url:C020159	name:benzodepa	normalName:benzodepa	normalWikiTitle:benzodepa	predictedType:Chemical
+CANDIDATE	id:39954	inCount:0	outCount:1	links:	url:C039954	name:benzidine orange	normalName:benzidine orange	normalWikiTitle:benzidine orange	predictedType:Chemical
+CANDIDATE	id:504839	inCount:0	outCount:2	links:	url:C504839	name:ginsenoside-R(OA)	normalName:ginsenoside-r(oa)	normalWikiTitle:ginsenoside-r(oa)	predictedType:Chemical
+CANDIDATE	id:5177	inCount:0	outCount:2	links:	url:C005177	name:benserazide, levodopa drug combination	normalName:benserazide, levodopa drug combination	normalWikiTitle:benserazide, levodopa drug combination	predictedType:Chemical
+ENTITY	text:proenkephalin	normalName:proenkephalin	predictedType:chemical	q:true	qid:Q347	docId:19419794	origText:proenkephalin	url:C029992
+CANDIDATE	id:29992	inCount:0	outCount:1	links:	url:C029992	name:proenkephalin	normalName:proenkephalin	normalWikiTitle:proenkephalin	predictedType:Chemical
+ENTITY	text:6-OHDA	normalName:6-ohda	predictedType:chemical	q:true	qid:Q347	docId:19419794	origText:6-OHDA	url:D016627
+CANDIDATE	id:16627	inCount:0	outCount:1	links:	url:D016627	name:6-OHDA	normalName:6-ohda	normalWikiTitle:6-ohda	predictedType:Chemical
+ENTITY	text:L-DOPA	normalName:l-dopa	predictedType:chemical	q:true	qid:Q347	docId:19419794	origText:L-DOPA	url:D007980
+CANDIDATE	id:7980	inCount:32	outCount:1	links:	url:D007980	name:L-Dopa	normalName:l-dopa	normalWikiTitle:l-dopa	predictedType:Chemical
+ENTITY	text:6-hydroxydopamine	normalName:6-hydroxydopamine	predictedType:chemical	q:true	qid:Q347	docId:19419794	origText:6-hydroxydopamine	url:D016627
+CANDIDATE	id:16627	inCount:0	outCount:1	links:	url:D016627	name:6-Hydroxydopamine	normalName:6-hydroxydopamine	normalWikiTitle:6-hydroxydopamine	predictedType:Chemical

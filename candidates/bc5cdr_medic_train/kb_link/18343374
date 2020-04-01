@@ -1,0 +1,49 @@
+ENTITY	text:blurred vision	normalName:blurred vision	predictedType:disease	q:true	qid:Q27	docId:18343374	origText:blurred vision	url:D014786
+CANDIDATE	id:14786	inCount:19	outCount:2	links:14786	url:D014786	name:Vision Disorders	normalName:vision disorders	normalWikiTitle:vision disorders	predictedType:Disease
+CANDIDATE	id:15354	inCount:0	outCount:1	links:	url:D015354	name:Vision, Low	normalName:vision, low	normalWikiTitle:vision, low	predictedType:Disease
+CANDIDATE	id:3117	inCount:12	outCount:2	links:	url:D003117	name:Color Vision Defects	normalName:color vision defects	normalWikiTitle:color vision defects	predictedType:Disease
+CANDIDATE	id:11004	inCount:0	outCount:1	links:	url:D011004	name:Plummer-Vinson Syndrome	normalName:plummer-vinson syndrome	normalWikiTitle:plummer-vinson syndrome	predictedType:Disease
+CANDIDATE	id:18329	inCount:2	outCount:1	links:	url:D018329	name:Nevus, Blue	normalName:nevus, blue	normalWikiTitle:nevus, blue	predictedType:Disease
+CANDIDATE	id:7855	inCount:1	outCount:1	links:	url:D007855	name:Lead Poisoning	normalName:lead poisoning	normalWikiTitle:lead poisoning	predictedType:Disease
+CANDIDATE	id:5458	inCount:0	outCount:1	links:	url:D005458	name:Fluoride Poisoning	normalName:fluoride poisoning	normalWikiTitle:fluoride poisoning	predictedType:Disease
+CANDIDATE	id:1899	inCount:2	outCount:2	links:	url:D001899	name:Borrelia Infections	normalName:borrelia infections	normalWikiTitle:borrelia infections	predictedType:Disease
+CANDIDATE	id:565061	inCount:0	outCount:1	links:	url:C565061	name:EDS VIIB	normalName:eds viib	normalWikiTitle:eds viib	predictedType:Disease
+CANDIDATE	id:44342	inCount:5	outCount:1	links:	url:D044342	name:Malnutrition	normalName:malnutrition	normalWikiTitle:malnutrition	predictedType:Disease
+CANDIDATE	id:4172	inCount:0	outCount:1	links:	url:D004172	name:Double Vision	normalName:double vision	normalWikiTitle:double vision	predictedType:Disease
+CANDIDATE	id:4172	inCount:0	outCount:1	links:	url:D004172	name:Vision, Double	normalName:vision, double	normalWikiTitle:vision, double	predictedType:Disease
+CANDIDATE	id:15354	inCount:0	outCount:1	links:	url:D015354	name:Vision, Reduced	normalName:vision, reduced	normalWikiTitle:vision, reduced	predictedType:Disease
+CANDIDATE	id:15354	inCount:0	outCount:1	links:	url:D015354	name:Reduced Vision	normalName:reduced vision	normalWikiTitle:reduced vision	predictedType:Disease
+ENTITY	text:thromboembolic	normalName:thromboembolic	predictedType:disease	q:true	qid:Q27	docId:18343374	origText:thromboembolic	url:D013923
+CANDIDATE	id:13923	inCount:3	outCount:1	links:	url:D013923	name:Thromboembolism	normalName:thromboembolism	normalWikiTitle:thromboembolism	predictedType:Disease
+CANDIDATE	id:54556	inCount:0	outCount:1	links:	url:D054556	name:Venous Thromboembolism	normalName:venous thromboembolism	normalWikiTitle:venous thromboembolism	predictedType:Disease
+CANDIDATE	id:13927	inCount:4	outCount:1	links:	url:D013927	name:Thrombosis	normalName:thrombosis	normalWikiTitle:thrombosis	predictedType:Disease
+CANDIDATE	id:13924	inCount:1	outCount:2	links:	url:D013924	name:Thrombophlebitis	normalName:thrombophlebitis	normalWikiTitle:thrombophlebitis	predictedType:Disease
+CANDIDATE	id:19851	inCount:16	outCount:1	links:	url:D019851	name:Thrombophilia	normalName:thrombophilia	normalWikiTitle:thrombophilia	predictedType:Disease
+CANDIDATE	id:13922	inCount:4	outCount:2	links:	url:D013922	name:Thrombocytosis	normalName:thrombocytosis	normalWikiTitle:thrombocytosis	predictedType:Disease
+CANDIDATE	id:13921	inCount:42	outCount:1	links:	url:D013921	name:Thrombocytopenia	normalName:thrombocytopenia	normalWikiTitle:thrombocytopenia	predictedType:Disease
+CANDIDATE	id:20246	inCount:5	outCount:1	links:	url:D020246	name:Venous Thrombosis	normalName:venous thrombosis	normalWikiTitle:venous thrombosis	predictedType:Disease
+CANDIDATE	id:4480	inCount:21	outCount:1	links:	url:D004480	name:Ectromelia	normalName:ectromelia	normalWikiTitle:ectromelia	predictedType:Disease
+CANDIDATE	id:13915	inCount:3	outCount:3	links:	url:D013915	name:Thrombasthenia	normalName:thrombasthenia	normalWikiTitle:thrombasthenia	predictedType:Disease
+ENTITY	text:visual disturbance	normalName:visual disturbance	predictedType:disease	q:true	qid:Q27	docId:18343374	origText:visual disturbance	url:D014786
+CANDIDATE	id:14786	inCount:19	outCount:2	links:14786	url:D014786	name:Disorders, Visual	normalName:disorders, visual	normalWikiTitle:disorders, visual	predictedType:Disease
+CANDIDATE	id:8599	inCount:6	outCount:1	links:	url:D008599	name:Menstruation Disturbances	normalName:menstruation disturbances	normalWikiTitle:menstruation disturbances	predictedType:Disease
+CANDIDATE	id:14624	inCount:2	outCount:2	links:	url:D014624	name:Vaginal Fistula	normalName:vaginal fistula	normalWikiTitle:vaginal fistula	predictedType:Disease
+CANDIDATE	id:14623	inCount:7	outCount:1	links:	url:D014623	name:Vaginal Diseases	normalName:vaginal diseases	normalWikiTitle:vaginal diseases	predictedType:Disease
+CANDIDATE	id:16157	inCount:2	outCount:3	links:	url:D016157	name:Vascular Fistula	normalName:vascular fistula	normalWikiTitle:vascular fistula	predictedType:Disease
+CANDIDATE	id:14652	inCount:52	outCount:1	links:	url:D014652	name:Vascular Diseases	normalName:vascular diseases	normalWikiTitle:vascular diseases	predictedType:Disease
+CANDIDATE	id:14133	inCount:8	outCount:1	links:	url:D014133	name:Tracheal Diseases	normalName:tracheal diseases	normalWikiTitle:tracheal diseases	predictedType:Disease
+CANDIDATE	id:19522	inCount:1	outCount:1	links:	url:D019522	name:Vaginal Discharge	normalName:vaginal discharge	normalWikiTitle:vaginal discharge	predictedType:Disease
+CANDIDATE	id:14603	inCount:4	outCount:1	links:	url:D014603	name:Uveal Diseases	normalName:uveal diseases	normalWikiTitle:uveal diseases	predictedType:Disease
+CANDIDATE	id:7077	inCount:2	outCount:1	links:	url:D007077	name:Ileal Diseases	normalName:ileal diseases	normalWikiTitle:ileal diseases	predictedType:Disease
+CANDIDATE	id:14777	inCount:20	outCount:1	links:	url:D014777	name:Virus Diseases	normalName:virus diseases	normalWikiTitle:virus diseases	predictedType:Disease
+CANDIDATE	id:14832	inCount:4	outCount:2	links:	url:D014832	name:Voice Disturbance	normalName:voice disturbance	normalWikiTitle:voice disturbance	predictedType:Disease
+CANDIDATE	id:14832	inCount:4	outCount:2	links:	url:D014832	name:Disturbance, Voice	normalName:disturbance, voice	normalWikiTitle:disturbance, voice	predictedType:Disease
+CANDIDATE	id:14832	inCount:4	outCount:2	links:	url:D014832	name:Disturbances, Voice	normalName:disturbances, voice	normalWikiTitle:disturbances, voice	predictedType:Disease
+CANDIDATE	id:14832	inCount:4	outCount:2	links:	url:D014832	name:Voice Disturbances	normalName:voice disturbances	normalWikiTitle:voice disturbances	predictedType:Disease
+CANDIDATE	id:14786	inCount:19	outCount:2	links:14786	url:D014786	name:Disorder, Visual	normalName:disorder, visual	normalWikiTitle:disorder, visual	predictedType:Disease
+CANDIDATE	id:14786	inCount:19	outCount:2	links:14786	url:D014786	name:Visual Disorder	normalName:visual disorder	normalWikiTitle:visual disorder	predictedType:Disease
+CANDIDATE	id:8599	inCount:6	outCount:1	links:	url:D008599	name:Menstruation Disturbance	normalName:menstruation disturbance	normalWikiTitle:menstruation disturbance	predictedType:Disease
+CANDIDATE	id:8599	inCount:6	outCount:1	links:	url:D008599	name:Disturbance, Menstruation	normalName:disturbance, menstruation	normalWikiTitle:disturbance, menstruation	predictedType:Disease
+CANDIDATE	id:14786	inCount:19	outCount:2	links:14786	url:D014786	name:Visual Disorders	normalName:visual disorders	normalWikiTitle:visual disorders	predictedType:Disease
+ENTITY	text:retinal vein occlusion	normalName:retinal vein occlusion	predictedType:disease	q:true	qid:Q27	docId:18343374	origText:retinal vein occlusion	url:D012170
+CANDIDATE	id:12170	inCount:0	outCount:3	links:	url:D012170	name:Retinal Vein Occlusion	normalName:retinal vein occlusion	normalWikiTitle:retinal vein occlusion	predictedType:Disease

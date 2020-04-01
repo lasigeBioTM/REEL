@@ -1,0 +1,17 @@
+ENTITY	text:hypotension	normalName:hypotension	predictedType:disease	q:true	qid:Q118	docId:3341566	origText:hypotension	url:D007022
+CANDIDATE	id:7022	inCount:3	outCount:1	links:7022	url:D007022	name:Hypotension	normalName:hypotension	normalWikiTitle:hypotension	predictedType:Disease
+ENTITY	text:hypovolemia	normalName:hypovolemia	predictedType:disease	q:true	qid:Q118	docId:3341566	origText:hypovolemia	url:D020896
+CANDIDATE	id:20896	inCount:0	outCount:1	links:	url:D020896	name:Hypovolemia	normalName:hypovolemia	normalWikiTitle:hypovolemia	predictedType:Disease
+ENTITY	text:hypotensive	normalName:hypotensive	predictedType:disease	q:true	qid:Q118	docId:3341566	origText:hypotensive	url:D007022
+CANDIDATE	id:7022	inCount:3	outCount:1	links:7022	url:D007022	name:Hypotension	normalName:hypotension	normalWikiTitle:hypotension	predictedType:Disease
+CANDIDATE	id:6973	inCount:18	outCount:1	links:	url:D006973	name:Hypertension	normalName:hypertension	normalWikiTitle:hypertension	predictedType:Disease
+CANDIDATE	id:7035	inCount:2	outCount:1	links:	url:D007035	name:Hypothermia	normalName:hypothermia	normalWikiTitle:hypothermia	predictedType:Disease
+CANDIDATE	id:6987	inCount:1	outCount:1	links:	url:D006987	name:Hypesthesia	normalName:hypesthesia	normalWikiTitle:hypesthesia	predictedType:Disease
+CANDIDATE	id:18476	inCount:1	outCount:1	links:	url:D018476	name:Hypokinesia	normalName:hypokinesia	normalWikiTitle:hypokinesia	predictedType:Disease
+CANDIDATE	id:7019	inCount:1	outCount:1	links:	url:D007019	name:Hypoproteinemia	normalName:hypoproteinemia	normalWikiTitle:hypoproteinemia	predictedType:Disease
+CANDIDATE	id:15814	inCount:0	outCount:1	links:	url:D015814	name:Ocular Hypotension	normalName:ocular hypotension	normalWikiTitle:ocular hypotension	predictedType:Disease
+CANDIDATE	id:58246	inCount:0	outCount:1	links:	url:D058246	name:Prehypertension	normalName:prehypertension	normalWikiTitle:prehypertension	predictedType:Disease
+CANDIDATE	id:6977	inCount:3	outCount:2	links:	url:D006977	name:Hypertension, Renal	normalName:hypertension, renal	normalWikiTitle:hypertension, renal	predictedType:Disease
+CANDIDATE	id:6948	inCount:1	outCount:1	links:	url:D006948	name:Hyperkinesis	normalName:hyperkinesis	normalWikiTitle:hyperkinesis	predictedType:Disease
+ENTITY	text:hemorrhage	normalName:hemorrhage	predictedType:disease	q:true	qid:Q118	docId:3341566	origText:hemorrhage	url:D006470
+CANDIDATE	id:6470	inCount:31	outCount:1	links:	url:D006470	name:Hemorrhage	normalName:hemorrhage	normalWikiTitle:hemorrhage	predictedType:Disease

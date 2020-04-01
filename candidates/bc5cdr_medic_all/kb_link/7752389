@@ -1,0 +1,16 @@
+ENTITY	text:bladder hyperactivity	normalName:bladder hyperactivity	predictedType:disease	q:true	qid:Q329	docId:7752389	origText:bladder hyperactivity	url:D053201
+CANDIDATE	id:53201	inCount:0	outCount:2	links:	url:D053201	name:Bladder, Overactive	normalName:bladder, overactive	normalWikiTitle:bladder, overactive	predictedType:Disease
+CANDIDATE	id:53201	inCount:0	outCount:2	links:	url:D053201	name:Urinary Bladder, Overactive	normalName:urinary bladder, overactive	normalWikiTitle:urinary bladder, overactive	predictedType:Disease
+CANDIDATE	id:77295	inCount:0	outCount:2	links:	url:D000077295	name:Urinary Bladder, Underactive	normalName:urinary bladder, underactive	normalWikiTitle:urinary bladder, underactive	predictedType:Disease
+CANDIDATE	id:16535	inCount:0	outCount:1	links:	url:D016535	name:Bronchial Hyperreactivity	normalName:bronchial hyperreactivity	normalWikiTitle:bronchial hyperreactivity	predictedType:Disease
+CANDIDATE	id:6968	inCount:2	outCount:1	links:	url:D006968	name:Hypersensitivity, Delayed	normalName:hypersensitivity, delayed	normalWikiTitle:hypersensitivity, delayed	predictedType:Disease
+CANDIDATE	id:569627	inCount:0	outCount:1	links:	url:C569627	name:Cold Hypersensitivity	normalName:cold hypersensitivity	normalWikiTitle:cold hypersensitivity	predictedType:Disease
+CANDIDATE	id:4342	inCount:3	outCount:2	links:	url:D004342	name:Drug Hypersensitivity	normalName:drug hypersensitivity	normalWikiTitle:drug hypersensitivity	predictedType:Disease
+CANDIDATE	id:21181	inCount:0	outCount:1	links:	url:D021181	name:Egg Hypersensitivity	normalName:egg hypersensitivity	normalWikiTitle:egg hypersensitivity	predictedType:Disease
+CANDIDATE	id:5512	inCount:5	outCount:1	links:	url:D005512	name:Food Hypersensitivity	normalName:food hypersensitivity	normalWikiTitle:food hypersensitivity	predictedType:Disease
+CANDIDATE	id:1744	inCount:0	outCount:2	links:	url:D001744	name:Urinary Bladder Calculi	normalName:urinary bladder calculi	normalWikiTitle:urinary bladder calculi	predictedType:Disease
+CANDIDATE	id:562406	inCount:0	outCount:1	links:	url:C562406	name:Bladder Diverticulum	normalName:bladder diverticulum	normalWikiTitle:bladder diverticulum	predictedType:Disease
+CANDIDATE	id:53201	inCount:0	outCount:2	links:	url:D053201	name:Overactive Bladder	normalName:overactive bladder	normalWikiTitle:overactive bladder	predictedType:Disease
+CANDIDATE	id:77295	inCount:0	outCount:2	links:	url:D000077295	name:Bladder, Underactive	normalName:bladder, underactive	normalWikiTitle:bladder, underactive	predictedType:Disease
+CANDIDATE	id:77295	inCount:0	outCount:2	links:	url:D000077295	name:Underactive Bladder	normalName:underactive bladder	normalWikiTitle:underactive bladder	predictedType:Disease
+CANDIDATE	id:77295	inCount:0	outCount:2	links:	url:D000077295	name:Underactive Bladders	normalName:underactive bladders	normalWikiTitle:underactive bladders	predictedType:Disease

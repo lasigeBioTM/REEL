@@ -1,0 +1,21 @@
+ENTITY	text:tubulointerstitial inflammation	normalName:tubulointerstitial inflammation	predictedType:disease	q:true	qid:Q244	docId:11208990	origText:tubulointerstitial inflammation	url:D009395
+CANDIDATE	id:9395	inCount:8	outCount:1	links:	url:D009395	name:Tubulointerstitial Nephritides	normalName:tubulointerstitial nephritides	normalWikiTitle:tubulointerstitial nephritides	predictedType:Disease
+CANDIDATE	id:564356	inCount:0	outCount:1	links:	url:C564356	name:Acute Tubulointerstitial Nephritis	normalName:acute tubulointerstitial nephritis	normalWikiTitle:acute tubulointerstitial nephritis	predictedType:Disease
+CANDIDATE	id:564016	inCount:0	outCount:1	links:	url:C564016	name:Nephropathy, Chronic Tubulointerstitial	normalName:nephropathy, chronic tubulointerstitial	normalWikiTitle:nephropathy, chronic tubulointerstitial	predictedType:Disease
+CANDIDATE	id:20078	inCount:0	outCount:2	links:	url:D020078	name:Neurogenic Inflammation	normalName:neurogenic inflammation	normalWikiTitle:neurogenic inflammation	predictedType:Disease
+CANDIDATE	id:18856	inCount:0	outCount:1	links:	url:D018856	name:Cystitis, Interstitial	normalName:cystitis, interstitial	normalWikiTitle:cystitis, interstitial	predictedType:Disease
+CANDIDATE	id:536922	inCount:0	outCount:2	links:	url:C536922	name:Tubulointerstitial nephritis and uveitis	normalName:tubulointerstitial nephritis and uveitis	normalWikiTitle:tubulointerstitial nephritis and uveitis	predictedType:Disease
+CANDIDATE	id:15012	inCount:0	outCount:1	links:	url:D015012	name:Yersinia pseudotuberculosis Infections	normalName:yersinia pseudotuberculosis infections	normalWikiTitle:yersinia pseudotuberculosis infections	predictedType:Disease
+CANDIDATE	id:531766	inCount:0	outCount:1	links:	url:C531766	name:Inflammation of the whole uveal tract	normalName:inflammation of the whole uveal tract	normalWikiTitle:inflammation of the whole uveal tract	predictedType:Disease
+CANDIDATE	id:616050	inCount:0	outCount:3	links:	url:616050	name:AUTOINFLAMMATION WITH INFANTILE ENTEROCOLITIS	normalName:autoinflammation with infantile enterocolitis	normalWikiTitle:autoinflammation with infantile enterocolitis	predictedType:Disease
+CANDIDATE	id:565682	inCount:0	outCount:1	links:	url:C565682	name:Amputation, Congenital	normalName:amputation, congenital	normalWikiTitle:amputation, congenital	predictedType:Disease
+CANDIDATE	id:19351	inCount:1	outCount:1	links:	url:D019351	name:Rubulavirus Infections	normalName:rubulavirus infections	normalWikiTitle:rubulavirus infections	predictedType:Disease
+CANDIDATE	id:9395	inCount:8	outCount:1	links:	url:D009395	name:Tubulointerstitial Nephritis	normalName:tubulointerstitial nephritis	normalWikiTitle:tubulointerstitial nephritis	predictedType:Disease
+CANDIDATE	id:9395	inCount:8	outCount:1	links:	url:D009395	name:Nephritis, Tubulointerstitial	normalName:nephritis, tubulointerstitial	normalWikiTitle:nephritis, tubulointerstitial	predictedType:Disease
+CANDIDATE	id:9395	inCount:8	outCount:1	links:	url:D009395	name:Nephritides, Tubulointerstitial	normalName:nephritides, tubulointerstitial	normalWikiTitle:nephritides, tubulointerstitial	predictedType:Disease
+ENTITY	text:nephrosis	normalName:nephrosis	predictedType:disease	q:true	qid:Q244	docId:11208990	origText:nephrosis	url:D009401
+CANDIDATE	id:9401	inCount:8	outCount:1	links:9404;11507	url:D009401	name:Nephrosis	normalName:nephrosis	normalWikiTitle:nephrosis	predictedType:Disease
+ENTITY	text:proteinuria	normalName:proteinuria	predictedType:disease	q:true	qid:Q244	docId:11208990	origText:proteinuria	url:D011507
+CANDIDATE	id:11507	inCount:4	outCount:2	links:9401;9404	url:D011507	name:Proteinuria	normalName:proteinuria	normalWikiTitle:proteinuria	predictedType:Disease
+ENTITY	text:nephrotic syndrome	normalName:nephrotic syndrome	predictedType:disease	q:true	qid:Q244	docId:11208990	origText:nephrotic syndrome	url:D009404
+CANDIDATE	id:9404	inCount:23	outCount:1	links:9401;11507	url:D009404	name:Nephrotic Syndrome	normalName:nephrotic syndrome	normalWikiTitle:nephrotic syndrome	predictedType:Disease

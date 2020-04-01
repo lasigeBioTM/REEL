@@ -1,0 +1,4 @@
+ENTITY	text:hyperprolactinemia	normalName:hyperprolactinemia	predictedType:disease	q:true	qid:Q561	docId:9098464	origText:hyperprolactinemia	url:D006966
+CANDIDATE	id:6966	inCount:1	outCount:1	links:62788	url:D006966	name:Hyperprolactinemia	normalName:hyperprolactinemia	normalWikiTitle:hyperprolactinemia	predictedType:Disease
+ENTITY	text:adenomyosis	normalName:adenomyosis	predictedType:disease	q:true	qid:Q561	docId:9098464	origText:adenomyosis	url:D062788
+CANDIDATE	id:62788	inCount:0	outCount:1	links:6966	url:D062788	name:Adenomyosis	normalName:adenomyosis	normalWikiTitle:adenomyosis	predictedType:Disease

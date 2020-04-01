@@ -1,0 +1,29 @@
+ENTITY	text:metastases	normalName:metastases	predictedType:disease	q:true	qid:Q64	docId:17019386	origText:metastases	url:D009362
+CANDIDATE	id:9362	inCount:5	outCount:1	links:	url:D009362	name:Metastases	normalName:metastases	normalWikiTitle:metastases	predictedType:Disease
+ENTITY	text:edematous	normalName:edematous	predictedType:disease	q:true	qid:Q64	docId:17019386	origText:edematous	url:D004487
+CANDIDATE	id:4487	inCount:6	outCount:1	links:4487	url:D004487	name:Edema	normalName:edema	normalWikiTitle:edema	predictedType:Disease
+CANDIDATE	id:3872	inCount:20	outCount:1	links:	url:D003872	name:Dermatitis	normalName:dermatitis	normalWikiTitle:dermatitis	predictedType:Disease
+CANDIDATE	id:7575	inCount:1	outCount:2	links:	url:D007575	name:Jaw, Edentulous	normalName:jaw, edentulous	normalWikiTitle:jaw, edentulous	predictedType:Disease
+CANDIDATE	id:7868	inCount:0	outCount:1	links:	url:D007868	name:Leg Dermatoses	normalName:leg dermatoses	normalWikiTitle:leg dermatoses	predictedType:Disease
+CANDIDATE	id:3881	inCount:10	outCount:2	links:	url:D003881	name:Dermatomycoses	normalName:dermatomycoses	normalWikiTitle:dermatomycoses	predictedType:Disease
+CANDIDATE	id:562941	inCount:1	outCount:1	links:	url:C562941	name:Telecanthus	normalName:telecanthus	normalWikiTitle:telecanthus	predictedType:Disease
+CANDIDATE	id:7640	inCount:9	outCount:1	links:	url:D007640	name:Keratoconus	normalName:keratoconus	normalWikiTitle:keratoconus	predictedType:Disease
+CANDIDATE	id:6406	inCount:3	outCount:1	links:	url:D006406	name:Hematoma	normalName:hematoma	normalWikiTitle:hematoma	predictedType:Disease
+CANDIDATE	id:65134	inCount:0	outCount:1	links:	url:D065134	name:Lipedema	normalName:lipedema	normalWikiTitle:lipedema	predictedType:Disease
+CANDIDATE	id:18256	inCount:3	outCount:1	links:	url:D018256	name:Adenomatous Polyps	normalName:adenomatous polyps	normalWikiTitle:adenomatous polyps	predictedType:Disease
+CANDIDATE	id:12871	inCount:71	outCount:1	links:	url:D012871	name:Dermatoses	normalName:dermatoses	normalWikiTitle:dermatoses	predictedType:Disease
+CANDIDATE	id:12871	inCount:71	outCount:1	links:	url:D012871	name:Dermatosis	normalName:dermatosis	normalWikiTitle:dermatosis	predictedType:Disease
+ENTITY	text:gliomas	normalName:gliomas	predictedType:disease	q:true	qid:Q64	docId:17019386	origText:gliomas	url:D005910
+CANDIDATE	id:5910	inCount:8	outCount:1	links:5910	url:D005910	name:Glioma	normalName:glioma	normalWikiTitle:glioma	predictedType:Disease
+ENTITY	text:meningioma	normalName:meningioma	predictedType:disease	q:true	qid:Q64	docId:17019386	origText:meningioma	url:D008579
+CANDIDATE	id:8579	inCount:4	outCount:3	links:	url:D008579	name:Meningioma	normalName:meningioma	normalWikiTitle:meningioma	predictedType:Disease
+ENTITY	text:edema	normalName:edema	predictedType:disease	q:true	qid:Q64	docId:17019386	origText:edema	url:D004487
+CANDIDATE	id:4487	inCount:6	outCount:1	links:4487	url:D004487	name:Edema	normalName:edema	normalWikiTitle:edema	predictedType:Disease
+ENTITY	text:brain edema	normalName:brain edema	predictedType:disease	q:true	qid:Q64	docId:17019386	origText:brain edema	url:D001929
+CANDIDATE	id:1929	inCount:2	outCount:1	links:	url:D001929	name:Brain Edema	normalName:brain edema	normalWikiTitle:brain edema	predictedType:Disease
+ENTITY	text:malignant glioma	normalName:malignant glioma	predictedType:disease	q:true	qid:Q64	docId:17019386	origText:malignant glioma	url:D005910
+CANDIDATE	id:5910	inCount:8	outCount:1	links:5910	url:D005910	name:Glioma, Malignant	normalName:glioma, malignant	normalWikiTitle:glioma, malignant	predictedType:Disease
+ENTITY	text:brain tumor	normalName:brain tumor	predictedType:disease	q:true	qid:Q64	docId:17019386	origText:brain tumor	url:D001932
+CANDIDATE	id:1932	inCount:16	outCount:2	links:	url:D001932	name:Brain Tumor	normalName:brain tumor	normalWikiTitle:brain tumor	predictedType:Disease
+ENTITY	text:glioma	normalName:glioma	predictedType:disease	q:true	qid:Q64	docId:17019386	origText:glioma	url:D005910
+CANDIDATE	id:5910	inCount:8	outCount:1	links:5910	url:D005910	name:Glioma	normalName:glioma	normalWikiTitle:glioma	predictedType:Disease

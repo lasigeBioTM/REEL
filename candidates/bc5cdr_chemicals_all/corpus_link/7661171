@@ -1,0 +1,6 @@
+ENTITY	text:misoprostol	normalName:misoprostol	predictedType:chemical	q:true	qid:Q1495	docId:7661171	origText:misoprostol	url:D016595
+CANDIDATE	id:16595	inCount:3	outCount:1	links:	url:D016595	name:Misoprostol	normalName:misoprostol	normalWikiTitle:misoprostol	predictedType:Chemical
+ENTITY	text:indomethacin	normalName:indomethacin	predictedType:chemical	q:true	qid:Q1495	docId:7661171	origText:indomethacin	url:D007213
+CANDIDATE	id:7213	inCount:40	outCount:1	links:	url:D007213	name:Indomethacin	normalName:indomethacin	normalWikiTitle:indomethacin	predictedType:Chemical
+ENTITY	text:sodium	normalName:sodium	predictedType:chemical	q:true	qid:Q1495	docId:7661171	origText:sodium	url:D012964
+CANDIDATE	id:12964	inCount:10	outCount:2	links:	url:D012964	name:Sodium	normalName:sodium	normalWikiTitle:sodium	predictedType:Chemical

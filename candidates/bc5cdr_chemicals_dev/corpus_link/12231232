@@ -1,0 +1,20 @@
+ENTITY	text:glutamate	normalName:glutamate	predictedType:chemical	q:true	qid:Q266	docId:12231232	origText:glutamate	url:D018698
+CANDIDATE	id:18698	inCount:53	outCount:2	links:	url:D018698	name:Glutamate	normalName:glutamate	normalWikiTitle:glutamate	predictedType:Chemical
+ENTITY	text:(2R,4R)-4-aminopyrrolidine-2,4-dicarboxylate	normalName:(2r,4r)-4-aminopyrrolidine-2,4-dicarboxylate	predictedType:chemical	q:true	qid:Q266	docId:12231232	origText:(2R,4R)-4-aminopyrrolidine-2,4-dicarboxylate	url:C097299
+CANDIDATE	id:97299	inCount:0	outCount:1	links:	url:C097299	name:2R,4R-4-aminopyrrolidine-2,4-dicarboxylate	normalName:2r,4r-4-aminopyrrolidine-2,4-dicarboxylate	normalWikiTitle:2r,4r-4-aminopyrrolidine-2,4-dicarboxylate	predictedType:Chemical
+ENTITY	text:Haloperidol	normalName:haloperidol	predictedType:chemical	q:true	qid:Q266	docId:12231232	origText:Haloperidol	url:D006220
+CANDIDATE	id:6220	inCount:24	outCount:1	links:	url:D006220	name:Haloperidol	normalName:haloperidol	normalWikiTitle:haloperidol	predictedType:Chemical
+ENTITY	text:(RS)-1-aminoindan-1,5-dicarboxylic acid	normalName:(rs)-1-aminoindan-1,5-dicarboxylic acid	predictedType:chemical	q:true	qid:Q266	docId:12231232	origText:(RS)-1-aminoindan-1,5-dicarboxylic acid	url:C095756
+CANDIDATE	id:95756	inCount:0	outCount:1	links:	url:C095756	name:(RS)-aminoindan-1,5-dicarboxylic Acid	normalName:(rs)-aminoindan-1,5-dicarboxylic acid	normalWikiTitle:(rs)-aminoindan-1,5-dicarboxylic acid	predictedType:Chemical
+CANDIDATE	id:95756	inCount:0	outCount:1	links:	url:C095756	name:1-aminoindan-1,5-dicarboxylic acid	normalName:1-aminoindan-1,5-dicarboxylic acid	normalWikiTitle:1-aminoindan-1,5-dicarboxylic acid	predictedType:Chemical
+CANDIDATE	id:480478	inCount:0	outCount:1	links:	url:C480478	name:2-aminoindane-2-carboxylic acid	normalName:2-aminoindane-2-carboxylic acid	normalWikiTitle:2-aminoindane-2-carboxylic acid	predictedType:Chemical
+CANDIDATE	id:405283	inCount:0	outCount:1	links:	url:C405283	name:1-aminocyclododecane-1-carboxylic acid	normalName:1-aminocyclododecane-1-carboxylic acid	normalWikiTitle:1-aminocyclododecane-1-carboxylic acid	predictedType:Chemical
+CANDIDATE	id:569129	inCount:0	outCount:2	links:	url:C569129	name:3-aminopyran-2-carboxylic acid	normalName:3-aminopyran-2-carboxylic acid	normalWikiTitle:3-aminopyran-2-carboxylic acid	predictedType:Chemical
+CANDIDATE	id:50563	inCount:0	outCount:1	links:	url:C050563	name:anthracene-1,5-dicarboxylic acid	normalName:anthracene-1,5-dicarboxylic acid	normalWikiTitle:anthracene-1,5-dicarboxylic acid	predictedType:Chemical
+CANDIDATE	id:97299	inCount:0	outCount:1	links:	url:C097299	name:4-aminopyrrolidine-2,4-dicarboxylic acid	normalName:4-aminopyrrolidine-2,4-dicarboxylic acid	normalWikiTitle:4-aminopyrrolidine-2,4-dicarboxylic acid	predictedType:Chemical
+CANDIDATE	id:600	inCount:29	outCount:1	links:	url:D000600	name:Amino Acids, Dicarboxylic	normalName:amino acids, dicarboxylic	normalWikiTitle:amino acids, dicarboxylic	predictedType:Chemical
+CANDIDATE	id:120942	inCount:0	outCount:1	links:	url:C120942	name:1,4-diaminopyrrolidine-2,4-dicarboxylic acid	normalName:1,4-diaminopyrrolidine-2,4-dicarboxylic acid	normalWikiTitle:1,4-diaminopyrrolidine-2,4-dicarboxylic acid	predictedType:Chemical
+CANDIDATE	id:531397	inCount:0	outCount:1	links:	url:C531397	name:2-aminopropane-1,2,3-tricarboxylic acid	normalName:2-aminopropane-1,2,3-tricarboxylic acid	normalWikiTitle:2-aminopropane-1,2,3-tricarboxylic acid	predictedType:Chemical
+CANDIDATE	id:108242	inCount:0	outCount:2	links:	url:C108242	name:1-aminocyclopentane-1,3,4-tricarboxylic acid	normalName:1-aminocyclopentane-1,3,4-tricarboxylic acid	normalWikiTitle:1-aminocyclopentane-1,3,4-tricarboxylic acid	predictedType:Chemical
+ENTITY	text:2R,4R-APDC	normalName:2r,4r-apdc	predictedType:chemical	q:true	qid:Q266	docId:12231232	origText:2R,4R-APDC	url:C097299
+CANDIDATE	id:97299	inCount:0	outCount:1	links:	url:C097299	name:2R,4R-APDC	normalName:2r,4r-apdc	normalWikiTitle:2r,4r-apdc	predictedType:Chemical

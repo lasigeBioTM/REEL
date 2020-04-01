@@ -1,0 +1,15 @@
+ENTITY	text:warfarin	normalName:warfarin	predictedType:chemical	q:true	qid:Q403	docId:17639754	origText:warfarin	url:D014859
+CANDIDATE	id:14859	inCount:14	outCount:1	links:64704	url:D014859	name:Warfarin	normalName:warfarin	normalWikiTitle:warfarin	predictedType:Chemical
+ENTITY	text:levofloxacin	normalName:levofloxacin	predictedType:chemical	q:true	qid:Q403	docId:17639754	origText:levofloxacin	url:D064704
+CANDIDATE	id:64704	inCount:1	outCount:1	links:14859	url:D064704	name:Levofloxacin	normalName:levofloxacin	normalWikiTitle:levofloxacin	predictedType:Chemical
+ENTITY	text:fluoroquinolone	normalName:fluoroquinolone	predictedType:chemical	q:true	qid:Q403	docId:17639754	origText:fluoroquinolone	url:D024841
+CANDIDATE	id:24841	inCount:119	outCount:1	links:	url:D024841	name:Fluoroquinolones	normalName:fluoroquinolones	normalWikiTitle:fluoroquinolones	predictedType:Chemical
+CANDIDATE	id:82975	inCount:0	outCount:1	links:	url:C082975	name:5-fluoroquinoline	normalName:5-fluoroquinoline	normalWikiTitle:5-fluoroquinoline	predictedType:Chemical
+CANDIDATE	id:82974	inCount:0	outCount:1	links:	url:C082974	name:3-fluoroquinoline	normalName:3-fluoroquinoline	normalWikiTitle:3-fluoroquinoline	predictedType:Chemical
+CANDIDATE	id:117028	inCount:0	outCount:2	links:	url:C117028	name:K-12, fluoroquinolone	normalName:k-12, fluoroquinolone	normalWikiTitle:k-12, fluoroquinolone	predictedType:Chemical
+CANDIDATE	id:29563	inCount:0	outCount:1	links:	url:C029563	name:fluoroquine	normalName:fluoroquine	normalWikiTitle:fluoroquine	predictedType:Chemical
+CANDIDATE	id:35394	inCount:0	outCount:1	links:	url:C035394	name:fluocinolone	normalName:fluocinolone	normalWikiTitle:fluocinolone	predictedType:Chemical
+CANDIDATE	id:411922	inCount:0	outCount:1	links:	url:C411922	name:fluoroquinoline K-37	normalName:fluoroquinoline k-37	normalWikiTitle:fluoroquinoline k-37	predictedType:Chemical
+CANDIDATE	id:34633	inCount:0	outCount:1	links:	url:C034633	name:fluoroquinacrine	normalName:fluoroquinacrine	normalWikiTitle:fluoroquinacrine	predictedType:Chemical
+CANDIDATE	id:34257	inCount:0	outCount:1	links:	url:C034257	name:duroquinone	normalName:duroquinone	normalWikiTitle:duroquinone	predictedType:Chemical
+CANDIDATE	id:95066	inCount:0	outCount:1	links:	url:C095066	name:5-fluoroindole	normalName:5-fluoroindole	normalWikiTitle:5-fluoroindole	predictedType:Chemical

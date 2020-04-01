@@ -1,0 +1,4 @@
+ENTITY	text:heparin	normalName:heparin	predictedType:chemical	q:true	qid:Q941	docId:19289093	origText:heparin	url:D006493
+CANDIDATE	id:6493	inCount:75	outCount:1	links:	url:D006493	name:Heparin	normalName:heparin	normalWikiTitle:heparin	predictedType:Chemical
+ENTITY	text:chondroitin sulfate	normalName:chondroitin sulfate	predictedType:chemical	q:true	qid:Q941	docId:19289093	origText:chondroitin sulfate	url:D002809
+CANDIDATE	id:2809	inCount:26	outCount:1	links:	url:D002809	name:Chondroitin Sulfate	normalName:chondroitin sulfate	normalWikiTitle:chondroitin sulfate	predictedType:Chemical

@@ -1,0 +1,43 @@
+ENTITY	text:aspirin	normalName:aspirin	predictedType:chemical	q:true	qid:Q500	docId:3864191	origText:aspirin	url:D001241
+CANDIDATE	id:1241	inCount:106	outCount:1	links:	url:D001241	name:Aspirin	normalName:aspirin	normalWikiTitle:aspirin	predictedType:Chemical
+ENTITY	text:prostaglandin	normalName:prostaglandin	predictedType:chemical	q:true	qid:Q500	docId:3864191	origText:prostaglandin	url:D011453
+CANDIDATE	id:11453	inCount:31	outCount:1	links:11453	url:D011453	name:Prostaglandins	normalName:prostaglandins	normalWikiTitle:prostaglandins	predictedType:Chemical
+CANDIDATE	id:11454	inCount:15	outCount:1	links:11454	url:D011454	name:Prostaglandins A	normalName:prostaglandins a	normalWikiTitle:prostaglandins a	predictedType:Chemical
+CANDIDATE	id:11458	inCount:10	outCount:1	links:11458	url:D011458	name:Prostaglandins E	normalName:prostaglandins e	normalWikiTitle:prostaglandins e	predictedType:Chemical
+CANDIDATE	id:11456	inCount:9	outCount:1	links:11456	url:D011456	name:Prostaglandins B	normalName:prostaglandins b	normalWikiTitle:prostaglandins b	predictedType:Chemical
+CANDIDATE	id:100573	inCount:0	outCount:1	links:100573	url:C100573	name:prostaglandin A1	normalName:prostaglandin a1	normalWikiTitle:prostaglandin a1	predictedType:Chemical
+CANDIDATE	id:11457	inCount:7	outCount:1	links:11457	url:D011457	name:Prostaglandins D	normalName:prostaglandins d	normalWikiTitle:prostaglandins d	predictedType:Chemical
+CANDIDATE	id:11463	inCount:7	outCount:1	links:11463	url:D011463	name:Prostaglandins H	normalName:prostaglandins h	normalWikiTitle:prostaglandins h	predictedType:Chemical
+CANDIDATE	id:33246	inCount:0	outCount:1	links:33246	url:C033246	name:prostaglandin E3	normalName:prostaglandin e3	normalWikiTitle:prostaglandin e3	predictedType:Chemical
+CANDIDATE	id:15230	inCount:18	outCount:1	links:15230	url:D015230	name:Prostaglandin D2	normalName:prostaglandin d2	normalWikiTitle:prostaglandin d2	predictedType:Chemical
+CANDIDATE	id:44262	inCount:4	outCount:1	links:44262	url:D044262	name:Prostaglandin H2	normalName:prostaglandin h2	normalWikiTitle:prostaglandin h2	predictedType:Chemical
+ENTITY	text:creatinine	normalName:creatinine	predictedType:chemical	q:true	qid:Q500	docId:3864191	origText:creatinine	url:D003404
+CANDIDATE	id:3404	inCount:8	outCount:1	links:	url:D003404	name:Creatinine	normalName:creatinine	normalWikiTitle:creatinine	predictedType:Chemical
+ENTITY	text:bilirubin	normalName:bilirubin	predictedType:chemical	q:true	qid:Q500	docId:3864191	origText:bilirubin	url:D001663
+CANDIDATE	id:1663	inCount:20	outCount:1	links:	url:D001663	name:Bilirubin	normalName:bilirubin	normalWikiTitle:bilirubin	predictedType:Chemical
+ENTITY	text:PGE2	normalName:pge2	predictedType:chemical	q:true	qid:Q500	docId:3864191	origText:PGE2	url:D015232
+CANDIDATE	id:15232	inCount:51	outCount:1	links:	url:D015232	name:PGE2	normalName:pge2	normalWikiTitle:pge2	predictedType:Chemical
+ENTITY	text:PGF2 alpha	normalName:pgf2 alpha	predictedType:chemical	q:true	qid:Q500	docId:3864191	origText:PGF2 alpha	url:D015237
+CANDIDATE	id:15237	inCount:59	outCount:1	links:	url:D015237	name:alpha, PGF2	normalName:alpha, pgf2	normalWikiTitle:alpha, pgf2	predictedType:Chemical
+ENTITY	text:prostaglandins	normalName:prostaglandins	predictedType:chemical	q:true	qid:Q500	docId:3864191	origText:prostaglandins	url:D011453
+CANDIDATE	id:11453	inCount:31	outCount:1	links:11453	url:D011453	name:Prostaglandins	normalName:prostaglandins	normalWikiTitle:prostaglandins	predictedType:Chemical
+CANDIDATE	id:11454	inCount:15	outCount:1	links:11454	url:D011454	name:Prostaglandins A	normalName:prostaglandins a	normalWikiTitle:prostaglandins a	predictedType:Chemical
+CANDIDATE	id:11458	inCount:10	outCount:1	links:11458	url:D011458	name:Prostaglandins E	normalName:prostaglandins e	normalWikiTitle:prostaglandins e	predictedType:Chemical
+CANDIDATE	id:11456	inCount:9	outCount:1	links:11456	url:D011456	name:Prostaglandins B	normalName:prostaglandins b	normalWikiTitle:prostaglandins b	predictedType:Chemical
+CANDIDATE	id:100573	inCount:0	outCount:1	links:100573	url:C100573	name:prostaglandin A1	normalName:prostaglandin a1	normalWikiTitle:prostaglandin a1	predictedType:Chemical
+CANDIDATE	id:11457	inCount:7	outCount:1	links:11457	url:D011457	name:Prostaglandins D	normalName:prostaglandins d	normalWikiTitle:prostaglandins d	predictedType:Chemical
+CANDIDATE	id:11463	inCount:7	outCount:1	links:11463	url:D011463	name:Prostaglandins H	normalName:prostaglandins h	normalWikiTitle:prostaglandins h	predictedType:Chemical
+CANDIDATE	id:33246	inCount:0	outCount:1	links:33246	url:C033246	name:prostaglandin E3	normalName:prostaglandin e3	normalWikiTitle:prostaglandin e3	predictedType:Chemical
+CANDIDATE	id:15230	inCount:18	outCount:1	links:15230	url:D015230	name:Prostaglandin D2	normalName:prostaglandin d2	normalWikiTitle:prostaglandin d2	predictedType:Chemical
+CANDIDATE	id:44262	inCount:4	outCount:1	links:44262	url:D044262	name:Prostaglandin H2	normalName:prostaglandin h2	normalWikiTitle:prostaglandin h2	predictedType:Chemical
+ENTITY	text:Salicylate	normalName:salicylate	predictedType:chemical	q:true	qid:Q500	docId:3864191	origText:Salicylate	url:D012459
+CANDIDATE	id:12459	inCount:311	outCount:1	links:	url:D012459	name:Salicylates	normalName:salicylates	normalWikiTitle:salicylates	predictedType:Chemical
+CANDIDATE	id:693	inCount:0	outCount:1	links:	url:C000693	name:salicylurate	normalName:salicylurate	normalWikiTitle:salicylurate	predictedType:Chemical
+CANDIDATE	id:31060	inCount:0	outCount:1	links:	url:C031060	name:salicylamide	normalName:salicylamide	normalWikiTitle:salicylamide	predictedType:Chemical
+CANDIDATE	id:25771	inCount:0	outCount:1	links:	url:C025771	name:lysinsalicylate	normalName:lysinsalicylate	normalWikiTitle:lysinsalicylate	predictedType:Chemical
+CANDIDATE	id:12457	inCount:51	outCount:1	links:	url:D012457	name:Salicylamides	normalName:salicylamides	normalWikiTitle:salicylamides	predictedType:Chemical
+CANDIDATE	id:41835	inCount:0	outCount:1	links:	url:C041835	name:ethyl salicylate	normalName:ethyl salicylate	normalWikiTitle:ethyl salicylate	predictedType:Chemical
+CANDIDATE	id:526485	inCount:0	outCount:1	links:	url:C526485	name:hexyl salicylate	normalName:hexyl salicylate	normalWikiTitle:hexyl salicylate	predictedType:Chemical
+CANDIDATE	id:493238	inCount:0	outCount:1	links:	url:C493238	name:butyl salicylate	normalName:butyl salicylate	normalWikiTitle:butyl salicylate	predictedType:Chemical
+CANDIDATE	id:34596	inCount:0	outCount:1	links:	url:C034596	name:salicylanilide	normalName:salicylanilide	normalWikiTitle:salicylanilide	predictedType:Chemical
+CANDIDATE	id:44714	inCount:0	outCount:2	links:	url:C044714	name:lysine salicylate	normalName:lysine salicylate	normalWikiTitle:lysine salicylate	predictedType:Chemical

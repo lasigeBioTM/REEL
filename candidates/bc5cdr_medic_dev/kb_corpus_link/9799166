@@ -1,0 +1,14 @@
+ENTITY	text:strokes	normalName:strokes	predictedType:disease	q:true	qid:Q101	docId:9799166	origText:strokes	url:D020521
+CANDIDATE	id:20521	inCount:2	outCount:1	links:20521	url:D020521	name:Stroke	normalName:stroke	normalWikiTitle:stroke	predictedType:Disease
+ENTITY	text:Stroke	normalName:stroke	predictedType:disease	q:true	qid:Q101	docId:9799166	origText:Stroke	url:D020521
+CANDIDATE	id:20521	inCount:2	outCount:1	links:20521	url:D020521	name:Stroke	normalName:stroke	normalWikiTitle:stroke	predictedType:Disease
+ENTITY	text:ischemic	normalName:ischemic	predictedType:disease	q:true	qid:Q101	docId:9799166	origText:ischemic	url:D007511
+CANDIDATE	id:7511	inCount:3	outCount:1	links:	url:D007511	name:Ischemia	normalName:ischemia	normalWikiTitle:ischemia	predictedType:Disease
+CANDIDATE	id:17091	inCount:0	outCount:2	links:	url:D017091	name:Colitis, Ischemic	normalName:colitis, ischemic	normalWikiTitle:colitis, ischemic	predictedType:Disease
+CANDIDATE	id:2545	inCount:4	outCount:1	links:	url:D002545	name:Brain Ischemia	normalName:brain ischemia	normalWikiTitle:brain ischemia	predictedType:Disease
+CANDIDATE	id:2057	inCount:0	outCount:1	links:	url:D002057	name:Burns, Chemical	normalName:burns, chemical	normalWikiTitle:burns, chemical	predictedType:Disease
+CANDIDATE	id:65666	inCount:0	outCount:3	links:	url:D065666	name:Mesenteric Ischemia	normalName:mesenteric ischemia	normalWikiTitle:mesenteric ischemia	predictedType:Disease
+CANDIDATE	id:17202	inCount:6	outCount:2	links:	url:D017202	name:Myocardial Ischemia	normalName:myocardial ischemia	normalWikiTitle:myocardial ischemia	predictedType:Disease
+CANDIDATE	id:54061	inCount:0	outCount:2	links:	url:D054061	name:Ischemic Contracture	normalName:ischemic contracture	normalWikiTitle:ischemic contracture	predictedType:Disease
+CANDIDATE	id:12216	inCount:9	outCount:2	links:	url:D012216	name:Rheumatic Diseases	normalName:rheumatic diseases	normalWikiTitle:rheumatic diseases	predictedType:Disease
+CANDIDATE	id:14766	inCount:1	outCount:2	links:	url:D014766	name:Viremia	normalName:viremia	normalWikiTitle:viremia	predictedType:Disease

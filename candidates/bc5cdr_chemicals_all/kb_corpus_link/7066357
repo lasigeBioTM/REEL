@@ -1,0 +1,30 @@
+ENTITY	text:puromycin aminonucleoside	normalName:puromycin aminonucleoside	predictedType:chemical	q:true	qid:Q594	docId:7066357	origText:puromycin aminonucleoside	url:D011692
+CANDIDATE	id:11692	inCount:4	outCount:2	links:11692	url:D011692	name:Puromycin Aminonucleoside	normalName:puromycin aminonucleoside	normalWikiTitle:puromycin aminonucleoside	predictedType:Chemical
+ENTITY	text:cholesteryl esters	normalName:cholesteryl esters	predictedType:chemical	q:true	qid:Q594	docId:7066357	origText:cholesteryl esters	url:D002788
+CANDIDATE	id:2788	inCount:80	outCount:1	links:	url:D002788	name:Cholesteryl Esters	normalName:cholesteryl esters	normalWikiTitle:cholesteryl esters	predictedType:Chemical
+CANDIDATE	id:2788	inCount:80	outCount:1	links:	url:D002788	name:Cholesterol Esters	normalName:cholesterol esters	normalWikiTitle:cholesterol esters	predictedType:Chemical
+CANDIDATE	id:59714	inCount:0	outCount:1	links:	url:C059714	name:HDL cholesteryl ester	normalName:hdl cholesteryl ester	normalWikiTitle:hdl cholesteryl ester	predictedType:Chemical
+CANDIDATE	id:14409	inCount:0	outCount:1	links:	url:C014409	name:cholesteryl oleate	normalName:cholesteryl oleate	normalWikiTitle:cholesteryl oleate	predictedType:Chemical
+CANDIDATE	id:76149	inCount:0	outCount:1	links:	url:C076149	name:cholesterylene	normalName:cholesterylene	normalWikiTitle:cholesterylene	predictedType:Chemical
+CANDIDATE	id:7045	inCount:0	outCount:1	links:	url:C007045	name:cholesteryl sulfate	normalName:cholesteryl sulfate	normalWikiTitle:cholesteryl sulfate	predictedType:Chemical
+CANDIDATE	id:110341	inCount:0	outCount:1	links:	url:C110341	name:cholesterol stearate	normalName:cholesterol stearate	normalWikiTitle:cholesterol stearate	predictedType:Chemical
+CANDIDATE	id:29809	inCount:0	outCount:1	links:	url:C029809	name:cholesteryl valerate	normalName:cholesteryl valerate	normalWikiTitle:cholesteryl valerate	predictedType:Chemical
+CANDIDATE	id:23511	inCount:0	outCount:1	links:	url:C023511	name:cholesteryl oleyl ether	normalName:cholesteryl oleyl ether	normalWikiTitle:cholesteryl oleyl ether	predictedType:Chemical
+CANDIDATE	id:48982	inCount:0	outCount:1	links:	url:C048982	name:cholesteryl hexyl ether	normalName:cholesteryl hexyl ether	normalWikiTitle:cholesteryl hexyl ether	predictedType:Chemical
+CANDIDATE	id:21976	inCount:0	outCount:1	links:	url:C021976	name:cholesteryl linoleate	normalName:cholesteryl linoleate	normalWikiTitle:cholesteryl linoleate	predictedType:Chemical
+CANDIDATE	id:2788	inCount:80	outCount:1	links:	url:D002788	name:Esters, Cholesteryl	normalName:esters, cholesteryl	normalWikiTitle:esters, cholesteryl	predictedType:Chemical
+ENTITY	text:fatty acids	normalName:fatty acids	predictedType:chemical	q:true	qid:Q594	docId:7066357	origText:fatty acids	url:D005227
+CANDIDATE	id:5227	inCount:230	outCount:1	links:	url:D005227	name:Fatty Acids	normalName:fatty acids	normalWikiTitle:fatty acids	predictedType:Chemical
+CANDIDATE	id:479742	inCount:0	outCount:1	links:	url:C479742	name:CLA fatty acid	normalName:cla fatty acid	normalWikiTitle:cla fatty acid	predictedType:Chemical
+CANDIDATE	id:44242	inCount:0	outCount:1	links:	url:D044242	name:Trans Fatty Acids	normalName:trans fatty acids	normalWikiTitle:trans fatty acids	predictedType:Chemical
+CANDIDATE	id:604757	inCount:0	outCount:1	links:	url:C000604757	name:PC-594 fatty acid	normalName:pc-594 fatty acid	normalWikiTitle:pc-594 fatty acid	predictedType:Chemical
+CANDIDATE	id:11250	inCount:0	outCount:2	links:	url:C011250	name:fatty acid ketols	normalName:fatty acid ketols	normalWikiTitle:fatty acid ketols	predictedType:Chemical
+CANDIDATE	id:43371	inCount:3	outCount:1	links:	url:D043371	name:Fatty Acids, Omega-6	normalName:fatty acids, omega-6	normalWikiTitle:fatty acids, omega-6	predictedType:Chemical
+CANDIDATE	id:15525	inCount:22	outCount:3	links:	url:D015525	name:Fatty Acids, Omega-3	normalName:fatty acids, omega-3	normalWikiTitle:fatty acids, omega-3	predictedType:Chemical
+CANDIDATE	id:1634	inCount:0	outCount:2	links:	url:C001634	name:fatty aldehyde	normalName:fatty aldehyde	normalWikiTitle:fatty aldehyde	predictedType:Chemical
+CANDIDATE	id:5232	inCount:5	outCount:1	links:	url:D005232	name:Fatty Acids, Volatile	normalName:fatty acids, volatile	normalWikiTitle:fatty acids, volatile	predictedType:Chemical
+CANDIDATE	id:627429	inCount:0	outCount:1	links:	url:C000627429	name:matsutoic acid	normalName:matsutoic acid	normalWikiTitle:matsutoic acid	predictedType:Chemical
+ENTITY	text:triacylglycerol	normalName:triacylglycerol	predictedType:chemical	q:true	qid:Q594	docId:7066357	origText:triacylglycerol	url:D014280
+CANDIDATE	id:14280	inCount:112	outCount:1	links:	url:D014280	name:Triacylglycerol	normalName:triacylglycerol	normalWikiTitle:triacylglycerol	predictedType:Chemical
+ENTITY	text:aminonucleoside	normalName:aminonucleoside	predictedType:chemical	q:true	qid:Q594	docId:7066357	origText:aminonucleoside	url:D011692
+CANDIDATE	id:11692	inCount:4	outCount:2	links:11692	url:D011692	name:Aminonucleoside	normalName:aminonucleoside	normalWikiTitle:aminonucleoside	predictedType:Chemical

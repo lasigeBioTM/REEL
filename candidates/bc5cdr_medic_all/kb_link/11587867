@@ -1,0 +1,44 @@
+ENTITY	text:myeloencephalopathy	normalName:myeloencephalopathy	predictedType:disease	q:true	qid:Q444	docId:11587867	origText:myeloencephalopathy	url:D001927
+CANDIDATE	id:1927	inCount:55	outCount:1	links:	url:D001927	name:Encephalopathy	normalName:encephalopathy	normalWikiTitle:encephalopathy	predictedType:Disease
+CANDIDATE	id:56784	inCount:29	outCount:1	links:	url:D056784	name:Leukoencephalopathies	normalName:leukoencephalopathies	normalWikiTitle:leukoencephalopathies	predictedType:Disease
+CANDIDATE	id:58627	inCount:27	outCount:2	links:	url:D058627	name:Megalencephaly	normalName:megalencephaly	normalWikiTitle:megalencephaly	predictedType:Disease
+CANDIDATE	id:6501	inCount:2	outCount:2	links:	url:D006501	name:Hepatic Encephalopathy	normalName:hepatic encephalopathy	normalWikiTitle:hepatic encephalopathy	predictedType:Disease
+CANDIDATE	id:14899	inCount:0	outCount:3	links:	url:D014899	name:Wernicke Encephalopathy	normalName:wernicke encephalopathy	normalWikiTitle:wernicke encephalopathy	predictedType:Disease
+CANDIDATE	id:65705	inCount:1	outCount:1	links:	url:D065705	name:Hemimegalencephaly	normalName:hemimegalencephaly	normalWikiTitle:hemimegalencephaly	predictedType:Disease
+CANDIDATE	id:65708	inCount:2	outCount:2	links:	url:D065708	name:Porencephaly	normalName:porencephaly	normalWikiTitle:porencephaly	predictedType:Disease
+CANDIDATE	id:538669	inCount:0	outCount:1	links:	url:C538669	name:Alcohol induced encephalopathy	normalName:alcohol induced encephalopathy	normalWikiTitle:alcohol induced encephalopathy	predictedType:Disease
+CANDIDATE	id:615651	inCount:0	outCount:2	links:	url:615651	name:LEUKOENCEPHALOPATHY WITH ATAXIA	normalName:leukoencephalopathy with ataxia	normalWikiTitle:leukoencephalopathy with ataxia	predictedType:Disease
+CANDIDATE	id:71072	inCount:0	outCount:1	links:	url:D000071072	name:Acute Febrile Encephalopathy	normalName:acute febrile encephalopathy	normalWikiTitle:acute febrile encephalopathy	predictedType:Disease
+CANDIDATE	id:8590	inCount:1	outCount:4	links:	url:D008590	name:Meningoencephalitis	normalName:meningoencephalitis	normalWikiTitle:meningoencephalitis	predictedType:Disease
+CANDIDATE	id:56784	inCount:29	outCount:1	links:	url:D056784	name:Leukoencephalopathy	normalName:leukoencephalopathy	normalWikiTitle:leukoencephalopathy	predictedType:Disease
+CANDIDATE	id:56784	inCount:29	outCount:1	links:	url:D056784	name:Cree Leukoencephalopathy	normalName:cree leukoencephalopathy	normalWikiTitle:cree leukoencephalopathy	predictedType:Disease
+CANDIDATE	id:564344	inCount:0	outCount:2	links:	url:C564344	name:Dentoleukoencephalopathy	normalName:dentoleukoencephalopathy	normalWikiTitle:dentoleukoencephalopathy	predictedType:Disease
+CANDIDATE	id:56784	inCount:29	outCount:1	links:	url:D056784	name:Leukoencephalopathy, Cree	normalName:leukoencephalopathy, cree	normalWikiTitle:leukoencephalopathy, cree	predictedType:Disease
+CANDIDATE	id:4679	inCount:3	outCount:2	links:	url:D004679	name:Myeloencephalitis	normalName:myeloencephalitis	normalWikiTitle:myeloencephalitis	predictedType:Disease
+CANDIDATE	id:15526	inCount:0	outCount:2	links:	url:D015526	name:HIV Encephalopathy	normalName:hiv encephalopathy	normalWikiTitle:hiv encephalopathy	predictedType:Disease
+CANDIDATE	id:15526	inCount:0	outCount:2	links:	url:D015526	name:Encephalopathy, HIV	normalName:encephalopathy, hiv	normalWikiTitle:encephalopathy, hiv	predictedType:Disease
+ENTITY	text:paralysis	normalName:paralysis	predictedType:disease	q:true	qid:Q444	docId:11587867	origText:paralysis	url:D010243
+CANDIDATE	id:10243	inCount:10	outCount:1	links:	url:D010243	name:Paralysis	normalName:paralysis	normalWikiTitle:paralysis	predictedType:Disease
+ENTITY	text:acute lymphoblastic leucemia	normalName:acute lymphoblastic leucemia	predictedType:disease	q:true	qid:Q444	docId:11587867	origText:acute lymphoblastic leucemia	url:D054198
+CANDIDATE	id:54198	inCount:3	outCount:1	links:54198	url:D054198	name:Leukemia, Lymphoblastic, Acute, L1	normalName:leukemia, lymphoblastic, acute, l1	normalWikiTitle:leukemia, lymphoblastic, acute, l1	predictedType:Disease
+CANDIDATE	id:7947	inCount:1	outCount:1	links:	url:D007947	name:Leukemia, Megakaryoblastic, Acute	normalName:leukemia, megakaryoblastic, acute	normalWikiTitle:leukemia, megakaryoblastic, acute	predictedType:Disease
+CANDIDATE	id:7948	inCount:0	outCount:1	links:	url:D007948	name:Leukemia, Monocytic, Acute	normalName:leukemia, monocytic, acute	normalWikiTitle:leukemia, monocytic, acute	predictedType:Disease
+CANDIDATE	id:15459	inCount:0	outCount:1	links:	url:D015459	name:Leukemia-Lymphoma, Adult T-Cell	normalName:leukemia-lymphoma, adult t-cell	normalWikiTitle:leukemia-lymphoma, adult t-cell	predictedType:Disease
+CANDIDATE	id:15473	inCount:0	outCount:1	links:	url:D015473	name:Leukemia, Promyelocytic, Acute	normalName:leukemia, promyelocytic, acute	normalWikiTitle:leukemia, promyelocytic, acute	predictedType:Disease
+CANDIDATE	id:15479	inCount:0	outCount:1	links:	url:D015479	name:Leukemia, Myelomonocytic, Acute	normalName:leukemia, myelomonocytic, acute	normalWikiTitle:leukemia, myelomonocytic, acute	predictedType:Disease
+CANDIDATE	id:15461	inCount:0	outCount:2	links:	url:D015461	name:Leukemia, Prolymphocytic, T-Cell	normalName:leukemia, prolymphocytic, t-cell	normalWikiTitle:leukemia, prolymphocytic, t-cell	predictedType:Disease
+CANDIDATE	id:54403	inCount:0	outCount:2	links:	url:D054403	name:Leukemia, Prolymphocytic, B-Cell	normalName:leukemia, prolymphocytic, b-cell	normalWikiTitle:leukemia, prolymphocytic, b-cell	predictedType:Disease
+CANDIDATE	id:15470	inCount:13	outCount:1	links:	url:D015470	name:Leukemia, Myeloid, Acute	normalName:leukemia, myeloid, acute	normalWikiTitle:leukemia, myeloid, acute	predictedType:Disease
+CANDIDATE	id:54066	inCount:0	outCount:1	links:	url:D054066	name:Leukemia, Large Granular Lymphocytic	normalName:leukemia, large granular lymphocytic	normalWikiTitle:leukemia, large granular lymphocytic	predictedType:Disease
+CANDIDATE	id:15463	inCount:2	outCount:1	links:	url:D015463	name:Leukemia, Prolymphocytic	normalName:leukemia, prolymphocytic	normalWikiTitle:leukemia, prolymphocytic	predictedType:Disease
+CANDIDATE	id:54198	inCount:3	outCount:1	links:54198	url:D054198	name:Leukemia, Lymphoblastic, Acute	normalName:leukemia, lymphoblastic, acute	normalWikiTitle:leukemia, lymphoblastic, acute	predictedType:Disease
+CANDIDATE	id:54198	inCount:3	outCount:1	links:54198	url:D054198	name:Lymphoblastic Leukemia, Acute	normalName:lymphoblastic leukemia, acute	normalWikiTitle:lymphoblastic leukemia, acute	predictedType:Disease
+CANDIDATE	id:54198	inCount:3	outCount:1	links:54198	url:D054198	name:Acute Lymphoblastic Leukemia	normalName:acute lymphoblastic leukemia	normalWikiTitle:acute lymphoblastic leukemia	predictedType:Disease
+CANDIDATE	id:54198	inCount:3	outCount:1	links:54198	url:D054198	name:Leukemia, Acute Lymphoblastic	normalName:leukemia, acute lymphoblastic	normalWikiTitle:leukemia, acute lymphoblastic	predictedType:Disease
+CANDIDATE	id:15470	inCount:13	outCount:1	links:	url:D015470	name:Leukemia, Acute Nonlymphoblastic	normalName:leukemia, acute nonlymphoblastic	normalWikiTitle:leukemia, acute nonlymphoblastic	predictedType:Disease
+CANDIDATE	id:54198	inCount:3	outCount:1	links:54198	url:D054198	name:Leukemia, Lymphoblastic, Acute, L2	normalName:leukemia, lymphoblastic, acute, l2	normalWikiTitle:leukemia, lymphoblastic, acute, l2	predictedType:Disease
+CANDIDATE	id:15470	inCount:13	outCount:1	links:	url:D015470	name:Acute Nonlymphoblastic Leukemia	normalName:acute nonlymphoblastic leukemia	normalWikiTitle:acute nonlymphoblastic leukemia	predictedType:Disease
+CANDIDATE	id:54198	inCount:3	outCount:1	links:54198	url:D054198	name:Lymphoblastic Leukemia, Acute, L1	normalName:lymphoblastic leukemia, acute, l1	normalWikiTitle:lymphoblastic leukemia, acute, l1	predictedType:Disease
+CANDIDATE	id:54198	inCount:3	outCount:1	links:54198	url:D054198	name:Lymphoblastic Leukemia, Acute, L2	normalName:lymphoblastic leukemia, acute, l2	normalWikiTitle:lymphoblastic leukemia, acute, l2	predictedType:Disease
+ENTITY	text:lymphoblastic lymphoma	normalName:lymphoblastic lymphoma	predictedType:disease	q:true	qid:Q444	docId:11587867	origText:lymphoblastic lymphoma	url:D054198
+CANDIDATE	id:54198	inCount:3	outCount:1	links:54198	url:D054198	name:Lymphoblastic Lymphoma	normalName:lymphoblastic lymphoma	normalWikiTitle:lymphoblastic lymphoma	predictedType:Disease

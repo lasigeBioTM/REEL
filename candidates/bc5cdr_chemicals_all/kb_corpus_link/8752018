@@ -1,0 +1,4 @@
+ENTITY	text:divalproex sodium	normalName:divalproex sodium	predictedType:chemical	q:true	qid:Q171	docId:8752018	origText:divalproex sodium	url:D014635
+CANDIDATE	id:14635	inCount:43	outCount:1	links:8094	url:D014635	name:Divalproex Sodium	normalName:divalproex sodium	normalWikiTitle:divalproex sodium	predictedType:Chemical
+ENTITY	text:Lithium	normalName:lithium	predictedType:chemical	q:true	qid:Q171	docId:8752018	origText:Lithium	url:D008094
+CANDIDATE	id:8094	inCount:15	outCount:2	links:14635	url:D008094	name:Lithium	normalName:lithium	normalWikiTitle:lithium	predictedType:Chemical

@@ -1,0 +1,22 @@
+ENTITY	text:methemoglobinemia	normalName:methemoglobinemia	predictedType:disease	q:true	qid:Q133	docId:18821488	origText:methemoglobinemia	url:D008708
+CANDIDATE	id:8708	inCount:6	outCount:1	links:	url:D008708	name:Methemoglobinemia	normalName:methemoglobinemia	normalWikiTitle:methemoglobinemia	predictedType:Disease
+ENTITY	text:poisoning	normalName:poisoning	predictedType:disease	q:true	qid:Q133	docId:18821488	origText:poisoning	url:D011041
+CANDIDATE	id:11041	inCount:14	outCount:1	links:	url:D011041	name:Poisoning	normalName:poisoning	normalWikiTitle:poisoning	predictedType:Disease
+ENTITY	text:Myoglobinuria	normalName:myoglobinuria	predictedType:disease	q:true	qid:Q133	docId:18821488	origText:Myoglobinuria	url:D009212
+CANDIDATE	id:9212	inCount:3	outCount:1	links:	url:D009212	name:Myoglobinuria	normalName:myoglobinuria	normalWikiTitle:myoglobinuria	predictedType:Disease
+ENTITY	text:Toxicity	normalName:toxicity	predictedType:disease	q:true	qid:Q133	docId:18821488	origText:Toxicity	url:D064420
+CANDIDATE	id:64420	inCount:10	outCount:1	links:	url:D064420	name:Drug Toxicity	normalName:drug toxicity	normalWikiTitle:drug toxicity	predictedType:Disease
+CANDIDATE	id:66126	inCount:0	outCount:3	links:	url:D066126	name:Cardiotoxicity	normalName:cardiotoxicity	normalWikiTitle:cardiotoxicity	predictedType:Disease
+CANDIDATE	id:15651	inCount:2	outCount:1	links:	url:D015651	name:Mycotoxicosis	normalName:mycotoxicosis	normalWikiTitle:mycotoxicosis	predictedType:Disease
+CANDIDATE	id:13971	inCount:2	outCount:1	links:	url:D013971	name:Thyrotoxicosis	normalName:thyrotoxicosis	normalWikiTitle:thyrotoxicosis	predictedType:Disease
+CANDIDATE	id:14869	inCount:0	outCount:2	links:	url:D014869	name:Water Intoxication	normalName:water intoxication	normalWikiTitle:water intoxication	predictedType:Disease
+CANDIDATE	id:14103	inCount:4	outCount:2	links:	url:D014103	name:Torticollis	normalName:torticollis	normalWikiTitle:torticollis	predictedType:Disease
+CANDIDATE	id:9765	inCount:42	outCount:2	links:	url:D009765	name:Obesity	normalName:obesity	normalWikiTitle:obesity	predictedType:Disease
+CANDIDATE	id:14115	inCount:1	outCount:1	links:	url:D014115	name:Toxemia	normalName:toxemia	normalWikiTitle:toxemia	predictedType:Disease
+CANDIDATE	id:7246	inCount:2	outCount:2	links:	url:D007246	name:Infertility	normalName:infertility	normalWikiTitle:infertility	predictedType:Disease
+CANDIDATE	id:20234	inCount:0	outCount:2	links:	url:D020234	name:Gait Ataxia	normalName:gait ataxia	normalWikiTitle:gait ataxia	predictedType:Disease
+CANDIDATE	id:14069	inCount:1	outCount:1	links:	url:D014069	name:Tonsillitis	normalName:tonsillitis	normalWikiTitle:tonsillitis	predictedType:Disease
+CANDIDATE	id:64420	inCount:10	outCount:1	links:	url:D064420	name:Toxicity, Drug	normalName:toxicity, drug	normalWikiTitle:toxicity, drug	predictedType:Disease
+CANDIDATE	id:17484	inCount:0	outCount:2	links:	url:D017484	name:Phototoxicity	normalName:phototoxicity	normalWikiTitle:phototoxicity	predictedType:Disease
+ENTITY	text:hemoglobinuria	normalName:hemoglobinuria	predictedType:disease	q:true	qid:Q133	docId:18821488	origText:hemoglobinuria	url:D006456
+CANDIDATE	id:6456	inCount:1	outCount:1	links:	url:D006456	name:Hemoglobinuria	normalName:hemoglobinuria	normalWikiTitle:hemoglobinuria	predictedType:Disease

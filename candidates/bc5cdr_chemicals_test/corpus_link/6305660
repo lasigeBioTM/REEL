@@ -1,0 +1,10 @@
+ENTITY	text:estrogen	normalName:estrogen	predictedType:chemical	q:true	qid:Q364	docId:6305660	origText:estrogen	url:D004967
+CANDIDATE	id:4967	inCount:1	outCount:1	links:	url:D004967	name:Estrogen	normalName:estrogen	normalWikiTitle:estrogen	predictedType:Chemical
+ENTITY	text:progestins	normalName:progestins	predictedType:chemical	q:true	qid:Q364	docId:6305660	origText:progestins	url:D011372
+CANDIDATE	id:11372	inCount:0	outCount:1	links:	url:D011372	name:Progestins	normalName:progestins	normalWikiTitle:progestins	predictedType:Chemical
+ENTITY	text:Medroxyprogesterone acetate	normalName:medroxyprogesterone acetate	predictedType:chemical	q:true	qid:Q364	docId:6305660	origText:Medroxyprogesterone acetate	url:D017258
+CANDIDATE	id:17258	inCount:8	outCount:1	links:4966	url:D017258	name:Medroxyprogesterone Acetate	normalName:medroxyprogesterone acetate	normalWikiTitle:medroxyprogesterone acetate	predictedType:Chemical
+ENTITY	text:Premarin	normalName:premarin	predictedType:chemical	q:true	qid:Q364	docId:6305660	origText:Premarin	url:D004966
+CANDIDATE	id:4966	inCount:6	outCount:1	links:17258	url:D004966	name:Premarin	normalName:premarin	normalWikiTitle:premarin	predictedType:Chemical
+ENTITY	text:conjugated estrogens	normalName:conjugated estrogens	predictedType:chemical	q:true	qid:Q364	docId:6305660	origText:conjugated estrogens	url:D004966
+CANDIDATE	id:4966	inCount:6	outCount:1	links:17258	url:D004966	name:Conjugated Estrogens	normalName:conjugated estrogens	normalWikiTitle:conjugated estrogens	predictedType:Chemical

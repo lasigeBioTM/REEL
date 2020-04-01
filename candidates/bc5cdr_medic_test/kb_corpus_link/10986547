@@ -1,0 +1,45 @@
+ENTITY	text:bipolar disorder	normalName:bipolar disorder	predictedType:disease	q:true	qid:Q264	docId:10986547	origText:bipolar disorder	url:D001714
+CANDIDATE	id:1714	inCount:11	outCount:1	links:10259;1714	url:D001714	name:Bipolar Disorder	normalName:bipolar disorder	normalWikiTitle:bipolar disorder	predictedType:Disease
+ENTITY	text:weight gain	normalName:weight gain	predictedType:disease	q:true	qid:Q264	docId:10986547	origText:weight gain	url:D015430
+CANDIDATE	id:15430	inCount:1	outCount:1	links:	url:D015430	name:Weight Gain	normalName:weight gain	normalWikiTitle:weight gain	predictedType:Disease
+ENTITY	text:Mania	normalName:mania	predictedType:disease	q:true	qid:Q264	docId:10986547	origText:Mania	url:D001714
+CANDIDATE	id:1714	inCount:11	outCount:1	links:10259;1714	url:D001714	name:Mania	normalName:mania	normalWikiTitle:mania	predictedType:Disease
+ENTITY	text:bipolar mania	normalName:bipolar mania	predictedType:disease	q:true	qid:Q264	docId:10986547	origText:bipolar mania	url:D001714
+CANDIDATE	id:1714	inCount:11	outCount:1	links:10259;1714	url:D001714	name:Bipolar Disorder	normalName:bipolar disorder	normalWikiTitle:bipolar disorder	predictedType:Disease
+CANDIDATE	id:70603	inCount:0	outCount:1	links:	url:D000070603	name:Coxa Magna	normalName:coxa magna	normalWikiTitle:coxa magna	predictedType:Disease
+CANDIDATE	id:18324	inCount:3	outCount:1	links:	url:D018324	name:Hemangioma, Capillary	normalName:hemangioma, capillary	normalWikiTitle:hemangioma, capillary	predictedType:Disease
+CANDIDATE	id:8080	inCount:2	outCount:2	links:	url:D008080	name:Liposarcoma	normalName:liposarcoma	normalWikiTitle:liposarcoma	predictedType:Disease
+CANDIDATE	id:20447	inCount:7	outCount:1	links:	url:D020447	name:Parasomnias	normalName:parasomnias	normalWikiTitle:parasomnias	predictedType:Disease
+CANDIDATE	id:16778	inCount:1	outCount:1	links:	url:D016778	name:Malaria, Falciparum	normalName:malaria, falciparum	normalWikiTitle:malaria, falciparum	predictedType:Disease
+CANDIDATE	id:1657	inCount:1	outCount:1	links:	url:D001657	name:Biliary Dyskinesia	normalName:biliary dyskinesia	normalWikiTitle:biliary dyskinesia	predictedType:Disease
+CANDIDATE	id:1658	inCount:0	outCount:1	links:	url:D001658	name:Biliary Fistula	normalName:biliary fistula	normalWikiTitle:biliary fistula	predictedType:Disease
+CANDIDATE	id:11141	inCount:1	outCount:2	links:	url:D011141	name:Polyuria	normalName:polyuria	normalWikiTitle:polyuria	predictedType:Disease
+CANDIDATE	id:8883	inCount:1	outCount:1	links:	url:D008883	name:Miliaria	normalName:miliaria	normalWikiTitle:miliaria	predictedType:Disease
+CANDIDATE	id:10259	inCount:0	outCount:1	links:1714	url:D010259	name:Paranoia	normalName:paranoia	normalWikiTitle:paranoia	predictedType:Disease
+CANDIDATE	id:6423	inCount:0	outCount:2	links:	url:D006423	name:Bitemporal Hemianopia	normalName:bitemporal hemianopia	normalWikiTitle:bitemporal hemianopia	predictedType:Disease
+CANDIDATE	id:6423	inCount:0	outCount:2	links:	url:D006423	name:Hemianopia, Bitemporal	normalName:hemianopia, bitemporal	normalWikiTitle:hemianopia, bitemporal	predictedType:Disease
+CANDIDATE	id:10259	inCount:0	outCount:1	links:1714	url:D010259	name:Paranoias	normalName:paranoias	normalWikiTitle:paranoias	predictedType:Disease
+CANDIDATE	id:5391	inCount:0	outCount:1	links:	url:D005391	name:Pyromania	normalName:pyromania	normalWikiTitle:pyromania	predictedType:Disease
+CANDIDATE	id:6423	inCount:0	outCount:2	links:	url:D006423	name:Bitemporal Hemianopias	normalName:bitemporal hemianopias	normalWikiTitle:bitemporal hemianopias	predictedType:Disease
+CANDIDATE	id:6423	inCount:0	outCount:2	links:	url:D006423	name:Hemianopsia, Bitemporal	normalName:hemianopsia, bitemporal	normalWikiTitle:hemianopsia, bitemporal	predictedType:Disease
+CANDIDATE	id:6423	inCount:0	outCount:2	links:	url:D006423	name:Bitemporal Hemianopsia	normalName:bitemporal hemianopsia	normalWikiTitle:bitemporal hemianopsia	predictedType:Disease
+CANDIDATE	id:6423	inCount:0	outCount:2	links:	url:D006423	name:Hemianopias, Bitemporal	normalName:hemianopias, bitemporal	normalWikiTitle:hemianopias, bitemporal	predictedType:Disease
+ENTITY	text:manic	normalName:manic	predictedType:disease	q:true	qid:Q264	docId:10986547	origText:manic	url:D001714
+CANDIDATE	id:1714	inCount:11	outCount:1	links:10259;1714	url:D001714	name:Manias	normalName:manias	normalWikiTitle:manias	predictedType:Disease
+CANDIDATE	id:7565	inCount:5	outCount:2	links:	url:D007565	name:Jaundice	normalName:jaundice	normalWikiTitle:jaundice	predictedType:Disease
+CANDIDATE	id:8548	inCount:4	outCount:1	links:	url:D008548	name:Melanosis	normalName:melanosis	normalWikiTitle:melanosis	predictedType:Disease
+CANDIDATE	id:1002	inCount:0	outCount:2	links:	url:D001002	name:Anuria	normalName:anuria	normalWikiTitle:anuria	predictedType:Disease
+CANDIDATE	id:849	inCount:0	outCount:1	links:	url:D000849	name:Anomia	normalName:anomia	normalWikiTitle:anomia	predictedType:Disease
+CANDIDATE	id:740	inCount:14	outCount:1	links:	url:D000740	name:Anemia	normalName:anemia	normalWikiTitle:anemia	predictedType:Disease
+CANDIDATE	id:59373	inCount:0	outCount:1	links:	url:D059373	name:Mastodynia	normalName:mastodynia	normalWikiTitle:mastodynia	predictedType:Disease
+CANDIDATE	id:15875	inCount:0	outCount:1	links:	url:D015875	name:Anisocoria	normalName:anisocoria	normalWikiTitle:anisocoria	predictedType:Disease
+CANDIDATE	id:6391	inCount:14	outCount:1	links:	url:D006391	name:Hemangioma	normalName:hemangioma	normalWikiTitle:hemangioma	predictedType:Disease
+CANDIDATE	id:535983	inCount:0	outCount:1	links:	url:C535983	name:ANIC	normalName:anic	normalWikiTitle:anic	predictedType:Disease
+CANDIDATE	id:1714	inCount:11	outCount:1	links:10259;1714	url:D001714	name:Mania	normalName:mania	normalWikiTitle:mania	predictedType:Disease
+CANDIDATE	id:58540	inCount:0	outCount:4	links:	url:D058540	name:AIC	normalName:aic	normalWikiTitle:aic	predictedType:Disease
+CANDIDATE	id:537984	inCount:0	outCount:1	links:	url:C537984	name:HMSNIC	normalName:hmsnic	normalWikiTitle:hmsnic	predictedType:Disease
+CANDIDATE	id:565737	inCount:0	outCount:1	links:	url:C565737	name:NAIC	normalName:naic	normalWikiTitle:naic	predictedType:Disease
+CANDIDATE	id:537555	inCount:0	outCount:2	links:	url:C537555	name:MHAC	normalName:mhac	normalWikiTitle:mhac	predictedType:Disease
+CANDIDATE	id:20386	inCount:0	outCount:2	links:	url:D020386	name:NMAN	normalName:nman	normalWikiTitle:nman	predictedType:Disease
+CANDIDATE	id:613376	inCount:0	outCount:1	links:	url:613376	name:HMN IIC	normalName:hmn iic	normalWikiTitle:hmn iic	predictedType:Disease
+CANDIDATE	id:614298	inCount:0	outCount:2	links:	url:614298	name:MPAN	normalName:mpan	normalWikiTitle:mpan	predictedType:Disease

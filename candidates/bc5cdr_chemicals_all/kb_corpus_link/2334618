@@ -1,0 +1,6 @@
+ENTITY	text:morphine	normalName:morphine	predictedType:chemical	q:true	qid:Q1281	docId:2334618	origText:morphine	url:D009020
+CANDIDATE	id:9020	inCount:13	outCount:1	links:2045	url:D009020	name:Morphine	normalName:morphine	normalWikiTitle:morphine	predictedType:Chemical
+ENTITY	text:bupivacaine	normalName:bupivacaine	predictedType:chemical	q:true	qid:Q1281	docId:2334618	origText:bupivacaine	url:D002045
+CANDIDATE	id:2045	inCount:4	outCount:1	links:9020	url:D002045	name:Bupivacaine	normalName:bupivacaine	normalWikiTitle:bupivacaine	predictedType:Chemical
+ENTITY	text:carbon dioxide	normalName:carbon dioxide	predictedType:chemical	q:true	qid:Q1281	docId:2334618	origText:carbon dioxide	url:D002245
+CANDIDATE	id:2245	inCount:4	outCount:3	links:	url:D002245	name:Carbon Dioxide	normalName:carbon dioxide	normalWikiTitle:carbon dioxide	predictedType:Chemical

@@ -1,0 +1,31 @@
+ENTITY	text:hemolytic anemia	normalName:hemolytic anemia	predictedType:disease	q:true	qid:Q590	docId:3108839	origText:hemolytic anemia	url:D000743
+CANDIDATE	id:743	inCount:20	outCount:1	links:13921	url:D000743	name:Anemia, Hemolytic	normalName:anemia, hemolytic	normalWikiTitle:anemia, hemolytic	predictedType:Disease
+ENTITY	text:renal failure	normalName:renal failure	predictedType:disease	q:true	qid:Q590	docId:3108839	origText:renal failure	url:D051437
+CANDIDATE	id:51437	inCount:10	outCount:1	links:13921;6463	url:D051437	name:Renal Failure	normalName:renal failure	normalWikiTitle:renal failure	predictedType:Disease
+ENTITY	text:thrombocytopenia	normalName:thrombocytopenia	predictedType:disease	q:true	qid:Q590	docId:3108839	origText:thrombocytopenia	url:D013921
+CANDIDATE	id:13921	inCount:42	outCount:1	links:743;7511;13923;6463;13927;51437;20246	url:D013921	name:Thrombocytopenia	normalName:thrombocytopenia	normalWikiTitle:thrombocytopenia	predictedType:Disease
+ENTITY	text:pulmonary edema	normalName:pulmonary edema	predictedType:disease	q:true	qid:Q590	docId:3108839	origText:pulmonary edema	url:D011654
+CANDIDATE	id:11654	inCount:1	outCount:1	links:	url:D011654	name:Pulmonary Edema	normalName:pulmonary edema	normalWikiTitle:pulmonary edema	predictedType:Disease
+ENTITY	text:ischemic	normalName:ischemic	predictedType:disease	q:true	qid:Q590	docId:3108839	origText:ischemic	url:D007511
+CANDIDATE	id:7511	inCount:3	outCount:1	links:13921;6463	url:D007511	name:Ischemia	normalName:ischemia	normalWikiTitle:ischemia	predictedType:Disease
+CANDIDATE	id:17091	inCount:0	outCount:2	links:	url:D017091	name:Colitis, Ischemic	normalName:colitis, ischemic	normalWikiTitle:colitis, ischemic	predictedType:Disease
+CANDIDATE	id:2545	inCount:4	outCount:1	links:	url:D002545	name:Brain Ischemia	normalName:brain ischemia	normalWikiTitle:brain ischemia	predictedType:Disease
+CANDIDATE	id:2057	inCount:0	outCount:1	links:	url:D002057	name:Burns, Chemical	normalName:burns, chemical	normalWikiTitle:burns, chemical	predictedType:Disease
+CANDIDATE	id:65666	inCount:0	outCount:3	links:	url:D065666	name:Mesenteric Ischemia	normalName:mesenteric ischemia	normalWikiTitle:mesenteric ischemia	predictedType:Disease
+CANDIDATE	id:17202	inCount:6	outCount:2	links:13927	url:D017202	name:Myocardial Ischemia	normalName:myocardial ischemia	normalWikiTitle:myocardial ischemia	predictedType:Disease
+CANDIDATE	id:54061	inCount:0	outCount:2	links:	url:D054061	name:Ischemic Contracture	normalName:ischemic contracture	normalWikiTitle:ischemic contracture	predictedType:Disease
+CANDIDATE	id:12216	inCount:9	outCount:2	links:	url:D012216	name:Rheumatic Diseases	normalName:rheumatic diseases	normalWikiTitle:rheumatic diseases	predictedType:Disease
+CANDIDATE	id:14766	inCount:1	outCount:2	links:	url:D014766	name:Viremia	normalName:viremia	normalWikiTitle:viremia	predictedType:Disease
+ENTITY	text:hemolytic uremic syndrome	normalName:hemolytic uremic syndrome	predictedType:disease	q:true	qid:Q590	docId:3108839	origText:hemolytic uremic syndrome	url:D006463
+CANDIDATE	id:6463	inCount:2	outCount:3	links:51437;13924;20246;13921;7511	url:D006463	name:Hemolytic-Uremic Syndrome	normalName:hemolytic-uremic syndrome	normalWikiTitle:hemolytic-uremic syndrome	predictedType:Disease
+ENTITY	text:thrombi	normalName:thrombi	predictedType:disease	q:true	qid:Q590	docId:3108839	origText:thrombi	url:D013927
+CANDIDATE	id:13927	inCount:4	outCount:1	links:13921;17202	url:D013927	name:Thrombosis	normalName:thrombosis	normalWikiTitle:thrombosis	predictedType:Disease
+CANDIDATE	id:19851	inCount:16	outCount:1	links:	url:D019851	name:Thrombophilia	normalName:thrombophilia	normalWikiTitle:thrombophilia	predictedType:Disease
+CANDIDATE	id:13915	inCount:3	outCount:3	links:	url:D013915	name:Thrombasthenia	normalName:thrombasthenia	normalWikiTitle:thrombasthenia	predictedType:Disease
+CANDIDATE	id:13922	inCount:4	outCount:2	links:	url:D013922	name:Thrombocytosis	normalName:thrombocytosis	normalWikiTitle:thrombocytosis	predictedType:Disease
+CANDIDATE	id:13923	inCount:3	outCount:1	links:13921	url:D013923	name:Thromboembolism	normalName:thromboembolism	normalWikiTitle:thromboembolism	predictedType:Disease
+CANDIDATE	id:13924	inCount:1	outCount:2	links:6463	url:D013924	name:Thrombophlebitis	normalName:thrombophlebitis	normalWikiTitle:thrombophlebitis	predictedType:Disease
+CANDIDATE	id:13921	inCount:42	outCount:1	links:743;7511;13923;6463;13927;51437;20246	url:D013921	name:Thrombocytopenia	normalName:thrombocytopenia	normalWikiTitle:thrombocytopenia	predictedType:Disease
+CANDIDATE	id:4480	inCount:21	outCount:1	links:	url:D004480	name:Ectromelia	normalName:ectromelia	normalWikiTitle:ectromelia	predictedType:Disease
+CANDIDATE	id:20246	inCount:5	outCount:1	links:13921;6463	url:D020246	name:Venous Thrombosis	normalName:venous thrombosis	normalWikiTitle:venous thrombosis	predictedType:Disease
+CANDIDATE	id:13798	inCount:0	outCount:2	links:	url:D013798	name:Thecoma	normalName:thecoma	normalWikiTitle:thecoma	predictedType:Disease

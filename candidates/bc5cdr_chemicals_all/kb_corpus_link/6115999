@@ -1,0 +1,10 @@
+ENTITY	text:propranolol	normalName:propranolol	predictedType:chemical	q:true	qid:Q1265	docId:6115999	origText:propranolol	url:D011433
+CANDIDATE	id:11433	inCount:46	outCount:2	links:1539	url:D011433	name:Propranolol	normalName:propranolol	normalWikiTitle:propranolol	predictedType:Chemical
+ENTITY	text:potassium	normalName:potassium	predictedType:chemical	q:true	qid:Q1265	docId:6115999	origText:potassium	url:D011188
+CANDIDATE	id:11188	inCount:10	outCount:2	links:	url:D011188	name:Potassium	normalName:potassium	normalWikiTitle:potassium	predictedType:Chemical
+ENTITY	text:urea	normalName:urea	predictedType:chemical	q:true	qid:Q1265	docId:6115999	origText:urea	url:D014508
+CANDIDATE	id:14508	inCount:401	outCount:1	links:	url:D014508	name:Urea	normalName:urea	normalWikiTitle:urea	predictedType:Chemical
+ENTITY	text:uric acid	normalName:uric acid	predictedType:chemical	q:true	qid:Q1265	docId:6115999	origText:uric acid	url:D014527
+CANDIDATE	id:14527	inCount:21	outCount:1	links:	url:D014527	name:Uric Acid	normalName:uric acid	normalWikiTitle:uric acid	predictedType:Chemical
+ENTITY	text:bendrofluazide	normalName:bendrofluazide	predictedType:chemical	q:true	qid:Q1265	docId:6115999	origText:bendrofluazide	url:D001539
+CANDIDATE	id:1539	inCount:5	outCount:1	links:11433	url:D001539	name:Bendrofluazide	normalName:bendrofluazide	normalWikiTitle:bendrofluazide	predictedType:Chemical

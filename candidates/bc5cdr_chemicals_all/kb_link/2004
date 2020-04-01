@@ -1,0 +1,22 @@
+ENTITY	text:Elavil	normalName:elavil	predictedType:chemical	q:true	qid:Q1415	docId:2004	origText:Elavil	url:D000639
+CANDIDATE	id:639	inCount:14	outCount:1	links:639	url:D000639	name:Elavil	normalName:elavil	normalWikiTitle:elavil	predictedType:Chemical
+ENTITY	text:propranolol	normalName:propranolol	predictedType:chemical	q:true	qid:Q1415	docId:2004	origText:propranolol	url:D011433
+CANDIDATE	id:11433	inCount:46	outCount:2	links:	url:D011433	name:Propranolol	normalName:propranolol	normalWikiTitle:propranolol	predictedType:Chemical
+ENTITY	text:phenothiazines	normalName:phenothiazines	predictedType:chemical	q:true	qid:Q1415	docId:2004	origText:phenothiazines	url:D010640
+CANDIDATE	id:10640	inCount:140	outCount:2	links:	url:D010640	name:Phenothiazines	normalName:phenothiazines	normalWikiTitle:phenothiazines	predictedType:Chemical
+ENTITY	text:nortriptyline	normalName:nortriptyline	predictedType:chemical	q:true	qid:Q1415	docId:2004	origText:nortriptyline	url:D009661
+CANDIDATE	id:9661	inCount:4	outCount:1	links:9661	url:D009661	name:Nortriptyline	normalName:nortriptyline	normalWikiTitle:nortriptyline	predictedType:Chemical
+ENTITY	text:Aventyl	normalName:aventyl	predictedType:chemical	q:true	qid:Q1415	docId:2004	origText:Aventyl	url:D009661
+CANDIDATE	id:9661	inCount:4	outCount:1	links:9661	url:D009661	name:Aventyl	normalName:aventyl	normalWikiTitle:aventyl	predictedType:Chemical
+ENTITY	text:Thorazine	normalName:thorazine	predictedType:chemical	q:true	qid:Q1415	docId:2004	origText:Thorazine	url:D002746
+CANDIDATE	id:2746	inCount:26	outCount:1	links:2746	url:D002746	name:Thorazine	normalName:thorazine	normalWikiTitle:thorazine	predictedType:Chemical
+ENTITY	text:chlorpromazine	normalName:chlorpromazine	predictedType:chemical	q:true	qid:Q1415	docId:2004	origText:chlorpromazine	url:D002746
+CANDIDATE	id:2746	inCount:26	outCount:1	links:2746	url:D002746	name:Chlorpromazine	normalName:chlorpromazine	normalWikiTitle:chlorpromazine	predictedType:Chemical
+ENTITY	text:thioridazine	normalName:thioridazine	predictedType:chemical	q:true	qid:Q1415	docId:2004	origText:thioridazine	url:D013881
+CANDIDATE	id:13881	inCount:6	outCount:1	links:13881	url:D013881	name:Thioridazine	normalName:thioridazine	normalWikiTitle:thioridazine	predictedType:Chemical
+ENTITY	text:Mellaril	normalName:mellaril	predictedType:chemical	q:true	qid:Q1415	docId:2004	origText:Mellaril	url:D013881
+CANDIDATE	id:13881	inCount:6	outCount:1	links:13881	url:D013881	name:Mellaril	normalName:mellaril	normalWikiTitle:mellaril	predictedType:Chemical
+ENTITY	text:lidocaine	normalName:lidocaine	predictedType:chemical	q:true	qid:Q1415	docId:2004	origText:lidocaine	url:D008012
+CANDIDATE	id:8012	inCount:68	outCount:1	links:	url:D008012	name:Lidocaine	normalName:lidocaine	normalWikiTitle:lidocaine	predictedType:Chemical
+ENTITY	text:amitriptyline	normalName:amitriptyline	predictedType:chemical	q:true	qid:Q1415	docId:2004	origText:amitriptyline	url:D000639
+CANDIDATE	id:639	inCount:14	outCount:1	links:639	url:D000639	name:Amitriptyline	normalName:amitriptyline	normalWikiTitle:amitriptyline	predictedType:Chemical

@@ -1,0 +1,8 @@
+ENTITY	text:Phenylephrine	normalName:phenylephrine	predictedType:chemical	q:true	qid:Q1073	docId:19957053	origText:Phenylephrine	url:D010656
+CANDIDATE	id:10656	inCount:28	outCount:1	links:	url:D010656	name:Phenylephrine	normalName:phenylephrine	normalWikiTitle:phenylephrine	predictedType:Chemical
+ENTITY	text:fentanyl	normalName:fentanyl	predictedType:chemical	q:true	qid:Q1073	docId:19957053	origText:fentanyl	url:D005283
+CANDIDATE	id:5283	inCount:40	outCount:1	links:	url:D005283	name:Fentanyl	normalName:fentanyl	normalWikiTitle:fentanyl	predictedType:Chemical
+ENTITY	text:ephedrine	normalName:ephedrine	predictedType:chemical	q:true	qid:Q1073	docId:19957053	origText:ephedrine	url:D004809
+CANDIDATE	id:4809	inCount:31	outCount:2	links:	url:D004809	name:Ephedrine	normalName:ephedrine	normalWikiTitle:ephedrine	predictedType:Chemical
+ENTITY	text:propofol	normalName:propofol	predictedType:chemical	q:true	qid:Q1073	docId:19957053	origText:propofol	url:D015742
+CANDIDATE	id:15742	inCount:12	outCount:1	links:	url:D015742	name:Propofol	normalName:propofol	normalWikiTitle:propofol	predictedType:Chemical

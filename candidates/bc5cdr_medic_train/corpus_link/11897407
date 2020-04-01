@@ -1,0 +1,15 @@
+ENTITY	text:myocardial infarction	normalName:myocardial infarction	predictedType:disease	q:true	qid:Q268	docId:11897407	origText:myocardial infarction	url:D009203
+CANDIDATE	id:9203	inCount:8	outCount:1	links:2544	url:D009203	name:Myocardial Infarction	normalName:myocardial infarction	normalWikiTitle:myocardial infarction	predictedType:Disease
+ENTITY	text:Infarct	normalName:infarct	predictedType:disease	q:true	qid:Q268	docId:11897407	origText:Infarct	url:D007238
+CANDIDATE	id:7238	inCount:0	outCount:2	links:	url:D007238	name:Infarction	normalName:infarction	normalWikiTitle:infarction	predictedType:Disease
+CANDIDATE	id:7239	inCount:33	outCount:1	links:	url:D007239	name:Infection	normalName:infection	normalWikiTitle:infection	predictedType:Disease
+CANDIDATE	id:20520	inCount:2	outCount:2	links:	url:D020520	name:Brain Infarction	normalName:brain infarction	normalWikiTitle:brain infarction	predictedType:Disease
+CANDIDATE	id:538359	inCount:0	outCount:1	links:	url:C538359	name:RDS - infants	normalName:rds - infants	normalWikiTitle:rds - infants	predictedType:Disease
+CANDIDATE	id:13159	inCount:0	outCount:2	links:	url:D013159	name:Splenic Infarction	normalName:splenic infarction	normalWikiTitle:splenic infarction	predictedType:Disease
+CANDIDATE	id:7246	inCount:2	outCount:2	links:	url:D007246	name:Infertility	normalName:infertility	normalWikiTitle:infertility	predictedType:Disease
+CANDIDATE	id:60085	inCount:0	outCount:3	links:	url:D060085	name:Coinfection	normalName:coinfection	normalWikiTitle:coinfection	predictedType:Disease
+CANDIDATE	id:2544	inCount:5	outCount:1	links:9203	url:D002544	name:Cerebral Infarction	normalName:cerebral infarction	normalWikiTitle:cerebral infarction	predictedType:Disease
+CANDIDATE	id:66088	inCount:1	outCount:1	links:	url:D066088	name:Infant Death	normalName:infant death	normalWikiTitle:infant death	predictedType:Disease
+CANDIDATE	id:7249	inCount:14	outCount:1	links:	url:D007249	name:Inflammation	normalName:inflammation	normalWikiTitle:inflammation	predictedType:Disease
+ENTITY	text:infarction	normalName:infarction	predictedType:disease	q:true	qid:Q268	docId:11897407	origText:infarction	url:D007238
+CANDIDATE	id:7238	inCount:0	outCount:2	links:	url:D007238	name:Infarction	normalName:infarction	normalWikiTitle:infarction	predictedType:Disease

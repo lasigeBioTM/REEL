@@ -1,0 +1,19 @@
+ENTITY	text:chronic renal failure	normalName:chronic renal failure	predictedType:disease	q:true	qid:Q639	docId:12617329	origText:chronic renal failure	url:D007676
+CANDIDATE	id:7676	inCount:3	outCount:1	links:58186	url:D007676	name:Chronic Renal Failure	normalName:chronic renal failure	normalWikiTitle:chronic renal failure	predictedType:Disease
+ENTITY	text:acute renal failure	normalName:acute renal failure	predictedType:disease	q:true	qid:Q639	docId:12617329	origText:acute renal failure	url:D058186
+CANDIDATE	id:58186	inCount:2	outCount:1	links:9336;7683;7676	url:D058186	name:Acute Renal Failure	normalName:acute renal failure	normalWikiTitle:acute renal failure	predictedType:Disease
+ENTITY	text:tubular necrosis	normalName:tubular necrosis	predictedType:disease	q:true	qid:Q639	docId:12617329	origText:tubular necrosis	url:D007683
+CANDIDATE	id:7683	inCount:0	outCount:1	links:58186	url:D007683	name:Kidney Tubular Necrosis, Acute	normalName:kidney tubular necrosis, acute	normalWikiTitle:kidney tubular necrosis, acute	predictedType:Disease
+CANDIDATE	id:20338	inCount:0	outCount:1	links:	url:D020338	name:Vestibular Neuronitis	normalName:vestibular neuronitis	normalWikiTitle:vestibular neuronitis	predictedType:Disease
+CANDIDATE	id:141	inCount:11	outCount:2	links:	url:D000141	name:Acidosis, Renal Tubular	normalName:acidosis, renal tubular	normalWikiTitle:acidosis, renal tubular	predictedType:Disease
+CANDIDATE	id:9336	inCount:6	outCount:1	links:58186	url:D009336	name:Necrosis	normalName:necrosis	normalWikiTitle:necrosis	predictedType:Disease
+CANDIDATE	id:267430	inCount:0	outCount:2	links:	url:267430	name:RENAL TUBULAR DYSGENESIS	normalName:renal tubular dysgenesis	normalWikiTitle:renal tubular dysgenesis	predictedType:Disease
+CANDIDATE	id:20424	inCount:2	outCount:1	links:	url:D020424	name:Ulnar Neuropathies	normalName:ulnar neuropathies	normalWikiTitle:ulnar neuropathies	predictedType:Disease
+CANDIDATE	id:531662	inCount:0	outCount:1	links:	url:C531662	name:Submacular Cysticercosis	normalName:submacular cysticercosis	normalWikiTitle:submacular cysticercosis	predictedType:Disease
+CANDIDATE	id:14402	inCount:4	outCount:6	links:	url:D014402	name:Tuberous Sclerosis	normalName:tuberous sclerosis	normalWikiTitle:tuberous sclerosis	predictedType:Disease
+CANDIDATE	id:19351	inCount:1	outCount:1	links:	url:D019351	name:Rubulavirus Infections	normalName:rubulavirus infections	normalWikiTitle:rubulavirus infections	predictedType:Disease
+CANDIDATE	id:14846	inCount:0	outCount:2	links:	url:D014846	name:Vulvar Neoplasms	normalName:vulvar neoplasms	normalWikiTitle:vulvar neoplasms	predictedType:Disease
+CANDIDATE	id:3790	inCount:0	outCount:2	links:	url:D003790	name:Pulp Necrosis	normalName:pulp necrosis	normalWikiTitle:pulp necrosis	predictedType:Disease
+CANDIDATE	id:7673	inCount:0	outCount:1	links:	url:D007673	name:Renal Tubule Necrosis	normalName:renal tubule necrosis	normalWikiTitle:renal tubule necrosis	predictedType:Disease
+CANDIDATE	id:7673	inCount:0	outCount:1	links:	url:D007673	name:Necrosis, Renal Tubule	normalName:necrosis, renal tubule	normalWikiTitle:necrosis, renal tubule	predictedType:Disease
+CANDIDATE	id:3790	inCount:0	outCount:2	links:	url:D003790	name:Necrosis, Pulp	normalName:necrosis, pulp	normalWikiTitle:necrosis, pulp	predictedType:Disease

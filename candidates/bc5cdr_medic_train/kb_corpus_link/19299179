@@ -1,0 +1,23 @@
+ENTITY	text:intrahepatic cholestasis	normalName:intrahepatic cholestasis	predictedType:disease	q:true	qid:Q464	docId:19299179	origText:intrahepatic cholestasis	url:D002780
+CANDIDATE	id:2780	inCount:11	outCount:2	links:	url:D002780	name:Cholestasis, Intrahepatic	normalName:cholestasis, intrahepatic	normalWikiTitle:cholestasis, intrahepatic	predictedType:Disease
+ENTITY	text:cholestasis	normalName:cholestasis	predictedType:disease	q:true	qid:Q464	docId:19299179	origText:cholestasis	url:D002779
+CANDIDATE	id:2779	inCount:14	outCount:1	links:	url:D002779	name:Cholestasis	normalName:cholestasis	normalWikiTitle:cholestasis	predictedType:Disease
+ENTITY	text:opportunistic infection	normalName:opportunistic infection	predictedType:disease	q:true	qid:Q464	docId:19299179	origText:opportunistic infection	url:D009894
+CANDIDATE	id:9894	inCount:2	outCount:3	links:	url:D009894	name:Opportunistic Infection	normalName:opportunistic infection	normalWikiTitle:opportunistic infection	predictedType:Disease
+ENTITY	text:Pneumocystis pneumonia	normalName:pneumocystis pneumonia	predictedType:disease	q:true	qid:Q464	docId:19299179	origText:Pneumocystis pneumonia	url:D011020
+CANDIDATE	id:11020	inCount:0	outCount:3	links:	url:D011020	name:Pneumonia, Pneumocystis	normalName:pneumonia, pneumocystis	normalWikiTitle:pneumonia, pneumocystis	predictedType:Disease
+ENTITY	text:HIV-infected	normalName:hiv-infected	predictedType:disease	q:true	qid:Q464	docId:19299179	origText:HIV-infected	url:D015658
+CANDIDATE	id:15658	inCount:12	outCount:3	links:	url:D015658	name:Infection, HIV	normalName:infection, hiv	normalWikiTitle:infection, hiv	predictedType:Disease
+CANDIDATE	id:15658	inCount:12	outCount:3	links:	url:D015658	name:HIV Infections	normalName:hiv infections	normalWikiTitle:hiv infections	predictedType:Disease
+CANDIDATE	id:785	inCount:0	outCount:2	links:	url:D000785	name:Aneurysm, Infected	normalName:aneurysm, infected	normalWikiTitle:aneurysm, infected	predictedType:Disease
+CANDIDATE	id:15490	inCount:1	outCount:1	links:	url:D015490	name:HTLV-I Infections	normalName:htlv-i infections	normalWikiTitle:htlv-i infections	predictedType:Disease
+CANDIDATE	id:15491	inCount:0	outCount:1	links:	url:D015491	name:HTLV-II Infections	normalName:htlv-ii infections	normalWikiTitle:htlv-ii infections	predictedType:Disease
+CANDIDATE	id:45464	inCount:0	outCount:1	links:	url:D045464	name:Henipavirus Infections	normalName:henipavirus infections	normalWikiTitle:henipavirus infections	predictedType:Disease
+CANDIDATE	id:7239	inCount:33	outCount:1	links:	url:D007239	name:Infection	normalName:infection	normalWikiTitle:infection	predictedType:Disease
+CANDIDATE	id:2690	inCount:5	outCount:2	links:	url:D002690	name:Chlamydia Infections	normalName:chlamydia infections	normalWikiTitle:chlamydia infections	predictedType:Disease
+CANDIDATE	id:4457	inCount:2	outCount:1	links:	url:D004457	name:Echovirus Infections	normalName:echovirus infections	normalWikiTitle:echovirus infections	predictedType:Disease
+CANDIDATE	id:1170	inCount:2	outCount:2	links:	url:D001170	name:Arthritis, Infectious	normalName:arthritis, infectious	normalWikiTitle:arthritis, infectious	predictedType:Disease
+CANDIDATE	id:18354	inCount:2	outCount:1	links:	url:D018354	name:Alphavirus Infections	normalName:alphavirus infections	normalWikiTitle:alphavirus infections	predictedType:Disease
+CANDIDATE	id:15658	inCount:12	outCount:3	links:	url:D015658	name:HIV Infection	normalName:hiv infection	normalWikiTitle:hiv infection	predictedType:Disease
+ENTITY	text:liver abscess	normalName:liver abscess	predictedType:disease	q:true	qid:Q464	docId:19299179	origText:liver abscess	url:D008100
+CANDIDATE	id:8100	inCount:2	outCount:2	links:	url:D008100	name:Liver Abscess	normalName:liver abscess	normalWikiTitle:liver abscess	predictedType:Disease

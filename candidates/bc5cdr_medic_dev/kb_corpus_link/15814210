@@ -1,0 +1,15 @@
+ENTITY	text:haemorrhage	normalName:haemorrhage	predictedType:disease	q:true	qid:Q118	docId:15814210	origText:haemorrhage	url:D006470
+CANDIDATE	id:6470	inCount:31	outCount:1	links:	url:D006470	name:Hemorrhage	normalName:hemorrhage	normalWikiTitle:hemorrhage	predictedType:Disease
+CANDIDATE	id:5130	inCount:4	outCount:3	links:	url:D005130	name:Eye Hemorrhage	normalName:eye hemorrhage	normalWikiTitle:eye hemorrhage	predictedType:Disease
+CANDIDATE	id:6472	inCount:1	outCount:3	links:	url:D006472	name:Oral Hemorrhage	normalName:oral hemorrhage	normalWikiTitle:oral hemorrhage	predictedType:Disease
+CANDIDATE	id:12166	inCount:3	outCount:2	links:	url:D012166	name:Retinal Hemorrhage	normalName:retinal hemorrhage	normalWikiTitle:retinal hemorrhage	predictedType:Disease
+CANDIDATE	id:2832	inCount:0	outCount:2	links:	url:D002832	name:Choroid Hemorrhage	normalName:choroid hemorrhage	normalWikiTitle:choroid hemorrhage	predictedType:Disease
+CANDIDATE	id:14592	inCount:3	outCount:2	links:	url:D014592	name:Uterine Hemorrhage	normalName:uterine hemorrhage	normalWikiTitle:uterine hemorrhage	predictedType:Disease
+CANDIDATE	id:568	inCount:3	outCount:1	links:	url:D000568	name:Amenorrhea	normalName:amenorrhea	normalWikiTitle:amenorrhea	predictedType:Disease
+CANDIDATE	id:5884	inCount:1	outCount:2	links:	url:D005884	name:Gingival Hemorrhage	normalName:gingival hemorrhage	normalWikiTitle:gingival hemorrhage	predictedType:Disease
+CANDIDATE	id:14823	inCount:0	outCount:1	links:	url:D014823	name:Vitreous Hemorrhage	normalName:vitreous hemorrhage	normalWikiTitle:vitreous hemorrhage	predictedType:Disease
+CANDIDATE	id:2543	inCount:3	outCount:1	links:	url:D002543	name:Cerebral Hemorrhage	normalName:cerebral hemorrhage	normalWikiTitle:cerebral hemorrhage	predictedType:Disease
+ENTITY	text:asphyxia	normalName:asphyxia	predictedType:disease	q:true	qid:Q118	docId:15814210	origText:asphyxia	url:D001237
+CANDIDATE	id:1237	inCount:0	outCount:2	links:	url:D001237	name:Asphyxia	normalName:asphyxia	normalWikiTitle:asphyxia	predictedType:Disease
+ENTITY	text:periventricular leukomalacia	normalName:periventricular leukomalacia	predictedType:disease	q:true	qid:Q118	docId:15814210	origText:periventricular leukomalacia	url:D007969
+CANDIDATE	id:7969	inCount:0	outCount:3	links:	url:D007969	name:Leukomalacia, Periventricular	normalName:leukomalacia, periventricular	normalWikiTitle:leukomalacia, periventricular	predictedType:Disease

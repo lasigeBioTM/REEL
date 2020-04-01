@@ -1,0 +1,4 @@
+ENTITY	text:bromperidol	normalName:bromperidol	predictedType:chemical	q:true	qid:Q419	docId:347884	origText:bromperidol	url:C006820
+CANDIDATE	id:6820	inCount:0	outCount:1	links:6220	url:C006820	name:bromperidol	normalName:bromperidol	normalWikiTitle:bromperidol	predictedType:Chemical
+ENTITY	text:haloperidol	normalName:haloperidol	predictedType:chemical	q:true	qid:Q419	docId:347884	origText:haloperidol	url:D006220
+CANDIDATE	id:6220	inCount:24	outCount:1	links:6820	url:D006220	name:Haloperidol	normalName:haloperidol	normalWikiTitle:haloperidol	predictedType:Chemical

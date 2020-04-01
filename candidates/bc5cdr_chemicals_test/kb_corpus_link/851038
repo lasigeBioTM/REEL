@@ -1,0 +1,8 @@
+ENTITY	text:L-dopa	normalName:l-dopa	predictedType:chemical	q:true	qid:Q253	docId:851038	origText:L-dopa	url:D007980
+CANDIDATE	id:7980	inCount:32	outCount:1	links:	url:D007980	name:L-Dopa	normalName:l-dopa	normalWikiTitle:l-dopa	predictedType:Chemical
+ENTITY	text:sodium	normalName:sodium	predictedType:chemical	q:true	qid:Q253	docId:851038	origText:sodium	url:D012964
+CANDIDATE	id:12964	inCount:10	outCount:2	links:	url:D012964	name:Sodium	normalName:sodium	normalWikiTitle:sodium	predictedType:Chemical
+ENTITY	text:potassium	normalName:potassium	predictedType:chemical	q:true	qid:Q253	docId:851038	origText:potassium	url:D011188
+CANDIDATE	id:11188	inCount:10	outCount:2	links:	url:D011188	name:Potassium	normalName:potassium	normalWikiTitle:potassium	predictedType:Chemical
+ENTITY	text:aldosterone	normalName:aldosterone	predictedType:chemical	q:true	qid:Q253	docId:851038	origText:aldosterone	url:D000450
+CANDIDATE	id:450	inCount:23	outCount:2	links:	url:D000450	name:Aldosterone	normalName:aldosterone	normalWikiTitle:aldosterone	predictedType:Chemical

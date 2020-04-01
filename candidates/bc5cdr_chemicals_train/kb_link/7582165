@@ -1,0 +1,16 @@
+ENTITY	text:paramethasone	normalName:paramethasone	predictedType:chemical	q:true	qid:Q127	docId:7582165	origText:paramethasone	url:D010248
+CANDIDATE	id:10248	inCount:1	outCount:2	links:	url:D010248	name:Paramethasone	normalName:paramethasone	normalWikiTitle:paramethasone	predictedType:Chemical
+ENTITY	text:corticosteroids	normalName:corticosteroids	predictedType:chemical	q:true	qid:Q127	docId:7582165	origText:corticosteroids	url:D000305
+CANDIDATE	id:305	inCount:8	outCount:1	links:	url:D000305	name:Corticosteroids	normalName:corticosteroids	normalWikiTitle:corticosteroids	predictedType:Chemical
+CANDIDATE	id:3345	inCount:21	outCount:2	links:	url:D003345	name:Corticosterone	normalName:corticosterone	normalWikiTitle:corticosterone	predictedType:Chemical
+CANDIDATE	id:540640	inCount:0	outCount:1	links:	url:C540640	name:ptilosteroid C	normalName:ptilosteroid c	normalWikiTitle:ptilosteroid c	predictedType:Chemical
+CANDIDATE	id:6889	inCount:5	outCount:1	links:	url:D006889	name:Hydroxycorticosteroids	normalName:hydroxycorticosteroids	normalWikiTitle:hydroxycorticosteroids	predictedType:Chemical
+CANDIDATE	id:534366	inCount:0	outCount:1	links:	url:C534366	name:parathiosteroid C	normalName:parathiosteroid c	normalWikiTitle:parathiosteroid c	predictedType:Chemical
+CANDIDATE	id:26367	inCount:0	outCount:1	links:	url:C026367	name:corticosterone nitroxide	normalName:corticosterone nitroxide	normalWikiTitle:corticosterone nitroxide	predictedType:Chemical
+CANDIDATE	id:54598	inCount:0	outCount:1	links:	url:C054598	name:corticostatin	normalName:corticostatin	normalWikiTitle:corticostatin	predictedType:Chemical
+CANDIDATE	id:3525	inCount:1	outCount:1	links:	url:D003525	name:Cyclosteroids	normalName:cyclosteroids	normalWikiTitle:cyclosteroids	predictedType:Chemical
+CANDIDATE	id:10897	inCount:0	outCount:1	links:	url:C010897	name:corticotensin	normalName:corticotensin	normalWikiTitle:corticotensin	predictedType:Chemical
+CANDIDATE	id:15062	inCount:5	outCount:1	links:	url:D015062	name:11-Hydroxycorticosteroids	normalName:11-hydroxycorticosteroids	normalWikiTitle:11-hydroxycorticosteroids	predictedType:Chemical
+CANDIDATE	id:9654	inCount:35	outCount:1	links:	url:D009654	name:Norsteroids	normalName:norsteroids	normalWikiTitle:norsteroids	predictedType:Chemical
+ENTITY	text:dexamethasone	normalName:dexamethasone	predictedType:chemical	q:true	qid:Q127	docId:7582165	origText:dexamethasone	url:D003907
+CANDIDATE	id:3907	inCount:138	outCount:2	links:	url:D003907	name:Dexamethasone	normalName:dexamethasone	normalWikiTitle:dexamethasone	predictedType:Chemical

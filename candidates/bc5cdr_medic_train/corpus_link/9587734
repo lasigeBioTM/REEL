@@ -1,0 +1,19 @@
+ENTITY	text:cardiac arrest	normalName:cardiac arrest	predictedType:disease	q:true	qid:Q60	docId:9587734	origText:cardiac arrest	url:D006323
+CANDIDATE	id:6323	inCount:2	outCount:1	links:1919;6947	url:D006323	name:Arrest, Cardiac	normalName:arrest, cardiac	normalWikiTitle:arrest, cardiac	predictedType:Disease
+ENTITY	text:meningitis	normalName:meningitis	predictedType:disease	q:true	qid:Q60	docId:9587734	origText:meningitis	url:D008581
+CANDIDATE	id:8581	inCount:6	outCount:1	links:	url:D008581	name:Meningitis	normalName:meningitis	normalWikiTitle:meningitis	predictedType:Disease
+ENTITY	text:hyperkalaemia	normalName:hyperkalaemia	predictedType:disease	q:true	qid:Q60	docId:9587734	origText:hyperkalaemia	url:D006947
+CANDIDATE	id:6947	inCount:4	outCount:1	links:6323;1919	url:D006947	name:Hyperkalemia	normalName:hyperkalemia	normalWikiTitle:hyperkalemia	predictedType:Disease
+CANDIDATE	id:34321	inCount:0	outCount:1	links:	url:D034321	name:Hyperamylasemia	normalName:hyperamylasemia	normalWikiTitle:hyperamylasemia	predictedType:Disease
+CANDIDATE	id:6934	inCount:10	outCount:2	links:	url:D006934	name:Hypercalcemia	normalName:hypercalcemia	normalWikiTitle:hypercalcemia	predictedType:Disease
+CANDIDATE	id:7008	inCount:1	outCount:1	links:	url:D007008	name:Hypokalemia	normalName:hypokalemia	normalWikiTitle:hypokalemia	predictedType:Disease
+CANDIDATE	id:6940	inCount:0	outCount:1	links:	url:D006940	name:Hyperemia	normalName:hyperemia	normalWikiTitle:hyperemia	predictedType:Disease
+CANDIDATE	id:6930	inCount:0	outCount:1	links:	url:D006930	name:Hyperalgesia	normalName:hyperalgesia	normalWikiTitle:hyperalgesia	predictedType:Disease
+CANDIDATE	id:65906	inCount:0	outCount:2	links:	url:D065906	name:Hyperlactatemia	normalName:hyperlactatemia	normalWikiTitle:hyperlactatemia	predictedType:Disease
+CANDIDATE	id:565500	inCount:0	outCount:1	links:	url:C565500	name:Hyperlexia	normalName:hyperlexia	normalWikiTitle:hyperlexia	predictedType:Disease
+CANDIDATE	id:6943	inCount:1	outCount:1	links:	url:D006943	name:Hyperglycemia	normalName:hyperglycemia	normalWikiTitle:hyperglycemia	predictedType:Disease
+CANDIDATE	id:71017	inCount:0	outCount:1	links:	url:D000071017	name:Hyperekplexia	normalName:hyperekplexia	normalWikiTitle:hyperekplexia	predictedType:Disease
+ENTITY	text:death	normalName:death	predictedType:disease	q:true	qid:Q60	docId:9587734	origText:death	url:D003643
+CANDIDATE	id:3643	inCount:11	outCount:1	links:	url:D003643	name:Death	normalName:death	normalWikiTitle:death	predictedType:Disease
+ENTITY	text:bradycardia	normalName:bradycardia	predictedType:disease	q:true	qid:Q60	docId:9587734	origText:bradycardia	url:D001919
+CANDIDATE	id:1919	inCount:0	outCount:1	links:6323;6947	url:D001919	name:Bradycardia	normalName:bradycardia	normalWikiTitle:bradycardia	predictedType:Disease

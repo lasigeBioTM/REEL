@@ -1,0 +1,10 @@
+ENTITY	text:veratridine	normalName:veratridine	predictedType:chemical	q:true	qid:Q109	docId:12907309	origText:veratridine	url:D014701
+CANDIDATE	id:14701	inCount:0	outCount:1	links:	url:D014701	name:Veratridine	normalName:veratridine	normalWikiTitle:veratridine	predictedType:Chemical
+ENTITY	text:2-methyl-6-(phenylethynyl)pyridine	normalName:2-methyl-6-(phenylethynyl)pyridine	predictedType:chemical	q:true	qid:Q109	docId:12907309	origText:2-methyl-6-(phenylethynyl)pyridine	url:C121465
+CANDIDATE	id:121465	inCount:0	outCount:1	links:	url:C121465	name:6-methyl-2-(phenylethynyl)pyridine	normalName:6-methyl-2-(phenylethynyl)pyridine	normalWikiTitle:6-methyl-2-(phenylethynyl)pyridine	predictedType:Chemical
+ENTITY	text:methamphetamine	normalName:methamphetamine	predictedType:chemical	q:true	qid:Q109	docId:12907309	origText:methamphetamine	url:D008694
+CANDIDATE	id:8694	inCount:44	outCount:1	links:	url:D008694	name:Methamphetamine	normalName:methamphetamine	normalWikiTitle:methamphetamine	predictedType:Chemical
+ENTITY	text:glutamate	normalName:glutamate	predictedType:chemical	q:true	qid:Q109	docId:12907309	origText:glutamate	url:D018698
+CANDIDATE	id:18698	inCount:53	outCount:2	links:	url:D018698	name:Glutamate	normalName:glutamate	normalWikiTitle:glutamate	predictedType:Chemical
+ENTITY	text:dopamine	normalName:dopamine	predictedType:chemical	q:true	qid:Q109	docId:12907309	origText:dopamine	url:D004298
+CANDIDATE	id:4298	inCount:90	outCount:2	links:	url:D004298	name:Dopamine	normalName:dopamine	normalWikiTitle:dopamine	predictedType:Chemical

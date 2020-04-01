@@ -1,0 +1,10 @@
+ENTITY	text:3-hydroxymethyl-5,5-diphenylhydantoin	normalName:3-hydroxymethyl-5,5-diphenylhydantoin	predictedType:chemical	q:true	qid:Q424	docId:2767010	origText:3-hydroxymethyl-5,5-diphenylhydantoin	url:C043104
+CANDIDATE	id:43104	inCount:0	outCount:1	links:	url:C043104	name:3-(hydroxymethyl)-5,5-diphenylhydantoin	normalName:3-(hydroxymethyl)-5,5-diphenylhydantoin	normalWikiTitle:3-(hydroxymethyl)-5,5-diphenylhydantoin	predictedType:Chemical
+ENTITY	text:strophanthidin	normalName:strophanthidin	predictedType:chemical	q:true	qid:Q424	docId:2767010	origText:strophanthidin	url:D013327
+CANDIDATE	id:13327	inCount:8	outCount:1	links:10042	url:D013327	name:Strophanthidin	normalName:strophanthidin	normalWikiTitle:strophanthidin	predictedType:Chemical
+ENTITY	text:phenytoin	normalName:phenytoin	predictedType:chemical	q:true	qid:Q424	docId:2767010	origText:phenytoin	url:D010672
+CANDIDATE	id:10672	inCount:38	outCount:1	links:	url:D010672	name:Phenytoin	normalName:phenytoin	normalWikiTitle:phenytoin	predictedType:Chemical
+ENTITY	text:ouabain	normalName:ouabain	predictedType:chemical	q:true	qid:Q424	docId:2767010	origText:ouabain	url:D010042
+CANDIDATE	id:10042	inCount:14	outCount:1	links:13327	url:D010042	name:Ouabain	normalName:ouabain	normalWikiTitle:ouabain	predictedType:Chemical
+ENTITY	text:ACC-9653	normalName:acc-9653	predictedType:chemical	q:true	qid:Q424	docId:2767010	origText:ACC-9653	url:C043114
+CANDIDATE	id:43114	inCount:0	outCount:1	links:	url:C043114	name:ACC 9653	normalName:acc 9653	normalWikiTitle:acc 9653	predictedType:Chemical

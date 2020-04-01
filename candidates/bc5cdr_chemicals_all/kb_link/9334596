@@ -1,0 +1,6 @@
+ENTITY	text:bromocriptine	normalName:bromocriptine	predictedType:chemical	q:true	qid:Q603	docId:9334596	origText:bromocriptine	url:D001971
+CANDIDATE	id:1971	inCount:0	outCount:2	links:	url:D001971	name:Bromocriptine	normalName:bromocriptine	normalWikiTitle:bromocriptine	predictedType:Chemical
+ENTITY	text:testosterone heptylate	normalName:testosterone heptylate	predictedType:chemical	q:true	qid:Q603	docId:9334596	origText:testosterone heptylate	url:C004648
+CANDIDATE	id:4648	inCount:0	outCount:1	links:	url:C004648	name:testosterone heptylate	normalName:testosterone heptylate	normalWikiTitle:testosterone heptylate	predictedType:Chemical
+ENTITY	text:testosterone	normalName:testosterone	predictedType:chemical	q:true	qid:Q603	docId:9334596	origText:testosterone	url:D013739
+CANDIDATE	id:13739	inCount:97	outCount:2	links:	url:D013739	name:Testosterone	normalName:testosterone	normalWikiTitle:testosterone	predictedType:Chemical

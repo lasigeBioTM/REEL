@@ -1,0 +1,4 @@
+ENTITY	text:Cancer	normalName:cancer	predictedType:disease	q:true	qid:Q444	docId:19914299	origText:Cancer	url:D009369
+CANDIDATE	id:9369	inCount:18	outCount:1	links:	url:D009369	name:Cancer	normalName:cancer	normalWikiTitle:cancer	predictedType:Disease
+ENTITY	text:memory deficits	normalName:memory deficits	predictedType:disease	q:true	qid:Q444	docId:19914299	origText:memory deficits	url:D008569
+CANDIDATE	id:8569	inCount:2	outCount:1	links:	url:D008569	name:Deficit, Memory	normalName:deficit, memory	normalWikiTitle:deficit, memory	predictedType:Disease

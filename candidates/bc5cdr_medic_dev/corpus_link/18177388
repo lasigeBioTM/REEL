@@ -1,0 +1,22 @@
+ENTITY	text:left ventricular apical ballooning syndrome	normalName:left ventricular apical ballooning syndrome	predictedType:disease	q:true	qid:Q156	docId:18177388	origText:left ventricular apical ballooning syndrome	url:D054549
+CANDIDATE	id:54549	inCount:1	outCount:1	links:	url:D054549	name:Left Ventricular Apical Ballooning Syndrome	normalName:left ventricular apical ballooning syndrome	normalWikiTitle:left ventricular apical ballooning syndrome	predictedType:Disease
+ENTITY	text:apical ballooning syndrome	normalName:apical ballooning syndrome	predictedType:disease	q:true	qid:Q156	docId:18177388	origText:apical ballooning syndrome	url:D054549
+CANDIDATE	id:54549	inCount:1	outCount:1	links:	url:D054549	name:Syndrome, Apical Ballooning	normalName:syndrome, apical ballooning	normalWikiTitle:syndrome, apical ballooning	predictedType:Disease
+ENTITY	text:Takotsubo cardiomyopathy	normalName:takotsubo cardiomyopathy	predictedType:disease	q:true	qid:Q156	docId:18177388	origText:Takotsubo cardiomyopathy	url:D054549
+CANDIDATE	id:54549	inCount:1	outCount:1	links:	url:D054549	name:Takotsubo Cardiomyopathy	normalName:takotsubo cardiomyopathy	normalWikiTitle:takotsubo cardiomyopathy	predictedType:Disease
+ENTITY	text:apical ballooning	normalName:apical ballooning	predictedType:disease	q:true	qid:Q156	docId:18177388	origText:apical ballooning	url:D054549
+CANDIDATE	id:54549	inCount:1	outCount:1	links:	url:D054549	name:Transient Apical Ballooning Syndrome	normalName:transient apical ballooning syndrome	normalWikiTitle:transient apical ballooning syndrome	predictedType:Disease
+CANDIDATE	id:565598	inCount:0	outCount:1	links:	url:C565598	name:Elliptocytosis, Atypical	normalName:elliptocytosis, atypical	normalWikiTitle:elliptocytosis, atypical	predictedType:Disease
+CANDIDATE	id:20261	inCount:0	outCount:2	links:	url:D020261	name:Arsenic Poisoning	normalName:arsenic poisoning	normalWikiTitle:arsenic poisoning	predictedType:Disease
+CANDIDATE	id:5157	inCount:1	outCount:1	links:	url:D005157	name:Facial Pain	normalName:facial pain	normalWikiTitle:facial pain	predictedType:Disease
+CANDIDATE	id:8146	inCount:0	outCount:2	links:	url:D008146	name:Louping Ill	normalName:louping ill	normalWikiTitle:louping ill	predictedType:Disease
+CANDIDATE	id:10939	inCount:4	outCount:1	links:	url:D010939	name:Plant Poisoning	normalName:plant poisoning	normalWikiTitle:plant poisoning	predictedType:Disease
+CANDIDATE	id:1281	inCount:16	outCount:1	links:	url:D001281	name:Atrial Fibrillation	normalName:atrial fibrillation	normalWikiTitle:atrial fibrillation	predictedType:Disease
+CANDIDATE	id:535702	inCount:0	outCount:1	links:	url:C535702	name:Malonic aciduria	normalName:malonic aciduria	normalWikiTitle:malonic aciduria	predictedType:Disease
+CANDIDATE	id:10485	inCount:2	outCount:2	links:	url:D010485	name:Periapical Periodontitis	normalName:periapical periodontitis	normalWikiTitle:periapical periodontitis	predictedType:Disease
+CANDIDATE	id:11041	inCount:14	outCount:1	links:	url:D011041	name:Poisoning	normalName:poisoning	normalWikiTitle:poisoning	predictedType:Disease
+CANDIDATE	id:64752	inCount:0	outCount:2	links:	url:D064752	name:Atrial Remodeling	normalName:atrial remodeling	normalWikiTitle:atrial remodeling	predictedType:Disease
+CANDIDATE	id:54549	inCount:1	outCount:1	links:	url:D054549	name:Apical Ballooning Syndrome	normalName:apical ballooning syndrome	normalWikiTitle:apical ballooning syndrome	predictedType:Disease
+CANDIDATE	id:54549	inCount:1	outCount:1	links:	url:D054549	name:Syndrome, Apical Ballooning	normalName:syndrome, apical ballooning	normalWikiTitle:syndrome, apical ballooning	predictedType:Disease
+CANDIDATE	id:334	inCount:0	outCount:1	links:	url:D000334	name:Swallowing, Air	normalName:swallowing, air	normalWikiTitle:swallowing, air	predictedType:Disease
+CANDIDATE	id:334	inCount:0	outCount:1	links:	url:D000334	name:Air Swallowing	normalName:air swallowing	normalWikiTitle:air swallowing	predictedType:Disease

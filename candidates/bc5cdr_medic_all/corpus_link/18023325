@@ -1,0 +1,40 @@
+ENTITY	text:peripheral neuropathy	normalName:peripheral neuropathy	predictedType:disease	q:true	qid:Q1013	docId:18023325	origText:peripheral neuropathy	url:D010523
+CANDIDATE	id:10523	inCount:37	outCount:1	links:11115;11782;1259;10146;4244;10292;14826	url:D010523	name:Peripheral Neuropathy	normalName:peripheral neuropathy	normalWikiTitle:peripheral neuropathy	predictedType:Disease
+ENTITY	text:ataxia	normalName:ataxia	predictedType:disease	q:true	qid:Q1013	docId:18023325	origText:ataxia	url:D001259
+CANDIDATE	id:1259	inCount:60	outCount:1	links:11782;10523;10292;14826;10146	url:D001259	name:Ataxia	normalName:ataxia	normalWikiTitle:ataxia	predictedType:Disease
+ENTITY	text:hoarseness	normalName:hoarseness	predictedType:disease	q:true	qid:Q1013	docId:18023325	origText:hoarseness	url:D006685
+CANDIDATE	id:6685	inCount:3	outCount:3	links:	url:D006685	name:Hoarseness	normalName:hoarseness	normalWikiTitle:hoarseness	predictedType:Disease
+ENTITY	text:palsy	normalName:palsy	predictedType:disease	q:true	qid:Q1013	docId:18023325	origText:palsy	url:D010243
+CANDIDATE	id:10243	inCount:10	outCount:1	links:	url:D010243	name:Palsy	normalName:palsy	normalWikiTitle:palsy	predictedType:Disease
+ENTITY	text:giddiness	normalName:giddiness	predictedType:disease	q:true	qid:Q1013	docId:18023325	origText:giddiness	url:D004244
+CANDIDATE	id:4244	inCount:1	outCount:1	links:10523;10292;10146	url:D004244	name:Dizziness	normalName:dizziness	normalWikiTitle:dizziness	predictedType:Disease
+CANDIDATE	id:1766	inCount:11	outCount:1	links:	url:D001766	name:Blindness	normalName:blindness	normalWikiTitle:blindness	predictedType:Disease
+CANDIDATE	id:1715	inCount:10	outCount:1	links:	url:D001715	name:Bird Diseases	normalName:bird diseases	normalWikiTitle:bird diseases	predictedType:Disease
+CANDIDATE	id:5873	inCount:0	outCount:2	links:	url:D005873	name:Giardiasis	normalName:giardiasis	normalWikiTitle:giardiasis	predictedType:Disease
+CANDIDATE	id:20820	inCount:25	outCount:2	links:	url:D020820	name:Dyskinesias	normalName:dyskinesias	normalWikiTitle:dyskinesias	predictedType:Disease
+CANDIDATE	id:0	inCount:27	outCount:0	links:	url:00000000000	name:Diseases	normalName:diseases	normalWikiTitle:diseases	predictedType:Disease
+CANDIDATE	id:13851	inCount:1	outCount:1	links:	url:D013851	name:Thinness	normalName:thinness	normalWikiTitle:thinness	predictedType:Disease
+CANDIDATE	id:3638	inCount:110	outCount:1	links:	url:D003638	name:Deafness	normalName:deafness	normalWikiTitle:deafness	predictedType:Disease
+CANDIDATE	id:12806	inCount:1	outCount:1	links:	url:D012806	name:Siderosis	normalName:siderosis	normalWikiTitle:siderosis	predictedType:Disease
+CANDIDATE	id:15862	inCount:12	outCount:1	links:	url:D015862	name:Choroid Diseases	normalName:choroid diseases	normalWikiTitle:choroid diseases	predictedType:Disease
+ENTITY	text:overdose	normalName:overdose	predictedType:disease	q:true	qid:Q1013	docId:18023325	origText:overdose	url:D062787
+CANDIDATE	id:62787	inCount:0	outCount:1	links:	url:D062787	name:Drug Overdose	normalName:drug overdose	normalWikiTitle:drug overdose	predictedType:Disease
+CANDIDATE	id:57887	inCount:0	outCount:1	links:	url:D057887	name:Overbite	normalName:overbite	normalWikiTitle:overbite	predictedType:Disease
+CANDIDATE	id:8141	inCount:2	outCount:1	links:	url:D008141	name:Lordosis	normalName:lordosis	normalWikiTitle:lordosis	predictedType:Disease
+CANDIDATE	id:564931	inCount:0	outCount:2	links:	url:C564931	name:Oliver Syndrome	normalName:oliver syndrome	normalWikiTitle:oliver syndrome	predictedType:Disease
+CANDIDATE	id:50177	inCount:1	outCount:1	links:	url:D050177	name:Overweight	normalName:overweight	normalWikiTitle:overweight	predictedType:Disease
+CANDIDATE	id:1882	inCount:0	outCount:2	links:	url:D001882	name:Border Disease	normalName:border disease	normalWikiTitle:border disease	predictedType:Disease
+CANDIDATE	id:12393	inCount:1	outCount:1	links:10146	url:D012393	name:Rosacea	normalName:rosacea	normalWikiTitle:rosacea	predictedType:Disease
+CANDIDATE	id:14717	inCount:2	outCount:2	links:10146	url:D014717	name:Vertigo	normalName:vertigo	normalWikiTitle:vertigo	predictedType:Disease
+CANDIDATE	id:7918	inCount:2	outCount:1	links:	url:D007918	name:Leprosy	normalName:leprosy	normalWikiTitle:leprosy	predictedType:Disease
+CANDIDATE	id:6732	inCount:1	outCount:2	links:	url:D006732	name:Horner Syndrome	normalName:horner syndrome	normalWikiTitle:horner syndrome	predictedType:Disease
+ENTITY	text:vocal fold palsy	normalName:vocal fold palsy	predictedType:disease	q:true	qid:Q1013	docId:18023325	origText:vocal fold palsy	url:D014826
+CANDIDATE	id:14826	inCount:6	outCount:3	links:10523;10292;1259;11782;10146	url:D014826	name:Vocal Fold Palsy	normalName:vocal fold palsy	normalWikiTitle:vocal fold palsy	predictedType:Disease
+ENTITY	text:pain	normalName:pain	predictedType:disease	q:true	qid:Q1013	docId:18023325	origText:pain	url:D010146
+CANDIDATE	id:10146	inCount:34	outCount:1	links:12393;11782;10523;14717;1259;4244;10292;14826	url:D010146	name:Pain	normalName:pain	normalWikiTitle:pain	predictedType:Disease
+ENTITY	text:quadriparesis	normalName:quadriparesis	predictedType:disease	q:true	qid:Q1013	docId:18023325	origText:quadriparesis	url:D011782
+CANDIDATE	id:11782	inCount:4	outCount:1	links:10523;10292;1259;14826;10146	url:D011782	name:Quadriparesis	normalName:quadriparesis	normalWikiTitle:quadriparesis	predictedType:Disease
+ENTITY	text:polyneuropathy	normalName:polyneuropathy	predictedType:disease	q:true	qid:Q1013	docId:18023325	origText:polyneuropathy	url:D011115
+CANDIDATE	id:11115	inCount:21	outCount:1	links:10523;10292	url:D011115	name:Polyneuropathy	normalName:polyneuropathy	normalWikiTitle:polyneuropathy	predictedType:Disease
+ENTITY	text:paresthesia	normalName:paresthesia	predictedType:disease	q:true	qid:Q1013	docId:18023325	origText:paresthesia	url:D010292
+CANDIDATE	id:10292	inCount:0	outCount:1	links:11115;11782;10523;1259;10146;4244;14826	url:D010292	name:Paresthesia	normalName:paresthesia	normalWikiTitle:paresthesia	predictedType:Disease

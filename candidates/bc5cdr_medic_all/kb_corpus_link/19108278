@@ -1,0 +1,6 @@
+ENTITY	text:cardiac arrhythmias	normalName:cardiac arrhythmias	predictedType:disease	q:true	qid:Q64	docId:19108278	origText:cardiac arrhythmias	url:D001145
+CANDIDATE	id:1145	inCount:27	outCount:2	links:17180;1145	url:D001145	name:Arrhythmia, Cardiac	normalName:arrhythmia, cardiac	normalWikiTitle:arrhythmia, cardiac	predictedType:Disease
+ENTITY	text:ventricular tachycardia	normalName:ventricular tachycardia	predictedType:disease	q:true	qid:Q64	docId:19108278	origText:ventricular tachycardia	url:D017180
+CANDIDATE	id:17180	inCount:4	outCount:1	links:1145	url:D017180	name:Tachycardia, Ventricular	normalName:tachycardia, ventricular	normalWikiTitle:tachycardia, ventricular	predictedType:Disease
+ENTITY	text:arrhythmias	normalName:arrhythmias	predictedType:disease	q:true	qid:Q64	docId:19108278	origText:arrhythmias	url:D001145
+CANDIDATE	id:1145	inCount:27	outCount:2	links:17180;1145	url:D001145	name:Arrhythmia	normalName:arrhythmia	normalWikiTitle:arrhythmia	predictedType:Disease

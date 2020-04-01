@@ -1,0 +1,17 @@
+ENTITY	text:polydipsia	normalName:polydipsia	predictedType:disease	q:true	qid:Q552	docId:7453952	origText:polydipsia	url:D059606
+CANDIDATE	id:59606	inCount:1	outCount:2	links:	url:D059606	name:Polydipsia	normalName:polydipsia	normalWikiTitle:polydipsia	predictedType:Disease
+ENTITY	text:diabetes-insipidus-like syndrome	normalName:diabetes-insipidus-like syndrome	predictedType:disease	q:true	qid:Q552	docId:7453952	origText:diabetes-insipidus-like syndrome	url:D003919
+CANDIDATE	id:3919	inCount:7	outCount:2	links:11141	url:D003919	name:Diabetes Insipidus	normalName:diabetes insipidus	normalWikiTitle:diabetes insipidus	predictedType:Disease
+CANDIDATE	id:20790	inCount:1	outCount:1	links:	url:D020790	name:Diabetes Insipidus, Neurogenic	normalName:diabetes insipidus, neurogenic	normalWikiTitle:diabetes insipidus, neurogenic	predictedType:Disease
+CANDIDATE	id:18500	inCount:1	outCount:1	links:11141	url:D018500	name:Diabetes Insipidus, Nephrogenic	normalName:diabetes insipidus, nephrogenic	normalWikiTitle:diabetes insipidus, nephrogenic	predictedType:Disease
+CANDIDATE	id:567189	inCount:0	outCount:1	links:	url:C567189	name:Li-Fraumeni-Like Syndrome	normalName:li-fraumeni-like syndrome	normalWikiTitle:li-fraumeni-like syndrome	predictedType:Disease
+CANDIDATE	id:580174	inCount:0	outCount:1	links:	url:C580174	name:Huntington Disease-Like Syndrome	normalName:huntington disease-like syndrome	normalWikiTitle:huntington disease-like syndrome	predictedType:Disease
+CANDIDATE	id:567337	inCount:4	outCount:2	links:	url:C567337	name:Cowden-Like Syndrome	normalName:cowden-like syndrome	normalWikiTitle:cowden-like syndrome	predictedType:Disease
+CANDIDATE	id:563914	inCount:0	outCount:4	links:	url:C563914	name:Larsen-Like Syndrome	normalName:larsen-like syndrome	normalWikiTitle:larsen-like syndrome	predictedType:Disease
+CANDIDATE	id:536855	inCount:0	outCount:4	links:	url:C536855	name:Fanconi like syndrome	normalName:fanconi like syndrome	normalWikiTitle:fanconi like syndrome	predictedType:Disease
+CANDIDATE	id:614231	inCount:0	outCount:3	links:	url:614231	name:MICROCEPHALY, EPILEPSY, AND DIABETES SYNDROME	normalName:microcephaly, epilepsy, and diabetes syndrome	normalWikiTitle:microcephaly, epilepsy, and diabetes syndrome	predictedType:Disease
+CANDIDATE	id:17681	inCount:3	outCount:1	links:	url:D017681	name:Hypereosinophilic Syndrome	normalName:hypereosinophilic syndrome	normalWikiTitle:hypereosinophilic syndrome	predictedType:Disease
+CANDIDATE	id:18500	inCount:1	outCount:1	links:11141	url:D018500	name:Diabetes Insipidus, Nephrogenic, X-Linked	normalName:diabetes insipidus, nephrogenic, x-linked	normalWikiTitle:diabetes insipidus, nephrogenic, x-linked	predictedType:Disease
+CANDIDATE	id:18500	inCount:1	outCount:1	links:11141	url:D018500	name:Diabetes Insipidus Renalis	normalName:diabetes insipidus renalis	normalWikiTitle:diabetes insipidus renalis	predictedType:Disease
+ENTITY	text:polyuria	normalName:polyuria	predictedType:disease	q:true	qid:Q552	docId:7453952	origText:polyuria	url:D011141
+CANDIDATE	id:11141	inCount:1	outCount:2	links:18500;3919	url:D011141	name:Polyuria	normalName:polyuria	normalWikiTitle:polyuria	predictedType:Disease

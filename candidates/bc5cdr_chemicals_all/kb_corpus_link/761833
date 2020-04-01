@@ -1,0 +1,8 @@
+ENTITY	text:L-dopa	normalName:l-dopa	predictedType:chemical	q:true	qid:Q1008	docId:761833	origText:L-dopa	url:D007980
+CANDIDATE	id:7980	inCount:32	outCount:1	links:	url:D007980	name:L-Dopa	normalName:l-dopa	normalWikiTitle:l-dopa	predictedType:Chemical
+ENTITY	text:dopamine	normalName:dopamine	predictedType:chemical	q:true	qid:Q1008	docId:761833	origText:dopamine	url:D004298
+CANDIDATE	id:4298	inCount:90	outCount:2	links:	url:D004298	name:Dopamine	normalName:dopamine	normalWikiTitle:dopamine	predictedType:Chemical
+ENTITY	text:ammonia	normalName:ammonia	predictedType:chemical	q:true	qid:Q1008	docId:761833	origText:ammonia	url:D000641
+CANDIDATE	id:641	inCount:2	outCount:2	links:	url:D000641	name:Ammonia	normalName:ammonia	normalWikiTitle:ammonia	predictedType:Chemical
+ENTITY	text:urea	normalName:urea	predictedType:chemical	q:true	qid:Q1008	docId:761833	origText:urea	url:D014508
+CANDIDATE	id:14508	inCount:401	outCount:1	links:	url:D014508	name:Urea	normalName:urea	normalWikiTitle:urea	predictedType:Chemical

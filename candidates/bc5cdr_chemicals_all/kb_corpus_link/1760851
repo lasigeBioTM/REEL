@@ -1,0 +1,8 @@
+ENTITY	text:N-(2-hydroxypropyl)methacrylamide	normalName:n-(2-hydroxypropyl)methacrylamide	predictedType:chemical	q:true	qid:Q1240	docId:1760851	origText:N-(2-hydroxypropyl)methacrylamide	url:C032976
+CANDIDATE	id:32976	inCount:0	outCount:1	links:	url:C032976	name:N-(2-hydroxypropyl)methacrylamide	normalName:n-(2-hydroxypropyl)methacrylamide	normalWikiTitle:n-(2-hydroxypropyl)methacrylamide	predictedType:Chemical
+ENTITY	text:galactosamine	normalName:galactosamine	predictedType:chemical	q:true	qid:Q1240	docId:1760851	origText:galactosamine	url:D005688
+CANDIDATE	id:5688	inCount:31	outCount:1	links:	url:D005688	name:Galactosamine	normalName:galactosamine	normalWikiTitle:galactosamine	predictedType:Chemical
+ENTITY	text:Gly-Phe-Leu-Gly	normalName:gly-phe-leu-gly	predictedType:chemical	q:true	qid:Q1240	docId:1760851	origText:Gly-Phe-Leu-Gly	url:C504380
+CANDIDATE	id:504380	inCount:0	outCount:1	links:	url:C504380	name:Gly-Phe-Leu-Gly	normalName:gly-phe-leu-gly	normalWikiTitle:gly-phe-leu-gly	predictedType:Chemical
+ENTITY	text:doxorubicin	normalName:doxorubicin	predictedType:chemical	q:true	qid:Q1240	docId:1760851	origText:doxorubicin	url:D004317
+CANDIDATE	id:4317	inCount:559	outCount:1	links:	url:D004317	name:Doxorubicin	normalName:doxorubicin	normalWikiTitle:doxorubicin	predictedType:Chemical

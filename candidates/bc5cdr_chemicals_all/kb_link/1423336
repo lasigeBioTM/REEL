@@ -1,0 +1,15 @@
+ENTITY	text:Phenylalanine	normalName:phenylalanine	predictedType:chemical	q:true	qid:Q752	docId:1423336	origText:Phenylalanine	url:D010649
+CANDIDATE	id:10649	inCount:342	outCount:2	links:	url:D010649	name:Phenylalanine	normalName:phenylalanine	normalWikiTitle:phenylalanine	predictedType:Chemical
+ENTITY	text:amino acid	normalName:amino acid	predictedType:chemical	q:true	qid:Q752	docId:1423336	origText:amino acid	url:D000596
+CANDIDATE	id:596	inCount:212	outCount:1	links:	url:D000596	name:Amino Acids	normalName:amino acids	normalWikiTitle:amino acids	predictedType:Chemical
+CANDIDATE	id:7098	inCount:66	outCount:3	links:	url:D007098	name:Imino Acids	normalName:imino acids	normalWikiTitle:imino acids	predictedType:Chemical
+CANDIDATE	id:15258	inCount:0	outCount:1	links:	url:D015258	name:Acid Rain	normalName:acid rain	normalWikiTitle:acid rain	predictedType:Chemical
+CANDIDATE	id:17721	inCount:0	outCount:1	links:	url:C017721	name:casamino acids	normalName:casamino acids	normalWikiTitle:casamino acids	predictedType:Chemical
+CANDIDATE	id:33153	inCount:0	outCount:1	links:	url:C033153	name:amido-G-acid	normalName:amido-g-acid	normalWikiTitle:amido-g-acid	predictedType:Chemical
+CANDIDATE	id:603108	inCount:0	outCount:2	links:	url:C000603108	name:chaminic acid	normalName:chaminic acid	normalWikiTitle:chaminic acid	predictedType:Chemical
+CANDIDATE	id:98196	inCount:0	outCount:1	links:	url:C098196	name:marinoic acid	normalName:marinoic acid	normalWikiTitle:marinoic acid	predictedType:Chemical
+CANDIDATE	id:452082	inCount:0	outCount:1	links:	url:C452082	name:jasminic acid	normalName:jasminic acid	normalWikiTitle:jasminic acid	predictedType:Chemical
+CANDIDATE	id:477448	inCount:0	outCount:2	links:	url:C477448	name:fluvoxamino acid	normalName:fluvoxamino acid	normalWikiTitle:fluvoxamino acid	predictedType:Chemical
+CANDIDATE	id:7608	inCount:17	outCount:1	links:	url:D007608	name:Kainic Acid	normalName:kainic acid	normalWikiTitle:kainic acid	predictedType:Chemical
+ENTITY	text:levodopa	normalName:levodopa	predictedType:chemical	q:true	qid:Q752	docId:1423336	origText:levodopa	url:D007980
+CANDIDATE	id:7980	inCount:32	outCount:1	links:	url:D007980	name:Levodopa	normalName:levodopa	normalWikiTitle:levodopa	predictedType:Chemical

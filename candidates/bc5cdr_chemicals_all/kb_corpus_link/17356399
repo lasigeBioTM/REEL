@@ -1,0 +1,8 @@
+ENTITY	text:cytarabine	normalName:cytarabine	predictedType:chemical	q:true	qid:Q320	docId:17356399	origText:cytarabine	url:D003561
+CANDIDATE	id:3561	inCount:271	outCount:2	links:3907;14750;42705	url:D003561	name:Cytarabine	normalName:cytarabine	normalWikiTitle:cytarabine	predictedType:Chemical
+ENTITY	text:PEG-asparaginase	normalName:peg-asparaginase	predictedType:chemical	q:true	qid:Q320	docId:17356399	origText:PEG-asparaginase	url:C042705
+CANDIDATE	id:42705	inCount:0	outCount:1	links:3907;3561;14750	url:C042705	name:PEG-asparaginase	normalName:peg-asparaginase	normalWikiTitle:peg-asparaginase	predictedType:Chemical
+ENTITY	text:dexamethasone	normalName:dexamethasone	predictedType:chemical	q:true	qid:Q320	docId:17356399	origText:dexamethasone	url:D003907
+CANDIDATE	id:3907	inCount:138	outCount:2	links:14750;3561;42705	url:D003907	name:Dexamethasone	normalName:dexamethasone	normalWikiTitle:dexamethasone	predictedType:Chemical
+ENTITY	text:Vincristine	normalName:vincristine	predictedType:chemical	q:true	qid:Q320	docId:17356399	origText:Vincristine	url:D014750
+CANDIDATE	id:14750	inCount:474	outCount:1	links:3907;3561;42705	url:D014750	name:Vincristine	normalName:vincristine	normalWikiTitle:vincristine	predictedType:Chemical

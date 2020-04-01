@@ -1,0 +1,30 @@
+ENTITY	text:breast-cancer	normalName:breast-cancer	predictedType:disease	q:true	qid:Q135	docId:9672273	origText:breast-cancer	url:D001943
+CANDIDATE	id:1943	inCount:19	outCount:2	links:	url:D001943	name:Breast Cancer	normalName:breast cancer	normalWikiTitle:breast cancer	predictedType:Disease
+ENTITY	text:hypertriglyceridaemia	normalName:hypertriglyceridaemia	predictedType:disease	q:true	qid:Q135	docId:9672273	origText:hypertriglyceridaemia	url:D015228
+CANDIDATE	id:15228	inCount:4	outCount:1	links:16889;14652	url:D015228	name:Hypertriglyceridemia	normalName:hypertriglyceridemia	normalWikiTitle:hypertriglyceridemia	predictedType:Disease
+CANDIDATE	id:64250	inCount:0	outCount:2	links:	url:D064250	name:Hypertriglyceridemic Waist	normalName:hypertriglyceridemic waist	normalWikiTitle:hypertriglyceridemic waist	predictedType:Disease
+CANDIDATE	id:6943	inCount:1	outCount:1	links:	url:D006943	name:Hyperglycemia	normalName:hyperglycemia	normalWikiTitle:hyperglycemia	predictedType:Disease
+CANDIDATE	id:33461	inCount:10	outCount:1	links:	url:D033461	name:Hyperuricemia	normalName:hyperuricemia	normalWikiTitle:hyperuricemia	predictedType:Disease
+CANDIDATE	id:614156	inCount:0	outCount:1	links:	url:614156	name:HYPERBILIVERDINEMIA	normalName:hyperbiliverdinemia	normalWikiTitle:hyperbiliverdinemia	predictedType:Disease
+CANDIDATE	id:6981	inCount:5	outCount:1	links:	url:D006981	name:Hyperthyroxinemia	normalName:hyperthyroxinemia	normalWikiTitle:hyperthyroxinemia	predictedType:Disease
+CANDIDATE	id:564159	inCount:0	outCount:1	links:	url:C564159	name:Hyperproglucagonemia	normalName:hyperproglucagonemia	normalWikiTitle:hyperproglucagonemia	predictedType:Disease
+CANDIDATE	id:6949	inCount:5	outCount:1	links:	url:D006949	name:Hyperlipidemias	normalName:hyperlipidemias	normalWikiTitle:hyperlipidemias	predictedType:Disease
+CANDIDATE	id:6966	inCount:1	outCount:1	links:	url:D006966	name:Hyperprolactinemia	normalName:hyperprolactinemia	normalWikiTitle:hyperprolactinemia	predictedType:Disease
+CANDIDATE	id:7003	inCount:14	outCount:1	links:	url:D007003	name:Hypoglycemia	normalName:hypoglycemia	normalWikiTitle:hypoglycemia	predictedType:Disease
+ENTITY	text:breast cancer	normalName:breast cancer	predictedType:disease	q:true	qid:Q135	docId:9672273	origText:breast cancer	url:D001943
+CANDIDATE	id:1943	inCount:19	outCount:2	links:	url:D001943	name:Breast Cancer	normalName:breast cancer	normalWikiTitle:breast cancer	predictedType:Disease
+ENTITY	text:endometrial cancer	normalName:endometrial cancer	predictedType:disease	q:true	qid:Q135	docId:9672273	origText:endometrial cancer	url:D016889
+CANDIDATE	id:16889	inCount:2	outCount:1	links:14652;15228	url:D016889	name:Cancer, Endometrial	normalName:cancer, endometrial	normalWikiTitle:cancer, endometrial	predictedType:Disease
+ENTITY	text:vascular events	normalName:vascular events	predictedType:disease	q:true	qid:Q135	docId:9672273	origText:vascular events	url:D014652
+CANDIDATE	id:14652	inCount:52	outCount:1	links:16889;15228	url:D014652	name:Vascular Diseases	normalName:vascular diseases	normalWikiTitle:vascular diseases	predictedType:Disease
+CANDIDATE	id:15140	inCount:2	outCount:4	links:	url:D015140	name:Dementia, Vascular	normalName:dementia, vascular	normalWikiTitle:dementia, vascular	predictedType:Disease
+CANDIDATE	id:14653	inCount:0	outCount:2	links:	url:D014653	name:Vascular Headaches	normalName:vascular headaches	normalWikiTitle:vascular headaches	predictedType:Disease
+CANDIDATE	id:66253	inCount:0	outCount:2	links:	url:D066253	name:Vascular Remodeling	normalName:vascular remodeling	normalWikiTitle:vascular remodeling	predictedType:Disease
+CANDIDATE	id:73872	inCount:0	outCount:2	links:	url:D000073872	name:Vascular Ring	normalName:vascular ring	normalWikiTitle:vascular ring	predictedType:Disease
+CANDIDATE	id:19043	inCount:0	outCount:2	links:	url:D019043	name:Vascular Neoplasms	normalName:vascular neoplasms	normalWikiTitle:vascular neoplasms	predictedType:Disease
+CANDIDATE	id:564750	inCount:0	outCount:5	links:	url:C564750	name:Vascular Hyalinosis	normalName:vascular hyalinosis	normalWikiTitle:vascular hyalinosis	predictedType:Disease
+CANDIDATE	id:17445	inCount:16	outCount:1	links:	url:D017445	name:Skin Diseases, Vascular	normalName:skin diseases, vascular	normalWikiTitle:skin diseases, vascular	predictedType:Disease
+CANDIDATE	id:6978	inCount:0	outCount:1	links:	url:D006978	name:Hypertension, Renovascular	normalName:hypertension, renovascular	normalWikiTitle:hypertension, renovascular	predictedType:Disease
+CANDIDATE	id:16157	inCount:2	outCount:3	links:	url:D016157	name:Vascular Fistula	normalName:vascular fistula	normalWikiTitle:vascular fistula	predictedType:Disease
+CANDIDATE	id:15140	inCount:2	outCount:4	links:	url:D015140	name:Vascular Dementias	normalName:vascular dementias	normalWikiTitle:vascular dementias	predictedType:Disease
+CANDIDATE	id:15140	inCount:2	outCount:4	links:	url:D015140	name:Dementias, Vascular	normalName:dementias, vascular	normalWikiTitle:dementias, vascular	predictedType:Disease

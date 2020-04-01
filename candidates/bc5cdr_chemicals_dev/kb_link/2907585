@@ -1,0 +1,8 @@
+ENTITY	text:5-hydroxytryptamine	normalName:5-hydroxytryptamine	predictedType:chemical	q:true	qid:Q426	docId:2907585	origText:5-hydroxytryptamine	url:D012701
+CANDIDATE	id:12701	inCount:48	outCount:2	links:12701	url:D012701	name:5 Hydroxytryptamine	normalName:5 hydroxytryptamine	normalWikiTitle:5 hydroxytryptamine	predictedType:Chemical
+ENTITY	text:haloperidol	normalName:haloperidol	predictedType:chemical	q:true	qid:Q426	docId:2907585	origText:haloperidol	url:D006220
+CANDIDATE	id:6220	inCount:24	outCount:1	links:	url:D006220	name:Haloperidol	normalName:haloperidol	normalWikiTitle:haloperidol	predictedType:Chemical
+ENTITY	text:buspirone	normalName:buspirone	predictedType:chemical	q:true	qid:Q426	docId:2907585	origText:buspirone	url:D002065
+CANDIDATE	id:2065	inCount:5	outCount:3	links:	url:D002065	name:Buspirone	normalName:buspirone	normalWikiTitle:buspirone	predictedType:Chemical
+ENTITY	text:5-HT	normalName:5-ht	predictedType:chemical	q:true	qid:Q426	docId:2907585	origText:5-HT	url:D012701
+CANDIDATE	id:12701	inCount:48	outCount:2	links:12701	url:D012701	name:5-HT	normalName:5-ht	normalWikiTitle:5-ht	predictedType:Chemical

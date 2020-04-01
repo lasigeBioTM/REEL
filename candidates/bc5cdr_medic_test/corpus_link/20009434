@@ -1,0 +1,38 @@
+ENTITY	text:Acute renal failure	normalName:acute renal failure	predictedType:disease	q:true	qid:Q89	docId:20009434	origText:Acute renal failure	url:D058186
+CANDIDATE	id:58186	inCount:2	outCount:1	links:	url:D058186	name:Acute Renal Failure	normalName:acute renal failure	normalWikiTitle:acute renal failure	predictedType:Disease
+ENTITY	text:hypovolemia	normalName:hypovolemia	predictedType:disease	q:true	qid:Q89	docId:20009434	origText:hypovolemia	url:D020896
+CANDIDATE	id:20896	inCount:0	outCount:1	links:	url:D020896	name:Hypovolemia	normalName:hypovolemia	normalWikiTitle:hypovolemia	predictedType:Disease
+ENTITY	text:biliary atresia	normalName:biliary atresia	predictedType:disease	q:true	qid:Q89	docId:20009434	origText:biliary atresia	url:D001656
+CANDIDATE	id:1656	inCount:2	outCount:2	links:	url:D001656	name:Biliary Atresia	normalName:biliary atresia	normalWikiTitle:biliary atresia	predictedType:Disease
+ENTITY	text:Burkitt-type malignant lymphoma	normalName:burkitt-type malignant lymphoma	predictedType:disease	q:true	qid:Q89	docId:20009434	origText:Burkitt-type malignant lymphoma	url:D002051
+CANDIDATE	id:2051	inCount:1	outCount:2	links:	url:D002051	name:Burkitt's Lymphoma	normalName:burkitt's lymphoma	normalWikiTitle:burkitt's lymphoma	predictedType:Disease
+CANDIDATE	id:2051	inCount:1	outCount:2	links:	url:D002051	name:Burkitt Lymphoma	normalName:burkitt lymphoma	normalWikiTitle:burkitt lymphoma	predictedType:Disease
+CANDIDATE	id:18442	inCount:0	outCount:1	links:	url:D018442	name:Lymphoma, B-Cell, Marginal Zone	normalName:lymphoma, b-cell, marginal zone	normalWikiTitle:lymphoma, b-cell, marginal zone	predictedType:Disease
+CANDIDATE	id:20522	inCount:0	outCount:1	links:	url:D020522	name:Lymphoma, Mantle-Cell	normalName:lymphoma, mantle-cell	normalWikiTitle:lymphoma, mantle-cell	predictedType:Disease
+CANDIDATE	id:538493	inCount:0	outCount:1	links:	url:C538493	name:Familial Burkitt's lymphoma	normalName:familial burkitt's lymphoma	normalWikiTitle:familial burkitt's lymphoma	predictedType:Disease
+CANDIDATE	id:51677	inCount:1	outCount:2	links:	url:D051677	name:Histiocytoma, Malignant Fibrous	normalName:histiocytoma, malignant fibrous	normalWikiTitle:histiocytoma, malignant fibrous	predictedType:Disease
+CANDIDATE	id:16483	inCount:0	outCount:1	links:	url:D016483	name:Lymphoma, AIDS-Related	normalName:lymphoma, aids-related	normalWikiTitle:lymphoma, aids-related	predictedType:Disease
+CANDIDATE	id:8305	inCount:11	outCount:2	links:	url:D008305	name:Malignant Hyperthermia	normalName:malignant hyperthermia	normalWikiTitle:malignant hyperthermia	predictedType:Disease
+CANDIDATE	id:535695	inCount:0	outCount:1	links:	url:C535695	name:Malignant hyperthermia susceptibility type 2	normalName:malignant hyperthermia susceptibility type 2	normalWikiTitle:malignant hyperthermia susceptibility type 2	predictedType:Disease
+CANDIDATE	id:535698	inCount:0	outCount:1	links:	url:C535698	name:Malignant hyperthermia susceptibility type 5	normalName:malignant hyperthermia susceptibility type 5	normalWikiTitle:malignant hyperthermia susceptibility type 5	predictedType:Disease
+CANDIDATE	id:16066	inCount:0	outCount:2	links:	url:D016066	name:Pleural Effusion, Malignant	normalName:pleural effusion, malignant	normalWikiTitle:pleural effusion, malignant	predictedType:Disease
+CANDIDATE	id:8223	inCount:8	outCount:2	links:	url:D008223	name:Lymphoma, Malignant	normalName:lymphoma, malignant	normalWikiTitle:lymphoma, malignant	predictedType:Disease
+CANDIDATE	id:8223	inCount:8	outCount:2	links:	url:D008223	name:Malignant Lymphoma	normalName:malignant lymphoma	normalWikiTitle:malignant lymphoma	predictedType:Disease
+CANDIDATE	id:8223	inCount:8	outCount:2	links:	url:D008223	name:Malignant Lymphomas	normalName:malignant lymphomas	normalWikiTitle:malignant lymphomas	predictedType:Disease
+CANDIDATE	id:8223	inCount:8	outCount:2	links:	url:D008223	name:Lymphomas, Malignant	normalName:lymphomas, malignant	normalWikiTitle:lymphomas, malignant	predictedType:Disease
+CANDIDATE	id:2051	inCount:1	outCount:2	links:	url:D002051	name:Lymphoma, Burkitt's	normalName:lymphoma, burkitt's	normalWikiTitle:lymphoma, burkitt's	predictedType:Disease
+ENTITY	text:post-transplantation lymphoproliferative disorder	normalName:post-transplantation lymphoproliferative disorder	predictedType:disease	q:true	qid:Q89	docId:20009434	origText:post-transplantation lymphoproliferative disorder	url:D008232
+CANDIDATE	id:8232	inCount:24	outCount:2	links:	url:D008232	name:Disorder, Lymphoproliferative	normalName:disorder, lymphoproliferative	normalWikiTitle:disorder, lymphoproliferative	predictedType:Disease
+CANDIDATE	id:8232	inCount:24	outCount:2	links:	url:D008232	name:Lymphoproliferative Disorders	normalName:lymphoproliferative disorders	normalWikiTitle:lymphoproliferative disorders	predictedType:Disease
+CANDIDATE	id:566024	inCount:0	outCount:2	links:	url:C566024	name:Transient Myeloproliferative Disorder of Down Syndrome	normalName:transient myeloproliferative disorder of down syndrome	normalWikiTitle:transient myeloproliferative disorder of down syndrome	predictedType:Disease
+CANDIDATE	id:7160	inCount:3	outCount:1	links:	url:D007160	name:Immunoproliferative Disorders	normalName:immunoproliferative disorders	normalWikiTitle:immunoproliferative disorders	predictedType:Disease
+CANDIDATE	id:9196	inCount:11	outCount:1	links:	url:D009196	name:Myeloproliferative Disorders	normalName:myeloproliferative disorders	normalWikiTitle:myeloproliferative disorders	predictedType:Disease
+CANDIDATE	id:615122	inCount:0	outCount:1	links:	url:615122	name:LYMPHOPROLIFERATIVE SYNDROME 2	normalName:lymphoproliferative syndrome 2	normalWikiTitle:lymphoproliferative syndrome 2	predictedType:Disease
+CANDIDATE	id:563551	inCount:0	outCount:2	links:	url:C563551	name:Myeloproliferative Syndrome, Transient	normalName:myeloproliferative syndrome, transient	normalWikiTitle:myeloproliferative syndrome, transient	predictedType:Disease
+CANDIDATE	id:56735	inCount:7	outCount:3	links:	url:D056735	name:Autoimmune Lymphoproliferative Syndrome	normalName:autoimmune lymphoproliferative syndrome	normalWikiTitle:autoimmune lymphoproliferative syndrome	predictedType:Disease
+CANDIDATE	id:564469	inCount:0	outCount:2	links:	url:C564469	name:Lymphoproliferative Syndrome, X-Linked, 2	normalName:lymphoproliferative syndrome, x-linked, 2	normalWikiTitle:lymphoproliferative syndrome, x-linked, 2	predictedType:Disease
+CANDIDATE	id:20922	inCount:0	outCount:1	links:	url:D020922	name:Sleep-Wake Transition Disorders	normalName:sleep-wake transition disorders	normalWikiTitle:sleep-wake transition disorders	predictedType:Disease
+CANDIDATE	id:616100	inCount:0	outCount:1	links:	url:616100	name:AUTOIMMUNE LYMPHOPROLIFERATIVE SYNDROME, TYPE V	normalName:autoimmune lymphoproliferative syndrome, type v	normalWikiTitle:autoimmune lymphoproliferative syndrome, type v	predictedType:Disease
+CANDIDATE	id:8232	inCount:24	outCount:2	links:	url:D008232	name:Lymphoproliferative Disorder	normalName:lymphoproliferative disorder	normalWikiTitle:lymphoproliferative disorder	predictedType:Disease
+ENTITY	text:Burkitt lymphoma	normalName:burkitt lymphoma	predictedType:disease	q:true	qid:Q89	docId:20009434	origText:Burkitt lymphoma	url:D002051
+CANDIDATE	id:2051	inCount:1	outCount:2	links:	url:D002051	name:Burkitt Lymphoma	normalName:burkitt lymphoma	normalWikiTitle:burkitt lymphoma	predictedType:Disease

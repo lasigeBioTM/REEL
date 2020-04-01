@@ -1,0 +1,20 @@
+ENTITY	text:ATP	normalName:atp	predictedType:chemical	q:true	qid:Q188	docId:6308277	origText:ATP	url:D000255
+CANDIDATE	id:255	inCount:176	outCount:1	links:	url:D000255	name:ATP	normalName:atp	normalWikiTitle:atp	predictedType:Chemical
+ENTITY	text:pentylenetetrezol	normalName:pentylenetetrezol	predictedType:chemical	q:true	qid:Q188	docId:6308277	origText:pentylenetetrezol	url:D010433
+CANDIDATE	id:10433	inCount:2	outCount:1	links:2110	url:D010433	name:Pentylenetetrazol	normalName:pentylenetetrazol	normalWikiTitle:pentylenetetrazol	predictedType:Chemical
+CANDIDATE	id:10433	inCount:2	outCount:1	links:2110	url:D010433	name:Pentylenetetrazole	normalName:pentylenetetrazole	normalWikiTitle:pentylenetetrazole	predictedType:Chemical
+CANDIDATE	id:3110	inCount:0	outCount:1	links:	url:C003110	name:phenyltetrazolium	normalName:phenyltetrazolium	normalWikiTitle:phenyltetrazolium	predictedType:Chemical
+CANDIDATE	id:558370	inCount:0	outCount:1	links:	url:C558370	name:phenanthrene tetraol	normalName:phenanthrene tetraol	normalWikiTitle:phenanthrene tetraol	predictedType:Chemical
+CANDIDATE	id:451880	inCount:0	outCount:1	links:	url:C451880	name:polyacetylenetriol	normalName:polyacetylenetriol	normalWikiTitle:polyacetylenetriol	predictedType:Chemical
+CANDIDATE	id:121824	inCount:0	outCount:1	links:	url:C121824	name:ethylenestradiol	normalName:ethylenestradiol	normalWikiTitle:ethylenestradiol	predictedType:Chemical
+CANDIDATE	id:5032	inCount:1	outCount:1	links:	url:D005032	name:Ethylestrenol	normalName:ethylestrenol	normalWikiTitle:ethylestrenol	predictedType:Chemical
+CANDIDATE	id:623358	inCount:0	outCount:1	links:	url:C000623358	name:Pentalinonsterol	normalName:pentalinonsterol	normalWikiTitle:pentalinonsterol	predictedType:Chemical
+CANDIDATE	id:9591	inCount:0	outCount:1	links:	url:C009591	name:triphenyltetrazolium	normalName:triphenyltetrazolium	normalWikiTitle:triphenyltetrazolium	predictedType:Chemical
+CANDIDATE	id:614719	inCount:0	outCount:1	links:	url:C000614719	name:4-pentylphenol	normalName:4-pentylphenol	normalWikiTitle:4-pentylphenol	predictedType:Chemical
+CANDIDATE	id:24646	inCount:0	outCount:1	links:	url:C024646	name:pentalenene	normalName:pentalenene	normalWikiTitle:pentalenene	predictedType:Chemical
+ENTITY	text:adenosine	normalName:adenosine	predictedType:chemical	q:true	qid:Q188	docId:6308277	origText:adenosine	url:D000241
+CANDIDATE	id:241	inCount:475	outCount:2	links:	url:D000241	name:Adenosine	normalName:adenosine	normalWikiTitle:adenosine	predictedType:Chemical
+ENTITY	text:caffeine	normalName:caffeine	predictedType:chemical	q:true	qid:Q188	docId:6308277	origText:caffeine	url:D002110
+CANDIDATE	id:2110	inCount:80	outCount:1	links:10433	url:D002110	name:Caffeine	normalName:caffeine	normalWikiTitle:caffeine	predictedType:Chemical
+ENTITY	text:acetaminophen	normalName:acetaminophen	predictedType:chemical	q:true	qid:Q188	docId:6308277	origText:acetaminophen	url:D000082
+CANDIDATE	id:82	inCount:89	outCount:1	links:	url:D000082	name:Acetaminophen	normalName:acetaminophen	normalWikiTitle:acetaminophen	predictedType:Chemical

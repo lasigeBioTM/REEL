@@ -1,0 +1,4 @@
+ENTITY	text:paclitaxel	normalName:paclitaxel	predictedType:chemical	q:true	qid:Q150	docId:16132524	origText:paclitaxel	url:D017239
+CANDIDATE	id:17239	inCount:58	outCount:1	links:16190	url:D017239	name:Paclitaxel	normalName:paclitaxel	normalWikiTitle:paclitaxel	predictedType:Chemical
+ENTITY	text:carboplatin	normalName:carboplatin	predictedType:chemical	q:true	qid:Q150	docId:16132524	origText:carboplatin	url:D016190
+CANDIDATE	id:16190	inCount:64	outCount:1	links:17239	url:D016190	name:Carboplatin	normalName:carboplatin	normalWikiTitle:carboplatin	predictedType:Chemical

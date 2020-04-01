@@ -1,0 +1,17 @@
+ENTITY	text:estrogen	normalName:estrogen	predictedType:chemical	q:true	qid:Q513	docId:2650911	origText:estrogen	url:D004967
+CANDIDATE	id:4967	inCount:1	outCount:1	links:	url:D004967	name:Estrogen	normalName:estrogen	normalWikiTitle:estrogen	predictedType:Chemical
+ENTITY	text:estradiol	normalName:estradiol	predictedType:chemical	q:true	qid:Q513	docId:2650911	origText:estradiol	url:D004958
+CANDIDATE	id:4958	inCount:306	outCount:2	links:4054	url:D004958	name:Estradiol	normalName:estradiol	normalWikiTitle:estradiol	predictedType:Chemical
+ENTITY	text:diethylstilbesterol	normalName:diethylstilbesterol	predictedType:chemical	q:true	qid:Q513	docId:2650911	origText:diethylstilbesterol	url:D004054
+CANDIDATE	id:4054	inCount:37	outCount:1	links:4958	url:D004054	name:Diethylstilbestrol	normalName:diethylstilbestrol	normalWikiTitle:diethylstilbestrol	predictedType:Chemical
+CANDIDATE	id:100172	inCount:0	outCount:1	links:	url:C100172	name:dimethylstilbestrol	normalName:dimethylstilbestrol	normalWikiTitle:dimethylstilbestrol	predictedType:Chemical
+CANDIDATE	id:13661	inCount:0	outCount:1	links:	url:C013661	name:pseudodiethylstilbestrol	normalName:pseudodiethylstilbestrol	normalWikiTitle:pseudodiethylstilbestrol	predictedType:Chemical
+CANDIDATE	id:24818	inCount:0	outCount:1	links:	url:C024818	name:diethylstilbestrol epoxide	normalName:diethylstilbestrol epoxide	normalWikiTitle:diethylstilbestrol epoxide	predictedType:Chemical
+CANDIDATE	id:39998	inCount:0	outCount:1	links:	url:C039998	name:diethylstilbestrol quinone	normalName:diethylstilbestrol quinone	normalWikiTitle:diethylstilbestrol quinone	predictedType:Chemical
+CANDIDATE	id:16193	inCount:0	outCount:1	links:	url:C016193	name:4-acetyl-diethylstilbestrol	normalName:4-acetyl-diethylstilbestrol	normalWikiTitle:4-acetyl-diethylstilbestrol	predictedType:Chemical
+CANDIDATE	id:68149	inCount:0	outCount:1	links:	url:C068149	name:diethylstilbesterol-DNA adduct	normalName:diethylstilbesterol-dna adduct	normalWikiTitle:diethylstilbesterol-dna adduct	predictedType:Chemical
+CANDIDATE	id:16522	inCount:0	outCount:1	links:	url:C016522	name:iodoacetyldiethylstilbestrol	normalName:iodoacetyldiethylstilbestrol	normalWikiTitle:iodoacetyldiethylstilbestrol	predictedType:Chemical
+CANDIDATE	id:516500	inCount:0	outCount:2	links:	url:C516500	name:diethylstilbestrol glutamate	normalName:diethylstilbestrol glutamate	normalWikiTitle:diethylstilbestrol glutamate	predictedType:Chemical
+CANDIDATE	id:32105	inCount:0	outCount:1	links:	url:C032105	name:diethylstilbestrol-3,4-oxide	normalName:diethylstilbestrol-3,4-oxide	normalWikiTitle:diethylstilbestrol-3,4-oxide	predictedType:Chemical
+ENTITY	text:silver	normalName:silver	predictedType:chemical	q:true	qid:Q513	docId:2650911	origText:silver	url:D012834
+CANDIDATE	id:12834	inCount:20	outCount:2	links:	url:D012834	name:Silver	normalName:silver	normalWikiTitle:silver	predictedType:Chemical

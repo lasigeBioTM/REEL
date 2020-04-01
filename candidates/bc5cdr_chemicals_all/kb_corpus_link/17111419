@@ -1,0 +1,24 @@
+ENTITY	text:pravastatin	normalName:pravastatin	predictedType:chemical	q:true	qid:Q795	docId:17111419	origText:pravastatin	url:D017035
+CANDIDATE	id:17035	inCount:7	outCount:1	links:	url:D017035	name:Pravastatin	normalName:pravastatin	normalWikiTitle:pravastatin	predictedType:Chemical
+ENTITY	text:paroxetine	normalName:paroxetine	predictedType:chemical	q:true	qid:Q795	docId:17111419	origText:paroxetine	url:D017374
+CANDIDATE	id:17374	inCount:1	outCount:1	links:	url:D017374	name:Paroxetine	normalName:paroxetine	normalWikiTitle:paroxetine	predictedType:Chemical
+ENTITY	text:bumetanide	normalName:bumetanide	predictedType:chemical	q:true	qid:Q795	docId:17111419	origText:bumetanide	url:D002034
+CANDIDATE	id:2034	inCount:2	outCount:2	links:	url:D002034	name:Bumetanide	normalName:bumetanide	normalWikiTitle:bumetanide	predictedType:Chemical
+ENTITY	text:calcium	normalName:calcium	predictedType:chemical	q:true	qid:Q795	docId:17111419	origText:calcium	url:D002118
+CANDIDATE	id:2118	inCount:11	outCount:2	links:4232	url:D002118	name:Calcium	normalName:calcium	normalWikiTitle:calcium	predictedType:Chemical
+ENTITY	text:calcium gluconate	normalName:calcium gluconate	predictedType:chemical	q:true	qid:Q795	docId:17111419	origText:calcium gluconate	url:D002125
+CANDIDATE	id:2125	inCount:6	outCount:1	links:	url:D002125	name:Calcium Gluconate	normalName:calcium gluconate	normalWikiTitle:calcium gluconate	predictedType:Chemical
+ENTITY	text:loop diuretic	normalName:loop diuretic	predictedType:chemical	q:true	qid:Q795	docId:17111419	origText:loop diuretic	url:D049994
+CANDIDATE	id:49994	inCount:0	outCount:2	links:	url:D049994	name:Loop Diuretics	normalName:loop diuretics	normalWikiTitle:loop diuretics	predictedType:Chemical
+CANDIDATE	id:4232	inCount:4	outCount:1	links:2118	url:D004232	name:Diuretics	normalName:diuretics	normalWikiTitle:diuretics	predictedType:Chemical
+CANDIDATE	id:4234	inCount:0	outCount:1	links:	url:D004234	name:Diuretics, Osmotic	normalName:diuretics, osmotic	normalWikiTitle:diuretics, osmotic	predictedType:Chemical
+CANDIDATE	id:558373	inCount:0	outCount:1	links:	url:C558373	name:bireticulol	normalName:bireticulol	normalWikiTitle:bireticulol	predictedType:Chemical
+CANDIDATE	id:10780	inCount:0	outCount:1	links:	url:C010780	name:reticulol	normalName:reticulol	normalWikiTitle:reticulol	predictedType:Chemical
+CANDIDATE	id:30888	inCount:0	outCount:1	links:	url:C030888	name:Direct-On II	normalName:direct-on ii	normalWikiTitle:direct-on ii	predictedType:Chemical
+CANDIDATE	id:502684	inCount:0	outCount:2	links:	url:C502684	name:direct yellow	normalName:direct yellow	normalWikiTitle:direct yellow	predictedType:Chemical
+CANDIDATE	id:549599	inCount:0	outCount:1	links:	url:C549599	name:reticulone	normalName:reticulone	normalWikiTitle:reticulone	predictedType:Chemical
+CANDIDATE	id:73269	inCount:0	outCount:1	links:	url:C073269	name:reticulose	normalName:reticulose	normalWikiTitle:reticulose	predictedType:Chemical
+CANDIDATE	id:22225	inCount:0	outCount:3	links:	url:C022225	name:deteclo	normalName:deteclo	normalWikiTitle:deteclo	predictedType:Chemical
+CANDIDATE	id:72468	inCount:0	outCount:1	links:	url:C072468	name:diuretic peptide, Locusta-DP	normalName:diuretic peptide, locusta-dp	normalWikiTitle:diuretic peptide, locusta-dp	predictedType:Chemical
+CANDIDATE	id:49994	inCount:0	outCount:2	links:	url:D049994	name:Diuretics, Loop	normalName:diuretics, loop	normalWikiTitle:diuretics, loop	predictedType:Chemical
+CANDIDATE	id:4232	inCount:4	outCount:1	links:2118	url:D004232	name:Diuretic	normalName:diuretic	normalWikiTitle:diuretic	predictedType:Chemical

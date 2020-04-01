@@ -1,0 +1,6 @@
+ENTITY	text:methadone	normalName:methadone	predictedType:chemical	q:true	qid:Q281	docId:11027904	origText:methadone	url:D008691
+CANDIDATE	id:8691	inCount:9	outCount:1	links:	url:D008691	name:Methadone	normalName:methadone	normalWikiTitle:methadone	predictedType:Chemical
+ENTITY	text:hydromorphone	normalName:hydromorphone	predictedType:chemical	q:true	qid:Q281	docId:11027904	origText:hydromorphone	url:D004091
+CANDIDATE	id:4091	inCount:17	outCount:1	links:	url:D004091	name:Hydromorphone	normalName:hydromorphone	normalWikiTitle:hydromorphone	predictedType:Chemical
+ENTITY	text:ketorolac	normalName:ketorolac	predictedType:chemical	q:true	qid:Q281	docId:11027904	origText:ketorolac	url:D020910
+CANDIDATE	id:20910	inCount:0	outCount:1	links:	url:D020910	name:Ketorolac	normalName:ketorolac	normalWikiTitle:ketorolac	predictedType:Chemical

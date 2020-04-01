@@ -1,0 +1,8 @@
+ENTITY	text:calcium	normalName:calcium	predictedType:chemical	q:true	qid:Q1287	docId:1639466	origText:calcium	url:D002118
+CANDIDATE	id:2118	inCount:11	outCount:2	links:	url:D002118	name:Calcium	normalName:calcium	normalWikiTitle:calcium	predictedType:Chemical
+ENTITY	text:angiotensin	normalName:angiotensin	predictedType:chemical	q:true	qid:Q1287	docId:1639466	origText:angiotensin	url:D000809
+CANDIDATE	id:809	inCount:9	outCount:4	links:	url:D000809	name:Angiotensin	normalName:angiotensin	normalWikiTitle:angiotensin	predictedType:Chemical
+ENTITY	text:enalapril	normalName:enalapril	predictedType:chemical	q:true	qid:Q1287	docId:1639466	origText:enalapril	url:D004656
+CANDIDATE	id:4656	inCount:8	outCount:1	links:	url:D004656	name:Enalapril	normalName:enalapril	normalWikiTitle:enalapril	predictedType:Chemical
+ENTITY	text:nitrendipine	normalName:nitrendipine	predictedType:chemical	q:true	qid:Q1287	docId:1639466	origText:nitrendipine	url:D009568
+CANDIDATE	id:9568	inCount:4	outCount:1	links:	url:D009568	name:Nitrendipine	normalName:nitrendipine	normalWikiTitle:nitrendipine	predictedType:Chemical

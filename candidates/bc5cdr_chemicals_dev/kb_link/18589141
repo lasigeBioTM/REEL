@@ -1,0 +1,17 @@
+ENTITY	text:Heparin	normalName:heparin	predictedType:chemical	q:true	qid:Q328	docId:18589141	origText:Heparin	url:D006493
+CANDIDATE	id:6493	inCount:75	outCount:1	links:6493	url:D006493	name:Heparin	normalName:heparin	normalWikiTitle:heparin	predictedType:Chemical
+ENTITY	text:low-molecular weight heparin	normalName:low-molecular weight heparin	predictedType:chemical	q:true	qid:Q328	docId:18589141	origText:low-molecular weight heparin	url:D006495
+CANDIDATE	id:6495	inCount:26	outCount:1	links:	url:D006495	name:Heparin, Low-Molecular-Weight	normalName:heparin, low-molecular-weight	normalWikiTitle:heparin, low-molecular-weight	predictedType:Chemical
+ENTITY	text:Unfractionated heparin sodium	normalName:unfractionated heparin sodium	predictedType:chemical	q:true	qid:Q328	docId:18589141	origText:Unfractionated heparin sodium	url:D006493
+CANDIDATE	id:6493	inCount:75	outCount:1	links:6493	url:D006493	name:Heparin, Unfractionated	normalName:heparin, unfractionated	normalWikiTitle:heparin, unfractionated	predictedType:Chemical
+CANDIDATE	id:46348	inCount:0	outCount:1	links:	url:C046348	name:prednisone sodium succinate	normalName:prednisone sodium succinate	normalWikiTitle:prednisone sodium succinate	predictedType:Chemical
+CANDIDATE	id:111204	inCount:0	outCount:1	links:	url:C111204	name:N-propionylated heparin	normalName:n-propionylated heparin	normalWikiTitle:n-propionylated heparin	predictedType:Chemical
+CANDIDATE	id:97264	inCount:0	outCount:1	links:	url:C097264	name:sodium cerium sulfate	normalName:sodium cerium sulfate	normalWikiTitle:sodium cerium sulfate	predictedType:Chemical
+CANDIDATE	id:71573	inCount:0	outCount:1	links:	url:C071573	name:sodium paeonol sulfate	normalName:sodium paeonol sulfate	normalWikiTitle:sodium paeonol sulfate	predictedType:Chemical
+CANDIDATE	id:569244	inCount:0	outCount:1	links:	url:C569244	name:sodium hydrogen sulfite	normalName:sodium hydrogen sulfite	normalWikiTitle:sodium hydrogen sulfite	predictedType:Chemical
+CANDIDATE	id:91751	inCount:0	outCount:2	links:	url:C091751	name:sodium zirconate	normalName:sodium zirconate	normalWikiTitle:sodium zirconate	predictedType:Chemical
+CANDIDATE	id:2004	inCount:0	outCount:1	links:	url:C002004	name:epicatechin-2-sulfonate sodium salt	normalName:epicatechin-2-sulfonate sodium salt	normalWikiTitle:epicatechin-2-sulfonate sodium salt	predictedType:Chemical
+CANDIDATE	id:2472	inCount:0	outCount:1	links:	url:C002472	name:sodium sulforicinoleate	normalName:sodium sulforicinoleate	normalWikiTitle:sodium sulforicinoleate	predictedType:Chemical
+CANDIDATE	id:6497	inCount:10	outCount:1	links:	url:D006497	name:Heparitin Sulfate	normalName:heparitin sulfate	normalWikiTitle:heparitin sulfate	predictedType:Chemical
+CANDIDATE	id:44770	inCount:0	outCount:1	links:	url:C044770	name:palladium sulfonated alizarine	normalName:palladium sulfonated alizarine	normalWikiTitle:palladium sulfonated alizarine	predictedType:Chemical
+CANDIDATE	id:6493	inCount:75	outCount:1	links:6493	url:D006493	name:Unfractionated Heparin	normalName:unfractionated heparin	normalWikiTitle:unfractionated heparin	predictedType:Chemical

@@ -1,0 +1,6 @@
+ENTITY	text:lisinopril	normalName:lisinopril	predictedType:chemical	q:true	qid:Q217	docId:11198499	origText:lisinopril	url:D017706
+CANDIDATE	id:17706	inCount:4	outCount:1	links:	url:D017706	name:Lisinopril	normalName:lisinopril	normalWikiTitle:lisinopril	predictedType:Chemical
+ENTITY	text:angiotensin	normalName:angiotensin	predictedType:chemical	q:true	qid:Q217	docId:11198499	origText:angiotensin	url:D000809
+CANDIDATE	id:809	inCount:9	outCount:4	links:	url:D000809	name:Angiotensin	normalName:angiotensin	normalWikiTitle:angiotensin	predictedType:Chemical
+ENTITY	text:tizanidine	normalName:tizanidine	predictedType:chemical	q:true	qid:Q217	docId:11198499	origText:tizanidine	url:C023754
+CANDIDATE	id:23754	inCount:0	outCount:1	links:	url:C023754	name:tizanidine	normalName:tizanidine	normalWikiTitle:tizanidine	predictedType:Chemical

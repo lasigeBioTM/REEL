@@ -1,0 +1,6 @@
+ENTITY	text:carbon	normalName:carbon	predictedType:chemical	q:true	qid:Q1032	docId:3990093	origText:carbon	url:D002244
+CANDIDATE	id:2244	inCount:23	outCount:1	links:	url:D002244	name:Carbon	normalName:carbon	normalWikiTitle:carbon	predictedType:Chemical
+ENTITY	text:puromycin aminonucleoside	normalName:puromycin aminonucleoside	predictedType:chemical	q:true	qid:Q1032	docId:3990093	origText:puromycin aminonucleoside	url:D011692
+CANDIDATE	id:11692	inCount:4	outCount:2	links:	url:D011692	name:Puromycin Aminonucleoside	normalName:puromycin aminonucleoside	normalWikiTitle:puromycin aminonucleoside	predictedType:Chemical
+ENTITY	text:aminonucleoside	normalName:aminonucleoside	predictedType:chemical	q:true	qid:Q1032	docId:3990093	origText:aminonucleoside	url:D011692
+CANDIDATE	id:11692	inCount:4	outCount:2	links:	url:D011692	name:Aminonucleoside	normalName:aminonucleoside	normalWikiTitle:aminonucleoside	predictedType:Chemical

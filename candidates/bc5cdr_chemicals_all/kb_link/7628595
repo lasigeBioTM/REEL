@@ -1,0 +1,8 @@
+ENTITY	text:vitamin B12	normalName:vitamin b12	predictedType:chemical	q:true	qid:Q1035	docId:7628595	origText:vitamin B12	url:D014805
+CANDIDATE	id:14805	inCount:73	outCount:1	links:	url:D014805	name:Vitamin B12	normalName:vitamin b12	normalWikiTitle:vitamin b12	predictedType:Chemical
+ENTITY	text:zidovudine	normalName:zidovudine	predictedType:chemical	q:true	qid:Q1035	docId:7628595	origText:zidovudine	url:D015215
+CANDIDATE	id:15215	inCount:86	outCount:2	links:	url:D015215	name:Zidovudine	normalName:zidovudine	normalWikiTitle:zidovudine	predictedType:Chemical
+ENTITY	text:folate	normalName:folate	predictedType:chemical	q:true	qid:Q1035	docId:7628595	origText:folate	url:D005492
+CANDIDATE	id:5492	inCount:121	outCount:1	links:	url:D005492	name:Folate	normalName:folate	normalWikiTitle:folate	predictedType:Chemical
+ENTITY	text:folinic acid	normalName:folinic acid	predictedType:chemical	q:true	qid:Q1035	docId:7628595	origText:folinic acid	url:D002955
+CANDIDATE	id:2955	inCount:88	outCount:1	links:	url:D002955	name:Acid, Folinic	normalName:acid, folinic	normalWikiTitle:acid, folinic	predictedType:Chemical

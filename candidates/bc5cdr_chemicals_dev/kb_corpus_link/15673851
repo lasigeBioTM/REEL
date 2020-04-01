@@ -1,0 +1,10 @@
+ENTITY	text:NMDA	normalName:nmda	predictedType:chemical	q:true	qid:Q413	docId:15673851	origText:NMDA	url:D016202
+CANDIDATE	id:16202	inCount:3	outCount:1	links:16202	url:D016202	name:NMDA	normalName:nmda	normalWikiTitle:nmda	predictedType:Chemical
+ENTITY	text:N-methyl-D-aspartate	normalName:n-methyl-d-aspartate	predictedType:chemical	q:true	qid:Q413	docId:15673851	origText:N-methyl-D-aspartate	url:D016202
+CANDIDATE	id:16202	inCount:3	outCount:1	links:16202	url:D016202	name:N-Methyl-D-aspartate	normalName:n-methyl-d-aspartate	normalWikiTitle:n-methyl-d-aspartate	predictedType:Chemical
+ENTITY	text:MK-801	normalName:mk-801	predictedType:chemical	q:true	qid:Q413	docId:15673851	origText:MK-801	url:D016291
+CANDIDATE	id:16291	inCount:9	outCount:1	links:	url:D016291	name:MK 801	normalName:mk 801	normalWikiTitle:mk 801	predictedType:Chemical
+ENTITY	text:morphine	normalName:morphine	predictedType:chemical	q:true	qid:Q413	docId:15673851	origText:morphine	url:D009020
+CANDIDATE	id:9020	inCount:13	outCount:1	links:	url:D009020	name:Morphine	normalName:morphine	normalWikiTitle:morphine	predictedType:Chemical
+ENTITY	text:glutamate	normalName:glutamate	predictedType:chemical	q:true	qid:Q413	docId:15673851	origText:glutamate	url:D018698
+CANDIDATE	id:18698	inCount:53	outCount:2	links:	url:D018698	name:Glutamate	normalName:glutamate	normalWikiTitle:glutamate	predictedType:Chemical

@@ -1,0 +1,94 @@
+ENTITY	text:hypertension	normalName:hypertension	predictedType:disease	q:true	qid:Q162	docId:20098969	origText:hypertension	url:D006973
+CANDIDATE	id:6973	inCount:18	outCount:1	links:10146;1919	url:D006973	name:Hypertension	normalName:hypertension	normalWikiTitle:hypertension	predictedType:Disease
+ENTITY	text:hallucinations	normalName:hallucinations	predictedType:disease	q:true	qid:Q162	docId:20098969	origText:hallucinations	url:D006212
+CANDIDATE	id:6212	inCount:1	outCount:1	links:1145	url:D006212	name:Hallucinations	normalName:hallucinations	normalWikiTitle:hallucinations	predictedType:Disease
+ENTITY	text:pain	normalName:pain	predictedType:disease	q:true	qid:Q162	docId:20098969	origText:pain	url:D010146
+CANDIDATE	id:10146	inCount:34	outCount:1	links:3288;6973	url:D010146	name:Pain	normalName:pain	normalWikiTitle:pain	predictedType:Disease
+ENTITY	text:tooth wear	normalName:tooth wear	predictedType:disease	q:true	qid:Q162	docId:20098969	origText:tooth wear	url:D057085
+CANDIDATE	id:57085	inCount:3	outCount:1	links:	url:D057085	name:Tooth Wear	normalName:tooth wear	normalWikiTitle:tooth wear	predictedType:Disease
+ENTITY	text:caries	normalName:caries	predictedType:disease	q:true	qid:Q162	docId:20098969	origText:caries	url:D003731
+CANDIDATE	id:3731	inCount:4	outCount:1	links:	url:D003731	name:Dental Caries	normalName:dental caries	normalWikiTitle:dental caries	predictedType:Disease
+CANDIDATE	id:12532	inCount:0	outCount:2	links:	url:D012532	name:Scabies	normalName:scabies	normalWikiTitle:scabies	predictedType:Disease
+CANDIDATE	id:17213	inCount:0	outCount:1	links:	url:D017213	name:Root Caries	normalName:root caries	normalWikiTitle:root caries	predictedType:Disease
+CANDIDATE	id:11818	inCount:0	outCount:1	links:	url:D011818	name:Rabies	normalName:rabies	normalWikiTitle:rabies	predictedType:Disease
+CANDIDATE	id:19066	inCount:152	outCount:1	links:	url:D019066	name:Facies	normalName:facies	normalWikiTitle:facies	predictedType:Disease
+CANDIDATE	id:12608	inCount:0	outCount:2	links:	url:D012608	name:Scrapie	normalName:scrapie	normalWikiTitle:scrapie	predictedType:Disease
+CANDIDATE	id:12279	inCount:4	outCount:3	links:	url:D012279	name:Rickets	normalName:rickets	normalWikiTitle:rickets	predictedType:Disease
+CANDIDATE	id:1196	inCount:0	outCount:1	links:	url:D001196	name:Ascariasis	normalName:ascariasis	normalWikiTitle:ascariasis	predictedType:Disease
+CANDIDATE	id:10291	inCount:3	outCount:1	links:	url:D010291	name:Paresis	normalName:paresis	normalWikiTitle:paresis	predictedType:Disease
+CANDIDATE	id:70558	inCount:4	outCount:2	links:	url:D000070558	name:Talipes	normalName:talipes	normalWikiTitle:talipes	predictedType:Disease
+CANDIDATE	id:609165	inCount:0	outCount:1	links:	url:609165	name:CRIE	normalName:crie	normalWikiTitle:crie	predictedType:Disease
+ENTITY	text:carious episodes	normalName:carious episodes	predictedType:disease	q:true	qid:Q162	docId:20098969	origText:carious episodes	url:D003731
+CANDIDATE	id:3731	inCount:4	outCount:1	links:	url:D003731	name:Carious Dentin	normalName:carious dentin	normalWikiTitle:carious dentin	predictedType:Disease
+CANDIDATE	id:18188	inCount:0	outCount:1	links:	url:D018188	name:Cardiovirus Infections	normalName:cardiovirus infections	normalWikiTitle:cardiovirus infections	predictedType:Disease
+CANDIDATE	id:20921	inCount:2	outCount:1	links:	url:D020921	name:Sleep Arousal Disorders	normalName:sleep arousal disorders	normalWikiTitle:sleep arousal disorders	predictedType:Disease
+CANDIDATE	id:3244	inCount:1	outCount:2	links:	url:D003244	name:Consciousness Disorders	normalName:consciousness disorders	normalWikiTitle:consciousness disorders	predictedType:Disease
+CANDIDATE	id:25063	inCount:71	outCount:2	links:	url:D025063	name:Chromosome Disorders	normalName:chromosome disorders	normalWikiTitle:chromosome disorders	predictedType:Disease
+CANDIDATE	id:14648	inCount:2	outCount:1	links:	url:D014648	name:Varicose Veins	normalName:varicose veins	normalWikiTitle:varicose veins	predictedType:Disease
+CANDIDATE	id:16767	inCount:1	outCount:2	links:	url:D016767	name:Caroli Disease	normalName:caroli disease	normalWikiTitle:caroli disease	predictedType:Disease
+CANDIDATE	id:20969	inCount:17	outCount:1	links:	url:D020969	name:Disease Attributes	normalName:disease attributes	normalWikiTitle:disease attributes	predictedType:Disease
+CANDIDATE	id:580065	inCount:0	outCount:1	links:	url:C580065	name:Episodic Ataxia	normalName:episodic ataxia	normalWikiTitle:episodic ataxia	predictedType:Disease
+CANDIDATE	id:1184	inCount:1	outCount:1	links:	url:D001184	name:Articulation Disorders	normalName:articulation disorders	normalWikiTitle:articulation disorders	predictedType:Disease
+CANDIDATE	id:2371	inCount:4	outCount:1	links:	url:D002371	name:Cat Diseases	normalName:cat diseases	normalWikiTitle:cat diseases	predictedType:Disease
+CANDIDATE	id:3731	inCount:4	outCount:1	links:	url:D003731	name:Dentins, Carious	normalName:dentins, carious	normalWikiTitle:dentins, carious	predictedType:Disease
+CANDIDATE	id:3731	inCount:4	outCount:1	links:	url:D003731	name:Carious Dentins	normalName:carious dentins	normalWikiTitle:carious dentins	predictedType:Disease
+CANDIDATE	id:3731	inCount:4	outCount:1	links:	url:D003731	name:Dentin, Carious	normalName:dentin, carious	normalWikiTitle:dentin, carious	predictedType:Disease
+CANDIDATE	id:15831	inCount:1	outCount:2	links:	url:D015831	name:Exostoses, Cartilaginous	normalName:exostoses, cartilaginous	normalWikiTitle:exostoses, cartilaginous	predictedType:Disease
+CANDIDATE	id:15831	inCount:1	outCount:2	links:	url:D015831	name:Cartilaginous Exostoses	normalName:cartilaginous exostoses	normalWikiTitle:cartilaginous exostoses	predictedType:Disease
+CANDIDATE	id:1474	inCount:3	outCount:1	links:	url:D001474	name:Carrion Disease	normalName:carrion disease	normalWikiTitle:carrion disease	predictedType:Disease
+CANDIDATE	id:16767	inCount:1	outCount:2	links:	url:D016767	name:Carolis Disease	normalName:carolis disease	normalWikiTitle:carolis disease	predictedType:Disease
+CANDIDATE	id:1474	inCount:3	outCount:1	links:	url:D001474	name:Disease, Carrion	normalName:disease, carrion	normalWikiTitle:disease, carrion	predictedType:Disease
+CANDIDATE	id:2294	inCount:5	outCount:2	links:	url:D002294	name:Carcinomas, Epidermoid	normalName:carcinomas, epidermoid	normalWikiTitle:carcinomas, epidermoid	predictedType:Disease
+ENTITY	text:xerostomia	normalName:xerostomia	predictedType:disease	q:true	qid:Q162	docId:20098969	origText:xerostomia	url:D014987
+CANDIDATE	id:14987	inCount:1	outCount:1	links:	url:D014987	name:Xerostomia	normalName:xerostomia	normalWikiTitle:xerostomia	predictedType:Disease
+ENTITY	text:cardiac dysrhythmias	normalName:cardiac dysrhythmias	predictedType:disease	q:true	qid:Q162	docId:20098969	origText:cardiac dysrhythmias	url:D001145
+CANDIDATE	id:1145	inCount:27	outCount:2	links:6212	url:D001145	name:Dysrhythmia, Cardiac	normalName:dysrhythmia, cardiac	normalWikiTitle:dysrhythmia, cardiac	predictedType:Disease
+CANDIDATE	id:4489	inCount:0	outCount:2	links:	url:D004489	name:Edema, Cardiac	normalName:edema, cardiac	normalWikiTitle:edema, cardiac	predictedType:Disease
+CANDIDATE	id:563247	inCount:0	outCount:2	links:	url:C563247	name:Muscular Dystrophy, Cardiac Type	normalName:muscular dystrophy, cardiac type	normalWikiTitle:muscular dystrophy, cardiac type	predictedType:Disease
+CANDIDATE	id:1146	inCount:2	outCount:1	links:	url:D001146	name:Arrhythmia, Sinus	normalName:arrhythmia, sinus	normalWikiTitle:arrhythmia, sinus	predictedType:Disease
+CANDIDATE	id:16757	inCount:4	outCount:2	links:	url:D016757	name:Death, Sudden, Cardiac	normalName:death, sudden, cardiac	normalWikiTitle:death, sudden, cardiac	predictedType:Disease
+CANDIDATE	id:13589	inCount:0	outCount:2	links:	url:D013589	name:Syphilis, Cardiovascular	normalName:syphilis, cardiovascular	normalWikiTitle:syphilis, cardiovascular	predictedType:Disease
+CANDIDATE	id:2305	inCount:0	outCount:1	links:	url:D002305	name:Cardiac Tamponade	normalName:cardiac tamponade	normalWikiTitle:cardiac tamponade	predictedType:Disease
+CANDIDATE	id:616201	inCount:0	outCount:2	links:	url:616201	name:CHRONIC ATRIAL AND INTESTINAL DYSRHYTHMIA	normalName:chronic atrial and intestinal dysrhythmia	normalWikiTitle:chronic atrial and intestinal dysrhythmia	predictedType:Disease
+CANDIDATE	id:20178	inCount:2	outCount:3	links:	url:D020178	name:Sleep Disorders, Circadian Rhythm	normalName:sleep disorders, circadian rhythm	normalWikiTitle:sleep disorders, circadian rhythm	predictedType:Disease
+CANDIDATE	id:536455	inCount:0	outCount:1	links:	url:C536455	name:Craniofacial dyssynostosis	normalName:craniofacial dyssynostosis	normalWikiTitle:craniofacial dyssynostosis	predictedType:Disease
+CANDIDATE	id:567062	inCount:0	outCount:1	links:	url:C567062	name:Fabry Disease, Cardiac Variant	normalName:fabry disease, cardiac variant	normalWikiTitle:fabry disease, cardiac variant	predictedType:Disease
+CANDIDATE	id:1145	inCount:27	outCount:2	links:6212	url:D001145	name:Cardiac Dysrhythmia	normalName:cardiac dysrhythmia	normalWikiTitle:cardiac dysrhythmia	predictedType:Disease
+CANDIDATE	id:1919	inCount:0	outCount:1	links:6973	url:D001919	name:Bradyarrhythmias	normalName:bradyarrhythmias	normalWikiTitle:bradyarrhythmias	predictedType:Disease
+CANDIDATE	id:4489	inCount:0	outCount:2	links:	url:D004489	name:Cardiac Edemas	normalName:cardiac edemas	normalWikiTitle:cardiac edemas	predictedType:Disease
+CANDIDATE	id:4489	inCount:0	outCount:2	links:	url:D004489	name:Edemas, Cardiac	normalName:edemas, cardiac	normalWikiTitle:edemas, cardiac	predictedType:Disease
+CANDIDATE	id:1919	inCount:0	outCount:1	links:6973	url:D001919	name:Bradyarrhythmia	normalName:bradyarrhythmia	normalWikiTitle:bradyarrhythmia	predictedType:Disease
+CANDIDATE	id:6331	inCount:29	outCount:1	links:	url:D006331	name:Disease, Cardiac	normalName:disease, cardiac	normalWikiTitle:disease, cardiac	predictedType:Disease
+CANDIDATE	id:6331	inCount:29	outCount:1	links:	url:D006331	name:Cardiac Disease	normalName:cardiac disease	normalWikiTitle:cardiac disease	predictedType:Disease
+ENTITY	text:violent behavior	normalName:violent behavior	predictedType:disease	q:true	qid:Q162	docId:20098969	origText:violent behavior	url:D001523
+CANDIDATE	id:1523	inCount:27	outCount:1	links:	url:D001523	name:Disorders, Behavior	normalName:disorders, behavior	normalWikiTitle:disorders, behavior	predictedType:Disease
+CANDIDATE	id:5391	inCount:0	outCount:1	links:	url:D005391	name:Firesetting Behavior	normalName:firesetting behavior	normalWikiTitle:firesetting behavior	predictedType:Disease
+CANDIDATE	id:2653	inCount:1	outCount:1	links:	url:D002653	name:Child Behavior Disorders	normalName:child behavior disorders	normalWikiTitle:child behavior disorders	predictedType:Disease
+CANDIDATE	id:20187	inCount:0	outCount:1	links:	url:D020187	name:REM Sleep Behavior Disorder	normalName:rem sleep behavior disorder	normalWikiTitle:rem sleep behavior disorder	predictedType:Disease
+CANDIDATE	id:6828	inCount:1	outCount:1	links:	url:D006828	name:Hydatidiform Mole	normalName:hydatidiform mole	normalWikiTitle:hydatidiform mole	predictedType:Disease
+CANDIDATE	id:535619	inCount:0	outCount:1	links:	url:C535619	name:Hairy nose tip	normalName:hairy nose tip	normalWikiTitle:hairy nose tip	predictedType:Disease
+CANDIDATE	id:2825	inCount:1	outCount:2	links:	url:D002825	name:Chorioretinitis	normalName:chorioretinitis	normalWikiTitle:chorioretinitis	predictedType:Disease
+CANDIDATE	id:14901	inCount:0	outCount:2	links:	url:D014901	name:West Nile Fever	normalName:west nile fever	normalWikiTitle:west nile fever	predictedType:Disease
+CANDIDATE	id:2820	inCount:0	outCount:1	links:	url:D002820	name:Hydatidiform Mole, Invasive	normalName:hydatidiform mole, invasive	normalWikiTitle:hydatidiform mole, invasive	predictedType:Disease
+CANDIDATE	id:6359	inCount:0	outCount:1	links:	url:D006359	name:Heat Exhaustion	normalName:heat exhaustion	normalWikiTitle:heat exhaustion	predictedType:Disease
+CANDIDATE	id:1762	inCount:1	outCount:1	links:	url:D001762	name:Blepharitis	normalName:blepharitis	normalWikiTitle:blepharitis	predictedType:Disease
+CANDIDATE	id:1523	inCount:27	outCount:1	links:	url:D001523	name:Behavior Disorders	normalName:behavior disorders	normalWikiTitle:behavior disorders	predictedType:Disease
+ENTITY	text:carious lesions	normalName:carious lesions	predictedType:disease	q:true	qid:Q162	docId:20098969	origText:carious lesions	url:D003731
+CANDIDATE	id:3731	inCount:4	outCount:1	links:	url:D003731	name:Carious Dentin	normalName:carious dentin	normalWikiTitle:carious dentin	predictedType:Disease
+CANDIDATE	id:18188	inCount:0	outCount:1	links:	url:D018188	name:Cardiovirus Infections	normalName:cardiovirus infections	normalWikiTitle:cardiovirus infections	predictedType:Disease
+CANDIDATE	id:14648	inCount:2	outCount:1	links:	url:D014648	name:Varicose Veins	normalName:varicose veins	normalWikiTitle:varicose veins	predictedType:Disease
+CANDIDATE	id:70896	inCount:0	outCount:1	links:	url:D000070896	name:Bankart Lesions	normalName:bankart lesions	normalWikiTitle:bankart lesions	predictedType:Disease
+CANDIDATE	id:1161	inCount:9	outCount:1	links:	url:D001161	name:Arteriosclerosis	normalName:arteriosclerosis	normalWikiTitle:arteriosclerosis	predictedType:Disease
+CANDIDATE	id:3288	inCount:2	outCount:1	links:10146	url:D003288	name:Contusions	normalName:contusions	normalWikiTitle:contusions	predictedType:Disease
+CANDIDATE	id:1102	inCount:10	outCount:1	links:	url:D001102	name:Arbovirus Infections	normalName:arbovirus infections	normalWikiTitle:arbovirus infections	predictedType:Disease
+CANDIDATE	id:63646	inCount:2	outCount:1	links:	url:D063646	name:Carcinogenesis	normalName:carcinogenesis	normalWikiTitle:carcinogenesis	predictedType:Disease
+CANDIDATE	id:50379	inCount:0	outCount:1	links:	url:D050379	name:Arteriolosclerosis	normalName:arteriolosclerosis	normalWikiTitle:arteriolosclerosis	predictedType:Disease
+CANDIDATE	id:1183	inCount:0	outCount:1	links:	url:D001183	name:Arthus Reaction	normalName:arthus reaction	normalWikiTitle:arthus reaction	predictedType:Disease
+CANDIDATE	id:53821	inCount:3	outCount:2	links:	url:D053821	name:Cardiovascular Infections	normalName:cardiovascular infections	normalWikiTitle:cardiovascular infections	predictedType:Disease
+CANDIDATE	id:3731	inCount:4	outCount:1	links:	url:D003731	name:Dentins, Carious	normalName:dentins, carious	normalWikiTitle:dentins, carious	predictedType:Disease
+CANDIDATE	id:3731	inCount:4	outCount:1	links:	url:D003731	name:Carious Dentins	normalName:carious dentins	normalWikiTitle:carious dentins	predictedType:Disease
+CANDIDATE	id:3731	inCount:4	outCount:1	links:	url:D003731	name:Dentin, Carious	normalName:dentin, carious	normalWikiTitle:dentin, carious	predictedType:Disease
+CANDIDATE	id:1768	inCount:3	outCount:2	links:	url:D001768	name:Bullous Lesions	normalName:bullous lesions	normalWikiTitle:bullous lesions	predictedType:Disease
+CANDIDATE	id:1768	inCount:3	outCount:2	links:	url:D001768	name:Lesions, Bullous	normalName:lesions, bullous	normalWikiTitle:lesions, bullous	predictedType:Disease
+CANDIDATE	id:56104	inCount:0	outCount:2	links:	url:D056104	name:Cardiac Concussions	normalName:cardiac concussions	normalWikiTitle:cardiac concussions	predictedType:Disease
+CANDIDATE	id:56104	inCount:0	outCount:2	links:	url:D056104	name:Concussions, Cardiac	normalName:concussions, cardiac	normalWikiTitle:concussions, cardiac	predictedType:Disease

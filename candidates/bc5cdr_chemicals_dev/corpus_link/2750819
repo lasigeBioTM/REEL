@@ -1,0 +1,6 @@
+ENTITY	text:nifedipine	normalName:nifedipine	predictedType:chemical	q:true	qid:Q247	docId:2750819	origText:nifedipine	url:D009543
+CANDIDATE	id:9543	inCount:42	outCount:1	links:8278	url:D009543	name:Nifedipine	normalName:nifedipine	normalWikiTitle:nifedipine	predictedType:Chemical
+ENTITY	text:magnesium sulfate	normalName:magnesium sulfate	predictedType:chemical	q:true	qid:Q247	docId:2750819	origText:magnesium sulfate	url:D008278
+CANDIDATE	id:8278	inCount:8	outCount:2	links:9543	url:D008278	name:Magnesium Sulfate	normalName:magnesium sulfate	normalWikiTitle:magnesium sulfate	predictedType:Chemical
+ENTITY	text:magnesium	normalName:magnesium	predictedType:chemical	q:true	qid:Q247	docId:2750819	origText:magnesium	url:D008274
+CANDIDATE	id:8274	inCount:26	outCount:2	links:	url:D008274	name:Magnesium	normalName:magnesium	normalWikiTitle:magnesium	predictedType:Chemical

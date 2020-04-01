@@ -1,0 +1,39 @@
+ENTITY	text:hypercalcemia	normalName:hypercalcemia	predictedType:disease	q:true	qid:Q928	docId:6286738	origText:hypercalcemia	url:D006934
+CANDIDATE	id:6934	inCount:10	outCount:2	links:54559	url:D006934	name:Hypercalcemia	normalName:hypercalcemia	normalWikiTitle:hypercalcemia	predictedType:Disease
+ENTITY	text:milk fever	normalName:milk fever	predictedType:disease	q:true	qid:Q928	docId:6286738	origText:milk fever	url:D010319
+CANDIDATE	id:10319	inCount:0	outCount:1	links:	url:D010319	name:Milk Fever, Animal	normalName:milk fever, animal	normalWikiTitle:milk fever, animal	predictedType:Disease
+CANDIDATE	id:11778	inCount:0	outCount:1	links:	url:D011778	name:Q Fever	normalName:q fever	normalWikiTitle:q fever	predictedType:Disease
+CANDIDATE	id:7835	inCount:0	outCount:2	links:	url:D007835	name:Lassa Fever	normalName:lassa fever	normalWikiTitle:lassa fever	predictedType:Disease
+CANDIDATE	id:5334	inCount:5	outCount:1	links:	url:D005334	name:Fever	normalName:fever	normalWikiTitle:fever	predictedType:Disease
+CANDIDATE	id:12213	inCount:3	outCount:3	links:	url:D012213	name:Rheumatic Fever	normalName:rheumatic fever	normalWikiTitle:rheumatic fever	predictedType:Disease
+CANDIDATE	id:15004	inCount:0	outCount:3	links:	url:D015004	name:Yellow Fever	normalName:yellow fever	normalWikiTitle:yellow fever	predictedType:Disease
+CANDIDATE	id:14901	inCount:0	outCount:2	links:	url:D014901	name:West Nile Fever	normalName:west nile fever	normalWikiTitle:west nile fever	predictedType:Disease
+CANDIDATE	id:531737	inCount:0	outCount:1	links:	url:C531737	name:Malignant fever	normalName:malignant fever	normalWikiTitle:malignant fever	predictedType:Disease
+CANDIDATE	id:12541	inCount:0	outCount:1	links:	url:D012541	name:Scarlet Fever	normalName:scarlet fever	normalWikiTitle:scarlet fever	predictedType:Disease
+CANDIDATE	id:14435	inCount:0	outCount:1	links:	url:D014435	name:Typhoid Fever	normalName:typhoid fever	normalWikiTitle:typhoid fever	predictedType:Disease
+CANDIDATE	id:12295	inCount:0	outCount:4	links:	url:D012295	name:Rift Valley Fever	normalName:rift valley fever	normalWikiTitle:rift valley fever	predictedType:Disease
+CANDIDATE	id:71243	inCount:0	outCount:2	links:	url:D000071243	name:Zika Fever	normalName:zika fever	normalWikiTitle:zika fever	predictedType:Disease
+CANDIDATE	id:14438	inCount:0	outCount:1	links:	url:D014438	name:Jail Fever	normalName:jail fever	normalWikiTitle:jail fever	predictedType:Disease
+CANDIDATE	id:71243	inCount:0	outCount:2	links:	url:D000071243	name:Fever, Zika	normalName:fever, zika	normalWikiTitle:fever, zika	predictedType:Disease
+CANDIDATE	id:14438	inCount:0	outCount:1	links:	url:D014438	name:Fever, Jail	normalName:fever, jail	normalWikiTitle:fever, jail	predictedType:Disease
+CANDIDATE	id:2006	inCount:1	outCount:1	links:	url:D002006	name:Fever, Malta	normalName:fever, malta	normalWikiTitle:fever, malta	predictedType:Disease
+CANDIDATE	id:14438	inCount:0	outCount:1	links:	url:D014438	name:Fevers, Jail	normalName:fevers, jail	normalWikiTitle:fevers, jail	predictedType:Disease
+CANDIDATE	id:2006	inCount:1	outCount:1	links:	url:D002006	name:Malta Fever	normalName:malta fever	normalWikiTitle:malta fever	predictedType:Disease
+CANDIDATE	id:7922	inCount:1	outCount:2	links:	url:D007922	name:Fever, Mud	normalName:fever, mud	normalWikiTitle:fever, mud	predictedType:Disease
+CANDIDATE	id:7922	inCount:1	outCount:2	links:	url:D007922	name:Mud Fever	normalName:mud fever	normalWikiTitle:mud fever	predictedType:Disease
+ENTITY	text:hyperphosphatemia	normalName:hyperphosphatemia	predictedType:disease	q:true	qid:Q928	docId:6286738	origText:hyperphosphatemia	url:D054559
+CANDIDATE	id:54559	inCount:3	outCount:1	links:6934	url:D054559	name:Hyperphosphatemia	normalName:hyperphosphatemia	normalWikiTitle:hyperphosphatemia	predictedType:Disease
+ENTITY	text:toxicity	normalName:toxicity	predictedType:disease	q:true	qid:Q928	docId:6286738	origText:toxicity	url:D064420
+CANDIDATE	id:64420	inCount:10	outCount:1	links:	url:D064420	name:Drug Toxicity	normalName:drug toxicity	normalWikiTitle:drug toxicity	predictedType:Disease
+CANDIDATE	id:66126	inCount:0	outCount:3	links:	url:D066126	name:Cardiotoxicity	normalName:cardiotoxicity	normalWikiTitle:cardiotoxicity	predictedType:Disease
+CANDIDATE	id:15651	inCount:2	outCount:1	links:	url:D015651	name:Mycotoxicosis	normalName:mycotoxicosis	normalWikiTitle:mycotoxicosis	predictedType:Disease
+CANDIDATE	id:13971	inCount:2	outCount:1	links:	url:D013971	name:Thyrotoxicosis	normalName:thyrotoxicosis	normalWikiTitle:thyrotoxicosis	predictedType:Disease
+CANDIDATE	id:14869	inCount:0	outCount:2	links:	url:D014869	name:Water Intoxication	normalName:water intoxication	normalWikiTitle:water intoxication	predictedType:Disease
+CANDIDATE	id:14103	inCount:4	outCount:2	links:	url:D014103	name:Torticollis	normalName:torticollis	normalWikiTitle:torticollis	predictedType:Disease
+CANDIDATE	id:9765	inCount:42	outCount:2	links:	url:D009765	name:Obesity	normalName:obesity	normalWikiTitle:obesity	predictedType:Disease
+CANDIDATE	id:14115	inCount:1	outCount:1	links:	url:D014115	name:Toxemia	normalName:toxemia	normalWikiTitle:toxemia	predictedType:Disease
+CANDIDATE	id:7246	inCount:2	outCount:2	links:	url:D007246	name:Infertility	normalName:infertility	normalWikiTitle:infertility	predictedType:Disease
+CANDIDATE	id:20234	inCount:0	outCount:2	links:	url:D020234	name:Gait Ataxia	normalName:gait ataxia	normalWikiTitle:gait ataxia	predictedType:Disease
+CANDIDATE	id:14069	inCount:1	outCount:1	links:	url:D014069	name:Tonsillitis	normalName:tonsillitis	normalWikiTitle:tonsillitis	predictedType:Disease
+CANDIDATE	id:64420	inCount:10	outCount:1	links:	url:D064420	name:Toxicity, Drug	normalName:toxicity, drug	normalWikiTitle:toxicity, drug	predictedType:Disease
+CANDIDATE	id:17484	inCount:0	outCount:2	links:	url:D017484	name:Phototoxicity	normalName:phototoxicity	normalWikiTitle:phototoxicity	predictedType:Disease

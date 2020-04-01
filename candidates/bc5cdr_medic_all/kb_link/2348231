@@ -1,0 +1,6 @@
+ENTITY	text:hyperemia	normalName:hyperemia	predictedType:disease	q:true	qid:Q1071	docId:2348231	origText:hyperemia	url:D006940
+CANDIDATE	id:6940	inCount:0	outCount:1	links:	url:D006940	name:Hyperemia	normalName:hyperemia	normalWikiTitle:hyperemia	predictedType:Disease
+ENTITY	text:peripheral vascular disease	normalName:peripheral vascular disease	predictedType:disease	q:true	qid:Q1071	docId:2348231	origText:peripheral vascular disease	url:D016491
+CANDIDATE	id:16491	inCount:8	outCount:1	links:	url:D016491	name:Peripheral Vascular Disease	normalName:peripheral vascular disease	normalWikiTitle:peripheral vascular disease	predictedType:Disease
+ENTITY	text:intermittent claudication	normalName:intermittent claudication	predictedType:disease	q:true	qid:Q1071	docId:2348231	origText:intermittent claudication	url:D007383
+CANDIDATE	id:7383	inCount:0	outCount:2	links:	url:D007383	name:Intermittent Claudication	normalName:intermittent claudication	normalWikiTitle:intermittent claudication	predictedType:Disease

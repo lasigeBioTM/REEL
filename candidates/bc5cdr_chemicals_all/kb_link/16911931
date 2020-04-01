@@ -1,0 +1,6 @@
+ENTITY	text:lamivudine	normalName:lamivudine	predictedType:chemical	q:true	qid:Q1395	docId:16911931	origText:lamivudine	url:D019259
+CANDIDATE	id:19259	inCount:14	outCount:1	links:	url:D019259	name:Lamivudine	normalName:lamivudine	normalWikiTitle:lamivudine	predictedType:Chemical
+ENTITY	text:HBeAg	normalName:hbeag	predictedType:chemical	q:true	qid:Q1395	docId:16911931	origText:HBeAg	url:D006513
+CANDIDATE	id:6513	inCount:0	outCount:1	links:	url:D006513	name:HBeAg	normalName:hbeag	normalWikiTitle:hbeag	predictedType:Chemical
+ENTITY	text:HBsAg	normalName:hbsag	predictedType:chemical	q:true	qid:Q1395	docId:16911931	origText:HBsAg	url:D006514
+CANDIDATE	id:6514	inCount:4	outCount:1	links:	url:D006514	name:HBsAg	normalName:hbsag	normalWikiTitle:hbsag	predictedType:Chemical

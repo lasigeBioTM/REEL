@@ -1,0 +1,40 @@
+ENTITY	text:chronic renal damage	normalName:chronic renal damage	predictedType:disease	q:true	qid:Q835	docId:17147461	origText:chronic renal damage	url:D051436
+CANDIDATE	id:51436	inCount:1	outCount:1	links:	url:D051436	name:Renal Diseases, Chronic	normalName:renal diseases, chronic	normalWikiTitle:renal diseases, chronic	predictedType:Disease
+CANDIDATE	id:1925	inCount:3	outCount:1	links:	url:D001925	name:Brain Damage, Chronic	normalName:brain damage, chronic	normalWikiTitle:brain damage, chronic	predictedType:Disease
+CANDIDATE	id:20200	inCount:0	outCount:1	links:	url:D020200	name:Hematoma, Subdural, Chronic	normalName:hematoma, subdural, chronic	normalWikiTitle:hematoma, subdural, chronic	predictedType:Disease
+CANDIDATE	id:56844	inCount:0	outCount:2	links:	url:D056844	name:Renal Colic	normalName:renal colic	normalWikiTitle:renal colic	predictedType:Disease
+CANDIDATE	id:15673	inCount:0	outCount:4	links:	url:D015673	name:Fatigue Syndrome, Chronic	normalName:fatigue syndrome, chronic	normalWikiTitle:fatigue syndrome, chronic	predictedType:Disease
+CANDIDATE	id:51436	inCount:1	outCount:1	links:	url:D051436	name:Renal Insufficiency, Chronic	normalName:renal insufficiency, chronic	normalWikiTitle:renal insufficiency, chronic	predictedType:Disease
+CANDIDATE	id:2908	inCount:2	outCount:1	links:	url:D002908	name:Chronic Disease	normalName:chronic disease	normalWikiTitle:chronic disease	predictedType:Disease
+CANDIDATE	id:537757	inCount:0	outCount:2	links:	url:C537757	name:Renal hypouricemia	normalName:renal hypouricemia	normalWikiTitle:renal hypouricemia	predictedType:Disease
+CANDIDATE	id:19701	inCount:0	outCount:2	links:	url:D019701	name:Hepatitis D, Chronic	normalName:hepatitis d, chronic	normalWikiTitle:hepatitis d, chronic	predictedType:Disease
+CANDIDATE	id:59350	inCount:0	outCount:1	links:	url:D059350	name:Chronic Pain	normalName:chronic pain	normalWikiTitle:chronic pain	predictedType:Disease
+CANDIDATE	id:6105	inCount:7	outCount:2	links:	url:D006105	name:Granulomatous Disease, Chronic	normalName:granulomatous disease, chronic	normalWikiTitle:granulomatous disease, chronic	predictedType:Disease
+CANDIDATE	id:51436	inCount:1	outCount:1	links:	url:D051436	name:Disease, Chronic Renal	normalName:disease, chronic renal	normalWikiTitle:disease, chronic renal	predictedType:Disease
+CANDIDATE	id:51436	inCount:1	outCount:1	links:	url:D051436	name:Renal Disease, Chronic	normalName:renal disease, chronic	normalWikiTitle:renal disease, chronic	predictedType:Disease
+CANDIDATE	id:51436	inCount:1	outCount:1	links:	url:D051436	name:Chronic Renal Disease	normalName:chronic renal disease	normalWikiTitle:chronic renal disease	predictedType:Disease
+CANDIDATE	id:51436	inCount:1	outCount:1	links:	url:D051436	name:Chronic Renal Diseases	normalName:chronic renal diseases	normalWikiTitle:chronic renal diseases	predictedType:Disease
+CANDIDATE	id:51436	inCount:1	outCount:1	links:	url:D051436	name:Diseases, Chronic Renal	normalName:diseases, chronic renal	normalWikiTitle:diseases, chronic renal	predictedType:Disease
+CANDIDATE	id:7676	inCount:3	outCount:1	links:	url:D007676	name:Renal Failure, Chronic	normalName:renal failure, chronic	normalWikiTitle:renal failure, chronic	predictedType:Disease
+CANDIDATE	id:7676	inCount:3	outCount:1	links:	url:D007676	name:Chronic Renal Failure	normalName:chronic renal failure	normalWikiTitle:chronic renal failure	predictedType:Disease
+ENTITY	text:cystic renal diseases	normalName:cystic renal diseases	predictedType:disease	q:true	qid:Q835	docId:17147461	origText:cystic renal diseases	url:D052177
+CANDIDATE	id:52177	inCount:36	outCount:1	links:	url:D052177	name:Cystic Renal Diseases	normalName:cystic renal diseases	normalWikiTitle:cystic renal diseases	predictedType:Disease
+ENTITY	text:autoimmunity	normalName:autoimmunity	predictedType:disease	q:true	qid:Q835	docId:17147461	origText:autoimmunity	url:D001327
+CANDIDATE	id:1327	inCount:50	outCount:1	links:	url:D001327	name:Autoimmune Diseases	normalName:autoimmune diseases	normalWikiTitle:autoimmune diseases	predictedType:Disease
+CANDIDATE	id:19693	inCount:0	outCount:2	links:	url:D019693	name:Hepatitis, Autoimmune	normalName:hepatitis, autoimmune	normalWikiTitle:hepatitis, autoimmune	predictedType:Disease
+CANDIDATE	id:538274	inCount:0	outCount:2	links:	url:C538274	name:Autoimmune oophoritis	normalName:autoimmune oophoritis	normalWikiTitle:autoimmune oophoritis	predictedType:Disease
+CANDIDATE	id:538273	inCount:0	outCount:1	links:	url:C538273	name:Autoimmune enteropathy	normalName:autoimmune enteropathy	normalWikiTitle:autoimmune enteropathy	predictedType:Disease
+CANDIDATE	id:13967	inCount:3	outCount:2	links:	url:D013967	name:Thyroiditis, Autoimmune	normalName:thyroiditis, autoimmune	normalWikiTitle:thyroiditis, autoimmune	predictedType:Disease
+CANDIDATE	id:69281	inCount:0	outCount:2	links:	url:D000069281	name:Autoimmune Hypophysitis	normalName:autoimmune hypophysitis	normalWikiTitle:autoimmune hypophysitis	predictedType:Disease
+CANDIDATE	id:562768	inCount:0	outCount:2	links:	url:C562768	name:Hypothyroidism, Autoimmune	normalName:hypothyroidism, autoimmune	normalWikiTitle:hypothyroidism, autoimmune	predictedType:Disease
+CANDIDATE	id:66126	inCount:0	outCount:3	links:	url:D066126	name:Cardiotoxicity	normalName:cardiotoxicity	normalWikiTitle:cardiotoxicity	predictedType:Disease
+CANDIDATE	id:566872	inCount:0	outCount:1	links:	url:C566872	name:Dilution, Pigmentary	normalName:dilution, pigmentary	normalWikiTitle:dilution, pigmentary	predictedType:Disease
+CANDIDATE	id:531729	inCount:0	outCount:2	links:	url:C531729	name:Autoimmune limbic encephalitis	normalName:autoimmune limbic encephalitis	normalWikiTitle:autoimmune limbic encephalitis	predictedType:Disease
+CANDIDATE	id:3922	inCount:26	outCount:2	links:	url:D003922	name:Diabetes, Autoimmune	normalName:diabetes, autoimmune	normalWikiTitle:diabetes, autoimmune	predictedType:Disease
+CANDIDATE	id:3922	inCount:26	outCount:2	links:	url:D003922	name:Autoimmune Diabetes	normalName:autoimmune diabetes	normalWikiTitle:autoimmune diabetes	predictedType:Disease
+ENTITY	text:proteinuria	normalName:proteinuria	predictedType:disease	q:true	qid:Q835	docId:17147461	origText:proteinuria	url:D011507
+CANDIDATE	id:11507	inCount:4	outCount:2	links:	url:D011507	name:Proteinuria	normalName:proteinuria	normalWikiTitle:proteinuria	predictedType:Disease
+ENTITY	text:glomerulonephritis	normalName:glomerulonephritis	predictedType:disease	q:true	qid:Q835	docId:17147461	origText:glomerulonephritis	url:D005921
+CANDIDATE	id:5921	inCount:11	outCount:1	links:	url:D005921	name:Glomerulonephritis	normalName:glomerulonephritis	normalWikiTitle:glomerulonephritis	predictedType:Disease
+ENTITY	text:renal cancer	normalName:renal cancer	predictedType:disease	q:true	qid:Q835	docId:17147461	origText:renal cancer	url:D007680
+CANDIDATE	id:7680	inCount:7	outCount:2	links:	url:D007680	name:Cancer, Renal	normalName:cancer, renal	normalWikiTitle:cancer, renal	predictedType:Disease

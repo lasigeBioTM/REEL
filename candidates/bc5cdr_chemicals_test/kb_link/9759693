@@ -1,0 +1,8 @@
+ENTITY	text:Sumatriptan succinate	normalName:sumatriptan succinate	predictedType:chemical	q:true	qid:Q212	docId:9759693	origText:Sumatriptan succinate	url:D018170
+CANDIDATE	id:18170	inCount:5	outCount:2	links:18170	url:D018170	name:Succinate, Sumatriptan	normalName:succinate, sumatriptan	normalWikiTitle:succinate, sumatriptan	predictedType:Chemical
+ENTITY	text:sumatriptan	normalName:sumatriptan	predictedType:chemical	q:true	qid:Q212	docId:9759693	origText:sumatriptan	url:D018170
+CANDIDATE	id:18170	inCount:5	outCount:2	links:18170	url:D018170	name:Sumatriptan	normalName:sumatriptan	normalWikiTitle:sumatriptan	predictedType:Chemical
+ENTITY	text:5-hydroxytryptamine	normalName:5-hydroxytryptamine	predictedType:chemical	q:true	qid:Q212	docId:9759693	origText:5-hydroxytryptamine	url:D012701
+CANDIDATE	id:12701	inCount:48	outCount:2	links:12701	url:D012701	name:5 Hydroxytryptamine	normalName:5 hydroxytryptamine	normalWikiTitle:5 hydroxytryptamine	predictedType:Chemical
+ENTITY	text:serotonin	normalName:serotonin	predictedType:chemical	q:true	qid:Q212	docId:9759693	origText:serotonin	url:D012701
+CANDIDATE	id:12701	inCount:48	outCount:2	links:12701	url:D012701	name:Serotonin	normalName:serotonin	normalWikiTitle:serotonin	predictedType:Chemical

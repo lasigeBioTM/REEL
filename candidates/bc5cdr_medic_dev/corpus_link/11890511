@@ -1,0 +1,4 @@
+ENTITY	text:Erectile dysfunction	normalName:erectile dysfunction	predictedType:disease	q:true	qid:Q100	docId:11890511	origText:Erectile dysfunction	url:D007172
+CANDIDATE	id:7172	inCount:1	outCount:2	links:	url:D007172	name:Erectile Dysfunction	normalName:erectile dysfunction	normalWikiTitle:erectile dysfunction	predictedType:Disease
+ENTITY	text:Parkinson's disease	normalName:parkinson's disease	predictedType:disease	q:true	qid:Q100	docId:11890511	origText:Parkinson's disease	url:D010300
+CANDIDATE	id:10300	inCount:31	outCount:2	links:	url:D010300	name:Parkinson's Disease	normalName:parkinson's disease	normalWikiTitle:parkinson's disease	predictedType:Disease

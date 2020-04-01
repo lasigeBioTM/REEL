@@ -1,0 +1,14 @@
+ENTITY	text:pyruvate	normalName:pyruvate	predictedType:chemical	q:true	qid:Q1128	docId:8742498	origText:pyruvate	url:D019289
+CANDIDATE	id:19289	inCount:3	outCount:1	links:	url:D019289	name:Pyruvate	normalName:pyruvate	normalWikiTitle:pyruvate	predictedType:Chemical
+ENTITY	text:NAD	normalName:nad	predictedType:chemical	q:true	qid:Q1128	docId:8742498	origText:NAD	url:D009243
+CANDIDATE	id:9243	inCount:70	outCount:2	links:	url:D009243	name:NAD	normalName:nad	normalWikiTitle:nad	predictedType:Chemical
+ENTITY	text:poly(ADP-ribose)	normalName:poly(adp-ribose)	predictedType:chemical	q:true	qid:Q1128	docId:8742498	origText:poly(ADP-ribose)	url:D011064
+CANDIDATE	id:11064	inCount:5	outCount:2	links:	url:D011064	name:Poly(ADP-Ribose)	normalName:poly(adp-ribose)	normalWikiTitle:poly(adp-ribose)	predictedType:Chemical
+ENTITY	text:glutamate	normalName:glutamate	predictedType:chemical	q:true	qid:Q1128	docId:8742498	origText:glutamate	url:D018698
+CANDIDATE	id:18698	inCount:53	outCount:2	links:	url:D018698	name:Glutamate	normalName:glutamate	normalWikiTitle:glutamate	predictedType:Chemical
+ENTITY	text:acetaminophen	normalName:acetaminophen	predictedType:chemical	q:true	qid:Q1128	docId:8742498	origText:acetaminophen	url:D000082
+CANDIDATE	id:82	inCount:89	outCount:1	links:431	url:D000082	name:Acetaminophen	normalName:acetaminophen	normalWikiTitle:acetaminophen	predictedType:Chemical
+ENTITY	text:ethanol	normalName:ethanol	predictedType:chemical	q:true	qid:Q1128	docId:8742498	origText:ethanol	url:D000431
+CANDIDATE	id:431	inCount:62	outCount:1	links:82	url:D000431	name:Ethanol	normalName:ethanol	normalWikiTitle:ethanol	predictedType:Chemical
+ENTITY	text:oxaloacetate	normalName:oxaloacetate	predictedType:chemical	q:true	qid:Q1128	docId:8742498	origText:oxaloacetate	url:D062907
+CANDIDATE	id:62907	inCount:0	outCount:1	links:	url:D062907	name:Oxaloacetate	normalName:oxaloacetate	normalWikiTitle:oxaloacetate	predictedType:Chemical

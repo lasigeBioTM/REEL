@@ -1,0 +1,18 @@
+ENTITY	text:carteolol	normalName:carteolol	predictedType:chemical	q:true	qid:Q1236	docId:9201797	origText:carteolol	url:D002354
+CANDIDATE	id:2354	inCount:2	outCount:2	links:2354	url:D002354	name:Carteolol	normalName:carteolol	normalWikiTitle:carteolol	predictedType:Chemical
+ENTITY	text:dopamine	normalName:dopamine	predictedType:chemical	q:true	qid:Q1236	docId:9201797	origText:dopamine	url:D004298
+CANDIDATE	id:4298	inCount:90	outCount:2	links:	url:D004298	name:Dopamine	normalName:dopamine	normalWikiTitle:dopamine	predictedType:Chemical
+ENTITY	text:5-hydroxytryptophan	normalName:5-hydroxytryptophan	predictedType:chemical	q:true	qid:Q1236	docId:9201797	origText:5-hydroxytryptophan	url:D006916
+CANDIDATE	id:6916	inCount:11	outCount:1	links:	url:D006916	name:5-Hydroxytryptophan	normalName:5-hydroxytryptophan	normalWikiTitle:5-hydroxytryptophan	predictedType:Chemical
+ENTITY	text:apomorphine	normalName:apomorphine	predictedType:chemical	q:true	qid:Q1236	docId:9201797	origText:apomorphine	url:D001058
+CANDIDATE	id:1058	inCount:29	outCount:1	links:6220;11433	url:D001058	name:Apomorphine	normalName:apomorphine	normalWikiTitle:apomorphine	predictedType:Chemical
+ENTITY	text:physostigmine	normalName:physostigmine	predictedType:chemical	q:true	qid:Q1236	docId:9201797	origText:physostigmine	url:D010830
+CANDIDATE	id:10830	inCount:25	outCount:2	links:6220	url:D010830	name:Physostigmine	normalName:physostigmine	normalWikiTitle:physostigmine	predictedType:Chemical
+ENTITY	text:propranolol	normalName:propranolol	predictedType:chemical	q:true	qid:Q1236	docId:9201797	origText:propranolol	url:D011433
+CANDIDATE	id:11433	inCount:46	outCount:2	links:1058	url:D011433	name:Propranolol	normalName:propranolol	normalWikiTitle:propranolol	predictedType:Chemical
+ENTITY	text:haloperidol	normalName:haloperidol	predictedType:chemical	q:true	qid:Q1236	docId:9201797	origText:haloperidol	url:D006220
+CANDIDATE	id:6220	inCount:24	outCount:1	links:10830;1058	url:D006220	name:Haloperidol	normalName:haloperidol	normalWikiTitle:haloperidol	predictedType:Chemical
+ENTITY	text:biperiden	normalName:biperiden	predictedType:chemical	q:true	qid:Q1236	docId:9201797	origText:biperiden	url:D001712
+CANDIDATE	id:1712	inCount:1	outCount:3	links:	url:D001712	name:Biperiden	normalName:biperiden	normalWikiTitle:biperiden	predictedType:Chemical
+ENTITY	text:carteolol hydrochloride	normalName:carteolol hydrochloride	predictedType:chemical	q:true	qid:Q1236	docId:9201797	origText:carteolol hydrochloride	url:D002354
+CANDIDATE	id:2354	inCount:2	outCount:2	links:2354	url:D002354	name:Carteolol Hydrochloride	normalName:carteolol hydrochloride	normalWikiTitle:carteolol hydrochloride	predictedType:Chemical

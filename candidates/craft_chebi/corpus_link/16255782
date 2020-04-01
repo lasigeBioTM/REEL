@@ -1,0 +1,32 @@
+ENTITY	text:inhibitor	normalName:inhibitor	predictedType:chemical	q:true	qid:Q58	docId:16255782	origText:inhibitor	url:CHEBI:35222
+CANDIDATE	id:35222	inCount:57	outCount:1	links:	url:CHEBI:35222	name:inhibitor	normalName:inhibitor	normalWikiTitle:inhibitor	predictedType:chemical
+ENTITY	text:reactive oxygen species	normalName:reactive oxygen species	predictedType:chemical	q:true	qid:Q58	docId:16255782	origText:reactive oxygen species	url:CHEBI:26523
+CANDIDATE	id:26523	inCount:10	outCount:1	links:	url:CHEBI:26523	name:reactive oxygen species	normalName:reactive oxygen species	normalWikiTitle:reactive oxygen species	predictedType:chemical
+ENTITY	text:carcinogens	normalName:carcinogens	predictedType:chemical	q:true	qid:Q58	docId:16255782	origText:carcinogens	url:CHEBI:50903
+CANDIDATE	id:50903	inCount:0	outCount:1	links:	url:CHEBI:50903	name:carcinogenic agent	normalName:carcinogenic agent	normalWikiTitle:carcinogenic agent	predictedType:chemical
+CANDIDATE	id:140909	inCount:0	outCount:2	links:	url:CHEBI:140909	name:cardionogen-1	normalName:cardionogen-1	normalWikiTitle:cardionogen-1	predictedType:chemical
+CANDIDATE	id:33303	inCount:5	outCount:1	links:	url:CHEBI:33303	name:chalcogen	normalName:chalcogen	normalWikiTitle:chalcogen	predictedType:chemical
+CANDIDATE	id:131429	inCount:0	outCount:3	links:	url:CHEBI:131429	name:carcinine	normalName:carcinine	normalWikiTitle:carcinine	predictedType:chemical
+CANDIDATE	id:17846	inCount:0	outCount:2	links:	url:CHEBI:17846	name:(S)-naringenin	normalName:(s)-naringenin	normalWikiTitle:(s)-naringenin	predictedType:chemical
+CANDIDATE	id:35499	inCount:0	outCount:1	links:	url:CHEBI:35499	name:hallucinogen	normalName:hallucinogen	normalWikiTitle:hallucinogen	predictedType:chemical
+CANDIDATE	id:38148	inCount:0	outCount:4	links:	url:CHEBI:38148	name:cannogenin	normalName:cannogenin	normalWikiTitle:cannogenin	predictedType:chemical
+CANDIDATE	id:74783	inCount:0	outCount:1	links:	url:CHEBI:74783	name:astringent	normalName:astringent	normalWikiTitle:astringent	predictedType:chemical
+CANDIDATE	id:5859	inCount:0	outCount:1	links:	url:CHEBI:5859	name:Icacine	normalName:icacine	normalWikiTitle:icacine	predictedType:chemical
+CANDIDATE	id:50202	inCount:2	outCount:2	links:	url:CHEBI:50202	name:naringenin	normalName:naringenin	normalWikiTitle:naringenin	predictedType:chemical
+ENTITY	text:lipids	normalName:lipids	predictedType:chemical	q:true	qid:Q58	docId:16255782	origText:lipids	url:CHEBI:18059
+CANDIDATE	id:18059	inCount:53	outCount:1	links:	url:CHEBI:18059	name:lipid	normalName:lipid	normalWikiTitle:lipid	predictedType:chemical
+ENTITY	text:xenobiotics	normalName:xenobiotics	predictedType:chemical	q:true	qid:Q58	docId:16255782	origText:xenobiotics	url:CHEBI:35703
+CANDIDATE	id:35703	inCount:3	outCount:1	links:	url:CHEBI:35703	name:xenobiotic	normalName:xenobiotic	normalWikiTitle:xenobiotic	predictedType:chemical
+CANDIDATE	id:51570	inCount:7	outCount:4	links:	url:CHEBI:51570	name:biotins	normalName:biotins	normalWikiTitle:biotins	predictedType:chemical
+CANDIDATE	id:71644	inCount:2	outCount:2	links:	url:CHEBI:71644	name:lantibiotic	normalName:lantibiotic	normalWikiTitle:lantibiotic	predictedType:chemical
+CANDIDATE	id:133909	inCount:0	outCount:5	links:	url:CHEBI:133909	name:tetranorbiotin	normalName:tetranorbiotin	normalWikiTitle:tetranorbiotin	predictedType:chemical
+CANDIDATE	id:28066	inCount:0	outCount:1	links:	url:CHEBI:28066	name:gentiobiose	normalName:gentiobiose	normalWikiTitle:gentiobiose	predictedType:chemical
+CANDIDATE	id:46724	inCount:0	outCount:1	links:	url:CHEBI:46724	name:xenotime	normalName:xenotime	normalWikiTitle:xenotime	predictedType:chemical
+CANDIDATE	id:76206	inCount:4	outCount:1	links:	url:CHEBI:76206	name:xenobiotic metabolite	normalName:xenobiotic metabolite	normalWikiTitle:xenobiotic metabolite	predictedType:chemical
+CANDIDATE	id:16691	inCount:3	outCount:3	links:	url:CHEBI:16691	name:dethiobiotin	normalName:dethiobiotin	normalWikiTitle:dethiobiotin	predictedType:chemical
+CANDIDATE	id:89481	inCount:0	outCount:1	links:	url:CHEBI:89481	name:Bisnorbiotin	normalName:bisnorbiotin	normalWikiTitle:bisnorbiotin	predictedType:chemical
+CANDIDATE	id:28309	inCount:0	outCount:1	links:	url:CHEBI:28309	name:xylobiose	normalName:xylobiose	normalWikiTitle:xylobiose	predictedType:chemical
+ENTITY	text:reagents	normalName:reagents	predictedType:chemical	q:true	qid:Q58	docId:16255782	origText:reagents	url:CHEBI:33893
+CANDIDATE	id:33893	inCount:15	outCount:1	links:	url:CHEBI:33893	name:reagent	normalName:reagent	normalWikiTitle:reagent	predictedType:chemical
+ENTITY	text:inhibitors	normalName:inhibitors	predictedType:chemical	q:true	qid:Q58	docId:16255782	origText:inhibitors	url:CHEBI:35222
+CANDIDATE	id:35222	inCount:57	outCount:1	links:	url:CHEBI:35222	name:inhibitor	normalName:inhibitor	normalWikiTitle:inhibitor	predictedType:chemical

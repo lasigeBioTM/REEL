@@ -1,0 +1,4 @@
+ENTITY	text:Methylphenidate	normalName:methylphenidate	predictedType:chemical	q:true	qid:Q14	docId:12907924	origText:Methylphenidate	url:D008774
+CANDIDATE	id:8774	inCount:9	outCount:2	links:	url:D008774	name:Methylphenidate	normalName:methylphenidate	normalWikiTitle:methylphenidate	predictedType:Chemical
+ENTITY	text:fluvoxamine	normalName:fluvoxamine	predictedType:chemical	q:true	qid:Q14	docId:12907924	origText:fluvoxamine	url:D016666
+CANDIDATE	id:16666	inCount:2	outCount:1	links:	url:D016666	name:Fluvoxamine	normalName:fluvoxamine	normalWikiTitle:fluvoxamine	predictedType:Chemical

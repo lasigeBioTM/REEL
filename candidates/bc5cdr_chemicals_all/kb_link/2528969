@@ -1,0 +1,4 @@
+ENTITY	text:zidovudine	normalName:zidovudine	predictedType:chemical	q:true	qid:Q709	docId:2528969	origText:zidovudine	url:D015215
+CANDIDATE	id:15215	inCount:86	outCount:2	links:15215	url:D015215	name:Zidovudine	normalName:zidovudine	normalWikiTitle:zidovudine	predictedType:Chemical
+ENTITY	text:Azidothymidine	normalName:azidothymidine	predictedType:chemical	q:true	qid:Q709	docId:2528969	origText:Azidothymidine	url:D015215
+CANDIDATE	id:15215	inCount:86	outCount:2	links:15215	url:D015215	name:Azidothymidine	normalName:azidothymidine	normalWikiTitle:azidothymidine	predictedType:Chemical

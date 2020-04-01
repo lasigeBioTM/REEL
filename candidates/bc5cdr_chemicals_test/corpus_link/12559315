@@ -1,0 +1,6 @@
+ENTITY	text:tiaprofenic acid	normalName:tiaprofenic acid	predictedType:chemical	q:true	qid:Q35	docId:12559315	origText:tiaprofenic acid	url:C021270
+CANDIDATE	id:21270	inCount:0	outCount:1	links:	url:C021270	name:tiaprofenic acid	normalName:tiaprofenic acid	normalWikiTitle:tiaprofenic acid	predictedType:Chemical
+ENTITY	text:lanthanum nitrate	normalName:lanthanum nitrate	predictedType:chemical	q:true	qid:Q35	docId:12559315	origText:lanthanum nitrate	url:C016534
+CANDIDATE	id:16534	inCount:0	outCount:1	links:	url:C016534	name:lanthanum nitrate	normalName:lanthanum nitrate	normalWikiTitle:lanthanum nitrate	predictedType:Chemical
+ENTITY	text:Indomethacin	normalName:indomethacin	predictedType:chemical	q:true	qid:Q35	docId:12559315	origText:Indomethacin	url:D007213
+CANDIDATE	id:7213	inCount:40	outCount:1	links:	url:D007213	name:Indomethacin	normalName:indomethacin	normalWikiTitle:indomethacin	predictedType:Chemical

@@ -1,0 +1,4 @@
+ENTITY	text:angioneurotic edema	normalName:angioneurotic edema	predictedType:disease	q:true	qid:Q1208	docId:3719553	origText:angioneurotic edema	url:D000799
+CANDIDATE	id:799	inCount:4	outCount:2	links:	url:D000799	name:Edema, Angioneurotic	normalName:edema, angioneurotic	normalWikiTitle:edema, angioneurotic	predictedType:Disease
+ENTITY	text:cirrhosis	normalName:cirrhosis	predictedType:disease	q:true	qid:Q1208	docId:3719553	origText:cirrhosis	url:D005355
+CANDIDATE	id:5355	inCount:11	outCount:1	links:	url:D005355	name:Cirrhosis	normalName:cirrhosis	normalWikiTitle:cirrhosis	predictedType:Disease

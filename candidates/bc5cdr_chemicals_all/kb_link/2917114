@@ -1,0 +1,15 @@
+ENTITY	text:edrophonium	normalName:edrophonium	predictedType:chemical	q:true	qid:Q980	docId:2917114	origText:edrophonium	url:D004491
+CANDIDATE	id:4491	inCount:0	outCount:2	links:	url:D004491	name:Edrophonium	normalName:edrophonium	normalWikiTitle:edrophonium	predictedType:Chemical
+ENTITY	text:Glycopyrronium	normalName:glycopyrronium	predictedType:chemical	q:true	qid:Q980	docId:2917114	origText:Glycopyrronium	url:D006024
+CANDIDATE	id:6024	inCount:5	outCount:2	links:	url:D006024	name:Bromide, Glycopyrronium	normalName:bromide, glycopyrronium	normalWikiTitle:bromide, glycopyrronium	predictedType:Chemical
+CANDIDATE	id:629920	inCount:0	outCount:1	links:	url:C000629920	name:glycopyrronium tosylate	normalName:glycopyrronium tosylate	normalWikiTitle:glycopyrronium tosylate	predictedType:Chemical
+CANDIDATE	id:12347	inCount:0	outCount:1	links:	url:C012347	name:hexopyrronium	normalName:hexopyrronium	normalWikiTitle:hexopyrronium	predictedType:Chemical
+CANDIDATE	id:6024	inCount:5	outCount:2	links:	url:D006024	name:Glycopyrrolate	normalName:glycopyrrolate	normalWikiTitle:glycopyrrolate	predictedType:Chemical
+CANDIDATE	id:68865	inCount:0	outCount:2	links:	url:C068865	name:glycopril	normalName:glycopril	normalWikiTitle:glycopril	predictedType:Chemical
+CANDIDATE	id:443	inCount:0	outCount:1	links:	url:D000443	name:Alcuronium	normalName:alcuronium	normalWikiTitle:alcuronium	predictedType:Chemical
+CANDIDATE	id:89921	inCount:0	outCount:1	links:	url:C089921	name:polyoxydonium	normalName:polyoxydonium	normalWikiTitle:polyoxydonium	predictedType:Chemical
+CANDIDATE	id:1817	inCount:0	outCount:1	links:	url:C001817	name:carpronium	normalName:carpronium	normalWikiTitle:carpronium	predictedType:Chemical
+CANDIDATE	id:579657	inCount:0	outCount:1	links:	url:C579657	name:lycojaponicumin E	normalName:lycojaponicumin e	normalWikiTitle:lycojaponicumin e	predictedType:Chemical
+CANDIDATE	id:579656	inCount:0	outCount:1	links:	url:C579656	name:lycojaponicumin D	normalName:lycojaponicumin d	normalWikiTitle:lycojaponicumin d	predictedType:Chemical
+CANDIDATE	id:587805	inCount:0	outCount:2	links:	url:C587805	name:lycojaponicumin B	normalName:lycojaponicumin b	normalWikiTitle:lycojaponicumin b	predictedType:Chemical
+CANDIDATE	id:6024	inCount:5	outCount:2	links:	url:D006024	name:Glycopyrronium Bromide	normalName:glycopyrronium bromide	normalWikiTitle:glycopyrronium bromide	predictedType:Chemical

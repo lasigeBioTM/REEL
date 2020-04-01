@@ -1,0 +1,15 @@
+ENTITY	text:chlorhexidine diphosphanilate	normalName:chlorhexidine diphosphanilate	predictedType:chemical	q:true	qid:Q470	docId:2383364	origText:chlorhexidine diphosphanilate	url:C048279
+CANDIDATE	id:48279	inCount:0	outCount:1	links:48279	url:C048279	name:chlorhexidine diphosphanilate	normalName:chlorhexidine diphosphanilate	normalWikiTitle:chlorhexidine diphosphanilate	predictedType:Chemical
+ENTITY	text:silver sulphadiazine	normalName:silver sulphadiazine	predictedType:chemical	q:true	qid:Q470	docId:2383364	origText:silver sulphadiazine	url:D012837
+CANDIDATE	id:12837	inCount:2	outCount:1	links:	url:D012837	name:Silver Sulfadiazine	normalName:silver sulfadiazine	normalWikiTitle:silver sulfadiazine	predictedType:Chemical
+CANDIDATE	id:17946	inCount:0	outCount:1	links:	url:C017946	name:silver sulfathiazole	normalName:silver sulfathiazole	normalWikiTitle:silver sulfathiazole	predictedType:Chemical
+CANDIDATE	id:13251	inCount:0	outCount:1	links:	url:C013251	name:silver sulfide	normalName:silver sulfide	normalWikiTitle:silver sulfide	predictedType:Chemical
+CANDIDATE	id:13411	inCount:11	outCount:1	links:	url:D013411	name:Sulfadiazine	normalName:sulfadiazine	normalWikiTitle:sulfadiazine	predictedType:Chemical
+CANDIDATE	id:95213	inCount:0	outCount:1	links:	url:C095213	name:silver thiosulfate	normalName:silver thiosulfate	normalWikiTitle:silver thiosulfate	predictedType:Chemical
+CANDIDATE	id:657333	inCount:0	outCount:2	links:	url:C000657333	name:silver vanadate	normalName:silver vanadate	normalWikiTitle:silver vanadate	predictedType:Chemical
+CANDIDATE	id:534606	inCount:0	outCount:2	links:	url:C534606	name:sulphoraphane nitrile	normalName:sulphoraphane nitrile	normalWikiTitle:sulphoraphane nitrile	predictedType:Chemical
+CANDIDATE	id:116461	inCount:0	outCount:1	links:	url:C116461	name:sulphadicramide	normalName:sulphadicramide	normalWikiTitle:sulphadicramide	predictedType:Chemical
+CANDIDATE	id:604586	inCount:0	outCount:2	links:	url:C000604586	name:sclerolizine	normalName:sclerolizine	normalWikiTitle:sclerolizine	predictedType:Chemical
+CANDIDATE	id:48952	inCount:0	outCount:1	links:	url:C048952	name:spirasine IV	normalName:spirasine iv	normalWikiTitle:spirasine iv	predictedType:Chemical
+ENTITY	text:Chlorhexidine phosphanilate	normalName:chlorhexidine phosphanilate	predictedType:chemical	q:true	qid:Q470	docId:2383364	origText:Chlorhexidine phosphanilate	url:C048279
+CANDIDATE	id:48279	inCount:0	outCount:1	links:48279	url:C048279	name:chlorhexidine phosphanilate	normalName:chlorhexidine phosphanilate	normalWikiTitle:chlorhexidine phosphanilate	predictedType:Chemical

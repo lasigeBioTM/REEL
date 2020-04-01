@@ -1,0 +1,23 @@
+ENTITY	text:major depression	normalName:major depression	predictedType:disease	q:true	qid:Q100	docId:2549018	origText:major depression	url:D003865
+CANDIDATE	id:3865	inCount:2	outCount:1	links:	url:D003865	name:Depressive Disorder, Major	normalName:depressive disorder, major	normalWikiTitle:depressive disorder, major	predictedType:Disease
+CANDIDATE	id:19052	inCount:0	outCount:2	links:	url:D019052	name:Depression, Postpartum	normalName:depression, postpartum	normalWikiTitle:depression, postpartum	predictedType:Disease
+CANDIDATE	id:563875	inCount:0	outCount:1	links:	url:C563875	name:Major Depressive Disorder 2	normalName:major depressive disorder 2	normalWikiTitle:major depressive disorder 2	predictedType:Disease
+CANDIDATE	id:563919	inCount:0	outCount:1	links:	url:C563919	name:Major Depressive Disorder 1	normalName:major depressive disorder 1	normalWikiTitle:major depressive disorder 1	predictedType:Disease
+CANDIDATE	id:3866	inCount:6	outCount:1	links:	url:D003866	name:Depressive Disorder	normalName:depressive disorder	normalWikiTitle:depressive disorder	predictedType:Disease
+CANDIDATE	id:50815	inCount:1	outCount:1	links:	url:D050815	name:Fractures, Compression	normalName:fractures, compression	normalWikiTitle:fractures, compression	predictedType:Disease
+CANDIDATE	id:6976	inCount:12	outCount:1	links:	url:D006976	name:Hypertension, Pulmonary	normalName:hypertension, pulmonary	normalWikiTitle:hypertension, pulmonary	predictedType:Disease
+CANDIDATE	id:3665	inCount:0	outCount:1	links:	url:D003665	name:Decompression Sickness	normalName:decompression sickness	normalWikiTitle:decompression sickness	predictedType:Disease
+CANDIDATE	id:59468	inCount:0	outCount:1	links:	url:D059468	name:Masked Hypertension	normalName:masked hypertension	normalWikiTitle:masked hypertension	predictedType:Disease
+CANDIDATE	id:6975	inCount:3	outCount:1	links:	url:D006975	name:Hypertension, Portal	normalName:hypertension, portal	normalWikiTitle:hypertension, portal	predictedType:Disease
+CANDIDATE	id:61218	inCount:0	outCount:1	links:	url:D061218	name:Depression, Refractory	normalName:depression, refractory	normalWikiTitle:depression, refractory	predictedType:Disease
+CANDIDATE	id:61218	inCount:0	outCount:1	links:	url:D061218	name:Refractory Depression	normalName:refractory depression	normalWikiTitle:refractory depression	predictedType:Disease
+CANDIDATE	id:12131	inCount:13	outCount:1	links:	url:D012131	name:Respiratory Depression	normalName:respiratory depression	normalWikiTitle:respiratory depression	predictedType:Disease
+CANDIDATE	id:12131	inCount:13	outCount:1	links:	url:D012131	name:Ventilatory Depression	normalName:ventilatory depression	normalWikiTitle:ventilatory depression	predictedType:Disease
+CANDIDATE	id:61218	inCount:0	outCount:1	links:	url:D061218	name:Depressions, Refractory	normalName:depressions, refractory	normalWikiTitle:depressions, refractory	predictedType:Disease
+CANDIDATE	id:3866	inCount:6	outCount:1	links:	url:D003866	name:Depression, Unipolar	normalName:depression, unipolar	normalWikiTitle:depression, unipolar	predictedType:Disease
+CANDIDATE	id:3866	inCount:6	outCount:1	links:	url:D003866	name:Unipolar Depression	normalName:unipolar depression	normalWikiTitle:unipolar depression	predictedType:Disease
+CANDIDATE	id:61218	inCount:0	outCount:1	links:	url:D061218	name:Refractory Depressions	normalName:refractory depressions	normalWikiTitle:refractory depressions	predictedType:Disease
+ENTITY	text:anxiety	normalName:anxiety	predictedType:disease	q:true	qid:Q100	docId:2549018	origText:anxiety	url:D001008
+CANDIDATE	id:1008	inCount:7	outCount:1	links:	url:D001008	name:ANXIETY	normalName:anxiety	normalWikiTitle:anxiety	predictedType:Disease
+ENTITY	text:obsessive compulsive disorder	normalName:obsessive compulsive disorder	predictedType:disease	q:true	qid:Q100	docId:2549018	origText:obsessive compulsive disorder	url:D009771
+CANDIDATE	id:9771	inCount:3	outCount:1	links:	url:D009771	name:Obsessive-Compulsive Disorder	normalName:obsessive-compulsive disorder	normalWikiTitle:obsessive-compulsive disorder	predictedType:Disease

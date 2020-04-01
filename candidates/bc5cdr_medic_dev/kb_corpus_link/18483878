@@ -1,0 +1,23 @@
+ENTITY	text:bladder dysfunction	normalName:bladder dysfunction	predictedType:disease	q:true	qid:Q274	docId:18483878	origText:bladder dysfunction	url:D001745
+CANDIDATE	id:1745	inCount:13	outCount:1	links:3556	url:D001745	name:Urinary Bladder Diseases	normalName:urinary bladder diseases	normalWikiTitle:urinary bladder diseases	predictedType:Disease
+CANDIDATE	id:60825	inCount:0	outCount:1	links:	url:D060825	name:Cognitive Dysfunction	normalName:cognitive dysfunction	normalWikiTitle:cognitive dysfunction	predictedType:Disease
+CANDIDATE	id:64706	inCount:1	outCount:2	links:	url:D064706	name:Vocal Cord Dysfunction	normalName:vocal cord dysfunction	normalWikiTitle:vocal cord dysfunction	predictedType:Disease
+CANDIDATE	id:77295	inCount:0	outCount:2	links:	url:D000077295	name:Urinary Bladder, Underactive	normalName:urinary bladder, underactive	normalWikiTitle:urinary bladder, underactive	predictedType:Disease
+CANDIDATE	id:1746	inCount:1	outCount:2	links:	url:D001746	name:Bladder Exstrophy	normalName:bladder exstrophy	normalWikiTitle:bladder exstrophy	predictedType:Disease
+CANDIDATE	id:10585	inCount:3	outCount:2	links:	url:D010585	name:Phagocyte Bactericidal Dysfunction	normalName:phagocyte bactericidal dysfunction	normalWikiTitle:phagocyte bactericidal dysfunction	predictedType:Disease
+CANDIDATE	id:308	inCount:3	outCount:1	links:	url:D000308	name:Adrenocortical Hyperfunction	normalName:adrenocortical hyperfunction	normalWikiTitle:adrenocortical hyperfunction	predictedType:Disease
+CANDIDATE	id:1442	inCount:0	outCount:1	links:	url:D001442	name:Bacteroides Infections	normalName:bacteroides infections	normalWikiTitle:bacteroides infections	predictedType:Disease
+CANDIDATE	id:16109	inCount:2	outCount:1	links:	url:D016109	name:Epidermolysis Bullosa, Junctional	normalName:epidermolysis bullosa, junctional	normalWikiTitle:epidermolysis bullosa, junctional	predictedType:Disease
+CANDIDATE	id:20821	inCount:18	outCount:1	links:	url:D020821	name:Dystonic Disorders	normalName:dystonic disorders	normalWikiTitle:dystonic disorders	predictedType:Disease
+CANDIDATE	id:2526	inCount:29	outCount:1	links:	url:D002526	name:Cerebellar Dysfunction	normalName:cerebellar dysfunction	normalWikiTitle:cerebellar dysfunction	predictedType:Disease
+CANDIDATE	id:2526	inCount:29	outCount:1	links:	url:D002526	name:Dysfunction, Cerebellar	normalName:dysfunction, cerebellar	normalWikiTitle:dysfunction, cerebellar	predictedType:Disease
+CANDIDATE	id:2526	inCount:29	outCount:1	links:	url:D002526	name:Cerebellar Dysfunctions	normalName:cerebellar dysfunctions	normalWikiTitle:cerebellar dysfunctions	predictedType:Disease
+CANDIDATE	id:1744	inCount:0	outCount:2	links:	url:D001744	name:Bladder Stone	normalName:bladder stone	normalWikiTitle:bladder stone	predictedType:Disease
+CANDIDATE	id:1744	inCount:0	outCount:2	links:	url:D001744	name:Stone, Bladder	normalName:stone, bladder	normalWikiTitle:stone, bladder	predictedType:Disease
+CANDIDATE	id:1744	inCount:0	outCount:2	links:	url:D001744	name:Stones, Bladder	normalName:stones, bladder	normalWikiTitle:stones, bladder	predictedType:Disease
+CANDIDATE	id:1744	inCount:0	outCount:2	links:	url:D001744	name:Bladder Stones	normalName:bladder stones	normalWikiTitle:bladder stones	predictedType:Disease
+CANDIDATE	id:1748	inCount:0	outCount:2	links:	url:D001748	name:Bladder Neck Obstruction	normalName:bladder neck obstruction	normalWikiTitle:bladder neck obstruction	predictedType:Disease
+CANDIDATE	id:1304	inCount:2	outCount:2	links:	url:D001304	name:Auditory Dysfunction, Central	normalName:auditory dysfunction, central	normalWikiTitle:auditory dysfunction, central	predictedType:Disease
+CANDIDATE	id:77295	inCount:0	outCount:2	links:	url:D000077295	name:Bladder, Underactive	normalName:bladder, underactive	normalWikiTitle:bladder, underactive	predictedType:Disease
+ENTITY	text:cystitis	normalName:cystitis	predictedType:disease	q:true	qid:Q274	docId:18483878	origText:cystitis	url:D003556
+CANDIDATE	id:3556	inCount:2	outCount:1	links:1745	url:D003556	name:Cystitis	normalName:cystitis	normalWikiTitle:cystitis	predictedType:Disease

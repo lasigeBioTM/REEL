@@ -1,0 +1,8 @@
+ENTITY	text:cystitis	normalName:cystitis	predictedType:disease	q:true	qid:Q330	docId:6640832	origText:cystitis	url:D003556
+CANDIDATE	id:3556	inCount:2	outCount:1	links:1749	url:D003556	name:Cystitis	normalName:cystitis	normalWikiTitle:cystitis	predictedType:Disease
+ENTITY	text:tumors	normalName:tumors	predictedType:disease	q:true	qid:Q330	docId:6640832	origText:tumors	url:D009369
+CANDIDATE	id:9369	inCount:18	outCount:1	links:9369	url:D009369	name:Tumor	normalName:tumor	normalWikiTitle:tumor	predictedType:Disease
+ENTITY	text:tumor	normalName:tumor	predictedType:disease	q:true	qid:Q330	docId:6640832	origText:tumor	url:D009369
+CANDIDATE	id:9369	inCount:18	outCount:1	links:9369	url:D009369	name:Tumor	normalName:tumor	normalWikiTitle:tumor	predictedType:Disease
+ENTITY	text:bladder tumors	normalName:bladder tumors	predictedType:disease	q:true	qid:Q330	docId:6640832	origText:bladder tumors	url:D001749
+CANDIDATE	id:1749	inCount:2	outCount:2	links:3556	url:D001749	name:Bladder Tumor	normalName:bladder tumor	normalWikiTitle:bladder tumor	predictedType:Disease

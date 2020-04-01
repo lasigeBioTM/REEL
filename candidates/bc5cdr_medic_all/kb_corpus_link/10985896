@@ -1,0 +1,57 @@
+ENTITY	text:stomatitis	normalName:stomatitis	predictedType:disease	q:true	qid:Q294	docId:10985896	origText:stomatitis	url:D013280
+CANDIDATE	id:13280	inCount:5	outCount:1	links:3967;60831;66126	url:D013280	name:Stomatitis	normalName:stomatitis	normalWikiTitle:stomatitis	predictedType:Disease
+ENTITY	text:diarrhea	normalName:diarrhea	predictedType:disease	q:true	qid:Q294	docId:10985896	origText:diarrhea	url:D003967
+CANDIDATE	id:3967	inCount:14	outCount:1	links:13280;60831;66126	url:D003967	name:Diarrhea	normalName:diarrhea	normalWikiTitle:diarrhea	predictedType:Disease
+ENTITY	text:peritoneal carcinoma	normalName:peritoneal carcinoma	predictedType:disease	q:true	qid:Q294	docId:10985896	origText:peritoneal carcinoma	url:D010534
+CANDIDATE	id:10534	inCount:1	outCount:3	links:10534	url:D010534	name:Peritoneal Carcinomatosis	normalName:peritoneal carcinomatosis	normalWikiTitle:peritoneal carcinomatosis	predictedType:Disease
+CANDIDATE	id:18236	inCount:0	outCount:1	links:18236	url:D018236	name:Carcinoma, Embryonal	normalName:carcinoma, embryonal	normalWikiTitle:carcinoma, embryonal	predictedType:Disease
+CANDIDATE	id:2295	inCount:0	outCount:1	links:	url:D002295	name:Carcinoma, Transitional Cell	normalName:carcinoma, transitional cell	normalWikiTitle:carcinoma, transitional cell	predictedType:Disease
+CANDIDATE	id:2292	inCount:5	outCount:2	links:10911	url:D002292	name:Carcinoma, Renal Cell	normalName:carcinoma, renal cell	normalWikiTitle:carcinoma, renal cell	predictedType:Disease
+CANDIDATE	id:55756	inCount:0	outCount:1	links:	url:D055756	name:Meningeal Carcinomatosis	normalName:meningeal carcinomatosis	normalWikiTitle:meningeal carcinomatosis	predictedType:Disease
+CANDIDATE	id:77274	inCount:0	outCount:2	links:	url:D000077274	name:Nasopharyngeal Carcinoma	normalName:nasopharyngeal carcinoma	normalWikiTitle:nasopharyngeal carcinoma	predictedType:Disease
+CANDIDATE	id:538370	inCount:0	outCount:2	links:	url:C538370	name:Retroperitoneal liposarcoma	normalName:retroperitoneal liposarcoma	normalWikiTitle:retroperitoneal liposarcoma	predictedType:Disease
+CANDIDATE	id:44584	inCount:2	outCount:2	links:	url:D044584	name:Carcinoma, Ductal	normalName:carcinoma, ductal	normalWikiTitle:carcinoma, ductal	predictedType:Disease
+CANDIDATE	id:538557	inCount:0	outCount:1	links:	url:C538557	name:Renal cell carcinoma 1	normalName:renal cell carcinoma 1	normalWikiTitle:renal cell carcinoma 1	predictedType:Disease
+CANDIDATE	id:562463	inCount:0	outCount:1	links:562463	url:C562463	name:Pancreatic Carcinoma	normalName:pancreatic carcinoma	normalWikiTitle:pancreatic carcinoma	predictedType:Disease
+CANDIDATE	id:2286	inCount:0	outCount:2	links:2286	url:D002286	name:Carcinoma, Ehrlich Tumor	normalName:carcinoma, ehrlich tumor	normalWikiTitle:carcinoma, ehrlich tumor	predictedType:Disease
+CANDIDATE	id:10534	inCount:1	outCount:3	links:10534	url:D010534	name:Carcinomatosis, Peritoneal	normalName:carcinomatosis, peritoneal	normalWikiTitle:carcinomatosis, peritoneal	predictedType:Disease
+CANDIDATE	id:10534	inCount:1	outCount:3	links:10534	url:D010534	name:Peritoneal Carcinomatoses	normalName:peritoneal carcinomatoses	normalWikiTitle:peritoneal carcinomatoses	predictedType:Disease
+ENTITY	text:toxicity	normalName:toxicity	predictedType:disease	q:true	qid:Q294	docId:10985896	origText:toxicity	url:D064420
+CANDIDATE	id:64420	inCount:10	outCount:1	links:	url:D064420	name:Drug Toxicity	normalName:drug toxicity	normalWikiTitle:drug toxicity	predictedType:Disease
+CANDIDATE	id:66126	inCount:0	outCount:3	links:13280;60831;3967	url:D066126	name:Cardiotoxicity	normalName:cardiotoxicity	normalWikiTitle:cardiotoxicity	predictedType:Disease
+CANDIDATE	id:15651	inCount:2	outCount:1	links:	url:D015651	name:Mycotoxicosis	normalName:mycotoxicosis	normalWikiTitle:mycotoxicosis	predictedType:Disease
+CANDIDATE	id:13971	inCount:2	outCount:1	links:	url:D013971	name:Thyrotoxicosis	normalName:thyrotoxicosis	normalWikiTitle:thyrotoxicosis	predictedType:Disease
+CANDIDATE	id:14869	inCount:0	outCount:2	links:	url:D014869	name:Water Intoxication	normalName:water intoxication	normalWikiTitle:water intoxication	predictedType:Disease
+CANDIDATE	id:14103	inCount:4	outCount:2	links:	url:D014103	name:Torticollis	normalName:torticollis	normalWikiTitle:torticollis	predictedType:Disease
+CANDIDATE	id:9765	inCount:42	outCount:2	links:	url:D009765	name:Obesity	normalName:obesity	normalWikiTitle:obesity	predictedType:Disease
+CANDIDATE	id:14115	inCount:1	outCount:1	links:	url:D014115	name:Toxemia	normalName:toxemia	normalWikiTitle:toxemia	predictedType:Disease
+CANDIDATE	id:7246	inCount:2	outCount:2	links:	url:D007246	name:Infertility	normalName:infertility	normalWikiTitle:infertility	predictedType:Disease
+CANDIDATE	id:20234	inCount:0	outCount:2	links:	url:D020234	name:Gait Ataxia	normalName:gait ataxia	normalWikiTitle:gait ataxia	predictedType:Disease
+CANDIDATE	id:14069	inCount:1	outCount:1	links:	url:D014069	name:Tonsillitis	normalName:tonsillitis	normalWikiTitle:tonsillitis	predictedType:Disease
+CANDIDATE	id:64420	inCount:10	outCount:1	links:	url:D064420	name:Toxicity, Drug	normalName:toxicity, drug	normalWikiTitle:toxicity, drug	predictedType:Disease
+CANDIDATE	id:17484	inCount:0	outCount:2	links:	url:D017484	name:Phototoxicity	normalName:phototoxicity	normalWikiTitle:phototoxicity	predictedType:Disease
+ENTITY	text:carcinoma of the peritoneum	normalName:carcinoma of the peritoneum	predictedType:disease	q:true	qid:Q294	docId:10985896	origText:carcinoma of the peritoneum	url:D010534
+CANDIDATE	id:10534	inCount:1	outCount:3	links:10534	url:D010534	name:Peritoneal Carcinomatosis	normalName:peritoneal carcinomatosis	normalWikiTitle:peritoneal carcinomatosis	predictedType:Disease
+CANDIDATE	id:2278	inCount:4	outCount:1	links:	url:D002278	name:Carcinoma in Situ	normalName:carcinoma in situ	normalWikiTitle:carcinoma in situ	predictedType:Disease
+CANDIDATE	id:2286	inCount:0	outCount:2	links:2286	url:D002286	name:Carcinoma, Ehrlich Tumor	normalName:carcinoma, ehrlich tumor	normalWikiTitle:carcinoma, ehrlich tumor	predictedType:Disease
+CANDIDATE	id:18278	inCount:6	outCount:2	links:	url:D018278	name:Carcinoma, Neuroendocrine	normalName:carcinoma, neuroendocrine	normalWikiTitle:carcinoma, neuroendocrine	predictedType:Disease
+CANDIDATE	id:18269	inCount:0	outCount:3	links:	url:D018269	name:Carcinoma, Endometrioid	normalName:carcinoma, endometrioid	normalWikiTitle:carcinoma, endometrioid	predictedType:Disease
+CANDIDATE	id:18289	inCount:1	outCount:2	links:	url:D018289	name:Carcinoma, Verrucous	normalName:carcinoma, verrucous	normalWikiTitle:carcinoma, verrucous	predictedType:Disease
+CANDIDATE	id:18236	inCount:0	outCount:1	links:18236	url:D018236	name:Carcinoma, Embryonal	normalName:carcinoma, embryonal	normalWikiTitle:carcinoma, embryonal	predictedType:Disease
+CANDIDATE	id:536823	inCount:0	outCount:1	links:	url:C536823	name:Glassy cell carcinoma of the cervix	normalName:glassy cell carcinoma of the cervix	normalWikiTitle:glassy cell carcinoma of the cervix	predictedType:Disease
+CANDIDATE	id:18279	inCount:1	outCount:2	links:	url:D018279	name:Carcinoma, Signet Ring Cell	normalName:carcinoma, signet ring cell	normalWikiTitle:carcinoma, signet ring cell	predictedType:Disease
+CANDIDATE	id:562463	inCount:0	outCount:1	links:562463	url:C562463	name:Pancreatic Carcinoma	normalName:pancreatic carcinoma	normalWikiTitle:pancreatic carcinoma	predictedType:Disease
+CANDIDATE	id:18273	inCount:4	outCount:2	links:	url:D018273	name:Carcinoma, Islet Cell	normalName:carcinoma, islet cell	normalWikiTitle:carcinoma, islet cell	predictedType:Disease
+CANDIDATE	id:10534	inCount:1	outCount:3	links:10534	url:D010534	name:Carcinomatosis, Peritoneal	normalName:carcinomatosis, peritoneal	normalWikiTitle:carcinomatosis, peritoneal	predictedType:Disease
+CANDIDATE	id:10534	inCount:1	outCount:3	links:10534	url:D010534	name:Peritoneal Carcinomatoses	normalName:peritoneal carcinomatoses	normalWikiTitle:peritoneal carcinomatoses	predictedType:Disease
+CANDIDATE	id:21441	inCount:0	outCount:2	links:	url:D021441	name:Ductal Carcinoma of the Pancreas	normalName:ductal carcinoma of the pancreas	normalWikiTitle:ductal carcinoma of the pancreas	predictedType:Disease
+CANDIDATE	id:16889	inCount:2	outCount:1	links:	url:D016889	name:Endometrium Carcinoma	normalName:endometrium carcinoma	normalWikiTitle:endometrium carcinoma	predictedType:Disease
+CANDIDATE	id:16889	inCount:2	outCount:1	links:	url:D016889	name:Carcinoma of Endometrium	normalName:carcinoma of endometrium	normalWikiTitle:carcinoma of endometrium	predictedType:Disease
+CANDIDATE	id:10911	inCount:3	outCount:3	links:2292	url:D010911	name:Carcinoma, Pituitary	normalName:carcinoma, pituitary	normalWikiTitle:carcinoma, pituitary	predictedType:Disease
+CANDIDATE	id:10911	inCount:3	outCount:3	links:2292	url:D010911	name:Pituitary Carcinoma	normalName:pituitary carcinoma	normalWikiTitle:pituitary carcinoma	predictedType:Disease
+CANDIDATE	id:21441	inCount:0	outCount:2	links:	url:D021441	name:Duct-Cell Carcinoma of the Pancreas	normalName:duct-cell carcinoma of the pancreas	normalWikiTitle:duct-cell carcinoma of the pancreas	predictedType:Disease
+CANDIDATE	id:21441	inCount:0	outCount:2	links:	url:D021441	name:Duct Cell Carcinoma of the Pancreas	normalName:duct cell carcinoma of the pancreas	normalWikiTitle:duct cell carcinoma of the pancreas	predictedType:Disease
+ENTITY	text:ovarian cancer	normalName:ovarian cancer	predictedType:disease	q:true	qid:Q294	docId:10985896	origText:ovarian cancer	url:D010051
+CANDIDATE	id:10051	inCount:17	outCount:3	links:	url:D010051	name:Ovarian Cancer	normalName:ovarian cancer	normalWikiTitle:ovarian cancer	predictedType:Disease
+ENTITY	text:hand-foot syndrome	normalName:hand-foot syndrome	predictedType:disease	q:true	qid:Q294	docId:10985896	origText:hand-foot syndrome	url:D060831
+CANDIDATE	id:60831	inCount:0	outCount:1	links:13280;66126;3967	url:D060831	name:Hand-Foot Syndrome	normalName:hand-foot syndrome	normalWikiTitle:hand-foot syndrome	predictedType:Disease

@@ -1,0 +1,6 @@
+ENTITY	text:penicillin	normalName:penicillin	predictedType:chemical	q:true	qid:Q245	docId:18657397	origText:penicillin	url:D010406
+CANDIDATE	id:10406	inCount:59	outCount:1	links:	url:D010406	name:Penicillin	normalName:penicillin	normalWikiTitle:penicillin	predictedType:Chemical
+ENTITY	text:penicillin-G potassium	normalName:penicillin-g potassium	predictedType:chemical	q:true	qid:Q245	docId:18657397	origText:penicillin-G potassium	url:D010400
+CANDIDATE	id:10400	inCount:41	outCount:1	links:	url:D010400	name:Penicillin G Potassium	normalName:penicillin g potassium	normalWikiTitle:penicillin g potassium	predictedType:Chemical
+ENTITY	text:urethane	normalName:urethane	predictedType:chemical	q:true	qid:Q245	docId:18657397	origText:urethane	url:D014520
+CANDIDATE	id:14520	inCount:20	outCount:1	links:	url:D014520	name:Urethane	normalName:urethane	normalWikiTitle:urethane	predictedType:Chemical

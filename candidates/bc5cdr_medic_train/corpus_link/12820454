@@ -1,0 +1,19 @@
+ENTITY	text:prostatic adenocarcinoma	normalName:prostatic adenocarcinoma	predictedType:disease	q:true	qid:Q472	docId:12820454	origText:prostatic adenocarcinoma	url:D000230
+CANDIDATE	id:230	inCount:32	outCount:1	links:	url:D000230	name:Adenocarcinoma	normalName:adenocarcinoma	normalWikiTitle:adenocarcinoma	predictedType:Disease
+CANDIDATE	id:3528	inCount:0	outCount:1	links:	url:D003528	name:Carcinoma, Adenoid Cystic	normalName:carcinoma, adenoid cystic	normalWikiTitle:carcinoma, adenoid cystic	predictedType:Disease
+CANDIDATE	id:536474	inCount:0	outCount:2	links:	url:C536474	name:Urachal adenocarcinoma	normalName:urachal adenocarcinoma	normalWikiTitle:urachal adenocarcinoma	predictedType:Disease
+CANDIDATE	id:2293	inCount:1	outCount:1	links:	url:D002293	name:Adenocarcinoma, Scirrhous	normalName:adenocarcinoma, scirrhous	normalWikiTitle:adenocarcinoma, scirrhous	predictedType:Disease
+CANDIDATE	id:231	inCount:2	outCount:1	links:	url:D000231	name:Adenocarcinoma, Papillary	normalName:adenocarcinoma, papillary	normalWikiTitle:adenocarcinoma, papillary	predictedType:Disease
+CANDIDATE	id:18266	inCount:0	outCount:2	links:	url:D018266	name:Adenocarcinoma, Sebaceous	normalName:adenocarcinoma, sebaceous	normalWikiTitle:adenocarcinoma, sebaceous	predictedType:Disease
+CANDIDATE	id:65311	inCount:0	outCount:3	links:	url:D065311	name:Adenocarcinoma in Situ	normalName:adenocarcinoma in situ	normalWikiTitle:adenocarcinoma in situ	predictedType:Disease
+CANDIDATE	id:562463	inCount:0	outCount:1	links:	url:C562463	name:Pancreatic Carcinoma	normalName:pancreatic carcinoma	normalWikiTitle:pancreatic carcinoma	predictedType:Disease
+CANDIDATE	id:18263	inCount:2	outCount:1	links:	url:D018263	name:Adenocarcinoma, Follicular	normalName:adenocarcinoma, follicular	normalWikiTitle:adenocarcinoma, follicular	predictedType:Disease
+CANDIDATE	id:18284	inCount:0	outCount:1	links:	url:D018284	name:Cystadenocarcinoma, Serous	normalName:cystadenocarcinoma, serous	normalWikiTitle:cystadenocarcinoma, serous	predictedType:Disease
+CANDIDATE	id:11470	inCount:1	outCount:1	links:	url:D011470	name:Prostatic Adenoma	normalName:prostatic adenoma	normalWikiTitle:prostatic adenoma	predictedType:Disease
+CANDIDATE	id:11470	inCount:1	outCount:1	links:	url:D011470	name:Adenoma, Prostatic	normalName:adenoma, prostatic	normalWikiTitle:adenoma, prostatic	predictedType:Disease
+CANDIDATE	id:11470	inCount:1	outCount:1	links:	url:D011470	name:Prostatic Adenomas	normalName:prostatic adenomas	normalWikiTitle:prostatic adenomas	predictedType:Disease
+CANDIDATE	id:11470	inCount:1	outCount:1	links:	url:D011470	name:Adenomas, Prostatic	normalName:adenomas, prostatic	normalWikiTitle:adenomas, prostatic	predictedType:Disease
+ENTITY	text:prostate cancer	normalName:prostate cancer	predictedType:disease	q:true	qid:Q472	docId:12820454	origText:prostate cancer	url:D011471
+CANDIDATE	id:11471	inCount:19	outCount:2	links:	url:D011471	name:Prostate Cancer	normalName:prostate cancer	normalWikiTitle:prostate cancer	predictedType:Disease
+ENTITY	text:anemia	normalName:anemia	predictedType:disease	q:true	qid:Q472	docId:12820454	origText:anemia	url:D000740
+CANDIDATE	id:740	inCount:14	outCount:1	links:	url:D000740	name:Anemia	normalName:anemia	normalWikiTitle:anemia	predictedType:Disease

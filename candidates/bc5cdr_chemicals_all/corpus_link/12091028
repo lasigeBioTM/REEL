@@ -1,0 +1,8 @@
+ENTITY	text:diazepam	normalName:diazepam	predictedType:chemical	q:true	qid:Q520	docId:12091028	origText:diazepam	url:D003975
+CANDIDATE	id:3975	inCount:21	outCount:1	links:7649	url:D003975	name:Diazepam	normalName:diazepam	normalWikiTitle:diazepam	predictedType:Chemical
+ENTITY	text:Ketamine	normalName:ketamine	predictedType:chemical	q:true	qid:Q520	docId:12091028	origText:Ketamine	url:D007649
+CANDIDATE	id:7649	inCount:10	outCount:1	links:3975	url:D007649	name:Ketamine	normalName:ketamine	normalWikiTitle:ketamine	predictedType:Chemical
+ENTITY	text:glycopyrrolate	normalName:glycopyrrolate	predictedType:chemical	q:true	qid:Q520	docId:12091028	origText:glycopyrrolate	url:D006024
+CANDIDATE	id:6024	inCount:5	outCount:2	links:	url:D006024	name:Glycopyrrolate	normalName:glycopyrrolate	normalWikiTitle:glycopyrrolate	predictedType:Chemical
+ENTITY	text:oxygen	normalName:oxygen	predictedType:chemical	q:true	qid:Q520	docId:12091028	origText:oxygen	url:D010100
+CANDIDATE	id:10100	inCount:11	outCount:2	links:	url:D010100	name:Oxygen	normalName:oxygen	normalWikiTitle:oxygen	predictedType:Chemical

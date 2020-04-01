@@ -1,0 +1,17 @@
+ENTITY	text:hypercholesterolaemia	normalName:hypercholesterolaemia	predictedType:disease	q:true	qid:Q53	docId:3076126	origText:hypercholesterolaemia	url:D006937
+CANDIDATE	id:6937	inCount:5	outCount:1	links:	url:D006937	name:Hypercholesterolemia	normalName:hypercholesterolemia	normalWikiTitle:hypercholesterolemia	predictedType:Disease
+CANDIDATE	id:143890	inCount:0	outCount:2	links:	url:143890	name:HYPERCHOLESTEROLEMIA, FAMILIAL, 1	normalName:hypercholesterolemia, familial, 1	normalWikiTitle:hypercholesterolemia, familial, 1	predictedType:Disease
+CANDIDATE	id:566750	inCount:0	outCount:1	links:	url:C566750	name:Acholinesterasemia	normalName:acholinesterasemia	normalWikiTitle:acholinesterasemia	predictedType:Disease
+CANDIDATE	id:535937	inCount:0	outCount:2	links:	url:C535937	name:Cholesterol pneumonia	normalName:cholesterol pneumonia	normalWikiTitle:cholesterol pneumonia	predictedType:Disease
+CANDIDATE	id:54559	inCount:3	outCount:1	links:	url:D054559	name:Hyperphosphatemia	normalName:hyperphosphatemia	normalWikiTitle:hyperphosphatemia	predictedType:Disease
+CANDIDATE	id:20138	inCount:3	outCount:3	links:	url:D020138	name:Hyperhomocysteinemia	normalName:hyperhomocysteinemia	normalWikiTitle:hyperhomocysteinemia	predictedType:Disease
+CANDIDATE	id:17700	inCount:1	outCount:1	links:	url:D017700	name:Embolism, Cholesterol	normalName:embolism, cholesterol	normalWikiTitle:embolism, cholesterol	predictedType:Disease
+CANDIDATE	id:6966	inCount:1	outCount:1	links:	url:D006966	name:Hyperprolactinemia	normalName:hyperprolactinemia	normalWikiTitle:hyperprolactinemia	predictedType:Disease
+CANDIDATE	id:65906	inCount:0	outCount:2	links:	url:D065906	name:Hyperlactatemia	normalName:hyperlactatemia	normalWikiTitle:hyperlactatemia	predictedType:Disease
+CANDIDATE	id:566331	inCount:0	outCount:1	links:	url:C566331	name:Hypercholesterolemia, Autosomal Recessive	normalName:hypercholesterolemia, autosomal recessive	normalWikiTitle:hypercholesterolemia, autosomal recessive	predictedType:Disease
+ENTITY	text:Myopathy	normalName:myopathy	predictedType:disease	q:true	qid:Q53	docId:3076126	origText:Myopathy	url:D009135
+CANDIDATE	id:9135	inCount:77	outCount:2	links:	url:D009135	name:Myopathy	normalName:myopathy	normalWikiTitle:myopathy	predictedType:Disease
+ENTITY	text:myoglobinuria	normalName:myoglobinuria	predictedType:disease	q:true	qid:Q53	docId:3076126	origText:myoglobinuria	url:D009212
+CANDIDATE	id:9212	inCount:3	outCount:1	links:51437	url:D009212	name:Myoglobinuria	normalName:myoglobinuria	normalWikiTitle:myoglobinuria	predictedType:Disease
+ENTITY	text:renal failure	normalName:renal failure	predictedType:disease	q:true	qid:Q53	docId:3076126	origText:renal failure	url:D051437
+CANDIDATE	id:51437	inCount:10	outCount:1	links:9212	url:D051437	name:Renal Failure	normalName:renal failure	normalWikiTitle:renal failure	predictedType:Disease

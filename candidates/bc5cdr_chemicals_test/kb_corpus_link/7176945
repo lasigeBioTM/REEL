@@ -1,0 +1,30 @@
+ENTITY	text:bromide	normalName:bromide	predictedType:chemical	q:true	qid:Q231	docId:7176945	origText:bromide	url:D001965
+CANDIDATE	id:1965	inCount:23	outCount:2	links:	url:D001965	name:Bromides	normalName:bromides	normalWikiTitle:bromides	predictedType:Chemical
+CANDIDATE	id:1966	inCount:3	outCount:1	links:	url:D001966	name:Bromine	normalName:bromine	normalWikiTitle:bromine	predictedType:Chemical
+CANDIDATE	id:13855	inCount:0	outCount:1	links:	url:C013855	name:bromopride	normalName:bromopride	normalWikiTitle:bromopride	predictedType:Chemical
+CANDIDATE	id:17835	inCount:0	outCount:1	links:	url:C017835	name:carbromide	normalName:carbromide	normalWikiTitle:carbromide	predictedType:Chemical
+CANDIDATE	id:624220	inCount:0	outCount:1	links:	url:C000624220	name:iberdomide	normalName:iberdomide	normalWikiTitle:iberdomide	predictedType:Chemical
+CANDIDATE	id:59436	inCount:0	outCount:2	links:	url:C059436	name:romucide	normalName:romucide	normalWikiTitle:romucide	predictedType:Chemical
+CANDIDATE	id:552004	inCount:0	outCount:1	links:	url:C552004	name:crotamide B	normalName:crotamide b	normalWikiTitle:crotamide b	predictedType:Chemical
+CANDIDATE	id:6717	inCount:0	outCount:1	links:	url:C006717	name:bentiromide	normalName:bentiromide	normalWikiTitle:bentiromide	predictedType:Chemical
+CANDIDATE	id:572217	inCount:0	outCount:1	links:	url:C572217	name:bromobutide	normalName:bromobutide	normalWikiTitle:bromobutide	predictedType:Chemical
+CANDIDATE	id:10689	inCount:0	outCount:1	links:	url:C010689	name:bromindione	normalName:bromindione	normalWikiTitle:bromindione	predictedType:Chemical
+ENTITY	text:chloride	normalName:chloride	predictedType:chemical	q:true	qid:Q231	docId:7176945	origText:chloride	url:D002712
+CANDIDATE	id:2712	inCount:62	outCount:2	links:	url:D002712	name:Chlorides	normalName:chlorides	normalWikiTitle:chlorides	predictedType:Chemical
+CANDIDATE	id:1599	inCount:0	outCount:1	links:	url:C001599	name:chlorite	normalName:chlorite	normalWikiTitle:chlorite	predictedType:Chemical
+CANDIDATE	id:2713	inCount:12	outCount:2	links:	url:D002713	name:Chlorine	normalName:chlorine	normalWikiTitle:chlorine	predictedType:Chemical
+CANDIDATE	id:510706	inCount:0	outCount:1	links:	url:C510706	name:chloriolide	normalName:chloriolide	normalWikiTitle:chloriolide	predictedType:Chemical
+CANDIDATE	id:10881	inCount:0	outCount:1	links:	url:C010881	name:chlordene	normalName:chlordene	normalWikiTitle:chlordene	predictedType:Chemical
+CANDIDATE	id:480822	inCount:0	outCount:1	links:	url:C480822	name:Chlofiden	normalName:chlofiden	normalWikiTitle:chlofiden	predictedType:Chemical
+CANDIDATE	id:98209	inCount:0	outCount:1	links:	url:C098209	name:VPM chloride	normalName:vpm chloride	normalWikiTitle:vpm chloride	predictedType:Chemical
+CANDIDATE	id:6969	inCount:0	outCount:1	links:	url:C006969	name:chlorin	normalName:chlorin	normalWikiTitle:chlorin	predictedType:Chemical
+CANDIDATE	id:4986	inCount:0	outCount:1	links:	url:C004986	name:chlorbenside	normalName:chlorbenside	normalWikiTitle:chlorbenside	predictedType:Chemical
+CANDIDATE	id:581611	inCount:0	outCount:1	links:	url:C581611	name:chlorizidine	normalName:chlorizidine	normalWikiTitle:chlorizidine	predictedType:Chemical
+ENTITY	text:Fazadinium	normalName:fazadinium	predictedType:chemical	q:true	qid:Q231	docId:7176945	origText:Fazadinium	url:C084773
+CANDIDATE	id:84773	inCount:0	outCount:1	links:	url:C084773	name:fazadinium	normalName:fazadinium	normalWikiTitle:fazadinium	predictedType:Chemical
+ENTITY	text:Thiopentone	normalName:thiopentone	predictedType:chemical	q:true	qid:Q231	docId:7176945	origText:Thiopentone	url:D013874
+CANDIDATE	id:13874	inCount:3	outCount:1	links:	url:D013874	name:Thiopentone	normalName:thiopentone	normalWikiTitle:thiopentone	predictedType:Chemical
+ENTITY	text:Althesin	normalName:althesin	predictedType:chemical	q:true	qid:Q231	docId:7176945	origText:Althesin	url:D000530
+CANDIDATE	id:530	inCount:0	outCount:1	links:	url:D000530	name:Althesin	normalName:althesin	normalWikiTitle:althesin	predictedType:Chemical
+ENTITY	text:suxamethonium	normalName:suxamethonium	predictedType:chemical	q:true	qid:Q231	docId:7176945	origText:suxamethonium	url:D013390
+CANDIDATE	id:13390	inCount:3	outCount:2	links:	url:D013390	name:Suxamethonium	normalName:suxamethonium	normalWikiTitle:suxamethonium	predictedType:Chemical

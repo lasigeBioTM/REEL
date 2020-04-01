@@ -1,0 +1,4 @@
+ENTITY	text:Doxorubicin	normalName:doxorubicin	predictedType:chemical	q:true	qid:Q146	docId:8603459	origText:Doxorubicin	url:D004317
+CANDIDATE	id:4317	inCount:559	outCount:1	links:	url:D004317	name:Doxorubicin	normalName:doxorubicin	normalWikiTitle:doxorubicin	predictedType:Chemical
+ENTITY	text:ICRF-187	normalName:icrf-187	predictedType:chemical	q:true	qid:Q146	docId:8603459	origText:ICRF-187	url:D064730
+CANDIDATE	id:64730	inCount:1	outCount:1	links:	url:D064730	name:ICRF-187	normalName:icrf-187	normalWikiTitle:icrf-187	predictedType:Chemical

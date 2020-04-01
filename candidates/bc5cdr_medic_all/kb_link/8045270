@@ -1,0 +1,14 @@
+ENTITY	text:catalepsy	normalName:catalepsy	predictedType:disease	q:true	qid:Q355	docId:8045270	origText:catalepsy	url:D002375
+CANDIDATE	id:2375	inCount:0	outCount:1	links:2375	url:D002375	name:Catalepsy	normalName:catalepsy	normalWikiTitle:catalepsy	predictedType:Disease
+ENTITY	text:cataleptic	normalName:cataleptic	predictedType:disease	q:true	qid:Q355	docId:8045270	origText:cataleptic	url:D002375
+CANDIDATE	id:2375	inCount:0	outCount:1	links:2375	url:D002375	name:Catalepsies	normalName:catalepsies	normalWikiTitle:catalepsies	predictedType:Disease
+CANDIDATE	id:2375	inCount:0	outCount:1	links:2375	url:D002375	name:Catalepsy	normalName:catalepsy	normalWikiTitle:catalepsy	predictedType:Disease
+CANDIDATE	id:535346	inCount:0	outCount:1	links:	url:C535346	name:Catatrichy	normalName:catatrichy	normalWikiTitle:catatrichy	predictedType:Disease
+CANDIDATE	id:2385	inCount:0	outCount:1	links:	url:D002385	name:Cataplexy	normalName:cataplexy	normalWikiTitle:cataplexy	predictedType:Disease
+CANDIDATE	id:2389	inCount:1	outCount:1	links:	url:D002389	name:Catatonia	normalName:catatonia	normalWikiTitle:catatonia	predictedType:Disease
+CANDIDATE	id:3926	inCount:1	outCount:1	links:	url:D003926	name:Diabetic Coma	normalName:diabetic coma	normalWikiTitle:diabetic coma	predictedType:Disease
+CANDIDATE	id:20642	inCount:0	outCount:1	links:	url:D020642	name:Acatalasia	normalName:acatalasia	normalWikiTitle:acatalasia	predictedType:Disease
+CANDIDATE	id:564815	inCount:2	outCount:4	links:	url:C564815	name:Spastic Ataxia	normalName:spastic ataxia	normalWikiTitle:spastic ataxia	predictedType:Disease
+CANDIDATE	id:4479	inCount:12	outCount:2	links:	url:D004479	name:Ectopia Lentis	normalName:ectopia lentis	normalWikiTitle:ectopia lentis	predictedType:Disease
+CANDIDATE	id:580065	inCount:0	outCount:1	links:	url:C580065	name:Episodic Ataxia	normalName:episodic ataxia	normalWikiTitle:episodic ataxia	predictedType:Disease
+CANDIDATE	id:71074	inCount:0	outCount:2	links:	url:D000071074	name:Neonatal Sepsis	normalName:neonatal sepsis	normalWikiTitle:neonatal sepsis	predictedType:Disease

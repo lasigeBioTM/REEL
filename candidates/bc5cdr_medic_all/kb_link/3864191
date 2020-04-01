@@ -1,0 +1,15 @@
+ENTITY	text:hyperbilirubinemia	normalName:hyperbilirubinemia	predictedType:disease	q:true	qid:Q901	docId:3864191	origText:hyperbilirubinemia	url:D006932
+CANDIDATE	id:6932	inCount:4	outCount:1	links:	url:D006932	name:Hyperbilirubinemia	normalName:hyperbilirubinemia	normalWikiTitle:hyperbilirubinemia	predictedType:Disease
+ENTITY	text:hematuria	normalName:hematuria	predictedType:disease	q:true	qid:Q901	docId:3864191	origText:hematuria	url:D006417
+CANDIDATE	id:6417	inCount:2	outCount:2	links:	url:D006417	name:Hematuria	normalName:hematuria	normalWikiTitle:hematuria	predictedType:Disease
+ENTITY	text:papillary necrosis	normalName:papillary necrosis	predictedType:disease	q:true	qid:Q901	docId:3864191	origText:papillary necrosis	url:D007681
+CANDIDATE	id:7681	inCount:0	outCount:1	links:	url:D007681	name:Kidney Papillary Necrosis	normalName:kidney papillary necrosis	normalWikiTitle:kidney papillary necrosis	predictedType:Disease
+CANDIDATE	id:2291	inCount:2	outCount:2	links:	url:D002291	name:Carcinoma, Papillary	normalName:carcinoma, papillary	normalWikiTitle:carcinoma, papillary	predictedType:Disease
+CANDIDATE	id:231	inCount:2	outCount:1	links:	url:D000231	name:Adenocarcinoma, Papillary	normalName:adenocarcinoma, papillary	normalWikiTitle:adenocarcinoma, papillary	predictedType:Disease
+CANDIDATE	id:30361	inCount:2	outCount:2	links:	url:D030361	name:Papillomavirus Infections	normalName:papillomavirus infections	normalWikiTitle:papillomavirus infections	predictedType:Disease
+CANDIDATE	id:536185	inCount:0	outCount:1	links:	url:C536185	name:Ectopia pupillae	normalName:ectopia pupillae	normalWikiTitle:ectopia pupillae	predictedType:Disease
+CANDIDATE	id:16917	inCount:0	outCount:4	links:	url:D016917	name:Angiomatosis, Bacillary	normalName:angiomatosis, bacillary	normalWikiTitle:angiomatosis, bacillary	predictedType:Disease
+CANDIDATE	id:56005	inCount:2	outCount:1	links:	url:D056005	name:Leprosy, Paucibacillary	normalName:leprosy, paucibacillary	normalWikiTitle:leprosy, paucibacillary	predictedType:Disease
+CANDIDATE	id:9336	inCount:6	outCount:1	links:	url:D009336	name:Necrosis	normalName:necrosis	normalWikiTitle:necrosis	predictedType:Disease
+CANDIDATE	id:18292	inCount:0	outCount:1	links:	url:D018292	name:Cystadenoma, Papillary	normalName:cystadenoma, papillary	normalWikiTitle:cystadenoma, papillary	predictedType:Disease
+CANDIDATE	id:77273	inCount:0	outCount:2	links:	url:D000077273	name:Thyroid Cancer, Papillary	normalName:thyroid cancer, papillary	normalWikiTitle:thyroid cancer, papillary	predictedType:Disease

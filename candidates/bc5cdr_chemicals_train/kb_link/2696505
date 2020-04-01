@@ -1,0 +1,20 @@
+ENTITY	text:nitroprusside	normalName:nitroprusside	predictedType:chemical	q:true	qid:Q496	docId:2696505	origText:nitroprusside	url:D009599
+CANDIDATE	id:9599	inCount:2	outCount:1	links:	url:D009599	name:Nitroprusside	normalName:nitroprusside	normalWikiTitle:nitroprusside	predictedType:Chemical
+ENTITY	text:labetalol	normalName:labetalol	predictedType:chemical	q:true	qid:Q496	docId:2696505	origText:labetalol	url:D007741
+CANDIDATE	id:7741	inCount:0	outCount:2	links:	url:D007741	name:Labetalol	normalName:labetalol	normalWikiTitle:labetalol	predictedType:Chemical
+ENTITY	text:PO2	normalName:po2	predictedType:chemical	q:true	qid:Q496	docId:2696505	origText:PO2	url:C093415
+CANDIDATE	id:93415	inCount:0	outCount:2	links:	url:C093415	name:PO-2	normalName:po-2	normalWikiTitle:po-2	predictedType:Chemical
+CANDIDATE	id:5974	inCount:0	outCount:1	links:	url:C005974	name:APMO	normalName:apmo	normalWikiTitle:apmo	predictedType:Chemical
+CANDIDATE	id:93414	inCount:0	outCount:2	links:	url:C093414	name:PO-1	normalName:po-1	normalWikiTitle:po-1	predictedType:Chemical
+CANDIDATE	id:20884	inCount:0	outCount:1	links:	url:C020884	name:DEPO	normalName:depo	normalWikiTitle:depo	predictedType:Chemical
+CANDIDATE	id:15595	inCount:0	outCount:1	links:	url:C015595	name:P297	normalName:p297	normalWikiTitle:p297	predictedType:Chemical
+CANDIDATE	id:514637	inCount:0	outCount:2	links:	url:C514637	name:PtO2	normalName:pto2	normalWikiTitle:pto2	predictedType:Chemical
+CANDIDATE	id:58008	inCount:0	outCount:1	links:	url:C058008	name:NDPO2	normalName:ndpo2	normalWikiTitle:ndpo2	predictedType:Chemical
+CANDIDATE	id:422956	inCount:0	outCount:2	links:	url:C422956	name:DHPNO2	normalName:dhpno2	normalWikiTitle:dhpno2	predictedType:Chemical
+CANDIDATE	id:42168	inCount:0	outCount:1	links:	url:C042168	name:BO2	normalName:bo2	normalWikiTitle:bo2	predictedType:Chemical
+CANDIDATE	id:11727	inCount:1	outCount:1	links:	url:D011727	name:P23	normalName:p23	normalWikiTitle:p23	predictedType:Chemical
+CANDIDATE	id:37535	inCount:0	outCount:2	links:	url:C037535	name:CPMSO2	normalName:cpmso2	normalWikiTitle:cpmso2	predictedType:Chemical
+CANDIDATE	id:574725	inCount:0	outCount:2	links:	url:C574725	name:QPhNO2	normalName:qphno2	normalWikiTitle:qphno2	predictedType:Chemical
+CANDIDATE	id:8993	inCount:0	outCount:2	links:	url:C008993	name:polyS2U	normalName:polys2u	normalWikiTitle:polys2u	predictedType:Chemical
+CANDIDATE	id:609751	inCount:0	outCount:2	links:	url:C000609751	name:HP-NO2A	normalName:hp-no2a	normalWikiTitle:hp-no2a	predictedType:Chemical
+CANDIDATE	id:87184	inCount:0	outCount:1	links:	url:C087184	name:pNO2CFA	normalName:pno2cfa	normalWikiTitle:pno2cfa	predictedType:Chemical

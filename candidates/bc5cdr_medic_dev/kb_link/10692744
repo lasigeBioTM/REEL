@@ -1,0 +1,4 @@
+ENTITY	text:Gerstmann syndrome	normalName:gerstmann syndrome	predictedType:disease	q:true	qid:Q50	docId:10692744	origText:Gerstmann syndrome	url:D005862
+CANDIDATE	id:5862	inCount:0	outCount:1	links:	url:D005862	name:Gerstmann Syndrome	normalName:gerstmann syndrome	normalWikiTitle:gerstmann syndrome	predictedType:Disease
+ENTITY	text:confusion	normalName:confusion	predictedType:disease	q:true	qid:Q50	docId:10692744	origText:confusion	url:D003221
+CANDIDATE	id:3221	inCount:2	outCount:1	links:	url:D003221	name:Confusion	normalName:confusion	normalWikiTitle:confusion	predictedType:Disease

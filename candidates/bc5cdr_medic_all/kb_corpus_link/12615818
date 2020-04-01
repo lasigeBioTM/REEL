@@ -1,0 +1,10 @@
+ENTITY	text:venous thromboembolism	normalName:venous thromboembolism	predictedType:disease	q:true	qid:Q23	docId:12615818	origText:venous thromboembolism	url:D054556
+CANDIDATE	id:54556	inCount:0	outCount:1	links:	url:D054556	name:Venous Thromboembolism	normalName:venous thromboembolism	normalWikiTitle:venous thromboembolism	predictedType:Disease
+ENTITY	text:polycystic ovary syndrome	normalName:polycystic ovary syndrome	predictedType:disease	q:true	qid:Q23	docId:12615818	origText:polycystic ovary syndrome	url:D011085
+CANDIDATE	id:11085	inCount:2	outCount:1	links:11085	url:D011085	name:Polycystic Ovary Syndrome	normalName:polycystic ovary syndrome	normalWikiTitle:polycystic ovary syndrome	predictedType:Disease
+ENTITY	text:hirsutism	normalName:hirsutism	predictedType:disease	q:true	qid:Q23	docId:12615818	origText:hirsutism	url:D006628
+CANDIDATE	id:6628	inCount:6	outCount:2	links:	url:D006628	name:Hirsutism	normalName:hirsutism	normalWikiTitle:hirsutism	predictedType:Disease
+ENTITY	text:PCOS	normalName:pcos	predictedType:disease	q:true	qid:Q23	docId:12615818	origText:PCOS	url:D011085
+CANDIDATE	id:11085	inCount:2	outCount:1	links:11085	url:D011085	name:PCOS	normalName:pcos	normalWikiTitle:pcos	predictedType:Disease
+ENTITY	text:acne	normalName:acne	predictedType:disease	q:true	qid:Q23	docId:12615818	origText:acne	url:D000152
+CANDIDATE	id:152	inCount:4	outCount:2	links:	url:D000152	name:Acne	normalName:acne	normalWikiTitle:acne	predictedType:Disease

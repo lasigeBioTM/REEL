@@ -1,0 +1,12 @@
+ENTITY	text:endometrial hyperplasia	normalName:endometrial hyperplasia	predictedType:disease	q:true	qid:Q1407	docId:15458908	origText:endometrial hyperplasia	url:D004714
+CANDIDATE	id:4714	inCount:0	outCount:1	links:	url:D004714	name:Endometrial Hyperplasia	normalName:endometrial hyperplasia	normalWikiTitle:endometrial hyperplasia	predictedType:Disease
+ENTITY	text:osteoporosis	normalName:osteoporosis	predictedType:disease	q:true	qid:Q1407	docId:15458908	origText:osteoporosis	url:D010024
+CANDIDATE	id:10024	inCount:21	outCount:1	links:54556	url:D010024	name:Osteoporosis	normalName:osteoporosis	normalWikiTitle:osteoporosis	predictedType:Disease
+ENTITY	text:cataracts	normalName:cataracts	predictedType:disease	q:true	qid:Q1407	docId:15458908	origText:cataracts	url:D002386
+CANDIDATE	id:2386	inCount:169	outCount:1	links:	url:D002386	name:Cataract	normalName:cataract	normalWikiTitle:cataract	predictedType:Disease
+ENTITY	text:gallbladder disease	normalName:gallbladder disease	predictedType:disease	q:true	qid:Q1407	docId:15458908	origText:gallbladder disease	url:D005705
+CANDIDATE	id:5705	inCount:10	outCount:1	links:54556;16889	url:D005705	name:Gallbladder Disease	normalName:gallbladder disease	normalWikiTitle:gallbladder disease	predictedType:Disease
+ENTITY	text:endometrial cancer	normalName:endometrial cancer	predictedType:disease	q:true	qid:Q1407	docId:15458908	origText:endometrial cancer	url:D016889
+CANDIDATE	id:16889	inCount:2	outCount:1	links:54556;5705	url:D016889	name:Cancer, Endometrial	normalName:cancer, endometrial	normalWikiTitle:cancer, endometrial	predictedType:Disease
+ENTITY	text:venous thromboembolism	normalName:venous thromboembolism	predictedType:disease	q:true	qid:Q1407	docId:15458908	origText:venous thromboembolism	url:D054556
+CANDIDATE	id:54556	inCount:0	outCount:1	links:10024;5705;16889	url:D054556	name:Venous Thromboembolism	normalName:venous thromboembolism	normalWikiTitle:venous thromboembolism	predictedType:Disease

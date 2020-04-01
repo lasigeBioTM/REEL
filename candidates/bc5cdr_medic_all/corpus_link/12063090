@@ -1,0 +1,17 @@
+ENTITY	text:constipating	normalName:constipating	predictedType:disease	q:true	qid:Q750	docId:12063090	origText:constipating	url:D003248
+CANDIDATE	id:3248	inCount:3	outCount:1	links:	url:D003248	name:Constipation	normalName:constipation	normalWikiTitle:constipation	predictedType:Disease
+CANDIDATE	id:59350	inCount:0	outCount:1	links:	url:D059350	name:Chronic Pain	normalName:chronic pain	normalWikiTitle:chronic pain	predictedType:Disease
+CANDIDATE	id:2637	inCount:1	outCount:1	links:	url:D002637	name:Chest Pain	normalName:chest pain	normalWikiTitle:chest pain	predictedType:Disease
+CANDIDATE	id:14839	inCount:7	outCount:1	links:3248;10146	url:D014839	name:Vomiting	normalName:vomiting	normalWikiTitle:vomiting	predictedType:Disease
+CANDIDATE	id:3556	inCount:2	outCount:1	links:3248;10146	url:D003556	name:Cystitis	normalName:cystitis	normalWikiTitle:cystitis	predictedType:Disease
+CANDIDATE	id:10000	inCount:0	outCount:1	links:	url:D010000	name:Osteitis	normalName:osteitis	normalWikiTitle:osteitis	predictedType:Disease
+CANDIDATE	id:65008	inCount:0	outCount:1	links:	url:D065008	name:Scorpion Stings	normalName:scorpion stings	normalWikiTitle:scorpion stings	predictedType:Disease
+CANDIDATE	id:7040	inCount:3	outCount:2	links:	url:D007040	name:Hypoventilation	normalName:hypoventilation	normalWikiTitle:hypoventilation	predictedType:Disease
+CANDIDATE	id:52016	inCount:0	outCount:2	links:3248	url:D052016	name:Mucositis	normalName:mucositis	normalWikiTitle:mucositis	predictedType:Disease
+CANDIDATE	id:3251	inCount:8	outCount:1	links:	url:D003251	name:Constriction, Pathologic	normalName:constriction, pathologic	normalWikiTitle:constriction, pathologic	predictedType:Disease
+ENTITY	text:constipation	normalName:constipation	predictedType:disease	q:true	qid:Q750	docId:12063090	origText:constipation	url:D003248
+CANDIDATE	id:3248	inCount:3	outCount:1	links:	url:D003248	name:Constipation	normalName:constipation	normalWikiTitle:constipation	predictedType:Disease
+ENTITY	text:pain	normalName:pain	predictedType:disease	q:true	qid:Q750	docId:12063090	origText:pain	url:D010146
+CANDIDATE	id:10146	inCount:34	outCount:1	links:14839;3556	url:D010146	name:Pain	normalName:pain	normalWikiTitle:pain	predictedType:Disease
+ENTITY	text:chronic pain	normalName:chronic pain	predictedType:disease	q:true	qid:Q750	docId:12063090	origText:chronic pain	url:D059350
+CANDIDATE	id:59350	inCount:0	outCount:1	links:	url:D059350	name:Chronic Pain	normalName:chronic pain	normalWikiTitle:chronic pain	predictedType:Disease

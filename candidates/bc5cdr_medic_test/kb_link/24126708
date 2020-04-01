@@ -1,0 +1,6 @@
+ENTITY	text:idiopathic Parkinson's disease	normalName:idiopathic parkinson's disease	predictedType:disease	q:true	qid:Q260	docId:24126708	origText:idiopathic Parkinson's disease	url:D010300
+CANDIDATE	id:10300	inCount:31	outCount:2	links:10300	url:D010300	name:Parkinson's Disease, Idiopathic	normalName:parkinson's disease, idiopathic	normalWikiTitle:parkinson's disease, idiopathic	predictedType:Disease
+ENTITY	text:visual hallucinations	normalName:visual hallucinations	predictedType:disease	q:true	qid:Q260	docId:24126708	origText:visual hallucinations	url:D006212
+CANDIDATE	id:6212	inCount:1	outCount:1	links:	url:D006212	name:Hallucinations, Visual	normalName:hallucinations, visual	normalWikiTitle:hallucinations, visual	predictedType:Disease
+ENTITY	text:Parkinson's disease	normalName:parkinson's disease	predictedType:disease	q:true	qid:Q260	docId:24126708	origText:Parkinson's disease	url:D010300
+CANDIDATE	id:10300	inCount:31	outCount:2	links:10300	url:D010300	name:Parkinson's Disease	normalName:parkinson's disease	normalWikiTitle:parkinson's disease	predictedType:Disease

@@ -1,0 +1,32 @@
+ENTITY	text:hypertension	normalName:hypertension	predictedType:disease	q:true	qid:Q31	docId:15579441	origText:hypertension	url:D006973
+CANDIDATE	id:6973	inCount:18	outCount:1	links:	url:D006973	name:Hypertension	normalName:hypertension	normalWikiTitle:hypertension	predictedType:Disease
+ENTITY	text:proteinuria	normalName:proteinuria	predictedType:disease	q:true	qid:Q31	docId:15579441	origText:proteinuria	url:D011507
+CANDIDATE	id:11507	inCount:4	outCount:2	links:	url:D011507	name:Proteinuria	normalName:proteinuria	normalWikiTitle:proteinuria	predictedType:Disease
+ENTITY	text:nephrotic syndrome	normalName:nephrotic syndrome	predictedType:disease	q:true	qid:Q31	docId:15579441	origText:nephrotic syndrome	url:D009404
+CANDIDATE	id:9404	inCount:23	outCount:1	links:	url:D009404	name:Nephrotic Syndrome	normalName:nephrotic syndrome	normalWikiTitle:nephrotic syndrome	predictedType:Disease
+ENTITY	text:hypoxic	normalName:hypoxic	predictedType:disease	q:true	qid:Q31	docId:15579441	origText:hypoxic	url:D000860
+CANDIDATE	id:860	inCount:1	outCount:1	links:860	url:D000860	name:Hypoxia	normalName:hypoxia	normalWikiTitle:hypoxia	predictedType:Disease
+CANDIDATE	id:18496	inCount:0	outCount:1	links:	url:D018496	name:Hyperoxia	normalName:hyperoxia	normalWikiTitle:hyperoxia	predictedType:Disease
+CANDIDATE	id:6956	inCount:4	outCount:1	links:	url:D006956	name:Hyperopia	normalName:hyperopia	normalWikiTitle:hyperopia	predictedType:Disease
+CANDIDATE	id:2534	inCount:1	outCount:1	links:	url:D002534	name:Hypoxia, Brain	normalName:hypoxia, brain	normalWikiTitle:hypoxia, brain	predictedType:Disease
+CANDIDATE	id:5311	inCount:0	outCount:2	links:	url:D005311	name:Fetal Hypoxia	normalName:fetal hypoxia	normalWikiTitle:fetal hypoxia	predictedType:Disease
+CANDIDATE	id:6959	inCount:1	outCount:1	links:	url:D006959	name:Hyperoxaluria	normalName:hyperoxaluria	normalWikiTitle:hyperoxaluria	predictedType:Disease
+CANDIDATE	id:7039	inCount:27	outCount:1	links:	url:D007039	name:Hypotrichosis	normalName:hypotrichosis	normalWikiTitle:hypotrichosis	predictedType:Disease
+CANDIDATE	id:16857	inCount:0	outCount:1	links:	url:D016857	name:Hypocapnia	normalName:hypocapnia	normalWikiTitle:hypocapnia	predictedType:Disease
+CANDIDATE	id:565500	inCount:0	outCount:1	links:	url:C565500	name:Hyperlexia	normalName:hyperlexia	normalWikiTitle:hyperlexia	predictedType:Disease
+CANDIDATE	id:13971	inCount:2	outCount:1	links:	url:D013971	name:Thyrotoxicosis	normalName:thyrotoxicosis	normalWikiTitle:thyrotoxicosis	predictedType:Disease
+ENTITY	text:diseased kidney	normalName:diseased kidney	predictedType:disease	q:true	qid:Q31	docId:15579441	origText:diseased kidney	url:D007674
+CANDIDATE	id:7674	inCount:65	outCount:1	links:	url:D007674	name:Disease, Kidney	normalName:disease, kidney	normalWikiTitle:disease, kidney	predictedType:Disease
+CANDIDATE	id:7674	inCount:65	outCount:1	links:	url:D007674	name:Kidney Diseases	normalName:kidney diseases	normalWikiTitle:kidney diseases	predictedType:Disease
+CANDIDATE	id:12871	inCount:71	outCount:1	links:	url:D012871	name:Skin Diseases	normalName:skin diseases	normalWikiTitle:skin diseases	predictedType:Disease
+CANDIDATE	id:52177	inCount:36	outCount:1	links:	url:D052177	name:Kidney Diseases, Cystic	normalName:kidney diseases, cystic	normalWikiTitle:kidney diseases, cystic	predictedType:Disease
+CANDIDATE	id:13553	inCount:12	outCount:1	links:	url:D013553	name:Swine Diseases	normalName:swine diseases	normalWikiTitle:swine diseases	predictedType:Disease
+CANDIDATE	id:69337	inCount:0	outCount:1	links:	url:D000069337	name:Fused Kidney	normalName:fused kidney	normalWikiTitle:fused kidney	predictedType:Disease
+CANDIDATE	id:5128	inCount:33	outCount:1	links:	url:D005128	name:Eye Diseases	normalName:eye diseases	normalWikiTitle:eye diseases	predictedType:Disease
+CANDIDATE	id:6689	inCount:2	outCount:1	links:	url:D006689	name:Hodgkin Disease	normalName:hodgkin disease	normalWikiTitle:hodgkin disease	predictedType:Disease
+CANDIDATE	id:8992	inCount:2	outCount:1	links:	url:D008992	name:Monkey Diseases	normalName:monkey diseases	normalWikiTitle:monkey diseases	predictedType:Disease
+CANDIDATE	id:14591	inCount:14	outCount:1	links:	url:D014591	name:Uterine Diseases	normalName:uterine diseases	normalWikiTitle:uterine diseases	predictedType:Disease
+CANDIDATE	id:538130	inCount:0	outCount:1	links:	url:C538130	name:Kyrle disease	normalName:kyrle disease	normalWikiTitle:kyrle disease	predictedType:Disease
+CANDIDATE	id:7674	inCount:65	outCount:1	links:	url:D007674	name:Kidney Disease	normalName:kidney disease	normalWikiTitle:kidney disease	predictedType:Disease
+ENTITY	text:Hypoxia	normalName:hypoxia	predictedType:disease	q:true	qid:Q31	docId:15579441	origText:Hypoxia	url:D000860
+CANDIDATE	id:860	inCount:1	outCount:1	links:860	url:D000860	name:Hypoxia	normalName:hypoxia	normalWikiTitle:hypoxia	predictedType:Disease

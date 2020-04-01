@@ -1,0 +1,41 @@
+ENTITY	text:alanine	normalName:alanine	predictedType:chemical	q:true	qid:Q442	docId:18464113	origText:alanine	url:D000409
+CANDIDATE	id:409	inCount:359	outCount:1	links:	url:D000409	name:Alanine	normalName:alanine	normalWikiTitle:alanine	predictedType:Chemical
+ENTITY	text:HBSAG	normalName:hbsag	predictedType:chemical	q:true	qid:Q442	docId:18464113	origText:HBSAG	url:D006514
+CANDIDATE	id:6514	inCount:4	outCount:1	links:	url:D006514	name:HBsAg	normalName:hbsag	normalWikiTitle:hbsag	predictedType:Chemical
+ENTITY	text:hepatitis-B surface antigen	normalName:hepatitis-b surface antigen	predictedType:chemical	q:true	qid:Q442	docId:18464113	origText:hepatitis-B surface antigen	url:D006514
+CANDIDATE	id:6514	inCount:4	outCount:1	links:	url:D006514	name:Hepatitis B Surface Antigen	normalName:hepatitis b surface antigen	normalWikiTitle:hepatitis b surface antigen	predictedType:Chemical
+ENTITY	text:Lamivudine	normalName:lamivudine	predictedType:chemical	q:true	qid:Q442	docId:18464113	origText:Lamivudine	url:D019259
+CANDIDATE	id:19259	inCount:14	outCount:1	links:	url:D019259	name:Lamivudine	normalName:lamivudine	normalWikiTitle:lamivudine	predictedType:Chemical
+ENTITY	text:nucleotide	normalName:nucleotide	predictedType:chemical	q:true	qid:Q442	docId:18464113	origText:nucleotide	url:D009711
+CANDIDATE	id:9711	inCount:57	outCount:1	links:	url:D009711	name:Nucleotides	normalName:nucleotides	normalWikiTitle:nucleotides	predictedType:Chemical
+CANDIDATE	id:26376	inCount:0	outCount:1	links:	url:C026376	name:Q nucleotide	normalName:q nucleotide	normalWikiTitle:q nucleotide	predictedType:Chemical
+CANDIDATE	id:9705	inCount:138	outCount:2	links:	url:D009705	name:Nucleosides	normalName:nucleosides	normalWikiTitle:nucleosides	predictedType:Chemical
+CANDIDATE	id:527155	inCount:0	outCount:2	links:	url:C527155	name:ENA nucleotide	normalName:ena nucleotide	normalWikiTitle:ena nucleotide	predictedType:Chemical
+CANDIDATE	id:9704	inCount:3	outCount:1	links:	url:D009704	name:Nucleoside Q	normalName:nucleoside q	normalWikiTitle:nucleoside q	predictedType:Chemical
+CANDIDATE	id:61350	inCount:0	outCount:2	links:	url:C061350	name:nauclecoside	normalName:nauclecoside	normalWikiTitle:nauclecoside	predictedType:Chemical
+CANDIDATE	id:11119	inCount:10	outCount:1	links:	url:D011119	name:Polynucleotides	normalName:polynucleotides	normalWikiTitle:polynucleotides	predictedType:Chemical
+CANDIDATE	id:13873	inCount:137	outCount:2	links:	url:D013873	name:Thionucleotides	normalName:thionucleotides	normalWikiTitle:thionucleotides	predictedType:Chemical
+CANDIDATE	id:12265	inCount:52	outCount:1	links:	url:D012265	name:Ribonucleotides	normalName:ribonucleotides	normalWikiTitle:ribonucleotides	predictedType:Chemical
+CANDIDATE	id:47542	inCount:0	outCount:1	links:	url:C047542	name:nucleoticidin	normalName:nucleoticidin	normalWikiTitle:nucleoticidin	predictedType:Chemical
+ENTITY	text:nucleoside	normalName:nucleoside	predictedType:chemical	q:true	qid:Q442	docId:18464113	origText:nucleoside	url:D009705
+CANDIDATE	id:9705	inCount:138	outCount:2	links:	url:D009705	name:Nucleosides	normalName:nucleosides	normalWikiTitle:nucleosides	predictedType:Chemical
+CANDIDATE	id:9704	inCount:3	outCount:1	links:	url:D009704	name:Nucleoside Q	normalName:nucleoside q	normalWikiTitle:nucleoside q	predictedType:Chemical
+CANDIDATE	id:61350	inCount:0	outCount:2	links:	url:C061350	name:nauclecoside	normalName:nauclecoside	normalWikiTitle:nauclecoside	predictedType:Chemical
+CANDIDATE	id:51634	inCount:0	outCount:1	links:	url:C051634	name:nucleoside oQ	normalName:nucleoside oq	normalWikiTitle:nucleoside oq	predictedType:Chemical
+CANDIDATE	id:9711	inCount:57	outCount:1	links:	url:D009711	name:Nucleotides	normalName:nucleotides	normalWikiTitle:nucleotides	predictedType:Chemical
+CANDIDATE	id:61349	inCount:0	outCount:2	links:	url:C061349	name:nauclecosidine	normalName:nauclecosidine	normalWikiTitle:nauclecosidine	predictedType:Chemical
+CANDIDATE	id:26376	inCount:0	outCount:1	links:	url:C026376	name:Q nucleotide	normalName:q nucleotide	normalWikiTitle:q nucleotide	predictedType:Chemical
+CANDIDATE	id:12263	inCount:99	outCount:1	links:	url:D012263	name:Ribonucleosides	normalName:ribonucleosides	normalWikiTitle:ribonucleosides	predictedType:Chemical
+CANDIDATE	id:13872	inCount:66	outCount:2	links:	url:D013872	name:Thionucleosides	normalName:thionucleosides	normalWikiTitle:thionucleosides	predictedType:Chemical
+CANDIDATE	id:609707	inCount:0	outCount:2	links:	url:C000609707	name:NZ51 nucleoside	normalName:nz51 nucleoside	normalWikiTitle:nz51 nucleoside	predictedType:Chemical
+ENTITY	text:lamivudin	normalName:lamivudin	predictedType:chemical	q:true	qid:Q442	docId:18464113	origText:lamivudin	url:D019259
+CANDIDATE	id:19259	inCount:14	outCount:1	links:	url:D019259	name:Lamivudine	normalName:lamivudine	normalWikiTitle:lamivudine	predictedType:Chemical
+CANDIDATE	id:38304	inCount:0	outCount:2	links:	url:C038304	name:lamtidine	normalName:lamtidine	normalWikiTitle:lamtidine	predictedType:Chemical
+CANDIDATE	id:90978	inCount:0	outCount:1	links:	url:C090978	name:lapidin	normalName:lapidin	normalWikiTitle:lapidin	predictedType:Chemical
+CANDIDATE	id:599090	inCount:0	outCount:1	links:	url:C000599090	name:samidin	normalName:samidin	normalWikiTitle:samidin	predictedType:Chemical
+CANDIDATE	id:554777	inCount:0	outCount:3	links:	url:C554777	name:lasmiditan	normalName:lasmiditan	normalWikiTitle:lasmiditan	predictedType:Chemical
+CANDIDATE	id:20918	inCount:0	outCount:1	links:	url:C020918	name:lidamidine	normalName:lidamidine	normalWikiTitle:lidamidine	predictedType:Chemical
+CANDIDATE	id:5894	inCount:0	outCount:1	links:	url:C005894	name:xylamidine	normalName:xylamidine	normalWikiTitle:xylamidine	predictedType:Chemical
+CANDIDATE	id:492479	inCount:0	outCount:1	links:	url:C492479	name:talaumidin	normalName:talaumidin	normalWikiTitle:talaumidin	predictedType:Chemical
+CANDIDATE	id:45397	inCount:0	outCount:1	links:	url:C045397	name:laminine	normalName:laminine	normalWikiTitle:laminine	predictedType:Chemical
+CANDIDATE	id:439410	inCount:0	outCount:2	links:	url:C439410	name:lumpidin	normalName:lumpidin	normalWikiTitle:lumpidin	predictedType:Chemical

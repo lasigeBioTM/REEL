@@ -1,0 +1,27 @@
+ENTITY	text:renal injury	normalName:renal injury	predictedType:disease	q:true	qid:Q950	docId:17028363	origText:renal injury	url:D058186
+CANDIDATE	id:58186	inCount:2	outCount:1	links:58186;5355;51437	url:D058186	name:Renal Injury, Acute	normalName:renal injury, acute	normalWikiTitle:renal injury, acute	predictedType:Disease
+CANDIDATE	id:49188	inCount:1	outCount:1	links:	url:D049188	name:Prenatal Injuries	normalName:prenatal injuries	normalWikiTitle:prenatal injuries	predictedType:Disease
+CANDIDATE	id:55370	inCount:5	outCount:2	links:58186	url:D055370	name:Lung Injury	normalName:lung injury	normalWikiTitle:lung injury	predictedType:Disease
+CANDIDATE	id:15427	inCount:2	outCount:2	links:	url:D015427	name:Reperfusion Injury	normalName:reperfusion injury	normalWikiTitle:reperfusion injury	predictedType:Disease
+CANDIDATE	id:13124	inCount:1	outCount:1	links:	url:D013124	name:Spinal Injuries	normalName:spinal injuries	normalWikiTitle:spinal injuries	predictedType:Disease
+CANDIDATE	id:51437	inCount:10	outCount:1	links:58186;5355;51437	url:D051437	name:Renal Insufficiency	normalName:renal insufficiency	normalWikiTitle:renal insufficiency	predictedType:Disease
+CANDIDATE	id:608	inCount:6	outCount:1	links:	url:D000608	name:Renal Aminoacidurias	normalName:renal aminoacidurias	normalWikiTitle:renal aminoacidurias	predictedType:Disease
+CANDIDATE	id:56844	inCount:0	outCount:2	links:	url:D056844	name:Renal Colic	normalName:renal colic	normalWikiTitle:renal colic	predictedType:Disease
+CANDIDATE	id:564873	inCount:0	outCount:1	links:	url:C564873	name:Prenatal Bowing	normalName:prenatal bowing	normalWikiTitle:prenatal bowing	predictedType:Disease
+CANDIDATE	id:13708	inCount:2	outCount:1	links:	url:D013708	name:Tendon Injuries	normalName:tendon injuries	normalWikiTitle:tendon injuries	predictedType:Disease
+CANDIDATE	id:61221	inCount:1	outCount:2	links:	url:D061221	name:Trigeminal Nerve Injuries	normalName:trigeminal nerve injuries	normalWikiTitle:trigeminal nerve injuries	predictedType:Disease
+CANDIDATE	id:49188	inCount:1	outCount:1	links:	url:D049188	name:Injury, Prenatal	normalName:injury, prenatal	normalWikiTitle:injury, prenatal	predictedType:Disease
+CANDIDATE	id:49188	inCount:1	outCount:1	links:	url:D049188	name:Prenatal Injury	normalName:prenatal injury	normalWikiTitle:prenatal injury	predictedType:Disease
+CANDIDATE	id:13313	inCount:0	outCount:1	links:	url:D013313	name:Moral Injury	normalName:moral injury	normalWikiTitle:moral injury	predictedType:Disease
+CANDIDATE	id:13313	inCount:0	outCount:1	links:	url:D013313	name:Injury, Moral	normalName:injury, moral	normalWikiTitle:injury, moral	predictedType:Disease
+CANDIDATE	id:13124	inCount:1	outCount:1	links:	url:D013124	name:Injury, Spinal	normalName:injury, spinal	normalWikiTitle:injury, spinal	predictedType:Disease
+CANDIDATE	id:58186	inCount:2	outCount:1	links:58186;5355;51437	url:D058186	name:Acute Renal Injury	normalName:acute renal injury	normalWikiTitle:acute renal injury	predictedType:Disease
+CANDIDATE	id:13124	inCount:1	outCount:1	links:	url:D013124	name:Spinal Injury	normalName:spinal injury	normalWikiTitle:spinal injury	predictedType:Disease
+ENTITY	text:renal failure	normalName:renal failure	predictedType:disease	q:true	qid:Q950	docId:17028363	origText:renal failure	url:D051437
+CANDIDATE	id:51437	inCount:10	outCount:1	links:58186;5355;51437	url:D051437	name:Renal Failure	normalName:renal failure	normalWikiTitle:renal failure	predictedType:Disease
+ENTITY	text:Acute renal failure	normalName:acute renal failure	predictedType:disease	q:true	qid:Q950	docId:17028363	origText:Acute renal failure	url:D058186
+CANDIDATE	id:58186	inCount:2	outCount:1	links:58186;5355;51437	url:D058186	name:Acute Renal Failure	normalName:acute renal failure	normalWikiTitle:acute renal failure	predictedType:Disease
+ENTITY	text:fibrosis	normalName:fibrosis	predictedType:disease	q:true	qid:Q950	docId:17028363	origText:fibrosis	url:D005355
+CANDIDATE	id:5355	inCount:11	outCount:1	links:58186;51437	url:D005355	name:Fibrosis	normalName:fibrosis	normalWikiTitle:fibrosis	predictedType:Disease
+ENTITY	text:atrophy	normalName:atrophy	predictedType:disease	q:true	qid:Q950	docId:17028363	origText:atrophy	url:D001284
+CANDIDATE	id:1284	inCount:3	outCount:1	links:	url:D001284	name:Atrophy	normalName:atrophy	normalWikiTitle:atrophy	predictedType:Disease

@@ -1,0 +1,4 @@
+ENTITY	text:amnesia	normalName:amnesia	predictedType:disease	q:true	qid:Q388	docId:15930398	origText:amnesia	url:D000647
+CANDIDATE	id:647	inCount:4	outCount:2	links:	url:D000647	name:Amnesia	normalName:amnesia	normalWikiTitle:amnesia	predictedType:Disease
+ENTITY	text:retrograde amnesia	normalName:retrograde amnesia	predictedType:disease	q:true	qid:Q388	docId:15930398	origText:retrograde amnesia	url:D000648
+CANDIDATE	id:648	inCount:0	outCount:1	links:	url:D000648	name:Amnesia, Retrograde	normalName:amnesia, retrograde	normalWikiTitle:amnesia, retrograde	predictedType:Disease

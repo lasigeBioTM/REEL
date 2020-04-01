@@ -1,0 +1,28 @@
+ENTITY	text:hepatocellular carcinoma	normalName:hepatocellular carcinoma	predictedType:disease	q:true	qid:Q174	docId:16629641	origText:hepatocellular carcinoma	url:D006528
+CANDIDATE	id:6528	inCount:3	outCount:2	links:	url:D006528	name:Carcinoma, Hepatocellular	normalName:carcinoma, hepatocellular	normalWikiTitle:carcinoma, hepatocellular	predictedType:Disease
+ENTITY	text:chronic hepatitis C	normalName:chronic hepatitis c	predictedType:disease	q:true	qid:Q174	docId:16629641	origText:chronic hepatitis C	url:D019698
+CANDIDATE	id:19698	inCount:0	outCount:2	links:	url:D019698	name:Hepatitis C, Chronic	normalName:hepatitis c, chronic	normalWikiTitle:hepatitis c, chronic	predictedType:Disease
+ENTITY	text:anemia	normalName:anemia	predictedType:disease	q:true	qid:Q174	docId:16629641	origText:anemia	url:D000740
+CANDIDATE	id:740	inCount:14	outCount:1	links:	url:D000740	name:Anemia	normalName:anemia	normalWikiTitle:anemia	predictedType:Disease
+ENTITY	text:hemolysis	normalName:hemolysis	predictedType:disease	q:true	qid:Q174	docId:16629641	origText:hemolysis	url:D006461
+CANDIDATE	id:6461	inCount:2	outCount:1	links:	url:D006461	name:Hemolysis	normalName:hemolysis	normalWikiTitle:hemolysis	predictedType:Disease
+ENTITY	text:Chronic infection with hepatitis C virus	normalName:chronic infection with hepatitis c virus	predictedType:disease	q:true	qid:Q174	docId:16629641	origText:Chronic infection with hepatitis C virus	url:D019698
+CANDIDATE	id:19698	inCount:0	outCount:2	links:	url:D019698	name:Hepatitis C, Chronic	normalName:hepatitis c, chronic	normalWikiTitle:hepatitis c, chronic	predictedType:Disease
+CANDIDATE	id:6522	inCount:0	outCount:3	links:	url:D006522	name:Hepatitis, Infectious Canine	normalName:hepatitis, infectious canine	normalWikiTitle:hepatitis, infectious canine	predictedType:Disease
+CANDIDATE	id:20031	inCount:4	outCount:2	links:	url:D020031	name:Epstein-Barr Virus Infections	normalName:epstein-barr virus infections	normalWikiTitle:epstein-barr virus infections	predictedType:Disease
+CANDIDATE	id:69544	inCount:1	outCount:2	links:	url:D000069544	name:Infectious Encephalitis	normalName:infectious encephalitis	normalWikiTitle:infectious encephalitis	predictedType:Disease
+CANDIDATE	id:19694	inCount:0	outCount:2	links:	url:D019694	name:Hepatitis B, Chronic	normalName:hepatitis b, chronic	normalWikiTitle:hepatitis b, chronic	predictedType:Disease
+CANDIDATE	id:6521	inCount:4	outCount:1	links:	url:D006521	name:Hepatitis, Chronic	normalName:hepatitis, chronic	normalWikiTitle:hepatitis, chronic	predictedType:Disease
+CANDIDATE	id:4266	inCount:9	outCount:1	links:	url:D004266	name:DNA Virus Infections	normalName:dna virus infections	normalWikiTitle:dna virus infections	predictedType:Disease
+CANDIDATE	id:4927	inCount:1	outCount:1	links:	url:D004927	name:Escherichia coli Infections	normalName:escherichia coli infections	normalWikiTitle:escherichia coli infections	predictedType:Disease
+CANDIDATE	id:18352	inCount:4	outCount:1	links:	url:D018352	name:Coronavirus Infections	normalName:coronavirus infections	normalWikiTitle:coronavirus infections	predictedType:Disease
+CANDIDATE	id:45464	inCount:0	outCount:1	links:	url:D045464	name:Henipavirus Infections	normalName:henipavirus infections	normalWikiTitle:henipavirus infections	predictedType:Disease
+CANDIDATE	id:19694	inCount:0	outCount:2	links:	url:D019694	name:Chronic Hepatitis B Virus Infection	normalName:chronic hepatitis b virus infection	normalWikiTitle:chronic hepatitis b virus infection	predictedType:Disease
+CANDIDATE	id:19694	inCount:0	outCount:2	links:	url:D019694	name:Hepatitis B Virus Infection, Chronic	normalName:hepatitis b virus infection, chronic	normalWikiTitle:hepatitis b virus infection, chronic	predictedType:Disease
+CANDIDATE	id:6509	inCount:1	outCount:2	links:	url:D006509	name:Hepatitis B Virus Infection	normalName:hepatitis b virus infection	normalWikiTitle:hepatitis b virus infection	predictedType:Disease
+ENTITY	text:cirrhosis	normalName:cirrhosis	predictedType:disease	q:true	qid:Q174	docId:16629641	origText:cirrhosis	url:D005355
+CANDIDATE	id:5355	inCount:11	outCount:1	links:	url:D005355	name:Cirrhosis	normalName:cirrhosis	normalWikiTitle:cirrhosis	predictedType:Disease
+ENTITY	text:end-stage liver disease	normalName:end-stage liver disease	predictedType:disease	q:true	qid:Q174	docId:16629641	origText:end-stage liver disease	url:D058625
+CANDIDATE	id:58625	inCount:0	outCount:1	links:	url:D058625	name:End Stage Liver Disease	normalName:end stage liver disease	normalWikiTitle:end stage liver disease	predictedType:Disease
+ENTITY	text:hemolytic anemia	normalName:hemolytic anemia	predictedType:disease	q:true	qid:Q174	docId:16629641	origText:hemolytic anemia	url:D000743
+CANDIDATE	id:743	inCount:20	outCount:1	links:	url:D000743	name:Anemia, Hemolytic	normalName:anemia, hemolytic	normalWikiTitle:anemia, hemolytic	predictedType:Disease

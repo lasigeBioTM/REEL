@@ -1,0 +1,28 @@
+ENTITY	text:thrombosis	normalName:thrombosis	predictedType:disease	q:true	qid:Q161	docId:24733133	origText:thrombosis	url:D013927
+CANDIDATE	id:13927	inCount:4	outCount:1	links:13921;54556;7676;20246;11655	url:D013927	name:Thrombosis	normalName:thrombosis	normalWikiTitle:thrombosis	predictedType:Disease
+ENTITY	text:upper-extremity deep venous thrombosis	normalName:upper-extremity deep venous thrombosis	predictedType:disease	q:true	qid:Q161	docId:24733133	origText:upper-extremity deep venous thrombosis	url:D056824
+CANDIDATE	id:56824	inCount:0	outCount:1	links:	url:D056824	name:Upper Extremity Deep Vein Thrombosis	normalName:upper extremity deep vein thrombosis	normalWikiTitle:upper extremity deep vein thrombosis	predictedType:Disease
+CANDIDATE	id:20246	inCount:5	outCount:1	links:13921;11655;13927	url:D020246	name:Venous Thrombosis	normalName:venous thrombosis	normalWikiTitle:venous thrombosis	predictedType:Disease
+CANDIDATE	id:54556	inCount:0	outCount:1	links:13921;11655;13927	url:D054556	name:Venous Thromboembolism	normalName:venous thromboembolism	normalWikiTitle:venous thromboembolism	predictedType:Disease
+CANDIDATE	id:16769	inCount:3	outCount:1	links:	url:D016769	name:Embolism and Thrombosis	normalName:embolism and thrombosis	normalWikiTitle:embolism and thrombosis	predictedType:Disease
+ENTITY	text:pulmonary embolism	normalName:pulmonary embolism	predictedType:disease	q:true	qid:Q161	docId:24733133	origText:pulmonary embolism	url:D011655
+CANDIDATE	id:11655	inCount:3	outCount:2	links:13921;54556;20246;13927	url:D011655	name:Pulmonary Embolism	normalName:pulmonary embolism	normalWikiTitle:pulmonary embolism	predictedType:Disease
+ENTITY	text:thrombocytopenia	normalName:thrombocytopenia	predictedType:disease	q:true	qid:Q161	docId:24733133	origText:thrombocytopenia	url:D013921
+CANDIDATE	id:13921	inCount:42	outCount:1	links:11655;54556;686;13927;20246;7676	url:D013921	name:Thrombocytopenia	normalName:thrombocytopenia	normalWikiTitle:thrombocytopenia	predictedType:Disease
+ENTITY	text:end-stage renal disease	normalName:end-stage renal disease	predictedType:disease	q:true	qid:Q161	docId:24733133	origText:end-stage renal disease	url:D007676
+CANDIDATE	id:7676	inCount:3	outCount:1	links:13921;13927	url:D007676	name:Renal Disease, End Stage	normalName:renal disease, end stage	normalWikiTitle:renal disease, end stage	predictedType:Disease
+ENTITY	text:amyloidosis	normalName:amyloidosis	predictedType:disease	q:true	qid:Q161	docId:24733133	origText:amyloidosis	url:D000686
+CANDIDATE	id:686	inCount:6	outCount:1	links:13921	url:D000686	name:Amyloidosis	normalName:amyloidosis	normalWikiTitle:amyloidosis	predictedType:Disease
+ENTITY	text:epistaxis	normalName:epistaxis	predictedType:disease	q:true	qid:Q161	docId:24733133	origText:epistaxis	url:D004844
+CANDIDATE	id:4844	inCount:1	outCount:3	links:	url:D004844	name:Epistaxis	normalName:epistaxis	normalWikiTitle:epistaxis	predictedType:Disease
+ENTITY	text:superior vena cava (SVC) syndrome	normalName:superior vena cava (svc) syndrome	predictedType:disease	q:true	qid:Q161	docId:24733133	origText:superior vena cava (SVC) syndrome	url:D013479
+CANDIDATE	id:13479	inCount:0	outCount:1	links:	url:D013479	name:Superior Vena Cava Syndrome	normalName:superior vena cava syndrome	normalWikiTitle:superior vena cava syndrome	predictedType:Disease
+CANDIDATE	id:4613	inCount:3	outCount:2	links:	url:D004613	name:Ellis-Van Creveld Syndrome	normalName:ellis-van creveld syndrome	normalWikiTitle:ellis-van creveld syndrome	predictedType:Disease
+CANDIDATE	id:55010	inCount:0	outCount:1	links:	url:D055010	name:Posterior Cervical Sympathetic Syndrome	normalName:posterior cervical sympathetic syndrome	normalWikiTitle:posterior cervical sympathetic syndrome	predictedType:Disease
+CANDIDATE	id:20817	inCount:2	outCount:1	links:	url:D020817	name:Asperger Syndrome	normalName:asperger syndrome	normalWikiTitle:asperger syndrome	predictedType:Disease
+CANDIDATE	id:535351	inCount:0	outCount:5	links:	url:C535351	name:CAPOS syndrome	normalName:capos syndrome	normalWikiTitle:capos syndrome	predictedType:Disease
+CANDIDATE	id:535677	inCount:0	outCount:3	links:	url:C535677	name:Richieri Costa Pereira syndrome	normalName:richieri costa pereira syndrome	normalWikiTitle:richieri costa pereira syndrome	predictedType:Disease
+CANDIDATE	id:615873	inCount:0	outCount:1	links:	url:615873	name:HELSMOORTEL-VAN DER AA SYNDROME	normalName:helsmoortel-van der aa syndrome	normalWikiTitle:helsmoortel-van der aa syndrome	predictedType:Disease
+CANDIDATE	id:536302	inCount:0	outCount:3	links:	url:C536302	name:Pascual Castroviejo syndrome	normalName:pascual castroviejo syndrome	normalWikiTitle:pascual castroviejo syndrome	predictedType:Disease
+CANDIDATE	id:535295	inCount:0	outCount:4	links:	url:C535295	name:Reardon Wilson Cavanagh syndrome	normalName:reardon wilson cavanagh syndrome	normalWikiTitle:reardon wilson cavanagh syndrome	predictedType:Disease
+CANDIDATE	id:55958	inCount:1	outCount:4	links:	url:D055958	name:Piriformis Muscle Syndrome	normalName:piriformis muscle syndrome	normalWikiTitle:piriformis muscle syndrome	predictedType:Disease

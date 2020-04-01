@@ -1,0 +1,4 @@
+ENTITY	text:adriamycin	normalName:adriamycin	predictedType:chemical	q:true	qid:Q267	docId:16092435	origText:adriamycin	url:D004317
+CANDIDATE	id:4317	inCount:559	outCount:1	links:	url:D004317	name:Adriamycin	normalName:adriamycin	normalWikiTitle:adriamycin	predictedType:Chemical
+ENTITY	text:d-ribose	normalName:d-ribose	predictedType:chemical	q:true	qid:Q267	docId:16092435	origText:d-ribose	url:D012266
+CANDIDATE	id:12266	inCount:40	outCount:1	links:	url:D012266	name:D Ribose	normalName:d ribose	normalWikiTitle:d ribose	predictedType:Chemical

@@ -1,0 +1,20 @@
+ENTITY	text:epilepsy	normalName:epilepsy	predictedType:disease	q:true	qid:Q35	docId:6415512	origText:epilepsy	url:D004827
+CANDIDATE	id:4827	inCount:52	outCount:1	links:	url:D004827	name:Epilepsy	normalName:epilepsy	normalWikiTitle:epilepsy	predictedType:Disease
+ENTITY	text:seizures	normalName:seizures	predictedType:disease	q:true	qid:Q35	docId:6415512	origText:seizures	url:D012640
+CANDIDATE	id:12640	inCount:53	outCount:1	links:	url:D012640	name:Seizure	normalName:seizure	normalWikiTitle:seizure	predictedType:Disease
+ENTITY	text:ceroid lipofuscinosis	normalName:ceroid lipofuscinosis	predictedType:disease	q:true	qid:Q35	docId:6415512	origText:ceroid lipofuscinosis	url:D009472
+CANDIDATE	id:9472	inCount:11	outCount:2	links:	url:D009472	name:Neuronal Ceroid-Lipofuscinosis	normalName:neuronal ceroid-lipofuscinosis	normalWikiTitle:neuronal ceroid-lipofuscinosis	predictedType:Disease
+CANDIDATE	id:566627	inCount:0	outCount:1	links:	url:C566627	name:Ceroid Lipofuscinosis, Neuronal, 6	normalName:ceroid lipofuscinosis, neuronal, 6	normalWikiTitle:ceroid lipofuscinosis, neuronal, 6	predictedType:Disease
+CANDIDATE	id:575534	inCount:0	outCount:1	links:	url:C575534	name:Ceroid lipofuscinosis, neuronal 5	normalName:ceroid lipofuscinosis, neuronal 5	normalWikiTitle:ceroid lipofuscinosis, neuronal 5	predictedType:Disease
+CANDIDATE	id:566857	inCount:0	outCount:1	links:	url:C566857	name:Ceroid Lipofuscinosis, Neuronal, 2	normalName:ceroid lipofuscinosis, neuronal, 2	normalWikiTitle:ceroid lipofuscinosis, neuronal, 2	predictedType:Disease
+CANDIDATE	id:564953	inCount:0	outCount:1	links:	url:C564953	name:Ceroid Lipofuscinosis, Neuronal, 1	normalName:ceroid lipofuscinosis, neuronal, 1	normalWikiTitle:ceroid lipofuscinosis, neuronal, 1	predictedType:Disease
+CANDIDATE	id:563989	inCount:0	outCount:1	links:	url:C563989	name:Ceroid Lipofuscinosis, Neuronal, 7	normalName:ceroid lipofuscinosis, neuronal, 7	normalWikiTitle:ceroid lipofuscinosis, neuronal, 7	predictedType:Disease
+CANDIDATE	id:537952	inCount:0	outCount:1	links:	url:C537952	name:Ceroid lipofuscinosis, neuronal 8	normalName:ceroid lipofuscinosis, neuronal 8	normalWikiTitle:ceroid lipofuscinosis, neuronal 8	predictedType:Disease
+CANDIDATE	id:537953	inCount:0	outCount:1	links:	url:C537953	name:Ceroid lipofuscinosis, neuronal 9	normalName:ceroid lipofuscinosis, neuronal 9	normalWikiTitle:ceroid lipofuscinosis, neuronal 9	predictedType:Disease
+CANDIDATE	id:9472	inCount:11	outCount:2	links:	url:D009472	name:Neuronal Ceroid-Lipofuscinoses	normalName:neuronal ceroid-lipofuscinoses	normalWikiTitle:neuronal ceroid-lipofuscinoses	predictedType:Disease
+CANDIDATE	id:615362	inCount:0	outCount:1	links:	url:615362	name:CEROID LIPOFUSCINOSIS, NEURONAL, 13	normalName:ceroid lipofuscinosis, neuronal, 13	normalWikiTitle:ceroid lipofuscinosis, neuronal, 13	predictedType:Disease
+CANDIDATE	id:614706	inCount:0	outCount:1	links:	url:614706	name:CEROID LIPOFUSCINOSIS, NEURONAL, 11	normalName:ceroid lipofuscinosis, neuronal, 11	normalWikiTitle:ceroid lipofuscinosis, neuronal, 11	predictedType:Disease
+CANDIDATE	id:9472	inCount:11	outCount:2	links:	url:D009472	name:Neuronal Ceroid Lipofuscinosis	normalName:neuronal ceroid lipofuscinosis	normalWikiTitle:neuronal ceroid lipofuscinosis	predictedType:Disease
+CANDIDATE	id:9472	inCount:11	outCount:2	links:	url:D009472	name:Ceroid Lipofuscinosis, Neuronal	normalName:ceroid lipofuscinosis, neuronal	normalWikiTitle:ceroid lipofuscinosis, neuronal	predictedType:Disease
+CANDIDATE	id:9472	inCount:11	outCount:2	links:	url:D009472	name:Ceroid-Lipofuscinosis, Neuronal	normalName:ceroid-lipofuscinosis, neuronal	normalWikiTitle:ceroid-lipofuscinosis, neuronal	predictedType:Disease
+CANDIDATE	id:9472	inCount:11	outCount:2	links:	url:D009472	name:Lipofuscinosis, Neuronal Ceroid	normalName:lipofuscinosis, neuronal ceroid	normalWikiTitle:lipofuscinosis, neuronal ceroid	predictedType:Disease

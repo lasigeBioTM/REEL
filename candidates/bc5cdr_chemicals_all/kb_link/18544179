@@ -1,0 +1,4 @@
+ENTITY	text:fentanyl	normalName:fentanyl	predictedType:chemical	q:true	qid:Q198	docId:18544179	origText:fentanyl	url:D005283
+CANDIDATE	id:5283	inCount:40	outCount:1	links:	url:D005283	name:Fentanyl	normalName:fentanyl	normalWikiTitle:fentanyl	predictedType:Chemical
+ENTITY	text:dexamethasone	normalName:dexamethasone	predictedType:chemical	q:true	qid:Q198	docId:18544179	origText:dexamethasone	url:D003907
+CANDIDATE	id:3907	inCount:138	outCount:2	links:	url:D003907	name:Dexamethasone	normalName:dexamethasone	normalWikiTitle:dexamethasone	predictedType:Chemical

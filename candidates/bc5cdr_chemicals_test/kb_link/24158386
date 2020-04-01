@@ -1,0 +1,6 @@
+ENTITY	text:methylprednisolone	normalName:methylprednisolone	predictedType:chemical	q:true	qid:Q113	docId:24158386	origText:methylprednisolone	url:D008775
+CANDIDATE	id:8775	inCount:29	outCount:1	links:	url:D008775	name:Methylprednisolone	normalName:methylprednisolone	normalWikiTitle:methylprednisolone	predictedType:Chemical
+ENTITY	text:Gemcitabine	normalName:gemcitabine	predictedType:chemical	q:true	qid:Q113	docId:24158386	origText:Gemcitabine	url:C056507
+CANDIDATE	id:56507	inCount:0	outCount:1	links:	url:C056507	name:gemcitabine	normalName:gemcitabine	normalWikiTitle:gemcitabine	predictedType:Chemical
+ENTITY	text:cisplatin	normalName:cisplatin	predictedType:chemical	q:true	qid:Q113	docId:24158386	origText:cisplatin	url:D002945
+CANDIDATE	id:2945	inCount:293	outCount:3	links:	url:D002945	name:Cisplatin	normalName:cisplatin	normalWikiTitle:cisplatin	predictedType:Chemical

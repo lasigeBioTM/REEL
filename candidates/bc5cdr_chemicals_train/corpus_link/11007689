@@ -1,0 +1,4 @@
+ENTITY	text:tacrolimus	normalName:tacrolimus	predictedType:chemical	q:true	qid:Q320	docId:11007689	origText:tacrolimus	url:D016559
+CANDIDATE	id:16559	inCount:40	outCount:1	links:16572	url:D016559	name:Tacrolimus	normalName:tacrolimus	normalWikiTitle:tacrolimus	predictedType:Chemical
+ENTITY	text:Cyclosporine	normalName:cyclosporine	predictedType:chemical	q:true	qid:Q320	docId:11007689	origText:Cyclosporine	url:D016572
+CANDIDATE	id:16572	inCount:14	outCount:1	links:16559	url:D016572	name:Cyclosporine	normalName:cyclosporine	normalWikiTitle:cyclosporine	predictedType:Chemical

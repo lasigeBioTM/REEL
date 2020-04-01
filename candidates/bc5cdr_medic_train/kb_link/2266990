@@ -1,0 +1,71 @@
+ENTITY	text:gastrointestinal symptoms	normalName:gastrointestinal symptoms	predictedType:disease	q:true	qid:Q151	docId:2266990	origText:gastrointestinal symptoms	url:D012817
+CANDIDATE	id:12817	inCount:18	outCount:1	links:	url:D012817	name:Signs and Symptoms, Digestive	normalName:signs and symptoms, digestive	normalWikiTitle:signs and symptoms, digestive	predictedType:Disease
+CANDIDATE	id:46152	inCount:2	outCount:2	links:	url:D046152	name:Gastrointestinal Stromal Tumors	normalName:gastrointestinal stromal tumors	normalWikiTitle:gastrointestinal stromal tumors	predictedType:Disease
+CANDIDATE	id:5770	inCount:7	outCount:2	links:	url:D005770	name:Gastrointestinal Neoplasms	normalName:gastrointestinal neoplasms	normalWikiTitle:gastrointestinal neoplasms	predictedType:Disease
+CANDIDATE	id:14385	inCount:0	outCount:2	links:	url:D014385	name:Tuberculosis, Gastrointestinal	normalName:tuberculosis, gastrointestinal	normalWikiTitle:tuberculosis, gastrointestinal	predictedType:Disease
+CANDIDATE	id:6471	inCount:3	outCount:2	links:	url:D006471	name:Gastrointestinal Hemorrhage	normalName:gastrointestinal hemorrhage	normalWikiTitle:gastrointestinal hemorrhage	predictedType:Disease
+CANDIDATE	id:7417	inCount:1	outCount:1	links:	url:D007417	name:Intestinal Polyps	normalName:intestinal polyps	normalWikiTitle:intestinal polyps	predictedType:Disease
+CANDIDATE	id:44483	inCount:4	outCount:1	links:	url:D044483	name:Intestinal Polyposis	normalName:intestinal polyposis	normalWikiTitle:intestinal polyposis	predictedType:Disease
+CANDIDATE	id:571911	inCount:0	outCount:2	links:	url:C571911	name:Gastrointestinal anthrax	normalName:gastrointestinal anthrax	normalWikiTitle:gastrointestinal anthrax	predictedType:Disease
+CANDIDATE	id:562842	inCount:0	outCount:2	links:	url:C562842	name:Carcinoid Tumors, Intestinal	normalName:carcinoid tumors, intestinal	normalWikiTitle:carcinoid tumors, intestinal	predictedType:Disease
+CANDIDATE	id:12816	inCount:38	outCount:1	links:	url:D012816	name:Signs and Symptoms	normalName:signs and symptoms	normalWikiTitle:signs and symptoms	predictedType:Disease
+ENTITY	text:decreased appetite	normalName:decreased appetite	predictedType:disease	q:true	qid:Q151	docId:2266990	origText:decreased appetite	url:D001068
+CANDIDATE	id:1068	inCount:10	outCount:1	links:	url:D001068	name:Appetite Disorder	normalName:appetite disorder	normalWikiTitle:appetite disorder	predictedType:Disease
+CANDIDATE	id:20969	inCount:17	outCount:1	links:	url:D020969	name:Disease Attributes	normalName:disease attributes	normalWikiTitle:disease attributes	predictedType:Disease
+CANDIDATE	id:2418	inCount:16	outCount:1	links:	url:D002418	name:Cattle Diseases	normalName:cattle diseases	normalWikiTitle:cattle diseases	predictedType:Disease
+CANDIDATE	id:18420	inCount:0	outCount:1	links:	url:D018420	name:Ape Diseases	normalName:ape diseases	normalWikiTitle:ape diseases	predictedType:Disease
+CANDIDATE	id:19969	inCount:0	outCount:1	links:	url:D019969	name:Amphetamine-Related Disorders	normalName:amphetamine-related disorders	normalWikiTitle:amphetamine-related disorders	predictedType:Disease
+CANDIDATE	id:208	inCount:0	outCount:1	links:	url:D000208	name:Acute Disease	normalName:acute disease	normalWikiTitle:acute disease	predictedType:Disease
+CANDIDATE	id:544	inCount:26	outCount:2	links:	url:D000544	name:Alzheimer Disease	normalName:alzheimer disease	normalWikiTitle:alzheimer disease	predictedType:Disease
+CANDIDATE	id:7644	inCount:7	outCount:2	links:	url:D007644	name:Darier Disease	normalName:darier disease	normalWikiTitle:darier disease	predictedType:Disease
+CANDIDATE	id:2357	inCount:10	outCount:2	links:	url:D002357	name:Cartilage Diseases	normalName:cartilage diseases	normalWikiTitle:cartilage diseases	predictedType:Disease
+CANDIDATE	id:1018	inCount:6	outCount:1	links:	url:D001018	name:Aortic Diseases	normalName:aortic diseases	normalWikiTitle:aortic diseases	predictedType:Disease
+CANDIDATE	id:565325	inCount:0	outCount:1	links:	url:C565325	name:Alzheimer Disease 6	normalName:alzheimer disease 6	normalWikiTitle:alzheimer disease 6	predictedType:Disease
+CANDIDATE	id:1068	inCount:10	outCount:1	links:	url:D001068	name:Appetite Disorders	normalName:appetite disorders	normalWikiTitle:appetite disorders	predictedType:Disease
+CANDIDATE	id:20969	inCount:17	outCount:1	links:	url:D020969	name:Attribute, Disease	normalName:attribute, disease	normalWikiTitle:attribute, disease	predictedType:Disease
+CANDIDATE	id:20969	inCount:17	outCount:1	links:	url:D020969	name:Disease Attribute	normalName:disease attribute	normalWikiTitle:disease attribute	predictedType:Disease
+CANDIDATE	id:2418	inCount:16	outCount:1	links:	url:D002418	name:Cattle Disease	normalName:cattle disease	normalWikiTitle:cattle disease	predictedType:Disease
+CANDIDATE	id:9472	inCount:11	outCount:2	links:	url:D009472	name:Batten Disease	normalName:batten disease	normalWikiTitle:batten disease	predictedType:Disease
+CANDIDATE	id:2418	inCount:16	outCount:1	links:	url:D002418	name:Disease, Cattle	normalName:disease, cattle	normalWikiTitle:disease, cattle	predictedType:Disease
+CANDIDATE	id:18420	inCount:0	outCount:1	links:	url:D018420	name:Disease, Ape	normalName:disease, ape	normalWikiTitle:disease, ape	predictedType:Disease
+CANDIDATE	id:18420	inCount:0	outCount:1	links:	url:D018420	name:Ape Disease	normalName:ape disease	normalWikiTitle:ape disease	predictedType:Disease
+CANDIDATE	id:20233	inCount:2	outCount:1	links:	url:D020233	name:Widebased Gait	normalName:widebased gait	normalWikiTitle:widebased gait	predictedType:Disease
+ENTITY	text:weakness	normalName:weakness	predictedType:disease	q:true	qid:Q151	docId:2266990	origText:weakness	url:D018908
+CANDIDATE	id:18908	inCount:6	outCount:3	links:	url:D018908	name:Muscle Weakness	normalName:muscle weakness	normalWikiTitle:muscle weakness	predictedType:Disease
+CANDIDATE	id:3638	inCount:110	outCount:1	links:	url:D003638	name:Deafness	normalName:deafness	normalWikiTitle:deafness	predictedType:Disease
+CANDIDATE	id:4775	inCount:2	outCount:2	links:	url:D004775	name:Enuresis	normalName:enuresis	normalWikiTitle:enuresis	predictedType:Disease
+CANDIDATE	id:6948	inCount:1	outCount:1	links:	url:D006948	name:Hyperkinesis	normalName:hyperkinesis	normalWikiTitle:hyperkinesis	predictedType:Disease
+CANDIDATE	id:8548	inCount:4	outCount:1	links:	url:D008548	name:Melanosis	normalName:melanosis	normalWikiTitle:melanosis	predictedType:Disease
+CANDIDATE	id:566019	inCount:0	outCount:1	links:	url:C566019	name:Tune Deafness	normalName:tune deafness	normalWikiTitle:tune deafness	predictedType:Disease
+CANDIDATE	id:4428	inCount:0	outCount:2	links:	url:D004428	name:Ear Neoplasms	normalName:ear neoplasms	normalWikiTitle:ear neoplasms	predictedType:Disease
+CANDIDATE	id:64793	inCount:0	outCount:1	links:	url:D064793	name:Teratogenesis	normalName:teratogenesis	normalWikiTitle:teratogenesis	predictedType:Disease
+CANDIDATE	id:46608	inCount:2	outCount:1	links:	url:D046608	name:Synkinesis	normalName:synkinesis	normalWikiTitle:synkinesis	predictedType:Disease
+CANDIDATE	id:77260	inCount:0	outCount:1	links:	url:D000077260	name:Sleepiness	normalName:sleepiness	normalWikiTitle:sleepiness	predictedType:Disease
+ENTITY	text:Duchenne dystrophy	normalName:duchenne dystrophy	predictedType:disease	q:true	qid:Q151	docId:2266990	origText:Duchenne dystrophy	url:D020388
+CANDIDATE	id:20388	inCount:1	outCount:2	links:	url:D020388	name:Muscular Dystrophy, Duchenne	normalName:muscular dystrophy, duchenne	normalWikiTitle:muscular dystrophy, duchenne	predictedType:Disease
+CANDIDATE	id:77765	inCount:1	outCount:2	links:	url:D000077765	name:Cone Dystrophy	normalName:cone dystrophy	normalWikiTitle:cone dystrophy	predictedType:Disease
+CANDIDATE	id:567758	inCount:0	outCount:1	links:	url:C567758	name:Cone Dystrophy 4	normalName:cone dystrophy 4	normalWikiTitle:cone dystrophy 4	predictedType:Disease
+CANDIDATE	id:566579	inCount:0	outCount:1	links:	url:C566579	name:Cone Dystrophy 3	normalName:cone dystrophy 3	normalWikiTitle:cone dystrophy 3	predictedType:Disease
+CANDIDATE	id:612775	inCount:0	outCount:1	links:	url:612775	name:CONE-ROD DYSTROPHY 9	normalName:cone-rod dystrophy 9	normalWikiTitle:cone-rod dystrophy 9	predictedType:Disease
+CANDIDATE	id:565827	inCount:0	outCount:1	links:	url:C565827	name:Cone-Rod Dystrophy 3	normalName:cone-rod dystrophy 3	normalWikiTitle:cone-rod dystrophy 3	predictedType:Disease
+CANDIDATE	id:326	inCount:3	outCount:5	links:	url:D000326	name:Adrenoleukodystrophy	normalName:adrenoleukodystrophy	normalWikiTitle:adrenoleukodystrophy	predictedType:Disease
+CANDIDATE	id:120970	inCount:0	outCount:1	links:	url:120970	name:CONE-ROD DYSTROPHY 2	normalName:cone-rod dystrophy 2	normalWikiTitle:cone-rod dystrophy 2	predictedType:Disease
+CANDIDATE	id:566350	inCount:0	outCount:1	links:	url:C566350	name:Cone-Rod Dystrophy 7	normalName:cone-rod dystrophy 7	normalWikiTitle:cone-rod dystrophy 7	predictedType:Disease
+CANDIDATE	id:563415	inCount:0	outCount:1	links:	url:C563415	name:Cone-Rod Dystrophy 5	normalName:cone-rod dystrophy 5	normalWikiTitle:cone-rod dystrophy 5	predictedType:Disease
+ENTITY	text:dry mouth	normalName:dry mouth	predictedType:disease	q:true	qid:Q151	docId:2266990	origText:dry mouth	url:D014987
+CANDIDATE	id:14987	inCount:1	outCount:1	links:	url:D014987	name:Mouth Dryness	normalName:mouth dryness	normalWikiTitle:mouth dryness	predictedType:Disease
+CANDIDATE	id:4368	inCount:0	outCount:1	links:	url:D004368	name:Dry Socket	normalName:dry socket	normalWikiTitle:dry socket	predictedType:Disease
+CANDIDATE	id:9059	inCount:32	outCount:1	links:	url:D009059	name:Mouth Diseases	normalName:mouth diseases	normalWikiTitle:mouth diseases	predictedType:Disease
+CANDIDATE	id:536607	inCount:0	outCount:1	links:	url:C536607	name:Brody myopathy	normalName:brody myopathy	normalWikiTitle:brody myopathy	predictedType:Disease
+CANDIDATE	id:9058	inCount:0	outCount:2	links:	url:D009058	name:Mouth Breathing	normalName:mouth breathing	normalWikiTitle:mouth breathing	predictedType:Disease
+CANDIDATE	id:9066	inCount:1	outCount:2	links:	url:D009066	name:Mouth, Edentulous	normalName:mouth, edentulous	normalWikiTitle:mouth, edentulous	predictedType:Disease
+CANDIDATE	id:536962	inCount:0	outCount:3	links:	url:C536962	name:Timothy syndrome	normalName:timothy syndrome	normalWikiTitle:timothy syndrome	predictedType:Disease
+CANDIDATE	id:9223	inCount:1	outCount:3	links:	url:D009223	name:Myotonic Dystrophy	normalName:myotonic dystrophy	normalWikiTitle:myotonic dystrophy	predictedType:Disease
+CANDIDATE	id:536748	inCount:0	outCount:2	links:	url:C536748	name:Worth syndrome	normalName:worth syndrome	normalWikiTitle:worth syndrome	predictedType:Disease
+CANDIDATE	id:14987	inCount:1	outCount:1	links:	url:D014987	name:Dryness, Mouth	normalName:dryness, mouth	normalWikiTitle:dryness, mouth	predictedType:Disease
+CANDIDATE	id:9062	inCount:6	outCount:2	links:	url:D009062	name:Cancer, Mouth	normalName:cancer, mouth	normalWikiTitle:cancer, mouth	predictedType:Disease
+CANDIDATE	id:9062	inCount:6	outCount:2	links:	url:D009062	name:Mouth Cancer	normalName:mouth cancer	normalWikiTitle:mouth cancer	predictedType:Disease
+CANDIDATE	id:9062	inCount:6	outCount:2	links:	url:D009062	name:Mouth Cancers	normalName:mouth cancers	normalWikiTitle:mouth cancers	predictedType:Disease
+CANDIDATE	id:9059	inCount:32	outCount:1	links:	url:D009059	name:Mouth Disease	normalName:mouth disease	normalWikiTitle:mouth disease	predictedType:Disease
+CANDIDATE	id:9062	inCount:6	outCount:2	links:	url:D009062	name:Cancers, Mouth	normalName:cancers, mouth	normalWikiTitle:cancers, mouth	predictedType:Disease
+CANDIDATE	id:9059	inCount:32	outCount:1	links:	url:D009059	name:Disease, Mouth	normalName:disease, mouth	normalWikiTitle:disease, mouth	predictedType:Disease

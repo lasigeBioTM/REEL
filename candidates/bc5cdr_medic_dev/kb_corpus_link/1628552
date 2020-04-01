@@ -1,0 +1,60 @@
+ENTITY	text:syncopal attacks	normalName:syncopal attacks	predictedType:disease	q:true	qid:Q93	docId:1628552	origText:syncopal attacks	url:D013575
+CANDIDATE	id:13575	inCount:2	outCount:1	links:1766;2037;6333;5221;4417;4244	url:D013575	name:Attack, Drop	normalName:attack, drop	normalWikiTitle:attack, drop	predictedType:Disease
+CANDIDATE	id:13581	inCount:1	outCount:1	links:	url:D013581	name:Synovial Cyst	normalName:synovial cyst	normalWikiTitle:synovial cyst	predictedType:Disease
+CANDIDATE	id:20386	inCount:0	outCount:2	links:	url:D020386	name:Isaacs Syndrome	normalName:isaacs syndrome	normalWikiTitle:isaacs syndrome	predictedType:Disease
+CANDIDATE	id:13584	inCount:0	outCount:2	links:	url:D013584	name:Sarcoma, Synovial	normalName:sarcoma, synovial	normalWikiTitle:sarcoma, synovial	predictedType:Disease
+CANDIDATE	id:535388	inCount:0	outCount:3	links:	url:C535388	name:Arts syndrome	normalName:arts syndrome	normalWikiTitle:arts syndrome	predictedType:Disease
+CANDIDATE	id:564650	inCount:0	outCount:2	links:	url:C564650	name:Carney-Stratakis Syndrome	normalName:carney-stratakis syndrome	normalWikiTitle:carney-stratakis syndrome	predictedType:Disease
+CANDIDATE	id:190900	inCount:0	outCount:1	links:	url:190900	name:TRITANOPIA	normalName:tritanopia	normalWikiTitle:tritanopia	predictedType:Disease
+CANDIDATE	id:566156	inCount:0	outCount:1	links:	url:C566156	name:Cataract, Nuclear Total	normalName:cataract, nuclear total	normalWikiTitle:cataract, nuclear total	predictedType:Disease
+CANDIDATE	id:4933	inCount:3	outCount:2	links:	url:D004933	name:Esophageal Atresia	normalName:esophageal atresia	normalWikiTitle:esophageal atresia	predictedType:Disease
+CANDIDATE	id:538195	inCount:0	outCount:1	links:	url:C538195	name:Atkin syndrome	normalName:atkin syndrome	normalWikiTitle:atkin syndrome	predictedType:Disease
+CANDIDATE	id:536384	inCount:0	outCount:5	links:	url:C536384	name:FACES syndrome	normalName:faces syndrome	normalWikiTitle:faces syndrome	predictedType:Disease
+CANDIDATE	id:13036	inCount:49	outCount:2	links:	url:D013036	name:Attacks, Salaam	normalName:attacks, salaam	normalWikiTitle:attacks, salaam	predictedType:Disease
+CANDIDATE	id:13036	inCount:49	outCount:2	links:	url:D013036	name:Salaam Attacks	normalName:salaam attacks	normalWikiTitle:salaam attacks	predictedType:Disease
+CANDIDATE	id:13575	inCount:2	outCount:1	links:1766;2037;6333;5221;4417;4244	url:D013575	name:Drop Attacks	normalName:drop attacks	normalWikiTitle:drop attacks	predictedType:Disease
+CANDIDATE	id:16584	inCount:2	outCount:1	links:	url:D016584	name:Panic Attacks	normalName:panic attacks	normalWikiTitle:panic attacks	predictedType:Disease
+CANDIDATE	id:16584	inCount:2	outCount:1	links:	url:D016584	name:Attacks, Panic	normalName:attacks, panic	normalWikiTitle:attacks, panic	predictedType:Disease
+CANDIDATE	id:13575	inCount:2	outCount:1	links:1766;2037;6333;5221;4417;4244	url:D013575	name:Drop Attack	normalName:drop attack	normalWikiTitle:drop attack	predictedType:Disease
+CANDIDATE	id:2385	inCount:0	outCount:1	links:	url:D002385	name:Attacks, Cataleptic	normalName:attacks, cataleptic	normalWikiTitle:attacks, cataleptic	predictedType:Disease
+CANDIDATE	id:2385	inCount:0	outCount:1	links:	url:D002385	name:Cataleptic Attacks	normalName:cataleptic attacks	normalWikiTitle:cataleptic attacks	predictedType:Disease
+CANDIDATE	id:16584	inCount:2	outCount:1	links:	url:D016584	name:Panic Attack	normalName:panic attack	normalWikiTitle:panic attack	predictedType:Disease
+ENTITY	text:right bundle branch block	normalName:right bundle branch block	predictedType:disease	q:true	qid:Q93	docId:1628552	origText:right bundle branch block	url:D002037
+CANDIDATE	id:2037	inCount:1	outCount:1	links:1766;6333;13575;5221;4417;4244	url:D002037	name:Right Bundle-Branch Block	normalName:right bundle-branch block	normalWikiTitle:right bundle-branch block	predictedType:Disease
+ENTITY	text:heart block	normalName:heart block	predictedType:disease	q:true	qid:Q93	docId:1628552	origText:heart block	url:D006327
+CANDIDATE	id:6327	inCount:13	outCount:2	links:6333	url:D006327	name:Heart Block	normalName:heart block	normalWikiTitle:heart block	predictedType:Disease
+ENTITY	text:dyspnoea	normalName:dyspnoea	predictedType:disease	q:true	qid:Q93	docId:1628552	origText:dyspnoea	url:D004417
+CANDIDATE	id:4417	inCount:1	outCount:2	links:1766;2037;6333;13575;5221;4244	url:D004417	name:Dyspnea	normalName:dyspnea	normalWikiTitle:dyspnea	predictedType:Disease
+CANDIDATE	id:4415	inCount:0	outCount:1	links:	url:D004415	name:Dyspepsia	normalName:dyspepsia	normalWikiTitle:dyspepsia	predictedType:Disease
+CANDIDATE	id:55154	inCount:1	outCount:1	links:	url:D055154	name:Dysphonia	normalName:dysphonia	normalWikiTitle:dysphonia	predictedType:Disease
+CANDIDATE	id:4412	inCount:0	outCount:2	links:	url:D004412	name:Dysmenorrhea	normalName:dysmenorrhea	normalWikiTitle:dysmenorrhea	predictedType:Disease
+CANDIDATE	id:4414	inCount:0	outCount:2	links:	url:D004414	name:Dyspareunia	normalName:dyspareunia	normalWikiTitle:dyspareunia	predictedType:Disease
+CANDIDATE	id:20820	inCount:25	outCount:2	links:	url:D020820	name:Dyskinesias	normalName:dyskinesias	normalWikiTitle:dyskinesias	predictedType:Disease
+CANDIDATE	id:4410	inCount:2	outCount:2	links:	url:D004410	name:Dyslexia	normalName:dyslexia	normalWikiTitle:dyslexia	predictedType:Disease
+CANDIDATE	id:4421	inCount:16	outCount:1	links:	url:D004421	name:Dystonia	normalName:dystonia	normalWikiTitle:dystonia	predictedType:Disease
+CANDIDATE	id:4420	inCount:1	outCount:1	links:	url:D004420	name:Dystocia	normalName:dystocia	normalWikiTitle:dystocia	predictedType:Disease
+CANDIDATE	id:1049	inCount:3	outCount:2	links:	url:D001049	name:Apnea	normalName:apnea	normalWikiTitle:apnea	predictedType:Disease
+ENTITY	text:dizziness	normalName:dizziness	predictedType:disease	q:true	qid:Q93	docId:1628552	origText:dizziness	url:D004244
+CANDIDATE	id:4244	inCount:1	outCount:1	links:1766;2037;6333;13575;5221;4417	url:D004244	name:Dizziness	normalName:dizziness	normalWikiTitle:dizziness	predictedType:Disease
+ENTITY	text:heart failure	normalName:heart failure	predictedType:disease	q:true	qid:Q93	docId:1628552	origText:heart failure	url:D006333
+CANDIDATE	id:6333	inCount:5	outCount:1	links:1766;2037;6327;13575;5221;4417;4244	url:D006333	name:Heart Failure	normalName:heart failure	normalWikiTitle:heart failure	predictedType:Disease
+ENTITY	text:blind	normalName:blind	predictedType:disease	q:true	qid:Q93	docId:1628552	origText:blind	url:D001766
+CANDIDATE	id:1766	inCount:11	outCount:1	links:1766;2037;6333;13575;5221;4417;4244	url:D001766	name:Blindness	normalName:blindness	normalWikiTitle:blindness	predictedType:Disease
+CANDIDATE	id:5715	inCount:0	outCount:1	links:	url:D005715	name:Gambling	normalName:gambling	normalWikiTitle:gambling	predictedType:Disease
+CANDIDATE	id:7627	inCount:2	outCount:2	links:	url:D007627	name:Keloid	normalName:keloid	normalWikiTitle:keloid	predictedType:Disease
+CANDIDATE	id:71378	inCount:1	outCount:1	links:	url:D000071378	name:Bunion	normalName:bunion	normalWikiTitle:bunion	predictedType:Disease
+CANDIDATE	id:2647	inCount:2	outCount:1	links:	url:D002647	name:Chilblains	normalName:chilblains	normalWikiTitle:chilblains	predictedType:Disease
+ENTITY	text:blindness	normalName:blindness	predictedType:disease	q:true	qid:Q93	docId:1628552	origText:blindness	url:D001766
+CANDIDATE	id:1766	inCount:11	outCount:1	links:1766;2037;6333;13575;5221;4417;4244	url:D001766	name:Blindness	normalName:blindness	normalWikiTitle:blindness	predictedType:Disease
+ENTITY	text:fatiguability	normalName:fatiguability	predictedType:disease	q:true	qid:Q93	docId:1628552	origText:fatiguability	url:D005221
+CANDIDATE	id:5221	inCount:2	outCount:1	links:1766;2037;6333;13575;4417;4244	url:D005221	name:Fatigue	normalName:fatigue	normalWikiTitle:fatigue	predictedType:Disease
+CANDIDATE	id:1656	inCount:2	outCount:2	links:	url:D001656	name:Biliary Atresia	normalName:biliary atresia	normalWikiTitle:biliary atresia	predictedType:Disease
+CANDIDATE	id:73496	inCount:0	outCount:1	links:	url:D000073496	name:Frailty	normalName:frailty	normalWikiTitle:frailty	predictedType:Disease
+CANDIDATE	id:5222	inCount:2	outCount:1	links:	url:D005222	name:Mental Fatigue	normalName:mental fatigue	normalWikiTitle:mental fatigue	predictedType:Disease
+CANDIDATE	id:7246	inCount:2	outCount:2	links:	url:D007246	name:Infertility	normalName:infertility	normalWikiTitle:infertility	predictedType:Disease
+CANDIDATE	id:20234	inCount:0	outCount:2	links:	url:D020234	name:Gait Ataxia	normalName:gait ataxia	normalWikiTitle:gait ataxia	predictedType:Disease
+CANDIDATE	id:51346	inCount:0	outCount:1	links:	url:D051346	name:Mobility Limitation	normalName:mobility limitation	normalWikiTitle:mobility limitation	predictedType:Disease
+CANDIDATE	id:7593	inCount:21	outCount:1	links:	url:D007593	name:Joint Instability	normalName:joint instability	normalWikiTitle:joint instability	predictedType:Disease
+CANDIDATE	id:535884	inCount:0	outCount:1	links:	url:C535884	name:Joint laxity, familial	normalName:joint laxity, familial	normalWikiTitle:joint laxity, familial	predictedType:Disease
+CANDIDATE	id:7247	inCount:4	outCount:1	links:	url:D007247	name:Infertility, Female	normalName:infertility, female	normalWikiTitle:infertility, female	predictedType:Disease
+CANDIDATE	id:19851	inCount:16	outCount:1	links:	url:D019851	name:Hypercoagulability	normalName:hypercoagulability	normalWikiTitle:hypercoagulability	predictedType:Disease

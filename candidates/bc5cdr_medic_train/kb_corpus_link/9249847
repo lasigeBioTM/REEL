@@ -1,0 +1,18 @@
+ENTITY	text:idiopathic dilated cardiomyopathy	normalName:idiopathic dilated cardiomyopathy	predictedType:disease	q:true	qid:Q28	docId:9249847	origText:idiopathic dilated cardiomyopathy	url:D002311
+CANDIDATE	id:2311	inCount:50	outCount:2	links:	url:D002311	name:Idiopathic Dilated Cardiomyopathy	normalName:idiopathic dilated cardiomyopathy	normalWikiTitle:idiopathic dilated cardiomyopathy	predictedType:Disease
+ENTITY	text:WPW syndrome	normalName:wpw syndrome	predictedType:disease	q:true	qid:Q28	docId:9249847	origText:WPW syndrome	url:D014927
+CANDIDATE	id:14927	inCount:0	outCount:2	links:14927	url:D014927	name:WPW Syndrome	normalName:wpw syndrome	normalWikiTitle:wpw syndrome	predictedType:Disease
+ENTITY	text:atrioventricular reentrant tachycardia	normalName:atrioventricular reentrant tachycardia	predictedType:disease	q:true	qid:Q28	docId:9249847	origText:atrioventricular reentrant tachycardia	url:D013611
+CANDIDATE	id:13611	inCount:0	outCount:1	links:	url:D013611	name:Atrioventricular Nodal Reentrant Tachycardia	normalName:atrioventricular nodal reentrant tachycardia	normalWikiTitle:atrioventricular nodal reentrant tachycardia	predictedType:Disease
+CANDIDATE	id:13611	inCount:0	outCount:1	links:	url:D013611	name:Tachycardia, Atrioventricular Nodal Reentry	normalName:tachycardia, atrioventricular nodal reentry	normalWikiTitle:tachycardia, atrioventricular nodal reentry	predictedType:Disease
+CANDIDATE	id:13617	inCount:3	outCount:1	links:	url:D013617	name:Tachycardia, Supraventricular	normalName:tachycardia, supraventricular	normalWikiTitle:tachycardia, supraventricular	predictedType:Disease
+CANDIDATE	id:536112	inCount:0	outCount:1	links:	url:C536112	name:Partial atrioventricular canal	normalName:partial atrioventricular canal	normalWikiTitle:partial atrioventricular canal	predictedType:Disease
+CANDIDATE	id:562831	inCount:0	outCount:1	links:	url:C562831	name:Atrioventricular Septal Defect	normalName:atrioventricular septal defect	normalWikiTitle:atrioventricular septal defect	predictedType:Disease
+CANDIDATE	id:13615	inCount:0	outCount:1	links:	url:D013615	name:Tachycardia, Sinoatrial Nodal Reentry	normalName:tachycardia, sinoatrial nodal reentry	normalWikiTitle:tachycardia, sinoatrial nodal reentry	predictedType:Disease
+CANDIDATE	id:13612	inCount:0	outCount:1	links:	url:D013612	name:Tachycardia, Ectopic Atrial	normalName:tachycardia, ectopic atrial	normalWikiTitle:tachycardia, ectopic atrial	predictedType:Disease
+CANDIDATE	id:535974	inCount:0	outCount:1	links:	url:C535974	name:Complete atrioventricular septal defect	normalName:complete atrioventricular septal defect	normalWikiTitle:complete atrioventricular septal defect	predictedType:Disease
+CANDIDATE	id:54139	inCount:2	outCount:1	links:	url:D054139	name:Tachycardia, Reciprocating	normalName:tachycardia, reciprocating	normalWikiTitle:tachycardia, reciprocating	predictedType:Disease
+CANDIDATE	id:54537	inCount:1	outCount:1	links:	url:D054537	name:Atrioventricular Block	normalName:atrioventricular block	normalWikiTitle:atrioventricular block	predictedType:Disease
+CANDIDATE	id:13613	inCount:0	outCount:1	links:	url:D013613	name:Tachycardia, Ectopic Junctional	normalName:tachycardia, ectopic junctional	normalWikiTitle:tachycardia, ectopic junctional	predictedType:Disease
+ENTITY	text:Wolff-Parkinson-White syndrome	normalName:wolff-parkinson-white syndrome	predictedType:disease	q:true	qid:Q28	docId:9249847	origText:Wolff-Parkinson-White syndrome	url:D014927
+CANDIDATE	id:14927	inCount:0	outCount:2	links:14927	url:D014927	name:Wolff-Parkinson-White Syndrome	normalName:wolff-parkinson-white syndrome	normalWikiTitle:wolff-parkinson-white syndrome	predictedType:Disease

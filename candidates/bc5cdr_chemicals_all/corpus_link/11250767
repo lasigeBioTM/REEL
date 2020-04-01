@@ -1,0 +1,15 @@
+ENTITY	text:Propylthiouracil	normalName:propylthiouracil	predictedType:chemical	q:true	qid:Q1412	docId:11250767	origText:Propylthiouracil	url:D011441
+CANDIDATE	id:11441	inCount:1	outCount:1	links:	url:D011441	name:Propylthiouracil	normalName:propylthiouracil	normalWikiTitle:propylthiouracil	predictedType:Chemical
+ENTITY	text:propylthio- uracil	normalName:propylthio- uracil	predictedType:chemical	q:true	qid:Q1412	docId:11250767	origText:propylthio- uracil	url:D011441
+CANDIDATE	id:11441	inCount:1	outCount:1	links:	url:D011441	name:Propylthiouracil	normalName:propylthiouracil	normalWikiTitle:propylthiouracil	predictedType:Chemical
+CANDIDATE	id:568226	inCount:0	outCount:1	links:	url:C568226	name:1-propyl-4-thiouracil	normalName:1-propyl-4-thiouracil	normalWikiTitle:1-propyl-4-thiouracil	predictedType:Chemical
+CANDIDATE	id:2652	inCount:0	outCount:1	links:	url:C002652	name:5-propyluracil	normalName:5-propyluracil	normalWikiTitle:5-propyluracil	predictedType:Chemical
+CANDIDATE	id:35039	inCount:0	outCount:1	links:	url:C035039	name:propylenethiourea	normalName:propylenethiourea	normalWikiTitle:propylenethiourea	predictedType:Chemical
+CANDIDATE	id:60320	inCount:0	outCount:1	links:	url:C060320	name:6-phenylthiouracil	normalName:6-phenylthiouracil	normalWikiTitle:6-phenylthiouracil	predictedType:Chemical
+CANDIDATE	id:13889	inCount:24	outCount:1	links:	url:D013889	name:Thiouracil	normalName:thiouracil	normalWikiTitle:thiouracil	predictedType:Chemical
+CANDIDATE	id:56698	inCount:0	outCount:1	links:	url:C056698	name:6-n-propyluracil	normalName:6-n-propyluracil	normalWikiTitle:6-n-propyluracil	predictedType:Chemical
+CANDIDATE	id:19269	inCount:0	outCount:1	links:	url:C019269	name:benzylthiouracil	normalName:benzylthiouracil	normalWikiTitle:benzylthiouracil	predictedType:Chemical
+CANDIDATE	id:83257	inCount:0	outCount:2	links:	url:C083257	name:5-propynyluracil	normalName:5-propynyluracil	normalWikiTitle:5-propynyluracil	predictedType:Chemical
+CANDIDATE	id:8779	inCount:0	outCount:1	links:	url:D008779	name:Methylthiouracil	normalName:methylthiouracil	normalWikiTitle:methylthiouracil	predictedType:Chemical
+ENTITY	text:prednisone	normalName:prednisone	predictedType:chemical	q:true	qid:Q1412	docId:11250767	origText:prednisone	url:D011241
+CANDIDATE	id:11241	inCount:209	outCount:1	links:	url:D011241	name:Prednisone	normalName:prednisone	normalWikiTitle:prednisone	predictedType:Chemical

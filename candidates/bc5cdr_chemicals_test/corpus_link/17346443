@@ -1,0 +1,6 @@
+ENTITY	text:Penicillamine	normalName:penicillamine	predictedType:chemical	q:true	qid:Q306	docId:17346443	origText:Penicillamine	url:D010396
+CANDIDATE	id:10396	inCount:23	outCount:1	links:	url:D010396	name:Penicillamine	normalName:penicillamine	normalWikiTitle:penicillamine	predictedType:Chemical
+ENTITY	text:copper	normalName:copper	predictedType:chemical	q:true	qid:Q306	docId:17346443	origText:copper	url:D003300
+CANDIDATE	id:3300	inCount:62	outCount:2	links:	url:D003300	name:Copper	normalName:copper	normalWikiTitle:copper	predictedType:Chemical
+ENTITY	text:zinc acetate	normalName:zinc acetate	predictedType:chemical	q:true	qid:Q306	docId:17346443	origText:zinc acetate	url:D019345
+CANDIDATE	id:19345	inCount:4	outCount:1	links:	url:D019345	name:Zinc Acetate	normalName:zinc acetate	normalWikiTitle:zinc acetate	predictedType:Chemical

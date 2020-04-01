@@ -1,0 +1,4 @@
+ENTITY	text:lithium	normalName:lithium	predictedType:chemical	q:true	qid:Q1311	docId:3001299	origText:lithium	url:D008094
+CANDIDATE	id:8094	inCount:15	outCount:2	links:	url:D008094	name:Lithium	normalName:lithium	normalWikiTitle:lithium	predictedType:Chemical
+ENTITY	text:thyroxine	normalName:thyroxine	predictedType:chemical	q:true	qid:Q1311	docId:3001299	origText:thyroxine	url:D013974
+CANDIDATE	id:13974	inCount:12	outCount:2	links:	url:D013974	name:Thyroxine	normalName:thyroxine	normalWikiTitle:thyroxine	predictedType:Chemical

@@ -1,0 +1,78 @@
+ENTITY	text:Allopregnanolone	normalName:allopregnanolone	predictedType:chemical	q:true	qid:Q14	docId:12921865	origText:Allopregnanolone	url:D011280
+CANDIDATE	id:11280	inCount:40	outCount:1	links:	url:D011280	name:Allopregnanolone	normalName:allopregnanolone	normalWikiTitle:allopregnanolone	predictedType:Chemical
+ENTITY	text:ganaxolone	normalName:ganaxolone	predictedType:chemical	q:true	qid:Q14	docId:12921865	origText:ganaxolone	url:C105051
+CANDIDATE	id:105051	inCount:0	outCount:1	links:	url:C105051	name:ganaxolone	normalName:ganaxolone	normalWikiTitle:ganaxolone	predictedType:Chemical
+ENTITY	text:steroids	normalName:steroids	predictedType:chemical	q:true	qid:Q14	docId:12921865	origText:steroids	url:D013256
+CANDIDATE	id:13256	inCount:415	outCount:1	links:	url:D013256	name:Steroids	normalName:steroids	normalWikiTitle:steroids	predictedType:Chemical
+CANDIDATE	id:549774	inCount:0	outCount:1	links:	url:C549774	name:Sterodin	normalName:sterodin	normalWikiTitle:sterodin	predictedType:Chemical
+CANDIDATE	id:9654	inCount:35	outCount:1	links:	url:D009654	name:Norsteroids	normalName:norsteroids	normalWikiTitle:norsteroids	predictedType:Chemical
+CANDIDATE	id:1378	inCount:68	outCount:1	links:	url:D001378	name:Azasteroids	normalName:azasteroids	normalWikiTitle:azasteroids	predictedType:Chemical
+CANDIDATE	id:19432	inCount:0	outCount:1	links:	url:C019432	name:zeroid	normalName:zeroid	normalWikiTitle:zeroid	predictedType:Chemical
+CANDIDATE	id:2566	inCount:0	outCount:2	links:	url:D002566	name:Ceroid	normalName:ceroid	normalWikiTitle:ceroid	predictedType:Chemical
+CANDIDATE	id:49412	inCount:0	outCount:1	links:	url:C049412	name:sweroside	normalName:sweroside	normalWikiTitle:sweroside	predictedType:Chemical
+CANDIDATE	id:35227	inCount:0	outCount:1	links:	url:C035227	name:stepronin	normalName:stepronin	normalWikiTitle:stepronin	predictedType:Chemical
+CANDIDATE	id:13722	inCount:2	outCount:1	links:	url:D013722	name:Teprotide	normalName:teprotide	normalWikiTitle:teprotide	predictedType:Chemical
+CANDIDATE	id:7664	inCount:6	outCount:1	links:	url:D007664	name:Ketosteroids	normalName:ketosteroids	normalWikiTitle:ketosteroids	predictedType:Chemical
+ENTITY	text:GABA	normalName:gaba	predictedType:chemical	q:true	qid:Q14	docId:12921865	origText:GABA	url:D005680
+CANDIDATE	id:5680	inCount:100	outCount:1	links:	url:D005680	name:GABA	normalName:gaba	normalWikiTitle:gaba	predictedType:Chemical
+ENTITY	text:pregnanolone	normalName:pregnanolone	predictedType:chemical	q:true	qid:Q14	docId:12921865	origText:pregnanolone	url:D011280
+CANDIDATE	id:11280	inCount:40	outCount:1	links:	url:D011280	name:Pregnanolone	normalName:pregnanolone	normalWikiTitle:pregnanolone	predictedType:Chemical
+ENTITY	text:3alpha-hydroxy-3beta-methyl-5alpha-pregnan-20-one	normalName:3alpha-hydroxy-3beta-methyl-5alpha-pregnan-20-one	predictedType:chemical	q:true	qid:Q14	docId:12921865	origText:3alpha-hydroxy-3beta-methyl-5alpha-pregnan-20-one	url:C105051
+CANDIDATE	id:105051	inCount:0	outCount:1	links:	url:C105051	name:3alpha-hydroxy-3beta-methyl-5alpha-pregnan-20-one	normalName:3alpha-hydroxy-3beta-methyl-5alpha-pregnan-20-one	normalWikiTitle:3alpha-hydroxy-3beta-methyl-5alpha-pregnan-20-one	predictedType:Chemical
+ENTITY	text:steroid	normalName:steroid	predictedType:chemical	q:true	qid:Q14	docId:12921865	origText:steroid	url:D013256
+CANDIDATE	id:13256	inCount:415	outCount:1	links:	url:D013256	name:Steroids	normalName:steroids	normalWikiTitle:steroids	predictedType:Chemical
+CANDIDATE	id:549774	inCount:0	outCount:1	links:	url:C549774	name:Sterodin	normalName:sterodin	normalWikiTitle:sterodin	predictedType:Chemical
+CANDIDATE	id:9654	inCount:35	outCount:1	links:	url:D009654	name:Norsteroids	normalName:norsteroids	normalWikiTitle:norsteroids	predictedType:Chemical
+CANDIDATE	id:1378	inCount:68	outCount:1	links:	url:D001378	name:Azasteroids	normalName:azasteroids	normalWikiTitle:azasteroids	predictedType:Chemical
+CANDIDATE	id:19432	inCount:0	outCount:1	links:	url:C019432	name:zeroid	normalName:zeroid	normalWikiTitle:zeroid	predictedType:Chemical
+CANDIDATE	id:2566	inCount:0	outCount:2	links:	url:D002566	name:Ceroid	normalName:ceroid	normalWikiTitle:ceroid	predictedType:Chemical
+CANDIDATE	id:49412	inCount:0	outCount:1	links:	url:C049412	name:sweroside	normalName:sweroside	normalWikiTitle:sweroside	predictedType:Chemical
+CANDIDATE	id:35227	inCount:0	outCount:1	links:	url:C035227	name:stepronin	normalName:stepronin	normalWikiTitle:stepronin	predictedType:Chemical
+CANDIDATE	id:13722	inCount:2	outCount:1	links:	url:D013722	name:Teprotide	normalName:teprotide	normalWikiTitle:teprotide	predictedType:Chemical
+CANDIDATE	id:7664	inCount:6	outCount:1	links:	url:D007664	name:Ketosteroids	normalName:ketosteroids	normalWikiTitle:ketosteroids	predictedType:Chemical
+ENTITY	text:3alpha-hydroxy-5beta-pregnan-20-one	normalName:3alpha-hydroxy-5beta-pregnan-20-one	predictedType:chemical	q:true	qid:Q14	docId:12921865	origText:3alpha-hydroxy-5beta-pregnan-20-one	url:D011280
+CANDIDATE	id:11280	inCount:40	outCount:1	links:	url:D011280	name:beta-pregnan-20-one, 3 alpha-Hydroxy-5	normalName:beta-pregnan-20-one, 3 alpha-hydroxy-5	normalWikiTitle:beta-pregnan-20-one, 3 alpha-hydroxy-5	predictedType:Chemical
+CANDIDATE	id:37376	inCount:0	outCount:1	links:	url:C037376	name:3-hydroxy-5,7-pregnadien-20-one	normalName:3-hydroxy-5,7-pregnadien-20-one	normalWikiTitle:3-hydroxy-5,7-pregnadien-20-one	predictedType:Chemical
+CANDIDATE	id:470852	inCount:0	outCount:1	links:	url:C470852	name:3-hydroxy-5,16-pregnadien-20-one	normalName:3-hydroxy-5,16-pregnadien-20-one	normalWikiTitle:3-hydroxy-5,16-pregnadien-20-one	predictedType:Chemical
+CANDIDATE	id:28109	inCount:0	outCount:1	links:	url:C028109	name:16 alpha,17-epoxy-3 beta-hydroxy-5 alpha-pregnan-20-one	normalName:16 alpha,17-epoxy-3 beta-hydroxy-5 alpha-pregnan-20-one	normalWikiTitle:16 alpha,17-epoxy-3 beta-hydroxy-5 alpha-pregnan-20-one	predictedType:Chemical
+CANDIDATE	id:88406	inCount:0	outCount:1	links:	url:C088406	name:3,15-dihydroxy-5-pregnen-20-one	normalName:3,15-dihydroxy-5-pregnen-20-one	normalWikiTitle:3,15-dihydroxy-5-pregnen-20-one	predictedType:Chemical
+CANDIDATE	id:108398	inCount:0	outCount:2	links:	url:C108398	name:3-hydroxy-5-beta-pregnan-20-one hemisuccinate	normalName:3-hydroxy-5-beta-pregnan-20-one hemisuccinate	normalWikiTitle:3-hydroxy-5-beta-pregnan-20-one hemisuccinate	predictedType:Chemical
+CANDIDATE	id:508346	inCount:0	outCount:1	links:	url:C508346	name:20-oxo-5beta-pregnan-3alpha-yl sulfate	normalName:20-oxo-5beta-pregnan-3alpha-yl sulfate	normalWikiTitle:20-oxo-5beta-pregnan-3alpha-yl sulfate	predictedType:Chemical
+CANDIDATE	id:15824	inCount:0	outCount:1	links:	url:C015824	name:3 beta,16 alpha-dihydroxypregn-5-en-20-one	normalName:3 beta,16 alpha-dihydroxypregn-5-en-20-one	normalWikiTitle:3 beta,16 alpha-dihydroxypregn-5-en-20-one	predictedType:Chemical
+CANDIDATE	id:476319	inCount:0	outCount:1	links:	url:C476319	name:3 alpha-hydroxy-6,19-oxidopregn-4-ene-20-one	normalName:3 alpha-hydroxy-6,19-oxidopregn-4-ene-20-one	normalWikiTitle:3 alpha-hydroxy-6,19-oxidopregn-4-ene-20-one	predictedType:Chemical
+CANDIDATE	id:7433	inCount:0	outCount:1	links:	url:C007433	name:17,20-dihydroxy-4-pregnen-3-one	normalName:17,20-dihydroxy-4-pregnen-3-one	normalWikiTitle:17,20-dihydroxy-4-pregnen-3-one	predictedType:Chemical
+CANDIDATE	id:27852	inCount:0	outCount:1	links:	url:C027852	name:3 beta,21-diacetoxy-5-pregnen-20-one	normalName:3 beta,21-diacetoxy-5-pregnen-20-one	normalWikiTitle:3 beta,21-diacetoxy-5-pregnen-20-one	predictedType:Chemical
+CANDIDATE	id:11280	inCount:40	outCount:1	links:	url:D011280	name:Pregnan-20-one, 3-hydroxy-, (3alpha,5beta)-	normalName:pregnan-20-one, 3-hydroxy-, (3alpha,5beta)-	normalWikiTitle:pregnan-20-one, 3-hydroxy-, (3alpha,5beta)-	predictedType:Chemical
+CANDIDATE	id:11280	inCount:40	outCount:1	links:	url:D011280	name:3 alpha Hydroxy 5 beta pregnan 20 one	normalName:3 alpha hydroxy 5 beta pregnan 20 one	normalWikiTitle:3 alpha hydroxy 5 beta pregnan 20 one	predictedType:Chemical
+CANDIDATE	id:11280	inCount:40	outCount:1	links:	url:D011280	name:3 alpha-Hydroxy-5 beta-pregnan-20-one	normalName:3 alpha-hydroxy-5 beta-pregnan-20-one	normalWikiTitle:3 alpha-hydroxy-5 beta-pregnan-20-one	predictedType:Chemical
+CANDIDATE	id:11280	inCount:40	outCount:1	links:	url:D011280	name:alpha-Hydroxy-5 beta-pregnan-20-one, 3	normalName:alpha-hydroxy-5 beta-pregnan-20-one, 3	normalWikiTitle:alpha-hydroxy-5 beta-pregnan-20-one, 3	predictedType:Chemical
+CANDIDATE	id:28952	inCount:0	outCount:1	links:	url:C028952	name:20 beta-hydroxy-5 alpha-pregnan-3-one	normalName:20 beta-hydroxy-5 alpha-pregnan-3-one	normalWikiTitle:20 beta-hydroxy-5 alpha-pregnan-3-one	predictedType:Chemical
+CANDIDATE	id:9413	inCount:0	outCount:1	links:	url:C009413	name:3 alpha,21-dihydroxy-5 beta-pregnan-20-one	normalName:3 alpha,21-dihydroxy-5 beta-pregnan-20-one	normalWikiTitle:3 alpha,21-dihydroxy-5 beta-pregnan-20-one	predictedType:Chemical
+CANDIDATE	id:51190	inCount:0	outCount:1	links:	url:C051190	name:3,6-dihydroxy-5alpha-pregnan-20-one	normalName:3,6-dihydroxy-5alpha-pregnan-20-one	normalWikiTitle:3,6-dihydroxy-5alpha-pregnan-20-one	predictedType:Chemical
+CANDIDATE	id:35397	inCount:0	outCount:1	links:	url:C035397	name:Pregnan-11-one, 3,20-dihydroxy-, (3alpha,5beta,20S)-	normalName:pregnan-11-one, 3,20-dihydroxy-, (3alpha,5beta,20s)-	normalWikiTitle:pregnan-11-one, 3,20-dihydroxy-, (3alpha,5beta,20s)-	predictedType:Chemical
+CANDIDATE	id:88406	inCount:0	outCount:1	links:	url:C088406	name:3 beta,15 alpha-dihydroxy-5-pregnen-20-one	normalName:3 beta,15 alpha-dihydroxy-5-pregnen-20-one	normalWikiTitle:3 beta,15 alpha-dihydroxy-5-pregnen-20-one	predictedType:Chemical
+ENTITY	text:3alpha-hydroxy-5alpha-pregnan-20-one	normalName:3alpha-hydroxy-5alpha-pregnan-20-one	predictedType:chemical	q:true	qid:Q14	docId:12921865	origText:3alpha-hydroxy-5alpha-pregnan-20-one	url:D011280
+CANDIDATE	id:11280	inCount:40	outCount:1	links:	url:D011280	name:Pregnan-20-one, 3-hydroxy-, (3alpha,5beta)-	normalName:pregnan-20-one, 3-hydroxy-, (3alpha,5beta)-	normalWikiTitle:pregnan-20-one, 3-hydroxy-, (3alpha,5beta)-	predictedType:Chemical
+CANDIDATE	id:45017	inCount:0	outCount:1	links:	url:C045017	name:3 alpha-hydroxy-5 alpha-pregna-9(11),16-diene-20-one	normalName:3 alpha-hydroxy-5 alpha-pregna-9(11),16-diene-20-one	normalWikiTitle:3 alpha-hydroxy-5 alpha-pregna-9(11),16-diene-20-one	predictedType:Chemical
+CANDIDATE	id:37376	inCount:0	outCount:1	links:	url:C037376	name:3-hydroxy-5,7-pregnadien-20-one	normalName:3-hydroxy-5,7-pregnadien-20-one	normalWikiTitle:3-hydroxy-5,7-pregnadien-20-one	predictedType:Chemical
+CANDIDATE	id:521989	inCount:0	outCount:1	links:	url:C521989	name:5alpha,6alpha-epoxy-3beta-hydroxy-16-pregnen-20-one	normalName:5alpha,6alpha-epoxy-3beta-hydroxy-16-pregnen-20-one	normalWikiTitle:5alpha,6alpha-epoxy-3beta-hydroxy-16-pregnen-20-one	predictedType:Chemical
+CANDIDATE	id:28109	inCount:0	outCount:1	links:	url:C028109	name:16 alpha,17-epoxy-3 beta-hydroxy-5 alpha-pregnan-20-one	normalName:16 alpha,17-epoxy-3 beta-hydroxy-5 alpha-pregnan-20-one	normalWikiTitle:16 alpha,17-epoxy-3 beta-hydroxy-5 alpha-pregnan-20-one	predictedType:Chemical
+CANDIDATE	id:470852	inCount:0	outCount:1	links:	url:C470852	name:3-hydroxy-5,16-pregnadien-20-one	normalName:3-hydroxy-5,16-pregnadien-20-one	normalWikiTitle:3-hydroxy-5,16-pregnadien-20-one	predictedType:Chemical
+CANDIDATE	id:88406	inCount:0	outCount:1	links:	url:C088406	name:3,15-dihydroxy-5-pregnen-20-one	normalName:3,15-dihydroxy-5-pregnen-20-one	normalWikiTitle:3,15-dihydroxy-5-pregnen-20-one	predictedType:Chemical
+CANDIDATE	id:21323	inCount:0	outCount:1	links:	url:C021323	name:4-pregnene-3 alpha,20 alpha-diol	normalName:4-pregnene-3 alpha,20 alpha-diol	normalWikiTitle:4-pregnene-3 alpha,20 alpha-diol	predictedType:Chemical
+CANDIDATE	id:551091	inCount:0	outCount:1	links:	url:C551091	name:3alpha-hydroxy-21epsilon,22-oxido-21-homo-5alpha-pregnan-20-one	normalName:3alpha-hydroxy-21epsilon,22-oxido-21-homo-5alpha-pregnan-20-one	normalWikiTitle:3alpha-hydroxy-21epsilon,22-oxido-21-homo-5alpha-pregnan-20-one	predictedType:Chemical
+CANDIDATE	id:16075	inCount:0	outCount:1	links:	url:C016075	name:5 alpha-pregna-1,20-diene-3-one	normalName:5 alpha-pregna-1,20-diene-3-one	normalWikiTitle:5 alpha-pregna-1,20-diene-3-one	predictedType:Chemical
+CANDIDATE	id:7433	inCount:0	outCount:1	links:	url:C007433	name:17,20-dihydroxy-4-pregnen-3-one	normalName:17,20-dihydroxy-4-pregnen-3-one	normalWikiTitle:17,20-dihydroxy-4-pregnen-3-one	predictedType:Chemical
+CANDIDATE	id:11280	inCount:40	outCount:1	links:	url:D011280	name:alpha-Hydroxy-5 alpha-pregnan-20-one, 3	normalName:alpha-hydroxy-5 alpha-pregnan-20-one, 3	normalWikiTitle:alpha-hydroxy-5 alpha-pregnan-20-one, 3	predictedType:Chemical
+CANDIDATE	id:11280	inCount:40	outCount:1	links:	url:D011280	name:3 alpha Hydroxy 5 alpha pregnan 20 one	normalName:3 alpha hydroxy 5 alpha pregnan 20 one	normalWikiTitle:3 alpha hydroxy 5 alpha pregnan 20 one	predictedType:Chemical
+CANDIDATE	id:28952	inCount:0	outCount:1	links:	url:C028952	name:20 alpha-hydroxy-5 alpha-pregnan-3-one	normalName:20 alpha-hydroxy-5 alpha-pregnan-3-one	normalWikiTitle:20 alpha-hydroxy-5 alpha-pregnan-3-one	predictedType:Chemical
+CANDIDATE	id:11280	inCount:40	outCount:1	links:	url:D011280	name:3 alpha-Hydroxy-5 alpha-pregnan-20-one	normalName:3 alpha-hydroxy-5 alpha-pregnan-20-one	normalWikiTitle:3 alpha-hydroxy-5 alpha-pregnan-20-one	predictedType:Chemical
+CANDIDATE	id:11280	inCount:40	outCount:1	links:	url:D011280	name:alpha-pregnan-20-one, 3 alpha-Hydroxy-5	normalName:alpha-pregnan-20-one, 3 alpha-hydroxy-5	normalWikiTitle:alpha-pregnan-20-one, 3 alpha-hydroxy-5	predictedType:Chemical
+CANDIDATE	id:9413	inCount:0	outCount:1	links:	url:C009413	name:3alpha,21-dihydroxy-5alpha-pregnan-20-one	normalName:3alpha,21-dihydroxy-5alpha-pregnan-20-one	normalWikiTitle:3alpha,21-dihydroxy-5alpha-pregnan-20-one	predictedType:Chemical
+CANDIDATE	id:11280	inCount:40	outCount:1	links:	url:D011280	name:3beta-Hydroxy-5alpha-pregnan-20-one	normalName:3beta-hydroxy-5alpha-pregnan-20-one	normalWikiTitle:3beta-hydroxy-5alpha-pregnan-20-one	predictedType:Chemical
+CANDIDATE	id:11280	inCount:40	outCount:1	links:	url:D011280	name:3beta Hydroxy 5alpha pregnan 20 one	normalName:3beta hydroxy 5alpha pregnan 20 one	normalWikiTitle:3beta hydroxy 5alpha pregnan 20 one	predictedType:Chemical
+CANDIDATE	id:51190	inCount:0	outCount:1	links:	url:C051190	name:3,6-dihydroxy-5alpha-pregnan-20-one	normalName:3,6-dihydroxy-5alpha-pregnan-20-one	normalWikiTitle:3,6-dihydroxy-5alpha-pregnan-20-one	predictedType:Chemical
+ENTITY	text:cocaine	normalName:cocaine	predictedType:chemical	q:true	qid:Q14	docId:12921865	origText:cocaine	url:D003042
+CANDIDATE	id:3042	inCount:89	outCount:1	links:	url:D003042	name:Cocaine	normalName:cocaine	normalWikiTitle:cocaine	predictedType:Chemical
+ENTITY	text:gamma-aminobutyric acid	normalName:gamma-aminobutyric acid	predictedType:chemical	q:true	qid:Q14	docId:12921865	origText:gamma-aminobutyric acid	url:D005680
+CANDIDATE	id:5680	inCount:100	outCount:1	links:	url:D005680	name:gamma-Aminobutyric Acid	normalName:gamma-aminobutyric acid	normalWikiTitle:gamma-aminobutyric acid	predictedType:Chemical

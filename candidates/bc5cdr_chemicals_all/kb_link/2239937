@@ -1,0 +1,19 @@
+ENTITY	text:calcium	normalName:calcium	predictedType:chemical	q:true	qid:Q438	docId:2239937	origText:calcium	url:D002118
+CANDIDATE	id:2118	inCount:11	outCount:2	links:	url:D002118	name:Calcium	normalName:calcium	normalWikiTitle:calcium	predictedType:Chemical
+ENTITY	text:phosphate	normalName:phosphate	predictedType:chemical	q:true	qid:Q438	docId:2239937	origText:phosphate	url:D010710
+CANDIDATE	id:10710	inCount:107	outCount:2	links:	url:D010710	name:Phosphate	normalName:phosphate	normalWikiTitle:phosphate	predictedType:Chemical
+ENTITY	text:calcium carbonate	normalName:calcium carbonate	predictedType:chemical	q:true	qid:Q438	docId:2239937	origText:calcium carbonate	url:D002119
+CANDIDATE	id:2119	inCount:15	outCount:3	links:	url:D002119	name:Calcium Carbonate	normalName:calcium carbonate	normalWikiTitle:calcium carbonate	predictedType:Chemical
+ENTITY	text:bicarbonate	normalName:bicarbonate	predictedType:chemical	q:true	qid:Q438	docId:2239937	origText:bicarbonate	url:D001639
+CANDIDATE	id:1639	inCount:28	outCount:1	links:	url:D001639	name:Bicarbonates	normalName:bicarbonates	normalWikiTitle:bicarbonates	predictedType:Chemical
+CANDIDATE	id:2254	inCount:59	outCount:3	links:	url:D002254	name:Carbonates	normalName:carbonates	normalWikiTitle:carbonates	predictedType:Chemical
+CANDIDATE	id:6685	inCount:0	outCount:2	links:	url:C006685	name:barium carbonate	normalName:barium carbonate	normalWikiTitle:barium carbonate	predictedType:Chemical
+CANDIDATE	id:34054	inCount:0	outCount:2	links:	url:C034054	name:bismuth carbonate	normalName:bismuth carbonate	normalWikiTitle:bismuth carbonate	predictedType:Chemical
+CANDIDATE	id:17693	inCount:27	outCount:2	links:	url:D017693	name:Sodium Bicarbonate	normalName:sodium bicarbonate	normalWikiTitle:sodium bicarbonate	predictedType:Chemical
+CANDIDATE	id:519864	inCount:0	outCount:1	links:	url:C519864	name:carbonarone B	normalName:carbonarone b	normalWikiTitle:carbonarone b	predictedType:Chemical
+CANDIDATE	id:601988	inCount:0	outCount:2	links:	url:C000601988	name:dicarabrone B	normalName:dicarabrone b	normalWikiTitle:dicarabrone b	predictedType:Chemical
+CANDIDATE	id:31556	inCount:0	outCount:1	links:	url:C031556	name:calcium bicarbonate	normalName:calcium bicarbonate	normalWikiTitle:calcium bicarbonate	predictedType:Chemical
+CANDIDATE	id:241	inCount:0	outCount:1	links:	url:C000241	name:carbanolate	normalName:carbanolate	normalWikiTitle:carbanolate	predictedType:Chemical
+CANDIDATE	id:1010	inCount:0	outCount:1	links:	url:C001010	name:mecarbinate	normalName:mecarbinate	normalWikiTitle:mecarbinate	predictedType:Chemical
+ENTITY	text:vitamin D	normalName:vitamin d	predictedType:chemical	q:true	qid:Q438	docId:2239937	origText:vitamin D	url:D014807
+CANDIDATE	id:14807	inCount:27	outCount:1	links:	url:D014807	name:Vitamin D	normalName:vitamin d	normalWikiTitle:vitamin d	predictedType:Chemical

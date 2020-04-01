@@ -1,0 +1,10 @@
+ENTITY	text:Stevens-Johnson syndromes	normalName:stevens-johnson syndromes	predictedType:disease	q:true	qid:Q115	docId:9721172	origText:Stevens-Johnson syndromes	url:D013262
+CANDIDATE	id:13262	inCount:0	outCount:3	links:2779;13262	url:D013262	name:Stevens-Johnson Syndrome	normalName:stevens-johnson syndrome	normalWikiTitle:stevens-johnson syndrome	predictedType:Disease
+ENTITY	text:Stevens-Johnson syndrome	normalName:stevens-johnson syndrome	predictedType:disease	q:true	qid:Q115	docId:9721172	origText:Stevens-Johnson syndrome	url:D013262
+CANDIDATE	id:13262	inCount:0	outCount:3	links:2779;13262	url:D013262	name:Stevens-Johnson Syndrome	normalName:stevens-johnson syndrome	normalWikiTitle:stevens-johnson syndrome	predictedType:Disease
+ENTITY	text:cholestasis	normalName:cholestasis	predictedType:disease	q:true	qid:Q115	docId:9721172	origText:cholestasis	url:D002779
+CANDIDATE	id:2779	inCount:14	outCount:1	links:5355;13262	url:D002779	name:Cholestasis	normalName:cholestasis	normalWikiTitle:cholestasis	predictedType:Disease
+ENTITY	text:infection	normalName:infection	predictedType:disease	q:true	qid:Q115	docId:9721172	origText:infection	url:D007239
+CANDIDATE	id:7239	inCount:33	outCount:1	links:	url:D007239	name:Infection	normalName:infection	normalWikiTitle:infection	predictedType:Disease
+ENTITY	text:cirrhosis	normalName:cirrhosis	predictedType:disease	q:true	qid:Q115	docId:9721172	origText:cirrhosis	url:D005355
+CANDIDATE	id:5355	inCount:11	outCount:1	links:2779	url:D005355	name:Cirrhosis	normalName:cirrhosis	normalWikiTitle:cirrhosis	predictedType:Disease

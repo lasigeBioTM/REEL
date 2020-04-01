@@ -1,0 +1,6 @@
+ENTITY	text:tamoxifen	normalName:tamoxifen	predictedType:chemical	q:true	qid:Q345	docId:15458908	origText:tamoxifen	url:D013629
+CANDIDATE	id:13629	inCount:91	outCount:1	links:	url:D013629	name:Tamoxifen	normalName:tamoxifen	normalWikiTitle:tamoxifen	predictedType:Chemical
+ENTITY	text:estrogen	normalName:estrogen	predictedType:chemical	q:true	qid:Q345	docId:15458908	origText:estrogen	url:D004967
+CANDIDATE	id:4967	inCount:1	outCount:1	links:	url:D004967	name:Estrogen	normalName:estrogen	normalWikiTitle:estrogen	predictedType:Chemical
+ENTITY	text:raloxifene	normalName:raloxifene	predictedType:chemical	q:true	qid:Q345	docId:15458908	origText:raloxifene	url:D020849
+CANDIDATE	id:20849	inCount:3	outCount:1	links:	url:D020849	name:Raloxifene	normalName:raloxifene	normalWikiTitle:raloxifene	predictedType:Chemical

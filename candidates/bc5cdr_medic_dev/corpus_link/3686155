@@ -1,0 +1,13 @@
+ENTITY	text:inhibition of lactation	normalName:inhibition of lactation	predictedType:disease	q:true	qid:Q42	docId:3686155	origText:inhibition of lactation	url:D007775
+CANDIDATE	id:7775	inCount:2	outCount:2	links:	url:D007775	name:Lactation Disorders	normalName:lactation disorders	normalWikiTitle:lactation disorders	predictedType:Disease
+CANDIDATE	id:565433	inCount:0	outCount:1	links:	url:C565433	name:Lymphoblastic Transformation, Inhibition of	normalName:lymphoblastic transformation, inhibition of	normalWikiTitle:lymphoblastic transformation, inhibition of	predictedType:Disease
+CANDIDATE	id:75662	inCount:0	outCount:2	links:	url:D000075662	name:Injection Site Reaction	normalName:injection site reaction	normalWikiTitle:injection site reaction	predictedType:Disease
+CANDIDATE	id:7757	inCount:0	outCount:2	links:	url:D007757	name:Laboratory Infection	normalName:laboratory infection	normalWikiTitle:laboratory infection	predictedType:Disease
+CANDIDATE	id:14869	inCount:0	outCount:2	links:	url:D014869	name:Water Intoxication	normalName:water intoxication	normalWikiTitle:water intoxication	predictedType:Disease
+CANDIDATE	id:1017	inCount:3	outCount:1	links:	url:D001017	name:Aortic Coarctation	normalName:aortic coarctation	normalWikiTitle:aortic coarctation	predictedType:Disease
+CANDIDATE	id:12652	inCount:0	outCount:1	links:	url:D012652	name:Self Mutilation	normalName:self mutilation	normalWikiTitle:self mutilation	predictedType:Disease
+CANDIDATE	id:18981	inCount:47	outCount:1	links:	url:D018981	name:Congenital Disorders of Glycosylation	normalName:congenital disorders of glycosylation	normalWikiTitle:congenital disorders of glycosylation	predictedType:Disease
+CANDIDATE	id:7787	inCount:1	outCount:2	links:	url:D007787	name:Lactose Intolerance	normalName:lactose intolerance	normalWikiTitle:lactose intolerance	predictedType:Disease
+CANDIDATE	id:72662	inCount:0	outCount:1	links:	url:D000072662	name:Margins of Excision	normalName:margins of excision	normalWikiTitle:margins of excision	predictedType:Disease
+ENTITY	text:Parkinson's disease	normalName:parkinson's disease	predictedType:disease	q:true	qid:Q42	docId:3686155	origText:Parkinson's disease	url:D010300
+CANDIDATE	id:10300	inCount:31	outCount:2	links:	url:D010300	name:Parkinson's Disease	normalName:parkinson's disease	normalWikiTitle:parkinson's disease	predictedType:Disease

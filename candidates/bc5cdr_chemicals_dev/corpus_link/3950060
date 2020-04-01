@@ -1,0 +1,4 @@
+ENTITY	text:amikacin	normalName:amikacin	predictedType:chemical	q:true	qid:Q11	docId:3950060	origText:amikacin	url:D000583
+CANDIDATE	id:583	inCount:8	outCount:1	links:	url:D000583	name:Amikacin	normalName:amikacin	normalWikiTitle:amikacin	predictedType:Chemical
+ENTITY	text:creatinine	normalName:creatinine	predictedType:chemical	q:true	qid:Q11	docId:3950060	origText:creatinine	url:D003404
+CANDIDATE	id:3404	inCount:8	outCount:1	links:	url:D003404	name:Creatinine	normalName:creatinine	normalWikiTitle:creatinine	predictedType:Chemical

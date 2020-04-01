@@ -1,0 +1,4 @@
+ENTITY	text:Midazolam hydrochloride	normalName:midazolam hydrochloride	predictedType:chemical	q:true	qid:Q176	docId:2375138	origText:Midazolam hydrochloride	url:D008874
+CANDIDATE	id:8874	inCount:6	outCount:1	links:8874	url:D008874	name:Hydrochloride, Midazolam	normalName:hydrochloride, midazolam	normalWikiTitle:hydrochloride, midazolam	predictedType:Chemical
+ENTITY	text:midazolam	normalName:midazolam	predictedType:chemical	q:true	qid:Q176	docId:2375138	origText:midazolam	url:D008874
+CANDIDATE	id:8874	inCount:6	outCount:1	links:8874	url:D008874	name:Midazolam	normalName:midazolam	normalWikiTitle:midazolam	predictedType:Chemical

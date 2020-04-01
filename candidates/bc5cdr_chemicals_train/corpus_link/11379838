@@ -1,0 +1,34 @@
+ENTITY	text:lithium	normalName:lithium	predictedType:chemical	q:true	qid:Q492	docId:11379838	origText:lithium	url:D008094
+CANDIDATE	id:8094	inCount:15	outCount:2	links:	url:D008094	name:Lithium	normalName:lithium	normalWikiTitle:lithium	predictedType:Chemical
+ENTITY	text:antidepressants	normalName:antidepressants	predictedType:chemical	q:true	qid:Q492	docId:11379838	origText:antidepressants	url:D000928
+CANDIDATE	id:928	inCount:2	outCount:1	links:17367	url:D000928	name:Antidepressant Drugs	normalName:antidepressant drugs	normalWikiTitle:antidepressant drugs	predictedType:Chemical
+CANDIDATE	id:1067	inCount:0	outCount:1	links:	url:D001067	name:Appetite Depressants	normalName:appetite depressants	normalWikiTitle:appetite depressants	predictedType:Chemical
+CANDIDATE	id:582740	inCount:0	outCount:2	links:	url:C582740	name:Zanipress	normalName:zanipress	normalWikiTitle:zanipress	predictedType:Chemical
+CANDIDATE	id:51520	inCount:0	outCount:1	links:	url:D051520	name:Antiperspirants	normalName:antiperspirants	normalWikiTitle:antiperspirants	predictedType:Chemical
+CANDIDATE	id:115070	inCount:0	outCount:2	links:	url:C115070	name:ranirestat	normalName:ranirestat	normalWikiTitle:ranirestat	predictedType:Chemical
+CANDIDATE	id:12169	inCount:0	outCount:1	links:	url:C012169	name:adepren	normalName:adepren	normalWikiTitle:adepren	predictedType:Chemical
+CANDIDATE	id:5577	inCount:1	outCount:1	links:	url:D005577	name:Forssman Antigen	normalName:forssman antigen	normalWikiTitle:forssman antigen	predictedType:Chemical
+CANDIDATE	id:590915	inCount:0	outCount:2	links:	url:C000590915	name:Aticaprant	normalName:aticaprant	normalWikiTitle:aticaprant	predictedType:Chemical
+CANDIDATE	id:445122	inCount:0	outCount:1	links:	url:C445122	name:Niprisan	normalName:niprisan	normalWikiTitle:niprisan	predictedType:Chemical
+CANDIDATE	id:976	inCount:1	outCount:1	links:	url:D000976	name:Antipain	normalName:antipain	normalWikiTitle:antipain	predictedType:Chemical
+CANDIDATE	id:449663	inCount:0	outCount:1	links:	url:C449663	name:thymodepressin	normalName:thymodepressin	normalWikiTitle:thymodepressin	predictedType:Chemical
+CANDIDATE	id:928	inCount:2	outCount:1	links:17367	url:D000928	name:Antidepressants	normalName:antidepressants	normalWikiTitle:antidepressants	predictedType:Chemical
+CANDIDATE	id:928	inCount:2	outCount:1	links:17367	url:D000928	name:Drugs, Antidepressant	normalName:drugs, antidepressant	normalWikiTitle:drugs, antidepressant	predictedType:Chemical
+CANDIDATE	id:4078	inCount:3	outCount:1	links:	url:D004078	name:Depressan	normalName:depressan	normalWikiTitle:depressan	predictedType:Chemical
+ENTITY	text:Antidepressant	normalName:antidepressant	predictedType:chemical	q:true	qid:Q492	docId:11379838	origText:Antidepressant	url:D000928
+CANDIDATE	id:928	inCount:2	outCount:1	links:17367	url:D000928	name:Antidepressant Drugs	normalName:antidepressant drugs	normalWikiTitle:antidepressant drugs	predictedType:Chemical
+CANDIDATE	id:1067	inCount:0	outCount:1	links:	url:D001067	name:Appetite Depressants	normalName:appetite depressants	normalWikiTitle:appetite depressants	predictedType:Chemical
+CANDIDATE	id:582740	inCount:0	outCount:2	links:	url:C582740	name:Zanipress	normalName:zanipress	normalWikiTitle:zanipress	predictedType:Chemical
+CANDIDATE	id:51520	inCount:0	outCount:1	links:	url:D051520	name:Antiperspirants	normalName:antiperspirants	normalWikiTitle:antiperspirants	predictedType:Chemical
+CANDIDATE	id:115070	inCount:0	outCount:2	links:	url:C115070	name:ranirestat	normalName:ranirestat	normalWikiTitle:ranirestat	predictedType:Chemical
+CANDIDATE	id:12169	inCount:0	outCount:1	links:	url:C012169	name:adepren	normalName:adepren	normalWikiTitle:adepren	predictedType:Chemical
+CANDIDATE	id:5577	inCount:1	outCount:1	links:	url:D005577	name:Forssman Antigen	normalName:forssman antigen	normalWikiTitle:forssman antigen	predictedType:Chemical
+CANDIDATE	id:590915	inCount:0	outCount:2	links:	url:C000590915	name:Aticaprant	normalName:aticaprant	normalWikiTitle:aticaprant	predictedType:Chemical
+CANDIDATE	id:445122	inCount:0	outCount:1	links:	url:C445122	name:Niprisan	normalName:niprisan	normalWikiTitle:niprisan	predictedType:Chemical
+CANDIDATE	id:976	inCount:1	outCount:1	links:	url:D000976	name:Antipain	normalName:antipain	normalWikiTitle:antipain	predictedType:Chemical
+CANDIDATE	id:449663	inCount:0	outCount:1	links:	url:C449663	name:thymodepressin	normalName:thymodepressin	normalWikiTitle:thymodepressin	predictedType:Chemical
+CANDIDATE	id:928	inCount:2	outCount:1	links:17367	url:D000928	name:Antidepressants	normalName:antidepressants	normalWikiTitle:antidepressants	predictedType:Chemical
+CANDIDATE	id:928	inCount:2	outCount:1	links:17367	url:D000928	name:Drugs, Antidepressant	normalName:drugs, antidepressant	normalWikiTitle:drugs, antidepressant	predictedType:Chemical
+CANDIDATE	id:4078	inCount:3	outCount:1	links:	url:D004078	name:Depressan	normalName:depressan	normalWikiTitle:depressan	predictedType:Chemical
+ENTITY	text:serotonin reuptake inhibitors	normalName:serotonin reuptake inhibitors	predictedType:chemical	q:true	qid:Q492	docId:11379838	origText:serotonin reuptake inhibitors	url:D017367
+CANDIDATE	id:17367	inCount:0	outCount:2	links:928	url:D017367	name:Reuptake Inhibitors, Serotonin	normalName:reuptake inhibitors, serotonin	normalWikiTitle:reuptake inhibitors, serotonin	predictedType:Chemical

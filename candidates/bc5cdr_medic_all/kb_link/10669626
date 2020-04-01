@@ -1,0 +1,13 @@
+ENTITY	text:calcification	normalName:calcification	predictedType:disease	q:true	qid:Q1315	docId:10669626	origText:calcification	url:D002114
+CANDIDATE	id:2114	inCount:46	outCount:1	links:	url:D002114	name:Microcalcifications	normalName:microcalcifications	normalWikiTitle:microcalcifications	predictedType:Disease
+CANDIDATE	id:58442	inCount:0	outCount:1	links:	url:D058442	name:Capsule Opacification	normalName:capsule opacification	normalWikiTitle:capsule opacification	predictedType:Disease
+CANDIDATE	id:61205	inCount:3	outCount:1	links:	url:D061205	name:Vascular Calcification	normalName:vascular calcification	normalWikiTitle:vascular calcification	predictedType:Disease
+CANDIDATE	id:5490	inCount:1	outCount:1	links:	url:D005490	name:Focal Infection	normalName:focal infection	normalWikiTitle:focal infection	predictedType:Disease
+CANDIDATE	id:4614	inCount:1	outCount:1	links:	url:D004614	name:Emaciation	normalName:emaciation	normalWikiTitle:emaciation	predictedType:Disease
+CANDIDATE	id:5207	inCount:1	outCount:1	links:	url:D005207	name:Fasciculation	normalName:fasciculation	normalWikiTitle:fasciculation	predictedType:Disease
+CANDIDATE	id:3784	inCount:2	outCount:1	links:	url:D003784	name:Dental Pulp Calcification	normalName:dental pulp calcification	normalWikiTitle:dental pulp calcification	predictedType:Disease
+CANDIDATE	id:3649	inCount:1	outCount:2	links:	url:D003649	name:Decalcification, Pathologic	normalName:decalcification, pathologic	normalWikiTitle:decalcification, pathologic	predictedType:Disease
+CANDIDATE	id:60085	inCount:0	outCount:3	links:	url:D060085	name:Coinfection	normalName:coinfection	normalWikiTitle:coinfection	predictedType:Disease
+CANDIDATE	id:6212	inCount:1	outCount:1	links:	url:D006212	name:Hallucinations	normalName:hallucinations	normalWikiTitle:hallucinations	predictedType:Disease
+CANDIDATE	id:566837	inCount:0	outCount:1	links:	url:C566837	name:Pancreatitis, Calcific	normalName:pancreatitis, calcific	normalWikiTitle:pancreatitis, calcific	predictedType:Disease
+CANDIDATE	id:2114	inCount:46	outCount:1	links:	url:D002114	name:Microcalcification	normalName:microcalcification	normalWikiTitle:microcalcification	predictedType:Disease

@@ -1,0 +1,19 @@
+ENTITY	text:septicemia	normalName:septicemia	predictedType:disease	q:true	qid:Q141	docId:1655018	origText:septicemia	url:D018805
+CANDIDATE	id:18805	inCount:6	outCount:2	links:	url:D018805	name:Septicemia	normalName:septicemia	normalWikiTitle:septicemia	predictedType:Disease
+ENTITY	text:hepatic neoplasms	normalName:hepatic neoplasms	predictedType:disease	q:true	qid:Q141	docId:1655018	origText:hepatic neoplasms	url:D008113
+CANDIDATE	id:8113	inCount:5	outCount:2	links:	url:D008113	name:Neoplasms, Hepatic	normalName:neoplasms, hepatic	normalWikiTitle:neoplasms, hepatic	predictedType:Disease
+ENTITY	text:hemorrhagic bronchopneumonia	normalName:hemorrhagic bronchopneumonia	predictedType:disease	q:true	qid:Q141	docId:1655018	origText:hemorrhagic bronchopneumonia	url:D001996
+CANDIDATE	id:1996	inCount:0	outCount:2	links:	url:D001996	name:Bronchopneumonia	normalName:bronchopneumonia	normalWikiTitle:bronchopneumonia	predictedType:Disease
+CANDIDATE	id:2832	inCount:0	outCount:2	links:	url:D002832	name:Choroid Hemorrhage	normalName:choroid hemorrhage	normalWikiTitle:choroid hemorrhage	predictedType:Disease
+CANDIDATE	id:1998	inCount:0	outCount:1	links:	url:D001998	name:Bronchopulmonary Sequestration	normalName:bronchopulmonary sequestration	normalWikiTitle:bronchopulmonary sequestration	predictedType:Disease
+CANDIDATE	id:3232	inCount:0	outCount:2	links:	url:D003232	name:Conjunctivitis, Acute Hemorrhagic	normalName:conjunctivitis, acute hemorrhagic	normalWikiTitle:conjunctivitis, acute hemorrhagic	predictedType:Disease
+CANDIDATE	id:1997	inCount:0	outCount:2	links:	url:D001997	name:Bronchopulmonary Dysplasia	normalName:bronchopulmonary dysplasia	normalWikiTitle:bronchopulmonary dysplasia	predictedType:Disease
+CANDIDATE	id:6478	inCount:0	outCount:2	links:	url:D006478	name:Hemorrhagic Fever, American	normalName:hemorrhagic fever, american	normalWikiTitle:hemorrhagic fever, american	predictedType:Disease
+CANDIDATE	id:19142	inCount:0	outCount:2	links:	url:D019142	name:Hemorrhagic Fever, Ebola	normalName:hemorrhagic fever, ebola	normalWikiTitle:hemorrhagic fever, ebola	predictedType:Disease
+CANDIDATE	id:6471	inCount:3	outCount:2	links:	url:D006471	name:Gastrointestinal Hemorrhage	normalName:gastrointestinal hemorrhage	normalWikiTitle:gastrointestinal hemorrhage	predictedType:Disease
+CANDIDATE	id:30243	inCount:0	outCount:2	links:	url:D030243	name:Hemorrhagic Syndrome, Bovine	normalName:hemorrhagic syndrome, bovine	normalWikiTitle:hemorrhagic syndrome, bovine	predictedType:Disease
+CANDIDATE	id:6474	inCount:26	outCount:1	links:	url:D006474	name:Hemorrhagic Disorders	normalName:hemorrhagic disorders	normalWikiTitle:hemorrhagic disorders	predictedType:Disease
+ENTITY	text:Hepatocellular carcinoma	normalName:hepatocellular carcinoma	predictedType:disease	q:true	qid:Q141	docId:1655018	origText:Hepatocellular carcinoma	url:D006528
+CANDIDATE	id:6528	inCount:3	outCount:2	links:	url:D006528	name:Carcinoma, Hepatocellular	normalName:carcinoma, hepatocellular	normalWikiTitle:carcinoma, hepatocellular	predictedType:Disease
+ENTITY	text:Fanconi's anemia	normalName:fanconi's anemia	predictedType:disease	q:true	qid:Q141	docId:1655018	origText:Fanconi's anemia	url:D005199
+CANDIDATE	id:5199	inCount:21	outCount:2	links:	url:D005199	name:Fanconi's Anemia	normalName:fanconi's anemia	normalWikiTitle:fanconi's anemia	predictedType:Disease

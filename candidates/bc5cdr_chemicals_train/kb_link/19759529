@@ -1,0 +1,18 @@
+ENTITY	text:glycine	normalName:glycine	predictedType:chemical	q:true	qid:Q24	docId:19759529	origText:glycine	url:D005998
+CANDIDATE	id:5998	inCount:463	outCount:1	links:	url:D005998	name:Glycine	normalName:glycine	normalWikiTitle:glycine	predictedType:Chemical
+ENTITY	text:NMDA	normalName:nmda	predictedType:chemical	q:true	qid:Q24	docId:19759529	origText:NMDA	url:D016202
+CANDIDATE	id:16202	inCount:3	outCount:1	links:16202	url:D016202	name:NMDA	normalName:nmda	normalWikiTitle:nmda	predictedType:Chemical
+ENTITY	text:clozapine	normalName:clozapine	predictedType:chemical	q:true	qid:Q24	docId:19759529	origText:clozapine	url:D003024
+CANDIDATE	id:3024	inCount:15	outCount:1	links:	url:D003024	name:Clozapine	normalName:clozapine	normalWikiTitle:clozapine	predictedType:Chemical
+ENTITY	text:N-methyl-D-aspartate	normalName:n-methyl-d-aspartate	predictedType:chemical	q:true	qid:Q24	docId:19759529	origText:N-methyl-D-aspartate	url:D016202
+CANDIDATE	id:16202	inCount:3	outCount:1	links:16202	url:D016202	name:N-Methyl-D-aspartate	normalName:n-methyl-d-aspartate	normalWikiTitle:n-methyl-d-aspartate	predictedType:Chemical
+ENTITY	text:MK-801	normalName:mk-801	predictedType:chemical	q:true	qid:Q24	docId:19759529	origText:MK-801	url:D016291
+CANDIDATE	id:16291	inCount:9	outCount:1	links:	url:D016291	name:MK 801	normalName:mk 801	normalWikiTitle:mk 801	predictedType:Chemical
+ENTITY	text:haloperidol	normalName:haloperidol	predictedType:chemical	q:true	qid:Q24	docId:19759529	origText:haloperidol	url:D006220
+CANDIDATE	id:6220	inCount:24	outCount:1	links:	url:D006220	name:Haloperidol	normalName:haloperidol	normalWikiTitle:haloperidol	predictedType:Chemical
+ENTITY	text:amphetamine	normalName:amphetamine	predictedType:chemical	q:true	qid:Q24	docId:19759529	origText:amphetamine	url:D000661
+CANDIDATE	id:661	inCount:1	outCount:1	links:	url:D000661	name:Amphetamine	normalName:amphetamine	normalWikiTitle:amphetamine	predictedType:Chemical
+ENTITY	text:glutamate	normalName:glutamate	predictedType:chemical	q:true	qid:Q24	docId:19759529	origText:glutamate	url:D018698
+CANDIDATE	id:18698	inCount:53	outCount:2	links:	url:D018698	name:Glutamate	normalName:glutamate	normalWikiTitle:glutamate	predictedType:Chemical
+ENTITY	text:dopamine	normalName:dopamine	predictedType:chemical	q:true	qid:Q24	docId:19759529	origText:dopamine	url:D004298
+CANDIDATE	id:4298	inCount:90	outCount:2	links:	url:D004298	name:Dopamine	normalName:dopamine	normalWikiTitle:dopamine	predictedType:Chemical

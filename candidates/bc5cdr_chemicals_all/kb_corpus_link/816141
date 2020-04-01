@@ -1,0 +1,4 @@
+ENTITY	text:Cephalothin	normalName:cephalothin	predictedType:chemical	q:true	qid:Q688	docId:816141	origText:Cephalothin	url:D002512
+CANDIDATE	id:2512	inCount:4	outCount:1	links:	url:D002512	name:Cephalothin	normalName:cephalothin	normalWikiTitle:cephalothin	predictedType:Chemical
+ENTITY	text:ampicillin	normalName:ampicillin	predictedType:chemical	q:true	qid:Q688	docId:816141	origText:ampicillin	url:D000667
+CANDIDATE	id:667	inCount:26	outCount:1	links:	url:D000667	name:Ampicillin	normalName:ampicillin	normalWikiTitle:ampicillin	predictedType:Chemical

@@ -1,0 +1,18 @@
+ENTITY	text:5-HT	normalName:5-ht	predictedType:chemical	q:true	qid:Q1442	docId:15614572	origText:5-HT	url:D012701
+CANDIDATE	id:12701	inCount:48	outCount:2	links:12701;4298	url:D012701	name:5-HT	normalName:5-ht	normalWikiTitle:5-ht	predictedType:Chemical
+ENTITY	text:trazodone	normalName:trazodone	predictedType:chemical	q:true	qid:Q1442	docId:15614572	origText:trazodone	url:D014196
+CANDIDATE	id:14196	inCount:5	outCount:2	links:	url:D014196	name:Trazodone	normalName:trazodone	normalWikiTitle:trazodone	predictedType:Chemical
+ENTITY	text:dopamine	normalName:dopamine	predictedType:chemical	q:true	qid:Q1442	docId:15614572	origText:dopamine	url:D004298
+CANDIDATE	id:4298	inCount:90	outCount:2	links:12701	url:D004298	name:Dopamine	normalName:dopamine	normalWikiTitle:dopamine	predictedType:Chemical
+ENTITY	text:ergometrine	normalName:ergometrine	predictedType:chemical	q:true	qid:Q1442	docId:15614572	origText:ergometrine	url:D004874
+CANDIDATE	id:4874	inCount:3	outCount:1	links:	url:D004874	name:Ergometrine	normalName:ergometrine	normalWikiTitle:ergometrine	predictedType:Chemical
+ENTITY	text:fluoxetine	normalName:fluoxetine	predictedType:chemical	q:true	qid:Q1442	docId:15614572	origText:fluoxetine	url:D005473
+CANDIDATE	id:5473	inCount:8	outCount:1	links:3913;6220;1058	url:D005473	name:Fluoxetine	normalName:fluoxetine	normalWikiTitle:fluoxetine	predictedType:Chemical
+ENTITY	text:dexamphetamine	normalName:dexamphetamine	predictedType:chemical	q:true	qid:Q1442	docId:15614572	origText:dexamphetamine	url:D003913
+CANDIDATE	id:3913	inCount:7	outCount:1	links:1058;5473	url:D003913	name:Dexamphetamine	normalName:dexamphetamine	normalWikiTitle:dexamphetamine	predictedType:Chemical
+ENTITY	text:haloperidol	normalName:haloperidol	predictedType:chemical	q:true	qid:Q1442	docId:15614572	origText:haloperidol	url:D006220
+CANDIDATE	id:6220	inCount:24	outCount:1	links:1058;5473	url:D006220	name:Haloperidol	normalName:haloperidol	normalWikiTitle:haloperidol	predictedType:Chemical
+ENTITY	text:apomorphine	normalName:apomorphine	predictedType:chemical	q:true	qid:Q1442	docId:15614572	origText:apomorphine	url:D001058
+CANDIDATE	id:1058	inCount:29	outCount:1	links:3913;6220;5473	url:D001058	name:Apomorphine	normalName:apomorphine	normalWikiTitle:apomorphine	predictedType:Chemical
+ENTITY	text:5-Hydroxytryptamine	normalName:5-hydroxytryptamine	predictedType:chemical	q:true	qid:Q1442	docId:15614572	origText:5-Hydroxytryptamine	url:D012701
+CANDIDATE	id:12701	inCount:48	outCount:2	links:12701;4298	url:D012701	name:5 Hydroxytryptamine	normalName:5 hydroxytryptamine	normalWikiTitle:5 hydroxytryptamine	predictedType:Chemical

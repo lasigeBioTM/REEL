@@ -1,0 +1,8 @@
+ENTITY	text:creatinine	normalName:creatinine	predictedType:chemical	q:true	qid:Q255	docId:1720453	origText:creatinine	url:D003404
+CANDIDATE	id:3404	inCount:8	outCount:1	links:	url:D003404	name:Creatinine	normalName:creatinine	normalWikiTitle:creatinine	predictedType:Chemical
+ENTITY	text:phosphate	normalName:phosphate	predictedType:chemical	q:true	qid:Q255	docId:1720453	origText:phosphate	url:D010710
+CANDIDATE	id:10710	inCount:107	outCount:2	links:	url:D010710	name:Phosphate	normalName:phosphate	normalWikiTitle:phosphate	predictedType:Chemical
+ENTITY	text:ifosfamide	normalName:ifosfamide	predictedType:chemical	q:true	qid:Q255	docId:1720453	origText:ifosfamide	url:D007069
+CANDIDATE	id:7069	inCount:106	outCount:2	links:	url:D007069	name:Ifosfamide	normalName:ifosfamide	normalWikiTitle:ifosfamide	predictedType:Chemical
+ENTITY	text:cisplatin	normalName:cisplatin	predictedType:chemical	q:true	qid:Q255	docId:1720453	origText:cisplatin	url:D002945
+CANDIDATE	id:2945	inCount:293	outCount:3	links:	url:D002945	name:Cisplatin	normalName:cisplatin	normalWikiTitle:cisplatin	predictedType:Chemical

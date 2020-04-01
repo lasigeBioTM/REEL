@@ -1,0 +1,23 @@
+ENTITY	text:ischemic stroke	normalName:ischemic stroke	predictedType:disease	q:true	qid:Q257	docId:10406016	origText:ischemic stroke	url:D002544
+CANDIDATE	id:2544	inCount:5	outCount:1	links:1925;2543;2545;1927	url:D002544	name:STROKE, ISCHEMIC	normalName:stroke, ischemic	normalWikiTitle:stroke, ischemic	predictedType:Disease
+ENTITY	text:brain damage	normalName:brain damage	predictedType:disease	q:true	qid:Q257	docId:10406016	origText:brain damage	url:D001925
+CANDIDATE	id:1925	inCount:3	outCount:1	links:2544;2543	url:D001925	name:Brain Damage, Chronic	normalName:brain damage, chronic	normalWikiTitle:brain damage, chronic	predictedType:Disease
+CANDIDATE	id:1929	inCount:2	outCount:1	links:	url:D001929	name:Brain Edema	normalName:brain edema	normalWikiTitle:brain edema	predictedType:Disease
+CANDIDATE	id:1926	inCount:0	outCount:3	links:	url:D001926	name:Brain Death	normalName:brain death	normalWikiTitle:brain death	predictedType:Disease
+CANDIDATE	id:1927	inCount:55	outCount:1	links:6470;2544;2543	url:D001927	name:Brain Diseases	normalName:brain diseases	normalWikiTitle:brain diseases	predictedType:Disease
+CANDIDATE	id:535282	inCount:0	outCount:5	links:	url:C535282	name:Raine syndrome	normalName:raine syndrome	normalWikiTitle:raine syndrome	predictedType:Disease
+CANDIDATE	id:2545	inCount:4	outCount:1	links:2544;2543	url:D002545	name:Brain Ischemia	normalName:brain ischemia	normalWikiTitle:brain ischemia	predictedType:Disease
+CANDIDATE	id:1932	inCount:16	outCount:2	links:	url:D001932	name:Brain Neoplasms	normalName:brain neoplasms	normalWikiTitle:brain neoplasms	predictedType:Disease
+CANDIDATE	id:537419	inCount:0	outCount:2	links:	url:C537419	name:Bohring syndrome	normalName:bohring syndrome	normalWikiTitle:bohring syndrome	predictedType:Disease
+CANDIDATE	id:2534	inCount:1	outCount:1	links:	url:D002534	name:Hypoxia, Brain	normalName:hypoxia, brain	normalWikiTitle:hypoxia, brain	predictedType:Disease
+CANDIDATE	id:1890	inCount:0	outCount:2	links:	url:D001890	name:Borna Disease	normalName:borna disease	normalWikiTitle:borna disease	predictedType:Disease
+ENTITY	text:inflammation	normalName:inflammation	predictedType:disease	q:true	qid:Q257	docId:10406016	origText:inflammation	url:D007249
+CANDIDATE	id:7249	inCount:14	outCount:1	links:	url:D007249	name:Inflammation	normalName:inflammation	normalWikiTitle:inflammation	predictedType:Disease
+ENTITY	text:hematoma	normalName:hematoma	predictedType:disease	q:true	qid:Q257	docId:10406016	origText:hematoma	url:D006406
+CANDIDATE	id:6406	inCount:3	outCount:1	links:6470;2543	url:D006406	name:Hematoma	normalName:hematoma	normalWikiTitle:hematoma	predictedType:Disease
+ENTITY	text:hematomas	normalName:hematomas	predictedType:disease	q:true	qid:Q257	docId:10406016	origText:hematomas	url:D006406
+CANDIDATE	id:6406	inCount:3	outCount:1	links:6470;2543	url:D006406	name:Hematoma	normalName:hematoma	normalWikiTitle:hematoma	predictedType:Disease
+ENTITY	text:hemorrhage	normalName:hemorrhage	predictedType:disease	q:true	qid:Q257	docId:10406016	origText:hemorrhage	url:D006470
+CANDIDATE	id:6470	inCount:31	outCount:1	links:6406;2543;1927	url:D006470	name:Hemorrhage	normalName:hemorrhage	normalWikiTitle:hemorrhage	predictedType:Disease
+ENTITY	text:intracerebral hemorrhage	normalName:intracerebral hemorrhage	predictedType:disease	q:true	qid:Q257	docId:10406016	origText:intracerebral hemorrhage	url:D002543
+CANDIDATE	id:2543	inCount:3	outCount:1	links:1925;2545;2544;6470;1927;6406	url:D002543	name:Hemorrhage, Intracerebral	normalName:hemorrhage, intracerebral	normalWikiTitle:hemorrhage, intracerebral	predictedType:Disease

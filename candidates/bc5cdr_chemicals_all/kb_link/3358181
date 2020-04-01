@@ -1,0 +1,8 @@
+ENTITY	text:potassium	normalName:potassium	predictedType:chemical	q:true	qid:Q1022	docId:3358181	origText:potassium	url:D011188
+CANDIDATE	id:11188	inCount:10	outCount:2	links:	url:D011188	name:Potassium	normalName:potassium	normalWikiTitle:potassium	predictedType:Chemical
+ENTITY	text:phenylephrine	normalName:phenylephrine	predictedType:chemical	q:true	qid:Q1022	docId:3358181	origText:phenylephrine	url:D010656
+CANDIDATE	id:10656	inCount:28	outCount:1	links:	url:D010656	name:Phenylephrine	normalName:phenylephrine	normalWikiTitle:phenylephrine	predictedType:Chemical
+ENTITY	text:ritodrine	normalName:ritodrine	predictedType:chemical	q:true	qid:Q1022	docId:3358181	origText:ritodrine	url:D012312
+CANDIDATE	id:12312	inCount:0	outCount:2	links:	url:D012312	name:Ritodrine	normalName:ritodrine	normalWikiTitle:ritodrine	predictedType:Chemical
+ENTITY	text:ephedrine	normalName:ephedrine	predictedType:chemical	q:true	qid:Q1022	docId:3358181	origText:ephedrine	url:D004809
+CANDIDATE	id:4809	inCount:31	outCount:2	links:	url:D004809	name:Ephedrine	normalName:ephedrine	normalWikiTitle:ephedrine	predictedType:Chemical

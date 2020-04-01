@@ -1,0 +1,6 @@
+ENTITY	text:tiapride	normalName:tiapride	predictedType:chemical	q:true	qid:Q605	docId:24881749	origText:tiapride	url:D063325
+CANDIDATE	id:63325	inCount:0	outCount:2	links:13747	url:D063325	name:Tiapride	normalName:tiapride	normalWikiTitle:tiapride	predictedType:Chemical
+ENTITY	text:tetrabenazine	normalName:tetrabenazine	predictedType:chemical	q:true	qid:Q605	docId:24881749	origText:tetrabenazine	url:D013747
+CANDIDATE	id:13747	inCount:10	outCount:1	links:63325	url:D013747	name:Tetrabenazine	normalName:tetrabenazine	normalWikiTitle:tetrabenazine	predictedType:Chemical
+ENTITY	text:neuroleptic drugs	normalName:neuroleptic drugs	predictedType:chemical	q:true	qid:Q605	docId:24881749	origText:neuroleptic drugs	url:D014150
+CANDIDATE	id:14150	inCount:0	outCount:1	links:	url:D014150	name:Drugs, Neuroleptic	normalName:drugs, neuroleptic	normalWikiTitle:drugs, neuroleptic	predictedType:Chemical

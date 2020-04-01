@@ -1,0 +1,4 @@
+ENTITY	text:dextromethorphan	normalName:dextromethorphan	predictedType:chemical	q:true	qid:Q149	docId:7803371	origText:dextromethorphan	url:D003915
+CANDIDATE	id:3915	inCount:14	outCount:1	links:	url:D003915	name:Dextromethorphan	normalName:dextromethorphan	normalWikiTitle:dextromethorphan	predictedType:Chemical
+ENTITY	text:3-hydroxy-N-methylmorphinan	normalName:3-hydroxy-n-methylmorphinan	predictedType:chemical	q:true	qid:Q149	docId:7803371	origText:3-hydroxy-N-methylmorphinan	url:D007981
+CANDIDATE	id:7981	inCount:5	outCount:1	links:	url:D007981	name:3-Hydroxy-N-methylmorphinan	normalName:3-hydroxy-n-methylmorphinan	normalWikiTitle:3-hydroxy-n-methylmorphinan	predictedType:Chemical

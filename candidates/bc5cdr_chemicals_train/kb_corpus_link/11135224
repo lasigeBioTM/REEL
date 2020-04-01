@@ -1,0 +1,6 @@
+ENTITY	text:gemcitabine	normalName:gemcitabine	predictedType:chemical	q:true	qid:Q489	docId:11135224	origText:gemcitabine	url:C056507
+CANDIDATE	id:56507	inCount:0	outCount:1	links:17239;2945	url:C056507	name:gemcitabine	normalName:gemcitabine	normalWikiTitle:gemcitabine	predictedType:Chemical
+ENTITY	text:cisplatin	normalName:cisplatin	predictedType:chemical	q:true	qid:Q489	docId:11135224	origText:cisplatin	url:D002945
+CANDIDATE	id:2945	inCount:293	outCount:3	links:17239;56507	url:D002945	name:Cisplatin	normalName:cisplatin	normalWikiTitle:cisplatin	predictedType:Chemical
+ENTITY	text:Paclitaxel	normalName:paclitaxel	predictedType:chemical	q:true	qid:Q489	docId:11135224	origText:Paclitaxel	url:D017239
+CANDIDATE	id:17239	inCount:58	outCount:1	links:2945;56507	url:D017239	name:Paclitaxel	normalName:paclitaxel	normalWikiTitle:paclitaxel	predictedType:Chemical

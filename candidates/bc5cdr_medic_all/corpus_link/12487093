@@ -1,0 +1,4 @@
+ENTITY	text:hypertension	normalName:hypertension	predictedType:disease	q:true	qid:Q268	docId:12487093	origText:hypertension	url:D006973
+CANDIDATE	id:6973	inCount:18	outCount:1	links:12640	url:D006973	name:Hypertension	normalName:hypertension	normalWikiTitle:hypertension	predictedType:Disease
+ENTITY	text:seizure	normalName:seizure	predictedType:disease	q:true	qid:Q268	docId:12487093	origText:seizure	url:D012640
+CANDIDATE	id:12640	inCount:53	outCount:1	links:6973	url:D012640	name:Seizure	normalName:seizure	normalWikiTitle:seizure	predictedType:Disease

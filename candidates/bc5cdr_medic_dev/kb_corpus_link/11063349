@@ -1,0 +1,56 @@
+ENTITY	text:pneumonia	normalName:pneumonia	predictedType:disease	q:true	qid:Q479	docId:11063349	origText:pneumonia	url:D011014
+CANDIDATE	id:11014	inCount:10	outCount:2	links:	url:D011014	name:Pneumonia	normalName:pneumonia	normalWikiTitle:pneumonia	predictedType:Disease
+ENTITY	text:infectious mononucleosis	normalName:infectious mononucleosis	predictedType:disease	q:true	qid:Q479	docId:11063349	origText:infectious mononucleosis	url:D007244
+CANDIDATE	id:7244	inCount:0	outCount:3	links:	url:D007244	name:Infectious Mononucleosis	normalName:infectious mononucleosis	normalWikiTitle:infectious mononucleosis	predictedType:Disease
+ENTITY	text:toxicity	normalName:toxicity	predictedType:disease	q:true	qid:Q479	docId:11063349	origText:toxicity	url:D064420
+CANDIDATE	id:64420	inCount:10	outCount:1	links:	url:D064420	name:Drug Toxicity	normalName:drug toxicity	normalWikiTitle:drug toxicity	predictedType:Disease
+CANDIDATE	id:66126	inCount:0	outCount:3	links:	url:D066126	name:Cardiotoxicity	normalName:cardiotoxicity	normalWikiTitle:cardiotoxicity	predictedType:Disease
+CANDIDATE	id:15651	inCount:2	outCount:1	links:	url:D015651	name:Mycotoxicosis	normalName:mycotoxicosis	normalWikiTitle:mycotoxicosis	predictedType:Disease
+CANDIDATE	id:13971	inCount:2	outCount:1	links:	url:D013971	name:Thyrotoxicosis	normalName:thyrotoxicosis	normalWikiTitle:thyrotoxicosis	predictedType:Disease
+CANDIDATE	id:14869	inCount:0	outCount:2	links:	url:D014869	name:Water Intoxication	normalName:water intoxication	normalWikiTitle:water intoxication	predictedType:Disease
+CANDIDATE	id:14103	inCount:4	outCount:2	links:	url:D014103	name:Torticollis	normalName:torticollis	normalWikiTitle:torticollis	predictedType:Disease
+CANDIDATE	id:9765	inCount:42	outCount:2	links:	url:D009765	name:Obesity	normalName:obesity	normalWikiTitle:obesity	predictedType:Disease
+CANDIDATE	id:14115	inCount:1	outCount:1	links:	url:D014115	name:Toxemia	normalName:toxemia	normalWikiTitle:toxemia	predictedType:Disease
+CANDIDATE	id:7246	inCount:2	outCount:2	links:	url:D007246	name:Infertility	normalName:infertility	normalWikiTitle:infertility	predictedType:Disease
+CANDIDATE	id:20234	inCount:0	outCount:2	links:	url:D020234	name:Gait Ataxia	normalName:gait ataxia	normalWikiTitle:gait ataxia	predictedType:Disease
+CANDIDATE	id:14069	inCount:1	outCount:1	links:	url:D014069	name:Tonsillitis	normalName:tonsillitis	normalWikiTitle:tonsillitis	predictedType:Disease
+CANDIDATE	id:64420	inCount:10	outCount:1	links:	url:D064420	name:Toxicity, Drug	normalName:toxicity, drug	normalWikiTitle:toxicity, drug	predictedType:Disease
+CANDIDATE	id:17484	inCount:0	outCount:2	links:	url:D017484	name:Phototoxicity	normalName:phototoxicity	normalWikiTitle:phototoxicity	predictedType:Disease
+ENTITY	text:aphtous ulcers	normalName:aphtous ulcers	predictedType:disease	q:true	qid:Q479	docId:11063349	origText:aphtous ulcers	url:D013281
+CANDIDATE	id:13281	inCount:1	outCount:1	links:	url:D013281	name:Aphthous Ulcer	normalName:aphthous ulcer	normalWikiTitle:aphthous ulcer	predictedType:Disease
+CANDIDATE	id:10437	inCount:6	outCount:2	links:	url:D010437	name:Peptic Ulcer	normalName:peptic ulcer	normalWikiTitle:peptic ulcer	predictedType:Disease
+CANDIDATE	id:15440	inCount:0	outCount:1	links:	url:D015440	name:Leprosy, Lepromatous	normalName:leprosy, lepromatous	normalWikiTitle:leprosy, lepromatous	predictedType:Disease
+CANDIDATE	id:13276	inCount:0	outCount:1	links:	url:D013276	name:Stomach Ulcer	normalName:stomach ulcer	normalWikiTitle:stomach ulcer	predictedType:Disease
+CANDIDATE	id:12883	inCount:5	outCount:1	links:	url:D012883	name:Skin Ulcer	normalName:skin ulcer	normalWikiTitle:skin ulcer	predictedType:Disease
+CANDIDATE	id:16523	inCount:1	outCount:2	links:	url:D016523	name:Foot Ulcer	normalName:foot ulcer	normalWikiTitle:foot ulcer	predictedType:Disease
+CANDIDATE	id:19226	inCount:0	outCount:1	links:	url:D019226	name:Oral Ulcer	normalName:oral ulcer	normalWikiTitle:oral ulcer	predictedType:Disease
+CANDIDATE	id:8177	inCount:0	outCount:1	links:	url:D008177	name:Lupus Vulgaris	normalName:lupus vulgaris	normalWikiTitle:lupus vulgaris	predictedType:Disease
+CANDIDATE	id:3668	inCount:0	outCount:1	links:	url:D003668	name:Pressure Ulcer	normalName:pressure ulcer	normalWikiTitle:pressure ulcer	predictedType:Disease
+CANDIDATE	id:12784	inCount:1	outCount:2	links:	url:D012784	name:Shoulder Fractures	normalName:shoulder fractures	normalWikiTitle:shoulder fractures	predictedType:Disease
+CANDIDATE	id:16112	inCount:1	outCount:2	links:	url:D016112	name:Ichthyosis Vulgaris	normalName:ichthyosis vulgaris	normalWikiTitle:ichthyosis vulgaris	predictedType:Disease
+CANDIDATE	id:13281	inCount:1	outCount:1	links:	url:D013281	name:Ulcers, Aphthous	normalName:ulcers, aphthous	normalWikiTitle:ulcers, aphthous	predictedType:Disease
+CANDIDATE	id:13281	inCount:1	outCount:1	links:	url:D013281	name:Aphthous Ulcers	normalName:aphthous ulcers	normalWikiTitle:aphthous ulcers	predictedType:Disease
+CANDIDATE	id:13281	inCount:1	outCount:1	links:	url:D013281	name:Ulcer, Aphthous	normalName:ulcer, aphthous	normalWikiTitle:ulcer, aphthous	predictedType:Disease
+CANDIDATE	id:538145	inCount:0	outCount:1	links:	url:C538145	name:Major Aphthous Ulcer	normalName:major aphthous ulcer	normalWikiTitle:major aphthous ulcer	predictedType:Disease
+CANDIDATE	id:19226	inCount:0	outCount:1	links:	url:D019226	name:Ulcers, Mouth	normalName:ulcers, mouth	normalWikiTitle:ulcers, mouth	predictedType:Disease
+CANDIDATE	id:19226	inCount:0	outCount:1	links:	url:D019226	name:Mouth Ulcers	normalName:mouth ulcers	normalWikiTitle:mouth ulcers	predictedType:Disease
+CANDIDATE	id:538145	inCount:0	outCount:1	links:	url:C538145	name:Aphthous Ulcer, Recurrent	normalName:aphthous ulcer, recurrent	normalWikiTitle:aphthous ulcer, recurrent	predictedType:Disease
+CANDIDATE	id:14647	inCount:0	outCount:2	links:	url:D014647	name:Stasis Ulcers	normalName:stasis ulcers	normalWikiTitle:stasis ulcers	predictedType:Disease
+CANDIDATE	id:3668	inCount:0	outCount:1	links:	url:D003668	name:Decubitus Ulcers	normalName:decubitus ulcers	normalWikiTitle:decubitus ulcers	predictedType:Disease
+ENTITY	text:Pneumocystis carinii pneumonia	normalName:pneumocystis carinii pneumonia	predictedType:disease	q:true	qid:Q479	docId:11063349	origText:Pneumocystis carinii pneumonia	url:D011020
+CANDIDATE	id:11020	inCount:0	outCount:3	links:	url:D011020	name:Pneumonia, Pneumocystis carinii	normalName:pneumonia, pneumocystis carinii	normalWikiTitle:pneumonia, pneumocystis carinii	predictedType:Disease
+ENTITY	text:posttransplant lymphoproliferative disorder	normalName:posttransplant lymphoproliferative disorder	predictedType:disease	q:true	qid:Q479	docId:11063349	origText:posttransplant lymphoproliferative disorder	url:D008232
+CANDIDATE	id:8232	inCount:24	outCount:2	links:	url:D008232	name:Disorder, Lymphoproliferative	normalName:disorder, lymphoproliferative	normalWikiTitle:disorder, lymphoproliferative	predictedType:Disease
+CANDIDATE	id:8232	inCount:24	outCount:2	links:	url:D008232	name:Lymphoproliferative Disorders	normalName:lymphoproliferative disorders	normalWikiTitle:lymphoproliferative disorders	predictedType:Disease
+CANDIDATE	id:566024	inCount:0	outCount:2	links:	url:C566024	name:Transient Myeloproliferative Disorder of Down Syndrome	normalName:transient myeloproliferative disorder of down syndrome	normalWikiTitle:transient myeloproliferative disorder of down syndrome	predictedType:Disease
+CANDIDATE	id:9196	inCount:11	outCount:1	links:	url:D009196	name:Myeloproliferative Disorders	normalName:myeloproliferative disorders	normalWikiTitle:myeloproliferative disorders	predictedType:Disease
+CANDIDATE	id:7160	inCount:3	outCount:1	links:	url:D007160	name:Immunoproliferative Disorders	normalName:immunoproliferative disorders	normalWikiTitle:immunoproliferative disorders	predictedType:Disease
+CANDIDATE	id:615122	inCount:0	outCount:1	links:	url:615122	name:LYMPHOPROLIFERATIVE SYNDROME 2	normalName:lymphoproliferative syndrome 2	normalWikiTitle:lymphoproliferative syndrome 2	predictedType:Disease
+CANDIDATE	id:563551	inCount:0	outCount:2	links:	url:C563551	name:Myeloproliferative Syndrome, Transient	normalName:myeloproliferative syndrome, transient	normalWikiTitle:myeloproliferative syndrome, transient	predictedType:Disease
+CANDIDATE	id:56735	inCount:7	outCount:3	links:	url:D056735	name:Autoimmune Lymphoproliferative Syndrome	normalName:autoimmune lymphoproliferative syndrome	normalWikiTitle:autoimmune lymphoproliferative syndrome	predictedType:Disease
+CANDIDATE	id:564469	inCount:0	outCount:2	links:	url:C564469	name:Lymphoproliferative Syndrome, X-Linked, 2	normalName:lymphoproliferative syndrome, x-linked, 2	normalWikiTitle:lymphoproliferative syndrome, x-linked, 2	predictedType:Disease
+CANDIDATE	id:7161	inCount:0	outCount:4	links:	url:D007161	name:Immunoproliferative Small Intestinal Disease	normalName:immunoproliferative small intestinal disease	normalWikiTitle:immunoproliferative small intestinal disease	predictedType:Disease
+CANDIDATE	id:65446	inCount:0	outCount:2	links:	url:D065446	name:Premenstrual Dysphoric Disorder	normalName:premenstrual dysphoric disorder	normalWikiTitle:premenstrual dysphoric disorder	predictedType:Disease
+CANDIDATE	id:8232	inCount:24	outCount:2	links:	url:D008232	name:Lymphoproliferative Disorder	normalName:lymphoproliferative disorder	normalWikiTitle:lymphoproliferative disorder	predictedType:Disease
+ENTITY	text:bronchiolitis obliterans	normalName:bronchiolitis obliterans	predictedType:disease	q:true	qid:Q479	docId:11063349	origText:bronchiolitis obliterans	url:D001989
+CANDIDATE	id:1989	inCount:1	outCount:1	links:	url:D001989	name:Bronchiolitis Obliterans	normalName:bronchiolitis obliterans	normalWikiTitle:bronchiolitis obliterans	predictedType:Disease

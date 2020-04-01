@@ -1,0 +1,32 @@
+ENTITY	text:abdominal pain	normalName:abdominal pain	predictedType:disease	q:true	qid:Q217	docId:9669632	origText:abdominal pain	url:D015746
+CANDIDATE	id:15746	inCount:2	outCount:2	links:	url:D015746	name:Abdominal Pain	normalName:abdominal pain	normalWikiTitle:abdominal pain	predictedType:Disease
+ENTITY	text:pain	normalName:pain	predictedType:disease	q:true	qid:Q217	docId:9669632	origText:pain	url:D010146
+CANDIDATE	id:10146	inCount:34	outCount:1	links:	url:D010146	name:Pain	normalName:pain	normalWikiTitle:pain	predictedType:Disease
+ENTITY	text:diarrhoea	normalName:diarrhoea	predictedType:disease	q:true	qid:Q217	docId:9669632	origText:diarrhoea	url:D003967
+CANDIDATE	id:3967	inCount:14	outCount:1	links:	url:D003967	name:Diarrhea	normalName:diarrhea	normalWikiTitle:diarrhea	predictedType:Disease
+CANDIDATE	id:12798	inCount:0	outCount:1	links:	url:D012798	name:Sialorrhea	normalName:sialorrhea	normalWikiTitle:sialorrhea	predictedType:Disease
+CANDIDATE	id:568	inCount:3	outCount:1	links:	url:D000568	name:Amenorrhea	normalName:amenorrhea	normalWikiTitle:amenorrhea	predictedType:Disease
+CANDIDATE	id:3963	inCount:0	outCount:1	links:	url:D003963	name:Diaper Rash	normalName:diaper rash	normalWikiTitle:diaper rash	predictedType:Disease
+CANDIDATE	id:45602	inCount:1	outCount:1	links:	url:D045602	name:Steatorrhea	normalName:steatorrhea	normalWikiTitle:steatorrhea	predictedType:Disease
+CANDIDATE	id:3970	inCount:2	outCount:1	links:	url:D003970	name:Diastema	normalName:diastema	normalWikiTitle:diastema	predictedType:Disease
+CANDIDATE	id:3968	inCount:2	outCount:1	links:	url:D003968	name:Diarrhea, Infantile	normalName:diarrhea, infantile	normalWikiTitle:diarrhea, infantile	predictedType:Disease
+CANDIDATE	id:537438	inCount:0	outCount:1	links:	url:C537438	name:Arrhinia	normalName:arrhinia	normalWikiTitle:arrhinia	predictedType:Disease
+CANDIDATE	id:536176	inCount:0	outCount:2	links:	url:C536176	name:Dimauro disease	normalName:dimauro disease	normalWikiTitle:dimauro disease	predictedType:Disease
+CANDIDATE	id:6323	inCount:2	outCount:1	links:	url:D006323	name:Heart Arrest	normalName:heart arrest	normalWikiTitle:heart arrest	predictedType:Disease
+ENTITY	text:irritable bowel syndrome	normalName:irritable bowel syndrome	predictedType:disease	q:true	qid:Q217	docId:9669632	origText:irritable bowel syndrome	url:D043183
+CANDIDATE	id:43183	inCount:0	outCount:1	links:	url:D043183	name:Irritable Bowel Syndrome	normalName:irritable bowel syndrome	normalWikiTitle:irritable bowel syndrome	predictedType:Disease
+ENTITY	text:constipation	normalName:constipation	predictedType:disease	q:true	qid:Q217	docId:9669632	origText:constipation	url:D003248
+CANDIDATE	id:3248	inCount:3	outCount:1	links:	url:D003248	name:Constipation	normalName:constipation	normalWikiTitle:constipation	predictedType:Disease
+ENTITY	text:disordered gastrointestinal motility	normalName:disordered gastrointestinal motility	predictedType:disease	q:true	qid:Q217	docId:9669632	origText:disordered gastrointestinal motility	url:D005767
+CANDIDATE	id:5767	inCount:12	outCount:1	links:	url:D005767	name:Disease, Gastrointestinal	normalName:disease, gastrointestinal	normalWikiTitle:disease, gastrointestinal	predictedType:Disease
+CANDIDATE	id:5767	inCount:12	outCount:1	links:	url:D005767	name:Gastrointestinal Diseases	normalName:gastrointestinal diseases	normalWikiTitle:gastrointestinal diseases	predictedType:Disease
+CANDIDATE	id:15154	inCount:5	outCount:1	links:	url:D015154	name:Esophageal Motility Disorders	normalName:esophageal motility disorders	normalWikiTitle:esophageal motility disorders	predictedType:Disease
+CANDIDATE	id:6677	inCount:1	outCount:1	links:	url:D006677	name:Histrionic Personality Disorder	normalName:histrionic personality disorder	normalWikiTitle:histrionic personality disorder	predictedType:Disease
+CANDIDATE	id:10260	inCount:0	outCount:1	links:	url:D010260	name:Paranoid Personality Disorder	normalName:paranoid personality disorder	normalWikiTitle:paranoid personality disorder	predictedType:Disease
+CANDIDATE	id:14385	inCount:0	outCount:2	links:	url:D014385	name:Tuberculosis, Gastrointestinal	normalName:tuberculosis, gastrointestinal	normalWikiTitle:tuberculosis, gastrointestinal	predictedType:Disease
+CANDIDATE	id:9105	inCount:0	outCount:1	links:	url:D009105	name:Dissociative Identity Disorder	normalName:dissociative identity disorder	normalWikiTitle:dissociative identity disorder	predictedType:Disease
+CANDIDATE	id:40921	inCount:5	outCount:1	links:	url:D040921	name:Stress Disorders, Traumatic	normalName:stress disorders, traumatic	normalWikiTitle:stress disorders, traumatic	predictedType:Disease
+CANDIDATE	id:5770	inCount:7	outCount:2	links:	url:D005770	name:Gastrointestinal Neoplasms	normalName:gastrointestinal neoplasms	normalWikiTitle:gastrointestinal neoplasms	predictedType:Disease
+CANDIDATE	id:10787	inCount:16	outCount:1	links:	url:D010787	name:Photosensitivity Disorders	normalName:photosensitivity disorders	normalWikiTitle:photosensitivity disorders	predictedType:Disease
+CANDIDATE	id:571911	inCount:0	outCount:2	links:	url:C571911	name:Gastrointestinal anthrax	normalName:gastrointestinal anthrax	normalWikiTitle:gastrointestinal anthrax	predictedType:Disease
+CANDIDATE	id:5767	inCount:12	outCount:1	links:	url:D005767	name:Gastrointestinal Disease	normalName:gastrointestinal disease	normalWikiTitle:gastrointestinal disease	predictedType:Disease

@@ -1,0 +1,34 @@
+ENTITY	text:cardiovascular arrhythmias	normalName:cardiovascular arrhythmias	predictedType:disease	q:true	qid:Q157	docId:9952311	origText:cardiovascular arrhythmias	url:D001145
+CANDIDATE	id:1145	inCount:27	outCount:2	links:1919	url:D001145	name:Arrhythmias, Cardiac	normalName:arrhythmias, cardiac	normalWikiTitle:arrhythmias, cardiac	predictedType:Disease
+CANDIDATE	id:18376	inCount:6	outCount:2	links:	url:D018376	name:Cardiovascular Abnormalities	normalName:cardiovascular abnormalities	normalWikiTitle:cardiovascular abnormalities	predictedType:Disease
+CANDIDATE	id:566996	inCount:0	outCount:1	links:	url:C566996	name:Cardiac Arrhythmia, Ankyrin-B-Related	normalName:cardiac arrhythmia, ankyrin-b-related	normalWikiTitle:cardiac arrhythmia, ankyrin-b-related	predictedType:Disease
+CANDIDATE	id:17566	inCount:0	outCount:1	links:	url:D017566	name:Microvascular Angina	normalName:microvascular angina	normalWikiTitle:microvascular angina	predictedType:Disease
+CANDIDATE	id:1146	inCount:2	outCount:1	links:	url:D001146	name:Arrhythmia, Sinus	normalName:arrhythmia, sinus	normalWikiTitle:arrhythmia, sinus	predictedType:Disease
+CANDIDATE	id:20252	inCount:1	outCount:2	links:	url:D020252	name:Gastric Antral Vascular Ectasia	normalName:gastric antral vascular ectasia	normalWikiTitle:gastric antral vascular ectasia	predictedType:Disease
+CANDIDATE	id:6978	inCount:0	outCount:1	links:	url:D006978	name:Hypertension, Renovascular	normalName:hypertension, renovascular	normalWikiTitle:hypertension, renovascular	predictedType:Disease
+CANDIDATE	id:19571	inCount:14	outCount:2	links:	url:D019571	name:Arrhythmogenic Right Ventricular Dysplasia	normalName:arrhythmogenic right ventricular dysplasia	normalWikiTitle:arrhythmogenic right ventricular dysplasia	predictedType:Disease
+CANDIDATE	id:564750	inCount:0	outCount:5	links:	url:C564750	name:Vascular Hyalinosis	normalName:vascular hyalinosis	normalWikiTitle:vascular hyalinosis	predictedType:Disease
+CANDIDATE	id:54079	inCount:21	outCount:1	links:	url:D054079	name:Vascular Malformations	normalName:vascular malformations	normalWikiTitle:vascular malformations	predictedType:Disease
+ENTITY	text:bradycardia	normalName:bradycardia	predictedType:disease	q:true	qid:Q157	docId:9952311	origText:bradycardia	url:D001919
+CANDIDATE	id:1919	inCount:0	outCount:1	links:66126;1145;9202	url:D001919	name:Bradycardia	normalName:bradycardia	normalWikiTitle:bradycardia	predictedType:Disease
+ENTITY	text:cardiovascular toxicity	normalName:cardiovascular toxicity	predictedType:disease	q:true	qid:Q157	docId:9952311	origText:cardiovascular toxicity	url:D002318
+CANDIDATE	id:2318	inCount:5	outCount:1	links:	url:D002318	name:Cardiovascular Diseases	normalName:cardiovascular diseases	normalWikiTitle:cardiovascular diseases	predictedType:Disease
+CANDIDATE	id:66126	inCount:0	outCount:3	links:9202;1919	url:D066126	name:Cardiotoxicity	normalName:cardiotoxicity	normalWikiTitle:cardiotoxicity	predictedType:Disease
+CANDIDATE	id:53821	inCount:3	outCount:2	links:	url:D053821	name:Cardiovascular Infections	normalName:cardiovascular infections	normalWikiTitle:cardiovascular infections	predictedType:Disease
+CANDIDATE	id:13589	inCount:0	outCount:2	links:	url:D013589	name:Syphilis, Cardiovascular	normalName:syphilis, cardiovascular	normalWikiTitle:syphilis, cardiovascular	predictedType:Disease
+CANDIDATE	id:14381	inCount:1	outCount:2	links:	url:D014381	name:Tuberculosis, Cardiovascular	normalName:tuberculosis, cardiovascular	normalWikiTitle:tuberculosis, cardiovascular	predictedType:Disease
+CANDIDATE	id:11249	inCount:1	outCount:2	links:	url:D011249	name:Pregnancy Complications, Cardiovascular	normalName:pregnancy complications, cardiovascular	normalWikiTitle:pregnancy complications, cardiovascular	predictedType:Disease
+CANDIDATE	id:531667	inCount:0	outCount:1	links:	url:C531667	name:5 alpha Fluorouracil toxicity	normalName:5 alpha fluorouracil toxicity	normalWikiTitle:5 alpha fluorouracil toxicity	predictedType:Disease
+CANDIDATE	id:566156	inCount:0	outCount:1	links:	url:C566156	name:Cataract, Nuclear Total	normalName:cataract, nuclear total	normalWikiTitle:cataract, nuclear total	predictedType:Disease
+CANDIDATE	id:20214	inCount:3	outCount:2	links:	url:D020214	name:Cerebrovascular Trauma	normalName:cerebrovascular trauma	normalWikiTitle:cerebrovascular trauma	predictedType:Disease
+CANDIDATE	id:73436	inCount:0	outCount:1	links:	url:D000073436	name:Microvascular Rarefaction	normalName:microvascular rarefaction	normalWikiTitle:microvascular rarefaction	predictedType:Disease
+CANDIDATE	id:66126	inCount:0	outCount:3	links:9202;1919	url:D066126	name:Toxicity, Cardiac	normalName:toxicity, cardiac	normalWikiTitle:toxicity, cardiac	predictedType:Disease
+CANDIDATE	id:66126	inCount:0	outCount:3	links:9202;1919	url:D066126	name:Cardiac Toxicity	normalName:cardiac toxicity	normalWikiTitle:cardiac toxicity	predictedType:Disease
+CANDIDATE	id:53821	inCount:3	outCount:2	links:	url:D053821	name:Infection, Cardiovascular	normalName:infection, cardiovascular	normalWikiTitle:infection, cardiovascular	predictedType:Disease
+CANDIDATE	id:9203	inCount:8	outCount:1	links:9202	url:D009203	name:Cardiovascular Stroke	normalName:cardiovascular stroke	normalWikiTitle:cardiovascular stroke	predictedType:Disease
+CANDIDATE	id:53821	inCount:3	outCount:2	links:	url:D053821	name:Cardiovascular Infection	normalName:cardiovascular infection	normalWikiTitle:cardiovascular infection	predictedType:Disease
+CANDIDATE	id:9203	inCount:8	outCount:1	links:9202	url:D009203	name:Stroke, Cardiovascular	normalName:stroke, cardiovascular	normalWikiTitle:stroke, cardiovascular	predictedType:Disease
+ENTITY	text:cancer	normalName:cancer	predictedType:disease	q:true	qid:Q157	docId:9952311	origText:cancer	url:D009369
+CANDIDATE	id:9369	inCount:18	outCount:1	links:	url:D009369	name:Cancer	normalName:cancer	normalWikiTitle:cancer	predictedType:Disease
+ENTITY	text:cardiomyopathy	normalName:cardiomyopathy	predictedType:disease	q:true	qid:Q157	docId:9952311	origText:cardiomyopathy	url:D009202
+CANDIDATE	id:9202	inCount:37	outCount:1	links:66126;1919;9203	url:D009202	name:Cardiomyopathy	normalName:cardiomyopathy	normalWikiTitle:cardiomyopathy	predictedType:Disease

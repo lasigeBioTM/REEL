@@ -1,0 +1,21 @@
+ENTITY	text:anthracycline	normalName:anthracycline	predictedType:chemical	q:true	qid:Q1422	docId:11861791	origText:anthracycline	url:D018943
+CANDIDATE	id:18943	inCount:235	outCount:2	links:	url:D018943	name:Anthracyclines	normalName:anthracyclines	normalWikiTitle:anthracyclines	predictedType:Chemical
+CANDIDATE	id:583934	inCount:0	outCount:1	links:	url:C583934	name:anthracimycin	normalName:anthracimycin	normalWikiTitle:anthracimycin	predictedType:Chemical
+CANDIDATE	id:34050	inCount:0	outCount:1	links:	url:C034050	name:thiacycline	normalName:thiacycline	normalWikiTitle:thiacycline	predictedType:Chemical
+CANDIDATE	id:876	inCount:11	outCount:2	links:	url:D000876	name:Anthramycin	normalName:anthramycin	normalWikiTitle:anthramycin	predictedType:Chemical
+CANDIDATE	id:2746	inCount:0	outCount:2	links:	url:C002746	name:Noracycline	normalName:noracycline	normalWikiTitle:noracycline	predictedType:Chemical
+CANDIDATE	id:875	inCount:19	outCount:1	links:	url:D000875	name:Anthralin	normalName:anthralin	normalWikiTitle:anthralin	predictedType:Chemical
+CANDIDATE	id:13752	inCount:14	outCount:1	links:	url:D013752	name:Tetracycline	normalName:tetracycline	normalWikiTitle:tetracycline	predictedType:Chemical
+CANDIDATE	id:11663	inCount:0	outCount:1	links:	url:C011663	name:anthrazoline	normalName:anthrazoline	normalWikiTitle:anthrazoline	predictedType:Chemical
+CANDIDATE	id:8690	inCount:1	outCount:1	links:	url:D008690	name:Methacycline	normalName:methacycline	normalWikiTitle:methacycline	predictedType:Chemical
+CANDIDATE	id:620828	inCount:0	outCount:1	links:	url:C000620828	name:trachycladine A	normalName:trachycladine a	normalWikiTitle:trachycladine a	predictedType:Chemical
+ENTITY	text:poly(ADP-ribose)	normalName:poly(adp-ribose)	predictedType:chemical	q:true	qid:Q1422	docId:11861791	origText:poly(ADP-ribose)	url:D011064
+CANDIDATE	id:11064	inCount:5	outCount:2	links:	url:D011064	name:Poly(ADP-Ribose)	normalName:poly(adp-ribose)	normalWikiTitle:poly(adp-ribose)	predictedType:Chemical
+ENTITY	text:creatine	normalName:creatine	predictedType:chemical	q:true	qid:Q1422	docId:11861791	origText:creatine	url:D003401
+CANDIDATE	id:3401	inCount:7	outCount:2	links:4317	url:D003401	name:Creatine	normalName:creatine	normalWikiTitle:creatine	predictedType:Chemical
+ENTITY	text:PJ34	normalName:pj34	predictedType:chemical	q:true	qid:Q1422	docId:11861791	origText:PJ34	url:C434926
+CANDIDATE	id:434926	inCount:0	outCount:1	links:	url:C434926	name:PJ34	normalName:pj34	normalWikiTitle:pj34	predictedType:Chemical
+ENTITY	text:lactate	normalName:lactate	predictedType:chemical	q:true	qid:Q1422	docId:11861791	origText:lactate	url:D019344
+CANDIDATE	id:19344	inCount:38	outCount:1	links:	url:D019344	name:Lactate	normalName:lactate	normalWikiTitle:lactate	predictedType:Chemical
+ENTITY	text:doxorubicin	normalName:doxorubicin	predictedType:chemical	q:true	qid:Q1422	docId:11861791	origText:doxorubicin	url:D004317
+CANDIDATE	id:4317	inCount:559	outCount:1	links:3401	url:D004317	name:Doxorubicin	normalName:doxorubicin	normalWikiTitle:doxorubicin	predictedType:Chemical

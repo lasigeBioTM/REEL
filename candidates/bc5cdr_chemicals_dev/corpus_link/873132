@@ -1,0 +1,23 @@
+ENTITY	text:deoxycholic acid	normalName:deoxycholic acid	predictedType:chemical	q:true	qid:Q132	docId:873132	origText:deoxycholic acid	url:D003840
+CANDIDATE	id:3840	inCount:27	outCount:1	links:	url:D003840	name:Deoxycholic Acid	normalName:deoxycholic acid	normalWikiTitle:deoxycholic acid	predictedType:Chemical
+ENTITY	text:sodium deoxycholate	normalName:sodium deoxycholate	predictedType:chemical	q:true	qid:Q132	docId:873132	origText:sodium deoxycholate	url:D003840
+CANDIDATE	id:3840	inCount:27	outCount:1	links:	url:D003840	name:Deoxycholate, Sodium	normalName:deoxycholate, sodium	normalWikiTitle:deoxycholate, sodium	predictedType:Chemical
+ENTITY	text:bile acid	normalName:bile acid	predictedType:chemical	q:true	qid:Q132	docId:873132	origText:bile acid	url:D001647
+CANDIDATE	id:1647	inCount:9	outCount:1	links:	url:D001647	name:Bile Acids	normalName:bile acids	normalWikiTitle:bile acids	predictedType:Chemical
+CANDIDATE	id:539033	inCount:0	outCount:1	links:	url:C539033	name:ilex acid B	normalName:ilex acid b	normalWikiTitle:ilex acid b	predictedType:Chemical
+CANDIDATE	id:576444	inCount:0	outCount:1	links:	url:C576444	name:ilelic acid B	normalName:ilelic acid b	normalWikiTitle:ilelic acid b	predictedType:Chemical
+CANDIDATE	id:539032	inCount:0	outCount:1	links:	url:C539032	name:ilex acid A	normalName:ilex acid a	normalWikiTitle:ilex acid a	predictedType:Chemical
+CANDIDATE	id:469426	inCount:0	outCount:2	links:	url:C469426	name:acid blue 29	normalName:acid blue 29	normalWikiTitle:acid blue 29	predictedType:Chemical
+CANDIDATE	id:529581	inCount:0	outCount:1	links:	url:C529581	name:Acid Blue 40	normalName:acid blue 40	normalWikiTitle:acid blue 40	predictedType:Chemical
+CANDIDATE	id:607924	inCount:0	outCount:1	links:	url:C000607924	name:acid blue 62	normalName:acid blue 62	normalWikiTitle:acid blue 62	predictedType:Chemical
+CANDIDATE	id:555957	inCount:0	outCount:1	links:	url:C555957	name:Acid Blue 92	normalName:acid blue 92	normalWikiTitle:acid blue 92	predictedType:Chemical
+CANDIDATE	id:433873	inCount:0	outCount:1	links:	url:C433873	name:acid blue 80	normalName:acid blue 80	normalWikiTitle:acid blue 80	predictedType:Chemical
+CANDIDATE	id:529708	inCount:0	outCount:1	links:	url:C529708	name:acid blue 22	normalName:acid blue 22	normalWikiTitle:acid blue 22	predictedType:Chemical
+CANDIDATE	id:91082	inCount:0	outCount:1	links:	url:C091082	name:dillenic acid B	normalName:dillenic acid b	normalWikiTitle:dillenic acid b	predictedType:Chemical
+CANDIDATE	id:1647	inCount:9	outCount:1	links:	url:D001647	name:Acids, Bile	normalName:acids, bile	normalWikiTitle:acids, bile	predictedType:Chemical
+ENTITY	text:taurocholic acid	normalName:taurocholic acid	predictedType:chemical	q:true	qid:Q132	docId:873132	origText:taurocholic acid	url:D013656
+CANDIDATE	id:13656	inCount:21	outCount:2	links:	url:D013656	name:Taurocholic Acid	normalName:taurocholic acid	normalWikiTitle:taurocholic acid	predictedType:Chemical
+ENTITY	text:ethinyl estradiol	normalName:ethinyl estradiol	predictedType:chemical	q:true	qid:Q132	docId:873132	origText:ethinyl estradiol	url:D004997
+CANDIDATE	id:4997	inCount:62	outCount:2	links:	url:D004997	name:Ethinyl Estradiol	normalName:ethinyl estradiol	normalWikiTitle:ethinyl estradiol	predictedType:Chemical
+ENTITY	text:taurodeoxycholic acid	normalName:taurodeoxycholic acid	predictedType:chemical	q:true	qid:Q132	docId:873132	origText:taurodeoxycholic acid	url:D013657
+CANDIDATE	id:13657	inCount:3	outCount:2	links:	url:D013657	name:Taurodeoxycholic Acid	normalName:taurodeoxycholic acid	normalWikiTitle:taurodeoxycholic acid	predictedType:Chemical

@@ -1,0 +1,8 @@
+ENTITY	text:tachycardia	normalName:tachycardia	predictedType:disease	q:true	qid:Q1159	docId:10721819	origText:tachycardia	url:D013610
+CANDIDATE	id:13610	inCount:7	outCount:2	links:	url:D013610	name:Tachycardia	normalName:tachycardia	normalWikiTitle:tachycardia	predictedType:Disease
+ENTITY	text:bradycardia	normalName:bradycardia	predictedType:disease	q:true	qid:Q1159	docId:10721819	origText:bradycardia	url:D001919
+CANDIDATE	id:1919	inCount:0	outCount:1	links:	url:D001919	name:Bradycardia	normalName:bradycardia	normalWikiTitle:bradycardia	predictedType:Disease
+ENTITY	text:hypotension	normalName:hypotension	predictedType:disease	q:true	qid:Q1159	docId:10721819	origText:hypotension	url:D007022
+CANDIDATE	id:7022	inCount:3	outCount:1	links:	url:D007022	name:Hypotension	normalName:hypotension	normalWikiTitle:hypotension	predictedType:Disease
+ENTITY	text:cardiac hypertrophy	normalName:cardiac hypertrophy	predictedType:disease	q:true	qid:Q1159	docId:10721819	origText:cardiac hypertrophy	url:D006332
+CANDIDATE	id:6332	inCount:5	outCount:2	links:	url:D006332	name:Cardiac Hypertrophy	normalName:cardiac hypertrophy	normalWikiTitle:cardiac hypertrophy	predictedType:Disease

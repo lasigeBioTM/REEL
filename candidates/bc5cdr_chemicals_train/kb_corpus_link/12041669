@@ -1,0 +1,4 @@
+ENTITY	text:Antithymocyte globulin	normalName:antithymocyte globulin	predictedType:chemical	q:true	qid:Q353	docId:12041669	origText:Antithymocyte globulin	url:D000961
+CANDIDATE	id:961	inCount:1	outCount:1	links:	url:D000961	name:Globulin, Antithymocyte	normalName:globulin, antithymocyte	normalWikiTitle:globulin, antithymocyte	predictedType:Chemical
+ENTITY	text:D-penicillamine	normalName:d-penicillamine	predictedType:chemical	q:true	qid:Q353	docId:12041669	origText:D-penicillamine	url:D010396
+CANDIDATE	id:10396	inCount:23	outCount:1	links:	url:D010396	name:D-Penicillamine	normalName:d-penicillamine	normalWikiTitle:d-penicillamine	predictedType:Chemical

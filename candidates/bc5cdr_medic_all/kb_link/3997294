@@ -1,0 +1,13 @@
+ENTITY	text:supraventricular tachyarrhythmias	normalName:supraventricular tachyarrhythmias	predictedType:disease	q:true	qid:Q1207	docId:3997294	origText:supraventricular tachyarrhythmias	url:D013617
+CANDIDATE	id:13617	inCount:3	outCount:1	links:	url:D013617	name:Tachycardia, Supraventricular	normalName:tachycardia, supraventricular	normalWikiTitle:tachycardia, supraventricular	predictedType:Disease
+CANDIDATE	id:16170	inCount:0	outCount:1	links:	url:D016170	name:Accelerated Idioventricular Rhythm	normalName:accelerated idioventricular rhythm	normalWikiTitle:accelerated idioventricular rhythm	predictedType:Disease
+CANDIDATE	id:536112	inCount:0	outCount:1	links:	url:C536112	name:Partial atrioventricular canal	normalName:partial atrioventricular canal	normalWikiTitle:partial atrioventricular canal	predictedType:Disease
+CANDIDATE	id:566237	inCount:0	outCount:1	links:	url:C566237	name:Atrial Tachyarrhythmia with Short PR Interval	normalName:atrial tachyarrhythmia with short pr interval	normalWikiTitle:atrial tachyarrhythmia with short pr interval	predictedType:Disease
+CANDIDATE	id:13611	inCount:0	outCount:1	links:	url:D013611	name:Tachycardia, Atrioventricular Nodal Reentry	normalName:tachycardia, atrioventricular nodal reentry	normalWikiTitle:tachycardia, atrioventricular nodal reentry	predictedType:Disease
+CANDIDATE	id:13920	inCount:0	outCount:3	links:	url:D013920	name:Thrombocythemia, Essential	normalName:thrombocythemia, essential	normalWikiTitle:thrombocythemia, essential	predictedType:Disease
+CANDIDATE	id:536977	inCount:0	outCount:2	links:	url:C536977	name:Tracheobronchopathia osteoplastica	normalName:tracheobronchopathia osteoplastica	normalWikiTitle:tracheobronchopathia osteoplastica	predictedType:Disease
+CANDIDATE	id:13612	inCount:0	outCount:1	links:	url:D013612	name:Tachycardia, Ectopic Atrial	normalName:tachycardia, ectopic atrial	normalWikiTitle:tachycardia, ectopic atrial	predictedType:Disease
+CANDIDATE	id:562481	inCount:0	outCount:1	links:	url:C562481	name:Urticaria, Aquagenic	normalName:urticaria, aquagenic	normalWikiTitle:urticaria, aquagenic	predictedType:Disease
+CANDIDATE	id:562461	inCount:0	outCount:2	links:	url:C562461	name:Annular Erythema	normalName:annular erythema	normalWikiTitle:annular erythema	predictedType:Disease
+ENTITY	text:pneumonitis	normalName:pneumonitis	predictedType:disease	q:true	qid:Q1207	docId:3997294	origText:pneumonitis	url:D011014
+CANDIDATE	id:11014	inCount:10	outCount:2	links:	url:D011014	name:Pneumonitis	normalName:pneumonitis	normalWikiTitle:pneumonitis	predictedType:Disease

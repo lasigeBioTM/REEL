@@ -1,0 +1,35 @@
+ENTITY	text:Bradykinin	normalName:bradykinin	predictedType:chemical	q:true	qid:Q19	docId:19300402	origText:Bradykinin	url:D001920
+CANDIDATE	id:1920	inCount:95	outCount:3	links:	url:D001920	name:Bradykinin	normalName:bradykinin	normalWikiTitle:bradykinin	predictedType:Chemical
+ENTITY	text:nitric oxide	normalName:nitric oxide	predictedType:chemical	q:true	qid:Q19	docId:19300402	origText:nitric oxide	url:D009569
+CANDIDATE	id:9569	inCount:13	outCount:3	links:	url:D009569	name:Nitric Oxide	normalName:nitric oxide	normalWikiTitle:nitric oxide	predictedType:Chemical
+ENTITY	text:des-Arg10HOE 140	normalName:des-arg10hoe 140	predictedType:chemical	q:true	qid:Q19	docId:19300402	origText:des-Arg10HOE 140	url:C078665
+CANDIDATE	id:78665	inCount:0	outCount:2	links:78665	url:C078665	name:HOE 140, desArg(10)-	normalName:hoe 140, desarg(10)-	normalWikiTitle:hoe 140, desarg(10)-	predictedType:Chemical
+CANDIDATE	id:108937	inCount:0	outCount:2	links:108937	url:C108937	name:AWD 140-190	normalName:awd 140-190	normalWikiTitle:awd 140-190	predictedType:Chemical
+CANDIDATE	id:52787	inCount:0	outCount:1	links:52787	url:C052787	name:kallidin, des-Arg(10)-	normalName:kallidin, des-arg(10)-	normalWikiTitle:kallidin, des-arg(10)-	predictedType:Chemical
+CANDIDATE	id:67040	inCount:0	outCount:2	links:	url:C067040	name:PK 14105 agarose	normalName:pk 14105 agarose	normalWikiTitle:pk 14105 agarose	predictedType:Chemical
+CANDIDATE	id:432046	inCount:0	outCount:1	links:	url:C432046	name:allergen Den n 1	normalName:allergen den n 1	normalWikiTitle:allergen den n 1	predictedType:Chemical
+CANDIDATE	id:101835	inCount:0	outCount:1	links:	url:C101835	name:allergen Ves v 1	normalName:allergen ves v 1	normalWikiTitle:allergen ves v 1	predictedType:Chemical
+CANDIDATE	id:518971	inCount:0	outCount:2	links:	url:C518971	name:arecoline 1-oxide	normalName:arecoline 1-oxide	normalWikiTitle:arecoline 1-oxide	predictedType:Chemical
+CANDIDATE	id:608221	inCount:0	outCount:2	links:	url:C000608221	name:andrographolide-4	normalName:andrographolide-4	normalWikiTitle:andrographolide-4	predictedType:Chemical
+CANDIDATE	id:49025	inCount:0	outCount:1	links:	url:C049025	name:rhodamine 110	normalName:rhodamine 110	normalWikiTitle:rhodamine 110	predictedType:Chemical
+CANDIDATE	id:120578	inCount:0	outCount:2	links:	url:C120578	name:E 4010	normalName:e 4010	normalWikiTitle:e 4010	predictedType:Chemical
+ENTITY	text:streptozotocin	normalName:streptozotocin	predictedType:chemical	q:true	qid:Q19	docId:19300402	origText:streptozotocin	url:D013311
+CANDIDATE	id:13311	inCount:12	outCount:2	links:14750	url:D013311	name:Streptozotocin	normalName:streptozotocin	normalWikiTitle:streptozotocin	predictedType:Chemical
+ENTITY	text:des Arg10 HOE 140	normalName:des arg10 hoe 140	predictedType:chemical	q:true	qid:Q19	docId:19300402	origText:des Arg10 HOE 140	url:C078665
+CANDIDATE	id:78665	inCount:0	outCount:2	links:78665	url:C078665	name:des-Arg(10)-HOE140	normalName:des-arg(10)-hoe140	normalWikiTitle:des-arg(10)-hoe140	predictedType:Chemical
+CANDIDATE	id:78665	inCount:0	outCount:2	links:78665	url:C078665	name:HOE 140, desArg(10)-	normalName:hoe 140, desarg(10)-	normalWikiTitle:hoe 140, desarg(10)-	predictedType:Chemical
+CANDIDATE	id:52787	inCount:0	outCount:1	links:52787	url:C052787	name:kallidin, des-Arg(10)-	normalName:kallidin, des-arg(10)-	normalWikiTitle:kallidin, des-arg(10)-	predictedType:Chemical
+CANDIDATE	id:54371	inCount:0	outCount:1	links:	url:C054371	name:erythropoietin, des-Arg(166)-	normalName:erythropoietin, des-arg(166)-	normalWikiTitle:erythropoietin, des-arg(166)-	predictedType:Chemical
+CANDIDATE	id:34958	inCount:0	outCount:1	links:	url:C034958	name:fibrinopeptide B, des-Arg(14)-	normalName:fibrinopeptide b, des-arg(14)-	normalWikiTitle:fibrinopeptide b, des-arg(14)-	predictedType:Chemical
+CANDIDATE	id:614677	inCount:0	outCount:2	links:	url:C000614677	name:(des-Arg1)-proctolin	normalName:(des-arg1)-proctolin	normalWikiTitle:(des-arg1)-proctolin	predictedType:Chemical
+CANDIDATE	id:20958	inCount:0	outCount:1	links:	url:C020958	name:DS 511 (4'-OH)	normalName:ds 511 (4'-oh)	normalWikiTitle:ds 511 (4'-oh)	predictedType:Chemical
+CANDIDATE	id:485123	inCount:0	outCount:1	links:	url:C485123	name:HES 130-0.4	normalName:hes 130-0.4	normalWikiTitle:hes 130-0.4	predictedType:Chemical
+CANDIDATE	id:108937	inCount:0	outCount:2	links:108937	url:C108937	name:AWD 140-190	normalName:awd 140-190	normalWikiTitle:awd 140-190	predictedType:Chemical
+CANDIDATE	id:29759	inCount:0	outCount:1	links:	url:C029759	name:AR-L 100 BS	normalName:ar-l 100 bs	normalWikiTitle:ar-l 100 bs	predictedType:Chemical
+CANDIDATE	id:451581	inCount:0	outCount:2	links:	url:C451581	name:fargesone A	normalName:fargesone a	normalWikiTitle:fargesone a	predictedType:Chemical
+CANDIDATE	id:76640	inCount:0	outCount:2	links:	url:C076640	name:des(Arg(1,10))-HOE 140	normalName:des(arg(1,10))-hoe 140	normalWikiTitle:des(arg(1,10))-hoe 140	predictedType:Chemical
+CANDIDATE	id:76640	inCount:0	outCount:2	links:	url:C076640	name:HOE 140, des(Arg(1,10))-	normalName:hoe 140, des(arg(1,10))-	normalWikiTitle:hoe 140, des(arg(1,10))-	predictedType:Chemical
+ENTITY	text:vincristine	normalName:vincristine	predictedType:chemical	q:true	qid:Q19	docId:19300402	origText:vincristine	url:D014750
+CANDIDATE	id:14750	inCount:474	outCount:1	links:13311	url:D014750	name:Vincristine	normalName:vincristine	normalWikiTitle:vincristine	predictedType:Chemical
+ENTITY	text:HOE 140	normalName:hoe 140	predictedType:chemical	q:true	qid:Q19	docId:19300402	origText:HOE 140	url:C065679
+CANDIDATE	id:65679	inCount:0	outCount:1	links:	url:C065679	name:HOE-140	normalName:hoe-140	normalWikiTitle:hoe-140	predictedType:Chemical

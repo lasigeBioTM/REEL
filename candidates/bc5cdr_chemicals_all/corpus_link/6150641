@@ -1,0 +1,8 @@
+ENTITY	text:creatinine	normalName:creatinine	predictedType:chemical	q:true	qid:Q33	docId:6150641	origText:creatinine	url:D003404
+CANDIDATE	id:3404	inCount:8	outCount:1	links:	url:D003404	name:Creatinine	normalName:creatinine	normalWikiTitle:creatinine	predictedType:Chemical
+ENTITY	text:ranitidine	normalName:ranitidine	predictedType:chemical	q:true	qid:Q33	docId:6150641	origText:ranitidine	url:D011899
+CANDIDATE	id:11899	inCount:12	outCount:1	links:	url:D011899	name:Ranitidine	normalName:ranitidine	normalWikiTitle:ranitidine	predictedType:Chemical
+ENTITY	text:cimetidine	normalName:cimetidine	predictedType:chemical	q:true	qid:Q33	docId:6150641	origText:cimetidine	url:D002927
+CANDIDATE	id:2927	inCount:14	outCount:2	links:	url:D002927	name:Cimetidine	normalName:cimetidine	normalWikiTitle:cimetidine	predictedType:Chemical
+ENTITY	text:histamine	normalName:histamine	predictedType:chemical	q:true	qid:Q33	docId:6150641	origText:histamine	url:D006632
+CANDIDATE	id:6632	inCount:55	outCount:4	links:	url:D006632	name:Histamine	normalName:histamine	normalWikiTitle:histamine	predictedType:Chemical

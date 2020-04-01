@@ -1,0 +1,40 @@
+ENTITY	text:arrhythmias	normalName:arrhythmias	predictedType:disease	q:true	qid:Q1464	docId:3732088	origText:arrhythmias	url:D001145
+CANDIDATE	id:1145	inCount:27	outCount:2	links:1145	url:D001145	name:Arrhythmia	normalName:arrhythmia	normalWikiTitle:arrhythmia	predictedType:Disease
+ENTITY	text:cardiac arrhythmias	normalName:cardiac arrhythmias	predictedType:disease	q:true	qid:Q1464	docId:3732088	origText:cardiac arrhythmias	url:D001145
+CANDIDATE	id:1145	inCount:27	outCount:2	links:1145	url:D001145	name:Arrhythmia, Cardiac	normalName:arrhythmia, cardiac	normalWikiTitle:arrhythmia, cardiac	predictedType:Disease
+ENTITY	text:hypertension	normalName:hypertension	predictedType:disease	q:true	qid:Q1464	docId:3732088	origText:hypertension	url:D006973
+CANDIDATE	id:6973	inCount:18	outCount:1	links:6973	url:D006973	name:Hypertension	normalName:hypertension	normalWikiTitle:hypertension	predictedType:Disease
+ENTITY	text:coronary disease	normalName:coronary disease	predictedType:disease	q:true	qid:Q1464	docId:3732088	origText:coronary disease	url:D003327
+CANDIDATE	id:3327	inCount:7	outCount:1	links:	url:D003327	name:Coronary Disease	normalName:coronary disease	normalWikiTitle:coronary disease	predictedType:Disease
+ENTITY	text:coronary artery disease	normalName:coronary artery disease	predictedType:disease	q:true	qid:Q1464	docId:3732088	origText:coronary artery disease	url:D003324
+CANDIDATE	id:3324	inCount:4	outCount:2	links:	url:D003324	name:Coronary Artery Disease	normalName:coronary artery disease	normalWikiTitle:coronary artery disease	predictedType:Disease
+ENTITY	text:ischaemic heart disease	normalName:ischaemic heart disease	predictedType:disease	q:true	qid:Q1464	docId:3732088	origText:ischaemic heart disease	url:D017202
+CANDIDATE	id:17202	inCount:6	outCount:2	links:	url:D017202	name:Diseases, Ischemic Heart	normalName:diseases, ischemic heart	normalWikiTitle:diseases, ischemic heart	predictedType:Disease
+CANDIDATE	id:12214	inCount:0	outCount:2	links:	url:D012214	name:Rheumatic Heart Disease	normalName:rheumatic heart disease	normalWikiTitle:rheumatic heart disease	predictedType:Disease
+CANDIDATE	id:6349	inCount:17	outCount:1	links:	url:D006349	name:Heart Valve Diseases	normalName:heart valve diseases	normalWikiTitle:heart valve diseases	predictedType:Disease
+CANDIDATE	id:6357	inCount:0	outCount:3	links:	url:D006357	name:Heartwater Disease	normalName:heartwater disease	normalWikiTitle:heartwater disease	predictedType:Disease
+CANDIDATE	id:13786	inCount:1	outCount:1	links:	url:D013786	name:Thalamic Diseases	normalName:thalamic diseases	normalWikiTitle:thalamic diseases	predictedType:Disease
+CANDIDATE	id:6331	inCount:29	outCount:1	links:	url:D006331	name:Heart Diseases	normalName:heart diseases	normalWikiTitle:heart diseases	predictedType:Disease
+CANDIDATE	id:12216	inCount:9	outCount:2	links:	url:D012216	name:Rheumatic Diseases	normalName:rheumatic diseases	normalWikiTitle:rheumatic diseases	predictedType:Disease
+CANDIDATE	id:7027	inCount:6	outCount:1	links:	url:D007027	name:Hypothalamic Diseases	normalName:hypothalamic diseases	normalWikiTitle:hypothalamic diseases	predictedType:Disease
+CANDIDATE	id:10483	inCount:2	outCount:2	links:	url:D010483	name:Periapical Diseases	normalName:periapical diseases	normalWikiTitle:periapical diseases	predictedType:Disease
+CANDIDATE	id:536166	inCount:0	outCount:2	links:	url:C536166	name:Keshan disease	normalName:keshan disease	normalWikiTitle:keshan disease	predictedType:Disease
+CANDIDATE	id:6734	inCount:4	outCount:1	links:	url:D006734	name:Horse Diseases	normalName:horse diseases	normalWikiTitle:horse diseases	predictedType:Disease
+CANDIDATE	id:17202	inCount:6	outCount:2	links:	url:D017202	name:Heart Disease, Ischemic	normalName:heart disease, ischemic	normalWikiTitle:heart disease, ischemic	predictedType:Disease
+CANDIDATE	id:17202	inCount:6	outCount:2	links:	url:D017202	name:Ischemic Heart Disease	normalName:ischemic heart disease	normalWikiTitle:ischemic heart disease	predictedType:Disease
+CANDIDATE	id:17202	inCount:6	outCount:2	links:	url:D017202	name:Disease, Ischemic Heart	normalName:disease, ischemic heart	normalWikiTitle:disease, ischemic heart	predictedType:Disease
+CANDIDATE	id:17202	inCount:6	outCount:2	links:	url:D017202	name:Ischemic Heart Diseases	normalName:ischemic heart diseases	normalWikiTitle:ischemic heart diseases	predictedType:Disease
+CANDIDATE	id:17202	inCount:6	outCount:2	links:	url:D017202	name:Heart Diseases, Ischemic	normalName:heart diseases, ischemic	normalWikiTitle:heart diseases, ischemic	predictedType:Disease
+ENTITY	text:ventricular ectopic beats	normalName:ventricular ectopic beats	predictedType:disease	q:true	qid:Q1464	docId:3732088	origText:ventricular ectopic beats	url:D018879
+CANDIDATE	id:18879	inCount:1	outCount:1	links:	url:D018879	name:Ectopic Beats, Ventricular	normalName:ectopic beats, ventricular	normalWikiTitle:ectopic beats, ventricular	predictedType:Disease
+ENTITY	text:hypertensive	normalName:hypertensive	predictedType:disease	q:true	qid:Q1464	docId:3732088	origText:hypertensive	url:D006973
+CANDIDATE	id:6973	inCount:18	outCount:1	links:6973	url:D006973	name:Hypertension	normalName:hypertension	normalWikiTitle:hypertension	predictedType:Disease
+CANDIDATE	id:58246	inCount:0	outCount:1	links:	url:D058246	name:Prehypertension	normalName:prehypertension	normalWikiTitle:prehypertension	predictedType:Disease
+CANDIDATE	id:6977	inCount:3	outCount:2	links:	url:D006977	name:Hypertension, Renal	normalName:hypertension, renal	normalWikiTitle:hypertension, renal	predictedType:Disease
+CANDIDATE	id:6941	inCount:0	outCount:1	links:	url:D006941	name:Hyperesthesia	normalName:hyperesthesia	normalWikiTitle:hyperesthesia	predictedType:Disease
+CANDIDATE	id:59468	inCount:0	outCount:1	links:	url:D059468	name:Masked Hypertension	normalName:masked hypertension	normalWikiTitle:masked hypertension	predictedType:Disease
+CANDIDATE	id:6967	inCount:9	outCount:1	links:	url:D006967	name:Hypersensitivity	normalName:hypersensitivity	normalWikiTitle:hypersensitivity	predictedType:Disease
+CANDIDATE	id:7022	inCount:3	outCount:1	links:	url:D007022	name:Hypotension	normalName:hypotension	normalWikiTitle:hypotension	predictedType:Disease
+CANDIDATE	id:6987	inCount:1	outCount:1	links:	url:D006987	name:Hypesthesia	normalName:hypesthesia	normalWikiTitle:hypesthesia	predictedType:Disease
+CANDIDATE	id:563161	inCount:0	outCount:2	links:	url:C563161	name:Hypertensive Nephropathy	normalName:hypertensive nephropathy	normalWikiTitle:hypertensive nephropathy	predictedType:Disease
+CANDIDATE	id:58437	inCount:0	outCount:2	links:	url:D058437	name:Hypertensive Retinopathy	normalName:hypertensive retinopathy	normalWikiTitle:hypertensive retinopathy	predictedType:Disease

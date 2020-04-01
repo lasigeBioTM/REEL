@@ -1,0 +1,8 @@
+ENTITY	text:dopamine	normalName:dopamine	predictedType:chemical	q:true	qid:Q271	docId:11532387	origText:dopamine	url:D004298
+CANDIDATE	id:4298	inCount:90	outCount:2	links:	url:D004298	name:Dopamine	normalName:dopamine	normalWikiTitle:dopamine	predictedType:Chemical
+ENTITY	text:trihexyphenidyl	normalName:trihexyphenidyl	predictedType:chemical	q:true	qid:Q271	docId:11532387	origText:trihexyphenidyl	url:D014282
+CANDIDATE	id:14282	inCount:3	outCount:1	links:	url:D014282	name:Trihexyphenidyl	normalName:trihexyphenidyl	normalWikiTitle:trihexyphenidyl	predictedType:Chemical
+ENTITY	text:serotonin	normalName:serotonin	predictedType:chemical	q:true	qid:Q271	docId:11532387	origText:serotonin	url:D012701
+CANDIDATE	id:12701	inCount:48	outCount:2	links:	url:D012701	name:Serotonin	normalName:serotonin	normalWikiTitle:serotonin	predictedType:Chemical
+ENTITY	text:risperidone	normalName:risperidone	predictedType:chemical	q:true	qid:Q271	docId:11532387	origText:risperidone	url:D018967
+CANDIDATE	id:18967	inCount:2	outCount:1	links:	url:D018967	name:Risperidone	normalName:risperidone	normalWikiTitle:risperidone	predictedType:Chemical

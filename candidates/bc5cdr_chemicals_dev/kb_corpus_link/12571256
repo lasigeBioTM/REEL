@@ -1,0 +1,6 @@
+ENTITY	text:iodixanol	normalName:iodixanol	predictedType:chemical	q:true	qid:Q56	docId:12571256	origText:iodixanol	url:C044834
+CANDIDATE	id:44834	inCount:0	outCount:1	links:	url:C044834	name:iodixanol	normalName:iodixanol	normalWikiTitle:iodixanol	predictedType:Chemical
+ENTITY	text:iohexol	normalName:iohexol	predictedType:chemical	q:true	qid:Q56	docId:12571256	origText:iohexol	url:D007472
+CANDIDATE	id:7472	inCount:9	outCount:1	links:	url:D007472	name:Iohexol	normalName:iohexol	normalWikiTitle:iohexol	predictedType:Chemical
+ENTITY	text:creatinine	normalName:creatinine	predictedType:chemical	q:true	qid:Q56	docId:12571256	origText:creatinine	url:D003404
+CANDIDATE	id:3404	inCount:8	outCount:1	links:	url:D003404	name:Creatinine	normalName:creatinine	normalWikiTitle:creatinine	predictedType:Chemical

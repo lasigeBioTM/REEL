@@ -1,0 +1,14 @@
+ENTITY	text:propranolol	normalName:propranolol	predictedType:chemical	q:true	qid:Q1453	docId:18083142	origText:propranolol	url:D011433
+CANDIDATE	id:11433	inCount:46	outCount:2	links:9638;3042	url:D011433	name:Propranolol	normalName:propranolol	normalWikiTitle:propranolol	predictedType:Chemical
+ENTITY	text:Norepinephrine	normalName:norepinephrine	predictedType:chemical	q:true	qid:Q1453	docId:18083142	origText:Norepinephrine	url:D009638
+CANDIDATE	id:9638	inCount:31	outCount:4	links:11433	url:D009638	name:Norepinephrine	normalName:norepinephrine	normalWikiTitle:norepinephrine	predictedType:Chemical
+ENTITY	text:prazosin	normalName:prazosin	predictedType:chemical	q:true	qid:Q1453	docId:18083142	origText:prazosin	url:D011224
+CANDIDATE	id:11224	inCount:24	outCount:1	links:	url:D011224	name:Prazosin	normalName:prazosin	normalWikiTitle:prazosin	predictedType:Chemical
+ENTITY	text:dopamine	normalName:dopamine	predictedType:chemical	q:true	qid:Q1453	docId:18083142	origText:dopamine	url:D004298
+CANDIDATE	id:4298	inCount:90	outCount:2	links:	url:D004298	name:Dopamine	normalName:dopamine	normalWikiTitle:dopamine	predictedType:Chemical
+ENTITY	text:yohimbine	normalName:yohimbine	predictedType:chemical	q:true	qid:Q1453	docId:18083142	origText:yohimbine	url:D015016
+CANDIDATE	id:15016	inCount:27	outCount:1	links:	url:D015016	name:Yohimbine	normalName:yohimbine	normalWikiTitle:yohimbine	predictedType:Chemical
+ENTITY	text:cocaine	normalName:cocaine	predictedType:chemical	q:true	qid:Q1453	docId:18083142	origText:cocaine	url:D003042
+CANDIDATE	id:3042	inCount:89	outCount:1	links:11433	url:D003042	name:Cocaine	normalName:cocaine	normalWikiTitle:cocaine	predictedType:Chemical
+ENTITY	text:disulfiram	normalName:disulfiram	predictedType:chemical	q:true	qid:Q1453	docId:18083142	origText:disulfiram	url:D004221
+CANDIDATE	id:4221	inCount:5	outCount:2	links:	url:D004221	name:Disulfiram	normalName:disulfiram	normalWikiTitle:disulfiram	predictedType:Chemical

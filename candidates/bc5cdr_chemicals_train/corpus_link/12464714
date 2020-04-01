@@ -1,0 +1,8 @@
+ENTITY	text:ergotamine	normalName:ergotamine	predictedType:chemical	q:true	qid:Q476	docId:12464714	origText:ergotamine	url:D004878
+CANDIDATE	id:4878	inCount:4	outCount:1	links:	url:D004878	name:Ergotamine	normalName:ergotamine	normalWikiTitle:ergotamine	predictedType:Chemical
+ENTITY	text:rizatriptan	normalName:rizatriptan	predictedType:chemical	q:true	qid:Q476	docId:12464714	origText:rizatriptan	url:C093622
+CANDIDATE	id:93622	inCount:0	outCount:2	links:	url:C093622	name:rizatriptan	normalName:rizatriptan	normalWikiTitle:rizatriptan	predictedType:Chemical
+ENTITY	text:caffeine	normalName:caffeine	predictedType:chemical	q:true	qid:Q476	docId:12464714	origText:caffeine	url:D002110
+CANDIDATE	id:2110	inCount:80	outCount:1	links:	url:D002110	name:Caffeine	normalName:caffeine	normalWikiTitle:caffeine	predictedType:Chemical
+ENTITY	text:5-HT	normalName:5-ht	predictedType:chemical	q:true	qid:Q476	docId:12464714	origText:5-HT	url:D012701
+CANDIDATE	id:12701	inCount:48	outCount:2	links:	url:D012701	name:5-HT	normalName:5-ht	normalWikiTitle:5-ht	predictedType:Chemical

@@ -1,0 +1,8 @@
+ENTITY	text:naloxone	normalName:naloxone	predictedType:chemical	q:true	qid:Q1358	docId:12063090	origText:naloxone	url:D009270
+CANDIDATE	id:9270	inCount:20	outCount:1	links:	url:D009270	name:Naloxone	normalName:naloxone	normalWikiTitle:naloxone	predictedType:Chemical
+ENTITY	text:charcoal	normalName:charcoal	predictedType:chemical	q:true	qid:Q1358	docId:12063090	origText:charcoal	url:D002606
+CANDIDATE	id:2606	inCount:4	outCount:1	links:	url:D002606	name:Charcoal	normalName:charcoal	normalWikiTitle:charcoal	predictedType:Chemical
+ENTITY	text:morphine	normalName:morphine	predictedType:chemical	q:true	qid:Q1358	docId:12063090	origText:morphine	url:D009020
+CANDIDATE	id:9020	inCount:13	outCount:1	links:	url:D009020	name:Morphine	normalName:morphine	normalWikiTitle:morphine	predictedType:Chemical
+ENTITY	text:Metamizol	normalName:metamizol	predictedType:chemical	q:true	qid:Q1358	docId:12063090	origText:Metamizol	url:D004177
+CANDIDATE	id:4177	inCount:17	outCount:1	links:	url:D004177	name:Metamizol	normalName:metamizol	normalWikiTitle:metamizol	predictedType:Chemical

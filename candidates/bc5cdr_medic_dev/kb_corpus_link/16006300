@@ -1,0 +1,43 @@
+ENTITY	text:hypercalcemia	normalName:hypercalcemia	predictedType:disease	q:true	qid:Q111	docId:16006300	origText:hypercalcemia	url:D006934
+CANDIDATE	id:6934	inCount:10	outCount:2	links:6934;1851	url:D006934	name:Hypercalcemia	normalName:hypercalcemia	normalWikiTitle:hypercalcemia	predictedType:Disease
+ENTITY	text:toxicity	normalName:toxicity	predictedType:disease	q:true	qid:Q111	docId:16006300	origText:toxicity	url:D064420
+CANDIDATE	id:64420	inCount:10	outCount:1	links:	url:D064420	name:Drug Toxicity	normalName:drug toxicity	normalWikiTitle:drug toxicity	predictedType:Disease
+CANDIDATE	id:66126	inCount:0	outCount:3	links:	url:D066126	name:Cardiotoxicity	normalName:cardiotoxicity	normalWikiTitle:cardiotoxicity	predictedType:Disease
+CANDIDATE	id:15651	inCount:2	outCount:1	links:	url:D015651	name:Mycotoxicosis	normalName:mycotoxicosis	normalWikiTitle:mycotoxicosis	predictedType:Disease
+CANDIDATE	id:13971	inCount:2	outCount:1	links:	url:D013971	name:Thyrotoxicosis	normalName:thyrotoxicosis	normalWikiTitle:thyrotoxicosis	predictedType:Disease
+CANDIDATE	id:14869	inCount:0	outCount:2	links:	url:D014869	name:Water Intoxication	normalName:water intoxication	normalWikiTitle:water intoxication	predictedType:Disease
+CANDIDATE	id:14103	inCount:4	outCount:2	links:	url:D014103	name:Torticollis	normalName:torticollis	normalWikiTitle:torticollis	predictedType:Disease
+CANDIDATE	id:9765	inCount:42	outCount:2	links:	url:D009765	name:Obesity	normalName:obesity	normalWikiTitle:obesity	predictedType:Disease
+CANDIDATE	id:14115	inCount:1	outCount:1	links:	url:D014115	name:Toxemia	normalName:toxemia	normalWikiTitle:toxemia	predictedType:Disease
+CANDIDATE	id:7246	inCount:2	outCount:2	links:	url:D007246	name:Infertility	normalName:infertility	normalWikiTitle:infertility	predictedType:Disease
+CANDIDATE	id:20234	inCount:0	outCount:2	links:	url:D020234	name:Gait Ataxia	normalName:gait ataxia	normalWikiTitle:gait ataxia	predictedType:Disease
+CANDIDATE	id:14069	inCount:1	outCount:1	links:	url:D014069	name:Tonsillitis	normalName:tonsillitis	normalWikiTitle:tonsillitis	predictedType:Disease
+CANDIDATE	id:64420	inCount:10	outCount:1	links:	url:D064420	name:Toxicity, Drug	normalName:toxicity, drug	normalWikiTitle:toxicity, drug	predictedType:Disease
+CANDIDATE	id:17484	inCount:0	outCount:2	links:	url:D017484	name:Phototoxicity	normalName:phototoxicity	normalWikiTitle:phototoxicity	predictedType:Disease
+ENTITY	text:hypocalcemia	normalName:hypocalcemia	predictedType:disease	q:true	qid:Q111	docId:16006300	origText:hypocalcemia	url:D006996
+CANDIDATE	id:6996	inCount:5	outCount:2	links:	url:D006996	name:Hypocalcemia	normalName:hypocalcemia	normalWikiTitle:hypocalcemia	predictedType:Disease
+ENTITY	text:metabolic alkalosis	normalName:metabolic alkalosis	predictedType:disease	q:true	qid:Q111	docId:16006300	origText:metabolic alkalosis	url:D000471
+CANDIDATE	id:471	inCount:2	outCount:1	links:	url:D000471	name:Alkalosis	normalName:alkalosis	normalWikiTitle:alkalosis	predictedType:Disease
+CANDIDATE	id:8659	inCount:23	outCount:1	links:	url:D008659	name:Metabolic Diseases	normalName:metabolic diseases	normalWikiTitle:metabolic diseases	predictedType:Disease
+CANDIDATE	id:472	inCount:0	outCount:2	links:	url:D000472	name:Alkalosis, Respiratory	normalName:alkalosis, respiratory	normalWikiTitle:alkalosis, respiratory	predictedType:Disease
+CANDIDATE	id:1928	inCount:15	outCount:2	links:	url:D001928	name:Brain Diseases, Metabolic	normalName:brain diseases, metabolic	normalWikiTitle:brain diseases, metabolic	predictedType:Disease
+CANDIDATE	id:17492	inCount:0	outCount:1	links:	url:D017492	name:Keratosis, Seborrheic	normalName:keratosis, seborrheic	normalWikiTitle:keratosis, seborrheic	predictedType:Disease
+CANDIDATE	id:1851	inCount:14	outCount:2	links:6934	url:D001851	name:Bone Diseases, Metabolic	normalName:bone diseases, metabolic	normalWikiTitle:bone diseases, metabolic	predictedType:Disease
+CANDIDATE	id:12875	inCount:2	outCount:2	links:	url:D012875	name:Skin Diseases, Metabolic	normalName:skin diseases, metabolic	normalWikiTitle:skin diseases, metabolic	predictedType:Disease
+CANDIDATE	id:13985	inCount:0	outCount:1	links:	url:D013985	name:Tick Paralysis	normalName:tick paralysis	normalWikiTitle:tick paralysis	predictedType:Disease
+CANDIDATE	id:20254	inCount:1	outCount:1	links:	url:D020254	name:Tooth Ankylosis	normalName:tooth ankylosis	normalWikiTitle:tooth ankylosis	predictedType:Disease
+CANDIDATE	id:535549	inCount:0	outCount:2	links:	url:C535549	name:Pelvic lipomatosis	normalName:pelvic lipomatosis	normalWikiTitle:pelvic lipomatosis	predictedType:Disease
+CANDIDATE	id:7662	inCount:2	outCount:1	links:	url:D007662	name:Metabolic Ketosis	normalName:metabolic ketosis	normalWikiTitle:metabolic ketosis	predictedType:Disease
+CANDIDATE	id:7662	inCount:2	outCount:1	links:	url:D007662	name:Ketosis, Metabolic	normalName:ketosis, metabolic	normalWikiTitle:ketosis, metabolic	predictedType:Disease
+CANDIDATE	id:138	inCount:7	outCount:1	links:	url:D000138	name:Metabolic Acidosis	normalName:metabolic acidosis	normalWikiTitle:metabolic acidosis	predictedType:Disease
+CANDIDATE	id:138	inCount:7	outCount:1	links:	url:D000138	name:Acidosis, Metabolic	normalName:acidosis, metabolic	normalWikiTitle:acidosis, metabolic	predictedType:Disease
+CANDIDATE	id:7662	inCount:2	outCount:1	links:	url:D007662	name:Metabolic Ketoses	normalName:metabolic ketoses	normalWikiTitle:metabolic ketoses	predictedType:Disease
+CANDIDATE	id:7662	inCount:2	outCount:1	links:	url:D007662	name:Ketoses, Metabolic	normalName:ketoses, metabolic	normalWikiTitle:ketoses, metabolic	predictedType:Disease
+CANDIDATE	id:7662	inCount:2	outCount:1	links:	url:D007662	name:Metabolic Ketoacidosis	normalName:metabolic ketoacidosis	normalWikiTitle:metabolic ketoacidosis	predictedType:Disease
+CANDIDATE	id:7662	inCount:2	outCount:1	links:	url:D007662	name:Ketoacidosis, Metabolic	normalName:ketoacidosis, metabolic	normalWikiTitle:ketoacidosis, metabolic	predictedType:Disease
+CANDIDATE	id:138	inCount:7	outCount:1	links:	url:D000138	name:Acidoses, Metabolic	normalName:acidoses, metabolic	normalWikiTitle:acidoses, metabolic	predictedType:Disease
+CANDIDATE	id:138	inCount:7	outCount:1	links:	url:D000138	name:Metabolic Acidoses	normalName:metabolic acidoses	normalWikiTitle:metabolic acidoses	predictedType:Disease
+ENTITY	text:acute renal insufficiency	normalName:acute renal insufficiency	predictedType:disease	q:true	qid:Q111	docId:16006300	origText:acute renal insufficiency	url:D058186
+CANDIDATE	id:58186	inCount:2	outCount:1	links:	url:D058186	name:Acute Renal Insufficiency	normalName:acute renal insufficiency	normalWikiTitle:acute renal insufficiency	predictedType:Disease
+ENTITY	text:milk-alkali syndrome	normalName:milk-alkali syndrome	predictedType:disease	q:true	qid:Q111	docId:16006300	origText:milk-alkali syndrome	url:D006934
+CANDIDATE	id:6934	inCount:10	outCount:2	links:6934;1851	url:D006934	name:Syndrome, Milk-Alkali	normalName:syndrome, milk-alkali	normalWikiTitle:syndrome, milk-alkali	predictedType:Disease

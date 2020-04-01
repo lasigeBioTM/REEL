@@ -1,0 +1,23 @@
+ENTITY	text:lidocaine	normalName:lidocaine	predictedType:chemical	q:true	qid:Q129	docId:18165598	origText:lidocaine	url:D008012
+CANDIDATE	id:8012	inCount:68	outCount:1	links:2045	url:D008012	name:Lidocaine	normalName:lidocaine	normalWikiTitle:lidocaine	predictedType:Chemical
+ENTITY	text:PGE2	normalName:pge2	predictedType:chemical	q:true	qid:Q129	docId:18165598	origText:PGE2	url:D015232
+CANDIDATE	id:15232	inCount:51	outCount:1	links:15232	url:D015232	name:PGE2	normalName:pge2	normalWikiTitle:pge2	predictedType:Chemical
+ENTITY	text:thromboxane B2	normalName:thromboxane b2	predictedType:chemical	q:true	qid:Q129	docId:18165598	origText:thromboxane B2	url:D013929
+CANDIDATE	id:13929	inCount:9	outCount:1	links:13929	url:D013929	name:Thromboxane B2	normalName:thromboxane b2	normalWikiTitle:thromboxane b2	predictedType:Chemical
+ENTITY	text:rofecoxib	normalName:rofecoxib	predictedType:chemical	q:true	qid:Q129	docId:18165598	origText:rofecoxib	url:C116926
+CANDIDATE	id:116926	inCount:0	outCount:2	links:	url:C116926	name:rofecoxib	normalName:rofecoxib	normalWikiTitle:rofecoxib	predictedType:Chemical
+ENTITY	text:prostaglandin E2	normalName:prostaglandin e2	predictedType:chemical	q:true	qid:Q129	docId:18165598	origText:prostaglandin E2	url:D015232
+CANDIDATE	id:15232	inCount:51	outCount:1	links:15232	url:D015232	name:Prostaglandin E2	normalName:prostaglandin e2	normalWikiTitle:prostaglandin e2	predictedType:Chemical
+ENTITY	text:Thromboxane	normalName:thromboxane	predictedType:chemical	q:true	qid:Q129	docId:18165598	origText:Thromboxane	url:D013931
+CANDIDATE	id:13931	inCount:6	outCount:1	links:	url:D013931	name:Thromboxanes	normalName:thromboxanes	normalWikiTitle:thromboxanes	predictedType:Chemical
+CANDIDATE	id:13929	inCount:9	outCount:1	links:13929	url:D013929	name:Thromboxane B2	normalName:thromboxane b2	normalWikiTitle:thromboxane b2	predictedType:Chemical
+CANDIDATE	id:13928	inCount:16	outCount:1	links:	url:D013928	name:Thromboxane A2	normalName:thromboxane a2	normalWikiTitle:thromboxane a2	predictedType:Chemical
+CANDIDATE	id:39158	inCount:0	outCount:1	links:	url:C039158	name:thromboxane B3	normalName:thromboxane b3	normalWikiTitle:thromboxane b3	predictedType:Chemical
+CANDIDATE	id:39903	inCount:0	outCount:1	links:	url:C039903	name:thromboxane A3	normalName:thromboxane a3	normalWikiTitle:thromboxane a3	predictedType:Chemical
+CANDIDATE	id:4911	inCount:0	outCount:1	links:	url:C004911	name:ethomoxane	normalName:ethomoxane	normalWikiTitle:ethomoxane	predictedType:Chemical
+CANDIDATE	id:5515	inCount:0	outCount:1	links:	url:C005515	name:Thrombofax	normalName:thrombofax	normalWikiTitle:thrombofax	predictedType:Chemical
+CANDIDATE	id:478632	inCount:0	outCount:1	links:	url:C478632	name:Thrombogen	normalName:thrombogen	normalWikiTitle:thrombogen	predictedType:Chemical
+CANDIDATE	id:13917	inCount:41	outCount:1	links:	url:D013917	name:Thrombin	normalName:thrombin	normalWikiTitle:thrombin	predictedType:Chemical
+CANDIDATE	id:35912	inCount:0	outCount:1	links:	url:C035912	name:thyroxamine	normalName:thyroxamine	normalWikiTitle:thyroxamine	predictedType:Chemical
+ENTITY	text:bupivacaine	normalName:bupivacaine	predictedType:chemical	q:true	qid:Q129	docId:18165598	origText:bupivacaine	url:D002045
+CANDIDATE	id:2045	inCount:4	outCount:1	links:8012	url:D002045	name:Bupivacaine	normalName:bupivacaine	normalWikiTitle:bupivacaine	predictedType:Chemical

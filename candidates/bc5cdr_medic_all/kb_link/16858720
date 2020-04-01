@@ -1,0 +1,35 @@
+ENTITY	text:Cerebral haemorrhage	normalName:cerebral haemorrhage	predictedType:disease	q:true	qid:Q1460	docId:16858720	origText:Cerebral haemorrhage	url:D002543
+CANDIDATE	id:2543	inCount:3	outCount:1	links:2543	url:D002543	name:Cerebral Hemorrhage	normalName:cerebral hemorrhage	normalWikiTitle:cerebral hemorrhage	predictedType:Disease
+CANDIDATE	id:20202	inCount:0	outCount:2	links:20202	url:D020202	name:Cerebral Hemorrhage, Traumatic	normalName:cerebral hemorrhage, traumatic	normalWikiTitle:cerebral hemorrhage, traumatic	predictedType:Disease
+CANDIDATE	id:5130	inCount:4	outCount:3	links:5130	url:D005130	name:Eye Hemorrhage	normalName:eye hemorrhage	normalWikiTitle:eye hemorrhage	predictedType:Disease
+CANDIDATE	id:2832	inCount:0	outCount:2	links:2832	url:D002832	name:Choroid Hemorrhage	normalName:choroid hemorrhage	normalWikiTitle:choroid hemorrhage	predictedType:Disease
+CANDIDATE	id:74042	inCount:0	outCount:1	links:74042	url:D000074042	name:Cerebral Intraventricular Hemorrhage	normalName:cerebral intraventricular hemorrhage	normalWikiTitle:cerebral intraventricular hemorrhage	predictedType:Disease
+CANDIDATE	id:16779	inCount:0	outCount:2	links:16779	url:D016779	name:Malaria, Cerebral	normalName:malaria, cerebral	normalWikiTitle:malaria, cerebral	predictedType:Disease
+CANDIDATE	id:6470	inCount:31	outCount:1	links:6470	url:D006470	name:Hemorrhage	normalName:hemorrhage	normalWikiTitle:hemorrhage	predictedType:Disease
+CANDIDATE	id:5884	inCount:1	outCount:2	links:5884	url:D005884	name:Gingival Hemorrhage	normalName:gingival hemorrhage	normalWikiTitle:gingival hemorrhage	predictedType:Disease
+CANDIDATE	id:537946	inCount:0	outCount:2	links:537946	url:C537946	name:Cerebral sarcoma	normalName:cerebral sarcoma	normalWikiTitle:cerebral sarcoma	predictedType:Disease
+CANDIDATE	id:6471	inCount:3	outCount:2	links:6471	url:D006471	name:Gastrointestinal Hemorrhage	normalName:gastrointestinal hemorrhage	normalWikiTitle:gastrointestinal hemorrhage	predictedType:Disease
+ENTITY	text:cerebral haemorrhages	normalName:cerebral haemorrhages	predictedType:disease	q:true	qid:Q1460	docId:16858720	origText:cerebral haemorrhages	url:D002543
+CANDIDATE	id:2543	inCount:3	outCount:1	links:2543	url:D002543	name:Cerebral Hemorrhage	normalName:cerebral hemorrhage	normalWikiTitle:cerebral hemorrhage	predictedType:Disease
+CANDIDATE	id:20202	inCount:0	outCount:2	links:20202	url:D020202	name:Cerebral Hemorrhage, Traumatic	normalName:cerebral hemorrhage, traumatic	normalWikiTitle:cerebral hemorrhage, traumatic	predictedType:Disease
+CANDIDATE	id:5130	inCount:4	outCount:3	links:5130	url:D005130	name:Eye Hemorrhage	normalName:eye hemorrhage	normalWikiTitle:eye hemorrhage	predictedType:Disease
+CANDIDATE	id:2832	inCount:0	outCount:2	links:2832	url:D002832	name:Choroid Hemorrhage	normalName:choroid hemorrhage	normalWikiTitle:choroid hemorrhage	predictedType:Disease
+CANDIDATE	id:74042	inCount:0	outCount:1	links:74042	url:D000074042	name:Cerebral Intraventricular Hemorrhage	normalName:cerebral intraventricular hemorrhage	normalWikiTitle:cerebral intraventricular hemorrhage	predictedType:Disease
+CANDIDATE	id:16779	inCount:0	outCount:2	links:16779	url:D016779	name:Malaria, Cerebral	normalName:malaria, cerebral	normalWikiTitle:malaria, cerebral	predictedType:Disease
+CANDIDATE	id:6470	inCount:31	outCount:1	links:6470	url:D006470	name:Hemorrhage	normalName:hemorrhage	normalWikiTitle:hemorrhage	predictedType:Disease
+CANDIDATE	id:5884	inCount:1	outCount:2	links:5884	url:D005884	name:Gingival Hemorrhage	normalName:gingival hemorrhage	normalWikiTitle:gingival hemorrhage	predictedType:Disease
+CANDIDATE	id:537946	inCount:0	outCount:2	links:537946	url:C537946	name:Cerebral sarcoma	normalName:cerebral sarcoma	normalWikiTitle:cerebral sarcoma	predictedType:Disease
+CANDIDATE	id:6471	inCount:3	outCount:2	links:6471	url:D006471	name:Gastrointestinal Hemorrhage	normalName:gastrointestinal hemorrhage	normalWikiTitle:gastrointestinal hemorrhage	predictedType:Disease
+ENTITY	text:bleeding	normalName:bleeding	predictedType:disease	q:true	qid:Q1460	docId:16858720	origText:bleeding	url:D006470
+CANDIDATE	id:6470	inCount:31	outCount:1	links:6470	url:D006470	name:Bleeding	normalName:bleeding	normalWikiTitle:bleeding	predictedType:Disease
+ENTITY	text:haemorrhage	normalName:haemorrhage	predictedType:disease	q:true	qid:Q1460	docId:16858720	origText:haemorrhage	url:D006470
+CANDIDATE	id:6470	inCount:31	outCount:1	links:6470	url:D006470	name:Hemorrhage	normalName:hemorrhage	normalWikiTitle:hemorrhage	predictedType:Disease
+CANDIDATE	id:5130	inCount:4	outCount:3	links:5130	url:D005130	name:Eye Hemorrhage	normalName:eye hemorrhage	normalWikiTitle:eye hemorrhage	predictedType:Disease
+CANDIDATE	id:6472	inCount:1	outCount:3	links:	url:D006472	name:Oral Hemorrhage	normalName:oral hemorrhage	normalWikiTitle:oral hemorrhage	predictedType:Disease
+CANDIDATE	id:12166	inCount:3	outCount:2	links:	url:D012166	name:Retinal Hemorrhage	normalName:retinal hemorrhage	normalWikiTitle:retinal hemorrhage	predictedType:Disease
+CANDIDATE	id:2832	inCount:0	outCount:2	links:2832	url:D002832	name:Choroid Hemorrhage	normalName:choroid hemorrhage	normalWikiTitle:choroid hemorrhage	predictedType:Disease
+CANDIDATE	id:14592	inCount:3	outCount:2	links:	url:D014592	name:Uterine Hemorrhage	normalName:uterine hemorrhage	normalWikiTitle:uterine hemorrhage	predictedType:Disease
+CANDIDATE	id:568	inCount:3	outCount:1	links:	url:D000568	name:Amenorrhea	normalName:amenorrhea	normalWikiTitle:amenorrhea	predictedType:Disease
+CANDIDATE	id:5884	inCount:1	outCount:2	links:5884	url:D005884	name:Gingival Hemorrhage	normalName:gingival hemorrhage	normalWikiTitle:gingival hemorrhage	predictedType:Disease
+CANDIDATE	id:14823	inCount:0	outCount:1	links:	url:D014823	name:Vitreous Hemorrhage	normalName:vitreous hemorrhage	normalWikiTitle:vitreous hemorrhage	predictedType:Disease
+CANDIDATE	id:2543	inCount:3	outCount:1	links:2543	url:D002543	name:Cerebral Hemorrhage	normalName:cerebral hemorrhage	normalWikiTitle:cerebral hemorrhage	predictedType:Disease

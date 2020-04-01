@@ -1,0 +1,42 @@
+ENTITY	text:overdosage	normalName:overdosage	predictedType:disease	q:true	qid:Q473	docId:8864707	origText:overdosage	url:D062787
+CANDIDATE	id:62787	inCount:0	outCount:1	links:62787	url:D062787	name:Drug Overdose	normalName:drug overdose	normalWikiTitle:drug overdose	predictedType:Disease
+CANDIDATE	id:12393	inCount:1	outCount:1	links:12393	url:D012393	name:Rosacea	normalName:rosacea	normalWikiTitle:rosacea	predictedType:Disease
+CANDIDATE	id:1882	inCount:0	outCount:2	links:1882	url:D001882	name:Border Disease	normalName:border disease	normalWikiTitle:border disease	predictedType:Disease
+CANDIDATE	id:2817	inCount:0	outCount:1	links:2817	url:D002817	name:Chordoma	normalName:chordoma	normalWikiTitle:chordoma	predictedType:Disease
+CANDIDATE	id:57887	inCount:0	outCount:1	links:57887	url:D057887	name:Overbite	normalName:overbite	normalWikiTitle:overbite	predictedType:Disease
+CANDIDATE	id:8141	inCount:2	outCount:1	links:8141	url:D008141	name:Lordosis	normalName:lordosis	normalWikiTitle:lordosis	predictedType:Disease
+CANDIDATE	id:564931	inCount:0	outCount:2	links:564931	url:C564931	name:Oliver Syndrome	normalName:oliver syndrome	normalWikiTitle:oliver syndrome	predictedType:Disease
+CANDIDATE	id:615522	inCount:0	outCount:3	links:615522	url:615522	name:COLE DISEASE	normalName:cole disease	normalWikiTitle:cole disease	predictedType:Disease
+CANDIDATE	id:334	inCount:0	outCount:1	links:334	url:D000334	name:Aerophagy	normalName:aerophagy	normalWikiTitle:aerophagy	predictedType:Disease
+CANDIDATE	id:1890	inCount:0	outCount:2	links:1890	url:D001890	name:Borna Disease	normalName:borna disease	normalWikiTitle:borna disease	predictedType:Disease
+ENTITY	text:cerebellar disorders	normalName:cerebellar disorders	predictedType:disease	q:true	qid:Q473	docId:8864707	origText:cerebellar disorders	url:D002526
+CANDIDATE	id:2526	inCount:29	outCount:1	links:	url:D002526	name:Cerebellar Disorders	normalName:cerebellar disorders	normalWikiTitle:cerebellar disorders	predictedType:Disease
+ENTITY	text:epileptic	normalName:epileptic	predictedType:disease	q:true	qid:Q473	docId:8864707	origText:epileptic	url:D004827
+CANDIDATE	id:4827	inCount:52	outCount:1	links:	url:D004827	name:Epilepsies	normalName:epilepsies	normalWikiTitle:epilepsies	predictedType:Disease
+CANDIDATE	id:4827	inCount:52	outCount:1	links:	url:D004827	name:Epilepsy	normalName:epilepsy	normalWikiTitle:epilepsy	predictedType:Disease
+CANDIDATE	id:13226	inCount:1	outCount:1	links:	url:D013226	name:Status Epilepticus	normalName:status epilepticus	normalWikiTitle:status epilepticus	predictedType:Disease
+CANDIDATE	id:73376	inCount:9	outCount:1	links:	url:D000073376	name:Epileptic Syndromes	normalName:epileptic syndromes	normalWikiTitle:epileptic syndromes	predictedType:Disease
+CANDIDATE	id:7079	inCount:1	outCount:2	links:	url:D007079	name:Ileitis	normalName:ileitis	normalWikiTitle:ileitis	predictedType:Disease
+CANDIDATE	id:19305	inCount:3	outCount:2	links:	url:D019305	name:Epilepsy, Rolandic	normalName:epilepsy, rolandic	normalWikiTitle:epilepsy, rolandic	predictedType:Disease
+CANDIDATE	id:4479	inCount:12	outCount:2	links:	url:D004479	name:Ectopia Lentis	normalName:ectopia lentis	normalWikiTitle:ectopia lentis	predictedType:Disease
+CANDIDATE	id:15845	inCount:1	outCount:1	links:	url:D015845	name:Tonic Pupil	normalName:tonic pupil	normalWikiTitle:tonic pupil	predictedType:Disease
+CANDIDATE	id:4830	inCount:1	outCount:1	links:	url:D004830	name:Epilepsy, Tonic-Clonic	normalName:epilepsy, tonic-clonic	normalWikiTitle:epilepsy, tonic-clonic	predictedType:Disease
+CANDIDATE	id:4942	inCount:0	outCount:2	links:	url:D004942	name:Esophagitis, Peptic	normalName:esophagitis, peptic	normalWikiTitle:esophagitis, peptic	predictedType:Disease
+CANDIDATE	id:4828	inCount:9	outCount:1	links:	url:D004828	name:Epilepsies, Partial	normalName:epilepsies, partial	normalWikiTitle:epilepsies, partial	predictedType:Disease
+CANDIDATE	id:4829	inCount:20	outCount:1	links:	url:D004829	name:Tonic Epilepsy	normalName:tonic epilepsy	normalWikiTitle:tonic epilepsy	predictedType:Disease
+CANDIDATE	id:4829	inCount:20	outCount:1	links:	url:D004829	name:Epilepsy, Tonic	normalName:epilepsy, tonic	normalWikiTitle:epilepsy, tonic	predictedType:Disease
+CANDIDATE	id:4829	inCount:20	outCount:1	links:	url:D004829	name:Epilepsies, Tonic	normalName:epilepsies, tonic	normalWikiTitle:epilepsies, tonic	predictedType:Disease
+CANDIDATE	id:4829	inCount:20	outCount:1	links:	url:D004829	name:Tonic Epilepsies	normalName:tonic epilepsies	normalWikiTitle:tonic epilepsies	predictedType:Disease
+ENTITY	text:overdosages	normalName:overdosages	predictedType:disease	q:true	qid:Q473	docId:8864707	origText:overdosages	url:D062787
+CANDIDATE	id:62787	inCount:0	outCount:1	links:62787	url:D062787	name:Drug Overdose	normalName:drug overdose	normalWikiTitle:drug overdose	predictedType:Disease
+CANDIDATE	id:12393	inCount:1	outCount:1	links:12393	url:D012393	name:Rosacea	normalName:rosacea	normalWikiTitle:rosacea	predictedType:Disease
+CANDIDATE	id:1882	inCount:0	outCount:2	links:1882	url:D001882	name:Border Disease	normalName:border disease	normalWikiTitle:border disease	predictedType:Disease
+CANDIDATE	id:2817	inCount:0	outCount:1	links:2817	url:D002817	name:Chordoma	normalName:chordoma	normalWikiTitle:chordoma	predictedType:Disease
+CANDIDATE	id:57887	inCount:0	outCount:1	links:57887	url:D057887	name:Overbite	normalName:overbite	normalWikiTitle:overbite	predictedType:Disease
+CANDIDATE	id:8141	inCount:2	outCount:1	links:8141	url:D008141	name:Lordosis	normalName:lordosis	normalWikiTitle:lordosis	predictedType:Disease
+CANDIDATE	id:564931	inCount:0	outCount:2	links:564931	url:C564931	name:Oliver Syndrome	normalName:oliver syndrome	normalWikiTitle:oliver syndrome	predictedType:Disease
+CANDIDATE	id:615522	inCount:0	outCount:3	links:615522	url:615522	name:COLE DISEASE	normalName:cole disease	normalWikiTitle:cole disease	predictedType:Disease
+CANDIDATE	id:334	inCount:0	outCount:1	links:334	url:D000334	name:Aerophagy	normalName:aerophagy	normalWikiTitle:aerophagy	predictedType:Disease
+CANDIDATE	id:1890	inCount:0	outCount:2	links:1890	url:D001890	name:Borna Disease	normalName:borna disease	normalWikiTitle:borna disease	predictedType:Disease
+ENTITY	text:seizure	normalName:seizure	predictedType:disease	q:true	qid:Q473	docId:8864707	origText:seizure	url:D012640
+CANDIDATE	id:12640	inCount:53	outCount:1	links:	url:D012640	name:Seizure	normalName:seizure	normalWikiTitle:seizure	predictedType:Disease

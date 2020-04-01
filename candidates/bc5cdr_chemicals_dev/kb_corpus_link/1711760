@@ -1,0 +1,15 @@
+ENTITY	text:isoflurane	normalName:isoflurane	predictedType:chemical	q:true	qid:Q102	docId:1711760	origText:isoflurane	url:D007530
+CANDIDATE	id:7530	inCount:1	outCount:1	links:	url:D007530	name:Isoflurane	normalName:isoflurane	normalWikiTitle:isoflurane	predictedType:Chemical
+ENTITY	text:phenylephrine	normalName:phenylephrine	predictedType:chemical	q:true	qid:Q102	docId:1711760	origText:phenylephrine	url:D010656
+CANDIDATE	id:10656	inCount:28	outCount:1	links:	url:D010656	name:Phenylephrine	normalName:phenylephrine	normalWikiTitle:phenylephrine	predictedType:Chemical
+ENTITY	text:2,3,5-triphenyltetrazolium	normalName:2,3,5-triphenyltetrazolium	predictedType:chemical	q:true	qid:Q102	docId:1711760	origText:2,3,5-triphenyltetrazolium	url:C009591
+CANDIDATE	id:9591	inCount:0	outCount:1	links:	url:C009591	name:triphenyltetrazolium	normalName:triphenyltetrazolium	normalWikiTitle:triphenyltetrazolium	predictedType:Chemical
+CANDIDATE	id:3110	inCount:0	outCount:1	links:	url:C003110	name:phenyltetrazolium	normalName:phenyltetrazolium	normalWikiTitle:phenyltetrazolium	predictedType:Chemical
+CANDIDATE	id:14831	inCount:0	outCount:1	links:	url:C014831	name:styrylphenyltetrazolium	normalName:styrylphenyltetrazolium	normalWikiTitle:styrylphenyltetrazolium	predictedType:Chemical
+CANDIDATE	id:494145	inCount:0	outCount:1	links:	url:C494145	name:2,3-diphenyl-5-thienyl-(2)-tetrazolium	normalName:2,3-diphenyl-5-thienyl-(2)-tetrazolium	normalWikiTitle:2,3-diphenyl-5-thienyl-(2)-tetrazolium	predictedType:Chemical
+CANDIDATE	id:57661	inCount:0	outCount:1	links:	url:C057661	name:2,4,6-triphenylverdazyl	normalName:2,4,6-triphenylverdazyl	normalWikiTitle:2,4,6-triphenylverdazyl	predictedType:Chemical
+CANDIDATE	id:498029	inCount:0	outCount:1	links:	url:C498029	name:2,4,6-triphenylpyrylium	normalName:2,4,6-triphenylpyrylium	normalWikiTitle:2,4,6-triphenylpyrylium	predictedType:Chemical
+CANDIDATE	id:508865	inCount:0	outCount:1	links:	url:C508865	name:2,3,4,5-tetraphenylpyrylium	normalName:2,3,4,5-tetraphenylpyrylium	normalWikiTitle:2,3,4,5-tetraphenylpyrylium	predictedType:Chemical
+CANDIDATE	id:75453	inCount:0	outCount:1	links:	url:C075453	name:5-cyano-2,3-ditolyltetrazolium	normalName:5-cyano-2,3-ditolyltetrazolium	normalWikiTitle:5-cyano-2,3-ditolyltetrazolium	predictedType:Chemical
+CANDIDATE	id:41098	inCount:0	outCount:1	links:	url:C041098	name:2,3-di-(4-nitrophenyl)-5-phenyl-2H-tetrazolium	normalName:2,3-di-(4-nitrophenyl)-5-phenyl-2h-tetrazolium	normalWikiTitle:2,3-di-(4-nitrophenyl)-5-phenyl-2h-tetrazolium	predictedType:Chemical
+CANDIDATE	id:73720	inCount:0	outCount:2	links:	url:C073720	name:2,4,5-trichlorophenylethanol	normalName:2,4,5-trichlorophenylethanol	normalWikiTitle:2,4,5-trichlorophenylethanol	predictedType:Chemical

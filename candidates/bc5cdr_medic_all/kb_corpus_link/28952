@@ -1,0 +1,13 @@
+ENTITY	text:hypertension	normalName:hypertension	predictedType:disease	q:true	qid:Q85	docId:28952	origText:hypertension	url:D006973
+CANDIDATE	id:6973	inCount:18	outCount:1	links:6934;6996	url:D006973	name:Hypertension	normalName:hypertension	normalWikiTitle:hypertension	predictedType:Disease
+ENTITY	text:hypokalaemia	normalName:hypokalaemia	predictedType:disease	q:true	qid:Q85	docId:28952	origText:hypokalaemia	url:D007008
+CANDIDATE	id:7008	inCount:1	outCount:1	links:	url:D007008	name:Hypokalemia	normalName:hypokalemia	normalWikiTitle:hypokalemia	predictedType:Disease
+CANDIDATE	id:6947	inCount:4	outCount:1	links:	url:D006947	name:Hyperkalemia	normalName:hyperkalemia	normalWikiTitle:hyperkalemia	predictedType:Disease
+CANDIDATE	id:6996	inCount:5	outCount:2	links:6973	url:D006996	name:Hypocalcemia	normalName:hypocalcemia	normalWikiTitle:hypocalcemia	predictedType:Disease
+CANDIDATE	id:20896	inCount:0	outCount:1	links:	url:D020896	name:Hypovolemia	normalName:hypovolemia	normalWikiTitle:hypovolemia	predictedType:Disease
+CANDIDATE	id:7003	inCount:14	outCount:1	links:	url:D007003	name:Hypoglycemia	normalName:hypoglycemia	normalWikiTitle:hypoglycemia	predictedType:Disease
+CANDIDATE	id:7010	inCount:1	outCount:1	links:	url:D007010	name:Hyponatremia	normalName:hyponatremia	normalWikiTitle:hyponatremia	predictedType:Disease
+CANDIDATE	id:34141	inCount:1	outCount:1	links:	url:D034141	name:Hypoalbuminemia	normalName:hypoalbuminemia	normalWikiTitle:hypoalbuminemia	predictedType:Disease
+CANDIDATE	id:34321	inCount:0	outCount:1	links:	url:D034321	name:Hyperamylasemia	normalName:hyperamylasemia	normalWikiTitle:hyperamylasemia	predictedType:Disease
+CANDIDATE	id:6934	inCount:10	outCount:2	links:6973	url:D006934	name:Hypercalcemia	normalName:hypercalcemia	normalWikiTitle:hypercalcemia	predictedType:Disease
+CANDIDATE	id:7035	inCount:2	outCount:1	links:	url:D007035	name:Hypothermia	normalName:hypothermia	normalWikiTitle:hypothermia	predictedType:Disease

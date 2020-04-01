@@ -1,0 +1,4 @@
+ENTITY	text:BN 52021	normalName:bn 52021	predictedType:chemical	q:true	qid:Q468	docId:2594614	origText:BN 52021	url:C045856
+CANDIDATE	id:45856	inCount:0	outCount:2	links:	url:C045856	name:BN 52021	normalName:bn 52021	normalWikiTitle:bn 52021	predictedType:Chemical
+ENTITY	text:bupivacaine	normalName:bupivacaine	predictedType:chemical	q:true	qid:Q468	docId:2594614	origText:bupivacaine	url:D002045
+CANDIDATE	id:2045	inCount:4	outCount:1	links:	url:D002045	name:Bupivacaine	normalName:bupivacaine	normalWikiTitle:bupivacaine	predictedType:Chemical

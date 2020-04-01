@@ -1,0 +1,6 @@
+ENTITY	text:capsaicin	normalName:capsaicin	predictedType:chemical	q:true	qid:Q79	docId:10743446	origText:capsaicin	url:D002211
+CANDIDATE	id:2211	inCount:38	outCount:4	links:8012	url:D002211	name:Capsaicin	normalName:capsaicin	normalWikiTitle:capsaicin	predictedType:Chemical
+ENTITY	text:ketamine	normalName:ketamine	predictedType:chemical	q:true	qid:Q79	docId:10743446	origText:ketamine	url:D007649
+CANDIDATE	id:7649	inCount:10	outCount:1	links:8012	url:D007649	name:Ketamine	normalName:ketamine	normalWikiTitle:ketamine	predictedType:Chemical
+ENTITY	text:lidocaine	normalName:lidocaine	predictedType:chemical	q:true	qid:Q79	docId:10743446	origText:lidocaine	url:D008012
+CANDIDATE	id:8012	inCount:68	outCount:1	links:7649;2211	url:D008012	name:Lidocaine	normalName:lidocaine	normalWikiTitle:lidocaine	predictedType:Chemical

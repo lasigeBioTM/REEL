@@ -1,0 +1,21 @@
+ENTITY	text:spironolactone	normalName:spironolactone	predictedType:chemical	q:true	qid:Q838	docId:20859899	origText:spironolactone	url:D013148
+CANDIDATE	id:13148	inCount:32	outCount:2	links:13148;17257	url:D013148	name:Spironolactone	normalName:spironolactone	normalWikiTitle:spironolactone	predictedType:Chemical
+ENTITY	text:spiranolactone	normalName:spiranolactone	predictedType:chemical	q:true	qid:Q838	docId:20859899	origText:spiranolactone	url:D013148
+CANDIDATE	id:13148	inCount:32	outCount:2	links:13148;17257	url:D013148	name:Spironolactone	normalName:spironolactone	normalWikiTitle:spironolactone	predictedType:Chemical
+CANDIDATE	id:5412	inCount:0	outCount:1	links:	url:C005412	name:pantolactone	normalName:pantolactone	normalWikiTitle:pantolactone	predictedType:Chemical
+CANDIDATE	id:571793	inCount:0	outCount:1	links:	url:C571793	name:sibiralactone	normalName:sibiralactone	normalWikiTitle:sibiralactone	predictedType:Chemical
+CANDIDATE	id:610603	inCount:0	outCount:1	links:	url:C000610603	name:spiramilactone B	normalName:spiramilactone b	normalWikiTitle:spiramilactone b	predictedType:Chemical
+CANDIDATE	id:592356	inCount:0	outCount:1	links:	url:C000592356	name:spindlactone B	normalName:spindlactone b	normalWikiTitle:spindlactone b	predictedType:Chemical
+CANDIDATE	id:592355	inCount:0	outCount:1	links:	url:C000592355	name:spindlactone A	normalName:spindlactone a	normalWikiTitle:spindlactone a	predictedType:Chemical
+CANDIDATE	id:481123	inCount:0	outCount:1	links:	url:C481123	name:pityrialactone	normalName:pityrialactone	normalWikiTitle:pityrialactone	predictedType:Chemical
+CANDIDATE	id:121056	inCount:0	outCount:2	links:	url:C121056	name:caprolactone	normalName:caprolactone	normalWikiTitle:caprolactone	predictedType:Chemical
+CANDIDATE	id:522315	inCount:0	outCount:1	links:	url:C522315	name:vibralactone	normalName:vibralactone	normalWikiTitle:vibralactone	predictedType:Chemical
+CANDIDATE	id:634109	inCount:0	outCount:1	links:	url:C000634109	name:epicolactone	normalName:epicolactone	normalWikiTitle:epicolactone	predictedType:Chemical
+ENTITY	text:angiotensin	normalName:angiotensin	predictedType:chemical	q:true	qid:Q838	docId:20859899	origText:angiotensin	url:D000809
+CANDIDATE	id:809	inCount:9	outCount:4	links:	url:D000809	name:Angiotensin	normalName:angiotensin	normalWikiTitle:angiotensin	predictedType:Chemical
+ENTITY	text:ramipril	normalName:ramipril	predictedType:chemical	q:true	qid:Q838	docId:20859899	origText:ramipril	url:D017257
+CANDIDATE	id:17257	inCount:1	outCount:1	links:13148	url:D017257	name:Ramipril	normalName:ramipril	normalWikiTitle:ramipril	predictedType:Chemical
+ENTITY	text:aldosterone	normalName:aldosterone	predictedType:chemical	q:true	qid:Q838	docId:20859899	origText:aldosterone	url:D000450
+CANDIDATE	id:450	inCount:23	outCount:2	links:	url:D000450	name:Aldosterone	normalName:aldosterone	normalWikiTitle:aldosterone	predictedType:Chemical
+ENTITY	text:potassium	normalName:potassium	predictedType:chemical	q:true	qid:Q838	docId:20859899	origText:potassium	url:D011188
+CANDIDATE	id:11188	inCount:10	outCount:2	links:	url:D011188	name:Potassium	normalName:potassium	normalWikiTitle:potassium	predictedType:Chemical

@@ -1,0 +1,10 @@
+ENTITY	text:malondialdehyde	normalName:malondialdehyde	predictedType:chemical	q:true	qid:Q1120	docId:20667451	origText:malondialdehyde	url:D008315
+CANDIDATE	id:8315	inCount:11	outCount:1	links:	url:D008315	name:Malondialdehyde	normalName:malondialdehyde	normalWikiTitle:malondialdehyde	predictedType:Chemical
+ENTITY	text:Curcumin	normalName:curcumin	predictedType:chemical	q:true	qid:Q1120	docId:20667451	origText:Curcumin	url:D003474
+CANDIDATE	id:3474	inCount:85	outCount:2	links:	url:D003474	name:Curcumin	normalName:curcumin	normalWikiTitle:curcumin	predictedType:Chemical
+ENTITY	text:glutathione	normalName:glutathione	predictedType:chemical	q:true	qid:Q1120	docId:20667451	origText:glutathione	url:D005978
+CANDIDATE	id:5978	inCount:255	outCount:1	links:	url:D005978	name:Glutathione	normalName:glutathione	normalWikiTitle:glutathione	predictedType:Chemical
+ENTITY	text:carbamazepine	normalName:carbamazepine	predictedType:chemical	q:true	qid:Q1120	docId:20667451	origText:carbamazepine	url:D002220
+CANDIDATE	id:2220	inCount:15	outCount:1	links:	url:D002220	name:Carbamazepine	normalName:carbamazepine	normalWikiTitle:carbamazepine	predictedType:Chemical
+ENTITY	text:phenobarbitone	normalName:phenobarbitone	predictedType:chemical	q:true	qid:Q1120	docId:20667451	origText:phenobarbitone	url:D010634
+CANDIDATE	id:10634	inCount:50	outCount:1	links:	url:D010634	name:Phenobarbitone	normalName:phenobarbitone	normalWikiTitle:phenobarbitone	predictedType:Chemical

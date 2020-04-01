@@ -1,0 +1,10 @@
+ENTITY	text:jaundice	normalName:jaundice	predictedType:disease	q:true	qid:Q512	docId:11467664	origText:jaundice	url:D007565
+CANDIDATE	id:7565	inCount:5	outCount:2	links:2779	url:D007565	name:Jaundice	normalName:jaundice	normalWikiTitle:jaundice	predictedType:Disease
+ENTITY	text:edema	normalName:edema	predictedType:disease	q:true	qid:Q512	docId:11467664	origText:edema	url:D004487
+CANDIDATE	id:4487	inCount:6	outCount:1	links:7249	url:D004487	name:Edema	normalName:edema	normalWikiTitle:edema	predictedType:Disease
+ENTITY	text:Cholestatic jaundice	normalName:cholestatic jaundice	predictedType:disease	q:true	qid:Q512	docId:11467664	origText:Cholestatic jaundice	url:D041781
+CANDIDATE	id:41781	inCount:2	outCount:1	links:2779	url:D041781	name:Cholestatic Jaundice	normalName:cholestatic jaundice	normalWikiTitle:cholestatic jaundice	predictedType:Disease
+ENTITY	text:cholestasis	normalName:cholestasis	predictedType:disease	q:true	qid:Q512	docId:11467664	origText:cholestasis	url:D002779
+CANDIDATE	id:2779	inCount:14	outCount:1	links:7565;41781	url:D002779	name:Cholestasis	normalName:cholestasis	normalWikiTitle:cholestasis	predictedType:Disease
+ENTITY	text:inflammation	normalName:inflammation	predictedType:disease	q:true	qid:Q512	docId:11467664	origText:inflammation	url:D007249
+CANDIDATE	id:7249	inCount:14	outCount:1	links:4487	url:D007249	name:Inflammation	normalName:inflammation	normalWikiTitle:inflammation	predictedType:Disease

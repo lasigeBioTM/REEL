@@ -1,0 +1,20 @@
+ENTITY	text:acetylsalicylic acid	normalName:acetylsalicylic acid	predictedType:chemical	q:true	qid:Q218	docId:10193204	origText:acetylsalicylic acid	url:D001241
+CANDIDATE	id:1241	inCount:106	outCount:1	links:	url:D001241	name:Acid, Acetylsalicylic	normalName:acid, acetylsalicylic	normalWikiTitle:acid, acetylsalicylic	predictedType:Chemical
+ENTITY	text:tetrandrine	normalName:tetrandrine	predictedType:chemical	q:true	qid:Q218	docId:10193204	origText:tetrandrine	url:C009438
+CANDIDATE	id:9438	inCount:0	outCount:1	links:	url:C009438	name:tetrandrine	normalName:tetrandrine	normalWikiTitle:tetrandrine	predictedType:Chemical
+ENTITY	text:bisbenzylisoquinoline	normalName:bisbenzylisoquinoline	predictedType:chemical	q:true	qid:Q218	docId:10193204	origText:bisbenzylisoquinoline	url:D044182
+CANDIDATE	id:44182	inCount:59	outCount:2	links:	url:D044182	name:Bisbenzylisoquinolines	normalName:bisbenzylisoquinolines	normalWikiTitle:bisbenzylisoquinolines	predictedType:Chemical
+CANDIDATE	id:44182	inCount:59	outCount:2	links:	url:D044182	name:Benzylisoquinolines	normalName:benzylisoquinolines	normalWikiTitle:benzylisoquinolines	predictedType:Chemical
+CANDIDATE	id:479572	inCount:0	outCount:1	links:	url:C479572	name:1-(4-butylbenzyl)isoquinoline	normalName:1-(4-butylbenzyl)isoquinoline	normalWikiTitle:1-(4-butylbenzyl)isoquinoline	predictedType:Chemical
+CANDIDATE	id:65956	inCount:0	outCount:1	links:	url:C065956	name:7-benzyloxyquinoline	normalName:7-benzyloxyquinoline	normalWikiTitle:7-benzyloxyquinoline	predictedType:Chemical
+CANDIDATE	id:37427	inCount:0	outCount:1	links:	url:C037427	name:1-(4-aminobenzyl)isoquinoline	normalName:1-(4-aminobenzyl)isoquinoline	normalWikiTitle:1-(4-aminobenzyl)isoquinoline	predictedType:Chemical
+CANDIDATE	id:32931	inCount:0	outCount:1	links:	url:C032931	name:benzoquinoxaline	normalName:benzoquinoxaline	normalWikiTitle:benzoquinoxaline	predictedType:Chemical
+CANDIDATE	id:39107	inCount:0	outCount:1	links:	url:C039107	name:benzo(h)quinoline	normalName:benzo(h)quinoline	normalWikiTitle:benzo(h)quinoline	predictedType:Chemical
+CANDIDATE	id:39108	inCount:0	outCount:1	links:	url:C039108	name:benzo(f)quinoline	normalName:benzo(f)quinoline	normalWikiTitle:benzo(f)quinoline	predictedType:Chemical
+CANDIDATE	id:568019	inCount:0	outCount:1	links:	url:C568019	name:jasisoquinoline B	normalName:jasisoquinoline b	normalWikiTitle:jasisoquinoline b	predictedType:Chemical
+CANDIDATE	id:411084	inCount:0	outCount:2	links:	url:C411084	name:benzopyridoquinoxaline	normalName:benzopyridoquinoxaline	normalWikiTitle:benzopyridoquinoxaline	predictedType:Chemical
+CANDIDATE	id:39109	inCount:0	outCount:1	links:	url:C039109	name:isoquinoline	normalName:isoquinoline	normalWikiTitle:isoquinoline	predictedType:Chemical
+ENTITY	text:fangchinoline	normalName:fangchinoline	predictedType:chemical	q:true	qid:Q218	docId:10193204	origText:fangchinoline	url:C060802
+CANDIDATE	id:60802	inCount:0	outCount:1	links:	url:C060802	name:fangchinoline	normalName:fangchinoline	normalWikiTitle:fangchinoline	predictedType:Chemical
+ENTITY	text:epinephrine	normalName:epinephrine	predictedType:chemical	q:true	qid:Q218	docId:10193204	origText:epinephrine	url:D004837
+CANDIDATE	id:4837	inCount:33	outCount:3	links:	url:D004837	name:Epinephrine	normalName:epinephrine	normalWikiTitle:epinephrine	predictedType:Chemical

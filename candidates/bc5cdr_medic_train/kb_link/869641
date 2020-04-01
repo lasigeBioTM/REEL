@@ -1,0 +1,4 @@
+ENTITY	text:bradycardia	normalName:bradycardia	predictedType:disease	q:true	qid:Q111	docId:869641	origText:bradycardia	url:D001919
+CANDIDATE	id:1919	inCount:0	outCount:1	links:	url:D001919	name:Bradycardia	normalName:bradycardia	normalWikiTitle:bradycardia	predictedType:Disease
+ENTITY	text:hypotension	normalName:hypotension	predictedType:disease	q:true	qid:Q111	docId:869641	origText:hypotension	url:D007022
+CANDIDATE	id:7022	inCount:3	outCount:1	links:	url:D007022	name:Hypotension	normalName:hypotension	normalWikiTitle:hypotension	predictedType:Disease

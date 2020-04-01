@@ -1,0 +1,4 @@
+ENTITY	text:Busulfan	normalName:busulfan	predictedType:chemical	q:true	qid:Q354	docId:7269015	origText:Busulfan	url:D002066
+CANDIDATE	id:2066	inCount:6	outCount:2	links:3520	url:D002066	name:Busulfan	normalName:busulfan	normalWikiTitle:busulfan	predictedType:Chemical
+ENTITY	text:cyclophosphamide	normalName:cyclophosphamide	predictedType:chemical	q:true	qid:Q354	docId:7269015	origText:cyclophosphamide	url:D003520
+CANDIDATE	id:3520	inCount:474	outCount:1	links:2066	url:D003520	name:Cyclophosphamide	normalName:cyclophosphamide	normalWikiTitle:cyclophosphamide	predictedType:Chemical

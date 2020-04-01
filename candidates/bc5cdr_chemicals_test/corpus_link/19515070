@@ -1,0 +1,8 @@
+ENTITY	text:citric acid	normalName:citric acid	predictedType:chemical	q:true	qid:Q321	docId:19515070	origText:citric acid	url:D019343
+CANDIDATE	id:19343	inCount:28	outCount:1	links:	url:D019343	name:Citric Acid	normalName:citric acid	normalWikiTitle:citric acid	predictedType:Chemical
+ENTITY	text:heparin	normalName:heparin	predictedType:chemical	q:true	qid:Q321	docId:19515070	origText:heparin	url:D006493
+CANDIDATE	id:6493	inCount:75	outCount:1	links:	url:D006493	name:Heparin	normalName:heparin	normalWikiTitle:heparin	predictedType:Chemical
+ENTITY	text:acetaminophen	normalName:acetaminophen	predictedType:chemical	q:true	qid:Q321	docId:19515070	origText:acetaminophen	url:D000082
+CANDIDATE	id:82	inCount:89	outCount:1	links:	url:D000082	name:Acetaminophen	normalName:acetaminophen	normalWikiTitle:acetaminophen	predictedType:Chemical
+ENTITY	text:citrate	normalName:citrate	predictedType:chemical	q:true	qid:Q321	docId:19515070	origText:citrate	url:D019343
+CANDIDATE	id:19343	inCount:28	outCount:1	links:	url:D019343	name:Citrate	normalName:citrate	normalWikiTitle:citrate	predictedType:Chemical

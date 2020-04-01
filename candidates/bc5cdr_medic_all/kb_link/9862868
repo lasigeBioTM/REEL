@@ -1,0 +1,6 @@
+ENTITY	text:intrahepatic cholestasis	normalName:intrahepatic cholestasis	predictedType:disease	q:true	qid:Q729	docId:9862868	origText:intrahepatic cholestasis	url:D002780
+CANDIDATE	id:2780	inCount:11	outCount:2	links:	url:D002780	name:Cholestasis, Intrahepatic	normalName:cholestasis, intrahepatic	normalWikiTitle:cholestasis, intrahepatic	predictedType:Disease
+ENTITY	text:extrahepatic cholestasis	normalName:extrahepatic cholestasis	predictedType:disease	q:true	qid:Q729	docId:9862868	origText:extrahepatic cholestasis	url:D001651
+CANDIDATE	id:1651	inCount:0	outCount:1	links:	url:D001651	name:Cholestasis, Extrahepatic	normalName:cholestasis, extrahepatic	normalWikiTitle:cholestasis, extrahepatic	predictedType:Disease
+ENTITY	text:cholestasis	normalName:cholestasis	predictedType:disease	q:true	qid:Q729	docId:9862868	origText:cholestasis	url:D002779
+CANDIDATE	id:2779	inCount:14	outCount:1	links:	url:D002779	name:Cholestasis	normalName:cholestasis	normalWikiTitle:cholestasis	predictedType:Disease

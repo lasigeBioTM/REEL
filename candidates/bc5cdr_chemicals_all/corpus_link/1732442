@@ -1,0 +1,38 @@
+ENTITY	text:norepinephrine	normalName:norepinephrine	predictedType:chemical	q:true	qid:Q187	docId:1732442	origText:norepinephrine	url:D009638
+CANDIDATE	id:9638	inCount:31	outCount:4	links:4317	url:D009638	name:Norepinephrine	normalName:norepinephrine	normalWikiTitle:norepinephrine	predictedType:Chemical
+ENTITY	text:MIBG	normalName:mibg	predictedType:chemical	q:true	qid:Q187	docId:1732442	origText:MIBG	url:D019797
+CANDIDATE	id:19797	inCount:2	outCount:2	links:	url:D019797	name:MIBG	normalName:mibg	normalWikiTitle:mibg	predictedType:Chemical
+ENTITY	text:Radiolabeled metaiodobenzylguanidine	normalName:radiolabeled metaiodobenzylguanidine	predictedType:chemical	q:true	qid:Q187	docId:1732442	origText:Radiolabeled metaiodobenzylguanidine	url:D019797
+CANDIDATE	id:19797	inCount:2	outCount:2	links:	url:D019797	name:123I Labeled 3-Iodobenzylguanidine	normalName:123i labeled 3-iodobenzylguanidine	normalWikiTitle:123i labeled 3-iodobenzylguanidine	predictedType:Chemical
+CANDIDATE	id:25425	inCount:0	outCount:1	links:	url:C025425	name:2-iodobenzylguanidine	normalName:2-iodobenzylguanidine	normalWikiTitle:2-iodobenzylguanidine	predictedType:Chemical
+CANDIDATE	id:19797	inCount:2	outCount:2	links:	url:D019797	name:3-Iodobenzylguanidine	normalName:3-iodobenzylguanidine	normalWikiTitle:3-iodobenzylguanidine	predictedType:Chemical
+CANDIDATE	id:25423	inCount:0	outCount:1	links:	url:C025423	name:4-iodobenzylguanidine	normalName:4-iodobenzylguanidine	normalWikiTitle:4-iodobenzylguanidine	predictedType:Chemical
+CANDIDATE	id:49322	inCount:0	outCount:1	links:	url:C049322	name:4-amino-3-iodobenzylguanidine	normalName:4-amino-3-iodobenzylguanidine	normalWikiTitle:4-amino-3-iodobenzylguanidine	predictedType:Chemical
+CANDIDATE	id:89018	inCount:0	outCount:1	links:	url:C089018	name:3-aminobenzylguanidine	normalName:3-aminobenzylguanidine	normalWikiTitle:3-aminobenzylguanidine	predictedType:Chemical
+CANDIDATE	id:520658	inCount:0	outCount:1	links:	url:C520658	name:meta-((211)At)astatobenzylguanidine	normalName:meta-((211)at)astatobenzylguanidine	normalWikiTitle:meta-((211)at)astatobenzylguanidine	predictedType:Chemical
+CANDIDATE	id:37757	inCount:0	outCount:2	links:	url:C037757	name:3'-(4-azidobenzoyl)guanosine triphosphate	normalName:3'-(4-azidobenzoyl)guanosine triphosphate	normalWikiTitle:3'-(4-azidobenzoyl)guanosine triphosphate	predictedType:Chemical
+CANDIDATE	id:58095	inCount:0	outCount:2	links:	url:C058095	name:4'-acetamidophenyl 4-guanidinobenzoate	normalName:4'-acetamidophenyl 4-guanidinobenzoate	normalWikiTitle:4'-acetamidophenyl 4-guanidinobenzoate	predictedType:Chemical
+CANDIDATE	id:117872	inCount:0	outCount:1	links:	url:C117872	name:benzylguanidine	normalName:benzylguanidine	normalWikiTitle:benzylguanidine	predictedType:Chemical
+CANDIDATE	id:89014	inCount:0	outCount:2	links:	url:C089014	name:3-diazobenzylguanidine	normalName:3-diazobenzylguanidine	normalWikiTitle:3-diazobenzylguanidine	predictedType:Chemical
+CANDIDATE	id:19797	inCount:2	outCount:2	links:	url:D019797	name:3 Iodobenzylguanidine, 123I Labeled	normalName:3 iodobenzylguanidine, 123i labeled	normalWikiTitle:3 iodobenzylguanidine, 123i labeled	predictedType:Chemical
+CANDIDATE	id:19797	inCount:2	outCount:2	links:	url:D019797	name:3 Iodobenzylguanidine, 125I Labeled	normalName:3 iodobenzylguanidine, 125i labeled	normalWikiTitle:3 iodobenzylguanidine, 125i labeled	predictedType:Chemical
+CANDIDATE	id:19797	inCount:2	outCount:2	links:	url:D019797	name:3-Iodobenzylguanidine, 123I Labeled	normalName:3-iodobenzylguanidine, 123i labeled	normalWikiTitle:3-iodobenzylguanidine, 123i labeled	predictedType:Chemical
+CANDIDATE	id:19797	inCount:2	outCount:2	links:	url:D019797	name:125I Labeled 3-Iodobenzylguanidine	normalName:125i labeled 3-iodobenzylguanidine	normalWikiTitle:125i labeled 3-iodobenzylguanidine	predictedType:Chemical
+CANDIDATE	id:19797	inCount:2	outCount:2	links:	url:D019797	name:3-Iodobenzylguanidine, 125I Labeled	normalName:3-iodobenzylguanidine, 125i labeled	normalWikiTitle:3-iodobenzylguanidine, 125i labeled	predictedType:Chemical
+CANDIDATE	id:25423	inCount:0	outCount:1	links:	url:C025423	name:4-iodobenzylguanidine, 125I-labeled	normalName:4-iodobenzylguanidine, 125i-labeled	normalWikiTitle:4-iodobenzylguanidine, 125i-labeled	predictedType:Chemical
+CANDIDATE	id:25423	inCount:0	outCount:1	links:	url:C025423	name:para-iodobenzylguanidine	normalName:para-iodobenzylguanidine	normalWikiTitle:para-iodobenzylguanidine	predictedType:Chemical
+CANDIDATE	id:89017	inCount:0	outCount:1	links:	url:C089017	name:meta-nitrobenzylguanidine sulfate	normalName:meta-nitrobenzylguanidine sulfate	normalWikiTitle:meta-nitrobenzylguanidine sulfate	predictedType:Chemical
+CANDIDATE	id:25425	inCount:0	outCount:1	links:	url:C025425	name:ortho-iodobenzylguanidine	normalName:ortho-iodobenzylguanidine	normalWikiTitle:ortho-iodobenzylguanidine	predictedType:Chemical
+ENTITY	text:adriamycin	normalName:adriamycin	predictedType:chemical	q:true	qid:Q187	docId:1732442	origText:adriamycin	url:D004317
+CANDIDATE	id:4317	inCount:559	outCount:1	links:9638	url:D004317	name:Adriamycin	normalName:adriamycin	normalWikiTitle:adriamycin	predictedType:Chemical
+ENTITY	text:iodine-125-metaiodobenzylguanidine	normalName:iodine-125-metaiodobenzylguanidine	predictedType:chemical	q:true	qid:Q187	docId:1732442	origText:iodine-125-metaiodobenzylguanidine	url:D019797
+CANDIDATE	id:19797	inCount:2	outCount:2	links:	url:D019797	name:3-Iodobenzylguanidine	normalName:3-iodobenzylguanidine	normalWikiTitle:3-iodobenzylguanidine	predictedType:Chemical
+CANDIDATE	id:25425	inCount:0	outCount:1	links:	url:C025425	name:2-iodobenzylguanidine	normalName:2-iodobenzylguanidine	normalWikiTitle:2-iodobenzylguanidine	predictedType:Chemical
+CANDIDATE	id:49322	inCount:0	outCount:1	links:	url:C049322	name:4-amino-3-iodobenzylguanidine	normalName:4-amino-3-iodobenzylguanidine	normalWikiTitle:4-amino-3-iodobenzylguanidine	predictedType:Chemical
+CANDIDATE	id:25423	inCount:0	outCount:1	links:	url:C025423	name:4-iodobenzylguanidine	normalName:4-iodobenzylguanidine	normalWikiTitle:4-iodobenzylguanidine	predictedType:Chemical
+CANDIDATE	id:89014	inCount:0	outCount:2	links:	url:C089014	name:3-diazobenzylguanidine	normalName:3-diazobenzylguanidine	normalWikiTitle:3-diazobenzylguanidine	predictedType:Chemical
+CANDIDATE	id:78685	inCount:0	outCount:1	links:	url:C078685	name:1-(3-astatobenzyl)guanidine	normalName:1-(3-astatobenzyl)guanidine	normalWikiTitle:1-(3-astatobenzyl)guanidine	predictedType:Chemical
+CANDIDATE	id:89018	inCount:0	outCount:1	links:	url:C089018	name:3-aminobenzylguanidine	normalName:3-aminobenzylguanidine	normalWikiTitle:3-aminobenzylguanidine	predictedType:Chemical
+CANDIDATE	id:49323	inCount:0	outCount:1	links:	url:C049323	name:4-hydroxy-3-iodobenzylguanidine	normalName:4-hydroxy-3-iodobenzylguanidine	normalWikiTitle:4-hydroxy-3-iodobenzylguanidine	predictedType:Chemical
+CANDIDATE	id:89017	inCount:0	outCount:1	links:	url:C089017	name:3-nitrobenzylguanidine	normalName:3-nitrobenzylguanidine	normalWikiTitle:3-nitrobenzylguanidine	predictedType:Chemical
+CANDIDATE	id:83603	inCount:0	outCount:2	links:	url:C083603	name:3-bromobenzylguanidine	normalName:3-bromobenzylguanidine	normalWikiTitle:3-bromobenzylguanidine	predictedType:Chemical

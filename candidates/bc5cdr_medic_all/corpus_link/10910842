@@ -1,0 +1,28 @@
+ENTITY	text:atrophy	normalName:atrophy	predictedType:disease	q:true	qid:Q1069	docId:10910842	origText:atrophy	url:D001284
+CANDIDATE	id:1284	inCount:3	outCount:1	links:	url:D001284	name:Atrophy	normalName:atrophy	normalWikiTitle:atrophy	predictedType:Disease
+ENTITY	text:tetanic	normalName:tetanic	predictedType:disease	q:true	qid:Q1069	docId:10910842	origText:tetanic	url:D013746
+CANDIDATE	id:13746	inCount:0	outCount:2	links:18754	url:D013746	name:Tetanies	normalName:tetanies	normalWikiTitle:tetanies	predictedType:Disease
+CANDIDATE	id:13746	inCount:0	outCount:2	links:18754	url:D013746	name:Tetany	normalName:tetany	normalWikiTitle:tetany	predictedType:Disease
+CANDIDATE	id:13742	inCount:0	outCount:1	links:	url:D013742	name:Tetanus	normalName:tetanus	normalWikiTitle:tetanus	predictedType:Disease
+CANDIDATE	id:64927	inCount:1	outCount:1	links:	url:D064927	name:Tick Bites	normalName:tick bites	normalWikiTitle:tick bites	predictedType:Disease
+CANDIDATE	id:190900	inCount:0	outCount:1	links:	url:190900	name:TRITANOPIA	normalName:tritanopia	normalWikiTitle:tritanopia	predictedType:Disease
+CANDIDATE	id:13684	inCount:15	outCount:1	links:20879	url:D013684	name:Telangiectasis	normalName:telangiectasis	normalWikiTitle:telangiectasis	predictedType:Disease
+CANDIDATE	id:57891	inCount:0	outCount:1	links:	url:D057891	name:Tetraploidy	normalName:tetraploidy	normalWikiTitle:tetraploidy	predictedType:Disease
+CANDIDATE	id:20323	inCount:0	outCount:1	links:	url:D020323	name:Tics	normalName:tics	normalWikiTitle:tics	predictedType:Disease
+CANDIDATE	id:562562	inCount:0	outCount:1	links:	url:C562562	name:Colonic Atresia	normalName:colonic atresia	normalWikiTitle:colonic atresia	predictedType:Disease
+CANDIDATE	id:7565	inCount:5	outCount:2	links:	url:D007565	name:Jaundice	normalName:jaundice	normalWikiTitle:jaundice	predictedType:Disease
+CANDIDATE	id:13724	inCount:10	outCount:1	links:	url:D013724	name:Teratoma	normalName:teratoma	normalWikiTitle:teratoma	predictedType:Disease
+ENTITY	text:muscle atrophy	normalName:muscle atrophy	predictedType:disease	q:true	qid:Q1069	docId:10910842	origText:muscle atrophy	url:D009133
+CANDIDATE	id:9133	inCount:16	outCount:2	links:	url:D009133	name:Muscle Atrophy	normalName:muscle atrophy	normalWikiTitle:muscle atrophy	predictedType:Disease
+ENTITY	text:neuromuscular dysfunction	normalName:neuromuscular dysfunction	predictedType:disease	q:true	qid:Q1069	docId:10910842	origText:neuromuscular dysfunction	url:D009468
+CANDIDATE	id:9468	inCount:14	outCount:1	links:	url:D009468	name:Neuromuscular Diseases	normalName:neuromuscular diseases	normalWikiTitle:neuromuscular diseases	predictedType:Disease
+CANDIDATE	id:20511	inCount:4	outCount:1	links:	url:D020511	name:Neuromuscular Junction Diseases	normalName:neuromuscular junction diseases	normalWikiTitle:neuromuscular junction diseases	predictedType:Disease
+CANDIDATE	id:18754	inCount:2	outCount:1	links:13746	url:D018754	name:Ventricular Dysfunction	normalName:ventricular dysfunction	normalWikiTitle:ventricular dysfunction	predictedType:Disease
+CANDIDATE	id:20879	inCount:10	outCount:1	links:13684	url:D020879	name:Neuromuscular Manifestations	normalName:neuromuscular manifestations	normalWikiTitle:neuromuscular manifestations	predictedType:Disease
+CANDIDATE	id:18487	inCount:1	outCount:1	links:	url:D018487	name:Ventricular Dysfunction, Left	normalName:ventricular dysfunction, left	normalWikiTitle:ventricular dysfunction, left	predictedType:Disease
+CANDIDATE	id:7172	inCount:1	outCount:2	links:	url:D007172	name:Erectile Dysfunction	normalName:erectile dysfunction	normalWikiTitle:erectile dysfunction	predictedType:Disease
+CANDIDATE	id:18497	inCount:0	outCount:1	links:	url:D018497	name:Ventricular Dysfunction, Right	normalName:ventricular dysfunction, right	normalWikiTitle:ventricular dysfunction, right	predictedType:Disease
+CANDIDATE	id:580477	inCount:0	outCount:1	links:	url:C580477	name:Surfactant Dysfunction	normalName:surfactant dysfunction	normalWikiTitle:surfactant dysfunction	predictedType:Disease
+CANDIDATE	id:564942	inCount:0	outCount:1	links:	url:C564942	name:Neutrophil Actin Dysfunction	normalName:neutrophil actin dysfunction	normalWikiTitle:neutrophil actin dysfunction	predictedType:Disease
+CANDIDATE	id:55031	inCount:0	outCount:1	links:	url:D055031	name:Primary Graft Dysfunction	normalName:primary graft dysfunction	normalWikiTitle:primary graft dysfunction	predictedType:Disease
+CANDIDATE	id:20511	inCount:4	outCount:1	links:	url:D020511	name:Neuromuscular Junction Disease	normalName:neuromuscular junction disease	normalWikiTitle:neuromuscular junction disease	predictedType:Disease

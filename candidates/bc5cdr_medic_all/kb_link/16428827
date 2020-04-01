@@ -1,0 +1,4 @@
+ENTITY	text:amnesia	normalName:amnesia	predictedType:disease	q:true	qid:Q841	docId:16428827	origText:amnesia	url:D000647
+CANDIDATE	id:647	inCount:4	outCount:2	links:	url:D000647	name:Amnesia	normalName:amnesia	normalWikiTitle:amnesia	predictedType:Disease
+ENTITY	text:Alzheimer's disease	normalName:alzheimer's disease	predictedType:disease	q:true	qid:Q841	docId:16428827	origText:Alzheimer's disease	url:D000544
+CANDIDATE	id:544	inCount:26	outCount:2	links:	url:D000544	name:Alzheimer's Disease	normalName:alzheimer's disease	normalWikiTitle:alzheimer's disease	predictedType:Disease

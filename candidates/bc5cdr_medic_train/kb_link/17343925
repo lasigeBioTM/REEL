@@ -1,0 +1,4 @@
+ENTITY	text:hearing loss	normalName:hearing loss	predictedType:disease	q:true	qid:Q420	docId:17343925	origText:hearing loss	url:D034381
+CANDIDATE	id:34381	inCount:37	outCount:1	links:34381	url:D034381	name:Hearing Loss	normalName:hearing loss	normalWikiTitle:hearing loss	predictedType:Disease
+ENTITY	text:hearing impairment	normalName:hearing impairment	predictedType:disease	q:true	qid:Q420	docId:17343925	origText:hearing impairment	url:D034381
+CANDIDATE	id:34381	inCount:37	outCount:1	links:34381	url:D034381	name:Hearing Impairment	normalName:hearing impairment	normalWikiTitle:hearing impairment	predictedType:Disease

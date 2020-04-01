@@ -1,0 +1,28 @@
+ENTITY	text:3,4-methylenedioxymethamphetamine	normalName:3,4-methylenedioxymethamphetamine	predictedType:chemical	q:true	qid:Q327	docId:24114426	origText:3,4-methylenedioxymethamphetamine	url:D018817
+CANDIDATE	id:18817	inCount:2	outCount:1	links:	url:D018817	name:N-Methyl-3,4-methylenedioxyamphetamine	normalName:n-methyl-3,4-methylenedioxyamphetamine	normalWikiTitle:n-methyl-3,4-methylenedioxyamphetamine	predictedType:Chemical
+CANDIDATE	id:51800	inCount:0	outCount:1	links:	url:C051800	name:3,4-methylenedioxyethamphetamine	normalName:3,4-methylenedioxyethamphetamine	normalWikiTitle:3,4-methylenedioxyethamphetamine	predictedType:Chemical
+CANDIDATE	id:15104	inCount:17	outCount:1	links:	url:D015104	name:3,4-Methylenedioxyamphetamine	normalName:3,4-methylenedioxyamphetamine	normalWikiTitle:3,4-methylenedioxyamphetamine	predictedType:Chemical
+CANDIDATE	id:63032	inCount:0	outCount:1	links:	url:C063032	name:3,4-ethylenedioxyamphetamine	normalName:3,4-ethylenedioxyamphetamine	normalWikiTitle:3,4-ethylenedioxyamphetamine	predictedType:Chemical
+CANDIDATE	id:60169	inCount:0	outCount:1	links:	url:C060169	name:4-methoxymethamphetamine	normalName:4-methoxymethamphetamine	normalWikiTitle:4-methoxymethamphetamine	predictedType:Chemical
+CANDIDATE	id:79575	inCount:0	outCount:1	links:	url:C079575	name:3-methoxy-4-methylamphetamine	normalName:3-methoxy-4-methylamphetamine	normalWikiTitle:3-methoxy-4-methylamphetamine	predictedType:Chemical
+CANDIDATE	id:16575	inCount:0	outCount:1	links:	url:C016575	name:3,4-methylenedioxyphenethylamine	normalName:3,4-methylenedioxyphenethylamine	normalWikiTitle:3,4-methylenedioxyphenethylamine	predictedType:Chemical
+CANDIDATE	id:601652	inCount:0	outCount:1	links:	url:C000601652	name:3,4-ethylenedioxythiophene	normalName:3,4-ethylenedioxythiophene	normalWikiTitle:3,4-ethylenedioxythiophene	predictedType:Chemical
+CANDIDATE	id:74078	inCount:0	outCount:1	links:	url:C074078	name:2,4,5-trihydroxymethamphetamine	normalName:2,4,5-trihydroxymethamphetamine	normalWikiTitle:2,4,5-trihydroxymethamphetamine	predictedType:Chemical
+CANDIDATE	id:78244	inCount:0	outCount:1	links:	url:C078244	name:2-hydroxy-4,5-methylenedioxyamphetamine	normalName:2-hydroxy-4,5-methylenedioxyamphetamine	normalWikiTitle:2-hydroxy-4,5-methylenedioxyamphetamine	predictedType:Chemical
+ENTITY	text:MDMA	normalName:mdma	predictedType:chemical	q:true	qid:Q327	docId:24114426	origText:MDMA	url:D018817
+CANDIDATE	id:18817	inCount:2	outCount:1	links:	url:D018817	name:MDMA	normalName:mdma	normalWikiTitle:mdma	predictedType:Chemical
+ENTITY	text:nicotine	normalName:nicotine	predictedType:chemical	q:true	qid:Q327	docId:24114426	origText:nicotine	url:D009538
+CANDIDATE	id:9538	inCount:50	outCount:2	links:9695	url:D009538	name:Nicotine	normalName:nicotine	normalWikiTitle:nicotine	predictedType:Chemical
+ENTITY	text:ecstasy	normalName:ecstasy	predictedType:chemical	q:true	qid:Q327	docId:24114426	origText:ecstasy	url:D018817
+CANDIDATE	id:18817	inCount:2	outCount:1	links:	url:D018817	name:Ecstasy (Drug)	normalName:ecstasy (drug)	normalWikiTitle:ecstasy (drug)	predictedType:Chemical
+CANDIDATE	id:67355	inCount:0	outCount:3	links:	url:C067355	name:estasol	normalName:estasol	normalWikiTitle:estasol	predictedType:Chemical
+CANDIDATE	id:4962	inCount:13	outCount:1	links:	url:D004962	name:Estranes	normalName:estranes	normalWikiTitle:estranes	predictedType:Chemical
+CANDIDATE	id:504857	inCount:0	outCount:1	links:	url:C504857	name:plectasin	normalName:plectasin	normalWikiTitle:plectasin	predictedType:Chemical
+CANDIDATE	id:4952	inCount:14	outCount:1	links:	url:D004952	name:Esters	normalName:esters	normalWikiTitle:esters	predictedType:Chemical
+CANDIDATE	id:559928	inCount:0	outCount:1	links:	url:C559928	name:JECTOS	normalName:jectos	normalWikiTitle:jectos	predictedType:Chemical
+CANDIDATE	id:3539	inCount:0	outCount:1	links:	url:D003539	name:Cystaphos	normalName:cystaphos	normalWikiTitle:cystaphos	predictedType:Chemical
+CANDIDATE	id:16752	inCount:0	outCount:1	links:	url:C016752	name:smecta	normalName:smecta	normalWikiTitle:smecta	predictedType:Chemical
+CANDIDATE	id:545343	inCount:0	outCount:1	links:	url:C545343	name:Ecasol	normalName:ecasol	normalWikiTitle:ecasol	predictedType:Chemical
+CANDIDATE	id:8670	inCount:11	outCount:1	links:	url:D008670	name:Metals	normalName:metals	normalWikiTitle:metals	predictedType:Chemical
+CANDIDATE	id:11261	inCount:0	outCount:1	links:	url:C011261	name:Gestyl	normalName:gestyl	normalWikiTitle:gestyl	predictedType:Chemical
+CANDIDATE	id:9695	inCount:0	outCount:1	links:9538	url:C009695	name:stas	normalName:stas	normalWikiTitle:stas	predictedType:Chemical

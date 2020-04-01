@@ -1,0 +1,4 @@
+ENTITY	text:noradrenaline	normalName:noradrenaline	predictedType:chemical	q:true	qid:Q150	docId:6861444	origText:noradrenaline	url:D009638
+CANDIDATE	id:9638	inCount:31	outCount:4	links:	url:D009638	name:Noradrenaline	normalName:noradrenaline	normalWikiTitle:noradrenaline	predictedType:Chemical
+ENTITY	text:Sodium chloride	normalName:sodium chloride	predictedType:chemical	q:true	qid:Q150	docId:6861444	origText:Sodium chloride	url:D012965
+CANDIDATE	id:12965	inCount:37	outCount:2	links:	url:D012965	name:Sodium Chloride	normalName:sodium chloride	normalWikiTitle:sodium chloride	predictedType:Chemical

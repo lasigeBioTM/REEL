@@ -1,0 +1,20 @@
+ENTITY	text:phenylhydrazine	normalName:phenylhydrazine	predictedType:chemical	q:true	qid:Q36	docId:2004015	origText:phenylhydrazine	url:C030299
+CANDIDATE	id:30299	inCount:0	outCount:1	links:	url:C030299	name:phenylhydrazine	normalName:phenylhydrazine	normalWikiTitle:phenylhydrazine	predictedType:Chemical
+ENTITY	text:3'-azido-3'dideoxythymidine	normalName:3'-azido-3'dideoxythymidine	predictedType:chemical	q:true	qid:Q36	docId:2004015	origText:3'-azido-3'dideoxythymidine	url:D015215
+CANDIDATE	id:15215	inCount:86	outCount:2	links:	url:D015215	name:Thymidine, 3'-azido-3'-deoxy-	normalName:thymidine, 3'-azido-3'-deoxy-	normalWikiTitle:thymidine, 3'-azido-3'-deoxy-	predictedType:Chemical
+CANDIDATE	id:68377	inCount:0	outCount:1	links:	url:C068377	name:2'-azido-2',3'-dideoxythymidine	normalName:2'-azido-2',3'-dideoxythymidine	normalWikiTitle:2'-azido-2',3'-dideoxythymidine	predictedType:Chemical
+CANDIDATE	id:569662	inCount:0	outCount:2	links:	url:C569662	name:3'-azido-2',3'-dideoxycytidine	normalName:3'-azido-2',3'-dideoxycytidine	normalWikiTitle:3'-azido-2',3'-dideoxycytidine	predictedType:Chemical
+CANDIDATE	id:53666	inCount:0	outCount:1	links:	url:C053666	name:3'-acetamido-2',3'-dideoxythymidine	normalName:3'-acetamido-2',3'-dideoxythymidine	normalWikiTitle:3'-acetamido-2',3'-dideoxythymidine	predictedType:Chemical
+CANDIDATE	id:58803	inCount:0	outCount:1	links:	url:C058803	name:3'-azido-2',3'-dideoxyuridine	normalName:3'-azido-2',3'-dideoxyuridine	normalWikiTitle:3'-azido-2',3'-dideoxyuridine	predictedType:Chemical
+CANDIDATE	id:62451	inCount:0	outCount:1	links:	url:C062451	name:3'-azido-3'-deoxy-4-thiothymidine	normalName:3'-azido-3'-deoxy-4-thiothymidine	normalWikiTitle:3'-azido-3'-deoxy-4-thiothymidine	predictedType:Chemical
+CANDIDATE	id:53667	inCount:0	outCount:1	links:	url:C053667	name:3'-azido-3'-deoxyarabinothymidine	normalName:3'-azido-3'-deoxyarabinothymidine	normalWikiTitle:3'-azido-3'-deoxyarabinothymidine	predictedType:Chemical
+CANDIDATE	id:55437	inCount:0	outCount:1	links:	url:C055437	name:3',5'-dideoxythymidine	normalName:3',5'-dideoxythymidine	normalWikiTitle:3',5'-dideoxythymidine	predictedType:Chemical
+CANDIDATE	id:19336	inCount:0	outCount:1	links:	url:C019336	name:2',3'-dideoxythymidine	normalName:2',3'-dideoxythymidine	normalWikiTitle:2',3'-dideoxythymidine	predictedType:Chemical
+CANDIDATE	id:57658	inCount:0	outCount:2	links:	url:C057658	name:3'-azido-2',3'-dideoxy-5-methylcytidine	normalName:3'-azido-2',3'-dideoxy-5-methylcytidine	normalWikiTitle:3'-azido-2',3'-dideoxy-5-methylcytidine	predictedType:Chemical
+CANDIDATE	id:24082	inCount:0	outCount:1	links:	url:C024082	name:5'-amino-5'-deoxythymidine	normalName:5'-amino-5'-deoxythymidine	normalWikiTitle:5'-amino-5'-deoxythymidine	predictedType:Chemical
+CANDIDATE	id:15215	inCount:86	outCount:2	links:	url:D015215	name:3'-Azido-3'-deoxythymidine	normalName:3'-azido-3'-deoxythymidine	normalWikiTitle:3'-azido-3'-deoxythymidine	predictedType:Chemical
+CANDIDATE	id:15215	inCount:86	outCount:2	links:	url:D015215	name:3'-Azido-2',3'-Dideoxythymidine	normalName:3'-azido-2',3'-dideoxythymidine	normalWikiTitle:3'-azido-2',3'-dideoxythymidine	predictedType:Chemical
+CANDIDATE	id:15215	inCount:86	outCount:2	links:	url:D015215	name:3' Azido 3' deoxythymidine	normalName:3' azido 3' deoxythymidine	normalWikiTitle:3' azido 3' deoxythymidine	predictedType:Chemical
+CANDIDATE	id:15215	inCount:86	outCount:2	links:	url:D015215	name:3' Azido 2',3' Dideoxythymidine	normalName:3' azido 2',3' dideoxythymidine	normalWikiTitle:3' azido 2',3' dideoxythymidine	predictedType:Chemical
+ENTITY	text:azidothymidine	normalName:azidothymidine	predictedType:chemical	q:true	qid:Q36	docId:2004015	origText:azidothymidine	url:D015215
+CANDIDATE	id:15215	inCount:86	outCount:2	links:	url:D015215	name:Azidothymidine	normalName:azidothymidine	normalWikiTitle:azidothymidine	predictedType:Chemical

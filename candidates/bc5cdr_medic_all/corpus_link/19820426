@@ -1,0 +1,29 @@
+ENTITY	text:bradycardia	normalName:bradycardia	predictedType:disease	q:true	qid:Q1239	docId:19820426	origText:bradycardia	url:D001919
+CANDIDATE	id:1919	inCount:0	outCount:1	links:66126;6327;2311	url:D001919	name:Bradycardia	normalName:bradycardia	normalWikiTitle:bradycardia	predictedType:Disease
+ENTITY	text:human immunodeficiency virus infection	normalName:human immunodeficiency virus infection	predictedType:disease	q:true	qid:Q1239	docId:19820426	origText:human immunodeficiency virus infection	url:D015658
+CANDIDATE	id:15658	inCount:12	outCount:3	links:	url:D015658	name:HUMAN IMMUNODEFICIENCY VIRUS TYPE 1, SUSCEPTIBILITY TO	normalName:human immunodeficiency virus type 1, susceptibility to	normalWikiTitle:human immunodeficiency virus type 1, susceptibility to	predictedType:Disease
+CANDIDATE	id:16511	inCount:22	outCount:3	links:	url:D016511	name:Severe Combined Immunodeficiency	normalName:severe combined immunodeficiency	normalWikiTitle:severe combined immunodeficiency	predictedType:Disease
+CANDIDATE	id:20031	inCount:4	outCount:2	links:	url:D020031	name:Epstein-Barr Virus Infections	normalName:epstein-barr virus infections	normalWikiTitle:epstein-barr virus infections	predictedType:Disease
+CANDIDATE	id:538399	inCount:0	outCount:3	links:	url:C538399	name:NEMO mutation with immunodeficiency	normalName:nemo mutation with immunodeficiency	normalWikiTitle:nemo mutation with immunodeficiency	predictedType:Disease
+CANDIDATE	id:17074	inCount:1	outCount:1	links:	url:D017074	name:Common Variable Immunodeficiency	normalName:common variable immunodeficiency	normalWikiTitle:common variable immunodeficiency	predictedType:Disease
+CANDIDATE	id:566083	inCount:0	outCount:1	links:	url:C566083	name:Immunodeficiency due to Defect in CD3-Gamma	normalName:immunodeficiency due to defect in cd3-gamma	normalWikiTitle:immunodeficiency due to defect in cd3-gamma	predictedType:Disease
+CANDIDATE	id:4266	inCount:9	outCount:1	links:	url:D004266	name:DNA Virus Infections	normalName:dna virus infections	normalWikiTitle:dna virus infections	predictedType:Disease
+CANDIDATE	id:614893	inCount:0	outCount:1	links:	url:614893	name:IMMUNODEFICIENCY 32A	normalName:immunodeficiency 32a	normalWikiTitle:immunodeficiency 32a	predictedType:Disease
+CANDIDATE	id:564275	inCount:0	outCount:1	links:	url:C564275	name:Neutrophil Immunodeficiency Syndrome	normalName:neutrophil immunodeficiency syndrome	normalWikiTitle:neutrophil immunodeficiency syndrome	predictedType:Disease
+CANDIDATE	id:614892	inCount:0	outCount:1	links:	url:614892	name:IMMUNODEFICIENCY 31A	normalName:immunodeficiency 31a	normalWikiTitle:immunodeficiency 31a	predictedType:Disease
+CANDIDATE	id:566176	inCount:0	outCount:1	links:	url:C566176	name:Car Factor Deficiency	normalName:car factor deficiency	normalWikiTitle:car factor deficiency	predictedType:Disease
+CANDIDATE	id:16263	inCount:0	outCount:2	links:	url:D016263	name:Human Immunodeficiency Virus Associated Nephropathy	normalName:human immunodeficiency virus associated nephropathy	normalWikiTitle:human immunodeficiency virus associated nephropathy	predictedType:Disease
+CANDIDATE	id:16263	inCount:0	outCount:2	links:	url:D016263	name:Human Immunodeficiency Virus-Associated Nephropathy	normalName:human immunodeficiency virus-associated nephropathy	normalWikiTitle:human immunodeficiency virus-associated nephropathy	predictedType:Disease
+CANDIDATE	id:65632	inCount:0	outCount:1	links:	url:D065632	name:Infection, Chikungunya Virus	normalName:infection, chikungunya virus	normalWikiTitle:infection, chikungunya virus	predictedType:Disease
+CANDIDATE	id:65632	inCount:0	outCount:1	links:	url:D065632	name:Virus Infection, Chikungunya	normalName:virus infection, chikungunya	normalWikiTitle:virus infection, chikungunya	predictedType:Disease
+CANDIDATE	id:65632	inCount:0	outCount:1	links:	url:D065632	name:Chikungunya Virus Infection	normalName:chikungunya virus infection	normalWikiTitle:chikungunya virus infection	predictedType:Disease
+CANDIDATE	id:53632	inCount:1	outCount:2	links:	url:D053632	name:Combined Immunodeficiency, X Linked	normalName:combined immunodeficiency, x linked	normalWikiTitle:combined immunodeficiency, x linked	predictedType:Disease
+CANDIDATE	id:53632	inCount:1	outCount:2	links:	url:D053632	name:X Linked Combined Immunodeficiency	normalName:x linked combined immunodeficiency	normalWikiTitle:x linked combined immunodeficiency	predictedType:Disease
+CANDIDATE	id:65632	inCount:0	outCount:1	links:	url:D065632	name:Virus Infections, Chikungunya	normalName:virus infections, chikungunya	normalWikiTitle:virus infections, chikungunya	predictedType:Disease
+CANDIDATE	id:53632	inCount:1	outCount:2	links:	url:D053632	name:Combined Immunodeficiency, X-Linked	normalName:combined immunodeficiency, x-linked	normalWikiTitle:combined immunodeficiency, x-linked	predictedType:Disease
+ENTITY	text:cardiac toxicity	normalName:cardiac toxicity	predictedType:disease	q:true	qid:Q1239	docId:19820426	origText:cardiac toxicity	url:D066126
+CANDIDATE	id:66126	inCount:0	outCount:3	links:1919	url:D066126	name:Cardiac Toxicity	normalName:cardiac toxicity	normalWikiTitle:cardiac toxicity	predictedType:Disease
+ENTITY	text:heart block	normalName:heart block	predictedType:disease	q:true	qid:Q1239	docId:19820426	origText:heart block	url:D006327
+CANDIDATE	id:6327	inCount:13	outCount:2	links:2311;1919	url:D006327	name:Heart Block	normalName:heart block	normalWikiTitle:heart block	predictedType:Disease
+ENTITY	text:dilated cardiomyopathy	normalName:dilated cardiomyopathy	predictedType:disease	q:true	qid:Q1239	docId:19820426	origText:dilated cardiomyopathy	url:D002311
+CANDIDATE	id:2311	inCount:50	outCount:2	links:6327;1919	url:D002311	name:Cardiomyopathy, Dilated	normalName:cardiomyopathy, dilated	normalWikiTitle:cardiomyopathy, dilated	predictedType:Disease

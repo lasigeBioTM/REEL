@@ -1,0 +1,4 @@
+ENTITY	text:subarachnoid hemorrhage	normalName:subarachnoid hemorrhage	predictedType:disease	q:true	qid:Q430	docId:16174948	origText:subarachnoid hemorrhage	url:D013345
+CANDIDATE	id:13345	inCount:7	outCount:1	links:	url:D013345	name:Subarachnoid Hemorrhage	normalName:subarachnoid hemorrhage	normalWikiTitle:subarachnoid hemorrhage	predictedType:Disease
+ENTITY	text:vasculitis	normalName:vasculitis	predictedType:disease	q:true	qid:Q430	docId:16174948	origText:vasculitis	url:D014657
+CANDIDATE	id:14657	inCount:16	outCount:1	links:	url:D014657	name:Vasculitis	normalName:vasculitis	normalWikiTitle:vasculitis	predictedType:Disease

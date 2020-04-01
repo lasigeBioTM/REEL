@@ -1,0 +1,8 @@
+ENTITY	text:succinylcholine	normalName:succinylcholine	predictedType:chemical	q:true	qid:Q1409	docId:12677626	origText:succinylcholine	url:D013390
+CANDIDATE	id:13390	inCount:3	outCount:2	links:	url:D013390	name:Succinylcholine	normalName:succinylcholine	normalWikiTitle:succinylcholine	predictedType:Chemical
+ENTITY	text:sodium thiopental	normalName:sodium thiopental	predictedType:chemical	q:true	qid:Q1409	docId:12677626	origText:sodium thiopental	url:D013874
+CANDIDATE	id:13874	inCount:3	outCount:1	links:	url:D013874	name:Thiopental Sodium	normalName:thiopental sodium	normalWikiTitle:thiopental sodium	predictedType:Chemical
+ENTITY	text:bupivacaine	normalName:bupivacaine	predictedType:chemical	q:true	qid:Q1409	docId:12677626	origText:bupivacaine	url:D002045
+CANDIDATE	id:2045	inCount:4	outCount:1	links:	url:D002045	name:Bupivacaine	normalName:bupivacaine	normalWikiTitle:bupivacaine	predictedType:Chemical
+ENTITY	text:epinephrine	normalName:epinephrine	predictedType:chemical	q:true	qid:Q1409	docId:12677626	origText:epinephrine	url:D004837
+CANDIDATE	id:4837	inCount:33	outCount:3	links:	url:D004837	name:Epinephrine	normalName:epinephrine	normalWikiTitle:epinephrine	predictedType:Chemical

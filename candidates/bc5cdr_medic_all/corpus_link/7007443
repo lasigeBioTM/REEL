@@ -1,0 +1,24 @@
+ENTITY	text:overdose	normalName:overdose	predictedType:disease	q:true	qid:Q1468	docId:7007443	origText:overdose	url:D062787
+CANDIDATE	id:62787	inCount:0	outCount:1	links:	url:D062787	name:Drug Overdose	normalName:drug overdose	normalWikiTitle:drug overdose	predictedType:Disease
+CANDIDATE	id:57887	inCount:0	outCount:1	links:	url:D057887	name:Overbite	normalName:overbite	normalWikiTitle:overbite	predictedType:Disease
+CANDIDATE	id:8141	inCount:2	outCount:1	links:	url:D008141	name:Lordosis	normalName:lordosis	normalWikiTitle:lordosis	predictedType:Disease
+CANDIDATE	id:564931	inCount:0	outCount:2	links:	url:C564931	name:Oliver Syndrome	normalName:oliver syndrome	normalWikiTitle:oliver syndrome	predictedType:Disease
+CANDIDATE	id:50177	inCount:1	outCount:1	links:	url:D050177	name:Overweight	normalName:overweight	normalWikiTitle:overweight	predictedType:Disease
+CANDIDATE	id:1882	inCount:0	outCount:2	links:	url:D001882	name:Border Disease	normalName:border disease	normalWikiTitle:border disease	predictedType:Disease
+CANDIDATE	id:12393	inCount:1	outCount:1	links:	url:D012393	name:Rosacea	normalName:rosacea	normalWikiTitle:rosacea	predictedType:Disease
+CANDIDATE	id:14717	inCount:2	outCount:2	links:	url:D014717	name:Vertigo	normalName:vertigo	normalWikiTitle:vertigo	predictedType:Disease
+CANDIDATE	id:7918	inCount:2	outCount:1	links:	url:D007918	name:Leprosy	normalName:leprosy	normalWikiTitle:leprosy	predictedType:Disease
+CANDIDATE	id:6732	inCount:1	outCount:2	links:	url:D006732	name:Horner Syndrome	normalName:horner syndrome	normalWikiTitle:horner syndrome	predictedType:Disease
+ENTITY	text:viral hepatitis	normalName:viral hepatitis	predictedType:disease	q:true	qid:Q1468	docId:7007443	origText:viral hepatitis	url:D006525
+CANDIDATE	id:6525	inCount:5	outCount:2	links:	url:D006525	name:Hepatitis, Viral, Human	normalName:hepatitis, viral, human	normalWikiTitle:hepatitis, viral, human	predictedType:Disease
+CANDIDATE	id:6524	inCount:2	outCount:2	links:	url:D006524	name:Hepatitis, Viral, Animal	normalName:hepatitis, viral, animal	normalWikiTitle:hepatitis, viral, animal	predictedType:Disease
+CANDIDATE	id:18792	inCount:7	outCount:3	links:	url:D018792	name:Encephalitis, Viral	normalName:encephalitis, viral	normalWikiTitle:encephalitis, viral	predictedType:Disease
+CANDIDATE	id:6505	inCount:5	outCount:1	links:17114	url:D006505	name:Hepatitis	normalName:hepatitis	normalWikiTitle:hepatitis	predictedType:Disease
+CANDIDATE	id:19557	inCount:0	outCount:2	links:	url:D019557	name:Dermatitis, Perioral	normalName:dermatitis, perioral	normalWikiTitle:dermatitis, perioral	predictedType:Disease
+CANDIDATE	id:8587	inCount:1	outCount:2	links:	url:D008587	name:Meningitis, Viral	normalName:meningitis, viral	normalWikiTitle:meningitis, viral	predictedType:Disease
+CANDIDATE	id:3699	inCount:1	outCount:2	links:	url:D003699	name:Hepatitis D	normalName:hepatitis d	normalWikiTitle:hepatitis d	predictedType:Disease
+CANDIDATE	id:6506	inCount:0	outCount:2	links:	url:D006506	name:Hepatitis A	normalName:hepatitis a	normalWikiTitle:hepatitis a	predictedType:Disease
+CANDIDATE	id:53489	inCount:0	outCount:2	links:	url:D053489	name:Mink Viral Enteritis	normalName:mink viral enteritis	normalWikiTitle:mink viral enteritis	predictedType:Disease
+CANDIDATE	id:6526	inCount:1	outCount:2	links:	url:D006526	name:Hepatitis C	normalName:hepatitis c	normalWikiTitle:hepatitis c	predictedType:Disease
+ENTITY	text:fulminant hepatic failure	normalName:fulminant hepatic failure	predictedType:disease	q:true	qid:Q1468	docId:7007443	origText:fulminant hepatic failure	url:D017114
+CANDIDATE	id:17114	inCount:3	outCount:1	links:6505	url:D017114	name:Fulminant Hepatic Failure	normalName:fulminant hepatic failure	normalWikiTitle:fulminant hepatic failure	predictedType:Disease

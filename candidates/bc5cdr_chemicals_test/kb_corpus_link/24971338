@@ -1,0 +1,10 @@
+ENTITY	text:cyclosporin A	normalName:cyclosporin a	predictedType:chemical	q:true	qid:Q446	docId:24971338	origText:cyclosporin A	url:D016572
+CANDIDATE	id:16572	inCount:14	outCount:1	links:16572	url:D016572	name:Cyclosporin A	normalName:cyclosporin a	normalWikiTitle:cyclosporin a	predictedType:Chemical
+ENTITY	text:cyclosporine	normalName:cyclosporine	predictedType:chemical	q:true	qid:Q446	docId:24971338	origText:cyclosporine	url:D016572
+CANDIDATE	id:16572	inCount:14	outCount:1	links:16572	url:D016572	name:Cyclosporine	normalName:cyclosporine	normalWikiTitle:cyclosporine	predictedType:Chemical
+ENTITY	text:sirolimus	normalName:sirolimus	predictedType:chemical	q:true	qid:Q446	docId:24971338	origText:sirolimus	url:D020123
+CANDIDATE	id:20123	inCount:19	outCount:1	links:	url:D020123	name:Sirolimus	normalName:sirolimus	normalWikiTitle:sirolimus	predictedType:Chemical
+ENTITY	text:hematoxylin	normalName:hematoxylin	predictedType:chemical	q:true	qid:Q446	docId:24971338	origText:hematoxylin	url:D006416
+CANDIDATE	id:6416	inCount:6	outCount:1	links:	url:D006416	name:Hematoxylin	normalName:hematoxylin	normalWikiTitle:hematoxylin	predictedType:Chemical
+ENTITY	text:eosin	normalName:eosin	predictedType:chemical	q:true	qid:Q446	docId:24971338	origText:eosin	url:D004801
+CANDIDATE	id:4801	inCount:14	outCount:1	links:	url:D004801	name:Eosin	normalName:eosin	normalWikiTitle:eosin	predictedType:Chemical

@@ -1,0 +1,6 @@
+ENTITY	text:oxygen	normalName:oxygen	predictedType:chemical	q:true	qid:Q86	docId:18399341	origText:oxygen	url:D010100
+CANDIDATE	id:10100	inCount:11	outCount:2	links:2045	url:D010100	name:Oxygen	normalName:oxygen	normalWikiTitle:oxygen	predictedType:Chemical
+ENTITY	text:epinephrine	normalName:epinephrine	predictedType:chemical	q:true	qid:Q86	docId:18399341	origText:epinephrine	url:D004837
+CANDIDATE	id:4837	inCount:33	outCount:3	links:2045	url:D004837	name:Epinephrine	normalName:epinephrine	normalWikiTitle:epinephrine	predictedType:Chemical
+ENTITY	text:bupivacaine	normalName:bupivacaine	predictedType:chemical	q:true	qid:Q86	docId:18399341	origText:bupivacaine	url:D002045
+CANDIDATE	id:2045	inCount:4	outCount:1	links:4837;10100	url:D002045	name:Bupivacaine	normalName:bupivacaine	normalWikiTitle:bupivacaine	predictedType:Chemical

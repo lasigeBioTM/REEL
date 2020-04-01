@@ -1,0 +1,36 @@
+ENTITY	text:drug-induced acute liver injury	normalName:drug-induced acute liver injury	predictedType:disease	q:true	qid:Q853	docId:12549952	origText:drug-induced acute liver injury	url:D056486
+CANDIDATE	id:56486	inCount:2	outCount:3	links:5234;58186;17114;18805;56486;17093	url:D056486	name:Drug Induced Acute Liver Injury	normalName:drug induced acute liver injury	normalWikiTitle:drug induced acute liver injury	predictedType:Disease
+ENTITY	text:hepatotoxic	normalName:hepatotoxic	predictedType:disease	q:true	qid:Q853	docId:12549952	origText:hepatotoxic	url:D056486
+CANDIDATE	id:56486	inCount:2	outCount:3	links:5234;58186;17114;18805;56486;17093	url:D056486	name:Hepatitides, Toxic	normalName:hepatitides, toxic	normalWikiTitle:hepatitides, toxic	predictedType:Disease
+CANDIDATE	id:6505	inCount:5	outCount:1	links:17114	url:D006505	name:Hepatitis	normalName:hepatitis	normalWikiTitle:hepatitis	predictedType:Disease
+CANDIDATE	id:3699	inCount:1	outCount:2	links:	url:D003699	name:Hepatitis D	normalName:hepatitis d	normalWikiTitle:hepatitis d	predictedType:Disease
+CANDIDATE	id:6506	inCount:0	outCount:2	links:	url:D006506	name:Hepatitis A	normalName:hepatitis a	normalWikiTitle:hepatitis a	predictedType:Disease
+CANDIDATE	id:18197	inCount:0	outCount:1	links:	url:D018197	name:Hepatoblastoma	normalName:hepatoblastoma	normalWikiTitle:hepatoblastoma	predictedType:Disease
+CANDIDATE	id:6526	inCount:1	outCount:2	links:	url:D006526	name:Hepatitis C	normalName:hepatitis c	normalWikiTitle:hepatitis c	predictedType:Disease
+CANDIDATE	id:6509	inCount:1	outCount:2	links:	url:D006509	name:Hepatitis B	normalName:hepatitis b	normalWikiTitle:hepatitis b	predictedType:Disease
+CANDIDATE	id:16751	inCount:0	outCount:2	links:	url:D016751	name:Hepatitis E	normalName:hepatitis e	normalWikiTitle:hepatitis e	predictedType:Disease
+CANDIDATE	id:8532	inCount:0	outCount:1	links:	url:D008532	name:Megacolon, Toxic	normalName:megacolon, toxic	normalWikiTitle:megacolon, toxic	predictedType:Disease
+CANDIDATE	id:4767	inCount:0	outCount:2	links:	url:D004767	name:Enterotoxemia	normalName:enterotoxemia	normalWikiTitle:enterotoxemia	predictedType:Disease
+CANDIDATE	id:6491	inCount:1	outCount:2	links:	url:D006491	name:Hemothorax	normalName:hemothorax	normalWikiTitle:hemothorax	predictedType:Disease
+CANDIDATE	id:56486	inCount:2	outCount:3	links:5234;58186;17114;18805;56486;17093	url:D056486	name:Hepatitis, Toxic	normalName:hepatitis, toxic	normalWikiTitle:hepatitis, toxic	predictedType:Disease
+CANDIDATE	id:56486	inCount:2	outCount:3	links:5234;58186;17114;18805;56486;17093	url:D056486	name:Toxic Hepatitis	normalName:toxic hepatitis	normalWikiTitle:toxic hepatitis	predictedType:Disease
+CANDIDATE	id:56486	inCount:2	outCount:3	links:5234;58186;17114;18805;56486;17093	url:D056486	name:Toxic Hepatitides	normalName:toxic hepatitides	normalWikiTitle:toxic hepatitides	predictedType:Disease
+ENTITY	text:sepsis	normalName:sepsis	predictedType:disease	q:true	qid:Q853	docId:12549952	origText:sepsis	url:D018805
+CANDIDATE	id:18805	inCount:6	outCount:2	links:56486	url:D018805	name:Sepsis	normalName:sepsis	normalWikiTitle:sepsis	predictedType:Disease
+ENTITY	text:liver failure	normalName:liver failure	predictedType:disease	q:true	qid:Q853	docId:12549952	origText:liver failure	url:D017093
+CANDIDATE	id:17093	inCount:5	outCount:1	links:58186;17114;56486;17093	url:D017093	name:Liver Failure	normalName:liver failure	normalWikiTitle:liver failure	predictedType:Disease
+ENTITY	text:Acute liver failure	normalName:acute liver failure	predictedType:disease	q:true	qid:Q853	docId:12549952	origText:Acute liver failure	url:D017114
+CANDIDATE	id:17114	inCount:3	outCount:1	links:58186;17114;56486;17093;6505	url:D017114	name:Liver Failure, Acute	normalName:liver failure, acute	normalWikiTitle:liver failure, acute	predictedType:Disease
+ENTITY	text:hyperthyroidism	normalName:hyperthyroidism	predictedType:disease	q:true	qid:Q853	docId:12549952	origText:hyperthyroidism	url:D006980
+CANDIDATE	id:6980	inCount:6	outCount:1	links:	url:D006980	name:Hyperthyroidism	normalName:hyperthyroidism	normalWikiTitle:hyperthyroidism	predictedType:Disease
+ENTITY	text:acute liver insult	normalName:acute liver insult	predictedType:disease	q:true	qid:Q853	docId:12549952	origText:acute liver insult	url:D017114
+CANDIDATE	id:17114	inCount:3	outCount:1	links:58186;17114;56486;17093;6505	url:D017114	name:Liver Failure, Acute	normalName:liver failure, acute	normalWikiTitle:liver failure, acute	predictedType:Disease
+CANDIDATE	id:58186	inCount:2	outCount:1	links:17114;56486;17093	url:D058186	name:Acute Kidney Injury	normalName:acute kidney injury	normalWikiTitle:acute kidney injury	predictedType:Disease
+CANDIDATE	id:8100	inCount:2	outCount:2	links:	url:D008100	name:Liver Abscess	normalName:liver abscess	normalWikiTitle:liver abscess	predictedType:Disease
+CANDIDATE	id:55371	inCount:1	outCount:1	links:	url:D055371	name:Acute Lung Injury	normalName:acute lung injury	normalWikiTitle:acute lung injury	predictedType:Disease
+CANDIDATE	id:5234	inCount:6	outCount:1	links:56486	url:D005234	name:Fatty Liver	normalName:fatty liver	normalWikiTitle:fatty liver	predictedType:Disease
+CANDIDATE	id:67011	inCount:1	outCount:1	links:	url:D000067011	name:Severe Acute Malnutrition	normalName:severe acute malnutrition	normalWikiTitle:severe acute malnutrition	predictedType:Disease
+CANDIDATE	id:8101	inCount:0	outCount:3	links:	url:D008101	name:Liver Abscess, Amebic	normalName:liver abscess, amebic	normalWikiTitle:liver abscess, amebic	predictedType:Disease
+CANDIDATE	id:17093	inCount:5	outCount:1	links:58186;17114;56486;17093	url:D017093	name:Liver Failure	normalName:liver failure	normalWikiTitle:liver failure	predictedType:Disease
+CANDIDATE	id:65290	inCount:0	outCount:1	links:	url:D065290	name:Acute-On-Chronic Liver Failure	normalName:acute-on-chronic liver failure	normalWikiTitle:acute-on-chronic liver failure	predictedType:Disease
+CANDIDATE	id:208	inCount:0	outCount:1	links:	url:D000208	name:Acute Disease	normalName:acute disease	normalWikiTitle:acute disease	predictedType:Disease

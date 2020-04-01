@@ -1,0 +1,39 @@
+ENTITY	text:cardiac disease	normalName:cardiac disease	predictedType:disease	q:true	qid:Q303	docId:10074612	origText:cardiac disease	url:D006331
+CANDIDATE	id:6331	inCount:29	outCount:1	links:17180;3645;1919;2545;17202	url:D006331	name:Cardiac Disease	normalName:cardiac disease	normalWikiTitle:cardiac disease	predictedType:Disease
+ENTITY	text:hemoptysis	normalName:hemoptysis	predictedType:disease	q:true	qid:Q303	docId:10074612	origText:hemoptysis	url:D006469
+CANDIDATE	id:6469	inCount:0	outCount:3	links:	url:D006469	name:Hemoptysis	normalName:hemoptysis	normalWikiTitle:hemoptysis	predictedType:Disease
+ENTITY	text:bradycardia	normalName:bradycardia	predictedType:disease	q:true	qid:Q303	docId:10074612	origText:bradycardia	url:D001919
+CANDIDATE	id:1919	inCount:0	outCount:1	links:51437;17180;18754;20257;6323;7022;6331;1145;17202;7511	url:D001919	name:Bradycardia	normalName:bradycardia	normalWikiTitle:bradycardia	predictedType:Disease
+ENTITY	text:pulmonary-renal syndrome	normalName:pulmonary-renal syndrome	predictedType:disease	q:true	qid:Q303	docId:10074612	origText:pulmonary-renal syndrome	url:C538458
+CANDIDATE	id:538458	inCount:0	outCount:3	links:	url:C538458	name:Pulmonary renal syndrome	normalName:pulmonary renal syndrome	normalWikiTitle:pulmonary renal syndrome	predictedType:Disease
+ENTITY	text:Hypotension	normalName:hypotension	predictedType:disease	q:true	qid:Q303	docId:10074612	origText:Hypotension	url:D007022
+CANDIDATE	id:7022	inCount:3	outCount:1	links:51437;17180;18754;14693;1919;6323;1145;7511	url:D007022	name:Hypotension	normalName:hypotension	normalWikiTitle:hypotension	predictedType:Disease
+ENTITY	text:asystole	normalName:asystole	predictedType:disease	q:true	qid:Q303	docId:10074612	origText:asystole	url:D006323
+CANDIDATE	id:6323	inCount:2	outCount:1	links:17180;860;18754;1919;7022;1145;17202	url:D006323	name:Asystole	normalName:asystole	normalWikiTitle:asystole	predictedType:Disease
+ENTITY	text:hypoxemia	normalName:hypoxemia	predictedType:disease	q:true	qid:Q303	docId:10074612	origText:hypoxemia	url:D000860
+CANDIDATE	id:860	inCount:1	outCount:1	links:6323;18754	url:D000860	name:Hypoxemia	normalName:hypoxemia	normalWikiTitle:hypoxemia	predictedType:Disease
+ENTITY	text:renal failure	normalName:renal failure	predictedType:disease	q:true	qid:Q303	docId:10074612	origText:renal failure	url:D051437
+CANDIDATE	id:51437	inCount:10	outCount:1	links:1919;7022	url:D051437	name:Renal Failure	normalName:renal failure	normalWikiTitle:renal failure	predictedType:Disease
+ENTITY	text:ventricular arrhythmia	normalName:ventricular arrhythmia	predictedType:disease	q:true	qid:Q303	docId:10074612	origText:ventricular arrhythmia	url:D001145
+CANDIDATE	id:1145	inCount:27	outCount:2	links:1919;6323;7022;17202	url:D001145	name:Arrhythmias, Cardiac	normalName:arrhythmias, cardiac	normalWikiTitle:arrhythmias, cardiac	predictedType:Disease
+CANDIDATE	id:17180	inCount:4	outCount:1	links:2545;3645;1919;6323;7022;6331;17202	url:D017180	name:Tachycardia, Ventricular	normalName:tachycardia, ventricular	normalWikiTitle:tachycardia, ventricular	predictedType:Disease
+CANDIDATE	id:19571	inCount:14	outCount:2	links:	url:D019571	name:Arrhythmogenic Right Ventricular Dysplasia	normalName:arrhythmogenic right ventricular dysplasia	normalWikiTitle:arrhythmogenic right ventricular dysplasia	predictedType:Disease
+CANDIDATE	id:20257	inCount:0	outCount:1	links:1919;17202;7511	url:D020257	name:Ventricular Remodeling	normalName:ventricular remodeling	normalWikiTitle:ventricular remodeling	predictedType:Disease
+CANDIDATE	id:1146	inCount:2	outCount:1	links:	url:D001146	name:Arrhythmia, Sinus	normalName:arrhythmia, sinus	normalWikiTitle:arrhythmia, sinus	predictedType:Disease
+CANDIDATE	id:17379	inCount:0	outCount:1	links:	url:D017379	name:Hypertrophy, Left Ventricular	normalName:hypertrophy, left ventricular	normalWikiTitle:hypertrophy, left ventricular	predictedType:Disease
+CANDIDATE	id:17380	inCount:0	outCount:1	links:	url:D017380	name:Hypertrophy, Right Ventricular	normalName:hypertrophy, right ventricular	normalWikiTitle:hypertrophy, right ventricular	predictedType:Disease
+CANDIDATE	id:18658	inCount:0	outCount:1	links:	url:D018658	name:Ventricular Septal Rupture	normalName:ventricular septal rupture	normalWikiTitle:ventricular septal rupture	predictedType:Disease
+CANDIDATE	id:18754	inCount:2	outCount:1	links:1919;860;6323;7022	url:D018754	name:Ventricular Dysfunction	normalName:ventricular dysfunction	normalWikiTitle:ventricular dysfunction	predictedType:Disease
+CANDIDATE	id:14693	inCount:3	outCount:1	links:7022;7511	url:D014693	name:Ventricular Fibrillation	normalName:ventricular fibrillation	normalWikiTitle:ventricular fibrillation	predictedType:Disease
+ENTITY	text:ischemic	normalName:ischemic	predictedType:disease	q:true	qid:Q303	docId:10074612	origText:ischemic	url:D007511
+CANDIDATE	id:7511	inCount:3	outCount:1	links:1919;14693;7022;20257	url:D007511	name:Ischemia	normalName:ischemia	normalWikiTitle:ischemia	predictedType:Disease
+CANDIDATE	id:17091	inCount:0	outCount:2	links:	url:D017091	name:Colitis, Ischemic	normalName:colitis, ischemic	normalWikiTitle:colitis, ischemic	predictedType:Disease
+CANDIDATE	id:2545	inCount:4	outCount:1	links:17180;3645;6331	url:D002545	name:Brain Ischemia	normalName:brain ischemia	normalWikiTitle:brain ischemia	predictedType:Disease
+CANDIDATE	id:2057	inCount:0	outCount:1	links:	url:D002057	name:Burns, Chemical	normalName:burns, chemical	normalWikiTitle:burns, chemical	predictedType:Disease
+CANDIDATE	id:65666	inCount:0	outCount:3	links:	url:D065666	name:Mesenteric Ischemia	normalName:mesenteric ischemia	normalWikiTitle:mesenteric ischemia	predictedType:Disease
+CANDIDATE	id:17202	inCount:6	outCount:2	links:17180;3645;20257;1919;6323;6331;1145	url:D017202	name:Myocardial Ischemia	normalName:myocardial ischemia	normalWikiTitle:myocardial ischemia	predictedType:Disease
+CANDIDATE	id:54061	inCount:0	outCount:2	links:	url:D054061	name:Ischemic Contracture	normalName:ischemic contracture	normalWikiTitle:ischemic contracture	predictedType:Disease
+CANDIDATE	id:12216	inCount:9	outCount:2	links:	url:D012216	name:Rheumatic Diseases	normalName:rheumatic diseases	normalWikiTitle:rheumatic diseases	predictedType:Disease
+CANDIDATE	id:14766	inCount:1	outCount:2	links:	url:D014766	name:Viremia	normalName:viremia	normalWikiTitle:viremia	predictedType:Disease
+ENTITY	text:sudden death	normalName:sudden death	predictedType:disease	q:true	qid:Q303	docId:10074612	origText:sudden death	url:D003645
+CANDIDATE	id:3645	inCount:5	outCount:1	links:17180;2545;17202;6331	url:D003645	name:Death, Sudden	normalName:death, sudden	normalWikiTitle:death, sudden	predictedType:Disease

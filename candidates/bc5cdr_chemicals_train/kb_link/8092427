@@ -1,0 +1,19 @@
+ENTITY	text:benzylpenicillin	normalName:benzylpenicillin	predictedType:chemical	q:true	qid:Q151	docId:8092427	origText:benzylpenicillin	url:D010400
+CANDIDATE	id:10400	inCount:41	outCount:1	links:	url:D010400	name:Benzylpenicillin	normalName:benzylpenicillin	normalWikiTitle:benzylpenicillin	predictedType:Chemical
+ENTITY	text:beta-lactam	normalName:beta-lactam	predictedType:chemical	q:true	qid:Q151	docId:8092427	origText:beta-lactam	url:D047090
+CANDIDATE	id:47090	inCount:16	outCount:3	links:	url:D047090	name:beta-Lactams	normalName:beta-lactams	normalWikiTitle:beta-lactams	predictedType:Chemical
+CANDIDATE	id:480101	inCount:0	outCount:1	links:	url:C480101	name:beta-sultam	normalName:beta-sultam	normalWikiTitle:beta-sultam	predictedType:Chemical
+CANDIDATE	id:32090	inCount:0	outCount:1	links:	url:C032090	name:beta-caprolactam	normalName:beta-caprolactam	normalWikiTitle:beta-caprolactam	predictedType:Chemical
+CANDIDATE	id:606053	inCount:0	outCount:1	links:	url:C000606053	name:entonalactam B	normalName:entonalactam b	normalWikiTitle:entonalactam b	predictedType:Chemical
+CANDIDATE	id:604530	inCount:0	outCount:1	links:	url:C000604530	name:xylactam B	normalName:xylactam b	normalWikiTitle:xylactam b	predictedType:Chemical
+CANDIDATE	id:611165	inCount:0	outCount:1	links:	url:C000611165	name:pestalactam D	normalName:pestalactam d	normalWikiTitle:pestalactam d	predictedType:Chemical
+CANDIDATE	id:611166	inCount:0	outCount:1	links:	url:C000611166	name:pestalactam E	normalName:pestalactam e	normalWikiTitle:pestalactam e	predictedType:Chemical
+CANDIDATE	id:611167	inCount:0	outCount:1	links:	url:C000611167	name:pestalactam F	normalName:pestalactam f	normalWikiTitle:pestalactam f	predictedType:Chemical
+CANDIDATE	id:26549	inCount:0	outCount:1	links:	url:C026549	name:cobetalactamines	normalName:cobetalactamines	normalWikiTitle:cobetalactamines	predictedType:Chemical
+CANDIDATE	id:598096	inCount:0	outCount:1	links:	url:C000598096	name:albactam	normalName:albactam	normalWikiTitle:albactam	predictedType:Chemical
+ENTITY	text:penicillin	normalName:penicillin	predictedType:chemical	q:true	qid:Q151	docId:8092427	origText:penicillin	url:D010406
+CANDIDATE	id:10406	inCount:59	outCount:1	links:	url:D010406	name:Penicillin	normalName:penicillin	normalWikiTitle:penicillin	predictedType:Chemical
+ENTITY	text:ampicillin	normalName:ampicillin	predictedType:chemical	q:true	qid:Q151	docId:8092427	origText:ampicillin	url:D000667
+CANDIDATE	id:667	inCount:26	outCount:1	links:	url:D000667	name:Ampicillin	normalName:ampicillin	normalWikiTitle:ampicillin	predictedType:Chemical
+ENTITY	text:amoxicillin	normalName:amoxicillin	predictedType:chemical	q:true	qid:Q151	docId:8092427	origText:amoxicillin	url:D000658
+CANDIDATE	id:658	inCount:9	outCount:1	links:	url:D000658	name:Amoxicillin	normalName:amoxicillin	normalWikiTitle:amoxicillin	predictedType:Chemical

@@ -1,0 +1,4 @@
+ENTITY	text:nephrosis	normalName:nephrosis	predictedType:disease	q:true	qid:Q82	docId:20588063	origText:nephrosis	url:D009401
+CANDIDATE	id:9401	inCount:8	outCount:1	links:	url:D009401	name:Nephrosis	normalName:nephrosis	normalWikiTitle:nephrosis	predictedType:Disease
+ENTITY	text:proteinuria	normalName:proteinuria	predictedType:disease	q:true	qid:Q82	docId:20588063	origText:proteinuria	url:D011507
+CANDIDATE	id:11507	inCount:4	outCount:2	links:	url:D011507	name:Proteinuria	normalName:proteinuria	normalWikiTitle:proteinuria	predictedType:Disease

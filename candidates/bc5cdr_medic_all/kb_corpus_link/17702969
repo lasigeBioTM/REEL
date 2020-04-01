@@ -1,0 +1,13 @@
+ENTITY	text:pulmonary hypertension syndrome	normalName:pulmonary hypertension syndrome	predictedType:disease	q:true	qid:Q205	docId:17702969	origText:pulmonary hypertension syndrome	url:D006976
+CANDIDATE	id:6976	inCount:12	outCount:1	links:6976	url:D006976	name:Hypertension, Pulmonary	normalName:hypertension, pulmonary	normalWikiTitle:hypertension, pulmonary	predictedType:Disease
+CANDIDATE	id:20065	inCount:0	outCount:2	links:	url:D020065	name:Hepatopulmonary Syndrome	normalName:hepatopulmonary syndrome	normalWikiTitle:hepatopulmonary syndrome	predictedType:Disease
+CANDIDATE	id:18804	inCount:0	outCount:2	links:	url:D018804	name:Hantavirus Pulmonary Syndrome	normalName:hantavirus pulmonary syndrome	normalWikiTitle:hantavirus pulmonary syndrome	predictedType:Disease
+CANDIDATE	id:537343	inCount:0	outCount:6	links:	url:C537343	name:Singleton Merten syndrome	normalName:singleton merten syndrome	normalWikiTitle:singleton merten syndrome	predictedType:Disease
+CANDIDATE	id:22861	inCount:3	outCount:3	links:	url:D022861	name:Hermanski-Pudlak Syndrome	normalName:hermanski-pudlak syndrome	normalWikiTitle:hermanski-pudlak syndrome	predictedType:Disease
+CANDIDATE	id:17681	inCount:3	outCount:1	links:	url:D017681	name:Hypereosinophilic Syndrome	normalName:hypereosinophilic syndrome	normalWikiTitle:hypereosinophilic syndrome	predictedType:Disease
+CANDIDATE	id:16471	inCount:0	outCount:1	links:	url:D016471	name:Ovarian Hyperstimulation Syndrome	normalName:ovarian hyperstimulation syndrome	normalWikiTitle:ovarian hyperstimulation syndrome	predictedType:Disease
+CANDIDATE	id:59468	inCount:0	outCount:1	links:	url:D059468	name:Masked Hypertension	normalName:masked hypertension	normalWikiTitle:masked hypertension	predictedType:Disease
+CANDIDATE	id:9798	inCount:1	outCount:1	links:	url:D009798	name:Ocular Hypertension	normalName:ocular hypertension	normalWikiTitle:ocular hypertension	predictedType:Disease
+CANDIDATE	id:536292	inCount:0	outCount:5	links:	url:C536292	name:Jorgenson Lenz syndrome	normalName:jorgenson lenz syndrome	normalWikiTitle:jorgenson lenz syndrome	predictedType:Disease
+ENTITY	text:pulmonary hypertension	normalName:pulmonary hypertension	predictedType:disease	q:true	qid:Q205	docId:17702969	origText:pulmonary hypertension	url:D006976
+CANDIDATE	id:6976	inCount:12	outCount:1	links:6976	url:D006976	name:Hypertension, Pulmonary	normalName:hypertension, pulmonary	normalWikiTitle:hypertension, pulmonary	predictedType:Disease

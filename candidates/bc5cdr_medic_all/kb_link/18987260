@@ -1,0 +1,52 @@
+ENTITY	text:atrophy	normalName:atrophy	predictedType:disease	q:true	qid:Q678	docId:18987260	origText:atrophy	url:D001284
+CANDIDATE	id:1284	inCount:3	outCount:1	links:	url:D001284	name:Atrophy	normalName:atrophy	normalWikiTitle:atrophy	predictedType:Disease
+ENTITY	text:focal segmental glomerulosclerosis	normalName:focal segmental glomerulosclerosis	predictedType:disease	q:true	qid:Q678	docId:18987260	origText:focal segmental glomerulosclerosis	url:D005923
+CANDIDATE	id:5923	inCount:3	outCount:1	links:5923	url:D005923	name:Glomerulosclerosis, Focal Segmental	normalName:glomerulosclerosis, focal segmental	normalWikiTitle:glomerulosclerosis, focal segmental	predictedType:Disease
+ENTITY	text:uraemia	normalName:uraemia	predictedType:disease	q:true	qid:Q678	docId:18987260	origText:uraemia	url:D014511
+CANDIDATE	id:14511	inCount:2	outCount:1	links:	url:D014511	name:Uremia	normalName:uremia	normalWikiTitle:uremia	predictedType:Disease
+CANDIDATE	id:740	inCount:14	outCount:1	links:	url:D000740	name:Anemia	normalName:anemia	normalWikiTitle:anemia	predictedType:Disease
+CANDIDATE	id:14406	inCount:0	outCount:1	links:	url:D014406	name:Tularemia	normalName:tularemia	normalWikiTitle:tularemia	predictedType:Disease
+CANDIDATE	id:14766	inCount:1	outCount:2	links:	url:D014766	name:Viremia	normalName:viremia	normalWikiTitle:viremia	predictedType:Disease
+CANDIDATE	id:53099	inCount:0	outCount:2	links:	url:D053099	name:Azotemia	normalName:azotemia	normalWikiTitle:azotemia	predictedType:Disease
+CANDIDATE	id:16469	inCount:1	outCount:2	links:	url:D016469	name:Fungemia	normalName:fungemia	normalWikiTitle:fungemia	predictedType:Disease
+CANDIDATE	id:7938	inCount:12	outCount:1	links:	url:D007938	name:Leukemia	normalName:leukemia	normalWikiTitle:leukemia	predictedType:Disease
+CANDIDATE	id:53714	inCount:0	outCount:1	links:	url:D053714	name:Aspermia	normalName:aspermia	normalWikiTitle:aspermia	predictedType:Disease
+CANDIDATE	id:18512	inCount:0	outCount:2	links:	url:D018512	name:Parasitemia	normalName:parasitemia	normalWikiTitle:parasitemia	predictedType:Disease
+CANDIDATE	id:6947	inCount:4	outCount:1	links:	url:D006947	name:Hyperkalemia	normalName:hyperkalemia	normalWikiTitle:hyperkalemia	predictedType:Disease
+ENTITY	text:glomerulosclerosis	normalName:glomerulosclerosis	predictedType:disease	q:true	qid:Q678	docId:18987260	origText:glomerulosclerosis	url:D005921
+CANDIDATE	id:5921	inCount:11	outCount:1	links:	url:D005921	name:Glomerulonephritis	normalName:glomerulonephritis	normalWikiTitle:glomerulonephritis	predictedType:Disease
+CANDIDATE	id:538457	inCount:0	outCount:1	links:	url:C538457	name:Segmental glomerulosclerosis	normalName:segmental glomerulosclerosis	normalWikiTitle:segmental glomerulosclerosis	predictedType:Disease
+CANDIDATE	id:10026	inCount:17	outCount:1	links:	url:D010026	name:Osteosclerosis	normalName:osteosclerosis	normalWikiTitle:osteosclerosis	predictedType:Disease
+CANDIDATE	id:537026	inCount:0	outCount:2	links:	url:C537026	name:Lipodermatosclerosis	normalName:lipodermatosclerosis	normalWikiTitle:lipodermatosclerosis	predictedType:Disease
+CANDIDATE	id:50197	inCount:3	outCount:1	links:	url:D050197	name:Atherosclerosis	normalName:atherosclerosis	normalWikiTitle:atherosclerosis	predictedType:Disease
+CANDIDATE	id:9400	inCount:0	outCount:1	links:	url:D009400	name:Nephrosclerosis	normalName:nephrosclerosis	normalWikiTitle:nephrosclerosis	predictedType:Disease
+CANDIDATE	id:10040	inCount:6	outCount:1	links:	url:D010040	name:Otosclerosis	normalName:otosclerosis	normalWikiTitle:otosclerosis	predictedType:Disease
+CANDIDATE	id:50379	inCount:0	outCount:1	links:	url:D050379	name:Arteriolosclerosis	normalName:arteriolosclerosis	normalWikiTitle:arteriolosclerosis	predictedType:Disease
+CANDIDATE	id:63371	inCount:0	outCount:1	links:	url:D063371	name:Myringosclerosis	normalName:myringosclerosis	normalWikiTitle:myringosclerosis	predictedType:Disease
+CANDIDATE	id:1161	inCount:9	outCount:1	links:	url:D001161	name:Arteriosclerosis	normalName:arteriosclerosis	normalWikiTitle:arteriosclerosis	predictedType:Disease
+CANDIDATE	id:5923	inCount:3	outCount:1	links:5923	url:D005923	name:Focal Glomerulosclerosis	normalName:focal glomerulosclerosis	normalWikiTitle:focal glomerulosclerosis	predictedType:Disease
+CANDIDATE	id:5923	inCount:3	outCount:1	links:5923	url:D005923	name:Glomerulosclerosis, Focal	normalName:glomerulosclerosis, focal	normalWikiTitle:glomerulosclerosis, focal	predictedType:Disease
+CANDIDATE	id:3928	inCount:4	outCount:2	links:	url:D003928	name:Nodular Glomerulosclerosis	normalName:nodular glomerulosclerosis	normalWikiTitle:nodular glomerulosclerosis	predictedType:Disease
+CANDIDATE	id:3928	inCount:4	outCount:2	links:	url:D003928	name:Glomerulosclerosis, Nodular	normalName:glomerulosclerosis, nodular	normalWikiTitle:glomerulosclerosis, nodular	predictedType:Disease
+CANDIDATE	id:55728	inCount:2	outCount:1	links:	url:D055728	name:Myelosclerosis	normalName:myelosclerosis	normalWikiTitle:myelosclerosis	predictedType:Disease
+CANDIDATE	id:3928	inCount:4	outCount:2	links:	url:D003928	name:Diabetic Glomerulosclerosis	normalName:diabetic glomerulosclerosis	normalWikiTitle:diabetic glomerulosclerosis	predictedType:Disease
+CANDIDATE	id:3928	inCount:4	outCount:2	links:	url:D003928	name:Glomerulosclerosis, Diabetic	normalName:glomerulosclerosis, diabetic	normalWikiTitle:glomerulosclerosis, diabetic	predictedType:Disease
+ENTITY	text:chronic renal failure	normalName:chronic renal failure	predictedType:disease	q:true	qid:Q678	docId:18987260	origText:chronic renal failure	url:D007676
+CANDIDATE	id:7676	inCount:3	outCount:1	links:7676	url:D007676	name:Chronic Renal Failure	normalName:chronic renal failure	normalWikiTitle:chronic renal failure	predictedType:Disease
+ENTITY	text:end-stage renal disease	normalName:end-stage renal disease	predictedType:disease	q:true	qid:Q678	docId:18987260	origText:end-stage renal disease	url:D007676
+CANDIDATE	id:7676	inCount:3	outCount:1	links:7676	url:D007676	name:Renal Disease, End Stage	normalName:renal disease, end stage	normalWikiTitle:renal disease, end stage	predictedType:Disease
+ENTITY	text:fibrosis	normalName:fibrosis	predictedType:disease	q:true	qid:Q678	docId:18987260	origText:fibrosis	url:D005355
+CANDIDATE	id:5355	inCount:11	outCount:1	links:	url:D005355	name:Fibrosis	normalName:fibrosis	normalWikiTitle:fibrosis	predictedType:Disease
+ENTITY	text:proteinuria	normalName:proteinuria	predictedType:disease	q:true	qid:Q678	docId:18987260	origText:proteinuria	url:D011507
+CANDIDATE	id:11507	inCount:4	outCount:2	links:	url:D011507	name:Proteinuria	normalName:proteinuria	normalWikiTitle:proteinuria	predictedType:Disease
+ENTITY	text:hypertensive	normalName:hypertensive	predictedType:disease	q:true	qid:Q678	docId:18987260	origText:hypertensive	url:D006973
+CANDIDATE	id:6973	inCount:18	outCount:1	links:	url:D006973	name:Hypertension	normalName:hypertension	normalWikiTitle:hypertension	predictedType:Disease
+CANDIDATE	id:58246	inCount:0	outCount:1	links:	url:D058246	name:Prehypertension	normalName:prehypertension	normalWikiTitle:prehypertension	predictedType:Disease
+CANDIDATE	id:6977	inCount:3	outCount:2	links:	url:D006977	name:Hypertension, Renal	normalName:hypertension, renal	normalWikiTitle:hypertension, renal	predictedType:Disease
+CANDIDATE	id:6941	inCount:0	outCount:1	links:	url:D006941	name:Hyperesthesia	normalName:hyperesthesia	normalWikiTitle:hyperesthesia	predictedType:Disease
+CANDIDATE	id:59468	inCount:0	outCount:1	links:	url:D059468	name:Masked Hypertension	normalName:masked hypertension	normalWikiTitle:masked hypertension	predictedType:Disease
+CANDIDATE	id:6967	inCount:9	outCount:1	links:	url:D006967	name:Hypersensitivity	normalName:hypersensitivity	normalWikiTitle:hypersensitivity	predictedType:Disease
+CANDIDATE	id:7022	inCount:3	outCount:1	links:	url:D007022	name:Hypotension	normalName:hypotension	normalWikiTitle:hypotension	predictedType:Disease
+CANDIDATE	id:6987	inCount:1	outCount:1	links:	url:D006987	name:Hypesthesia	normalName:hypesthesia	normalWikiTitle:hypesthesia	predictedType:Disease
+CANDIDATE	id:563161	inCount:0	outCount:2	links:	url:C563161	name:Hypertensive Nephropathy	normalName:hypertensive nephropathy	normalWikiTitle:hypertensive nephropathy	predictedType:Disease
+CANDIDATE	id:58437	inCount:0	outCount:2	links:	url:D058437	name:Hypertensive Retinopathy	normalName:hypertensive retinopathy	normalWikiTitle:hypertensive retinopathy	predictedType:Disease

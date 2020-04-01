@@ -1,0 +1,19 @@
+ENTITY	text:Corneal ulcers	normalName:corneal ulcers	predictedType:disease	q:true	qid:Q87	docId:17721298	origText:Corneal ulcers	url:D003320
+CANDIDATE	id:3320	inCount:1	outCount:2	links:	url:D003320	name:Corneal Ulcer	normalName:corneal ulcer	normalWikiTitle:corneal ulcer	predictedType:Disease
+CANDIDATE	id:19226	inCount:0	outCount:1	links:	url:D019226	name:Oral Ulcer	normalName:oral ulcer	normalWikiTitle:oral ulcer	predictedType:Disease
+CANDIDATE	id:65306	inCount:1	outCount:2	links:	url:D065306	name:Corneal Injuries	normalName:corneal injuries	normalWikiTitle:corneal injuries	predictedType:Disease
+CANDIDATE	id:4381	inCount:3	outCount:1	links:	url:D004381	name:Duodenal Ulcer	normalName:duodenal ulcer	normalWikiTitle:duodenal ulcer	predictedType:Disease
+CANDIDATE	id:3316	inCount:26	outCount:1	links:	url:D003316	name:Corneal Diseases	normalName:corneal diseases	normalWikiTitle:corneal diseases	predictedType:Disease
+CANDIDATE	id:15715	inCount:0	outCount:1	links:	url:D015715	name:Corneal Edema	normalName:corneal edema	normalWikiTitle:corneal edema	predictedType:Disease
+CANDIDATE	id:54312	inCount:0	outCount:2	links:	url:D054312	name:Buruli Ulcer	normalName:buruli ulcer	normalWikiTitle:buruli ulcer	predictedType:Disease
+CANDIDATE	id:535376	inCount:0	outCount:3	links:	url:C535376	name:Dermoids of cornea	normalName:dermoids of cornea	normalWikiTitle:dermoids of cornea	predictedType:Disease
+CANDIDATE	id:3318	inCount:9	outCount:1	links:	url:D003318	name:Corneal Opacity	normalName:corneal opacity	normalWikiTitle:corneal opacity	predictedType:Disease
+CANDIDATE	id:57112	inCount:0	outCount:1	links:	url:D057112	name:Corneal Perforation	normalName:corneal perforation	normalWikiTitle:corneal perforation	predictedType:Disease
+ENTITY	text:infections	normalName:infections	predictedType:disease	q:true	qid:Q87	docId:17721298	origText:infections	url:D007239
+CANDIDATE	id:7239	inCount:33	outCount:1	links:	url:D007239	name:Infection	normalName:infection	normalWikiTitle:infection	predictedType:Disease
+ENTITY	text:substance abuse	normalName:substance abuse	predictedType:disease	q:true	qid:Q87	docId:17721298	origText:substance abuse	url:D019966
+CANDIDATE	id:19966	inCount:15	outCount:2	links:19966	url:D019966	name:Abuse, Substance	normalName:abuse, substance	normalWikiTitle:abuse, substance	predictedType:Disease
+ENTITY	text:ulcers	normalName:ulcers	predictedType:disease	q:true	qid:Q87	docId:17721298	origText:ulcers	url:D014456
+CANDIDATE	id:14456	inCount:1	outCount:1	links:	url:D014456	name:Ulcer	normalName:ulcer	normalWikiTitle:ulcer	predictedType:Disease
+ENTITY	text:drug abuse	normalName:drug abuse	predictedType:disease	q:true	qid:Q87	docId:17721298	origText:drug abuse	url:D019966
+CANDIDATE	id:19966	inCount:15	outCount:2	links:19966	url:D019966	name:Drug Abuse	normalName:drug abuse	normalWikiTitle:drug abuse	predictedType:Disease

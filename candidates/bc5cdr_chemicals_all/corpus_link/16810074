@@ -1,0 +1,31 @@
+ENTITY	text:norepinephrine	normalName:norepinephrine	predictedType:chemical	q:true	qid:Q125	docId:16810074	origText:norepinephrine	url:D009638
+CANDIDATE	id:9638	inCount:31	outCount:4	links:9569	url:D009638	name:Norepinephrine	normalName:norepinephrine	normalWikiTitle:norepinephrine	predictedType:Chemical
+ENTITY	text:hexamethonium	normalName:hexamethonium	predictedType:chemical	q:true	qid:Q125	docId:16810074	origText:hexamethonium	url:D018738
+CANDIDATE	id:18738	inCount:0	outCount:1	links:	url:D018738	name:Hexamethonium	normalName:hexamethonium	normalWikiTitle:hexamethonium	predictedType:Chemical
+ENTITY	text:nitric oxide	normalName:nitric oxide	predictedType:chemical	q:true	qid:Q125	docId:16810074	origText:nitric oxide	url:D009569
+CANDIDATE	id:9569	inCount:13	outCount:3	links:9638	url:D009569	name:Nitric Oxide	normalName:nitric oxide	normalWikiTitle:nitric oxide	predictedType:Chemical
+ENTITY	text:tempol	normalName:tempol	predictedType:chemical	q:true	qid:Q125	docId:16810074	origText:tempol	url:C001803
+CANDIDATE	id:1803	inCount:0	outCount:2	links:	url:C001803	name:tempol	normalName:tempol	normalWikiTitle:tempol	predictedType:Chemical
+ENTITY	text:Nomega-nitro-L-arginine	normalName:nomega-nitro-l-arginine	predictedType:chemical	q:true	qid:Q125	docId:16810074	origText:Nomega-nitro-L-arginine	url:D019335
+CANDIDATE	id:19335	inCount:4	outCount:1	links:	url:D019335	name:NG-Nitro-L-Arginine	normalName:ng-nitro-l-arginine	normalWikiTitle:ng-nitro-l-arginine	predictedType:Chemical
+CANDIDATE	id:73753	inCount:0	outCount:1	links:	url:C073753	name:omega-N-allylarginine	normalName:omega-n-allylarginine	normalWikiTitle:omega-n-allylarginine	predictedType:Chemical
+CANDIDATE	id:19323	inCount:0	outCount:1	links:	url:D019323	name:omega-N-Methylarginine	normalName:omega-n-methylarginine	normalWikiTitle:omega-n-methylarginine	predictedType:Chemical
+CANDIDATE	id:68309	inCount:0	outCount:1	links:	url:C068309	name:N(omega)-hydroxyarginine	normalName:n(omega)-hydroxyarginine	normalWikiTitle:n(omega)-hydroxyarginine	predictedType:Chemical
+CANDIDATE	id:18833	inCount:0	outCount:1	links:	url:C018833	name:arginine-4-nitroanilide	normalName:arginine-4-nitroanilide	normalWikiTitle:arginine-4-nitroanilide	predictedType:Chemical
+CANDIDATE	id:589294	inCount:0	outCount:1	links:	url:C000589294	name:N(omega)-(2-methoxyethyl)arginine	normalName:n(omega)-(2-methoxyethyl)arginine	normalWikiTitle:n(omega)-(2-methoxyethyl)arginine	predictedType:Chemical
+CANDIDATE	id:76723	inCount:0	outCount:1	links:	url:C076723	name:omega-N-aminohomoarginine	normalName:omega-n-aminohomoarginine	normalWikiTitle:omega-n-aminohomoarginine	predictedType:Chemical
+CANDIDATE	id:404735	inCount:0	outCount:1	links:	url:C404735	name:N(omega)-hydroxynorarginine	normalName:n(omega)-hydroxynorarginine	normalWikiTitle:n(omega)-hydroxynorarginine	predictedType:Chemical
+CANDIDATE	id:431668	inCount:0	outCount:1	links:	url:C431668	name:(trifluoromethyl)arginine	normalName:(trifluoromethyl)arginine	normalWikiTitle:(trifluoromethyl)arginine	predictedType:Chemical
+CANDIDATE	id:26512	inCount:0	outCount:1	links:	url:C026512	name:arginine methyl ester	normalName:arginine methyl ester	normalWikiTitle:arginine methyl ester	predictedType:Chemical
+CANDIDATE	id:632344	inCount:0	outCount:1	links:	url:C000632344	name:N-methyl-l-tyrosine-l-arginine	normalName:n-methyl-l-tyrosine-l-arginine	normalWikiTitle:n-methyl-l-tyrosine-l-arginine	predictedType:Chemical
+CANDIDATE	id:19335	inCount:4	outCount:1	links:	url:D019335	name:omega-Nitro-L-Arginine, N	normalName:omega-nitro-l-arginine, n	normalWikiTitle:omega-nitro-l-arginine, n	predictedType:Chemical
+CANDIDATE	id:19335	inCount:4	outCount:1	links:	url:D019335	name:N omega Nitro L Arginine	normalName:n omega nitro l arginine	normalWikiTitle:n omega nitro l arginine	predictedType:Chemical
+CANDIDATE	id:19335	inCount:4	outCount:1	links:	url:D019335	name:N omega-Nitro-L-Arginine	normalName:n omega-nitro-l-arginine	normalWikiTitle:n omega-nitro-l-arginine	predictedType:Chemical
+CANDIDATE	id:84185	inCount:0	outCount:2	links:	url:C084185	name:N-nitroso-L-arginine	normalName:n-nitroso-l-arginine	normalWikiTitle:n-nitroso-l-arginine	predictedType:Chemical
+CANDIDATE	id:491427	inCount:0	outCount:1	links:	url:C491427	name:nona-L-arginine	normalName:nona-l-arginine	normalWikiTitle:nona-l-arginine	predictedType:Chemical
+CANDIDATE	id:19323	inCount:0	outCount:1	links:	url:D019323	name:N(omega)-Monomethyl-L-Arginine	normalName:n(omega)-monomethyl-l-arginine	normalWikiTitle:n(omega)-monomethyl-l-arginine	predictedType:Chemical
+CANDIDATE	id:19335	inCount:4	outCount:1	links:	url:D019335	name:NG Nitro L Arginine	normalName:ng nitro l arginine	normalWikiTitle:ng nitro l arginine	predictedType:Chemical
+CANDIDATE	id:109599	inCount:0	outCount:1	links:	url:C109599	name:N(omega)-propyl-L-arginine	normalName:n(omega)-propyl-l-arginine	normalWikiTitle:n(omega)-propyl-l-arginine	predictedType:Chemical
+CANDIDATE	id:491427	inCount:0	outCount:1	links:	url:C491427	name:nona-D-arginine	normalName:nona-d-arginine	normalWikiTitle:nona-d-arginine	predictedType:Chemical
+ENTITY	text:superoxide	normalName:superoxide	predictedType:chemical	q:true	qid:Q125	docId:16810074	origText:superoxide	url:D013481
+CANDIDATE	id:13481	inCount:1	outCount:1	links:	url:D013481	name:Superoxide	normalName:superoxide	normalWikiTitle:superoxide	predictedType:Chemical

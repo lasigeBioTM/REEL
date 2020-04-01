@@ -1,0 +1,4 @@
+ENTITY	text:phenylpropanolamine	normalName:phenylpropanolamine	predictedType:chemical	q:true	qid:Q480	docId:3828020	origText:phenylpropanolamine	url:D010665
+CANDIDATE	id:10665	inCount:33	outCount:1	links:	url:D010665	name:Phenylpropanolamine	normalName:phenylpropanolamine	normalWikiTitle:phenylpropanolamine	predictedType:Chemical
+ENTITY	text:amphetamine	normalName:amphetamine	predictedType:chemical	q:true	qid:Q480	docId:3828020	origText:amphetamine	url:D000661
+CANDIDATE	id:661	inCount:1	outCount:1	links:	url:D000661	name:Amphetamine	normalName:amphetamine	normalWikiTitle:amphetamine	predictedType:Chemical

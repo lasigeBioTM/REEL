@@ -1,0 +1,17 @@
+ENTITY	text:3,4-dihydroxyphenylacetic acid	normalName:3,4-dihydroxyphenylacetic acid	predictedType:chemical	q:true	qid:Q172	docId:17608141	origText:3,4-dihydroxyphenylacetic acid	url:D015102
+CANDIDATE	id:15102	inCount:3	outCount:1	links:	url:D015102	name:3,4-Dihydroxyphenylacetic Acid	normalName:3,4-dihydroxyphenylacetic acid	normalWikiTitle:3,4-dihydroxyphenylacetic acid	predictedType:Chemical
+ENTITY	text:methamphetamine	normalName:methamphetamine	predictedType:chemical	q:true	qid:Q172	docId:17608141	origText:methamphetamine	url:D008694
+CANDIDATE	id:8694	inCount:44	outCount:1	links:	url:D008694	name:Methamphetamine	normalName:methamphetamine	normalWikiTitle:methamphetamine	predictedType:Chemical
+ENTITY	text:lipopolysaccharide	normalName:lipopolysaccharide	predictedType:chemical	q:true	qid:Q172	docId:17608141	origText:lipopolysaccharide	url:D008070
+CANDIDATE	id:8070	inCount:60	outCount:4	links:	url:D008070	name:Lipopolysaccharides	normalName:lipopolysaccharides	normalWikiTitle:lipopolysaccharides	predictedType:Chemical
+CANDIDATE	id:36757	inCount:0	outCount:1	links:	url:C036757	name:lipopolysaccharide B	normalName:lipopolysaccharide b	normalWikiTitle:lipopolysaccharide b	predictedType:Chemical
+CANDIDATE	id:82161	inCount:0	outCount:1	links:	url:C082161	name:lipopolysaccharide A	normalName:lipopolysaccharide a	normalWikiTitle:lipopolysaccharide a	predictedType:Chemical
+CANDIDATE	id:85483	inCount:0	outCount:1	links:	url:C085483	name:Re lipopolysaccharide	normalName:re lipopolysaccharide	normalWikiTitle:re lipopolysaccharide	predictedType:Chemical
+CANDIDATE	id:42138	inCount:0	outCount:1	links:	url:C042138	name:BCG lipopolysaccharide	normalName:bcg lipopolysaccharide	normalWikiTitle:bcg lipopolysaccharide	predictedType:Chemical
+CANDIDATE	id:89614	inCount:0	outCount:1	links:	url:C089614	name:J-5 lipopolysaccharide	normalName:j-5 lipopolysaccharide	normalWikiTitle:j-5 lipopolysaccharide	predictedType:Chemical
+CANDIDATE	id:436970	inCount:0	outCount:1	links:	url:C436970	name:CE3 lipopolysaccharide	normalName:ce3 lipopolysaccharide	normalWikiTitle:ce3 lipopolysaccharide	predictedType:Chemical
+CANDIDATE	id:69667	inCount:0	outCount:1	links:	url:C069667	name:FEV1 lipopolysaccharide	normalName:fev1 lipopolysaccharide	normalWikiTitle:fev1 lipopolysaccharide	predictedType:Chemical
+CANDIDATE	id:114999	inCount:0	outCount:1	links:	url:C114999	name:K-12 lipopolysaccharide	normalName:k-12 lipopolysaccharide	normalWikiTitle:k-12 lipopolysaccharide	predictedType:Chemical
+CANDIDATE	id:545395	inCount:0	outCount:1	links:	url:C545395	name:LSP2 polysaccharide	normalName:lsp2 polysaccharide	normalWikiTitle:lsp2 polysaccharide	predictedType:Chemical
+ENTITY	text:dopamine	normalName:dopamine	predictedType:chemical	q:true	qid:Q172	docId:17608141	origText:dopamine	url:D004298
+CANDIDATE	id:4298	inCount:90	outCount:2	links:	url:D004298	name:Dopamine	normalName:dopamine	normalWikiTitle:dopamine	predictedType:Chemical

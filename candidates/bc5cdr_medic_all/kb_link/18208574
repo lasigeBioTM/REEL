@@ -1,0 +1,15 @@
+ENTITY	text:thrombosis	normalName:thrombosis	predictedType:disease	q:true	qid:Q481	docId:18208574	origText:thrombosis	url:D013927
+CANDIDATE	id:13927	inCount:4	outCount:1	links:13927	url:D013927	name:Thrombosis	normalName:thrombosis	normalWikiTitle:thrombosis	predictedType:Disease
+ENTITY	text:thrombotic	normalName:thrombotic	predictedType:disease	q:true	qid:Q481	docId:18208574	origText:thrombotic	url:D013927
+CANDIDATE	id:13927	inCount:4	outCount:1	links:13927	url:D013927	name:Thrombosis	normalName:thrombosis	normalWikiTitle:thrombosis	predictedType:Disease
+CANDIDATE	id:13922	inCount:4	outCount:2	links:	url:D013922	name:Thrombocytosis	normalName:thrombocytosis	normalWikiTitle:thrombocytosis	predictedType:Disease
+CANDIDATE	id:19851	inCount:16	outCount:1	links:	url:D019851	name:Thrombophilia	normalName:thrombophilia	normalWikiTitle:thrombophilia	predictedType:Disease
+CANDIDATE	id:13924	inCount:1	outCount:2	links:	url:D013924	name:Thrombophlebitis	normalName:thrombophlebitis	normalWikiTitle:thrombophlebitis	predictedType:Disease
+CANDIDATE	id:13921	inCount:42	outCount:1	links:13921	url:D013921	name:Thrombocytopenia	normalName:thrombocytopenia	normalWikiTitle:thrombocytopenia	predictedType:Disease
+CANDIDATE	id:13915	inCount:3	outCount:3	links:	url:D013915	name:Thrombasthenia	normalName:thrombasthenia	normalWikiTitle:thrombasthenia	predictedType:Disease
+CANDIDATE	id:567438	inCount:0	outCount:1	links:	url:C567438	name:Thrombocytopenia 4	normalName:thrombocytopenia 4	normalWikiTitle:thrombocytopenia 4	predictedType:Disease
+CANDIDATE	id:616937	inCount:0	outCount:1	links:	url:616937	name:THROMBOCYTOPENIA 6	normalName:thrombocytopenia 6	normalWikiTitle:thrombocytopenia 6	predictedType:Disease
+CANDIDATE	id:567487	inCount:0	outCount:1	links:	url:C567487	name:Thrombocytopenia 3	normalName:thrombocytopenia 3	normalWikiTitle:thrombocytopenia 3	predictedType:Disease
+CANDIDATE	id:564052	inCount:0	outCount:2	links:	url:C564052	name:Thrombocytopenia 1	normalName:thrombocytopenia 1	normalWikiTitle:thrombocytopenia 1	predictedType:Disease
+ENTITY	text:thrombocytopenia	normalName:thrombocytopenia	predictedType:disease	q:true	qid:Q481	docId:18208574	origText:thrombocytopenia	url:D013921
+CANDIDATE	id:13921	inCount:42	outCount:1	links:13921	url:D013921	name:Thrombocytopenia	normalName:thrombocytopenia	normalWikiTitle:thrombocytopenia	predictedType:Disease

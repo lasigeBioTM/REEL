@@ -1,0 +1,19 @@
+ENTITY	text:creatinine	normalName:creatinine	predictedType:chemical	q:true	qid:Q1499	docId:17562951	origText:creatinine	url:D003404
+CANDIDATE	id:3404	inCount:8	outCount:1	links:	url:D003404	name:Creatinine	normalName:creatinine	normalWikiTitle:creatinine	predictedType:Chemical
+ENTITY	text:N-acetylcysteine	normalName:n-acetylcysteine	predictedType:chemical	q:true	qid:Q1499	docId:17562951	origText:N-acetylcysteine	url:D000111
+CANDIDATE	id:111	inCount:128	outCount:1	links:	url:D000111	name:N-Acetylcysteine	normalName:n-acetylcysteine	normalWikiTitle:n-acetylcysteine	predictedType:Chemical
+ENTITY	text:iopamidol	normalName:iopamidol	predictedType:chemical	q:true	qid:Q1499	docId:17562951	origText:iopamidol	url:D007479
+CANDIDATE	id:7479	inCount:3	outCount:1	links:44834;3287	url:D007479	name:Iopamidol	normalName:iopamidol	normalWikiTitle:iopamidol	predictedType:Chemical
+ENTITY	text:contrast medium	normalName:contrast medium	predictedType:chemical	q:true	qid:Q1499	docId:17562951	origText:contrast medium	url:D003287
+CANDIDATE	id:3287	inCount:0	outCount:2	links:7479;44834	url:D003287	name:Contrast Media	normalName:contrast media	normalWikiTitle:contrast media	predictedType:Chemical
+CANDIDATE	id:20687	inCount:0	outCount:1	links:	url:C020687	name:C 29 (contrast media)	normalName:c 29 (contrast media)	normalWikiTitle:c 29 (contrast media)	predictedType:Chemical
+CANDIDATE	id:31618	inCount:0	outCount:1	links:	url:C031618	name:sodium nitrate	normalName:sodium nitrate	normalWikiTitle:sodium nitrate	predictedType:Chemical
+CANDIDATE	id:433363	inCount:0	outCount:4	links:	url:C433363	name:Chen medium	normalName:chen medium	normalWikiTitle:chen medium	predictedType:Chemical
+CANDIDATE	id:77559	inCount:0	outCount:1	links:	url:D000077559	name:Sodium Citrate	normalName:sodium citrate	normalWikiTitle:sodium citrate	predictedType:Chemical
+CANDIDATE	id:110422	inCount:0	outCount:2	links:	url:C110422	name:magnesium citrate	normalName:magnesium citrate	normalWikiTitle:magnesium citrate	predictedType:Chemical
+CANDIDATE	id:32706	inCount:0	outCount:1	links:	url:C032706	name:sodium chlorate	normalName:sodium chlorate	normalWikiTitle:sodium chlorate	predictedType:Chemical
+CANDIDATE	id:33775	inCount:0	outCount:2	links:	url:C033775	name:magnesium chlorate	normalName:magnesium chlorate	normalWikiTitle:magnesium chlorate	predictedType:Chemical
+CANDIDATE	id:49675	inCount:0	outCount:1	links:	url:C049675	name:cantastim	normalName:cantastim	normalWikiTitle:cantastim	predictedType:Chemical
+CANDIDATE	id:34034	inCount:0	outCount:2	links:	url:C034034	name:magnesium borate	normalName:magnesium borate	normalWikiTitle:magnesium borate	predictedType:Chemical
+ENTITY	text:iodixanol	normalName:iodixanol	predictedType:chemical	q:true	qid:Q1499	docId:17562951	origText:iodixanol	url:C044834
+CANDIDATE	id:44834	inCount:0	outCount:1	links:7479;3287	url:C044834	name:iodixanol	normalName:iodixanol	normalWikiTitle:iodixanol	predictedType:Chemical

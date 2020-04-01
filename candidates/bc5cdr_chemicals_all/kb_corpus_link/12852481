@@ -1,0 +1,4 @@
+ENTITY	text:acetylsalicylic acid	normalName:acetylsalicylic acid	predictedType:chemical	q:true	qid:Q259	docId:12852481	origText:acetylsalicylic acid	url:D001241
+CANDIDATE	id:1241	inCount:106	outCount:1	links:1241	url:D001241	name:Acid, Acetylsalicylic	normalName:acid, acetylsalicylic	normalWikiTitle:acid, acetylsalicylic	predictedType:Chemical
+ENTITY	text:aspirin	normalName:aspirin	predictedType:chemical	q:true	qid:Q259	docId:12852481	origText:aspirin	url:D001241
+CANDIDATE	id:1241	inCount:106	outCount:1	links:1241	url:D001241	name:Aspirin	normalName:aspirin	normalWikiTitle:aspirin	predictedType:Chemical

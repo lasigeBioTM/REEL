@@ -1,0 +1,10 @@
+ENTITY	text:kainate	normalName:kainate	predictedType:chemical	q:true	qid:Q219	docId:15974569	origText:kainate	url:D007608
+CANDIDATE	id:7608	inCount:17	outCount:1	links:	url:D007608	name:Kainate	normalName:kainate	normalWikiTitle:kainate	predictedType:Chemical
+ENTITY	text:carrageenan	normalName:carrageenan	predictedType:chemical	q:true	qid:Q219	docId:15974569	origText:carrageenan	url:D002351
+CANDIDATE	id:2351	inCount:13	outCount:1	links:2211	url:D002351	name:Carrageenan	normalName:carrageenan	normalWikiTitle:carrageenan	predictedType:Chemical
+ENTITY	text:formalin	normalName:formalin	predictedType:chemical	q:true	qid:Q219	docId:15974569	origText:formalin	url:D005557
+CANDIDATE	id:5557	inCount:43	outCount:1	links:	url:D005557	name:Formalin	normalName:formalin	normalWikiTitle:formalin	predictedType:Chemical
+ENTITY	text:capsaicin	normalName:capsaicin	predictedType:chemical	q:true	qid:Q219	docId:15974569	origText:capsaicin	url:D002211
+CANDIDATE	id:2211	inCount:38	outCount:4	links:2351	url:D002211	name:Capsaicin	normalName:capsaicin	normalWikiTitle:capsaicin	predictedType:Chemical
+ENTITY	text:glutamate	normalName:glutamate	predictedType:chemical	q:true	qid:Q219	docId:15974569	origText:glutamate	url:D018698
+CANDIDATE	id:18698	inCount:53	outCount:2	links:	url:D018698	name:Glutamate	normalName:glutamate	normalWikiTitle:glutamate	predictedType:Chemical

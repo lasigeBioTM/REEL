@@ -1,0 +1,8 @@
+ENTITY	text:pain	normalName:pain	predictedType:disease	q:true	qid:Q990	docId:11752998	origText:pain	url:D010146
+CANDIDATE	id:10146	inCount:34	outCount:1	links:6930	url:D010146	name:Pain	normalName:pain	normalWikiTitle:pain	predictedType:Disease
+ENTITY	text:allodynia	normalName:allodynia	predictedType:disease	q:true	qid:Q990	docId:11752998	origText:allodynia	url:D006930
+CANDIDATE	id:6930	inCount:0	outCount:1	links:9437;10146	url:D006930	name:Allodynia	normalName:allodynia	normalWikiTitle:allodynia	predictedType:Disease
+ENTITY	text:mechanical hyperalgesia	normalName:mechanical hyperalgesia	predictedType:disease	q:true	qid:Q990	docId:11752998	origText:mechanical hyperalgesia	url:D006930
+CANDIDATE	id:6930	inCount:0	outCount:1	links:9437;10146	url:D006930	name:Hyperalgesia, Mechanical	normalName:hyperalgesia, mechanical	normalWikiTitle:hyperalgesia, mechanical	predictedType:Disease
+ENTITY	text:neuropathic pain	normalName:neuropathic pain	predictedType:disease	q:true	qid:Q990	docId:11752998	origText:neuropathic pain	url:D009437
+CANDIDATE	id:9437	inCount:6	outCount:2	links:6930	url:D009437	name:Pain, Neuropathic	normalName:pain, neuropathic	normalWikiTitle:pain, neuropathic	predictedType:Disease

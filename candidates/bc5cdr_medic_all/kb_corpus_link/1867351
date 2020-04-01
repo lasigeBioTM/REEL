@@ -1,0 +1,32 @@
+ENTITY	text:malaria	normalName:malaria	predictedType:disease	q:true	qid:Q1075	docId:1867351	origText:malaria	url:D008288
+CANDIDATE	id:8288	inCount:6	outCount:1	links:	url:D008288	name:Malaria	normalName:malaria	normalWikiTitle:malaria	predictedType:Disease
+ENTITY	text:seizures	normalName:seizures	predictedType:disease	q:true	qid:Q1075	docId:1867351	origText:seizures	url:D012640
+CANDIDATE	id:12640	inCount:53	outCount:1	links:1008;12893	url:D012640	name:Seizure	normalName:seizure	normalWikiTitle:seizure	predictedType:Disease
+ENTITY	text:anxiety neurosis	normalName:anxiety neurosis	predictedType:disease	q:true	qid:Q1075	docId:1867351	origText:anxiety neurosis	url:D001008
+CANDIDATE	id:1008	inCount:7	outCount:1	links:12893;12640	url:D001008	name:Anxiety States, Neurotic	normalName:anxiety states, neurotic	normalWikiTitle:anxiety states, neurotic	predictedType:Disease
+CANDIDATE	id:5218	inCount:0	outCount:1	links:	url:D005218	name:Fat Necrosis	normalName:fat necrosis	normalWikiTitle:fat necrosis	predictedType:Disease
+CANDIDATE	id:1008	inCount:7	outCount:1	links:12893;12640	url:D001008	name:Anxiety Disorders	normalName:anxiety disorders	normalWikiTitle:anxiety disorders	predictedType:Disease
+CANDIDATE	id:537904	inCount:0	outCount:1	links:	url:C537904	name:Bantu siderosis	normalName:bantu siderosis	normalWikiTitle:bantu siderosis	predictedType:Disease
+CANDIDATE	id:1010	inCount:0	outCount:2	links:	url:D001010	name:Anxiety, Separation	normalName:anxiety, separation	normalWikiTitle:anxiety, separation	predictedType:Disease
+CANDIDATE	id:7222	inCount:0	outCount:2	links:	url:D007222	name:Inert Gas Narcosis	normalName:inert gas narcosis	normalWikiTitle:inert gas narcosis	predictedType:Disease
+CANDIDATE	id:7673	inCount:0	outCount:1	links:	url:D007673	name:Kidney Cortex Necrosis	normalName:kidney cortex necrosis	normalWikiTitle:kidney cortex necrosis	predictedType:Disease
+CANDIDATE	id:856	inCount:0	outCount:1	links:	url:D000856	name:Anorexia Nervosa	normalName:anorexia nervosa	normalWikiTitle:anorexia nervosa	predictedType:Disease
+CANDIDATE	id:535761	inCount:0	outCount:1	links:	url:C535761	name:Nephrosis, congenital	normalName:nephrosis, congenital	normalWikiTitle:nephrosis, congenital	predictedType:Disease
+CANDIDATE	id:55623	inCount:1	outCount:2	links:	url:D055623	name:Keratosis, Actinic	normalName:keratosis, actinic	normalWikiTitle:keratosis, actinic	predictedType:Disease
+CANDIDATE	id:1353	inCount:0	outCount:4	links:	url:D001353	name:Avian Leukosis	normalName:avian leukosis	normalWikiTitle:avian leukosis	predictedType:Disease
+CANDIDATE	id:1008	inCount:7	outCount:1	links:12893;12640	url:D001008	name:Neuroses, Anxiety	normalName:neuroses, anxiety	normalWikiTitle:neuroses, anxiety	predictedType:Disease
+CANDIDATE	id:1008	inCount:7	outCount:1	links:12893;12640	url:D001008	name:Anxiety Neuroses	normalName:anxiety neuroses	normalWikiTitle:anxiety neuroses	predictedType:Disease
+CANDIDATE	id:1008	inCount:7	outCount:1	links:12893;12640	url:D001008	name:State, Neurotic Anxiety	normalName:state, neurotic anxiety	normalWikiTitle:state, neurotic anxiety	predictedType:Disease
+CANDIDATE	id:1008	inCount:7	outCount:1	links:12893;12640	url:D001008	name:Anxiety State, Neurotic	normalName:anxiety state, neurotic	normalWikiTitle:anxiety state, neurotic	predictedType:Disease
+CANDIDATE	id:1008	inCount:7	outCount:1	links:12893;12640	url:D001008	name:Neurotic Anxiety State	normalName:neurotic anxiety state	normalWikiTitle:neurotic anxiety state	predictedType:Disease
+CANDIDATE	id:1008	inCount:7	outCount:1	links:12893;12640	url:D001008	name:States, Neurotic Anxiety	normalName:states, neurotic anxiety	normalWikiTitle:states, neurotic anxiety	predictedType:Disease
+CANDIDATE	id:1008	inCount:7	outCount:1	links:12893;12640	url:D001008	name:Neurotic Anxiety States	normalName:neurotic anxiety states	normalWikiTitle:neurotic anxiety states	predictedType:Disease
+ENTITY	text:disturbances of sleep-wake rhythm	normalName:disturbances of sleep-wake rhythm	predictedType:disease	q:true	qid:Q1075	docId:1867351	origText:disturbances of sleep-wake rhythm	url:D012893
+CANDIDATE	id:12893	inCount:4	outCount:3	links:1008;12640	url:D012893	name:Disorder, Sleep Wake	normalName:disorder, sleep wake	normalWikiTitle:disorder, sleep wake	predictedType:Disease
+CANDIDATE	id:12893	inCount:4	outCount:3	links:1008;12640	url:D012893	name:Sleep Wake Disorders	normalName:sleep wake disorders	normalWikiTitle:sleep wake disorders	predictedType:Disease
+CANDIDATE	id:20178	inCount:2	outCount:3	links:	url:D020178	name:Sleep Disorders, Circadian Rhythm	normalName:sleep disorders, circadian rhythm	normalWikiTitle:sleep disorders, circadian rhythm	predictedType:Disease
+CANDIDATE	id:8599	inCount:6	outCount:1	links:	url:D008599	name:Menstruation Disturbances	normalName:menstruation disturbances	normalWikiTitle:menstruation disturbances	predictedType:Disease
+CANDIDATE	id:20922	inCount:0	outCount:1	links:	url:D020922	name:Sleep-Wake Transition Disorders	normalName:sleep-wake transition disorders	normalWikiTitle:sleep-wake transition disorders	predictedType:Disease
+CANDIDATE	id:567402	inCount:0	outCount:1	links:	url:C567402	name:Diastasis Recti And Weakness Of The Linea Alba	normalName:diastasis recti and weakness of the linea alba	normalWikiTitle:diastasis recti and weakness of the linea alba	predictedType:Disease
+CANDIDATE	id:12893	inCount:4	outCount:3	links:1008;12640	url:D012893	name:Sleep Wake Disorder	normalName:sleep wake disorder	normalWikiTitle:sleep wake disorder	predictedType:Disease
+CANDIDATE	id:12893	inCount:4	outCount:3	links:1008;12640	url:D012893	name:Wake Disorder, Sleep	normalName:wake disorder, sleep	normalWikiTitle:wake disorder, sleep	predictedType:Disease

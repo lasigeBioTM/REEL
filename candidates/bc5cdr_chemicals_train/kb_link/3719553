@@ -1,0 +1,8 @@
+ENTITY	text:diphenhydramine	normalName:diphenhydramine	predictedType:chemical	q:true	qid:Q36	docId:3719553	origText:diphenhydramine	url:D004155
+CANDIDATE	id:4155	inCount:23	outCount:2	links:	url:D004155	name:Diphenhydramine	normalName:diphenhydramine	normalWikiTitle:diphenhydramine	predictedType:Chemical
+ENTITY	text:5-fluorouracil	normalName:5-fluorouracil	predictedType:chemical	q:true	qid:Q36	docId:3719553	origText:5-fluorouracil	url:D005472
+CANDIDATE	id:5472	inCount:271	outCount:1	links:	url:D005472	name:5 Fluorouracil	normalName:5 fluorouracil	normalWikiTitle:5 fluorouracil	predictedType:Chemical
+ENTITY	text:cisplatin	normalName:cisplatin	predictedType:chemical	q:true	qid:Q36	docId:3719553	origText:cisplatin	url:D002945
+CANDIDATE	id:2945	inCount:293	outCount:3	links:	url:D002945	name:Cisplatin	normalName:cisplatin	normalWikiTitle:cisplatin	predictedType:Chemical
+ENTITY	text:prednisone	normalName:prednisone	predictedType:chemical	q:true	qid:Q36	docId:3719553	origText:prednisone	url:D011241
+CANDIDATE	id:11241	inCount:209	outCount:1	links:	url:D011241	name:Prednisone	normalName:prednisone	normalWikiTitle:prednisone	predictedType:Chemical

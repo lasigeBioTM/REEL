@@ -1,0 +1,6 @@
+ENTITY	text:Succinylcholine	normalName:succinylcholine	predictedType:chemical	q:true	qid:Q1377	docId:6627074	origText:Succinylcholine	url:D013390
+CANDIDATE	id:13390	inCount:3	outCount:2	links:	url:D013390	name:Succinylcholine	normalName:succinylcholine	normalWikiTitle:succinylcholine	predictedType:Chemical
+ENTITY	text:neostigmine	normalName:neostigmine	predictedType:chemical	q:true	qid:Q1377	docId:6627074	origText:neostigmine	url:D009388
+CANDIDATE	id:9388	inCount:3	outCount:2	links:	url:D009388	name:Neostigmine	normalName:neostigmine	normalWikiTitle:neostigmine	predictedType:Chemical
+ENTITY	text:Edrophonium	normalName:edrophonium	predictedType:chemical	q:true	qid:Q1377	docId:6627074	origText:Edrophonium	url:D004491
+CANDIDATE	id:4491	inCount:0	outCount:2	links:	url:D004491	name:Edrophonium	normalName:edrophonium	normalWikiTitle:edrophonium	predictedType:Chemical

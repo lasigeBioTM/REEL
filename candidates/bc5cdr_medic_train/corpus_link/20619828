@@ -1,0 +1,38 @@
+ENTITY	text:obsessive-compulsive disorder	normalName:obsessive-compulsive disorder	predictedType:disease	q:true	qid:Q349	docId:20619828	origText:obsessive-compulsive disorder	url:D009771
+CANDIDATE	id:9771	inCount:3	outCount:1	links:	url:D009771	name:Obsessive-Compulsive Disorder	normalName:obsessive-compulsive disorder	normalWikiTitle:obsessive-compulsive disorder	predictedType:Disease
+ENTITY	text:obsessive-compulsive-like behaviors	normalName:obsessive-compulsive-like behaviors	predictedType:disease	q:true	qid:Q349	docId:20619828	origText:obsessive-compulsive-like behaviors	url:D009771
+CANDIDATE	id:9771	inCount:3	outCount:1	links:	url:D009771	name:Obsessive-Compulsive Disorder	normalName:obsessive-compulsive disorder	normalWikiTitle:obsessive-compulsive disorder	predictedType:Disease
+CANDIDATE	id:20187	inCount:0	outCount:1	links:	url:D020187	name:REM Sleep Behavior Disorder	normalName:rem sleep behavior disorder	normalWikiTitle:rem sleep behavior disorder	predictedType:Disease
+CANDIDATE	id:2653	inCount:1	outCount:1	links:	url:D002653	name:Child Behavior Disorders	normalName:child behavior disorders	normalWikiTitle:child behavior disorders	predictedType:Disease
+CANDIDATE	id:3193	inCount:0	outCount:1	links:	url:D003193	name:Compulsive Personality Disorder	normalName:compulsive personality disorder	normalWikiTitle:compulsive personality disorder	predictedType:Disease
+CANDIDATE	id:535915	inCount:0	outCount:3	links:	url:C535915	name:Cartilage hair hypoplasia like syndrome	normalName:cartilage hair hypoplasia like syndrome	normalWikiTitle:cartilage hair hypoplasia like syndrome	predictedType:Disease
+CANDIDATE	id:20191	inCount:10	outCount:1	links:	url:D020191	name:Myoclonic Epilepsies, Progressive	normalName:myoclonic epilepsies, progressive	normalWikiTitle:myoclonic epilepsies, progressive	predictedType:Disease
+CANDIDATE	id:5391	inCount:0	outCount:1	links:	url:D005391	name:Firesetting Behavior	normalName:firesetting behavior	normalWikiTitle:firesetting behavior	predictedType:Disease
+CANDIDATE	id:564968	inCount:0	outCount:1	links:	url:C564968	name:Myosclerosis, Autosomal Recessive	normalName:myosclerosis, autosomal recessive	normalWikiTitle:myosclerosis, autosomal recessive	predictedType:Disease
+CANDIDATE	id:565941	inCount:0	outCount:1	links:	url:C565941	name:Arteriosclerosis, Severe Juvenile	normalName:arteriosclerosis, severe juvenile	normalWikiTitle:arteriosclerosis, severe juvenile	predictedType:Disease
+CANDIDATE	id:10244	inCount:2	outCount:1	links:	url:D010244	name:Bulbar Palsy, Progressive	normalName:bulbar palsy, progressive	normalWikiTitle:bulbar palsy, progressive	predictedType:Disease
+ENTITY	text:memory impairment	normalName:memory impairment	predictedType:disease	q:true	qid:Q349	docId:20619828	origText:memory impairment	url:D008569
+CANDIDATE	id:8569	inCount:2	outCount:1	links:1008	url:D008569	name:Memory Deficit	normalName:memory deficit	normalWikiTitle:memory deficit	predictedType:Disease
+CANDIDATE	id:8569	inCount:2	outCount:1	links:1008	url:D008569	name:Memory Disorders	normalName:memory disorders	normalWikiTitle:memory disorders	predictedType:Disease
+CANDIDATE	id:3161	inCount:3	outCount:2	links:	url:D003161	name:Compartment Syndromes	normalName:compartment syndromes	normalWikiTitle:compartment syndromes	predictedType:Disease
+CANDIDATE	id:18198	inCount:0	outCount:1	links:	url:D018198	name:Mixed Tumor, Malignant	normalName:mixed tumor, malignant	normalWikiTitle:mixed tumor, malignant	predictedType:Disease
+CANDIDATE	id:19773	inCount:0	outCount:1	links:	url:D019773	name:Epiretinal Membrane	normalName:epiretinal membrane	normalWikiTitle:epiretinal membrane	predictedType:Disease
+CANDIDATE	id:57873	inCount:0	outCount:1	links:	url:D057873	name:Peri-Implantitis	normalName:peri-implantitis	normalWikiTitle:peri-implantitis	predictedType:Disease
+CANDIDATE	id:538436	inCount:0	outCount:1	links:	url:C538436	name:Auditory perceptual impairment	normalName:auditory perceptual impairment	normalWikiTitle:auditory perceptual impairment	predictedType:Disease
+CANDIDATE	id:564731	inCount:0	outCount:1	links:	url:C564731	name:Xeroderma Pigmentosum IX	normalName:xeroderma pigmentosum ix	normalWikiTitle:xeroderma pigmentosum ix	predictedType:Disease
+CANDIDATE	id:538169	inCount:0	outCount:1	links:	url:C538169	name:Acitretin embryopathy	normalName:acitretin embryopathy	normalWikiTitle:acitretin embryopathy	predictedType:Disease
+CANDIDATE	id:8546	inCount:0	outCount:2	links:	url:D008546	name:Melanoma, Experimental	normalName:melanoma, experimental	normalWikiTitle:melanoma, experimental	predictedType:Disease
+CANDIDATE	id:14983	inCount:15	outCount:6	links:	url:D014983	name:Xeroderma Pigmentosum	normalName:xeroderma pigmentosum	normalWikiTitle:xeroderma pigmentosum	predictedType:Disease
+CANDIDATE	id:11596	inCount:53	outCount:1	links:	url:D011596	name:Impairment, Psychomotor	normalName:impairment, psychomotor	normalWikiTitle:impairment, psychomotor	predictedType:Disease
+CANDIDATE	id:11596	inCount:53	outCount:1	links:	url:D011596	name:Psychomotor Impairment	normalName:psychomotor impairment	normalWikiTitle:psychomotor impairment	predictedType:Disease
+CANDIDATE	id:11596	inCount:53	outCount:1	links:	url:D011596	name:Impairments, Psychomotor	normalName:impairments, psychomotor	normalWikiTitle:impairments, psychomotor	predictedType:Disease
+CANDIDATE	id:1184	inCount:1	outCount:1	links:	url:D001184	name:Impairment, Phonology	normalName:impairment, phonology	normalWikiTitle:impairment, phonology	predictedType:Disease
+CANDIDATE	id:11596	inCount:53	outCount:1	links:	url:D011596	name:Psychomotor Impairments	normalName:psychomotor impairments	normalWikiTitle:psychomotor impairments	predictedType:Disease
+CANDIDATE	id:1184	inCount:1	outCount:1	links:	url:D001184	name:Phonology Impairment	normalName:phonology impairment	normalWikiTitle:phonology impairment	predictedType:Disease
+CANDIDATE	id:1184	inCount:1	outCount:1	links:	url:D001184	name:Impairments, Phonology	normalName:impairments, phonology	normalWikiTitle:impairments, phonology	predictedType:Disease
+CANDIDATE	id:1184	inCount:1	outCount:1	links:	url:D001184	name:Phonology Impairments	normalName:phonology impairments	normalWikiTitle:phonology impairments	predictedType:Disease
+CANDIDATE	id:14786	inCount:19	outCount:2	links:	url:D014786	name:Visual Impairment	normalName:visual impairment	normalWikiTitle:visual impairment	predictedType:Disease
+ENTITY	text:OCD	normalName:ocd	predictedType:disease	q:true	qid:Q349	docId:20619828	origText:OCD	url:D009771
+CANDIDATE	id:9771	inCount:3	outCount:1	links:	url:D009771	name:OCD	normalName:ocd	normalWikiTitle:ocd	predictedType:Disease
+ENTITY	text:anxiety	normalName:anxiety	predictedType:disease	q:true	qid:Q349	docId:20619828	origText:anxiety	url:D001008
+CANDIDATE	id:1008	inCount:7	outCount:1	links:8569	url:D001008	name:ANXIETY	normalName:anxiety	normalWikiTitle:anxiety	predictedType:Disease

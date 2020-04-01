@@ -1,0 +1,18 @@
+ENTITY	text:morphine	normalName:morphine	predictedType:chemical	q:true	qid:Q99	docId:9431903	origText:morphine	url:D009020
+CANDIDATE	id:9020	inCount:13	outCount:1	links:5996;9388	url:D009020	name:Morphine	normalName:morphine	normalWikiTitle:morphine	predictedType:Chemical
+ENTITY	text:glyceryl trinitrate	normalName:glyceryl trinitrate	predictedType:chemical	q:true	qid:Q99	docId:9431903	origText:glyceryl trinitrate	url:D005996
+CANDIDATE	id:5996	inCount:10	outCount:1	links:9020;5996	url:D005996	name:Trinitrate, Glyceryl	normalName:trinitrate, glyceryl	normalWikiTitle:trinitrate, glyceryl	predictedType:Chemical
+ENTITY	text:Nitrolingual	normalName:nitrolingual	predictedType:chemical	q:true	qid:Q99	docId:9431903	origText:Nitrolingual	url:D005996
+CANDIDATE	id:5996	inCount:10	outCount:1	links:9020;5996	url:D005996	name:Nitrong	normalName:nitrong	normalWikiTitle:nitrong	predictedType:Chemical
+CANDIDATE	id:9611	inCount:1	outCount:1	links:	url:D009611	name:Nitroxinil	normalName:nitroxinil	normalWikiTitle:nitroxinil	predictedType:Chemical
+CANDIDATE	id:431582	inCount:0	outCount:1	links:	url:C431582	name:nitrosulindac	normalName:nitrosulindac	normalWikiTitle:nitrosulindac	predictedType:Chemical
+CANDIDATE	id:482836	inCount:0	outCount:2	links:	url:C482836	name:N-tritylprolinal	normalName:n-tritylprolinal	normalWikiTitle:n-tritylprolinal	predictedType:Chemical
+CANDIDATE	id:3499	inCount:0	outCount:1	links:	url:C003499	name:nitralin	normalName:nitralin	normalWikiTitle:nitralin	predictedType:Chemical
+CANDIDATE	id:547251	inCount:0	outCount:2	links:	url:C547251	name:Antrolin	normalName:antrolin	normalWikiTitle:antrolin	predictedType:Chemical
+CANDIDATE	id:9610	inCount:0	outCount:1	links:	url:D009610	name:Nitrovin	normalName:nitrovin	normalWikiTitle:nitrovin	predictedType:Chemical
+CANDIDATE	id:5308	inCount:0	outCount:1	links:	url:C005308	name:nitroxoline	normalName:nitroxoline	normalWikiTitle:nitroxoline	predictedType:Chemical
+CANDIDATE	id:46026	inCount:0	outCount:1	links:	url:C046026	name:prolinal	normalName:prolinal	normalWikiTitle:prolinal	predictedType:Chemical
+CANDIDATE	id:530840	inCount:0	outCount:1	links:	url:C530840	name:5-nitroindazole	normalName:5-nitroindazole	normalWikiTitle:5-nitroindazole	predictedType:Chemical
+CANDIDATE	id:8625	inCount:0	outCount:1	links:	url:C008625	name:nitroaniline	normalName:nitroaniline	normalWikiTitle:nitroaniline	predictedType:Chemical
+ENTITY	text:prostigmine	normalName:prostigmine	predictedType:chemical	q:true	qid:Q99	docId:9431903	origText:prostigmine	url:D009388
+CANDIDATE	id:9388	inCount:3	outCount:2	links:9020	url:D009388	name:Prostigmine	normalName:prostigmine	normalWikiTitle:prostigmine	predictedType:Chemical

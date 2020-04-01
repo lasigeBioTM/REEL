@@ -1,0 +1,6 @@
+ENTITY	text:abdominal pain	normalName:abdominal pain	predictedType:disease	q:true	qid:Q719	docId:9578276	origText:abdominal pain	url:D015746
+CANDIDATE	id:15746	inCount:2	outCount:2	links:	url:D015746	name:Abdominal Pain	normalName:abdominal pain	normalWikiTitle:abdominal pain	predictedType:Disease
+ENTITY	text:vomiting	normalName:vomiting	predictedType:disease	q:true	qid:Q719	docId:9578276	origText:vomiting	url:D014839
+CANDIDATE	id:14839	inCount:7	outCount:1	links:	url:D014839	name:Vomiting	normalName:vomiting	normalWikiTitle:vomiting	predictedType:Disease
+ENTITY	text:retained placenta	normalName:retained placenta	predictedType:disease	q:true	qid:Q719	docId:9578276	origText:retained placenta	url:D018457
+CANDIDATE	id:18457	inCount:0	outCount:1	links:	url:D018457	name:Placenta, Retained	normalName:placenta, retained	normalWikiTitle:placenta, retained	predictedType:Disease

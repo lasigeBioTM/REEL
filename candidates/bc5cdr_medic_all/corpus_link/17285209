@@ -1,0 +1,23 @@
+ENTITY	text:angioedema	normalName:angioedema	predictedType:disease	q:true	qid:Q1164	docId:17285209	origText:angioedema	url:D000799
+CANDIDATE	id:799	inCount:4	outCount:2	links:7022;14839	url:D000799	name:Angioedema	normalName:angioedema	normalWikiTitle:angioedema	predictedType:Disease
+ENTITY	text:hypertension	normalName:hypertension	predictedType:disease	q:true	qid:Q1164	docId:17285209	origText:hypertension	url:D006973
+CANDIDATE	id:6973	inCount:18	outCount:1	links:15746;14839;7022;9325	url:D006973	name:Hypertension	normalName:hypertension	normalWikiTitle:hypertension	predictedType:Disease
+ENTITY	text:nausea	normalName:nausea	predictedType:disease	q:true	qid:Q1164	docId:17285209	origText:nausea	url:D009325
+CANDIDATE	id:9325	inCount:2	outCount:1	links:15746;14839;6973;7022;1201	url:D009325	name:Nausea	normalName:nausea	normalWikiTitle:nausea	predictedType:Disease
+ENTITY	text:ascites	normalName:ascites	predictedType:disease	q:true	qid:Q1164	docId:17285209	origText:ascites	url:D001201
+CANDIDATE	id:1201	inCount:0	outCount:1	links:14839;7022;9325	url:D001201	name:Ascites	normalName:ascites	normalWikiTitle:ascites	predictedType:Disease
+ENTITY	text:hypertensive	normalName:hypertensive	predictedType:disease	q:true	qid:Q1164	docId:17285209	origText:hypertensive	url:D006973
+CANDIDATE	id:6973	inCount:18	outCount:1	links:15746;14839;7022;9325	url:D006973	name:Hypertension	normalName:hypertension	normalWikiTitle:hypertension	predictedType:Disease
+CANDIDATE	id:58246	inCount:0	outCount:1	links:	url:D058246	name:Prehypertension	normalName:prehypertension	normalWikiTitle:prehypertension	predictedType:Disease
+CANDIDATE	id:6977	inCount:3	outCount:2	links:	url:D006977	name:Hypertension, Renal	normalName:hypertension, renal	normalWikiTitle:hypertension, renal	predictedType:Disease
+CANDIDATE	id:6941	inCount:0	outCount:1	links:	url:D006941	name:Hyperesthesia	normalName:hyperesthesia	normalWikiTitle:hyperesthesia	predictedType:Disease
+CANDIDATE	id:59468	inCount:0	outCount:1	links:	url:D059468	name:Masked Hypertension	normalName:masked hypertension	normalWikiTitle:masked hypertension	predictedType:Disease
+CANDIDATE	id:6967	inCount:9	outCount:1	links:	url:D006967	name:Hypersensitivity	normalName:hypersensitivity	normalWikiTitle:hypersensitivity	predictedType:Disease
+CANDIDATE	id:7022	inCount:3	outCount:1	links:15746;799;6973;14839;9325;1201	url:D007022	name:Hypotension	normalName:hypotension	normalWikiTitle:hypotension	predictedType:Disease
+CANDIDATE	id:6987	inCount:1	outCount:1	links:	url:D006987	name:Hypesthesia	normalName:hypesthesia	normalWikiTitle:hypesthesia	predictedType:Disease
+CANDIDATE	id:563161	inCount:0	outCount:2	links:	url:C563161	name:Hypertensive Nephropathy	normalName:hypertensive nephropathy	normalWikiTitle:hypertensive nephropathy	predictedType:Disease
+CANDIDATE	id:58437	inCount:0	outCount:2	links:	url:D058437	name:Hypertensive Retinopathy	normalName:hypertensive retinopathy	normalWikiTitle:hypertensive retinopathy	predictedType:Disease
+ENTITY	text:abdominal pain	normalName:abdominal pain	predictedType:disease	q:true	qid:Q1164	docId:17285209	origText:abdominal pain	url:D015746
+CANDIDATE	id:15746	inCount:2	outCount:2	links:14839;6973;7022;9325	url:D015746	name:Abdominal Pain	normalName:abdominal pain	normalWikiTitle:abdominal pain	predictedType:Disease
+ENTITY	text:vomiting	normalName:vomiting	predictedType:disease	q:true	qid:Q1164	docId:17285209	origText:vomiting	url:D014839
+CANDIDATE	id:14839	inCount:7	outCount:1	links:15746;799;7022;6973;9325;1201	url:D014839	name:Vomiting	normalName:vomiting	normalWikiTitle:vomiting	predictedType:Disease

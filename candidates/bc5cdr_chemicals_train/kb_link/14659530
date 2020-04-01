@@ -1,0 +1,21 @@
+ENTITY	text:nitroglycerin	normalName:nitroglycerin	predictedType:chemical	q:true	qid:Q225	docId:14659530	origText:nitroglycerin	url:D005996
+CANDIDATE	id:5996	inCount:10	outCount:1	links:	url:D005996	name:Nitroglycerin	normalName:nitroglycerin	normalWikiTitle:nitroglycerin	predictedType:Chemical
+ENTITY	text:5-HT	normalName:5-ht	predictedType:chemical	q:true	qid:Q225	docId:14659530	origText:5-HT	url:D012701
+CANDIDATE	id:12701	inCount:48	outCount:2	links:12701	url:D012701	name:5-HT	normalName:5-ht	normalWikiTitle:5-ht	predictedType:Chemical
+ENTITY	text:5-hydroxytriptamine	normalName:5-hydroxytriptamine	predictedType:chemical	q:true	qid:Q225	docId:14659530	origText:5-hydroxytriptamine	url:D012701
+CANDIDATE	id:12701	inCount:48	outCount:2	links:12701	url:D012701	name:5 Hydroxytryptamine	normalName:5 hydroxytryptamine	normalWikiTitle:5 hydroxytryptamine	predictedType:Chemical
+CANDIDATE	id:27803	inCount:0	outCount:1	links:	url:C027803	name:6-hydroxytryptamine	normalName:6-hydroxytryptamine	normalWikiTitle:6-hydroxytryptamine	predictedType:Chemical
+CANDIDATE	id:15116	inCount:2	outCount:1	links:	url:D015116	name:5,7-Dihydroxytryptamine	normalName:5,7-dihydroxytryptamine	normalWikiTitle:5,7-dihydroxytryptamine	predictedType:Chemical
+CANDIDATE	id:15115	inCount:7	outCount:1	links:	url:D015115	name:5,6-Dihydroxytryptamine	normalName:5,6-dihydroxytryptamine	normalWikiTitle:5,6-dihydroxytryptamine	predictedType:Chemical
+CANDIDATE	id:70661	inCount:0	outCount:1	links:	url:C070661	name:2-hydroxytrimipramine	normalName:2-hydroxytrimipramine	normalWikiTitle:2-hydroxytrimipramine	predictedType:Chemical
+CANDIDATE	id:554702	inCount:0	outCount:1	links:	url:C554702	name:5-hydroxydictamnine	normalName:5-hydroxydictamnine	normalWikiTitle:5-hydroxydictamnine	predictedType:Chemical
+CANDIDATE	id:9762	inCount:0	outCount:1	links:	url:C009762	name:5-hydroxytryptoline	normalName:5-hydroxytryptoline	normalWikiTitle:5-hydroxytryptoline	predictedType:Chemical
+CANDIDATE	id:509074	inCount:0	outCount:1	links:	url:C509074	name:5-hydroxytriptolide	normalName:5-hydroxytriptolide	normalWikiTitle:5-hydroxytriptolide	predictedType:Chemical
+CANDIDATE	id:27802	inCount:0	outCount:1	links:	url:C027802	name:5-hydroxydopamine	normalName:5-hydroxydopamine	normalWikiTitle:5-hydroxydopamine	predictedType:Chemical
+CANDIDATE	id:578906	inCount:0	outCount:1	links:	url:C578906	name:15-hydroxytriptonide	normalName:15-hydroxytriptonide	normalWikiTitle:15-hydroxytriptonide	predictedType:Chemical
+CANDIDATE	id:4102	inCount:2	outCount:1	links:	url:D004102	name:Dihydroxytryptamines	normalName:dihydroxytryptamines	normalWikiTitle:dihydroxytryptamines	predictedType:Chemical
+CANDIDATE	id:12701	inCount:48	outCount:2	links:12701	url:D012701	name:5-Hydroxytryptamine	normalName:5-hydroxytryptamine	normalWikiTitle:5-hydroxytryptamine	predictedType:Chemical
+ENTITY	text:calcitonin gene-related peptide	normalName:calcitonin gene-related peptide	predictedType:chemical	q:true	qid:Q225	docId:14659530	origText:calcitonin gene-related peptide	url:D015740
+CANDIDATE	id:15740	inCount:18	outCount:1	links:	url:D015740	name:Calcitonin Gene-Related Peptide	normalName:calcitonin gene-related peptide	normalWikiTitle:calcitonin gene-related peptide	predictedType:Chemical
+ENTITY	text:serotonin	normalName:serotonin	predictedType:chemical	q:true	qid:Q225	docId:14659530	origText:serotonin	url:D012701
+CANDIDATE	id:12701	inCount:48	outCount:2	links:12701	url:D012701	name:Serotonin	normalName:serotonin	normalWikiTitle:serotonin	predictedType:Chemical

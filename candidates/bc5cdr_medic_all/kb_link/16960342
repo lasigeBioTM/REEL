@@ -1,0 +1,29 @@
+ENTITY	text:Hepatitis B virus (HBV) infection	normalName:hepatitis b virus (hbv) infection	predictedType:disease	q:true	qid:Q770	docId:16960342	origText:Hepatitis B virus (HBV) infection	url:D006509
+CANDIDATE	id:6509	inCount:1	outCount:2	links:6509	url:D006509	name:Hepatitis B Virus Infection	normalName:hepatitis b virus infection	normalWikiTitle:hepatitis b virus infection	predictedType:Disease
+CANDIDATE	id:20031	inCount:4	outCount:2	links:	url:D020031	name:Epstein-Barr Virus Infections	normalName:epstein-barr virus infections	normalWikiTitle:epstein-barr virus infections	predictedType:Disease
+CANDIDATE	id:6522	inCount:0	outCount:3	links:	url:D006522	name:Hepatitis, Infectious Canine	normalName:hepatitis, infectious canine	normalWikiTitle:hepatitis, infectious canine	predictedType:Disease
+CANDIDATE	id:4266	inCount:9	outCount:1	links:	url:D004266	name:DNA Virus Infections	normalName:dna virus infections	normalWikiTitle:dna virus infections	predictedType:Disease
+CANDIDATE	id:1170	inCount:2	outCount:2	links:	url:D001170	name:Arthritis, Infectious	normalName:arthritis, infectious	normalWikiTitle:arthritis, infectious	predictedType:Disease
+CANDIDATE	id:69544	inCount:1	outCount:2	links:	url:D000069544	name:Infectious Encephalitis	normalName:infectious encephalitis	normalWikiTitle:infectious encephalitis	predictedType:Disease
+CANDIDATE	id:15491	inCount:0	outCount:1	links:	url:D015491	name:HTLV-II Infections	normalName:htlv-ii infections	normalWikiTitle:htlv-ii infections	predictedType:Disease
+CANDIDATE	id:45464	inCount:0	outCount:1	links:	url:D045464	name:Henipavirus Infections	normalName:henipavirus infections	normalWikiTitle:henipavirus infections	predictedType:Disease
+CANDIDATE	id:132850	inCount:0	outCount:1	links:	url:132850	name:EPSTEIN-BARR VIRUS INSERTION SITE 1	normalName:epstein-barr virus insertion site 1	normalWikiTitle:epstein-barr virus insertion site 1	predictedType:Disease
+CANDIDATE	id:16776	inCount:0	outCount:2	links:	url:D016776	name:Blastocystis Infections	normalName:blastocystis infections	normalWikiTitle:blastocystis infections	predictedType:Disease
+CANDIDATE	id:536301	inCount:0	outCount:1	links:	url:C536301	name:Parvovirus antenatal infection	normalName:parvovirus antenatal infection	normalWikiTitle:parvovirus antenatal infection	predictedType:Disease
+CANDIDATE	id:19694	inCount:0	outCount:2	links:	url:D019694	name:Chronic Hepatitis B Virus Infection	normalName:chronic hepatitis b virus infection	normalWikiTitle:chronic hepatitis b virus infection	predictedType:Disease
+CANDIDATE	id:19694	inCount:0	outCount:2	links:	url:D019694	name:Hepatitis B Virus Infection, Chronic	normalName:hepatitis b virus infection, chronic	normalWikiTitle:hepatitis b virus infection, chronic	predictedType:Disease
+CANDIDATE	id:6506	inCount:0	outCount:2	links:	url:D006506	name:Hepatitis, Infectious	normalName:hepatitis, infectious	normalWikiTitle:hepatitis, infectious	predictedType:Disease
+CANDIDATE	id:6506	inCount:0	outCount:2	links:	url:D006506	name:Infectious Hepatitis	normalName:infectious hepatitis	normalWikiTitle:infectious hepatitis	predictedType:Disease
+CANDIDATE	id:20031	inCount:4	outCount:2	links:	url:D020031	name:Epstein Barr Virus Infection	normalName:epstein barr virus infection	normalWikiTitle:epstein barr virus infection	predictedType:Disease
+CANDIDATE	id:20031	inCount:4	outCount:2	links:	url:D020031	name:Infection, Epstein-Barr Virus	normalName:infection, epstein-barr virus	normalWikiTitle:infection, epstein-barr virus	predictedType:Disease
+CANDIDATE	id:20031	inCount:4	outCount:2	links:	url:D020031	name:Virus Infection, Epstein-Barr	normalName:virus infection, epstein-barr	normalWikiTitle:virus infection, epstein-barr	predictedType:Disease
+CANDIDATE	id:6506	inCount:0	outCount:2	links:	url:D006506	name:Infectious Hepatitides	normalName:infectious hepatitides	normalWikiTitle:infectious hepatitides	predictedType:Disease
+CANDIDATE	id:6506	inCount:0	outCount:2	links:	url:D006506	name:Hepatitides, Infectious	normalName:hepatitides, infectious	normalWikiTitle:hepatitides, infectious	predictedType:Disease
+ENTITY	text:liver cirrhosis	normalName:liver cirrhosis	predictedType:disease	q:true	qid:Q770	docId:16960342	origText:liver cirrhosis	url:D008103
+CANDIDATE	id:8103	inCount:11	outCount:1	links:	url:D008103	name:Liver Cirrhosis	normalName:liver cirrhosis	normalWikiTitle:liver cirrhosis	predictedType:Disease
+ENTITY	text:hepatitis B	normalName:hepatitis b	predictedType:disease	q:true	qid:Q770	docId:16960342	origText:hepatitis B	url:D006509
+CANDIDATE	id:6509	inCount:1	outCount:2	links:6509	url:D006509	name:Hepatitis B	normalName:hepatitis b	normalWikiTitle:hepatitis b	predictedType:Disease
+ENTITY	text:hepatocellular carcinoma	normalName:hepatocellular carcinoma	predictedType:disease	q:true	qid:Q770	docId:16960342	origText:hepatocellular carcinoma	url:D006528
+CANDIDATE	id:6528	inCount:3	outCount:2	links:	url:D006528	name:Carcinoma, Hepatocellular	normalName:carcinoma, hepatocellular	normalWikiTitle:carcinoma, hepatocellular	predictedType:Disease
+ENTITY	text:cirrhosis	normalName:cirrhosis	predictedType:disease	q:true	qid:Q770	docId:16960342	origText:cirrhosis	url:D005355
+CANDIDATE	id:5355	inCount:11	outCount:1	links:	url:D005355	name:Cirrhosis	normalName:cirrhosis	normalWikiTitle:cirrhosis	predictedType:Disease

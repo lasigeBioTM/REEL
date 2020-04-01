@@ -1,0 +1,8 @@
+ENTITY	text:cisapride	normalName:cisapride	predictedType:chemical	q:true	qid:Q225	docId:11858397	origText:cisapride	url:D020117
+CANDIDATE	id:20117	inCount:1	outCount:4	links:8787;4917	url:D020117	name:Cisapride	normalName:cisapride	normalWikiTitle:cisapride	predictedType:Chemical
+ENTITY	text:metoclopramide	normalName:metoclopramide	predictedType:chemical	q:true	qid:Q225	docId:11858397	origText:metoclopramide	url:D008787
+CANDIDATE	id:8787	inCount:18	outCount:4	links:20117;4917	url:D008787	name:Metoclopramide	normalName:metoclopramide	normalWikiTitle:metoclopramide	predictedType:Chemical
+ENTITY	text:procainamide	normalName:procainamide	predictedType:chemical	q:true	qid:Q225	docId:11858397	origText:procainamide	url:D011342
+CANDIDATE	id:11342	inCount:15	outCount:2	links:	url:D011342	name:Procainamide	normalName:procainamide	normalWikiTitle:procainamide	predictedType:Chemical
+ENTITY	text:erythromycin	normalName:erythromycin	predictedType:chemical	q:true	qid:Q225	docId:11858397	origText:erythromycin	url:D004917
+CANDIDATE	id:4917	inCount:121	outCount:1	links:8787;20117	url:D004917	name:Erythromycin	normalName:erythromycin	normalWikiTitle:erythromycin	predictedType:Chemical

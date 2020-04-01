@@ -1,0 +1,6 @@
+ENTITY	text:Fentanyl	normalName:fentanyl	predictedType:chemical	q:true	qid:Q1065	docId:24535067	origText:Fentanyl	url:D005283
+CANDIDATE	id:5283	inCount:40	outCount:1	links:	url:D005283	name:Fentanyl	normalName:fentanyl	normalWikiTitle:fentanyl	predictedType:Chemical
+ENTITY	text:etomidate	normalName:etomidate	predictedType:chemical	q:true	qid:Q1065	docId:24535067	origText:etomidate	url:D005045
+CANDIDATE	id:5045	inCount:10	outCount:1	links:8874	url:D005045	name:Etomidate	normalName:etomidate	normalWikiTitle:etomidate	predictedType:Chemical
+ENTITY	text:midazolam	normalName:midazolam	predictedType:chemical	q:true	qid:Q1065	docId:24535067	origText:midazolam	url:D008874
+CANDIDATE	id:8874	inCount:6	outCount:1	links:5045	url:D008874	name:Midazolam	normalName:midazolam	normalWikiTitle:midazolam	predictedType:Chemical

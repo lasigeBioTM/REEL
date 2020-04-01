@@ -1,0 +1,6 @@
+ENTITY	text:propylene glycol	normalName:propylene glycol	predictedType:chemical	q:true	qid:Q275	docId:2924746	origText:propylene glycol	url:D019946
+CANDIDATE	id:19946	inCount:1	outCount:1	links:	url:D019946	name:Propylene Glycol	normalName:propylene glycol	normalWikiTitle:propylene glycol	predictedType:Chemical
+ENTITY	text:carbamazepine	normalName:carbamazepine	predictedType:chemical	q:true	qid:Q275	docId:2924746	origText:carbamazepine	url:D002220
+CANDIDATE	id:2220	inCount:15	outCount:1	links:	url:D002220	name:Carbamazepine	normalName:carbamazepine	normalWikiTitle:carbamazepine	predictedType:Chemical
+ENTITY	text:folate	normalName:folate	predictedType:chemical	q:true	qid:Q275	docId:2924746	origText:folate	url:D005492
+CANDIDATE	id:5492	inCount:121	outCount:1	links:	url:D005492	name:Folate	normalName:folate	normalWikiTitle:folate	predictedType:Chemical

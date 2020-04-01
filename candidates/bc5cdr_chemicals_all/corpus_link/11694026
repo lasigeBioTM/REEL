@@ -1,0 +1,53 @@
+ENTITY	text:paracetamol	normalName:paracetamol	predictedType:chemical	q:true	qid:Q580	docId:11694026	origText:paracetamol	url:D000082
+CANDIDATE	id:82	inCount:89	outCount:1	links:894;12655	url:D000082	name:Paracetamol	normalName:paracetamol	normalWikiTitle:paracetamol	predictedType:Chemical
+ENTITY	text:nonsteroidal anti-inflammatory drugs	normalName:nonsteroidal anti-inflammatory drugs	predictedType:chemical	q:true	qid:Q580	docId:11694026	origText:nonsteroidal anti-inflammatory drugs	url:D000894
+CANDIDATE	id:894	inCount:1	outCount:3	links:82;5480;12655	url:D000894	name:Nonsteroidal Anti-Inflammatory Agents	normalName:nonsteroidal anti-inflammatory agents	normalWikiTitle:nonsteroidal anti-inflammatory agents	predictedType:Chemical
+CANDIDATE	id:894	inCount:1	outCount:3	links:82;5480;12655	url:D000894	name:Anti-Inflammatory Agents, Non-Steroidal	normalName:anti-inflammatory agents, non-steroidal	normalWikiTitle:anti-inflammatory agents, non-steroidal	predictedType:Chemical
+CANDIDATE	id:57466	inCount:0	outCount:1	links:	url:D057466	name:Nonsteroidal Anti-Androgens	normalName:nonsteroidal anti-androgens	normalWikiTitle:nonsteroidal anti-androgens	predictedType:Chemical
+CANDIDATE	id:5230	inCount:2	outCount:1	links:	url:D005230	name:Fatty Acids, Nonesterified	normalName:fatty acids, nonesterified	normalWikiTitle:fatty acids, nonesterified	predictedType:Chemical
+CANDIDATE	id:4968	inCount:1	outCount:1	links:	url:D004968	name:Estrogens, Non-Steroidal	normalName:estrogens, non-steroidal	normalWikiTitle:estrogens, non-steroidal	predictedType:Chemical
+CANDIDATE	id:20	inCount:0	outCount:1	links:	url:D000020	name:Abortifacient Agents, Nonsteroidal	normalName:abortifacient agents, nonsteroidal	normalWikiTitle:abortifacient agents, nonsteroidal	predictedType:Chemical
+CANDIDATE	id:893	inCount:3	outCount:1	links:	url:D000893	name:Anti-Inflammatory Agents	normalName:anti-inflammatory agents	normalWikiTitle:anti-inflammatory agents	predictedType:Chemical
+CANDIDATE	id:559105	inCount:0	outCount:2	links:	url:C559105	name:EA-4 (ATRA steroidal analog)	normalName:ea-4 (atra steroidal analog)	normalWikiTitle:ea-4 (atra steroidal analog)	predictedType:Chemical
+CANDIDATE	id:17286	inCount:0	outCount:1	links:	url:C017286	name:enterobacterial common antigen	normalName:enterobacterial common antigen	normalWikiTitle:enterobacterial common antigen	predictedType:Chemical
+CANDIDATE	id:5229	inCount:153	outCount:1	links:	url:D005229	name:Fatty Acids, Monounsaturated	normalName:fatty acids, monounsaturated	normalWikiTitle:fatty acids, monounsaturated	predictedType:Chemical
+CANDIDATE	id:53409	inCount:0	outCount:1	links:	url:C053409	name:mammary serum antigen, human	normalName:mammary serum antigen, human	normalWikiTitle:mammary serum antigen, human	predictedType:Chemical
+CANDIDATE	id:894	inCount:1	outCount:3	links:82;5480;12655	url:D000894	name:Antiinflammatory Agents, Nonsteroidal	normalName:antiinflammatory agents, nonsteroidal	normalWikiTitle:antiinflammatory agents, nonsteroidal	predictedType:Chemical
+CANDIDATE	id:894	inCount:1	outCount:3	links:82;5480;12655	url:D000894	name:Nonsteroidal Antiinflammatory Agents	normalName:nonsteroidal antiinflammatory agents	normalWikiTitle:nonsteroidal antiinflammatory agents	predictedType:Chemical
+CANDIDATE	id:894	inCount:1	outCount:3	links:82;5480;12655	url:D000894	name:Nonsteroidal Anti Inflammatory Agents	normalName:nonsteroidal anti inflammatory agents	normalWikiTitle:nonsteroidal anti inflammatory agents	predictedType:Chemical
+CANDIDATE	id:894	inCount:1	outCount:3	links:82;5480;12655	url:D000894	name:Anti Inflammatory Agents, Nonsteroidal	normalName:anti inflammatory agents, nonsteroidal	normalWikiTitle:anti inflammatory agents, nonsteroidal	predictedType:Chemical
+CANDIDATE	id:894	inCount:1	outCount:3	links:82;5480;12655	url:D000894	name:Antiinflammatory Agents, Non Steroidal	normalName:antiinflammatory agents, non steroidal	normalWikiTitle:antiinflammatory agents, non steroidal	predictedType:Chemical
+ENTITY	text:NSAID	normalName:nsaid	predictedType:chemical	q:true	qid:Q580	docId:11694026	origText:NSAID	url:D000894
+CANDIDATE	id:894	inCount:1	outCount:3	links:82;5480;12655	url:D000894	name:NSAIDs	normalName:nsaids	normalWikiTitle:nsaids	predictedType:Chemical
+CANDIDATE	id:9243	inCount:70	outCount:2	links:	url:D009243	name:NAD	normalName:nad	normalWikiTitle:nad	predictedType:Chemical
+CANDIDATE	id:24778	inCount:0	outCount:1	links:	url:C024778	name:NADX	normalName:nadx	normalWikiTitle:nadx	predictedType:Chemical
+CANDIDATE	id:9200	inCount:0	outCount:1	links:	url:C009200	name:saluzid	normalName:saluzid	normalWikiTitle:saluzid	predictedType:Chemical
+CANDIDATE	id:9249	inCount:23	outCount:2	links:	url:D009249	name:NADP	normalName:nadp	normalWikiTitle:nadp	predictedType:Chemical
+CANDIDATE	id:19552	inCount:0	outCount:4	links:	url:C019552	name:Saridon	normalName:saridon	normalWikiTitle:saridon	predictedType:Chemical
+CANDIDATE	id:20913	inCount:0	outCount:1	links:	url:C020913	name:isamide	normalName:isamide	normalWikiTitle:isamide	predictedType:Chemical
+CANDIDATE	id:80463	inCount:0	outCount:1	links:	url:D000080463	name:Sand	normalName:sand	normalWikiTitle:sand	predictedType:Chemical
+CANDIDATE	id:599090	inCount:0	outCount:1	links:	url:C000599090	name:samidin	normalName:samidin	normalWikiTitle:samidin	predictedType:Chemical
+CANDIDATE	id:2186	inCount:0	outCount:1	links:	url:C002186	name:Insadol	normalName:insadol	normalWikiTitle:insadol	predictedType:Chemical
+CANDIDATE	id:87155	inCount:0	outCount:1	links:	url:C087155	name:UrinAid	normalName:urinaid	normalWikiTitle:urinaid	predictedType:Chemical
+CANDIDATE	id:5480	inCount:16	outCount:2	links:894	url:D005480	name:Ansaid	normalName:ansaid	normalWikiTitle:ansaid	predictedType:Chemical
+CANDIDATE	id:89194	inCount:0	outCount:1	links:	url:C089194	name:NSADC	normalName:nsadc	normalWikiTitle:nsadc	predictedType:Chemical
+CANDIDATE	id:7734	inCount:0	outCount:1	links:	url:C007734	name:Nasalide	normalName:nasalide	normalWikiTitle:nasalide	predictedType:Chemical
+CANDIDATE	id:12545	inCount:0	outCount:1	links:	url:C012545	name:Sansalid	normalName:sansalid	normalWikiTitle:sansalid	predictedType:Chemical
+ENTITY	text:nimesulide	normalName:nimesulide	predictedType:chemical	q:true	qid:Q580	docId:11694026	origText:nimesulide	url:C012655
+CANDIDATE	id:12655	inCount:0	outCount:1	links:82;894	url:C012655	name:nimesulide	normalName:nimesulide	normalWikiTitle:nimesulide	predictedType:Chemical
+ENTITY	text:NSAIDs	normalName:nsaids	predictedType:chemical	q:true	qid:Q580	docId:11694026	origText:NSAIDs	url:D000894
+CANDIDATE	id:894	inCount:1	outCount:3	links:82;5480;12655	url:D000894	name:NSAIDs	normalName:nsaids	normalWikiTitle:nsaids	predictedType:Chemical
+CANDIDATE	id:9243	inCount:70	outCount:2	links:	url:D009243	name:NAD	normalName:nad	normalWikiTitle:nad	predictedType:Chemical
+CANDIDATE	id:24778	inCount:0	outCount:1	links:	url:C024778	name:NADX	normalName:nadx	normalWikiTitle:nadx	predictedType:Chemical
+CANDIDATE	id:9200	inCount:0	outCount:1	links:	url:C009200	name:saluzid	normalName:saluzid	normalWikiTitle:saluzid	predictedType:Chemical
+CANDIDATE	id:9249	inCount:23	outCount:2	links:	url:D009249	name:NADP	normalName:nadp	normalWikiTitle:nadp	predictedType:Chemical
+CANDIDATE	id:19552	inCount:0	outCount:4	links:	url:C019552	name:Saridon	normalName:saridon	normalWikiTitle:saridon	predictedType:Chemical
+CANDIDATE	id:20913	inCount:0	outCount:1	links:	url:C020913	name:isamide	normalName:isamide	normalWikiTitle:isamide	predictedType:Chemical
+CANDIDATE	id:80463	inCount:0	outCount:1	links:	url:D000080463	name:Sand	normalName:sand	normalWikiTitle:sand	predictedType:Chemical
+CANDIDATE	id:599090	inCount:0	outCount:1	links:	url:C000599090	name:samidin	normalName:samidin	normalWikiTitle:samidin	predictedType:Chemical
+CANDIDATE	id:2186	inCount:0	outCount:1	links:	url:C002186	name:Insadol	normalName:insadol	normalWikiTitle:insadol	predictedType:Chemical
+CANDIDATE	id:87155	inCount:0	outCount:1	links:	url:C087155	name:UrinAid	normalName:urinaid	normalWikiTitle:urinaid	predictedType:Chemical
+CANDIDATE	id:5480	inCount:16	outCount:2	links:894	url:D005480	name:Ansaid	normalName:ansaid	normalWikiTitle:ansaid	predictedType:Chemical
+CANDIDATE	id:89194	inCount:0	outCount:1	links:	url:C089194	name:NSADC	normalName:nsadc	normalWikiTitle:nsadc	predictedType:Chemical
+CANDIDATE	id:7734	inCount:0	outCount:1	links:	url:C007734	name:Nasalide	normalName:nasalide	normalWikiTitle:nasalide	predictedType:Chemical
+CANDIDATE	id:12545	inCount:0	outCount:1	links:	url:C012545	name:Sansalid	normalName:sansalid	normalWikiTitle:sansalid	predictedType:Chemical

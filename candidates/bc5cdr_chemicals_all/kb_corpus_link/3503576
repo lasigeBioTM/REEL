@@ -1,0 +1,4 @@
+ENTITY	text:iron	normalName:iron	predictedType:chemical	q:true	qid:Q1131	docId:3503576	origText:iron	url:D007501
+CANDIDATE	id:7501	inCount:40	outCount:2	links:	url:D007501	name:Iron	normalName:iron	normalWikiTitle:iron	predictedType:Chemical
+ENTITY	text:deferoxamine	normalName:deferoxamine	predictedType:chemical	q:true	qid:Q1131	docId:3503576	origText:deferoxamine	url:D003676
+CANDIDATE	id:3676	inCount:30	outCount:1	links:	url:D003676	name:Deferoxamine	normalName:deferoxamine	normalWikiTitle:deferoxamine	predictedType:Chemical

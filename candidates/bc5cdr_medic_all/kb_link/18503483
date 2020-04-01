@@ -1,0 +1,63 @@
+ENTITY	text:headaches	normalName:headaches	predictedType:disease	q:true	qid:Q420	docId:18503483	origText:headaches	url:D006261
+CANDIDATE	id:6261	inCount:2	outCount:1	links:	url:D006261	name:Headache	normalName:headache	normalWikiTitle:headache	predictedType:Disease
+ENTITY	text:encephalopathy	normalName:encephalopathy	predictedType:disease	q:true	qid:Q420	docId:18503483	origText:encephalopathy	url:D001927
+CANDIDATE	id:1927	inCount:55	outCount:1	links:	url:D001927	name:Encephalopathy	normalName:encephalopathy	normalWikiTitle:encephalopathy	predictedType:Disease
+ENTITY	text:seizures	normalName:seizures	predictedType:disease	q:true	qid:Q420	docId:18503483	origText:seizures	url:D012640
+CANDIDATE	id:12640	inCount:53	outCount:1	links:	url:D012640	name:Seizure	normalName:seizure	normalWikiTitle:seizure	predictedType:Disease
+ENTITY	text:Neurotoxicity	normalName:neurotoxicity	predictedType:disease	q:true	qid:Q420	docId:18503483	origText:Neurotoxicity	url:D020258
+CANDIDATE	id:20258	inCount:7	outCount:2	links:	url:D020258	name:Neurotoxicity Syndromes	normalName:neurotoxicity syndromes	normalWikiTitle:neurotoxicity syndromes	predictedType:Disease
+CANDIDATE	id:66126	inCount:0	outCount:3	links:	url:D066126	name:Cardiotoxicity	normalName:cardiotoxicity	normalWikiTitle:cardiotoxicity	predictedType:Disease
+CANDIDATE	id:7246	inCount:2	outCount:2	links:	url:D007246	name:Infertility	normalName:infertility	normalWikiTitle:infertility	predictedType:Disease
+CANDIDATE	id:4767	inCount:0	outCount:2	links:	url:D004767	name:Enterotoxemia	normalName:enterotoxemia	normalWikiTitle:enterotoxemia	predictedType:Disease
+CANDIDATE	id:13971	inCount:2	outCount:1	links:	url:D013971	name:Thyrotoxicosis	normalName:thyrotoxicosis	normalWikiTitle:thyrotoxicosis	predictedType:Disease
+CANDIDATE	id:9902	inCount:1	outCount:1	links:	url:D009902	name:Optic Neuritis	normalName:optic neuritis	normalWikiTitle:optic neuritis	predictedType:Disease
+CANDIDATE	id:20426	inCount:2	outCount:1	links:	url:D020426	name:Sciatic Neuropathy	normalName:sciatic neuropathy	normalWikiTitle:sciatic neuropathy	predictedType:Disease
+CANDIDATE	id:18306	inCount:0	outCount:2	links:	url:D018306	name:Neurocytoma	normalName:neurocytoma	normalWikiTitle:neurocytoma	predictedType:Disease
+CANDIDATE	id:20019	inCount:0	outCount:2	links:	url:D020019	name:Neurocysticercosis	normalName:neurocysticercosis	normalWikiTitle:neurocysticercosis	predictedType:Disease
+CANDIDATE	id:9443	inCount:2	outCount:1	links:	url:D009443	name:Neuritis	normalName:neuritis	normalWikiTitle:neuritis	predictedType:Disease
+ENTITY	text:brachial plexitis	normalName:brachial plexitis	predictedType:disease	q:true	qid:Q420	docId:18503483	origText:brachial plexitis	url:D020968
+CANDIDATE	id:20968	inCount:1	outCount:2	links:20968	url:D020968	name:Neuritides, Brachial	normalName:neuritides, brachial	normalWikiTitle:neuritides, brachial	predictedType:Disease
+CANDIDATE	id:538620	inCount:0	outCount:1	links:	url:C538620	name:Acute brachial neuritis	normalName:acute brachial neuritis	normalWikiTitle:acute brachial neuritis	predictedType:Disease
+CANDIDATE	id:20968	inCount:1	outCount:2	links:20968	url:D020968	name:Brachial Plexus Neuritis	normalName:brachial plexus neuritis	normalWikiTitle:brachial plexus neuritis	predictedType:Disease
+CANDIDATE	id:1988	inCount:3	outCount:1	links:	url:D001988	name:Bronchiolitis	normalName:bronchiolitis	normalWikiTitle:bronchiolitis	predictedType:Disease
+CANDIDATE	id:14136	inCount:0	outCount:2	links:	url:D014136	name:Tracheitis	normalName:tracheitis	normalWikiTitle:tracheitis	predictedType:Disease
+CANDIDATE	id:16920	inCount:6	outCount:2	links:	url:D016920	name:Meningitis, Bacterial	normalName:meningitis, bacterial	normalWikiTitle:meningitis, bacterial	predictedType:Disease
+CANDIDATE	id:1986	inCount:0	outCount:1	links:	url:D001986	name:Bronchial Spasm	normalName:bronchial spasm	normalWikiTitle:bronchial spasm	predictedType:Disease
+CANDIDATE	id:2613	inCount:3	outCount:1	links:	url:D002613	name:Cheilitis	normalName:cheilitis	normalWikiTitle:cheilitis	predictedType:Disease
+CANDIDATE	id:4697	inCount:1	outCount:3	links:	url:D004697	name:Endocarditis, Bacterial	normalName:endocarditis, bacterial	normalWikiTitle:endocarditis, bacterial	predictedType:Disease
+CANDIDATE	id:20516	inCount:4	outCount:1	links:	url:D020516	name:Brachial Plexus Neuropathies	normalName:brachial plexus neuropathies	normalWikiTitle:brachial plexus neuropathies	predictedType:Disease
+CANDIDATE	id:1984	inCount:1	outCount:2	links:	url:D001984	name:Bronchial Neoplasms	normalName:bronchial neoplasms	normalWikiTitle:bronchial neoplasms	predictedType:Disease
+CANDIDATE	id:20516	inCount:4	outCount:1	links:	url:D020516	name:Plexopathies, Brachial	normalName:plexopathies, brachial	normalWikiTitle:plexopathies, brachial	predictedType:Disease
+CANDIDATE	id:20968	inCount:1	outCount:2	links:20968	url:D020968	name:Brachial Neuritis	normalName:brachial neuritis	normalWikiTitle:brachial neuritis	predictedType:Disease
+CANDIDATE	id:20968	inCount:1	outCount:2	links:20968	url:D020968	name:Neuritis, Brachial	normalName:neuritis, brachial	normalWikiTitle:neuritis, brachial	predictedType:Disease
+CANDIDATE	id:10291	inCount:3	outCount:1	links:	url:D010291	name:Paresis, Brachial	normalName:paresis, brachial	normalWikiTitle:paresis, brachial	predictedType:Disease
+CANDIDATE	id:10291	inCount:3	outCount:1	links:	url:D010291	name:Brachial Paresis	normalName:brachial paresis	normalWikiTitle:brachial paresis	predictedType:Disease
+CANDIDATE	id:20968	inCount:1	outCount:2	links:20968	url:D020968	name:Brachial Neuritides	normalName:brachial neuritides	normalWikiTitle:brachial neuritides	predictedType:Disease
+CANDIDATE	id:20516	inCount:4	outCount:1	links:	url:D020516	name:Brachial Plexopathy	normalName:brachial plexopathy	normalWikiTitle:brachial plexopathy	predictedType:Disease
+CANDIDATE	id:20516	inCount:4	outCount:1	links:	url:D020516	name:Plexopathy, Brachial	normalName:plexopathy, brachial	normalWikiTitle:plexopathy, brachial	predictedType:Disease
+CANDIDATE	id:10291	inCount:3	outCount:1	links:	url:D010291	name:Pareses, Brachial	normalName:pareses, brachial	normalWikiTitle:pareses, brachial	predictedType:Disease
+ENTITY	text:myelitis	normalName:myelitis	predictedType:disease	q:true	qid:Q420	docId:18503483	origText:myelitis	url:D009187
+CANDIDATE	id:9187	inCount:4	outCount:2	links:	url:D009187	name:Myelitis	normalName:myelitis	normalWikiTitle:myelitis	predictedType:Disease
+ENTITY	text:brachial neuritis	normalName:brachial neuritis	predictedType:disease	q:true	qid:Q420	docId:18503483	origText:brachial neuritis	url:D020968
+CANDIDATE	id:20968	inCount:1	outCount:2	links:20968	url:D020968	name:Neuritis, Brachial	normalName:neuritis, brachial	normalWikiTitle:neuritis, brachial	predictedType:Disease
+ENTITY	text:neurological deficits	normalName:neurological deficits	predictedType:disease	q:true	qid:Q420	docId:18503483	origText:neurological deficits	url:D009461
+CANDIDATE	id:9461	inCount:26	outCount:2	links:	url:D009461	name:Focal Neurologic Deficits	normalName:focal neurologic deficits	normalWikiTitle:focal neurologic deficits	predictedType:Disease
+CANDIDATE	id:5156	inCount:1	outCount:1	links:	url:D005156	name:Facial Neuralgia	normalName:facial neuralgia	normalWikiTitle:facial neuralgia	predictedType:Disease
+CANDIDATE	id:20233	inCount:2	outCount:1	links:	url:D020233	name:Gait Disorders, Neurologic	normalName:gait disorders, neurologic	normalWikiTitle:gait disorders, neurologic	predictedType:Disease
+CANDIDATE	id:9436	inCount:11	outCount:1	links:	url:D009436	name:Neural Tube Defects	normalName:neural tube defects	normalWikiTitle:neural tube defects	predictedType:Disease
+CANDIDATE	id:536479	inCount:0	outCount:1	links:	url:C536479	name:Urocanase deficiency	normalName:urocanase deficiency	normalWikiTitle:urocanase deficiency	predictedType:Disease
+CANDIDATE	id:56732	inCount:0	outCount:4	links:	url:D056732	name:Prolidase Deficiency	normalName:prolidase deficiency	normalWikiTitle:prolidase deficiency	predictedType:Disease
+CANDIDATE	id:8586	inCount:0	outCount:2	links:	url:D008586	name:Meningitis, Pneumococcal	normalName:meningitis, pneumococcal	normalWikiTitle:meningitis, pneumococcal	predictedType:Disease
+CANDIDATE	id:562649	inCount:0	outCount:1	links:	url:C562649	name:Enterokinase Deficiency	normalName:enterokinase deficiency	normalWikiTitle:enterokinase deficiency	predictedType:Disease
+CANDIDATE	id:14570	inCount:9	outCount:2	links:	url:D014570	name:Urologic Diseases	normalName:urologic diseases	normalWikiTitle:urologic diseases	predictedType:Disease
+CANDIDATE	id:13529	inCount:0	outCount:1	links:	url:D013529	name:Surgical Wound Dehiscence	normalName:surgical wound dehiscence	normalWikiTitle:surgical wound dehiscence	predictedType:Disease
+CANDIDATE	id:9461	inCount:26	outCount:2	links:	url:D009461	name:Neurologic Manifestations	normalName:neurologic manifestations	normalWikiTitle:neurologic manifestations	predictedType:Disease
+CANDIDATE	id:9461	inCount:26	outCount:2	links:	url:D009461	name:Neurologic Deficit	normalName:neurologic deficit	normalWikiTitle:neurologic deficit	predictedType:Disease
+CANDIDATE	id:9461	inCount:26	outCount:2	links:	url:D009461	name:Deficit, Neurologic	normalName:deficit, neurologic	normalWikiTitle:deficit, neurologic	predictedType:Disease
+CANDIDATE	id:9461	inCount:26	outCount:2	links:	url:D009461	name:Deficits, Neurologic	normalName:deficits, neurologic	normalWikiTitle:deficits, neurologic	predictedType:Disease
+CANDIDATE	id:9461	inCount:26	outCount:2	links:	url:D009461	name:Neurologic Deficits	normalName:neurologic deficits	normalWikiTitle:neurologic deficits	predictedType:Disease
+CANDIDATE	id:9461	inCount:26	outCount:2	links:	url:D009461	name:Deficit, Focal Neurologic	normalName:deficit, focal neurologic	normalWikiTitle:deficit, focal neurologic	predictedType:Disease
+CANDIDATE	id:9461	inCount:26	outCount:2	links:	url:D009461	name:Focal Neurologic Deficit	normalName:focal neurologic deficit	normalWikiTitle:focal neurologic deficit	predictedType:Disease
+CANDIDATE	id:9461	inCount:26	outCount:2	links:	url:D009461	name:Neurologic Deficit, Focal	normalName:neurologic deficit, focal	normalWikiTitle:neurologic deficit, focal	predictedType:Disease
+CANDIDATE	id:9461	inCount:26	outCount:2	links:	url:D009461	name:Neurologic Deficits, Focal	normalName:neurologic deficits, focal	normalWikiTitle:neurologic deficits, focal	predictedType:Disease
+CANDIDATE	id:9461	inCount:26	outCount:2	links:	url:D009461	name:Deficits, Focal Neurologic	normalName:deficits, focal neurologic	normalWikiTitle:deficits, focal neurologic	predictedType:Disease

@@ -1,0 +1,39 @@
+ENTITY	text:hearing loss	normalName:hearing loss	predictedType:disease	q:true	qid:Q234	docId:19139001	origText:hearing loss	url:D034381
+CANDIDATE	id:34381	inCount:37	outCount:1	links:	url:D034381	name:Hearing Loss	normalName:hearing loss	normalWikiTitle:hearing loss	predictedType:Disease
+ENTITY	text:toxicity	normalName:toxicity	predictedType:disease	q:true	qid:Q234	docId:19139001	origText:toxicity	url:D064420
+CANDIDATE	id:64420	inCount:10	outCount:1	links:	url:D064420	name:Drug Toxicity	normalName:drug toxicity	normalWikiTitle:drug toxicity	predictedType:Disease
+CANDIDATE	id:66126	inCount:0	outCount:3	links:	url:D066126	name:Cardiotoxicity	normalName:cardiotoxicity	normalWikiTitle:cardiotoxicity	predictedType:Disease
+CANDIDATE	id:15651	inCount:2	outCount:1	links:	url:D015651	name:Mycotoxicosis	normalName:mycotoxicosis	normalWikiTitle:mycotoxicosis	predictedType:Disease
+CANDIDATE	id:13971	inCount:2	outCount:1	links:	url:D013971	name:Thyrotoxicosis	normalName:thyrotoxicosis	normalWikiTitle:thyrotoxicosis	predictedType:Disease
+CANDIDATE	id:14869	inCount:0	outCount:2	links:	url:D014869	name:Water Intoxication	normalName:water intoxication	normalWikiTitle:water intoxication	predictedType:Disease
+CANDIDATE	id:14103	inCount:4	outCount:2	links:	url:D014103	name:Torticollis	normalName:torticollis	normalWikiTitle:torticollis	predictedType:Disease
+CANDIDATE	id:9765	inCount:42	outCount:2	links:	url:D009765	name:Obesity	normalName:obesity	normalWikiTitle:obesity	predictedType:Disease
+CANDIDATE	id:14115	inCount:1	outCount:1	links:	url:D014115	name:Toxemia	normalName:toxemia	normalWikiTitle:toxemia	predictedType:Disease
+CANDIDATE	id:7246	inCount:2	outCount:2	links:	url:D007246	name:Infertility	normalName:infertility	normalWikiTitle:infertility	predictedType:Disease
+CANDIDATE	id:20234	inCount:0	outCount:2	links:	url:D020234	name:Gait Ataxia	normalName:gait ataxia	normalWikiTitle:gait ataxia	predictedType:Disease
+CANDIDATE	id:14069	inCount:1	outCount:1	links:	url:D014069	name:Tonsillitis	normalName:tonsillitis	normalWikiTitle:tonsillitis	predictedType:Disease
+CANDIDATE	id:64420	inCount:10	outCount:1	links:	url:D064420	name:Toxicity, Drug	normalName:toxicity, drug	normalWikiTitle:toxicity, drug	predictedType:Disease
+CANDIDATE	id:17484	inCount:0	outCount:2	links:	url:D017484	name:Phototoxicity	normalName:phototoxicity	normalWikiTitle:phototoxicity	predictedType:Disease
+ENTITY	text:adenomatous polyps	normalName:adenomatous polyps	predictedType:disease	q:true	qid:Q234	docId:19139001	origText:adenomatous polyps	url:D018256
+CANDIDATE	id:18256	inCount:3	outCount:1	links:	url:D018256	name:Adenomatous Polyps	normalName:adenomatous polyps	normalWikiTitle:adenomatous polyps	predictedType:Disease
+ENTITY	text:colorectal adenomas	normalName:colorectal adenomas	predictedType:disease	q:true	qid:Q234	docId:19139001	origText:colorectal adenomas	url:D015179
+CANDIDATE	id:15179	inCount:6	outCount:3	links:	url:D015179	name:Cancers, Colorectal	normalName:cancers, colorectal	normalWikiTitle:cancers, colorectal	predictedType:Disease
+CANDIDATE	id:18246	inCount:0	outCount:1	links:	url:D018246	name:Adrenocortical Adenoma	normalName:adrenocortical adenoma	normalWikiTitle:adrenocortical adenoma	predictedType:Disease
+CANDIDATE	id:2759	inCount:0	outCount:1	links:	url:D002759	name:Adenoma, Bile Duct	normalName:adenoma, bile duct	normalWikiTitle:adenoma, bile duct	predictedType:Disease
+CANDIDATE	id:535983	inCount:0	outCount:1	links:	url:C535983	name:Congenital anosmia	normalName:congenital anosmia	normalWikiTitle:congenital anosmia	predictedType:Disease
+CANDIDATE	id:7516	inCount:2	outCount:2	links:	url:D007516	name:Adenoma, Islet Cell	normalName:adenoma, islet cell	normalWikiTitle:adenoma, islet cell	predictedType:Disease
+CANDIDATE	id:12002	inCount:9	outCount:1	links:	url:D012002	name:Rectal Diseases	normalName:rectal diseases	normalWikiTitle:rectal diseases	predictedType:Disease
+CANDIDATE	id:538110	inCount:0	outCount:2	links:	url:C538110	name:Pancreatic adenoma	normalName:pancreatic adenoma	normalWikiTitle:pancreatic adenoma	predictedType:Disease
+CANDIDATE	id:12004	inCount:2	outCount:1	links:	url:D012004	name:Rectal Neoplasms	normalName:rectal neoplasms	normalWikiTitle:rectal neoplasms	predictedType:Disease
+CANDIDATE	id:8949	inCount:1	outCount:2	links:	url:D008949	name:Adenoma, Pleomorphic	normalName:adenoma, pleomorphic	normalWikiTitle:adenoma, pleomorphic	predictedType:Disease
+CANDIDATE	id:238	inCount:0	outCount:2	links:	url:D000238	name:Adenoma, Chromophobe	normalName:adenoma, chromophobe	normalWikiTitle:adenoma, chromophobe	predictedType:Disease
+CANDIDATE	id:2292	inCount:5	outCount:2	links:	url:D002292	name:Carcinoma, Renal Cell	normalName:carcinoma, renal cell	normalWikiTitle:carcinoma, renal cell	predictedType:Disease
+CANDIDATE	id:15179	inCount:6	outCount:3	links:	url:D015179	name:Carcinomas, Colorectal	normalName:carcinomas, colorectal	normalWikiTitle:carcinomas, colorectal	predictedType:Disease
+CANDIDATE	id:15179	inCount:6	outCount:3	links:	url:D015179	name:Colorectal Carcinomas	normalName:colorectal carcinomas	normalWikiTitle:colorectal carcinomas	predictedType:Disease
+CANDIDATE	id:15179	inCount:6	outCount:3	links:	url:D015179	name:Colorectal Carcinoma	normalName:colorectal carcinoma	normalWikiTitle:colorectal carcinoma	predictedType:Disease
+CANDIDATE	id:15179	inCount:6	outCount:3	links:	url:D015179	name:Carcinoma, Colorectal	normalName:carcinoma, colorectal	normalWikiTitle:carcinoma, colorectal	predictedType:Disease
+CANDIDATE	id:15179	inCount:6	outCount:3	links:	url:D015179	name:Colorectal Cancers	normalName:colorectal cancers	normalWikiTitle:colorectal cancers	predictedType:Disease
+CANDIDATE	id:849	inCount:0	outCount:1	links:	url:D000849	name:Color Anomias	normalName:color anomias	normalWikiTitle:color anomias	predictedType:Disease
+CANDIDATE	id:849	inCount:0	outCount:1	links:	url:D000849	name:Anomias, Color	normalName:anomias, color	normalWikiTitle:anomias, color	predictedType:Disease
+CANDIDATE	id:71056	inCount:0	outCount:1	links:	url:D000071056	name:Anomalies, Anorectal	normalName:anomalies, anorectal	normalWikiTitle:anomalies, anorectal	predictedType:Disease
+CANDIDATE	id:71056	inCount:0	outCount:1	links:	url:D000071056	name:Anorectal Anomalies	normalName:anorectal anomalies	normalWikiTitle:anorectal anomalies	predictedType:Disease

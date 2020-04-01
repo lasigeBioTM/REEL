@@ -1,0 +1,8 @@
+ENTITY	text:bradycardia	normalName:bradycardia	predictedType:disease	q:true	qid:Q1421	docId:2614930	origText:bradycardia	url:D001919
+CANDIDATE	id:1919	inCount:0	outCount:1	links:13610	url:D001919	name:Bradycardia	normalName:bradycardia	normalWikiTitle:bradycardia	predictedType:Disease
+ENTITY	text:chest pain	normalName:chest pain	predictedType:disease	q:true	qid:Q1421	docId:2614930	origText:chest pain	url:D002637
+CANDIDATE	id:2637	inCount:1	outCount:1	links:	url:D002637	name:Chest Pain	normalName:chest pain	normalWikiTitle:chest pain	predictedType:Disease
+ENTITY	text:atrial flutter	normalName:atrial flutter	predictedType:disease	q:true	qid:Q1421	docId:2614930	origText:atrial flutter	url:D001282
+CANDIDATE	id:1282	inCount:0	outCount:1	links:	url:D001282	name:Atrial Flutter	normalName:atrial flutter	normalWikiTitle:atrial flutter	predictedType:Disease
+ENTITY	text:tachycardia	normalName:tachycardia	predictedType:disease	q:true	qid:Q1421	docId:2614930	origText:tachycardia	url:D013610
+CANDIDATE	id:13610	inCount:7	outCount:2	links:1919	url:D013610	name:Tachycardia	normalName:tachycardia	normalWikiTitle:tachycardia	predictedType:Disease

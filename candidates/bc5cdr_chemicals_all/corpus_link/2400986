@@ -1,0 +1,4 @@
+ENTITY	text:clonazepam	normalName:clonazepam	predictedType:chemical	q:true	qid:Q769	docId:2400986	origText:clonazepam	url:D002998
+CANDIDATE	id:2998	inCount:5	outCount:1	links:	url:D002998	name:Clonazepam	normalName:clonazepam	normalWikiTitle:clonazepam	predictedType:Chemical
+ENTITY	text:busulfan	normalName:busulfan	predictedType:chemical	q:true	qid:Q769	docId:2400986	origText:busulfan	url:D002066
+CANDIDATE	id:2066	inCount:6	outCount:2	links:	url:D002066	name:Busulfan	normalName:busulfan	normalWikiTitle:busulfan	predictedType:Chemical

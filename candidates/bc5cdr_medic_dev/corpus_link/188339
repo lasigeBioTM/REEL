@@ -1,0 +1,31 @@
+ENTITY	text:hamartoma	normalName:hamartoma	predictedType:disease	q:true	qid:Q362	docId:188339	origText:hamartoma	url:D006222
+CANDIDATE	id:6222	inCount:12	outCount:1	links:	url:D006222	name:Hamartoma	normalName:hamartoma	normalWikiTitle:hamartoma	predictedType:Disease
+ENTITY	text:liver tumors	normalName:liver tumors	predictedType:disease	q:true	qid:Q362	docId:188339	origText:liver tumors	url:D008113
+CANDIDATE	id:8113	inCount:5	outCount:2	links:20518;236	url:D008113	name:Liver Neoplasms	normalName:liver neoplasms	normalWikiTitle:liver neoplasms	predictedType:Disease
+CANDIDATE	id:1948	inCount:0	outCount:2	links:	url:D001948	name:Brenner Tumor	normalName:brenner tumor	normalWikiTitle:brenner tumor	predictedType:Disease
+CANDIDATE	id:17688	inCount:0	outCount:1	links:	url:D017688	name:Cholera Morbus	normalName:cholera morbus	normalWikiTitle:cholera morbus	predictedType:Disease
+CANDIDATE	id:18285	inCount:0	outCount:1	links:	url:D018285	name:Klatskin Tumor	normalName:klatskin tumor	normalWikiTitle:klatskin tumor	predictedType:Disease
+CANDIDATE	id:12857	inCount:10	outCount:1	links:	url:D012857	name:Situs Inversus	normalName:situs inversus	normalWikiTitle:situs inversus	predictedType:Disease
+CANDIDATE	id:5870	inCount:2	outCount:1	links:	url:D005870	name:Giant Cell Tumors	normalName:giant cell tumors	normalWikiTitle:giant cell tumors	predictedType:Disease
+CANDIDATE	id:563168	inCount:0	outCount:2	links:	url:C563168	name:Askin Tumor	normalName:askin tumor	normalWikiTitle:askin tumor	predictedType:Disease
+CANDIDATE	id:12707	inCount:0	outCount:1	links:	url:D012707	name:Sertoli Cell Tumor	normalName:sertoli cell tumor	normalWikiTitle:sertoli cell tumor	predictedType:Disease
+CANDIDATE	id:54068	inCount:2	outCount:3	links:	url:D054068	name:Livedo Reticularis	normalName:livedo reticularis	normalWikiTitle:livedo reticularis	predictedType:Disease
+CANDIDATE	id:3557	inCount:1	outCount:1	links:	url:D003557	name:Phyllodes Tumor	normalName:phyllodes tumor	normalWikiTitle:phyllodes tumor	predictedType:Disease
+CANDIDATE	id:1749	inCount:2	outCount:2	links:	url:D001749	name:Tumors, Bladder	normalName:tumors, bladder	normalWikiTitle:tumors, bladder	predictedType:Disease
+CANDIDATE	id:1749	inCount:2	outCount:2	links:	url:D001749	name:Bladder Tumors	normalName:bladder tumors	normalWikiTitle:bladder tumors	predictedType:Disease
+CANDIDATE	id:9464	inCount:1	outCount:4	links:	url:D009464	name:Tumors, Angle	normalName:tumors, angle	normalWikiTitle:tumors, angle	predictedType:Disease
+CANDIDATE	id:6338	inCount:2	outCount:2	links:	url:D006338	name:Tumors, Heart	normalName:tumors, heart	normalWikiTitle:tumors, heart	predictedType:Disease
+CANDIDATE	id:9464	inCount:1	outCount:4	links:	url:D009464	name:Angle Tumors	normalName:angle tumors	normalWikiTitle:angle tumors	predictedType:Disease
+CANDIDATE	id:11180	inCount:2	outCount:1	links:	url:D011180	name:Livor Mortis	normalName:livor mortis	normalWikiTitle:livor mortis	predictedType:Disease
+CANDIDATE	id:6338	inCount:2	outCount:2	links:	url:D006338	name:Heart Tumors	normalName:heart tumors	normalWikiTitle:heart tumors	predictedType:Disease
+CANDIDATE	id:1749	inCount:2	outCount:2	links:	url:D001749	name:Tumor, Bladder	normalName:tumor, bladder	normalWikiTitle:tumor, bladder	predictedType:Disease
+CANDIDATE	id:1749	inCount:2	outCount:2	links:	url:D001749	name:Bladder Tumor	normalName:bladder tumor	normalWikiTitle:bladder tumor	predictedType:Disease
+CANDIDATE	id:10871	inCount:1	outCount:2	links:	url:D010871	name:Pineal Tumors	normalName:pineal tumors	normalWikiTitle:pineal tumors	predictedType:Disease
+ENTITY	text:adenoma	normalName:adenoma	predictedType:disease	q:true	qid:Q362	docId:188339	origText:adenoma	url:D000236
+CANDIDATE	id:236	inCount:27	outCount:1	links:8113;20518	url:D000236	name:Adenoma	normalName:adenoma	normalWikiTitle:adenoma	predictedType:Disease
+ENTITY	text:rupture	normalName:rupture	predictedType:disease	q:true	qid:Q362	docId:188339	origText:rupture	url:D012421
+CANDIDATE	id:12421	inCount:5	outCount:1	links:	url:D012421	name:Rupture	normalName:rupture	normalWikiTitle:rupture	predictedType:Disease
+ENTITY	text:hepatoma	normalName:hepatoma	predictedType:disease	q:true	qid:Q362	docId:188339	origText:hepatoma	url:D006528
+CANDIDATE	id:6528	inCount:3	outCount:2	links:	url:D006528	name:Hepatoma	normalName:hepatoma	normalWikiTitle:hepatoma	predictedType:Disease
+ENTITY	text:focal nodular hyperplasia	normalName:focal nodular hyperplasia	predictedType:disease	q:true	qid:Q362	docId:188339	origText:focal nodular hyperplasia	url:D020518
+CANDIDATE	id:20518	inCount:0	outCount:1	links:8113;236	url:D020518	name:Focal Nodular Hyperplasia	normalName:focal nodular hyperplasia	normalWikiTitle:focal nodular hyperplasia	predictedType:Disease

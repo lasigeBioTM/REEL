@@ -1,0 +1,6 @@
+ENTITY	text:azelastine	normalName:azelastine	predictedType:chemical	q:true	qid:Q3	docId:3057041	origText:azelastine	url:C020976
+CANDIDATE	id:20976	inCount:0	outCount:1	links:	url:C020976	name:azelastine	normalName:azelastine	normalWikiTitle:azelastine	predictedType:Chemical
+ENTITY	text:chlorpheniramine	normalName:chlorpheniramine	predictedType:chemical	q:true	qid:Q3	docId:3057041	origText:chlorpheniramine	url:D002744
+CANDIDATE	id:2744	inCount:17	outCount:1	links:2744	url:D002744	name:Chlorpheniramine	normalName:chlorpheniramine	normalWikiTitle:chlorpheniramine	predictedType:Chemical
+ENTITY	text:chlorpheniramine maleate	normalName:chlorpheniramine maleate	predictedType:chemical	q:true	qid:Q3	docId:3057041	origText:chlorpheniramine maleate	url:D002744
+CANDIDATE	id:2744	inCount:17	outCount:1	links:2744	url:D002744	name:Chlorpheniramine Maleate	normalName:chlorpheniramine maleate	normalWikiTitle:chlorpheniramine maleate	predictedType:Chemical

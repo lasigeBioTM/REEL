@@ -1,0 +1,16 @@
+ENTITY	text:cholestasis	normalName:cholestasis	predictedType:disease	q:true	qid:Q324	docId:14982270	origText:cholestasis	url:D002779
+CANDIDATE	id:2779	inCount:14	outCount:1	links:	url:D002779	name:Cholestasis	normalName:cholestasis	normalWikiTitle:cholestasis	predictedType:Disease
+ENTITY	text:icterus	normalName:icterus	predictedType:disease	q:true	qid:Q324	docId:14982270	origText:icterus	url:D007565
+CANDIDATE	id:7565	inCount:5	outCount:2	links:7565	url:D007565	name:Icterus	normalName:icterus	normalWikiTitle:icterus	predictedType:Disease
+ENTITY	text:hyperbilirubinemia	normalName:hyperbilirubinemia	predictedType:disease	q:true	qid:Q324	docId:14982270	origText:hyperbilirubinemia	url:D006932
+CANDIDATE	id:6932	inCount:4	outCount:1	links:	url:D006932	name:Hyperbilirubinemia	normalName:hyperbilirubinemia	normalWikiTitle:hyperbilirubinemia	predictedType:Disease
+ENTITY	text:itching	normalName:itching	predictedType:disease	q:true	qid:Q324	docId:14982270	origText:itching	url:D011537
+CANDIDATE	id:11537	inCount:6	outCount:2	links:11537	url:D011537	name:Itching	normalName:itching	normalWikiTitle:itching	predictedType:Disease
+ENTITY	text:hyperthyroidism	normalName:hyperthyroidism	predictedType:disease	q:true	qid:Q324	docId:14982270	origText:hyperthyroidism	url:D006980
+CANDIDATE	id:6980	inCount:6	outCount:1	links:	url:D006980	name:Hyperthyroidism	normalName:hyperthyroidism	normalWikiTitle:hyperthyroidism	predictedType:Disease
+ENTITY	text:pruritus	normalName:pruritus	predictedType:disease	q:true	qid:Q324	docId:14982270	origText:pruritus	url:D011537
+CANDIDATE	id:11537	inCount:6	outCount:2	links:11537	url:D011537	name:Pruritus	normalName:pruritus	normalWikiTitle:pruritus	predictedType:Disease
+ENTITY	text:jaundice	normalName:jaundice	predictedType:disease	q:true	qid:Q324	docId:14982270	origText:jaundice	url:D007565
+CANDIDATE	id:7565	inCount:5	outCount:2	links:7565	url:D007565	name:Jaundice	normalName:jaundice	normalWikiTitle:jaundice	predictedType:Disease
+ENTITY	text:cholestatic jaundice	normalName:cholestatic jaundice	predictedType:disease	q:true	qid:Q324	docId:14982270	origText:cholestatic jaundice	url:D041781
+CANDIDATE	id:41781	inCount:2	outCount:1	links:	url:D041781	name:Cholestatic Jaundice	normalName:cholestatic jaundice	normalWikiTitle:cholestatic jaundice	predictedType:Disease

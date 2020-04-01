@@ -1,0 +1,74 @@
+ENTITY	text:Neurotoxicity	normalName:neurotoxicity	predictedType:disease	q:true	qid:Q376	docId:230316	origText:Neurotoxicity	url:D020258
+CANDIDATE	id:20258	inCount:7	outCount:2	links:20258	url:D020258	name:Neurotoxicity Syndromes	normalName:neurotoxicity syndromes	normalWikiTitle:neurotoxicity syndromes	predictedType:Disease
+CANDIDATE	id:66126	inCount:0	outCount:3	links:	url:D066126	name:Cardiotoxicity	normalName:cardiotoxicity	normalWikiTitle:cardiotoxicity	predictedType:Disease
+CANDIDATE	id:7246	inCount:2	outCount:2	links:	url:D007246	name:Infertility	normalName:infertility	normalWikiTitle:infertility	predictedType:Disease
+CANDIDATE	id:4767	inCount:0	outCount:2	links:4767	url:D004767	name:Enterotoxemia	normalName:enterotoxemia	normalWikiTitle:enterotoxemia	predictedType:Disease
+CANDIDATE	id:13971	inCount:2	outCount:1	links:	url:D013971	name:Thyrotoxicosis	normalName:thyrotoxicosis	normalWikiTitle:thyrotoxicosis	predictedType:Disease
+CANDIDATE	id:9902	inCount:1	outCount:1	links:9902	url:D009902	name:Optic Neuritis	normalName:optic neuritis	normalWikiTitle:optic neuritis	predictedType:Disease
+CANDIDATE	id:20426	inCount:2	outCount:1	links:	url:D020426	name:Sciatic Neuropathy	normalName:sciatic neuropathy	normalWikiTitle:sciatic neuropathy	predictedType:Disease
+CANDIDATE	id:18306	inCount:0	outCount:2	links:18306	url:D018306	name:Neurocytoma	normalName:neurocytoma	normalWikiTitle:neurocytoma	predictedType:Disease
+CANDIDATE	id:20019	inCount:0	outCount:2	links:	url:D020019	name:Neurocysticercosis	normalName:neurocysticercosis	normalWikiTitle:neurocysticercosis	predictedType:Disease
+CANDIDATE	id:9443	inCount:2	outCount:1	links:9443	url:D009443	name:Neuritis	normalName:neuritis	normalWikiTitle:neuritis	predictedType:Disease
+ENTITY	text:encephalopathy	normalName:encephalopathy	predictedType:disease	q:true	qid:Q376	docId:230316	origText:encephalopathy	url:D001927
+CANDIDATE	id:1927	inCount:55	outCount:1	links:	url:D001927	name:Encephalopathy	normalName:encephalopathy	normalWikiTitle:encephalopathy	predictedType:Disease
+ENTITY	text:myelopathy	normalName:myelopathy	predictedType:disease	q:true	qid:Q376	docId:230316	origText:myelopathy	url:D013118
+CANDIDATE	id:13118	inCount:16	outCount:1	links:	url:D013118	name:Myelopathy	normalName:myelopathy	normalWikiTitle:myelopathy	predictedType:Disease
+ENTITY	text:neurological disturbance	normalName:neurological disturbance	predictedType:disease	q:true	qid:Q376	docId:230316	origText:neurological disturbance	url:D009422
+CANDIDATE	id:9422	inCount:27	outCount:1	links:	url:D009422	name:Neurologic Disorder	normalName:neurologic disorder	normalWikiTitle:neurologic disorder	predictedType:Disease
+CANDIDATE	id:14570	inCount:9	outCount:2	links:	url:D014570	name:Urologic Diseases	normalName:urologic diseases	normalWikiTitle:urologic diseases	predictedType:Disease
+CANDIDATE	id:9461	inCount:26	outCount:2	links:	url:D009461	name:Neurologic Manifestations	normalName:neurologic manifestations	normalWikiTitle:neurologic manifestations	predictedType:Disease
+CANDIDATE	id:20924	inCount:6	outCount:1	links:	url:D020924	name:Urological Manifestations	normalName:urological manifestations	normalWikiTitle:urological manifestations	predictedType:Disease
+CANDIDATE	id:20233	inCount:2	outCount:1	links:	url:D020233	name:Gait Disorders, Neurologic	normalName:gait disorders, neurologic	normalWikiTitle:gait disorders, neurologic	predictedType:Disease
+CANDIDATE	id:9497	inCount:0	outCount:2	links:	url:D009497	name:Neurotic Disorders	normalName:neurotic disorders	normalWikiTitle:neurotic disorders	predictedType:Disease
+CANDIDATE	id:8599	inCount:6	outCount:1	links:8599	url:D008599	name:Menstruation Disturbances	normalName:menstruation disturbances	normalWikiTitle:menstruation disturbances	predictedType:Disease
+CANDIDATE	id:19150	inCount:10	outCount:1	links:	url:D019150	name:Neuroaxonal Dystrophies	normalName:neuroaxonal dystrophies	normalWikiTitle:neuroaxonal dystrophies	predictedType:Disease
+CANDIDATE	id:6402	inCount:22	outCount:1	links:	url:D006402	name:Hematologic Diseases	normalName:hematologic diseases	normalWikiTitle:hematologic diseases	predictedType:Disease
+CANDIDATE	id:52801	inCount:7	outCount:1	links:	url:D052801	name:Male Urogenital Diseases	normalName:male urogenital diseases	normalWikiTitle:male urogenital diseases	predictedType:Disease
+CANDIDATE	id:19965	inCount:6	outCount:1	links:	url:D019965	name:Neurocognitive Disorders	normalName:neurocognitive disorders	normalWikiTitle:neurocognitive disorders	predictedType:Disease
+CANDIDATE	id:9422	inCount:27	outCount:1	links:	url:D009422	name:Disorder, Neurological	normalName:disorder, neurological	normalWikiTitle:disorder, neurological	predictedType:Disease
+CANDIDATE	id:9422	inCount:27	outCount:1	links:	url:D009422	name:Neurological Disorder	normalName:neurological disorder	normalWikiTitle:neurological disorder	predictedType:Disease
+CANDIDATE	id:9422	inCount:27	outCount:1	links:	url:D009422	name:Disorders, Neurological	normalName:disorders, neurological	normalWikiTitle:disorders, neurological	predictedType:Disease
+CANDIDATE	id:9422	inCount:27	outCount:1	links:	url:D009422	name:Neurological Disorders	normalName:neurological disorders	normalWikiTitle:neurological disorders	predictedType:Disease
+CANDIDATE	id:14570	inCount:9	outCount:2	links:	url:D014570	name:Disease, Urological	normalName:disease, urological	normalWikiTitle:disease, urological	predictedType:Disease
+CANDIDATE	id:14570	inCount:9	outCount:2	links:	url:D014570	name:Urological Disease	normalName:urological disease	normalWikiTitle:urological disease	predictedType:Disease
+CANDIDATE	id:14570	inCount:9	outCount:2	links:	url:D014570	name:Diseases, Urological	normalName:diseases, urological	normalWikiTitle:diseases, urological	predictedType:Disease
+CANDIDATE	id:9422	inCount:27	outCount:1	links:	url:D009422	name:Disorder, Neurologic	normalName:disorder, neurologic	normalWikiTitle:disorder, neurologic	predictedType:Disease
+CANDIDATE	id:14570	inCount:9	outCount:2	links:	url:D014570	name:Urological Diseases	normalName:urological diseases	normalWikiTitle:urological diseases	predictedType:Disease
+ENTITY	text:visual disturbance	normalName:visual disturbance	predictedType:disease	q:true	qid:Q376	docId:230316	origText:visual disturbance	url:D014786
+CANDIDATE	id:14786	inCount:19	outCount:2	links:	url:D014786	name:Disorders, Visual	normalName:disorders, visual	normalWikiTitle:disorders, visual	predictedType:Disease
+CANDIDATE	id:8599	inCount:6	outCount:1	links:8599	url:D008599	name:Menstruation Disturbances	normalName:menstruation disturbances	normalWikiTitle:menstruation disturbances	predictedType:Disease
+CANDIDATE	id:14624	inCount:2	outCount:2	links:	url:D014624	name:Vaginal Fistula	normalName:vaginal fistula	normalWikiTitle:vaginal fistula	predictedType:Disease
+CANDIDATE	id:14623	inCount:7	outCount:1	links:	url:D014623	name:Vaginal Diseases	normalName:vaginal diseases	normalWikiTitle:vaginal diseases	predictedType:Disease
+CANDIDATE	id:16157	inCount:2	outCount:3	links:	url:D016157	name:Vascular Fistula	normalName:vascular fistula	normalWikiTitle:vascular fistula	predictedType:Disease
+CANDIDATE	id:14652	inCount:52	outCount:1	links:	url:D014652	name:Vascular Diseases	normalName:vascular diseases	normalWikiTitle:vascular diseases	predictedType:Disease
+CANDIDATE	id:14133	inCount:8	outCount:1	links:	url:D014133	name:Tracheal Diseases	normalName:tracheal diseases	normalWikiTitle:tracheal diseases	predictedType:Disease
+CANDIDATE	id:19522	inCount:1	outCount:1	links:	url:D019522	name:Vaginal Discharge	normalName:vaginal discharge	normalWikiTitle:vaginal discharge	predictedType:Disease
+CANDIDATE	id:14603	inCount:4	outCount:1	links:	url:D014603	name:Uveal Diseases	normalName:uveal diseases	normalWikiTitle:uveal diseases	predictedType:Disease
+CANDIDATE	id:7077	inCount:2	outCount:1	links:	url:D007077	name:Ileal Diseases	normalName:ileal diseases	normalWikiTitle:ileal diseases	predictedType:Disease
+CANDIDATE	id:14777	inCount:20	outCount:1	links:	url:D014777	name:Virus Diseases	normalName:virus diseases	normalWikiTitle:virus diseases	predictedType:Disease
+CANDIDATE	id:14832	inCount:4	outCount:2	links:	url:D014832	name:Voice Disturbance	normalName:voice disturbance	normalWikiTitle:voice disturbance	predictedType:Disease
+CANDIDATE	id:14832	inCount:4	outCount:2	links:	url:D014832	name:Disturbance, Voice	normalName:disturbance, voice	normalWikiTitle:disturbance, voice	predictedType:Disease
+CANDIDATE	id:14832	inCount:4	outCount:2	links:	url:D014832	name:Disturbances, Voice	normalName:disturbances, voice	normalWikiTitle:disturbances, voice	predictedType:Disease
+CANDIDATE	id:14832	inCount:4	outCount:2	links:	url:D014832	name:Voice Disturbances	normalName:voice disturbances	normalWikiTitle:voice disturbances	predictedType:Disease
+CANDIDATE	id:14786	inCount:19	outCount:2	links:	url:D014786	name:Disorder, Visual	normalName:disorder, visual	normalWikiTitle:disorder, visual	predictedType:Disease
+CANDIDATE	id:14786	inCount:19	outCount:2	links:	url:D014786	name:Visual Disorder	normalName:visual disorder	normalWikiTitle:visual disorder	predictedType:Disease
+CANDIDATE	id:8599	inCount:6	outCount:1	links:8599	url:D008599	name:Menstruation Disturbance	normalName:menstruation disturbance	normalWikiTitle:menstruation disturbance	predictedType:Disease
+CANDIDATE	id:8599	inCount:6	outCount:1	links:8599	url:D008599	name:Disturbance, Menstruation	normalName:disturbance, menstruation	normalWikiTitle:disturbance, menstruation	predictedType:Disease
+CANDIDATE	id:14786	inCount:19	outCount:2	links:	url:D014786	name:Visual Disorders	normalName:visual disorders	normalWikiTitle:visual disorders	predictedType:Disease
+ENTITY	text:neurotoxic	normalName:neurotoxic	predictedType:disease	q:true	qid:Q376	docId:230316	origText:neurotoxic	url:D020258
+CANDIDATE	id:20258	inCount:7	outCount:2	links:20258	url:D020258	name:Neurotoxicity Syndromes	normalName:neurotoxicity syndromes	normalWikiTitle:neurotoxicity syndromes	predictedType:Disease
+CANDIDATE	id:4767	inCount:0	outCount:2	links:4767	url:D004767	name:Enterotoxemia	normalName:enterotoxemia	normalWikiTitle:enterotoxemia	predictedType:Disease
+CANDIDATE	id:9443	inCount:2	outCount:1	links:9443	url:D009443	name:Neuritis	normalName:neuritis	normalWikiTitle:neuritis	predictedType:Disease
+CANDIDATE	id:18306	inCount:0	outCount:2	links:18306	url:D018306	name:Neurocytoma	normalName:neurocytoma	normalWikiTitle:neurocytoma	predictedType:Disease
+CANDIDATE	id:9902	inCount:1	outCount:1	links:9902	url:D009902	name:Optic Neuritis	normalName:optic neuritis	normalWikiTitle:optic neuritis	predictedType:Disease
+CANDIDATE	id:11030	inCount:3	outCount:1	links:	url:D011030	name:Pneumothorax	normalName:pneumothorax	normalWikiTitle:pneumothorax	predictedType:Disease
+CANDIDATE	id:1014	inCount:5	outCount:2	links:	url:D001014	name:Aortic Aneurysm	normalName:aortic aneurysm	normalWikiTitle:aortic aneurysm	predictedType:Disease
+CANDIDATE	id:18321	inCount:0	outCount:2	links:	url:D018321	name:Neurothekeoma	normalName:neurothekeoma	normalWikiTitle:neurothekeoma	predictedType:Disease
+CANDIDATE	id:9447	inCount:2	outCount:1	links:	url:D009447	name:Neuroblastoma	normalName:neuroblastoma	normalWikiTitle:neuroblastoma	predictedType:Disease
+CANDIDATE	id:14987	inCount:1	outCount:1	links:	url:D014987	name:Xerostomia	normalName:xerostomia	normalWikiTitle:xerostomia	predictedType:Disease
+ENTITY	text:optic atrophy	normalName:optic atrophy	predictedType:disease	q:true	qid:Q376	docId:230316	origText:optic atrophy	url:D009896
+CANDIDATE	id:9896	inCount:24	outCount:1	links:	url:D009896	name:Optic Atrophy	normalName:optic atrophy	normalWikiTitle:optic atrophy	predictedType:Disease
+ENTITY	text:acrodermatitis enteropathica	normalName:acrodermatitis enteropathica	predictedType:disease	q:true	qid:Q376	docId:230316	origText:acrodermatitis enteropathica	url:C538178
+CANDIDATE	id:538178	inCount:0	outCount:1	links:	url:C538178	name:Acrodermatitis enteropathica	normalName:acrodermatitis enteropathica	normalWikiTitle:acrodermatitis enteropathica	predictedType:Disease
+ENTITY	text:peripheral neuropathy	normalName:peripheral neuropathy	predictedType:disease	q:true	qid:Q376	docId:230316	origText:peripheral neuropathy	url:D010523
+CANDIDATE	id:10523	inCount:37	outCount:1	links:	url:D010523	name:Peripheral Neuropathy	normalName:peripheral neuropathy	normalWikiTitle:peripheral neuropathy	predictedType:Disease

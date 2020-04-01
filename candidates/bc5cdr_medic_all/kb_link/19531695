@@ -1,0 +1,22 @@
+ENTITY	text:toxicity	normalName:toxicity	predictedType:disease	q:true	qid:Q1035	docId:19531695	origText:toxicity	url:D064420
+CANDIDATE	id:64420	inCount:10	outCount:1	links:	url:D064420	name:Drug Toxicity	normalName:drug toxicity	normalWikiTitle:drug toxicity	predictedType:Disease
+CANDIDATE	id:66126	inCount:0	outCount:3	links:	url:D066126	name:Cardiotoxicity	normalName:cardiotoxicity	normalWikiTitle:cardiotoxicity	predictedType:Disease
+CANDIDATE	id:15651	inCount:2	outCount:1	links:	url:D015651	name:Mycotoxicosis	normalName:mycotoxicosis	normalWikiTitle:mycotoxicosis	predictedType:Disease
+CANDIDATE	id:13971	inCount:2	outCount:1	links:	url:D013971	name:Thyrotoxicosis	normalName:thyrotoxicosis	normalWikiTitle:thyrotoxicosis	predictedType:Disease
+CANDIDATE	id:14869	inCount:0	outCount:2	links:	url:D014869	name:Water Intoxication	normalName:water intoxication	normalWikiTitle:water intoxication	predictedType:Disease
+CANDIDATE	id:14103	inCount:4	outCount:2	links:	url:D014103	name:Torticollis	normalName:torticollis	normalWikiTitle:torticollis	predictedType:Disease
+CANDIDATE	id:9765	inCount:42	outCount:2	links:	url:D009765	name:Obesity	normalName:obesity	normalWikiTitle:obesity	predictedType:Disease
+CANDIDATE	id:14115	inCount:1	outCount:1	links:	url:D014115	name:Toxemia	normalName:toxemia	normalWikiTitle:toxemia	predictedType:Disease
+CANDIDATE	id:7246	inCount:2	outCount:2	links:	url:D007246	name:Infertility	normalName:infertility	normalWikiTitle:infertility	predictedType:Disease
+CANDIDATE	id:20234	inCount:0	outCount:2	links:	url:D020234	name:Gait Ataxia	normalName:gait ataxia	normalWikiTitle:gait ataxia	predictedType:Disease
+CANDIDATE	id:14069	inCount:1	outCount:1	links:	url:D014069	name:Tonsillitis	normalName:tonsillitis	normalWikiTitle:tonsillitis	predictedType:Disease
+CANDIDATE	id:64420	inCount:10	outCount:1	links:	url:D064420	name:Toxicity, Drug	normalName:toxicity, drug	normalWikiTitle:toxicity, drug	predictedType:Disease
+CANDIDATE	id:17484	inCount:0	outCount:2	links:	url:D017484	name:Phototoxicity	normalName:phototoxicity	normalWikiTitle:phototoxicity	predictedType:Disease
+ENTITY	text:paranoia	normalName:paranoia	predictedType:disease	q:true	qid:Q1035	docId:19531695	origText:paranoia	url:D010259
+CANDIDATE	id:10259	inCount:0	outCount:1	links:	url:D010259	name:Paranoia	normalName:paranoia	normalWikiTitle:paranoia	predictedType:Disease
+ENTITY	text:atrial fibrillation	normalName:atrial fibrillation	predictedType:disease	q:true	qid:Q1035	docId:19531695	origText:atrial fibrillation	url:D001281
+CANDIDATE	id:1281	inCount:16	outCount:1	links:	url:D001281	name:Atrial Fibrillation	normalName:atrial fibrillation	normalWikiTitle:atrial fibrillation	predictedType:Disease
+ENTITY	text:Delirium	normalName:delirium	predictedType:disease	q:true	qid:Q1035	docId:19531695	origText:Delirium	url:D003693
+CANDIDATE	id:3693	inCount:1	outCount:2	links:	url:D003693	name:Delirium	normalName:delirium	normalWikiTitle:delirium	predictedType:Disease
+ENTITY	text:confusion	normalName:confusion	predictedType:disease	q:true	qid:Q1035	docId:19531695	origText:confusion	url:D003221
+CANDIDATE	id:3221	inCount:2	outCount:1	links:	url:D003221	name:Confusion	normalName:confusion	normalWikiTitle:confusion	predictedType:Disease

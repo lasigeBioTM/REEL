@@ -1,0 +1,6 @@
+ENTITY	text:thiopentone	normalName:thiopentone	predictedType:chemical	q:true	qid:Q1429	docId:3125850	origText:thiopentone	url:D013874
+CANDIDATE	id:13874	inCount:3	outCount:1	links:13390	url:D013874	name:Thiopentone	normalName:thiopentone	normalWikiTitle:thiopentone	predictedType:Chemical
+ENTITY	text:suxamethonium	normalName:suxamethonium	predictedType:chemical	q:true	qid:Q1429	docId:3125850	origText:suxamethonium	url:D013390
+CANDIDATE	id:13390	inCount:3	outCount:2	links:13874	url:D013390	name:Suxamethonium	normalName:suxamethonium	normalWikiTitle:suxamethonium	predictedType:Chemical
+ENTITY	text:alfentanil	normalName:alfentanil	predictedType:chemical	q:true	qid:Q1429	docId:3125850	origText:alfentanil	url:D015760
+CANDIDATE	id:15760	inCount:0	outCount:1	links:	url:D015760	name:Alfentanil	normalName:alfentanil	normalWikiTitle:alfentanil	predictedType:Chemical

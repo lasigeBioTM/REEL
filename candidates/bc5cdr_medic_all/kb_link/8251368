@@ -1,0 +1,4 @@
+ENTITY	text:flushing	normalName:flushing	predictedType:disease	q:true	qid:Q1000	docId:8251368	origText:flushing	url:D005483
+CANDIDATE	id:5483	inCount:2	outCount:1	links:	url:D005483	name:Flushing	normalName:flushing	normalWikiTitle:flushing	predictedType:Disease
+ENTITY	text:telangiectasia	normalName:telangiectasia	predictedType:disease	q:true	qid:Q1000	docId:8251368	origText:telangiectasia	url:D013684
+CANDIDATE	id:13684	inCount:15	outCount:1	links:	url:D013684	name:Telangiectasia	normalName:telangiectasia	normalWikiTitle:telangiectasia	predictedType:Disease

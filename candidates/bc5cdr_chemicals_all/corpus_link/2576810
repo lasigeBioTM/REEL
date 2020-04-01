@@ -1,0 +1,12 @@
+ENTITY	text:amphetamine	normalName:amphetamine	predictedType:chemical	q:true	qid:Q1272	docId:2576810	origText:amphetamine	url:D000661
+CANDIDATE	id:661	inCount:1	outCount:1	links:8729;9627;16666;15283	url:D000661	name:Amphetamine	normalName:amphetamine	normalWikiTitle:amphetamine	predictedType:Chemical
+ENTITY	text:serotonin	normalName:serotonin	predictedType:chemical	q:true	qid:Q1272	docId:2576810	origText:serotonin	url:D012701
+CANDIDATE	id:12701	inCount:48	outCount:2	links:	url:D012701	name:Serotonin	normalName:serotonin	normalWikiTitle:serotonin	predictedType:Chemical
+ENTITY	text:fluvoxamine	normalName:fluvoxamine	predictedType:chemical	q:true	qid:Q1272	docId:2576810	origText:fluvoxamine	url:D016666
+CANDIDATE	id:16666	inCount:2	outCount:1	links:8729;9627;661	url:D016666	name:Fluvoxamine	normalName:fluvoxamine	normalWikiTitle:fluvoxamine	predictedType:Chemical
+ENTITY	text:citalopram	normalName:citalopram	predictedType:chemical	q:true	qid:Q1272	docId:2576810	origText:citalopram	url:D015283
+CANDIDATE	id:15283	inCount:7	outCount:3	links:661	url:D015283	name:Citalopram	normalName:citalopram	normalWikiTitle:citalopram	predictedType:Chemical
+ENTITY	text:methoxamine	normalName:methoxamine	predictedType:chemical	q:true	qid:Q1272	docId:2576810	origText:methoxamine	url:D008729
+CANDIDATE	id:8729	inCount:1	outCount:2	links:9627;16666;661	url:D008729	name:Methoxamine	normalName:methoxamine	normalWikiTitle:methoxamine	predictedType:Chemical
+ENTITY	text:nomifensine	normalName:nomifensine	predictedType:chemical	q:true	qid:Q1272	docId:2576810	origText:nomifensine	url:D009627
+CANDIDATE	id:9627	inCount:6	outCount:1	links:8729;16666;661	url:D009627	name:Nomifensine	normalName:nomifensine	normalWikiTitle:nomifensine	predictedType:Chemical

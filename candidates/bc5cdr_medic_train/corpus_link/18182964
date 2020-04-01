@@ -1,0 +1,6 @@
+ENTITY	text:attention-deficit/hyperactivity disorder	normalName:attention-deficit/hyperactivity disorder	predictedType:disease	q:true	qid:Q231	docId:18182964	origText:attention-deficit/hyperactivity disorder	url:D001289
+CANDIDATE	id:1289	inCount:2	outCount:1	links:	url:D001289	name:Disorder, Attention Deficit-Hyperactivity	normalName:disorder, attention deficit-hyperactivity	normalWikiTitle:disorder, attention deficit-hyperactivity	predictedType:Disease
+ENTITY	text:bradycardia	normalName:bradycardia	predictedType:disease	q:true	qid:Q231	docId:18182964	origText:bradycardia	url:D001919
+CANDIDATE	id:1919	inCount:0	outCount:1	links:	url:D001919	name:Bradycardia	normalName:bradycardia	normalWikiTitle:bradycardia	predictedType:Disease
+ENTITY	text:ADHD	normalName:adhd	predictedType:disease	q:true	qid:Q231	docId:18182964	origText:ADHD	url:D001289
+CANDIDATE	id:1289	inCount:2	outCount:1	links:	url:D001289	name:ADHD	normalName:adhd	normalWikiTitle:adhd	predictedType:Disease

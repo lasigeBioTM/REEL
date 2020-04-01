@@ -1,0 +1,19 @@
+ENTITY	text:procyclindine	normalName:procyclindine	predictedType:chemical	q:true	qid:Q272	docId:33969	origText:procyclindine	url:D011352
+CANDIDATE	id:11352	inCount:3	outCount:1	links:11352	url:D011352	name:Procyclidine	normalName:procyclidine	normalWikiTitle:procyclidine	predictedType:Chemical
+CANDIDATE	id:36620	inCount:0	outCount:1	links:	url:C036620	name:iprocinodine	normalName:iprocinodine	normalWikiTitle:iprocinodine	predictedType:Chemical
+CANDIDATE	id:42414	inCount:0	outCount:1	links:	url:C042414	name:aprolidine	normalName:aprolidine	normalWikiTitle:aprolidine	predictedType:Chemical
+CANDIDATE	id:31498	inCount:0	outCount:1	links:	url:C031498	name:pericyclivine	normalName:pericyclivine	normalWikiTitle:pericyclivine	predictedType:Chemical
+CANDIDATE	id:12058	inCount:0	outCount:1	links:	url:C012058	name:tenocyclidine	normalName:tenocyclidine	normalWikiTitle:tenocyclidine	predictedType:Chemical
+CANDIDATE	id:10622	inCount:43	outCount:1	links:	url:D010622	name:Phencyclidine	normalName:phencyclidine	normalWikiTitle:phencyclidine	predictedType:Chemical
+CANDIDATE	id:32519	inCount:0	outCount:1	links:	url:C032519	name:pyrrolidine	normalName:pyrrolidine	normalWikiTitle:pyrrolidine	predictedType:Chemical
+CANDIDATE	id:421084	inCount:0	outCount:1	links:	url:C421084	name:perlolidine	normalName:perlolidine	normalWikiTitle:perlolidine	predictedType:Chemical
+CANDIDATE	id:35988	inCount:0	outCount:1	links:	url:C035988	name:procymidone	normalName:procymidone	normalWikiTitle:procymidone	predictedType:Chemical
+CANDIDATE	id:70707	inCount:0	outCount:2	links:	url:C070707	name:gacyclidine	normalName:gacyclidine	normalWikiTitle:gacyclidine	predictedType:Chemical
+ENTITY	text:procyclidine	normalName:procyclidine	predictedType:chemical	q:true	qid:Q272	docId:33969	origText:procyclidine	url:D011352
+CANDIDATE	id:11352	inCount:3	outCount:1	links:11352	url:D011352	name:Procyclidine	normalName:procyclidine	normalWikiTitle:procyclidine	predictedType:Chemical
+ENTITY	text:benztropine	normalName:benztropine	predictedType:chemical	q:true	qid:Q272	docId:33969	origText:benztropine	url:D001590
+CANDIDATE	id:1590	inCount:10	outCount:1	links:	url:D001590	name:Benztropine	normalName:benztropine	normalWikiTitle:benztropine	predictedType:Chemical
+ENTITY	text:Ethopropazine	normalName:ethopropazine	predictedType:chemical	q:true	qid:Q272	docId:33969	origText:Ethopropazine	url:C084820
+CANDIDATE	id:84820	inCount:0	outCount:1	links:	url:C084820	name:ethopropazine	normalName:ethopropazine	normalWikiTitle:ethopropazine	predictedType:Chemical
+ENTITY	text:fluphenazine enanthate	normalName:fluphenazine enanthate	predictedType:chemical	q:true	qid:Q272	docId:33969	origText:fluphenazine enanthate	url:C017610
+CANDIDATE	id:17610	inCount:0	outCount:1	links:	url:C017610	name:fluphenazine enanthate	normalName:fluphenazine enanthate	normalWikiTitle:fluphenazine enanthate	predictedType:Chemical

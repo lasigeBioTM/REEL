@@ -1,0 +1,8 @@
+ENTITY	text:oxazolidine	normalName:oxazolidine	predictedType:chemical	q:true	qid:Q874	docId:9022662	origText:oxazolidine	url:C064210
+CANDIDATE	id:64210	inCount:0	outCount:1	links:	url:C064210	name:oxazolidine	normalName:oxazolidine	normalWikiTitle:oxazolidine	predictedType:Chemical
+ENTITY	text:methylphenidate	normalName:methylphenidate	predictedType:chemical	q:true	qid:Q874	docId:9022662	origText:methylphenidate	url:D008774
+CANDIDATE	id:8774	inCount:9	outCount:2	links:	url:D008774	name:Methylphenidate	normalName:methylphenidate	normalWikiTitle:methylphenidate	predictedType:Chemical
+ENTITY	text:Pemoline	normalName:pemoline	predictedType:chemical	q:true	qid:Q874	docId:9022662	origText:Pemoline	url:D010389
+CANDIDATE	id:10389	inCount:2	outCount:1	links:	url:D010389	name:Pemoline	normalName:pemoline	normalWikiTitle:pemoline	predictedType:Chemical
+ENTITY	text:benzodiazepines	normalName:benzodiazepines	predictedType:chemical	q:true	qid:Q874	docId:9022662	origText:benzodiazepines	url:D001569
+CANDIDATE	id:1569	inCount:260	outCount:1	links:	url:D001569	name:Benzodiazepine	normalName:benzodiazepine	normalWikiTitle:benzodiazepine	predictedType:Chemical

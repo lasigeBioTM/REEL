@@ -1,0 +1,10 @@
+ENTITY	text:valdecoxib	normalName:valdecoxib	predictedType:chemical	q:true	qid:Q1295	docId:15266215	origText:valdecoxib	url:C406224
+CANDIDATE	id:406224	inCount:0	outCount:2	links:	url:C406224	name:valdecoxib	normalName:valdecoxib	normalWikiTitle:valdecoxib	predictedType:Chemical
+ENTITY	text:aspirin	normalName:aspirin	predictedType:chemical	q:true	qid:Q1295	docId:15266215	origText:aspirin	url:D001241
+CANDIDATE	id:1241	inCount:106	outCount:1	links:9288	url:D001241	name:Aspirin	normalName:aspirin	normalWikiTitle:aspirin	predictedType:Chemical
+ENTITY	text:ibuprofen	normalName:ibuprofen	predictedType:chemical	q:true	qid:Q1295	docId:15266215	origText:ibuprofen	url:D007052
+CANDIDATE	id:7052	inCount:34	outCount:1	links:4008	url:D007052	name:Ibuprofen	normalName:ibuprofen	normalWikiTitle:ibuprofen	predictedType:Chemical
+ENTITY	text:diclofenac	normalName:diclofenac	predictedType:chemical	q:true	qid:Q1295	docId:15266215	origText:diclofenac	url:D004008
+CANDIDATE	id:4008	inCount:32	outCount:1	links:7052	url:D004008	name:Diclofenac	normalName:diclofenac	normalWikiTitle:diclofenac	predictedType:Chemical
+ENTITY	text:naproxen	normalName:naproxen	predictedType:chemical	q:true	qid:Q1295	docId:15266215	origText:naproxen	url:D009288
+CANDIDATE	id:9288	inCount:25	outCount:1	links:1241	url:D009288	name:Naproxen	normalName:naproxen	normalWikiTitle:naproxen	predictedType:Chemical

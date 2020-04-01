@@ -1,0 +1,6 @@
+ENTITY	text:Crohn's disease	normalName:crohn's disease	predictedType:disease	q:true	qid:Q78	docId:1420741	origText:Crohn's disease	url:D003424
+CANDIDATE	id:3424	inCount:1	outCount:1	links:	url:D003424	name:Crohn's Disease	normalName:crohn's disease	normalWikiTitle:crohn's disease	predictedType:Disease
+ENTITY	text:nausea	normalName:nausea	predictedType:disease	q:true	qid:Q78	docId:1420741	origText:nausea	url:D009325
+CANDIDATE	id:9325	inCount:2	outCount:1	links:	url:D009325	name:Nausea	normalName:nausea	normalWikiTitle:nausea	predictedType:Disease
+ENTITY	text:inflammatory bowel disease	normalName:inflammatory bowel disease	predictedType:disease	q:true	qid:Q78	docId:1420741	origText:inflammatory bowel disease	url:D015212
+CANDIDATE	id:15212	inCount:31	outCount:2	links:	url:D015212	name:Inflammatory Bowel Disease	normalName:inflammatory bowel disease	normalWikiTitle:inflammatory bowel disease	predictedType:Disease

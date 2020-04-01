@@ -1,0 +1,6 @@
+ENTITY	text:renal insufficiency	normalName:renal insufficiency	predictedType:disease	q:true	qid:Q131	docId:1289188	origText:renal insufficiency	url:D051437
+CANDIDATE	id:51437	inCount:10	outCount:1	links:	url:D051437	name:Renal Insufficiency	normalName:renal insufficiency	normalWikiTitle:renal insufficiency	predictedType:Disease
+ENTITY	text:thalassemia	normalName:thalassemia	predictedType:disease	q:true	qid:Q131	docId:1289188	origText:thalassemia	url:D013789
+CANDIDATE	id:13789	inCount:3	outCount:2	links:	url:D013789	name:Thalassemia	normalName:thalassemia	normalWikiTitle:thalassemia	predictedType:Disease
+ENTITY	text:Acute renal failure	normalName:acute renal failure	predictedType:disease	q:true	qid:Q131	docId:1289188	origText:Acute renal failure	url:D058186
+CANDIDATE	id:58186	inCount:2	outCount:1	links:	url:D058186	name:Acute Renal Failure	normalName:acute renal failure	normalWikiTitle:acute renal failure	predictedType:Disease

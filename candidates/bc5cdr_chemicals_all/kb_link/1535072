@@ -1,0 +1,6 @@
+ENTITY	text:Yohimbine	normalName:yohimbine	predictedType:chemical	q:true	qid:Q994	docId:1535072	origText:Yohimbine	url:D015016
+CANDIDATE	id:15016	inCount:27	outCount:1	links:	url:D015016	name:Yohimbine	normalName:yohimbine	normalWikiTitle:yohimbine	predictedType:Chemical
+ENTITY	text:serotonin	normalName:serotonin	predictedType:chemical	q:true	qid:Q994	docId:1535072	origText:serotonin	url:D012701
+CANDIDATE	id:12701	inCount:48	outCount:2	links:	url:D012701	name:Serotonin	normalName:serotonin	normalWikiTitle:serotonin	predictedType:Chemical
+ENTITY	text:clomipramine	normalName:clomipramine	predictedType:chemical	q:true	qid:Q994	docId:1535072	origText:clomipramine	url:D002997
+CANDIDATE	id:2997	inCount:3	outCount:1	links:	url:D002997	name:Clomipramine	normalName:clomipramine	normalWikiTitle:clomipramine	predictedType:Chemical

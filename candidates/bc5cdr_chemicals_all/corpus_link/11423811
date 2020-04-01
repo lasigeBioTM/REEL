@@ -1,0 +1,6 @@
+ENTITY	text:atropine	normalName:atropine	predictedType:chemical	q:true	qid:Q972	docId:11423811	origText:atropine	url:D001285
+CANDIDATE	id:1285	inCount:16	outCount:1	links:	url:D001285	name:Atropine	normalName:atropine	normalWikiTitle:atropine	predictedType:Chemical
+ENTITY	text:dobutamine	normalName:dobutamine	predictedType:chemical	q:true	qid:Q972	docId:11423811	origText:dobutamine	url:D004280
+CANDIDATE	id:4280	inCount:2	outCount:2	links:3042	url:D004280	name:Dobutamine	normalName:dobutamine	normalWikiTitle:dobutamine	predictedType:Chemical
+ENTITY	text:cocaine	normalName:cocaine	predictedType:chemical	q:true	qid:Q972	docId:11423811	origText:cocaine	url:D003042
+CANDIDATE	id:3042	inCount:89	outCount:1	links:4280	url:D003042	name:Cocaine	normalName:cocaine	normalWikiTitle:cocaine	predictedType:Chemical

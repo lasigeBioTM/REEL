@@ -1,0 +1,4 @@
+ENTITY	text:diazepam	normalName:diazepam	predictedType:chemical	q:true	qid:Q900	docId:6387529	origText:diazepam	url:D003975
+CANDIDATE	id:3975	inCount:21	outCount:1	links:	url:D003975	name:Diazepam	normalName:diazepam	normalWikiTitle:diazepam	predictedType:Chemical
+ENTITY	text:propranolol	normalName:propranolol	predictedType:chemical	q:true	qid:Q900	docId:6387529	origText:propranolol	url:D011433
+CANDIDATE	id:11433	inCount:46	outCount:2	links:	url:D011433	name:Propranolol	normalName:propranolol	normalWikiTitle:propranolol	predictedType:Chemical

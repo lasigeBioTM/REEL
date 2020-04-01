@@ -1,0 +1,8 @@
+ENTITY	text:dyslipidemia	normalName:dyslipidemia	predictedType:disease	q:true	qid:Q118	docId:15276093	origText:dyslipidemia	url:D050171
+CANDIDATE	id:50171	inCount:14	outCount:1	links:	url:D050171	name:Dyslipidemia	normalName:dyslipidemia	normalWikiTitle:dyslipidemia	predictedType:Disease
+ENTITY	text:hypercholesterolemia	normalName:hypercholesterolemia	predictedType:disease	q:true	qid:Q118	docId:15276093	origText:hypercholesterolemia	url:D006937
+CANDIDATE	id:6937	inCount:5	outCount:1	links:	url:D006937	name:Hypercholesterolemia	normalName:hypercholesterolemia	normalWikiTitle:hypercholesterolemia	predictedType:Disease
+ENTITY	text:myopathy	normalName:myopathy	predictedType:disease	q:true	qid:Q118	docId:15276093	origText:myopathy	url:D009135
+CANDIDATE	id:9135	inCount:77	outCount:2	links:	url:D009135	name:Myopathy	normalName:myopathy	normalWikiTitle:myopathy	predictedType:Disease
+ENTITY	text:Flushing	normalName:flushing	predictedType:disease	q:true	qid:Q118	docId:15276093	origText:Flushing	url:D005483
+CANDIDATE	id:5483	inCount:2	outCount:1	links:	url:D005483	name:Flushing	normalName:flushing	normalWikiTitle:flushing	predictedType:Disease

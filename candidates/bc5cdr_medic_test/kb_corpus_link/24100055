@@ -1,0 +1,21 @@
+ENTITY	text:thrombocytopenia type II	normalName:thrombocytopenia type ii	predictedType:disease	q:true	qid:Q273	docId:24100055	origText:thrombocytopenia type II	url:D013921
+CANDIDATE	id:13921	inCount:42	outCount:1	links:13921	url:D013921	name:Thrombocytopenia	normalName:thrombocytopenia	normalWikiTitle:thrombocytopenia	predictedType:Disease
+CANDIDATE	id:567438	inCount:0	outCount:1	links:	url:C567438	name:Thrombocytopenia 4	normalName:thrombocytopenia 4	normalWikiTitle:thrombocytopenia 4	predictedType:Disease
+CANDIDATE	id:616937	inCount:0	outCount:1	links:	url:616937	name:THROMBOCYTOPENIA 6	normalName:thrombocytopenia 6	normalWikiTitle:thrombocytopenia 6	predictedType:Disease
+CANDIDATE	id:567487	inCount:0	outCount:1	links:	url:C567487	name:Thrombocytopenia 3	normalName:thrombocytopenia 3	normalWikiTitle:thrombocytopenia 3	predictedType:Disease
+CANDIDATE	id:564052	inCount:0	outCount:2	links:	url:C564052	name:Thrombocytopenia 1	normalName:thrombocytopenia 1	normalWikiTitle:thrombocytopenia 1	predictedType:Disease
+CANDIDATE	id:188000	inCount:0	outCount:1	links:	url:188000	name:THROMBOCYTOPENIA 2	normalName:thrombocytopenia 2	normalWikiTitle:thrombocytopenia 2	predictedType:Disease
+CANDIDATE	id:616216	inCount:0	outCount:1	links:	url:616216	name:THROMBOCYTOPENIA 5	normalName:thrombocytopenia 5	normalWikiTitle:thrombocytopenia 5	predictedType:Disease
+CANDIDATE	id:536899	inCount:0	outCount:1	links:	url:C536899	name:Thrombocytopenia, cyclic	normalName:thrombocytopenia, cyclic	normalWikiTitle:thrombocytopenia, cyclic	predictedType:Disease
+CANDIDATE	id:564526	inCount:0	outCount:2	links:	url:C564526	name:Macrothrombocytopenia, X-Linked	normalName:macrothrombocytopenia, x-linked	normalWikiTitle:macrothrombocytopenia, x-linked	predictedType:Disease
+CANDIDATE	id:536940	inCount:0	outCount:2	links:	url:C536940	name:Absent radii and thrombocytopenia	normalName:absent radii and thrombocytopenia	normalWikiTitle:absent radii and thrombocytopenia	predictedType:Disease
+ENTITY	text:endotoxemia	normalName:endotoxemia	predictedType:disease	q:true	qid:Q273	docId:24100055	origText:endotoxemia	url:D019446
+CANDIDATE	id:19446	inCount:0	outCount:2	links:	url:D019446	name:Endotoxemia	normalName:endotoxemia	normalWikiTitle:endotoxemia	predictedType:Disease
+ENTITY	text:portal hypertension	normalName:portal hypertension	predictedType:disease	q:true	qid:Q273	docId:24100055	origText:portal hypertension	url:D006975
+CANDIDATE	id:6975	inCount:3	outCount:1	links:	url:D006975	name:Hypertension, Portal	normalName:hypertension, portal	normalWikiTitle:hypertension, portal	predictedType:Disease
+ENTITY	text:end-stage liver disease	normalName:end-stage liver disease	predictedType:disease	q:true	qid:Q273	docId:24100055	origText:end-stage liver disease	url:D058625
+CANDIDATE	id:58625	inCount:0	outCount:1	links:	url:D058625	name:End Stage Liver Disease	normalName:end stage liver disease	normalWikiTitle:end stage liver disease	predictedType:Disease
+ENTITY	text:Thrombocytopenia	normalName:thrombocytopenia	predictedType:disease	q:true	qid:Q273	docId:24100055	origText:Thrombocytopenia	url:D013921
+CANDIDATE	id:13921	inCount:42	outCount:1	links:13921	url:D013921	name:Thrombocytopenia	normalName:thrombocytopenia	normalWikiTitle:thrombocytopenia	predictedType:Disease
+ENTITY	text:liver cirrhosis	normalName:liver cirrhosis	predictedType:disease	q:true	qid:Q273	docId:24100055	origText:liver cirrhosis	url:D008103
+CANDIDATE	id:8103	inCount:11	outCount:1	links:	url:D008103	name:Liver Cirrhosis	normalName:liver cirrhosis	normalWikiTitle:liver cirrhosis	predictedType:Disease

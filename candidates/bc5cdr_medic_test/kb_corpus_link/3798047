@@ -1,0 +1,6 @@
+ENTITY	text:heart disease	normalName:heart disease	predictedType:disease	q:true	qid:Q69	docId:3798047	origText:heart disease	url:D006331
+CANDIDATE	id:6331	inCount:29	outCount:1	links:	url:D006331	name:Disease, Heart	normalName:disease, heart	normalWikiTitle:disease, heart	predictedType:Disease
+ENTITY	text:Bradycardia	normalName:bradycardia	predictedType:disease	q:true	qid:Q69	docId:3798047	origText:Bradycardia	url:D001919
+CANDIDATE	id:1919	inCount:0	outCount:1	links:	url:D001919	name:Bradycardia	normalName:bradycardia	normalWikiTitle:bradycardia	predictedType:Disease
+ENTITY	text:rheumatoid arthritis	normalName:rheumatoid arthritis	predictedType:disease	q:true	qid:Q69	docId:3798047	origText:rheumatoid arthritis	url:D001172
+CANDIDATE	id:1172	inCount:8	outCount:3	links:	url:D001172	name:Arthritis, Rheumatoid	normalName:arthritis, rheumatoid	normalWikiTitle:arthritis, rheumatoid	predictedType:Disease

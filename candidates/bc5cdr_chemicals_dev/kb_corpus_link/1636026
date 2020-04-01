@@ -1,0 +1,8 @@
+ENTITY	text:sodium	normalName:sodium	predictedType:chemical	q:true	qid:Q167	docId:1636026	origText:sodium	url:D012964
+CANDIDATE	id:12964	inCount:10	outCount:2	links:	url:D012964	name:Sodium	normalName:sodium	normalWikiTitle:sodium	predictedType:Chemical
+ENTITY	text:uric acid	normalName:uric acid	predictedType:chemical	q:true	qid:Q167	docId:1636026	origText:uric acid	url:D014527
+CANDIDATE	id:14527	inCount:21	outCount:1	links:	url:D014527	name:Uric Acid	normalName:uric acid	normalWikiTitle:uric acid	predictedType:Chemical
+ENTITY	text:suprofen	normalName:suprofen	predictedType:chemical	q:true	qid:Q167	docId:1636026	origText:suprofen	url:D013496
+CANDIDATE	id:13496	inCount:4	outCount:1	links:	url:D013496	name:Suprofen	normalName:suprofen	normalWikiTitle:suprofen	predictedType:Chemical
+ENTITY	text:oxygen	normalName:oxygen	predictedType:chemical	q:true	qid:Q167	docId:1636026	origText:oxygen	url:D010100
+CANDIDATE	id:10100	inCount:11	outCount:2	links:	url:D010100	name:Oxygen	normalName:oxygen	normalWikiTitle:oxygen	predictedType:Chemical

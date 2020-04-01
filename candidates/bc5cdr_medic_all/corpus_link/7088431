@@ -1,0 +1,4 @@
+ENTITY	text:carcinoma	normalName:carcinoma	predictedType:disease	q:true	qid:Q1307	docId:7088431	origText:carcinoma	url:D002277
+CANDIDATE	id:2277	inCount:25	outCount:1	links:	url:D002277	name:Carcinoma	normalName:carcinoma	normalWikiTitle:carcinoma	predictedType:Disease
+ENTITY	text:clear cell adenocarcinoma	normalName:clear cell adenocarcinoma	predictedType:disease	q:true	qid:Q1307	docId:7088431	origText:clear cell adenocarcinoma	url:D018262
+CANDIDATE	id:18262	inCount:0	outCount:1	links:	url:D018262	name:Adenocarcinoma, Clear Cell	normalName:adenocarcinoma, clear cell	normalWikiTitle:adenocarcinoma, clear cell	predictedType:Disease

@@ -1,0 +1,55 @@
+ENTITY	text:vasculitis	normalName:vasculitis	predictedType:disease	q:true	qid:Q333	docId:19263707	origText:vasculitis	url:D014657
+CANDIDATE	id:14657	inCount:16	outCount:1	links:14657;5334	url:D014657	name:Vasculitis	normalName:vasculitis	normalWikiTitle:vasculitis	predictedType:Disease
+ENTITY	text:parotiditis	normalName:parotiditis	predictedType:disease	q:true	qid:Q333	docId:19263707	origText:parotiditis	url:D010309
+CANDIDATE	id:10309	inCount:3	outCount:2	links:56648;1168;5334	url:D010309	name:Parotiditis	normalName:parotiditis	normalWikiTitle:parotiditis	predictedType:Disease
+ENTITY	text:arthritis	normalName:arthritis	predictedType:disease	q:true	qid:Q333	docId:19263707	origText:arthritis	url:D001168
+CANDIDATE	id:1168	inCount:24	outCount:1	links:56648;10309;5334	url:D001168	name:Arthritis	normalName:arthritis	normalWikiTitle:arthritis	predictedType:Disease
+ENTITY	text:myositis	normalName:myositis	predictedType:disease	q:true	qid:Q333	docId:19263707	origText:myositis	url:D009220
+CANDIDATE	id:9220	inCount:8	outCount:1	links:5334	url:D009220	name:Myositis	normalName:myositis	normalWikiTitle:myositis	predictedType:Disease
+ENTITY	text:Antineutrophil cytoplasmic antibody (ANCA)--associated vasculitis	normalName:antineutrophil cytoplasmic antibody (anca)--associated vasculitis	predictedType:disease	q:true	qid:Q333	docId:19263707	origText:Antineutrophil cytoplasmic antibody (ANCA)--associated vasculitis	url:D056648
+CANDIDATE	id:56648	inCount:3	outCount:2	links:56648;1168;10309;5334	url:D056648	name:Anti-Neutrophil Cytoplasmic Antibody-Associated Vasculitis	normalName:anti-neutrophil cytoplasmic antibody-associated vasculitis	normalWikiTitle:anti-neutrophil cytoplasmic antibody-associated vasculitis	predictedType:Disease
+CANDIDATE	id:18366	inCount:1	outCount:2	links:18366	url:D018366	name:Vasculitis, Leukocytoclastic, Cutaneous	normalName:vasculitis, leukocytoclastic, cutaneous	normalWikiTitle:vasculitis, leukocytoclastic, cutaneous	predictedType:Disease
+CANDIDATE	id:20293	inCount:6	outCount:3	links:20293	url:D020293	name:Vasculitis, Central Nervous System	normalName:vasculitis, central nervous system	normalWikiTitle:vasculitis, central nervous system	predictedType:Disease
+CANDIDATE	id:565395	inCount:0	outCount:3	links:	url:C565395	name:Metaphyseal Dysplasia, Anetoderma, and Optic Atrophy	normalName:metaphyseal dysplasia, anetoderma, and optic atrophy	normalWikiTitle:metaphyseal dysplasia, anetoderma, and optic atrophy	predictedType:Disease
+CANDIDATE	id:565626	inCount:0	outCount:1	links:	url:C565626	name:Diastrophic Dysplasia, Broad Bone-Platyspondylic Variant	normalName:diastrophic dysplasia, broad bone-platyspondylic variant	normalWikiTitle:diastrophic dysplasia, broad bone-platyspondylic variant	predictedType:Disease
+CANDIDATE	id:614878	inCount:0	outCount:3	links:	url:614878	name:AUTOINFLAMMATION, ANTIBODY DEFICIENCY, AND IMMUNE DYSREGULATION, PLCG2-ASSOCIATED	normalName:autoinflammation, antibody deficiency, and immune dysregulation, plcg2-associated	normalWikiTitle:autoinflammation, antibody deficiency, and immune dysregulation, plcg2-associated	predictedType:Disease
+ENTITY	text:ANCA positive vasculitis	normalName:anca positive vasculitis	predictedType:disease	q:true	qid:Q333	docId:19263707	origText:ANCA positive vasculitis	url:D056648
+CANDIDATE	id:56648	inCount:3	outCount:2	links:56648;1168;10309;5334	url:D056648	name:ANCA-Associated Vasculitide	normalName:anca-associated vasculitide	normalWikiTitle:anca-associated vasculitide	predictedType:Disease
+CANDIDATE	id:56647	inCount:3	outCount:1	links:56647	url:D056647	name:Systemic Vasculitis	normalName:systemic vasculitis	normalWikiTitle:systemic vasculitis	predictedType:Disease
+CANDIDATE	id:20293	inCount:6	outCount:3	links:20293	url:D020293	name:Vasculitis, Central Nervous System	normalName:vasculitis, central nervous system	normalWikiTitle:vasculitis, central nervous system	predictedType:Disease
+CANDIDATE	id:56653	inCount:0	outCount:2	links:	url:D056653	name:Rheumatoid Vasculitis	normalName:rheumatoid vasculitis	normalWikiTitle:rheumatoid vasculitis	predictedType:Disease
+CANDIDATE	id:31300	inCount:1	outCount:2	links:31300	url:D031300	name:Retinal Vasculitis	normalName:retinal vasculitis	normalWikiTitle:retinal vasculitis	predictedType:Disease
+CANDIDATE	id:10201	inCount:0	outCount:1	links:	url:D010201	name:Panniculitis, Nodular Nonsuppurative	normalName:panniculitis, nodular nonsuppurative	normalWikiTitle:panniculitis, nodular nonsuppurative	predictedType:Disease
+CANDIDATE	id:20945	inCount:0	outCount:3	links:	url:D020945	name:Lupus Vasculitis, Central Nervous System	normalName:lupus vasculitis, central nervous system	normalWikiTitle:lupus vasculitis, central nervous system	predictedType:Disease
+CANDIDATE	id:18366	inCount:1	outCount:2	links:18366	url:D018366	name:Vasculitis, Leukocytoclastic, Cutaneous	normalName:vasculitis, leukocytoclastic, cutaneous	normalWikiTitle:vasculitis, leukocytoclastic, cutaneous	predictedType:Disease
+CANDIDATE	id:14657	inCount:16	outCount:1	links:14657;5334	url:D014657	name:Vasculitis	normalName:vasculitis	normalWikiTitle:vasculitis	predictedType:Disease
+CANDIDATE	id:69282	inCount:0	outCount:1	links:69282	url:D000069282	name:Canaliculitis	normalName:canaliculitis	normalWikiTitle:canaliculitis	predictedType:Disease
+CANDIDATE	id:537894	inCount:0	outCount:1	links:	url:C537894	name:Phacomatosis pigmentovascularis	normalName:phacomatosis pigmentovascularis	normalWikiTitle:phacomatosis pigmentovascularis	predictedType:Disease
+CANDIDATE	id:56648	inCount:3	outCount:2	links:56648;1168;10309;5334	url:D056648	name:ANCA-Associated Vasculitis	normalName:anca-associated vasculitis	normalWikiTitle:anca-associated vasculitis	predictedType:Disease
+CANDIDATE	id:56648	inCount:3	outCount:2	links:56648;1168;10309;5334	url:D056648	name:ANCA Associated Vasculitis	normalName:anca associated vasculitis	normalWikiTitle:anca associated vasculitis	predictedType:Disease
+CANDIDATE	id:56648	inCount:3	outCount:2	links:56648;1168;10309;5334	url:D056648	name:Vasculitis, ANCA-Associated	normalName:vasculitis, anca-associated	normalWikiTitle:vasculitis, anca-associated	predictedType:Disease
+CANDIDATE	id:56648	inCount:3	outCount:2	links:56648;1168;10309;5334	url:D056648	name:Vasculitides, ANCA-Associated	normalName:vasculitides, anca-associated	normalWikiTitle:vasculitides, anca-associated	predictedType:Disease
+CANDIDATE	id:56648	inCount:3	outCount:2	links:56648;1168;10309;5334	url:D056648	name:ANCA Associated Vasculitides	normalName:anca associated vasculitides	normalWikiTitle:anca associated vasculitides	predictedType:Disease
+CANDIDATE	id:56648	inCount:3	outCount:2	links:56648;1168;10309;5334	url:D056648	name:ANCA-Associated Vasculitides	normalName:anca-associated vasculitides	normalWikiTitle:anca-associated vasculitides	predictedType:Disease
+CANDIDATE	id:56648	inCount:3	outCount:2	links:56648;1168;10309;5334	url:D056648	name:Vasculitide, ANCA-Associated	normalName:vasculitide, anca-associated	normalWikiTitle:vasculitide, anca-associated	predictedType:Disease
+CANDIDATE	id:20943	inCount:0	outCount:3	links:	url:D020943	name:HIV-Associated CNS Vasculitis	normalName:hiv-associated cns vasculitis	normalWikiTitle:hiv-associated cns vasculitis	predictedType:Disease
+CANDIDATE	id:20943	inCount:0	outCount:3	links:	url:D020943	name:CNS Vasculitis, HIV-Associated	normalName:cns vasculitis, hiv-associated	normalWikiTitle:cns vasculitis, hiv-associated	predictedType:Disease
+ENTITY	text:vasculitic	normalName:vasculitic	predictedType:disease	q:true	qid:Q333	docId:19263707	origText:vasculitic	url:D014657
+CANDIDATE	id:14657	inCount:16	outCount:1	links:14657;5334	url:D014657	name:Vasculitis	normalName:vasculitis	normalWikiTitle:vasculitis	predictedType:Disease
+CANDIDATE	id:14847	inCount:2	outCount:1	links:	url:D014847	name:Vulvitis	normalName:vulvitis	normalWikiTitle:vulvitis	predictedType:Disease
+CANDIDATE	id:12585	inCount:1	outCount:2	links:	url:D012585	name:Sciatica	normalName:sciatica	normalWikiTitle:sciatica	predictedType:Disease
+CANDIDATE	id:15434	inCount:6	outCount:2	links:	url:D015434	name:Panniculitis	normalName:panniculitis	normalWikiTitle:panniculitis	predictedType:Disease
+CANDIDATE	id:31300	inCount:1	outCount:2	links:31300	url:D031300	name:Retinal Vasculitis	normalName:retinal vasculitis	normalWikiTitle:retinal vasculitis	predictedType:Disease
+CANDIDATE	id:5208	inCount:4	outCount:1	links:	url:D005208	name:Fasciitis	normalName:fasciitis	normalWikiTitle:fasciitis	predictedType:Disease
+CANDIDATE	id:15423	inCount:0	outCount:1	links:	url:D015423	name:Scleritis	normalName:scleritis	normalWikiTitle:scleritis	predictedType:Disease
+CANDIDATE	id:56647	inCount:3	outCount:1	links:56647	url:D056647	name:Systemic Vasculitis	normalName:systemic vasculitis	normalWikiTitle:systemic vasculitis	predictedType:Disease
+CANDIDATE	id:5207	inCount:1	outCount:1	links:	url:D005207	name:Fasciculation	normalName:fasciculation	normalWikiTitle:fasciculation	predictedType:Disease
+CANDIDATE	id:69282	inCount:0	outCount:1	links:69282	url:D000069282	name:Canaliculitis	normalName:canaliculitis	normalWikiTitle:canaliculitis	predictedType:Disease
+ENTITY	text:skin rash	normalName:skin rash	predictedType:disease	q:true	qid:Q333	docId:19263707	origText:skin rash	url:D005076
+CANDIDATE	id:5076	inCount:1	outCount:1	links:	url:D005076	name:Rash, Skin	normalName:rash, skin	normalWikiTitle:rash, skin	predictedType:Disease
+ENTITY	text:pyrexia	normalName:pyrexia	predictedType:disease	q:true	qid:Q333	docId:19263707	origText:pyrexia	url:D005334
+CANDIDATE	id:5334	inCount:5	outCount:1	links:9220;1168;14657;10309;56648	url:D005334	name:Pyrexia	normalName:pyrexia	normalWikiTitle:pyrexia	predictedType:Disease
+ENTITY	text:hyperthyroidism	normalName:hyperthyroidism	predictedType:disease	q:true	qid:Q333	docId:19263707	origText:hyperthyroidism	url:D006980
+CANDIDATE	id:6980	inCount:6	outCount:1	links:	url:D006980	name:Hyperthyroidism	normalName:hyperthyroidism	normalWikiTitle:hyperthyroidism	predictedType:Disease
+ENTITY	text:Graves' disease	normalName:graves' disease	predictedType:disease	q:true	qid:Q333	docId:19263707	origText:Graves' disease	url:D006111
+CANDIDATE	id:6111	inCount:3	outCount:4	links:	url:D006111	name:Graves Disease	normalName:graves disease	normalWikiTitle:graves disease	predictedType:Disease

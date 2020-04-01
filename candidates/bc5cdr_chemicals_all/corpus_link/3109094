@@ -1,0 +1,6 @@
+ENTITY	text:luminal	normalName:luminal	predictedType:chemical	q:true	qid:Q364	docId:3109094	origText:luminal	url:D010634
+CANDIDATE	id:10634	inCount:50	outCount:1	links:	url:D010634	name:Luminal	normalName:luminal	normalWikiTitle:luminal	predictedType:Chemical
+ENTITY	text:mesna	normalName:mesna	predictedType:chemical	q:true	qid:Q364	docId:3109094	origText:mesna	url:D015080
+CANDIDATE	id:15080	inCount:22	outCount:2	links:3520	url:D015080	name:Mesna	normalName:mesna	normalWikiTitle:mesna	predictedType:Chemical
+ENTITY	text:cyclophosphamide	normalName:cyclophosphamide	predictedType:chemical	q:true	qid:Q364	docId:3109094	origText:cyclophosphamide	url:D003520
+CANDIDATE	id:3520	inCount:474	outCount:1	links:15080	url:D003520	name:Cyclophosphamide	normalName:cyclophosphamide	normalWikiTitle:cyclophosphamide	predictedType:Chemical

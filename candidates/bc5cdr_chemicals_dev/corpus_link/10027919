@@ -1,0 +1,10 @@
+ENTITY	text:22-oxacalcitriol	normalName:22-oxacalcitriol	predictedType:chemical	q:true	qid:Q321	docId:10027919	origText:22-oxacalcitriol	url:C051883
+CANDIDATE	id:51883	inCount:0	outCount:1	links:2117	url:C051883	name:22-oxacalcitriol	normalName:22-oxacalcitriol	normalWikiTitle:22-oxacalcitriol	predictedType:Chemical
+ENTITY	text:phosphate	normalName:phosphate	predictedType:chemical	q:true	qid:Q321	docId:10027919	origText:phosphate	url:D010710
+CANDIDATE	id:10710	inCount:107	outCount:2	links:	url:D010710	name:Phosphate	normalName:phosphate	normalWikiTitle:phosphate	predictedType:Chemical
+ENTITY	text:vitamin D	normalName:vitamin d	predictedType:chemical	q:true	qid:Q321	docId:10027919	origText:vitamin D	url:D014807
+CANDIDATE	id:14807	inCount:27	outCount:1	links:	url:D014807	name:Vitamin D	normalName:vitamin d	normalWikiTitle:vitamin d	predictedType:Chemical
+ENTITY	text:calcium	normalName:calcium	predictedType:chemical	q:true	qid:Q321	docId:10027919	origText:calcium	url:D002118
+CANDIDATE	id:2118	inCount:11	outCount:2	links:	url:D002118	name:Calcium	normalName:calcium	normalWikiTitle:calcium	predictedType:Chemical
+ENTITY	text:Calcitriol	normalName:calcitriol	predictedType:chemical	q:true	qid:Q321	docId:10027919	origText:Calcitriol	url:D002117
+CANDIDATE	id:2117	inCount:124	outCount:1	links:51883	url:D002117	name:Calcitriol	normalName:calcitriol	normalWikiTitle:calcitriol	predictedType:Chemical

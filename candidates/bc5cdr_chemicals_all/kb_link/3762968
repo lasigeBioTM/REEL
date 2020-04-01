@@ -1,0 +1,6 @@
+ENTITY	text:tolazamide	normalName:tolazamide	predictedType:chemical	q:true	qid:Q27	docId:3762968	origText:tolazamide	url:D014042
+CANDIDATE	id:14042	inCount:0	outCount:1	links:	url:D014042	name:Tolazamide	normalName:tolazamide	normalWikiTitle:tolazamide	predictedType:Chemical
+ENTITY	text:thiamine	normalName:thiamine	predictedType:chemical	q:true	qid:Q27	docId:3762968	origText:thiamine	url:D013831
+CANDIDATE	id:13831	inCount:62	outCount:2	links:	url:D013831	name:Thiamine	normalName:thiamine	normalWikiTitle:thiamine	predictedType:Chemical
+ENTITY	text:thiamine pyrophosphate	normalName:thiamine pyrophosphate	predictedType:chemical	q:true	qid:Q27	docId:3762968	origText:thiamine pyrophosphate	url:D013835
+CANDIDATE	id:13835	inCount:12	outCount:2	links:	url:D013835	name:Thiamine Pyrophosphate	normalName:thiamine pyrophosphate	normalWikiTitle:thiamine pyrophosphate	predictedType:Chemical

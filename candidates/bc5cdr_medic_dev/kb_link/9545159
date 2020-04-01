@@ -1,0 +1,20 @@
+ENTITY	text:hypertension	normalName:hypertension	predictedType:disease	q:true	qid:Q446	docId:9545159	origText:hypertension	url:D006973
+CANDIDATE	id:6973	inCount:18	outCount:1	links:	url:D006973	name:Hypertension	normalName:hypertension	normalWikiTitle:hypertension	predictedType:Disease
+ENTITY	text:sudden cardiac death	normalName:sudden cardiac death	predictedType:disease	q:true	qid:Q446	docId:9545159	origText:sudden cardiac death	url:D016757
+CANDIDATE	id:16757	inCount:4	outCount:2	links:	url:D016757	name:Death, Sudden, Cardiac	normalName:death, sudden, cardiac	normalWikiTitle:death, sudden, cardiac	predictedType:Disease
+ENTITY	text:syncope	normalName:syncope	predictedType:disease	q:true	qid:Q446	docId:9545159	origText:syncope	url:D013575
+CANDIDATE	id:13575	inCount:2	outCount:1	links:	url:D013575	name:Syncope	normalName:syncope	normalWikiTitle:syncope	predictedType:Disease
+ENTITY	text:gastroesophageal reflux disorder	normalName:gastroesophageal reflux disorder	predictedType:disease	q:true	qid:Q446	docId:9545159	origText:gastroesophageal reflux disorder	url:D005764
+CANDIDATE	id:5764	inCount:3	outCount:1	links:	url:D005764	name:Gastroesophageal Reflux Disease	normalName:gastroesophageal reflux disease	normalWikiTitle:gastroesophageal reflux disease	predictedType:Disease
+CANDIDATE	id:5764	inCount:3	outCount:1	links:	url:D005764	name:Gastroesophageal Reflux	normalName:gastroesophageal reflux	normalWikiTitle:gastroesophageal reflux	predictedType:Disease
+CANDIDATE	id:15154	inCount:5	outCount:1	links:	url:D015154	name:Esophageal Motility Disorders	normalName:esophageal motility disorders	normalWikiTitle:esophageal motility disorders	predictedType:Disease
+CANDIDATE	id:4935	inCount:11	outCount:1	links:	url:D004935	name:Esophageal Diseases	normalName:esophageal diseases	normalWikiTitle:esophageal diseases	predictedType:Disease
+CANDIDATE	id:57045	inCount:1	outCount:2	links:	url:D057045	name:Laryngopharyngeal Reflux	normalName:laryngopharyngeal reflux	normalWikiTitle:laryngopharyngeal reflux	predictedType:Disease
+CANDIDATE	id:12753	inCount:0	outCount:1	links:	url:D012753	name:Shared Paranoid Disorder	normalName:shared paranoid disorder	normalWikiTitle:shared paranoid disorder	predictedType:Disease
+CANDIDATE	id:20435	inCount:1	outCount:1	links:	url:D020435	name:Glossopharyngeal Nerve Diseases	normalName:glossopharyngeal nerve diseases	normalWikiTitle:glossopharyngeal nerve diseases	predictedType:Disease
+CANDIDATE	id:4383	inCount:1	outCount:2	links:	url:D004383	name:Duodenogastric Reflux	normalName:duodenogastric reflux	normalWikiTitle:duodenogastric reflux	predictedType:Disease
+CANDIDATE	id:40921	inCount:5	outCount:1	links:	url:D040921	name:Stress Disorders, Traumatic	normalName:stress disorders, traumatic	normalWikiTitle:stress disorders, traumatic	predictedType:Disease
+CANDIDATE	id:10608	inCount:8	outCount:2	links:	url:D010608	name:Pharyngeal Diseases	normalName:pharyngeal diseases	normalWikiTitle:pharyngeal diseases	predictedType:Disease
+CANDIDATE	id:567577	inCount:0	outCount:3	links:	url:C567577	name:Otopalatodigital Spectrum Disorder	normalName:otopalatodigital spectrum disorder	normalWikiTitle:otopalatodigital spectrum disorder	predictedType:Disease
+ENTITY	text:torsades de pointes	normalName:torsades de pointes	predictedType:disease	q:true	qid:Q446	docId:9545159	origText:torsades de pointes	url:D016171
+CANDIDATE	id:16171	inCount:0	outCount:1	links:	url:D016171	name:Torsades de Pointes	normalName:torsades de pointes	normalWikiTitle:torsades de pointes	predictedType:Disease

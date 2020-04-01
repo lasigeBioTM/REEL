@@ -1,0 +1,31 @@
+ENTITY	text:bradycardic	normalName:bradycardic	predictedType:disease	q:true	qid:Q143	docId:17223814	origText:bradycardic	url:D001919
+CANDIDATE	id:1919	inCount:0	outCount:1	links:66126;54537	url:D001919	name:Bradycardia	normalName:bradycardia	normalWikiTitle:bradycardia	predictedType:Disease
+CANDIDATE	id:13610	inCount:7	outCount:2	links:66126	url:D013610	name:Tachycardia	normalName:tachycardia	normalWikiTitle:tachycardia	predictedType:Disease
+CANDIDATE	id:54084	inCount:0	outCount:1	links:	url:D054084	name:Myocardial Bridging	normalName:myocardial bridging	normalWikiTitle:myocardial bridging	predictedType:Disease
+CANDIDATE	id:9205	inCount:2	outCount:1	links:54537	url:D009205	name:Myocarditis	normalName:myocarditis	normalWikiTitle:myocarditis	predictedType:Disease
+CANDIDATE	id:4697	inCount:1	outCount:3	links:	url:D004697	name:Endocarditis, Bacterial	normalName:endocarditis, bacterial	normalWikiTitle:endocarditis, bacterial	predictedType:Disease
+CANDIDATE	id:1145	inCount:27	outCount:2	links:1943;66126;54537	url:D001145	name:Arrhythmias, Cardiac	normalName:arrhythmias, cardiac	normalWikiTitle:arrhythmias, cardiac	predictedType:Disease
+CANDIDATE	id:10493	inCount:3	outCount:1	links:	url:D010493	name:Pericarditis	normalName:pericarditis	normalWikiTitle:pericarditis	predictedType:Disease
+CANDIDATE	id:3914	inCount:4	outCount:2	links:	url:D003914	name:Dextrocardia	normalName:dextrocardia	normalWikiTitle:dextrocardia	predictedType:Disease
+CANDIDATE	id:1198	inCount:0	outCount:1	links:	url:D001198	name:Ascaridiasis	normalName:ascaridiasis	normalWikiTitle:ascaridiasis	predictedType:Disease
+CANDIDATE	id:12208	inCount:4	outCount:1	links:	url:D012208	name:Rhabdomyosarcoma	normalName:rhabdomyosarcoma	normalWikiTitle:rhabdomyosarcoma	predictedType:Disease
+ENTITY	text:carcinoma of the breast	normalName:carcinoma of the breast	predictedType:disease	q:true	qid:Q143	docId:17223814	origText:carcinoma of the breast	url:D001943
+CANDIDATE	id:1943	inCount:19	outCount:2	links:1145	url:D001943	name:Carcinoma, Breast	normalName:carcinoma, breast	normalWikiTitle:carcinoma, breast	predictedType:Disease
+CANDIDATE	id:71960	inCount:2	outCount:2	links:	url:D000071960	name:Breast Carcinoma In Situ	normalName:breast carcinoma in situ	normalWikiTitle:breast carcinoma in situ	predictedType:Disease
+CANDIDATE	id:18270	inCount:0	outCount:2	links:	url:D018270	name:Carcinoma, Ductal, Breast	normalName:carcinoma, ductal, breast	normalWikiTitle:carcinoma, ductal, breast	predictedType:Disease
+CANDIDATE	id:537535	inCount:0	outCount:2	links:	url:C537535	name:Secretory breast carcinoma	normalName:secretory breast carcinoma	normalWikiTitle:secretory breast carcinoma	predictedType:Disease
+CANDIDATE	id:2280	inCount:6	outCount:2	links:	url:D002280	name:Carcinoma, Basal Cell	normalName:carcinoma, basal cell	normalWikiTitle:carcinoma, basal cell	predictedType:Disease
+CANDIDATE	id:537656	inCount:0	outCount:2	links:	url:C537656	name:Basal cell carcinoma, multiple	normalName:basal cell carcinoma, multiple	normalWikiTitle:basal cell carcinoma, multiple	predictedType:Disease
+CANDIDATE	id:615554	inCount:0	outCount:2	links:	url:615554	name:MULTIPLE FIBROADENOMAS OF THE BREAST	normalName:multiple fibroadenomas of the breast	normalWikiTitle:multiple fibroadenomas of the breast	predictedType:Disease
+CANDIDATE	id:18243	inCount:0	outCount:1	links:	url:D018243	name:Teratocarcinoma	normalName:teratocarcinoma	normalWikiTitle:teratocarcinoma	predictedType:Disease
+CANDIDATE	id:65646	inCount:0	outCount:1	links:	url:D065646	name:Thyroid Carcinoma, Anaplastic	normalName:thyroid carcinoma, anaplastic	normalWikiTitle:thyroid carcinoma, anaplastic	predictedType:Disease
+CANDIDATE	id:2284	inCount:0	outCount:1	links:	url:D002284	name:Carcinoma, Brown-Pearce	normalName:carcinoma, brown-pearce	normalWikiTitle:carcinoma, brown-pearce	predictedType:Disease
+CANDIDATE	id:538232	inCount:0	outCount:2	links:	url:C538232	name:Adenosarcoma of the uterus	normalName:adenosarcoma of the uterus	normalWikiTitle:adenosarcoma of the uterus	predictedType:Disease
+CANDIDATE	id:1943	inCount:19	outCount:2	links:1145	url:D001943	name:Breast Carcinoma	normalName:breast carcinoma	normalWikiTitle:breast carcinoma	predictedType:Disease
+CANDIDATE	id:18567	inCount:1	outCount:1	links:	url:D018567	name:Male Breast Carcinoma	normalName:male breast carcinoma	normalWikiTitle:male breast carcinoma	predictedType:Disease
+CANDIDATE	id:18567	inCount:1	outCount:1	links:	url:D018567	name:Carcinoma, Male Breast	normalName:carcinoma, male breast	normalWikiTitle:carcinoma, male breast	predictedType:Disease
+CANDIDATE	id:18567	inCount:1	outCount:1	links:	url:D018567	name:Breast Carcinoma, Male	normalName:breast carcinoma, male	normalWikiTitle:breast carcinoma, male	predictedType:Disease
+ENTITY	text:atrioventricular block	normalName:atrioventricular block	predictedType:disease	q:true	qid:Q143	docId:17223814	origText:atrioventricular block	url:D054537
+CANDIDATE	id:54537	inCount:1	outCount:1	links:66126;9205;1919;1145	url:D054537	name:Atrioventricular Block	normalName:atrioventricular block	normalWikiTitle:atrioventricular block	predictedType:Disease
+ENTITY	text:cardiotoxicity	normalName:cardiotoxicity	predictedType:disease	q:true	qid:Q143	docId:17223814	origText:cardiotoxicity	url:D066126
+CANDIDATE	id:66126	inCount:0	outCount:3	links:54537;13610;1919;1145	url:D066126	name:Cardiotoxicity	normalName:cardiotoxicity	normalWikiTitle:cardiotoxicity	predictedType:Disease

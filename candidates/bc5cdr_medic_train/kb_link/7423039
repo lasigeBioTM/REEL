@@ -1,0 +1,13 @@
+ENTITY	text:cardiotoxic	normalName:cardiotoxic	predictedType:disease	q:true	qid:Q213	docId:7423039	origText:cardiotoxic	url:D066126
+CANDIDATE	id:66126	inCount:0	outCount:3	links:66126	url:D066126	name:Cardiotoxicity	normalName:cardiotoxicity	normalWikiTitle:cardiotoxicity	predictedType:Disease
+CANDIDATE	id:9205	inCount:2	outCount:1	links:	url:D009205	name:Myocarditis	normalName:myocarditis	normalWikiTitle:myocarditis	predictedType:Disease
+CANDIDATE	id:10493	inCount:3	outCount:1	links:	url:D010493	name:Pericarditis	normalName:pericarditis	normalWikiTitle:pericarditis	predictedType:Disease
+CANDIDATE	id:4696	inCount:2	outCount:1	links:	url:D004696	name:Endocarditis	normalName:endocarditis	normalWikiTitle:endocarditis	predictedType:Disease
+CANDIDATE	id:537080	inCount:0	outCount:1	links:	url:C537080	name:Baritosis	normalName:baritosis	normalWikiTitle:baritosis	predictedType:Disease
+CANDIDATE	id:9202	inCount:37	outCount:1	links:	url:D009202	name:Cardiomyopathies	normalName:cardiomyopathies	normalWikiTitle:cardiomyopathies	predictedType:Disease
+CANDIDATE	id:15651	inCount:2	outCount:1	links:	url:D015651	name:Mycotoxicosis	normalName:mycotoxicosis	normalWikiTitle:mycotoxicosis	predictedType:Disease
+CANDIDATE	id:3926	inCount:1	outCount:1	links:	url:D003926	name:Diabetic Coma	normalName:diabetic coma	normalWikiTitle:diabetic coma	predictedType:Disease
+CANDIDATE	id:12770	inCount:0	outCount:2	links:	url:D012770	name:Shock, Cardiogenic	normalName:shock, cardiogenic	normalWikiTitle:shock, cardiogenic	predictedType:Disease
+CANDIDATE	id:54083	inCount:0	outCount:1	links:	url:D054083	name:Ectopia Cordis	normalName:ectopia cordis	normalWikiTitle:ectopia cordis	predictedType:Disease
+ENTITY	text:cardiotoxicity	normalName:cardiotoxicity	predictedType:disease	q:true	qid:Q213	docId:7423039	origText:cardiotoxicity	url:D066126
+CANDIDATE	id:66126	inCount:0	outCount:3	links:66126	url:D066126	name:Cardiotoxicity	normalName:cardiotoxicity	normalWikiTitle:cardiotoxicity	predictedType:Disease

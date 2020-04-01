@@ -1,0 +1,8 @@
+ENTITY	text:caproate	normalName:caproate	predictedType:chemical	q:true	qid:Q1281	docId:1117341	origText:caproate	url:C037652
+CANDIDATE	id:37652	inCount:0	outCount:1	links:	url:C037652	name:caproate	normalName:caproate	normalWikiTitle:caproate	predictedType:Chemical
+ENTITY	text:methionine	normalName:methionine	predictedType:chemical	q:true	qid:Q1281	docId:1117341	origText:methionine	url:D008715
+CANDIDATE	id:8715	inCount:103	outCount:3	links:	url:D008715	name:Methionine	normalName:methionine	normalWikiTitle:methionine	predictedType:Chemical
+ENTITY	text:glucose	normalName:glucose	predictedType:chemical	q:true	qid:Q1281	docId:1117341	origText:glucose	url:D005947
+CANDIDATE	id:5947	inCount:160	outCount:1	links:	url:D005947	name:Glucose	normalName:glucose	normalWikiTitle:glucose	predictedType:Chemical
+ENTITY	text:glutamate	normalName:glutamate	predictedType:chemical	q:true	qid:Q1281	docId:1117341	origText:glutamate	url:D018698
+CANDIDATE	id:18698	inCount:53	outCount:2	links:	url:D018698	name:Glutamate	normalName:glutamate	normalWikiTitle:glutamate	predictedType:Chemical

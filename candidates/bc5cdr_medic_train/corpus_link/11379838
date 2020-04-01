@@ -1,0 +1,68 @@
+ENTITY	text:bipolar I	normalName:bipolar i	predictedType:disease	q:true	qid:Q417	docId:11379838	origText:bipolar I	url:D001714
+CANDIDATE	id:1714	inCount:11	outCount:1	links:	url:D001714	name:Bipolar Disorder	normalName:bipolar disorder	normalWikiTitle:bipolar disorder	predictedType:Disease
+CANDIDATE	id:11141	inCount:1	outCount:2	links:	url:D011141	name:Polyuria	normalName:polyuria	normalWikiTitle:polyuria	predictedType:Disease
+CANDIDATE	id:8883	inCount:1	outCount:1	links:	url:D008883	name:Miliaria	normalName:miliaria	normalWikiTitle:miliaria	predictedType:Disease
+CANDIDATE	id:1658	inCount:0	outCount:1	links:	url:D001658	name:Biliary Fistula	normalName:biliary fistula	normalWikiTitle:biliary fistula	predictedType:Disease
+CANDIDATE	id:48949	inCount:0	outCount:1	links:	url:D048949	name:Labor Pain	normalName:labor pain	normalWikiTitle:labor pain	predictedType:Disease
+CANDIDATE	id:3969	inCount:0	outCount:2	links:	url:D003969	name:Vipoma	normalName:vipoma	normalWikiTitle:vipoma	predictedType:Disease
+CANDIDATE	id:8067	inCount:7	outCount:1	links:	url:D008067	name:Lipoma	normalName:lipoma	normalWikiTitle:lipoma	predictedType:Disease
+CANDIDATE	id:5368	inCount:8	outCount:1	links:	url:D005368	name:Filariasis	normalName:filariasis	normalWikiTitle:filariasis	predictedType:Disease
+CANDIDATE	id:18208	inCount:0	outCount:1	links:	url:D018208	name:Liposarcoma, Myxoid	normalName:liposarcoma, myxoid	normalWikiTitle:liposarcoma, myxoid	predictedType:Disease
+CANDIDATE	id:4184	inCount:0	outCount:2	links:	url:D004184	name:Dirofilariasis	normalName:dirofilariasis	normalWikiTitle:dirofilariasis	predictedType:Disease
+ENTITY	text:bipolar II	normalName:bipolar ii	predictedType:disease	q:true	qid:Q417	docId:11379838	origText:bipolar II	url:D001714
+CANDIDATE	id:1714	inCount:11	outCount:1	links:	url:D001714	name:Bipolar Disorder	normalName:bipolar disorder	normalWikiTitle:bipolar disorder	predictedType:Disease
+CANDIDATE	id:5368	inCount:8	outCount:1	links:	url:D005368	name:Filariasis	normalName:filariasis	normalWikiTitle:filariasis	predictedType:Disease
+CANDIDATE	id:4184	inCount:0	outCount:2	links:	url:D004184	name:Dirofilariasis	normalName:dirofilariasis	normalWikiTitle:dirofilariasis	predictedType:Disease
+CANDIDATE	id:1762	inCount:1	outCount:1	links:	url:D001762	name:Blepharitis	normalName:blepharitis	normalWikiTitle:blepharitis	predictedType:Disease
+CANDIDATE	id:1657	inCount:1	outCount:1	links:	url:D001657	name:Biliary Dyskinesia	normalName:biliary dyskinesia	normalWikiTitle:biliary dyskinesia	predictedType:Disease
+CANDIDATE	id:1658	inCount:0	outCount:1	links:	url:D001658	name:Biliary Fistula	normalName:biliary fistula	normalWikiTitle:biliary fistula	predictedType:Disease
+CANDIDATE	id:11141	inCount:1	outCount:2	links:	url:D011141	name:Polyuria	normalName:polyuria	normalWikiTitle:polyuria	predictedType:Disease
+CANDIDATE	id:8883	inCount:1	outCount:1	links:	url:D008883	name:Miliaria	normalName:miliaria	normalWikiTitle:miliaria	predictedType:Disease
+CANDIDATE	id:1752	inCount:0	outCount:2	links:	url:D001752	name:Blast Crisis	normalName:blast crisis	normalWikiTitle:blast crisis	predictedType:Disease
+CANDIDATE	id:21865	inCount:0	outCount:1	links:	url:D021865	name:Isosporiasis	normalName:isosporiasis	normalWikiTitle:isosporiasis	predictedType:Disease
+ENTITY	text:bipolar disorder	normalName:bipolar disorder	predictedType:disease	q:true	qid:Q417	docId:11379838	origText:bipolar disorder	url:D001714
+CANDIDATE	id:1714	inCount:11	outCount:1	links:	url:D001714	name:Bipolar Disorder	normalName:bipolar disorder	normalWikiTitle:bipolar disorder	predictedType:Disease
+ENTITY	text:DSM-IV bipolar I	normalName:dsm-iv bipolar i	predictedType:disease	q:true	qid:Q417	docId:11379838	origText:DSM-IV bipolar I	url:D001714
+CANDIDATE	id:1714	inCount:11	outCount:1	links:	url:D001714	name:Bipolar Depression	normalName:bipolar depression	normalWikiTitle:bipolar depression	predictedType:Disease
+CANDIDATE	id:1714	inCount:11	outCount:1	links:	url:D001714	name:Bipolar Disorder	normalName:bipolar disorder	normalWikiTitle:bipolar disorder	predictedType:Disease
+CANDIDATE	id:1657	inCount:1	outCount:1	links:	url:D001657	name:Biliary Dyskinesia	normalName:biliary dyskinesia	normalWikiTitle:biliary dyskinesia	predictedType:Disease
+CANDIDATE	id:8105	inCount:5	outCount:2	links:	url:D008105	name:Liver Cirrhosis, Biliary	normalName:liver cirrhosis, biliary	normalWikiTitle:liver cirrhosis, biliary	predictedType:Disease
+CANDIDATE	id:5585	inCount:0	outCount:2	links:	url:D005585	name:Influenza in Birds	normalName:influenza in birds	normalWikiTitle:influenza in birds	predictedType:Disease
+CANDIDATE	id:19339	inCount:4	outCount:1	links:	url:D019339	name:Port-Wine Stain	normalName:port-wine stain	normalWikiTitle:port-wine stain	predictedType:Disease
+CANDIDATE	id:565097	inCount:0	outCount:2	links:	url:C565097	name:Digitotalar Dysmorphism	normalName:digitotalar dysmorphism	normalWikiTitle:digitotalar dysmorphism	predictedType:Disease
+CANDIDATE	id:1714	inCount:11	outCount:1	links:	url:D001714	name:Depression, Bipolar	normalName:depression, bipolar	normalWikiTitle:depression, bipolar	predictedType:Disease
+ENTITY	text:bipolar	normalName:bipolar	predictedType:disease	q:true	qid:Q417	docId:11379838	origText:bipolar	url:D001714
+CANDIDATE	id:1714	inCount:11	outCount:1	links:	url:D001714	name:Bipolar Disorder	normalName:bipolar disorder	normalWikiTitle:bipolar disorder	predictedType:Disease
+CANDIDATE	id:3969	inCount:0	outCount:2	links:	url:D003969	name:Vipoma	normalName:vipoma	normalWikiTitle:vipoma	predictedType:Disease
+CANDIDATE	id:8067	inCount:7	outCount:1	links:	url:D008067	name:Lipoma	normalName:lipoma	normalWikiTitle:lipoma	predictedType:Disease
+CANDIDATE	id:1630	inCount:0	outCount:1	links:	url:D001630	name:Bezoars	normalName:bezoars	normalWikiTitle:bezoars	predictedType:Disease
+CANDIDATE	id:8080	inCount:2	outCount:2	links:	url:D008080	name:Liposarcoma	normalName:liposarcoma	normalWikiTitle:liposarcoma	predictedType:Disease
+CANDIDATE	id:16117	inCount:4	outCount:1	links:	url:D016117	name:Albinism, Ocular	normalName:albinism, ocular	normalWikiTitle:albinism, ocular	predictedType:Disease
+CANDIDATE	id:62689	inCount:0	outCount:1	links:	url:D062689	name:Lipoblastoma	normalName:lipoblastoma	normalWikiTitle:lipoblastoma	predictedType:Disease
+CANDIDATE	id:10383	inCount:1	outCount:1	links:	url:D010383	name:Pellagra	normalName:pellagra	normalWikiTitle:pellagra	predictedType:Disease
+CANDIDATE	id:11391	inCount:1	outCount:1	links:	url:D011391	name:Prolapse	normalName:prolapse	normalWikiTitle:prolapse	predictedType:Disease
+CANDIDATE	id:4172	inCount:0	outCount:1	links:	url:D004172	name:Diplopia	normalName:diplopia	normalWikiTitle:diplopia	predictedType:Disease
+CANDIDATE	id:10003	inCount:8	outCount:2	links:	url:D010003	name:DIPOA	normalName:dipoa	normalWikiTitle:dipoa	predictedType:Disease
+ENTITY	text:bipolar depression	normalName:bipolar depression	predictedType:disease	q:true	qid:Q417	docId:11379838	origText:bipolar depression	url:D001714
+CANDIDATE	id:1714	inCount:11	outCount:1	links:	url:D001714	name:Bipolar Depression	normalName:bipolar depression	normalWikiTitle:bipolar depression	predictedType:Disease
+ENTITY	text:mania	normalName:mania	predictedType:disease	q:true	qid:Q417	docId:11379838	origText:mania	url:D001714
+CANDIDATE	id:1714	inCount:11	outCount:1	links:	url:D001714	name:Mania	normalName:mania	normalWikiTitle:mania	predictedType:Disease
+ENTITY	text:manic	normalName:manic	predictedType:disease	q:true	qid:Q417	docId:11379838	origText:manic	url:D001714
+CANDIDATE	id:1714	inCount:11	outCount:1	links:	url:D001714	name:Manias	normalName:manias	normalWikiTitle:manias	predictedType:Disease
+CANDIDATE	id:7565	inCount:5	outCount:2	links:	url:D007565	name:Jaundice	normalName:jaundice	normalWikiTitle:jaundice	predictedType:Disease
+CANDIDATE	id:8548	inCount:4	outCount:1	links:	url:D008548	name:Melanosis	normalName:melanosis	normalWikiTitle:melanosis	predictedType:Disease
+CANDIDATE	id:1002	inCount:0	outCount:2	links:	url:D001002	name:Anuria	normalName:anuria	normalWikiTitle:anuria	predictedType:Disease
+CANDIDATE	id:849	inCount:0	outCount:1	links:	url:D000849	name:Anomia	normalName:anomia	normalWikiTitle:anomia	predictedType:Disease
+CANDIDATE	id:740	inCount:14	outCount:1	links:	url:D000740	name:Anemia	normalName:anemia	normalWikiTitle:anemia	predictedType:Disease
+CANDIDATE	id:59373	inCount:0	outCount:1	links:	url:D059373	name:Mastodynia	normalName:mastodynia	normalWikiTitle:mastodynia	predictedType:Disease
+CANDIDATE	id:15875	inCount:0	outCount:1	links:	url:D015875	name:Anisocoria	normalName:anisocoria	normalWikiTitle:anisocoria	predictedType:Disease
+CANDIDATE	id:6391	inCount:14	outCount:1	links:	url:D006391	name:Hemangioma	normalName:hemangioma	normalWikiTitle:hemangioma	predictedType:Disease
+CANDIDATE	id:535983	inCount:0	outCount:1	links:	url:C535983	name:ANIC	normalName:anic	normalWikiTitle:anic	predictedType:Disease
+CANDIDATE	id:1714	inCount:11	outCount:1	links:	url:D001714	name:Mania	normalName:mania	normalWikiTitle:mania	predictedType:Disease
+CANDIDATE	id:58540	inCount:0	outCount:4	links:	url:D058540	name:AIC	normalName:aic	normalWikiTitle:aic	predictedType:Disease
+CANDIDATE	id:537984	inCount:0	outCount:1	links:	url:C537984	name:HMSNIC	normalName:hmsnic	normalWikiTitle:hmsnic	predictedType:Disease
+CANDIDATE	id:565737	inCount:0	outCount:1	links:	url:C565737	name:NAIC	normalName:naic	normalWikiTitle:naic	predictedType:Disease
+CANDIDATE	id:537555	inCount:0	outCount:2	links:	url:C537555	name:MHAC	normalName:mhac	normalWikiTitle:mhac	predictedType:Disease
+CANDIDATE	id:20386	inCount:0	outCount:2	links:	url:D020386	name:NMAN	normalName:nman	normalWikiTitle:nman	predictedType:Disease
+CANDIDATE	id:613376	inCount:0	outCount:1	links:	url:613376	name:HMN IIC	normalName:hmn iic	normalWikiTitle:hmn iic	predictedType:Disease
+CANDIDATE	id:614298	inCount:0	outCount:2	links:	url:614298	name:MPAN	normalName:mpan	normalWikiTitle:mpan	predictedType:Disease

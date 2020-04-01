@@ -1,0 +1,6 @@
+ENTITY	text:tropicamide	normalName:tropicamide	predictedType:chemical	q:true	qid:Q341	docId:11022397	origText:tropicamide	url:D014331
+CANDIDATE	id:14331	inCount:2	outCount:1	links:	url:D014331	name:Tropicamide	normalName:tropicamide	normalWikiTitle:tropicamide	predictedType:Chemical
+ENTITY	text:pilocarpine	normalName:pilocarpine	predictedType:chemical	q:true	qid:Q341	docId:11022397	origText:pilocarpine	url:D010862
+CANDIDATE	id:10862	inCount:7	outCount:1	links:	url:D010862	name:Pilocarpine	normalName:pilocarpine	normalWikiTitle:pilocarpine	predictedType:Chemical
+ENTITY	text:Scopolamine	normalName:scopolamine	predictedType:chemical	q:true	qid:Q341	docId:11022397	origText:Scopolamine	url:D012601
+CANDIDATE	id:12601	inCount:3	outCount:2	links:	url:D012601	name:Scopolamine	normalName:scopolamine	normalWikiTitle:scopolamine	predictedType:Chemical

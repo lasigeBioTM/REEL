@@ -1,0 +1,4 @@
+ENTITY	text:urticaria	normalName:urticaria	predictedType:disease	q:true	qid:Q39	docId:11694026	origText:urticaria	url:D014581
+CANDIDATE	id:14581	inCount:6	outCount:2	links:	url:D014581	name:Urticaria	normalName:urticaria	normalWikiTitle:urticaria	predictedType:Disease
+ENTITY	text:angioedema	normalName:angioedema	predictedType:disease	q:true	qid:Q39	docId:11694026	origText:angioedema	url:D000799
+CANDIDATE	id:799	inCount:4	outCount:2	links:	url:D000799	name:Angioedema	normalName:angioedema	normalWikiTitle:angioedema	predictedType:Disease

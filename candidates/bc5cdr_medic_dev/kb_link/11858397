@@ -1,0 +1,6 @@
+ENTITY	text:left bundle branch block	normalName:left bundle branch block	predictedType:disease	q:true	qid:Q491	docId:11858397	origText:left bundle branch block	url:D002037
+CANDIDATE	id:2037	inCount:1	outCount:1	links:	url:D002037	name:Left Bundle-Branch Block	normalName:left bundle-branch block	normalWikiTitle:left bundle-branch block	predictedType:Disease
+ENTITY	text:Torsade de pointes	normalName:torsade de pointes	predictedType:disease	q:true	qid:Q491	docId:11858397	origText:Torsade de pointes	url:D016171
+CANDIDATE	id:16171	inCount:0	outCount:1	links:	url:D016171	name:de Pointes, Torsade	normalName:de pointes, torsade	normalWikiTitle:de pointes, torsade	predictedType:Disease
+ENTITY	text:long QT syndrome	normalName:long qt syndrome	predictedType:disease	q:true	qid:Q491	docId:11858397	origText:long QT syndrome	url:D008133
+CANDIDATE	id:8133	inCount:20	outCount:3	links:	url:D008133	name:Long QT Syndrome	normalName:long qt syndrome	normalWikiTitle:long qt syndrome	predictedType:Disease

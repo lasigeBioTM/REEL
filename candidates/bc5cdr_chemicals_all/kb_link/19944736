@@ -1,0 +1,4 @@
+ENTITY	text:lithium	normalName:lithium	predictedType:chemical	q:true	qid:Q110	docId:19944736	origText:lithium	url:D008094
+CANDIDATE	id:8094	inCount:15	outCount:2	links:	url:D008094	name:Lithium	normalName:lithium	normalWikiTitle:lithium	predictedType:Chemical
+ENTITY	text:Tacrine	normalName:tacrine	predictedType:chemical	q:true	qid:Q110	docId:19944736	origText:Tacrine	url:D013619
+CANDIDATE	id:13619	inCount:34	outCount:1	links:	url:D013619	name:Tacrine	normalName:tacrine	normalWikiTitle:tacrine	predictedType:Chemical

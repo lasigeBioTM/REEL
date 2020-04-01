@@ -1,0 +1,4 @@
+ENTITY	text:doxorubicin	normalName:doxorubicin	predictedType:chemical	q:true	qid:Q464	docId:14736955	origText:doxorubicin	url:D004317
+CANDIDATE	id:4317	inCount:559	outCount:1	links:	url:D004317	name:Doxorubicin	normalName:doxorubicin	normalWikiTitle:doxorubicin	predictedType:Chemical
+ENTITY	text:superoxide	normalName:superoxide	predictedType:chemical	q:true	qid:Q464	docId:14736955	origText:superoxide	url:D013481
+CANDIDATE	id:13481	inCount:1	outCount:1	links:	url:D013481	name:Superoxide	normalName:superoxide	normalWikiTitle:superoxide	predictedType:Chemical

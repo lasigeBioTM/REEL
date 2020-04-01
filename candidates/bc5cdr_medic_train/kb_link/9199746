@@ -1,0 +1,44 @@
+ENTITY	text:endophthalmitis	normalName:endophthalmitis	predictedType:disease	q:true	qid:Q276	docId:9199746	origText:endophthalmitis	url:D009877
+CANDIDATE	id:9877	inCount:1	outCount:1	links:9877	url:D009877	name:Endophthalmitis	normalName:endophthalmitis	normalWikiTitle:endophthalmitis	predictedType:Disease
+ENTITY	text:infarction	normalName:infarction	predictedType:disease	q:true	qid:Q276	docId:9199746	origText:infarction	url:D007238
+CANDIDATE	id:7238	inCount:0	outCount:2	links:	url:D007238	name:Infarction	normalName:infarction	normalWikiTitle:infarction	predictedType:Disease
+ENTITY	text:toxicity	normalName:toxicity	predictedType:disease	q:true	qid:Q276	docId:9199746	origText:toxicity	url:D064420
+CANDIDATE	id:64420	inCount:10	outCount:1	links:	url:D064420	name:Drug Toxicity	normalName:drug toxicity	normalWikiTitle:drug toxicity	predictedType:Disease
+CANDIDATE	id:66126	inCount:0	outCount:3	links:	url:D066126	name:Cardiotoxicity	normalName:cardiotoxicity	normalWikiTitle:cardiotoxicity	predictedType:Disease
+CANDIDATE	id:15651	inCount:2	outCount:1	links:	url:D015651	name:Mycotoxicosis	normalName:mycotoxicosis	normalWikiTitle:mycotoxicosis	predictedType:Disease
+CANDIDATE	id:13971	inCount:2	outCount:1	links:	url:D013971	name:Thyrotoxicosis	normalName:thyrotoxicosis	normalWikiTitle:thyrotoxicosis	predictedType:Disease
+CANDIDATE	id:14869	inCount:0	outCount:2	links:	url:D014869	name:Water Intoxication	normalName:water intoxication	normalWikiTitle:water intoxication	predictedType:Disease
+CANDIDATE	id:14103	inCount:4	outCount:2	links:	url:D014103	name:Torticollis	normalName:torticollis	normalWikiTitle:torticollis	predictedType:Disease
+CANDIDATE	id:9765	inCount:42	outCount:2	links:	url:D009765	name:Obesity	normalName:obesity	normalWikiTitle:obesity	predictedType:Disease
+CANDIDATE	id:14115	inCount:1	outCount:1	links:	url:D014115	name:Toxemia	normalName:toxemia	normalWikiTitle:toxemia	predictedType:Disease
+CANDIDATE	id:7246	inCount:2	outCount:2	links:	url:D007246	name:Infertility	normalName:infertility	normalWikiTitle:infertility	predictedType:Disease
+CANDIDATE	id:20234	inCount:0	outCount:2	links:	url:D020234	name:Gait Ataxia	normalName:gait ataxia	normalWikiTitle:gait ataxia	predictedType:Disease
+CANDIDATE	id:14069	inCount:1	outCount:1	links:	url:D014069	name:Tonsillitis	normalName:tonsillitis	normalWikiTitle:tonsillitis	predictedType:Disease
+CANDIDATE	id:64420	inCount:10	outCount:1	links:	url:D064420	name:Toxicity, Drug	normalName:toxicity, drug	normalWikiTitle:toxicity, drug	predictedType:Disease
+CANDIDATE	id:17484	inCount:0	outCount:2	links:	url:D017484	name:Phototoxicity	normalName:phototoxicity	normalWikiTitle:phototoxicity	predictedType:Disease
+ENTITY	text:ischaemia	normalName:ischaemia	predictedType:disease	q:true	qid:Q276	docId:9199746	origText:ischaemia	url:D007511
+CANDIDATE	id:7511	inCount:3	outCount:1	links:	url:D007511	name:Ischemia	normalName:ischemia	normalWikiTitle:ischemia	predictedType:Disease
+CANDIDATE	id:2545	inCount:4	outCount:1	links:	url:D002545	name:Brain Ischemia	normalName:brain ischemia	normalWikiTitle:brain ischemia	predictedType:Disease
+CANDIDATE	id:740	inCount:14	outCount:1	links:	url:D000740	name:Anemia	normalName:anemia	normalWikiTitle:anemia	predictedType:Disease
+CANDIDATE	id:58387	inCount:0	outCount:2	links:	url:D058387	name:Candidemia	normalName:candidemia	normalWikiTitle:candidemia	predictedType:Disease
+CANDIDATE	id:14766	inCount:1	outCount:2	links:	url:D014766	name:Viremia	normalName:viremia	normalWikiTitle:viremia	predictedType:Disease
+CANDIDATE	id:19522	inCount:1	outCount:1	links:	url:D019522	name:Vaginal Discharge	normalName:vaginal discharge	normalWikiTitle:vaginal discharge	predictedType:Disease
+CANDIDATE	id:2057	inCount:0	outCount:1	links:	url:D002057	name:Burns, Chemical	normalName:burns, chemical	normalWikiTitle:burns, chemical	predictedType:Disease
+CANDIDATE	id:7008	inCount:1	outCount:1	links:	url:D007008	name:Hypokalemia	normalName:hypokalemia	normalWikiTitle:hypokalemia	predictedType:Disease
+CANDIDATE	id:536634	inCount:0	outCount:1	links:	url:C536634	name:Schizotaxia	normalName:schizotaxia	normalWikiTitle:schizotaxia	predictedType:Disease
+CANDIDATE	id:13789	inCount:3	outCount:2	links:	url:D013789	name:Thalassemia	normalName:thalassemia	normalWikiTitle:thalassemia	predictedType:Disease
+ENTITY	text:telangiectasis	normalName:telangiectasis	predictedType:disease	q:true	qid:Q276	docId:9199746	origText:telangiectasis	url:D013684
+CANDIDATE	id:13684	inCount:15	outCount:1	links:	url:D013684	name:Telangiectasis	normalName:telangiectasis	normalWikiTitle:telangiectasis	predictedType:Disease
+ENTITY	text:streptococcal endophthalmitis	normalName:streptococcal endophthalmitis	predictedType:disease	q:true	qid:Q276	docId:9199746	origText:streptococcal endophthalmitis	url:D013290
+CANDIDATE	id:13290	inCount:9	outCount:1	links:	url:D013290	name:Streptococcal Infections	normalName:streptococcal infections	normalWikiTitle:streptococcal infections	predictedType:Disease
+CANDIDATE	id:9877	inCount:1	outCount:1	links:9877	url:D009877	name:Endophthalmitis	normalName:endophthalmitis	normalWikiTitle:endophthalmitis	predictedType:Disease
+CANDIDATE	id:4942	inCount:0	outCount:2	links:	url:D004942	name:Esophagitis, Peptic	normalName:esophagitis, peptic	normalWikiTitle:esophagitis, peptic	predictedType:Disease
+CANDIDATE	id:18792	inCount:7	outCount:3	links:	url:D018792	name:Encephalitis, Viral	normalName:encephalitis, viral	normalWikiTitle:encephalitis, viral	predictedType:Disease
+CANDIDATE	id:10202	inCount:0	outCount:1	links:	url:D010202	name:Panophthalmitis	normalName:panophthalmitis	normalWikiTitle:panophthalmitis	predictedType:Disease
+CANDIDATE	id:9879	inCount:0	outCount:2	links:	url:D009879	name:Ophthalmia, Sympathetic	normalName:ophthalmia, sympathetic	normalWikiTitle:ophthalmia, sympathetic	predictedType:Disease
+CANDIDATE	id:8586	inCount:0	outCount:2	links:	url:D008586	name:Meningitis, Pneumococcal	normalName:meningitis, pneumococcal	normalWikiTitle:meningitis, pneumococcal	predictedType:Disease
+CANDIDATE	id:8585	inCount:1	outCount:2	links:	url:D008585	name:Meningitis, Meningococcal	normalName:meningitis, meningococcal	normalWikiTitle:meningitis, meningococcal	predictedType:Disease
+CANDIDATE	id:13203	inCount:3	outCount:1	links:	url:D013203	name:Staphylococcal Infections	normalName:staphylococcal infections	normalWikiTitle:staphylococcal infections	predictedType:Disease
+CANDIDATE	id:17237	inCount:11	outCount:2	links:	url:D017237	name:Mitochondrial Encephalomyopathies	normalName:mitochondrial encephalomyopathies	normalWikiTitle:mitochondrial encephalomyopathies	predictedType:Disease
+CANDIDATE	id:9877	inCount:1	outCount:1	links:9877	url:D009877	name:Infectious Endophthalmitis	normalName:infectious endophthalmitis	normalWikiTitle:infectious endophthalmitis	predictedType:Disease
+CANDIDATE	id:9877	inCount:1	outCount:1	links:9877	url:D009877	name:Endophthalmitis, Infectious	normalName:endophthalmitis, infectious	normalWikiTitle:endophthalmitis, infectious	predictedType:Disease

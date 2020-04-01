@@ -1,0 +1,16 @@
+ENTITY	text:tetanic	normalName:tetanic	predictedType:disease	q:true	qid:Q159	docId:435349	origText:tetanic	url:D013746
+CANDIDATE	id:13746	inCount:0	outCount:2	links:	url:D013746	name:Tetanies	normalName:tetanies	normalWikiTitle:tetanies	predictedType:Disease
+CANDIDATE	id:13746	inCount:0	outCount:2	links:	url:D013746	name:Tetany	normalName:tetany	normalWikiTitle:tetany	predictedType:Disease
+CANDIDATE	id:13742	inCount:0	outCount:1	links:	url:D013742	name:Tetanus	normalName:tetanus	normalWikiTitle:tetanus	predictedType:Disease
+CANDIDATE	id:64927	inCount:1	outCount:1	links:	url:D064927	name:Tick Bites	normalName:tick bites	normalWikiTitle:tick bites	predictedType:Disease
+CANDIDATE	id:190900	inCount:0	outCount:1	links:	url:190900	name:TRITANOPIA	normalName:tritanopia	normalWikiTitle:tritanopia	predictedType:Disease
+CANDIDATE	id:13684	inCount:15	outCount:1	links:	url:D013684	name:Telangiectasis	normalName:telangiectasis	normalWikiTitle:telangiectasis	predictedType:Disease
+CANDIDATE	id:57891	inCount:0	outCount:1	links:	url:D057891	name:Tetraploidy	normalName:tetraploidy	normalWikiTitle:tetraploidy	predictedType:Disease
+CANDIDATE	id:20323	inCount:0	outCount:1	links:	url:D020323	name:Tics	normalName:tics	normalWikiTitle:tics	predictedType:Disease
+CANDIDATE	id:562562	inCount:0	outCount:1	links:	url:C562562	name:Colonic Atresia	normalName:colonic atresia	normalWikiTitle:colonic atresia	predictedType:Disease
+CANDIDATE	id:7565	inCount:5	outCount:2	links:	url:D007565	name:Jaundice	normalName:jaundice	normalWikiTitle:jaundice	predictedType:Disease
+CANDIDATE	id:13724	inCount:10	outCount:1	links:	url:D013724	name:Teratoma	normalName:teratoma	normalWikiTitle:teratoma	predictedType:Disease
+ENTITY	text:fasciculation	normalName:fasciculation	predictedType:disease	q:true	qid:Q159	docId:435349	origText:fasciculation	url:D005207
+CANDIDATE	id:5207	inCount:1	outCount:1	links:5207	url:D005207	name:Fasciculation	normalName:fasciculation	normalWikiTitle:fasciculation	predictedType:Disease
+ENTITY	text:fasciculations	normalName:fasciculations	predictedType:disease	q:true	qid:Q159	docId:435349	origText:fasciculations	url:D005207
+CANDIDATE	id:5207	inCount:1	outCount:1	links:5207	url:D005207	name:Fasciculation	normalName:fasciculation	normalWikiTitle:fasciculation	predictedType:Disease

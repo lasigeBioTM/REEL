@@ -1,0 +1,29 @@
+ENTITY	text:toxicity	normalName:toxicity	predictedType:disease	q:true	qid:Q928	docId:12059909	origText:toxicity	url:D064420
+CANDIDATE	id:64420	inCount:10	outCount:1	links:	url:D064420	name:Drug Toxicity	normalName:drug toxicity	normalWikiTitle:drug toxicity	predictedType:Disease
+CANDIDATE	id:66126	inCount:0	outCount:3	links:3556	url:D066126	name:Cardiotoxicity	normalName:cardiotoxicity	normalWikiTitle:cardiotoxicity	predictedType:Disease
+CANDIDATE	id:15651	inCount:2	outCount:1	links:	url:D015651	name:Mycotoxicosis	normalName:mycotoxicosis	normalWikiTitle:mycotoxicosis	predictedType:Disease
+CANDIDATE	id:13971	inCount:2	outCount:1	links:	url:D013971	name:Thyrotoxicosis	normalName:thyrotoxicosis	normalWikiTitle:thyrotoxicosis	predictedType:Disease
+CANDIDATE	id:14869	inCount:0	outCount:2	links:	url:D014869	name:Water Intoxication	normalName:water intoxication	normalWikiTitle:water intoxication	predictedType:Disease
+CANDIDATE	id:14103	inCount:4	outCount:2	links:	url:D014103	name:Torticollis	normalName:torticollis	normalWikiTitle:torticollis	predictedType:Disease
+CANDIDATE	id:9765	inCount:42	outCount:2	links:	url:D009765	name:Obesity	normalName:obesity	normalWikiTitle:obesity	predictedType:Disease
+CANDIDATE	id:14115	inCount:1	outCount:1	links:	url:D014115	name:Toxemia	normalName:toxemia	normalWikiTitle:toxemia	predictedType:Disease
+CANDIDATE	id:7246	inCount:2	outCount:2	links:	url:D007246	name:Infertility	normalName:infertility	normalWikiTitle:infertility	predictedType:Disease
+CANDIDATE	id:20234	inCount:0	outCount:2	links:	url:D020234	name:Gait Ataxia	normalName:gait ataxia	normalWikiTitle:gait ataxia	predictedType:Disease
+CANDIDATE	id:14069	inCount:1	outCount:1	links:	url:D014069	name:Tonsillitis	normalName:tonsillitis	normalWikiTitle:tonsillitis	predictedType:Disease
+CANDIDATE	id:64420	inCount:10	outCount:1	links:	url:D064420	name:Toxicity, Drug	normalName:toxicity, drug	normalWikiTitle:toxicity, drug	predictedType:Disease
+CANDIDATE	id:17484	inCount:0	outCount:2	links:	url:D017484	name:Phototoxicity	normalName:phototoxicity	normalWikiTitle:phototoxicity	predictedType:Disease
+ENTITY	text:interstitial cystitis	normalName:interstitial cystitis	predictedType:disease	q:true	qid:Q928	docId:12059909	origText:interstitial cystitis	url:D018856
+CANDIDATE	id:18856	inCount:0	outCount:1	links:	url:D018856	name:Cystitis, Interstitial	normalName:cystitis, interstitial	normalWikiTitle:cystitis, interstitial	predictedType:Disease
+ENTITY	text:haemorrhagic	normalName:haemorrhagic	predictedType:disease	q:true	qid:Q928	docId:12059909	origText:haemorrhagic	url:D006470
+CANDIDATE	id:6470	inCount:31	outCount:1	links:3556	url:D006470	name:Hemorrhage	normalName:hemorrhage	normalWikiTitle:hemorrhage	predictedType:Disease
+CANDIDATE	id:12771	inCount:0	outCount:2	links:	url:D012771	name:Shock, Hemorrhagic	normalName:shock, hemorrhagic	normalWikiTitle:shock, hemorrhagic	predictedType:Disease
+CANDIDATE	id:8595	inCount:0	outCount:2	links:	url:D008595	name:Menorrhagia	normalName:menorrhagia	normalWikiTitle:menorrhagia	predictedType:Disease
+CANDIDATE	id:6484	inCount:0	outCount:2	links:	url:D006484	name:Hemorrhoids	normalName:hemorrhoids	normalWikiTitle:hemorrhoids	predictedType:Disease
+CANDIDATE	id:540322	inCount:0	outCount:1	links:	url:C540322	name:Hemorrhagic jaundice	normalName:hemorrhagic jaundice	normalWikiTitle:hemorrhagic jaundice	predictedType:Disease
+CANDIDATE	id:5130	inCount:4	outCount:3	links:	url:D005130	name:Eye Hemorrhage	normalName:eye hemorrhage	normalWikiTitle:eye hemorrhage	predictedType:Disease
+CANDIDATE	id:12166	inCount:3	outCount:2	links:	url:D012166	name:Retinal Hemorrhage	normalName:retinal hemorrhage	normalWikiTitle:retinal hemorrhage	predictedType:Disease
+CANDIDATE	id:6474	inCount:26	outCount:1	links:	url:D006474	name:Hemorrhagic Disorders	normalName:hemorrhagic disorders	normalWikiTitle:hemorrhagic disorders	predictedType:Disease
+CANDIDATE	id:8796	inCount:0	outCount:1	links:	url:D008796	name:Metrorrhagia	normalName:metrorrhagia	normalWikiTitle:metrorrhagia	predictedType:Disease
+CANDIDATE	id:14592	inCount:3	outCount:2	links:	url:D014592	name:Uterine Hemorrhage	normalName:uterine hemorrhage	normalWikiTitle:uterine hemorrhage	predictedType:Disease
+ENTITY	text:cystitis	normalName:cystitis	predictedType:disease	q:true	qid:Q928	docId:12059909	origText:cystitis	url:D003556
+CANDIDATE	id:3556	inCount:2	outCount:1	links:6470;66126	url:D003556	name:Cystitis	normalName:cystitis	normalWikiTitle:cystitis	predictedType:Disease

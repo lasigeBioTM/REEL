@@ -1,0 +1,8 @@
+ENTITY	text:glaucoma	normalName:glaucoma	predictedType:disease	q:true	qid:Q83	docId:12948256	origText:glaucoma	url:D005901
+CANDIDATE	id:5901	inCount:34	outCount:1	links:	url:D005901	name:Glaucoma	normalName:glaucoma	normalWikiTitle:glaucoma	predictedType:Disease
+ENTITY	text:diabetes mellitus	normalName:diabetes mellitus	predictedType:disease	q:true	qid:Q83	docId:12948256	origText:diabetes mellitus	url:D003920
+CANDIDATE	id:3920	inCount:44	outCount:2	links:	url:D003920	name:Diabetes Mellitus	normalName:diabetes mellitus	normalWikiTitle:diabetes mellitus	predictedType:Disease
+ENTITY	text:optic neuropathy	normalName:optic neuropathy	predictedType:disease	q:true	qid:Q83	docId:12948256	origText:optic neuropathy	url:D009901
+CANDIDATE	id:9901	inCount:13	outCount:2	links:14786	url:D009901	name:Neuropathy, Optic	normalName:neuropathy, optic	normalWikiTitle:neuropathy, optic	predictedType:Disease
+ENTITY	text:visual impairment	normalName:visual impairment	predictedType:disease	q:true	qid:Q83	docId:12948256	origText:visual impairment	url:D014786
+CANDIDATE	id:14786	inCount:19	outCount:2	links:9901	url:D014786	name:Impairment, Visual	normalName:impairment, visual	normalWikiTitle:impairment, visual	predictedType:Disease

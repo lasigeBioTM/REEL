@@ -1,0 +1,6 @@
+ENTITY	text:azathioprine	normalName:azathioprine	predictedType:chemical	q:true	qid:Q1491	docId:6310832	origText:azathioprine	url:D001379
+CANDIDATE	id:1379	inCount:3	outCount:2	links:16572	url:D001379	name:Azathioprine	normalName:azathioprine	normalWikiTitle:azathioprine	predictedType:Chemical
+ENTITY	text:cyclosporine	normalName:cyclosporine	predictedType:chemical	q:true	qid:Q1491	docId:6310832	origText:cyclosporine	url:D016572
+CANDIDATE	id:16572	inCount:14	outCount:1	links:1379	url:D016572	name:Cyclosporine	normalName:cyclosporine	normalWikiTitle:cyclosporine	predictedType:Chemical
+ENTITY	text:prednisone	normalName:prednisone	predictedType:chemical	q:true	qid:Q1491	docId:6310832	origText:prednisone	url:D011241
+CANDIDATE	id:11241	inCount:209	outCount:1	links:	url:D011241	name:Prednisone	normalName:prednisone	normalWikiTitle:prednisone	predictedType:Chemical

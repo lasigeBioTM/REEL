@@ -1,0 +1,23 @@
+ENTITY	text:diabetic hyperalgesia	normalName:diabetic hyperalgesia	predictedType:disease	q:true	qid:Q433	docId:19300402	origText:diabetic hyperalgesia	url:D006930
+CANDIDATE	id:6930	inCount:0	outCount:1	links:10146;3929	url:D006930	name:Hyperalgesia	normalName:hyperalgesia	normalWikiTitle:hyperalgesia	predictedType:Disease
+CANDIDATE	id:3929	inCount:2	outCount:2	links:6930	url:D003929	name:Diabetic Neuropathies	normalName:diabetic neuropathies	normalWikiTitle:diabetic neuropathies	predictedType:Disease
+CANDIDATE	id:3928	inCount:4	outCount:2	links:6930;3929	url:D003928	name:Diabetic Nephropathies	normalName:diabetic nephropathies	normalWikiTitle:diabetic nephropathies	predictedType:Disease
+CANDIDATE	id:4714	inCount:0	outCount:1	links:	url:D004714	name:Endometrial Hyperplasia	normalName:endometrial hyperplasia	normalWikiTitle:endometrial hyperplasia	predictedType:Disease
+CANDIDATE	id:3930	inCount:1	outCount:2	links:	url:D003930	name:Diabetic Retinopathy	normalName:diabetic retinopathy	normalWikiTitle:diabetic retinopathy	predictedType:Disease
+CANDIDATE	id:16883	inCount:0	outCount:3	links:	url:D016883	name:Diabetic Ketoacidosis	normalName:diabetic ketoacidosis	normalWikiTitle:diabetic ketoacidosis	predictedType:Disease
+CANDIDATE	id:536170	inCount:0	outCount:1	links:	url:C536170	name:Diastrophic dysplasia	normalName:diastrophic dysplasia	normalWikiTitle:diastrophic dysplasia	predictedType:Disease
+CANDIDATE	id:6947	inCount:4	outCount:1	links:	url:D006947	name:Hyperkalemia	normalName:hyperkalemia	normalWikiTitle:hyperkalemia	predictedType:Disease
+CANDIDATE	id:538256	inCount:0	outCount:2	links:	url:C538256	name:Anauxetic dysplasia	normalName:anauxetic dysplasia	normalWikiTitle:anauxetic dysplasia	predictedType:Disease
+CANDIDATE	id:10246	inCount:0	outCount:1	links:	url:D010246	name:Paralysis, Obstetric	normalName:paralysis, obstetric	normalWikiTitle:paralysis, obstetric	predictedType:Disease
+CANDIDATE	id:3929	inCount:2	outCount:2	links:6930	url:D003929	name:Neuralgia, Diabetic	normalName:neuralgia, diabetic	normalWikiTitle:neuralgia, diabetic	predictedType:Disease
+CANDIDATE	id:3929	inCount:2	outCount:2	links:6930	url:D003929	name:Diabetic Neuralgia	normalName:diabetic neuralgia	normalWikiTitle:diabetic neuralgia	predictedType:Disease
+CANDIDATE	id:3929	inCount:2	outCount:2	links:6930	url:D003929	name:Neuralgias, Diabetic	normalName:neuralgias, diabetic	normalWikiTitle:neuralgias, diabetic	predictedType:Disease
+CANDIDATE	id:3929	inCount:2	outCount:2	links:6930	url:D003929	name:Diabetic Neuralgias	normalName:diabetic neuralgias	normalWikiTitle:diabetic neuralgias	predictedType:Disease
+ENTITY	text:pain	normalName:pain	predictedType:disease	q:true	qid:Q433	docId:19300402	origText:pain	url:D010146
+CANDIDATE	id:10146	inCount:34	outCount:1	links:6930	url:D010146	name:Pain	normalName:pain	normalWikiTitle:pain	predictedType:Disease
+ENTITY	text:hyperalgesia	normalName:hyperalgesia	predictedType:disease	q:true	qid:Q433	docId:19300402	origText:hyperalgesia	url:D006930
+CANDIDATE	id:6930	inCount:0	outCount:1	links:10146;3929	url:D006930	name:Hyperalgesia	normalName:hyperalgesia	normalWikiTitle:hyperalgesia	predictedType:Disease
+ENTITY	text:neuropathic pain	normalName:neuropathic pain	predictedType:disease	q:true	qid:Q433	docId:19300402	origText:neuropathic pain	url:D009437
+CANDIDATE	id:9437	inCount:6	outCount:2	links:	url:D009437	name:Pain, Neuropathic	normalName:pain, neuropathic	normalWikiTitle:pain, neuropathic	predictedType:Disease
+ENTITY	text:diabetic neuropathy	normalName:diabetic neuropathy	predictedType:disease	q:true	qid:Q433	docId:19300402	origText:diabetic neuropathy	url:D003929
+CANDIDATE	id:3929	inCount:2	outCount:2	links:6930	url:D003929	name:Neuropathy, Diabetic	normalName:neuropathy, diabetic	normalWikiTitle:neuropathy, diabetic	predictedType:Disease

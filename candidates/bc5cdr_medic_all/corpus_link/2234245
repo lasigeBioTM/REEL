@@ -1,0 +1,48 @@
+ENTITY	text:Visual toxicity	normalName:visual toxicity	predictedType:disease	q:true	qid:Q1088	docId:2234245	origText:Visual toxicity	url:D014786
+CANDIDATE	id:14786	inCount:19	outCount:2	links:6319	url:D014786	name:Impairment, Visual	normalName:impairment, visual	normalWikiTitle:impairment, visual	predictedType:Disease
+CANDIDATE	id:531604	inCount:0	outCount:1	links:	url:C531604	name:Primary visual agnosia	normalName:primary visual agnosia	normalWikiTitle:primary visual agnosia	predictedType:Disease
+CANDIDATE	id:155310	inCount:0	outCount:2	links:	url:155310	name:VISCERAL MYOPATHY	normalName:visceral myopathy	normalWikiTitle:visceral myopathy	predictedType:Disease
+CANDIDATE	id:66126	inCount:0	outCount:3	links:34381	url:D066126	name:Cardiotoxicity	normalName:cardiotoxicity	normalWikiTitle:cardiotoxicity	predictedType:Disease
+CANDIDATE	id:47268	inCount:0	outCount:2	links:	url:D047268	name:Lingual Goiter	normalName:lingual goiter	normalWikiTitle:lingual goiter	predictedType:Disease
+CANDIDATE	id:14069	inCount:1	outCount:1	links:	url:D014069	name:Tonsillitis	normalName:tonsillitis	normalWikiTitle:tonsillitis	predictedType:Disease
+CANDIDATE	id:13966	inCount:4	outCount:1	links:	url:D013966	name:Thyroiditis	normalName:thyroiditis	normalWikiTitle:thyroiditis	predictedType:Disease
+CANDIDATE	id:8417	inCount:0	outCount:2	links:	url:D008417	name:Mastoiditis	normalName:mastoiditis	normalWikiTitle:mastoiditis	predictedType:Disease
+CANDIDATE	id:1990	inCount:0	outCount:2	links:	url:D001990	name:Bronchiolitis, Viral	normalName:bronchiolitis, viral	normalWikiTitle:bronchiolitis, viral	predictedType:Disease
+CANDIDATE	id:20258	inCount:7	outCount:2	links:66126	url:D020258	name:Neurotoxicity Syndromes	normalName:neurotoxicity syndromes	normalWikiTitle:neurotoxicity syndromes	predictedType:Disease
+CANDIDATE	id:1658	inCount:0	outCount:1	links:	url:D001658	name:Biliary Fistula	normalName:biliary fistula	normalWikiTitle:biliary fistula	predictedType:Disease
+CANDIDATE	id:11629	inCount:6	outCount:1	links:	url:D011629	name:Precocity, Sexual	normalName:precocity, sexual	normalWikiTitle:precocity, sexual	predictedType:Disease
+CANDIDATE	id:56128	inCount:2	outCount:1	links:	url:D056128	name:Visceral Obesity	normalName:visceral obesity	normalWikiTitle:visceral obesity	predictedType:Disease
+CANDIDATE	id:11629	inCount:6	outCount:1	links:	url:D011629	name:Sexual Precocity	normalName:sexual precocity	normalWikiTitle:sexual precocity	predictedType:Disease
+CANDIDATE	id:56128	inCount:2	outCount:1	links:	url:D056128	name:Obesity, Visceral	normalName:obesity, visceral	normalWikiTitle:obesity, visceral	predictedType:Disease
+CANDIDATE	id:377	inCount:3	outCount:1	links:	url:D000377	name:Agnosia, Visual	normalName:agnosia, visual	normalWikiTitle:agnosia, visual	predictedType:Disease
+CANDIDATE	id:1248	inCount:0	outCount:1	links:	url:D001248	name:Fatigue, Visual	normalName:fatigue, visual	normalWikiTitle:fatigue, visual	predictedType:Disease
+CANDIDATE	id:1248	inCount:0	outCount:1	links:	url:D001248	name:Visual Fatigue	normalName:visual fatigue	normalWikiTitle:visual fatigue	predictedType:Disease
+CANDIDATE	id:377	inCount:3	outCount:1	links:	url:D000377	name:Visual Agnosia	normalName:visual agnosia	normalWikiTitle:visual agnosia	predictedType:Disease
+CANDIDATE	id:14786	inCount:19	outCount:2	links:6319	url:D014786	name:Visual Impairment	normalName:visual impairment	normalWikiTitle:visual impairment	predictedType:Disease
+ENTITY	text:neurosensorial hearing loss	normalName:neurosensorial hearing loss	predictedType:disease	q:true	qid:Q1088	docId:2234245	origText:neurosensorial hearing loss	url:D006319
+CANDIDATE	id:6319	inCount:216	outCount:1	links:34381;14786	url:D006319	name:Hearing Loss, Sensorineural	normalName:hearing loss, sensorineural	normalWikiTitle:hearing loss, sensorineural	predictedType:Disease
+CANDIDATE	id:537845	inCount:0	outCount:1	links:	url:C537845	name:Nonsyndromic sensorineural hearing loss	normalName:nonsyndromic sensorineural hearing loss	normalWikiTitle:nonsyndromic sensorineural hearing loss	predictedType:Disease
+CANDIDATE	id:46088	inCount:0	outCount:1	links:	url:D046088	name:Hearing Loss, Unilateral	normalName:hearing loss, unilateral	normalWikiTitle:hearing loss, unilateral	predictedType:Disease
+CANDIDATE	id:3639	inCount:0	outCount:1	links:	url:D003639	name:Hearing Loss, Sudden	normalName:hearing loss, sudden	normalWikiTitle:hearing loss, sudden	predictedType:Disease
+CANDIDATE	id:566831	inCount:0	outCount:2	links:	url:C566831	name:Paragangliomas with Sensorineural Hearing Loss	normalName:paragangliomas with sensorineural hearing loss	normalWikiTitle:paragangliomas with sensorineural hearing loss	predictedType:Disease
+CANDIDATE	id:46089	inCount:3	outCount:1	links:	url:D046089	name:Hearing Loss, Mixed Conductive-Sensorineural	normalName:hearing loss, mixed conductive-sensorineural	normalWikiTitle:hearing loss, mixed conductive-sensorineural	predictedType:Disease
+CANDIDATE	id:6317	inCount:0	outCount:1	links:	url:D006317	name:Hearing Loss, Noise-Induced	normalName:hearing loss, noise-induced	normalWikiTitle:hearing loss, noise-induced	predictedType:Disease
+CANDIDATE	id:18278	inCount:6	outCount:2	links:	url:D018278	name:Carcinoma, Neuroendocrine	normalName:carcinoma, neuroendocrine	normalWikiTitle:carcinoma, neuroendocrine	predictedType:Disease
+CANDIDATE	id:34381	inCount:37	outCount:1	links:66126	url:D034381	name:Hearing Loss	normalName:hearing loss	normalWikiTitle:hearing loss	predictedType:Disease
+CANDIDATE	id:64147	inCount:1	outCount:1	links:	url:D064147	name:Febrile Neutropenia	normalName:febrile neutropenia	normalWikiTitle:febrile neutropenia	predictedType:Disease
+ENTITY	text:hearing loss	normalName:hearing loss	predictedType:disease	q:true	qid:Q1088	docId:2234245	origText:hearing loss	url:D034381
+CANDIDATE	id:34381	inCount:37	outCount:1	links:66126	url:D034381	name:Hearing Loss	normalName:hearing loss	normalWikiTitle:hearing loss	predictedType:Disease
+ENTITY	text:toxicity	normalName:toxicity	predictedType:disease	q:true	qid:Q1088	docId:2234245	origText:toxicity	url:D064420
+CANDIDATE	id:64420	inCount:10	outCount:1	links:	url:D064420	name:Drug Toxicity	normalName:drug toxicity	normalWikiTitle:drug toxicity	predictedType:Disease
+CANDIDATE	id:66126	inCount:0	outCount:3	links:34381	url:D066126	name:Cardiotoxicity	normalName:cardiotoxicity	normalWikiTitle:cardiotoxicity	predictedType:Disease
+CANDIDATE	id:15651	inCount:2	outCount:1	links:	url:D015651	name:Mycotoxicosis	normalName:mycotoxicosis	normalWikiTitle:mycotoxicosis	predictedType:Disease
+CANDIDATE	id:13971	inCount:2	outCount:1	links:	url:D013971	name:Thyrotoxicosis	normalName:thyrotoxicosis	normalWikiTitle:thyrotoxicosis	predictedType:Disease
+CANDIDATE	id:14869	inCount:0	outCount:2	links:	url:D014869	name:Water Intoxication	normalName:water intoxication	normalWikiTitle:water intoxication	predictedType:Disease
+CANDIDATE	id:14103	inCount:4	outCount:2	links:	url:D014103	name:Torticollis	normalName:torticollis	normalWikiTitle:torticollis	predictedType:Disease
+CANDIDATE	id:9765	inCount:42	outCount:2	links:	url:D009765	name:Obesity	normalName:obesity	normalWikiTitle:obesity	predictedType:Disease
+CANDIDATE	id:14115	inCount:1	outCount:1	links:	url:D014115	name:Toxemia	normalName:toxemia	normalWikiTitle:toxemia	predictedType:Disease
+CANDIDATE	id:7246	inCount:2	outCount:2	links:	url:D007246	name:Infertility	normalName:infertility	normalWikiTitle:infertility	predictedType:Disease
+CANDIDATE	id:20234	inCount:0	outCount:2	links:	url:D020234	name:Gait Ataxia	normalName:gait ataxia	normalWikiTitle:gait ataxia	predictedType:Disease
+CANDIDATE	id:14069	inCount:1	outCount:1	links:	url:D014069	name:Tonsillitis	normalName:tonsillitis	normalWikiTitle:tonsillitis	predictedType:Disease
+CANDIDATE	id:64420	inCount:10	outCount:1	links:	url:D064420	name:Toxicity, Drug	normalName:toxicity, drug	normalWikiTitle:toxicity, drug	predictedType:Disease
+CANDIDATE	id:17484	inCount:0	outCount:2	links:	url:D017484	name:Phototoxicity	normalName:phototoxicity	normalWikiTitle:phototoxicity	predictedType:Disease

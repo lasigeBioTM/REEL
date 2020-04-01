@@ -1,0 +1,8 @@
+ENTITY	text:crocins	normalName:crocins	predictedType:chemical	q:true	qid:Q124	docId:20683499	origText:crocins	url:C029036
+CANDIDATE	id:29036	inCount:0	outCount:1	links:	url:C029036	name:crocin	normalName:crocin	normalWikiTitle:crocin	predictedType:Chemical
+ENTITY	text:crocin	normalName:crocin	predictedType:chemical	q:true	qid:Q124	docId:20683499	origText:crocin	url:C029036
+CANDIDATE	id:29036	inCount:0	outCount:1	links:	url:C029036	name:crocin	normalName:crocin	normalWikiTitle:crocin	predictedType:Chemical
+ENTITY	text:carotenoids	normalName:carotenoids	predictedType:chemical	q:true	qid:Q124	docId:20683499	origText:carotenoids	url:D002338
+CANDIDATE	id:2338	inCount:145	outCount:4	links:	url:D002338	name:Carotenoids	normalName:carotenoids	normalWikiTitle:carotenoids	predictedType:Chemical
+ENTITY	text:streptozocin	normalName:streptozocin	predictedType:chemical	q:true	qid:Q124	docId:20683499	origText:streptozocin	url:D013311
+CANDIDATE	id:13311	inCount:12	outCount:2	links:	url:D013311	name:Streptozocin	normalName:streptozocin	normalWikiTitle:streptozocin	predictedType:Chemical

@@ -1,0 +1,30 @@
+ENTITY	text:mantle cell lymphoma	normalName:mantle cell lymphoma	predictedType:disease	q:true	qid:Q172	docId:20828385	origText:mantle cell lymphoma	url:D020522
+CANDIDATE	id:20522	inCount:0	outCount:1	links:20522	url:D020522	name:Lymphoma, Mantle-Cell	normalName:lymphoma, mantle-cell	normalWikiTitle:lymphoma, mantle-cell	predictedType:Disease
+ENTITY	text:tumor	normalName:tumor	predictedType:disease	q:true	qid:Q172	docId:20828385	origText:tumor	url:D009369
+CANDIDATE	id:9369	inCount:18	outCount:1	links:	url:D009369	name:Tumor	normalName:tumor	normalWikiTitle:tumor	predictedType:Disease
+ENTITY	text:B-cell non-Hodgkin's lymphoma	normalName:b-cell non-hodgkin's lymphoma	predictedType:disease	q:true	qid:Q172	docId:20828385	origText:B-cell non-Hodgkin's lymphoma	url:D008228
+CANDIDATE	id:8228	inCount:7	outCount:1	links:	url:D008228	name:Lymphoma, Non-Hodgkin's	normalName:lymphoma, non-hodgkin's	normalWikiTitle:lymphoma, non-hodgkin's	predictedType:Disease
+CANDIDATE	id:8228	inCount:7	outCount:1	links:	url:D008228	name:Lymphoma, Non-Hodgkin	normalName:lymphoma, non-hodgkin	normalWikiTitle:lymphoma, non-hodgkin	predictedType:Disease
+CANDIDATE	id:16393	inCount:6	outCount:1	links:	url:D016393	name:Lymphoma, B-Cell	normalName:lymphoma, b-cell	normalWikiTitle:lymphoma, b-cell	predictedType:Disease
+CANDIDATE	id:54391	inCount:0	outCount:1	links:	url:D054391	name:Lymphoma, Extranodal NK-T-Cell	normalName:lymphoma, extranodal nk-t-cell	normalWikiTitle:lymphoma, extranodal nk-t-cell	predictedType:Disease
+CANDIDATE	id:18442	inCount:0	outCount:1	links:	url:D018442	name:Lymphoma, B-Cell, Marginal Zone	normalName:lymphoma, b-cell, marginal zone	normalWikiTitle:lymphoma, b-cell, marginal zone	predictedType:Disease
+CANDIDATE	id:16399	inCount:7	outCount:1	links:	url:D016399	name:Lymphoma, T-Cell	normalName:lymphoma, t-cell	normalWikiTitle:lymphoma, t-cell	predictedType:Disease
+CANDIDATE	id:536782	inCount:0	outCount:1	links:	url:C536782	name:T-cell lymphoma 1A	normalName:t-cell lymphoma 1a	normalWikiTitle:t-cell lymphoma 1a	predictedType:Disease
+CANDIDATE	id:16403	inCount:1	outCount:1	links:	url:D016403	name:Lymphoma, Large B-Cell, Diffuse	normalName:lymphoma, large b-cell, diffuse	normalWikiTitle:lymphoma, large b-cell, diffuse	predictedType:Disease
+CANDIDATE	id:20522	inCount:0	outCount:1	links:20522	url:D020522	name:Lymphoma, Mantle-Cell	normalName:lymphoma, mantle-cell	normalWikiTitle:lymphoma, mantle-cell	predictedType:Disease
+CANDIDATE	id:15459	inCount:0	outCount:1	links:	url:D015459	name:Leukemia-Lymphoma, Adult T-Cell	normalName:leukemia-lymphoma, adult t-cell	normalWikiTitle:leukemia-lymphoma, adult t-cell	predictedType:Disease
+CANDIDATE	id:16410	inCount:4	outCount:1	links:	url:D016410	name:Lymphoma, T-Cell, Cutaneous	normalName:lymphoma, t-cell, cutaneous	normalWikiTitle:lymphoma, t-cell, cutaneous	predictedType:Disease
+CANDIDATE	id:8228	inCount:7	outCount:1	links:	url:D008228	name:Lymphoma, Non Hodgkin's	normalName:lymphoma, non hodgkin's	normalWikiTitle:lymphoma, non hodgkin's	predictedType:Disease
+CANDIDATE	id:8228	inCount:7	outCount:1	links:	url:D008228	name:Non Hodgkin's Lymphoma	normalName:non hodgkin's lymphoma	normalWikiTitle:non hodgkin's lymphoma	predictedType:Disease
+CANDIDATE	id:8228	inCount:7	outCount:1	links:	url:D008228	name:Non-Hodgkin's Lymphoma	normalName:non-hodgkin's lymphoma	normalWikiTitle:non-hodgkin's lymphoma	predictedType:Disease
+ENTITY	text:necrotic	normalName:necrotic	predictedType:disease	q:true	qid:Q172	docId:20828385	origText:necrotic	url:D009336
+CANDIDATE	id:9336	inCount:6	outCount:1	links:	url:D009336	name:Necrosis	normalName:necrosis	normalWikiTitle:necrosis	predictedType:Disease
+CANDIDATE	id:748	inCount:2	outCount:1	links:	url:D000748	name:Anemia, Macrocytic	normalName:anemia, macrocytic	normalWikiTitle:anemia, macrocytic	predictedType:Disease
+CANDIDATE	id:9902	inCount:1	outCount:1	links:	url:D009902	name:Optic Neuritis	normalName:optic neuritis	normalWikiTitle:optic neuritis	predictedType:Disease
+CANDIDATE	id:9443	inCount:2	outCount:1	links:	url:D009443	name:Neuritis	normalName:neuritis	normalWikiTitle:neuritis	predictedType:Disease
+CANDIDATE	id:4881	inCount:0	outCount:1	links:	url:D004881	name:Ergotism	normalName:ergotism	normalWikiTitle:ergotism	predictedType:Disease
+CANDIDATE	id:3085	inCount:0	outCount:1	links:	url:D003085	name:Colic	normalName:colic	normalWikiTitle:colic	predictedType:Disease
+CANDIDATE	id:1014	inCount:5	outCount:2	links:	url:D001014	name:Aortic Aneurysm	normalName:aortic aneurysm	normalWikiTitle:aortic aneurysm	predictedType:Disease
+CANDIDATE	id:6177	inCount:6	outCount:1	links:	url:D006177	name:Gynecomastia	normalName:gynecomastia	normalWikiTitle:gynecomastia	predictedType:Disease
+CANDIDATE	id:5218	inCount:0	outCount:1	links:	url:D005218	name:Fat Necrosis	normalName:fat necrosis	normalWikiTitle:fat necrosis	predictedType:Disease
+CANDIDATE	id:7239	inCount:33	outCount:1	links:	url:D007239	name:Infection	normalName:infection	normalWikiTitle:infection	predictedType:Disease

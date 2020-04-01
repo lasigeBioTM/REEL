@@ -1,0 +1,15 @@
+ENTITY	text:restless legs syndrome	normalName:restless legs syndrome	predictedType:disease	q:true	qid:Q76	docId:16309808	origText:restless legs syndrome	url:D012148
+CANDIDATE	id:12148	inCount:3	outCount:3	links:12148	url:D012148	name:Restless Legs Syndrome	normalName:restless legs syndrome	normalWikiTitle:restless legs syndrome	predictedType:Disease
+ENTITY	text:RLS	normalName:rls	predictedType:disease	q:true	qid:Q76	docId:16309808	origText:RLS	url:D012148
+CANDIDATE	id:12148	inCount:3	outCount:3	links:12148	url:D012148	name:RLS7	normalName:rls7	normalWikiTitle:rls7	predictedType:Disease
+CANDIDATE	id:11391	inCount:1	outCount:1	links:	url:D011391	name:Prolapse	normalName:prolapse	normalWikiTitle:prolapse	predictedType:Disease
+CANDIDATE	id:14770	inCount:2	outCount:1	links:	url:D014770	name:Virilism	normalName:virilism	normalWikiTitle:virilism	predictedType:Disease
+CANDIDATE	id:12148	inCount:3	outCount:3	links:12148	url:D012148	name:RLS3	normalName:rls3	normalWikiTitle:rls3	predictedType:Disease
+CANDIDATE	id:12148	inCount:3	outCount:3	links:12148	url:D012148	name:RLS1	normalName:rls1	normalWikiTitle:rls1	predictedType:Disease
+CANDIDATE	id:12148	inCount:3	outCount:3	links:12148	url:D012148	name:RLS5	normalName:rls5	normalWikiTitle:rls5	predictedType:Disease
+CANDIDATE	id:12148	inCount:3	outCount:3	links:12148	url:D012148	name:RLS2	normalName:rls2	normalWikiTitle:rls2	predictedType:Disease
+CANDIDATE	id:12148	inCount:3	outCount:3	links:12148	url:D012148	name:RLS6	normalName:rls6	normalWikiTitle:rls6	predictedType:Disease
+CANDIDATE	id:300989	inCount:0	outCount:2	links:	url:300989	name:MRLS	normalName:mrls	normalWikiTitle:mrls	predictedType:Disease
+CANDIDATE	id:12148	inCount:3	outCount:3	links:12148	url:D012148	name:RLS4	normalName:rls4	normalWikiTitle:rls4	predictedType:Disease
+CANDIDATE	id:7888	inCount:14	outCount:3	links:	url:D007888	name:LS	normalName:ls	normalWikiTitle:ls	predictedType:Disease
+CANDIDATE	id:41441	inCount:2	outCount:1	links:	url:D041441	name:RS	normalName:rs	normalWikiTitle:rs	predictedType:Disease

@@ -1,0 +1,4 @@
+ENTITY	text:Risperidone	normalName:risperidone	predictedType:chemical	q:true	qid:Q179	docId:12013711	origText:Risperidone	url:D018967
+CANDIDATE	id:18967	inCount:2	outCount:1	links:	url:D018967	name:Risperidone	normalName:risperidone	normalWikiTitle:risperidone	predictedType:Chemical
+ENTITY	text:LSD	normalName:lsd	predictedType:chemical	q:true	qid:Q179	docId:12013711	origText:LSD	url:D008238
+CANDIDATE	id:8238	inCount:14	outCount:1	links:	url:D008238	name:LSD	normalName:lsd	normalWikiTitle:lsd	predictedType:Chemical

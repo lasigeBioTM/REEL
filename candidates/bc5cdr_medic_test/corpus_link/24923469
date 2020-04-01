@@ -1,0 +1,4 @@
+ENTITY	text:acute kidney injury	normalName:acute kidney injury	predictedType:disease	q:true	qid:Q35	docId:24923469	origText:acute kidney injury	url:D058186
+CANDIDATE	id:58186	inCount:2	outCount:1	links:	url:D058186	name:Acute Kidney Injury	normalName:acute kidney injury	normalWikiTitle:acute kidney injury	predictedType:Disease
+ENTITY	text:infections	normalName:infections	predictedType:disease	q:true	qid:Q35	docId:24923469	origText:infections	url:D007239
+CANDIDATE	id:7239	inCount:33	outCount:1	links:	url:D007239	name:Infection	normalName:infection	normalWikiTitle:infection	predictedType:Disease

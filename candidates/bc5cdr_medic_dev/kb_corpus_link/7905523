@@ -1,0 +1,21 @@
+ENTITY	text:flatulence	normalName:flatulence	predictedType:disease	q:true	qid:Q50	docId:7905523	origText:flatulence	url:D005414
+CANDIDATE	id:5414	inCount:0	outCount:1	links:15746;3967;15431	url:D005414	name:Flatulence	normalName:flatulence	normalWikiTitle:flatulence	predictedType:Disease
+ENTITY	text:Diarrhea	normalName:diarrhea	predictedType:disease	q:true	qid:Q50	docId:7905523	origText:Diarrhea	url:D003967
+CANDIDATE	id:3967	inCount:14	outCount:1	links:15746;5414;15431	url:D003967	name:Diarrhea	normalName:diarrhea	normalWikiTitle:diarrhea	predictedType:Disease
+ENTITY	text:abdominal pain	normalName:abdominal pain	predictedType:disease	q:true	qid:Q50	docId:7905523	origText:abdominal pain	url:D015746
+CANDIDATE	id:15746	inCount:2	outCount:2	links:5414;3967;15431	url:D015746	name:Abdominal Pain	normalName:abdominal pain	normalWikiTitle:abdominal pain	predictedType:Disease
+ENTITY	text:weight loss	normalName:weight loss	predictedType:disease	q:true	qid:Q50	docId:7905523	origText:weight loss	url:D015431
+CANDIDATE	id:15431	inCount:1	outCount:1	links:15746;5414;3967	url:D015431	name:Weight Loss	normalName:weight loss	normalWikiTitle:weight loss	predictedType:Disease
+ENTITY	text:HIV-1 infection	normalName:hiv-1 infection	predictedType:disease	q:true	qid:Q50	docId:7905523	origText:HIV-1 infection	url:D015658
+CANDIDATE	id:15658	inCount:12	outCount:3	links:	url:D015658	name:Infection, HIV	normalName:infection, hiv	normalWikiTitle:infection, hiv	predictedType:Disease
+CANDIDATE	id:15658	inCount:12	outCount:3	links:	url:D015658	name:HIV Infections	normalName:hiv infections	normalWikiTitle:hiv infections	predictedType:Disease
+CANDIDATE	id:7239	inCount:33	outCount:1	links:	url:D007239	name:Infection	normalName:infection	normalWikiTitle:infection	predictedType:Disease
+CANDIDATE	id:15490	inCount:1	outCount:1	links:	url:D015490	name:HTLV-I Infections	normalName:htlv-i infections	normalWikiTitle:htlv-i infections	predictedType:Disease
+CANDIDATE	id:15491	inCount:0	outCount:1	links:	url:D015491	name:HTLV-II Infections	normalName:htlv-ii infections	normalWikiTitle:htlv-ii infections	predictedType:Disease
+CANDIDATE	id:45464	inCount:0	outCount:1	links:	url:D045464	name:Henipavirus Infections	normalName:henipavirus infections	normalWikiTitle:henipavirus infections	predictedType:Disease
+CANDIDATE	id:15817	inCount:6	outCount:2	links:	url:D015817	name:Eye Infections	normalName:eye infections	normalWikiTitle:eye infections	predictedType:Disease
+CANDIDATE	id:2690	inCount:5	outCount:2	links:	url:D002690	name:Chlamydia Infections	normalName:chlamydia infections	normalWikiTitle:chlamydia infections	predictedType:Disease
+CANDIDATE	id:4457	inCount:2	outCount:1	links:	url:D004457	name:Echovirus Infections	normalName:echovirus infections	normalWikiTitle:echovirus infections	predictedType:Disease
+CANDIDATE	id:60085	inCount:0	outCount:3	links:	url:D060085	name:Coinfection	normalName:coinfection	normalWikiTitle:coinfection	predictedType:Disease
+CANDIDATE	id:18354	inCount:2	outCount:1	links:	url:D018354	name:Alphavirus Infections	normalName:alphavirus infections	normalWikiTitle:alphavirus infections	predictedType:Disease
+CANDIDATE	id:15658	inCount:12	outCount:3	links:	url:D015658	name:HIV Infection	normalName:hiv infection	normalWikiTitle:hiv infection	predictedType:Disease

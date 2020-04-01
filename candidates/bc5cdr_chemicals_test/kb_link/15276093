@@ -1,0 +1,21 @@
+ENTITY	text:niacin	normalName:niacin	predictedType:chemical	q:true	qid:Q326	docId:15276093	origText:niacin	url:D009525
+CANDIDATE	id:9525	inCount:51	outCount:1	links:	url:D009525	name:Niacin	normalName:niacin	normalWikiTitle:niacin	predictedType:Chemical
+ENTITY	text:creatine	normalName:creatine	predictedType:chemical	q:true	qid:Q326	docId:15276093	origText:creatine	url:D003401
+CANDIDATE	id:3401	inCount:7	outCount:2	links:	url:D003401	name:Creatine	normalName:creatine	normalWikiTitle:creatine	predictedType:Chemical
+ENTITY	text:niacin extended-release/lovastatin	normalName:niacin extended-release/lovastatin	predictedType:chemical	q:true	qid:Q326	docId:15276093	origText:niacin extended-release/lovastatin	url:C451780
+CANDIDATE	id:451780	inCount:0	outCount:2	links:	url:C451780	name:lovastatin-niacin combination	normalName:lovastatin-niacin combination	normalWikiTitle:lovastatin-niacin combination	predictedType:Chemical
+CANDIDATE	id:86854	inCount:0	outCount:1	links:	url:C086854	name:glycine-extended gastrin 17	normalName:glycine-extended gastrin 17	normalWikiTitle:glycine-extended gastrin 17	predictedType:Chemical
+CANDIDATE	id:633884	inCount:0	outCount:3	links:	url:C000633884	name:imipenem, cilastatin and relebactam	normalName:imipenem, cilastatin and relebactam	normalWikiTitle:imipenem, cilastatin and relebactam	predictedType:Chemical
+CANDIDATE	id:65087	inCount:0	outCount:2	links:	url:D065087	name:Acetylcholine Release Inhibitors	normalName:acetylcholine release inhibitors	normalWikiTitle:acetylcholine release inhibitors	predictedType:Chemical
+CANDIDATE	id:11389	inCount:0	outCount:1	links:	url:D011389	name:Prolactin Release-Inhibiting Factors	normalName:prolactin release-inhibiting factors	normalWikiTitle:prolactin release-inhibiting factors	predictedType:Chemical
+CANDIDATE	id:104260	inCount:0	outCount:1	links:	url:C104260	name:indomethacin triethylene ester	normalName:indomethacin triethylene ester	normalWikiTitle:indomethacin triethylene ester	predictedType:Chemical
+CANDIDATE	id:557802	inCount:0	outCount:2	links:	url:C557802	name:ethylene-diamine-beta-cyclodextrin	normalName:ethylene-diamine-beta-cyclodextrin	normalWikiTitle:ethylene-diamine-beta-cyclodextrin	predictedType:Chemical
+CANDIDATE	id:98869	inCount:0	outCount:1	links:	url:C098869	name:clasto-lactacystin beta-lactone	normalName:clasto-lactacystin beta-lactone	normalWikiTitle:clasto-lactacystin beta-lactone	predictedType:Chemical
+CANDIDATE	id:119893	inCount:0	outCount:2	links:	url:C119893	name:Inh1 cysteine protease inhibitor	normalName:inh1 cysteine protease inhibitor	normalWikiTitle:inh1 cysteine protease inhibitor	predictedType:Chemical
+CANDIDATE	id:53483	inCount:0	outCount:1	links:	url:C053483	name:prolactin-releasing factor (placenta)	normalName:prolactin-releasing factor (placenta)	normalWikiTitle:prolactin-releasing factor (placenta)	predictedType:Chemical
+ENTITY	text:aspartate	normalName:aspartate	predictedType:chemical	q:true	qid:Q326	docId:15276093	origText:aspartate	url:D001224
+CANDIDATE	id:1224	inCount:112	outCount:3	links:	url:D001224	name:Aspartate	normalName:aspartate	normalWikiTitle:aspartate	predictedType:Chemical
+ENTITY	text:lovastatin	normalName:lovastatin	predictedType:chemical	q:true	qid:Q326	docId:15276093	origText:lovastatin	url:D008148
+CANDIDATE	id:8148	inCount:14	outCount:1	links:	url:D008148	name:Lovastatin	normalName:lovastatin	normalWikiTitle:lovastatin	predictedType:Chemical
+ENTITY	text:alanine	normalName:alanine	predictedType:chemical	q:true	qid:Q326	docId:15276093	origText:alanine	url:D000409
+CANDIDATE	id:409	inCount:359	outCount:1	links:	url:D000409	name:Alanine	normalName:alanine	normalWikiTitle:alanine	predictedType:Chemical

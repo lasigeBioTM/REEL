@@ -1,0 +1,25 @@
+ENTITY	text:impairment in auditory discrimination	normalName:impairment in auditory discrimination	predictedType:disease	q:true	qid:Q191	docId:16596970	origText:impairment in auditory discrimination	url:D001308
+CANDIDATE	id:1308	inCount:1	outCount:3	links:12640;13226	url:D001308	name:Auditory Perceptual Disorders	normalName:auditory perceptual disorders	normalWikiTitle:auditory perceptual disorders	predictedType:Disease
+CANDIDATE	id:538436	inCount:0	outCount:1	links:	url:C538436	name:Auditory perceptual impairment	normalName:auditory perceptual impairment	normalWikiTitle:auditory perceptual impairment	predictedType:Disease
+CANDIDATE	id:9105	inCount:0	outCount:1	links:	url:D009105	name:Dissociative Identity Disorder	normalName:dissociative identity disorder	normalWikiTitle:dissociative identity disorder	predictedType:Disease
+CANDIDATE	id:7383	inCount:0	outCount:2	links:	url:D007383	name:Intermittent Claudication	normalName:intermittent claudication	normalWikiTitle:intermittent claudication	predictedType:Disease
+CANDIDATE	id:536277	inCount:0	outCount:1	links:	url:C536277	name:Idiopathic dilation cardiomyopathy	normalName:idiopathic dilation cardiomyopathy	normalWikiTitle:idiopathic dilation cardiomyopathy	predictedType:Disease
+CANDIDATE	id:70598	inCount:0	outCount:1	links:	url:D000070598	name:Anterior Cruciate Ligament Injuries	normalName:anterior cruciate ligament injuries	normalWikiTitle:anterior cruciate ligament injuries	predictedType:Disease
+CANDIDATE	id:11249	inCount:1	outCount:2	links:	url:D011249	name:Pregnancy Complications, Cardiovascular	normalName:pregnancy complications, cardiovascular	normalWikiTitle:pregnancy complications, cardiovascular	predictedType:Disease
+CANDIDATE	id:7319	inCount:1	outCount:1	links:	url:D007319	name:Sleep Initiation and Maintenance Disorders	normalName:sleep initiation and maintenance disorders	normalWikiTitle:sleep initiation and maintenance disorders	predictedType:Disease
+CANDIDATE	id:20132	inCount:0	outCount:1	links:	url:D020132	name:Anticipation, Genetic	normalName:anticipation, genetic	normalWikiTitle:anticipation, genetic	predictedType:Disease
+CANDIDATE	id:19960	inCount:2	outCount:1	links:	url:D019960	name:Elimination Disorders	normalName:elimination disorders	normalWikiTitle:elimination disorders	predictedType:Disease
+CANDIDATE	id:1259	inCount:60	outCount:1	links:	url:D001259	name:Impairment, Coordination	normalName:impairment, coordination	normalWikiTitle:impairment, coordination	predictedType:Disease
+CANDIDATE	id:1259	inCount:60	outCount:1	links:	url:D001259	name:Coordination Impairment	normalName:coordination impairment	normalWikiTitle:coordination impairment	predictedType:Disease
+CANDIDATE	id:1259	inCount:60	outCount:1	links:	url:D001259	name:Impairments, Coordination	normalName:impairments, coordination	normalWikiTitle:impairments, coordination	predictedType:Disease
+CANDIDATE	id:1259	inCount:60	outCount:1	links:	url:D001259	name:Coordination Impairments	normalName:coordination impairments	normalWikiTitle:coordination impairments	predictedType:Disease
+CANDIDATE	id:1037	inCount:5	outCount:1	links:	url:D001037	name:Discriminatory Aphasia, Auditory	normalName:discriminatory aphasia, auditory	normalWikiTitle:discriminatory aphasia, auditory	predictedType:Disease
+CANDIDATE	id:1037	inCount:5	outCount:1	links:	url:D001037	name:Auditory Discriminatory Aphasia	normalName:auditory discriminatory aphasia	normalWikiTitle:auditory discriminatory aphasia	predictedType:Disease
+CANDIDATE	id:1037	inCount:5	outCount:1	links:	url:D001037	name:Aphasia, Auditory Discriminatory	normalName:aphasia, auditory discriminatory	normalWikiTitle:aphasia, auditory discriminatory	predictedType:Disease
+CANDIDATE	id:1037	inCount:5	outCount:1	links:	url:D001037	name:Discriminatory Aphasias, Auditory	normalName:discriminatory aphasias, auditory	normalWikiTitle:discriminatory aphasias, auditory	predictedType:Disease
+CANDIDATE	id:1037	inCount:5	outCount:1	links:	url:D001037	name:Aphasias, Auditory Discriminatory	normalName:aphasias, auditory discriminatory	normalWikiTitle:aphasias, auditory discriminatory	predictedType:Disease
+CANDIDATE	id:1037	inCount:5	outCount:1	links:	url:D001037	name:Auditory Discriminatory Aphasias	normalName:auditory discriminatory aphasias	normalWikiTitle:auditory discriminatory aphasias	predictedType:Disease
+ENTITY	text:status epilepticus	normalName:status epilepticus	predictedType:disease	q:true	qid:Q191	docId:16596970	origText:status epilepticus	url:D013226
+CANDIDATE	id:13226	inCount:1	outCount:1	links:12640;1308	url:D013226	name:Status Epilepticus	normalName:status epilepticus	normalWikiTitle:status epilepticus	predictedType:Disease
+ENTITY	text:seizures	normalName:seizures	predictedType:disease	q:true	qid:Q191	docId:16596970	origText:seizures	url:D012640
+CANDIDATE	id:12640	inCount:53	outCount:1	links:1308;13226	url:D012640	name:Seizure	normalName:seizure	normalWikiTitle:seizure	predictedType:Disease

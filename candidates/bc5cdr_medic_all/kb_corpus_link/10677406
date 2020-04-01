@@ -1,0 +1,43 @@
+ENTITY	text:left ventricular dysfunction	normalName:left ventricular dysfunction	predictedType:disease	q:true	qid:Q816	docId:10677406	origText:left ventricular dysfunction	url:D018487
+CANDIDATE	id:18487	inCount:1	outCount:1	links:2545;17682;3324;12871;13610;740;9203;6973;17202;7511	url:D018487	name:Ventricular Dysfunction, Left	normalName:ventricular dysfunction, left	normalWikiTitle:ventricular dysfunction, left	predictedType:Disease
+ENTITY	text:myocardial ischaemia	normalName:myocardial ischaemia	predictedType:disease	q:true	qid:Q816	docId:10677406	origText:myocardial ischaemia	url:D017202
+CANDIDATE	id:17202	inCount:6	outCount:2	links:2545;17682;3324;18487;6973;7511	url:D017202	name:Myocardial Ischemia	normalName:myocardial ischemia	normalWikiTitle:myocardial ischemia	predictedType:Disease
+CANDIDATE	id:9203	inCount:8	outCount:1	links:2545;3324;18487;14786;6973;7511	url:D009203	name:Myocardial Infarction	normalName:myocardial infarction	normalWikiTitle:myocardial infarction	predictedType:Disease
+CANDIDATE	id:54084	inCount:0	outCount:1	links:	url:D054084	name:Myocardial Bridging	normalName:myocardial bridging	normalWikiTitle:myocardial bridging	predictedType:Disease
+CANDIDATE	id:71956	inCount:1	outCount:2	links:	url:D000071956	name:Myocardial Contusions	normalName:myocardial contusions	normalWikiTitle:myocardial contusions	predictedType:Disease
+CANDIDATE	id:65666	inCount:0	outCount:3	links:	url:D065666	name:Mesenteric Ischemia	normalName:mesenteric ischemia	normalWikiTitle:mesenteric ischemia	predictedType:Disease
+CANDIDATE	id:20760	inCount:2	outCount:1	links:	url:D020760	name:Spinal Cord Ischemia	normalName:spinal cord ischemia	normalWikiTitle:spinal cord ischemia	predictedType:Disease
+CANDIDATE	id:13616	inCount:0	outCount:1	links:	url:D013616	name:Tachycardia, Sinus	normalName:tachycardia, sinus	normalWikiTitle:tachycardia, sinus	predictedType:Disease
+CANDIDATE	id:19522	inCount:1	outCount:1	links:19522	url:D019522	name:Vaginal Discharge	normalName:vaginal discharge	normalWikiTitle:vaginal discharge	predictedType:Disease
+CANDIDATE	id:747	inCount:2	outCount:1	links:	url:D000747	name:Anemia, Hypochromic	normalName:anemia, hypochromic	normalWikiTitle:anemia, hypochromic	predictedType:Disease
+CANDIDATE	id:13610	inCount:7	outCount:2	links:18487;6973;3866;7511	url:D013610	name:Tachycardia	normalName:tachycardia	normalWikiTitle:tachycardia	predictedType:Disease
+ENTITY	text:stable angina	normalName:stable angina	predictedType:disease	q:true	qid:Q816	docId:10677406	origText:stable angina	url:D060050
+CANDIDATE	id:60050	inCount:0	outCount:1	links:	url:D060050	name:Angina, Stable	normalName:angina, stable	normalWikiTitle:angina, stable	predictedType:Disease
+ENTITY	text:myocardial stunning	normalName:myocardial stunning	predictedType:disease	q:true	qid:Q816	docId:10677406	origText:myocardial stunning	url:D017682
+CANDIDATE	id:17682	inCount:0	outCount:2	links:18487;6973;17202	url:D017682	name:Myocardial Stunning	normalName:myocardial stunning	normalWikiTitle:myocardial stunning	predictedType:Disease
+ENTITY	text:coronary artery disease	normalName:coronary artery disease	predictedType:disease	q:true	qid:Q816	docId:10677406	origText:coronary artery disease	url:D003324
+CANDIDATE	id:3324	inCount:4	outCount:2	links:9203;18487;2545;17202	url:D003324	name:Coronary Artery Disease	normalName:coronary artery disease	normalWikiTitle:coronary artery disease	predictedType:Disease
+ENTITY	text:depression	normalName:depression	predictedType:disease	q:true	qid:Q816	docId:10677406	origText:depression	url:D003866
+CANDIDATE	id:3866	inCount:6	outCount:1	links:13610	url:D003866	name:Depressive Disorder	normalName:depressive disorder	normalWikiTitle:depressive disorder	predictedType:Disease
+CANDIDATE	id:18450	inCount:2	outCount:1	links:	url:D018450	name:Disease Progression	normalName:disease progression	normalWikiTitle:disease progression	predictedType:Disease
+CANDIDATE	id:19052	inCount:0	outCount:2	links:	url:D019052	name:Depression, Postpartum	normalName:depression, postpartum	normalWikiTitle:depression, postpartum	predictedType:Disease
+CANDIDATE	id:146850	inCount:0	outCount:2	links:	url:146850	name:IMMUNE SUPPRESSION	normalName:immune suppression	normalWikiTitle:immune suppression	predictedType:Disease
+CANDIDATE	id:6973	inCount:18	outCount:1	links:9203;13610;18487;17202;17682	url:D006973	name:Hypertension	normalName:hypertension	normalWikiTitle:hypertension	predictedType:Disease
+CANDIDATE	id:58246	inCount:0	outCount:1	links:	url:D058246	name:Prehypertension	normalName:prehypertension	normalWikiTitle:prehypertension	predictedType:Disease
+CANDIDATE	id:14786	inCount:19	outCount:2	links:9203;740	url:D014786	name:Vision Disorders	normalName:vision disorders	normalWikiTitle:vision disorders	predictedType:Disease
+CANDIDATE	id:3665	inCount:0	outCount:1	links:	url:D003665	name:Decompression Sickness	normalName:decompression sickness	normalWikiTitle:decompression sickness	predictedType:Disease
+CANDIDATE	id:12871	inCount:71	outCount:1	links:18487;740	url:D012871	name:Skin Diseases	normalName:skin diseases	normalWikiTitle:skin diseases	predictedType:Disease
+CANDIDATE	id:4688	inCount:1	outCount:2	links:	url:D004688	name:Encopresis	normalName:encopresis	normalWikiTitle:encopresis	predictedType:Disease
+CANDIDATE	id:1714	inCount:11	outCount:1	links:	url:D001714	name:Depression, Bipolar	normalName:depression, bipolar	normalWikiTitle:depression, bipolar	predictedType:Disease
+CANDIDATE	id:1714	inCount:11	outCount:1	links:	url:D001714	name:Bipolar Depression	normalName:bipolar depression	normalWikiTitle:bipolar depression	predictedType:Disease
+ENTITY	text:ischaemia	normalName:ischaemia	predictedType:disease	q:true	qid:Q816	docId:10677406	origText:ischaemia	url:D007511
+CANDIDATE	id:7511	inCount:3	outCount:1	links:9203;13610;18487;17202	url:D007511	name:Ischemia	normalName:ischemia	normalWikiTitle:ischemia	predictedType:Disease
+CANDIDATE	id:2545	inCount:4	outCount:1	links:9203;18487;17202;3324	url:D002545	name:Brain Ischemia	normalName:brain ischemia	normalWikiTitle:brain ischemia	predictedType:Disease
+CANDIDATE	id:740	inCount:14	outCount:1	links:12871;18487;14786	url:D000740	name:Anemia	normalName:anemia	normalWikiTitle:anemia	predictedType:Disease
+CANDIDATE	id:58387	inCount:0	outCount:2	links:	url:D058387	name:Candidemia	normalName:candidemia	normalWikiTitle:candidemia	predictedType:Disease
+CANDIDATE	id:14766	inCount:1	outCount:2	links:	url:D014766	name:Viremia	normalName:viremia	normalWikiTitle:viremia	predictedType:Disease
+CANDIDATE	id:19522	inCount:1	outCount:1	links:19522	url:D019522	name:Vaginal Discharge	normalName:vaginal discharge	normalWikiTitle:vaginal discharge	predictedType:Disease
+CANDIDATE	id:2057	inCount:0	outCount:1	links:	url:D002057	name:Burns, Chemical	normalName:burns, chemical	normalWikiTitle:burns, chemical	predictedType:Disease
+CANDIDATE	id:7008	inCount:1	outCount:1	links:	url:D007008	name:Hypokalemia	normalName:hypokalemia	normalWikiTitle:hypokalemia	predictedType:Disease
+CANDIDATE	id:536634	inCount:0	outCount:1	links:	url:C536634	name:Schizotaxia	normalName:schizotaxia	normalWikiTitle:schizotaxia	predictedType:Disease
+CANDIDATE	id:13789	inCount:3	outCount:2	links:	url:D013789	name:Thalassemia	normalName:thalassemia	normalWikiTitle:thalassemia	predictedType:Disease

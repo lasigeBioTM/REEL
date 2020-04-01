@@ -1,0 +1,32 @@
+ENTITY	text:trauma	normalName:trauma	predictedType:disease	q:true	qid:Q778	docId:2670794	origText:trauma	url:D014947
+CANDIDATE	id:14947	inCount:52	outCount:1	links:	url:D014947	name:Trauma	normalName:trauma	normalWikiTitle:trauma	predictedType:Disease
+ENTITY	text:sepsis	normalName:sepsis	predictedType:disease	q:true	qid:Q778	docId:2670794	origText:sepsis	url:D018805
+CANDIDATE	id:18805	inCount:6	outCount:2	links:	url:D018805	name:Sepsis	normalName:sepsis	normalWikiTitle:sepsis	predictedType:Disease
+ENTITY	text:kidney damage	normalName:kidney damage	predictedType:disease	q:true	qid:Q778	docId:2670794	origText:kidney damage	url:D007674
+CANDIDATE	id:7674	inCount:65	outCount:1	links:14693	url:D007674	name:Disease, Kidney	normalName:disease, kidney	normalWikiTitle:disease, kidney	predictedType:Disease
+CANDIDATE	id:7674	inCount:65	outCount:1	links:14693	url:D007674	name:Kidney Diseases	normalName:kidney diseases	normalWikiTitle:kidney diseases	predictedType:Disease
+CANDIDATE	id:69337	inCount:0	outCount:1	links:	url:D000069337	name:Fused Kidney	normalName:fused kidney	normalWikiTitle:fused kidney	predictedType:Disease
+CANDIDATE	id:7669	inCount:3	outCount:2	links:	url:D007669	name:Kidney Calculi	normalName:kidney calculi	normalWikiTitle:kidney calculi	predictedType:Disease
+CANDIDATE	id:52177	inCount:36	outCount:1	links:	url:D052177	name:Kidney Diseases, Cystic	normalName:kidney diseases, cystic	normalWikiTitle:kidney diseases, cystic	predictedType:Disease
+CANDIDATE	id:58186	inCount:2	outCount:1	links:14693	url:D058186	name:Acute Kidney Injury	normalName:acute kidney injury	normalWikiTitle:acute kidney injury	predictedType:Disease
+CANDIDATE	id:4404	inCount:1	outCount:3	links:	url:D004404	name:Dysentery, Amebic	normalName:dysentery, amebic	normalWikiTitle:dysentery, amebic	predictedType:Disease
+CANDIDATE	id:12871	inCount:71	outCount:1	links:	url:D012871	name:Skin Diseases	normalName:skin diseases	normalWikiTitle:skin diseases	predictedType:Disease
+CANDIDATE	id:562565	inCount:0	outCount:1	links:	url:C562565	name:Uterine Anomalies	normalName:uterine anomalies	normalWikiTitle:uterine anomalies	predictedType:Disease
+CANDIDATE	id:12868	inCount:63	outCount:2	links:	url:D012868	name:Skin Abnormalities	normalName:skin abnormalities	normalWikiTitle:skin abnormalities	predictedType:Disease
+CANDIDATE	id:7247	inCount:4	outCount:1	links:	url:D007247	name:Infertility, Female	normalName:infertility, female	normalWikiTitle:infertility, female	predictedType:Disease
+CANDIDATE	id:69337	inCount:0	outCount:1	links:	url:D000069337	name:Kidney, Cake	normalName:kidney, cake	normalWikiTitle:kidney, cake	predictedType:Disease
+CANDIDATE	id:69337	inCount:0	outCount:1	links:	url:D000069337	name:Cake Kidney	normalName:cake kidney	normalWikiTitle:cake kidney	predictedType:Disease
+CANDIDATE	id:7674	inCount:65	outCount:1	links:14693	url:D007674	name:Kidney Disease	normalName:kidney disease	normalWikiTitle:kidney disease	predictedType:Disease
+CANDIDATE	id:69337	inCount:0	outCount:1	links:	url:D000069337	name:Cake Kidneys	normalName:cake kidneys	normalWikiTitle:cake kidneys	predictedType:Disease
+CANDIDATE	id:69337	inCount:0	outCount:1	links:	url:D000069337	name:Kidneys, Cake	normalName:kidneys, cake	normalWikiTitle:kidneys, cake	predictedType:Disease
+ENTITY	text:intravascular coagulation	normalName:intravascular coagulation	predictedType:disease	q:true	qid:Q778	docId:2670794	origText:intravascular coagulation	url:D004211
+CANDIDATE	id:4211	inCount:0	outCount:3	links:	url:D004211	name:Disseminated Intravascular Coagulation	normalName:disseminated intravascular coagulation	normalWikiTitle:disseminated intravascular coagulation	predictedType:Disease
+CANDIDATE	id:61205	inCount:3	outCount:1	links:	url:D061205	name:Vascular Calcification	normalName:vascular calcification	normalWikiTitle:vascular calcification	predictedType:Disease
+CANDIDATE	id:536895	inCount:0	outCount:1	links:	url:C536895	name:Talonavicular coalition	normalName:talonavicular coalition	normalWikiTitle:talonavicular coalition	predictedType:Disease
+CANDIDATE	id:54079	inCount:21	outCount:1	links:	url:D054079	name:Vascular Malformations	normalName:vascular malformations	normalWikiTitle:vascular malformations	predictedType:Disease
+CANDIDATE	id:17566	inCount:0	outCount:1	links:	url:D017566	name:Microvascular Angina	normalName:microvascular angina	normalWikiTitle:microvascular angina	predictedType:Disease
+CANDIDATE	id:70604	inCount:0	outCount:2	links:	url:D000070604	name:Tarsal Coalition	normalName:tarsal coalition	normalWikiTitle:tarsal coalition	predictedType:Disease
+CANDIDATE	id:15355	inCount:0	outCount:1	links:	url:D015355	name:Glaucoma, Neovascular	normalName:glaucoma, neovascular	normalWikiTitle:glaucoma, neovascular	predictedType:Disease
+CANDIDATE	id:537894	inCount:0	outCount:1	links:	url:C537894	name:Phacomatosis pigmentovascularis	normalName:phacomatosis pigmentovascularis	normalWikiTitle:phacomatosis pigmentovascularis	predictedType:Disease
+CANDIDATE	id:14693	inCount:3	outCount:1	links:58186;7674	url:D014693	name:Ventricular Fibrillation	normalName:ventricular fibrillation	normalWikiTitle:ventricular fibrillation	predictedType:Disease
+CANDIDATE	id:6083	inCount:0	outCount:1	links:	url:D006083	name:Graft Occlusion, Vascular	normalName:graft occlusion, vascular	normalWikiTitle:graft occlusion, vascular	predictedType:Disease

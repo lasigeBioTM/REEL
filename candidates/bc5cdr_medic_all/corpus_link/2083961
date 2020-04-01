@@ -1,0 +1,10 @@
+ENTITY	text:vomiting	normalName:vomiting	predictedType:disease	q:true	qid:Q785	docId:2083961	origText:vomiting	url:D014839
+CANDIDATE	id:14839	inCount:7	outCount:1	links:58186;9325	url:D014839	name:Vomiting	normalName:vomiting	normalWikiTitle:vomiting	predictedType:Disease
+ENTITY	text:nausea	normalName:nausea	predictedType:disease	q:true	qid:Q785	docId:2083961	origText:nausea	url:D009325
+CANDIDATE	id:9325	inCount:2	outCount:1	links:58186;14839	url:D009325	name:Nausea	normalName:nausea	normalWikiTitle:nausea	predictedType:Disease
+ENTITY	text:Acute renal failure	normalName:acute renal failure	predictedType:disease	q:true	qid:Q785	docId:2083961	origText:Acute renal failure	url:D058186
+CANDIDATE	id:58186	inCount:2	outCount:1	links:9325;5334;14839	url:D058186	name:Acute Renal Failure	normalName:acute renal failure	normalWikiTitle:acute renal failure	predictedType:Disease
+ENTITY	text:fever	normalName:fever	predictedType:disease	q:true	qid:Q785	docId:2083961	origText:fever	url:D005334
+CANDIDATE	id:5334	inCount:5	outCount:1	links:58186	url:D005334	name:Fever	normalName:fever	normalWikiTitle:fever	predictedType:Disease
+ENTITY	text:pulmonary tuberculosis	normalName:pulmonary tuberculosis	predictedType:disease	q:true	qid:Q785	docId:2083961	origText:pulmonary tuberculosis	url:D014397
+CANDIDATE	id:14397	inCount:1	outCount:3	links:	url:D014397	name:Tuberculosis, Pulmonary	normalName:tuberculosis, pulmonary	normalWikiTitle:tuberculosis, pulmonary	predictedType:Disease

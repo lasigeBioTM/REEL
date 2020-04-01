@@ -1,0 +1,4 @@
+ENTITY	text:chlormethiazole	normalName:chlormethiazole	predictedType:chemical	q:true	qid:Q1379	docId:88336	origText:chlormethiazole	url:D002719
+CANDIDATE	id:2719	inCount:3	outCount:1	links:9567	url:D002719	name:Chlormethiazole	normalName:chlormethiazole	normalWikiTitle:chlormethiazole	predictedType:Chemical
+ENTITY	text:nitrazepam	normalName:nitrazepam	predictedType:chemical	q:true	qid:Q1379	docId:88336	origText:nitrazepam	url:D009567
+CANDIDATE	id:9567	inCount:7	outCount:1	links:2719	url:D009567	name:Nitrazepam	normalName:nitrazepam	normalWikiTitle:nitrazepam	predictedType:Chemical

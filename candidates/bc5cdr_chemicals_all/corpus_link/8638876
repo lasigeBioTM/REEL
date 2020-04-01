@@ -1,0 +1,4 @@
+ENTITY	text:progesterone	normalName:progesterone	predictedType:chemical	q:true	qid:Q426	docId:8638876	origText:progesterone	url:D011374
+CANDIDATE	id:11374	inCount:106	outCount:3	links:4958	url:D011374	name:Progesterone	normalName:progesterone	normalWikiTitle:progesterone	predictedType:Chemical
+ENTITY	text:estradiol	normalName:estradiol	predictedType:chemical	q:true	qid:Q426	docId:8638876	origText:estradiol	url:D004958
+CANDIDATE	id:4958	inCount:306	outCount:2	links:11374	url:D004958	name:Estradiol	normalName:estradiol	normalWikiTitle:estradiol	predictedType:Chemical

@@ -1,0 +1,6 @@
+ENTITY	text:penicillin G	normalName:penicillin g	predictedType:chemical	q:true	qid:Q567	docId:21294084	origText:penicillin G	url:D010400
+CANDIDATE	id:10400	inCount:41	outCount:1	links:10400	url:D010400	name:Penicillin G	normalName:penicillin g	normalWikiTitle:penicillin g	predictedType:Chemical
+ENTITY	text:penicillin	normalName:penicillin	predictedType:chemical	q:true	qid:Q567	docId:21294084	origText:penicillin	url:D010406
+CANDIDATE	id:10406	inCount:59	outCount:1	links:	url:D010406	name:Penicillin	normalName:penicillin	normalWikiTitle:penicillin	predictedType:Chemical
+ENTITY	text:penicillin-G	normalName:penicillin-g	predictedType:chemical	q:true	qid:Q567	docId:21294084	origText:penicillin-G	url:D010400
+CANDIDATE	id:10400	inCount:41	outCount:1	links:10400	url:D010400	name:Penicillin G	normalName:penicillin g	normalWikiTitle:penicillin g	predictedType:Chemical

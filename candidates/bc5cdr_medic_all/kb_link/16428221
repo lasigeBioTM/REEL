@@ -1,0 +1,47 @@
+ENTITY	text:vasculitis	normalName:vasculitis	predictedType:disease	q:true	qid:Q932	docId:16428221	origText:vasculitis	url:D014657
+CANDIDATE	id:14657	inCount:16	outCount:1	links:	url:D014657	name:Vasculitis	normalName:vasculitis	normalWikiTitle:vasculitis	predictedType:Disease
+ENTITY	text:ischaemic stroke	normalName:ischaemic stroke	predictedType:disease	q:true	qid:Q932	docId:16428221	origText:ischaemic stroke	url:D002544
+CANDIDATE	id:2544	inCount:5	outCount:1	links:2544	url:D002544	name:STROKE, ISCHEMIC	normalName:stroke, ischemic	normalWikiTitle:stroke, ischemic	predictedType:Disease
+CANDIDATE	id:18883	inCount:1	outCount:1	links:18883	url:D018883	name:Heat Stroke	normalName:heat stroke	normalWikiTitle:heat stroke	predictedType:Disease
+CANDIDATE	id:65666	inCount:0	outCount:3	links:65666	url:D065666	name:Mesenteric Ischemia	normalName:mesenteric ischemia	normalWikiTitle:mesenteric ischemia	predictedType:Disease
+CANDIDATE	id:567864	inCount:0	outCount:3	links:567864	url:C567864	name:Giacheti Syndrome	normalName:giacheti syndrome	normalWikiTitle:giacheti syndrome	predictedType:Disease
+CANDIDATE	id:59409	inCount:0	outCount:2	links:59409	url:D059409	name:Stroke, Lacunar	normalName:stroke, lacunar	normalWikiTitle:stroke, lacunar	predictedType:Disease
+CANDIDATE	id:2546	inCount:0	outCount:1	links:2546	url:D002546	name:Ischemic Attack, Transient	normalName:ischemic attack, transient	normalWikiTitle:ischemic attack, transient	predictedType:Disease
+CANDIDATE	id:19846	inCount:0	outCount:3	links:19846	url:D019846	name:Miller Fisher Syndrome	normalName:miller fisher syndrome	normalWikiTitle:miller fisher syndrome	predictedType:Disease
+CANDIDATE	id:20386	inCount:0	outCount:2	links:20386	url:D020386	name:Isaacs Syndrome	normalName:isaacs syndrome	normalWikiTitle:isaacs syndrome	predictedType:Disease
+CANDIDATE	id:7511	inCount:3	outCount:1	links:7511	url:D007511	name:Ischemia	normalName:ischemia	normalWikiTitle:ischemia	predictedType:Disease
+CANDIDATE	id:58747	inCount:0	outCount:3	links:58747	url:D058747	name:CHARGE Syndrome	normalName:charge syndrome	normalWikiTitle:charge syndrome	predictedType:Disease
+CANDIDATE	id:536673	inCount:0	outCount:2	links:536673	url:C536673	name:Slti Salem syndrome	normalName:slti salem syndrome	normalWikiTitle:slti salem syndrome	predictedType:Disease
+CANDIDATE	id:20526	inCount:2	outCount:1	links:20526	url:D020526	name:Stroke, Brainstem	normalName:stroke, brainstem	normalWikiTitle:stroke, brainstem	predictedType:Disease
+CANDIDATE	id:20526	inCount:2	outCount:1	links:20526	url:D020526	name:Brainstem Stroke	normalName:brainstem stroke	normalWikiTitle:brainstem stroke	predictedType:Disease
+ENTITY	text:ischaemic strokes	normalName:ischaemic strokes	predictedType:disease	q:true	qid:Q932	docId:16428221	origText:ischaemic strokes	url:D002544
+CANDIDATE	id:2544	inCount:5	outCount:1	links:2544	url:D002544	name:STROKE, ISCHEMIC	normalName:stroke, ischemic	normalWikiTitle:stroke, ischemic	predictedType:Disease
+CANDIDATE	id:18883	inCount:1	outCount:1	links:18883	url:D018883	name:Heat Stroke	normalName:heat stroke	normalWikiTitle:heat stroke	predictedType:Disease
+CANDIDATE	id:65666	inCount:0	outCount:3	links:65666	url:D065666	name:Mesenteric Ischemia	normalName:mesenteric ischemia	normalWikiTitle:mesenteric ischemia	predictedType:Disease
+CANDIDATE	id:567864	inCount:0	outCount:3	links:567864	url:C567864	name:Giacheti Syndrome	normalName:giacheti syndrome	normalWikiTitle:giacheti syndrome	predictedType:Disease
+CANDIDATE	id:59409	inCount:0	outCount:2	links:59409	url:D059409	name:Stroke, Lacunar	normalName:stroke, lacunar	normalWikiTitle:stroke, lacunar	predictedType:Disease
+CANDIDATE	id:2546	inCount:0	outCount:1	links:2546	url:D002546	name:Ischemic Attack, Transient	normalName:ischemic attack, transient	normalWikiTitle:ischemic attack, transient	predictedType:Disease
+CANDIDATE	id:19846	inCount:0	outCount:3	links:19846	url:D019846	name:Miller Fisher Syndrome	normalName:miller fisher syndrome	normalWikiTitle:miller fisher syndrome	predictedType:Disease
+CANDIDATE	id:20386	inCount:0	outCount:2	links:20386	url:D020386	name:Isaacs Syndrome	normalName:isaacs syndrome	normalWikiTitle:isaacs syndrome	predictedType:Disease
+CANDIDATE	id:7511	inCount:3	outCount:1	links:7511	url:D007511	name:Ischemia	normalName:ischemia	normalWikiTitle:ischemia	predictedType:Disease
+CANDIDATE	id:58747	inCount:0	outCount:3	links:58747	url:D058747	name:CHARGE Syndrome	normalName:charge syndrome	normalWikiTitle:charge syndrome	predictedType:Disease
+CANDIDATE	id:536673	inCount:0	outCount:2	links:536673	url:C536673	name:Slti Salem syndrome	normalName:slti salem syndrome	normalWikiTitle:slti salem syndrome	predictedType:Disease
+CANDIDATE	id:20526	inCount:2	outCount:1	links:20526	url:D020526	name:Stroke, Brainstem	normalName:stroke, brainstem	normalWikiTitle:stroke, brainstem	predictedType:Disease
+CANDIDATE	id:20526	inCount:2	outCount:1	links:20526	url:D020526	name:Brainstem Stroke	normalName:brainstem stroke	normalWikiTitle:brainstem stroke	predictedType:Disease
+ENTITY	text:amphetamine abuse	normalName:amphetamine abuse	predictedType:disease	q:true	qid:Q932	docId:16428221	origText:amphetamine abuse	url:D019969
+CANDIDATE	id:19969	inCount:0	outCount:1	links:	url:D019969	name:Abuse, Amphetamine	normalName:abuse, amphetamine	normalWikiTitle:abuse, amphetamine	predictedType:Disease
+ENTITY	text:Cerebral vasculitis	normalName:cerebral vasculitis	predictedType:disease	q:true	qid:Q932	docId:16428221	origText:Cerebral vasculitis	url:D020293
+CANDIDATE	id:20293	inCount:6	outCount:3	links:	url:D020293	name:Cerebral Vasculitis	normalName:cerebral vasculitis	normalWikiTitle:cerebral vasculitis	predictedType:Disease
+ENTITY	text:hyperactivity	normalName:hyperactivity	predictedType:disease	q:true	qid:Q932	docId:16428221	origText:hyperactivity	url:D006948
+CANDIDATE	id:6948	inCount:1	outCount:1	links:	url:D006948	name:Hyperactivity, Motor	normalName:hyperactivity, motor	normalWikiTitle:hyperactivity, motor	predictedType:Disease
+CANDIDATE	id:6967	inCount:9	outCount:1	links:	url:D006967	name:Hypersensitivity	normalName:hypersensitivity	normalWikiTitle:hypersensitivity	predictedType:Disease
+CANDIDATE	id:16535	inCount:0	outCount:1	links:	url:D016535	name:Bronchial Hyperreactivity	normalName:bronchial hyperreactivity	normalWikiTitle:bronchial hyperreactivity	predictedType:Disease
+CANDIDATE	id:21184	inCount:0	outCount:1	links:	url:D021184	name:Nut Hypersensitivity	normalName:nut hypersensitivity	normalWikiTitle:nut hypersensitivity	predictedType:Disease
+CANDIDATE	id:53565	inCount:6	outCount:1	links:	url:D053565	name:Hypercalciuria	normalName:hypercalciuria	normalWikiTitle:hypercalciuria	predictedType:Disease
+CANDIDATE	id:21181	inCount:0	outCount:1	links:	url:D021181	name:Egg Hypersensitivity	normalName:egg hypersensitivity	normalWikiTitle:egg hypersensitivity	predictedType:Disease
+CANDIDATE	id:12001	inCount:0	outCount:1	links:	url:D012001	name:Hyperacusis	normalName:hyperacusis	normalWikiTitle:hyperacusis	predictedType:Disease
+CANDIDATE	id:5512	inCount:5	outCount:1	links:	url:D005512	name:Food Hypersensitivity	normalName:food hypersensitivity	normalWikiTitle:food hypersensitivity	predictedType:Disease
+CANDIDATE	id:569627	inCount:0	outCount:1	links:	url:C569627	name:Cold Hypersensitivity	normalName:cold hypersensitivity	normalWikiTitle:cold hypersensitivity	predictedType:Disease
+CANDIDATE	id:6966	inCount:1	outCount:1	links:	url:D006966	name:Hyperprolactinemia	normalName:hyperprolactinemia	normalWikiTitle:hyperprolactinemia	predictedType:Disease
+CANDIDATE	id:16269	inCount:0	outCount:1	links:	url:D016269	name:Milk Hypersensitivity	normalName:milk hypersensitivity	normalWikiTitle:milk hypersensitivity	predictedType:Disease
+CANDIDATE	id:6948	inCount:1	outCount:1	links:	url:D006948	name:Motor Hyperactivity	normalName:motor hyperactivity	normalWikiTitle:motor hyperactivity	predictedType:Disease

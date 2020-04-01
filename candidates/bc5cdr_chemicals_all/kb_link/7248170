@@ -1,0 +1,4 @@
+ENTITY	text:Phenobarbitone	normalName:phenobarbitone	predictedType:chemical	q:true	qid:Q243	docId:7248170	origText:Phenobarbitone	url:D010634
+CANDIDATE	id:10634	inCount:50	outCount:1	links:	url:D010634	name:Phenobarbitone	normalName:phenobarbitone	normalWikiTitle:phenobarbitone	predictedType:Chemical
+ENTITY	text:carbon tetrachloride	normalName:carbon tetrachloride	predictedType:chemical	q:true	qid:Q243	docId:7248170	origText:carbon tetrachloride	url:D002251
+CANDIDATE	id:2251	inCount:1	outCount:1	links:	url:D002251	name:Carbon Tetrachloride	normalName:carbon tetrachloride	normalWikiTitle:carbon tetrachloride	predictedType:Chemical

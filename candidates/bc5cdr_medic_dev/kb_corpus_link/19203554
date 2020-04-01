@@ -1,0 +1,25 @@
+ENTITY	text:segmental necrotizing glomerulonephritis	normalName:segmental necrotizing glomerulonephritis	predictedType:disease	q:true	qid:Q121	docId:19203554	origText:segmental necrotizing glomerulonephritis	url:D005923
+CANDIDATE	id:5923	inCount:3	outCount:1	links:10996;5334	url:D005923	name:Glomerulosclerosis, Focal Segmental	normalName:glomerulosclerosis, focal segmental	normalWikiTitle:glomerulosclerosis, focal segmental	predictedType:Disease
+CANDIDATE	id:538457	inCount:0	outCount:1	links:	url:C538457	name:Segmental glomerulosclerosis	normalName:segmental glomerulosclerosis	normalWikiTitle:segmental glomerulosclerosis	predictedType:Disease
+CANDIDATE	id:5922	inCount:1	outCount:2	links:	url:D005922	name:Glomerulonephritis, IGA	normalName:glomerulonephritis, iga	normalWikiTitle:glomerulonephritis, iga	predictedType:Disease
+CANDIDATE	id:15433	inCount:0	outCount:2	links:	url:D015433	name:Glomerulonephritis, Membranous	normalName:glomerulonephritis, membranous	normalWikiTitle:glomerulonephritis, membranous	predictedType:Disease
+CANDIDATE	id:536825	inCount:1	outCount:3	links:	url:C536825	name:Glomerulonephritis sparse hair telangiectases	normalName:glomerulonephritis sparse hair telangiectases	normalWikiTitle:glomerulonephritis sparse hair telangiectases	predictedType:Disease
+CANDIDATE	id:565831	inCount:0	outCount:1	links:	url:C565831	name:Focal Segmental Glomerulosclerosis 2	normalName:focal segmental glomerulosclerosis 2	normalWikiTitle:focal segmental glomerulosclerosis 2	predictedType:Disease
+CANDIDATE	id:567687	inCount:0	outCount:1	links:	url:C567687	name:Focal Segmental Glomerulosclerosis 5	normalName:focal segmental glomerulosclerosis 5	normalWikiTitle:focal segmental glomerulosclerosis 5	predictedType:Disease
+CANDIDATE	id:20345	inCount:0	outCount:1	links:	url:D020345	name:Enterocolitis, Necrotizing	normalName:enterocolitis, necrotizing	normalWikiTitle:enterocolitis, necrotizing	predictedType:Disease
+CANDIDATE	id:15432	inCount:7	outCount:2	links:	url:D015432	name:Glomerulonephritis, Membranoproliferative	normalName:glomerulonephritis, membranoproliferative	normalWikiTitle:glomerulonephritis, membranoproliferative	predictedType:Disease
+CANDIDATE	id:5921	inCount:11	outCount:1	links:5921	url:D005921	name:Glomerulonephritis	normalName:glomerulonephritis	normalWikiTitle:glomerulonephritis	predictedType:Disease
+ENTITY	text:chest pain	normalName:chest pain	predictedType:disease	q:true	qid:Q121	docId:19203554	origText:chest pain	url:D002637
+CANDIDATE	id:2637	inCount:1	outCount:1	links:	url:D002637	name:Chest Pain	normalName:chest pain	normalWikiTitle:chest pain	predictedType:Disease
+ENTITY	text:eosinophilia	normalName:eosinophilia	predictedType:disease	q:true	qid:Q121	docId:19203554	origText:eosinophilia	url:D004802
+CANDIDATE	id:4802	inCount:14	outCount:1	links:	url:D004802	name:Eosinophilia	normalName:eosinophilia	normalWikiTitle:eosinophilia	predictedType:Disease
+ENTITY	text:fever	normalName:fever	predictedType:disease	q:true	qid:Q121	docId:19203554	origText:fever	url:D005334
+CANDIDATE	id:5334	inCount:5	outCount:1	links:5923;10996	url:D005334	name:Fever	normalName:fever	normalWikiTitle:fever	predictedType:Disease
+ENTITY	text:glomerulonephritis	normalName:glomerulonephritis	predictedType:disease	q:true	qid:Q121	docId:19203554	origText:glomerulonephritis	url:D005921
+CANDIDATE	id:5921	inCount:11	outCount:1	links:5921	url:D005921	name:Glomerulonephritis	normalName:glomerulonephritis	normalWikiTitle:glomerulonephritis	predictedType:Disease
+ENTITY	text:ulcerative colitis	normalName:ulcerative colitis	predictedType:disease	q:true	qid:Q121	docId:19203554	origText:ulcerative colitis	url:D003093
+CANDIDATE	id:3093	inCount:1	outCount:2	links:	url:D003093	name:Colitis, Ulcerative	normalName:colitis, ulcerative	normalWikiTitle:colitis, ulcerative	predictedType:Disease
+ENTITY	text:pleural effusions	normalName:pleural effusions	predictedType:disease	q:true	qid:Q121	docId:19203554	origText:pleural effusions	url:D010996
+CANDIDATE	id:10996	inCount:1	outCount:1	links:10996;5923;5334	url:D010996	name:Pleural Effusion	normalName:pleural effusion	normalWikiTitle:pleural effusion	predictedType:Disease
+ENTITY	text:pleural effusion	normalName:pleural effusion	predictedType:disease	q:true	qid:Q121	docId:19203554	origText:pleural effusion	url:D010996
+CANDIDATE	id:10996	inCount:1	outCount:1	links:10996;5923;5334	url:D010996	name:Pleural Effusion	normalName:pleural effusion	normalWikiTitle:pleural effusion	predictedType:Disease

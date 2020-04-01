@@ -1,0 +1,17 @@
+ENTITY	text:hypereosinophilia	normalName:hypereosinophilia	predictedType:disease	q:true	qid:Q1197	docId:3496378	origText:hypereosinophilia	url:D004802
+CANDIDATE	id:4802	inCount:14	outCount:1	links:11537;7565;2779	url:D004802	name:Eosinophilia	normalName:eosinophilia	normalWikiTitle:eosinophilia	predictedType:Disease
+CANDIDATE	id:17681	inCount:3	outCount:1	links:	url:D017681	name:Hypereosinophilic Syndrome	normalName:hypereosinophilic syndrome	normalWikiTitle:hypereosinophilic syndrome	predictedType:Disease
+CANDIDATE	id:6956	inCount:4	outCount:1	links:	url:D006956	name:Hyperopia	normalName:hyperopia	normalWikiTitle:hyperopia	predictedType:Disease
+CANDIDATE	id:6941	inCount:0	outCount:1	links:	url:D006941	name:Hyperesthesia	normalName:hyperesthesia	normalWikiTitle:hyperesthesia	predictedType:Disease
+CANDIDATE	id:9798	inCount:1	outCount:1	links:	url:D009798	name:Ocular Hypertension	normalName:ocular hypertension	normalWikiTitle:ocular hypertension	predictedType:Disease
+CANDIDATE	id:71017	inCount:0	outCount:1	links:	url:D000071017	name:Hyperekplexia	normalName:hyperekplexia	normalWikiTitle:hyperekplexia	predictedType:Disease
+CANDIDATE	id:19851	inCount:16	outCount:1	links:	url:D019851	name:Thrombophilia	normalName:thrombophilia	normalWikiTitle:thrombophilia	predictedType:Disease
+CANDIDATE	id:10378	inCount:0	outCount:1	links:	url:D010378	name:Pedophilia	normalName:pedophilia	normalWikiTitle:pedophilia	predictedType:Disease
+CANDIDATE	id:54559	inCount:3	outCount:1	links:	url:D054559	name:Hyperphosphatemia	normalName:hyperphosphatemia	normalWikiTitle:hyperphosphatemia	predictedType:Disease
+CANDIDATE	id:537760	inCount:0	outCount:1	links:	url:C537760	name:Renoprival hypertension	normalName:renoprival hypertension	normalWikiTitle:renoprival hypertension	predictedType:Disease
+ENTITY	text:cholestasis	normalName:cholestasis	predictedType:disease	q:true	qid:Q1197	docId:3496378	origText:cholestasis	url:D002779
+CANDIDATE	id:2779	inCount:14	outCount:1	links:11537;4802;7565	url:D002779	name:Cholestasis	normalName:cholestasis	normalWikiTitle:cholestasis	predictedType:Disease
+ENTITY	text:pruritus	normalName:pruritus	predictedType:disease	q:true	qid:Q1197	docId:3496378	origText:pruritus	url:D011537
+CANDIDATE	id:11537	inCount:6	outCount:2	links:4802;7565;2779	url:D011537	name:Pruritus	normalName:pruritus	normalWikiTitle:pruritus	predictedType:Disease
+ENTITY	text:Jaundice	normalName:jaundice	predictedType:disease	q:true	qid:Q1197	docId:3496378	origText:Jaundice	url:D007565
+CANDIDATE	id:7565	inCount:5	outCount:2	links:11537;4802;2779	url:D007565	name:Jaundice	normalName:jaundice	normalWikiTitle:jaundice	predictedType:Disease

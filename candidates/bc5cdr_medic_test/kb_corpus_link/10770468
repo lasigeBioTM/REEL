@@ -1,0 +1,22 @@
+ENTITY	text:arrhythmia	normalName:arrhythmia	predictedType:disease	q:true	qid:Q102	docId:10770468	origText:arrhythmia	url:D001145
+CANDIDATE	id:1145	inCount:27	outCount:2	links:1714	url:D001145	name:Arrhythmia	normalName:arrhythmia	normalWikiTitle:arrhythmia	predictedType:Disease
+ENTITY	text:malignancies	normalName:malignancies	predictedType:disease	q:true	qid:Q102	docId:10770468	origText:malignancies	url:D009369
+CANDIDATE	id:9369	inCount:18	outCount:1	links:	url:D009369	name:Malignancies	normalName:malignancies	normalWikiTitle:malignancies	predictedType:Disease
+ENTITY	text:Hypercalcemia	normalName:hypercalcemia	predictedType:disease	q:true	qid:Q102	docId:10770468	origText:Hypercalcemia	url:D006934
+CANDIDATE	id:6934	inCount:10	outCount:2	links:6934	url:D006934	name:Hypercalcemia	normalName:hypercalcemia	normalWikiTitle:hypercalcemia	predictedType:Disease
+ENTITY	text:hypercalcemias	normalName:hypercalcemias	predictedType:disease	q:true	qid:Q102	docId:10770468	origText:hypercalcemias	url:D006934
+CANDIDATE	id:6934	inCount:10	outCount:2	links:6934	url:D006934	name:Hypercalcemia	normalName:hypercalcemia	normalWikiTitle:hypercalcemia	predictedType:Disease
+ENTITY	text:bipolar	normalName:bipolar	predictedType:disease	q:true	qid:Q102	docId:10770468	origText:bipolar	url:D001714
+CANDIDATE	id:1714	inCount:11	outCount:1	links:1145	url:D001714	name:Bipolar Disorder	normalName:bipolar disorder	normalWikiTitle:bipolar disorder	predictedType:Disease
+CANDIDATE	id:3969	inCount:0	outCount:2	links:	url:D003969	name:Vipoma	normalName:vipoma	normalWikiTitle:vipoma	predictedType:Disease
+CANDIDATE	id:8067	inCount:7	outCount:1	links:	url:D008067	name:Lipoma	normalName:lipoma	normalWikiTitle:lipoma	predictedType:Disease
+CANDIDATE	id:1630	inCount:0	outCount:1	links:	url:D001630	name:Bezoars	normalName:bezoars	normalWikiTitle:bezoars	predictedType:Disease
+CANDIDATE	id:8080	inCount:2	outCount:2	links:	url:D008080	name:Liposarcoma	normalName:liposarcoma	normalWikiTitle:liposarcoma	predictedType:Disease
+CANDIDATE	id:16117	inCount:4	outCount:1	links:	url:D016117	name:Albinism, Ocular	normalName:albinism, ocular	normalWikiTitle:albinism, ocular	predictedType:Disease
+CANDIDATE	id:62689	inCount:0	outCount:1	links:	url:D062689	name:Lipoblastoma	normalName:lipoblastoma	normalWikiTitle:lipoblastoma	predictedType:Disease
+CANDIDATE	id:10383	inCount:1	outCount:1	links:	url:D010383	name:Pellagra	normalName:pellagra	normalWikiTitle:pellagra	predictedType:Disease
+CANDIDATE	id:11391	inCount:1	outCount:1	links:	url:D011391	name:Prolapse	normalName:prolapse	normalWikiTitle:prolapse	predictedType:Disease
+CANDIDATE	id:4172	inCount:0	outCount:1	links:	url:D004172	name:Diplopia	normalName:diplopia	normalWikiTitle:diplopia	predictedType:Disease
+CANDIDATE	id:10003	inCount:8	outCount:2	links:	url:D010003	name:DIPOA	normalName:dipoa	normalWikiTitle:dipoa	predictedType:Disease
+ENTITY	text:bradyarrhythmia	normalName:bradyarrhythmia	predictedType:disease	q:true	qid:Q102	docId:10770468	origText:bradyarrhythmia	url:D001919
+CANDIDATE	id:1919	inCount:0	outCount:1	links:	url:D001919	name:Bradyarrhythmia	normalName:bradyarrhythmia	normalWikiTitle:bradyarrhythmia	predictedType:Disease

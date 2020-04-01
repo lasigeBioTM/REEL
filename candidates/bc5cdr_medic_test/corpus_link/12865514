@@ -1,0 +1,20 @@
+ENTITY	text:tremor	normalName:tremor	predictedType:disease	q:true	qid:Q54	docId:12865514	origText:tremor	url:D014202
+CANDIDATE	id:14202	inCount:6	outCount:1	links:	url:D014202	name:Tremor	normalName:tremor	normalWikiTitle:tremor	predictedType:Disease
+ENTITY	text:drug-induced dyskinesias	normalName:drug-induced dyskinesias	predictedType:disease	q:true	qid:Q54	docId:12865514	origText:drug-induced dyskinesias	url:D004409
+CANDIDATE	id:4409	inCount:1	outCount:3	links:	url:D004409	name:Drug-Induced Dyskinesias	normalName:drug-induced dyskinesias	normalWikiTitle:drug-induced dyskinesias	predictedType:Disease
+ENTITY	text:Parkinson's disease	normalName:parkinson's disease	predictedType:disease	q:true	qid:Q54	docId:12865514	origText:Parkinson's disease	url:D010300
+CANDIDATE	id:10300	inCount:31	outCount:2	links:	url:D010300	name:Parkinson's Disease	normalName:parkinson's disease	normalWikiTitle:parkinson's disease	predictedType:Disease
+ENTITY	text:rigidity	normalName:rigidity	predictedType:disease	q:true	qid:Q54	docId:12865514	origText:rigidity	url:D009127
+CANDIDATE	id:9127	inCount:3	outCount:2	links:	url:D009127	name:Muscle Rigidity	normalName:muscle rigidity	normalWikiTitle:muscle rigidity	predictedType:Disease
+CANDIDATE	id:57885	inCount:0	outCount:1	links:	url:D057885	name:Triploidy	normalName:triploidy	normalWikiTitle:triploidy	predictedType:Disease
+CANDIDATE	id:5891	inCount:2	outCount:1	links:	url:D005891	name:Gingivitis	normalName:gingivitis	normalWikiTitle:gingivitis	predictedType:Disease
+CANDIDATE	id:66126	inCount:0	outCount:3	links:	url:D066126	name:Cardiotoxicity	normalName:cardiotoxicity	normalWikiTitle:cardiotoxicity	predictedType:Disease
+CANDIDATE	id:9767	inCount:3	outCount:1	links:	url:D009767	name:Obesity, Morbid	normalName:obesity, morbid	normalWikiTitle:obesity, morbid	predictedType:Disease
+CANDIDATE	id:7246	inCount:2	outCount:2	links:	url:D007246	name:Infertility	normalName:infertility	normalWikiTitle:infertility	predictedType:Disease
+CANDIDATE	id:13966	inCount:4	outCount:1	links:	url:D013966	name:Thyroiditis	normalName:thyroiditis	normalWikiTitle:thyroiditis	predictedType:Disease
+CANDIDATE	id:73496	inCount:0	outCount:1	links:	url:D000073496	name:Frailty	normalName:frailty	normalWikiTitle:frailty	predictedType:Disease
+CANDIDATE	id:2833	inCount:3	outCount:2	links:	url:D002833	name:Choroiditis	normalName:choroiditis	normalWikiTitle:choroiditis	predictedType:Disease
+CANDIDATE	id:536372	inCount:0	outCount:1	links:	url:C536372	name:Aniridia, type 2	normalName:aniridia, type 2	normalWikiTitle:aniridia, type 2	predictedType:Disease
+CANDIDATE	id:20018	inCount:6	outCount:1	links:	url:D020018	name:Frigidity	normalName:frigidity	normalWikiTitle:frigidity	predictedType:Disease
+ENTITY	text:bradykinesia	normalName:bradykinesia	predictedType:disease	q:true	qid:Q54	docId:12865514	origText:bradykinesia	url:D018476
+CANDIDATE	id:18476	inCount:1	outCount:1	links:	url:D018476	name:Bradykinesia	normalName:bradykinesia	normalWikiTitle:bradykinesia	predictedType:Disease

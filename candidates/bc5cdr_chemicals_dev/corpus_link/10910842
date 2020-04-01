@@ -1,0 +1,6 @@
+ENTITY	text:Prednisolone	normalName:prednisolone	predictedType:chemical	q:true	qid:Q269	docId:10910842	origText:Prednisolone	url:D011239
+CANDIDATE	id:11239	inCount:207	outCount:1	links:	url:D011239	name:Prednisolone	normalName:prednisolone	normalWikiTitle:prednisolone	predictedType:Chemical
+ENTITY	text:acetylcholine	normalName:acetylcholine	predictedType:chemical	q:true	qid:Q269	docId:10910842	origText:acetylcholine	url:D000109
+CANDIDATE	id:109	inCount:23	outCount:1	links:	url:D000109	name:Acetylcholine	normalName:acetylcholine	normalWikiTitle:acetylcholine	predictedType:Chemical
+ENTITY	text:d-tubocurarine	normalName:d-tubocurarine	predictedType:chemical	q:true	qid:Q269	docId:10910842	origText:d-tubocurarine	url:D014403
+CANDIDATE	id:14403	inCount:5	outCount:3	links:	url:D014403	name:d-Tubocurarine	normalName:d-tubocurarine	normalWikiTitle:d-tubocurarine	predictedType:Chemical

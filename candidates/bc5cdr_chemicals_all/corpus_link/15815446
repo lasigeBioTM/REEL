@@ -1,0 +1,6 @@
+ENTITY	text:phenylephrine	normalName:phenylephrine	predictedType:chemical	q:true	qid:Q522	docId:15815446	origText:phenylephrine	url:D010656
+CANDIDATE	id:10656	inCount:28	outCount:1	links:	url:D010656	name:Phenylephrine	normalName:phenylephrine	normalWikiTitle:phenylephrine	predictedType:Chemical
+ENTITY	text:Evans Blue	normalName:evans blue	predictedType:chemical	q:true	qid:Q522	docId:15815446	origText:Evans Blue	url:D005070
+CANDIDATE	id:5070	inCount:0	outCount:2	links:	url:D005070	name:Evans Blue	normalName:evans blue	normalWikiTitle:evans blue	predictedType:Chemical
+ENTITY	text:2,3,5-triphenyltetrazolium chloride	normalName:2,3,5-triphenyltetrazolium chloride	predictedType:chemical	q:true	qid:Q522	docId:15815446	origText:2,3,5-triphenyltetrazolium chloride	url:C009591
+CANDIDATE	id:9591	inCount:0	outCount:1	links:	url:C009591	name:2,3,5-triphenyltetrazolium chloride	normalName:2,3,5-triphenyltetrazolium chloride	normalWikiTitle:2,3,5-triphenyltetrazolium chloride	predictedType:Chemical

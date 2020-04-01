@@ -1,0 +1,16 @@
+ENTITY	text:renal failure	normalName:renal failure	predictedType:disease	q:true	qid:Q291	docId:12372954	origText:renal failure	url:D051437
+CANDIDATE	id:51437	inCount:10	outCount:1	links:9395;18771;4802;5334	url:D051437	name:Renal Failure	normalName:renal failure	normalWikiTitle:renal failure	predictedType:Disease
+ENTITY	text:eosinophilia	normalName:eosinophilia	predictedType:disease	q:true	qid:Q291	docId:12372954	origText:eosinophilia	url:D004802
+CANDIDATE	id:4802	inCount:14	outCount:1	links:9395;18771;51437;5334	url:D004802	name:Eosinophilia	normalName:eosinophilia	normalWikiTitle:eosinophilia	predictedType:Disease
+ENTITY	text:acute renal failure	normalName:acute renal failure	predictedType:disease	q:true	qid:Q291	docId:12372954	origText:acute renal failure	url:D058186
+CANDIDATE	id:58186	inCount:2	outCount:1	links:9395;5334	url:D058186	name:Acute Renal Failure	normalName:acute renal failure	normalWikiTitle:acute renal failure	predictedType:Disease
+ENTITY	text:skin rash	normalName:skin rash	predictedType:disease	q:true	qid:Q291	docId:12372954	origText:skin rash	url:D005076
+CANDIDATE	id:5076	inCount:1	outCount:1	links:	url:D005076	name:Rash, Skin	normalName:rash, skin	normalWikiTitle:rash, skin	predictedType:Disease
+ENTITY	text:interstitial nephritis	normalName:interstitial nephritis	predictedType:disease	q:true	qid:Q291	docId:12372954	origText:interstitial nephritis	url:D009395
+CANDIDATE	id:9395	inCount:8	outCount:1	links:18771;5334;4802;51437;58186	url:D009395	name:Nephritis, Interstitial	normalName:nephritis, interstitial	normalWikiTitle:nephritis, interstitial	predictedType:Disease
+ENTITY	text:fever	normalName:fever	predictedType:disease	q:true	qid:Q291	docId:12372954	origText:fever	url:D005334
+CANDIDATE	id:5334	inCount:5	outCount:1	links:9395;18771;4802;51437;58186	url:D005334	name:Fever	normalName:fever	normalWikiTitle:fever	predictedType:Disease
+ENTITY	text:retinal vein occlusion	normalName:retinal vein occlusion	predictedType:disease	q:true	qid:Q291	docId:12372954	origText:retinal vein occlusion	url:D012170
+CANDIDATE	id:12170	inCount:0	outCount:3	links:	url:D012170	name:Retinal Vein Occlusion	normalName:retinal vein occlusion	normalWikiTitle:retinal vein occlusion	predictedType:Disease
+ENTITY	text:arthralgia	normalName:arthralgia	predictedType:disease	q:true	qid:Q291	docId:12372954	origText:arthralgia	url:D018771
+CANDIDATE	id:18771	inCount:1	outCount:2	links:9395;4802;51437;5334	url:D018771	name:Arthralgia	normalName:arthralgia	normalWikiTitle:arthralgia	predictedType:Disease

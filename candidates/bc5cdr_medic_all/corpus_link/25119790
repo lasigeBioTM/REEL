@@ -1,0 +1,4 @@
+ENTITY	text:necrosis	normalName:necrosis	predictedType:disease	q:true	qid:Q1295	docId:25119790	origText:necrosis	url:D009336
+CANDIDATE	id:9336	inCount:6	outCount:1	links:11507	url:D009336	name:Necrosis	normalName:necrosis	normalWikiTitle:necrosis	predictedType:Disease
+ENTITY	text:proteinuria	normalName:proteinuria	predictedType:disease	q:true	qid:Q1295	docId:25119790	origText:proteinuria	url:D011507
+CANDIDATE	id:11507	inCount:4	outCount:2	links:9336	url:D011507	name:Proteinuria	normalName:proteinuria	normalWikiTitle:proteinuria	predictedType:Disease

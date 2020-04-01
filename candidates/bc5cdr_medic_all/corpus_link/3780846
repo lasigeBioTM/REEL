@@ -1,0 +1,25 @@
+ENTITY	text:muscular rigidity	normalName:muscular rigidity	predictedType:disease	q:true	qid:Q601	docId:3780846	origText:muscular rigidity	url:D009127
+CANDIDATE	id:9127	inCount:3	outCount:2	links:18476;6941;6948	url:D009127	name:Rigidity, Muscular	normalName:rigidity, muscular	normalWikiTitle:rigidity, muscular	predictedType:Disease
+ENTITY	text:rigidity	normalName:rigidity	predictedType:disease	q:true	qid:Q601	docId:3780846	origText:rigidity	url:D009127
+CANDIDATE	id:9127	inCount:3	outCount:2	links:18476;6941;6948	url:D009127	name:Muscle Rigidity	normalName:muscle rigidity	normalWikiTitle:muscle rigidity	predictedType:Disease
+CANDIDATE	id:57885	inCount:0	outCount:1	links:	url:D057885	name:Triploidy	normalName:triploidy	normalWikiTitle:triploidy	predictedType:Disease
+CANDIDATE	id:5891	inCount:2	outCount:1	links:	url:D005891	name:Gingivitis	normalName:gingivitis	normalWikiTitle:gingivitis	predictedType:Disease
+CANDIDATE	id:66126	inCount:0	outCount:3	links:	url:D066126	name:Cardiotoxicity	normalName:cardiotoxicity	normalWikiTitle:cardiotoxicity	predictedType:Disease
+CANDIDATE	id:9767	inCount:3	outCount:1	links:	url:D009767	name:Obesity, Morbid	normalName:obesity, morbid	normalWikiTitle:obesity, morbid	predictedType:Disease
+CANDIDATE	id:7246	inCount:2	outCount:2	links:	url:D007246	name:Infertility	normalName:infertility	normalWikiTitle:infertility	predictedType:Disease
+CANDIDATE	id:13966	inCount:4	outCount:1	links:	url:D013966	name:Thyroiditis	normalName:thyroiditis	normalWikiTitle:thyroiditis	predictedType:Disease
+CANDIDATE	id:73496	inCount:0	outCount:1	links:	url:D000073496	name:Frailty	normalName:frailty	normalWikiTitle:frailty	predictedType:Disease
+CANDIDATE	id:2833	inCount:3	outCount:2	links:	url:D002833	name:Choroiditis	normalName:choroiditis	normalWikiTitle:choroiditis	predictedType:Disease
+CANDIDATE	id:536372	inCount:0	outCount:1	links:	url:C536372	name:Aniridia, type 2	normalName:aniridia, type 2	normalWikiTitle:aniridia, type 2	predictedType:Disease
+CANDIDATE	id:20018	inCount:6	outCount:1	links:6948	url:D020018	name:Frigidity	normalName:frigidity	normalWikiTitle:frigidity	predictedType:Disease
+ENTITY	text:hyperkinetic	normalName:hyperkinetic	predictedType:disease	q:true	qid:Q601	docId:3780846	origText:hyperkinetic	url:D006948
+CANDIDATE	id:6948	inCount:1	outCount:1	links:20018;9127	url:D006948	name:Hyperkinesis	normalName:hyperkinesis	normalWikiTitle:hyperkinesis	predictedType:Disease
+CANDIDATE	id:18476	inCount:1	outCount:1	links:9127	url:D018476	name:Hypokinesia	normalName:hypokinesia	normalWikiTitle:hypokinesia	predictedType:Disease
+CANDIDATE	id:6947	inCount:4	outCount:1	links:	url:D006947	name:Hyperkalemia	normalName:hyperkalemia	normalWikiTitle:hyperkalemia	predictedType:Disease
+CANDIDATE	id:6940	inCount:0	outCount:1	links:	url:D006940	name:Hyperemia	normalName:hyperemia	normalWikiTitle:hyperemia	predictedType:Disease
+CANDIDATE	id:20167	inCount:3	outCount:2	links:	url:D020167	name:Hyperlysinemias	normalName:hyperlysinemias	normalWikiTitle:hyperlysinemias	predictedType:Disease
+CANDIDATE	id:6941	inCount:0	outCount:1	links:9127	url:D006941	name:Hyperesthesia	normalName:hyperesthesia	normalWikiTitle:hyperesthesia	predictedType:Disease
+CANDIDATE	id:20162	inCount:0	outCount:1	links:	url:D020162	name:Hyperargininemia	normalName:hyperargininemia	normalWikiTitle:hyperargininemia	predictedType:Disease
+CANDIDATE	id:565500	inCount:0	outCount:1	links:	url:C565500	name:Hyperlexia	normalName:hyperlexia	normalWikiTitle:hyperlexia	predictedType:Disease
+CANDIDATE	id:33461	inCount:10	outCount:1	links:	url:D033461	name:Hyperuricemia	normalName:hyperuricemia	normalWikiTitle:hyperuricemia	predictedType:Disease
+CANDIDATE	id:10501	inCount:0	outCount:1	links:	url:D010501	name:Perinephritis	normalName:perinephritis	normalWikiTitle:perinephritis	predictedType:Disease

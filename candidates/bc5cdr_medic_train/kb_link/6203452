@@ -1,0 +1,29 @@
+ENTITY	text:intravascular coagulation	normalName:intravascular coagulation	predictedType:disease	q:true	qid:Q69	docId:6203452	origText:intravascular coagulation	url:D004211
+CANDIDATE	id:4211	inCount:0	outCount:3	links:	url:D004211	name:Disseminated Intravascular Coagulation	normalName:disseminated intravascular coagulation	normalWikiTitle:disseminated intravascular coagulation	predictedType:Disease
+CANDIDATE	id:61205	inCount:3	outCount:1	links:	url:D061205	name:Vascular Calcification	normalName:vascular calcification	normalWikiTitle:vascular calcification	predictedType:Disease
+CANDIDATE	id:536895	inCount:0	outCount:1	links:	url:C536895	name:Talonavicular coalition	normalName:talonavicular coalition	normalWikiTitle:talonavicular coalition	predictedType:Disease
+CANDIDATE	id:54079	inCount:21	outCount:1	links:	url:D054079	name:Vascular Malformations	normalName:vascular malformations	normalWikiTitle:vascular malformations	predictedType:Disease
+CANDIDATE	id:17566	inCount:0	outCount:1	links:	url:D017566	name:Microvascular Angina	normalName:microvascular angina	normalWikiTitle:microvascular angina	predictedType:Disease
+CANDIDATE	id:70604	inCount:0	outCount:2	links:	url:D000070604	name:Tarsal Coalition	normalName:tarsal coalition	normalWikiTitle:tarsal coalition	predictedType:Disease
+CANDIDATE	id:15355	inCount:0	outCount:1	links:	url:D015355	name:Glaucoma, Neovascular	normalName:glaucoma, neovascular	normalWikiTitle:glaucoma, neovascular	predictedType:Disease
+CANDIDATE	id:537894	inCount:0	outCount:1	links:	url:C537894	name:Phacomatosis pigmentovascularis	normalName:phacomatosis pigmentovascularis	normalWikiTitle:phacomatosis pigmentovascularis	predictedType:Disease
+CANDIDATE	id:14693	inCount:3	outCount:1	links:	url:D014693	name:Ventricular Fibrillation	normalName:ventricular fibrillation	normalWikiTitle:ventricular fibrillation	predictedType:Disease
+CANDIDATE	id:6083	inCount:0	outCount:1	links:	url:D006083	name:Graft Occlusion, Vascular	normalName:graft occlusion, vascular	normalWikiTitle:graft occlusion, vascular	predictedType:Disease
+ENTITY	text:tumor	normalName:tumor	predictedType:disease	q:true	qid:Q69	docId:6203452	origText:tumor	url:D009369
+CANDIDATE	id:9369	inCount:18	outCount:1	links:	url:D009369	name:Tumor	normalName:tumor	normalWikiTitle:tumor	predictedType:Disease
+ENTITY	text:thrombocytopenia	normalName:thrombocytopenia	predictedType:disease	q:true	qid:Q69	docId:6203452	origText:thrombocytopenia	url:D013921
+CANDIDATE	id:13921	inCount:42	outCount:1	links:	url:D013921	name:Thrombocytopenia	normalName:thrombocytopenia	normalWikiTitle:thrombocytopenia	predictedType:Disease
+ENTITY	text:anemia	normalName:anemia	predictedType:disease	q:true	qid:Q69	docId:6203452	origText:anemia	url:D000740
+CANDIDATE	id:740	inCount:14	outCount:1	links:	url:D000740	name:Anemia	normalName:anemia	normalWikiTitle:anemia	predictedType:Disease
+ENTITY	text:Thrombotic microangiopathy	normalName:thrombotic microangiopathy	predictedType:disease	q:true	qid:Q69	docId:6203452	origText:Thrombotic microangiopathy	url:D057049
+CANDIDATE	id:57049	inCount:2	outCount:1	links:	url:D057049	name:Microangiopathy, Thrombotic	normalName:microangiopathy, thrombotic	normalWikiTitle:microangiopathy, thrombotic	predictedType:Disease
+ENTITY	text:carcinoma	normalName:carcinoma	predictedType:disease	q:true	qid:Q69	docId:6203452	origText:carcinoma	url:D002277
+CANDIDATE	id:2277	inCount:25	outCount:1	links:	url:D002277	name:Carcinoma	normalName:carcinoma	normalWikiTitle:carcinoma	predictedType:Disease
+ENTITY	text:thrombotic thrombocytopenic purpura	normalName:thrombotic thrombocytopenic purpura	predictedType:disease	q:true	qid:Q69	docId:6203452	origText:thrombotic thrombocytopenic purpura	url:D011697
+CANDIDATE	id:11697	inCount:1	outCount:2	links:	url:D011697	name:Purpura, Thrombotic Thrombocytopenic	normalName:purpura, thrombotic thrombocytopenic	normalWikiTitle:purpura, thrombotic thrombocytopenic	predictedType:Disease
+ENTITY	text:hemolytic-uremic syndrome	normalName:hemolytic-uremic syndrome	predictedType:disease	q:true	qid:Q69	docId:6203452	origText:hemolytic-uremic syndrome	url:D006463
+CANDIDATE	id:6463	inCount:2	outCount:3	links:	url:D006463	name:Hemolytic-Uremic Syndrome	normalName:hemolytic-uremic syndrome	normalWikiTitle:hemolytic-uremic syndrome	predictedType:Disease
+ENTITY	text:renal failure	normalName:renal failure	predictedType:disease	q:true	qid:Q69	docId:6203452	origText:renal failure	url:D051437
+CANDIDATE	id:51437	inCount:10	outCount:1	links:51437	url:D051437	name:Renal Failure	normalName:renal failure	normalWikiTitle:renal failure	predictedType:Disease
+ENTITY	text:renal insufficiency	normalName:renal insufficiency	predictedType:disease	q:true	qid:Q69	docId:6203452	origText:renal insufficiency	url:D051437
+CANDIDATE	id:51437	inCount:10	outCount:1	links:51437	url:D051437	name:Renal Insufficiency	normalName:renal insufficiency	normalWikiTitle:renal insufficiency	predictedType:Disease

@@ -1,0 +1,4 @@
+ENTITY	text:puromycin aminonucleoside	normalName:puromycin aminonucleoside	predictedType:chemical	q:true	qid:Q212	docId:8825380	origText:puromycin aminonucleoside	url:D011692
+CANDIDATE	id:11692	inCount:4	outCount:2	links:	url:D011692	name:Puromycin Aminonucleoside	normalName:puromycin aminonucleoside	normalWikiTitle:puromycin aminonucleoside	predictedType:Chemical
+ENTITY	text:malondialdehyde	normalName:malondialdehyde	predictedType:chemical	q:true	qid:Q212	docId:8825380	origText:malondialdehyde	url:D008315
+CANDIDATE	id:8315	inCount:11	outCount:1	links:	url:D008315	name:Malondialdehyde	normalName:malondialdehyde	normalWikiTitle:malondialdehyde	predictedType:Chemical

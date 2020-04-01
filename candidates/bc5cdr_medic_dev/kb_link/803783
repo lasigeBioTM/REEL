@@ -1,0 +1,32 @@
+ENTITY	text:asthenia	normalName:asthenia	predictedType:disease	q:true	qid:Q356	docId:803783	origText:asthenia	url:D001247
+CANDIDATE	id:1247	inCount:0	outCount:1	links:	url:D001247	name:Asthenia	normalName:asthenia	normalWikiTitle:asthenia	predictedType:Disease
+ENTITY	text:headaches	normalName:headaches	predictedType:disease	q:true	qid:Q356	docId:803783	origText:headaches	url:D006261
+CANDIDATE	id:6261	inCount:2	outCount:1	links:	url:D006261	name:Headache	normalName:headache	normalWikiTitle:headache	predictedType:Disease
+ENTITY	text:abortions	normalName:abortions	predictedType:disease	q:true	qid:Q356	docId:803783	origText:abortions	url:D000031
+CANDIDATE	id:31	inCount:0	outCount:2	links:31	url:D000031	name:Abortion, Septic	normalName:abortion, septic	normalWikiTitle:abortion, septic	predictedType:Disease
+CANDIDATE	id:30	inCount:0	outCount:1	links:30	url:D000030	name:Abortion, Missed	normalName:abortion, missed	normalWikiTitle:abortion, missed	predictedType:Disease
+CANDIDATE	id:7238	inCount:0	outCount:2	links:7238	url:D007238	name:Infarction	normalName:infarction	normalWikiTitle:infarction	predictedType:Disease
+CANDIDATE	id:48949	inCount:0	outCount:1	links:48949	url:D048949	name:Labor Pain	normalName:labor pain	normalWikiTitle:labor pain	predictedType:Disease
+CANDIDATE	id:13217	inCount:0	outCount:1	links:13217	url:D013217	name:Starvation	normalName:starvation	normalWikiTitle:starvation	predictedType:Disease
+CANDIDATE	id:26	inCount:1	outCount:1	links:26	url:D000026	name:Abortion, Habitual	normalName:abortion, habitual	normalWikiTitle:abortion, habitual	predictedType:Disease
+CANDIDATE	id:858	inCount:0	outCount:1	links:858	url:D000858	name:Anovulation	normalName:anovulation	normalWikiTitle:anovulation	predictedType:Disease
+CANDIDATE	id:22125	inCount:0	outCount:1	links:22125	url:D022125	name:Lacerations	normalName:lacerations	normalWikiTitle:lacerations	predictedType:Disease
+CANDIDATE	id:1025	inCount:0	outCount:2	links:1025	url:D001025	name:Aortitis	normalName:aortitis	normalWikiTitle:aortitis	predictedType:Disease
+CANDIDATE	id:1862	inCount:3	outCount:1	links:1862	url:D001862	name:Bone Resorption	normalName:bone resorption	normalWikiTitle:bone resorption	predictedType:Disease
+CANDIDATE	id:22	inCount:9	outCount:1	links:22	url:D000022	name:Tubal Abortion	normalName:tubal abortion	normalWikiTitle:tubal abortion	predictedType:Disease
+CANDIDATE	id:22	inCount:9	outCount:1	links:22	url:D000022	name:Abortion, Tubal	normalName:abortion, tubal	normalWikiTitle:abortion, tubal	predictedType:Disease
+ENTITY	text:Water intoxication	normalName:water intoxication	predictedType:disease	q:true	qid:Q356	docId:803783	origText:Water intoxication	url:D014869
+CANDIDATE	id:14869	inCount:0	outCount:2	links:	url:D014869	name:Water Intoxication	normalName:water intoxication	normalWikiTitle:water intoxication	predictedType:Disease
+ENTITY	text:abortion	normalName:abortion	predictedType:disease	q:true	qid:Q356	docId:803783	origText:abortion	url:D000031
+CANDIDATE	id:31	inCount:0	outCount:2	links:31	url:D000031	name:Abortion, Septic	normalName:abortion, septic	normalWikiTitle:abortion, septic	predictedType:Disease
+CANDIDATE	id:30	inCount:0	outCount:1	links:30	url:D000030	name:Abortion, Missed	normalName:abortion, missed	normalWikiTitle:abortion, missed	predictedType:Disease
+CANDIDATE	id:7238	inCount:0	outCount:2	links:7238	url:D007238	name:Infarction	normalName:infarction	normalWikiTitle:infarction	predictedType:Disease
+CANDIDATE	id:48949	inCount:0	outCount:1	links:48949	url:D048949	name:Labor Pain	normalName:labor pain	normalWikiTitle:labor pain	predictedType:Disease
+CANDIDATE	id:13217	inCount:0	outCount:1	links:13217	url:D013217	name:Starvation	normalName:starvation	normalWikiTitle:starvation	predictedType:Disease
+CANDIDATE	id:26	inCount:1	outCount:1	links:26	url:D000026	name:Abortion, Habitual	normalName:abortion, habitual	normalWikiTitle:abortion, habitual	predictedType:Disease
+CANDIDATE	id:858	inCount:0	outCount:1	links:858	url:D000858	name:Anovulation	normalName:anovulation	normalWikiTitle:anovulation	predictedType:Disease
+CANDIDATE	id:22125	inCount:0	outCount:1	links:22125	url:D022125	name:Lacerations	normalName:lacerations	normalWikiTitle:lacerations	predictedType:Disease
+CANDIDATE	id:1025	inCount:0	outCount:2	links:1025	url:D001025	name:Aortitis	normalName:aortitis	normalWikiTitle:aortitis	predictedType:Disease
+CANDIDATE	id:1862	inCount:3	outCount:1	links:1862	url:D001862	name:Bone Resorption	normalName:bone resorption	normalWikiTitle:bone resorption	predictedType:Disease
+CANDIDATE	id:22	inCount:9	outCount:1	links:22	url:D000022	name:Tubal Abortion	normalName:tubal abortion	normalWikiTitle:tubal abortion	predictedType:Disease
+CANDIDATE	id:22	inCount:9	outCount:1	links:22	url:D000022	name:Abortion, Tubal	normalName:abortion, tubal	normalWikiTitle:abortion, tubal	predictedType:Disease

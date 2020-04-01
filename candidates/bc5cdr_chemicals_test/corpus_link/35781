@@ -1,0 +1,27 @@
+ENTITY	text:fentanyl	normalName:fentanyl	predictedType:chemical	q:true	qid:Q372	docId:35781	origText:fentanyl	url:D005283
+CANDIDATE	id:5283	inCount:40	outCount:1	links:3000;9278;9695;3061;9020	url:D005283	name:Fentanyl	normalName:fentanyl	normalWikiTitle:fentanyl	predictedType:Chemical
+ENTITY	text:codeine	normalName:codeine	predictedType:chemical	q:true	qid:Q372	docId:35781	origText:codeine	url:D003061
+CANDIDATE	id:3061	inCount:56	outCount:1	links:3000;9278;5283;9695;9020	url:D003061	name:Codeine	normalName:codeine	normalWikiTitle:codeine	predictedType:Chemical
+ENTITY	text:pentazocine	normalName:pentazocine	predictedType:chemical	q:true	qid:Q372	docId:35781	origText:pentazocine	url:D010423
+CANDIDATE	id:10423	inCount:7	outCount:1	links:	url:D010423	name:Pentazocine	normalName:pentazocine	normalWikiTitle:pentazocine	predictedType:Chemical
+ENTITY	text:noradrenaline	normalName:noradrenaline	predictedType:chemical	q:true	qid:Q372	docId:35781	origText:noradrenaline	url:D009638
+CANDIDATE	id:9638	inCount:31	outCount:4	links:	url:D009638	name:Noradrenaline	normalName:noradrenaline	normalWikiTitle:noradrenaline	predictedType:Chemical
+ENTITY	text:naphazoline	normalName:naphazoline	predictedType:chemical	q:true	qid:Q372	docId:35781	origText:naphazoline	url:D009278
+CANDIDATE	id:9278	inCount:5	outCount:1	links:3000;5283;9695;3061;9020	url:D009278	name:Naphazoline	normalName:naphazoline	normalWikiTitle:naphazoline	predictedType:Chemical
+ENTITY	text:codine	normalName:codine	predictedType:chemical	q:true	qid:Q372	docId:35781	origText:codine	url:D003061
+CANDIDATE	id:3061	inCount:56	outCount:1	links:3000;9278;5283;9695;9020	url:D003061	name:Codeine	normalName:codeine	normalWikiTitle:codeine	predictedType:Chemical
+CANDIDATE	id:34432	inCount:0	outCount:2	links:	url:C034432	name:cinodine	normalName:cinodine	normalWikiTitle:cinodine	predictedType:Chemical
+CANDIDATE	id:67341	inCount:0	outCount:1	links:	url:C067341	name:corydine	normalName:corydine	normalWikiTitle:corydine	predictedType:Chemical
+CANDIDATE	id:585001	inCount:0	outCount:1	links:	url:C585001	name:lycodine	normalName:lycodine	normalWikiTitle:lycodine	predictedType:Chemical
+CANDIDATE	id:7455	inCount:18	outCount:1	links:	url:D007455	name:Iodine	normalName:iodine	normalWikiTitle:iodine	predictedType:Chemical
+CANDIDATE	id:6921	inCount:0	outCount:1	links:	url:C006921	name:dodine	normalName:dodine	normalWikiTitle:dodine	predictedType:Chemical
+CANDIDATE	id:602498	inCount:0	outCount:1	links:	url:C000602498	name:cordatine	normalName:cordatine	normalWikiTitle:cordatine	predictedType:Chemical
+CANDIDATE	id:105003	inCount:0	outCount:2	links:	url:C105003	name:licodione	normalName:licodione	normalWikiTitle:licodione	predictedType:Chemical
+CANDIDATE	id:43465	inCount:0	outCount:1	links:	url:C043465	name:icotidine	normalName:icotidine	normalWikiTitle:icotidine	predictedType:Chemical
+CANDIDATE	id:610249	inCount:0	outCount:2	links:	url:C000610249	name:leucodine	normalName:leucodine	normalWikiTitle:leucodine	predictedType:Chemical
+ENTITY	text:xylometazoline	normalName:xylometazoline	predictedType:chemical	q:true	qid:Q372	docId:35781	origText:xylometazoline	url:C009695
+CANDIDATE	id:9695	inCount:0	outCount:1	links:9278;5283;3000;3061;9020	url:C009695	name:xylometazoline	normalName:xylometazoline	normalWikiTitle:xylometazoline	predictedType:Chemical
+ENTITY	text:morphine	normalName:morphine	predictedType:chemical	q:true	qid:Q372	docId:35781	origText:morphine	url:D009020
+CANDIDATE	id:9020	inCount:13	outCount:1	links:3000;9278;5283;9695;3061	url:D009020	name:Morphine	normalName:morphine	normalWikiTitle:morphine	predictedType:Chemical
+ENTITY	text:clonidine	normalName:clonidine	predictedType:chemical	q:true	qid:Q372	docId:35781	origText:clonidine	url:D003000
+CANDIDATE	id:3000	inCount:39	outCount:1	links:9278;5283;9695;3061;9020	url:D003000	name:Clonidine	normalName:clonidine	normalWikiTitle:clonidine	predictedType:Chemical

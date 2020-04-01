@@ -1,0 +1,4 @@
+ENTITY	text:MPTP	normalName:mptp	predictedType:chemical	q:true	qid:Q1092	docId:14568327	origText:MPTP	url:D015632
+CANDIDATE	id:15632	inCount:30	outCount:1	links:	url:D015632	name:MPTP	normalName:mptp	normalWikiTitle:mptp	predictedType:Chemical
+ENTITY	text:levodopa	normalName:levodopa	predictedType:chemical	q:true	qid:Q1092	docId:14568327	origText:levodopa	url:D007980
+CANDIDATE	id:7980	inCount:32	outCount:1	links:	url:D007980	name:Levodopa	normalName:levodopa	normalWikiTitle:levodopa	predictedType:Chemical

@@ -1,0 +1,42 @@
+ENTITY	text:blood coagulation	normalName:blood coagulation	predictedType:disease	q:true	qid:Q493	docId:133615	origText:blood coagulation	url:D001778
+CANDIDATE	id:1778	inCount:21	outCount:1	links:13924;20246;9203	url:D001778	name:Coagulation Disorder, Blood	normalName:coagulation disorder, blood	normalWikiTitle:coagulation disorder, blood	predictedType:Disease
+CANDIDATE	id:1778	inCount:21	outCount:1	links:13924;20246;9203	url:D001778	name:Blood Coagulation Disorders	normalName:blood coagulation disorders	normalWikiTitle:blood coagulation disorders	predictedType:Disease
+CANDIDATE	id:25861	inCount:32	outCount:2	links:	url:D025861	name:Blood Coagulation Disorders, Inherited	normalName:blood coagulation disorders, inherited	normalWikiTitle:blood coagulation disorders, inherited	predictedType:Disease
+CANDIDATE	id:20256	inCount:0	outCount:2	links:	url:D020256	name:Choroidal Neovascularization	normalName:choroidal neovascularization	normalWikiTitle:choroidal neovascularization	predictedType:Disease
+CANDIDATE	id:5549	inCount:2	outCount:2	links:	url:D005549	name:Foreign-Body Reaction	normalName:foreign-body reaction	normalWikiTitle:foreign-body reaction	predictedType:Disease
+CANDIDATE	id:858	inCount:0	outCount:1	links:	url:D000858	name:Anovulation	normalName:anovulation	normalWikiTitle:anovulation	predictedType:Disease
+CANDIDATE	id:1017	inCount:3	outCount:1	links:	url:D001017	name:Aortic Coarctation	normalName:aortic coarctation	normalWikiTitle:aortic coarctation	predictedType:Disease
+CANDIDATE	id:857	inCount:18	outCount:1	links:	url:D000857	name:Olfaction Disorders	normalName:olfaction disorders	normalWikiTitle:olfaction disorders	predictedType:Disease
+CANDIDATE	id:5548	inCount:2	outCount:1	links:	url:D005548	name:Foreign-Body Migration	normalName:foreign-body migration	normalWikiTitle:foreign-body migration	predictedType:Disease
+CANDIDATE	id:7906	inCount:1	outCount:1	links:	url:D007906	name:Lens Subluxation	normalName:lens subluxation	normalWikiTitle:lens subluxation	predictedType:Disease
+CANDIDATE	id:49248	inCount:0	outCount:1	links:	url:D049248	name:Decapitation	normalName:decapitation	normalWikiTitle:decapitation	predictedType:Disease
+CANDIDATE	id:1778	inCount:21	outCount:1	links:13924;20246;9203	url:D001778	name:Blood Coagulation Disorder	normalName:blood coagulation disorder	normalWikiTitle:blood coagulation disorder	predictedType:Disease
+CANDIDATE	id:1778	inCount:21	outCount:1	links:13924;20246;9203	url:D001778	name:Disorder, Blood Coagulation	normalName:disorder, blood coagulation	normalWikiTitle:disorder, blood coagulation	predictedType:Disease
+ENTITY	text:thromboembolic episodes	normalName:thromboembolic episodes	predictedType:disease	q:true	qid:Q493	docId:133615	origText:thromboembolic episodes	url:D013923
+CANDIDATE	id:13923	inCount:3	outCount:1	links:13921;54556;13927;13923;9203	url:D013923	name:Thromboembolism	normalName:thromboembolism	normalWikiTitle:thromboembolism	predictedType:Disease
+CANDIDATE	id:19189	inCount:9	outCount:1	links:	url:D019189	name:Iron Metabolism Disorders	normalName:iron metabolism disorders	normalWikiTitle:iron metabolism disorders	predictedType:Disease
+CANDIDATE	id:10698	inCount:2	outCount:1	links:	url:D010698	name:Phobic Disorders	normalName:phobic disorders	normalWikiTitle:phobic disorders	predictedType:Disease
+CANDIDATE	id:20141	inCount:11	outCount:2	links:	url:D020141	name:Hemostatic Disorders	normalName:hemostatic disorders	normalWikiTitle:hemostatic disorders	predictedType:Disease
+CANDIDATE	id:6474	inCount:26	outCount:1	links:	url:D006474	name:Hemorrhagic Disorders	normalName:hemorrhagic disorders	normalWikiTitle:hemorrhagic disorders	predictedType:Disease
+CANDIDATE	id:8659	inCount:23	outCount:1	links:	url:D008659	name:Metabolic Diseases	normalName:metabolic diseases	normalWikiTitle:metabolic diseases	predictedType:Disease
+CANDIDATE	id:20967	inCount:3	outCount:1	links:	url:D020967	name:Myotonic Disorders	normalName:myotonic disorders	normalWikiTitle:myotonic disorders	predictedType:Disease
+CANDIDATE	id:17441	inCount:3	outCount:2	links:	url:D017441	name:Necrobiotic Disorders	normalName:necrobiotic disorders	normalWikiTitle:necrobiotic disorders	predictedType:Disease
+CANDIDATE	id:59952	inCount:0	outCount:3	links:	url:D059952	name:Pelvic Floor Disorders	normalName:pelvic floor disorders	normalWikiTitle:pelvic floor disorders	predictedType:Disease
+CANDIDATE	id:54556	inCount:0	outCount:1	links:54556;13927;13923;13921	url:D054556	name:Venous Thromboembolism	normalName:venous thromboembolism	normalWikiTitle:venous thromboembolism	predictedType:Disease
+ENTITY	text:myocardial infarction	normalName:myocardial infarction	predictedType:disease	q:true	qid:Q493	docId:133615	origText:myocardial infarction	url:D009203
+CANDIDATE	id:9203	inCount:8	outCount:1	links:20246;13923;1778;13924	url:D009203	name:Myocardial Infarction	normalName:myocardial infarction	normalWikiTitle:myocardial infarction	predictedType:Disease
+ENTITY	text:hypercoagulability	normalName:hypercoagulability	predictedType:disease	q:true	qid:Q493	docId:133615	origText:hypercoagulability	url:D019851
+CANDIDATE	id:19851	inCount:16	outCount:1	links:19851	url:D019851	name:Hypercoagulability	normalName:hypercoagulability	normalWikiTitle:hypercoagulability	predictedType:Disease
+ENTITY	text:thrombophlebitis	normalName:thrombophlebitis	predictedType:disease	q:true	qid:Q493	docId:133615	origText:thrombophlebitis	url:D013924
+CANDIDATE	id:13924	inCount:1	outCount:2	links:13924;20246;1778;9203	url:D013924	name:Thrombophlebitis	normalName:thrombophlebitis	normalWikiTitle:thrombophlebitis	predictedType:Disease
+ENTITY	text:Thromboembolic	normalName:thromboembolic	predictedType:disease	q:true	qid:Q493	docId:133615	origText:Thromboembolic	url:D013923
+CANDIDATE	id:13923	inCount:3	outCount:1	links:13921;54556;13927;13923;9203	url:D013923	name:Thromboembolism	normalName:thromboembolism	normalWikiTitle:thromboembolism	predictedType:Disease
+CANDIDATE	id:54556	inCount:0	outCount:1	links:54556;13927;13923;13921	url:D054556	name:Venous Thromboembolism	normalName:venous thromboembolism	normalWikiTitle:venous thromboembolism	predictedType:Disease
+CANDIDATE	id:13927	inCount:4	outCount:1	links:54556;13923	url:D013927	name:Thrombosis	normalName:thrombosis	normalWikiTitle:thrombosis	predictedType:Disease
+CANDIDATE	id:13924	inCount:1	outCount:2	links:13924;20246;1778;9203	url:D013924	name:Thrombophlebitis	normalName:thrombophlebitis	normalWikiTitle:thrombophlebitis	predictedType:Disease
+CANDIDATE	id:19851	inCount:16	outCount:1	links:19851	url:D019851	name:Thrombophilia	normalName:thrombophilia	normalWikiTitle:thrombophilia	predictedType:Disease
+CANDIDATE	id:13922	inCount:4	outCount:2	links:	url:D013922	name:Thrombocytosis	normalName:thrombocytosis	normalWikiTitle:thrombocytosis	predictedType:Disease
+CANDIDATE	id:13921	inCount:42	outCount:1	links:54556;13923	url:D013921	name:Thrombocytopenia	normalName:thrombocytopenia	normalWikiTitle:thrombocytopenia	predictedType:Disease
+CANDIDATE	id:20246	inCount:5	outCount:1	links:13924;1778;9203	url:D020246	name:Venous Thrombosis	normalName:venous thrombosis	normalWikiTitle:venous thrombosis	predictedType:Disease
+CANDIDATE	id:4480	inCount:21	outCount:1	links:	url:D004480	name:Ectromelia	normalName:ectromelia	normalWikiTitle:ectromelia	predictedType:Disease
+CANDIDATE	id:13915	inCount:3	outCount:3	links:	url:D013915	name:Thrombasthenia	normalName:thrombasthenia	normalWikiTitle:thrombasthenia	predictedType:Disease

@@ -1,0 +1,80 @@
+ENTITY	text:nausea	normalName:nausea	predictedType:disease	q:true	qid:Q238	docId:16740173	origText:nausea	url:D009325
+CANDIDATE	id:9325	inCount:2	outCount:1	links:2318;6945;6323;7022;1919;12798;15877;6333	url:D009325	name:Nausea	normalName:nausea	normalWikiTitle:nausea	predictedType:Disease
+ENTITY	text:Alzheimer's disease	normalName:alzheimer's disease	predictedType:disease	q:true	qid:Q238	docId:16740173	origText:Alzheimer's disease	url:D000544
+CANDIDATE	id:544	inCount:26	outCount:2	links:	url:D000544	name:Alzheimer's Disease	normalName:alzheimer's disease	normalWikiTitle:alzheimer's disease	predictedType:Disease
+ENTITY	text:bronchospasm	normalName:bronchospasm	predictedType:disease	q:true	qid:Q238	docId:16740173	origText:bronchospasm	url:D001986
+CANDIDATE	id:1986	inCount:0	outCount:1	links:	url:D001986	name:Bronchospasm	normalName:bronchospasm	normalWikiTitle:bronchospasm	predictedType:Disease
+ENTITY	text:atrio-ventricular dissociation	normalName:atrio-ventricular dissociation	predictedType:disease	q:true	qid:Q238	docId:16740173	origText:atrio-ventricular dissociation	url:D006327
+CANDIDATE	id:6327	inCount:13	outCount:2	links:1919	url:D006327	name:Auriculo-Ventricular Dissociations	normalName:auriculo-ventricular dissociations	normalWikiTitle:auriculo-ventricular dissociations	predictedType:Disease
+CANDIDATE	id:18754	inCount:2	outCount:1	links:7022	url:D018754	name:Ventricular Dysfunction	normalName:ventricular dysfunction	normalWikiTitle:ventricular dysfunction	predictedType:Disease
+CANDIDATE	id:14693	inCount:3	outCount:1	links:2318	url:D014693	name:Ventricular Fibrillation	normalName:ventricular fibrillation	normalWikiTitle:ventricular fibrillation	predictedType:Disease
+CANDIDATE	id:609470	inCount:0	outCount:1	links:	url:609470	name:LEFT VENTRICULAR NONCOMPACTION 2	normalName:left ventricular noncompaction 2	normalWikiTitle:left ventricular noncompaction 2	predictedType:Disease
+CANDIDATE	id:615373	inCount:0	outCount:1	links:	url:615373	name:LEFT VENTRICULAR NONCOMPACTION 8	normalName:left ventricular noncompaction 8	normalWikiTitle:left ventricular noncompaction 8	predictedType:Disease
+CANDIDATE	id:615092	inCount:0	outCount:1	links:	url:615092	name:LEFT VENTRICULAR NONCOMPACTION 7	normalName:left ventricular noncompaction 7	normalWikiTitle:left ventricular noncompaction 7	predictedType:Disease
+CANDIDATE	id:604169	inCount:0	outCount:1	links:	url:604169	name:LEFT VENTRICULAR NONCOMPACTION 1	normalName:left ventricular noncompaction 1	normalWikiTitle:left ventricular noncompaction 1	predictedType:Disease
+CANDIDATE	id:20217	inCount:0	outCount:2	links:	url:D020217	name:Vertebral Artery Dissection	normalName:vertebral artery dissection	normalWikiTitle:vertebral artery dissection	predictedType:Disease
+CANDIDATE	id:615396	inCount:0	outCount:1	links:	url:615396	name:LEFT VENTRICULAR NONCOMPACTION 10	normalName:left ventricular noncompaction 10	normalWikiTitle:left ventricular noncompaction 10	predictedType:Disease
+CANDIDATE	id:14694	inCount:2	outCount:1	links:	url:D014694	name:Ventricular Outflow Obstruction	normalName:ventricular outflow obstruction	normalWikiTitle:ventricular outflow obstruction	predictedType:Disease
+CANDIDATE	id:18487	inCount:1	outCount:1	links:	url:D018487	name:Ventricular Dysfunction, Left	normalName:ventricular dysfunction, left	normalWikiTitle:ventricular dysfunction, left	predictedType:Disease
+CANDIDATE	id:6327	inCount:13	outCount:2	links:1919	url:D006327	name:Auriculo Ventricular Dissociation	normalName:auriculo ventricular dissociation	normalWikiTitle:auriculo ventricular dissociation	predictedType:Disease
+CANDIDATE	id:6327	inCount:13	outCount:2	links:1919	url:D006327	name:Auriculo-Ventricular Dissociation	normalName:auriculo-ventricular dissociation	normalWikiTitle:auriculo-ventricular dissociation	predictedType:Disease
+CANDIDATE	id:6327	inCount:13	outCount:2	links:1919	url:D006327	name:Dissociation, Auriculo-Ventricular	normalName:dissociation, auriculo-ventricular	normalWikiTitle:dissociation, auriculo-ventricular	predictedType:Disease
+CANDIDATE	id:6327	inCount:13	outCount:2	links:1919	url:D006327	name:Dissociations, Auriculo-Ventricular	normalName:dissociations, auriculo-ventricular	normalWikiTitle:dissociations, auriculo-ventricular	predictedType:Disease
+ENTITY	text:dyspnoea	normalName:dyspnoea	predictedType:disease	q:true	qid:Q238	docId:16740173	origText:dyspnoea	url:D004417
+CANDIDATE	id:4417	inCount:1	outCount:2	links:7022	url:D004417	name:Dyspnea	normalName:dyspnea	normalWikiTitle:dyspnea	predictedType:Disease
+CANDIDATE	id:4415	inCount:0	outCount:1	links:	url:D004415	name:Dyspepsia	normalName:dyspepsia	normalWikiTitle:dyspepsia	predictedType:Disease
+CANDIDATE	id:55154	inCount:1	outCount:1	links:	url:D055154	name:Dysphonia	normalName:dysphonia	normalWikiTitle:dysphonia	predictedType:Disease
+CANDIDATE	id:4412	inCount:0	outCount:2	links:	url:D004412	name:Dysmenorrhea	normalName:dysmenorrhea	normalWikiTitle:dysmenorrhea	predictedType:Disease
+CANDIDATE	id:4414	inCount:0	outCount:2	links:7022	url:D004414	name:Dyspareunia	normalName:dyspareunia	normalWikiTitle:dyspareunia	predictedType:Disease
+CANDIDATE	id:20820	inCount:25	outCount:2	links:	url:D020820	name:Dyskinesias	normalName:dyskinesias	normalWikiTitle:dyskinesias	predictedType:Disease
+CANDIDATE	id:4410	inCount:2	outCount:2	links:	url:D004410	name:Dyslexia	normalName:dyslexia	normalWikiTitle:dyslexia	predictedType:Disease
+CANDIDATE	id:4421	inCount:16	outCount:1	links:	url:D004421	name:Dystonia	normalName:dystonia	normalWikiTitle:dystonia	predictedType:Disease
+CANDIDATE	id:4420	inCount:1	outCount:1	links:	url:D004420	name:Dystocia	normalName:dystocia	normalWikiTitle:dystocia	predictedType:Disease
+CANDIDATE	id:1049	inCount:3	outCount:2	links:6323;12131;1919	url:D001049	name:Apnea	normalName:apnea	normalWikiTitle:apnea	predictedType:Disease
+ENTITY	text:acute cardiovascular failure	normalName:acute cardiovascular failure	predictedType:disease	q:true	qid:Q238	docId:16740173	origText:acute cardiovascular failure	url:D002318
+CANDIDATE	id:2318	inCount:5	outCount:1	links:9325;14693	url:D002318	name:Disease, Cardiovascular	normalName:disease, cardiovascular	normalWikiTitle:disease, cardiovascular	predictedType:Disease
+CANDIDATE	id:2318	inCount:5	outCount:1	links:9325;14693	url:D002318	name:Cardiovascular Diseases	normalName:cardiovascular diseases	normalWikiTitle:cardiovascular diseases	predictedType:Disease
+CANDIDATE	id:13589	inCount:0	outCount:2	links:	url:D013589	name:Syphilis, Cardiovascular	normalName:syphilis, cardiovascular	normalWikiTitle:syphilis, cardiovascular	predictedType:Disease
+CANDIDATE	id:53821	inCount:3	outCount:2	links:	url:D053821	name:Cardiovascular Infections	normalName:cardiovascular infections	normalWikiTitle:cardiovascular infections	predictedType:Disease
+CANDIDATE	id:18376	inCount:6	outCount:2	links:1919	url:D018376	name:Cardiovascular Abnormalities	normalName:cardiovascular abnormalities	normalWikiTitle:cardiovascular abnormalities	predictedType:Disease
+CANDIDATE	id:65290	inCount:0	outCount:1	links:	url:D065290	name:Acute-On-Chronic Liver Failure	normalName:acute-on-chronic liver failure	normalWikiTitle:acute-on-chronic liver failure	predictedType:Disease
+CANDIDATE	id:14381	inCount:1	outCount:2	links:	url:D014381	name:Tuberculosis, Cardiovascular	normalName:tuberculosis, cardiovascular	normalWikiTitle:tuberculosis, cardiovascular	predictedType:Disease
+CANDIDATE	id:2561	inCount:17	outCount:2	links:	url:D002561	name:Cerebrovascular Disorders	normalName:cerebrovascular disorders	normalWikiTitle:cerebrovascular disorders	predictedType:Disease
+CANDIDATE	id:20214	inCount:3	outCount:2	links:	url:D020214	name:Cerebrovascular Trauma	normalName:cerebrovascular trauma	normalWikiTitle:cerebrovascular trauma	predictedType:Disease
+CANDIDATE	id:11249	inCount:1	outCount:2	links:	url:D011249	name:Pregnancy Complications, Cardiovascular	normalName:pregnancy complications, cardiovascular	normalWikiTitle:pregnancy complications, cardiovascular	predictedType:Disease
+CANDIDATE	id:57971	inCount:0	outCount:1	links:	url:D057971	name:Anterior Capsular Rupture, Ocular	normalName:anterior capsular rupture, ocular	normalWikiTitle:anterior capsular rupture, ocular	predictedType:Disease
+CANDIDATE	id:6333	inCount:5	outCount:1	links:9325;6945;6323;7022;1919;15877;12798	url:D006333	name:Cardiac Failure	normalName:cardiac failure	normalWikiTitle:cardiac failure	predictedType:Disease
+CANDIDATE	id:9203	inCount:8	outCount:1	links:1919	url:D009203	name:Cardiovascular Stroke	normalName:cardiovascular stroke	normalWikiTitle:cardiovascular stroke	predictedType:Disease
+CANDIDATE	id:9203	inCount:8	outCount:1	links:1919	url:D009203	name:Stroke, Cardiovascular	normalName:stroke, cardiovascular	normalWikiTitle:stroke, cardiovascular	predictedType:Disease
+CANDIDATE	id:2318	inCount:5	outCount:1	links:9325;14693	url:D002318	name:Cardiovascular Disease	normalName:cardiovascular disease	normalWikiTitle:cardiovascular disease	predictedType:Disease
+CANDIDATE	id:9203	inCount:8	outCount:1	links:1919	url:D009203	name:Cardiovascular Strokes	normalName:cardiovascular strokes	normalWikiTitle:cardiovascular strokes	predictedType:Disease
+CANDIDATE	id:9203	inCount:8	outCount:1	links:1919	url:D009203	name:Strokes, Cardiovascular	normalName:strokes, cardiovascular	normalWikiTitle:strokes, cardiovascular	predictedType:Disease
+ENTITY	text:Bradycardia	normalName:bradycardia	predictedType:disease	q:true	qid:Q238	docId:16740173	origText:Bradycardia	url:D001919
+CANDIDATE	id:1919	inCount:0	outCount:1	links:9325;6945;9203;6323;1049;6327;7022;12798;15877;18376;12131;6333	url:D001919	name:Bradycardia	normalName:bradycardia	normalWikiTitle:bradycardia	predictedType:Disease
+ENTITY	text:heart failure	normalName:heart failure	predictedType:disease	q:true	qid:Q238	docId:16740173	origText:heart failure	url:D006333
+CANDIDATE	id:6333	inCount:5	outCount:1	links:9325;6945;6323;7022;1919;15877;12798	url:D006333	name:Heart Failure	normalName:heart failure	normalWikiTitle:heart failure	predictedType:Disease
+ENTITY	text:miosis	normalName:miosis	predictedType:disease	q:true	qid:Q238	docId:16740173	origText:miosis	url:D015877
+CANDIDATE	id:15877	inCount:4	outCount:1	links:9325;6945;6323;6333;7022;1919;12798	url:D015877	name:Miosis	normalName:miosis	normalWikiTitle:miosis	predictedType:Disease
+ENTITY	text:poisoning	normalName:poisoning	predictedType:disease	q:true	qid:Q238	docId:16740173	origText:poisoning	url:D011041
+CANDIDATE	id:11041	inCount:14	outCount:1	links:	url:D011041	name:Poisoning	normalName:poisoning	normalWikiTitle:poisoning	predictedType:Disease
+ENTITY	text:Respiratory insufficiency	normalName:respiratory insufficiency	predictedType:disease	q:true	qid:Q238	docId:16740173	origText:Respiratory insufficiency	url:D012131
+CANDIDATE	id:12131	inCount:13	outCount:1	links:1049;7022;1919	url:D012131	name:Respiratory Insufficiency	normalName:respiratory insufficiency	normalWikiTitle:respiratory insufficiency	predictedType:Disease
+ENTITY	text:hypotension	normalName:hypotension	predictedType:disease	q:true	qid:Q238	docId:16740173	origText:hypotension	url:D007022
+CANDIDATE	id:7022	inCount:3	outCount:1	links:9325;6945;4414;4417;6323;18754;1919;12798;15877;12131;6333	url:D007022	name:Hypotension	normalName:hypotension	normalWikiTitle:hypotension	predictedType:Disease
+ENTITY	text:hyperhidrosis	normalName:hyperhidrosis	predictedType:disease	q:true	qid:Q238	docId:16740173	origText:hyperhidrosis	url:D006945
+CANDIDATE	id:6945	inCount:7	outCount:1	links:9325;6323;6333;7022;1919;15877;12798	url:D006945	name:Hyperhidrosis	normalName:hyperhidrosis	normalWikiTitle:hyperhidrosis	predictedType:Disease
+ENTITY	text:hypersalivation	normalName:hypersalivation	predictedType:disease	q:true	qid:Q238	docId:16740173	origText:hypersalivation	url:D012798
+CANDIDATE	id:12798	inCount:0	outCount:1	links:9325;6945;6323;7022;1919;15877;6333	url:D012798	name:Hypersalivation	normalName:hypersalivation	normalWikiTitle:hypersalivation	predictedType:Disease
+ENTITY	text:Proteus mirabilis infection	normalName:proteus mirabilis infection	predictedType:disease	q:true	qid:Q238	docId:16740173	origText:Proteus mirabilis infection	url:D011512
+CANDIDATE	id:11512	inCount:0	outCount:1	links:	url:D011512	name:Proteus Infections	normalName:proteus infections	normalWikiTitle:proteus infections	predictedType:Disease
+CANDIDATE	id:18185	inCount:4	outCount:1	links:	url:D018185	name:Morbillivirus Infections	normalName:morbillivirus infections	normalWikiTitle:morbillivirus infections	predictedType:Disease
+CANDIDATE	id:18355	inCount:1	outCount:1	links:	url:D018355	name:Rubivirus Infections	normalName:rubivirus infections	normalWikiTitle:rubivirus infections	predictedType:Disease
+CANDIDATE	id:19351	inCount:1	outCount:1	links:	url:D019351	name:Rubulavirus Infections	normalName:rubulavirus infections	normalWikiTitle:rubulavirus infections	predictedType:Disease
+CANDIDATE	id:10253	inCount:1	outCount:1	links:	url:D010253	name:Respirovirus Infections	normalName:respirovirus infections	normalWikiTitle:respirovirus infections	predictedType:Disease
+CANDIDATE	id:12400	inCount:0	outCount:1	links:	url:D012400	name:Rotavirus Infections	normalName:rotavirus infections	normalWikiTitle:rotavirus infections	predictedType:Disease
+CANDIDATE	id:12327	inCount:17	outCount:1	links:	url:D012327	name:RNA Virus Infections	normalName:rna virus infections	normalWikiTitle:rna virus infections	predictedType:Disease
+CANDIDATE	id:30341	inCount:2	outCount:1	links:	url:D030341	name:Nidovirales Infections	normalName:nidovirales infections	normalWikiTitle:nidovirales infections	predictedType:Disease
+CANDIDATE	id:13145	inCount:3	outCount:1	links:	url:D013145	name:Spirochaetales Infections	normalName:spirochaetales infections	normalWikiTitle:spirochaetales infections	predictedType:Disease
+CANDIDATE	id:30361	inCount:2	outCount:2	links:	url:D030361	name:Papillomavirus Infections	normalName:papillomavirus infections	normalWikiTitle:papillomavirus infections	predictedType:Disease
+ENTITY	text:asystole	normalName:asystole	predictedType:disease	q:true	qid:Q238	docId:16740173	origText:asystole	url:D006323
+CANDIDATE	id:6323	inCount:2	outCount:1	links:9325;6945;1049;7022;1919;12798;15877;6333	url:D006323	name:Asystole	normalName:asystole	normalWikiTitle:asystole	predictedType:Disease

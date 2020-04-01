@@ -1,0 +1,4 @@
+ENTITY	text:catalepsy	normalName:catalepsy	predictedType:disease	q:true	qid:Q199	docId:24739405	origText:catalepsy	url:D002375
+CANDIDATE	id:2375	inCount:0	outCount:1	links:12559	url:D002375	name:Catalepsy	normalName:catalepsy	normalWikiTitle:catalepsy	predictedType:Disease
+ENTITY	text:schizophrenia	normalName:schizophrenia	predictedType:disease	q:true	qid:Q199	docId:24739405	origText:schizophrenia	url:D012559
+CANDIDATE	id:12559	inCount:4	outCount:1	links:2375	url:D012559	name:Schizophrenia	normalName:schizophrenia	normalWikiTitle:schizophrenia	predictedType:Disease

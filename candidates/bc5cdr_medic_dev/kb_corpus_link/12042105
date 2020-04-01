@@ -1,0 +1,4 @@
+ENTITY	text:metabolic acidosis	normalName:metabolic acidosis	predictedType:disease	q:true	qid:Q483	docId:12042105	origText:metabolic acidosis	url:D000138
+CANDIDATE	id:138	inCount:7	outCount:1	links:	url:D000138	name:Acidosis, Metabolic	normalName:acidosis, metabolic	normalWikiTitle:acidosis, metabolic	predictedType:Disease
+ENTITY	text:nephrolithiasis	normalName:nephrolithiasis	predictedType:disease	q:true	qid:Q483	docId:12042105	origText:nephrolithiasis	url:D053040
+CANDIDATE	id:53040	inCount:9	outCount:2	links:	url:D053040	name:Nephrolithiasis	normalName:nephrolithiasis	normalWikiTitle:nephrolithiasis	predictedType:Disease

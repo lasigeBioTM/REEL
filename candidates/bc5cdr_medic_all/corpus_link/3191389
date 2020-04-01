@@ -1,0 +1,6 @@
+ENTITY	text:seizures	normalName:seizures	predictedType:disease	q:true	qid:Q1493	docId:3191389	origText:seizures	url:D012640
+CANDIDATE	id:12640	inCount:53	outCount:1	links:13226	url:D012640	name:Seizure	normalName:seizure	normalWikiTitle:seizure	predictedType:Disease
+ENTITY	text:status epilepticus	normalName:status epilepticus	predictedType:disease	q:true	qid:Q1493	docId:3191389	origText:status epilepticus	url:D013226
+CANDIDATE	id:13226	inCount:1	outCount:1	links:12640	url:D013226	name:Status Epilepticus	normalName:status epilepticus	normalWikiTitle:status epilepticus	predictedType:Disease
+ENTITY	text:seizure	normalName:seizure	predictedType:disease	q:true	qid:Q1493	docId:3191389	origText:seizure	url:D012640
+CANDIDATE	id:12640	inCount:53	outCount:1	links:13226	url:D012640	name:Seizure	normalName:seizure	normalWikiTitle:seizure	predictedType:Disease

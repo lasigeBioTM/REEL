@@ -1,0 +1,26 @@
+ENTITY	text:amiodarone	normalName:amiodarone	predictedType:chemical	q:true	qid:Q496	docId:15265979	origText:amiodarone	url:D000638
+CANDIDATE	id:638	inCount:17	outCount:1	links:	url:D000638	name:Amiodarone	normalName:amiodarone	normalWikiTitle:amiodarone	predictedType:Chemical
+ENTITY	text:triglycerides	normalName:triglycerides	predictedType:chemical	q:true	qid:Q496	docId:15265979	origText:triglycerides	url:D014280
+CANDIDATE	id:14280	inCount:112	outCount:1	links:	url:D014280	name:Triglycerides	normalName:triglycerides	normalWikiTitle:triglycerides	predictedType:Chemical
+CANDIDATE	id:34396	inCount:0	outCount:1	links:	url:C034396	name:HDL-triglyceride	normalName:hdl-triglyceride	normalWikiTitle:hdl-triglyceride	predictedType:Chemical
+CANDIDATE	id:4075	inCount:83	outCount:1	links:	url:D004075	name:Diglycerides	normalName:diglycerides	normalWikiTitle:diglycerides	predictedType:Chemical
+CANDIDATE	id:5989	inCount:81	outCount:1	links:	url:D005989	name:Glycerides	normalName:glycerides	normalWikiTitle:glycerides	predictedType:Chemical
+CANDIDATE	id:40183	inCount:0	outCount:1	links:	url:C040183	name:triletide	normalName:triletide	normalWikiTitle:triletide	predictedType:Chemical
+CANDIDATE	id:556319	inCount:0	outCount:1	links:	url:C556319	name:hylodiglyceride	normalName:hylodiglyceride	normalWikiTitle:hylodiglyceride	predictedType:Chemical
+CANDIDATE	id:46667	inCount:0	outCount:1	links:	url:C046667	name:triperiden	normalName:triperiden	normalWikiTitle:triperiden	predictedType:Chemical
+CANDIDATE	id:594071	inCount:0	outCount:1	links:	url:C000594071	name:urgineaglyceride A	normalName:urgineaglyceride a	normalWikiTitle:urgineaglyceride a	predictedType:Chemical
+CANDIDATE	id:611317	inCount:0	outCount:1	links:	url:C000611317	name:agaricoglyceride A	normalName:agaricoglyceride a	normalWikiTitle:agaricoglyceride a	predictedType:Chemical
+CANDIDATE	id:5996	inCount:10	outCount:1	links:	url:D005996	name:Nitroglycerin	normalName:nitroglycerin	normalWikiTitle:nitroglycerin	predictedType:Chemical
+ENTITY	text:glucose	normalName:glucose	predictedType:chemical	q:true	qid:Q496	docId:15265979	origText:glucose	url:D005947
+CANDIDATE	id:5947	inCount:160	outCount:1	links:	url:D005947	name:Glucose	normalName:glucose	normalWikiTitle:glucose	predictedType:Chemical
+ENTITY	text:fatty acid	normalName:fatty acid	predictedType:chemical	q:true	qid:Q496	docId:15265979	origText:fatty acid	url:D005227
+CANDIDATE	id:5227	inCount:230	outCount:1	links:	url:D005227	name:Fatty Acids	normalName:fatty acids	normalWikiTitle:fatty acids	predictedType:Chemical
+CANDIDATE	id:479742	inCount:0	outCount:1	links:	url:C479742	name:CLA fatty acid	normalName:cla fatty acid	normalWikiTitle:cla fatty acid	predictedType:Chemical
+CANDIDATE	id:44242	inCount:0	outCount:1	links:	url:D044242	name:Trans Fatty Acids	normalName:trans fatty acids	normalWikiTitle:trans fatty acids	predictedType:Chemical
+CANDIDATE	id:604757	inCount:0	outCount:1	links:	url:C000604757	name:PC-594 fatty acid	normalName:pc-594 fatty acid	normalWikiTitle:pc-594 fatty acid	predictedType:Chemical
+CANDIDATE	id:11250	inCount:0	outCount:2	links:	url:C011250	name:fatty acid ketols	normalName:fatty acid ketols	normalWikiTitle:fatty acid ketols	predictedType:Chemical
+CANDIDATE	id:43371	inCount:3	outCount:1	links:	url:D043371	name:Fatty Acids, Omega-6	normalName:fatty acids, omega-6	normalWikiTitle:fatty acids, omega-6	predictedType:Chemical
+CANDIDATE	id:15525	inCount:22	outCount:3	links:	url:D015525	name:Fatty Acids, Omega-3	normalName:fatty acids, omega-3	normalWikiTitle:fatty acids, omega-3	predictedType:Chemical
+CANDIDATE	id:1634	inCount:0	outCount:2	links:	url:C001634	name:fatty aldehyde	normalName:fatty aldehyde	normalWikiTitle:fatty aldehyde	predictedType:Chemical
+CANDIDATE	id:5232	inCount:5	outCount:1	links:	url:D005232	name:Fatty Acids, Volatile	normalName:fatty acids, volatile	normalWikiTitle:fatty acids, volatile	predictedType:Chemical
+CANDIDATE	id:627429	inCount:0	outCount:1	links:	url:C000627429	name:matsutoic acid	normalName:matsutoic acid	normalWikiTitle:matsutoic acid	predictedType:Chemical

@@ -1,0 +1,14 @@
+ENTITY	text:d-tubocurarine	normalName:d-tubocurarine	predictedType:chemical	q:true	qid:Q485	docId:2718706	origText:d-tubocurarine	url:D014403
+CANDIDATE	id:14403	inCount:5	outCount:3	links:6221;4737;7741;7530	url:D014403	name:d-Tubocurarine	normalName:d-tubocurarine	normalWikiTitle:d-tubocurarine	predictedType:Chemical
+ENTITY	text:isoflurane	normalName:isoflurane	predictedType:chemical	q:true	qid:Q485	docId:2718706	origText:isoflurane	url:D007530
+CANDIDATE	id:7530	inCount:1	outCount:1	links:6221;4737;14403;7741	url:D007530	name:Isoflurane	normalName:isoflurane	normalWikiTitle:isoflurane	predictedType:Chemical
+ENTITY	text:fentanyl	normalName:fentanyl	predictedType:chemical	q:true	qid:Q485	docId:2718706	origText:fentanyl	url:D005283
+CANDIDATE	id:5283	inCount:40	outCount:1	links:	url:D005283	name:Fentanyl	normalName:fentanyl	normalWikiTitle:fentanyl	predictedType:Chemical
+ENTITY	text:enflurane	normalName:enflurane	predictedType:chemical	q:true	qid:Q485	docId:2718706	origText:enflurane	url:D004737
+CANDIDATE	id:4737	inCount:0	outCount:1	links:6221;14403;7741;7530	url:D004737	name:Enflurane	normalName:enflurane	normalWikiTitle:enflurane	predictedType:Chemical
+ENTITY	text:halothane	normalName:halothane	predictedType:chemical	q:true	qid:Q485	docId:2718706	origText:halothane	url:D006221
+CANDIDATE	id:6221	inCount:6	outCount:1	links:4737;14403;7741;7530	url:D006221	name:Halothane	normalName:halothane	normalWikiTitle:halothane	predictedType:Chemical
+ENTITY	text:labetalol	normalName:labetalol	predictedType:chemical	q:true	qid:Q485	docId:2718706	origText:labetalol	url:D007741
+CANDIDATE	id:7741	inCount:0	outCount:2	links:6221;4737;14403;7530	url:D007741	name:Labetalol	normalName:labetalol	normalWikiTitle:labetalol	predictedType:Chemical
+ENTITY	text:creatinine	normalName:creatinine	predictedType:chemical	q:true	qid:Q485	docId:2718706	origText:creatinine	url:D003404
+CANDIDATE	id:3404	inCount:8	outCount:1	links:	url:D003404	name:Creatinine	normalName:creatinine	normalWikiTitle:creatinine	predictedType:Chemical

@@ -1,0 +1,12 @@
+ENTITY	text:methotrexate	normalName:methotrexate	predictedType:chemical	q:true	qid:Q1061	docId:3970039	origText:methotrexate	url:D008727
+CANDIDATE	id:8727	inCount:364	outCount:1	links:	url:D008727	name:Methotrexate	normalName:methotrexate	normalWikiTitle:methotrexate	predictedType:Chemical
+ENTITY	text:cyclophosphamide	normalName:cyclophosphamide	predictedType:chemical	q:true	qid:Q1061	docId:3970039	origText:cyclophosphamide	url:D003520
+CANDIDATE	id:3520	inCount:474	outCount:1	links:	url:D003520	name:Cyclophosphamide	normalName:cyclophosphamide	normalWikiTitle:cyclophosphamide	predictedType:Chemical
+ENTITY	text:chlorambucil	normalName:chlorambucil	predictedType:chemical	q:true	qid:Q1061	docId:3970039	origText:chlorambucil	url:D002699
+CANDIDATE	id:2699	inCount:41	outCount:1	links:	url:D002699	name:Chlorambucil	normalName:chlorambucil	normalWikiTitle:chlorambucil	predictedType:Chemical
+ENTITY	text:azathioprine	normalName:azathioprine	predictedType:chemical	q:true	qid:Q1061	docId:3970039	origText:azathioprine	url:D001379
+CANDIDATE	id:1379	inCount:3	outCount:2	links:	url:D001379	name:Azathioprine	normalName:azathioprine	normalWikiTitle:azathioprine	predictedType:Chemical
+ENTITY	text:alkylating agents	normalName:alkylating agents	predictedType:chemical	q:true	qid:Q1061	docId:3970039	origText:alkylating agents	url:D000477
+CANDIDATE	id:477	inCount:1	outCount:2	links:	url:D000477	name:Alkylating Agents	normalName:alkylating agents	normalWikiTitle:alkylating agents	predictedType:Chemical
+ENTITY	text:folic acid	normalName:folic acid	predictedType:chemical	q:true	qid:Q1061	docId:3970039	origText:folic acid	url:D005492
+CANDIDATE	id:5492	inCount:121	outCount:1	links:	url:D005492	name:Folic Acid	normalName:folic acid	normalWikiTitle:folic acid	predictedType:Chemical

@@ -1,0 +1,4 @@
+ENTITY	text:noradrenaline	normalName:noradrenaline	predictedType:chemical	q:true	qid:Q1234	docId:2355241	origText:noradrenaline	url:D009638
+CANDIDATE	id:9638	inCount:31	outCount:4	links:	url:D009638	name:Noradrenaline	normalName:noradrenaline	normalWikiTitle:noradrenaline	predictedType:Chemical
+ENTITY	text:levodopa	normalName:levodopa	predictedType:chemical	q:true	qid:Q1234	docId:2355241	origText:levodopa	url:D007980
+CANDIDATE	id:7980	inCount:32	outCount:1	links:	url:D007980	name:Levodopa	normalName:levodopa	normalWikiTitle:levodopa	predictedType:Chemical

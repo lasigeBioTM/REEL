@@ -1,0 +1,37 @@
+ENTITY	text:Manic	normalName:manic	predictedType:disease	q:true	qid:Q101	docId:3693336	origText:Manic	url:D001714
+CANDIDATE	id:1714	inCount:11	outCount:1	links:3866;3693	url:D001714	name:Manias	normalName:manias	normalWikiTitle:manias	predictedType:Disease
+CANDIDATE	id:7565	inCount:5	outCount:2	links:3866;1714	url:D007565	name:Jaundice	normalName:jaundice	normalWikiTitle:jaundice	predictedType:Disease
+CANDIDATE	id:8548	inCount:4	outCount:1	links:	url:D008548	name:Melanosis	normalName:melanosis	normalWikiTitle:melanosis	predictedType:Disease
+CANDIDATE	id:1002	inCount:0	outCount:2	links:	url:D001002	name:Anuria	normalName:anuria	normalWikiTitle:anuria	predictedType:Disease
+CANDIDATE	id:849	inCount:0	outCount:1	links:	url:D000849	name:Anomia	normalName:anomia	normalWikiTitle:anomia	predictedType:Disease
+CANDIDATE	id:740	inCount:14	outCount:1	links:9401	url:D000740	name:Anemia	normalName:anemia	normalWikiTitle:anemia	predictedType:Disease
+CANDIDATE	id:59373	inCount:0	outCount:1	links:	url:D059373	name:Mastodynia	normalName:mastodynia	normalWikiTitle:mastodynia	predictedType:Disease
+CANDIDATE	id:15875	inCount:0	outCount:1	links:	url:D015875	name:Anisocoria	normalName:anisocoria	normalWikiTitle:anisocoria	predictedType:Disease
+CANDIDATE	id:6391	inCount:14	outCount:1	links:	url:D006391	name:Hemangioma	normalName:hemangioma	normalWikiTitle:hemangioma	predictedType:Disease
+CANDIDATE	id:535983	inCount:0	outCount:1	links:	url:C535983	name:ANIC	normalName:anic	normalWikiTitle:anic	predictedType:Disease
+CANDIDATE	id:1714	inCount:11	outCount:1	links:3866;3693	url:D001714	name:Mania	normalName:mania	normalWikiTitle:mania	predictedType:Disease
+CANDIDATE	id:58540	inCount:0	outCount:4	links:	url:D058540	name:AIC	normalName:aic	normalWikiTitle:aic	predictedType:Disease
+CANDIDATE	id:537984	inCount:0	outCount:1	links:	url:C537984	name:HMSNIC	normalName:hmsnic	normalWikiTitle:hmsnic	predictedType:Disease
+CANDIDATE	id:565737	inCount:0	outCount:1	links:	url:C565737	name:NAIC	normalName:naic	normalWikiTitle:naic	predictedType:Disease
+CANDIDATE	id:537555	inCount:0	outCount:2	links:	url:C537555	name:MHAC	normalName:mhac	normalWikiTitle:mhac	predictedType:Disease
+CANDIDATE	id:20386	inCount:0	outCount:2	links:	url:D020386	name:NMAN	normalName:nman	normalWikiTitle:nman	predictedType:Disease
+CANDIDATE	id:613376	inCount:0	outCount:1	links:	url:613376	name:HMN IIC	normalName:hmn iic	normalWikiTitle:hmn iic	predictedType:Disease
+CANDIDATE	id:614298	inCount:0	outCount:2	links:	url:614298	name:MPAN	normalName:mpan	normalWikiTitle:mpan	predictedType:Disease
+ENTITY	text:delirium	normalName:delirium	predictedType:disease	q:true	qid:Q101	docId:3693336	origText:delirium	url:D003693
+CANDIDATE	id:3693	inCount:1	outCount:2	links:1714	url:D003693	name:Delirium	normalName:delirium	normalWikiTitle:delirium	predictedType:Disease
+ENTITY	text:depressed	normalName:depressed	predictedType:disease	q:true	qid:Q101	docId:3693336	origText:depressed	url:D003866
+CANDIDATE	id:3866	inCount:6	outCount:1	links:1714;7565	url:D003866	name:Depressive Disorder	normalName:depressive disorder	normalWikiTitle:depressive disorder	predictedType:Disease
+CANDIDATE	id:4688	inCount:1	outCount:2	links:	url:D004688	name:Encopresis	normalName:encopresis	normalWikiTitle:encopresis	predictedType:Disease
+CANDIDATE	id:10291	inCount:3	outCount:1	links:	url:D010291	name:Paresis	normalName:paresis	normalWikiTitle:paresis	predictedType:Disease
+CANDIDATE	id:4775	inCount:2	outCount:2	links:	url:D004775	name:Enuresis	normalName:enuresis	normalWikiTitle:enuresis	predictedType:Disease
+CANDIDATE	id:3638	inCount:110	outCount:1	links:	url:D003638	name:Deafness	normalName:deafness	normalWikiTitle:deafness	predictedType:Disease
+CANDIDATE	id:9401	inCount:8	outCount:1	links:740	url:D009401	name:Nephrosis	normalName:nephrosis	normalWikiTitle:nephrosis	predictedType:Disease
+CANDIDATE	id:12806	inCount:1	outCount:1	links:	url:D012806	name:Siderosis	normalName:siderosis	normalWikiTitle:siderosis	predictedType:Disease
+CANDIDATE	id:566019	inCount:0	outCount:1	links:	url:C566019	name:Tune Deafness	normalName:tune deafness	normalWikiTitle:tune deafness	predictedType:Disease
+CANDIDATE	id:6562	inCount:3	outCount:1	links:	url:D006562	name:Herpes Zoster	normalName:herpes zoster	normalWikiTitle:herpes zoster	predictedType:Disease
+CANDIDATE	id:9668	inCount:13	outCount:2	links:	url:D009668	name:Nose Diseases	normalName:nose diseases	normalWikiTitle:nose diseases	predictedType:Disease
+CANDIDATE	id:563392	inCount:0	outCount:3	links:	url:C563392	name:ADRESD	normalName:adresd	normalWikiTitle:adresd	predictedType:Disease
+ENTITY	text:mania	normalName:mania	predictedType:disease	q:true	qid:Q101	docId:3693336	origText:mania	url:D001714
+CANDIDATE	id:1714	inCount:11	outCount:1	links:3866;3693	url:D001714	name:Mania	normalName:mania	normalWikiTitle:mania	predictedType:Disease
+ENTITY	text:organic mental disorder	normalName:organic mental disorder	predictedType:disease	q:true	qid:Q101	docId:3693336	origText:organic mental disorder	url:D019965
+CANDIDATE	id:19965	inCount:6	outCount:1	links:	url:D019965	name:Mental Disorder, Organic	normalName:mental disorder, organic	normalWikiTitle:mental disorder, organic	predictedType:Disease

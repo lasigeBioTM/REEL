@@ -1,0 +1,4 @@
+ENTITY	text:Adrenaline	normalName:adrenaline	predictedType:chemical	q:true	qid:Q1026	docId:12487093	origText:Adrenaline	url:D004837
+CANDIDATE	id:4837	inCount:33	outCount:3	links:	url:D004837	name:Adrenaline	normalName:adrenaline	normalWikiTitle:adrenaline	predictedType:Chemical
+ENTITY	text:triphenyltetrazolium	normalName:triphenyltetrazolium	predictedType:chemical	q:true	qid:Q1026	docId:12487093	origText:triphenyltetrazolium	url:C009591
+CANDIDATE	id:9591	inCount:0	outCount:1	links:	url:C009591	name:triphenyltetrazolium	normalName:triphenyltetrazolium	normalWikiTitle:triphenyltetrazolium	predictedType:Chemical

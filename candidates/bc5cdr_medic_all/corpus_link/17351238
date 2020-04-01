@@ -1,0 +1,25 @@
+ENTITY	text:drop in blood pressure	normalName:drop in blood pressure	predictedType:disease	q:true	qid:Q291	docId:17351238	origText:drop in blood pressure	url:D007022
+CANDIDATE	id:7022	inCount:3	outCount:1	links:2637	url:D007022	name:Blood Pressure, Low	normalName:blood pressure, low	normalWikiTitle:blood pressure, low	predictedType:Disease
+CANDIDATE	id:6850	inCount:1	outCount:1	links:	url:D006850	name:Hydrocephalus, Normal Pressure	normalName:hydrocephalus, normal pressure	normalWikiTitle:hydrocephalus, normal pressure	predictedType:Disease
+CANDIDATE	id:1796	inCount:12	outCount:1	links:	url:D001796	name:Blood Protein Disorders	normalName:blood protein disorders	normalWikiTitle:blood protein disorders	predictedType:Disease
+CANDIDATE	id:566185	inCount:0	outCount:1	links:	url:C566185	name:Heart Block, Nonprogressive	normalName:heart block, nonprogressive	normalWikiTitle:heart block, nonprogressive	predictedType:Disease
+CANDIDATE	id:16063	inCount:0	outCount:2	links:	url:D016063	name:Blood Loss, Surgical	normalName:blood loss, surgical	normalWikiTitle:blood loss, surgical	predictedType:Disease
+CANDIDATE	id:1778	inCount:21	outCount:1	links:	url:D001778	name:Blood Coagulation Disorders	normalName:blood coagulation disorders	normalWikiTitle:blood coagulation disorders	predictedType:Disease
+CANDIDATE	id:601308	inCount:0	outCount:1	links:	url:601308	name:MYELOID TUMOR SUPPRESSOR	normalName:myeloid tumor suppressor	normalWikiTitle:myeloid tumor suppressor	predictedType:Disease
+CANDIDATE	id:16489	inCount:1	outCount:2	links:	url:D016489	name:Head Injuries, Closed	normalName:head injuries, closed	normalWikiTitle:head injuries, closed	predictedType:Disease
+CANDIDATE	id:1745	inCount:13	outCount:1	links:	url:D001745	name:Urinary Bladder Diseases	normalName:urinary bladder diseases	normalWikiTitle:urinary bladder diseases	predictedType:Disease
+CANDIDATE	id:564476	inCount:0	outCount:1	links:	url:C564476	name:Premature Ovarian Failure 2b	normalName:premature ovarian failure 2b	normalWikiTitle:premature ovarian failure 2b	predictedType:Disease
+CANDIDATE	id:1791	inCount:29	outCount:1	links:	url:D001791	name:Blood Platelet Disorders	normalName:blood platelet disorders	normalWikiTitle:blood platelet disorders	predictedType:Disease
+CANDIDATE	id:7022	inCount:3	outCount:1	links:2637	url:D007022	name:Low Blood Pressure	normalName:low blood pressure	normalWikiTitle:low blood pressure	predictedType:Disease
+CANDIDATE	id:6973	inCount:18	outCount:1	links:	url:D006973	name:High Blood Pressure	normalName:high blood pressure	normalWikiTitle:high blood pressure	predictedType:Disease
+CANDIDATE	id:6973	inCount:18	outCount:1	links:	url:D006973	name:Blood Pressure, High	normalName:blood pressure, high	normalWikiTitle:blood pressure, high	predictedType:Disease
+CANDIDATE	id:6973	inCount:18	outCount:1	links:	url:D006973	name:High Blood Pressures	normalName:high blood pressures	normalWikiTitle:high blood pressures	predictedType:Disease
+CANDIDATE	id:6973	inCount:18	outCount:1	links:	url:D006973	name:Blood Pressures, High	normalName:blood pressures, high	normalWikiTitle:blood pressures, high	predictedType:Disease
+CANDIDATE	id:6402	inCount:22	outCount:1	links:	url:D006402	name:Disease, Blood	normalName:disease, blood	normalWikiTitle:disease, blood	predictedType:Disease
+CANDIDATE	id:6402	inCount:22	outCount:1	links:	url:D006402	name:Blood Disease	normalName:blood disease	normalWikiTitle:blood disease	predictedType:Disease
+CANDIDATE	id:784	inCount:4	outCount:1	links:	url:D000784	name:Dissection, Blood Vessel	normalName:dissection, blood vessel	normalWikiTitle:dissection, blood vessel	predictedType:Disease
+CANDIDATE	id:784	inCount:4	outCount:1	links:	url:D000784	name:Blood Vessel Dissection	normalName:blood vessel dissection	normalWikiTitle:blood vessel dissection	predictedType:Disease
+ENTITY	text:chest pain	normalName:chest pain	predictedType:disease	q:true	qid:Q291	docId:17351238	origText:chest pain	url:D002637
+CANDIDATE	id:2637	inCount:1	outCount:1	links:7022	url:D002637	name:Chest Pain	normalName:chest pain	normalWikiTitle:chest pain	predictedType:Disease
+ENTITY	text:syncopal episode	normalName:syncopal episode	predictedType:disease	q:true	qid:Q291	docId:17351238	origText:syncopal episode	url:D013575
+CANDIDATE	id:13575	inCount:2	outCount:1	links:	url:D013575	name:Episode, Syncopal	normalName:episode, syncopal	normalWikiTitle:episode, syncopal	predictedType:Disease

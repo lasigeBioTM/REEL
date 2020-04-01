@@ -1,0 +1,13 @@
+ENTITY	text:decreased cardiac output	normalName:decreased cardiac output	predictedType:disease	q:true	qid:Q143	docId:322550	origText:decreased cardiac output	url:D002303
+CANDIDATE	id:2303	inCount:0	outCount:2	links:7022	url:D002303	name:Cardiac Output, Low	normalName:cardiac output, low	normalWikiTitle:cardiac output, low	predictedType:Disease
+CANDIDATE	id:16534	inCount:0	outCount:2	links:7022	url:D016534	name:Cardiac Output, High	normalName:cardiac output, high	normalWikiTitle:cardiac output, high	predictedType:Disease
+CANDIDATE	id:4489	inCount:0	outCount:2	links:	url:D004489	name:Edema, Cardiac	normalName:edema, cardiac	normalWikiTitle:edema, cardiac	predictedType:Disease
+CANDIDATE	id:16757	inCount:4	outCount:2	links:	url:D016757	name:Death, Sudden, Cardiac	normalName:death, sudden, cardiac	normalWikiTitle:death, sudden, cardiac	predictedType:Disease
+CANDIDATE	id:567062	inCount:0	outCount:1	links:	url:C567062	name:Fabry Disease, Cardiac Variant	normalName:fabry disease, cardiac variant	normalWikiTitle:fabry disease, cardiac variant	predictedType:Disease
+CANDIDATE	id:5536	inCount:0	outCount:2	links:	url:D005536	name:Foot-and-Mouth Disease	normalName:foot-and-mouth disease	normalWikiTitle:foot-and-mouth disease	predictedType:Disease
+CANDIDATE	id:75224	inCount:12	outCount:1	links:	url:D000075224	name:Cardiac Conduction System Disease	normalName:cardiac conduction system disease	normalWikiTitle:cardiac conduction system disease	predictedType:Disease
+CANDIDATE	id:5117	inCount:3	outCount:2	links:	url:D005117	name:Cardiac Complexes, Premature	normalName:cardiac complexes, premature	normalWikiTitle:cardiac complexes, premature	predictedType:Disease
+CANDIDATE	id:531647	inCount:0	outCount:1	links:	url:C531647	name:Caroli disease isolated	normalName:caroli disease isolated	normalWikiTitle:caroli disease isolated	predictedType:Disease
+CANDIDATE	id:566013	inCount:0	outCount:1	links:	url:C566013	name:Urate-Binding Globulin, Decrease in	normalName:urate-binding globulin, decrease in	normalWikiTitle:urate-binding globulin, decrease in	predictedType:Disease
+ENTITY	text:hypotension	normalName:hypotension	predictedType:disease	q:true	qid:Q143	docId:322550	origText:hypotension	url:D007022
+CANDIDATE	id:7022	inCount:3	outCount:1	links:16534;2303	url:D007022	name:Hypotension	normalName:hypotension	normalWikiTitle:hypotension	predictedType:Disease

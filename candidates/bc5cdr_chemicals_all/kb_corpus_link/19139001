@@ -1,0 +1,4 @@
+ENTITY	text:sulindac	normalName:sulindac	predictedType:chemical	q:true	qid:Q1273	docId:19139001	origText:sulindac	url:D013467
+CANDIDATE	id:13467	inCount:12	outCount:1	links:	url:D013467	name:Sulindac	normalName:sulindac	normalWikiTitle:sulindac	predictedType:Chemical
+ENTITY	text:difluoromethylornithine	normalName:difluoromethylornithine	predictedType:chemical	q:true	qid:Q1273	docId:19139001	origText:difluoromethylornithine	url:D000518
+CANDIDATE	id:518	inCount:5	outCount:1	links:	url:D000518	name:Difluoromethylornithine	normalName:difluoromethylornithine	normalWikiTitle:difluoromethylornithine	predictedType:Chemical

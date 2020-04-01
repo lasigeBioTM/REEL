@@ -1,0 +1,40 @@
+ENTITY	text:edematous	normalName:edematous	predictedType:disease	q:true	qid:Q1274	docId:8492347	origText:edematous	url:D004487
+CANDIDATE	id:4487	inCount:6	outCount:1	links:	url:D004487	name:Edema	normalName:edema	normalWikiTitle:edema	predictedType:Disease
+CANDIDATE	id:3872	inCount:20	outCount:1	links:	url:D003872	name:Dermatitis	normalName:dermatitis	normalWikiTitle:dermatitis	predictedType:Disease
+CANDIDATE	id:7575	inCount:1	outCount:2	links:	url:D007575	name:Jaw, Edentulous	normalName:jaw, edentulous	normalWikiTitle:jaw, edentulous	predictedType:Disease
+CANDIDATE	id:7868	inCount:0	outCount:1	links:	url:D007868	name:Leg Dermatoses	normalName:leg dermatoses	normalWikiTitle:leg dermatoses	predictedType:Disease
+CANDIDATE	id:3881	inCount:10	outCount:2	links:	url:D003881	name:Dermatomycoses	normalName:dermatomycoses	normalWikiTitle:dermatomycoses	predictedType:Disease
+CANDIDATE	id:562941	inCount:1	outCount:1	links:	url:C562941	name:Telecanthus	normalName:telecanthus	normalWikiTitle:telecanthus	predictedType:Disease
+CANDIDATE	id:7640	inCount:9	outCount:1	links:	url:D007640	name:Keratoconus	normalName:keratoconus	normalWikiTitle:keratoconus	predictedType:Disease
+CANDIDATE	id:6406	inCount:3	outCount:1	links:	url:D006406	name:Hematoma	normalName:hematoma	normalWikiTitle:hematoma	predictedType:Disease
+CANDIDATE	id:65134	inCount:0	outCount:1	links:	url:D065134	name:Lipedema	normalName:lipedema	normalWikiTitle:lipedema	predictedType:Disease
+CANDIDATE	id:18256	inCount:3	outCount:1	links:	url:D018256	name:Adenomatous Polyps	normalName:adenomatous polyps	normalWikiTitle:adenomatous polyps	predictedType:Disease
+CANDIDATE	id:12871	inCount:71	outCount:1	links:34141	url:D012871	name:Dermatoses	normalName:dermatoses	normalWikiTitle:dermatoses	predictedType:Disease
+CANDIDATE	id:12871	inCount:71	outCount:1	links:34141	url:D012871	name:Dermatosis	normalName:dermatosis	normalWikiTitle:dermatosis	predictedType:Disease
+ENTITY	text:obese	normalName:obese	predictedType:disease	q:true	qid:Q1274	docId:8492347	origText:obese	url:D009765
+CANDIDATE	id:9765	inCount:42	outCount:2	links:	url:D009765	name:Obesity	normalName:obesity	normalWikiTitle:obesity	predictedType:Disease
+CANDIDATE	id:11818	inCount:0	outCount:1	links:	url:D011818	name:Rabies	normalName:rabies	normalWikiTitle:rabies	predictedType:Disease
+ENTITY	text:Tetany	normalName:tetany	predictedType:disease	q:true	qid:Q1274	docId:8492347	origText:Tetany	url:D013746
+CANDIDATE	id:13746	inCount:0	outCount:2	links:12206	url:D013746	name:Tetany	normalName:tetany	normalWikiTitle:tetany	predictedType:Disease
+ENTITY	text:muscle weakness	normalName:muscle weakness	predictedType:disease	q:true	qid:Q1274	docId:8492347	origText:muscle weakness	url:D018908
+CANDIDATE	id:18908	inCount:6	outCount:3	links:7008	url:D018908	name:Muscle Weakness	normalName:muscle weakness	normalWikiTitle:muscle weakness	predictedType:Disease
+ENTITY	text:hypokalemia	normalName:hypokalemia	predictedType:disease	q:true	qid:Q1274	docId:8492347	origText:hypokalemia	url:D007008
+CANDIDATE	id:7008	inCount:1	outCount:1	links:18908	url:D007008	name:Hypokalemia	normalName:hypokalemia	normalWikiTitle:hypokalemia	predictedType:Disease
+ENTITY	text:hypocalcemia	normalName:hypocalcemia	predictedType:disease	q:true	qid:Q1274	docId:8492347	origText:hypocalcemia	url:D006996
+CANDIDATE	id:6996	inCount:5	outCount:2	links:	url:D006996	name:Hypocalcemia	normalName:hypocalcemia	normalWikiTitle:hypocalcemia	predictedType:Disease
+ENTITY	text:rhabdomyolysis	normalName:rhabdomyolysis	predictedType:disease	q:true	qid:Q1274	docId:8492347	origText:rhabdomyolysis	url:D012206
+CANDIDATE	id:12206	inCount:3	outCount:1	links:13746	url:D012206	name:Rhabdomyolysis	normalName:rhabdomyolysis	normalWikiTitle:rhabdomyolysis	predictedType:Disease
+ENTITY	text:muscle spasms	normalName:muscle spasms	predictedType:disease	q:true	qid:Q1274	docId:8492347	origText:muscle spasms	url:D013035
+CANDIDATE	id:13035	inCount:5	outCount:1	links:18476	url:D013035	name:Muscle Spasm	normalName:muscle spasm	normalWikiTitle:muscle spasm	predictedType:Disease
+ENTITY	text:hypomagnesemia	normalName:hypomagnesemia	predictedType:disease	q:true	qid:Q1274	docId:8492347	origText:hypomagnesemia	url:C537153
+CANDIDATE	id:537153	inCount:0	outCount:3	links:	url:C537153	name:Hypomagnesemia primary	normalName:hypomagnesemia primary	normalWikiTitle:hypomagnesemia primary	predictedType:Disease
+CANDIDATE	id:537152	inCount:0	outCount:1	links:	url:C537152	name:Hypomagnesemia 2, renal	normalName:hypomagnesemia 2, renal	normalWikiTitle:hypomagnesemia 2, renal	predictedType:Disease
+CANDIDATE	id:567127	inCount:0	outCount:1	links:	url:C567127	name:Hypomagnesemia 4, Renal	normalName:hypomagnesemia 4, renal	normalWikiTitle:hypomagnesemia 4, renal	predictedType:Disease
+CANDIDATE	id:613882	inCount:0	outCount:1	links:	url:613882	name:HYPOMAGNESEMIA 6, RENAL	normalName:hypomagnesemia 6, renal	normalWikiTitle:hypomagnesemia 6, renal	predictedType:Disease
+CANDIDATE	id:7008	inCount:1	outCount:1	links:18908	url:D007008	name:Hypokalemia	normalName:hypokalemia	normalWikiTitle:hypokalemia	predictedType:Disease
+CANDIDATE	id:18476	inCount:1	outCount:1	links:13035	url:D018476	name:Hypokinesia	normalName:hypokinesia	normalWikiTitle:hypokinesia	predictedType:Disease
+CANDIDATE	id:6940	inCount:0	outCount:1	links:	url:D006940	name:Hyperemia	normalName:hyperemia	normalWikiTitle:hyperemia	predictedType:Disease
+CANDIDATE	id:34141	inCount:1	outCount:1	links:12871	url:D034141	name:Hypoalbuminemia	normalName:hypoalbuminemia	normalWikiTitle:hypoalbuminemia	predictedType:Disease
+CANDIDATE	id:6996	inCount:5	outCount:2	links:	url:D006996	name:Hypocalcemia	normalName:hypocalcemia	normalWikiTitle:hypocalcemia	predictedType:Disease
+CANDIDATE	id:34321	inCount:0	outCount:1	links:	url:D034321	name:Hyperamylasemia	normalName:hyperamylasemia	normalWikiTitle:hyperamylasemia	predictedType:Disease
+CANDIDATE	id:566593	inCount:0	outCount:2	links:	url:C566593	name:HYPOMAGNESEMIC TETANY	normalName:hypomagnesemic tetany	normalWikiTitle:hypomagnesemic tetany	predictedType:Disease

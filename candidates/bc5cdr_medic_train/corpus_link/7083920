@@ -1,0 +1,24 @@
+ENTITY	text:atrial flutter	normalName:atrial flutter	predictedType:disease	q:true	qid:Q131	docId:7083920	origText:atrial flutter	url:D001282
+CANDIDATE	id:1282	inCount:0	outCount:1	links:	url:D001282	name:Atrial Flutter	normalName:atrial flutter	normalWikiTitle:atrial flutter	predictedType:Disease
+ENTITY	text:intra-Hisian block	normalName:intra-hisian block	predictedType:disease	q:true	qid:Q131	docId:7083920	origText:intra-Hisian block	url:D006327
+CANDIDATE	id:6327	inCount:13	outCount:2	links:	url:D006327	name:Heart Block	normalName:heart block	normalWikiTitle:heart block	predictedType:Disease
+CANDIDATE	id:12848	inCount:1	outCount:1	links:	url:D012848	name:Sinoatrial Block	normalName:sinoatrial block	normalWikiTitle:sinoatrial block	predictedType:Disease
+CANDIDATE	id:74021	inCount:0	outCount:1	links:	url:D000074021	name:Interatrial Block	normalName:interatrial block	normalWikiTitle:interatrial block	predictedType:Disease
+CANDIDATE	id:1983	inCount:0	outCount:2	links:	url:D001983	name:Bronchial Fistula	normalName:bronchial fistula	normalWikiTitle:bronchial fistula	predictedType:Disease
+CANDIDATE	id:59325	inCount:0	outCount:1	links:	url:D059325	name:Intra-Abdominal Hypertension	normalName:intra-abdominal hypertension	normalWikiTitle:intra-abdominal hypertension	predictedType:Disease
+CANDIDATE	id:52018	inCount:0	outCount:1	links:	url:D052018	name:Bulimia Nervosa	normalName:bulimia nervosa	normalWikiTitle:bulimia nervosa	predictedType:Disease
+CANDIDATE	id:537900	inCount:0	outCount:1	links:	url:C537900	name:Baker-Winegrad disease	normalName:baker-winegrad disease	normalWikiTitle:baker-winegrad disease	predictedType:Disease
+CANDIDATE	id:2037	inCount:1	outCount:1	links:	url:D002037	name:Bundle-Branch Block	normalName:bundle-branch block	normalWikiTitle:bundle-branch block	predictedType:Disease
+CANDIDATE	id:1990	inCount:0	outCount:2	links:	url:D001990	name:Bronchiolitis, Viral	normalName:bronchiolitis, viral	normalWikiTitle:bronchiolitis, viral	predictedType:Disease
+CANDIDATE	id:57767	inCount:0	outCount:1	links:	url:D057767	name:Kashin-Beck Disease	normalName:kashin-beck disease	normalWikiTitle:kashin-beck disease	predictedType:Disease
+ENTITY	text:atrial tachycardia	normalName:atrial tachycardia	predictedType:disease	q:true	qid:Q131	docId:7083920	origText:atrial tachycardia	url:D013617
+CANDIDATE	id:13617	inCount:3	outCount:1	links:	url:D013617	name:Tachycardia, Supraventricular	normalName:tachycardia, supraventricular	normalWikiTitle:tachycardia, supraventricular	predictedType:Disease
+CANDIDATE	id:13612	inCount:0	outCount:1	links:	url:D013612	name:Tachycardia, Ectopic Atrial	normalName:tachycardia, ectopic atrial	normalWikiTitle:tachycardia, ectopic atrial	predictedType:Disease
+CANDIDATE	id:13614	inCount:1	outCount:1	links:	url:D013614	name:Tachycardia, Paroxysmal	normalName:tachycardia, paroxysmal	normalWikiTitle:tachycardia, paroxysmal	predictedType:Disease
+CANDIDATE	id:13610	inCount:7	outCount:2	links:	url:D013610	name:Tachycardia	normalName:tachycardia	normalWikiTitle:tachycardia	predictedType:Disease
+CANDIDATE	id:13616	inCount:0	outCount:1	links:	url:D013616	name:Tachycardia, Sinus	normalName:tachycardia, sinus	normalWikiTitle:tachycardia, sinus	predictedType:Disease
+CANDIDATE	id:535438	inCount:0	outCount:1	links:	url:C535438	name:Bidirectional tachycardia	normalName:bidirectional tachycardia	normalWikiTitle:bidirectional tachycardia	predictedType:Disease
+CANDIDATE	id:54139	inCount:2	outCount:1	links:	url:D054139	name:Tachycardia, Reciprocating	normalName:tachycardia, reciprocating	normalWikiTitle:tachycardia, reciprocating	predictedType:Disease
+CANDIDATE	id:13613	inCount:0	outCount:1	links:	url:D013613	name:Tachycardia, Ectopic Junctional	normalName:tachycardia, ectopic junctional	normalWikiTitle:tachycardia, ectopic junctional	predictedType:Disease
+CANDIDATE	id:13615	inCount:0	outCount:1	links:	url:D013615	name:Tachycardia, Sinoatrial Nodal Reentry	normalName:tachycardia, sinoatrial nodal reentry	normalWikiTitle:tachycardia, sinoatrial nodal reentry	predictedType:Disease
+CANDIDATE	id:192605	inCount:0	outCount:1	links:	url:192605	name:VENTRICULAR TACHYCARDIA, FAMILIAL	normalName:ventricular tachycardia, familial	normalWikiTitle:ventricular tachycardia, familial	predictedType:Disease

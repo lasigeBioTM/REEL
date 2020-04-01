@@ -1,0 +1,6 @@
+ENTITY	text:raloxifene	normalName:raloxifene	predictedType:chemical	q:true	qid:Q465	docId:16167916	origText:raloxifene	url:D020849
+CANDIDATE	id:20849	inCount:3	outCount:1	links:20849	url:D020849	name:Raloxifene	normalName:raloxifene	normalWikiTitle:raloxifene	predictedType:Chemical
+ENTITY	text:calcium	normalName:calcium	predictedType:chemical	q:true	qid:Q465	docId:16167916	origText:calcium	url:D002118
+CANDIDATE	id:2118	inCount:11	outCount:2	links:	url:D002118	name:Calcium	normalName:calcium	normalWikiTitle:calcium	predictedType:Chemical
+ENTITY	text:raloxifene hydrochloride	normalName:raloxifene hydrochloride	predictedType:chemical	q:true	qid:Q465	docId:16167916	origText:raloxifene hydrochloride	url:D020849
+CANDIDATE	id:20849	inCount:3	outCount:1	links:20849	url:D020849	name:Raloxifene Hydrochloride	normalName:raloxifene hydrochloride	normalWikiTitle:raloxifene hydrochloride	predictedType:Chemical

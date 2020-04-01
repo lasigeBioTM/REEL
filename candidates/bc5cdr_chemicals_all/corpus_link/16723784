@@ -1,0 +1,25 @@
+ENTITY	text:bepridil	normalName:bepridil	predictedType:chemical	q:true	qid:Q176	docId:16723784	origText:bepridil	url:D015764
+CANDIDATE	id:15764	inCount:3	outCount:1	links:11188;1712	url:D015764	name:Bepridil	normalName:bepridil	normalWikiTitle:bepridil	predictedType:Chemical
+ENTITY	text:potassium	normalName:potassium	predictedType:chemical	q:true	qid:Q176	docId:16723784	origText:potassium	url:D011188
+CANDIDATE	id:11188	inCount:10	outCount:2	links:15764;1712	url:D011188	name:Potassium	normalName:potassium	normalWikiTitle:potassium	predictedType:Chemical
+ENTITY	text:Bepridil hydrochloride	normalName:bepridil hydrochloride	predictedType:chemical	q:true	qid:Q176	docId:16723784	origText:Bepridil hydrochloride	url:D015764
+CANDIDATE	id:15764	inCount:3	outCount:1	links:11188;1712	url:D015764	name:Bepridil Monohydrochloride	normalName:bepridil monohydrochloride	normalWikiTitle:bepridil monohydrochloride	predictedType:Chemical
+CANDIDATE	id:50883	inCount:0	outCount:1	links:	url:C050883	name:benidipine hydrochloride	normalName:benidipine hydrochloride	normalWikiTitle:benidipine hydrochloride	predictedType:Chemical
+CANDIDATE	id:69347	inCount:0	outCount:1	links:	url:D000069347	name:Erlotinib Hydrochloride	normalName:erlotinib hydrochloride	normalWikiTitle:erlotinib hydrochloride	predictedType:Chemical
+CANDIDATE	id:487734	inCount:0	outCount:1	links:	url:C487734	name:ceterizine hydrochloride	normalName:ceterizine hydrochloride	normalWikiTitle:ceterizine hydrochloride	predictedType:Chemical
+CANDIDATE	id:72383	inCount:0	outCount:3	links:	url:C072383	name:canertinib dihydrochloride	normalName:canertinib dihydrochloride	normalWikiTitle:canertinib dihydrochloride	predictedType:Chemical
+CANDIDATE	id:69461	inCount:1	outCount:3	links:	url:D000069461	name:Bendamustine Hydrochloride	normalName:bendamustine hydrochloride	normalWikiTitle:bendamustine hydrochloride	predictedType:Chemical
+CANDIDATE	id:95428	inCount:0	outCount:2	links:	url:C095428	name:adrogolide hydrochloride	normalName:adrogolide hydrochloride	normalWikiTitle:adrogolide hydrochloride	predictedType:Chemical
+CANDIDATE	id:400065	inCount:0	outCount:1	links:	url:C400065	name:1-DPEPCA hydrochloride	normalName:1-dpepca hydrochloride	normalWikiTitle:1-dpepca hydrochloride	predictedType:Chemical
+CANDIDATE	id:6851	inCount:4	outCount:2	links:	url:D006851	name:Hydrochloric Acid	normalName:hydrochloric acid	normalWikiTitle:hydrochloric acid	predictedType:Chemical
+CANDIDATE	id:68736	inCount:1	outCount:1	links:	url:D000068736	name:Duloxetine Hydrochloride	normalName:duloxetine hydrochloride	normalWikiTitle:duloxetine hydrochloride	predictedType:Chemical
+CANDIDATE	id:502418	inCount:0	outCount:1	links:	url:C502418	name:givinostat hydrochloride	normalName:givinostat hydrochloride	normalWikiTitle:givinostat hydrochloride	predictedType:Chemical
+CANDIDATE	id:15764	inCount:3	outCount:1	links:11188;1712	url:D015764	name:Monohydrochloride, Bepridil	normalName:monohydrochloride, bepridil	normalWikiTitle:monohydrochloride, bepridil	predictedType:Chemical
+CANDIDATE	id:44946	inCount:0	outCount:1	links:	url:C044946	name:benazepril hydrochloride	normalName:benazepril hydrochloride	normalWikiTitle:benazepril hydrochloride	predictedType:Chemical
+CANDIDATE	id:78462	inCount:0	outCount:1	links:	url:C078462	name:fepradinol hydrochloride	normalName:fepradinol hydrochloride	normalWikiTitle:fepradinol hydrochloride	predictedType:Chemical
+CANDIDATE	id:6955	inCount:0	outCount:1	links:	url:C006955	name:cetiedil hydrochloride	normalName:cetiedil hydrochloride	normalWikiTitle:cetiedil hydrochloride	predictedType:Chemical
+CANDIDATE	id:44002	inCount:0	outCount:1	links:	url:C044002	name:eproxindine hydrochloride	normalName:eproxindine hydrochloride	normalWikiTitle:eproxindine hydrochloride	predictedType:Chemical
+CANDIDATE	id:74872	inCount:0	outCount:2	links:	url:C074872	name:besipirdine hydrochloride	normalName:besipirdine hydrochloride	normalWikiTitle:besipirdine hydrochloride	predictedType:Chemical
+CANDIDATE	id:6820	inCount:0	outCount:1	links:	url:C006820	name:bromperidol hydrochloride	normalName:bromperidol hydrochloride	normalWikiTitle:bromperidol hydrochloride	predictedType:Chemical
+CANDIDATE	id:29876	inCount:0	outCount:1	links:	url:C029876	name:benzidine hydrochloride	normalName:benzidine hydrochloride	normalWikiTitle:benzidine hydrochloride	predictedType:Chemical
+CANDIDATE	id:1712	inCount:1	outCount:3	links:15764;11188	url:D001712	name:Hydrochloride, Biperiden	normalName:hydrochloride, biperiden	normalWikiTitle:hydrochloride, biperiden	predictedType:Chemical

@@ -1,0 +1,47 @@
+ENTITY	text:rheumatologic disease	normalName:rheumatologic disease	predictedType:disease	q:true	qid:Q407	docId:19037603	origText:rheumatologic disease	url:D012216
+CANDIDATE	id:12216	inCount:9	outCount:2	links:12216	url:D012216	name:Rheumatic Diseases	normalName:rheumatic diseases	normalWikiTitle:rheumatic diseases	predictedType:Disease
+CANDIDATE	id:6402	inCount:22	outCount:1	links:6402	url:D006402	name:Hematologic Diseases	normalName:hematologic diseases	normalWikiTitle:hematologic diseases	predictedType:Disease
+CANDIDATE	id:14570	inCount:9	outCount:2	links:14570	url:D014570	name:Urologic Diseases	normalName:urologic diseases	normalWikiTitle:urologic diseases	predictedType:Disease
+CANDIDATE	id:12214	inCount:0	outCount:2	links:12214	url:D012214	name:Rheumatic Heart Disease	normalName:rheumatic heart disease	normalWikiTitle:rheumatic heart disease	predictedType:Disease
+CANDIDATE	id:6450	inCount:0	outCount:1	links:6450	url:D006450	name:Hemoglobin SC Disease	normalName:hemoglobin sc disease	normalWikiTitle:hemoglobin sc disease	predictedType:Disease
+CANDIDATE	id:581942	inCount:0	outCount:1	links:581942	url:C581942	name:Hemoglobin M Disease	normalName:hemoglobin m disease	normalWikiTitle:hemoglobin m disease	predictedType:Disease
+CANDIDATE	id:6445	inCount:1	outCount:2	links:6445	url:D006445	name:Hemoglobin C Disease	normalName:hemoglobin c disease	normalWikiTitle:hemoglobin c disease	predictedType:Disease
+CANDIDATE	id:8659	inCount:23	outCount:1	links:8659	url:D008659	name:Metabolic Diseases	normalName:metabolic diseases	normalWikiTitle:metabolic diseases	predictedType:Disease
+CANDIDATE	id:7049	inCount:1	outCount:1	links:7049	url:D007049	name:Iatrogenic Disease	normalName:iatrogenic disease	normalWikiTitle:iatrogenic disease	predictedType:Disease
+CANDIDATE	id:10182	inCount:13	outCount:1	links:10182	url:D010182	name:Pancreatic Diseases	normalName:pancreatic diseases	normalWikiTitle:pancreatic diseases	predictedType:Disease
+CANDIDATE	id:6402	inCount:22	outCount:1	links:6402	url:D006402	name:Disease, Hematologic	normalName:disease, hematologic	normalWikiTitle:disease, hematologic	predictedType:Disease
+CANDIDATE	id:6402	inCount:22	outCount:1	links:6402	url:D006402	name:Hematologic Disease	normalName:hematologic disease	normalWikiTitle:hematologic disease	predictedType:Disease
+ENTITY	text:hepatitis B	normalName:hepatitis b	predictedType:disease	q:true	qid:Q407	docId:19037603	origText:hepatitis B	url:D006509
+CANDIDATE	id:6509	inCount:1	outCount:2	links:	url:D006509	name:Hepatitis B	normalName:hepatitis b	normalWikiTitle:hepatitis b	predictedType:Disease
+ENTITY	text:rheumatologic disorders	normalName:rheumatologic disorders	predictedType:disease	q:true	qid:Q407	docId:19037603	origText:rheumatologic disorders	url:D012216
+CANDIDATE	id:12216	inCount:9	outCount:2	links:12216	url:D012216	name:Rheumatic Diseases	normalName:rheumatic diseases	normalWikiTitle:rheumatic diseases	predictedType:Disease
+CANDIDATE	id:20141	inCount:11	outCount:2	links:	url:D020141	name:Hemostatic Disorders	normalName:hemostatic disorders	normalWikiTitle:hemostatic disorders	predictedType:Disease
+CANDIDATE	id:6402	inCount:22	outCount:1	links:6402	url:D006402	name:Hematologic Diseases	normalName:hematologic diseases	normalWikiTitle:hematologic diseases	predictedType:Disease
+CANDIDATE	id:6474	inCount:26	outCount:1	links:	url:D006474	name:Hemorrhagic Disorders	normalName:hemorrhagic disorders	normalWikiTitle:hemorrhagic disorders	predictedType:Disease
+CANDIDATE	id:20233	inCount:2	outCount:1	links:	url:D020233	name:Gait Disorders, Neurologic	normalName:gait disorders, neurologic	normalWikiTitle:gait disorders, neurologic	predictedType:Disease
+CANDIDATE	id:40921	inCount:5	outCount:1	links:	url:D040921	name:Stress Disorders, Traumatic	normalName:stress disorders, traumatic	normalWikiTitle:stress disorders, traumatic	predictedType:Disease
+CANDIDATE	id:9497	inCount:0	outCount:2	links:	url:D009497	name:Neurotic Disorders	normalName:neurotic disorders	normalWikiTitle:neurotic disorders	predictedType:Disease
+CANDIDATE	id:20967	inCount:3	outCount:1	links:	url:D020967	name:Myotonic Disorders	normalName:myotonic disorders	normalWikiTitle:myotonic disorders	predictedType:Disease
+CANDIDATE	id:10698	inCount:2	outCount:1	links:	url:D010698	name:Phobic Disorders	normalName:phobic disorders	normalWikiTitle:phobic disorders	predictedType:Disease
+CANDIDATE	id:13981	inCount:1	outCount:2	links:	url:D013981	name:Tic Disorders	normalName:tic disorders	normalWikiTitle:tic disorders	predictedType:Disease
+CANDIDATE	id:9422	inCount:27	outCount:1	links:	url:D009422	name:Neurologic Disorders	normalName:neurologic disorders	normalWikiTitle:neurologic disorders	predictedType:Disease
+CANDIDATE	id:9422	inCount:27	outCount:1	links:	url:D009422	name:Disorders, Neurologic	normalName:disorders, neurologic	normalWikiTitle:disorders, neurologic	predictedType:Disease
+CANDIDATE	id:6402	inCount:22	outCount:1	links:6402	url:D006402	name:Disease, Hematologic	normalName:disease, hematologic	normalWikiTitle:disease, hematologic	predictedType:Disease
+CANDIDATE	id:9422	inCount:27	outCount:1	links:	url:D009422	name:Disorder, Neurologic	normalName:disorder, neurologic	normalWikiTitle:disorder, neurologic	predictedType:Disease
+CANDIDATE	id:6402	inCount:22	outCount:1	links:6402	url:D006402	name:Hematologic Disease	normalName:hematologic disease	normalWikiTitle:hematologic disease	predictedType:Disease
+CANDIDATE	id:9422	inCount:27	outCount:1	links:	url:D009422	name:Neurologic Disorder	normalName:neurologic disorder	normalWikiTitle:neurologic disorder	predictedType:Disease
+CANDIDATE	id:9422	inCount:27	outCount:1	links:	url:D009422	name:Disorders, Neurological	normalName:disorders, neurological	normalWikiTitle:disorders, neurological	predictedType:Disease
+CANDIDATE	id:9422	inCount:27	outCount:1	links:	url:D009422	name:Neurological Disorders	normalName:neurological disorders	normalWikiTitle:neurological disorders	predictedType:Disease
+ENTITY	text:rheumatologic diseases	normalName:rheumatologic diseases	predictedType:disease	q:true	qid:Q407	docId:19037603	origText:rheumatologic diseases	url:D012216
+CANDIDATE	id:12216	inCount:9	outCount:2	links:12216	url:D012216	name:Rheumatic Diseases	normalName:rheumatic diseases	normalWikiTitle:rheumatic diseases	predictedType:Disease
+CANDIDATE	id:6402	inCount:22	outCount:1	links:6402	url:D006402	name:Hematologic Diseases	normalName:hematologic diseases	normalWikiTitle:hematologic diseases	predictedType:Disease
+CANDIDATE	id:14570	inCount:9	outCount:2	links:14570	url:D014570	name:Urologic Diseases	normalName:urologic diseases	normalWikiTitle:urologic diseases	predictedType:Disease
+CANDIDATE	id:12214	inCount:0	outCount:2	links:12214	url:D012214	name:Rheumatic Heart Disease	normalName:rheumatic heart disease	normalWikiTitle:rheumatic heart disease	predictedType:Disease
+CANDIDATE	id:6450	inCount:0	outCount:1	links:6450	url:D006450	name:Hemoglobin SC Disease	normalName:hemoglobin sc disease	normalWikiTitle:hemoglobin sc disease	predictedType:Disease
+CANDIDATE	id:581942	inCount:0	outCount:1	links:581942	url:C581942	name:Hemoglobin M Disease	normalName:hemoglobin m disease	normalWikiTitle:hemoglobin m disease	predictedType:Disease
+CANDIDATE	id:6445	inCount:1	outCount:2	links:6445	url:D006445	name:Hemoglobin C Disease	normalName:hemoglobin c disease	normalWikiTitle:hemoglobin c disease	predictedType:Disease
+CANDIDATE	id:8659	inCount:23	outCount:1	links:8659	url:D008659	name:Metabolic Diseases	normalName:metabolic diseases	normalWikiTitle:metabolic diseases	predictedType:Disease
+CANDIDATE	id:7049	inCount:1	outCount:1	links:7049	url:D007049	name:Iatrogenic Disease	normalName:iatrogenic disease	normalWikiTitle:iatrogenic disease	predictedType:Disease
+CANDIDATE	id:10182	inCount:13	outCount:1	links:10182	url:D010182	name:Pancreatic Diseases	normalName:pancreatic diseases	normalWikiTitle:pancreatic diseases	predictedType:Disease
+CANDIDATE	id:6402	inCount:22	outCount:1	links:6402	url:D006402	name:Disease, Hematologic	normalName:disease, hematologic	normalWikiTitle:disease, hematologic	predictedType:Disease
+CANDIDATE	id:6402	inCount:22	outCount:1	links:6402	url:D006402	name:Hematologic Disease	normalName:hematologic disease	normalWikiTitle:hematologic disease	predictedType:Disease

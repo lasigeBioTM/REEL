@@ -1,0 +1,6 @@
+ENTITY	text:CCK-8	normalName:cck-8	predictedType:chemical	q:true	qid:Q160	docId:24309294	origText:CCK-8	url:D012844
+CANDIDATE	id:12844	inCount:48	outCount:1	links:	url:D012844	name:CCK-8	normalName:cck-8	normalWikiTitle:cck-8	predictedType:Chemical
+ENTITY	text:morphine	normalName:morphine	predictedType:chemical	q:true	qid:Q160	docId:24309294	origText:morphine	url:D009020
+CANDIDATE	id:9020	inCount:13	outCount:1	links:	url:D009020	name:Morphine	normalName:morphine	normalWikiTitle:morphine	predictedType:Chemical
+ENTITY	text:Cholecystokinin-octapeptide	normalName:cholecystokinin-octapeptide	predictedType:chemical	q:true	qid:Q160	docId:24309294	origText:Cholecystokinin-octapeptide	url:D012844
+CANDIDATE	id:12844	inCount:48	outCount:1	links:	url:D012844	name:Cholecystokinin Octapeptide	normalName:cholecystokinin octapeptide	normalWikiTitle:cholecystokinin octapeptide	predictedType:Chemical

@@ -1,0 +1,72 @@
+ENTITY	text:peripheral nerve toxicity	normalName:peripheral nerve toxicity	predictedType:disease	q:true	qid:Q766	docId:18809400	origText:peripheral nerve toxicity	url:D010523
+CANDIDATE	id:10523	inCount:37	outCount:1	links:10523;20258;66126	url:D010523	name:Peripheral Nervous System Diseases	normalName:peripheral nervous system diseases	normalWikiTitle:peripheral nervous system diseases	predictedType:Disease
+CANDIDATE	id:59348	inCount:0	outCount:2	links:	url:D059348	name:Peripheral Nerve Injuries	normalName:peripheral nerve injuries	normalWikiTitle:peripheral nerve injuries	predictedType:Disease
+CANDIDATE	id:16491	inCount:8	outCount:1	links:	url:D016491	name:Peripheral Vascular Diseases	normalName:peripheral vascular diseases	normalWikiTitle:peripheral vascular diseases	predictedType:Disease
+CANDIDATE	id:10524	inCount:2	outCount:2	links:	url:D010524	name:Peripheral Nervous System Neoplasms	normalName:peripheral nervous system neoplasms	normalWikiTitle:peripheral nervous system neoplasms	predictedType:Disease
+CANDIDATE	id:15154	inCount:5	outCount:1	links:	url:D015154	name:Esophageal Motility Disorders	normalName:esophageal motility disorders	normalWikiTitle:esophageal motility disorders	predictedType:Disease
+CANDIDATE	id:18241	inCount:1	outCount:1	links:	url:D018241	name:Neuroectodermal Tumors, Primitive, Peripheral	normalName:neuroectodermal tumors, primitive, peripheral	normalWikiTitle:neuroectodermal tumors, primitive, peripheral	predictedType:Disease
+CANDIDATE	id:531667	inCount:0	outCount:1	links:	url:C531667	name:5 alpha Fluorouracil toxicity	normalName:5 alpha fluorouracil toxicity	normalWikiTitle:5 alpha fluorouracil toxicity	predictedType:Disease
+CANDIDATE	id:563813	inCount:0	outCount:1	links:	url:C563813	name:Peripheral Cone Dystrophy	normalName:peripheral cone dystrophy	normalWikiTitle:peripheral cone dystrophy	predictedType:Disease
+CANDIDATE	id:12213	inCount:3	outCount:3	links:	url:D012213	name:Rheumatic Fever	normalName:rheumatic fever	normalWikiTitle:rheumatic fever	predictedType:Disease
+CANDIDATE	id:16411	inCount:0	outCount:1	links:	url:D016411	name:Lymphoma, T-Cell, Peripheral	normalName:lymphoma, t-cell, peripheral	normalWikiTitle:lymphoma, t-cell, peripheral	predictedType:Disease
+CANDIDATE	id:10524	inCount:2	outCount:2	links:	url:D010524	name:Tumor, Peripheral Nerve	normalName:tumor, peripheral nerve	normalWikiTitle:tumor, peripheral nerve	predictedType:Disease
+CANDIDATE	id:10524	inCount:2	outCount:2	links:	url:D010524	name:Peripheral Nerve Tumor	normalName:peripheral nerve tumor	normalWikiTitle:peripheral nerve tumor	predictedType:Disease
+CANDIDATE	id:10524	inCount:2	outCount:2	links:	url:D010524	name:Nerve Tumor, Peripheral	normalName:nerve tumor, peripheral	normalWikiTitle:nerve tumor, peripheral	predictedType:Disease
+CANDIDATE	id:10524	inCount:2	outCount:2	links:	url:D010524	name:Tumors, Peripheral Nerve	normalName:tumors, peripheral nerve	normalWikiTitle:tumors, peripheral nerve	predictedType:Disease
+CANDIDATE	id:10524	inCount:2	outCount:2	links:	url:D010524	name:Peripheral Nerve Tumors	normalName:peripheral nerve tumors	normalWikiTitle:peripheral nerve tumors	predictedType:Disease
+CANDIDATE	id:10524	inCount:2	outCount:2	links:	url:D010524	name:Nerve Tumors, Peripheral	normalName:nerve tumors, peripheral	normalWikiTitle:nerve tumors, peripheral	predictedType:Disease
+CANDIDATE	id:18317	inCount:3	outCount:2	links:	url:D018317	name:Peripheral Nerve Sheath Tumors	normalName:peripheral nerve sheath tumors	normalWikiTitle:peripheral nerve sheath tumors	predictedType:Disease
+CANDIDATE	id:18317	inCount:3	outCount:2	links:	url:D018317	name:Nerve Sheath Tumors, Peripheral	normalName:nerve sheath tumors, peripheral	normalWikiTitle:nerve sheath tumors, peripheral	predictedType:Disease
+CANDIDATE	id:59348	inCount:0	outCount:2	links:	url:D059348	name:Nerve Injury, Peripheral	normalName:nerve injury, peripheral	normalWikiTitle:nerve injury, peripheral	predictedType:Disease
+CANDIDATE	id:59348	inCount:0	outCount:2	links:	url:D059348	name:Peripheral Nerve Injury	normalName:peripheral nerve injury	normalWikiTitle:peripheral nerve injury	predictedType:Disease
+ENTITY	text:mitochondrial damage	normalName:mitochondrial damage	predictedType:disease	q:true	qid:Q766	docId:18809400	origText:mitochondrial damage	url:D028361
+CANDIDATE	id:28361	inCount:64	outCount:1	links:28361;66126	url:D028361	name:Mitochondrial Disease	normalName:mitochondrial disease	normalWikiTitle:mitochondrial disease	predictedType:Disease
+CANDIDATE	id:28361	inCount:64	outCount:1	links:28361;66126	url:D028361	name:Mitochondrial Diseases	normalName:mitochondrial diseases	normalWikiTitle:mitochondrial diseases	predictedType:Disease
+CANDIDATE	id:540770	inCount:0	outCount:2	links:540770	url:C540770	name:Mitochondrial cytopathy	normalName:mitochondrial cytopathy	normalWikiTitle:mitochondrial cytopathy	predictedType:Disease
+CANDIDATE	id:17237	inCount:11	outCount:2	links:17237	url:D017237	name:Mitochondrial Encephalomyopathies	normalName:mitochondrial encephalomyopathies	normalWikiTitle:mitochondrial encephalomyopathies	predictedType:Disease
+CANDIDATE	id:538525	inCount:0	outCount:1	links:538525	url:C538525	name:Mitochondrial encephalopathy	normalName:mitochondrial encephalopathy	normalWikiTitle:mitochondrial encephalopathy	predictedType:Disease
+CANDIDATE	id:564015	inCount:0	outCount:2	links:564015	url:C564015	name:Parkinson Disease, Mitochondrial	normalName:parkinson disease, mitochondrial	normalWikiTitle:parkinson disease, mitochondrial	predictedType:Disease
+CANDIDATE	id:564026	inCount:0	outCount:2	links:564026	url:C564026	name:Mitochondrial Myopathy with Diabetes	normalName:mitochondrial myopathy with diabetes	normalWikiTitle:mitochondrial myopathy with diabetes	predictedType:Disease
+CANDIDATE	id:537475	inCount:0	outCount:1	links:537475	url:C537475	name:Mitochondrial complex I deficiency	normalName:mitochondrial complex i deficiency	normalWikiTitle:mitochondrial complex i deficiency	predictedType:Disease
+CANDIDATE	id:17240	inCount:20	outCount:2	links:17240	url:D017240	name:Mitochondrial Myopathies	normalName:mitochondrial myopathies	normalWikiTitle:mitochondrial myopathies	predictedType:Disease
+CANDIDATE	id:565375	inCount:0	outCount:2	links:565375	url:C565375	name:Mitochondrial Complex II Deficiency	normalName:mitochondrial complex ii deficiency	normalWikiTitle:mitochondrial complex ii deficiency	predictedType:Disease
+CANDIDATE	id:58496	inCount:1	outCount:3	links:	url:D058496	name:Smith-Magenis Syndrome	normalName:smith-magenis syndrome	normalWikiTitle:smith-magenis syndrome	predictedType:Disease
+CANDIDATE	id:28361	inCount:64	outCount:1	links:28361;66126	url:D028361	name:Disease, Mitochondrial	normalName:disease, mitochondrial	normalWikiTitle:disease, mitochondrial	predictedType:Disease
+ENTITY	text:neurotoxicity	normalName:neurotoxicity	predictedType:disease	q:true	qid:Q766	docId:18809400	origText:neurotoxicity	url:D020258
+CANDIDATE	id:20258	inCount:7	outCount:2	links:10523;66126	url:D020258	name:Neurotoxicity Syndromes	normalName:neurotoxicity syndromes	normalWikiTitle:neurotoxicity syndromes	predictedType:Disease
+CANDIDATE	id:66126	inCount:0	outCount:3	links:10523;66126;28361	url:D066126	name:Cardiotoxicity	normalName:cardiotoxicity	normalWikiTitle:cardiotoxicity	predictedType:Disease
+CANDIDATE	id:7246	inCount:2	outCount:2	links:	url:D007246	name:Infertility	normalName:infertility	normalWikiTitle:infertility	predictedType:Disease
+CANDIDATE	id:4767	inCount:0	outCount:2	links:	url:D004767	name:Enterotoxemia	normalName:enterotoxemia	normalWikiTitle:enterotoxemia	predictedType:Disease
+CANDIDATE	id:13971	inCount:2	outCount:1	links:	url:D013971	name:Thyrotoxicosis	normalName:thyrotoxicosis	normalWikiTitle:thyrotoxicosis	predictedType:Disease
+CANDIDATE	id:9902	inCount:1	outCount:1	links:	url:D009902	name:Optic Neuritis	normalName:optic neuritis	normalWikiTitle:optic neuritis	predictedType:Disease
+CANDIDATE	id:20426	inCount:2	outCount:1	links:	url:D020426	name:Sciatic Neuropathy	normalName:sciatic neuropathy	normalWikiTitle:sciatic neuropathy	predictedType:Disease
+CANDIDATE	id:18306	inCount:0	outCount:2	links:	url:D018306	name:Neurocytoma	normalName:neurocytoma	normalWikiTitle:neurocytoma	predictedType:Disease
+CANDIDATE	id:20019	inCount:0	outCount:2	links:	url:D020019	name:Neurocysticercosis	normalName:neurocysticercosis	normalWikiTitle:neurocysticercosis	predictedType:Disease
+CANDIDATE	id:9443	inCount:2	outCount:1	links:	url:D009443	name:Neuritis	normalName:neuritis	normalWikiTitle:neuritis	predictedType:Disease
+ENTITY	text:peripheral neuropathy	normalName:peripheral neuropathy	predictedType:disease	q:true	qid:Q766	docId:18809400	origText:peripheral neuropathy	url:D010523
+CANDIDATE	id:10523	inCount:37	outCount:1	links:10523;20258;66126	url:D010523	name:Peripheral Neuropathy	normalName:peripheral neuropathy	normalWikiTitle:peripheral neuropathy	predictedType:Disease
+ENTITY	text:mitochondrial toxicity	normalName:mitochondrial toxicity	predictedType:disease	q:true	qid:Q766	docId:18809400	origText:mitochondrial toxicity	url:D028361
+CANDIDATE	id:28361	inCount:64	outCount:1	links:28361;66126	url:D028361	name:Mitochondrial Diseases	normalName:mitochondrial diseases	normalWikiTitle:mitochondrial diseases	predictedType:Disease
+CANDIDATE	id:17240	inCount:20	outCount:2	links:17240	url:D017240	name:Mitochondrial Myopathies	normalName:mitochondrial myopathies	normalWikiTitle:mitochondrial myopathies	predictedType:Disease
+CANDIDATE	id:66126	inCount:0	outCount:3	links:10523;66126;28361	url:D066126	name:Cardiotoxicity	normalName:cardiotoxicity	normalWikiTitle:cardiotoxicity	predictedType:Disease
+CANDIDATE	id:562938	inCount:0	outCount:3	links:	url:C562938	name:Metachondromatosis	normalName:metachondromatosis	normalWikiTitle:metachondromatosis	predictedType:Disease
+CANDIDATE	id:18216	inCount:1	outCount:1	links:	url:D018216	name:Osteochondromatosis	normalName:osteochondromatosis	normalWikiTitle:osteochondromatosis	predictedType:Disease
+CANDIDATE	id:10007	inCount:4	outCount:2	links:	url:D010007	name:Osteochondritis	normalName:osteochondritis	normalWikiTitle:osteochondritis	predictedType:Disease
+CANDIDATE	id:564026	inCount:0	outCount:2	links:564026	url:C564026	name:Mitochondrial Myopathy with Diabetes	normalName:mitochondrial myopathy with diabetes	normalWikiTitle:mitochondrial myopathy with diabetes	predictedType:Disease
+CANDIDATE	id:3318	inCount:9	outCount:1	links:	url:D003318	name:Corneal Opacity	normalName:corneal opacity	normalWikiTitle:corneal opacity	predictedType:Disease
+CANDIDATE	id:540770	inCount:0	outCount:2	links:540770	url:C540770	name:Mitochondrial cytopathy	normalName:mitochondrial cytopathy	normalWikiTitle:mitochondrial cytopathy	predictedType:Disease
+CANDIDATE	id:564015	inCount:0	outCount:2	links:564015	url:C564015	name:Parkinson Disease, Mitochondrial	normalName:parkinson disease, mitochondrial	normalWikiTitle:parkinson disease, mitochondrial	predictedType:Disease
+CANDIDATE	id:17240	inCount:20	outCount:2	links:17240	url:D017240	name:Mitochondrial Myopathy	normalName:mitochondrial myopathy	normalWikiTitle:mitochondrial myopathy	predictedType:Disease
+ENTITY	text:mitochondrial impairment	normalName:mitochondrial impairment	predictedType:disease	q:true	qid:Q766	docId:18809400	origText:mitochondrial impairment	url:D028361
+CANDIDATE	id:28361	inCount:64	outCount:1	links:28361;66126	url:D028361	name:Mitochondrial Disease	normalName:mitochondrial disease	normalWikiTitle:mitochondrial disease	predictedType:Disease
+CANDIDATE	id:28361	inCount:64	outCount:1	links:28361;66126	url:D028361	name:Mitochondrial Diseases	normalName:mitochondrial diseases	normalWikiTitle:mitochondrial diseases	predictedType:Disease
+CANDIDATE	id:540770	inCount:0	outCount:2	links:540770	url:C540770	name:Mitochondrial cytopathy	normalName:mitochondrial cytopathy	normalWikiTitle:mitochondrial cytopathy	predictedType:Disease
+CANDIDATE	id:17237	inCount:11	outCount:2	links:17237	url:D017237	name:Mitochondrial Encephalomyopathies	normalName:mitochondrial encephalomyopathies	normalWikiTitle:mitochondrial encephalomyopathies	predictedType:Disease
+CANDIDATE	id:537475	inCount:0	outCount:1	links:537475	url:C537475	name:Mitochondrial complex I deficiency	normalName:mitochondrial complex i deficiency	normalWikiTitle:mitochondrial complex i deficiency	predictedType:Disease
+CANDIDATE	id:538525	inCount:0	outCount:1	links:538525	url:C538525	name:Mitochondrial encephalopathy	normalName:mitochondrial encephalopathy	normalWikiTitle:mitochondrial encephalopathy	predictedType:Disease
+CANDIDATE	id:565375	inCount:0	outCount:2	links:565375	url:C565375	name:Mitochondrial Complex II Deficiency	normalName:mitochondrial complex ii deficiency	normalWikiTitle:mitochondrial complex ii deficiency	predictedType:Disease
+CANDIDATE	id:565128	inCount:1	outCount:1	links:	url:C565128	name:Mitochondrial Complex III Deficiency	normalName:mitochondrial complex iii deficiency	normalWikiTitle:mitochondrial complex iii deficiency	predictedType:Disease
+CANDIDATE	id:564015	inCount:0	outCount:2	links:564015	url:C564015	name:Parkinson Disease, Mitochondrial	normalName:parkinson disease, mitochondrial	normalWikiTitle:parkinson disease, mitochondrial	predictedType:Disease
+CANDIDATE	id:564026	inCount:0	outCount:2	links:564026	url:C564026	name:Mitochondrial Myopathy with Diabetes	normalName:mitochondrial myopathy with diabetes	normalWikiTitle:mitochondrial myopathy with diabetes	predictedType:Disease
+CANDIDATE	id:564017	inCount:0	outCount:1	links:	url:C564017	name:Myopathy, Mitochondrial, Lethal Infantile	normalName:myopathy, mitochondrial, lethal infantile	normalWikiTitle:myopathy, mitochondrial, lethal infantile	predictedType:Disease
+CANDIDATE	id:28361	inCount:64	outCount:1	links:28361;66126	url:D028361	name:Disease, Mitochondrial	normalName:disease, mitochondrial	normalWikiTitle:disease, mitochondrial	predictedType:Disease

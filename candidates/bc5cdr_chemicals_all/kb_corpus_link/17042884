@@ -1,0 +1,6 @@
+ENTITY	text:haloperidol	normalName:haloperidol	predictedType:chemical	q:true	qid:Q280	docId:17042884	origText:haloperidol	url:D006220
+CANDIDATE	id:6220	inCount:24	outCount:1	links:8094;14635	url:D006220	name:Haloperidol	normalName:haloperidol	normalWikiTitle:haloperidol	predictedType:Chemical
+ENTITY	text:divalproex	normalName:divalproex	predictedType:chemical	q:true	qid:Q280	docId:17042884	origText:divalproex	url:D014635
+CANDIDATE	id:14635	inCount:43	outCount:1	links:6220;8094	url:D014635	name:Divalproex	normalName:divalproex	normalWikiTitle:divalproex	predictedType:Chemical
+ENTITY	text:lithium	normalName:lithium	predictedType:chemical	q:true	qid:Q280	docId:17042884	origText:lithium	url:D008094
+CANDIDATE	id:8094	inCount:15	outCount:2	links:6220;14635	url:D008094	name:Lithium	normalName:lithium	normalWikiTitle:lithium	predictedType:Chemical

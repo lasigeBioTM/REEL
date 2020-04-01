@@ -1,0 +1,10 @@
+ENTITY	text:bepridil	normalName:bepridil	predictedType:chemical	q:true	qid:Q399	docId:8231633	origText:bepridil	url:D015764
+CANDIDATE	id:15764	inCount:3	outCount:1	links:	url:D015764	name:Bepridil	normalName:bepridil	normalWikiTitle:bepridil	predictedType:Chemical
+ENTITY	text:calcium	normalName:calcium	predictedType:chemical	q:true	qid:Q399	docId:8231633	origText:calcium	url:D002118
+CANDIDATE	id:2118	inCount:11	outCount:2	links:	url:D002118	name:Calcium	normalName:calcium	normalWikiTitle:calcium	predictedType:Chemical
+ENTITY	text:verapamil	normalName:verapamil	predictedType:chemical	q:true	qid:Q399	docId:8231633	origText:verapamil	url:D014700
+CANDIDATE	id:14700	inCount:37	outCount:1	links:	url:D014700	name:Verapamil	normalName:verapamil	normalWikiTitle:verapamil	predictedType:Chemical
+ENTITY	text:diltiazem	normalName:diltiazem	predictedType:chemical	q:true	qid:Q399	docId:8231633	origText:diltiazem	url:D004110
+CANDIDATE	id:4110	inCount:19	outCount:1	links:	url:D004110	name:Diltiazem	normalName:diltiazem	normalWikiTitle:diltiazem	predictedType:Chemical
+ENTITY	text:bupivacaine	normalName:bupivacaine	predictedType:chemical	q:true	qid:Q399	docId:8231633	origText:bupivacaine	url:D002045
+CANDIDATE	id:2045	inCount:4	outCount:1	links:	url:D002045	name:Bupivacaine	normalName:bupivacaine	normalWikiTitle:bupivacaine	predictedType:Chemical

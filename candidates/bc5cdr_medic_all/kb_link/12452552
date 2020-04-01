@@ -1,0 +1,6 @@
+ENTITY	text:Neuroleptic malignant syndrome	normalName:neuroleptic malignant syndrome	predictedType:disease	q:true	qid:Q59	docId:12452552	origText:Neuroleptic malignant syndrome	url:D009459
+CANDIDATE	id:9459	inCount:0	outCount:2	links:	url:D009459	name:Neuroleptic Malignant Syndrome	normalName:neuroleptic malignant syndrome	normalWikiTitle:neuroleptic malignant syndrome	predictedType:Disease
+ENTITY	text:bleeding	normalName:bleeding	predictedType:disease	q:true	qid:Q59	docId:12452552	origText:bleeding	url:D006470
+CANDIDATE	id:6470	inCount:31	outCount:1	links:	url:D006470	name:Bleeding	normalName:bleeding	normalWikiTitle:bleeding	predictedType:Disease
+ENTITY	text:chronic renal failure	normalName:chronic renal failure	predictedType:disease	q:true	qid:Q59	docId:12452552	origText:chronic renal failure	url:D007676
+CANDIDATE	id:7676	inCount:3	outCount:1	links:	url:D007676	name:Chronic Renal Failure	normalName:chronic renal failure	normalWikiTitle:chronic renal failure	predictedType:Disease

@@ -1,0 +1,13 @@
+ENTITY	text:amnesic	normalName:amnesic	predictedType:disease	q:true	qid:Q71	docId:9495837	origText:amnesic	url:D000647
+CANDIDATE	id:647	inCount:4	outCount:2	links:	url:D000647	name:Amnesia	normalName:amnesia	normalWikiTitle:amnesia	predictedType:Disease
+CANDIDATE	id:562	inCount:6	outCount:1	links:	url:D000562	name:Amebiasis	normalName:amebiasis	normalWikiTitle:amebiasis	predictedType:Disease
+CANDIDATE	id:740	inCount:14	outCount:1	links:	url:D000740	name:Anemia	normalName:anemia	normalWikiTitle:anemia	predictedType:Disease
+CANDIDATE	id:562989	inCount:0	outCount:1	links:	url:C562989	name:Amastia	normalName:amastia	normalWikiTitle:amastia	predictedType:Disease
+CANDIDATE	id:17543	inCount:0	outCount:1	links:	url:D017543	name:Iliac Aneurysm	normalName:iliac aneurysm	normalWikiTitle:iliac aneurysm	predictedType:Disease
+CANDIDATE	id:370	inCount:0	outCount:1	links:	url:D000370	name:Ageusia	normalName:ageusia	normalWikiTitle:ageusia	predictedType:Disease
+CANDIDATE	id:10291	inCount:3	outCount:1	links:	url:D010291	name:Paresis	normalName:paresis	normalWikiTitle:paresis	predictedType:Disease
+CANDIDATE	id:377	inCount:3	outCount:1	links:	url:D000377	name:Agnosia	normalName:agnosia	normalWikiTitle:agnosia	predictedType:Disease
+CANDIDATE	id:8989	inCount:0	outCount:2	links:	url:D008989	name:Monieziasis	normalName:monieziasis	normalWikiTitle:monieziasis	predictedType:Disease
+CANDIDATE	id:17699	inCount:3	outCount:1	links:	url:D017699	name:Pelvic Pain	normalName:pelvic pain	normalWikiTitle:pelvic pain	predictedType:Disease
+ENTITY	text:amnesia	normalName:amnesia	predictedType:disease	q:true	qid:Q71	docId:9495837	origText:amnesia	url:D000647
+CANDIDATE	id:647	inCount:4	outCount:2	links:	url:D000647	name:Amnesia	normalName:amnesia	normalWikiTitle:amnesia	predictedType:Disease

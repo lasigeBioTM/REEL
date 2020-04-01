@@ -1,0 +1,6 @@
+ENTITY	text:cimetidine	normalName:cimetidine	predictedType:chemical	q:true	qid:Q168	docId:2021990	origText:cimetidine	url:D002927
+CANDIDATE	id:2927	inCount:14	outCount:2	links:	url:D002927	name:Cimetidine	normalName:cimetidine	normalWikiTitle:cimetidine	predictedType:Chemical
+ENTITY	text:histamine	normalName:histamine	predictedType:chemical	q:true	qid:Q168	docId:2021990	origText:histamine	url:D006632
+CANDIDATE	id:6632	inCount:55	outCount:4	links:	url:D006632	name:Histamine	normalName:histamine	normalWikiTitle:histamine	predictedType:Chemical
+ENTITY	text:Diphenhydramine	normalName:diphenhydramine	predictedType:chemical	q:true	qid:Q168	docId:2021990	origText:Diphenhydramine	url:D004155
+CANDIDATE	id:4155	inCount:23	outCount:2	links:	url:D004155	name:Diphenhydramine	normalName:diphenhydramine	normalWikiTitle:diphenhydramine	predictedType:Chemical

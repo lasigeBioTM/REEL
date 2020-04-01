@@ -1,0 +1,19 @@
+ENTITY	text:bicuspid aortic valve	normalName:bicuspid aortic valve	predictedType:disease	q:true	qid:Q351	docId:9867728	origText:bicuspid aortic valve	url:C562388
+CANDIDATE	id:562388	inCount:1	outCount:1	links:	url:C562388	name:Bicuspid Aortic Valve	normalName:bicuspid aortic valve	normalWikiTitle:bicuspid aortic valve	predictedType:Disease
+ENTITY	text:aortic insufficiency	normalName:aortic insufficiency	predictedType:disease	q:true	qid:Q351	docId:9867728	origText:aortic insufficiency	url:D001022
+CANDIDATE	id:1022	inCount:0	outCount:1	links:	url:D001022	name:Aortic Valve Insufficiency	normalName:aortic valve insufficiency	normalWikiTitle:aortic valve insufficiency	predictedType:Disease
+CANDIDATE	id:48550	inCount:1	outCount:1	links:	url:D048550	name:Hepatic Insufficiency	normalName:hepatic insufficiency	normalWikiTitle:hepatic insufficiency	predictedType:Disease
+CANDIDATE	id:309	inCount:18	outCount:1	links:	url:D000309	name:Adrenal Insufficiency	normalName:adrenal insufficiency	normalWikiTitle:adrenal insufficiency	predictedType:Disease
+CANDIDATE	id:51436	inCount:1	outCount:1	links:	url:D051436	name:Renal Insufficiency, Chronic	normalName:renal insufficiency, chronic	normalWikiTitle:renal insufficiency, chronic	predictedType:Disease
+CANDIDATE	id:51437	inCount:10	outCount:1	links:	url:D051437	name:Renal Insufficiency	normalName:renal insufficiency	normalWikiTitle:renal insufficiency	predictedType:Disease
+CANDIDATE	id:14689	inCount:3	outCount:1	links:	url:D014689	name:Venous Insufficiency	normalName:venous insufficiency	normalWikiTitle:venous insufficiency	predictedType:Disease
+CANDIDATE	id:531633	inCount:0	outCount:1	links:	url:C531633	name:Biotin deficiency	normalName:biotin deficiency	normalWikiTitle:biotin deficiency	predictedType:Disease
+CANDIDATE	id:566130	inCount:0	outCount:1	links:	url:C566130	name:Adrenal Insufficiency, Congenital	normalName:adrenal insufficiency, congenital	normalWikiTitle:adrenal insufficiency, congenital	predictedType:Disease
+CANDIDATE	id:1206	inCount:1	outCount:1	links:	url:D001206	name:Ascorbic Acid Deficiency	normalName:ascorbic acid deficiency	normalWikiTitle:ascorbic acid deficiency	predictedType:Disease
+CANDIDATE	id:10188	inCount:3	outCount:1	links:	url:D010188	name:Exocrine Pancreatic Insufficiency	normalName:exocrine pancreatic insufficiency	normalWikiTitle:exocrine pancreatic insufficiency	predictedType:Disease
+ENTITY	text:valvular heart disease	normalName:valvular heart disease	predictedType:disease	q:true	qid:Q351	docId:9867728	origText:valvular heart disease	url:D006349
+CANDIDATE	id:6349	inCount:17	outCount:1	links:	url:D006349	name:Disease, Valvular Heart	normalName:disease, valvular heart	normalWikiTitle:disease, valvular heart	predictedType:Disease
+ENTITY	text:mitral regurgitation	normalName:mitral regurgitation	predictedType:disease	q:true	qid:Q351	docId:9867728	origText:mitral regurgitation	url:D008944
+CANDIDATE	id:8944	inCount:1	outCount:1	links:	url:D008944	name:Mitral Regurgitation	normalName:mitral regurgitation	normalWikiTitle:mitral regurgitation	predictedType:Disease
+ENTITY	text:aortic regurgitation	normalName:aortic regurgitation	predictedType:disease	q:true	qid:Q351	docId:9867728	origText:aortic regurgitation	url:D001022
+CANDIDATE	id:1022	inCount:0	outCount:1	links:	url:D001022	name:Aortic Regurgitation	normalName:aortic regurgitation	normalWikiTitle:aortic regurgitation	predictedType:Disease

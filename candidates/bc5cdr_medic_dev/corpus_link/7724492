@@ -1,0 +1,6 @@
+ENTITY	text:nephrosis	normalName:nephrosis	predictedType:disease	q:true	qid:Q430	docId:7724492	origText:nephrosis	url:D009401
+CANDIDATE	id:9401	inCount:8	outCount:1	links:11507	url:D009401	name:Nephrosis	normalName:nephrosis	normalWikiTitle:nephrosis	predictedType:Disease
+ENTITY	text:glomerulonephritis	normalName:glomerulonephritis	predictedType:disease	q:true	qid:Q430	docId:7724492	origText:glomerulonephritis	url:D005921
+CANDIDATE	id:5921	inCount:11	outCount:1	links:11507	url:D005921	name:Glomerulonephritis	normalName:glomerulonephritis	normalWikiTitle:glomerulonephritis	predictedType:Disease
+ENTITY	text:proteinuria	normalName:proteinuria	predictedType:disease	q:true	qid:Q430	docId:7724492	origText:proteinuria	url:D011507
+CANDIDATE	id:11507	inCount:4	outCount:2	links:9401;5921	url:D011507	name:Proteinuria	normalName:proteinuria	normalWikiTitle:proteinuria	predictedType:Disease

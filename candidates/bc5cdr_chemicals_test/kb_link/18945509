@@ -1,0 +1,10 @@
+ENTITY	text:gliclazide	normalName:gliclazide	predictedType:chemical	q:true	qid:Q219	docId:18945509	origText:gliclazide	url:D005907
+CANDIDATE	id:5907	inCount:1	outCount:1	links:	url:D005907	name:Gliclazide	normalName:gliclazide	normalWikiTitle:gliclazide	predictedType:Chemical
+ENTITY	text:metformin	normalName:metformin	predictedType:chemical	q:true	qid:Q219	docId:18945509	origText:metformin	url:D008687
+CANDIDATE	id:8687	inCount:8	outCount:1	links:	url:D008687	name:Metformin	normalName:metformin	normalWikiTitle:metformin	predictedType:Chemical
+ENTITY	text:glimepiride	normalName:glimepiride	predictedType:chemical	q:true	qid:Q219	docId:18945509	origText:glimepiride	url:C057619
+CANDIDATE	id:57619	inCount:0	outCount:1	links:	url:C057619	name:glimepiride	normalName:glimepiride	normalWikiTitle:glimepiride	predictedType:Chemical
+ENTITY	text:glibenclamide	normalName:glibenclamide	predictedType:chemical	q:true	qid:Q219	docId:18945509	origText:glibenclamide	url:D005905
+CANDIDATE	id:5905	inCount:11	outCount:1	links:	url:D005905	name:Glibenclamide	normalName:glibenclamide	normalWikiTitle:glibenclamide	predictedType:Chemical
+ENTITY	text:glipizide	normalName:glipizide	predictedType:chemical	q:true	qid:Q219	docId:18945509	origText:glipizide	url:D005913
+CANDIDATE	id:5913	inCount:1	outCount:1	links:	url:D005913	name:Glipizide	normalName:glipizide	normalWikiTitle:glipizide	predictedType:Chemical

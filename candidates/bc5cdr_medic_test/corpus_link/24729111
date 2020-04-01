@@ -1,0 +1,10 @@
+ENTITY	text:thyroid disease	normalName:thyroid disease	predictedType:disease	q:true	qid:Q421	docId:24729111	origText:thyroid disease	url:D013959
+CANDIDATE	id:13959	inCount:13	outCount:1	links:	url:D013959	name:Thyroid Disease	normalName:thyroid disease	normalWikiTitle:thyroid disease	predictedType:Disease
+ENTITY	text:atrial fibrillation	normalName:atrial fibrillation	predictedType:disease	q:true	qid:Q421	docId:24729111	origText:atrial fibrillation	url:D001281
+CANDIDATE	id:1281	inCount:16	outCount:1	links:	url:D001281	name:Atrial Fibrillation	normalName:atrial fibrillation	normalWikiTitle:atrial fibrillation	predictedType:Disease
+ENTITY	text:bradycardia	normalName:bradycardia	predictedType:disease	q:true	qid:Q421	docId:24729111	origText:bradycardia	url:D001919
+CANDIDATE	id:1919	inCount:0	outCount:1	links:12131;7035	url:D001919	name:Bradycardia	normalName:bradycardia	normalWikiTitle:bradycardia	predictedType:Disease
+ENTITY	text:respiratory failure	normalName:respiratory failure	predictedType:disease	q:true	qid:Q421	docId:24729111	origText:respiratory failure	url:D012131
+CANDIDATE	id:12131	inCount:13	outCount:1	links:1919;7035	url:D012131	name:Respiratory Failure	normalName:respiratory failure	normalWikiTitle:respiratory failure	predictedType:Disease
+ENTITY	text:hypothermia	normalName:hypothermia	predictedType:disease	q:true	qid:Q421	docId:24729111	origText:hypothermia	url:D007035
+CANDIDATE	id:7035	inCount:2	outCount:1	links:1919;12131	url:D007035	name:Hypothermia	normalName:hypothermia	normalWikiTitle:hypothermia	predictedType:Disease

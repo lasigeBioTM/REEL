@@ -1,0 +1,6 @@
+ENTITY	text:metoprolol	normalName:metoprolol	predictedType:chemical	q:true	qid:Q423	docId:11079278	origText:metoprolol	url:D008790
+CANDIDATE	id:8790	inCount:9	outCount:1	links:	url:D008790	name:Metoprolol	normalName:metoprolol	normalWikiTitle:metoprolol	predictedType:Chemical
+ENTITY	text:technetium-99m sestamibi	normalName:technetium-99m sestamibi	predictedType:chemical	q:true	qid:Q423	docId:11079278	origText:technetium-99m sestamibi	url:D017256
+CANDIDATE	id:17256	inCount:1	outCount:2	links:	url:D017256	name:Technetium-99m-Sestamibi	normalName:technetium-99m-sestamibi	normalWikiTitle:technetium-99m-sestamibi	predictedType:Chemical
+ENTITY	text:dobutamine	normalName:dobutamine	predictedType:chemical	q:true	qid:Q423	docId:11079278	origText:dobutamine	url:D004280
+CANDIDATE	id:4280	inCount:2	outCount:2	links:	url:D004280	name:Dobutamine	normalName:dobutamine	normalWikiTitle:dobutamine	predictedType:Chemical

@@ -1,0 +1,25 @@
+ENTITY	text:malignant hyperthermia	normalName:malignant hyperthermia	predictedType:disease	q:true	qid:Q94	docId:12699527	origText:malignant hyperthermia	url:D008305
+CANDIDATE	id:8305	inCount:11	outCount:2	links:	url:D008305	name:Malignant Hyperthermia	normalName:malignant hyperthermia	normalWikiTitle:malignant hyperthermia	predictedType:Disease
+ENTITY	text:myotonia congenita	normalName:myotonia congenita	predictedType:disease	q:true	qid:Q94	docId:12699527	origText:myotonia congenita	url:D009224
+CANDIDATE	id:9224	inCount:5	outCount:2	links:9224	url:D009224	name:Myotonia Congenita	normalName:myotonia congenita	normalWikiTitle:myotonia congenita	predictedType:Disease
+ENTITY	text:myotonic condition	normalName:myotonic condition	predictedType:disease	q:true	qid:Q94	docId:12699527	origText:myotonic condition	url:D020967
+CANDIDATE	id:20967	inCount:3	outCount:1	links:20967	url:D020967	name:Myotonic Disorders	normalName:myotonic disorders	normalWikiTitle:myotonic disorders	predictedType:Disease
+CANDIDATE	id:9224	inCount:5	outCount:2	links:9224	url:D009224	name:Myotonia Congenita	normalName:myotonia congenita	normalWikiTitle:myotonia congenita	predictedType:Disease
+CANDIDATE	id:9223	inCount:1	outCount:3	links:	url:D009223	name:Myotonic Dystrophy	normalName:myotonic dystrophy	normalWikiTitle:myotonic dystrophy	predictedType:Disease
+CANDIDATE	id:536096	inCount:0	outCount:1	links:	url:C536096	name:Myoclonic dystonia	normalName:myoclonic dystonia	normalWikiTitle:myoclonic dystonia	predictedType:Disease
+CANDIDATE	id:3251	inCount:8	outCount:1	links:	url:D003251	name:Constriction, Pathologic	normalName:constriction, pathologic	normalWikiTitle:constriction, pathologic	predictedType:Disease
+CANDIDATE	id:536895	inCount:0	outCount:1	links:	url:C536895	name:Talonavicular coalition	normalName:talonavicular coalition	normalWikiTitle:talonavicular coalition	predictedType:Disease
+CANDIDATE	id:538002	inCount:0	outCount:1	links:	url:C538002	name:Dystonia 15, myoclonic	normalName:dystonia 15, myoclonic	normalWikiTitle:dystonia 15, myoclonic	predictedType:Disease
+CANDIDATE	id:71956	inCount:1	outCount:2	links:	url:D000071956	name:Myocardial Contusions	normalName:myocardial contusions	normalWikiTitle:myocardial contusions	predictedType:Disease
+CANDIDATE	id:563241	inCount:0	outCount:1	links:	url:C563241	name:Chronic Motor Tics	normalName:chronic motor tics	normalWikiTitle:chronic motor tics	predictedType:Disease
+CANDIDATE	id:18979	inCount:5	outCount:1	links:	url:D018979	name:Myositis, Inclusion Body	normalName:myositis, inclusion body	normalWikiTitle:myositis, inclusion body	predictedType:Disease
+CANDIDATE	id:9135	inCount:77	outCount:2	links:	url:D009135	name:Myopathic Condition	normalName:myopathic condition	normalWikiTitle:myopathic condition	predictedType:Disease
+CANDIDATE	id:9135	inCount:77	outCount:2	links:	url:D009135	name:Myopathic Conditions	normalName:myopathic conditions	normalWikiTitle:myopathic conditions	predictedType:Disease
+ENTITY	text:Myotonia	normalName:myotonia	predictedType:disease	q:true	qid:Q94	docId:12699527	origText:Myotonia	url:D009222
+CANDIDATE	id:9222	inCount:2	outCount:1	links:	url:D009222	name:Myotonia	normalName:myotonia	normalWikiTitle:myotonia	predictedType:Disease
+ENTITY	text:myotonic disorders	normalName:myotonic disorders	predictedType:disease	q:true	qid:Q94	docId:12699527	origText:myotonic disorders	url:D020967
+CANDIDATE	id:20967	inCount:3	outCount:1	links:20967	url:D020967	name:Myotonic Disorders	normalName:myotonic disorders	normalWikiTitle:myotonic disorders	predictedType:Disease
+ENTITY	text:muscle spasms	normalName:muscle spasms	predictedType:disease	q:true	qid:Q94	docId:12699527	origText:muscle spasms	url:D013035
+CANDIDATE	id:13035	inCount:5	outCount:1	links:13035	url:D013035	name:Muscle Spasm	normalName:muscle spasm	normalWikiTitle:muscle spasm	predictedType:Disease
+ENTITY	text:muscle spasm	normalName:muscle spasm	predictedType:disease	q:true	qid:Q94	docId:12699527	origText:muscle spasm	url:D013035
+CANDIDATE	id:13035	inCount:5	outCount:1	links:13035	url:D013035	name:Muscle Spasm	normalName:muscle spasm	normalWikiTitle:muscle spasm	predictedType:Disease

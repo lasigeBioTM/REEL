@@ -1,0 +1,30 @@
+ENTITY	text:Hypotension	normalName:hypotension	predictedType:disease	q:true	qid:Q31	docId:11198499	origText:Hypotension	url:D007022
+CANDIDATE	id:7022	inCount:3	outCount:1	links:66126;6973;1201	url:D007022	name:Hypotension	normalName:hypotension	normalWikiTitle:hypotension	predictedType:Disease
+ENTITY	text:disorders of the central nervous system	normalName:disorders of the central nervous system	predictedType:disease	q:true	qid:Q31	docId:11198499	origText:disorders of the central nervous system	url:D002493
+CANDIDATE	id:2493	inCount:15	outCount:1	links:	url:D002493	name:Central Nervous System Disorders	normalName:central nervous system disorders	normalWikiTitle:central nervous system disorders	predictedType:Disease
+CANDIDATE	id:2493	inCount:15	outCount:1	links:	url:D002493	name:Central Nervous System Diseases	normalName:central nervous system diseases	normalWikiTitle:central nervous system diseases	predictedType:Disease
+CANDIDATE	id:20805	inCount:7	outCount:2	links:	url:D020805	name:Central Nervous System Viral Diseases	normalName:central nervous system viral diseases	normalWikiTitle:central nervous system viral diseases	predictedType:Disease
+CANDIDATE	id:20863	inCount:5	outCount:2	links:	url:D020863	name:Central Nervous System Cysts	normalName:central nervous system cysts	normalWikiTitle:central nervous system cysts	predictedType:Disease
+CANDIDATE	id:2494	inCount:12	outCount:2	links:	url:D002494	name:Central Nervous System Infections	normalName:central nervous system infections	normalWikiTitle:central nervous system infections	predictedType:Disease
+CANDIDATE	id:20274	inCount:13	outCount:2	links:	url:D020274	name:Autoimmune Diseases of the Nervous System	normalName:autoimmune diseases of the nervous system	normalWikiTitle:autoimmune diseases of the nervous system	predictedType:Disease
+CANDIDATE	id:537295	inCount:0	outCount:1	links:	url:C537295	name:Granulomatous Angiitis of the Central Nervous System	normalName:granulomatous angiitis of the central nervous system	normalWikiTitle:granulomatous angiitis of the central nervous system	predictedType:Disease
+CANDIDATE	id:16543	inCount:4	outCount:1	links:	url:D016543	name:Central Nervous System Neoplasms	normalName:central nervous system neoplasms	normalWikiTitle:central nervous system neoplasms	predictedType:Disease
+CANDIDATE	id:20809	inCount:2	outCount:1	links:	url:D020809	name:Central Nervous System Helminthiasis	normalName:central nervous system helminthiasis	normalWikiTitle:central nervous system helminthiasis	predictedType:Disease
+CANDIDATE	id:20808	inCount:3	outCount:2	links:	url:D020808	name:Central Nervous System Protozoal Infections	normalName:central nervous system protozoal infections	normalWikiTitle:central nervous system protozoal infections	predictedType:Disease
+CANDIDATE	id:20306	inCount:2	outCount:2	links:	url:D020306	name:Tuberculosis, Central Nervous System	normalName:tuberculosis, central nervous system	normalWikiTitle:tuberculosis, central nervous system	predictedType:Disease
+CANDIDATE	id:1342	inCount:11	outCount:1	links:	url:D001342	name:Disorders of the Autonomic Nervous System	normalName:disorders of the autonomic nervous system	normalWikiTitle:disorders of the autonomic nervous system	predictedType:Disease
+CANDIDATE	id:20274	inCount:13	outCount:2	links:	url:D020274	name:Autoimmune Disorders of the Nervous System	normalName:autoimmune disorders of the nervous system	normalWikiTitle:autoimmune disorders of the nervous system	predictedType:Disease
+ENTITY	text:spasticity	normalName:spasticity	predictedType:disease	q:true	qid:Q31	docId:11198499	origText:spasticity	url:D009128
+CANDIDATE	id:9128	inCount:17	outCount:2	links:	url:D009128	name:Spastic	normalName:spastic	normalWikiTitle:spastic	predictedType:Disease
+CANDIDATE	id:9128	inCount:17	outCount:2	links:	url:D009128	name:Muscle Spasticity	normalName:muscle spasticity	normalWikiTitle:muscle spasticity	predictedType:Disease
+CANDIDATE	id:1201	inCount:0	outCount:1	links:7022	url:D001201	name:Ascites	normalName:ascites	normalWikiTitle:ascites	predictedType:Disease
+CANDIDATE	id:66126	inCount:0	outCount:3	links:7022	url:D066126	name:Cardiotoxicity	normalName:cardiotoxicity	normalWikiTitle:cardiotoxicity	predictedType:Disease
+CANDIDATE	id:564815	inCount:2	outCount:4	links:	url:C564815	name:Spastic Ataxia	normalName:spastic ataxia	normalWikiTitle:spastic ataxia	predictedType:Disease
+CANDIDATE	id:6679	inCount:0	outCount:1	links:	url:D006679	name:HIV Seropositivity	normalName:hiv seropositivity	normalWikiTitle:hiv seropositivity	predictedType:Disease
+CANDIDATE	id:8417	inCount:0	outCount:2	links:	url:D008417	name:Mastoiditis	normalName:mastoiditis	normalWikiTitle:mastoiditis	predictedType:Disease
+CANDIDATE	id:8413	inCount:1	outCount:2	links:	url:D008413	name:Mastitis	normalName:mastitis	normalWikiTitle:mastitis	predictedType:Disease
+CANDIDATE	id:12585	inCount:1	outCount:2	links:	url:D012585	name:Sciatica	normalName:sciatica	normalWikiTitle:sciatica	predictedType:Disease
+CANDIDATE	id:15434	inCount:6	outCount:2	links:	url:D015434	name:Panniculitis	normalName:panniculitis	normalWikiTitle:panniculitis	predictedType:Disease
+CANDIDATE	id:8039	inCount:0	outCount:1	links:	url:D008039	name:Linitis Plastica	normalName:linitis plastica	normalWikiTitle:linitis plastica	predictedType:Disease
+ENTITY	text:hypertension	normalName:hypertension	predictedType:disease	q:true	qid:Q31	docId:11198499	origText:hypertension	url:D006973
+CANDIDATE	id:6973	inCount:18	outCount:1	links:7022	url:D006973	name:Hypertension	normalName:hypertension	normalWikiTitle:hypertension	predictedType:Disease

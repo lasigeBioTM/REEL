@@ -1,0 +1,16 @@
+ENTITY	text:phonophobia	normalName:phonophobia	predictedType:disease	q:true	qid:Q262	docId:12464714	origText:phonophobia	url:D012001
+CANDIDATE	id:12001	inCount:0	outCount:1	links:	url:D012001	name:Phonophobia	normalName:phonophobia	normalWikiTitle:phonophobia	predictedType:Disease
+ENTITY	text:vomiting	normalName:vomiting	predictedType:disease	q:true	qid:Q262	docId:12464714	origText:vomiting	url:D014839
+CANDIDATE	id:14839	inCount:7	outCount:1	links:	url:D014839	name:Vomiting	normalName:vomiting	normalWikiTitle:vomiting	predictedType:Disease
+ENTITY	text:migraine	normalName:migraine	predictedType:disease	q:true	qid:Q262	docId:12464714	origText:migraine	url:D008881
+CANDIDATE	id:8881	inCount:9	outCount:1	links:	url:D008881	name:Migraine	normalName:migraine	normalWikiTitle:migraine	predictedType:Disease
+ENTITY	text:dizziness	normalName:dizziness	predictedType:disease	q:true	qid:Q262	docId:12464714	origText:dizziness	url:D004244
+CANDIDATE	id:4244	inCount:1	outCount:1	links:	url:D004244	name:Dizziness	normalName:dizziness	normalWikiTitle:dizziness	predictedType:Disease
+ENTITY	text:nausea	normalName:nausea	predictedType:disease	q:true	qid:Q262	docId:12464714	origText:nausea	url:D009325
+CANDIDATE	id:9325	inCount:2	outCount:1	links:	url:D009325	name:Nausea	normalName:nausea	normalWikiTitle:nausea	predictedType:Disease
+ENTITY	text:photophobia	normalName:photophobia	predictedType:disease	q:true	qid:Q262	docId:12464714	origText:photophobia	url:D020795
+CANDIDATE	id:20795	inCount:2	outCount:1	links:	url:D020795	name:Photophobia	normalName:photophobia	normalWikiTitle:photophobia	predictedType:Disease
+ENTITY	text:headache	normalName:headache	predictedType:disease	q:true	qid:Q262	docId:12464714	origText:headache	url:D006261
+CANDIDATE	id:6261	inCount:2	outCount:1	links:	url:D006261	name:Headache	normalName:headache	normalWikiTitle:headache	predictedType:Disease
+ENTITY	text:pain	normalName:pain	predictedType:disease	q:true	qid:Q262	docId:12464714	origText:pain	url:D010146
+CANDIDATE	id:10146	inCount:34	outCount:1	links:	url:D010146	name:Pain	normalName:pain	normalWikiTitle:pain	predictedType:Disease

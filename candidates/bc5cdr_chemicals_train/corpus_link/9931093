@@ -1,0 +1,8 @@
+ENTITY	text:FK 506	normalName:fk 506	predictedType:chemical	q:true	qid:Q491	docId:9931093	origText:FK 506	url:D016559
+CANDIDATE	id:16559	inCount:40	outCount:1	links:9569	url:D016559	name:FK-506	normalName:fk-506	normalWikiTitle:fk-506	predictedType:Chemical
+ENTITY	text:Tacrolimus	normalName:tacrolimus	predictedType:chemical	q:true	qid:Q491	docId:9931093	origText:Tacrolimus	url:D016559
+CANDIDATE	id:16559	inCount:40	outCount:1	links:9569	url:D016559	name:Tacrolimus	normalName:tacrolimus	normalWikiTitle:tacrolimus	predictedType:Chemical
+ENTITY	text:FR 139317	normalName:fr 139317	predictedType:chemical	q:true	qid:Q491	docId:9931093	origText:FR 139317	url:C079574
+CANDIDATE	id:79574	inCount:0	outCount:2	links:	url:C079574	name:FR 139317	normalName:fr 139317	normalWikiTitle:fr 139317	predictedType:Chemical
+ENTITY	text:nitric oxide	normalName:nitric oxide	predictedType:chemical	q:true	qid:Q491	docId:9931093	origText:nitric oxide	url:D009569
+CANDIDATE	id:9569	inCount:13	outCount:3	links:16559	url:D009569	name:Nitric Oxide	normalName:nitric oxide	normalWikiTitle:nitric oxide	predictedType:Chemical

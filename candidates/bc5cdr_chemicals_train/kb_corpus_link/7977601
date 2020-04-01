@@ -1,0 +1,6 @@
+ENTITY	text:fluorescein	normalName:fluorescein	predictedType:chemical	q:true	qid:Q384	docId:7977601	origText:fluorescein	url:D019793
+CANDIDATE	id:19793	inCount:4	outCount:1	links:19793	url:D019793	name:Fluorescein	normalName:fluorescein	normalWikiTitle:fluorescein	predictedType:Chemical
+ENTITY	text:fluorescein sodium	normalName:fluorescein sodium	predictedType:chemical	q:true	qid:Q384	docId:7977601	origText:fluorescein sodium	url:D019793
+CANDIDATE	id:19793	inCount:4	outCount:1	links:19793	url:D019793	name:Sodium, Fluorescein	normalName:sodium, fluorescein	normalWikiTitle:sodium, fluorescein	predictedType:Chemical
+ENTITY	text:indocyanine green	normalName:indocyanine green	predictedType:chemical	q:true	qid:Q384	docId:7977601	origText:indocyanine green	url:D007208
+CANDIDATE	id:7208	inCount:5	outCount:1	links:	url:D007208	name:Indocyanine Green	normalName:indocyanine green	normalWikiTitle:indocyanine green	predictedType:Chemical

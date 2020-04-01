@@ -1,0 +1,8 @@
+ENTITY	text:Sodium bicarbonate	normalName:sodium bicarbonate	predictedType:chemical	q:true	qid:Q200	docId:8386779	origText:Sodium bicarbonate	url:D017693
+CANDIDATE	id:17693	inCount:27	outCount:2	links:	url:D017693	name:Sodium Bicarbonate	normalName:sodium bicarbonate	normalWikiTitle:sodium bicarbonate	predictedType:Chemical
+ENTITY	text:papaverine	normalName:papaverine	predictedType:chemical	q:true	qid:Q200	docId:8386779	origText:papaverine	url:D010208
+CANDIDATE	id:10208	inCount:46	outCount:2	links:	url:D010208	name:Papaverine	normalName:papaverine	normalWikiTitle:papaverine	predictedType:Chemical
+ENTITY	text:phentolamine	normalName:phentolamine	predictedType:chemical	q:true	qid:Q200	docId:8386779	origText:phentolamine	url:D010646
+CANDIDATE	id:10646	inCount:2	outCount:1	links:	url:D010646	name:Phentolamine	normalName:phentolamine	normalWikiTitle:phentolamine	predictedType:Chemical
+ENTITY	text:prostaglandin E1	normalName:prostaglandin e1	predictedType:chemical	q:true	qid:Q200	docId:8386779	origText:prostaglandin E1	url:D000527
+CANDIDATE	id:527	inCount:69	outCount:2	links:	url:D000527	name:Prostaglandin E1	normalName:prostaglandin e1	normalWikiTitle:prostaglandin e1	predictedType:Chemical

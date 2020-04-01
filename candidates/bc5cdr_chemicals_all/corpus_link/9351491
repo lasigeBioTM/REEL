@@ -1,0 +1,6 @@
+ENTITY	text:risperidone	normalName:risperidone	predictedType:chemical	q:true	qid:Q983	docId:9351491	origText:risperidone	url:D018967
+CANDIDATE	id:18967	inCount:2	outCount:1	links:6220	url:D018967	name:Risperidone	normalName:risperidone	normalWikiTitle:risperidone	predictedType:Chemical
+ENTITY	text:haloperidol	normalName:haloperidol	predictedType:chemical	q:true	qid:Q983	docId:9351491	origText:haloperidol	url:D006220
+CANDIDATE	id:6220	inCount:24	outCount:1	links:18967	url:D006220	name:Haloperidol	normalName:haloperidol	normalWikiTitle:haloperidol	predictedType:Chemical
+ENTITY	text:dopamine	normalName:dopamine	predictedType:chemical	q:true	qid:Q983	docId:9351491	origText:dopamine	url:D004298
+CANDIDATE	id:4298	inCount:90	outCount:2	links:	url:D004298	name:Dopamine	normalName:dopamine	normalWikiTitle:dopamine	predictedType:Chemical

@@ -1,0 +1,48 @@
+ENTITY	text:neoplasia	normalName:neoplasia	predictedType:disease	q:true	qid:Q231	docId:11337188	origText:neoplasia	url:D009369
+CANDIDATE	id:9369	inCount:18	outCount:1	links:	url:D009369	name:Neoplasia	normalName:neoplasia	normalWikiTitle:neoplasia	predictedType:Disease
+ENTITY	text:purpura	normalName:purpura	predictedType:disease	q:true	qid:Q231	docId:11337188	origText:purpura	url:D011693
+CANDIDATE	id:11693	inCount:8	outCount:3	links:	url:D011693	name:Purpura	normalName:purpura	normalWikiTitle:purpura	predictedType:Disease
+ENTITY	text:collagen vascular disease	normalName:collagen vascular disease	predictedType:disease	q:true	qid:Q231	docId:11337188	origText:collagen vascular disease	url:D003095
+CANDIDATE	id:3095	inCount:10	outCount:1	links:	url:D003095	name:Collagen Diseases	normalName:collagen diseases	normalWikiTitle:collagen diseases	predictedType:Disease
+CANDIDATE	id:14652	inCount:52	outCount:1	links:	url:D014652	name:Vascular Diseases	normalName:vascular diseases	normalWikiTitle:vascular diseases	predictedType:Disease
+CANDIDATE	id:20758	inCount:1	outCount:2	links:	url:D020758	name:Spinal Cord Vascular Diseases	normalName:spinal cord vascular diseases	normalWikiTitle:spinal cord vascular diseases	predictedType:Disease
+CANDIDATE	id:9383	inCount:8	outCount:1	links:	url:D009383	name:Neoplasms, Vascular Tissue	normalName:neoplasms, vascular tissue	normalWikiTitle:neoplasms, vascular tissue	predictedType:Disease
+CANDIDATE	id:17445	inCount:16	outCount:1	links:	url:D017445	name:Skin Diseases, Vascular	normalName:skin diseases, vascular	normalWikiTitle:skin diseases, vascular	predictedType:Disease
+CANDIDATE	id:9135	inCount:77	outCount:2	links:51437;18366	url:D009135	name:Muscular Diseases	normalName:muscular diseases	normalWikiTitle:muscular diseases	predictedType:Disease
+CANDIDATE	id:4211	inCount:0	outCount:3	links:	url:D004211	name:Disseminated Intravascular Coagulation	normalName:disseminated intravascular coagulation	normalWikiTitle:disseminated intravascular coagulation	predictedType:Disease
+CANDIDATE	id:1913	inCount:0	outCount:1	links:	url:D001913	name:Bowen's Disease	normalName:bowen's disease	normalWikiTitle:bowen's disease	predictedType:Disease
+CANDIDATE	id:14845	inCount:5	outCount:1	links:	url:D014845	name:Vulvar Diseases	normalName:vulvar diseases	normalWikiTitle:vulvar diseases	predictedType:Disease
+CANDIDATE	id:2357	inCount:10	outCount:2	links:	url:D002357	name:Cartilage Diseases	normalName:cartilage diseases	normalWikiTitle:cartilage diseases	predictedType:Disease
+ENTITY	text:arthralgia	normalName:arthralgia	predictedType:disease	q:true	qid:Q231	docId:11337188	origText:arthralgia	url:D018771
+CANDIDATE	id:18771	inCount:1	outCount:2	links:	url:D018771	name:Arthralgia	normalName:arthralgia	normalWikiTitle:arthralgia	predictedType:Disease
+ENTITY	text:infections	normalName:infections	predictedType:disease	q:true	qid:Q231	docId:11337188	origText:infections	url:D007239
+CANDIDATE	id:7239	inCount:33	outCount:1	links:	url:D007239	name:Infection	normalName:infection	normalWikiTitle:infection	predictedType:Disease
+ENTITY	text:renal failure	normalName:renal failure	predictedType:disease	q:true	qid:Q231	docId:11337188	origText:renal failure	url:D051437
+CANDIDATE	id:51437	inCount:10	outCount:1	links:9135;18366	url:D051437	name:Renal Failure	normalName:renal failure	normalWikiTitle:renal failure	predictedType:Disease
+ENTITY	text:abdominal pain	normalName:abdominal pain	predictedType:disease	q:true	qid:Q231	docId:11337188	origText:abdominal pain	url:D015746
+CANDIDATE	id:15746	inCount:2	outCount:2	links:	url:D015746	name:Abdominal Pain	normalName:abdominal pain	normalWikiTitle:abdominal pain	predictedType:Disease
+ENTITY	text:Cutaneous leucocytoclastic vasculitis	normalName:cutaneous leucocytoclastic vasculitis	predictedType:disease	q:true	qid:Q231	docId:11337188	origText:Cutaneous leucocytoclastic vasculitis	url:D018366
+CANDIDATE	id:18366	inCount:1	outCount:2	links:9135;51437;18366	url:D018366	name:Vasculitis, Leukocytoclastic, Cutaneous	normalName:vasculitis, leukocytoclastic, cutaneous	normalWikiTitle:vasculitis, leukocytoclastic, cutaneous	predictedType:Disease
+CANDIDATE	id:565222	inCount:0	outCount:1	links:	url:C565222	name:Vasculitis, Lymphocytic, Cutaneous Small Vessel	normalName:vasculitis, lymphocytic, cutaneous small vessel	normalWikiTitle:vasculitis, lymphocytic, cutaneous small vessel	predictedType:Disease
+CANDIDATE	id:20293	inCount:6	outCount:3	links:20293	url:D020293	name:Vasculitis, Central Nervous System	normalName:vasculitis, central nervous system	normalWikiTitle:vasculitis, central nervous system	predictedType:Disease
+CANDIDATE	id:34701	inCount:3	outCount:1	links:	url:D034701	name:Mastocytosis, Cutaneous	normalName:mastocytosis, cutaneous	normalWikiTitle:mastocytosis, cutaneous	predictedType:Disease
+CANDIDATE	id:56647	inCount:3	outCount:1	links:56647	url:D056647	name:Systemic Vasculitis	normalName:systemic vasculitis	normalWikiTitle:systemic vasculitis	predictedType:Disease
+CANDIDATE	id:20945	inCount:0	outCount:3	links:	url:D020945	name:Lupus Vasculitis, Central Nervous System	normalName:lupus vasculitis, central nervous system	normalWikiTitle:lupus vasculitis, central nervous system	predictedType:Disease
+CANDIDATE	id:16773	inCount:2	outCount:1	links:	url:D016773	name:Leishmaniasis, Cutaneous	normalName:leishmaniasis, cutaneous	normalWikiTitle:leishmaniasis, cutaneous	predictedType:Disease
+CANDIDATE	id:8178	inCount:2	outCount:2	links:	url:D008178	name:Lupus Erythematosus, Cutaneous	normalName:lupus erythematosus, cutaneous	normalWikiTitle:lupus erythematosus, cutaneous	predictedType:Disease
+CANDIDATE	id:566008	inCount:0	outCount:2	links:566008	url:C566008	name:Vasculitis, Lymphocytic, Nodular	normalName:vasculitis, lymphocytic, nodular	normalWikiTitle:vasculitis, lymphocytic, nodular	predictedType:Disease
+CANDIDATE	id:565161	inCount:0	outCount:1	links:	url:C565161	name:Coracoclavicular Joint, Anomalous	normalName:coracoclavicular joint, anomalous	normalWikiTitle:coracoclavicular joint, anomalous	predictedType:Disease
+ENTITY	text:leucocytoclastic vasculitis	normalName:leucocytoclastic vasculitis	predictedType:disease	q:true	qid:Q231	docId:11337188	origText:leucocytoclastic vasculitis	url:D018366
+CANDIDATE	id:18366	inCount:1	outCount:2	links:9135;51437;18366	url:D018366	name:Vasculitis, Leukocytoclastic, Cutaneous	normalName:vasculitis, leukocytoclastic, cutaneous	normalWikiTitle:vasculitis, leukocytoclastic, cutaneous	predictedType:Disease
+CANDIDATE	id:56647	inCount:3	outCount:1	links:56647	url:D056647	name:Systemic Vasculitis	normalName:systemic vasculitis	normalWikiTitle:systemic vasculitis	predictedType:Disease
+CANDIDATE	id:56653	inCount:0	outCount:2	links:	url:D056653	name:Rheumatoid Vasculitis	normalName:rheumatoid vasculitis	normalWikiTitle:rheumatoid vasculitis	predictedType:Disease
+CANDIDATE	id:566008	inCount:0	outCount:2	links:566008	url:C566008	name:Vasculitis, Lymphocytic, Nodular	normalName:vasculitis, lymphocytic, nodular	normalWikiTitle:vasculitis, lymphocytic, nodular	predictedType:Disease
+CANDIDATE	id:31300	inCount:1	outCount:2	links:	url:D031300	name:Retinal Vasculitis	normalName:retinal vasculitis	normalWikiTitle:retinal vasculitis	predictedType:Disease
+CANDIDATE	id:6519	inCount:0	outCount:2	links:	url:D006519	name:Hepatitis, Alcoholic	normalName:hepatitis, alcoholic	normalWikiTitle:hepatitis, alcoholic	predictedType:Disease
+CANDIDATE	id:19512	inCount:0	outCount:2	links:	url:D019512	name:Pancreatitis, Alcoholic	normalName:pancreatitis, alcoholic	normalWikiTitle:pancreatitis, alcoholic	predictedType:Disease
+CANDIDATE	id:562487	inCount:0	outCount:2	links:	url:C562487	name:Eosinophilic Fasciitis	normalName:eosinophilic fasciitis	normalWikiTitle:eosinophilic fasciitis	predictedType:Disease
+CANDIDATE	id:4239	inCount:0	outCount:2	links:	url:D004239	name:Diverticulitis, Colonic	normalName:diverticulitis, colonic	normalWikiTitle:diverticulitis, colonic	predictedType:Disease
+CANDIDATE	id:20293	inCount:6	outCount:3	links:20293	url:D020293	name:Vasculitis, Central Nervous System	normalName:vasculitis, central nervous system	normalWikiTitle:vasculitis, central nervous system	predictedType:Disease
+CANDIDATE	id:535509	inCount:0	outCount:1	links:	url:C535509	name:Leukocytoclastic vasculitis	normalName:leukocytoclastic vasculitis	normalWikiTitle:leukocytoclastic vasculitis	predictedType:Disease
+ENTITY	text:rash	normalName:rash	predictedType:disease	q:true	qid:Q231	docId:11337188	origText:rash	url:D005076
+CANDIDATE	id:5076	inCount:1	outCount:1	links:	url:D005076	name:Rash	normalName:rash	normalWikiTitle:rash	predictedType:Disease

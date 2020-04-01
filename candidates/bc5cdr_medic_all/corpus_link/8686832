@@ -1,0 +1,30 @@
+ENTITY	text:Leg and/or back pain	normalName:leg and/or back pain	predictedType:disease	q:true	qid:Q1403	docId:8686832	origText:Leg and/or back pain	url:D001416
+CANDIDATE	id:1416	inCount:2	outCount:1	links:10146	url:D001416	name:Back Pain	normalName:back pain	normalWikiTitle:back pain	predictedType:Disease
+CANDIDATE	id:17116	inCount:0	outCount:1	links:	url:D017116	name:Low Back Pain	normalName:low back pain	normalWikiTitle:low back pain	predictedType:Disease
+CANDIDATE	id:72716	inCount:0	outCount:1	links:	url:D000072716	name:Cancer Pain	normalName:cancer pain	normalWikiTitle:cancer pain	predictedType:Disease
+CANDIDATE	id:48949	inCount:0	outCount:1	links:	url:D048949	name:Labor Pain	normalName:labor pain	normalWikiTitle:labor pain	predictedType:Disease
+CANDIDATE	id:6258	inCount:8	outCount:1	links:	url:D006258	name:Head and Neck Neoplasms	normalName:head and neck neoplasms	normalWikiTitle:head and neck neoplasms	predictedType:Disease
+CANDIDATE	id:10148	inCount:0	outCount:1	links:	url:D010148	name:Pain, Intractable	normalName:pain, intractable	normalWikiTitle:pain, intractable	predictedType:Disease
+CANDIDATE	id:1922	inCount:1	outCount:3	links:	url:D001922	name:Brain Abscess	normalName:brain abscess	normalWikiTitle:brain abscess	predictedType:Disease
+CANDIDATE	id:19547	inCount:0	outCount:1	links:	url:D019547	name:Neck Pain	normalName:neck pain	normalWikiTitle:neck pain	predictedType:Disease
+CANDIDATE	id:536523	inCount:0	outCount:1	links:	url:C536523	name:Vagina, absence of	normalName:vagina, absence of	normalWikiTitle:vagina, absence of	predictedType:Disease
+CANDIDATE	id:21501	inCount:0	outCount:1	links:	url:D021501	name:Flank Pain	normalName:flank pain	normalWikiTitle:flank pain	predictedType:Disease
+CANDIDATE	id:17116	inCount:0	outCount:1	links:	url:D017116	name:Lower Back Pain	normalName:lower back pain	normalWikiTitle:lower back pain	predictedType:Disease
+CANDIDATE	id:17116	inCount:0	outCount:1	links:	url:D017116	name:Pain, Lower Back	normalName:pain, lower back	normalWikiTitle:pain, lower back	predictedType:Disease
+CANDIDATE	id:17116	inCount:0	outCount:1	links:	url:D017116	name:Back Pain, Lower	normalName:back pain, lower	normalWikiTitle:back pain, lower	predictedType:Disease
+ENTITY	text:pain	normalName:pain	predictedType:disease	q:true	qid:Q1403	docId:8686832	origText:pain	url:D010146
+CANDIDATE	id:10146	inCount:34	outCount:1	links:1416	url:D010146	name:Pain	normalName:pain	normalWikiTitle:pain	predictedType:Disease
+ENTITY	text:Leg and back pain	normalName:leg and back pain	predictedType:disease	q:true	qid:Q1403	docId:8686832	origText:Leg and back pain	url:D001416
+CANDIDATE	id:1416	inCount:2	outCount:1	links:10146	url:D001416	name:Back Pain	normalName:back pain	normalWikiTitle:back pain	predictedType:Disease
+CANDIDATE	id:17116	inCount:0	outCount:1	links:	url:D017116	name:Low Back Pain	normalName:low back pain	normalWikiTitle:low back pain	predictedType:Disease
+CANDIDATE	id:72716	inCount:0	outCount:1	links:	url:D000072716	name:Cancer Pain	normalName:cancer pain	normalWikiTitle:cancer pain	predictedType:Disease
+CANDIDATE	id:19547	inCount:0	outCount:1	links:	url:D019547	name:Neck Pain	normalName:neck pain	normalWikiTitle:neck pain	predictedType:Disease
+CANDIDATE	id:10148	inCount:0	outCount:1	links:	url:D010148	name:Pain, Intractable	normalName:pain, intractable	normalWikiTitle:pain, intractable	predictedType:Disease
+CANDIDATE	id:21501	inCount:0	outCount:1	links:	url:D021501	name:Flank Pain	normalName:flank pain	normalWikiTitle:flank pain	predictedType:Disease
+CANDIDATE	id:59787	inCount:0	outCount:1	links:	url:D059787	name:Acute Pain	normalName:acute pain	normalWikiTitle:acute pain	predictedType:Disease
+CANDIDATE	id:15746	inCount:2	outCount:2	links:	url:D015746	name:Abdominal Pain	normalName:abdominal pain	normalWikiTitle:abdominal pain	predictedType:Disease
+CANDIDATE	id:5157	inCount:1	outCount:1	links:	url:D005157	name:Facial Pain	normalName:facial pain	normalWikiTitle:facial pain	predictedType:Disease
+CANDIDATE	id:1733	inCount:6	outCount:2	links:	url:D001733	name:Bites and Stings	normalName:bites and stings	normalWikiTitle:bites and stings	predictedType:Disease
+CANDIDATE	id:17116	inCount:0	outCount:1	links:	url:D017116	name:Lower Back Pain	normalName:lower back pain	normalWikiTitle:lower back pain	predictedType:Disease
+CANDIDATE	id:17116	inCount:0	outCount:1	links:	url:D017116	name:Pain, Lower Back	normalName:pain, lower back	normalWikiTitle:pain, lower back	predictedType:Disease
+CANDIDATE	id:17116	inCount:0	outCount:1	links:	url:D017116	name:Back Pain, Lower	normalName:back pain, lower	normalWikiTitle:back pain, lower	predictedType:Disease

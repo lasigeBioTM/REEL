@@ -1,0 +1,8 @@
+ENTITY	text:thrombocytopenia	normalName:thrombocytopenia	predictedType:disease	q:true	qid:Q200	docId:24928523	origText:thrombocytopenia	url:D013921
+CANDIDATE	id:13921	inCount:42	outCount:1	links:10523;9503	url:D013921	name:Thrombocytopenia	normalName:thrombocytopenia	normalWikiTitle:thrombocytopenia	predictedType:Disease
+ENTITY	text:multiple myeloma	normalName:multiple myeloma	predictedType:disease	q:true	qid:Q200	docId:24928523	origText:multiple myeloma	url:D009101
+CANDIDATE	id:9101	inCount:1	outCount:4	links:	url:D009101	name:Multiple Myeloma	normalName:multiple myeloma	normalWikiTitle:multiple myeloma	predictedType:Disease
+ENTITY	text:neutropenia	normalName:neutropenia	predictedType:disease	q:true	qid:Q200	docId:24928523	origText:neutropenia	url:D009503
+CANDIDATE	id:9503	inCount:19	outCount:1	links:13921;10523	url:D009503	name:Neutropenia	normalName:neutropenia	normalWikiTitle:neutropenia	predictedType:Disease
+ENTITY	text:Peripheral neuropathy	normalName:peripheral neuropathy	predictedType:disease	q:true	qid:Q200	docId:24928523	origText:Peripheral neuropathy	url:D010523
+CANDIDATE	id:10523	inCount:37	outCount:1	links:13921;9503	url:D010523	name:Peripheral Neuropathy	normalName:peripheral neuropathy	normalWikiTitle:peripheral neuropathy	predictedType:Disease

@@ -1,0 +1,15 @@
+ENTITY	text:vinca alkaloid	normalName:vinca alkaloid	predictedType:chemical	q:true	qid:Q986	docId:6203452	origText:vinca alkaloid	url:D014748
+CANDIDATE	id:14748	inCount:48	outCount:1	links:2945;1761	url:D014748	name:Vinca Alkaloids	normalName:vinca alkaloids	normalWikiTitle:vinca alkaloids	predictedType:Chemical
+CANDIDATE	id:2930	inCount:8	outCount:1	links:	url:D002930	name:Cinchona Alkaloids	normalName:cinchona alkaloids	normalWikiTitle:cinchona alkaloids	predictedType:Chemical
+CANDIDATE	id:431588	inCount:0	outCount:1	links:	url:C431588	name:alkaloid G	normalName:alkaloid g	normalWikiTitle:alkaloid g	predictedType:Chemical
+CANDIDATE	id:53610	inCount:3	outCount:1	links:	url:D053610	name:Opiate Alkaloids	normalName:opiate alkaloids	normalWikiTitle:opiate alkaloids	predictedType:Chemical
+CANDIDATE	id:445698	inCount:0	outCount:2	links:	url:C445698	name:anacine alkaloid	normalName:anacine alkaloid	normalWikiTitle:anacine alkaloid	predictedType:Chemical
+CANDIDATE	id:26121	inCount:653	outCount:2	links:	url:D026121	name:Indole Alkaloids	normalName:indole alkaloids	normalWikiTitle:indole alkaloids	predictedType:Chemical
+CANDIDATE	id:470	inCount:1155	outCount:1	links:	url:D000470	name:Alkaloids	normalName:alkaloids	normalWikiTitle:alkaloids	predictedType:Chemical
+CANDIDATE	id:14704	inCount:17	outCount:1	links:	url:D014704	name:Veratrum Alkaloids	normalName:veratrum alkaloids	normalWikiTitle:veratrum alkaloids	predictedType:Chemical
+CANDIDATE	id:584647	inCount:0	outCount:1	links:	url:C584647	name:meleagrin alkaloid	normalName:meleagrin alkaloid	normalWikiTitle:meleagrin alkaloid	predictedType:Chemical
+CANDIDATE	id:9244	inCount:0	outCount:1	links:	url:C009244	name:serpentine (alkaloid)	normalName:serpentine (alkaloid)	normalWikiTitle:serpentine (alkaloid)	predictedType:Chemical
+ENTITY	text:cisplatin	normalName:cisplatin	predictedType:chemical	q:true	qid:Q986	docId:6203452	origText:cisplatin	url:D002945
+CANDIDATE	id:2945	inCount:293	outCount:3	links:14748;1761	url:D002945	name:Cisplatin	normalName:cisplatin	normalWikiTitle:cisplatin	predictedType:Chemical
+ENTITY	text:bleomycin	normalName:bleomycin	predictedType:chemical	q:true	qid:Q986	docId:6203452	origText:bleomycin	url:D001761
+CANDIDATE	id:1761	inCount:238	outCount:1	links:2945;14748	url:D001761	name:Bleomycin	normalName:bleomycin	normalWikiTitle:bleomycin	predictedType:Chemical

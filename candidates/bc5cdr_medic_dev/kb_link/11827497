@@ -1,0 +1,37 @@
+ENTITY	text:pulmonary emboli	normalName:pulmonary emboli	predictedType:disease	q:true	qid:Q5	docId:11827497	origText:pulmonary emboli	url:D011655
+CANDIDATE	id:11655	inCount:3	outCount:2	links:	url:D011655	name:Pulmonary Embolism	normalName:pulmonary embolism	normalWikiTitle:pulmonary embolism	predictedType:Disease
+CANDIDATE	id:11654	inCount:1	outCount:1	links:	url:D011654	name:Pulmonary Edema	normalName:pulmonary edema	normalWikiTitle:pulmonary edema	predictedType:Disease
+CANDIDATE	id:11658	inCount:6	outCount:1	links:	url:D011658	name:Pulmonary Fibrosis	normalName:pulmonary fibrosis	normalWikiTitle:pulmonary fibrosis	predictedType:Disease
+CANDIDATE	id:18255	inCount:0	outCount:1	links:	url:D018255	name:Adenomatosis, Pulmonary	normalName:adenomatosis, pulmonary	normalWikiTitle:adenomatosis, pulmonary	predictedType:Disease
+CANDIDATE	id:11657	inCount:1	outCount:2	links:	url:D011657	name:Pulmonary Eosinophilia	normalName:pulmonary eosinophilia	normalWikiTitle:pulmonary eosinophilia	predictedType:Disease
+CANDIDATE	id:18633	inCount:2	outCount:2	links:	url:D018633	name:Pulmonary Atresia	normalName:pulmonary atresia	normalWikiTitle:pulmonary atresia	predictedType:Disease
+CANDIDATE	id:18202	inCount:1	outCount:2	links:	url:D018202	name:Pulmonary Blastoma	normalName:pulmonary blastoma	normalWikiTitle:pulmonary blastoma	predictedType:Disease
+CANDIDATE	id:1261	inCount:1	outCount:1	links:	url:D001261	name:Pulmonary Atelectasis	normalName:pulmonary atelectasis	normalWikiTitle:pulmonary atelectasis	predictedType:Disease
+CANDIDATE	id:11656	inCount:3	outCount:1	links:	url:D011656	name:Pulmonary Emphysema	normalName:pulmonary emphysema	normalWikiTitle:pulmonary emphysema	predictedType:Disease
+CANDIDATE	id:55732	inCount:2	outCount:2	links:	url:D055732	name:Pulmonary Aspergillosis	normalName:pulmonary aspergillosis	normalWikiTitle:pulmonary aspergillosis	predictedType:Disease
+ENTITY	text:thromboembolism	normalName:thromboembolism	predictedType:disease	q:true	qid:Q5	docId:11827497	origText:thromboembolism	url:D013923
+CANDIDATE	id:13923	inCount:3	outCount:1	links:13923	url:D013923	name:Thromboembolism	normalName:thromboembolism	normalWikiTitle:thromboembolism	predictedType:Disease
+ENTITY	text:thrombocytopenia	normalName:thrombocytopenia	predictedType:disease	q:true	qid:Q5	docId:11827497	origText:thrombocytopenia	url:D013921
+CANDIDATE	id:13921	inCount:42	outCount:1	links:13921	url:D013921	name:Thrombocytopenia	normalName:thrombocytopenia	normalWikiTitle:thrombocytopenia	predictedType:Disease
+ENTITY	text:Thromboemboli	normalName:thromboemboli	predictedType:disease	q:true	qid:Q5	docId:11827497	origText:Thromboemboli	url:D013923
+CANDIDATE	id:13923	inCount:3	outCount:1	links:13923	url:D013923	name:Thromboembolism	normalName:thromboembolism	normalWikiTitle:thromboembolism	predictedType:Disease
+CANDIDATE	id:54556	inCount:0	outCount:1	links:54556	url:D054556	name:Venous Thromboembolism	normalName:venous thromboembolism	normalWikiTitle:venous thromboembolism	predictedType:Disease
+CANDIDATE	id:13927	inCount:4	outCount:1	links:13927	url:D013927	name:Thrombosis	normalName:thrombosis	normalWikiTitle:thrombosis	predictedType:Disease
+CANDIDATE	id:13924	inCount:1	outCount:2	links:13924	url:D013924	name:Thrombophlebitis	normalName:thrombophlebitis	normalWikiTitle:thrombophlebitis	predictedType:Disease
+CANDIDATE	id:19851	inCount:16	outCount:1	links:19851	url:D019851	name:Thrombophilia	normalName:thrombophilia	normalWikiTitle:thrombophilia	predictedType:Disease
+CANDIDATE	id:13922	inCount:4	outCount:2	links:13922	url:D013922	name:Thrombocytosis	normalName:thrombocytosis	normalWikiTitle:thrombocytosis	predictedType:Disease
+CANDIDATE	id:13921	inCount:42	outCount:1	links:13921	url:D013921	name:Thrombocytopenia	normalName:thrombocytopenia	normalWikiTitle:thrombocytopenia	predictedType:Disease
+CANDIDATE	id:4480	inCount:21	outCount:1	links:4480	url:D004480	name:Ectromelia	normalName:ectromelia	normalWikiTitle:ectromelia	predictedType:Disease
+CANDIDATE	id:20246	inCount:5	outCount:1	links:20246	url:D020246	name:Venous Thrombosis	normalName:venous thrombosis	normalWikiTitle:venous thrombosis	predictedType:Disease
+CANDIDATE	id:13915	inCount:3	outCount:3	links:13915	url:D013915	name:Thrombasthenia	normalName:thrombasthenia	normalWikiTitle:thrombasthenia	predictedType:Disease
+ENTITY	text:thromboembolic	normalName:thromboembolic	predictedType:disease	q:true	qid:Q5	docId:11827497	origText:thromboembolic	url:D013923
+CANDIDATE	id:13923	inCount:3	outCount:1	links:13923	url:D013923	name:Thromboembolism	normalName:thromboembolism	normalWikiTitle:thromboembolism	predictedType:Disease
+CANDIDATE	id:54556	inCount:0	outCount:1	links:54556	url:D054556	name:Venous Thromboembolism	normalName:venous thromboembolism	normalWikiTitle:venous thromboembolism	predictedType:Disease
+CANDIDATE	id:13927	inCount:4	outCount:1	links:13927	url:D013927	name:Thrombosis	normalName:thrombosis	normalWikiTitle:thrombosis	predictedType:Disease
+CANDIDATE	id:13924	inCount:1	outCount:2	links:13924	url:D013924	name:Thrombophlebitis	normalName:thrombophlebitis	normalWikiTitle:thrombophlebitis	predictedType:Disease
+CANDIDATE	id:19851	inCount:16	outCount:1	links:19851	url:D019851	name:Thrombophilia	normalName:thrombophilia	normalWikiTitle:thrombophilia	predictedType:Disease
+CANDIDATE	id:13922	inCount:4	outCount:2	links:13922	url:D013922	name:Thrombocytosis	normalName:thrombocytosis	normalWikiTitle:thrombocytosis	predictedType:Disease
+CANDIDATE	id:13921	inCount:42	outCount:1	links:13921	url:D013921	name:Thrombocytopenia	normalName:thrombocytopenia	normalWikiTitle:thrombocytopenia	predictedType:Disease
+CANDIDATE	id:20246	inCount:5	outCount:1	links:20246	url:D020246	name:Venous Thrombosis	normalName:venous thrombosis	normalWikiTitle:venous thrombosis	predictedType:Disease
+CANDIDATE	id:4480	inCount:21	outCount:1	links:4480	url:D004480	name:Ectromelia	normalName:ectromelia	normalWikiTitle:ectromelia	predictedType:Disease
+CANDIDATE	id:13915	inCount:3	outCount:3	links:13915	url:D013915	name:Thrombasthenia	normalName:thrombasthenia	normalWikiTitle:thrombasthenia	predictedType:Disease

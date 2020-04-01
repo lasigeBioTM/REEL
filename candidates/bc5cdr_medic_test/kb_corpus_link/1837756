@@ -1,0 +1,17 @@
+ENTITY	text:paranoid	normalName:paranoid	predictedType:disease	q:true	qid:Q221	docId:1837756	origText:paranoid	url:D010259
+CANDIDATE	id:10259	inCount:0	outCount:1	links:10259	url:D010259	name:Paranoias	normalName:paranoias	normalWikiTitle:paranoias	predictedType:Disease
+CANDIDATE	id:13031	inCount:0	outCount:1	links:	url:D013031	name:Sparganosis	normalName:sparganosis	normalWikiTitle:sparganosis	predictedType:Disease
+CANDIDATE	id:1100	inCount:1	outCount:1	links:	url:D001100	name:Arachnoiditis	normalName:arachnoiditis	normalWikiTitle:arachnoiditis	predictedType:Disease
+CANDIDATE	id:20447	inCount:7	outCount:1	links:	url:D020447	name:Parasomnias	normalName:parasomnias	normalWikiTitle:parasomnias	predictedType:Disease
+CANDIDATE	id:10259	inCount:0	outCount:1	links:10259	url:D010259	name:Paranoid Disorders	normalName:paranoid disorders	normalWikiTitle:paranoid disorders	predictedType:Disease
+CANDIDATE	id:16080	inCount:6	outCount:2	links:	url:D016080	name:Arachnoid Cysts	normalName:arachnoid cysts	normalWikiTitle:arachnoid cysts	predictedType:Disease
+CANDIDATE	id:10263	inCount:0	outCount:1	links:	url:D010263	name:Paraphimosis	normalName:paraphimosis	normalWikiTitle:paraphimosis	predictedType:Disease
+CANDIDATE	id:2602	inCount:0	outCount:2	links:	url:D002602	name:Chancroid	normalName:chancroid	normalWikiTitle:chancroid	predictedType:Disease
+CANDIDATE	id:10243	inCount:10	outCount:1	links:	url:D010243	name:Paralysis	normalName:paralysis	normalWikiTitle:paralysis	predictedType:Disease
+CANDIDATE	id:10309	inCount:3	outCount:2	links:	url:D010309	name:Parotitis	normalName:parotitis	normalWikiTitle:parotitis	predictedType:Disease
+CANDIDATE	id:849	inCount:0	outCount:1	links:	url:D000849	name:Anomia	normalName:anomia	normalWikiTitle:anomia	predictedType:Disease
+CANDIDATE	id:10259	inCount:0	outCount:1	links:10259	url:D010259	name:Paranoia	normalName:paranoia	normalWikiTitle:paranoia	predictedType:Disease
+ENTITY	text:paranoia	normalName:paranoia	predictedType:disease	q:true	qid:Q221	docId:1837756	origText:paranoia	url:D010259
+CANDIDATE	id:10259	inCount:0	outCount:1	links:10259	url:D010259	name:Paranoia	normalName:paranoia	normalWikiTitle:paranoia	predictedType:Disease
+ENTITY	text:depressive disorders	normalName:depressive disorders	predictedType:disease	q:true	qid:Q221	docId:1837756	origText:depressive disorders	url:D003866
+CANDIDATE	id:3866	inCount:6	outCount:1	links:	url:D003866	name:Depressive Disorder	normalName:depressive disorder	normalWikiTitle:depressive disorder	predictedType:Disease

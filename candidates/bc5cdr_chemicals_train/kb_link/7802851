@@ -1,0 +1,4 @@
+ENTITY	text:alprazolam	normalName:alprazolam	predictedType:chemical	q:true	qid:Q158	docId:7802851	origText:alprazolam	url:D000525
+CANDIDATE	id:525	inCount:4	outCount:1	links:	url:D000525	name:Alprazolam	normalName:alprazolam	normalWikiTitle:alprazolam	predictedType:Chemical
+ENTITY	text:benzodiazepines	normalName:benzodiazepines	predictedType:chemical	q:true	qid:Q158	docId:7802851	origText:benzodiazepines	url:D001569
+CANDIDATE	id:1569	inCount:260	outCount:1	links:	url:D001569	name:Benzodiazepine	normalName:benzodiazepine	normalWikiTitle:benzodiazepine	predictedType:Chemical

@@ -1,0 +1,6 @@
+ENTITY	text:acute kidney injury	normalName:acute kidney injury	predictedType:disease	q:true	qid:Q326	docId:24067251	origText:acute kidney injury	url:D058186
+CANDIDATE	id:58186	inCount:2	outCount:1	links:	url:D058186	name:Acute Kidney Injury	normalName:acute kidney injury	normalWikiTitle:acute kidney injury	predictedType:Disease
+ENTITY	text:Fanconi syndrome	normalName:fanconi syndrome	predictedType:disease	q:true	qid:Q326	docId:24067251	origText:Fanconi syndrome	url:D005198
+CANDIDATE	id:5198	inCount:4	outCount:1	links:	url:D005198	name:Fanconi Syndrome	normalName:fanconi syndrome	normalWikiTitle:fanconi syndrome	predictedType:Disease
+ENTITY	text:kidney disease	normalName:kidney disease	predictedType:disease	q:true	qid:Q326	docId:24067251	origText:kidney disease	url:D007674
+CANDIDATE	id:7674	inCount:65	outCount:1	links:	url:D007674	name:Disease, Kidney	normalName:disease, kidney	normalWikiTitle:disease, kidney	predictedType:Disease

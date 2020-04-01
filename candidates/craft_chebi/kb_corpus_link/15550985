@@ -1,0 +1,78 @@
+ENTITY	text:tracer	normalName:tracer	predictedType:chemical	q:true	qid:Q38	docId:15550985	origText:tracer	url:CHEBI:35204
+CANDIDATE	id:35204	inCount:4	outCount:1	links:	url:CHEBI:35204	name:tracer	normalName:tracer	normalWikiTitle:tracer	predictedType:chemical
+ENTITY	text:CY3	normalName:cy3	predictedType:chemical	q:true	qid:Q38	docId:15550985	origText:CY3	url:CHEBI:37987
+CANDIDATE	id:37987	inCount:7	outCount:2	links:	url:CHEBI:37987	name:Cy3 dye	normalName:cy3 dye	normalWikiTitle:cy3 dye	predictedType:chemical
+CANDIDATE	id:138839	inCount:0	outCount:4	links:	url:CHEBI:138839	name:CAY10397	normalName:cay10397	normalWikiTitle:cay10397	predictedType:chemical
+CANDIDATE	id:29037	inCount:0	outCount:2	links:	url:CHEBI:29037	name:Cu3+	normalName:cu3+	normalWikiTitle:cu3+	predictedType:chemical
+CANDIDATE	id:32737	inCount:0	outCount:2	links:	url:CHEBI:32737	name:-Cys(.)-	normalName:-cys(.)-	normalWikiTitle:-cys(.)-	predictedType:chemical
+CANDIDATE	id:29376	inCount:0	outCount:1	links:	url:CHEBI:29376	name:(CO3)(.-)	normalName:(co3)(.-)	normalWikiTitle:(co3)(.-)	predictedType:chemical
+CANDIDATE	id:29438	inCount:0	outCount:1	links:	url:CHEBI:29438	name:CH3(-)	normalName:ch3(-)	normalWikiTitle:ch3(-)	predictedType:chemical
+CANDIDATE	id:65048	inCount:1	outCount:1	links:	url:CHEBI:65048	name:cYY	normalName:cyy	normalWikiTitle:cyy	predictedType:chemical
+CANDIDATE	id:29438	inCount:0	outCount:1	links:	url:CHEBI:29438	name:[CH3](-)	normalName:[ch3](-)	normalWikiTitle:[ch3](-)	predictedType:chemical
+CANDIDATE	id:16375	inCount:0	outCount:2	links:	url:CHEBI:16375	name:DCY	normalName:dcy	normalWikiTitle:dcy	predictedType:chemical
+CANDIDATE	id:29376	inCount:0	outCount:1	links:	url:CHEBI:29376	name:CO3(.-)	normalName:co3(.-)	normalWikiTitle:co3(.-)	predictedType:chemical
+CANDIDATE	id:71611	inCount:0	outCount:1	links:	url:CHEBI:71611	name:cYF	normalName:cyf	normalWikiTitle:cyf	predictedType:chemical
+CANDIDATE	id:131911	inCount:0	outCount:1	links:	url:CHEBI:131911	name:c3F	normalName:c3f	normalWikiTitle:c3f	predictedType:chemical
+ENTITY	text:CO2	normalName:co2	predictedType:chemical	q:true	qid:Q38	docId:15550985	origText:CO2	url:CHEBI:16526
+CANDIDATE	id:16526	inCount:0	outCount:3	links:	url:CHEBI:16526	name:CO2	normalName:co2	normalWikiTitle:co2	predictedType:chemical
+CANDIDATE	id:75695	inCount:0	outCount:1	links:	url:CHEBI:75695	name:dC21	normalName:dc21	normalWikiTitle:dc21	predictedType:chemical
+CANDIDATE	id:29325	inCount:0	outCount:2	links:	url:CHEBI:29325	name:[CO2](.-)	normalName:[co2](.-)	normalWikiTitle:[co2](.-)	predictedType:chemical
+CANDIDATE	id:48828	inCount:0	outCount:3	links:	url:CHEBI:48828	name:Co2+	normalName:co2+	normalWikiTitle:co2+	predictedType:chemical
+CANDIDATE	id:16526	inCount:0	outCount:3	links:	url:CHEBI:16526	name:[CO2]	normalName:[co2]	normalWikiTitle:[co2]	predictedType:chemical
+CANDIDATE	id:29325	inCount:0	outCount:2	links:	url:CHEBI:29325	name:CO2(.-)	normalName:co2(.-)	normalWikiTitle:co2(.-)	predictedType:chemical
+CANDIDATE	id:29418	inCount:0	outCount:1	links:	url:CHEBI:29418	name:[ClO2](+)	normalName:[clo2](+)	normalWikiTitle:[clo2](+)	predictedType:chemical
+CANDIDATE	id:79089	inCount:0	outCount:2	links:	url:CHEBI:79089	name:CeO2	normalName:ceo2	normalWikiTitle:ceo2	predictedType:chemical
+CANDIDATE	id:52357	inCount:2	outCount:2	links:	url:CHEBI:52357	name:ClO2(.)	normalName:clo2(.)	normalWikiTitle:clo2(.)	predictedType:chemical
+CANDIDATE	id:46883	inCount:0	outCount:1	links:	url:CHEBI:46883	name:-CO2H	normalName:-co2h	normalWikiTitle:-co2h	predictedType:chemical
+CANDIDATE	id:29415	inCount:0	outCount:1	links:	url:CHEBI:29415	name:[ClO2](.)	normalName:[clo2](.)	normalWikiTitle:[clo2](.)	predictedType:chemical
+ENTITY	text:FITC	normalName:fitc	predictedType:chemical	q:true	qid:Q38	docId:15550985	origText:FITC	url:CHEBI:37926
+CANDIDATE	id:37926	inCount:2	outCount:1	links:	url:CHEBI:37926	name:FITC	normalName:fitc	normalWikiTitle:fitc	predictedType:chemical
+CANDIDATE	id:5059	inCount:0	outCount:2	links:	url:CHEBI:5059	name:ficine	normalName:ficine	normalWikiTitle:ficine	predictedType:chemical
+CANDIDATE	id:51068	inCount:0	outCount:1	links:	url:CHEBI:51068	name:miotic	normalName:miotic	normalWikiTitle:miotic	predictedType:chemical
+CANDIDATE	id:16039	inCount:0	outCount:2	links:	url:CHEBI:16039	name:ITP	normalName:itp	normalWikiTitle:itp	predictedType:chemical
+CANDIDATE	id:17359	inCount:0	outCount:3	links:	url:CHEBI:17359	name:sulfite	normalName:sulfite	normalWikiTitle:sulfite	predictedType:chemical
+CANDIDATE	id:42567	inCount:0	outCount:3	links:	url:CHEBI:42567	name:fisetin	normalName:fisetin	normalWikiTitle:fisetin	predictedType:chemical
+CANDIDATE	id:37918	inCount:0	outCount:1	links:	url:CHEBI:37918	name:F5ITC	normalName:f5itc	normalWikiTitle:f5itc	predictedType:chemical
+CANDIDATE	id:37928	inCount:0	outCount:1	links:	url:CHEBI:37928	name:F6ITC	normalName:f6itc	normalWikiTitle:f6itc	predictedType:chemical
+CANDIDATE	id:31536	inCount:0	outCount:4	links:	url:CHEBI:31536	name:(-)-FTC	normalName:(-)-ftc	normalWikiTitle:(-)-ftc	predictedType:chemical
+CANDIDATE	id:37918	inCount:0	outCount:1	links:	url:CHEBI:37918	name:5-FITC	normalName:5-fitc	normalWikiTitle:5-fitc	predictedType:chemical
+CANDIDATE	id:37928	inCount:0	outCount:1	links:	url:CHEBI:37928	name:6-FITC	normalName:6-fitc	normalWikiTitle:6-fitc	predictedType:chemical
+CANDIDATE	id:37918	inCount:0	outCount:1	links:	url:CHEBI:37918	name:FITC-I	normalName:fitc-i	normalWikiTitle:fitc-i	predictedType:chemical
+CANDIDATE	id:60597	inCount:0	outCount:3	links:	url:CHEBI:60597	name:EITC	normalName:eitc	normalWikiTitle:eitc	predictedType:chemical
+CANDIDATE	id:73224	inCount:0	outCount:1	links:	url:CHEBI:73224	name:AITC	normalName:aitc	normalWikiTitle:aitc	predictedType:chemical
+CANDIDATE	id:50534	inCount:0	outCount:1	links:	url:CHEBI:50534	name:BITC	normalName:bitc	normalWikiTitle:bitc	predictedType:chemical
+ENTITY	text:Pharmaceuticals	normalName:pharmaceuticals	predictedType:chemical	q:true	qid:Q38	docId:15550985	origText:Pharmaceuticals	url:CHEBI:52217
+CANDIDATE	id:52217	inCount:5	outCount:1	links:	url:CHEBI:52217	name:pharmaceutical	normalName:pharmaceutical	normalWikiTitle:pharmaceutical	predictedType:chemical
+ENTITY	text:dye	normalName:dye	predictedType:chemical	q:true	qid:Q38	docId:15550985	origText:dye	url:CHEBI:37958
+CANDIDATE	id:37958	inCount:2	outCount:1	links:	url:CHEBI:37958	name:dye	normalName:dye	normalWikiTitle:dye	predictedType:chemical
+ENTITY	text:DiI	normalName:dii	predictedType:chemical	q:true	qid:Q38	docId:15550985	origText:DiI	url:CHEBI:52029
+CANDIDATE	id:52029	inCount:0	outCount:2	links:	url:CHEBI:52029	name:DiI	normalName:dii	normalWikiTitle:dii	predictedType:chemical
+CANDIDATE	id:4285	inCount:0	outCount:1	links:	url:CHEBI:4285	name:DCI	normalName:dci	normalWikiTitle:dci	predictedType:chemical
+CANDIDATE	id:37256	inCount:0	outCount:1	links:	url:CHEBI:37256	name:dizinc	normalName:dizinc	normalWikiTitle:dizinc	predictedType:chemical
+CANDIDATE	id:23666	inCount:25	outCount:1	links:	url:CHEBI:23666	name:diamine	normalName:diamine	normalWikiTitle:diamine	predictedType:chemical
+CANDIDATE	id:4631	inCount:0	outCount:5	links:	url:CHEBI:4631	name:diosmin	normalName:diosmin	normalWikiTitle:diosmin	predictedType:chemical
+CANDIDATE	id:4551	inCount:0	outCount:2	links:	url:CHEBI:4551	name:digoxin	normalName:digoxin	normalWikiTitle:digoxin	predictedType:chemical
+CANDIDATE	id:74023	inCount:0	outCount:4	links:	url:CHEBI:74023	name:dioscin	normalName:dioscin	normalWikiTitle:dioscin	predictedType:chemical
+CANDIDATE	id:38627	inCount:3	outCount:4	links:	url:CHEBI:38627	name:diazine	normalName:diazine	normalWikiTitle:diazine	predictedType:chemical
+CANDIDATE	id:23853	inCount:10	outCount:1	links:	url:CHEBI:23853	name:dithiol	normalName:dithiol	normalWikiTitle:dithiol	predictedType:chemical
+CANDIDATE	id:23824	inCount:263	outCount:1	links:	url:CHEBI:23824	name:diol	normalName:diol	normalWikiTitle:diol	predictedType:chemical
+CANDIDATE	id:5846	inCount:0	outCount:1	links:	url:CHEBI:5846	name:IACI	normalName:iaci	normalWikiTitle:iaci	predictedType:chemical
+CANDIDATE	id:15768	inCount:0	outCount:3	links:	url:CHEBI:15768	name:DiIY	normalName:diiy	normalWikiTitle:diiy	predictedType:chemical
+CANDIDATE	id:74067	inCount:0	outCount:1	links:	url:CHEBI:74067	name:II	normalName:ii	normalWikiTitle:ii	predictedType:chemical
+ENTITY	text:Tris	normalName:tris	predictedType:chemical	q:true	qid:Q38	docId:15550985	origText:Tris	url:CHEBI:9754
+CANDIDATE	id:9754	inCount:0	outCount:2	links:	url:CHEBI:9754	name:tris	normalName:tris	normalWikiTitle:tris	predictedType:chemical
+ENTITY	text:acetic acid	normalName:acetic acid	predictedType:chemical	q:true	qid:Q38	docId:15550985	origText:acetic acid	url:CHEBI:15366
+CANDIDATE	id:15366	inCount:0	outCount:1	links:	url:CHEBI:15366	name:acetic acid	normalName:acetic acid	normalWikiTitle:acetic acid	predictedType:chemical
+ENTITY	text:fluorescein	normalName:fluorescein	predictedType:chemical	q:true	qid:Q38	docId:15550985	origText:fluorescein	url:CHEBI:31624
+CANDIDATE	id:31624	inCount:2	outCount:6	links:	url:CHEBI:31624	name:fluorescein	normalName:fluorescein	normalWikiTitle:fluorescein	predictedType:chemical
+ENTITY	text:TritonX-100	normalName:tritonx-100	predictedType:chemical	q:true	qid:Q38	docId:15550985	origText:TritonX-100	url:CHEBI:9750
+CANDIDATE	id:9750	inCount:0	outCount:1	links:	url:CHEBI:9750	name:Triton X-100	normalName:triton x-100	normalWikiTitle:triton x-100	predictedType:chemical
+CANDIDATE	id:29234	inCount:0	outCount:1	links:	url:CHEBI:29234	name:triton	normalName:triton	normalWikiTitle:triton	predictedType:chemical
+CANDIDATE	id:77571	inCount:0	outCount:2	links:	url:CHEBI:77571	name:tropisetron(1+)	normalName:tropisetron(1+)	normalWikiTitle:tropisetron(1+)	predictedType:chemical
+CANDIDATE	id:33483	inCount:0	outCount:1	links:	url:CHEBI:33483	name:trithionate(1-)	normalName:trithionate(1-)	normalWikiTitle:trithionate(1-)	predictedType:chemical
+CANDIDATE	id:60045	inCount:0	outCount:1	links:	url:CHEBI:60045	name:tricetin(1-)	normalName:tricetin(1-)	normalWikiTitle:tricetin(1-)	predictedType:chemical
+CANDIDATE	id:84327	inCount:0	outCount:5	links:	url:CHEBI:84327	name:torin 1	normalName:torin 1	normalWikiTitle:torin 1	predictedType:chemical
+CANDIDATE	id:66834	inCount:0	outCount:1	links:	url:CHEBI:66834	name:Triptogelin C-1	normalName:triptogelin c-1	normalWikiTitle:triptogelin c-1	predictedType:chemical
+CANDIDATE	id:32990	inCount:0	outCount:1	links:	url:CHEBI:32990	name:tin(0)	normalName:tin(0)	normalWikiTitle:tin(0)	predictedType:chemical
+CANDIDATE	id:66276	inCount:0	outCount:6	links:	url:CHEBI:66276	name:triptonine A	normalName:triptonine a	normalWikiTitle:triptonine a	predictedType:chemical
+CANDIDATE	id:61177	inCount:0	outCount:1	links:	url:CHEBI:61177	name:eletriptan(1+)	normalName:eletriptan(1+)	normalWikiTitle:eletriptan(1+)	predictedType:chemical

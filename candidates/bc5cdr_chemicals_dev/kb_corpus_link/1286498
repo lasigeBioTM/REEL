@@ -1,0 +1,12 @@
+ENTITY	text:fentanyl	normalName:fentanyl	predictedType:chemical	q:true	qid:Q197	docId:1286498	origText:fentanyl	url:D005283
+CANDIDATE	id:5283	inCount:40	outCount:1	links:	url:D005283	name:Fentanyl	normalName:fentanyl	normalWikiTitle:fentanyl	predictedType:Chemical
+ENTITY	text:flumazenil	normalName:flumazenil	predictedType:chemical	q:true	qid:Q197	docId:1286498	origText:flumazenil	url:D005442
+CANDIDATE	id:5442	inCount:9	outCount:1	links:	url:D005442	name:Flumazenil	normalName:flumazenil	normalWikiTitle:flumazenil	predictedType:Chemical
+ENTITY	text:benzodiazepine	normalName:benzodiazepine	predictedType:chemical	q:true	qid:Q197	docId:1286498	origText:benzodiazepine	url:D001569
+CANDIDATE	id:1569	inCount:260	outCount:1	links:	url:D001569	name:Benzodiazepine	normalName:benzodiazepine	normalWikiTitle:benzodiazepine	predictedType:Chemical
+ENTITY	text:diazepam	normalName:diazepam	predictedType:chemical	q:true	qid:Q197	docId:1286498	origText:diazepam	url:D003975
+CANDIDATE	id:3975	inCount:21	outCount:1	links:9020	url:D003975	name:Diazepam	normalName:diazepam	normalWikiTitle:diazepam	predictedType:Chemical
+ENTITY	text:meperidine	normalName:meperidine	predictedType:chemical	q:true	qid:Q197	docId:1286498	origText:meperidine	url:D008614
+CANDIDATE	id:8614	inCount:11	outCount:1	links:	url:D008614	name:Meperidine	normalName:meperidine	normalWikiTitle:meperidine	predictedType:Chemical
+ENTITY	text:morphine	normalName:morphine	predictedType:chemical	q:true	qid:Q197	docId:1286498	origText:morphine	url:D009020
+CANDIDATE	id:9020	inCount:13	outCount:1	links:3975	url:D009020	name:Morphine	normalName:morphine	normalWikiTitle:morphine	predictedType:Chemical

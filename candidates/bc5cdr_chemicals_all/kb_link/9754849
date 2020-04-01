@@ -1,0 +1,15 @@
+ENTITY	text:methadone	normalName:methadone	predictedType:chemical	q:true	qid:Q774	docId:9754849	origText:methadone	url:D008691
+CANDIDATE	id:8691	inCount:9	outCount:1	links:	url:D008691	name:Methadone	normalName:methadone	normalWikiTitle:methadone	predictedType:Chemical
+ENTITY	text:heroine	normalName:heroine	predictedType:chemical	q:true	qid:Q774	docId:9754849	origText:heroine	url:D003932
+CANDIDATE	id:3932	inCount:3	outCount:1	links:	url:D003932	name:Heroin	normalName:heroin	normalWikiTitle:heroin	predictedType:Chemical
+CANDIDATE	id:1827	inCount:0	outCount:1	links:	url:C001827	name:atheroline	normalName:atheroline	normalWikiTitle:atheroline	predictedType:Chemical
+CANDIDATE	id:622615	inCount:0	outCount:2	links:	url:C000622615	name:feroline	normalName:feroline	normalWikiTitle:feroline	predictedType:Chemical
+CANDIDATE	id:415362	inCount:0	outCount:1	links:	url:C415362	name:theromin	normalName:theromin	normalWikiTitle:theromin	predictedType:Chemical
+CANDIDATE	id:30041	inCount:0	outCount:1	links:	url:C030041	name:ergosine	normalName:ergosine	normalWikiTitle:ergosine	predictedType:Chemical
+CANDIDATE	id:5637	inCount:0	outCount:1	links:	url:C005637	name:spheroidene	normalName:spheroidene	normalWikiTitle:spheroidene	predictedType:Chemical
+CANDIDATE	id:59560	inCount:0	outCount:1	links:	url:C059560	name:thermospine	normalName:thermospine	normalWikiTitle:thermospine	predictedType:Chemical
+CANDIDATE	id:13805	inCount:16	outCount:1	links:	url:D013805	name:Theobromine	normalName:theobromine	normalWikiTitle:theobromine	predictedType:Chemical
+CANDIDATE	id:37448	inCount:0	outCount:1	links:	url:C037448	name:hermin	normalName:hermin	normalWikiTitle:hermin	predictedType:Chemical
+CANDIDATE	id:113612	inCount:0	outCount:1	links:	url:C113612	name:therin	normalName:therin	normalWikiTitle:therin	predictedType:Chemical
+ENTITY	text:cocaine	normalName:cocaine	predictedType:chemical	q:true	qid:Q774	docId:9754849	origText:cocaine	url:D003042
+CANDIDATE	id:3042	inCount:89	outCount:1	links:	url:D003042	name:Cocaine	normalName:cocaine	normalWikiTitle:cocaine	predictedType:Chemical

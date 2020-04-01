@@ -1,0 +1,4 @@
+ENTITY	text:diabetic autonomic neuropathy	normalName:diabetic autonomic neuropathy	predictedType:disease	q:true	qid:Q1320	docId:6773726	origText:diabetic autonomic neuropathy	url:D003929
+CANDIDATE	id:3929	inCount:2	outCount:2	links:	url:D003929	name:Diabetic Autonomic Neuropathy	normalName:diabetic autonomic neuropathy	normalWikiTitle:diabetic autonomic neuropathy	predictedType:Disease
+ENTITY	text:hypotension	normalName:hypotension	predictedType:disease	q:true	qid:Q1320	docId:6773726	origText:hypotension	url:D007022
+CANDIDATE	id:7022	inCount:3	outCount:1	links:	url:D007022	name:Hypotension	normalName:hypotension	normalWikiTitle:hypotension	predictedType:Disease

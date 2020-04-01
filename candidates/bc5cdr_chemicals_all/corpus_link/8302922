@@ -1,0 +1,8 @@
+ENTITY	text:PGE1	normalName:pge1	predictedType:chemical	q:true	qid:Q525	docId:8302922	origText:PGE1	url:D000527
+CANDIDATE	id:527	inCount:69	outCount:2	links:14294;7530	url:D000527	name:PGE1	normalName:pge1	normalWikiTitle:pge1	predictedType:Chemical
+ENTITY	text:trimethaphan	normalName:trimethaphan	predictedType:chemical	q:true	qid:Q525	docId:8302922	origText:trimethaphan	url:D014294
+CANDIDATE	id:14294	inCount:2	outCount:1	links:527;7530	url:D014294	name:Trimethaphan	normalName:trimethaphan	normalWikiTitle:trimethaphan	predictedType:Chemical
+ENTITY	text:prostaglandin E1	normalName:prostaglandin e1	predictedType:chemical	q:true	qid:Q525	docId:8302922	origText:prostaglandin E1	url:D000527
+CANDIDATE	id:527	inCount:69	outCount:2	links:14294;7530	url:D000527	name:Prostaglandin E1	normalName:prostaglandin e1	normalWikiTitle:prostaglandin e1	predictedType:Chemical
+ENTITY	text:isoflurane	normalName:isoflurane	predictedType:chemical	q:true	qid:Q525	docId:8302922	origText:isoflurane	url:D007530
+CANDIDATE	id:7530	inCount:1	outCount:1	links:527;14294	url:D007530	name:Isoflurane	normalName:isoflurane	normalWikiTitle:isoflurane	predictedType:Chemical

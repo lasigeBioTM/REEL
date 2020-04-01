@@ -1,0 +1,38 @@
+ENTITY	text:anuria	normalName:anuria	predictedType:disease	q:true	qid:Q409	docId:11256525	origText:anuria	url:D001002
+CANDIDATE	id:1002	inCount:0	outCount:2	links:	url:D001002	name:Anuria	normalName:anuria	normalWikiTitle:anuria	predictedType:Disease
+ENTITY	text:renal artery stenosis	normalName:renal artery stenosis	predictedType:disease	q:true	qid:Q409	docId:11256525	origText:renal artery stenosis	url:D012078
+CANDIDATE	id:12078	inCount:0	outCount:2	links:	url:D012078	name:Stenosis, Renal Artery	normalName:stenosis, renal artery	normalWikiTitle:stenosis, renal artery	predictedType:Disease
+ENTITY	text:pulmonary edema	normalName:pulmonary edema	predictedType:disease	q:true	qid:Q409	docId:11256525	origText:pulmonary edema	url:D011654
+CANDIDATE	id:11654	inCount:1	outCount:1	links:	url:D011654	name:Pulmonary Edema	normalName:pulmonary edema	normalWikiTitle:pulmonary edema	predictedType:Disease
+ENTITY	text:heart failure	normalName:heart failure	predictedType:disease	q:true	qid:Q409	docId:11256525	origText:heart failure	url:D006333
+CANDIDATE	id:6333	inCount:5	outCount:1	links:7022	url:D006333	name:Heart Failure	normalName:heart failure	normalWikiTitle:heart failure	predictedType:Disease
+ENTITY	text:myocardial infarction	normalName:myocardial infarction	predictedType:disease	q:true	qid:Q409	docId:11256525	origText:myocardial infarction	url:D009203
+CANDIDATE	id:9203	inCount:8	outCount:1	links:	url:D009203	name:Myocardial Infarction	normalName:myocardial infarction	normalWikiTitle:myocardial infarction	predictedType:Disease
+ENTITY	text:renovascular disease	normalName:renovascular disease	predictedType:disease	q:true	qid:Q409	docId:11256525	origText:renovascular disease	url:D014652
+CANDIDATE	id:14652	inCount:52	outCount:1	links:	url:D014652	name:Disease, Vascular	normalName:disease, vascular	normalWikiTitle:disease, vascular	predictedType:Disease
+CANDIDATE	id:14652	inCount:52	outCount:1	links:	url:D014652	name:Vascular Diseases	normalName:vascular diseases	normalWikiTitle:vascular diseases	predictedType:Disease
+CANDIDATE	id:17445	inCount:16	outCount:1	links:	url:D017445	name:Skin Diseases, Vascular	normalName:skin diseases, vascular	normalWikiTitle:skin diseases, vascular	predictedType:Disease
+CANDIDATE	id:13733	inCount:6	outCount:2	links:	url:D013733	name:Testicular Diseases	normalName:testicular diseases	normalWikiTitle:testicular diseases	predictedType:Disease
+CANDIDATE	id:9468	inCount:14	outCount:1	links:	url:D009468	name:Neuromuscular Diseases	normalName:neuromuscular diseases	normalWikiTitle:neuromuscular diseases	predictedType:Disease
+CANDIDATE	id:9135	inCount:77	outCount:2	links:6973	url:D009135	name:Muscular Diseases	normalName:muscular diseases	normalWikiTitle:muscular diseases	predictedType:Disease
+CANDIDATE	id:16491	inCount:8	outCount:1	links:	url:D016491	name:Peripheral Vascular Diseases	normalName:peripheral vascular diseases	normalWikiTitle:peripheral vascular diseases	predictedType:Disease
+CANDIDATE	id:13555	inCount:0	outCount:2	links:	url:D013555	name:Swine Vesicular Disease	normalName:swine vesicular disease	normalWikiTitle:swine vesicular disease	predictedType:Disease
+CANDIDATE	id:14845	inCount:5	outCount:1	links:	url:D014845	name:Vulvar Diseases	normalName:vulvar diseases	normalWikiTitle:vulvar diseases	predictedType:Disease
+CANDIDATE	id:15837	inCount:3	outCount:1	links:	url:D015837	name:Vestibular Diseases	normalName:vestibular diseases	normalWikiTitle:vestibular diseases	predictedType:Disease
+CANDIDATE	id:12164	inCount:50	outCount:1	links:	url:D012164	name:Retinal Diseases	normalName:retinal diseases	normalWikiTitle:retinal diseases	predictedType:Disease
+CANDIDATE	id:14652	inCount:52	outCount:1	links:	url:D014652	name:Vascular Disease	normalName:vascular disease	normalWikiTitle:vascular disease	predictedType:Disease
+ENTITY	text:chronic renal insufficiency	normalName:chronic renal insufficiency	predictedType:disease	q:true	qid:Q409	docId:11256525	origText:chronic renal insufficiency	url:D051436
+CANDIDATE	id:51436	inCount:1	outCount:1	links:	url:D051436	name:Renal Insufficiency, Chronic	normalName:renal insufficiency, chronic	normalWikiTitle:renal insufficiency, chronic	predictedType:Disease
+ENTITY	text:hypertensive	normalName:hypertensive	predictedType:disease	q:true	qid:Q409	docId:11256525	origText:hypertensive	url:D006973
+CANDIDATE	id:6973	inCount:18	outCount:1	links:9135	url:D006973	name:Hypertension	normalName:hypertension	normalWikiTitle:hypertension	predictedType:Disease
+CANDIDATE	id:58246	inCount:0	outCount:1	links:	url:D058246	name:Prehypertension	normalName:prehypertension	normalWikiTitle:prehypertension	predictedType:Disease
+CANDIDATE	id:6977	inCount:3	outCount:2	links:	url:D006977	name:Hypertension, Renal	normalName:hypertension, renal	normalWikiTitle:hypertension, renal	predictedType:Disease
+CANDIDATE	id:6941	inCount:0	outCount:1	links:	url:D006941	name:Hyperesthesia	normalName:hyperesthesia	normalWikiTitle:hyperesthesia	predictedType:Disease
+CANDIDATE	id:59468	inCount:0	outCount:1	links:	url:D059468	name:Masked Hypertension	normalName:masked hypertension	normalWikiTitle:masked hypertension	predictedType:Disease
+CANDIDATE	id:6967	inCount:9	outCount:1	links:	url:D006967	name:Hypersensitivity	normalName:hypersensitivity	normalWikiTitle:hypersensitivity	predictedType:Disease
+CANDIDATE	id:7022	inCount:3	outCount:1	links:7022;6333	url:D007022	name:Hypotension	normalName:hypotension	normalWikiTitle:hypotension	predictedType:Disease
+CANDIDATE	id:6987	inCount:1	outCount:1	links:	url:D006987	name:Hypesthesia	normalName:hypesthesia	normalWikiTitle:hypesthesia	predictedType:Disease
+CANDIDATE	id:563161	inCount:0	outCount:2	links:	url:C563161	name:Hypertensive Nephropathy	normalName:hypertensive nephropathy	normalWikiTitle:hypertensive nephropathy	predictedType:Disease
+CANDIDATE	id:58437	inCount:0	outCount:2	links:	url:D058437	name:Hypertensive Retinopathy	normalName:hypertensive retinopathy	normalWikiTitle:hypertensive retinopathy	predictedType:Disease
+ENTITY	text:hypotension	normalName:hypotension	predictedType:disease	q:true	qid:Q409	docId:11256525	origText:hypotension	url:D007022
+CANDIDATE	id:7022	inCount:3	outCount:1	links:7022;6333	url:D007022	name:Hypotension	normalName:hypotension	normalWikiTitle:hypotension	predictedType:Disease

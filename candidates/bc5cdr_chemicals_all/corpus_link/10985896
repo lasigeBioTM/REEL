@@ -1,0 +1,6 @@
+ENTITY	text:doxorubicin	normalName:doxorubicin	predictedType:chemical	q:true	qid:Q717	docId:10985896	origText:doxorubicin	url:D004317
+CANDIDATE	id:4317	inCount:559	outCount:1	links:17239	url:D004317	name:Doxorubicin	normalName:doxorubicin	normalWikiTitle:doxorubicin	predictedType:Chemical
+ENTITY	text:platinum	normalName:platinum	predictedType:chemical	q:true	qid:Q717	docId:10985896	origText:platinum	url:D010984
+CANDIDATE	id:10984	inCount:13	outCount:2	links:	url:D010984	name:Platinum	normalName:platinum	normalWikiTitle:platinum	predictedType:Chemical
+ENTITY	text:paclitaxel	normalName:paclitaxel	predictedType:chemical	q:true	qid:Q717	docId:10985896	origText:paclitaxel	url:D017239
+CANDIDATE	id:17239	inCount:58	outCount:1	links:4317	url:D017239	name:Paclitaxel	normalName:paclitaxel	normalWikiTitle:paclitaxel	predictedType:Chemical

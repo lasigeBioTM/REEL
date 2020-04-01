@@ -1,0 +1,40 @@
+ENTITY	text:Papillomas	normalName:papillomas	predictedType:disease	q:true	qid:Q466	docId:4090988	origText:Papillomas	url:D010212
+CANDIDATE	id:10212	inCount:7	outCount:1	links:	url:D010212	name:Papillomas	normalName:papillomas	normalWikiTitle:papillomas	predictedType:Disease
+ENTITY	text:bladder tumours	normalName:bladder tumours	predictedType:disease	q:true	qid:Q466	docId:4090988	origText:bladder tumours	url:D001749
+CANDIDATE	id:1749	inCount:2	outCount:2	links:6965	url:D001749	name:Bladder Tumor	normalName:bladder tumor	normalWikiTitle:bladder tumor	predictedType:Disease
+CANDIDATE	id:1948	inCount:0	outCount:2	links:	url:D001948	name:Brenner Tumor	normalName:brenner tumor	normalWikiTitle:brenner tumor	predictedType:Disease
+CANDIDATE	id:1747	inCount:1	outCount:2	links:	url:D001747	name:Urinary Bladder Fistula	normalName:urinary bladder fistula	normalWikiTitle:urinary bladder fistula	predictedType:Disease
+CANDIDATE	id:562406	inCount:0	outCount:1	links:	url:C562406	name:Bladder Diverticulum	normalName:bladder diverticulum	normalWikiTitle:bladder diverticulum	predictedType:Disease
+CANDIDATE	id:18335	inCount:4	outCount:1	links:	url:D018335	name:Rhabdoid Tumor	normalName:rhabdoid tumor	normalWikiTitle:rhabdoid tumor	predictedType:Disease
+CANDIDATE	id:1746	inCount:1	outCount:2	links:	url:D001746	name:Bladder Exstrophy	normalName:bladder exstrophy	normalWikiTitle:bladder exstrophy	predictedType:Disease
+CANDIDATE	id:314	inCount:0	outCount:1	links:	url:D000314	name:Adrenal Rest Tumor	normalName:adrenal rest tumor	normalWikiTitle:adrenal rest tumor	predictedType:Disease
+CANDIDATE	id:3557	inCount:1	outCount:1	links:	url:D003557	name:Phyllodes Tumor	normalName:phyllodes tumor	normalWikiTitle:phyllodes tumor	predictedType:Disease
+CANDIDATE	id:1750	inCount:0	outCount:2	links:	url:D001750	name:Urinary Bladder, Neurogenic	normalName:urinary bladder, neurogenic	normalWikiTitle:urinary bladder, neurogenic	predictedType:Disease
+CANDIDATE	id:1744	inCount:0	outCount:2	links:1744	url:D001744	name:Urinary Bladder Calculi	normalName:urinary bladder calculi	normalWikiTitle:urinary bladder calculi	predictedType:Disease
+CANDIDATE	id:7725	inCount:0	outCount:1	links:	url:D007725	name:Krukenberg Tumor	normalName:krukenberg tumor	normalWikiTitle:krukenberg tumor	predictedType:Disease
+CANDIDATE	id:1749	inCount:2	outCount:2	links:6965	url:D001749	name:Tumors, Bladder	normalName:tumors, bladder	normalWikiTitle:tumors, bladder	predictedType:Disease
+CANDIDATE	id:1749	inCount:2	outCount:2	links:6965	url:D001749	name:Bladder Tumors	normalName:bladder tumors	normalWikiTitle:bladder tumors	predictedType:Disease
+CANDIDATE	id:1749	inCount:2	outCount:2	links:6965	url:D001749	name:Tumor, Bladder	normalName:tumor, bladder	normalWikiTitle:tumor, bladder	predictedType:Disease
+CANDIDATE	id:1744	inCount:0	outCount:2	links:1744	url:D001744	name:Stones, Bladder	normalName:stones, bladder	normalWikiTitle:stones, bladder	predictedType:Disease
+CANDIDATE	id:1744	inCount:0	outCount:2	links:1744	url:D001744	name:Bladder Stones	normalName:bladder stones	normalWikiTitle:bladder stones	predictedType:Disease
+CANDIDATE	id:1744	inCount:0	outCount:2	links:1744	url:D001744	name:Calculus, Bladder	normalName:calculus, bladder	normalWikiTitle:calculus, bladder	predictedType:Disease
+CANDIDATE	id:1744	inCount:0	outCount:2	links:1744	url:D001744	name:Bladder Stone	normalName:bladder stone	normalWikiTitle:bladder stone	predictedType:Disease
+CANDIDATE	id:1744	inCount:0	outCount:2	links:1744	url:D001744	name:Stone, Bladder	normalName:stone, bladder	normalWikiTitle:stone, bladder	predictedType:Disease
+CANDIDATE	id:1744	inCount:0	outCount:2	links:1744	url:D001744	name:Bladder Calculus	normalName:bladder calculus	normalWikiTitle:bladder calculus	predictedType:Disease
+ENTITY	text:hyperplasia	normalName:hyperplasia	predictedType:disease	q:true	qid:Q466	docId:4090988	origText:hyperplasia	url:D006965
+CANDIDATE	id:6965	inCount:4	outCount:1	links:1749	url:D006965	name:Hyperplasia	normalName:hyperplasia	normalWikiTitle:hyperplasia	predictedType:Disease
+ENTITY	text:bladder calculi	normalName:bladder calculi	predictedType:disease	q:true	qid:Q466	docId:4090988	origText:bladder calculi	url:D001744
+CANDIDATE	id:1744	inCount:0	outCount:2	links:1744	url:D001744	name:Calculi, Bladder	normalName:calculi, bladder	normalWikiTitle:calculi, bladder	predictedType:Disease
+ENTITY	text:tumours	normalName:tumours	predictedType:disease	q:true	qid:Q466	docId:4090988	origText:tumours	url:D009369
+CANDIDATE	id:9369	inCount:18	outCount:1	links:	url:D009369	name:Tumors	normalName:tumors	normalWikiTitle:tumors	predictedType:Disease
+CANDIDATE	id:14202	inCount:6	outCount:1	links:	url:D014202	name:Tremor	normalName:tremor	normalWikiTitle:tremor	predictedType:Disease
+CANDIDATE	id:53608	inCount:0	outCount:1	links:	url:D053608	name:Stupor	normalName:stupor	normalWikiTitle:stupor	predictedType:Disease
+CANDIDATE	id:9396	inCount:9	outCount:3	links:	url:D009396	name:Wilms Tumor	normalName:wilms tumor	normalWikiTitle:wilms tumor	predictedType:Disease
+CANDIDATE	id:563168	inCount:0	outCount:2	links:	url:C563168	name:Askin Tumor	normalName:askin tumor	normalWikiTitle:askin tumor	predictedType:Disease
+CANDIDATE	id:5918	inCount:1	outCount:1	links:	url:D005918	name:Glomus Tumor	normalName:glomus tumor	normalWikiTitle:glomus tumor	predictedType:Disease
+CANDIDATE	id:601583	inCount:0	outCount:1	links:	url:601583	name:WILMS TUMOR 5	normalName:wilms tumor 5	normalWikiTitle:wilms tumor 5	predictedType:Disease
+CANDIDATE	id:616806	inCount:0	outCount:1	links:	url:616806	name:WILMS TUMOR 6	normalName:wilms tumor 6	normalWikiTitle:wilms tumor 6	predictedType:Disease
+CANDIDATE	id:563336	inCount:0	outCount:1	links:	url:C563336	name:Wilms Tumor 4	normalName:wilms tumor 4	normalWikiTitle:wilms tumor 4	predictedType:Disease
+CANDIDATE	id:6337	inCount:1	outCount:1	links:	url:D006337	name:Heart Murmurs	normalName:heart murmurs	normalWikiTitle:heart murmurs	predictedType:Disease
+CANDIDATE	id:565991	inCount:0	outCount:1	links:	url:C565991	name:Wilms Tumor 3	normalName:wilms tumor 3	normalWikiTitle:wilms tumor 3	predictedType:Disease
+CANDIDATE	id:9369	inCount:18	outCount:1	links:	url:D009369	name:Tumor	normalName:tumor	normalWikiTitle:tumor	predictedType:Disease

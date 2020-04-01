@@ -1,0 +1,27 @@
+ENTITY	text:cardiac arrhythmia	normalName:cardiac arrhythmia	predictedType:disease	q:true	qid:Q581	docId:19681452	origText:cardiac arrhythmia	url:D001145
+CANDIDATE	id:1145	inCount:27	outCount:2	links:	url:D001145	name:Arrhythmia, Cardiac	normalName:arrhythmia, cardiac	normalWikiTitle:arrhythmia, cardiac	predictedType:Disease
+ENTITY	text:basal ganglia infarcts	normalName:basal ganglia infarcts	predictedType:disease	q:true	qid:Q581	docId:19681452	origText:basal ganglia infarcts	url:D020520
+CANDIDATE	id:20520	inCount:2	outCount:2	links:	url:D020520	name:Brain Infarction	normalName:brain infarction	normalWikiTitle:brain infarction	predictedType:Disease
+CANDIDATE	id:20145	inCount:1	outCount:2	links:	url:D020145	name:Basal Ganglia Hemorrhage	normalName:basal ganglia hemorrhage	normalWikiTitle:basal ganglia hemorrhage	predictedType:Disease
+CANDIDATE	id:563034	inCount:0	outCount:2	links:	url:C563034	name:Basal Laminar Drusen	normalName:basal laminar drusen	normalWikiTitle:basal laminar drusen	predictedType:Disease
+CANDIDATE	id:1480	inCount:28	outCount:1	links:	url:D001480	name:Basal Ganglia Diseases	normalName:basal ganglia diseases	normalWikiTitle:basal ganglia diseases	predictedType:Disease
+CANDIDATE	id:17191	inCount:5	outCount:1	links:	url:D017191	name:Ascaridida Infections	normalName:ascaridida infections	normalWikiTitle:ascaridida infections	predictedType:Disease
+CANDIDATE	id:1474	inCount:3	outCount:1	links:	url:D001474	name:Bartonella Infections	normalName:bartonella infections	normalWikiTitle:bartonella infections	predictedType:Disease
+CANDIDATE	id:16863	inCount:1	outCount:1	links:	url:D016863	name:Bacillaceae Infections	normalName:bacillaceae infections	normalWikiTitle:bacillaceae infections	predictedType:Disease
+CANDIDATE	id:616413	inCount:0	outCount:2	links:	url:616413	name:BASAL GANGLIA CALCIFICATION, IDIOPATHIC, 6	normalName:basal ganglia calcification, idiopathic, 6	normalWikiTitle:basal ganglia calcification, idiopathic, 6	predictedType:Disease
+CANDIDATE	id:536275	inCount:0	outCount:3	links:	url:C536275	name:Idiopathic basal ganglia calcification 1	normalName:idiopathic basal ganglia calcification 1	normalWikiTitle:idiopathic basal ganglia calcification 1	predictedType:Disease
+CANDIDATE	id:615007	inCount:0	outCount:2	links:	url:615007	name:BASAL GANGLIA CALCIFICATION, IDIOPATHIC, 4	normalName:basal ganglia calcification, idiopathic, 4	normalWikiTitle:basal ganglia calcification, idiopathic, 4	predictedType:Disease
+CANDIDATE	id:20145	inCount:1	outCount:2	links:	url:D020145	name:Hematoma, Basal Ganglia	normalName:hematoma, basal ganglia	normalWikiTitle:hematoma, basal ganglia	predictedType:Disease
+ENTITY	text:respiratory dysfunction	normalName:respiratory dysfunction	predictedType:disease	q:true	qid:Q581	docId:19681452	origText:respiratory dysfunction	url:D012131
+CANDIDATE	id:12131	inCount:13	outCount:1	links:	url:D012131	name:Respiratory Insufficiency	normalName:respiratory insufficiency	normalWikiTitle:respiratory insufficiency	predictedType:Disease
+CANDIDATE	id:53120	inCount:1	outCount:2	links:	url:D053120	name:Respiratory Aspiration	normalName:respiratory aspiration	normalWikiTitle:respiratory aspiration	predictedType:Disease
+CANDIDATE	id:55031	inCount:0	outCount:1	links:	url:D055031	name:Primary Graft Dysfunction	normalName:primary graft dysfunction	normalWikiTitle:primary graft dysfunction	predictedType:Disease
+CANDIDATE	id:12141	inCount:27	outCount:2	links:	url:D012141	name:Respiratory Tract Infections	normalName:respiratory tract infections	normalWikiTitle:respiratory tract infections	predictedType:Disease
+CANDIDATE	id:580477	inCount:0	outCount:1	links:	url:C580477	name:Surfactant Dysfunction	normalName:surfactant dysfunction	normalWikiTitle:surfactant dysfunction	predictedType:Disease
+CANDIDATE	id:142	inCount:0	outCount:2	links:	url:D000142	name:Acidosis, Respiratory	normalName:acidosis, respiratory	normalWikiTitle:acidosis, respiratory	predictedType:Disease
+CANDIDATE	id:18754	inCount:2	outCount:1	links:	url:D018754	name:Ventricular Dysfunction	normalName:ventricular dysfunction	normalWikiTitle:ventricular dysfunction	predictedType:Disease
+CANDIDATE	id:7172	inCount:1	outCount:2	links:	url:D007172	name:Erectile Dysfunction	normalName:erectile dysfunction	normalWikiTitle:erectile dysfunction	predictedType:Disease
+CANDIDATE	id:12133	inCount:0	outCount:2	links:	url:D012133	name:Respiratory Paralysis	normalName:respiratory paralysis	normalWikiTitle:respiratory paralysis	predictedType:Disease
+CANDIDATE	id:12130	inCount:6	outCount:2	links:	url:D012130	name:Respiratory Hypersensitivity	normalName:respiratory hypersensitivity	normalWikiTitle:respiratory hypersensitivity	predictedType:Disease
+CANDIDATE	id:12141	inCount:27	outCount:2	links:	url:D012141	name:Infections, Respiratory	normalName:infections, respiratory	normalWikiTitle:infections, respiratory	predictedType:Disease
+CANDIDATE	id:12141	inCount:27	outCount:2	links:	url:D012141	name:Respiratory Infections	normalName:respiratory infections	normalWikiTitle:respiratory infections	predictedType:Disease

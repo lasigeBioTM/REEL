@@ -1,0 +1,10 @@
+ENTITY	text:1-methyl-4-phenyl-1,2,3,6-tetrahydropyridine	normalName:1-methyl-4-phenyl-1,2,3,6-tetrahydropyridine	predictedType:chemical	q:true	qid:Q187	docId:20169779	origText:1-methyl-4-phenyl-1,2,3,6-tetrahydropyridine	url:D015632
+CANDIDATE	id:15632	inCount:30	outCount:1	links:15632	url:D015632	name:1-Methyl-4-phenyl-1,2,3,6-tetrahydropyridine	normalName:1-methyl-4-phenyl-1,2,3,6-tetrahydropyridine	normalWikiTitle:1-methyl-4-phenyl-1,2,3,6-tetrahydropyridine	predictedType:Chemical
+ENTITY	text:dopamine	normalName:dopamine	predictedType:chemical	q:true	qid:Q187	docId:20169779	origText:dopamine	url:D004298
+CANDIDATE	id:4298	inCount:90	outCount:2	links:	url:D004298	name:Dopamine	normalName:dopamine	normalWikiTitle:dopamine	predictedType:Chemical
+ENTITY	text:levodopa	normalName:levodopa	predictedType:chemical	q:true	qid:Q187	docId:20169779	origText:levodopa	url:D007980
+CANDIDATE	id:7980	inCount:32	outCount:1	links:	url:D007980	name:Levodopa	normalName:levodopa	normalWikiTitle:levodopa	predictedType:Chemical
+ENTITY	text:benserazide	normalName:benserazide	predictedType:chemical	q:true	qid:Q187	docId:20169779	origText:benserazide	url:D001545
+CANDIDATE	id:1545	inCount:1	outCount:1	links:	url:D001545	name:Benserazide	normalName:benserazide	normalWikiTitle:benserazide	predictedType:Chemical
+ENTITY	text:MPTP	normalName:mptp	predictedType:chemical	q:true	qid:Q187	docId:20169779	origText:MPTP	url:D015632
+CANDIDATE	id:15632	inCount:30	outCount:1	links:15632	url:D015632	name:MPTP	normalName:mptp	normalWikiTitle:mptp	predictedType:Chemical

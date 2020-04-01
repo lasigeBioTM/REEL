@@ -1,0 +1,48 @@
+ENTITY	text:elastosis perforans serpiginosa	normalName:elastosis perforans serpiginosa	predictedType:disease	q:true	qid:Q1485	docId:6216862	origText:elastosis perforans serpiginosa	url:C536202
+CANDIDATE	id:536202	inCount:0	outCount:1	links:	url:C536202	name:Elastosis perforans serpiginosa	normalName:elastosis perforans serpiginosa	normalWikiTitle:elastosis perforans serpiginosa	predictedType:Disease
+ENTITY	text:systemic lupus erythematosus	normalName:systemic lupus erythematosus	predictedType:disease	q:true	qid:Q1485	docId:6216862	origText:systemic lupus erythematosus	url:D008180
+CANDIDATE	id:8180	inCount:8	outCount:2	links:17285;5076;11507;7674;9157	url:D008180	name:Lupus Erythematosus, Systemic	normalName:lupus erythematosus, systemic	normalWikiTitle:lupus erythematosus, systemic	predictedType:Disease
+ENTITY	text:skin lesion	normalName:skin lesion	predictedType:disease	q:true	qid:Q1485	docId:6216862	origText:skin lesion	url:D012871
+CANDIDATE	id:12871	inCount:71	outCount:1	links:11507	url:D012871	name:Skin Diseases	normalName:skin diseases	normalWikiTitle:skin diseases	predictedType:Disease
+CANDIDATE	id:12877	inCount:12	outCount:1	links:	url:D012877	name:Skin Manifestations	normalName:skin manifestations	normalWikiTitle:skin manifestations	predictedType:Disease
+CANDIDATE	id:65008	inCount:0	outCount:1	links:	url:D065008	name:Scorpion Stings	normalName:scorpion stings	normalWikiTitle:scorpion stings	predictedType:Disease
+CANDIDATE	id:7088	inCount:0	outCount:1	links:	url:D007088	name:Illusions	normalName:illusions	normalWikiTitle:illusions	predictedType:Disease
+CANDIDATE	id:7876	inCount:1	outCount:2	links:	url:D007876	name:Legionellosis	normalName:legionellosis	normalWikiTitle:legionellosis	predictedType:Disease
+CANDIDATE	id:7922	inCount:1	outCount:2	links:	url:D007922	name:Leptospirosis	normalName:leptospirosis	normalWikiTitle:leptospirosis	predictedType:Disease
+CANDIDATE	id:19687	inCount:0	outCount:2	links:	url:D019687	name:Uterine Inversion	normalName:uterine inversion	normalWikiTitle:uterine inversion	predictedType:Disease
+CANDIDATE	id:1404	inCount:0	outCount:2	links:	url:D001404	name:Babesiosis	normalName:babesiosis	normalWikiTitle:babesiosis	predictedType:Disease
+CANDIDATE	id:15354	inCount:0	outCount:1	links:	url:D015354	name:Vision, Low	normalName:vision, low	normalWikiTitle:vision, low	predictedType:Disease
+CANDIDATE	id:7855	inCount:1	outCount:1	links:	url:D007855	name:Lead Poisoning	normalName:lead poisoning	normalWikiTitle:lead poisoning	predictedType:Disease
+CANDIDATE	id:69836	inCount:0	outCount:1	links:	url:D000069836	name:Avulsion, Skin	normalName:avulsion, skin	normalWikiTitle:avulsion, skin	predictedType:Disease
+CANDIDATE	id:69836	inCount:0	outCount:1	links:	url:D000069836	name:Skin Avulsion	normalName:skin avulsion	normalWikiTitle:skin avulsion	predictedType:Disease
+CANDIDATE	id:69836	inCount:0	outCount:1	links:	url:D000069836	name:Avulsions, Skin	normalName:avulsions, skin	normalWikiTitle:avulsions, skin	predictedType:Disease
+CANDIDATE	id:69836	inCount:0	outCount:1	links:	url:D000069836	name:Skin Avulsions	normalName:skin avulsions	normalWikiTitle:skin avulsions	predictedType:Disease
+CANDIDATE	id:9506	inCount:10	outCount:1	links:	url:D009506	name:Skin Moles	normalName:skin moles	normalWikiTitle:skin moles	predictedType:Disease
+CANDIDATE	id:9506	inCount:10	outCount:1	links:	url:D009506	name:Moles, Skin	normalName:moles, skin	normalWikiTitle:moles, skin	predictedType:Disease
+CANDIDATE	id:9506	inCount:10	outCount:1	links:	url:D009506	name:Mole, Skin	normalName:mole, skin	normalWikiTitle:mole, skin	predictedType:Disease
+CANDIDATE	id:9506	inCount:10	outCount:1	links:	url:D009506	name:Skin Mole	normalName:skin mole	normalWikiTitle:skin mole	predictedType:Disease
+CANDIDATE	id:12877	inCount:12	outCount:1	links:	url:D012877	name:Skin Manifestation	normalName:skin manifestation	normalWikiTitle:skin manifestation	predictedType:Disease
+CANDIDATE	id:12877	inCount:12	outCount:1	links:	url:D012877	name:Manifestation, Skin	normalName:manifestation, skin	normalWikiTitle:manifestation, skin	predictedType:Disease
+ENTITY	text:myasthenia gravis	normalName:myasthenia gravis	predictedType:disease	q:true	qid:Q1485	docId:6216862	origText:myasthenia gravis	url:D009157
+CANDIDATE	id:9157	inCount:5	outCount:2	links:17285;8180;11507;7674;5076	url:D009157	name:Myasthenia Gravis	normalName:myasthenia gravis	normalWikiTitle:myasthenia gravis	predictedType:Disease
+ENTITY	text:polymyositis	normalName:polymyositis	predictedType:disease	q:true	qid:Q1485	docId:6216862	origText:polymyositis	url:D017285
+CANDIDATE	id:17285	inCount:1	outCount:1	links:8180;11507;5076;7674;9157	url:D017285	name:Polymyositis	normalName:polymyositis	normalWikiTitle:polymyositis	predictedType:Disease
+ENTITY	text:rheumatoid arthritis	normalName:rheumatoid arthritis	predictedType:disease	q:true	qid:Q1485	docId:6216862	origText:rheumatoid arthritis	url:D001172
+CANDIDATE	id:1172	inCount:8	outCount:3	links:	url:D001172	name:Arthritis, Rheumatoid	normalName:arthritis, rheumatoid	normalWikiTitle:arthritis, rheumatoid	predictedType:Disease
+ENTITY	text:Wilson's disease	normalName:wilson's disease	predictedType:disease	q:true	qid:Q1485	docId:6216862	origText:Wilson's disease	url:D006527
+CANDIDATE	id:6527	inCount:2	outCount:6	links:	url:D006527	name:Wilson's Disease	normalName:wilson's disease	normalWikiTitle:wilson's disease	predictedType:Disease
+ENTITY	text:Skin rashes	normalName:skin rashes	predictedType:disease	q:true	qid:Q1485	docId:6216862	origText:Skin rashes	url:D005076
+CANDIDATE	id:5076	inCount:1	outCount:1	links:17285;8180;11507;9157	url:D005076	name:Rash, Skin	normalName:rash, skin	normalWikiTitle:rash, skin	predictedType:Disease
+CANDIDATE	id:12871	inCount:71	outCount:1	links:11507	url:D012871	name:Skin Diseases	normalName:skin diseases	normalWikiTitle:skin diseases	predictedType:Disease
+CANDIDATE	id:13553	inCount:12	outCount:1	links:	url:D013553	name:Swine Diseases	normalName:swine diseases	normalWikiTitle:swine diseases	predictedType:Disease
+CANDIDATE	id:12878	inCount:41	outCount:2	links:	url:D012878	name:Skin Neoplasms	normalName:skin neoplasms	normalWikiTitle:skin neoplasms	predictedType:Disease
+CANDIDATE	id:13122	inCount:16	outCount:1	links:	url:D013122	name:Spinal Diseases	normalName:spinal diseases	normalWikiTitle:spinal diseases	predictedType:Disease
+CANDIDATE	id:12868	inCount:63	outCount:2	links:	url:D012868	name:Skin Abnormalities	normalName:skin abnormalities	normalWikiTitle:skin abnormalities	predictedType:Disease
+CANDIDATE	id:7674	inCount:65	outCount:1	links:17285;8180;11507;9157	url:D007674	name:Kidney Diseases	normalName:kidney diseases	normalWikiTitle:kidney diseases	predictedType:Disease
+CANDIDATE	id:17193	inCount:5	outCount:2	links:	url:D017193	name:Skin Diseases, Viral	normalName:skin diseases, viral	normalWikiTitle:skin diseases, viral	predictedType:Disease
+CANDIDATE	id:17192	inCount:18	outCount:2	links:	url:D017192	name:Skin Diseases, Bacterial	normalName:skin diseases, bacterial	normalWikiTitle:skin diseases, bacterial	predictedType:Disease
+CANDIDATE	id:13554	inCount:0	outCount:2	links:	url:D013554	name:Swine Erysipelas	normalName:swine erysipelas	normalWikiTitle:swine erysipelas	predictedType:Disease
+CANDIDATE	id:16103	inCount:0	outCount:2	links:	url:D016103	name:Spinal Fractures	normalName:spinal fractures	normalWikiTitle:spinal fractures	predictedType:Disease
+CANDIDATE	id:5076	inCount:1	outCount:1	links:17285;8180;11507;9157	url:D005076	name:Skin Rash	normalName:skin rash	normalWikiTitle:skin rash	predictedType:Disease
+ENTITY	text:proteinuria	normalName:proteinuria	predictedType:disease	q:true	qid:Q1485	docId:6216862	origText:proteinuria	url:D011507
+CANDIDATE	id:11507	inCount:4	outCount:2	links:5076;9157;17285;12871;8180;7674	url:D011507	name:Proteinuria	normalName:proteinuria	normalWikiTitle:proteinuria	predictedType:Disease

@@ -1,0 +1,17 @@
+ENTITY	text:renal failure	normalName:renal failure	predictedType:disease	q:true	qid:Q69	docId:2217015	origText:renal failure	url:D051437
+CANDIDATE	id:51437	inCount:10	outCount:1	links:	url:D051437	name:Renal Failure	normalName:renal failure	normalWikiTitle:renal failure	predictedType:Disease
+ENTITY	text:hypothyroid	normalName:hypothyroid	predictedType:disease	q:true	qid:Q69	docId:2217015	origText:hypothyroid	url:D007037
+CANDIDATE	id:7037	inCount:14	outCount:1	links:7037	url:D007037	name:Hypothyroidism	normalName:hypothyroidism	normalWikiTitle:hypothyroidism	predictedType:Disease
+CANDIDATE	id:6980	inCount:6	outCount:1	links:	url:D006980	name:Hyperthyroidism	normalName:hyperthyroidism	normalWikiTitle:hyperthyroidism	predictedType:Disease
+CANDIDATE	id:7011	inCount:9	outCount:1	links:	url:D007011	name:Hypoparathyroidism	normalName:hypoparathyroidism	normalWikiTitle:hypoparathyroidism	predictedType:Disease
+CANDIDATE	id:7035	inCount:2	outCount:1	links:	url:D007035	name:Hypothermia	normalName:hypothermia	normalWikiTitle:hypothermia	predictedType:Disease
+CANDIDATE	id:7007	inCount:8	outCount:1	links:	url:D007007	name:Hypohidrosis	normalName:hypohidrosis	normalWikiTitle:hypohidrosis	predictedType:Disease
+CANDIDATE	id:6961	inCount:5	outCount:1	links:	url:D006961	name:Hyperparathyroidism	normalName:hyperparathyroidism	normalWikiTitle:hyperparathyroidism	predictedType:Disease
+CANDIDATE	id:7039	inCount:27	outCount:1	links:	url:D007039	name:Hypotrichosis	normalName:hypotrichosis	normalWikiTitle:hypotrichosis	predictedType:Disease
+CANDIDATE	id:13966	inCount:4	outCount:1	links:	url:D013966	name:Thyroiditis	normalName:thyroiditis	normalWikiTitle:thyroiditis	predictedType:Disease
+CANDIDATE	id:16606	inCount:0	outCount:1	links:	url:D016606	name:Thyroid Nodule	normalName:thyroid nodule	normalWikiTitle:thyroid nodule	predictedType:Disease
+CANDIDATE	id:6981	inCount:5	outCount:1	links:	url:D006981	name:Hyperthyroxinemia	normalName:hyperthyroxinemia	normalWikiTitle:hyperthyroxinemia	predictedType:Disease
+ENTITY	text:neutropenia	normalName:neutropenia	predictedType:disease	q:true	qid:Q69	docId:2217015	origText:neutropenia	url:D009503
+CANDIDATE	id:9503	inCount:19	outCount:1	links:	url:D009503	name:Neutropenia	normalName:neutropenia	normalWikiTitle:neutropenia	predictedType:Disease
+ENTITY	text:hypothyroidism	normalName:hypothyroidism	predictedType:disease	q:true	qid:Q69	docId:2217015	origText:hypothyroidism	url:D007037
+CANDIDATE	id:7037	inCount:14	outCount:1	links:7037	url:D007037	name:Hypothyroidism	normalName:hypothyroidism	normalWikiTitle:hypothyroidism	predictedType:Disease

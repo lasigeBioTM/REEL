@@ -1,0 +1,17 @@
+ENTITY	text:domperidone	normalName:domperidone	predictedType:chemical	q:true	qid:Q45	docId:16309808	origText:domperidone	url:D004294
+CANDIDATE	id:4294	inCount:7	outCount:2	links:	url:D004294	name:Domperidone	normalName:domperidone	normalWikiTitle:domperidone	predictedType:Chemical
+ENTITY	text:dopamine	normalName:dopamine	predictedType:chemical	q:true	qid:Q45	docId:16309808	origText:dopamine	url:D004298
+CANDIDATE	id:4298	inCount:90	outCount:2	links:	url:D004298	name:Dopamine	normalName:dopamine	normalWikiTitle:dopamine	predictedType:Chemical
+ENTITY	text:domperione	normalName:domperione	predictedType:chemical	q:true	qid:Q45	docId:16309808	origText:domperione	url:D004294
+CANDIDATE	id:4294	inCount:7	outCount:2	links:	url:D004294	name:Domperidone	normalName:domperidone	normalWikiTitle:domperidone	predictedType:Chemical
+CANDIDATE	id:54030	inCount:0	outCount:1	links:	url:C054030	name:duoperone	normalName:duoperone	normalWikiTitle:duoperone	predictedType:Chemical
+CANDIDATE	id:5209	inCount:0	outCount:1	links:	url:C005209	name:moperone	normalName:moperone	normalWikiTitle:moperone	predictedType:Chemical
+CANDIDATE	id:13528	inCount:0	outCount:1	links:	url:C013528	name:etoperidone	normalName:etoperidone	normalWikiTitle:etoperidone	predictedType:Chemical
+CANDIDATE	id:84300	inCount:0	outCount:1	links:	url:C084300	name:imperialone	normalName:imperialone	normalWikiTitle:imperialone	predictedType:Chemical
+CANDIDATE	id:72259	inCount:0	outCount:2	links:	url:C072259	name:ocaperidone	normalName:ocaperidone	normalWikiTitle:ocaperidone	predictedType:Chemical
+CANDIDATE	id:14049	inCount:0	outCount:2	links:	url:D014049	name:Tolperisone	normalName:tolperisone	normalWikiTitle:tolperisone	predictedType:Chemical
+CANDIDATE	id:81732	inCount:0	outCount:2	links:	url:C081732	name:iloperidone	normalName:iloperidone	normalWikiTitle:iloperidone	predictedType:Chemical
+CANDIDATE	id:412962	inCount:0	outCount:1	links:	url:C412962	name:coumaperine	normalName:coumaperine	normalWikiTitle:coumaperine	predictedType:Chemical
+CANDIDATE	id:618188	inCount:0	outCount:1	links:	url:C000618188	name:isoperidone	normalName:isoperidone	normalWikiTitle:isoperidone	predictedType:Chemical
+ENTITY	text:levodopa	normalName:levodopa	predictedType:chemical	q:true	qid:Q45	docId:16309808	origText:levodopa	url:D007980
+CANDIDATE	id:7980	inCount:32	outCount:1	links:	url:D007980	name:Levodopa	normalName:levodopa	normalWikiTitle:levodopa	predictedType:Chemical

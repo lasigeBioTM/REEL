@@ -1,0 +1,25 @@
+ENTITY	text:acute renal failure	normalName:acute renal failure	predictedType:disease	q:true	qid:Q354	docId:19135948	origText:acute renal failure	url:D058186
+CANDIDATE	id:58186	inCount:2	outCount:1	links:	url:D058186	name:Acute Renal Failure	normalName:acute renal failure	normalWikiTitle:acute renal failure	predictedType:Disease
+ENTITY	text:GVHD	normalName:gvhd	predictedType:disease	q:true	qid:Q354	docId:19135948	origText:GVHD	url:D006086
+CANDIDATE	id:6086	inCount:0	outCount:1	links:6086	url:D006086	name:GVHDS	normalName:gvhds	normalWikiTitle:gvhds	predictedType:Disease
+CANDIDATE	id:565551	inCount:0	outCount:2	links:	url:C565551	name:GHDD	normalName:ghdd	normalWikiTitle:ghdd	predictedType:Disease
+CANDIDATE	id:537149	inCount:0	outCount:3	links:	url:C537149	name:IGHD3	normalName:ighd3	normalWikiTitle:ighd3	predictedType:Disease
+CANDIDATE	id:65227	inCount:1	outCount:2	links:	url:D065227	name:TAGHD	normalName:taghd	normalWikiTitle:taghd	predictedType:Disease
+CANDIDATE	id:562704	inCount:0	outCount:1	links:	url:C562704	name:IGHD2	normalName:ighd2	normalWikiTitle:ighd2	predictedType:Disease
+CANDIDATE	id:6816	inCount:3	outCount:5	links:	url:D006816	name:HD	normalName:hd	normalWikiTitle:hd	predictedType:Disease
+CANDIDATE	id:565278	inCount:0	outCount:1	links:	url:C565278	name:DMGDHD	normalName:dmgdhd	normalWikiTitle:dmgdhd	predictedType:Disease
+CANDIDATE	id:566618	inCount:0	outCount:4	links:	url:C566618	name:PHGDHD	normalName:phgdhd	normalWikiTitle:phgdhd	predictedType:Disease
+CANDIDATE	id:567564	inCount:0	outCount:2	links:	url:C567564	name:IGHD1B	normalName:ighd1b	normalWikiTitle:ighd1b	predictedType:Disease
+CANDIDATE	id:537404	inCount:0	outCount:1	links:	url:C537404	name:IGHD1A	normalName:ighd1a	normalWikiTitle:ighd1a	predictedType:Disease
+ENTITY	text:AML	normalName:aml	predictedType:disease	q:true	qid:Q354	docId:19135948	origText:AML	url:D015470
+CANDIDATE	id:15470	inCount:13	outCount:1	links:15470	url:D015470	name:AML	normalName:aml	normalWikiTitle:aml	predictedType:Disease
+ENTITY	text:mucositis	normalName:mucositis	predictedType:disease	q:true	qid:Q354	docId:19135948	origText:mucositis	url:D052016
+CANDIDATE	id:52016	inCount:0	outCount:2	links:	url:D052016	name:Mucositis	normalName:mucositis	normalWikiTitle:mucositis	predictedType:Disease
+ENTITY	text:Graft-versus-host disease	normalName:graft-versus-host disease	predictedType:disease	q:true	qid:Q354	docId:19135948	origText:Graft-versus-host disease	url:D006086
+CANDIDATE	id:6086	inCount:0	outCount:1	links:6086	url:D006086	name:Disease, Graft-Versus-Host	normalName:disease, graft-versus-host	normalWikiTitle:disease, graft-versus-host	predictedType:Disease
+ENTITY	text:myelodysplastic syndrome	normalName:myelodysplastic syndrome	predictedType:disease	q:true	qid:Q354	docId:19135948	origText:myelodysplastic syndrome	url:D009190
+CANDIDATE	id:9190	inCount:8	outCount:1	links:	url:D009190	name:Myelodysplastic Syndrome	normalName:myelodysplastic syndrome	normalWikiTitle:myelodysplastic syndrome	predictedType:Disease
+ENTITY	text:sinusoidal obstruction syndrome	normalName:sinusoidal obstruction syndrome	predictedType:disease	q:true	qid:Q354	docId:19135948	origText:sinusoidal obstruction syndrome	url:D006504
+CANDIDATE	id:6504	inCount:1	outCount:2	links:	url:D006504	name:Sinusoidal Obstruction Syndrome	normalName:sinusoidal obstruction syndrome	normalWikiTitle:sinusoidal obstruction syndrome	predictedType:Disease
+ENTITY	text:acute myeloid leukemia	normalName:acute myeloid leukemia	predictedType:disease	q:true	qid:Q354	docId:19135948	origText:acute myeloid leukemia	url:D015470
+CANDIDATE	id:15470	inCount:13	outCount:1	links:15470	url:D015470	name:Leukemia, Myeloid, Acute	normalName:leukemia, myeloid, acute	normalWikiTitle:leukemia, myeloid, acute	predictedType:Disease

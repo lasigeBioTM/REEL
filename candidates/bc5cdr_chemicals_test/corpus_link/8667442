@@ -1,0 +1,14 @@
+ENTITY	text:calcium carbonate	normalName:calcium carbonate	predictedType:chemical	q:true	qid:Q343	docId:8667442	origText:calcium carbonate	url:D002119
+CANDIDATE	id:2119	inCount:15	outCount:3	links:2117;2118;468	url:D002119	name:Calcium Carbonate	normalName:calcium carbonate	normalWikiTitle:calcium carbonate	predictedType:Chemical
+ENTITY	text:omeprazole	normalName:omeprazole	predictedType:chemical	q:true	qid:Q343	docId:8667442	origText:omeprazole	url:D009853
+CANDIDATE	id:9853	inCount:10	outCount:1	links:13392	url:D009853	name:Omeprazole	normalName:omeprazole	normalWikiTitle:omeprazole	predictedType:Chemical
+ENTITY	text:calcitriol	normalName:calcitriol	predictedType:chemical	q:true	qid:Q343	docId:8667442	origText:calcitriol	url:D002117
+CANDIDATE	id:2117	inCount:124	outCount:1	links:2119;468;2118	url:D002117	name:Calcitriol	normalName:calcitriol	normalWikiTitle:calcitriol	predictedType:Chemical
+ENTITY	text:sucralfate	normalName:sucralfate	predictedType:chemical	q:true	qid:Q343	docId:8667442	origText:sucralfate	url:D013392
+CANDIDATE	id:13392	inCount:2	outCount:2	links:9853	url:D013392	name:Sucralfate	normalName:sucralfate	normalWikiTitle:sucralfate	predictedType:Chemical
+ENTITY	text:calcium	normalName:calcium	predictedType:chemical	q:true	qid:Q343	docId:8667442	origText:calcium	url:D002118
+CANDIDATE	id:2118	inCount:11	outCount:2	links:2117;2119;468	url:D002118	name:Calcium	normalName:calcium	normalWikiTitle:calcium	predictedType:Chemical
+ENTITY	text:alkali	normalName:alkali	predictedType:chemical	q:true	qid:Q343	docId:8667442	origText:alkali	url:D000468
+CANDIDATE	id:468	inCount:5	outCount:1	links:2117;2119;2118	url:D000468	name:Alkali	normalName:alkali	normalWikiTitle:alkali	predictedType:Chemical
+ENTITY	text:hydrocortisone	normalName:hydrocortisone	predictedType:chemical	q:true	qid:Q343	docId:8667442	origText:hydrocortisone	url:D006854
+CANDIDATE	id:6854	inCount:91	outCount:3	links:	url:D006854	name:Hydrocortisone	normalName:hydrocortisone	normalWikiTitle:hydrocortisone	predictedType:Chemical

@@ -1,0 +1,44 @@
+ENTITY	text:focal segmental glomerular sclerosis	normalName:focal segmental glomerular sclerosis	predictedType:disease	q:true	qid:Q1189	docId:3323599	origText:focal segmental glomerular sclerosis	url:D005923
+CANDIDATE	id:5923	inCount:3	outCount:1	links:9404;66126;9401;7676	url:D005923	name:Glomerulosclerosis, Focal Segmental	normalName:glomerulosclerosis, focal segmental	normalWikiTitle:glomerulosclerosis, focal segmental	predictedType:Disease
+CANDIDATE	id:565831	inCount:0	outCount:1	links:	url:C565831	name:Focal Segmental Glomerulosclerosis 2	normalName:focal segmental glomerulosclerosis 2	normalWikiTitle:focal segmental glomerulosclerosis 2	predictedType:Disease
+CANDIDATE	id:567687	inCount:0	outCount:1	links:	url:C567687	name:Focal Segmental Glomerulosclerosis 5	normalName:focal segmental glomerulosclerosis 5	normalWikiTitle:focal segmental glomerulosclerosis 5	predictedType:Disease
+CANDIDATE	id:538457	inCount:0	outCount:1	links:	url:C538457	name:Segmental glomerulosclerosis	normalName:segmental glomerulosclerosis	normalWikiTitle:segmental glomerulosclerosis	predictedType:Disease
+CANDIDATE	id:536053	inCount:0	outCount:1	links:	url:C536053	name:Osteopathia striata cranial sclerosis	normalName:osteopathia striata cranial sclerosis	normalWikiTitle:osteopathia striata cranial sclerosis	predictedType:Disease
+CANDIDATE	id:565126	inCount:0	outCount:1	links:	url:C565126	name:Darier Disease, Segmental	normalName:darier disease, segmental	normalWikiTitle:darier disease, segmental	predictedType:Disease
+CANDIDATE	id:537962	inCount:0	outCount:3	links:	url:C537962	name:Calloso-genital dysplasia	normalName:calloso-genital dysplasia	normalWikiTitle:calloso-genital dysplasia	predictedType:Disease
+CANDIDATE	id:566900	inCount:0	outCount:1	links:	url:C566900	name:Primary Lateral Sclerosis, Adult, 1	normalName:primary lateral sclerosis, adult, 1	normalWikiTitle:primary lateral sclerosis, adult, 1	predictedType:Disease
+CANDIDATE	id:536157	inCount:0	outCount:2	links:	url:C536157	name:Keratosis focal palmoplantar gingival	normalName:keratosis focal palmoplantar gingival	normalWikiTitle:keratosis focal palmoplantar gingival	predictedType:Disease
+CANDIDATE	id:47868	inCount:0	outCount:1	links:	url:D047868	name:Pulmonary Sclerosing Hemangioma	normalName:pulmonary sclerosing hemangioma	normalWikiTitle:pulmonary sclerosing hemangioma	predictedType:Disease
+ENTITY	text:FSGS	normalName:fsgs	predictedType:disease	q:true	qid:Q1189	docId:3323599	origText:FSGS	url:D005923
+CANDIDATE	id:5923	inCount:3	outCount:1	links:9404;66126;9401;7676	url:D005923	name:FSGS1	normalName:fsgs1	normalWikiTitle:fsgs1	predictedType:Disease
+CANDIDATE	id:5923	inCount:3	outCount:1	links:9404;66126;9401;7676	url:D005923	name:FSGS9	normalName:fsgs9	normalWikiTitle:fsgs9	predictedType:Disease
+CANDIDATE	id:565831	inCount:0	outCount:1	links:	url:C565831	name:FSGS2	normalName:fsgs2	normalWikiTitle:fsgs2	predictedType:Disease
+CANDIDATE	id:5923	inCount:3	outCount:1	links:9404;66126;9401;7676	url:D005923	name:FSGS6	normalName:fsgs6	normalWikiTitle:fsgs6	predictedType:Disease
+CANDIDATE	id:5923	inCount:3	outCount:1	links:9404;66126;9401;7676	url:D005923	name:FSGS3	normalName:fsgs3	normalWikiTitle:fsgs3	predictedType:Disease
+CANDIDATE	id:5923	inCount:3	outCount:1	links:9404;66126;9401;7676	url:D005923	name:FSGS7	normalName:fsgs7	normalWikiTitle:fsgs7	predictedType:Disease
+CANDIDATE	id:5923	inCount:3	outCount:1	links:9404;66126;9401;7676	url:D005923	name:FSGS4	normalName:fsgs4	normalWikiTitle:fsgs4	predictedType:Disease
+CANDIDATE	id:567687	inCount:0	outCount:1	links:	url:C567687	name:FSGS5	normalName:fsgs5	normalWikiTitle:fsgs5	predictedType:Disease
+CANDIDATE	id:5923	inCount:3	outCount:1	links:9404;66126;9401;7676	url:D005923	name:FSGS8	normalName:fsgs8	normalWikiTitle:fsgs8	predictedType:Disease
+CANDIDATE	id:535483	inCount:0	outCount:1	links:	url:C535483	name:FSS	normalName:fss	normalWikiTitle:fss	predictedType:Disease
+ENTITY	text:renal failure	normalName:renal failure	predictedType:disease	q:true	qid:Q1189	docId:3323599	origText:renal failure	url:D051437
+CANDIDATE	id:51437	inCount:10	outCount:1	links:	url:D051437	name:Renal Failure	normalName:renal failure	normalWikiTitle:renal failure	predictedType:Disease
+ENTITY	text:end-stage renal disease	normalName:end-stage renal disease	predictedType:disease	q:true	qid:Q1189	docId:3323599	origText:end-stage renal disease	url:D007676
+CANDIDATE	id:7676	inCount:3	outCount:1	links:9404;9401;5923	url:D007676	name:Renal Disease, End Stage	normalName:renal disease, end stage	normalWikiTitle:renal disease, end stage	predictedType:Disease
+ENTITY	text:toxicity	normalName:toxicity	predictedType:disease	q:true	qid:Q1189	docId:3323599	origText:toxicity	url:D064420
+CANDIDATE	id:64420	inCount:10	outCount:1	links:	url:D064420	name:Drug Toxicity	normalName:drug toxicity	normalWikiTitle:drug toxicity	predictedType:Disease
+CANDIDATE	id:66126	inCount:0	outCount:3	links:9404;9401;5923	url:D066126	name:Cardiotoxicity	normalName:cardiotoxicity	normalWikiTitle:cardiotoxicity	predictedType:Disease
+CANDIDATE	id:15651	inCount:2	outCount:1	links:	url:D015651	name:Mycotoxicosis	normalName:mycotoxicosis	normalWikiTitle:mycotoxicosis	predictedType:Disease
+CANDIDATE	id:13971	inCount:2	outCount:1	links:	url:D013971	name:Thyrotoxicosis	normalName:thyrotoxicosis	normalWikiTitle:thyrotoxicosis	predictedType:Disease
+CANDIDATE	id:14869	inCount:0	outCount:2	links:	url:D014869	name:Water Intoxication	normalName:water intoxication	normalWikiTitle:water intoxication	predictedType:Disease
+CANDIDATE	id:14103	inCount:4	outCount:2	links:	url:D014103	name:Torticollis	normalName:torticollis	normalWikiTitle:torticollis	predictedType:Disease
+CANDIDATE	id:9765	inCount:42	outCount:2	links:	url:D009765	name:Obesity	normalName:obesity	normalWikiTitle:obesity	predictedType:Disease
+CANDIDATE	id:14115	inCount:1	outCount:1	links:	url:D014115	name:Toxemia	normalName:toxemia	normalWikiTitle:toxemia	predictedType:Disease
+CANDIDATE	id:7246	inCount:2	outCount:2	links:	url:D007246	name:Infertility	normalName:infertility	normalWikiTitle:infertility	predictedType:Disease
+CANDIDATE	id:20234	inCount:0	outCount:2	links:	url:D020234	name:Gait Ataxia	normalName:gait ataxia	normalWikiTitle:gait ataxia	predictedType:Disease
+CANDIDATE	id:14069	inCount:1	outCount:1	links:	url:D014069	name:Tonsillitis	normalName:tonsillitis	normalWikiTitle:tonsillitis	predictedType:Disease
+CANDIDATE	id:64420	inCount:10	outCount:1	links:	url:D064420	name:Toxicity, Drug	normalName:toxicity, drug	normalWikiTitle:toxicity, drug	predictedType:Disease
+CANDIDATE	id:17484	inCount:0	outCount:2	links:	url:D017484	name:Phototoxicity	normalName:phototoxicity	normalWikiTitle:phototoxicity	predictedType:Disease
+ENTITY	text:nephrosis	normalName:nephrosis	predictedType:disease	q:true	qid:Q1189	docId:3323599	origText:nephrosis	url:D009401
+CANDIDATE	id:9401	inCount:8	outCount:1	links:9404;66126;5923;7676	url:D009401	name:Nephrosis	normalName:nephrosis	normalWikiTitle:nephrosis	predictedType:Disease
+ENTITY	text:nephrotic syndrome	normalName:nephrotic syndrome	predictedType:disease	q:true	qid:Q1189	docId:3323599	origText:nephrotic syndrome	url:D009404
+CANDIDATE	id:9404	inCount:23	outCount:1	links:66126;9401;5923;7676	url:D009404	name:Nephrotic Syndrome	normalName:nephrotic syndrome	normalWikiTitle:nephrotic syndrome	predictedType:Disease

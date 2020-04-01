@@ -1,0 +1,6 @@
+ENTITY	text:theophylline	normalName:theophylline	predictedType:chemical	q:true	qid:Q384	docId:1835291	origText:theophylline	url:D013806
+CANDIDATE	id:13806	inCount:113	outCount:1	links:	url:D013806	name:Theophylline	normalName:theophylline	normalWikiTitle:theophylline	predictedType:Chemical
+ENTITY	text:ipratropium bromide	normalName:ipratropium bromide	predictedType:chemical	q:true	qid:Q384	docId:1835291	origText:ipratropium bromide	url:D009241
+CANDIDATE	id:9241	inCount:2	outCount:1	links:9241	url:D009241	name:Ipratropium Bromide	normalName:ipratropium bromide	normalWikiTitle:ipratropium bromide	predictedType:Chemical
+ENTITY	text:ipratropium	normalName:ipratropium	predictedType:chemical	q:true	qid:Q384	docId:1835291	origText:ipratropium	url:D009241
+CANDIDATE	id:9241	inCount:2	outCount:1	links:9241	url:D009241	name:Ipratropium	normalName:ipratropium	normalWikiTitle:ipratropium	predictedType:Chemical

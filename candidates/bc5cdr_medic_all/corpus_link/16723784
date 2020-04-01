@@ -1,0 +1,14 @@
+ENTITY	text:dizziness	normalName:dizziness	predictedType:disease	q:true	qid:Q1293	docId:16723784	origText:dizziness	url:D004244
+CANDIDATE	id:4244	inCount:1	outCount:1	links:5221;7008;1919;16171	url:D004244	name:Dizziness	normalName:dizziness	normalWikiTitle:dizziness	predictedType:Disease
+ENTITY	text:atrial fibrillation	normalName:atrial fibrillation	predictedType:disease	q:true	qid:Q1293	docId:16723784	origText:atrial fibrillation	url:D001281
+CANDIDATE	id:1281	inCount:16	outCount:1	links:5221;1919	url:D001281	name:Atrial Fibrillation	normalName:atrial fibrillation	normalWikiTitle:atrial fibrillation	predictedType:Disease
+ENTITY	text:hypokalemia	normalName:hypokalemia	predictedType:disease	q:true	qid:Q1293	docId:16723784	origText:hypokalemia	url:D007008
+CANDIDATE	id:7008	inCount:1	outCount:1	links:5221;4244	url:D007008	name:Hypokalemia	normalName:hypokalemia	normalWikiTitle:hypokalemia	predictedType:Disease
+ENTITY	text:atrial flutter	normalName:atrial flutter	predictedType:disease	q:true	qid:Q1293	docId:16723784	origText:atrial flutter	url:D001282
+CANDIDATE	id:1282	inCount:0	outCount:1	links:	url:D001282	name:Atrial Flutter	normalName:atrial flutter	normalWikiTitle:atrial flutter	predictedType:Disease
+ENTITY	text:fatigue	normalName:fatigue	predictedType:disease	q:true	qid:Q1293	docId:16723784	origText:fatigue	url:D005221
+CANDIDATE	id:5221	inCount:2	outCount:1	links:4244;7008;1281;1919;16171	url:D005221	name:Fatigue	normalName:fatigue	normalWikiTitle:fatigue	predictedType:Disease
+ENTITY	text:torsade de pointes	normalName:torsade de pointes	predictedType:disease	q:true	qid:Q1293	docId:16723784	origText:torsade de pointes	url:D016171
+CANDIDATE	id:16171	inCount:0	outCount:1	links:5221;4244;1919	url:D016171	name:de Pointes, Torsade	normalName:de pointes, torsade	normalWikiTitle:de pointes, torsade	predictedType:Disease
+ENTITY	text:bradycardia	normalName:bradycardia	predictedType:disease	q:true	qid:Q1293	docId:16723784	origText:bradycardia	url:D001919
+CANDIDATE	id:1919	inCount:0	outCount:1	links:5221;4244;1281;16171	url:D001919	name:Bradycardia	normalName:bradycardia	normalWikiTitle:bradycardia	predictedType:Disease

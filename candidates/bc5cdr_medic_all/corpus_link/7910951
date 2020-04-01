@@ -1,0 +1,19 @@
+ENTITY	text:acidosis	normalName:acidosis	predictedType:disease	q:true	qid:Q421	docId:7910951	origText:acidosis	url:D000138
+CANDIDATE	id:138	inCount:7	outCount:1	links:18908	url:D000138	name:Acidosis	normalName:acidosis	normalWikiTitle:acidosis	predictedType:Disease
+ENTITY	text:respiratory insufficiency	normalName:respiratory insufficiency	predictedType:disease	q:true	qid:Q421	docId:7910951	origText:respiratory insufficiency	url:D012131
+CANDIDATE	id:12131	inCount:13	outCount:1	links:10243	url:D012131	name:Respiratory Insufficiency	normalName:respiratory insufficiency	normalWikiTitle:respiratory insufficiency	predictedType:Disease
+ENTITY	text:weakness	normalName:weakness	predictedType:disease	q:true	qid:Q421	docId:7910951	origText:weakness	url:D018908
+CANDIDATE	id:18908	inCount:6	outCount:3	links:10243;138	url:D018908	name:Muscle Weakness	normalName:muscle weakness	normalWikiTitle:muscle weakness	predictedType:Disease
+CANDIDATE	id:3638	inCount:110	outCount:1	links:	url:D003638	name:Deafness	normalName:deafness	normalWikiTitle:deafness	predictedType:Disease
+CANDIDATE	id:4775	inCount:2	outCount:2	links:	url:D004775	name:Enuresis	normalName:enuresis	normalWikiTitle:enuresis	predictedType:Disease
+CANDIDATE	id:6948	inCount:1	outCount:1	links:	url:D006948	name:Hyperkinesis	normalName:hyperkinesis	normalWikiTitle:hyperkinesis	predictedType:Disease
+CANDIDATE	id:8548	inCount:4	outCount:1	links:	url:D008548	name:Melanosis	normalName:melanosis	normalWikiTitle:melanosis	predictedType:Disease
+CANDIDATE	id:566019	inCount:0	outCount:1	links:	url:C566019	name:Tune Deafness	normalName:tune deafness	normalWikiTitle:tune deafness	predictedType:Disease
+CANDIDATE	id:4428	inCount:0	outCount:2	links:	url:D004428	name:Ear Neoplasms	normalName:ear neoplasms	normalWikiTitle:ear neoplasms	predictedType:Disease
+CANDIDATE	id:64793	inCount:0	outCount:1	links:	url:D064793	name:Teratogenesis	normalName:teratogenesis	normalWikiTitle:teratogenesis	predictedType:Disease
+CANDIDATE	id:46608	inCount:2	outCount:1	links:	url:D046608	name:Synkinesis	normalName:synkinesis	normalWikiTitle:synkinesis	predictedType:Disease
+CANDIDATE	id:77260	inCount:0	outCount:1	links:	url:D000077260	name:Sleepiness	normalName:sleepiness	normalWikiTitle:sleepiness	predictedType:Disease
+ENTITY	text:muscle weakness	normalName:muscle weakness	predictedType:disease	q:true	qid:Q421	docId:7910951	origText:muscle weakness	url:D018908
+CANDIDATE	id:18908	inCount:6	outCount:3	links:10243;138	url:D018908	name:Muscle Weakness	normalName:muscle weakness	normalWikiTitle:muscle weakness	predictedType:Disease
+ENTITY	text:paralysis	normalName:paralysis	predictedType:disease	q:true	qid:Q421	docId:7910951	origText:paralysis	url:D010243
+CANDIDATE	id:10243	inCount:10	outCount:1	links:12131;18908	url:D010243	name:Paralysis	normalName:paralysis	normalWikiTitle:paralysis	predictedType:Disease

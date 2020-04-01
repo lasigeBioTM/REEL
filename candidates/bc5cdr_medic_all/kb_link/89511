@@ -1,0 +1,12 @@
+ENTITY	text:carcinoma	normalName:carcinoma	predictedType:disease	q:true	qid:Q650	docId:89511	origText:carcinoma	url:D002277
+CANDIDATE	id:2277	inCount:25	outCount:1	links:	url:D002277	name:Carcinoma	normalName:carcinoma	normalWikiTitle:carcinoma	predictedType:Disease
+ENTITY	text:hyperplasia	normalName:hyperplasia	predictedType:disease	q:true	qid:Q650	docId:89511	origText:hyperplasia	url:D006965
+CANDIDATE	id:6965	inCount:4	outCount:1	links:	url:D006965	name:Hyperplasia	normalName:hyperplasia	normalWikiTitle:hyperplasia	predictedType:Disease
+ENTITY	text:endometrial carcinoma	normalName:endometrial carcinoma	predictedType:disease	q:true	qid:Q650	docId:89511	origText:endometrial carcinoma	url:D016889
+CANDIDATE	id:16889	inCount:2	outCount:1	links:	url:D016889	name:Carcinoma, Endometrial	normalName:carcinoma, endometrial	normalWikiTitle:carcinoma, endometrial	predictedType:Disease
+ENTITY	text:malignancy	normalName:malignancy	predictedType:disease	q:true	qid:Q650	docId:89511	origText:malignancy	url:D009369
+CANDIDATE	id:9369	inCount:18	outCount:1	links:	url:D009369	name:Malignancy	normalName:malignancy	normalWikiTitle:malignancy	predictedType:Disease
+ENTITY	text:endometrial disease	normalName:endometrial disease	predictedType:disease	q:true	qid:Q650	docId:89511	origText:endometrial disease	url:D014591
+CANDIDATE	id:14591	inCount:14	outCount:1	links:	url:D014591	name:Endometrial Disease	normalName:endometrial disease	normalWikiTitle:endometrial disease	predictedType:Disease
+ENTITY	text:endometrial hyperplasia	normalName:endometrial hyperplasia	predictedType:disease	q:true	qid:Q650	docId:89511	origText:endometrial hyperplasia	url:D004714
+CANDIDATE	id:4714	inCount:0	outCount:1	links:	url:D004714	name:Endometrial Hyperplasia	normalName:endometrial hyperplasia	normalWikiTitle:endometrial hyperplasia	predictedType:Disease

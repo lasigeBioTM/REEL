@@ -1,0 +1,4 @@
+ENTITY	text:thyrotropin	normalName:thyrotropin	predictedType:chemical	q:true	qid:Q1036	docId:8957205	origText:thyrotropin	url:D013972
+CANDIDATE	id:13972	inCount:13	outCount:1	links:	url:D013972	name:Thyrotropin	normalName:thyrotropin	normalWikiTitle:thyrotropin	predictedType:Chemical
+ENTITY	text:corticotropin	normalName:corticotropin	predictedType:chemical	q:true	qid:Q1036	docId:8957205	origText:corticotropin	url:D000324
+CANDIDATE	id:324	inCount:64	outCount:1	links:	url:D000324	name:Corticotropin	normalName:corticotropin	normalWikiTitle:corticotropin	predictedType:Chemical

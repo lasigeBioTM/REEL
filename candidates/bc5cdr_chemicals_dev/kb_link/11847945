@@ -1,0 +1,8 @@
+ENTITY	text:bilirubin	normalName:bilirubin	predictedType:chemical	q:true	qid:Q217	docId:11847945	origText:bilirubin	url:D001663
+CANDIDATE	id:1663	inCount:20	outCount:1	links:	url:D001663	name:Bilirubin	normalName:bilirubin	normalWikiTitle:bilirubin	predictedType:Chemical
+ENTITY	text:isoflurane	normalName:isoflurane	predictedType:chemical	q:true	qid:Q217	docId:11847945	origText:isoflurane	url:D007530
+CANDIDATE	id:7530	inCount:1	outCount:1	links:	url:D007530	name:Isoflurane	normalName:isoflurane	normalWikiTitle:isoflurane	predictedType:Chemical
+ENTITY	text:alanine	normalName:alanine	predictedType:chemical	q:true	qid:Q217	docId:11847945	origText:alanine	url:D000409
+CANDIDATE	id:409	inCount:359	outCount:1	links:	url:D000409	name:Alanine	normalName:alanine	normalWikiTitle:alanine	predictedType:Chemical
+ENTITY	text:dipyrone	normalName:dipyrone	predictedType:chemical	q:true	qid:Q217	docId:11847945	origText:dipyrone	url:D004177
+CANDIDATE	id:4177	inCount:17	outCount:1	links:	url:D004177	name:Dipyrone	normalName:dipyrone	normalWikiTitle:dipyrone	predictedType:Chemical

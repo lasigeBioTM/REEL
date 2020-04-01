@@ -1,0 +1,28 @@
+ENTITY	text:parkinsonian symptoms	normalName:parkinsonian symptoms	predictedType:disease	q:true	qid:Q172	docId:20882060	origText:parkinsonian symptoms	url:D010302
+CANDIDATE	id:10302	inCount:4	outCount:1	links:20734;2375	url:D010302	name:Parkinsonism, Symptomatic	normalName:parkinsonism, symptomatic	normalWikiTitle:parkinsonism, symptomatic	predictedType:Disease
+CANDIDATE	id:12816	inCount:38	outCount:1	links:	url:D012816	name:Signs and Symptoms	normalName:signs and symptoms	normalWikiTitle:signs and symptoms	predictedType:Disease
+CANDIDATE	id:62706	inCount:0	outCount:1	links:	url:D062706	name:Prodromal Symptoms	normalName:prodromal symptoms	normalWikiTitle:prodromal symptoms	predictedType:Disease
+CANDIDATE	id:14927	inCount:0	outCount:2	links:	url:D014927	name:Wolff-Parkinson-White Syndrome	normalName:wolff-parkinson-white syndrome	normalWikiTitle:wolff-parkinson-white syndrome	predictedType:Disease
+CANDIDATE	id:12818	inCount:18	outCount:1	links:	url:D012818	name:Signs and Symptoms, Respiratory	normalName:signs and symptoms, respiratory	normalWikiTitle:signs and symptoms, respiratory	predictedType:Disease
+CANDIDATE	id:536658	inCount:0	outCount:3	links:	url:C536658	name:Perisylvian syndrome	normalName:perisylvian syndrome	normalWikiTitle:perisylvian syndrome	predictedType:Disease
+CANDIDATE	id:536214	inCount:0	outCount:5	links:	url:C536214	name:Crisponi syndrome	normalName:crisponi syndrome	normalWikiTitle:crisponi syndrome	predictedType:Disease
+CANDIDATE	id:12817	inCount:18	outCount:1	links:	url:D012817	name:Signs and Symptoms, Digestive	normalName:signs and symptoms, digestive	normalWikiTitle:signs and symptoms, digestive	predictedType:Disease
+CANDIDATE	id:47808	inCount:2	outCount:1	links:	url:D047808	name:Adrenogenital Syndrome	normalName:adrenogenital syndrome	normalWikiTitle:adrenogenital syndrome	predictedType:Disease
+CANDIDATE	id:20447	inCount:7	outCount:1	links:	url:D020447	name:Parasomnias	normalName:parasomnias	normalWikiTitle:parasomnias	predictedType:Disease
+CANDIDATE	id:20734	inCount:10	outCount:2	links:	url:D020734	name:Parkinsonian Disorders	normalName:parkinsonian disorders	normalWikiTitle:parkinsonian disorders	predictedType:Disease
+CANDIDATE	id:20734	inCount:10	outCount:2	links:	url:D020734	name:Parkinsonian Syndromes	normalName:parkinsonian syndromes	normalWikiTitle:parkinsonian syndromes	predictedType:Disease
+CANDIDATE	id:20734	inCount:10	outCount:2	links:	url:D020734	name:Parkinsonian Syndrome	normalName:parkinsonian syndrome	normalWikiTitle:parkinsonian syndrome	predictedType:Disease
+CANDIDATE	id:10302	inCount:4	outCount:1	links:20734;2375	url:D010302	name:Symptomatic Parkinsonism	normalName:symptomatic parkinsonism	normalWikiTitle:symptomatic parkinsonism	predictedType:Disease
+CANDIDATE	id:20734	inCount:10	outCount:2	links:	url:D020734	name:Parkinsonism	normalName:parkinsonism	normalWikiTitle:parkinsonism	predictedType:Disease
+ENTITY	text:parkinsonian catalepsy	normalName:parkinsonian catalepsy	predictedType:disease	q:true	qid:Q172	docId:20882060	origText:parkinsonian catalepsy	url:D002375
+CANDIDATE	id:2375	inCount:0	outCount:1	links:10302	url:D002375	name:Catalepsy	normalName:catalepsy	normalWikiTitle:catalepsy	predictedType:Disease
+CANDIDATE	id:20734	inCount:10	outCount:2	links:	url:D020734	name:Parkinsonian Disorders	normalName:parkinsonian disorders	normalWikiTitle:parkinsonian disorders	predictedType:Disease
+CANDIDATE	id:10300	inCount:31	outCount:2	links:	url:D010300	name:Parkinson Disease	normalName:parkinson disease	normalWikiTitle:parkinson disease	predictedType:Disease
+CANDIDATE	id:566017	inCount:0	outCount:1	links:	url:C566017	name:Parkinson Disease 5	normalName:parkinson disease 5	normalWikiTitle:parkinson disease 5	predictedType:Disease
+CANDIDATE	id:36841	inCount:0	outCount:1	links:	url:D036841	name:Ciguatera Poisoning	normalName:ciguatera poisoning	normalWikiTitle:ciguatera poisoning	predictedType:Disease
+CANDIDATE	id:564631	inCount:0	outCount:1	links:	url:C564631	name:Parkinson Disease 8	normalName:parkinson disease 8	normalWikiTitle:parkinson disease 8	predictedType:Disease
+CANDIDATE	id:20149	inCount:0	outCount:2	links:	url:D020149	name:Manganese Poisoning	normalName:manganese poisoning	normalWikiTitle:manganese poisoning	predictedType:Disease
+CANDIDATE	id:537176	inCount:0	outCount:1	links:	url:C537176	name:Parkinson disease 3	normalName:parkinson disease 3	normalWikiTitle:parkinson disease 3	predictedType:Disease
+CANDIDATE	id:564486	inCount:0	outCount:2	links:	url:C564486	name:Parkinson Disease 12	normalName:parkinson disease 12	normalWikiTitle:parkinson disease 12	predictedType:Disease
+CANDIDATE	id:567730	inCount:0	outCount:2	links:	url:C567730	name:Parkinsonism-Dystonia, Infantile	normalName:parkinsonism-dystonia, infantile	normalWikiTitle:parkinsonism-dystonia, infantile	predictedType:Disease
+CANDIDATE	id:20734	inCount:10	outCount:2	links:	url:D020734	name:Parkinsonian Diseases	normalName:parkinsonian diseases	normalWikiTitle:parkinsonian diseases	predictedType:Disease

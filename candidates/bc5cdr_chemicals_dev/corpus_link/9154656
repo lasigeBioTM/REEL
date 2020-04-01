@@ -1,0 +1,13 @@
+ENTITY	text:angiotensin	normalName:angiotensin	predictedType:chemical	q:true	qid:Q199	docId:9154656	origText:angiotensin	url:D000809
+CANDIDATE	id:809	inCount:9	outCount:4	links:	url:D000809	name:Angiotensin	normalName:angiotensin	normalWikiTitle:angiotensin	predictedType:Chemical
+ENTITY	text:puromycin amino-nucleoside	normalName:puromycin amino-nucleoside	predictedType:chemical	q:true	qid:Q199	docId:9154656	origText:puromycin amino-nucleoside	url:D011692
+CANDIDATE	id:11692	inCount:4	outCount:2	links:	url:D011692	name:Puromycin Aminonucleoside	normalName:puromycin aminonucleoside	normalWikiTitle:puromycin aminonucleoside	predictedType:Chemical
+CANDIDATE	id:11684	inCount:60	outCount:2	links:	url:D011684	name:Purine Nucleosides	normalName:purine nucleosides	normalWikiTitle:purine nucleosides	predictedType:Chemical
+CANDIDATE	id:33494	inCount:0	outCount:2	links:	url:C033494	name:thiopurinol ribonucleoside	normalName:thiopurinol ribonucleoside	normalWikiTitle:thiopurinol ribonucleoside	predictedType:Chemical
+CANDIDATE	id:11685	inCount:22	outCount:2	links:	url:D011685	name:Purine Nucleotides	normalName:purine nucleotides	normalWikiTitle:purine nucleotides	predictedType:Chemical
+CANDIDATE	id:13642	inCount:0	outCount:1	links:	url:C013642	name:peroxy Y nucleoside	normalName:peroxy y nucleoside	normalWikiTitle:peroxy y nucleoside	predictedType:Chemical
+CANDIDATE	id:11741	inCount:98	outCount:2	links:	url:D011741	name:Pyrimidine Nucleosides	normalName:pyrimidine nucleosides	normalWikiTitle:pyrimidine nucleosides	predictedType:Chemical
+CANDIDATE	id:576819	inCount:0	outCount:1	links:	url:C576819	name:roseoflavin mononucleotide	normalName:roseoflavin mononucleotide	normalWikiTitle:roseoflavin mononucleotide	predictedType:Chemical
+CANDIDATE	id:117818	inCount:0	outCount:1	links:	url:C117818	name:liposidomycin A-(I)	normalName:liposidomycin a-(i)	normalWikiTitle:liposidomycin a-(i)	predictedType:Chemical
+CANDIDATE	id:498052	inCount:0	outCount:1	links:	url:C498052	name:fluoroazomycin arabinoside	normalName:fluoroazomycin arabinoside	normalWikiTitle:fluoroazomycin arabinoside	predictedType:Chemical
+CANDIDATE	id:8595	inCount:0	outCount:1	links:	url:C008595	name:neomycin B-glucoside	normalName:neomycin b-glucoside	normalWikiTitle:neomycin b-glucoside	predictedType:Chemical

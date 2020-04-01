@@ -1,0 +1,4 @@
+ENTITY	text:ethambutol	normalName:ethambutol	predictedType:chemical	q:true	qid:Q432	docId:384871	origText:ethambutol	url:D004977
+CANDIDATE	id:4977	inCount:4	outCount:1	links:	url:D004977	name:Ethambutol	normalName:ethambutol	normalWikiTitle:ethambutol	predictedType:Chemical
+ENTITY	text:isoniazid	normalName:isoniazid	predictedType:chemical	q:true	qid:Q432	docId:384871	origText:isoniazid	url:D007538
+CANDIDATE	id:7538	inCount:46	outCount:2	links:	url:D007538	name:Isoniazid	normalName:isoniazid	normalWikiTitle:isoniazid	predictedType:Chemical

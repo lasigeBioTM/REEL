@@ -1,0 +1,68 @@
+ENTITY	text:Neurologic toxicities	normalName:neurologic toxicities	predictedType:disease	q:true	qid:Q987	docId:2131034	origText:Neurologic toxicities	url:D020258
+CANDIDATE	id:20258	inCount:7	outCount:2	links:20258;11115;66126	url:D020258	name:Neurotoxicity Syndromes	normalName:neurotoxicity syndromes	normalWikiTitle:neurotoxicity syndromes	predictedType:Disease
+CANDIDATE	id:4239	inCount:0	outCount:2	links:4239	url:D004239	name:Diverticulitis, Colonic	normalName:diverticulitis, colonic	normalWikiTitle:diverticulitis, colonic	predictedType:Disease
+CANDIDATE	id:54546	inCount:1	outCount:2	links:	url:D054546	name:Neuroacanthocytosis	normalName:neuroacanthocytosis	normalWikiTitle:neuroacanthocytosis	predictedType:Disease
+CANDIDATE	id:535842	inCount:0	outCount:2	links:	url:C535842	name:Thyroiditis, Chronic	normalName:thyroiditis, chronic	normalWikiTitle:thyroiditis, chronic	predictedType:Disease
+CANDIDATE	id:4760	inCount:4	outCount:2	links:	url:D004760	name:Enterocolitis	normalName:enterocolitis	normalWikiTitle:enterocolitis	predictedType:Disease
+CANDIDATE	id:11350	inCount:0	outCount:3	links:	url:D011350	name:Proctocolitis	normalName:proctocolitis	normalWikiTitle:proctocolitis	predictedType:Disease
+CANDIDATE	id:65631	inCount:2	outCount:2	links:	url:D065631	name:Rhinitis, Allergic	normalName:rhinitis, allergic	normalWikiTitle:rhinitis, allergic	predictedType:Disease
+CANDIDATE	id:13986	inCount:1	outCount:1	links:	url:D013986	name:Tick Toxicoses	normalName:tick toxicoses	normalWikiTitle:tick toxicoses	predictedType:Disease
+CANDIDATE	id:8532	inCount:0	outCount:1	links:8532	url:D008532	name:Megacolon, Toxic	normalName:megacolon, toxic	normalWikiTitle:megacolon, toxic	predictedType:Disease
+CANDIDATE	id:10538	inCount:3	outCount:2	links:	url:D010538	name:Peritonitis	normalName:peritonitis	normalWikiTitle:peritonitis	predictedType:Disease
+CANDIDATE	id:64420	inCount:10	outCount:1	links:64420	url:D064420	name:Drug Toxicities	normalName:drug toxicities	normalWikiTitle:drug toxicities	predictedType:Disease
+CANDIDATE	id:66126	inCount:0	outCount:3	links:20258;66126	url:D066126	name:Toxicities, Cardiac	normalName:toxicities, cardiac	normalWikiTitle:toxicities, cardiac	predictedType:Disease
+CANDIDATE	id:64420	inCount:10	outCount:1	links:64420	url:D064420	name:Toxicities, Drug	normalName:toxicities, drug	normalWikiTitle:toxicities, drug	predictedType:Disease
+CANDIDATE	id:66126	inCount:0	outCount:3	links:20258;66126	url:D066126	name:Cardiac Toxicities	normalName:cardiac toxicities	normalWikiTitle:cardiac toxicities	predictedType:Disease
+CANDIDATE	id:9461	inCount:26	outCount:2	links:9461	url:D009461	name:Symptoms, Neurologic	normalName:symptoms, neurologic	normalWikiTitle:symptoms, neurologic	predictedType:Disease
+CANDIDATE	id:9461	inCount:26	outCount:2	links:9461	url:D009461	name:Signs, Neurologic	normalName:signs, neurologic	normalWikiTitle:signs, neurologic	predictedType:Disease
+CANDIDATE	id:9461	inCount:26	outCount:2	links:9461	url:D009461	name:Neurologic Signs	normalName:neurologic signs	normalWikiTitle:neurologic signs	predictedType:Disease
+CANDIDATE	id:9461	inCount:26	outCount:2	links:9461	url:D009461	name:Neurologic Symptoms	normalName:neurologic symptoms	normalWikiTitle:neurologic symptoms	predictedType:Disease
+CANDIDATE	id:9461	inCount:26	outCount:2	links:9461	url:D009461	name:Symptom, Neurologic	normalName:symptom, neurologic	normalWikiTitle:symptom, neurologic	predictedType:Disease
+CANDIDATE	id:9461	inCount:26	outCount:2	links:9461	url:D009461	name:Neurologic Symptom	normalName:neurologic symptom	normalWikiTitle:neurologic symptom	predictedType:Disease
+ENTITY	text:axonal neuropathy	normalName:axonal neuropathy	predictedType:disease	q:true	qid:Q987	docId:2131034	origText:axonal neuropathy	url:D056768
+CANDIDATE	id:56768	inCount:1	outCount:2	links:	url:D056768	name:Giant Axonal Neuropathy	normalName:giant axonal neuropathy	normalWikiTitle:giant axonal neuropathy	predictedType:Disease
+CANDIDATE	id:20428	inCount:0	outCount:1	links:	url:D020428	name:Femoral Neuropathy	normalName:femoral neuropathy	normalWikiTitle:femoral neuropathy	predictedType:Disease
+CANDIDATE	id:20423	inCount:1	outCount:1	links:	url:D020423	name:Median Neuropathy	normalName:median neuropathy	normalWikiTitle:median neuropathy	predictedType:Disease
+CANDIDATE	id:20269	inCount:0	outCount:2	links:	url:D020269	name:Alcoholic Neuropathy	normalName:alcoholic neuropathy	normalWikiTitle:alcoholic neuropathy	predictedType:Disease
+CANDIDATE	id:538268	inCount:0	outCount:1	links:	url:C538268	name:Auditory neuropathy	normalName:auditory neuropathy	normalWikiTitle:auditory neuropathy	predictedType:Disease
+CANDIDATE	id:1449	inCount:0	outCount:1	links:	url:D001449	name:Balkan Nephropathy	normalName:balkan nephropathy	normalWikiTitle:balkan nephropathy	predictedType:Disease
+CANDIDATE	id:537593	inCount:0	outCount:1	links:	url:C537593	name:Severe infantile axonal neuropathy	normalName:severe infantile axonal neuropathy	normalWikiTitle:severe infantile axonal neuropathy	predictedType:Disease
+CANDIDATE	id:538273	inCount:0	outCount:1	links:	url:C538273	name:Autoimmune enteropathy	normalName:autoimmune enteropathy	normalWikiTitle:autoimmune enteropathy	predictedType:Disease
+CANDIDATE	id:11115	inCount:21	outCount:1	links:11115;20258	url:D011115	name:Polyneuropathies	normalName:polyneuropathies	normalWikiTitle:polyneuropathies	predictedType:Disease
+CANDIDATE	id:11129	inCount:5	outCount:3	links:	url:D011129	name:Polyradiculoneuropathy	normalName:polyradiculoneuropathy	normalWikiTitle:polyradiculoneuropathy	predictedType:Disease
+CANDIDATE	id:3389	inCount:16	outCount:1	links:	url:D003389	name:Cranial Neuropathy	normalName:cranial neuropathy	normalWikiTitle:cranial neuropathy	predictedType:Disease
+CANDIDATE	id:3389	inCount:16	outCount:1	links:	url:D003389	name:Neuropathy, Cranial	normalName:neuropathy, cranial	normalWikiTitle:neuropathy, cranial	predictedType:Disease
+ENTITY	text:neurologic toxicity	normalName:neurologic toxicity	predictedType:disease	q:true	qid:Q987	docId:2131034	origText:neurologic toxicity	url:D020258
+CANDIDATE	id:20258	inCount:7	outCount:2	links:20258;11115;66126	url:D020258	name:Neurotoxicity Syndromes	normalName:neurotoxicity syndromes	normalWikiTitle:neurotoxicity syndromes	predictedType:Disease
+CANDIDATE	id:66126	inCount:0	outCount:3	links:20258;66126	url:D066126	name:Cardiotoxicity	normalName:cardiotoxicity	normalWikiTitle:cardiotoxicity	predictedType:Disease
+CANDIDATE	id:8532	inCount:0	outCount:1	links:8532	url:D008532	name:Megacolon, Toxic	normalName:megacolon, toxic	normalWikiTitle:megacolon, toxic	predictedType:Disease
+CANDIDATE	id:17545	inCount:14	outCount:1	links:	url:D017545	name:Aortic Aneurysm, Thoracic	normalName:aortic aneurysm, thoracic	normalWikiTitle:aortic aneurysm, thoracic	predictedType:Disease
+CANDIDATE	id:14277	inCount:0	outCount:1	links:	url:D014277	name:Trigeminal Neuralgia	normalName:trigeminal neuralgia	normalWikiTitle:trigeminal neuralgia	predictedType:Disease
+CANDIDATE	id:9471	inCount:0	outCount:3	links:	url:D009471	name:Neuromyelitis Optica	normalName:neuromyelitis optica	normalWikiTitle:neuromyelitis optica	predictedType:Disease
+CANDIDATE	id:9902	inCount:1	outCount:1	links:9902	url:D009902	name:Optic Neuritis	normalName:optic neuritis	normalWikiTitle:optic neuritis	predictedType:Disease
+CANDIDATE	id:6679	inCount:0	outCount:1	links:	url:D006679	name:HIV Seropositivity	normalName:hiv seropositivity	normalWikiTitle:hiv seropositivity	predictedType:Disease
+CANDIDATE	id:531667	inCount:0	outCount:1	links:	url:C531667	name:5 alpha Fluorouracil toxicity	normalName:5 alpha fluorouracil toxicity	normalWikiTitle:5 alpha fluorouracil toxicity	predictedType:Disease
+CANDIDATE	id:4239	inCount:0	outCount:2	links:4239	url:D004239	name:Diverticulitis, Colonic	normalName:diverticulitis, colonic	normalWikiTitle:diverticulitis, colonic	predictedType:Disease
+CANDIDATE	id:9461	inCount:26	outCount:2	links:9461	url:D009461	name:Neurologic Sign	normalName:neurologic sign	normalWikiTitle:neurologic sign	predictedType:Disease
+CANDIDATE	id:9461	inCount:26	outCount:2	links:9461	url:D009461	name:Sign, Neurologic	normalName:sign, neurologic	normalWikiTitle:sign, neurologic	predictedType:Disease
+CANDIDATE	id:9461	inCount:26	outCount:2	links:9461	url:D009461	name:Symptom, Neurologic	normalName:symptom, neurologic	normalWikiTitle:symptom, neurologic	predictedType:Disease
+CANDIDATE	id:9461	inCount:26	outCount:2	links:9461	url:D009461	name:Neurologic Symptom	normalName:neurologic symptom	normalWikiTitle:neurologic symptom	predictedType:Disease
+CANDIDATE	id:64420	inCount:10	outCount:1	links:64420	url:D064420	name:Toxicity, Drug	normalName:toxicity, drug	normalWikiTitle:toxicity, drug	predictedType:Disease
+CANDIDATE	id:9461	inCount:26	outCount:2	links:9461	url:D009461	name:Signs, Neurologic	normalName:signs, neurologic	normalWikiTitle:signs, neurologic	predictedType:Disease
+CANDIDATE	id:66126	inCount:0	outCount:3	links:20258;66126	url:D066126	name:Toxicity, Cardiac	normalName:toxicity, cardiac	normalWikiTitle:toxicity, cardiac	predictedType:Disease
+CANDIDATE	id:9461	inCount:26	outCount:2	links:9461	url:D009461	name:Neurologic Signs	normalName:neurologic signs	normalWikiTitle:neurologic signs	predictedType:Disease
+CANDIDATE	id:64420	inCount:10	outCount:1	links:64420	url:D064420	name:Drug Toxicity	normalName:drug toxicity	normalWikiTitle:drug toxicity	predictedType:Disease
+CANDIDATE	id:66126	inCount:0	outCount:3	links:20258;66126	url:D066126	name:Cardiac Toxicity	normalName:cardiac toxicity	normalWikiTitle:cardiac toxicity	predictedType:Disease
+ENTITY	text:polyneuropathy	normalName:polyneuropathy	predictedType:disease	q:true	qid:Q987	docId:2131034	origText:polyneuropathy	url:D011115
+CANDIDATE	id:11115	inCount:21	outCount:1	links:11115;20258	url:D011115	name:Polyneuropathy	normalName:polyneuropathy	normalWikiTitle:polyneuropathy	predictedType:Disease
+ENTITY	text:neurotoxicity	normalName:neurotoxicity	predictedType:disease	q:true	qid:Q987	docId:2131034	origText:neurotoxicity	url:D020258
+CANDIDATE	id:20258	inCount:7	outCount:2	links:20258;11115;66126	url:D020258	name:Neurotoxicity Syndromes	normalName:neurotoxicity syndromes	normalWikiTitle:neurotoxicity syndromes	predictedType:Disease
+CANDIDATE	id:66126	inCount:0	outCount:3	links:20258;66126	url:D066126	name:Cardiotoxicity	normalName:cardiotoxicity	normalWikiTitle:cardiotoxicity	predictedType:Disease
+CANDIDATE	id:7246	inCount:2	outCount:2	links:	url:D007246	name:Infertility	normalName:infertility	normalWikiTitle:infertility	predictedType:Disease
+CANDIDATE	id:4767	inCount:0	outCount:2	links:	url:D004767	name:Enterotoxemia	normalName:enterotoxemia	normalWikiTitle:enterotoxemia	predictedType:Disease
+CANDIDATE	id:13971	inCount:2	outCount:1	links:	url:D013971	name:Thyrotoxicosis	normalName:thyrotoxicosis	normalWikiTitle:thyrotoxicosis	predictedType:Disease
+CANDIDATE	id:9902	inCount:1	outCount:1	links:9902	url:D009902	name:Optic Neuritis	normalName:optic neuritis	normalWikiTitle:optic neuritis	predictedType:Disease
+CANDIDATE	id:20426	inCount:2	outCount:1	links:	url:D020426	name:Sciatic Neuropathy	normalName:sciatic neuropathy	normalWikiTitle:sciatic neuropathy	predictedType:Disease
+CANDIDATE	id:18306	inCount:0	outCount:2	links:	url:D018306	name:Neurocytoma	normalName:neurocytoma	normalWikiTitle:neurocytoma	predictedType:Disease
+CANDIDATE	id:20019	inCount:0	outCount:2	links:	url:D020019	name:Neurocysticercosis	normalName:neurocysticercosis	normalWikiTitle:neurocysticercosis	predictedType:Disease
+CANDIDATE	id:9443	inCount:2	outCount:1	links:	url:D009443	name:Neuritis	normalName:neuritis	normalWikiTitle:neuritis	predictedType:Disease

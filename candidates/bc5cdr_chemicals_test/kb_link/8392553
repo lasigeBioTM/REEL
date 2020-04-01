@@ -1,0 +1,10 @@
+ENTITY	text:isoproterenol	normalName:isoproterenol	predictedType:chemical	q:true	qid:Q432	docId:8392553	origText:isoproterenol	url:D007545
+CANDIDATE	id:7545	inCount:12	outCount:2	links:	url:D007545	name:Isoproterenol	normalName:isoproterenol	normalWikiTitle:isoproterenol	predictedType:Chemical
+ENTITY	text:1,5-benzothiazepine	normalName:1,5-benzothiazepine	predictedType:chemical	q:true	qid:Q432	docId:8392553	origText:1,5-benzothiazepine	url:C106746
+CANDIDATE	id:106746	inCount:0	outCount:1	links:	url:C106746	name:1,5-benzothiazepine	normalName:1,5-benzothiazepine	normalWikiTitle:1,5-benzothiazepine	predictedType:Chemical
+ENTITY	text:epinephrine	normalName:epinephrine	predictedType:chemical	q:true	qid:Q432	docId:8392553	origText:epinephrine	url:D004837
+CANDIDATE	id:4837	inCount:33	outCount:3	links:	url:D004837	name:Epinephrine	normalName:epinephrine	normalWikiTitle:epinephrine	predictedType:Chemical
+ENTITY	text:calcium	normalName:calcium	predictedType:chemical	q:true	qid:Q432	docId:8392553	origText:calcium	url:D002118
+CANDIDATE	id:2118	inCount:11	outCount:2	links:	url:D002118	name:Calcium	normalName:calcium	normalWikiTitle:calcium	predictedType:Chemical
+ENTITY	text:clentiazem	normalName:clentiazem	predictedType:chemical	q:true	qid:Q432	docId:8392553	origText:clentiazem	url:C056595
+CANDIDATE	id:56595	inCount:0	outCount:1	links:	url:C056595	name:clentiazem	normalName:clentiazem	normalWikiTitle:clentiazem	predictedType:Chemical

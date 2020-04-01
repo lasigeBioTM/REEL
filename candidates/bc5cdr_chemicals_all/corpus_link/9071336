@@ -1,0 +1,12 @@
+ENTITY	text:Paclitaxel	normalName:paclitaxel	predictedType:chemical	q:true	qid:Q351	docId:9071336	origText:Paclitaxel	url:D017239
+CANDIDATE	id:17239	inCount:58	outCount:1	links:4317;5472;2955	url:D017239	name:Paclitaxel	normalName:paclitaxel	normalWikiTitle:paclitaxel	predictedType:Chemical
+ENTITY	text:folinic acid	normalName:folinic acid	predictedType:chemical	q:true	qid:Q351	docId:9071336	origText:folinic acid	url:D002955
+CANDIDATE	id:2955	inCount:88	outCount:1	links:4317;5472;17239	url:D002955	name:Acid, Folinic	normalName:acid, folinic	normalWikiTitle:acid, folinic	predictedType:Chemical
+ENTITY	text:doxorubicin	normalName:doxorubicin	predictedType:chemical	q:true	qid:Q351	docId:9071336	origText:doxorubicin	url:D004317
+CANDIDATE	id:4317	inCount:559	outCount:1	links:5472;2955;17239	url:D004317	name:Doxorubicin	normalName:doxorubicin	normalWikiTitle:doxorubicin	predictedType:Chemical
+ENTITY	text:5-fluorouracil	normalName:5-fluorouracil	predictedType:chemical	q:true	qid:Q351	docId:9071336	origText:5-fluorouracil	url:D005472
+CANDIDATE	id:5472	inCount:271	outCount:1	links:4317;2955;17239	url:D005472	name:5 Fluorouracil	normalName:5 fluorouracil	normalWikiTitle:5 fluorouracil	predictedType:Chemical
+ENTITY	text:Taxol	normalName:taxol	predictedType:chemical	q:true	qid:Q351	docId:9071336	origText:Taxol	url:D017239
+CANDIDATE	id:17239	inCount:58	outCount:1	links:4317;5472;2955	url:D017239	name:Taxol	normalName:taxol	normalWikiTitle:taxol	predictedType:Chemical
+ENTITY	text:granulocyte colony-stimulating factor	normalName:granulocyte colony-stimulating factor	predictedType:chemical	q:true	qid:Q351	docId:9071336	origText:granulocyte colony-stimulating factor	url:D016179
+CANDIDATE	id:16179	inCount:24	outCount:1	links:	url:D016179	name:Granulocyte Colony-Stimulating Factor	normalName:granulocyte colony-stimulating factor	normalWikiTitle:granulocyte colony-stimulating factor	predictedType:Chemical

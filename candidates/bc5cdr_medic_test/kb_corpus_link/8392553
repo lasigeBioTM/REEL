@@ -1,0 +1,19 @@
+ENTITY	text:ischemic lesions	normalName:ischemic lesions	predictedType:disease	q:true	qid:Q278	docId:8392553	origText:ischemic lesions	url:D007511
+CANDIDATE	id:7511	inCount:3	outCount:1	links:	url:D007511	name:Ischemias	normalName:ischemias	normalWikiTitle:ischemias	predictedType:Disease
+CANDIDATE	id:65666	inCount:0	outCount:3	links:	url:D065666	name:Mesenteric Ischemia	normalName:mesenteric ischemia	normalWikiTitle:mesenteric ischemia	predictedType:Disease
+CANDIDATE	id:20760	inCount:2	outCount:1	links:	url:D020760	name:Spinal Cord Ischemia	normalName:spinal cord ischemia	normalWikiTitle:spinal cord ischemia	predictedType:Disease
+CANDIDATE	id:4927	inCount:1	outCount:1	links:	url:D004927	name:Escherichia coli Infections	normalName:escherichia coli infections	normalWikiTitle:escherichia coli infections	predictedType:Disease
+CANDIDATE	id:2546	inCount:0	outCount:1	links:	url:D002546	name:Ischemic Attack, Transient	normalName:ischemic attack, transient	normalWikiTitle:ischemic attack, transient	predictedType:Disease
+CANDIDATE	id:7511	inCount:3	outCount:1	links:	url:D007511	name:Ischemia	normalName:ischemia	normalWikiTitle:ischemia	predictedType:Disease
+CANDIDATE	id:13801	inCount:0	outCount:3	links:	url:D013801	name:Theileriasis	normalName:theileriasis	normalWikiTitle:theileriasis	predictedType:Disease
+CANDIDATE	id:7877	inCount:0	outCount:1	links:	url:D007877	name:Legionnaires' Disease	normalName:legionnaires' disease	normalWikiTitle:legionnaires' disease	predictedType:Disease
+CANDIDATE	id:2690	inCount:5	outCount:2	links:	url:D002690	name:Chlamydia Infections	normalName:chlamydia infections	normalWikiTitle:chlamydia infections	predictedType:Disease
+CANDIDATE	id:2613	inCount:3	outCount:1	links:	url:D002613	name:Cheilitis	normalName:cheilitis	normalWikiTitle:cheilitis	predictedType:Disease
+CANDIDATE	id:7088	inCount:0	outCount:1	links:	url:D007088	name:Illusions	normalName:illusions	normalWikiTitle:illusions	predictedType:Disease
+CANDIDATE	id:2544	inCount:5	outCount:1	links:	url:D002544	name:STROKE, ISCHEMIC	normalName:stroke, ischemic	normalWikiTitle:stroke, ischemic	predictedType:Disease
+CANDIDATE	id:20760	inCount:2	outCount:1	links:	url:D020760	name:Myelopathies, Ischemic	normalName:myelopathies, ischemic	normalWikiTitle:myelopathies, ischemic	predictedType:Disease
+CANDIDATE	id:20760	inCount:2	outCount:1	links:	url:D020760	name:Ischemic Myelopathies	normalName:ischemic myelopathies	normalWikiTitle:ischemic myelopathies	predictedType:Disease
+ENTITY	text:cardiomyopathy	normalName:cardiomyopathy	predictedType:disease	q:true	qid:Q278	docId:8392553	origText:cardiomyopathy	url:D009202
+CANDIDATE	id:9202	inCount:37	outCount:1	links:5355	url:D009202	name:Cardiomyopathy	normalName:cardiomyopathy	normalWikiTitle:cardiomyopathy	predictedType:Disease
+ENTITY	text:fibrosis	normalName:fibrosis	predictedType:disease	q:true	qid:Q278	docId:8392553	origText:fibrosis	url:D005355
+CANDIDATE	id:5355	inCount:11	outCount:1	links:9202	url:D005355	name:Fibrosis	normalName:fibrosis	normalWikiTitle:fibrosis	predictedType:Disease

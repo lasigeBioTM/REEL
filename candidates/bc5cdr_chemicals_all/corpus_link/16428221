@@ -1,0 +1,4 @@
+ENTITY	text:amphetamine	normalName:amphetamine	predictedType:chemical	q:true	qid:Q621	docId:16428221	origText:amphetamine	url:D000661
+CANDIDATE	id:661	inCount:1	outCount:1	links:	url:D000661	name:Amphetamine	normalName:amphetamine	normalWikiTitle:amphetamine	predictedType:Chemical
+ENTITY	text:methylphenidate	normalName:methylphenidate	predictedType:chemical	q:true	qid:Q621	docId:16428221	origText:methylphenidate	url:D008774
+CANDIDATE	id:8774	inCount:9	outCount:2	links:	url:D008774	name:Methylphenidate	normalName:methylphenidate	normalWikiTitle:methylphenidate	predictedType:Chemical

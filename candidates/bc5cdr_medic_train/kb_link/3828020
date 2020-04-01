@@ -1,0 +1,6 @@
+ENTITY	text:seizures	normalName:seizures	predictedType:disease	q:true	qid:Q129	docId:3828020	origText:seizures	url:D012640
+CANDIDATE	id:12640	inCount:53	outCount:1	links:	url:D012640	name:Seizure	normalName:seizure	normalWikiTitle:seizure	predictedType:Disease
+ENTITY	text:Cerebral infarction	normalName:cerebral infarction	predictedType:disease	q:true	qid:Q129	docId:3828020	origText:Cerebral infarction	url:D002544
+CANDIDATE	id:2544	inCount:5	outCount:1	links:	url:D002544	name:Cerebral Infarction	normalName:cerebral infarction	normalWikiTitle:cerebral infarction	predictedType:Disease
+ENTITY	text:intracerebral hemorrhage	normalName:intracerebral hemorrhage	predictedType:disease	q:true	qid:Q129	docId:3828020	origText:intracerebral hemorrhage	url:D002543
+CANDIDATE	id:2543	inCount:3	outCount:1	links:	url:D002543	name:Hemorrhage, Intracerebral	normalName:hemorrhage, intracerebral	normalWikiTitle:hemorrhage, intracerebral	predictedType:Disease

@@ -1,0 +1,46 @@
+ENTITY	text:dopaminergic deficits	normalName:dopaminergic deficits	predictedType:disease	q:true	qid:Q445	docId:20533999	origText:dopaminergic deficits	url:D009461
+CANDIDATE	id:9461	inCount:26	outCount:2	links:	url:D009461	name:Neurologic Deficit, Focal	normalName:neurologic deficit, focal	normalWikiTitle:neurologic deficit, focal	predictedType:Disease
+CANDIDATE	id:13832	inCount:3	outCount:1	links:	url:D013832	name:Thiamine Deficiency	normalName:thiamine deficiency	normalWikiTitle:thiamine deficiency	predictedType:Disease
+CANDIDATE	id:566067	inCount:0	outCount:2	links:	url:C566067	name:Forebrain Defects	normalName:forebrain defects	normalWikiTitle:forebrain defects	predictedType:Disease
+CANDIDATE	id:17454	inCount:0	outCount:2	links:	url:D017454	name:Dermatitis, Photoallergic	normalName:dermatitis, photoallergic	normalWikiTitle:dermatitis, photoallergic	predictedType:Disease
+CANDIDATE	id:614338	inCount:0	outCount:1	links:	url:614338	name:PANCREATIC LIPASE DEFICIENCY	normalName:pancreatic lipase deficiency	normalWikiTitle:pancreatic lipase deficiency	predictedType:Disease
+CANDIDATE	id:535600	inCount:0	outCount:1	links:	url:C535600	name:dopamine beta hydroxylase deficiency	normalName:dopamine beta hydroxylase deficiency	normalWikiTitle:dopamine beta hydroxylase deficiency	predictedType:Disease
+CANDIDATE	id:565767	inCount:0	outCount:1	links:	url:C565767	name:VDAC Deficiency	normalName:vdac deficiency	normalWikiTitle:vdac deficiency	predictedType:Disease
+CANDIDATE	id:16711	inCount:0	outCount:1	links:	url:D016711	name:Yang Deficiency	normalName:yang deficiency	normalWikiTitle:yang deficiency	predictedType:Disease
+CANDIDATE	id:567596	inCount:0	outCount:2	links:	url:C567596	name:Mineralocorticoid Deficiency, Isolated	normalName:mineralocorticoid deficiency, isolated	normalWikiTitle:mineralocorticoid deficiency, isolated	predictedType:Disease
+CANDIDATE	id:538167	inCount:0	outCount:1	links:	url:C538167	name:Acidemia, isovaleric	normalName:acidemia, isovaleric	normalWikiTitle:acidemia, isovaleric	predictedType:Disease
+CANDIDATE	id:562815	inCount:0	outCount:1	links:	url:C562815	name:Dihydropyrimidinase Deficiency	normalName:dihydropyrimidinase deficiency	normalWikiTitle:dihydropyrimidinase deficiency	predictedType:Disease
+CANDIDATE	id:9461	inCount:26	outCount:2	links:	url:D009461	name:Deficits, Neurologic	normalName:deficits, neurologic	normalWikiTitle:deficits, neurologic	predictedType:Disease
+CANDIDATE	id:9461	inCount:26	outCount:2	links:	url:D009461	name:Neurologic Deficits	normalName:neurologic deficits	normalWikiTitle:neurologic deficits	predictedType:Disease
+CANDIDATE	id:9461	inCount:26	outCount:2	links:	url:D009461	name:Neurologic Deficits, Focal	normalName:neurologic deficits, focal	normalWikiTitle:neurologic deficits, focal	predictedType:Disease
+CANDIDATE	id:9461	inCount:26	outCount:2	links:	url:D009461	name:Deficits, Focal Neurologic	normalName:deficits, focal neurologic	normalWikiTitle:deficits, focal neurologic	predictedType:Disease
+CANDIDATE	id:9461	inCount:26	outCount:2	links:	url:D009461	name:Focal Neurologic Deficits	normalName:focal neurologic deficits	normalWikiTitle:focal neurologic deficits	predictedType:Disease
+CANDIDATE	id:9461	inCount:26	outCount:2	links:	url:D009461	name:Neurologic Deficit	normalName:neurologic deficit	normalWikiTitle:neurologic deficit	predictedType:Disease
+CANDIDATE	id:9461	inCount:26	outCount:2	links:	url:D009461	name:Deficit, Neurologic	normalName:deficit, neurologic	normalWikiTitle:deficit, neurologic	predictedType:Disease
+CANDIDATE	id:9461	inCount:26	outCount:2	links:	url:D009461	name:Deficit, Focal Neurologic	normalName:deficit, focal neurologic	normalWikiTitle:deficit, focal neurologic	predictedType:Disease
+CANDIDATE	id:9461	inCount:26	outCount:2	links:	url:D009461	name:Focal Neurologic Deficit	normalName:focal neurologic deficit	normalWikiTitle:focal neurologic deficit	predictedType:Disease
+ENTITY	text:neurotoxicity	normalName:neurotoxicity	predictedType:disease	q:true	qid:Q445	docId:20533999	origText:neurotoxicity	url:D020258
+CANDIDATE	id:20258	inCount:7	outCount:2	links:66126	url:D020258	name:Neurotoxicity Syndromes	normalName:neurotoxicity syndromes	normalWikiTitle:neurotoxicity syndromes	predictedType:Disease
+CANDIDATE	id:66126	inCount:0	outCount:3	links:66126	url:D066126	name:Cardiotoxicity	normalName:cardiotoxicity	normalWikiTitle:cardiotoxicity	predictedType:Disease
+CANDIDATE	id:7246	inCount:2	outCount:2	links:7246	url:D007246	name:Infertility	normalName:infertility	normalWikiTitle:infertility	predictedType:Disease
+CANDIDATE	id:4767	inCount:0	outCount:2	links:	url:D004767	name:Enterotoxemia	normalName:enterotoxemia	normalWikiTitle:enterotoxemia	predictedType:Disease
+CANDIDATE	id:13971	inCount:2	outCount:1	links:13971	url:D013971	name:Thyrotoxicosis	normalName:thyrotoxicosis	normalWikiTitle:thyrotoxicosis	predictedType:Disease
+CANDIDATE	id:9902	inCount:1	outCount:1	links:	url:D009902	name:Optic Neuritis	normalName:optic neuritis	normalWikiTitle:optic neuritis	predictedType:Disease
+CANDIDATE	id:20426	inCount:2	outCount:1	links:	url:D020426	name:Sciatic Neuropathy	normalName:sciatic neuropathy	normalWikiTitle:sciatic neuropathy	predictedType:Disease
+CANDIDATE	id:18306	inCount:0	outCount:2	links:	url:D018306	name:Neurocytoma	normalName:neurocytoma	normalWikiTitle:neurocytoma	predictedType:Disease
+CANDIDATE	id:20019	inCount:0	outCount:2	links:	url:D020019	name:Neurocysticercosis	normalName:neurocysticercosis	normalWikiTitle:neurocysticercosis	predictedType:Disease
+CANDIDATE	id:9443	inCount:2	outCount:1	links:	url:D009443	name:Neuritis	normalName:neuritis	normalWikiTitle:neuritis	predictedType:Disease
+ENTITY	text:toxicity	normalName:toxicity	predictedType:disease	q:true	qid:Q445	docId:20533999	origText:toxicity	url:D064420
+CANDIDATE	id:64420	inCount:10	outCount:1	links:	url:D064420	name:Drug Toxicity	normalName:drug toxicity	normalWikiTitle:drug toxicity	predictedType:Disease
+CANDIDATE	id:66126	inCount:0	outCount:3	links:66126	url:D066126	name:Cardiotoxicity	normalName:cardiotoxicity	normalWikiTitle:cardiotoxicity	predictedType:Disease
+CANDIDATE	id:15651	inCount:2	outCount:1	links:	url:D015651	name:Mycotoxicosis	normalName:mycotoxicosis	normalWikiTitle:mycotoxicosis	predictedType:Disease
+CANDIDATE	id:13971	inCount:2	outCount:1	links:13971	url:D013971	name:Thyrotoxicosis	normalName:thyrotoxicosis	normalWikiTitle:thyrotoxicosis	predictedType:Disease
+CANDIDATE	id:14869	inCount:0	outCount:2	links:	url:D014869	name:Water Intoxication	normalName:water intoxication	normalWikiTitle:water intoxication	predictedType:Disease
+CANDIDATE	id:14103	inCount:4	outCount:2	links:	url:D014103	name:Torticollis	normalName:torticollis	normalWikiTitle:torticollis	predictedType:Disease
+CANDIDATE	id:9765	inCount:42	outCount:2	links:	url:D009765	name:Obesity	normalName:obesity	normalWikiTitle:obesity	predictedType:Disease
+CANDIDATE	id:14115	inCount:1	outCount:1	links:	url:D014115	name:Toxemia	normalName:toxemia	normalWikiTitle:toxemia	predictedType:Disease
+CANDIDATE	id:7246	inCount:2	outCount:2	links:7246	url:D007246	name:Infertility	normalName:infertility	normalWikiTitle:infertility	predictedType:Disease
+CANDIDATE	id:20234	inCount:0	outCount:2	links:	url:D020234	name:Gait Ataxia	normalName:gait ataxia	normalWikiTitle:gait ataxia	predictedType:Disease
+CANDIDATE	id:14069	inCount:1	outCount:1	links:	url:D014069	name:Tonsillitis	normalName:tonsillitis	normalWikiTitle:tonsillitis	predictedType:Disease
+CANDIDATE	id:64420	inCount:10	outCount:1	links:	url:D064420	name:Toxicity, Drug	normalName:toxicity, drug	normalWikiTitle:toxicity, drug	predictedType:Disease
+CANDIDATE	id:17484	inCount:0	outCount:2	links:	url:D017484	name:Phototoxicity	normalName:phototoxicity	normalWikiTitle:phototoxicity	predictedType:Disease

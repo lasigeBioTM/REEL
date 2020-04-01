@@ -1,0 +1,32 @@
+ENTITY	text:hypotension	normalName:hypotension	predictedType:disease	q:true	qid:Q465	docId:8682684	origText:hypotension	url:D007022
+CANDIDATE	id:7022	inCount:3	outCount:1	links:7022	url:D007022	name:Hypotension	normalName:hypotension	normalWikiTitle:hypotension	predictedType:Disease
+ENTITY	text:critically ill	normalName:critically ill	predictedType:disease	q:true	qid:Q465	docId:8682684	origText:critically ill	url:D016638
+CANDIDATE	id:16638	inCount:0	outCount:1	links:	url:D016638	name:Critically Ill	normalName:critically ill	normalWikiTitle:critically ill	predictedType:Disease
+ENTITY	text:hypotensive	normalName:hypotensive	predictedType:disease	q:true	qid:Q465	docId:8682684	origText:hypotensive	url:D007022
+CANDIDATE	id:7022	inCount:3	outCount:1	links:7022	url:D007022	name:Hypotension	normalName:hypotension	normalWikiTitle:hypotension	predictedType:Disease
+CANDIDATE	id:6973	inCount:18	outCount:1	links:	url:D006973	name:Hypertension	normalName:hypertension	normalWikiTitle:hypertension	predictedType:Disease
+CANDIDATE	id:7035	inCount:2	outCount:1	links:	url:D007035	name:Hypothermia	normalName:hypothermia	normalWikiTitle:hypothermia	predictedType:Disease
+CANDIDATE	id:6987	inCount:1	outCount:1	links:	url:D006987	name:Hypesthesia	normalName:hypesthesia	normalWikiTitle:hypesthesia	predictedType:Disease
+CANDIDATE	id:18476	inCount:1	outCount:1	links:	url:D018476	name:Hypokinesia	normalName:hypokinesia	normalWikiTitle:hypokinesia	predictedType:Disease
+CANDIDATE	id:7019	inCount:1	outCount:1	links:	url:D007019	name:Hypoproteinemia	normalName:hypoproteinemia	normalWikiTitle:hypoproteinemia	predictedType:Disease
+CANDIDATE	id:15814	inCount:0	outCount:1	links:	url:D015814	name:Ocular Hypotension	normalName:ocular hypotension	normalWikiTitle:ocular hypotension	predictedType:Disease
+CANDIDATE	id:58246	inCount:0	outCount:1	links:	url:D058246	name:Prehypertension	normalName:prehypertension	normalWikiTitle:prehypertension	predictedType:Disease
+CANDIDATE	id:6977	inCount:3	outCount:2	links:	url:D006977	name:Hypertension, Renal	normalName:hypertension, renal	normalWikiTitle:hypertension, renal	predictedType:Disease
+CANDIDATE	id:6948	inCount:1	outCount:1	links:	url:D006948	name:Hyperkinesis	normalName:hyperkinesis	normalWikiTitle:hyperkinesis	predictedType:Disease
+ENTITY	text:cardiovascular toxicities	normalName:cardiovascular toxicities	predictedType:disease	q:true	qid:Q465	docId:8682684	origText:cardiovascular toxicities	url:D002318
+CANDIDATE	id:2318	inCount:5	outCount:1	links:	url:D002318	name:Cardiovascular Diseases	normalName:cardiovascular diseases	normalWikiTitle:cardiovascular diseases	predictedType:Disease
+CANDIDATE	id:53821	inCount:3	outCount:2	links:	url:D053821	name:Cardiovascular Infections	normalName:cardiovascular infections	normalWikiTitle:cardiovascular infections	predictedType:Disease
+CANDIDATE	id:13589	inCount:0	outCount:2	links:	url:D013589	name:Syphilis, Cardiovascular	normalName:syphilis, cardiovascular	normalWikiTitle:syphilis, cardiovascular	predictedType:Disease
+CANDIDATE	id:14381	inCount:1	outCount:2	links:	url:D014381	name:Tuberculosis, Cardiovascular	normalName:tuberculosis, cardiovascular	normalWikiTitle:tuberculosis, cardiovascular	predictedType:Disease
+CANDIDATE	id:66126	inCount:0	outCount:3	links:	url:D066126	name:Cardiotoxicity	normalName:cardiotoxicity	normalWikiTitle:cardiotoxicity	predictedType:Disease
+CANDIDATE	id:11249	inCount:1	outCount:2	links:	url:D011249	name:Pregnancy Complications, Cardiovascular	normalName:pregnancy complications, cardiovascular	normalWikiTitle:pregnancy complications, cardiovascular	predictedType:Disease
+CANDIDATE	id:2561	inCount:17	outCount:2	links:	url:D002561	name:Cerebrovascular Disorders	normalName:cerebrovascular disorders	normalWikiTitle:cerebrovascular disorders	predictedType:Disease
+CANDIDATE	id:18188	inCount:0	outCount:1	links:	url:D018188	name:Cardiovirus Infections	normalName:cardiovirus infections	normalWikiTitle:cardiovirus infections	predictedType:Disease
+CANDIDATE	id:73436	inCount:0	outCount:1	links:	url:D000073436	name:Microvascular Rarefaction	normalName:microvascular rarefaction	normalWikiTitle:microvascular rarefaction	predictedType:Disease
+CANDIDATE	id:565846	inCount:0	outCount:2	links:	url:C565846	name:Copper Toxicosis, Idiopathic	normalName:copper toxicosis, idiopathic	normalWikiTitle:copper toxicosis, idiopathic	predictedType:Disease
+CANDIDATE	id:66126	inCount:0	outCount:3	links:	url:D066126	name:Toxicities, Cardiac	normalName:toxicities, cardiac	normalWikiTitle:toxicities, cardiac	predictedType:Disease
+CANDIDATE	id:66126	inCount:0	outCount:3	links:	url:D066126	name:Cardiac Toxicities	normalName:cardiac toxicities	normalWikiTitle:cardiac toxicities	predictedType:Disease
+CANDIDATE	id:9203	inCount:8	outCount:1	links:	url:D009203	name:Cardiovascular Strokes	normalName:cardiovascular strokes	normalWikiTitle:cardiovascular strokes	predictedType:Disease
+CANDIDATE	id:9203	inCount:8	outCount:1	links:	url:D009203	name:Strokes, Cardiovascular	normalName:strokes, cardiovascular	normalWikiTitle:strokes, cardiovascular	predictedType:Disease
+ENTITY	text:anaphylaxis	normalName:anaphylaxis	predictedType:disease	q:true	qid:Q465	docId:8682684	origText:anaphylaxis	url:D000707
+CANDIDATE	id:707	inCount:0	outCount:1	links:	url:D000707	name:Anaphylaxis	normalName:anaphylaxis	normalWikiTitle:anaphylaxis	predictedType:Disease

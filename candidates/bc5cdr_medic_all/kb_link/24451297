@@ -1,0 +1,10 @@
+ENTITY	text:anorexia	normalName:anorexia	predictedType:disease	q:true	qid:Q1158	docId:24451297	origText:anorexia	url:D000855
+CANDIDATE	id:855	inCount:1	outCount:1	links:	url:D000855	name:Anorexia	normalName:anorexia	normalWikiTitle:anorexia	predictedType:Disease
+ENTITY	text:abdominal pain	normalName:abdominal pain	predictedType:disease	q:true	qid:Q1158	docId:24451297	origText:abdominal pain	url:D015746
+CANDIDATE	id:15746	inCount:2	outCount:2	links:	url:D015746	name:Abdominal Pain	normalName:abdominal pain	normalWikiTitle:abdominal pain	predictedType:Disease
+ENTITY	text:drug-induced liver injury	normalName:drug-induced liver injury	predictedType:disease	q:true	qid:Q1158	docId:24451297	origText:drug-induced liver injury	url:D056486
+CANDIDATE	id:56486	inCount:2	outCount:3	links:56486	url:D056486	name:Liver Injury, Drug-Induced	normalName:liver injury, drug-induced	normalWikiTitle:liver injury, drug-induced	predictedType:Disease
+ENTITY	text:nausea	normalName:nausea	predictedType:disease	q:true	qid:Q1158	docId:24451297	origText:nausea	url:D009325
+CANDIDATE	id:9325	inCount:2	outCount:1	links:	url:D009325	name:Nausea	normalName:nausea	normalWikiTitle:nausea	predictedType:Disease
+ENTITY	text:Drug-Induced Acute Liver Injury	normalName:drug-induced acute liver injury	predictedType:disease	q:true	qid:Q1158	docId:24451297	origText:Drug-Induced Acute Liver Injury	url:D056486
+CANDIDATE	id:56486	inCount:2	outCount:3	links:56486	url:D056486	name:Drug Induced Acute Liver Injury	normalName:drug induced acute liver injury	normalWikiTitle:drug induced acute liver injury	predictedType:Disease

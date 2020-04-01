@@ -1,0 +1,4 @@
+ENTITY	text:pain	normalName:pain	predictedType:disease	q:true	qid:Q285	docId:14616590	origText:pain	url:D010146
+CANDIDATE	id:10146	inCount:34	outCount:1	links:13924	url:D010146	name:Pain	normalName:pain	normalWikiTitle:pain	predictedType:Disease
+ENTITY	text:thrombophlebitis	normalName:thrombophlebitis	predictedType:disease	q:true	qid:Q285	docId:14616590	origText:thrombophlebitis	url:D013924
+CANDIDATE	id:13924	inCount:1	outCount:2	links:10146	url:D013924	name:Thrombophlebitis	normalName:thrombophlebitis	normalWikiTitle:thrombophlebitis	predictedType:Disease

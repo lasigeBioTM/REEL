@@ -1,0 +1,8 @@
+ENTITY	text:left ventricular dysfunction	normalName:left ventricular dysfunction	predictedType:disease	q:true	qid:Q378	docId:3383127	origText:left ventricular dysfunction	url:D018487
+CANDIDATE	id:18487	inCount:1	outCount:1	links:	url:D018487	name:Ventricular Dysfunction, Left	normalName:ventricular dysfunction, left	normalWikiTitle:ventricular dysfunction, left	predictedType:Disease
+ENTITY	text:cardiotoxicity	normalName:cardiotoxicity	predictedType:disease	q:true	qid:Q378	docId:3383127	origText:cardiotoxicity	url:D066126
+CANDIDATE	id:66126	inCount:0	outCount:3	links:	url:D066126	name:Cardiotoxicity	normalName:cardiotoxicity	normalWikiTitle:cardiotoxicity	predictedType:Disease
+ENTITY	text:Hypotension	normalName:hypotension	predictedType:disease	q:true	qid:Q378	docId:3383127	origText:Hypotension	url:D007022
+CANDIDATE	id:7022	inCount:3	outCount:1	links:	url:D007022	name:Hypotension	normalName:hypotension	normalWikiTitle:hypotension	predictedType:Disease
+ENTITY	text:colorectal carcinoma	normalName:colorectal carcinoma	predictedType:disease	q:true	qid:Q378	docId:3383127	origText:colorectal carcinoma	url:D015179
+CANDIDATE	id:15179	inCount:6	outCount:3	links:	url:D015179	name:Carcinoma, Colorectal	normalName:carcinoma, colorectal	normalWikiTitle:carcinoma, colorectal	predictedType:Disease

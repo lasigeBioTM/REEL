@@ -1,0 +1,25 @@
+ENTITY	text:hypertrophy	normalName:hypertrophy	predictedType:disease	q:true	qid:Q468	docId:12789195	origText:hypertrophy	url:D006984
+CANDIDATE	id:6984	inCount:9	outCount:1	links:	url:D006984	name:Hypertrophy	normalName:hypertrophy	normalWikiTitle:hypertrophy	predictedType:Disease
+ENTITY	text:Acromegaly	normalName:acromegaly	predictedType:disease	q:true	qid:Q468	docId:12789195	origText:Acromegaly	url:D000172
+CANDIDATE	id:172	inCount:6	outCount:2	links:	url:D000172	name:Acromegaly	normalName:acromegaly	normalWikiTitle:acromegaly	predictedType:Disease
+ENTITY	text:endocrine disorder	normalName:endocrine disorder	predictedType:disease	q:true	qid:Q468	docId:12789195	origText:endocrine disorder	url:D004700
+CANDIDATE	id:4700	inCount:19	outCount:1	links:	url:D004700	name:Diseases, Endocrine	normalName:diseases, endocrine	normalWikiTitle:diseases, endocrine	predictedType:Disease
+CANDIDATE	id:6311	inCount:4	outCount:2	links:	url:D006311	name:Hearing Disorders	normalName:hearing disorders	normalWikiTitle:hearing disorders	predictedType:Disease
+CANDIDATE	id:67836	inCount:0	outCount:1	links:	url:D000067836	name:Hoarding Disorder	normalName:hoarding disorder	normalWikiTitle:hoarding disorder	predictedType:Disease
+CANDIDATE	id:14832	inCount:4	outCount:2	links:	url:D014832	name:Voice Disorders	normalName:voice disorders	normalWikiTitle:voice disorders	predictedType:Disease
+CANDIDATE	id:20773	inCount:2	outCount:1	links:	url:D020773	name:Headache Disorders	normalName:headache disorders	normalWikiTitle:headache disorders	predictedType:Disease
+CANDIDATE	id:8881	inCount:9	outCount:1	links:	url:D008881	name:Migraine Disorders	normalName:migraine disorders	normalWikiTitle:migraine disorders	predictedType:Disease
+CANDIDATE	id:7859	inCount:10	outCount:2	links:	url:D007859	name:Learning Disorders	normalName:learning disorders	normalWikiTitle:learning disorders	predictedType:Disease
+CANDIDATE	id:8569	inCount:2	outCount:1	links:	url:D008569	name:Memory Disorders	normalName:memory disorders	normalWikiTitle:memory disorders	predictedType:Disease
+CANDIDATE	id:12678	inCount:7	outCount:1	links:	url:D012678	name:Sensation Disorders	normalName:sensation disorders	normalWikiTitle:sensation disorders	predictedType:Disease
+CANDIDATE	id:9748	inCount:6	outCount:1	links:	url:D009748	name:Nutrition Disorders	normalName:nutrition disorders	normalWikiTitle:nutrition disorders	predictedType:Disease
+CANDIDATE	id:857	inCount:18	outCount:1	links:	url:D000857	name:Olfaction Disorders	normalName:olfaction disorders	normalWikiTitle:olfaction disorders	predictedType:Disease
+CANDIDATE	id:4700	inCount:19	outCount:1	links:	url:D004700	name:Disease, Endocrine	normalName:disease, endocrine	normalWikiTitle:disease, endocrine	predictedType:Disease
+CANDIDATE	id:4700	inCount:19	outCount:1	links:	url:D004700	name:Endocrine Disease	normalName:endocrine disease	normalWikiTitle:endocrine disease	predictedType:Disease
+CANDIDATE	id:4700	inCount:19	outCount:1	links:	url:D004700	name:Endocrine Diseases	normalName:endocrine diseases	normalWikiTitle:endocrine diseases	predictedType:Disease
+CANDIDATE	id:4410	inCount:2	outCount:2	links:	url:D004410	name:Disorder, Reading	normalName:disorder, reading	normalWikiTitle:disorder, reading	predictedType:Disease
+CANDIDATE	id:4410	inCount:2	outCount:2	links:	url:D004410	name:Reading Disorder	normalName:reading disorder	normalWikiTitle:reading disorder	predictedType:Disease
+CANDIDATE	id:1068	inCount:10	outCount:1	links:	url:D001068	name:Disorder, Feeding	normalName:disorder, feeding	normalWikiTitle:disorder, feeding	predictedType:Disease
+CANDIDATE	id:12678	inCount:7	outCount:1	links:	url:D012678	name:Sensory Disorder	normalName:sensory disorder	normalWikiTitle:sensory disorder	predictedType:Disease
+CANDIDATE	id:6311	inCount:4	outCount:2	links:	url:D006311	name:Hearing Disorder	normalName:hearing disorder	normalWikiTitle:hearing disorder	predictedType:Disease
+CANDIDATE	id:1068	inCount:10	outCount:1	links:	url:D001068	name:Feeding Disorder	normalName:feeding disorder	normalWikiTitle:feeding disorder	predictedType:Disease

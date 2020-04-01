@@ -1,0 +1,6 @@
+ENTITY	text:amlodipine	normalName:amlodipine	predictedType:chemical	q:true	qid:Q1005	docId:17285209	origText:amlodipine	url:D017311
+CANDIDATE	id:17311	inCount:10	outCount:1	links:44946	url:D017311	name:Amlodipine	normalName:amlodipine	normalWikiTitle:amlodipine	predictedType:Chemical
+ENTITY	text:benazapril	normalName:benazapril	predictedType:chemical	q:true	qid:Q1005	docId:17285209	origText:benazapril	url:C044946
+CANDIDATE	id:44946	inCount:0	outCount:1	links:17311	url:C044946	name:benazapril	normalName:benazapril	normalWikiTitle:benazapril	predictedType:Chemical
+ENTITY	text:angiotensin	normalName:angiotensin	predictedType:chemical	q:true	qid:Q1005	docId:17285209	origText:angiotensin	url:D000809
+CANDIDATE	id:809	inCount:9	outCount:4	links:	url:D000809	name:Angiotensin	normalName:angiotensin	normalWikiTitle:angiotensin	predictedType:Chemical

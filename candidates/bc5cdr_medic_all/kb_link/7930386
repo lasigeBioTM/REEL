@@ -1,0 +1,21 @@
+ENTITY	text:sleep disturbance	normalName:sleep disturbance	predictedType:disease	q:true	qid:Q776	docId:7930386	origText:sleep disturbance	url:D012893
+CANDIDATE	id:12893	inCount:4	outCount:3	links:	url:D012893	name:Disorder, Sleep	normalName:disorder, sleep	normalWikiTitle:disorder, sleep	predictedType:Disease
+CANDIDATE	id:12757	inCount:10	outCount:1	links:	url:D012757	name:Sheep Diseases	normalName:sheep diseases	normalWikiTitle:sheep diseases	predictedType:Disease
+CANDIDATE	id:8599	inCount:6	outCount:1	links:	url:D008599	name:Menstruation Disturbances	normalName:menstruation disturbances	normalWikiTitle:menstruation disturbances	predictedType:Disease
+CANDIDATE	id:20919	inCount:5	outCount:1	links:	url:D020919	name:Sleep Disorders, Intrinsic	normalName:sleep disorders, intrinsic	normalWikiTitle:sleep disorders, intrinsic	predictedType:Disease
+CANDIDATE	id:12892	inCount:0	outCount:2	links:	url:D012892	name:Sleep Deprivation	normalName:sleep deprivation	normalWikiTitle:sleep deprivation	predictedType:Disease
+CANDIDATE	id:12893	inCount:4	outCount:3	links:	url:D012893	name:Sleep Wake Disorders	normalName:sleep wake disorders	normalWikiTitle:sleep wake disorders	predictedType:Disease
+CANDIDATE	id:563201	inCount:0	outCount:1	links:	url:C563201	name:Lysine Intolerance	normalName:lysine intolerance	normalWikiTitle:lysine intolerance	predictedType:Disease
+CANDIDATE	id:7787	inCount:1	outCount:2	links:	url:D007787	name:Lactose Intolerance	normalName:lactose intolerance	normalWikiTitle:lactose intolerance	predictedType:Disease
+CANDIDATE	id:20182	inCount:1	outCount:1	links:	url:D020182	name:Sleep Apnea, Central	normalName:sleep apnea, central	normalWikiTitle:sleep apnea, central	predictedType:Disease
+CANDIDATE	id:13158	inCount:7	outCount:1	links:	url:D013158	name:Splenic Diseases	normalName:splenic diseases	normalWikiTitle:splenic diseases	predictedType:Disease
+CANDIDATE	id:57896	inCount:1	outCount:1	links:	url:D057896	name:Striae Distensae	normalName:striae distensae	normalWikiTitle:striae distensae	predictedType:Disease
+CANDIDATE	id:14832	inCount:4	outCount:2	links:	url:D014832	name:Voice Disturbance	normalName:voice disturbance	normalWikiTitle:voice disturbance	predictedType:Disease
+CANDIDATE	id:7859	inCount:10	outCount:2	links:	url:D007859	name:Disturbance, Learning	normalName:disturbance, learning	normalWikiTitle:disturbance, learning	predictedType:Disease
+CANDIDATE	id:7859	inCount:10	outCount:2	links:	url:D007859	name:Learning Disturbance	normalName:learning disturbance	normalWikiTitle:learning disturbance	predictedType:Disease
+CANDIDATE	id:14832	inCount:4	outCount:2	links:	url:D014832	name:Disturbance, Voice	normalName:disturbance, voice	normalWikiTitle:disturbance, voice	predictedType:Disease
+CANDIDATE	id:7859	inCount:10	outCount:2	links:	url:D007859	name:Learning Disturbances	normalName:learning disturbances	normalWikiTitle:learning disturbances	predictedType:Disease
+CANDIDATE	id:7859	inCount:10	outCount:2	links:	url:D007859	name:Disturbances, Learning	normalName:disturbances, learning	normalWikiTitle:disturbances, learning	predictedType:Disease
+CANDIDATE	id:14832	inCount:4	outCount:2	links:	url:D014832	name:Disturbances, Voice	normalName:disturbances, voice	normalWikiTitle:disturbances, voice	predictedType:Disease
+CANDIDATE	id:14832	inCount:4	outCount:2	links:	url:D014832	name:Voice Disturbances	normalName:voice disturbances	normalWikiTitle:voice disturbances	predictedType:Disease
+CANDIDATE	id:12893	inCount:4	outCount:3	links:	url:D012893	name:Sleep Disorder	normalName:sleep disorder	normalWikiTitle:sleep disorder	predictedType:Disease

@@ -1,0 +1,67 @@
+ENTITY	text:brain injury	normalName:brain injury	predictedType:disease	q:true	qid:Q484	docId:15815446	origText:brain injury	url:D001930
+CANDIDATE	id:1930	inCount:7	outCount:2	links:1930	url:D001930	name:Brain Injury	normalName:brain injury	normalWikiTitle:brain injury	predictedType:Disease
+ENTITY	text:hypertensive	normalName:hypertensive	predictedType:disease	q:true	qid:Q484	docId:15815446	origText:hypertensive	url:D006973
+CANDIDATE	id:6973	inCount:18	outCount:1	links:6973	url:D006973	name:Hypertension	normalName:hypertension	normalWikiTitle:hypertension	predictedType:Disease
+CANDIDATE	id:58246	inCount:0	outCount:1	links:	url:D058246	name:Prehypertension	normalName:prehypertension	normalWikiTitle:prehypertension	predictedType:Disease
+CANDIDATE	id:6977	inCount:3	outCount:2	links:	url:D006977	name:Hypertension, Renal	normalName:hypertension, renal	normalWikiTitle:hypertension, renal	predictedType:Disease
+CANDIDATE	id:6941	inCount:0	outCount:1	links:6941	url:D006941	name:Hyperesthesia	normalName:hyperesthesia	normalWikiTitle:hyperesthesia	predictedType:Disease
+CANDIDATE	id:59468	inCount:0	outCount:1	links:	url:D059468	name:Masked Hypertension	normalName:masked hypertension	normalWikiTitle:masked hypertension	predictedType:Disease
+CANDIDATE	id:6967	inCount:9	outCount:1	links:	url:D006967	name:Hypersensitivity	normalName:hypersensitivity	normalWikiTitle:hypersensitivity	predictedType:Disease
+CANDIDATE	id:7022	inCount:3	outCount:1	links:	url:D007022	name:Hypotension	normalName:hypotension	normalWikiTitle:hypotension	predictedType:Disease
+CANDIDATE	id:6987	inCount:1	outCount:1	links:	url:D006987	name:Hypesthesia	normalName:hypesthesia	normalWikiTitle:hypesthesia	predictedType:Disease
+CANDIDATE	id:563161	inCount:0	outCount:2	links:	url:C563161	name:Hypertensive Nephropathy	normalName:hypertensive nephropathy	normalWikiTitle:hypertensive nephropathy	predictedType:Disease
+CANDIDATE	id:58437	inCount:0	outCount:2	links:	url:D058437	name:Hypertensive Retinopathy	normalName:hypertensive retinopathy	normalWikiTitle:hypertensive retinopathy	predictedType:Disease
+ENTITY	text:ischemic hemisphere	normalName:ischemic hemisphere	predictedType:disease	q:true	qid:Q484	docId:15815446	origText:ischemic hemisphere	url:D002545
+CANDIDATE	id:2545	inCount:4	outCount:1	links:2545	url:D002545	name:Brain Ischemia	normalName:brain ischemia	normalWikiTitle:brain ischemia	predictedType:Disease
+CANDIDATE	id:17091	inCount:0	outCount:2	links:17091	url:D017091	name:Colitis, Ischemic	normalName:colitis, ischemic	normalWikiTitle:colitis, ischemic	predictedType:Disease
+CANDIDATE	id:51516	inCount:0	outCount:1	links:	url:D051516	name:Hemospermia	normalName:hemospermia	normalWikiTitle:hemospermia	predictedType:Disease
+CANDIDATE	id:6941	inCount:0	outCount:1	links:6941	url:D006941	name:Hyperesthesia	normalName:hyperesthesia	normalWikiTitle:hyperesthesia	predictedType:Disease
+CANDIDATE	id:33461	inCount:10	outCount:1	links:	url:D033461	name:Hyperuricemia	normalName:hyperuricemia	normalWikiTitle:hyperuricemia	predictedType:Disease
+CANDIDATE	id:54061	inCount:0	outCount:2	links:54061	url:D054061	name:Ischemic Contracture	normalName:ischemic contracture	normalWikiTitle:ischemic contracture	predictedType:Disease
+CANDIDATE	id:6465	inCount:0	outCount:2	links:	url:D006465	name:Hemoperitoneum	normalName:hemoperitoneum	normalWikiTitle:hemoperitoneum	predictedType:Disease
+CANDIDATE	id:6463	inCount:2	outCount:3	links:	url:D006463	name:Hemolytic-Uremic Syndrome	normalName:hemolytic-uremic syndrome	normalWikiTitle:hemolytic-uremic syndrome	predictedType:Disease
+CANDIDATE	id:12216	inCount:9	outCount:2	links:	url:D012216	name:Rheumatic Diseases	normalName:rheumatic diseases	normalWikiTitle:rheumatic diseases	predictedType:Disease
+CANDIDATE	id:6483	inCount:0	outCount:2	links:	url:D006483	name:Hemorrhagic Septicemia	normalName:hemorrhagic septicemia	normalWikiTitle:hemorrhagic septicemia	predictedType:Disease
+CANDIDATE	id:17202	inCount:6	outCount:2	links:	url:D017202	name:Heart Disease, Ischemic	normalName:heart disease, ischemic	normalWikiTitle:heart disease, ischemic	predictedType:Disease
+CANDIDATE	id:17202	inCount:6	outCount:2	links:	url:D017202	name:Ischemic Heart Disease	normalName:ischemic heart disease	normalWikiTitle:ischemic heart disease	predictedType:Disease
+CANDIDATE	id:17202	inCount:6	outCount:2	links:	url:D017202	name:Disease, Ischemic Heart	normalName:disease, ischemic heart	normalWikiTitle:disease, ischemic heart	predictedType:Disease
+CANDIDATE	id:17202	inCount:6	outCount:2	links:	url:D017202	name:Ischemic Heart Diseases	normalName:ischemic heart diseases	normalWikiTitle:ischemic heart diseases	predictedType:Disease
+CANDIDATE	id:17202	inCount:6	outCount:2	links:	url:D017202	name:Heart Diseases, Ischemic	normalName:heart diseases, ischemic	normalWikiTitle:heart diseases, ischemic	predictedType:Disease
+CANDIDATE	id:17202	inCount:6	outCount:2	links:	url:D017202	name:Diseases, Ischemic Heart	normalName:diseases, ischemic heart	normalWikiTitle:diseases, ischemic heart	predictedType:Disease
+ENTITY	text:hypertension	normalName:hypertension	predictedType:disease	q:true	qid:Q484	docId:15815446	origText:hypertension	url:D006973
+CANDIDATE	id:6973	inCount:18	outCount:1	links:6973	url:D006973	name:Hypertension	normalName:hypertension	normalWikiTitle:hypertension	predictedType:Disease
+ENTITY	text:ischemic brain injury	normalName:ischemic brain injury	predictedType:disease	q:true	qid:Q484	docId:15815446	origText:ischemic brain injury	url:D001930
+CANDIDATE	id:1930	inCount:7	outCount:2	links:1930	url:D001930	name:Brain Injuries	normalName:brain injuries	normalWikiTitle:brain injuries	predictedType:Disease
+CANDIDATE	id:2545	inCount:4	outCount:1	links:2545	url:D002545	name:Brain Ischemia	normalName:brain ischemia	normalWikiTitle:brain ischemia	predictedType:Disease
+CANDIDATE	id:70642	inCount:3	outCount:1	links:	url:D000070642	name:Brain Injuries, Traumatic	normalName:brain injuries, traumatic	normalWikiTitle:brain injuries, traumatic	predictedType:Disease
+CANDIDATE	id:20925	inCount:1	outCount:2	links:	url:D020925	name:Hypoxia-Ischemia, Brain	normalName:hypoxia-ischemia, brain	normalWikiTitle:hypoxia-ischemia, brain	predictedType:Disease
+CANDIDATE	id:54061	inCount:0	outCount:2	links:54061	url:D054061	name:Ischemic Contracture	normalName:ischemic contracture	normalWikiTitle:ischemic contracture	predictedType:Disease
+CANDIDATE	id:70625	inCount:1	outCount:1	links:	url:D000070625	name:Brain Injuries, Diffuse	normalName:brain injuries, diffuse	normalWikiTitle:brain injuries, diffuse	predictedType:Disease
+CANDIDATE	id:20526	inCount:2	outCount:1	links:	url:D020526	name:Brain Stem Infarctions	normalName:brain stem infarctions	normalWikiTitle:brain stem infarctions	predictedType:Disease
+CANDIDATE	id:17091	inCount:0	outCount:2	links:17091	url:D017091	name:Colitis, Ischemic	normalName:colitis, ischemic	normalWikiTitle:colitis, ischemic	predictedType:Disease
+CANDIDATE	id:19567	inCount:1	outCount:1	links:	url:D019567	name:Back Injuries	normalName:back injuries	normalWikiTitle:back injuries	predictedType:Disease
+CANDIDATE	id:15208	inCount:0	outCount:1	links:	url:D015208	name:Smoke Inhalation Injury	normalName:smoke inhalation injury	normalWikiTitle:smoke inhalation injury	predictedType:Disease
+ENTITY	text:middle cerebral artery occlusion	normalName:middle cerebral artery occlusion	predictedType:disease	q:true	qid:Q484	docId:15815446	origText:middle cerebral artery occlusion	url:D020244
+CANDIDATE	id:20244	inCount:0	outCount:2	links:	url:D020244	name:Occlusion, Middle Cerebral Artery	normalName:occlusion, middle cerebral artery	normalWikiTitle:occlusion, middle cerebral artery	predictedType:Disease
+ENTITY	text:cerebral ischemia	normalName:cerebral ischemia	predictedType:disease	q:true	qid:Q484	docId:15815446	origText:cerebral ischemia	url:D002545
+CANDIDATE	id:2545	inCount:4	outCount:1	links:2545	url:D002545	name:Ischemia, Cerebral	normalName:ischemia, cerebral	normalWikiTitle:ischemia, cerebral	predictedType:Disease
+ENTITY	text:edema	normalName:edema	predictedType:disease	q:true	qid:Q484	docId:15815446	origText:edema	url:D004487
+CANDIDATE	id:4487	inCount:6	outCount:1	links:	url:D004487	name:Edema	normalName:edema	normalWikiTitle:edema	predictedType:Disease
+ENTITY	text:vasogenic edema	normalName:vasogenic edema	predictedType:disease	q:true	qid:Q484	docId:15815446	origText:vasogenic edema	url:D001929
+CANDIDATE	id:1929	inCount:2	outCount:1	links:	url:D001929	name:Cerebral Edemas, Vasogenic	normalName:cerebral edemas, vasogenic	normalWikiTitle:cerebral edemas, vasogenic	predictedType:Disease
+CANDIDATE	id:7049	inCount:1	outCount:1	links:	url:D007049	name:Iatrogenic Disease	normalName:iatrogenic disease	normalWikiTitle:iatrogenic disease	predictedType:Disease
+CANDIDATE	id:18783	inCount:0	outCount:1	links:	url:D018783	name:Impotence, Vasculogenic	normalName:impotence, vasculogenic	normalWikiTitle:impotence, vasculogenic	predictedType:Disease
+CANDIDATE	id:7819	inCount:0	outCount:1	links:	url:D007819	name:Laryngeal Edema	normalName:laryngeal edema	normalWikiTitle:laryngeal edema	predictedType:Disease
+CANDIDATE	id:538167	inCount:0	outCount:1	links:	url:C538167	name:Acidemia, isovaleric	normalName:acidemia, isovaleric	normalWikiTitle:acidemia, isovaleric	predictedType:Disease
+CANDIDATE	id:13158	inCount:7	outCount:1	links:	url:D013158	name:Splenic Diseases	normalName:splenic diseases	normalWikiTitle:splenic diseases	predictedType:Disease
+CANDIDATE	id:237	inCount:0	outCount:2	links:	url:D000237	name:Adenoma, Basophil	normalName:adenoma, basophil	normalWikiTitle:adenoma, basophil	predictedType:Disease
+CANDIDATE	id:8269	inCount:0	outCount:1	links:	url:D008269	name:Macular Edema	normalName:macular edema	normalWikiTitle:macular edema	predictedType:Disease
+CANDIDATE	id:12595	inCount:6	outCount:2	links:	url:D012595	name:Scleroderma, Systemic	normalName:scleroderma, systemic	normalWikiTitle:scleroderma, systemic	predictedType:Disease
+CANDIDATE	id:15140	inCount:2	outCount:4	links:	url:D015140	name:Dementia, Vascular	normalName:dementia, vascular	normalWikiTitle:dementia, vascular	predictedType:Disease
+CANDIDATE	id:563952	inCount:0	outCount:1	links:	url:C563952	name:Succinic Acidemia	normalName:succinic acidemia	normalWikiTitle:succinic acidemia	predictedType:Disease
+CANDIDATE	id:1929	inCount:2	outCount:1	links:	url:D001929	name:Edema, Vasogenic Brain	normalName:edema, vasogenic brain	normalWikiTitle:edema, vasogenic brain	predictedType:Disease
+CANDIDATE	id:1929	inCount:2	outCount:1	links:	url:D001929	name:Vasogenic Brain Edema	normalName:vasogenic brain edema	normalWikiTitle:vasogenic brain edema	predictedType:Disease
+CANDIDATE	id:1929	inCount:2	outCount:1	links:	url:D001929	name:Brain Edema, Vasogenic	normalName:brain edema, vasogenic	normalWikiTitle:brain edema, vasogenic	predictedType:Disease
+CANDIDATE	id:1929	inCount:2	outCount:1	links:	url:D001929	name:Vasogenic Cerebral Edema	normalName:vasogenic cerebral edema	normalWikiTitle:vasogenic cerebral edema	predictedType:Disease
+CANDIDATE	id:1929	inCount:2	outCount:1	links:	url:D001929	name:Edema, Vasogenic Cerebral	normalName:edema, vasogenic cerebral	normalWikiTitle:edema, vasogenic cerebral	predictedType:Disease
+CANDIDATE	id:1929	inCount:2	outCount:1	links:	url:D001929	name:Cerebral Edema, Vasogenic	normalName:cerebral edema, vasogenic	normalWikiTitle:cerebral edema, vasogenic	predictedType:Disease

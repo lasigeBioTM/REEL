@@ -1,0 +1,34 @@
+ENTITY	text:macrolide	normalName:macrolide	predictedType:chemical	q:true	qid:Q119	docId:15985056	origText:macrolide	url:D018942
+CANDIDATE	id:18942	inCount:770	outCount:2	links:18942	url:D018942	name:Macrolides	normalName:macrolides	normalWikiTitle:macrolides	predictedType:Chemical
+CANDIDATE	id:512190	inCount:0	outCount:1	links:512190	url:C512190	name:macroline	normalName:macroline	normalWikiTitle:macroline	predictedType:Chemical
+CANDIDATE	id:626884	inCount:0	outCount:1	links:626884	url:C000626884	name:marliolide	normalName:marliolide	normalWikiTitle:marliolide	predictedType:Chemical
+CANDIDATE	id:24973	inCount:0	outCount:1	links:24973	url:C024973	name:simarolide	normalName:simarolide	normalWikiTitle:simarolide	predictedType:Chemical
+CANDIDATE	id:605327	inCount:0	outCount:2	links:605327	url:C000605327	name:tarolide	normalName:tarolide	normalWikiTitle:tarolide	predictedType:Chemical
+CANDIDATE	id:416483	inCount:0	outCount:1	links:416483	url:C416483	name:RAD macrolide	normalName:rad macrolide	normalWikiTitle:rad macrolide	predictedType:Chemical
+CANDIDATE	id:433561	inCount:0	outCount:2	links:433561	url:C433561	name:macrophyllide	normalName:macrophyllide	normalWikiTitle:macrophyllide	predictedType:Chemical
+CANDIDATE	id:532529	inCount:0	outCount:2	links:532529	url:C532529	name:micromolide	normalName:micromolide	normalWikiTitle:micromolide	predictedType:Chemical
+CANDIDATE	id:432449	inCount:0	outCount:1	links:432449	url:C432449	name:germacranolide	normalName:germacranolide	normalWikiTitle:germacranolide	predictedType:Chemical
+CANDIDATE	id:483001	inCount:0	outCount:1	links:483001	url:C483001	name:micromide	normalName:micromide	normalWikiTitle:micromide	predictedType:Chemical
+ENTITY	text:baclofen	normalName:baclofen	predictedType:chemical	q:true	qid:Q119	docId:15985056	origText:baclofen	url:D001418
+CANDIDATE	id:1418	inCount:11	outCount:1	links:17963	url:D001418	name:Baclofen	normalName:baclofen	normalWikiTitle:baclofen	predictedType:Chemical
+ENTITY	text:midazolam	normalName:midazolam	predictedType:chemical	q:true	qid:Q119	docId:15985056	origText:midazolam	url:D008874
+CANDIDATE	id:8874	inCount:6	outCount:1	links:	url:D008874	name:Midazolam	normalName:midazolam	normalWikiTitle:midazolam	predictedType:Chemical
+ENTITY	text:methylprednisolone	normalName:methylprednisolone	predictedType:chemical	q:true	qid:Q119	docId:15985056	origText:methylprednisolone	url:D008775
+CANDIDATE	id:8775	inCount:29	outCount:1	links:	url:D008775	name:Methylprednisolone	normalName:methylprednisolone	normalWikiTitle:methylprednisolone	predictedType:Chemical
+ENTITY	text:macrolides	normalName:macrolides	predictedType:chemical	q:true	qid:Q119	docId:15985056	origText:macrolides	url:D018942
+CANDIDATE	id:18942	inCount:770	outCount:2	links:18942	url:D018942	name:Macrolides	normalName:macrolides	normalWikiTitle:macrolides	predictedType:Chemical
+CANDIDATE	id:512190	inCount:0	outCount:1	links:512190	url:C512190	name:macroline	normalName:macroline	normalWikiTitle:macroline	predictedType:Chemical
+CANDIDATE	id:626884	inCount:0	outCount:1	links:626884	url:C000626884	name:marliolide	normalName:marliolide	normalWikiTitle:marliolide	predictedType:Chemical
+CANDIDATE	id:24973	inCount:0	outCount:1	links:24973	url:C024973	name:simarolide	normalName:simarolide	normalWikiTitle:simarolide	predictedType:Chemical
+CANDIDATE	id:605327	inCount:0	outCount:2	links:605327	url:C000605327	name:tarolide	normalName:tarolide	normalWikiTitle:tarolide	predictedType:Chemical
+CANDIDATE	id:416483	inCount:0	outCount:1	links:416483	url:C416483	name:RAD macrolide	normalName:rad macrolide	normalWikiTitle:rad macrolide	predictedType:Chemical
+CANDIDATE	id:433561	inCount:0	outCount:2	links:433561	url:C433561	name:macrophyllide	normalName:macrophyllide	normalWikiTitle:macrophyllide	predictedType:Chemical
+CANDIDATE	id:532529	inCount:0	outCount:2	links:532529	url:C532529	name:micromolide	normalName:micromolide	normalWikiTitle:micromolide	predictedType:Chemical
+CANDIDATE	id:432449	inCount:0	outCount:1	links:432449	url:C432449	name:germacranolide	normalName:germacranolide	normalWikiTitle:germacranolide	predictedType:Chemical
+CANDIDATE	id:483001	inCount:0	outCount:1	links:483001	url:C483001	name:micromide	normalName:micromide	normalWikiTitle:micromide	predictedType:Chemical
+ENTITY	text:azithromycin	normalName:azithromycin	predictedType:chemical	q:true	qid:Q119	docId:15985056	origText:azithromycin	url:D017963
+CANDIDATE	id:17963	inCount:3	outCount:1	links:1418	url:D017963	name:Azithromycin	normalName:azithromycin	normalWikiTitle:azithromycin	predictedType:Chemical
+ENTITY	text:dexamethasone	normalName:dexamethasone	predictedType:chemical	q:true	qid:Q119	docId:15985056	origText:dexamethasone	url:D003907
+CANDIDATE	id:3907	inCount:138	outCount:2	links:	url:D003907	name:Dexamethasone	normalName:dexamethasone	normalWikiTitle:dexamethasone	predictedType:Chemical
+ENTITY	text:benzodiazepines	normalName:benzodiazepines	predictedType:chemical	q:true	qid:Q119	docId:15985056	origText:benzodiazepines	url:D001569
+CANDIDATE	id:1569	inCount:260	outCount:1	links:	url:D001569	name:Benzodiazepine	normalName:benzodiazepine	normalWikiTitle:benzodiazepine	predictedType:Chemical

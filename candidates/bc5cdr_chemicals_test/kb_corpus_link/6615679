@@ -1,0 +1,10 @@
+ENTITY	text:pilocarpine nitrate	normalName:pilocarpine nitrate	predictedType:chemical	q:true	qid:Q103	docId:6615679	origText:pilocarpine nitrate	url:D010862
+CANDIDATE	id:10862	inCount:7	outCount:1	links:6221;13999;10862	url:D010862	name:Nitrate, Pilocarpine	normalName:nitrate, pilocarpine	normalWikiTitle:nitrate, pilocarpine	predictedType:Chemical
+ENTITY	text:timolol	normalName:timolol	predictedType:chemical	q:true	qid:Q103	docId:6615679	origText:timolol	url:D013999
+CANDIDATE	id:13999	inCount:10	outCount:3	links:6221;13999;10862	url:D013999	name:Timolol	normalName:timolol	normalWikiTitle:timolol	predictedType:Chemical
+ENTITY	text:pilocarpine	normalName:pilocarpine	predictedType:chemical	q:true	qid:Q103	docId:6615679	origText:pilocarpine	url:D010862
+CANDIDATE	id:10862	inCount:7	outCount:1	links:6221;13999;10862	url:D010862	name:Pilocarpine	normalName:pilocarpine	normalWikiTitle:pilocarpine	predictedType:Chemical
+ENTITY	text:halothane	normalName:halothane	predictedType:chemical	q:true	qid:Q103	docId:6615679	origText:halothane	url:D006221
+CANDIDATE	id:6221	inCount:6	outCount:1	links:13999;10862	url:D006221	name:Halothane	normalName:halothane	normalWikiTitle:halothane	predictedType:Chemical
+ENTITY	text:timolol maleate	normalName:timolol maleate	predictedType:chemical	q:true	qid:Q103	docId:6615679	origText:timolol maleate	url:D013999
+CANDIDATE	id:13999	inCount:10	outCount:3	links:6221;13999;10862	url:D013999	name:Timolol Maleate	normalName:timolol maleate	normalWikiTitle:timolol maleate	predictedType:Chemical

@@ -1,0 +1,6 @@
+ENTITY	text:nausea	normalName:nausea	predictedType:disease	q:true	qid:Q223	docId:11679859	origText:nausea	url:D009325
+CANDIDATE	id:9325	inCount:2	outCount:1	links:14839;6261	url:D009325	name:Nausea	normalName:nausea	normalWikiTitle:nausea	predictedType:Disease
+ENTITY	text:headache	normalName:headache	predictedType:disease	q:true	qid:Q223	docId:11679859	origText:headache	url:D006261
+CANDIDATE	id:6261	inCount:2	outCount:1	links:14839;9325	url:D006261	name:Headache	normalName:headache	normalWikiTitle:headache	predictedType:Disease
+ENTITY	text:vomiting	normalName:vomiting	predictedType:disease	q:true	qid:Q223	docId:11679859	origText:vomiting	url:D014839
+CANDIDATE	id:14839	inCount:7	outCount:1	links:9325;6261	url:D014839	name:Vomiting	normalName:vomiting	normalWikiTitle:vomiting	predictedType:Disease

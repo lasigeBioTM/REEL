@@ -1,0 +1,6 @@
+ENTITY	text:Cocaine	normalName:cocaine	predictedType:chemical	q:true	qid:Q327	docId:8511251	origText:Cocaine	url:D003042
+CANDIDATE	id:3042	inCount:89	outCount:1	links:5996	url:D003042	name:Cocaine	normalName:cocaine	normalWikiTitle:cocaine	predictedType:Chemical
+ENTITY	text:calcium	normalName:calcium	predictedType:chemical	q:true	qid:Q327	docId:8511251	origText:calcium	url:D002118
+CANDIDATE	id:2118	inCount:11	outCount:2	links:	url:D002118	name:Calcium	normalName:calcium	normalWikiTitle:calcium	predictedType:Chemical
+ENTITY	text:nitroglycerin	normalName:nitroglycerin	predictedType:chemical	q:true	qid:Q327	docId:8511251	origText:nitroglycerin	url:D005996
+CANDIDATE	id:5996	inCount:10	outCount:1	links:3042	url:D005996	name:Nitroglycerin	normalName:nitroglycerin	normalWikiTitle:nitroglycerin	predictedType:Chemical

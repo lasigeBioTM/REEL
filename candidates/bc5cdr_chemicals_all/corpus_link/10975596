@@ -1,0 +1,4 @@
+ENTITY	text:amiodarone	normalName:amiodarone	predictedType:chemical	q:true	qid:Q211	docId:10975596	origText:amiodarone	url:D000638
+CANDIDATE	id:638	inCount:17	outCount:1	links:7545	url:D000638	name:Amiodarone	normalName:amiodarone	normalWikiTitle:amiodarone	predictedType:Chemical
+ENTITY	text:isoproterenol	normalName:isoproterenol	predictedType:chemical	q:true	qid:Q211	docId:10975596	origText:isoproterenol	url:D007545
+CANDIDATE	id:7545	inCount:12	outCount:2	links:638	url:D007545	name:Isoproterenol	normalName:isoproterenol	normalWikiTitle:isoproterenol	predictedType:Chemical

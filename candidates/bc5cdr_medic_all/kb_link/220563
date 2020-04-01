@@ -1,0 +1,6 @@
+ENTITY	text:peripheral neuropathy	normalName:peripheral neuropathy	predictedType:disease	q:true	qid:Q1182	docId:220563	origText:peripheral neuropathy	url:D010523
+CANDIDATE	id:10523	inCount:37	outCount:1	links:	url:D010523	name:Peripheral Neuropathy	normalName:peripheral neuropathy	normalWikiTitle:peripheral neuropathy	predictedType:Disease
+ENTITY	text:angina pectoris	normalName:angina pectoris	predictedType:disease	q:true	qid:Q1182	docId:220563	origText:angina pectoris	url:D000787
+CANDIDATE	id:787	inCount:3	outCount:2	links:	url:D000787	name:Angina Pectoris	normalName:angina pectoris	normalWikiTitle:angina pectoris	predictedType:Disease
+ENTITY	text:demyelinating disorder	normalName:demyelinating disorder	predictedType:disease	q:true	qid:Q1182	docId:220563	origText:demyelinating disorder	url:D003711
+CANDIDATE	id:3711	inCount:13	outCount:1	links:	url:D003711	name:Demyelinating Disorder	normalName:demyelinating disorder	normalWikiTitle:demyelinating disorder	predictedType:Disease

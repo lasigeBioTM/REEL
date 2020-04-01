@@ -1,0 +1,26 @@
+ENTITY	text:subarachnoid hemorrhage	normalName:subarachnoid hemorrhage	predictedType:disease	q:true	qid:Q834	docId:8953972	origText:subarachnoid hemorrhage	url:D013345
+CANDIDATE	id:13345	inCount:7	outCount:1	links:6323;6973	url:D013345	name:Subarachnoid Hemorrhage	normalName:subarachnoid hemorrhage	normalWikiTitle:subarachnoid hemorrhage	predictedType:Disease
+ENTITY	text:respiratory distress	normalName:respiratory distress	predictedType:disease	q:true	qid:Q834	docId:8953972	origText:respiratory distress	url:D012128
+CANDIDATE	id:12128	inCount:0	outCount:2	links:	url:D012128	name:Respiratory Distress Syndrome, Adult	normalName:respiratory distress syndrome, adult	normalWikiTitle:respiratory distress syndrome, adult	predictedType:Disease
+CANDIDATE	id:12120	inCount:20	outCount:1	links:	url:D012120	name:Respiration Disorders	normalName:respiration disorders	normalWikiTitle:respiration disorders	predictedType:Disease
+CANDIDATE	id:12140	inCount:17	outCount:1	links:6323	url:D012140	name:Respiratory Tract Diseases	normalName:respiratory tract diseases	normalWikiTitle:respiratory tract diseases	predictedType:Disease
+CANDIDATE	id:142	inCount:0	outCount:2	links:	url:D000142	name:Acidosis, Respiratory	normalName:acidosis, respiratory	normalWikiTitle:acidosis, respiratory	predictedType:Disease
+CANDIDATE	id:12133	inCount:0	outCount:2	links:	url:D012133	name:Respiratory Paralysis	normalName:respiratory paralysis	normalWikiTitle:respiratory paralysis	predictedType:Disease
+CANDIDATE	id:12127	inCount:6	outCount:3	links:	url:D012127	name:Respiratory Distress Syndrome, Newborn	normalName:respiratory distress syndrome, newborn	normalWikiTitle:respiratory distress syndrome, newborn	predictedType:Disease
+CANDIDATE	id:472	inCount:0	outCount:2	links:	url:D000472	name:Alkalosis, Respiratory	normalName:alkalosis, respiratory	normalWikiTitle:alkalosis, respiratory	predictedType:Disease
+CANDIDATE	id:12131	inCount:13	outCount:1	links:	url:D012131	name:Respiratory Insufficiency	normalName:respiratory insufficiency	normalWikiTitle:respiratory insufficiency	predictedType:Disease
+CANDIDATE	id:16156	inCount:2	outCount:2	links:	url:D016156	name:Respiratory Tract Fistula	normalName:respiratory tract fistula	normalWikiTitle:respiratory tract fistula	predictedType:Disease
+CANDIDATE	id:53120	inCount:1	outCount:2	links:	url:D053120	name:Respiratory Aspiration	normalName:respiratory aspiration	normalWikiTitle:respiratory aspiration	predictedType:Disease
+CANDIDATE	id:12131	inCount:13	outCount:1	links:	url:D012131	name:Respiratory Depression	normalName:respiratory depression	normalWikiTitle:respiratory depression	predictedType:Disease
+CANDIDATE	id:142	inCount:0	outCount:2	links:	url:D000142	name:Acidoses, Respiratory	normalName:acidoses, respiratory	normalWikiTitle:acidoses, respiratory	predictedType:Disease
+CANDIDATE	id:142	inCount:0	outCount:2	links:	url:D000142	name:Respiratory Acidoses	normalName:respiratory acidoses	normalWikiTitle:respiratory acidoses	predictedType:Disease
+ENTITY	text:rash	normalName:rash	predictedType:disease	q:true	qid:Q834	docId:8953972	origText:rash	url:D005076
+CANDIDATE	id:5076	inCount:1	outCount:1	links:	url:D005076	name:Rash	normalName:rash	normalWikiTitle:rash	predictedType:Disease
+ENTITY	text:pulmonary edema	normalName:pulmonary edema	predictedType:disease	q:true	qid:Q834	docId:8953972	origText:pulmonary edema	url:D011654
+CANDIDATE	id:11654	inCount:1	outCount:1	links:	url:D011654	name:Pulmonary Edema	normalName:pulmonary edema	normalWikiTitle:pulmonary edema	predictedType:Disease
+ENTITY	text:wheezing	normalName:wheezing	predictedType:disease	q:true	qid:Q834	docId:8953972	origText:wheezing	url:D012135
+CANDIDATE	id:12135	inCount:2	outCount:1	links:	url:D012135	name:Wheezing	normalName:wheezing	normalWikiTitle:wheezing	predictedType:Disease
+ENTITY	text:hypertension	normalName:hypertension	predictedType:disease	q:true	qid:Q834	docId:8953972	origText:hypertension	url:D006973
+CANDIDATE	id:6973	inCount:18	outCount:1	links:6323;13345	url:D006973	name:Hypertension	normalName:hypertension	normalWikiTitle:hypertension	predictedType:Disease
+ENTITY	text:cardiac arrest	normalName:cardiac arrest	predictedType:disease	q:true	qid:Q834	docId:8953972	origText:cardiac arrest	url:D006323
+CANDIDATE	id:6323	inCount:2	outCount:1	links:12140;6973;13345	url:D006323	name:Arrest, Cardiac	normalName:arrest, cardiac	normalWikiTitle:arrest, cardiac	predictedType:Disease

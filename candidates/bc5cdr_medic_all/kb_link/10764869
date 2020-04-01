@@ -1,0 +1,25 @@
+ENTITY	text:ischemic optic neuropathies	normalName:ischemic optic neuropathies	predictedType:disease	q:true	qid:Q231	docId:10764869	origText:ischemic optic neuropathies	url:D018917
+CANDIDATE	id:18917	inCount:1	outCount:2	links:	url:D018917	name:Neuropathies, Ischemic Optic	normalName:neuropathies, ischemic optic	normalWikiTitle:neuropathies, ischemic optic	predictedType:Disease
+ENTITY	text:optic nerve toxicity	normalName:optic nerve toxicity	predictedType:disease	q:true	qid:Q231	docId:10764869	origText:optic nerve toxicity	url:D009901
+CANDIDATE	id:9901	inCount:13	outCount:2	links:9901	url:D009901	name:Optic Nerve Diseases	normalName:optic nerve diseases	normalWikiTitle:optic nerve diseases	predictedType:Disease
+CANDIDATE	id:565846	inCount:0	outCount:2	links:	url:C565846	name:Copper Toxicosis, Idiopathic	normalName:copper toxicosis, idiopathic	normalWikiTitle:copper toxicosis, idiopathic	predictedType:Disease
+CANDIDATE	id:66126	inCount:0	outCount:3	links:	url:D066126	name:Cardiotoxicity	normalName:cardiotoxicity	normalWikiTitle:cardiotoxicity	predictedType:Disease
+CANDIDATE	id:17545	inCount:14	outCount:1	links:	url:D017545	name:Aortic Aneurysm, Thoracic	normalName:aortic aneurysm, thoracic	normalWikiTitle:aortic aneurysm, thoracic	predictedType:Disease
+CANDIDATE	id:20339	inCount:0	outCount:2	links:	url:D020339	name:Optic Nerve Glioma	normalName:optic nerve glioma	normalWikiTitle:optic nerve glioma	predictedType:Disease
+CANDIDATE	id:13283	inCount:0	outCount:2	links:	url:D013283	name:Stomatitis, Herpetic	normalName:stomatitis, herpetic	normalWikiTitle:stomatitis, herpetic	predictedType:Disease
+CANDIDATE	id:20258	inCount:7	outCount:2	links:	url:D020258	name:Neurotoxicity Syndromes	normalName:neurotoxicity syndromes	normalWikiTitle:neurotoxicity syndromes	predictedType:Disease
+CANDIDATE	id:14091	inCount:1	outCount:1	links:	url:D014091	name:Tooth Resorption	normalName:tooth resorption	normalWikiTitle:tooth resorption	predictedType:Disease
+CANDIDATE	id:538543	inCount:0	outCount:1	links:	url:C538543	name:Preeclamptic toxemia	normalName:preeclamptic toxemia	normalWikiTitle:preeclamptic toxemia	predictedType:Disease
+CANDIDATE	id:20221	inCount:0	outCount:2	links:	url:D020221	name:Optic Nerve Injuries	normalName:optic nerve injuries	normalWikiTitle:optic nerve injuries	predictedType:Disease
+CANDIDATE	id:10211	inCount:0	outCount:1	links:	url:D010211	name:Papillitis, Optic Nerve	normalName:papillitis, optic nerve	normalWikiTitle:papillitis, optic nerve	predictedType:Disease
+CANDIDATE	id:10211	inCount:0	outCount:1	links:	url:D010211	name:Optic Nerve Papillitis	normalName:optic nerve papillitis	normalWikiTitle:optic nerve papillitis	predictedType:Disease
+CANDIDATE	id:20221	inCount:0	outCount:2	links:	url:D020221	name:Transection, Optic Nerve	normalName:transection, optic nerve	normalWikiTitle:transection, optic nerve	predictedType:Disease
+CANDIDATE	id:20221	inCount:0	outCount:2	links:	url:D020221	name:Nerve Transection, Optic	normalName:nerve transection, optic	normalWikiTitle:nerve transection, optic	predictedType:Disease
+CANDIDATE	id:20221	inCount:0	outCount:2	links:	url:D020221	name:Optic Nerve Transection	normalName:optic nerve transection	normalWikiTitle:optic nerve transection	predictedType:Disease
+CANDIDATE	id:20221	inCount:0	outCount:2	links:	url:D020221	name:Nerve Transections, Optic	normalName:nerve transections, optic	normalWikiTitle:nerve transections, optic	predictedType:Disease
+CANDIDATE	id:20221	inCount:0	outCount:2	links:	url:D020221	name:Trauma, Optic Nerve	normalName:trauma, optic nerve	normalWikiTitle:trauma, optic nerve	predictedType:Disease
+CANDIDATE	id:20221	inCount:0	outCount:2	links:	url:D020221	name:Optic Nerve Trauma	normalName:optic nerve trauma	normalWikiTitle:optic nerve trauma	predictedType:Disease
+CANDIDATE	id:20221	inCount:0	outCount:2	links:	url:D020221	name:Optic Nerve Transections	normalName:optic nerve transections	normalWikiTitle:optic nerve transections	predictedType:Disease
+CANDIDATE	id:20221	inCount:0	outCount:2	links:	url:D020221	name:Transections, Optic Nerve	normalName:transections, optic nerve	normalWikiTitle:transections, optic nerve	predictedType:Disease
+ENTITY	text:optic neuropathy	normalName:optic neuropathy	predictedType:disease	q:true	qid:Q231	docId:10764869	origText:optic neuropathy	url:D009901
+CANDIDATE	id:9901	inCount:13	outCount:2	links:9901	url:D009901	name:Neuropathy, Optic	normalName:neuropathy, optic	normalWikiTitle:neuropathy, optic	predictedType:Disease

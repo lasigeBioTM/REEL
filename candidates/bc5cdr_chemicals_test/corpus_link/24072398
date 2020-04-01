@@ -1,0 +1,10 @@
+ENTITY	text:dopamine	normalName:dopamine	predictedType:chemical	q:true	qid:Q433	docId:24072398	origText:dopamine	url:D004298
+CANDIDATE	id:4298	inCount:90	outCount:2	links:	url:D004298	name:Dopamine	normalName:dopamine	normalWikiTitle:dopamine	predictedType:Chemical
+ENTITY	text:DOPAC	normalName:dopac	predictedType:chemical	q:true	qid:Q433	docId:24072398	origText:DOPAC	url:D015102
+CANDIDATE	id:15102	inCount:3	outCount:1	links:	url:D015102	name:DOPAC	normalName:dopac	normalWikiTitle:dopac	predictedType:Chemical
+ENTITY	text:tyrosine	normalName:tyrosine	predictedType:chemical	q:true	qid:Q433	docId:24072398	origText:tyrosine	url:D014443
+CANDIDATE	id:14443	inCount:271	outCount:1	links:	url:D014443	name:Tyrosine	normalName:tyrosine	normalWikiTitle:tyrosine	predictedType:Chemical
+ENTITY	text:methamphetamine	normalName:methamphetamine	predictedType:chemical	q:true	qid:Q433	docId:24072398	origText:methamphetamine	url:D008694
+CANDIDATE	id:8694	inCount:44	outCount:1	links:	url:D008694	name:Methamphetamine	normalName:methamphetamine	normalWikiTitle:methamphetamine	predictedType:Chemical
+ENTITY	text:serotonin	normalName:serotonin	predictedType:chemical	q:true	qid:Q433	docId:24072398	origText:serotonin	url:D012701
+CANDIDATE	id:12701	inCount:48	outCount:2	links:	url:D012701	name:Serotonin	normalName:serotonin	normalWikiTitle:serotonin	predictedType:Chemical

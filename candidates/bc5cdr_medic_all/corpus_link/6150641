@@ -1,0 +1,6 @@
+ENTITY	text:Zollinger-Ellison syndrome	normalName:zollinger-ellison syndrome	predictedType:disease	q:true	qid:Q1363	docId:6150641	origText:Zollinger-Ellison syndrome	url:D015043
+CANDIDATE	id:15043	inCount:0	outCount:5	links:	url:D015043	name:Zollinger-Ellison Syndrome	normalName:zollinger-ellison syndrome	normalWikiTitle:zollinger-ellison syndrome	predictedType:Disease
+ENTITY	text:systemic mastocytosis	normalName:systemic mastocytosis	predictedType:disease	q:true	qid:Q1363	docId:6150641	origText:systemic mastocytosis	url:D034721
+CANDIDATE	id:34721	inCount:1	outCount:1	links:	url:D034721	name:Mastocytosis, Systemic	normalName:mastocytosis, systemic	normalWikiTitle:mastocytosis, systemic	predictedType:Disease
+ENTITY	text:impotence	normalName:impotence	predictedType:disease	q:true	qid:Q1363	docId:6150641	origText:impotence	url:D007172
+CANDIDATE	id:7172	inCount:1	outCount:2	links:	url:D007172	name:Impotence	normalName:impotence	normalWikiTitle:impotence	predictedType:Disease

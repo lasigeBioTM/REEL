@@ -1,0 +1,8 @@
+ENTITY	text:Urinary bladder cancer	normalName:urinary bladder cancer	predictedType:disease	q:true	qid:Q1278	docId:15130900	origText:Urinary bladder cancer	url:D001749
+CANDIDATE	id:1749	inCount:2	outCount:2	links:1749	url:D001749	name:Cancer, Urinary Bladder	normalName:cancer, urinary bladder	normalWikiTitle:cancer, urinary bladder	predictedType:Disease
+ENTITY	text:Cancer	normalName:cancer	predictedType:disease	q:true	qid:Q1278	docId:15130900	origText:Cancer	url:D009369
+CANDIDATE	id:9369	inCount:18	outCount:1	links:	url:D009369	name:Cancer	normalName:cancer	normalWikiTitle:cancer	predictedType:Disease
+ENTITY	text:Wegener's granulomatosis	normalName:wegener's granulomatosis	predictedType:disease	q:true	qid:Q1278	docId:15130900	origText:Wegener's granulomatosis	url:D014890
+CANDIDATE	id:14890	inCount:2	outCount:2	links:	url:D014890	name:Granulomatosis, Wegener's	normalName:granulomatosis, wegener's	normalWikiTitle:granulomatosis, wegener's	predictedType:Disease
+ENTITY	text:bladder cancer	normalName:bladder cancer	predictedType:disease	q:true	qid:Q1278	docId:15130900	origText:bladder cancer	url:D001749
+CANDIDATE	id:1749	inCount:2	outCount:2	links:1749	url:D001749	name:Bladder Cancer	normalName:bladder cancer	normalWikiTitle:bladder cancer	predictedType:Disease

@@ -1,0 +1,17 @@
+ENTITY	text:fluorescein	normalName:fluorescein	predictedType:chemical	q:true	qid:Q1270	docId:9199746	origText:fluorescein	url:D019793
+CANDIDATE	id:19793	inCount:4	outCount:1	links:	url:D019793	name:Fluorescein	normalName:fluorescein	normalWikiTitle:fluorescein	predictedType:Chemical
+ENTITY	text:amikacin	normalName:amikacin	predictedType:chemical	q:true	qid:Q1270	docId:9199746	origText:amikacin	url:D000583
+CANDIDATE	id:583	inCount:8	outCount:1	links:	url:D000583	name:Amikacin	normalName:amikacin	normalWikiTitle:amikacin	predictedType:Chemical
+ENTITY	text:vancomycin	normalName:vancomycin	predictedType:chemical	q:true	qid:Q1270	docId:9199746	origText:vancomycin	url:D014640
+CANDIDATE	id:14640	inCount:29	outCount:1	links:	url:D014640	name:Vancomycin	normalName:vancomycin	normalWikiTitle:vancomycin	predictedType:Chemical
+ENTITY	text:aminoglycosides	normalName:aminoglycosides	predictedType:chemical	q:true	qid:Q1270	docId:9199746	origText:aminoglycosides	url:D000617
+CANDIDATE	id:617	inCount:339	outCount:1	links:	url:D000617	name:Aminoglycosides	normalName:aminoglycosides	normalWikiTitle:aminoglycosides	predictedType:Chemical
+CANDIDATE	id:572445	inCount:0	outCount:2	links:	url:C572445	name:aminoglycoside NB84	normalName:aminoglycoside nb84	normalWikiTitle:aminoglycoside nb84	predictedType:Chemical
+CANDIDATE	id:20970	inCount:0	outCount:1	links:	url:C020970	name:aminoglycogen	normalName:aminoglycogen	normalWikiTitle:aminoglycogen	predictedType:Chemical
+CANDIDATE	id:15614	inCount:0	outCount:1	links:	url:C015614	name:aminoglycoside 66-40C	normalName:aminoglycoside 66-40c	normalWikiTitle:aminoglycoside 66-40c	predictedType:Chemical
+CANDIDATE	id:5351	inCount:0	outCount:1	links:	url:C005351	name:1-aminoglucose	normalName:1-aminoglucose	normalWikiTitle:1-aminoglucose	predictedType:Chemical
+CANDIDATE	id:13865	inCount:33	outCount:2	links:	url:D013865	name:Thioglycosides	normalName:thioglycosides	normalWikiTitle:thioglycosides	predictedType:Chemical
+CANDIDATE	id:87807	inCount:0	outCount:1	links:	url:C087807	name:daucoglycoside	normalName:daucoglycoside	normalWikiTitle:daucoglycoside	predictedType:Chemical
+CANDIDATE	id:33013	inCount:0	outCount:1	links:	url:C033013	name:iminoglycine	normalName:iminoglycine	normalWikiTitle:iminoglycine	predictedType:Chemical
+CANDIDATE	id:507900	inCount:0	outCount:1	links:	url:C507900	name:diaminoglyoxime	normalName:diaminoglyoxime	normalWikiTitle:diaminoglyoxime	predictedType:Chemical
+CANDIDATE	id:51618	inCount:0	outCount:1	links:	url:C051618	name:mycoside A	normalName:mycoside a	normalWikiTitle:mycoside a	predictedType:Chemical

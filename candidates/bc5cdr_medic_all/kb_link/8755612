@@ -1,0 +1,17 @@
+ENTITY	text:tumors	normalName:tumors	predictedType:disease	q:true	qid:Q261	docId:8755612	origText:tumors	url:D009369
+CANDIDATE	id:9369	inCount:18	outCount:1	links:9369	url:D009369	name:Tumor	normalName:tumor	normalWikiTitle:tumor	predictedType:Disease
+ENTITY	text:tumor	normalName:tumor	predictedType:disease	q:true	qid:Q261	docId:8755612	origText:tumor	url:D009369
+CANDIDATE	id:9369	inCount:18	outCount:1	links:9369	url:D009369	name:Tumor	normalName:tumor	normalWikiTitle:tumor	predictedType:Disease
+ENTITY	text:pituitary tumors	normalName:pituitary tumors	predictedType:disease	q:true	qid:Q261	docId:8755612	origText:pituitary tumors	url:D010911
+CANDIDATE	id:10911	inCount:3	outCount:3	links:	url:D010911	name:Pituitary Tumors	normalName:pituitary tumors	normalWikiTitle:pituitary tumors	predictedType:Disease
+ENTITY	text:hemorrhagic	normalName:hemorrhagic	predictedType:disease	q:true	qid:Q261	docId:8755612	origText:hemorrhagic	url:D006470
+CANDIDATE	id:6470	inCount:31	outCount:1	links:	url:D006470	name:Hemorrhage	normalName:hemorrhage	normalWikiTitle:hemorrhage	predictedType:Disease
+CANDIDATE	id:12771	inCount:0	outCount:2	links:	url:D012771	name:Shock, Hemorrhagic	normalName:shock, hemorrhagic	normalWikiTitle:shock, hemorrhagic	predictedType:Disease
+CANDIDATE	id:8595	inCount:0	outCount:2	links:	url:D008595	name:Menorrhagia	normalName:menorrhagia	normalWikiTitle:menorrhagia	predictedType:Disease
+CANDIDATE	id:6484	inCount:0	outCount:2	links:	url:D006484	name:Hemorrhoids	normalName:hemorrhoids	normalWikiTitle:hemorrhoids	predictedType:Disease
+CANDIDATE	id:5130	inCount:4	outCount:3	links:	url:D005130	name:Eye Hemorrhage	normalName:eye hemorrhage	normalWikiTitle:eye hemorrhage	predictedType:Disease
+CANDIDATE	id:540322	inCount:0	outCount:1	links:	url:C540322	name:Hemorrhagic jaundice	normalName:hemorrhagic jaundice	normalWikiTitle:hemorrhagic jaundice	predictedType:Disease
+CANDIDATE	id:8796	inCount:0	outCount:1	links:	url:D008796	name:Metrorrhagia	normalName:metrorrhagia	normalWikiTitle:metrorrhagia	predictedType:Disease
+CANDIDATE	id:12166	inCount:3	outCount:2	links:	url:D012166	name:Retinal Hemorrhage	normalName:retinal hemorrhage	normalWikiTitle:retinal hemorrhage	predictedType:Disease
+CANDIDATE	id:6474	inCount:26	outCount:1	links:	url:D006474	name:Hemorrhagic Disorders	normalName:hemorrhagic disorders	normalWikiTitle:hemorrhagic disorders	predictedType:Disease
+CANDIDATE	id:14592	inCount:3	outCount:2	links:	url:D014592	name:Uterine Hemorrhage	normalName:uterine hemorrhage	normalWikiTitle:uterine hemorrhage	predictedType:Disease

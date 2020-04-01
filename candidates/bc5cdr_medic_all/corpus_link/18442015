@@ -1,0 +1,48 @@
+ENTITY	text:gastric hemorrhagic	normalName:gastric hemorrhagic	predictedType:disease	q:true	qid:Q57	docId:18442015	origText:gastric hemorrhagic	url:D006471
+CANDIDATE	id:6471	inCount:3	outCount:2	links:6470;14456;50197;2543	url:D006471	name:Gastrointestinal Hemorrhage	normalName:gastrointestinal hemorrhage	normalWikiTitle:gastrointestinal hemorrhage	predictedType:Disease
+CANDIDATE	id:6478	inCount:0	outCount:2	links:	url:D006478	name:Hemorrhagic Fever, American	normalName:hemorrhagic fever, american	normalWikiTitle:hemorrhagic fever, american	predictedType:Disease
+CANDIDATE	id:6474	inCount:26	outCount:1	links:	url:D006474	name:Hemorrhagic Disorders	normalName:hemorrhagic disorders	normalWikiTitle:hemorrhagic disorders	predictedType:Disease
+CANDIDATE	id:5758	inCount:0	outCount:1	links:	url:D005758	name:Gastritis, Hypertrophic	normalName:gastritis, hypertrophic	normalWikiTitle:gastritis, hypertrophic	predictedType:Disease
+CANDIDATE	id:19142	inCount:0	outCount:2	links:	url:D019142	name:Hemorrhagic Fever, Ebola	normalName:hemorrhagic fever, ebola	normalWikiTitle:hemorrhagic fever, ebola	predictedType:Disease
+CANDIDATE	id:2832	inCount:0	outCount:2	links:	url:D002832	name:Choroid Hemorrhage	normalName:choroid hemorrhage	normalWikiTitle:choroid hemorrhage	predictedType:Disease
+CANDIDATE	id:6479	inCount:0	outCount:3	links:	url:D006479	name:Hemorrhagic Fever, Crimean	normalName:hemorrhagic fever, crimean	normalWikiTitle:hemorrhagic fever, crimean	predictedType:Disease
+CANDIDATE	id:5884	inCount:1	outCount:2	links:	url:D005884	name:Gingival Hemorrhage	normalName:gingival hemorrhage	normalWikiTitle:gingival hemorrhage	predictedType:Disease
+CANDIDATE	id:6481	inCount:0	outCount:3	links:	url:D006481	name:Hemorrhagic Fever, Omsk	normalName:hemorrhagic fever, omsk	normalWikiTitle:hemorrhagic fever, omsk	predictedType:Disease
+CANDIDATE	id:6470	inCount:31	outCount:1	links:6471;2543	url:D006470	name:Hemorrhage	normalName:hemorrhage	normalWikiTitle:hemorrhage	predictedType:Disease
+CANDIDATE	id:6483	inCount:0	outCount:2	links:	url:D006483	name:Hemorrhagic Bacteremia	normalName:hemorrhagic bacteremia	normalWikiTitle:hemorrhagic bacteremia	predictedType:Disease
+CANDIDATE	id:6483	inCount:0	outCount:2	links:	url:D006483	name:Bacteremia, Hemorrhagic	normalName:bacteremia, hemorrhagic	normalWikiTitle:bacteremia, hemorrhagic	predictedType:Disease
+CANDIDATE	id:6483	inCount:0	outCount:2	links:	url:D006483	name:Bacteremia, Haemorrhagic	normalName:bacteremia, haemorrhagic	normalWikiTitle:bacteremia, haemorrhagic	predictedType:Disease
+CANDIDATE	id:6483	inCount:0	outCount:2	links:	url:D006483	name:Haemorrhagic Bacteremia	normalName:haemorrhagic bacteremia	normalWikiTitle:haemorrhagic bacteremia	predictedType:Disease
+CANDIDATE	id:6474	inCount:26	outCount:1	links:	url:D006474	name:Hemorrhagic Diathesis	normalName:hemorrhagic diathesis	normalWikiTitle:hemorrhagic diathesis	predictedType:Disease
+CANDIDATE	id:6474	inCount:26	outCount:1	links:	url:D006474	name:Diathesis, Hemorrhagic	normalName:diathesis, hemorrhagic	normalWikiTitle:diathesis, hemorrhagic	predictedType:Disease
+CANDIDATE	id:19595	inCount:0	outCount:1	links:	url:D019595	name:Hemorrhagic Dengues	normalName:hemorrhagic dengues	normalWikiTitle:hemorrhagic dengues	predictedType:Disease
+CANDIDATE	id:6474	inCount:26	outCount:1	links:	url:D006474	name:Disorder, Hemorrhagic	normalName:disorder, hemorrhagic	normalWikiTitle:disorder, hemorrhagic	predictedType:Disease
+CANDIDATE	id:6474	inCount:26	outCount:1	links:	url:D006474	name:Hemorrhagic Disorder	normalName:hemorrhagic disorder	normalWikiTitle:hemorrhagic disorder	predictedType:Disease
+ENTITY	text:ulcers	normalName:ulcers	predictedType:disease	q:true	qid:Q57	docId:18442015	origText:ulcers	url:D014456
+CANDIDATE	id:14456	inCount:1	outCount:1	links:6471;50197	url:D014456	name:Ulcer	normalName:ulcer	normalWikiTitle:ulcer	predictedType:Disease
+ENTITY	text:ulcer	normalName:ulcer	predictedType:disease	q:true	qid:Q57	docId:18442015	origText:ulcer	url:D014456
+CANDIDATE	id:14456	inCount:1	outCount:1	links:6471;50197	url:D014456	name:Ulcer	normalName:ulcer	normalWikiTitle:ulcer	predictedType:Disease
+ENTITY	text:atherosclerotic	normalName:atherosclerotic	predictedType:disease	q:true	qid:Q57	docId:18442015	origText:atherosclerotic	url:D050197
+CANDIDATE	id:50197	inCount:3	outCount:1	links:14456;6471;2543	url:D050197	name:Atherosclerosis	normalName:atherosclerosis	normalWikiTitle:atherosclerosis	predictedType:Disease
+CANDIDATE	id:58226	inCount:0	outCount:1	links:	url:D058226	name:Plaque, Atherosclerotic	normalName:plaque, atherosclerotic	normalWikiTitle:plaque, atherosclerotic	predictedType:Disease
+CANDIDATE	id:1161	inCount:9	outCount:1	links:	url:D001161	name:Arteriosclerosis	normalName:arteriosclerosis	normalWikiTitle:arteriosclerosis	predictedType:Disease
+CANDIDATE	id:50379	inCount:0	outCount:1	links:	url:D050379	name:Arteriolosclerosis	normalName:arteriolosclerosis	normalWikiTitle:arteriolosclerosis	predictedType:Disease
+CANDIDATE	id:10026	inCount:17	outCount:1	links:	url:D010026	name:Osteosclerosis	normalName:osteosclerosis	normalWikiTitle:osteosclerosis	predictedType:Disease
+CANDIDATE	id:9400	inCount:0	outCount:1	links:	url:D009400	name:Nephrosclerosis	normalName:nephrosclerosis	normalWikiTitle:nephrosclerosis	predictedType:Disease
+CANDIDATE	id:10040	inCount:6	outCount:1	links:	url:D010040	name:Otosclerosis	normalName:otosclerosis	normalWikiTitle:otosclerosis	predictedType:Disease
+CANDIDATE	id:537792	inCount:0	outCount:1	links:	url:C537792	name:Axial osteosclerosis	normalName:axial osteosclerosis	normalWikiTitle:axial osteosclerosis	predictedType:Disease
+CANDIDATE	id:565302	inCount:0	outCount:1	links:	url:C565302	name:Otosclerosis 2	normalName:otosclerosis 2	normalWikiTitle:otosclerosis 2	predictedType:Disease
+CANDIDATE	id:564268	inCount:0	outCount:1	links:	url:C564268	name:Otosclerosis 3	normalName:otosclerosis 3	normalWikiTitle:otosclerosis 3	predictedType:Disease
+ENTITY	text:atherosclerosis	normalName:atherosclerosis	predictedType:disease	q:true	qid:Q57	docId:18442015	origText:atherosclerosis	url:D050197
+CANDIDATE	id:50197	inCount:3	outCount:1	links:14456;6471;2543	url:D050197	name:Atherosclerosis	normalName:atherosclerosis	normalWikiTitle:atherosclerosis	predictedType:Disease
+ENTITY	text:gastric hemorrhage	normalName:gastric hemorrhage	predictedType:disease	q:true	qid:Q57	docId:18442015	origText:gastric hemorrhage	url:D006471
+CANDIDATE	id:6471	inCount:3	outCount:2	links:6470;14456;50197;2543	url:D006471	name:Gastrointestinal Hemorrhage	normalName:gastrointestinal hemorrhage	normalWikiTitle:gastrointestinal hemorrhage	predictedType:Disease
+CANDIDATE	id:2832	inCount:0	outCount:2	links:	url:D002832	name:Choroid Hemorrhage	normalName:choroid hemorrhage	normalWikiTitle:choroid hemorrhage	predictedType:Disease
+CANDIDATE	id:6470	inCount:31	outCount:1	links:6471;2543	url:D006470	name:Hemorrhage	normalName:hemorrhage	normalWikiTitle:hemorrhage	predictedType:Disease
+CANDIDATE	id:5884	inCount:1	outCount:2	links:	url:D005884	name:Gingival Hemorrhage	normalName:gingival hemorrhage	normalWikiTitle:gingival hemorrhage	predictedType:Disease
+CANDIDATE	id:5130	inCount:4	outCount:3	links:	url:D005130	name:Eye Hemorrhage	normalName:eye hemorrhage	normalWikiTitle:eye hemorrhage	predictedType:Disease
+CANDIDATE	id:20145	inCount:1	outCount:2	links:	url:D020145	name:Basal Ganglia Hemorrhage	normalName:basal ganglia hemorrhage	normalWikiTitle:basal ganglia hemorrhage	predictedType:Disease
+CANDIDATE	id:2543	inCount:3	outCount:1	links:6470;6471;50197	url:D002543	name:Cerebral Hemorrhage	normalName:cerebral hemorrhage	normalWikiTitle:cerebral hemorrhage	predictedType:Disease
+CANDIDATE	id:6478	inCount:0	outCount:2	links:	url:D006478	name:Hemorrhagic Fever, American	normalName:hemorrhagic fever, american	normalWikiTitle:hemorrhagic fever, american	predictedType:Disease
+CANDIDATE	id:6474	inCount:26	outCount:1	links:	url:D006474	name:Hemorrhagic Disorders	normalName:hemorrhagic disorders	normalWikiTitle:hemorrhagic disorders	predictedType:Disease
+CANDIDATE	id:4933	inCount:3	outCount:2	links:	url:D004933	name:Esophageal Atresia	normalName:esophageal atresia	normalWikiTitle:esophageal atresia	predictedType:Disease

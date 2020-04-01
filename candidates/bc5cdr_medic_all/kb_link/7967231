@@ -1,0 +1,4 @@
+ENTITY	text:convulsions	normalName:convulsions	predictedType:disease	q:true	qid:Q1440	docId:7967231	origText:convulsions	url:D012640
+CANDIDATE	id:12640	inCount:53	outCount:1	links:	url:D012640	name:Convulsion	normalName:convulsion	normalWikiTitle:convulsion	predictedType:Disease
+ENTITY	text:epilepsy	normalName:epilepsy	predictedType:disease	q:true	qid:Q1440	docId:7967231	origText:epilepsy	url:D004827
+CANDIDATE	id:4827	inCount:52	outCount:1	links:	url:D004827	name:Epilepsy	normalName:epilepsy	normalWikiTitle:epilepsy	predictedType:Disease

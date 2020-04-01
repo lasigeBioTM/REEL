@@ -1,0 +1,13 @@
+ENTITY	text:Indomethacin	normalName:indomethacin	predictedType:chemical	q:true	qid:Q1307	docId:4071154	origText:Indomethacin	url:D007213
+CANDIDATE	id:7213	inCount:40	outCount:1	links:	url:D007213	name:Indomethacin	normalName:indomethacin	normalWikiTitle:indomethacin	predictedType:Chemical
+ENTITY	text:prostaglandins	normalName:prostaglandins	predictedType:chemical	q:true	qid:Q1307	docId:4071154	origText:prostaglandins	url:D011453
+CANDIDATE	id:11453	inCount:31	outCount:1	links:	url:D011453	name:Prostaglandins	normalName:prostaglandins	normalWikiTitle:prostaglandins	predictedType:Chemical
+CANDIDATE	id:11454	inCount:15	outCount:1	links:	url:D011454	name:Prostaglandins A	normalName:prostaglandins a	normalWikiTitle:prostaglandins a	predictedType:Chemical
+CANDIDATE	id:11458	inCount:10	outCount:1	links:	url:D011458	name:Prostaglandins E	normalName:prostaglandins e	normalWikiTitle:prostaglandins e	predictedType:Chemical
+CANDIDATE	id:11456	inCount:9	outCount:1	links:	url:D011456	name:Prostaglandins B	normalName:prostaglandins b	normalWikiTitle:prostaglandins b	predictedType:Chemical
+CANDIDATE	id:100573	inCount:0	outCount:1	links:	url:C100573	name:prostaglandin A1	normalName:prostaglandin a1	normalWikiTitle:prostaglandin a1	predictedType:Chemical
+CANDIDATE	id:11457	inCount:7	outCount:1	links:	url:D011457	name:Prostaglandins D	normalName:prostaglandins d	normalWikiTitle:prostaglandins d	predictedType:Chemical
+CANDIDATE	id:11463	inCount:7	outCount:1	links:	url:D011463	name:Prostaglandins H	normalName:prostaglandins h	normalWikiTitle:prostaglandins h	predictedType:Chemical
+CANDIDATE	id:33246	inCount:0	outCount:1	links:	url:C033246	name:prostaglandin E3	normalName:prostaglandin e3	normalWikiTitle:prostaglandin e3	predictedType:Chemical
+CANDIDATE	id:15230	inCount:18	outCount:1	links:	url:D015230	name:Prostaglandin D2	normalName:prostaglandin d2	normalWikiTitle:prostaglandin d2	predictedType:Chemical
+CANDIDATE	id:44262	inCount:4	outCount:1	links:	url:D044262	name:Prostaglandin H2	normalName:prostaglandin h2	normalWikiTitle:prostaglandin h2	predictedType:Chemical

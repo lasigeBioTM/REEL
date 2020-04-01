@@ -1,0 +1,51 @@
+ENTITY	text:periocular dermatitis	normalName:periocular dermatitis	predictedType:disease	q:true	qid:Q262	docId:15096374	origText:periocular dermatitis	url:D019557
+CANDIDATE	id:19557	inCount:0	outCount:2	links:19557	url:D019557	name:Periocular Dermatitis	normalName:periocular dermatitis	normalWikiTitle:periocular dermatitis	predictedType:Disease
+ENTITY	text:atopic dermatitis	normalName:atopic dermatitis	predictedType:disease	q:true	qid:Q262	docId:15096374	origText:atopic dermatitis	url:D003876
+CANDIDATE	id:3876	inCount:9	outCount:4	links:	url:D003876	name:Dermatitis, Atopic	normalName:dermatitis, atopic	normalWikiTitle:dermatitis, atopic	predictedType:Disease
+ENTITY	text:papular rosacea	normalName:papular rosacea	predictedType:disease	q:true	qid:Q262	docId:15096374	origText:papular rosacea	url:D012393
+CANDIDATE	id:12393	inCount:1	outCount:1	links:12393	url:D012393	name:Papulopustular Rosacea	normalName:papulopustular rosacea	normalWikiTitle:papulopustular rosacea	predictedType:Disease
+CANDIDATE	id:537169	inCount:0	outCount:2	links:	url:C537169	name:Papular urticaria	normalName:papular urticaria	normalWikiTitle:papular urticaria	predictedType:Disease
+CANDIDATE	id:536376	inCount:0	outCount:1	links:	url:C536376	name:Annular pancreas	normalName:annular pancreas	normalWikiTitle:annular pancreas	predictedType:Disease
+CANDIDATE	id:12393	inCount:1	outCount:1	links:12393	url:D012393	name:Rosacea	normalName:rosacea	normalWikiTitle:rosacea	predictedType:Disease
+CANDIDATE	id:562461	inCount:0	outCount:2	links:	url:C562461	name:Annular Erythema	normalName:annular erythema	normalWikiTitle:annular erythema	predictedType:Disease
+CANDIDATE	id:1039	inCount:0	outCount:1	links:	url:D001039	name:Aphasia, Broca	normalName:aphasia, broca	normalWikiTitle:aphasia, broca	predictedType:Disease
+CANDIDATE	id:20065	inCount:0	outCount:2	links:	url:D020065	name:Hepatopulmonary Syndrome	normalName:hepatopulmonary syndrome	normalWikiTitle:hepatopulmonary syndrome	predictedType:Disease
+CANDIDATE	id:57910	inCount:0	outCount:2	links:	url:D057910	name:Implant Capsular Contracture	normalName:implant capsular contracture	normalWikiTitle:implant capsular contracture	predictedType:Disease
+CANDIDATE	id:11470	inCount:1	outCount:1	links:	url:D011470	name:Prostatic Hyperplasia	normalName:prostatic hyperplasia	normalWikiTitle:prostatic hyperplasia	predictedType:Disease
+CANDIDATE	id:65170	inCount:0	outCount:1	links:	url:D065170	name:Pregnancy, Angular	normalName:pregnancy, angular	normalWikiTitle:pregnancy, angular	predictedType:Disease
+CANDIDATE	id:14647	inCount:0	outCount:2	links:	url:D014647	name:Varicose Ulcer	normalName:varicose ulcer	normalWikiTitle:varicose ulcer	predictedType:Disease
+CANDIDATE	id:12393	inCount:1	outCount:1	links:12393	url:D012393	name:Rosacea, Ocular	normalName:rosacea, ocular	normalWikiTitle:rosacea, ocular	predictedType:Disease
+CANDIDATE	id:12393	inCount:1	outCount:1	links:12393	url:D012393	name:Ocular Rosacea	normalName:ocular rosacea	normalWikiTitle:ocular rosacea	predictedType:Disease
+CANDIDATE	id:12393	inCount:1	outCount:1	links:12393	url:D012393	name:Rosacea, Papulopustular	normalName:rosacea, papulopustular	normalWikiTitle:rosacea, papulopustular	predictedType:Disease
+ENTITY	text:facial inflammatory dermatoses	normalName:facial inflammatory dermatoses	predictedType:disease	q:true	qid:Q262	docId:15096374	origText:facial inflammatory dermatoses	url:D005148
+CANDIDATE	id:5148	inCount:5	outCount:1	links:5148	url:D005148	name:Facial Dermatoses	normalName:facial dermatoses	normalWikiTitle:facial dermatoses	predictedType:Disease
+CANDIDATE	id:15212	inCount:31	outCount:2	links:15212	url:D015212	name:Inflammatory Bowel Diseases	normalName:inflammatory bowel diseases	normalWikiTitle:inflammatory bowel diseases	predictedType:Disease
+CANDIDATE	id:292	inCount:5	outCount:2	links:292	url:D000292	name:Pelvic Inflammatory Disease	normalName:pelvic inflammatory disease	normalWikiTitle:pelvic inflammatory disease	predictedType:Disease
+CANDIDATE	id:5155	inCount:9	outCount:2	links:5155	url:D005155	name:Facial Nerve Diseases	normalName:facial nerve diseases	normalWikiTitle:facial nerve diseases	predictedType:Disease
+CANDIDATE	id:565234	inCount:0	outCount:1	links:565234	url:C565234	name:Inflammatory Bowel Disease 5	normalName:inflammatory bowel disease 5	normalWikiTitle:inflammatory bowel disease 5	predictedType:Disease
+CANDIDATE	id:565353	inCount:0	outCount:1	links:565353	url:C565353	name:Inflammatory Bowel Disease 7	normalName:inflammatory bowel disease 7	normalWikiTitle:inflammatory bowel disease 7	predictedType:Disease
+CANDIDATE	id:563310	inCount:0	outCount:1	links:563310	url:C563310	name:Inflammatory Bowel Disease 2	normalName:inflammatory bowel disease 2	normalWikiTitle:inflammatory bowel disease 2	predictedType:Disease
+CANDIDATE	id:564681	inCount:0	outCount:1	links:564681	url:C564681	name:Inflammatory Bowel Disease 6	normalName:inflammatory bowel disease 6	normalWikiTitle:inflammatory bowel disease 6	predictedType:Disease
+CANDIDATE	id:565764	inCount:0	outCount:1	links:565764	url:C565764	name:Inflammatory Bowel Disease 3	normalName:inflammatory bowel disease 3	normalWikiTitle:inflammatory bowel disease 3	predictedType:Disease
+CANDIDATE	id:564682	inCount:0	outCount:1	links:564682	url:C564682	name:Inflammatory Bowel Disease 8	normalName:inflammatory bowel disease 8	normalWikiTitle:inflammatory bowel disease 8	predictedType:Disease
+ENTITY	text:eczema	normalName:eczema	predictedType:disease	q:true	qid:Q262	docId:15096374	origText:eczema	url:D004485
+CANDIDATE	id:4485	inCount:4	outCount:2	links:	url:D004485	name:Eczema	normalName:eczema	normalWikiTitle:eczema	predictedType:Disease
+ENTITY	text:acne	normalName:acne	predictedType:disease	q:true	qid:Q262	docId:15096374	origText:acne	url:D000152
+CANDIDATE	id:152	inCount:4	outCount:2	links:	url:D000152	name:Acne	normalName:acne	normalWikiTitle:acne	predictedType:Disease
+ENTITY	text:rosacea	normalName:rosacea	predictedType:disease	q:true	qid:Q262	docId:15096374	origText:rosacea	url:D012393
+CANDIDATE	id:12393	inCount:1	outCount:1	links:12393	url:D012393	name:Rosacea	normalName:rosacea	normalWikiTitle:rosacea	predictedType:Disease
+ENTITY	text:dermatitis	normalName:dermatitis	predictedType:disease	q:true	qid:Q262	docId:15096374	origText:dermatitis	url:D003872
+CANDIDATE	id:3872	inCount:20	outCount:1	links:	url:D003872	name:Dermatitis	normalName:dermatitis	normalWikiTitle:dermatitis	predictedType:Disease
+ENTITY	text:perioral dermatitis	normalName:perioral dermatitis	predictedType:disease	q:true	qid:Q262	docId:15096374	origText:perioral dermatitis	url:D019557
+CANDIDATE	id:19557	inCount:0	outCount:2	links:19557	url:D019557	name:Dermatitis, Perioral	normalName:dermatitis, perioral	normalWikiTitle:dermatitis, perioral	predictedType:Disease
+ENTITY	text:inflammatory facial dermatoses	normalName:inflammatory facial dermatoses	predictedType:disease	q:true	qid:Q262	docId:15096374	origText:inflammatory facial dermatoses	url:D005148
+CANDIDATE	id:5148	inCount:5	outCount:1	links:5148	url:D005148	name:Facial Dermatoses	normalName:facial dermatoses	normalWikiTitle:facial dermatoses	predictedType:Disease
+CANDIDATE	id:15212	inCount:31	outCount:2	links:15212	url:D015212	name:Inflammatory Bowel Diseases	normalName:inflammatory bowel diseases	normalWikiTitle:inflammatory bowel diseases	predictedType:Disease
+CANDIDATE	id:292	inCount:5	outCount:2	links:292	url:D000292	name:Pelvic Inflammatory Disease	normalName:pelvic inflammatory disease	normalWikiTitle:pelvic inflammatory disease	predictedType:Disease
+CANDIDATE	id:5155	inCount:9	outCount:2	links:5155	url:D005155	name:Facial Nerve Diseases	normalName:facial nerve diseases	normalWikiTitle:facial nerve diseases	predictedType:Disease
+CANDIDATE	id:565234	inCount:0	outCount:1	links:565234	url:C565234	name:Inflammatory Bowel Disease 5	normalName:inflammatory bowel disease 5	normalWikiTitle:inflammatory bowel disease 5	predictedType:Disease
+CANDIDATE	id:565353	inCount:0	outCount:1	links:565353	url:C565353	name:Inflammatory Bowel Disease 7	normalName:inflammatory bowel disease 7	normalWikiTitle:inflammatory bowel disease 7	predictedType:Disease
+CANDIDATE	id:563310	inCount:0	outCount:1	links:563310	url:C563310	name:Inflammatory Bowel Disease 2	normalName:inflammatory bowel disease 2	normalWikiTitle:inflammatory bowel disease 2	predictedType:Disease
+CANDIDATE	id:564681	inCount:0	outCount:1	links:564681	url:C564681	name:Inflammatory Bowel Disease 6	normalName:inflammatory bowel disease 6	normalWikiTitle:inflammatory bowel disease 6	predictedType:Disease
+CANDIDATE	id:565764	inCount:0	outCount:1	links:565764	url:C565764	name:Inflammatory Bowel Disease 3	normalName:inflammatory bowel disease 3	normalWikiTitle:inflammatory bowel disease 3	predictedType:Disease
+CANDIDATE	id:564682	inCount:0	outCount:1	links:564682	url:C564682	name:Inflammatory Bowel Disease 8	normalName:inflammatory bowel disease 8	normalWikiTitle:inflammatory bowel disease 8	predictedType:Disease

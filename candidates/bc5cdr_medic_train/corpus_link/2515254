@@ -1,0 +1,4 @@
+ENTITY	text:migraine	normalName:migraine	predictedType:disease	q:true	qid:Q332	docId:2515254	origText:migraine	url:D008881
+CANDIDATE	id:8881	inCount:9	outCount:1	links:	url:D008881	name:Migraine	normalName:migraine	normalWikiTitle:migraine	predictedType:Disease
+ENTITY	text:pain	normalName:pain	predictedType:disease	q:true	qid:Q332	docId:2515254	origText:pain	url:D010146
+CANDIDATE	id:10146	inCount:34	outCount:1	links:	url:D010146	name:Pain	normalName:pain	normalWikiTitle:pain	predictedType:Disease

@@ -1,0 +1,24 @@
+ENTITY	text:isoproterenol	normalName:isoproterenol	predictedType:chemical	q:true	qid:Q231	docId:15282950	origText:isoproterenol	url:D007545
+CANDIDATE	id:7545	inCount:12	outCount:2	links:	url:D007545	name:Isoproterenol	normalName:isoproterenol	normalWikiTitle:isoproterenol	predictedType:Chemical
+ENTITY	text:peroxides	normalName:peroxides	predictedType:chemical	q:true	qid:Q231	docId:15282950	origText:peroxides	url:D010545
+CANDIDATE	id:10545	inCount:135	outCount:3	links:10545	url:D010545	name:Peroxides	normalName:peroxides	normalWikiTitle:peroxides	predictedType:Chemical
+CANDIDATE	id:13481	inCount:1	outCount:1	links:13481	url:D013481	name:Superoxides	normalName:superoxides	normalWikiTitle:superoxides	predictedType:Chemical
+CANDIDATE	id:10479	inCount:5	outCount:1	links:10479	url:D010479	name:Pergolide	normalName:pergolide	normalWikiTitle:pergolide	predictedType:Chemical
+CANDIDATE	id:428024	inCount:0	outCount:2	links:428024	url:C428024	name:pyroxamide	normalName:pyroxamide	normalWikiTitle:pyroxamide	predictedType:Chemical
+CANDIDATE	id:495645	inCount:0	outCount:1	links:495645	url:C495645	name:eupenoxide	normalName:eupenoxide	normalWikiTitle:eupenoxide	predictedType:Chemical
+CANDIDATE	id:35828	inCount:0	outCount:3	links:35828	url:C035828	name:pneumoxide	normalName:pneumoxide	normalWikiTitle:pneumoxide	predictedType:Chemical
+CANDIDATE	id:10771	inCount:0	outCount:2	links:10771	url:C010771	name:pterosides	normalName:pterosides	normalWikiTitle:pterosides	predictedType:Chemical
+CANDIDATE	id:595929	inCount:0	outCount:2	links:595929	url:C000595929	name:piperoside	normalName:piperoside	normalWikiTitle:piperoside	predictedType:Chemical
+CANDIDATE	id:49058	inCount:0	outCount:1	links:49058	url:C049058	name:amperozide	normalName:amperozide	normalWikiTitle:amperozide	predictedType:Chemical
+CANDIDATE	id:21304	inCount:0	outCount:1	links:21304	url:C021304	name:hyperoside	normalName:hyperoside	normalWikiTitle:hyperoside	predictedType:Chemical
+ENTITY	text:peroxide	normalName:peroxide	predictedType:chemical	q:true	qid:Q231	docId:15282950	origText:peroxide	url:D010545
+CANDIDATE	id:10545	inCount:135	outCount:3	links:10545	url:D010545	name:Peroxides	normalName:peroxides	normalWikiTitle:peroxides	predictedType:Chemical
+CANDIDATE	id:13481	inCount:1	outCount:1	links:13481	url:D013481	name:Superoxides	normalName:superoxides	normalWikiTitle:superoxides	predictedType:Chemical
+CANDIDATE	id:10479	inCount:5	outCount:1	links:10479	url:D010479	name:Pergolide	normalName:pergolide	normalWikiTitle:pergolide	predictedType:Chemical
+CANDIDATE	id:428024	inCount:0	outCount:2	links:428024	url:C428024	name:pyroxamide	normalName:pyroxamide	normalWikiTitle:pyroxamide	predictedType:Chemical
+CANDIDATE	id:495645	inCount:0	outCount:1	links:495645	url:C495645	name:eupenoxide	normalName:eupenoxide	normalWikiTitle:eupenoxide	predictedType:Chemical
+CANDIDATE	id:35828	inCount:0	outCount:3	links:35828	url:C035828	name:pneumoxide	normalName:pneumoxide	normalWikiTitle:pneumoxide	predictedType:Chemical
+CANDIDATE	id:10771	inCount:0	outCount:2	links:10771	url:C010771	name:pterosides	normalName:pterosides	normalWikiTitle:pterosides	predictedType:Chemical
+CANDIDATE	id:595929	inCount:0	outCount:2	links:595929	url:C000595929	name:piperoside	normalName:piperoside	normalWikiTitle:piperoside	predictedType:Chemical
+CANDIDATE	id:49058	inCount:0	outCount:1	links:49058	url:C049058	name:amperozide	normalName:amperozide	normalWikiTitle:amperozide	predictedType:Chemical
+CANDIDATE	id:21304	inCount:0	outCount:1	links:21304	url:C021304	name:hyperoside	normalName:hyperoside	normalWikiTitle:hyperoside	predictedType:Chemical

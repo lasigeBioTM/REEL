@@ -1,0 +1,4 @@
+ENTITY	text:arteritis	normalName:arteritis	predictedType:disease	q:true	qid:Q322	docId:12180796	origText:arteritis	url:D001167
+CANDIDATE	id:1167	inCount:5	outCount:1	links:	url:D001167	name:Arteritis	normalName:arteritis	normalWikiTitle:arteritis	predictedType:Disease
+ENTITY	text:tumor	normalName:tumor	predictedType:disease	q:true	qid:Q322	docId:12180796	origText:tumor	url:D009369
+CANDIDATE	id:9369	inCount:18	outCount:1	links:	url:D009369	name:Tumor	normalName:tumor	normalWikiTitle:tumor	predictedType:Disease

@@ -1,0 +1,6 @@
+ENTITY	text:myocardial infarctions	normalName:myocardial infarctions	predictedType:disease	q:true	qid:Q517	docId:19020118	origText:myocardial infarctions	url:D009203
+CANDIDATE	id:9203	inCount:8	outCount:1	links:12640	url:D009203	name:Myocardial Infarction	normalName:myocardial infarction	normalWikiTitle:myocardial infarction	predictedType:Disease
+ENTITY	text:seizures	normalName:seizures	predictedType:disease	q:true	qid:Q517	docId:19020118	origText:seizures	url:D012640
+CANDIDATE	id:12640	inCount:53	outCount:1	links:51437;9203	url:D012640	name:Seizure	normalName:seizure	normalWikiTitle:seizure	predictedType:Disease
+ENTITY	text:renal failure	normalName:renal failure	predictedType:disease	q:true	qid:Q517	docId:19020118	origText:renal failure	url:D051437
+CANDIDATE	id:51437	inCount:10	outCount:1	links:12640	url:D051437	name:Renal Failure	normalName:renal failure	normalWikiTitle:renal failure	predictedType:Disease

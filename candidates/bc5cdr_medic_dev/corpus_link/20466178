@@ -1,0 +1,30 @@
+ENTITY	text:dermatitis	normalName:dermatitis	predictedType:disease	q:true	qid:Q423	docId:20466178	origText:dermatitis	url:D003872
+CANDIDATE	id:3872	inCount:20	outCount:1	links:13684;3875	url:D003872	name:Dermatitis	normalName:dermatitis	normalWikiTitle:dermatitis	predictedType:Disease
+ENTITY	text:facial dermatitis	normalName:facial dermatitis	predictedType:disease	q:true	qid:Q423	docId:20466178	origText:facial dermatitis	url:D005148
+CANDIDATE	id:5148	inCount:5	outCount:1	links:	url:D005148	name:Facial Dermatosis	normalName:facial dermatosis	normalWikiTitle:facial dermatosis	predictedType:Disease
+CANDIDATE	id:5148	inCount:5	outCount:1	links:	url:D005148	name:Facial Dermatoses	normalName:facial dermatoses	normalWikiTitle:facial dermatoses	predictedType:Disease
+CANDIDATE	id:58066	inCount:0	outCount:2	links:	url:D058066	name:Digital Dermatitis	normalName:digital dermatitis	normalWikiTitle:digital dermatitis	predictedType:Disease
+CANDIDATE	id:19557	inCount:0	outCount:2	links:	url:D019557	name:Dermatitis, Perioral	normalName:dermatitis, perioral	normalWikiTitle:dermatitis, perioral	predictedType:Disease
+CANDIDATE	id:63169	inCount:0	outCount:1	links:	url:D063169	name:Dentofacial Deformities	normalName:dentofacial deformities	normalWikiTitle:dentofacial deformities	predictedType:Disease
+CANDIDATE	id:9783	inCount:0	outCount:2	links:	url:D009783	name:Dermatitis, Occupational	normalName:dermatitis, occupational	normalWikiTitle:dermatitis, occupational	predictedType:Disease
+CANDIDATE	id:3872	inCount:20	outCount:1	links:13684;3875	url:D003872	name:Dermatitis	normalName:dermatitis	normalWikiTitle:dermatitis	predictedType:Disease
+CANDIDATE	id:3873	inCount:4	outCount:2	links:	url:D003873	name:Dermatitis, Exfoliative	normalName:dermatitis, exfoliative	normalWikiTitle:dermatitis, exfoliative	predictedType:Disease
+CANDIDATE	id:17453	inCount:2	outCount:1	links:	url:D017453	name:Dermatitis, Irritant	normalName:dermatitis, irritant	normalWikiTitle:dermatitis, irritant	predictedType:Disease
+CANDIDATE	id:531719	inCount:0	outCount:1	links:	url:C531719	name:Keratitis sicca	normalName:keratitis sicca	normalWikiTitle:keratitis sicca	predictedType:Disease
+CANDIDATE	id:536612	inCount:0	outCount:1	links:	url:C536612	name:Familial dermographism	normalName:familial dermographism	normalWikiTitle:familial dermographism	predictedType:Disease
+CANDIDATE	id:5148	inCount:5	outCount:1	links:	url:D005148	name:Dermatosis, Facial	normalName:dermatosis, facial	normalWikiTitle:dermatosis, facial	predictedType:Disease
+ENTITY	text:eruptions	normalName:eruptions	predictedType:disease	q:true	qid:Q423	docId:20466178	origText:eruptions	url:D003875
+CANDIDATE	id:3875	inCount:7	outCount:2	links:13684;3872	url:D003875	name:Drug Eruptions	normalName:drug eruptions	normalWikiTitle:drug eruptions	predictedType:Disease
+CANDIDATE	id:4884	inCount:0	outCount:1	links:	url:D004884	name:Eructation	normalName:eructation	normalWikiTitle:eructation	predictedType:Disease
+CANDIDATE	id:4774	inCount:0	outCount:1	links:	url:D004774	name:Entropion	normalName:entropion	normalWikiTitle:entropion	predictedType:Disease
+CANDIDATE	id:4483	inCount:2	outCount:1	links:	url:D004483	name:Ectropion	normalName:ectropion	normalWikiTitle:ectropion	predictedType:Disease
+CANDIDATE	id:14717	inCount:2	outCount:2	links:	url:D014717	name:Vertigo	normalName:vertigo	normalWikiTitle:vertigo	predictedType:Disease
+CANDIDATE	id:44343	inCount:1	outCount:1	links:	url:D044343	name:Overnutrition	normalName:overnutrition	normalWikiTitle:overnutrition	predictedType:Disease
+CANDIDATE	id:3681	inCount:0	outCount:2	links:	url:D003681	name:Dehydration	normalName:dehydration	normalWikiTitle:dehydration	predictedType:Disease
+CANDIDATE	id:13492	inCount:8	outCount:2	links:	url:D013492	name:Suppuration	normalName:suppuration	normalWikiTitle:suppuration	predictedType:Disease
+CANDIDATE	id:22125	inCount:0	outCount:1	links:	url:D022125	name:Lacerations	normalName:lacerations	normalWikiTitle:lacerations	predictedType:Disease
+CANDIDATE	id:12391	inCount:0	outCount:1	links:	url:D012391	name:Root Resorption	normalName:root resorption	normalWikiTitle:root resorption	predictedType:Disease
+ENTITY	text:rosacea	normalName:rosacea	predictedType:disease	q:true	qid:Q423	docId:20466178	origText:rosacea	url:D012393
+CANDIDATE	id:12393	inCount:1	outCount:1	links:	url:D012393	name:Rosacea	normalName:rosacea	normalWikiTitle:rosacea	predictedType:Disease
+ENTITY	text:telangiectasia	normalName:telangiectasia	predictedType:disease	q:true	qid:Q423	docId:20466178	origText:telangiectasia	url:D013684
+CANDIDATE	id:13684	inCount:15	outCount:1	links:3872;3875	url:D013684	name:Telangiectasia	normalName:telangiectasia	normalWikiTitle:telangiectasia	predictedType:Disease

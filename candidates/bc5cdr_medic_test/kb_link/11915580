@@ -1,0 +1,10 @@
+ENTITY	text:Headache	normalName:headache	predictedType:disease	q:true	qid:Q91	docId:11915580	origText:Headache	url:D006261
+CANDIDATE	id:6261	inCount:2	outCount:1	links:	url:D006261	name:Headache	normalName:headache	normalWikiTitle:headache	predictedType:Disease
+ENTITY	text:pain	normalName:pain	predictedType:disease	q:true	qid:Q91	docId:11915580	origText:pain	url:D010146
+CANDIDATE	id:10146	inCount:34	outCount:1	links:	url:D010146	name:Pain	normalName:pain	normalWikiTitle:pain	predictedType:Disease
+ENTITY	text:dysmenorrhea	normalName:dysmenorrhea	predictedType:disease	q:true	qid:Q91	docId:11915580	origText:dysmenorrhea	url:D004412
+CANDIDATE	id:4412	inCount:0	outCount:2	links:	url:D004412	name:Dysmenorrhea	normalName:dysmenorrhea	normalWikiTitle:dysmenorrhea	predictedType:Disease
+ENTITY	text:pelvic pain	normalName:pelvic pain	predictedType:disease	q:true	qid:Q91	docId:11915580	origText:pelvic pain	url:D017699
+CANDIDATE	id:17699	inCount:3	outCount:1	links:	url:D017699	name:Pelvic Pain	normalName:pelvic pain	normalWikiTitle:pelvic pain	predictedType:Disease
+ENTITY	text:Low back pain	normalName:low back pain	predictedType:disease	q:true	qid:Q91	docId:11915580	origText:Low back pain	url:D017116
+CANDIDATE	id:17116	inCount:0	outCount:1	links:	url:D017116	name:Low Back Pain	normalName:low back pain	normalWikiTitle:low back pain	predictedType:Disease

@@ -1,0 +1,27 @@
+ENTITY	text:steroid glaucoma	normalName:steroid glaucoma	predictedType:disease	q:true	qid:Q1471	docId:7843916	origText:steroid glaucoma	url:D005901
+CANDIDATE	id:5901	inCount:34	outCount:1	links:	url:D005901	name:Glaucomas	normalName:glaucomas	normalWikiTitle:glaucomas	predictedType:Disease
+CANDIDATE	id:5901	inCount:34	outCount:1	links:	url:D005901	name:Glaucoma	normalName:glaucoma	normalWikiTitle:glaucoma	predictedType:Disease
+CANDIDATE	id:57066	inCount:0	outCount:2	links:	url:D057066	name:Low Tension Glaucoma	normalName:low tension glaucoma	normalWikiTitle:low tension glaucoma	predictedType:Disease
+CANDIDATE	id:15355	inCount:0	outCount:1	links:	url:D015355	name:Glaucoma, Neovascular	normalName:glaucoma, neovascular	normalWikiTitle:glaucoma, neovascular	predictedType:Disease
+CANDIDATE	id:580055	inCount:0	outCount:1	links:	url:C580055	name:Early-Onset Glaucoma	normalName:early-onset glaucoma	normalWikiTitle:early-onset glaucoma	predictedType:Disease
+CANDIDATE	id:59409	inCount:0	outCount:2	links:	url:D059409	name:Stroke, Lacunar	normalName:stroke, lacunar	normalWikiTitle:stroke, lacunar	predictedType:Disease
+CANDIDATE	id:18208	inCount:0	outCount:1	links:	url:D018208	name:Liposarcoma, Myxoid	normalName:liposarcoma, myxoid	normalWikiTitle:liposarcoma, myxoid	predictedType:Disease
+CANDIDATE	id:20339	inCount:0	outCount:2	links:	url:D020339	name:Optic Nerve Glioma	normalName:optic nerve glioma	normalWikiTitle:optic nerve glioma	predictedType:Disease
+CANDIDATE	id:18269	inCount:0	outCount:3	links:	url:D018269	name:Carcinoma, Endometrioid	normalName:carcinoma, endometrioid	normalWikiTitle:carcinoma, endometrioid	predictedType:Disease
+CANDIDATE	id:30981	inCount:6	outCount:2	links:	url:D030981	name:Acro-Osteolysis	normalName:acro-osteolysis	normalWikiTitle:acro-osteolysis	predictedType:Disease
+CANDIDATE	id:46151	inCount:1	outCount:1	links:	url:D046151	name:Lingual Thyroid	normalName:lingual thyroid	normalWikiTitle:lingual thyroid	predictedType:Disease
+CANDIDATE	id:5902	inCount:17	outCount:1	links:5902	url:D005902	name:Glaucoma, Simple	normalName:glaucoma, simple	normalWikiTitle:glaucoma, simple	predictedType:Disease
+CANDIDATE	id:5902	inCount:17	outCount:1	links:5902	url:D005902	name:Simple Glaucoma	normalName:simple glaucoma	normalWikiTitle:simple glaucoma	predictedType:Disease
+CANDIDATE	id:9798	inCount:1	outCount:1	links:9798	url:D009798	name:Suspect Glaucoma	normalName:suspect glaucoma	normalWikiTitle:suspect glaucoma	predictedType:Disease
+CANDIDATE	id:9798	inCount:1	outCount:1	links:9798	url:D009798	name:Glaucoma, Suspect	normalName:glaucoma, suspect	normalWikiTitle:glaucoma, suspect	predictedType:Disease
+CANDIDATE	id:5902	inCount:17	outCount:1	links:5902	url:D005902	name:Simplex, Glaucoma	normalName:simplex, glaucoma	normalWikiTitle:simplex, glaucoma	predictedType:Disease
+CANDIDATE	id:5902	inCount:17	outCount:1	links:5902	url:D005902	name:Glaucoma Simplex	normalName:glaucoma simplex	normalWikiTitle:glaucoma simplex	predictedType:Disease
+CANDIDATE	id:580055	inCount:0	outCount:1	links:	url:C580055	name:Hereditary Glaucoma	normalName:hereditary glaucoma	normalWikiTitle:hereditary glaucoma	predictedType:Disease
+CANDIDATE	id:15812	inCount:1	outCount:1	links:	url:D015812	name:Glaucoma, Uncompensated	normalName:glaucoma, uncompensated	normalWikiTitle:glaucoma, uncompensated	predictedType:Disease
+CANDIDATE	id:15812	inCount:1	outCount:1	links:	url:D015812	name:Uncompensated Glaucoma	normalName:uncompensated glaucoma	normalWikiTitle:uncompensated glaucoma	predictedType:Disease
+ENTITY	text:primary open angle glaucoma	normalName:primary open angle glaucoma	predictedType:disease	q:true	qid:Q1471	docId:7843916	origText:primary open angle glaucoma	url:D005902
+CANDIDATE	id:5902	inCount:17	outCount:1	links:5902	url:D005902	name:Glaucoma, Primary Open Angle	normalName:glaucoma, primary open angle	normalWikiTitle:glaucoma, primary open angle	predictedType:Disease
+ENTITY	text:ocular hypertension	normalName:ocular hypertension	predictedType:disease	q:true	qid:Q1471	docId:7843916	origText:ocular hypertension	url:D009798
+CANDIDATE	id:9798	inCount:1	outCount:1	links:9798	url:D009798	name:Ocular Hypertension	normalName:ocular hypertension	normalWikiTitle:ocular hypertension	predictedType:Disease
+ENTITY	text:open angle glaucoma	normalName:open angle glaucoma	predictedType:disease	q:true	qid:Q1471	docId:7843916	origText:open angle glaucoma	url:D005902
+CANDIDATE	id:5902	inCount:17	outCount:1	links:5902	url:D005902	name:Glaucoma, Open-Angle	normalName:glaucoma, open-angle	normalWikiTitle:glaucoma, open-angle	predictedType:Disease

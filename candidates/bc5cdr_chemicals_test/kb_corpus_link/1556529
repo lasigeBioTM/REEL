@@ -1,0 +1,4 @@
+ENTITY	text:Zidovudine	normalName:zidovudine	predictedType:chemical	q:true	qid:Q255	docId:1556529	origText:Zidovudine	url:D015215
+CANDIDATE	id:15215	inCount:86	outCount:2	links:	url:D015215	name:Zidovudine	normalName:zidovudine	normalWikiTitle:zidovudine	predictedType:Chemical
+ENTITY	text:2'3' dideoxyinosine	normalName:2'3' dideoxyinosine	predictedType:chemical	q:true	qid:Q255	docId:1556529	origText:2'3' dideoxyinosine	url:D016049
+CANDIDATE	id:16049	inCount:8	outCount:2	links:	url:D016049	name:2',3' Dideoxyinosine	normalName:2',3' dideoxyinosine	normalWikiTitle:2',3' dideoxyinosine	predictedType:Chemical

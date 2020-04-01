@@ -1,0 +1,4 @@
+ENTITY	text:corticosterone	normalName:corticosterone	predictedType:chemical	q:true	qid:Q476	docId:16160878	origText:corticosterone	url:D003345
+CANDIDATE	id:3345	inCount:21	outCount:2	links:	url:D003345	name:Corticosterone	normalName:corticosterone	normalWikiTitle:corticosterone	predictedType:Chemical
+ENTITY	text:apomorphine	normalName:apomorphine	predictedType:chemical	q:true	qid:Q476	docId:16160878	origText:apomorphine	url:D001058
+CANDIDATE	id:1058	inCount:29	outCount:1	links:	url:D001058	name:Apomorphine	normalName:apomorphine	normalWikiTitle:apomorphine	predictedType:Chemical

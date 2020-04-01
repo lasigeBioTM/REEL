@@ -1,0 +1,36 @@
+ENTITY	text:oligodeoxynucleotide	normalName:oligodeoxynucleotide	predictedType:chemical	q:true	qid:Q1326	docId:11426838	origText:oligodeoxynucleotide	url:D009838
+CANDIDATE	id:9838	inCount:150	outCount:1	links:	url:D009838	name:Oligodeoxynucleotides	normalName:oligodeoxynucleotides	normalWikiTitle:oligodeoxynucleotides	predictedType:Chemical
+CANDIDATE	id:569331	inCount:0	outCount:1	links:	url:C569331	name:MS19 oligodeoxynucleotide	normalName:ms19 oligodeoxynucleotide	normalWikiTitle:ms19 oligodeoxynucleotide	predictedType:Chemical
+CANDIDATE	id:9838	inCount:150	outCount:1	links:	url:D009838	name:Oligodeoxyribonucleotides	normalName:oligodeoxyribonucleotides	normalWikiTitle:oligodeoxyribonucleotides	predictedType:Chemical
+CANDIDATE	id:592162	inCount:0	outCount:1	links:	url:C000592162	name:C792 oligodeoxynucleotide	normalName:c792 oligodeoxynucleotide	normalWikiTitle:c792 oligodeoxynucleotide	predictedType:Chemical
+CANDIDATE	id:586407	inCount:0	outCount:1	links:	url:C586407	name:DV056 oligodeoxynucleotide	normalName:dv056 oligodeoxynucleotide	normalWikiTitle:dv056 oligodeoxynucleotide	predictedType:Chemical
+CANDIDATE	id:54306	inCount:88	outCount:1	links:	url:D054306	name:Dideoxynucleotides	normalName:dideoxynucleotides	normalWikiTitle:dideoxynucleotides	predictedType:Chemical
+CANDIDATE	id:9841	inCount:123	outCount:1	links:	url:D009841	name:Oligonucleotides	normalName:oligonucleotides	normalWikiTitle:oligonucleotides	predictedType:Chemical
+CANDIDATE	id:610399	inCount:0	outCount:2	links:	url:C000610399	name:F21T oligodeoxyribonucleotide	normalName:f21t oligodeoxyribonucleotide	normalWikiTitle:f21t oligodeoxyribonucleotide	predictedType:Chemical
+CANDIDATE	id:9843	inCount:56	outCount:1	links:	url:D009843	name:Oligoribonucleotides	normalName:oligoribonucleotides	normalWikiTitle:oligoribonucleotides	predictedType:Chemical
+CANDIDATE	id:15224	inCount:76	outCount:1	links:	url:D015224	name:Dideoxynucleosides	normalName:dideoxynucleosides	normalWikiTitle:dideoxynucleosides	predictedType:Chemical
+CANDIDATE	id:480899	inCount:0	outCount:1	links:	url:C480899	name:GpG-oligonucleotide	normalName:gpg-oligonucleotide	normalWikiTitle:gpg-oligonucleotide	predictedType:Chemical
+ENTITY	text:di-o-tolylguanidine	normalName:di-o-tolylguanidine	predictedType:chemical	q:true	qid:Q1326	docId:11426838	origText:di-o-tolylguanidine	url:C050232
+CANDIDATE	id:50232	inCount:0	outCount:1	links:	url:C050232	name:1,3-di-o-tolylguanidine	normalName:1,3-di-o-tolylguanidine	normalWikiTitle:1,3-di-o-tolylguanidine	predictedType:Chemical
+CANDIDATE	id:50232	inCount:0	outCount:1	links:	url:C050232	name:1,3-ditolylguanidine	normalName:1,3-ditolylguanidine	normalWikiTitle:1,3-ditolylguanidine	predictedType:Chemical
+CANDIDATE	id:15403	inCount:0	outCount:1	links:	url:C015403	name:octylguanidine	normalName:octylguanidine	normalWikiTitle:octylguanidine	predictedType:Chemical
+CANDIDATE	id:42590	inCount:0	outCount:1	links:	url:C042590	name:2-tolylbiguanide	normalName:2-tolylbiguanide	normalWikiTitle:2-tolylbiguanide	predictedType:Chemical
+CANDIDATE	id:520808	inCount:0	outCount:2	links:	url:C520808	name:diguanidine	normalName:diguanidine	normalWikiTitle:diguanidine	predictedType:Chemical
+CANDIDATE	id:56179	inCount:0	outCount:1	links:	url:C056179	name:nitroguanidine	normalName:nitroguanidine	normalWikiTitle:nitroguanidine	predictedType:Chemical
+CANDIDATE	id:31344	inCount:0	outCount:1	links:	url:C031344	name:nonylguanidine	normalName:nonylguanidine	normalWikiTitle:nonylguanidine	predictedType:Chemical
+CANDIDATE	id:27773	inCount:0	outCount:1	links:	url:C027773	name:diphenylguanidine	normalName:diphenylguanidine	normalWikiTitle:diphenylguanidine	predictedType:Chemical
+CANDIDATE	id:31653	inCount:0	outCount:1	links:	url:C031653	name:propylguanidine	normalName:propylguanidine	normalWikiTitle:propylguanidine	predictedType:Chemical
+CANDIDATE	id:8760	inCount:12	outCount:1	links:	url:D008760	name:Methylguanidine	normalName:methylguanidine	normalWikiTitle:methylguanidine	predictedType:Chemical
+CANDIDATE	id:25425	inCount:0	outCount:1	links:	url:C025425	name:2-iodobenzylguanidine	normalName:2-iodobenzylguanidine	normalWikiTitle:2-iodobenzylguanidine	predictedType:Chemical
+ENTITY	text:dopamine	normalName:dopamine	predictedType:chemical	q:true	qid:Q1326	docId:11426838	origText:dopamine	url:D004298
+CANDIDATE	id:4298	inCount:90	outCount:2	links:	url:D004298	name:Dopamine	normalName:dopamine	normalWikiTitle:dopamine	predictedType:Chemical
+ENTITY	text:GABA	normalName:gaba	predictedType:chemical	q:true	qid:Q1326	docId:11426838	origText:GABA	url:D005680
+CANDIDATE	id:5680	inCount:100	outCount:1	links:	url:D005680	name:GABA	normalName:gaba	normalWikiTitle:gaba	predictedType:Chemical
+ENTITY	text:1-[2-(3,4-dichlorophenyl)ethyl]-4-methylpiperazine	normalName:1-[2-(3,4-dichlorophenyl)ethyl]-4-methylpiperazine	predictedType:chemical	q:true	qid:Q1326	docId:11426838	origText:1-[2-(3,4-dichlorophenyl)ethyl]-4-methylpiperazine	url:C093337
+CANDIDATE	id:93337	inCount:0	outCount:1	links:	url:C093337	name:1-(2-(3,4-dichlorophenyl)ethyl)-4-methylpiperazine	normalName:1-(2-(3,4-dichlorophenyl)ethyl)-4-methylpiperazine	normalWikiTitle:1-(2-(3,4-dichlorophenyl)ethyl)-4-methylpiperazine	predictedType:Chemical
+ENTITY	text:NMDA	normalName:nmda	predictedType:chemical	q:true	qid:Q1326	docId:11426838	origText:NMDA	url:D016202
+CANDIDATE	id:16202	inCount:3	outCount:1	links:	url:D016202	name:NMDA	normalName:nmda	normalWikiTitle:nmda	predictedType:Chemical
+ENTITY	text:cocaine	normalName:cocaine	predictedType:chemical	q:true	qid:Q1326	docId:11426838	origText:cocaine	url:D003042
+CANDIDATE	id:3042	inCount:89	outCount:1	links:	url:D003042	name:Cocaine	normalName:cocaine	normalWikiTitle:cocaine	predictedType:Chemical
+ENTITY	text:BD1008	normalName:bd1008	predictedType:chemical	q:true	qid:Q1326	docId:11426838	origText:BD1008	url:C085527
+CANDIDATE	id:85527	inCount:0	outCount:2	links:	url:C085527	name:BD1008	normalName:bd1008	normalWikiTitle:bd1008	predictedType:Chemical

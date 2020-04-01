@@ -1,0 +1,19 @@
+ENTITY	text:estradiol	normalName:estradiol	predictedType:chemical	q:true	qid:Q877	docId:18162529	origText:estradiol	url:D004958
+CANDIDATE	id:4958	inCount:306	outCount:2	links:	url:D004958	name:Estradiol	normalName:estradiol	normalWikiTitle:estradiol	predictedType:Chemical
+ENTITY	text:sulpiride	normalName:sulpiride	predictedType:chemical	q:true	qid:Q877	docId:18162529	origText:sulpiride	url:D013469
+CANDIDATE	id:13469	inCount:9	outCount:1	links:	url:D013469	name:Sulpiride	normalName:sulpiride	normalWikiTitle:sulpiride	predictedType:Chemical
+ENTITY	text:dopamine	normalName:dopamine	predictedType:chemical	q:true	qid:Q877	docId:18162529	origText:dopamine	url:D004298
+CANDIDATE	id:4298	inCount:90	outCount:2	links:	url:D004298	name:Dopamine	normalName:dopamine	normalWikiTitle:dopamine	predictedType:Chemical
+ENTITY	text:estrogen	normalName:estrogen	predictedType:chemical	q:true	qid:Q877	docId:18162529	origText:estrogen	url:D004967
+CANDIDATE	id:4967	inCount:1	outCount:1	links:	url:D004967	name:Estrogen	normalName:estrogen	normalWikiTitle:estrogen	predictedType:Chemical
+ENTITY	text:steroid	normalName:steroid	predictedType:chemical	q:true	qid:Q877	docId:18162529	origText:steroid	url:D013256
+CANDIDATE	id:13256	inCount:415	outCount:1	links:	url:D013256	name:Steroids	normalName:steroids	normalWikiTitle:steroids	predictedType:Chemical
+CANDIDATE	id:549774	inCount:0	outCount:1	links:	url:C549774	name:Sterodin	normalName:sterodin	normalWikiTitle:sterodin	predictedType:Chemical
+CANDIDATE	id:9654	inCount:35	outCount:1	links:	url:D009654	name:Norsteroids	normalName:norsteroids	normalWikiTitle:norsteroids	predictedType:Chemical
+CANDIDATE	id:1378	inCount:68	outCount:1	links:	url:D001378	name:Azasteroids	normalName:azasteroids	normalWikiTitle:azasteroids	predictedType:Chemical
+CANDIDATE	id:19432	inCount:0	outCount:1	links:	url:C019432	name:zeroid	normalName:zeroid	normalWikiTitle:zeroid	predictedType:Chemical
+CANDIDATE	id:2566	inCount:0	outCount:2	links:	url:D002566	name:Ceroid	normalName:ceroid	normalWikiTitle:ceroid	predictedType:Chemical
+CANDIDATE	id:49412	inCount:0	outCount:1	links:	url:C049412	name:sweroside	normalName:sweroside	normalWikiTitle:sweroside	predictedType:Chemical
+CANDIDATE	id:35227	inCount:0	outCount:1	links:	url:C035227	name:stepronin	normalName:stepronin	normalWikiTitle:stepronin	predictedType:Chemical
+CANDIDATE	id:13722	inCount:2	outCount:1	links:	url:D013722	name:Teprotide	normalName:teprotide	normalWikiTitle:teprotide	predictedType:Chemical
+CANDIDATE	id:7664	inCount:6	outCount:1	links:	url:D007664	name:Ketosteroids	normalName:ketosteroids	normalWikiTitle:ketosteroids	predictedType:Chemical

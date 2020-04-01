@@ -1,0 +1,34 @@
+ENTITY	text:cancers	normalName:cancers	predictedType:disease	q:true	qid:Q1094	docId:3289726	origText:cancers	url:D009369
+CANDIDATE	id:9369	inCount:18	outCount:1	links:9369	url:D009369	name:Cancer	normalName:cancer	normalWikiTitle:cancer	predictedType:Disease
+ENTITY	text:papilledema	normalName:papilledema	predictedType:disease	q:true	qid:Q1094	docId:3289726	origText:papilledema	url:D010211
+CANDIDATE	id:10211	inCount:0	outCount:1	links:	url:D010211	name:Papilledema	normalName:papilledema	normalWikiTitle:papilledema	predictedType:Disease
+ENTITY	text:tumor	normalName:tumor	predictedType:disease	q:true	qid:Q1094	docId:3289726	origText:tumor	url:D009369
+CANDIDATE	id:9369	inCount:18	outCount:1	links:9369	url:D009369	name:Tumor	normalName:tumor	normalWikiTitle:tumor	predictedType:Disease
+ENTITY	text:glioma	normalName:glioma	predictedType:disease	q:true	qid:Q1094	docId:3289726	origText:glioma	url:D005910
+CANDIDATE	id:5910	inCount:8	outCount:1	links:5910	url:D005910	name:Glioma	normalName:glioma	normalWikiTitle:glioma	predictedType:Disease
+ENTITY	text:toxicity	normalName:toxicity	predictedType:disease	q:true	qid:Q1094	docId:3289726	origText:toxicity	url:D064420
+CANDIDATE	id:64420	inCount:10	outCount:1	links:	url:D064420	name:Drug Toxicity	normalName:drug toxicity	normalWikiTitle:drug toxicity	predictedType:Disease
+CANDIDATE	id:66126	inCount:0	outCount:3	links:	url:D066126	name:Cardiotoxicity	normalName:cardiotoxicity	normalWikiTitle:cardiotoxicity	predictedType:Disease
+CANDIDATE	id:15651	inCount:2	outCount:1	links:	url:D015651	name:Mycotoxicosis	normalName:mycotoxicosis	normalWikiTitle:mycotoxicosis	predictedType:Disease
+CANDIDATE	id:13971	inCount:2	outCount:1	links:	url:D013971	name:Thyrotoxicosis	normalName:thyrotoxicosis	normalWikiTitle:thyrotoxicosis	predictedType:Disease
+CANDIDATE	id:14869	inCount:0	outCount:2	links:	url:D014869	name:Water Intoxication	normalName:water intoxication	normalWikiTitle:water intoxication	predictedType:Disease
+CANDIDATE	id:14103	inCount:4	outCount:2	links:	url:D014103	name:Torticollis	normalName:torticollis	normalWikiTitle:torticollis	predictedType:Disease
+CANDIDATE	id:9765	inCount:42	outCount:2	links:	url:D009765	name:Obesity	normalName:obesity	normalWikiTitle:obesity	predictedType:Disease
+CANDIDATE	id:14115	inCount:1	outCount:1	links:	url:D014115	name:Toxemia	normalName:toxemia	normalWikiTitle:toxemia	predictedType:Disease
+CANDIDATE	id:7246	inCount:2	outCount:2	links:	url:D007246	name:Infertility	normalName:infertility	normalWikiTitle:infertility	predictedType:Disease
+CANDIDATE	id:20234	inCount:0	outCount:2	links:	url:D020234	name:Gait Ataxia	normalName:gait ataxia	normalWikiTitle:gait ataxia	predictedType:Disease
+CANDIDATE	id:14069	inCount:1	outCount:1	links:	url:D014069	name:Tonsillitis	normalName:tonsillitis	normalWikiTitle:tonsillitis	predictedType:Disease
+CANDIDATE	id:64420	inCount:10	outCount:1	links:	url:D064420	name:Toxicity, Drug	normalName:toxicity, drug	normalWikiTitle:toxicity, drug	predictedType:Disease
+CANDIDATE	id:17484	inCount:0	outCount:2	links:	url:D017484	name:Phototoxicity	normalName:phototoxicity	normalWikiTitle:phototoxicity	predictedType:Disease
+ENTITY	text:tumors	normalName:tumors	predictedType:disease	q:true	qid:Q1094	docId:3289726	origText:tumors	url:D009369
+CANDIDATE	id:9369	inCount:18	outCount:1	links:9369	url:D009369	name:Tumor	normalName:tumor	normalWikiTitle:tumor	predictedType:Disease
+ENTITY	text:edema	normalName:edema	predictedType:disease	q:true	qid:Q1094	docId:3289726	origText:edema	url:D004487
+CANDIDATE	id:4487	inCount:6	outCount:1	links:	url:D004487	name:Edema	normalName:edema	normalWikiTitle:edema	predictedType:Disease
+ENTITY	text:malignant glioma	normalName:malignant glioma	predictedType:disease	q:true	qid:Q1094	docId:3289726	origText:malignant glioma	url:D005910
+CANDIDATE	id:5910	inCount:8	outCount:1	links:5910	url:D005910	name:Glioma, Malignant	normalName:glioma, malignant	normalWikiTitle:glioma, malignant	predictedType:Disease
+ENTITY	text:confusion	normalName:confusion	predictedType:disease	q:true	qid:Q1094	docId:3289726	origText:confusion	url:D003221
+CANDIDATE	id:3221	inCount:2	outCount:1	links:	url:D003221	name:Confusion	normalName:confusion	normalWikiTitle:confusion	predictedType:Disease
+ENTITY	text:seizure	normalName:seizure	predictedType:disease	q:true	qid:Q1094	docId:3289726	origText:seizure	url:D012640
+CANDIDATE	id:12640	inCount:53	outCount:1	links:	url:D012640	name:Seizure	normalName:seizure	normalWikiTitle:seizure	predictedType:Disease
+ENTITY	text:hematologic malignancies	normalName:hematologic malignancies	predictedType:disease	q:true	qid:Q1094	docId:3289726	origText:hematologic malignancies	url:D019337
+CANDIDATE	id:19337	inCount:2	outCount:2	links:	url:D019337	name:Malignancies, Hematologic	normalName:malignancies, hematologic	normalWikiTitle:malignancies, hematologic	predictedType:Disease

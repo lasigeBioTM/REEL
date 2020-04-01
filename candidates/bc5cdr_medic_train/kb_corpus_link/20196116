@@ -1,0 +1,31 @@
+ENTITY	text:hepatitis E	normalName:hepatitis e	predictedType:disease	q:true	qid:Q62	docId:20196116	origText:hepatitis E	url:D016751
+CANDIDATE	id:16751	inCount:0	outCount:2	links:	url:D016751	name:Hepatitis E	normalName:hepatitis e	normalWikiTitle:hepatitis e	predictedType:Disease
+ENTITY	text:Gastrointestinal bleed	normalName:gastrointestinal bleed	predictedType:disease	q:true	qid:Q62	docId:20196116	origText:Gastrointestinal bleed	url:D006471
+CANDIDATE	id:6471	inCount:3	outCount:2	links:	url:D006471	name:Gastrointestinal Hemorrhage	normalName:gastrointestinal hemorrhage	normalWikiTitle:gastrointestinal hemorrhage	predictedType:Disease
+CANDIDATE	id:5767	inCount:12	outCount:1	links:	url:D005767	name:Gastrointestinal Diseases	normalName:gastrointestinal diseases	normalWikiTitle:gastrointestinal diseases	predictedType:Disease
+CANDIDATE	id:571911	inCount:0	outCount:2	links:	url:C571911	name:Gastrointestinal anthrax	normalName:gastrointestinal anthrax	normalWikiTitle:gastrointestinal anthrax	predictedType:Disease
+CANDIDATE	id:5770	inCount:7	outCount:2	links:	url:D005770	name:Gastrointestinal Neoplasms	normalName:gastrointestinal neoplasms	normalWikiTitle:gastrointestinal neoplasms	predictedType:Disease
+CANDIDATE	id:7409	inCount:12	outCount:2	links:	url:D007409	name:Intestinal Atresia	normalName:intestinal atresia	normalWikiTitle:intestinal atresia	predictedType:Disease
+CANDIDATE	id:7410	inCount:30	outCount:1	links:	url:D007410	name:Intestinal Diseases	normalName:intestinal diseases	normalWikiTitle:intestinal diseases	predictedType:Disease
+CANDIDATE	id:14385	inCount:0	outCount:2	links:	url:D014385	name:Tuberculosis, Gastrointestinal	normalName:tuberculosis, gastrointestinal	normalWikiTitle:tuberculosis, gastrointestinal	predictedType:Disease
+CANDIDATE	id:58499	inCount:18	outCount:1	links:	url:D058499	name:Retinal Dystrophies	normalName:retinal dystrophies	normalWikiTitle:retinal dystrophies	predictedType:Disease
+CANDIDATE	id:46152	inCount:2	outCount:2	links:	url:D046152	name:Gastrointestinal Stromal Tumors	normalName:gastrointestinal stromal tumors	normalWikiTitle:gastrointestinal stromal tumors	predictedType:Disease
+CANDIDATE	id:7412	inCount:1	outCount:2	links:	url:D007412	name:Intestinal Fistula	normalName:intestinal fistula	normalWikiTitle:intestinal fistula	predictedType:Disease
+CANDIDATE	id:5767	inCount:12	outCount:1	links:	url:D005767	name:Gastrointestinal Disease	normalName:gastrointestinal disease	normalWikiTitle:gastrointestinal disease	predictedType:Disease
+CANDIDATE	id:5767	inCount:12	outCount:1	links:	url:D005767	name:Disease, Gastrointestinal	normalName:disease, gastrointestinal	normalWikiTitle:disease, gastrointestinal	predictedType:Disease
+ENTITY	text:seizures	normalName:seizures	predictedType:disease	q:true	qid:Q62	docId:20196116	origText:seizures	url:D012640
+CANDIDATE	id:12640	inCount:53	outCount:1	links:7239;58186	url:D012640	name:Seizure	normalName:seizure	normalWikiTitle:seizure	predictedType:Disease
+ENTITY	text:encephalopathy	normalName:encephalopathy	predictedType:disease	q:true	qid:Q62	docId:20196116	origText:encephalopathy	url:D001927
+CANDIDATE	id:1927	inCount:55	outCount:1	links:	url:D001927	name:Encephalopathy	normalName:encephalopathy	normalWikiTitle:encephalopathy	predictedType:Disease
+ENTITY	text:icterus	normalName:icterus	predictedType:disease	q:true	qid:Q62	docId:20196116	origText:icterus	url:D007565
+CANDIDATE	id:7565	inCount:5	outCount:2	links:	url:D007565	name:Icterus	normalName:icterus	normalWikiTitle:icterus	predictedType:Disease
+ENTITY	text:infection	normalName:infection	predictedType:disease	q:true	qid:Q62	docId:20196116	origText:infection	url:D007239
+CANDIDATE	id:7239	inCount:33	outCount:1	links:12640	url:D007239	name:Infection	normalName:infection	normalWikiTitle:infection	predictedType:Disease
+ENTITY	text:acute renal failure	normalName:acute renal failure	predictedType:disease	q:true	qid:Q62	docId:20196116	origText:acute renal failure	url:D058186
+CANDIDATE	id:58186	inCount:2	outCount:1	links:17114;12640	url:D058186	name:Acute Renal Failure	normalName:acute renal failure	normalWikiTitle:acute renal failure	predictedType:Disease
+ENTITY	text:tuberculosis	normalName:tuberculosis	predictedType:disease	q:true	qid:Q62	docId:20196116	origText:tuberculosis	url:D014376
+CANDIDATE	id:14376	inCount:27	outCount:1	links:	url:D014376	name:Tuberculosis	normalName:tuberculosis	normalWikiTitle:tuberculosis	predictedType:Disease
+ENTITY	text:acute liver failure	normalName:acute liver failure	predictedType:disease	q:true	qid:Q62	docId:20196116	origText:acute liver failure	url:D017114
+CANDIDATE	id:17114	inCount:3	outCount:1	links:58186	url:D017114	name:Liver Failure, Acute	normalName:liver failure, acute	normalWikiTitle:liver failure, acute	predictedType:Disease
+ENTITY	text:cerebral edema	normalName:cerebral edema	predictedType:disease	q:true	qid:Q62	docId:20196116	origText:cerebral edema	url:D001929
+CANDIDATE	id:1929	inCount:2	outCount:1	links:	url:D001929	name:Edema, Cerebral	normalName:edema, cerebral	normalWikiTitle:edema, cerebral	predictedType:Disease

@@ -1,0 +1,63 @@
+ENTITY	text:blood dyscrasias	normalName:blood dyscrasias	predictedType:disease	q:true	qid:Q1447	docId:3629586	origText:blood dyscrasias	url:D006402
+CANDIDATE	id:6402	inCount:22	outCount:1	links:9503;740;6417;13921;66126	url:D006402	name:Blood Disease	normalName:blood disease	normalWikiTitle:blood disease	predictedType:Disease
+CANDIDATE	id:536573	inCount:0	outCount:3	links:	url:C536573	name:Boomerang dysplasia	normalName:boomerang dysplasia	normalWikiTitle:boomerang dysplasia	predictedType:Disease
+CANDIDATE	id:70631	inCount:1	outCount:1	links:	url:D000070631	name:Diastasis, Bone	normalName:diastasis, bone	normalWikiTitle:diastasis, bone	predictedType:Disease
+CANDIDATE	id:567664	inCount:0	outCount:2	links:	url:C567664	name:Omodysplasia 2	normalName:omodysplasia 2	normalWikiTitle:omodysplasia 2	predictedType:Disease
+CANDIDATE	id:60368	inCount:0	outCount:1	links:	url:D060368	name:Lobomycosis	normalName:lobomycosis	normalWikiTitle:lobomycosis	predictedType:Disease
+CANDIDATE	id:18126	inCount:3	outCount:1	links:	url:D018126	name:Odontodysplasia	normalName:odontodysplasia	normalWikiTitle:odontodysplasia	predictedType:Disease
+CANDIDATE	id:10009	inCount:225	outCount:2	links:	url:D010009	name:Osteochondrodysplasias	normalName:osteochondrodysplasias	normalWikiTitle:osteochondrodysplasias	predictedType:Disease
+CANDIDATE	id:1752	inCount:0	outCount:2	links:	url:D001752	name:Blast Crisis	normalName:blast crisis	normalWikiTitle:blast crisis	predictedType:Disease
+CANDIDATE	id:14120	inCount:2	outCount:2	links:	url:D014120	name:Toxocariasis	normalName:toxocariasis	normalWikiTitle:toxocariasis	predictedType:Disease
+CANDIDATE	id:10040	inCount:6	outCount:1	links:	url:D010040	name:Otosclerosis	normalName:otosclerosis	normalWikiTitle:otosclerosis	predictedType:Disease
+CANDIDATE	id:16063	inCount:0	outCount:2	links:	url:D016063	name:Blood Loss, Surgical	normalName:blood loss, surgical	normalWikiTitle:blood loss, surgical	predictedType:Disease
+CANDIDATE	id:6402	inCount:22	outCount:1	links:9503;740;6417;13921;66126	url:D006402	name:Blood Diseases	normalName:blood diseases	normalWikiTitle:blood diseases	predictedType:Disease
+CANDIDATE	id:6402	inCount:22	outCount:1	links:9503;740;6417;13921;66126	url:D006402	name:Diseases, Blood	normalName:diseases, blood	normalWikiTitle:diseases, blood	predictedType:Disease
+CANDIDATE	id:1848	inCount:89	outCount:1	links:	url:D001848	name:Bone Dysplasias	normalName:bone dysplasias	normalWikiTitle:bone dysplasias	predictedType:Disease
+CANDIDATE	id:1848	inCount:89	outCount:1	links:	url:D001848	name:Dysplasias, Bone	normalName:dysplasias, bone	normalWikiTitle:dysplasias, bone	predictedType:Disease
+CANDIDATE	id:6402	inCount:22	outCount:1	links:9503;740;6417;13921;66126	url:D006402	name:Disease, Blood	normalName:disease, blood	normalWikiTitle:disease, blood	predictedType:Disease
+CANDIDATE	id:1848	inCount:89	outCount:1	links:	url:D001848	name:Dysplasia, Bone	normalName:dysplasia, bone	normalWikiTitle:dysplasia, bone	predictedType:Disease
+CANDIDATE	id:1039	inCount:0	outCount:1	links:	url:D001039	name:Broca's Dysphasia	normalName:broca's dysphasia	normalWikiTitle:broca's dysphasia	predictedType:Disease
+CANDIDATE	id:1848	inCount:89	outCount:1	links:	url:D001848	name:Bone Dysplasia	normalName:bone dysplasia	normalWikiTitle:bone dysplasia	predictedType:Disease
+CANDIDATE	id:1039	inCount:0	outCount:1	links:	url:D001039	name:Dysphasia, Broca's	normalName:dysphasia, broca's	normalWikiTitle:dysphasia, broca's	predictedType:Disease
+ENTITY	text:anemia	normalName:anemia	predictedType:disease	q:true	qid:Q1447	docId:3629586	origText:anemia	url:D000740
+CANDIDATE	id:740	inCount:14	outCount:1	links:13921;743;9503;6402;66126	url:D000740	name:Anemia	normalName:anemia	normalWikiTitle:anemia	predictedType:Disease
+ENTITY	text:neutropenia	normalName:neutropenia	predictedType:disease	q:true	qid:Q1447	docId:3629586	origText:neutropenia	url:D009503
+CANDIDATE	id:9503	inCount:19	outCount:1	links:13921;740;6417;6402;66126	url:D009503	name:Neutropenia	normalName:neutropenia	normalWikiTitle:neutropenia	predictedType:Disease
+ENTITY	text:hematologic disturbances	normalName:hematologic disturbances	predictedType:disease	q:true	qid:Q1447	docId:3629586	origText:hematologic disturbances	url:D006402
+CANDIDATE	id:6402	inCount:22	outCount:1	links:9503;740;6417;13921;66126	url:D006402	name:Hematologic Diseases	normalName:hematologic diseases	normalWikiTitle:hematologic diseases	predictedType:Disease
+CANDIDATE	id:8599	inCount:6	outCount:1	links:	url:D008599	name:Menstruation Disturbances	normalName:menstruation disturbances	normalWikiTitle:menstruation disturbances	predictedType:Disease
+CANDIDATE	id:12216	inCount:9	outCount:2	links:	url:D012216	name:Rheumatic Diseases	normalName:rheumatic diseases	normalWikiTitle:rheumatic diseases	predictedType:Disease
+CANDIDATE	id:20141	inCount:11	outCount:2	links:	url:D020141	name:Hemostatic Disorders	normalName:hemostatic disorders	normalWikiTitle:hemostatic disorders	predictedType:Disease
+CANDIDATE	id:14570	inCount:9	outCount:2	links:	url:D014570	name:Urologic Diseases	normalName:urologic diseases	normalWikiTitle:urologic diseases	predictedType:Disease
+CANDIDATE	id:4108	inCount:0	outCount:1	links:	url:D004108	name:Dilatation, Pathologic	normalName:dilatation, pathologic	normalWikiTitle:dilatation, pathologic	predictedType:Disease
+CANDIDATE	id:6474	inCount:26	outCount:1	links:	url:D006474	name:Hemorrhagic Disorders	normalName:hemorrhagic disorders	normalWikiTitle:hemorrhagic disorders	predictedType:Disease
+CANDIDATE	id:6450	inCount:0	outCount:1	links:	url:D006450	name:Hemoglobin SC Disease	normalName:hemoglobin sc disease	normalWikiTitle:hemoglobin sc disease	predictedType:Disease
+CANDIDATE	id:8659	inCount:23	outCount:1	links:	url:D008659	name:Metabolic Diseases	normalName:metabolic diseases	normalWikiTitle:metabolic diseases	predictedType:Disease
+CANDIDATE	id:20233	inCount:2	outCount:1	links:	url:D020233	name:Gait Disorders, Neurologic	normalName:gait disorders, neurologic	normalWikiTitle:gait disorders, neurologic	predictedType:Disease
+ENTITY	text:toxicity	normalName:toxicity	predictedType:disease	q:true	qid:Q1447	docId:3629586	origText:toxicity	url:D064420
+CANDIDATE	id:64420	inCount:10	outCount:1	links:	url:D064420	name:Drug Toxicity	normalName:drug toxicity	normalWikiTitle:drug toxicity	predictedType:Disease
+CANDIDATE	id:66126	inCount:0	outCount:3	links:9503;740;6402;13921	url:D066126	name:Cardiotoxicity	normalName:cardiotoxicity	normalWikiTitle:cardiotoxicity	predictedType:Disease
+CANDIDATE	id:15651	inCount:2	outCount:1	links:	url:D015651	name:Mycotoxicosis	normalName:mycotoxicosis	normalWikiTitle:mycotoxicosis	predictedType:Disease
+CANDIDATE	id:13971	inCount:2	outCount:1	links:	url:D013971	name:Thyrotoxicosis	normalName:thyrotoxicosis	normalWikiTitle:thyrotoxicosis	predictedType:Disease
+CANDIDATE	id:14869	inCount:0	outCount:2	links:	url:D014869	name:Water Intoxication	normalName:water intoxication	normalWikiTitle:water intoxication	predictedType:Disease
+CANDIDATE	id:14103	inCount:4	outCount:2	links:	url:D014103	name:Torticollis	normalName:torticollis	normalWikiTitle:torticollis	predictedType:Disease
+CANDIDATE	id:9765	inCount:42	outCount:2	links:	url:D009765	name:Obesity	normalName:obesity	normalWikiTitle:obesity	predictedType:Disease
+CANDIDATE	id:14115	inCount:1	outCount:1	links:	url:D014115	name:Toxemia	normalName:toxemia	normalWikiTitle:toxemia	predictedType:Disease
+CANDIDATE	id:7246	inCount:2	outCount:2	links:	url:D007246	name:Infertility	normalName:infertility	normalWikiTitle:infertility	predictedType:Disease
+CANDIDATE	id:20234	inCount:0	outCount:2	links:	url:D020234	name:Gait Ataxia	normalName:gait ataxia	normalWikiTitle:gait ataxia	predictedType:Disease
+CANDIDATE	id:14069	inCount:1	outCount:1	links:	url:D014069	name:Tonsillitis	normalName:tonsillitis	normalWikiTitle:tonsillitis	predictedType:Disease
+CANDIDATE	id:64420	inCount:10	outCount:1	links:	url:D064420	name:Toxicity, Drug	normalName:toxicity, drug	normalWikiTitle:toxicity, drug	predictedType:Disease
+CANDIDATE	id:17484	inCount:0	outCount:2	links:	url:D017484	name:Phototoxicity	normalName:phototoxicity	normalWikiTitle:phototoxicity	predictedType:Disease
+ENTITY	text:hemolytic	normalName:hemolytic	predictedType:disease	q:true	qid:Q1447	docId:3629586	origText:hemolytic	url:D006461
+CANDIDATE	id:6461	inCount:2	outCount:1	links:13921	url:D006461	name:Hemolysis	normalName:hemolysis	normalWikiTitle:hemolysis	predictedType:Disease
+CANDIDATE	id:743	inCount:20	outCount:1	links:13921;740	url:D000743	name:Anemia, Hemolytic	normalName:anemia, hemolytic	normalWikiTitle:anemia, hemolytic	predictedType:Disease
+CANDIDATE	id:6431	inCount:0	outCount:1	links:	url:D006431	name:Hemobilia	normalName:hemobilia	normalWikiTitle:hemobilia	predictedType:Disease
+CANDIDATE	id:6469	inCount:0	outCount:3	links:	url:D006469	name:Hemoptysis	normalName:hemoptysis	normalWikiTitle:hemoptysis	predictedType:Disease
+CANDIDATE	id:4617	inCount:5	outCount:1	links:	url:D004617	name:Embolism	normalName:embolism	normalWikiTitle:embolism	predictedType:Disease
+CANDIDATE	id:2836	inCount:0	outCount:4	links:	url:D002836	name:Hemophilia B	normalName:hemophilia b	normalWikiTitle:hemophilia b	predictedType:Disease
+CANDIDATE	id:6467	inCount:5	outCount:3	links:	url:D006467	name:Hemophilia A	normalName:hemophilia a	normalWikiTitle:hemophilia a	predictedType:Disease
+CANDIDATE	id:3085	inCount:0	outCount:1	links:	url:D003085	name:Colic	normalName:colic	normalWikiTitle:colic	predictedType:Disease
+CANDIDATE	id:2613	inCount:3	outCount:1	links:	url:D002613	name:Cheilitis	normalName:cheilitis	normalWikiTitle:cheilitis	predictedType:Disease
+CANDIDATE	id:6417	inCount:2	outCount:2	links:9503;6402	url:D006417	name:Hematuria	normalName:hematuria	normalWikiTitle:hematuria	predictedType:Disease
+ENTITY	text:thrombocytopenia	normalName:thrombocytopenia	predictedType:disease	q:true	qid:Q1447	docId:3629586	origText:thrombocytopenia	url:D013921
+CANDIDATE	id:13921	inCount:42	outCount:1	links:743;6402;6461;66126;9503;740	url:D013921	name:Thrombocytopenia	normalName:thrombocytopenia	normalWikiTitle:thrombocytopenia	predictedType:Disease

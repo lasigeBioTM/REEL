@@ -1,0 +1,15 @@
+ENTITY	text:chromogenic	normalName:chromogenic	predictedType:chemical	q:true	qid:Q55	docId:12079497	origText:chromogenic	url:CHEBI:75050
+CANDIDATE	id:75050	inCount:0	outCount:1	links:	url:CHEBI:75050	name:chromogenic compound	normalName:chromogenic compound	normalWikiTitle:chromogenic compound	predictedType:chemical
+CANDIDATE	id:30677	inCount:0	outCount:2	links:	url:CHEBI:30677	name:chromocene	normalName:chromocene	normalWikiTitle:chromocene	predictedType:chemical
+CANDIDATE	id:3679	inCount:0	outCount:1	links:	url:CHEBI:3679	name:Chromolaenide	normalName:chromolaenide	normalWikiTitle:chromolaenide	predictedType:chemical
+CANDIDATE	id:35602	inCount:2	outCount:2	links:	url:CHEBI:35602	name:chromene	normalName:chromene	normalWikiTitle:chromene	predictedType:chemical
+CANDIDATE	id:72013	inCount:0	outCount:2	links:	url:CHEBI:72013	name:chromone	normalName:chromone	normalWikiTitle:chromone	predictedType:chemical
+CANDIDATE	id:44747	inCount:0	outCount:2	links:	url:CHEBI:44747	name:homogentisic acid	normalName:homogentisic acid	normalWikiTitle:homogentisic acid	predictedType:chemical
+CANDIDATE	id:23232	inCount:37	outCount:1	links:	url:CHEBI:23232	name:chromenes	normalName:chromenes	normalWikiTitle:chromenes	predictedType:chemical
+CANDIDATE	id:36114	inCount:0	outCount:1	links:	url:CHEBI:36114	name:chromenylium	normalName:chromenylium	normalWikiTitle:chromenylium	predictedType:chemical
+CANDIDATE	id:39436	inCount:23	outCount:1	links:	url:CHEBI:39436	name:chromenol	normalName:chromenol	normalWikiTitle:chromenol	predictedType:chemical
+CANDIDATE	id:23238	inCount:87	outCount:1	links:	url:CHEBI:23238	name:chromones	normalName:chromones	normalWikiTitle:chromones	predictedType:chemical
+ENTITY	text:globin	normalName:globin	predictedType:chemical	q:true	qid:Q55	docId:12079497	origText:globin	url:CHEBI:5386
+CANDIDATE	id:5386	inCount:3	outCount:1	links:	url:CHEBI:5386	name:globin	normalName:globin	normalWikiTitle:globin	predictedType:chemical
+ENTITY	text:drug	normalName:drug	predictedType:chemical	q:true	qid:Q55	docId:12079497	origText:drug	url:CHEBI:23888
+CANDIDATE	id:23888	inCount:65	outCount:1	links:	url:CHEBI:23888	name:drug	normalName:drug	normalWikiTitle:drug	predictedType:chemical

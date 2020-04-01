@@ -1,0 +1,15 @@
+ENTITY	text:thrombosis	normalName:thrombosis	predictedType:disease	q:true	qid:Q155	docId:6517710	origText:thrombosis	url:D013927
+CANDIDATE	id:13927	inCount:4	outCount:1	links:13927	url:D013927	name:Thrombosis	normalName:thrombosis	normalWikiTitle:thrombosis	predictedType:Disease
+ENTITY	text:Atrial thrombosis	normalName:atrial thrombosis	predictedType:disease	q:true	qid:Q155	docId:6517710	origText:Atrial thrombosis	url:D003328
+CANDIDATE	id:3328	inCount:0	outCount:2	links:	url:D003328	name:Coronary Thrombosis	normalName:coronary thrombosis	normalWikiTitle:coronary thrombosis	predictedType:Disease
+CANDIDATE	id:20767	inCount:1	outCount:1	links:	url:D020767	name:Intracranial Thrombosis	normalName:intracranial thrombosis	normalWikiTitle:intracranial thrombosis	predictedType:Disease
+CANDIDATE	id:20227	inCount:0	outCount:1	links:	url:D020227	name:Lateral Sinus Thrombosis	normalName:lateral sinus thrombosis	normalWikiTitle:lateral sinus thrombosis	predictedType:Disease
+CANDIDATE	id:13927	inCount:4	outCount:1	links:13927	url:D013927	name:Thrombosis	normalName:thrombosis	normalWikiTitle:thrombosis	predictedType:Disease
+CANDIDATE	id:20225	inCount:0	outCount:1	links:	url:D020225	name:Sagittal Sinus Thrombosis	normalName:sagittal sinus thrombosis	normalWikiTitle:sagittal sinus thrombosis	predictedType:Disease
+CANDIDATE	id:2341	inCount:0	outCount:2	links:	url:D002341	name:Carotid Artery Thrombosis	normalName:carotid artery thrombosis	normalWikiTitle:carotid artery thrombosis	predictedType:Disease
+CANDIDATE	id:12851	inCount:3	outCount:1	links:	url:D012851	name:Sinus Thrombosis, Intracranial	normalName:sinus thrombosis, intracranial	normalWikiTitle:sinus thrombosis, intracranial	predictedType:Disease
+CANDIDATE	id:537963	inCount:0	outCount:2	links:	url:C537963	name:Calvarial hyperostosis	normalName:calvarial hyperostosis	normalWikiTitle:calvarial hyperostosis	predictedType:Disease
+CANDIDATE	id:64752	inCount:0	outCount:2	links:	url:D064752	name:Atrial Remodeling	normalName:atrial remodeling	normalWikiTitle:atrial remodeling	predictedType:Disease
+CANDIDATE	id:14124	inCount:0	outCount:2	links:	url:D014124	name:Toxoplasmosis, Animal	normalName:toxoplasmosis, animal	normalWikiTitle:toxoplasmosis, animal	predictedType:Disease
+ENTITY	text:cardiac hypertrophy	normalName:cardiac hypertrophy	predictedType:disease	q:true	qid:Q155	docId:6517710	origText:cardiac hypertrophy	url:D006332
+CANDIDATE	id:6332	inCount:5	outCount:2	links:	url:D006332	name:Cardiac Hypertrophy	normalName:cardiac hypertrophy	normalWikiTitle:cardiac hypertrophy	predictedType:Disease

@@ -1,0 +1,56 @@
+ENTITY	text:adenocarcinoma	normalName:adenocarcinoma	predictedType:disease	q:true	qid:Q391	docId:1664218	origText:adenocarcinoma	url:D000230
+CANDIDATE	id:230	inCount:32	outCount:1	links:230	url:D000230	name:Adenocarcinoma	normalName:adenocarcinoma	normalWikiTitle:adenocarcinoma	predictedType:Disease
+ENTITY	text:phlebitis	normalName:phlebitis	predictedType:disease	q:true	qid:Q391	docId:1664218	origText:phlebitis	url:D010689
+CANDIDATE	id:10689	inCount:2	outCount:2	links:	url:D010689	name:Phlebitis	normalName:phlebitis	normalWikiTitle:phlebitis	predictedType:Disease
+ENTITY	text:tumour	normalName:tumour	predictedType:disease	q:true	qid:Q391	docId:1664218	origText:tumour	url:D009369
+CANDIDATE	id:9369	inCount:18	outCount:1	links:	url:D009369	name:Tumors	normalName:tumors	normalWikiTitle:tumors	predictedType:Disease
+CANDIDATE	id:14202	inCount:6	outCount:1	links:	url:D014202	name:Tremor	normalName:tremor	normalWikiTitle:tremor	predictedType:Disease
+CANDIDATE	id:53608	inCount:0	outCount:1	links:	url:D053608	name:Stupor	normalName:stupor	normalWikiTitle:stupor	predictedType:Disease
+CANDIDATE	id:9396	inCount:9	outCount:3	links:	url:D009396	name:Wilms Tumor	normalName:wilms tumor	normalWikiTitle:wilms tumor	predictedType:Disease
+CANDIDATE	id:563168	inCount:0	outCount:2	links:	url:C563168	name:Askin Tumor	normalName:askin tumor	normalWikiTitle:askin tumor	predictedType:Disease
+CANDIDATE	id:5918	inCount:1	outCount:1	links:	url:D005918	name:Glomus Tumor	normalName:glomus tumor	normalWikiTitle:glomus tumor	predictedType:Disease
+CANDIDATE	id:601583	inCount:0	outCount:1	links:	url:601583	name:WILMS TUMOR 5	normalName:wilms tumor 5	normalWikiTitle:wilms tumor 5	predictedType:Disease
+CANDIDATE	id:616806	inCount:0	outCount:1	links:	url:616806	name:WILMS TUMOR 6	normalName:wilms tumor 6	normalWikiTitle:wilms tumor 6	predictedType:Disease
+CANDIDATE	id:563336	inCount:0	outCount:1	links:	url:C563336	name:Wilms Tumor 4	normalName:wilms tumor 4	normalWikiTitle:wilms tumor 4	predictedType:Disease
+CANDIDATE	id:6337	inCount:1	outCount:1	links:	url:D006337	name:Heart Murmurs	normalName:heart murmurs	normalWikiTitle:heart murmurs	predictedType:Disease
+CANDIDATE	id:565991	inCount:0	outCount:1	links:	url:C565991	name:Wilms Tumor 3	normalName:wilms tumor 3	normalWikiTitle:wilms tumor 3	predictedType:Disease
+CANDIDATE	id:9369	inCount:18	outCount:1	links:	url:D009369	name:Tumor	normalName:tumor	normalWikiTitle:tumor	predictedType:Disease
+ENTITY	text:non-small cell lung cancer	normalName:non-small cell lung cancer	predictedType:disease	q:true	qid:Q391	docId:1664218	origText:non-small cell lung cancer	url:D002289
+CANDIDATE	id:2289	inCount:1	outCount:1	links:	url:D002289	name:Non-Small Cell Lung Cancer	normalName:non-small cell lung cancer	normalWikiTitle:non-small cell lung cancer	predictedType:Disease
+ENTITY	text:squamous carcinoma	normalName:squamous carcinoma	predictedType:disease	q:true	qid:Q391	docId:1664218	origText:squamous carcinoma	url:D002294
+CANDIDATE	id:2294	inCount:5	outCount:2	links:2294	url:D002294	name:Squamous Carcinoma	normalName:squamous carcinoma	normalWikiTitle:squamous carcinoma	predictedType:Disease
+ENTITY	text:bronchio-alveolar carcinoma	normalName:bronchio-alveolar carcinoma	predictedType:disease	q:true	qid:Q391	docId:1664218	origText:bronchio-alveolar carcinoma	url:D002282
+CANDIDATE	id:2282	inCount:0	outCount:1	links:	url:D002282	name:Bronchiolar Carcinoma	normalName:bronchiolar carcinoma	normalWikiTitle:bronchiolar carcinoma	predictedType:Disease
+CANDIDATE	id:18232	inCount:1	outCount:1	links:	url:D018232	name:Rhabdomyosarcoma, Alveolar	normalName:rhabdomyosarcoma, alveolar	normalWikiTitle:rhabdomyosarcoma, alveolar	predictedType:Disease
+CANDIDATE	id:2283	inCount:2	outCount:2	links:	url:D002283	name:Carcinoma, Bronchogenic	normalName:carcinoma, bronchogenic	normalWikiTitle:carcinoma, bronchogenic	predictedType:Disease
+CANDIDATE	id:18281	inCount:1	outCount:1	links:	url:D018281	name:Cholangiocarcinoma	normalName:cholangiocarcinoma	normalWikiTitle:cholangiocarcinoma	predictedType:Disease
+CANDIDATE	id:18234	inCount:0	outCount:2	links:	url:D018234	name:Sarcoma, Alveolar Soft Part	normalName:sarcoma, alveolar soft part	normalWikiTitle:sarcoma, alveolar soft part	predictedType:Disease
+CANDIDATE	id:536591	inCount:0	outCount:1	links:	url:C536591	name:Alveolar echinococcosis	normalName:alveolar echinococcosis	normalWikiTitle:alveolar echinococcosis	predictedType:Disease
+CANDIDATE	id:230	inCount:32	outCount:1	links:230	url:D000230	name:Adenocarcinoma	normalName:adenocarcinoma	normalWikiTitle:adenocarcinoma	predictedType:Disease
+CANDIDATE	id:2822	inCount:2	outCount:2	links:	url:D002822	name:Choriocarcinoma	normalName:choriocarcinoma	normalWikiTitle:choriocarcinoma	predictedType:Disease
+CANDIDATE	id:15827	inCount:0	outCount:2	links:	url:D015827	name:Onchocerciasis, Ocular	normalName:onchocerciasis, ocular	normalWikiTitle:onchocerciasis, ocular	predictedType:Disease
+CANDIDATE	id:16301	inCount:0	outCount:2	links:	url:D016301	name:Alveolar Bone Loss	normalName:alveolar bone loss	normalWikiTitle:alveolar bone loss	predictedType:Disease
+CANDIDATE	id:563020	inCount:0	outCount:1	links:	url:C563020	name:Anal Canal Carcinoma	normalName:anal canal carcinoma	normalWikiTitle:anal canal carcinoma	predictedType:Disease
+CANDIDATE	id:2282	inCount:0	outCount:1	links:	url:D002282	name:Carcinoma, Bronchiolo-Alveolar	normalName:carcinoma, bronchiolo-alveolar	normalWikiTitle:carcinoma, bronchiolo-alveolar	predictedType:Disease
+CANDIDATE	id:2282	inCount:0	outCount:1	links:	url:D002282	name:Bronchiolo-Alveolar Carcinoma	normalName:bronchiolo-alveolar carcinoma	normalWikiTitle:bronchiolo-alveolar carcinoma	predictedType:Disease
+CANDIDATE	id:2282	inCount:0	outCount:1	links:	url:D002282	name:Carcinoma, Bronchiolo Alveolar	normalName:carcinoma, bronchiolo alveolar	normalWikiTitle:carcinoma, bronchiolo alveolar	predictedType:Disease
+CANDIDATE	id:2282	inCount:0	outCount:1	links:	url:D002282	name:Bronchiolo-Alveolar Carcinomas	normalName:bronchiolo-alveolar carcinomas	normalWikiTitle:bronchiolo-alveolar carcinomas	predictedType:Disease
+CANDIDATE	id:2282	inCount:0	outCount:1	links:	url:D002282	name:Carcinomas, Bronchiolo-Alveolar	normalName:carcinomas, bronchiolo-alveolar	normalWikiTitle:carcinomas, bronchiolo-alveolar	predictedType:Disease
+CANDIDATE	id:2282	inCount:0	outCount:1	links:	url:D002282	name:Alveolar Carcinoma	normalName:alveolar carcinoma	normalWikiTitle:alveolar carcinoma	predictedType:Disease
+CANDIDATE	id:2282	inCount:0	outCount:1	links:	url:D002282	name:Carcinoma, Alveolar	normalName:carcinoma, alveolar	normalWikiTitle:carcinoma, alveolar	predictedType:Disease
+CANDIDATE	id:2282	inCount:0	outCount:1	links:	url:D002282	name:Alveolar Carcinomas	normalName:alveolar carcinomas	normalWikiTitle:alveolar carcinomas	predictedType:Disease
+CANDIDATE	id:2282	inCount:0	outCount:1	links:	url:D002282	name:Carcinomas, Alveolar	normalName:carcinomas, alveolar	normalWikiTitle:carcinomas, alveolar	predictedType:Disease
+ENTITY	text:undifferentiated carcinoma	normalName:undifferentiated carcinoma	predictedType:disease	q:true	qid:Q391	docId:1664218	origText:undifferentiated carcinoma	url:D002277
+CANDIDATE	id:2277	inCount:25	outCount:1	links:	url:D002277	name:Undifferentiated Carcinoma	normalName:undifferentiated carcinoma	normalWikiTitle:undifferentiated carcinoma	predictedType:Disease
+ENTITY	text:seizures	normalName:seizures	predictedType:disease	q:true	qid:Q391	docId:1664218	origText:seizures	url:D012640
+CANDIDATE	id:12640	inCount:53	outCount:1	links:	url:D012640	name:Seizure	normalName:seizure	normalWikiTitle:seizure	predictedType:Disease
+ENTITY	text:vomiting	normalName:vomiting	predictedType:disease	q:true	qid:Q391	docId:1664218	origText:vomiting	url:D014839
+CANDIDATE	id:14839	inCount:7	outCount:1	links:	url:D014839	name:Vomiting	normalName:vomiting	normalWikiTitle:vomiting	predictedType:Disease
+ENTITY	text:squamous cell carcinoma	normalName:squamous cell carcinoma	predictedType:disease	q:true	qid:Q391	docId:1664218	origText:squamous cell carcinoma	url:D002294
+CANDIDATE	id:2294	inCount:5	outCount:2	links:2294	url:D002294	name:Carcinoma, Squamous Cell	normalName:carcinoma, squamous cell	normalWikiTitle:carcinoma, squamous cell	predictedType:Disease
+ENTITY	text:nausea	normalName:nausea	predictedType:disease	q:true	qid:Q391	docId:1664218	origText:nausea	url:D009325
+CANDIDATE	id:9325	inCount:2	outCount:1	links:	url:D009325	name:Nausea	normalName:nausea	normalWikiTitle:nausea	predictedType:Disease
+ENTITY	text:Neutropenia	normalName:neutropenia	predictedType:disease	q:true	qid:Q391	docId:1664218	origText:Neutropenia	url:D009503
+CANDIDATE	id:9503	inCount:19	outCount:1	links:	url:D009503	name:Neutropenia	normalName:neutropenia	normalWikiTitle:neutropenia	predictedType:Disease
+ENTITY	text:infections	normalName:infections	predictedType:disease	q:true	qid:Q391	docId:1664218	origText:infections	url:D007239
+CANDIDATE	id:7239	inCount:33	outCount:1	links:	url:D007239	name:Infection	normalName:infection	normalWikiTitle:infection	predictedType:Disease

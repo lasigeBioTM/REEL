@@ -1,0 +1,13 @@
+ENTITY	text:glaucoma	normalName:glaucoma	predictedType:disease	q:true	qid:Q343	docId:2220369	origText:glaucoma	url:D005901
+CANDIDATE	id:5901	inCount:34	outCount:1	links:	url:D005901	name:Glaucoma	normalName:glaucoma	normalWikiTitle:glaucoma	predictedType:Disease
+ENTITY	text:vein thrombosis	normalName:vein thrombosis	predictedType:disease	q:true	qid:Q343	docId:2220369	origText:vein thrombosis	url:D020246
+CANDIDATE	id:20246	inCount:5	outCount:1	links:	url:D020246	name:Venous Thrombosis	normalName:venous thrombosis	normalWikiTitle:venous thrombosis	predictedType:Disease
+CANDIDATE	id:13927	inCount:4	outCount:1	links:	url:D013927	name:Thrombosis	normalName:thrombosis	normalWikiTitle:thrombosis	predictedType:Disease
+CANDIDATE	id:54556	inCount:0	outCount:1	links:	url:D054556	name:Venous Thromboembolism	normalName:venous thromboembolism	normalWikiTitle:venous thromboembolism	predictedType:Disease
+CANDIDATE	id:13922	inCount:4	outCount:2	links:	url:D013922	name:Thrombocytosis	normalName:thrombocytosis	normalWikiTitle:thrombocytosis	predictedType:Disease
+CANDIDATE	id:12303	inCount:18	outCount:1	links:	url:D012303	name:Ring Chromosomes	normalName:ring chromosomes	normalWikiTitle:ring chromosomes	predictedType:Disease
+CANDIDATE	id:19851	inCount:16	outCount:1	links:	url:D019851	name:Thrombophilia	normalName:thrombophilia	normalWikiTitle:thrombophilia	predictedType:Disease
+CANDIDATE	id:7446	inCount:0	outCount:1	links:	url:D007446	name:Chromosome Inversion	normalName:chromosome inversion	normalWikiTitle:chromosome inversion	predictedType:Disease
+CANDIDATE	id:13915	inCount:3	outCount:3	links:	url:D013915	name:Thrombasthenia	normalName:thrombasthenia	normalWikiTitle:thrombasthenia	predictedType:Disease
+CANDIDATE	id:13923	inCount:3	outCount:1	links:	url:D013923	name:Thromboembolism	normalName:thromboembolism	normalWikiTitle:thromboembolism	predictedType:Disease
+CANDIDATE	id:565927	inCount:0	outCount:1	links:	url:C565927	name:Athrombia, Essential	normalName:athrombia, essential	normalWikiTitle:athrombia, essential	predictedType:Disease

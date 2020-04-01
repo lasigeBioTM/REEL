@@ -1,0 +1,8 @@
+ENTITY	text:prostacyclin	normalName:prostacyclin	predictedType:chemical	q:true	qid:Q460	docId:3560096	origText:prostacyclin	url:D011464
+CANDIDATE	id:11464	inCount:88	outCount:1	links:	url:D011464	name:Prostacyclin	normalName:prostacyclin	normalWikiTitle:prostacyclin	predictedType:Chemical
+ENTITY	text:sulindac	normalName:sulindac	predictedType:chemical	q:true	qid:Q460	docId:3560096	origText:sulindac	url:D013467
+CANDIDATE	id:13467	inCount:12	outCount:1	links:7213	url:D013467	name:Sulindac	normalName:sulindac	normalWikiTitle:sulindac	predictedType:Chemical
+ENTITY	text:potassium	normalName:potassium	predictedType:chemical	q:true	qid:Q460	docId:3560096	origText:potassium	url:D011188
+CANDIDATE	id:11188	inCount:10	outCount:2	links:	url:D011188	name:Potassium	normalName:potassium	normalWikiTitle:potassium	predictedType:Chemical
+ENTITY	text:indomethacin	normalName:indomethacin	predictedType:chemical	q:true	qid:Q460	docId:3560096	origText:indomethacin	url:D007213
+CANDIDATE	id:7213	inCount:40	outCount:1	links:13467	url:D007213	name:Indomethacin	normalName:indomethacin	normalWikiTitle:indomethacin	predictedType:Chemical

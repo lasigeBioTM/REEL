@@ -1,0 +1,32 @@
+ENTITY	text:hypertension	normalName:hypertension	predictedType:disease	q:true	qid:Q476	docId:17965424	origText:hypertension	url:D006973
+CANDIDATE	id:6973	inCount:18	outCount:1	links:	url:D006973	name:Hypertension	normalName:hypertension	normalWikiTitle:hypertension	predictedType:Disease
+ENTITY	text:thrombotic cardiovascular	normalName:thrombotic cardiovascular	predictedType:disease	q:true	qid:Q476	docId:17965424	origText:thrombotic cardiovascular	url:D002318
+CANDIDATE	id:2318	inCount:5	outCount:1	links:	url:D002318	name:Cardiovascular Diseases	normalName:cardiovascular diseases	normalWikiTitle:cardiovascular diseases	predictedType:Disease
+CANDIDATE	id:14381	inCount:1	outCount:2	links:	url:D014381	name:Tuberculosis, Cardiovascular	normalName:tuberculosis, cardiovascular	normalWikiTitle:tuberculosis, cardiovascular	predictedType:Disease
+CANDIDATE	id:13589	inCount:0	outCount:2	links:	url:D013589	name:Syphilis, Cardiovascular	normalName:syphilis, cardiovascular	normalWikiTitle:syphilis, cardiovascular	predictedType:Disease
+CANDIDATE	id:53821	inCount:3	outCount:2	links:	url:D053821	name:Cardiovascular Infections	normalName:cardiovascular infections	normalWikiTitle:cardiovascular infections	predictedType:Disease
+CANDIDATE	id:3328	inCount:0	outCount:2	links:	url:D003328	name:Coronary Thrombosis	normalName:coronary thrombosis	normalWikiTitle:coronary thrombosis	predictedType:Disease
+CANDIDATE	id:20214	inCount:3	outCount:2	links:	url:D020214	name:Cerebrovascular Trauma	normalName:cerebrovascular trauma	normalWikiTitle:cerebrovascular trauma	predictedType:Disease
+CANDIDATE	id:57049	inCount:2	outCount:1	links:	url:D057049	name:Thrombotic Microangiopathies	normalName:thrombotic microangiopathies	normalWikiTitle:thrombotic microangiopathies	predictedType:Disease
+CANDIDATE	id:11249	inCount:1	outCount:2	links:	url:D011249	name:Pregnancy Complications, Cardiovascular	normalName:pregnancy complications, cardiovascular	normalWikiTitle:pregnancy complications, cardiovascular	predictedType:Disease
+CANDIDATE	id:16553	inCount:0	outCount:3	links:	url:D016553	name:Purpura, Thrombocytopenic, Idiopathic	normalName:purpura, thrombocytopenic, idiopathic	normalWikiTitle:purpura, thrombocytopenic, idiopathic	predictedType:Disease
+CANDIDATE	id:572845	inCount:0	outCount:1	links:	url:C572845	name:Thyroid cancer, follicular	normalName:thyroid cancer, follicular	normalWikiTitle:thyroid cancer, follicular	predictedType:Disease
+CANDIDATE	id:9203	inCount:8	outCount:1	links:	url:D009203	name:Cardiovascular Stroke	normalName:cardiovascular stroke	normalWikiTitle:cardiovascular stroke	predictedType:Disease
+CANDIDATE	id:9203	inCount:8	outCount:1	links:	url:D009203	name:Stroke, Cardiovascular	normalName:stroke, cardiovascular	normalWikiTitle:stroke, cardiovascular	predictedType:Disease
+CANDIDATE	id:9203	inCount:8	outCount:1	links:	url:D009203	name:Cardiovascular Strokes	normalName:cardiovascular strokes	normalWikiTitle:cardiovascular strokes	predictedType:Disease
+CANDIDATE	id:9203	inCount:8	outCount:1	links:	url:D009203	name:Strokes, Cardiovascular	normalName:strokes, cardiovascular	normalWikiTitle:strokes, cardiovascular	predictedType:Disease
+ENTITY	text:RA	normalName:ra	predictedType:disease	q:true	qid:Q476	docId:17965424	origText:RA	url:D001172
+CANDIDATE	id:1172	inCount:8	outCount:3	links:1172	url:D001172	name:RA	normalName:ra	normalWikiTitle:ra	predictedType:Disease
+ENTITY	text:oedema	normalName:oedema	predictedType:disease	q:true	qid:Q476	docId:17965424	origText:oedema	url:D004487
+CANDIDATE	id:4487	inCount:6	outCount:1	links:	url:D004487	name:Edema	normalName:edema	normalWikiTitle:edema	predictedType:Disease
+CANDIDATE	id:799	inCount:4	outCount:2	links:	url:D000799	name:Angioedema	normalName:angioedema	normalWikiTitle:angioedema	predictedType:Disease
+CANDIDATE	id:65134	inCount:0	outCount:1	links:	url:D065134	name:Lipedema	normalName:lipedema	normalWikiTitle:lipedema	predictedType:Disease
+CANDIDATE	id:11711	inCount:2	outCount:1	links:	url:D011711	name:Pyoderma	normalName:pyoderma	normalWikiTitle:pyoderma	predictedType:Disease
+CANDIDATE	id:9230	inCount:0	outCount:2	links:	url:D009230	name:Myxedema	normalName:myxedema	normalWikiTitle:myxedema	predictedType:Disease
+CANDIDATE	id:4485	inCount:4	outCount:2	links:	url:D004485	name:Eczema	normalName:eczema	normalWikiTitle:eczema	predictedType:Disease
+CANDIDATE	id:15715	inCount:0	outCount:1	links:	url:D015715	name:Corneal Edema	normalName:corneal edema	normalWikiTitle:corneal edema	predictedType:Disease
+CANDIDATE	id:14115	inCount:1	outCount:1	links:	url:D014115	name:Toxemia	normalName:toxemia	normalWikiTitle:toxemia	predictedType:Disease
+CANDIDATE	id:8209	inCount:26	outCount:1	links:	url:D008209	name:Lymphedema	normalName:lymphedema	normalWikiTitle:lymphedema	predictedType:Disease
+CANDIDATE	id:4653	inCount:2	outCount:1	links:	url:D004653	name:Empyema	normalName:empyema	normalWikiTitle:empyema	predictedType:Disease
+ENTITY	text:rheumatoid arthritis	normalName:rheumatoid arthritis	predictedType:disease	q:true	qid:Q476	docId:17965424	origText:rheumatoid arthritis	url:D001172
+CANDIDATE	id:1172	inCount:8	outCount:3	links:1172	url:D001172	name:Arthritis, Rheumatoid	normalName:arthritis, rheumatoid	normalWikiTitle:arthritis, rheumatoid	predictedType:Disease

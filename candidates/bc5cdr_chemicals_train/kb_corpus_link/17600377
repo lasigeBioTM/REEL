@@ -1,0 +1,8 @@
+ENTITY	text:maltol	normalName:maltol	predictedType:chemical	q:true	qid:Q64	docId:17600377	origText:maltol	url:C008316
+CANDIDATE	id:8316	inCount:0	outCount:1	links:	url:C008316	name:maltol	normalName:maltol	normalWikiTitle:maltol	predictedType:Chemical
+ENTITY	text:maltolyl p-coumarate	normalName:maltolyl p-coumarate	predictedType:chemical	q:true	qid:Q64	docId:17600377	origText:maltolyl p-coumarate	url:C524754
+CANDIDATE	id:524754	inCount:0	outCount:1	links:	url:C524754	name:maltolyl p-coumarate	normalName:maltolyl p-coumarate	normalWikiTitle:maltolyl p-coumarate	predictedType:Chemical
+ENTITY	text:glutamate	normalName:glutamate	predictedType:chemical	q:true	qid:Q64	docId:17600377	origText:glutamate	url:D018698
+CANDIDATE	id:18698	inCount:53	outCount:2	links:	url:D018698	name:Glutamate	normalName:glutamate	normalWikiTitle:glutamate	predictedType:Chemical
+ENTITY	text:scopolamine	normalName:scopolamine	predictedType:chemical	q:true	qid:Q64	docId:17600377	origText:scopolamine	url:D012601
+CANDIDATE	id:12601	inCount:3	outCount:2	links:	url:D012601	name:Scopolamine	normalName:scopolamine	normalWikiTitle:scopolamine	predictedType:Chemical

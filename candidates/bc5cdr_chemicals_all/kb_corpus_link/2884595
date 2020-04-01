@@ -1,0 +1,10 @@
+ENTITY	text:histamine	normalName:histamine	predictedType:chemical	q:true	qid:Q1085	docId:2884595	origText:histamine	url:D006632
+CANDIDATE	id:6632	inCount:55	outCount:4	links:	url:D006632	name:Histamine	normalName:histamine	normalWikiTitle:histamine	predictedType:Chemical
+ENTITY	text:chlorpheniramine	normalName:chlorpheniramine	predictedType:chemical	q:true	qid:Q1085	docId:2884595	origText:chlorpheniramine	url:D002744
+CANDIDATE	id:2744	inCount:17	outCount:1	links:	url:D002744	name:Chlorpheniramine	normalName:chlorpheniramine	normalWikiTitle:chlorpheniramine	predictedType:Chemical
+ENTITY	text:cyproheptadine	normalName:cyproheptadine	predictedType:chemical	q:true	qid:Q1085	docId:2884595	origText:cyproheptadine	url:D003533
+CANDIDATE	id:3533	inCount:14	outCount:2	links:	url:D003533	name:Cyproheptadine	normalName:cyproheptadine	normalWikiTitle:cyproheptadine	predictedType:Chemical
+ENTITY	text:pertussis vaccine	normalName:pertussis vaccine	predictedType:chemical	q:true	qid:Q1085	docId:2884595	origText:pertussis vaccine	url:D010567
+CANDIDATE	id:10567	inCount:4	outCount:1	links:	url:D010567	name:Pertussis Vaccine	normalName:pertussis vaccine	normalWikiTitle:pertussis vaccine	predictedType:Chemical
+ENTITY	text:mianserin	normalName:mianserin	predictedType:chemical	q:true	qid:Q1085	docId:2884595	origText:mianserin	url:D008803
+CANDIDATE	id:8803	inCount:14	outCount:1	links:	url:D008803	name:Mianserin	normalName:mianserin	normalWikiTitle:mianserin	predictedType:Chemical

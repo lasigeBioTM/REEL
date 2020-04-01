@@ -1,0 +1,4 @@
+ENTITY	text:haloperidol	normalName:haloperidol	predictedType:chemical	q:true	qid:Q568	docId:15638391	origText:haloperidol	url:D006220
+CANDIDATE	id:6220	inCount:24	outCount:1	links:	url:D006220	name:Haloperidol	normalName:haloperidol	normalWikiTitle:haloperidol	predictedType:Chemical
+ENTITY	text:testosterone	normalName:testosterone	predictedType:chemical	q:true	qid:Q568	docId:15638391	origText:testosterone	url:D013739
+CANDIDATE	id:13739	inCount:97	outCount:2	links:	url:D013739	name:Testosterone	normalName:testosterone	normalWikiTitle:testosterone	predictedType:Chemical

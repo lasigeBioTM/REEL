@@ -1,0 +1,45 @@
+ENTITY	text:anxiety	normalName:anxiety	predictedType:disease	q:true	qid:Q317	docId:24234943	origText:anxiety	url:D001008
+CANDIDATE	id:1008	inCount:7	outCount:1	links:7177;9325;3221;7010	url:D001008	name:ANXIETY	normalName:anxiety	normalWikiTitle:anxiety	predictedType:Disease
+ENTITY	text:nausea	normalName:nausea	predictedType:disease	q:true	qid:Q317	docId:24234943	origText:nausea	url:D009325
+CANDIDATE	id:9325	inCount:2	outCount:1	links:1008;3221;7177;7010	url:D009325	name:Nausea	normalName:nausea	normalWikiTitle:nausea	predictedType:Disease
+ENTITY	text:SIADH	normalName:siadh	predictedType:disease	q:true	qid:Q317	docId:24234943	origText:SIADH	url:D007177
+CANDIDATE	id:7177	inCount:1	outCount:2	links:1008;9325;3221;7177;7010	url:D007177	name:SIADH	normalName:siadh	normalWikiTitle:siadh	predictedType:Disease
+ENTITY	text:hyponatraemia	normalName:hyponatraemia	predictedType:disease	q:true	qid:Q317	docId:24234943	origText:hyponatraemia	url:D007010
+CANDIDATE	id:7010	inCount:1	outCount:1	links:1008;9325;3221;7177;7010	url:D007010	name:Hyponatremia	normalName:hyponatremia	normalWikiTitle:hyponatremia	predictedType:Disease
+CANDIDATE	id:6955	inCount:0	outCount:1	links:	url:D006955	name:Hypernatremia	normalName:hypernatremia	normalWikiTitle:hypernatremia	predictedType:Disease
+CANDIDATE	id:7035	inCount:2	outCount:1	links:	url:D007035	name:Hypothermia	normalName:hypothermia	normalWikiTitle:hypothermia	predictedType:Disease
+CANDIDATE	id:7008	inCount:1	outCount:1	links:	url:D007008	name:Hypokalemia	normalName:hypokalemia	normalWikiTitle:hypokalemia	predictedType:Disease
+CANDIDATE	id:6940	inCount:0	outCount:1	links:	url:D006940	name:Hyperemia	normalName:hyperemia	normalWikiTitle:hyperemia	predictedType:Disease
+CANDIDATE	id:6947	inCount:4	outCount:1	links:	url:D006947	name:Hyperkalemia	normalName:hyperkalemia	normalWikiTitle:hyperkalemia	predictedType:Disease
+CANDIDATE	id:6996	inCount:5	outCount:2	links:	url:D006996	name:Hypocalcemia	normalName:hypocalcemia	normalWikiTitle:hypocalcemia	predictedType:Disease
+CANDIDATE	id:65906	inCount:0	outCount:2	links:	url:D065906	name:Hyperlactatemia	normalName:hyperlactatemia	normalWikiTitle:hyperlactatemia	predictedType:Disease
+CANDIDATE	id:6175	inCount:0	outCount:1	links:	url:D006175	name:Gynatresia	normalName:gynatresia	normalWikiTitle:gynatresia	predictedType:Disease
+CANDIDATE	id:6934	inCount:10	outCount:2	links:	url:D006934	name:Hypercalcemia	normalName:hypercalcemia	normalWikiTitle:hypercalcemia	predictedType:Disease
+ENTITY	text:confusion	normalName:confusion	predictedType:disease	q:true	qid:Q317	docId:24234943	origText:confusion	url:D003221
+CANDIDATE	id:3221	inCount:2	outCount:1	links:1008;9325;7177;7010	url:D003221	name:Confusion	normalName:confusion	normalWikiTitle:confusion	predictedType:Disease
+ENTITY	text:Syndrome of inappropriate antidiuretic hormone	normalName:syndrome of inappropriate antidiuretic hormone	predictedType:disease	q:true	qid:Q317	docId:24234943	origText:Syndrome of inappropriate antidiuretic hormone	url:D007177
+CANDIDATE	id:7177	inCount:1	outCount:2	links:1008;9325;3221;7177;7010	url:D007177	name:Antidiuretic Hormone, Inappropriate Secretion	normalName:antidiuretic hormone, inappropriate secretion	normalWikiTitle:antidiuretic hormone, inappropriate secretion	predictedType:Disease
+CANDIDATE	id:564491	inCount:0	outCount:2	links:564491	url:C564491	name:Nephrogenic Syndrome of Inappropriate Antidiuresis	normalName:nephrogenic syndrome of inappropriate antidiuresis	normalWikiTitle:nephrogenic syndrome of inappropriate antidiuresis	predictedType:Disease
+CANDIDATE	id:7177	inCount:1	outCount:2	links:1008;9325;3221;7177;7010	url:D007177	name:Inappropriate ADH Syndrome	normalName:inappropriate adh syndrome	normalWikiTitle:inappropriate adh syndrome	predictedType:Disease
+CANDIDATE	id:565926	inCount:0	outCount:3	links:565926	url:C565926	name:Atonic-Astatic Syndrome of Foerster	normalName:atonic-astatic syndrome of foerster	normalWikiTitle:atonic-astatic syndrome of foerster	predictedType:Disease
+CANDIDATE	id:55501	inCount:0	outCount:1	links:55501	url:D055501	name:Macrophage Activation Syndrome	normalName:macrophage activation syndrome	normalWikiTitle:macrophage activation syndrome	predictedType:Disease
+CANDIDATE	id:535950	inCount:0	outCount:1	links:535950	url:C535950	name:Dianzani autoimmune lymphoproliferative syndrome	normalName:dianzani autoimmune lymphoproliferative syndrome	normalWikiTitle:dianzani autoimmune lymphoproliferative syndrome	predictedType:Disease
+CANDIDATE	id:56735	inCount:7	outCount:3	links:56735	url:D056735	name:Autoimmune Lymphoproliferative Syndrome	normalName:autoimmune lymphoproliferative syndrome	normalWikiTitle:autoimmune lymphoproliferative syndrome	predictedType:Disease
+CANDIDATE	id:536299	inCount:0	outCount:4	links:536299	url:C536299	name:Partington Anderson syndrome	normalName:partington anderson syndrome	normalWikiTitle:partington anderson syndrome	predictedType:Disease
+CANDIDATE	id:61325	inCount:0	outCount:3	links:61325	url:D061325	name:Hereditary Breast and Ovarian Cancer Syndrome	normalName:hereditary breast and ovarian cancer syndrome	normalWikiTitle:hereditary breast and ovarian cancer syndrome	predictedType:Disease
+CANDIDATE	id:868	inCount:0	outCount:1	links:	url:D000868	name:Anterior Compartment Syndrome	normalName:anterior compartment syndrome	normalWikiTitle:anterior compartment syndrome	predictedType:Disease
+CANDIDATE	id:536407	inCount:0	outCount:2	links:	url:C536407	name:Neuhauser Eichner Opitz syndrome	normalName:neuhauser eichner opitz syndrome	normalWikiTitle:neuhauser eichner opitz syndrome	predictedType:Disease
+ENTITY	text:hyponatremia	normalName:hyponatremia	predictedType:disease	q:true	qid:Q317	docId:24234943	origText:hyponatremia	url:D007010
+CANDIDATE	id:7010	inCount:1	outCount:1	links:1008;9325;3221;7177;7010	url:D007010	name:Hyponatremia	normalName:hyponatremia	normalWikiTitle:hyponatremia	predictedType:Disease
+ENTITY	text:syndrome of inappropriate anti-diuretic hormone	normalName:syndrome of inappropriate anti-diuretic hormone	predictedType:disease	q:true	qid:Q317	docId:24234943	origText:syndrome of inappropriate anti-diuretic hormone	url:D007177
+CANDIDATE	id:7177	inCount:1	outCount:2	links:1008;9325;3221;7177;7010	url:D007177	name:Antidiuretic Hormone, Inappropriate Secretion	normalName:antidiuretic hormone, inappropriate secretion	normalWikiTitle:antidiuretic hormone, inappropriate secretion	predictedType:Disease
+CANDIDATE	id:564491	inCount:0	outCount:2	links:564491	url:C564491	name:Nephrogenic Syndrome of Inappropriate Antidiuresis	normalName:nephrogenic syndrome of inappropriate antidiuresis	normalWikiTitle:nephrogenic syndrome of inappropriate antidiuresis	predictedType:Disease
+CANDIDATE	id:7177	inCount:1	outCount:2	links:1008;9325;3221;7177;7010	url:D007177	name:Inappropriate ADH Syndrome	normalName:inappropriate adh syndrome	normalWikiTitle:inappropriate adh syndrome	predictedType:Disease
+CANDIDATE	id:565926	inCount:0	outCount:3	links:565926	url:C565926	name:Atonic-Astatic Syndrome of Foerster	normalName:atonic-astatic syndrome of foerster	normalWikiTitle:atonic-astatic syndrome of foerster	predictedType:Disease
+CANDIDATE	id:55501	inCount:0	outCount:1	links:55501	url:D055501	name:Macrophage Activation Syndrome	normalName:macrophage activation syndrome	normalWikiTitle:macrophage activation syndrome	predictedType:Disease
+CANDIDATE	id:536299	inCount:0	outCount:4	links:536299	url:C536299	name:Partington Anderson syndrome	normalName:partington anderson syndrome	normalWikiTitle:partington anderson syndrome	predictedType:Disease
+CANDIDATE	id:61325	inCount:0	outCount:3	links:61325	url:D061325	name:Hereditary Breast and Ovarian Cancer Syndrome	normalName:hereditary breast and ovarian cancer syndrome	normalWikiTitle:hereditary breast and ovarian cancer syndrome	predictedType:Disease
+CANDIDATE	id:535950	inCount:0	outCount:1	links:535950	url:C535950	name:Dianzani autoimmune lymphoproliferative syndrome	normalName:dianzani autoimmune lymphoproliferative syndrome	normalWikiTitle:dianzani autoimmune lymphoproliferative syndrome	predictedType:Disease
+CANDIDATE	id:12128	inCount:0	outCount:2	links:	url:D012128	name:Respiratory Distress Syndrome, Adult	normalName:respiratory distress syndrome, adult	normalWikiTitle:respiratory distress syndrome, adult	predictedType:Disease
+CANDIDATE	id:56735	inCount:7	outCount:3	links:56735	url:D056735	name:Autoimmune Lymphoproliferative Syndrome	normalName:autoimmune lymphoproliferative syndrome	normalWikiTitle:autoimmune lymphoproliferative syndrome	predictedType:Disease
+CANDIDATE	id:72736	inCount:0	outCount:1	links:	url:D000072736	name:Propofol Infusion Syndrome	normalName:propofol infusion syndrome	normalWikiTitle:propofol infusion syndrome	predictedType:Disease

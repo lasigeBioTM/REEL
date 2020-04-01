@@ -1,0 +1,27 @@
+ENTITY	text:impaired memory performance	normalName:impaired memory performance	predictedType:disease	q:true	qid:Q271	docId:15229250	origText:impaired memory performance	url:D008569
+CANDIDATE	id:8569	inCount:2	outCount:1	links:1930	url:D008569	name:Semantic Memory Disorders	normalName:semantic memory disorders	normalWikiTitle:semantic memory disorders	predictedType:Disease
+CANDIDATE	id:562397	inCount:0	outCount:1	links:	url:C562397	name:Hymen, Imperforate	normalName:hymen, imperforate	normalWikiTitle:hymen, imperforate	predictedType:Disease
+CANDIDATE	id:18058	inCount:0	outCount:2	links:	url:D018058	name:Tympanic Membrane Perforation	normalName:tympanic membrane perforation	normalWikiTitle:tympanic membrane perforation	predictedType:Disease
+CANDIDATE	id:19773	inCount:0	outCount:1	links:	url:D019773	name:Epiretinal Membrane	normalName:epiretinal membrane	normalWikiTitle:epiretinal membrane	predictedType:Disease
+CANDIDATE	id:45745	inCount:1	outCount:1	links:	url:D045745	name:Scleroderma, Limited	normalName:scleroderma, limited	normalWikiTitle:scleroderma, limited	predictedType:Disease
+CANDIDATE	id:538174	inCount:0	outCount:1	links:	url:C538174	name:Acquired hypoprothrombinemia	normalName:acquired hypoprothrombinemia	normalWikiTitle:acquired hypoprothrombinemia	predictedType:Disease
+CANDIDATE	id:1006	inCount:19	outCount:1	links:	url:D001006	name:Anus, Imperforate	normalName:anus, imperforate	normalWikiTitle:anus, imperforate	predictedType:Disease
+CANDIDATE	id:16472	inCount:8	outCount:2	links:	url:D016472	name:Motor Neuron Disease	normalName:motor neuron disease	normalWikiTitle:motor neuron disease	predictedType:Disease
+CANDIDATE	id:615703	inCount:0	outCount:2	links:	url:615703	name:MORBID OBESITY AND SPERMATOGENIC FAILURE	normalName:morbid obesity and spermatogenic failure	normalWikiTitle:morbid obesity and spermatogenic failure	predictedType:Disease
+CANDIDATE	id:564731	inCount:0	outCount:1	links:	url:C564731	name:Xeroderma Pigmentosum IX	normalName:xeroderma pigmentosum ix	normalWikiTitle:xeroderma pigmentosum ix	predictedType:Disease
+CANDIDATE	id:10439	inCount:0	outCount:1	links:	url:D010439	name:Peptic Ulcer Perforation	normalName:peptic ulcer perforation	normalWikiTitle:peptic ulcer perforation	predictedType:Disease
+CANDIDATE	id:8569	inCount:2	outCount:1	links:1930	url:D008569	name:Semantic Memory Disorder	normalName:semantic memory disorder	normalWikiTitle:semantic memory disorder	predictedType:Disease
+CANDIDATE	id:8569	inCount:2	outCount:1	links:1930	url:D008569	name:Memory Disorder, Semantic	normalName:memory disorder, semantic	normalWikiTitle:memory disorder, semantic	predictedType:Disease
+CANDIDATE	id:8569	inCount:2	outCount:1	links:1930	url:D008569	name:Memory Disorders, Semantic	normalName:memory disorders, semantic	normalWikiTitle:memory disorders, semantic	predictedType:Disease
+CANDIDATE	id:18149	inCount:0	outCount:1	links:	url:D018149	name:Tolerance, Impaired Glucose	normalName:tolerance, impaired glucose	normalWikiTitle:tolerance, impaired glucose	predictedType:Disease
+CANDIDATE	id:18149	inCount:0	outCount:1	links:	url:D018149	name:Impaired Glucose Tolerance	normalName:impaired glucose tolerance	normalWikiTitle:impaired glucose tolerance	predictedType:Disease
+CANDIDATE	id:18149	inCount:0	outCount:1	links:	url:D018149	name:Glucose Tolerance, Impaired	normalName:glucose tolerance, impaired	normalWikiTitle:glucose tolerance, impaired	predictedType:Disease
+CANDIDATE	id:18149	inCount:0	outCount:1	links:	url:D018149	name:Impaired Glucose Tolerances	normalName:impaired glucose tolerances	normalWikiTitle:impaired glucose tolerances	predictedType:Disease
+CANDIDATE	id:648	inCount:0	outCount:1	links:	url:D000648	name:Memory Losses, Retrograde	normalName:memory losses, retrograde	normalWikiTitle:memory losses, retrograde	predictedType:Disease
+CANDIDATE	id:18149	inCount:0	outCount:1	links:	url:D018149	name:Glucose Tolerances, Impaired	normalName:glucose tolerances, impaired	normalWikiTitle:glucose tolerances, impaired	predictedType:Disease
+ENTITY	text:brain injury	normalName:brain injury	predictedType:disease	q:true	qid:Q271	docId:15229250	origText:brain injury	url:D001930
+CANDIDATE	id:1930	inCount:7	outCount:2	links:8569	url:D001930	name:Brain Injury	normalName:brain injury	normalWikiTitle:brain injury	predictedType:Disease
+ENTITY	text:gliosis	normalName:gliosis	predictedType:disease	q:true	qid:Q271	docId:15229250	origText:gliosis	url:D005911
+CANDIDATE	id:5911	inCount:0	outCount:1	links:	url:D005911	name:Gliosis	normalName:gliosis	normalWikiTitle:gliosis	predictedType:Disease
+ENTITY	text:hypertrophy	normalName:hypertrophy	predictedType:disease	q:true	qid:Q271	docId:15229250	origText:hypertrophy	url:D006984
+CANDIDATE	id:6984	inCount:9	outCount:1	links:	url:D006984	name:Hypertrophy	normalName:hypertrophy	normalWikiTitle:hypertrophy	predictedType:Disease

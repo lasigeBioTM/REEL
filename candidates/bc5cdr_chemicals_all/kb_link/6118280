@@ -1,0 +1,20 @@
+ENTITY	text:baclofen	normalName:baclofen	predictedType:chemical	q:true	qid:Q115	docId:6118280	origText:baclofen	url:D001418
+CANDIDATE	id:1418	inCount:11	outCount:1	links:	url:D001418	name:Baclofen	normalName:baclofen	normalWikiTitle:baclofen	predictedType:Chemical
+ENTITY	text:muscimol	normalName:muscimol	predictedType:chemical	q:true	qid:Q115	docId:6118280	origText:muscimol	url:D009118
+CANDIDATE	id:9118	inCount:6	outCount:2	links:	url:D009118	name:Muscimol	normalName:muscimol	normalWikiTitle:muscimol	predictedType:Chemical
+ENTITY	text:diazepam	normalName:diazepam	predictedType:chemical	q:true	qid:Q115	docId:6118280	origText:diazepam	url:D003975
+CANDIDATE	id:3975	inCount:21	outCount:1	links:	url:D003975	name:Diazepam	normalName:diazepam	normalWikiTitle:diazepam	predictedType:Chemical
+ENTITY	text:serotonin	normalName:serotonin	predictedType:chemical	q:true	qid:Q115	docId:6118280	origText:serotonin	url:D012701
+CANDIDATE	id:12701	inCount:48	outCount:2	links:	url:D012701	name:Serotonin	normalName:serotonin	normalWikiTitle:serotonin	predictedType:Chemical
+ENTITY	text:5-HTP	normalName:5-htp	predictedType:chemical	q:true	qid:Q115	docId:6118280	origText:5-HTP	url:D006916
+CANDIDATE	id:6916	inCount:11	outCount:1	links:6916	url:D006916	name:5-HTP	normalName:5-htp	normalWikiTitle:5-htp	predictedType:Chemical
+ENTITY	text:l-dopa	normalName:l-dopa	predictedType:chemical	q:true	qid:Q115	docId:6118280	origText:l-dopa	url:D007980
+CANDIDATE	id:7980	inCount:32	outCount:1	links:	url:D007980	name:L-Dopa	normalName:l-dopa	normalWikiTitle:l-dopa	predictedType:Chemical
+ENTITY	text:clonazepam	normalName:clonazepam	predictedType:chemical	q:true	qid:Q115	docId:6118280	origText:clonazepam	url:D002998
+CANDIDATE	id:2998	inCount:5	outCount:1	links:	url:D002998	name:Clonazepam	normalName:clonazepam	normalWikiTitle:clonazepam	predictedType:Chemical
+ENTITY	text:5-hydroxytryptophan	normalName:5-hydroxytryptophan	predictedType:chemical	q:true	qid:Q115	docId:6118280	origText:5-hydroxytryptophan	url:D006916
+CANDIDATE	id:6916	inCount:11	outCount:1	links:6916	url:D006916	name:5-Hydroxytryptophan	normalName:5-hydroxytryptophan	normalWikiTitle:5-hydroxytryptophan	predictedType:Chemical
+ENTITY	text:MK-212	normalName:mk-212	predictedType:chemical	q:true	qid:Q115	docId:6118280	origText:MK-212	url:C014896
+CANDIDATE	id:14896	inCount:0	outCount:1	links:	url:C014896	name:MK 212	normalName:mk 212	normalWikiTitle:mk 212	predictedType:Chemical
+ENTITY	text:benzodiazepines	normalName:benzodiazepines	predictedType:chemical	q:true	qid:Q115	docId:6118280	origText:benzodiazepines	url:D001569
+CANDIDATE	id:1569	inCount:260	outCount:1	links:	url:D001569	name:Benzodiazepine	normalName:benzodiazepine	normalWikiTitle:benzodiazepine	predictedType:Chemical

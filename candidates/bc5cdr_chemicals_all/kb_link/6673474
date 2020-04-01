@@ -1,0 +1,6 @@
+ENTITY	text:trimetaphan	normalName:trimetaphan	predictedType:chemical	q:true	qid:Q1468	docId:6673474	origText:trimetaphan	url:D014294
+CANDIDATE	id:14294	inCount:2	outCount:1	links:	url:D014294	name:Trimetaphan	normalName:trimetaphan	normalWikiTitle:trimetaphan	predictedType:Chemical
+ENTITY	text:sodium nitroprusside	normalName:sodium nitroprusside	predictedType:chemical	q:true	qid:Q1468	docId:6673474	origText:sodium nitroprusside	url:D009599
+CANDIDATE	id:9599	inCount:2	outCount:1	links:9599	url:D009599	name:Sodium Nitroprusside	normalName:sodium nitroprusside	normalWikiTitle:sodium nitroprusside	predictedType:Chemical
+ENTITY	text:nitroprusside	normalName:nitroprusside	predictedType:chemical	q:true	qid:Q1468	docId:6673474	origText:nitroprusside	url:D009599
+CANDIDATE	id:9599	inCount:2	outCount:1	links:9599	url:D009599	name:Nitroprusside	normalName:nitroprusside	normalWikiTitle:nitroprusside	predictedType:Chemical

@@ -1,0 +1,33 @@
+ENTITY	text:lung cancer	normalName:lung cancer	predictedType:disease	q:true	qid:Q156	docId:26033014	origText:lung cancer	url:D008175
+CANDIDATE	id:8175	inCount:12	outCount:2	links:	url:D008175	name:Cancer, Lung	normalName:cancer, lung	normalWikiTitle:cancer, lung	predictedType:Disease
+ENTITY	text:cancers	normalName:cancers	predictedType:disease	q:true	qid:Q156	docId:26033014	origText:cancers	url:D009369
+CANDIDATE	id:9369	inCount:18	outCount:1	links:9369	url:D009369	name:Cancer	normalName:cancer	normalWikiTitle:cancer	predictedType:Disease
+ENTITY	text:follicular cell lymphoma	normalName:follicular cell lymphoma	predictedType:disease	q:true	qid:Q156	docId:26033014	origText:follicular cell lymphoma	url:D008224
+CANDIDATE	id:8224	inCount:0	outCount:1	links:	url:D008224	name:Lymphoma, Follicular Large Cell	normalName:lymphoma, follicular large cell	normalWikiTitle:lymphoma, follicular large cell	predictedType:Disease
+CANDIDATE	id:8224	inCount:0	outCount:1	links:	url:D008224	name:Lymphoma, Follicular	normalName:lymphoma, follicular	normalWikiTitle:lymphoma, follicular	predictedType:Disease
+CANDIDATE	id:16400	inCount:0	outCount:1	links:	url:D016400	name:Lymphoma, Large-Cell, Immunoblastic	normalName:lymphoma, large-cell, immunoblastic	normalWikiTitle:lymphoma, large-cell, immunoblastic	predictedType:Disease
+CANDIDATE	id:16403	inCount:1	outCount:1	links:	url:D016403	name:Lymphoma, Large B-Cell, Diffuse	normalName:lymphoma, large b-cell, diffuse	normalWikiTitle:lymphoma, large b-cell, diffuse	predictedType:Disease
+CANDIDATE	id:16410	inCount:4	outCount:1	links:	url:D016410	name:Lymphoma, T-Cell, Cutaneous	normalName:lymphoma, t-cell, cutaneous	normalWikiTitle:lymphoma, t-cell, cutaneous	predictedType:Disease
+CANDIDATE	id:64090	inCount:0	outCount:2	links:	url:D064090	name:Intraocular Lymphoma	normalName:intraocular lymphoma	normalWikiTitle:intraocular lymphoma	predictedType:Disease
+CANDIDATE	id:16399	inCount:7	outCount:1	links:	url:D016399	name:Lymphoma, T-Cell	normalName:lymphoma, t-cell	normalWikiTitle:lymphoma, t-cell	predictedType:Disease
+CANDIDATE	id:54740	inCount:0	outCount:1	links:	url:D054740	name:Dendritic Cell Sarcoma, Follicular	normalName:dendritic cell sarcoma, follicular	normalWikiTitle:dendritic cell sarcoma, follicular	predictedType:Disease
+CANDIDATE	id:16393	inCount:6	outCount:1	links:	url:D016393	name:Lymphoma, B-Cell	normalName:lymphoma, b-cell	normalWikiTitle:lymphoma, b-cell	predictedType:Disease
+CANDIDATE	id:572845	inCount:0	outCount:1	links:	url:C572845	name:Thyroid cancer, follicular	normalName:thyroid cancer, follicular	normalWikiTitle:thyroid cancer, follicular	predictedType:Disease
+CANDIDATE	id:15459	inCount:0	outCount:1	links:	url:D015459	name:Leukemia-Lymphoma, Adult T-Cell	normalName:leukemia-lymphoma, adult t-cell	normalWikiTitle:leukemia-lymphoma, adult t-cell	predictedType:Disease
+CANDIDATE	id:8224	inCount:0	outCount:1	links:	url:D008224	name:Lymphoma, Large Cell, Follicular	normalName:lymphoma, large cell, follicular	normalWikiTitle:lymphoma, large cell, follicular	predictedType:Disease
+CANDIDATE	id:8224	inCount:0	outCount:1	links:	url:D008224	name:Follicular Large-Cell Lymphoma	normalName:follicular large-cell lymphoma	normalWikiTitle:follicular large-cell lymphoma	predictedType:Disease
+CANDIDATE	id:8224	inCount:0	outCount:1	links:	url:D008224	name:Lymphoma, Follicular Mixed-Cell	normalName:lymphoma, follicular mixed-cell	normalWikiTitle:lymphoma, follicular mixed-cell	predictedType:Disease
+CANDIDATE	id:8224	inCount:0	outCount:1	links:	url:D008224	name:Mixed Cell Lymphoma, Follicular	normalName:mixed cell lymphoma, follicular	normalWikiTitle:mixed cell lymphoma, follicular	predictedType:Disease
+CANDIDATE	id:8224	inCount:0	outCount:1	links:	url:D008224	name:Large-Cell Lymphoma, Follicular	normalName:large-cell lymphoma, follicular	normalWikiTitle:large-cell lymphoma, follicular	predictedType:Disease
+CANDIDATE	id:8224	inCount:0	outCount:1	links:	url:D008224	name:Lymphoma, Follicular, Mixed Cell	normalName:lymphoma, follicular, mixed cell	normalWikiTitle:lymphoma, follicular, mixed cell	predictedType:Disease
+CANDIDATE	id:8224	inCount:0	outCount:1	links:	url:D008224	name:Large Cell Lymphoma, Follicular	normalName:large cell lymphoma, follicular	normalWikiTitle:large cell lymphoma, follicular	predictedType:Disease
+CANDIDATE	id:8224	inCount:0	outCount:1	links:	url:D008224	name:Follicular Mixed-Cell Lymphoma	normalName:follicular mixed-cell lymphoma	normalWikiTitle:follicular mixed-cell lymphoma	predictedType:Disease
+CANDIDATE	id:8224	inCount:0	outCount:1	links:	url:D008224	name:Follicular Large Cell Lymphoma	normalName:follicular large cell lymphoma	normalWikiTitle:follicular large cell lymphoma	predictedType:Disease
+ENTITY	text:liver cancer	normalName:liver cancer	predictedType:disease	q:true	qid:Q156	docId:26033014	origText:liver cancer	url:D008113
+CANDIDATE	id:8113	inCount:5	outCount:2	links:8113	url:D008113	name:Cancer, Liver	normalName:cancer, liver	normalWikiTitle:cancer, liver	predictedType:Disease
+ENTITY	text:liver neoplasms	normalName:liver neoplasms	predictedType:disease	q:true	qid:Q156	docId:26033014	origText:liver neoplasms	url:D008113
+CANDIDATE	id:8113	inCount:5	outCount:2	links:8113	url:D008113	name:Liver Neoplasms	normalName:liver neoplasms	normalWikiTitle:liver neoplasms	predictedType:Disease
+ENTITY	text:lymphoma	normalName:lymphoma	predictedType:disease	q:true	qid:Q156	docId:26033014	origText:lymphoma	url:D008223
+CANDIDATE	id:8223	inCount:8	outCount:2	links:	url:D008223	name:Lymphoma	normalName:lymphoma	normalWikiTitle:lymphoma	predictedType:Disease
+ENTITY	text:Cancer	normalName:cancer	predictedType:disease	q:true	qid:Q156	docId:26033014	origText:Cancer	url:D009369
+CANDIDATE	id:9369	inCount:18	outCount:1	links:9369	url:D009369	name:Cancer	normalName:cancer	normalWikiTitle:cancer	predictedType:Disease

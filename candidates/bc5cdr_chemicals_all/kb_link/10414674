@@ -1,0 +1,6 @@
+ENTITY	text:acetaminophen	normalName:acetaminophen	predictedType:chemical	q:true	qid:Q359	docId:10414674	origText:acetaminophen	url:D000082
+CANDIDATE	id:82	inCount:89	outCount:1	links:	url:D000082	name:Acetaminophen	normalName:acetaminophen	normalWikiTitle:acetaminophen	predictedType:Chemical
+ENTITY	text:ketoprofen	normalName:ketoprofen	predictedType:chemical	q:true	qid:Q359	docId:10414674	origText:ketoprofen	url:D007660
+CANDIDATE	id:7660	inCount:9	outCount:1	links:	url:D007660	name:Ketoprofen	normalName:ketoprofen	normalWikiTitle:ketoprofen	predictedType:Chemical
+ENTITY	text:adenosine diphosphate	normalName:adenosine diphosphate	predictedType:chemical	q:true	qid:Q359	docId:10414674	origText:adenosine diphosphate	url:D000244
+CANDIDATE	id:244	inCount:93	outCount:1	links:	url:D000244	name:Adenosine Diphosphate	normalName:adenosine diphosphate	normalWikiTitle:adenosine diphosphate	predictedType:Chemical

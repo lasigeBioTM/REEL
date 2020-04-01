@@ -1,0 +1,36 @@
+ENTITY	text:L-NAME	normalName:l-name	predictedType:chemical	q:true	qid:Q54	docId:16298782	origText:L-NAME	url:D019331
+CANDIDATE	id:19331	inCount:0	outCount:1	links:19331	url:D019331	name:L-NAME	normalName:l-name	normalWikiTitle:l-name	predictedType:Chemical
+ENTITY	text:Nitro-L-arginine methyl ester	normalName:nitro-l-arginine methyl ester	predictedType:chemical	q:true	qid:Q54	docId:16298782	origText:Nitro-L-arginine methyl ester	url:D019331
+CANDIDATE	id:19331	inCount:0	outCount:1	links:19331	url:D019331	name:N(omega)-Nitro-L-arginine Methyl Ester	normalName:n(omega)-nitro-l-arginine methyl ester	normalWikiTitle:n(omega)-nitro-l-arginine methyl ester	predictedType:Chemical
+CANDIDATE	id:26512	inCount:0	outCount:1	links:	url:C026512	name:arginine methyl ester	normalName:arginine methyl ester	normalWikiTitle:arginine methyl ester	predictedType:Chemical
+CANDIDATE	id:489258	inCount:0	outCount:1	links:	url:C489258	name:arginine ethyl ester	normalName:arginine ethyl ester	normalWikiTitle:arginine ethyl ester	predictedType:Chemical
+CANDIDATE	id:632344	inCount:0	outCount:1	links:	url:C000632344	name:N-methyl-l-tyrosine-l-arginine	normalName:n-methyl-l-tyrosine-l-arginine	normalWikiTitle:n-methyl-l-tyrosine-l-arginine	predictedType:Chemical
+CANDIDATE	id:12208	inCount:0	outCount:1	links:	url:C012208	name:benzoyl L-arginine methyl ester	normalName:benzoyl l-arginine methyl ester	normalWikiTitle:benzoyl l-arginine methyl ester	predictedType:Chemical
+CANDIDATE	id:14247	inCount:0	outCount:1	links:	url:C014247	name:pepstatyl-arginine methyl ester	normalName:pepstatyl-arginine methyl ester	normalWikiTitle:pepstatyl-arginine methyl ester	predictedType:Chemical
+CANDIDATE	id:14662	inCount:0	outCount:1	links:	url:C014662	name:N beta-methyl-beta-arginine	normalName:n beta-methyl-beta-arginine	normalWikiTitle:n beta-methyl-beta-arginine	predictedType:Chemical
+CANDIDATE	id:23645	inCount:0	outCount:1	links:	url:C023645	name:dansylarginine methyl ester	normalName:dansylarginine methyl ester	normalWikiTitle:dansylarginine methyl ester	predictedType:Chemical
+CANDIDATE	id:45953	inCount:0	outCount:1	links:	url:C045953	name:benzylarginine ethyl ester	normalName:benzylarginine ethyl ester	normalWikiTitle:benzylarginine ethyl ester	predictedType:Chemical
+CANDIDATE	id:408743	inCount:0	outCount:1	links:	url:C408743	name:arginine octyl ester	normalName:arginine octyl ester	normalWikiTitle:arginine octyl ester	predictedType:Chemical
+CANDIDATE	id:68145	inCount:0	outCount:1	links:	url:C068145	name:alanine methyl ester	normalName:alanine methyl ester	normalWikiTitle:alanine methyl ester	predictedType:Chemical
+CANDIDATE	id:19331	inCount:0	outCount:1	links:19331	url:D019331	name:NG-Nitro-L-Arginine Methyl Ester	normalName:ng-nitro-l-arginine methyl ester	normalWikiTitle:ng-nitro-l-arginine methyl ester	predictedType:Chemical
+CANDIDATE	id:19331	inCount:0	outCount:1	links:19331	url:D019331	name:Methyl Ester, NG-Nitro-L-Arginine	normalName:methyl ester, ng-nitro-l-arginine	normalWikiTitle:methyl ester, ng-nitro-l-arginine	predictedType:Chemical
+CANDIDATE	id:19331	inCount:0	outCount:1	links:19331	url:D019331	name:NG Nitro L Arginine Methyl Ester	normalName:ng nitro l arginine methyl ester	normalWikiTitle:ng nitro l arginine methyl ester	predictedType:Chemical
+CANDIDATE	id:19331	inCount:0	outCount:1	links:19331	url:D019331	name:N(G)-Nitro-L-arginine Methyl Ester	normalName:n(g)-nitro-l-arginine methyl ester	normalWikiTitle:n(g)-nitro-l-arginine methyl ester	predictedType:Chemical
+CANDIDATE	id:26512	inCount:0	outCount:1	links:	url:C026512	name:L-arginine, methyl ester	normalName:l-arginine, methyl ester	normalWikiTitle:l-arginine, methyl ester	predictedType:Chemical
+CANDIDATE	id:19331	inCount:0	outCount:1	links:19331	url:D019331	name:N omega-Nitro-L-arginine Methyl Ester	normalName:n omega-nitro-l-arginine methyl ester	normalWikiTitle:n omega-nitro-l-arginine methyl ester	predictedType:Chemical
+CANDIDATE	id:19331	inCount:0	outCount:1	links:19331	url:D019331	name:N omega Nitro L arginine Methyl Ester	normalName:n omega nitro l arginine methyl ester	normalWikiTitle:n omega nitro l arginine methyl ester	predictedType:Chemical
+ENTITY	text:nitric oxide	normalName:nitric oxide	predictedType:chemical	q:true	qid:Q54	docId:16298782	origText:nitric oxide	url:D009569
+CANDIDATE	id:9569	inCount:13	outCount:3	links:	url:D009569	name:Nitric Oxide	normalName:nitric oxide	normalWikiTitle:nitric oxide	predictedType:Chemical
+ENTITY	text:gentamicin	normalName:gentamicin	predictedType:chemical	q:true	qid:Q54	docId:16298782	origText:gentamicin	url:D005839
+CANDIDATE	id:5839	inCount:33	outCount:1	links:	url:D005839	name:Gentamicin	normalName:gentamicin	normalWikiTitle:gentamicin	predictedType:Chemical
+ENTITY	text:Aminoglycoside	normalName:aminoglycoside	predictedType:chemical	q:true	qid:Q54	docId:16298782	origText:Aminoglycoside	url:D000617
+CANDIDATE	id:617	inCount:339	outCount:1	links:	url:D000617	name:Aminoglycosides	normalName:aminoglycosides	normalWikiTitle:aminoglycosides	predictedType:Chemical
+CANDIDATE	id:572445	inCount:0	outCount:2	links:	url:C572445	name:aminoglycoside NB84	normalName:aminoglycoside nb84	normalWikiTitle:aminoglycoside nb84	predictedType:Chemical
+CANDIDATE	id:20970	inCount:0	outCount:1	links:	url:C020970	name:aminoglycogen	normalName:aminoglycogen	normalWikiTitle:aminoglycogen	predictedType:Chemical
+CANDIDATE	id:15614	inCount:0	outCount:1	links:	url:C015614	name:aminoglycoside 66-40C	normalName:aminoglycoside 66-40c	normalWikiTitle:aminoglycoside 66-40c	predictedType:Chemical
+CANDIDATE	id:5351	inCount:0	outCount:1	links:	url:C005351	name:1-aminoglucose	normalName:1-aminoglucose	normalWikiTitle:1-aminoglucose	predictedType:Chemical
+CANDIDATE	id:13865	inCount:33	outCount:2	links:	url:D013865	name:Thioglycosides	normalName:thioglycosides	normalWikiTitle:thioglycosides	predictedType:Chemical
+CANDIDATE	id:87807	inCount:0	outCount:1	links:	url:C087807	name:daucoglycoside	normalName:daucoglycoside	normalWikiTitle:daucoglycoside	predictedType:Chemical
+CANDIDATE	id:33013	inCount:0	outCount:1	links:	url:C033013	name:iminoglycine	normalName:iminoglycine	normalWikiTitle:iminoglycine	predictedType:Chemical
+CANDIDATE	id:507900	inCount:0	outCount:1	links:	url:C507900	name:diaminoglyoxime	normalName:diaminoglyoxime	normalWikiTitle:diaminoglyoxime	predictedType:Chemical
+CANDIDATE	id:51618	inCount:0	outCount:1	links:	url:C051618	name:mycoside A	normalName:mycoside a	normalWikiTitle:mycoside a	predictedType:Chemical

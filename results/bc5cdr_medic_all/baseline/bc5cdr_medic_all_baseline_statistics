@@ -1,0 +1,15 @@
+
+Number of documents: 1497
+Total entities: 12617
+NILs: 109
+Valid entities: 12508
+ % of valid entities: 99.13608623286042
+
+Total unique entities: 6953
+Entities w/ solution: 5430
+Entities w/o solution (FN): 1523
+Wrong Disambiguations (FP): 940
+Correct disambiguations (TP): 4490
+Precision: 0.8268876611418048
+Recall: 0.7467154498586396
+Micro-F1 score: 0.7847592414576597

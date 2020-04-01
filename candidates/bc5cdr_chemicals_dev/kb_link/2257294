@@ -1,0 +1,15 @@
+ENTITY	text:azidothymidine	normalName:azidothymidine	predictedType:chemical	q:true	qid:Q284	docId:2257294	origText:azidothymidine	url:D015215
+CANDIDATE	id:15215	inCount:86	outCount:2	links:	url:D015215	name:Azidothymidine	normalName:azidothymidine	normalWikiTitle:azidothymidine	predictedType:Chemical
+ENTITY	text:Benzylacyclouridine	normalName:benzylacyclouridine	predictedType:chemical	q:true	qid:Q284	docId:2257294	origText:Benzylacyclouridine	url:C034753
+CANDIDATE	id:34753	inCount:0	outCount:1	links:	url:C034753	name:5-benzylacyclouridine	normalName:5-benzylacyclouridine	normalWikiTitle:5-benzylacyclouridine	predictedType:Chemical
+CANDIDATE	id:34754	inCount:0	outCount:1	links:	url:C034754	name:5-benzyloxybenzylacyclouridine	normalName:5-benzyloxybenzylacyclouridine	normalWikiTitle:5-benzyloxybenzylacyclouridine	predictedType:Chemical
+CANDIDATE	id:91204	inCount:0	outCount:1	links:	url:C091204	name:benzoylcyclothialidine	normalName:benzoylcyclothialidine	normalWikiTitle:benzoylcyclothialidine	predictedType:Chemical
+CANDIDATE	id:412508	inCount:0	outCount:1	links:	url:C412508	name:5-phenylthioacyclouridine	normalName:5-phenylthioacyclouridine	normalWikiTitle:5-phenylthioacyclouridine	predictedType:Chemical
+CANDIDATE	id:7208	inCount:0	outCount:1	links:	url:C007208	name:cyclouridine	normalName:cyclouridine	normalWikiTitle:cyclouridine	predictedType:Chemical
+CANDIDATE	id:21292	inCount:0	outCount:1	links:	url:C021292	name:benzyl chloride	normalName:benzyl chloride	normalWikiTitle:benzyl chloride	predictedType:Chemical
+CANDIDATE	id:74929	inCount:0	outCount:2	links:	url:C074929	name:3-benzylpyridine	normalName:3-benzylpyridine	normalWikiTitle:3-benzylpyridine	predictedType:Chemical
+CANDIDATE	id:74927	inCount:0	outCount:1	links:	url:C074927	name:4-benzylpyridine	normalName:4-benzylpyridine	normalWikiTitle:4-benzylpyridine	predictedType:Chemical
+CANDIDATE	id:576649	inCount:0	outCount:1	links:	url:C576649	name:benzocyclobutadiene	normalName:benzocyclobutadiene	normalWikiTitle:benzocyclobutadiene	predictedType:Chemical
+CANDIDATE	id:528776	inCount:0	outCount:1	links:	url:C528776	name:4-benzylthiouridine	normalName:4-benzylthiouridine	normalWikiTitle:4-benzylthiouridine	predictedType:Chemical
+ENTITY	text:uridine	normalName:uridine	predictedType:chemical	q:true	qid:Q284	docId:2257294	origText:uridine	url:D014529
+CANDIDATE	id:14529	inCount:205	outCount:2	links:	url:D014529	name:Uridine	normalName:uridine	normalWikiTitle:uridine	predictedType:Chemical

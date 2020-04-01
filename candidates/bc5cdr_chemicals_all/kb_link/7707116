@@ -1,0 +1,4 @@
+ENTITY	text:calcium	normalName:calcium	predictedType:chemical	q:true	qid:Q268	docId:7707116	origText:calcium	url:D002118
+CANDIDATE	id:2118	inCount:11	outCount:2	links:	url:D002118	name:Calcium	normalName:calcium	normalWikiTitle:calcium	predictedType:Chemical
+ENTITY	text:13-cis-retinoic acid	normalName:13-cis-retinoic acid	predictedType:chemical	q:true	qid:Q268	docId:7707116	origText:13-cis-retinoic acid	url:D015474
+CANDIDATE	id:15474	inCount:3	outCount:1	links:	url:D015474	name:Retinoic acid, 13-cis-	normalName:retinoic acid, 13-cis-	normalWikiTitle:retinoic acid, 13-cis-	predictedType:Chemical

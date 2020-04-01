@@ -1,0 +1,20 @@
+ENTITY	text:thiotepa	normalName:thiotepa	predictedType:chemical	q:true	qid:Q819	docId:2131034	origText:thiotepa	url:D013852
+CANDIDATE	id:13852	inCount:23	outCount:2	links:13852;3561;8727	url:D013852	name:Thiotepa	normalName:thiotepa	normalWikiTitle:thiotepa	predictedType:Chemical
+ENTITY	text:ara-C	normalName:ara-c	predictedType:chemical	q:true	qid:Q819	docId:2131034	origText:ara-C	url:D003561
+CANDIDATE	id:3561	inCount:271	outCount:2	links:13852;3561;8727	url:D003561	name:Ara-C	normalName:ara-c	normalWikiTitle:ara-c	predictedType:Chemical
+ENTITY	text:TSPA	normalName:tspa	predictedType:chemical	q:true	qid:Q819	docId:2131034	origText:TSPA	url:D013852
+CANDIDATE	id:13852	inCount:23	outCount:2	links:13852;3561;8727	url:D013852	name:Tespa	normalName:tespa	normalWikiTitle:tespa	predictedType:Chemical
+CANDIDATE	id:110355	inCount:0	outCount:1	links:	url:C110355	name:TsKapa	normalName:tskapa	normalWikiTitle:tskapa	predictedType:Chemical
+CANDIDATE	id:32784	inCount:0	outCount:2	links:	url:C032784	name:SPAD	normalName:spad	normalWikiTitle:spad	predictedType:Chemical
+CANDIDATE	id:84029	inCount:0	outCount:3	links:	url:C084029	name:Tolpa	normalName:tolpa	normalWikiTitle:tolpa	predictedType:Chemical
+CANDIDATE	id:1750	inCount:0	outCount:1	links:	url:C001750	name:talsupram	normalName:talsupram	normalWikiTitle:talsupram	predictedType:Chemical
+CANDIDATE	id:12582	inCount:0	outCount:1	links:	url:C012582	name:tofisopam	normalName:tofisopam	normalWikiTitle:tofisopam	predictedType:Chemical
+CANDIDATE	id:38593	inCount:0	outCount:1	links:	url:C038593	name:Paspat	normalName:paspat	normalWikiTitle:paspat	predictedType:Chemical
+CANDIDATE	id:555641	inCount:0	outCount:1	links:	url:C555641	name:sparan	normalName:sparan	normalWikiTitle:sparan	predictedType:Chemical
+CANDIDATE	id:477810	inCount:0	outCount:2	links:	url:C477810	name:AZTp4A	normalName:aztp4a	normalWikiTitle:aztp4a	predictedType:Chemical
+CANDIDATE	id:36460	inCount:0	outCount:1	links:	url:C036460	name:metepa	normalName:metepa	normalWikiTitle:metepa	predictedType:Chemical
+CANDIDATE	id:530009	inCount:0	outCount:2	links:	url:C530009	name:KSPA-1	normalName:kspa-1	normalWikiTitle:kspa-1	predictedType:Chemical
+ENTITY	text:cytosine arabinoside	normalName:cytosine arabinoside	predictedType:chemical	q:true	qid:Q819	docId:2131034	origText:cytosine arabinoside	url:D003561
+CANDIDATE	id:3561	inCount:271	outCount:2	links:13852;3561;8727	url:D003561	name:Cytosine Arabinoside	normalName:cytosine arabinoside	normalWikiTitle:cytosine arabinoside	predictedType:Chemical
+ENTITY	text:methotrexate	normalName:methotrexate	predictedType:chemical	q:true	qid:Q819	docId:2131034	origText:methotrexate	url:D008727
+CANDIDATE	id:8727	inCount:364	outCount:1	links:13852;3561	url:D008727	name:Methotrexate	normalName:methotrexate	normalWikiTitle:methotrexate	predictedType:Chemical

@@ -1,0 +1,6 @@
+ENTITY	text:estrogen	normalName:estrogen	predictedType:chemical	q:true	qid:Q1309	docId:9214597	origText:estrogen	url:D004967
+CANDIDATE	id:4967	inCount:1	outCount:1	links:4967	url:D004967	name:Estrogen	normalName:estrogen	normalWikiTitle:estrogen	predictedType:Chemical
+ENTITY	text:Estrogens	normalName:estrogens	predictedType:chemical	q:true	qid:Q1309	docId:9214597	origText:Estrogens	url:D004967
+CANDIDATE	id:4967	inCount:1	outCount:1	links:4967	url:D004967	name:Estrogen	normalName:estrogen	normalWikiTitle:estrogen	predictedType:Chemical
+ENTITY	text:17beta-estradiol	normalName:17beta-estradiol	predictedType:chemical	q:true	qid:Q1309	docId:9214597	origText:17beta-estradiol	url:D004958
+CANDIDATE	id:4958	inCount:306	outCount:2	links:	url:D004958	name:Estradiol-17beta	normalName:estradiol-17beta	normalWikiTitle:estradiol-17beta	predictedType:Chemical

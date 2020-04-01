@@ -1,0 +1,4 @@
+ENTITY	text:HIV seroconversion	normalName:hiv seroconversion	predictedType:disease	q:true	qid:Q15	docId:19841052	origText:HIV seroconversion	url:D006679
+CANDIDATE	id:6679	inCount:0	outCount:1	links:	url:D006679	name:HIV Seroconversion	normalName:hiv seroconversion	normalWikiTitle:hiv seroconversion	predictedType:Disease
+ENTITY	text:HIV infection	normalName:hiv infection	predictedType:disease	q:true	qid:Q15	docId:19841052	origText:HIV infection	url:D015658
+CANDIDATE	id:15658	inCount:12	outCount:3	links:	url:D015658	name:Infection, HIV	normalName:infection, hiv	normalWikiTitle:infection, hiv	predictedType:Disease

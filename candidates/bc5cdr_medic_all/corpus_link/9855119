@@ -1,0 +1,4 @@
+ENTITY	text:focal segmental glomerulosclerosis	normalName:focal segmental glomerulosclerosis	predictedType:disease	q:true	qid:Q84	docId:9855119	origText:focal segmental glomerulosclerosis	url:D005923
+CANDIDATE	id:5923	inCount:3	outCount:1	links:	url:D005923	name:Glomerulosclerosis, Focal Segmental	normalName:glomerulosclerosis, focal segmental	normalWikiTitle:glomerulosclerosis, focal segmental	predictedType:Disease
+ENTITY	text:IgA nephropathy	normalName:iga nephropathy	predictedType:disease	q:true	qid:Q84	docId:9855119	origText:IgA nephropathy	url:D005922
+CANDIDATE	id:5922	inCount:1	outCount:2	links:	url:D005922	name:IGA Nephropathy	normalName:iga nephropathy	normalWikiTitle:iga nephropathy	predictedType:Disease

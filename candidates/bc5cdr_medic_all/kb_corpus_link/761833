@@ -1,0 +1,19 @@
+ENTITY	text:encephalopathic	normalName:encephalopathic	predictedType:disease	q:true	qid:Q885	docId:761833	origText:encephalopathic	url:D001927
+CANDIDATE	id:1927	inCount:55	outCount:1	links:3128	url:D001927	name:Encephalopathies	normalName:encephalopathies	normalWikiTitle:encephalopathies	predictedType:Disease
+CANDIDATE	id:6501	inCount:2	outCount:2	links:	url:D006501	name:Hepatic Encephalopathy	normalName:hepatic encephalopathy	normalWikiTitle:hepatic encephalopathy	predictedType:Disease
+CANDIDATE	id:14899	inCount:0	outCount:3	links:	url:D014899	name:Wernicke Encephalopathy	normalName:wernicke encephalopathy	normalWikiTitle:wernicke encephalopathy	predictedType:Disease
+CANDIDATE	id:56784	inCount:29	outCount:1	links:3128	url:D056784	name:Leukoencephalopathies	normalName:leukoencephalopathies	normalWikiTitle:leukoencephalopathies	predictedType:Disease
+CANDIDATE	id:4660	inCount:9	outCount:1	links:	url:D004660	name:Encephalitis	normalName:encephalitis	normalWikiTitle:encephalitis	predictedType:Disease
+CANDIDATE	id:535737	inCount:0	outCount:2	links:	url:C535737	name:Ethylmalonic encephalopathy	normalName:ethylmalonic encephalopathy	normalWikiTitle:ethylmalonic encephalopathy	predictedType:Disease
+CANDIDATE	id:4677	inCount:24	outCount:2	links:	url:D004677	name:Encephalocele	normalName:encephalocele	normalWikiTitle:encephalocele	predictedType:Disease
+CANDIDATE	id:4678	inCount:2	outCount:1	links:	url:D004678	name:Encephalomalacia	normalName:encephalomalacia	normalWikiTitle:encephalomalacia	predictedType:Disease
+CANDIDATE	id:538525	inCount:0	outCount:1	links:	url:C538525	name:Mitochondrial encephalopathy	normalName:mitochondrial encephalopathy	normalWikiTitle:mitochondrial encephalopathy	predictedType:Disease
+CANDIDATE	id:4679	inCount:3	outCount:2	links:	url:D004679	name:Encephalomyelitis	normalName:encephalomyelitis	normalWikiTitle:encephalomyelitis	predictedType:Disease
+CANDIDATE	id:53447	inCount:1	outCount:1	links:	url:D053447	name:Channelopathies	normalName:channelopathies	normalWikiTitle:channelopathies	predictedType:Disease
+CANDIDATE	id:1927	inCount:55	outCount:1	links:3128	url:D001927	name:Encephalopathy	normalName:encephalopathy	normalWikiTitle:encephalopathy	predictedType:Disease
+CANDIDATE	id:20258	inCount:7	outCount:2	links:	url:D020258	name:Toxic Encephalopathy	normalName:toxic encephalopathy	normalWikiTitle:toxic encephalopathy	predictedType:Disease
+CANDIDATE	id:20258	inCount:7	outCount:2	links:	url:D020258	name:Encephalopathy, Toxic	normalName:encephalopathy, toxic	normalWikiTitle:encephalopathy, toxic	predictedType:Disease
+CANDIDATE	id:15526	inCount:0	outCount:2	links:	url:D015526	name:HIV Encephalopathy	normalName:hiv encephalopathy	normalWikiTitle:hiv encephalopathy	predictedType:Disease
+CANDIDATE	id:15526	inCount:0	outCount:2	links:	url:D015526	name:Encephalopathy, HIV	normalName:encephalopathy, hiv	normalWikiTitle:encephalopathy, hiv	predictedType:Disease
+ENTITY	text:coma	normalName:coma	predictedType:disease	q:true	qid:Q885	docId:761833	origText:coma	url:D003128
+CANDIDATE	id:3128	inCount:3	outCount:1	links:56784;1927	url:D003128	name:Coma	normalName:coma	normalWikiTitle:coma	predictedType:Disease

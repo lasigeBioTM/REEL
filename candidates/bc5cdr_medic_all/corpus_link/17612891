@@ -1,0 +1,6 @@
+ENTITY	text:myocarditis	normalName:myocarditis	predictedType:disease	q:true	qid:Q49	docId:17612891	origText:myocarditis	url:D009205
+CANDIDATE	id:9205	inCount:2	outCount:1	links:	url:D009205	name:Myocarditis	normalName:myocarditis	normalWikiTitle:myocarditis	predictedType:Disease
+ENTITY	text:schizophrenia	normalName:schizophrenia	predictedType:disease	q:true	qid:Q49	docId:17612891	origText:schizophrenia	url:D012559
+CANDIDATE	id:12559	inCount:4	outCount:1	links:	url:D012559	name:Schizophrenia	normalName:schizophrenia	normalWikiTitle:schizophrenia	predictedType:Disease
+ENTITY	text:psychosis	normalName:psychosis	predictedType:disease	q:true	qid:Q49	docId:17612891	origText:psychosis	url:D011618
+CANDIDATE	id:11618	inCount:4	outCount:1	links:	url:D011618	name:Psychosis	normalName:psychosis	normalWikiTitle:psychosis	predictedType:Disease

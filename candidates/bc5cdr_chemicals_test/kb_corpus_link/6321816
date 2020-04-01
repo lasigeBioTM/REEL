@@ -1,0 +1,10 @@
+ENTITY	text:angiotensin	normalName:angiotensin	predictedType:chemical	q:true	qid:Q352	docId:6321816	origText:angiotensin	url:D000809
+CANDIDATE	id:809	inCount:9	outCount:4	links:	url:D000809	name:Angiotensin	normalName:angiotensin	normalWikiTitle:angiotensin	predictedType:Chemical
+ENTITY	text:sodium	normalName:sodium	predictedType:chemical	q:true	qid:Q352	docId:6321816	origText:sodium	url:D012964
+CANDIDATE	id:12964	inCount:10	outCount:2	links:	url:D012964	name:Sodium	normalName:sodium	normalWikiTitle:sodium	predictedType:Chemical
+ENTITY	text:Vasopressin	normalName:vasopressin	predictedType:chemical	q:true	qid:Q352	docId:6321816	origText:Vasopressin	url:D014667
+CANDIDATE	id:14667	inCount:20	outCount:3	links:	url:D014667	name:Vasopressin	normalName:vasopressin	normalWikiTitle:vasopressin	predictedType:Chemical
+ENTITY	text:lithium	normalName:lithium	predictedType:chemical	q:true	qid:Q352	docId:6321816	origText:lithium	url:D008094
+CANDIDATE	id:8094	inCount:15	outCount:2	links:	url:D008094	name:Lithium	normalName:lithium	normalWikiTitle:lithium	predictedType:Chemical
+ENTITY	text:DDAVP	normalName:ddavp	predictedType:chemical	q:true	qid:Q352	docId:6321816	origText:DDAVP	url:D003894
+CANDIDATE	id:3894	inCount:5	outCount:1	links:	url:D003894	name:DDAVP	normalName:ddavp	normalWikiTitle:ddavp	predictedType:Chemical

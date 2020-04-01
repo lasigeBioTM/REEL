@@ -1,0 +1,23 @@
+ENTITY	text:cluster headache	normalName:cluster headache	predictedType:disease	q:true	qid:Q731	docId:15009014	origText:cluster headache	url:D003027
+CANDIDATE	id:3027	inCount:1	outCount:1	links:	url:D003027	name:Cluster Headache	normalName:cluster headache	normalWikiTitle:cluster headache	predictedType:Disease
+ENTITY	text:intracranial vascular disturbances	normalName:intracranial vascular disturbances	predictedType:disease	q:true	qid:Q731	docId:15009014	origText:intracranial vascular disturbances	url:D002561
+CANDIDATE	id:2561	inCount:17	outCount:2	links:	url:D002561	name:Intracranial Vascular Disorder	normalName:intracranial vascular disorder	normalWikiTitle:intracranial vascular disorder	predictedType:Disease
+CANDIDATE	id:16491	inCount:8	outCount:1	links:	url:D016491	name:Peripheral Vascular Diseases	normalName:peripheral vascular diseases	normalWikiTitle:peripheral vascular diseases	predictedType:Disease
+CANDIDATE	id:17445	inCount:16	outCount:1	links:	url:D017445	name:Skin Diseases, Vascular	normalName:skin diseases, vascular	normalWikiTitle:skin diseases, vascular	predictedType:Disease
+CANDIDATE	id:20758	inCount:1	outCount:2	links:	url:D020758	name:Spinal Cord Vascular Diseases	normalName:spinal cord vascular diseases	normalWikiTitle:spinal cord vascular diseases	predictedType:Disease
+CANDIDATE	id:2532	inCount:11	outCount:2	links:	url:D002532	name:Intracranial Aneurysm	normalName:intracranial aneurysm	normalWikiTitle:intracranial aneurysm	predictedType:Disease
+CANDIDATE	id:8599	inCount:6	outCount:1	links:	url:D008599	name:Menstruation Disturbances	normalName:menstruation disturbances	normalWikiTitle:menstruation disturbances	predictedType:Disease
+CANDIDATE	id:20301	inCount:0	outCount:1	links:	url:D020301	name:Vasospasm, Intracranial	normalName:vasospasm, intracranial	normalWikiTitle:vasospasm, intracranial	predictedType:Disease
+CANDIDATE	id:20198	inCount:4	outCount:2	links:	url:D020198	name:Intracranial Hemorrhage, Traumatic	normalName:intracranial hemorrhage, traumatic	normalWikiTitle:intracranial hemorrhage, traumatic	predictedType:Disease
+CANDIDATE	id:15140	inCount:2	outCount:4	links:	url:D015140	name:Dementia, Vascular	normalName:dementia, vascular	normalWikiTitle:dementia, vascular	predictedType:Disease
+CANDIDATE	id:20765	inCount:4	outCount:1	links:	url:D020765	name:Intracranial Arterial Diseases	normalName:intracranial arterial diseases	normalWikiTitle:intracranial arterial diseases	predictedType:Disease
+CANDIDATE	id:16862	inCount:0	outCount:2	links:	url:D016862	name:Tuberculoma, Intracranial	normalName:tuberculoma, intracranial	normalWikiTitle:tuberculoma, intracranial	predictedType:Disease
+CANDIDATE	id:2561	inCount:17	outCount:2	links:	url:D002561	name:Intracranial Vascular Diseases	normalName:intracranial vascular diseases	normalWikiTitle:intracranial vascular diseases	predictedType:Disease
+CANDIDATE	id:2561	inCount:17	outCount:2	links:	url:D002561	name:Vascular Diseases, Intracranial	normalName:vascular diseases, intracranial	normalWikiTitle:vascular diseases, intracranial	predictedType:Disease
+CANDIDATE	id:2561	inCount:17	outCount:2	links:	url:D002561	name:Vascular Disorders, Intracranial	normalName:vascular disorders, intracranial	normalWikiTitle:vascular disorders, intracranial	predictedType:Disease
+CANDIDATE	id:2561	inCount:17	outCount:2	links:	url:D002561	name:Intracranial Vascular Disorders	normalName:intracranial vascular disorders	normalWikiTitle:intracranial vascular disorders	predictedType:Disease
+CANDIDATE	id:2561	inCount:17	outCount:2	links:	url:D002561	name:Vascular Disease, Intracranial	normalName:vascular disease, intracranial	normalWikiTitle:vascular disease, intracranial	predictedType:Disease
+CANDIDATE	id:2561	inCount:17	outCount:2	links:	url:D002561	name:Intracranial Vascular Disease	normalName:intracranial vascular disease	normalWikiTitle:intracranial vascular disease	predictedType:Disease
+CANDIDATE	id:2561	inCount:17	outCount:2	links:	url:D002561	name:Vascular Disorder, Intracranial	normalName:vascular disorder, intracranial	normalWikiTitle:vascular disorder, intracranial	predictedType:Disease
+CANDIDATE	id:16862	inCount:0	outCount:2	links:	url:D016862	name:Abscess, Tubercular, Intracranial	normalName:abscess, tubercular, intracranial	normalWikiTitle:abscess, tubercular, intracranial	predictedType:Disease
+CANDIDATE	id:19586	inCount:2	outCount:1	links:	url:D019586	name:Intracranial Pressure Increase	normalName:intracranial pressure increase	normalWikiTitle:intracranial pressure increase	predictedType:Disease

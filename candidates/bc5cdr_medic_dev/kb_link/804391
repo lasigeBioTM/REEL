@@ -1,0 +1,15 @@
+ENTITY	text:tuberculous	normalName:tuberculous	predictedType:disease	q:true	qid:Q289	docId:804391	origText:tuberculous	url:D014376
+CANDIDATE	id:14376	inCount:27	outCount:1	links:14376	url:D014376	name:Tuberculosis	normalName:tuberculosis	normalWikiTitle:tuberculosis	predictedType:Disease
+CANDIDATE	id:14375	inCount:1	outCount:1	links:	url:D014375	name:Tuberculoma	normalName:tuberculoma	normalWikiTitle:tuberculoma	predictedType:Disease
+CANDIDATE	id:10283	inCount:0	outCount:2	links:	url:D010283	name:Paratuberculosis	normalName:paratuberculosis	normalWikiTitle:paratuberculosis	predictedType:Disease
+CANDIDATE	id:4654	inCount:0	outCount:2	links:	url:D004654	name:Empyema, Tuberculous	normalName:empyema, tuberculous	normalWikiTitle:empyema, tuberculous	predictedType:Disease
+CANDIDATE	id:14393	inCount:0	outCount:2	links:	url:D014393	name:Tuberculosis, Oral	normalName:tuberculosis, oral	normalWikiTitle:tuberculosis, oral	predictedType:Disease
+CANDIDATE	id:12830	inCount:0	outCount:2	links:	url:D012830	name:Silicotuberculosis	normalName:silicotuberculosis	normalWikiTitle:silicotuberculosis	predictedType:Disease
+CANDIDATE	id:14398	inCount:0	outCount:2	links:	url:D014398	name:Tuberculosis, Renal	normalName:tuberculosis, renal	normalWikiTitle:tuberculosis, renal	predictedType:Disease
+CANDIDATE	id:14379	inCount:0	outCount:2	links:	url:D014379	name:Tuberculosis, Avian	normalName:tuberculosis, avian	normalWikiTitle:tuberculosis, avian	predictedType:Disease
+CANDIDATE	id:14392	inCount:0	outCount:2	links:	url:D014392	name:Tuberculosis, Ocular	normalName:tuberculosis, ocular	normalWikiTitle:tuberculosis, ocular	predictedType:Disease
+CANDIDATE	id:14399	inCount:0	outCount:2	links:	url:D014399	name:Tuberculosis, Spinal	normalName:tuberculosis, spinal	normalWikiTitle:tuberculosis, spinal	predictedType:Disease
+ENTITY	text:proteinuria	normalName:proteinuria	predictedType:disease	q:true	qid:Q289	docId:804391	origText:proteinuria	url:D011507
+CANDIDATE	id:11507	inCount:4	outCount:2	links:	url:D011507	name:Proteinuria	normalName:proteinuria	normalWikiTitle:proteinuria	predictedType:Disease
+ENTITY	text:tuberculosis	normalName:tuberculosis	predictedType:disease	q:true	qid:Q289	docId:804391	origText:tuberculosis	url:D014376
+CANDIDATE	id:14376	inCount:27	outCount:1	links:14376	url:D014376	name:Tuberculosis	normalName:tuberculosis	normalWikiTitle:tuberculosis	predictedType:Disease

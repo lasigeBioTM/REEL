@@ -1,0 +1,37 @@
+ENTITY	text:atrioventricular block	normalName:atrioventricular block	predictedType:disease	q:true	qid:Q961	docId:1728915	origText:atrioventricular block	url:D054537
+CANDIDATE	id:54537	inCount:1	outCount:1	links:62787;54537;1919;13611;13616;6327	url:D054537	name:Atrioventricular Block	normalName:atrioventricular block	normalWikiTitle:atrioventricular block	predictedType:Disease
+ENTITY	text:sinus tachycardias	normalName:sinus tachycardias	predictedType:disease	q:true	qid:Q961	docId:1728915	origText:sinus tachycardias	url:D013616
+CANDIDATE	id:13616	inCount:0	outCount:1	links:1919;54537	url:D013616	name:Tachycardia, Sinus	normalName:tachycardia, sinus	normalWikiTitle:tachycardia, sinus	predictedType:Disease
+ENTITY	text:bradycardia	normalName:bradycardia	predictedType:disease	q:true	qid:Q961	docId:1728915	origText:bradycardia	url:D001919
+CANDIDATE	id:1919	inCount:0	outCount:1	links:62787;54537;1919;13611;13616;6327	url:D001919	name:Bradycardia	normalName:bradycardia	normalWikiTitle:bradycardia	predictedType:Disease
+ENTITY	text:atrioventricular conduction delay	normalName:atrioventricular conduction delay	predictedType:disease	q:true	qid:Q961	docId:1728915	origText:atrioventricular conduction delay	url:D054537
+CANDIDATE	id:54537	inCount:1	outCount:1	links:62787;54537;1919;13611;13616;6327	url:D054537	name:Atrioventricular Conduction Blocks	normalName:atrioventricular conduction blocks	normalWikiTitle:atrioventricular conduction blocks	predictedType:Disease
+CANDIDATE	id:562831	inCount:0	outCount:1	links:	url:C562831	name:Atrioventricular Septal Defect	normalName:atrioventricular septal defect	normalWikiTitle:atrioventricular septal defect	predictedType:Disease
+CANDIDATE	id:536112	inCount:0	outCount:1	links:	url:C536112	name:Partial atrioventricular canal	normalName:partial atrioventricular canal	normalWikiTitle:partial atrioventricular canal	predictedType:Disease
+CANDIDATE	id:535974	inCount:0	outCount:1	links:	url:C535974	name:Complete atrioventricular septal defect	normalName:complete atrioventricular septal defect	normalWikiTitle:complete atrioventricular septal defect	predictedType:Disease
+CANDIDATE	id:54537	inCount:1	outCount:1	links:62787;54537;1919;13611;13616;6327	url:D054537	name:Atrioventricular Block	normalName:atrioventricular block	normalWikiTitle:atrioventricular block	predictedType:Disease
+CANDIDATE	id:566238	inCount:1	outCount:2	links:	url:C566238	name:Atrial Septal Defect with Atrioventricular Conduction Defects	normalName:atrial septal defect with atrioventricular conduction defects	normalWikiTitle:atrial septal defect with atrioventricular conduction defects	predictedType:Disease
+CANDIDATE	id:58606	inCount:0	outCount:1	links:	url:D058606	name:Accessory Atrioventricular Bundle	normalName:accessory atrioventricular bundle	normalWikiTitle:accessory atrioventricular bundle	predictedType:Disease
+CANDIDATE	id:11249	inCount:1	outCount:2	links:	url:D011249	name:Pregnancy Complications, Cardiovascular	normalName:pregnancy complications, cardiovascular	normalWikiTitle:pregnancy complications, cardiovascular	predictedType:Disease
+CANDIDATE	id:115080	inCount:0	outCount:2	links:	url:115080	name:CARDIAC CONDUCTION DEFECT	normalName:cardiac conduction defect	normalWikiTitle:cardiac conduction defect	predictedType:Disease
+CANDIDATE	id:13611	inCount:0	outCount:1	links:1919;54537	url:D013611	name:Tachycardia, Atrioventricular Nodal Reentry	normalName:tachycardia, atrioventricular nodal reentry	normalWikiTitle:tachycardia, atrioventricular nodal reentry	predictedType:Disease
+CANDIDATE	id:75224	inCount:12	outCount:1	links:	url:D000075224	name:Cardiac Conduction System Disease	normalName:cardiac conduction system disease	normalWikiTitle:cardiac conduction system disease	predictedType:Disease
+CANDIDATE	id:54537	inCount:1	outCount:1	links:62787;54537;1919;13611;13616;6327	url:D054537	name:Conduction Block, Atrioventricular	normalName:conduction block, atrioventricular	normalWikiTitle:conduction block, atrioventricular	predictedType:Disease
+CANDIDATE	id:54537	inCount:1	outCount:1	links:62787;54537;1919;13611;13616;6327	url:D054537	name:Atrioventricular Conduction Block	normalName:atrioventricular conduction block	normalWikiTitle:atrioventricular conduction block	predictedType:Disease
+CANDIDATE	id:54537	inCount:1	outCount:1	links:62787;54537;1919;13611;13616;6327	url:D054537	name:Conduction Blocks, Atrioventricular	normalName:conduction blocks, atrioventricular	normalWikiTitle:conduction blocks, atrioventricular	predictedType:Disease
+CANDIDATE	id:566238	inCount:1	outCount:2	links:	url:C566238	name:ASD with Atrioventricular Conduction Defects	normalName:asd with atrioventricular conduction defects	normalWikiTitle:asd with atrioventricular conduction defects	predictedType:Disease
+CANDIDATE	id:6327	inCount:13	outCount:2	links:1919;54537	url:D006327	name:Dissociation, Atrioventricular	normalName:dissociation, atrioventricular	normalWikiTitle:dissociation, atrioventricular	predictedType:Disease
+CANDIDATE	id:6327	inCount:13	outCount:2	links:1919;54537	url:D006327	name:Atrioventricular Dissociation	normalName:atrioventricular dissociation	normalWikiTitle:atrioventricular dissociation	predictedType:Disease
+ENTITY	text:bradyarrhythmias	normalName:bradyarrhythmias	predictedType:disease	q:true	qid:Q961	docId:1728915	origText:bradyarrhythmias	url:D001919
+CANDIDATE	id:1919	inCount:0	outCount:1	links:62787;54537;1919;13611;13616;6327	url:D001919	name:Bradyarrhythmia	normalName:bradyarrhythmia	normalWikiTitle:bradyarrhythmia	predictedType:Disease
+ENTITY	text:overdose	normalName:overdose	predictedType:disease	q:true	qid:Q961	docId:1728915	origText:overdose	url:D062787
+CANDIDATE	id:62787	inCount:0	outCount:1	links:1919;54537	url:D062787	name:Drug Overdose	normalName:drug overdose	normalWikiTitle:drug overdose	predictedType:Disease
+CANDIDATE	id:57887	inCount:0	outCount:1	links:	url:D057887	name:Overbite	normalName:overbite	normalWikiTitle:overbite	predictedType:Disease
+CANDIDATE	id:8141	inCount:2	outCount:1	links:	url:D008141	name:Lordosis	normalName:lordosis	normalWikiTitle:lordosis	predictedType:Disease
+CANDIDATE	id:564931	inCount:0	outCount:2	links:	url:C564931	name:Oliver Syndrome	normalName:oliver syndrome	normalWikiTitle:oliver syndrome	predictedType:Disease
+CANDIDATE	id:50177	inCount:1	outCount:1	links:	url:D050177	name:Overweight	normalName:overweight	normalWikiTitle:overweight	predictedType:Disease
+CANDIDATE	id:1882	inCount:0	outCount:2	links:	url:D001882	name:Border Disease	normalName:border disease	normalWikiTitle:border disease	predictedType:Disease
+CANDIDATE	id:12393	inCount:1	outCount:1	links:	url:D012393	name:Rosacea	normalName:rosacea	normalWikiTitle:rosacea	predictedType:Disease
+CANDIDATE	id:14717	inCount:2	outCount:2	links:	url:D014717	name:Vertigo	normalName:vertigo	normalWikiTitle:vertigo	predictedType:Disease
+CANDIDATE	id:7918	inCount:2	outCount:1	links:	url:D007918	name:Leprosy	normalName:leprosy	normalWikiTitle:leprosy	predictedType:Disease
+CANDIDATE	id:6732	inCount:1	outCount:2	links:	url:D006732	name:Horner Syndrome	normalName:horner syndrome	normalWikiTitle:horner syndrome	predictedType:Disease

@@ -1,0 +1,6 @@
+ENTITY	text:etomidate	normalName:etomidate	predictedType:chemical	q:true	qid:Q1085	docId:612112	origText:etomidate	url:D005045
+CANDIDATE	id:5045	inCount:10	outCount:1	links:	url:D005045	name:Etomidate	normalName:etomidate	normalWikiTitle:etomidate	predictedType:Chemical
+ENTITY	text:atropine	normalName:atropine	predictedType:chemical	q:true	qid:Q1085	docId:612112	origText:atropine	url:D001285
+CANDIDATE	id:1285	inCount:16	outCount:1	links:	url:D001285	name:Atropine	normalName:atropine	normalWikiTitle:atropine	predictedType:Chemical
+ENTITY	text:diazepam	normalName:diazepam	predictedType:chemical	q:true	qid:Q1085	docId:612112	origText:diazepam	url:D003975
+CANDIDATE	id:3975	inCount:21	outCount:1	links:	url:D003975	name:Diazepam	normalName:diazepam	normalWikiTitle:diazepam	predictedType:Chemical

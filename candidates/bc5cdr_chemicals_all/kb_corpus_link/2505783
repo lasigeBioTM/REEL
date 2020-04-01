@@ -1,0 +1,8 @@
+ENTITY	text:cyclophosphamide	normalName:cyclophosphamide	predictedType:chemical	q:true	qid:Q1032	docId:2505783	origText:cyclophosphamide	url:D003520
+CANDIDATE	id:3520	inCount:474	outCount:1	links:7069;4656;15080	url:D003520	name:Cyclophosphamide	normalName:cyclophosphamide	normalWikiTitle:cyclophosphamide	predictedType:Chemical
+ENTITY	text:Chloroacetaldehyde	normalName:chloroacetaldehyde	predictedType:chemical	q:true	qid:Q1032	docId:2505783	origText:Chloroacetaldehyde	url:C004656
+CANDIDATE	id:4656	inCount:0	outCount:1	links:7069;15080;3520	url:C004656	name:chloroacetaldehyde	normalName:chloroacetaldehyde	normalWikiTitle:chloroacetaldehyde	predictedType:Chemical
+ENTITY	text:ifosfamide	normalName:ifosfamide	predictedType:chemical	q:true	qid:Q1032	docId:2505783	origText:ifosfamide	url:D007069
+CANDIDATE	id:7069	inCount:106	outCount:2	links:4656;15080;3520	url:D007069	name:Ifosfamide	normalName:ifosfamide	normalWikiTitle:ifosfamide	predictedType:Chemical
+ENTITY	text:mesna	normalName:mesna	predictedType:chemical	q:true	qid:Q1032	docId:2505783	origText:mesna	url:D015080
+CANDIDATE	id:15080	inCount:22	outCount:2	links:7069;4656;3520	url:D015080	name:Mesna	normalName:mesna	normalWikiTitle:mesna	predictedType:Chemical

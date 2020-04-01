@@ -1,0 +1,6 @@
+ENTITY	text:amlodipine	normalName:amlodipine	predictedType:chemical	q:true	qid:Q1002	docId:8251368	origText:amlodipine	url:D017311
+CANDIDATE	id:17311	inCount:10	outCount:1	links:9543	url:D017311	name:Amlodipine	normalName:amlodipine	normalWikiTitle:amlodipine	predictedType:Chemical
+ENTITY	text:nifedipine	normalName:nifedipine	predictedType:chemical	q:true	qid:Q1002	docId:8251368	origText:nifedipine	url:D009543
+CANDIDATE	id:9543	inCount:42	outCount:1	links:17311	url:D009543	name:Nifedipine	normalName:nifedipine	normalWikiTitle:nifedipine	predictedType:Chemical
+ENTITY	text:Adalat	normalName:adalat	predictedType:chemical	q:true	qid:Q1002	docId:8251368	origText:Adalat	url:D009543
+CANDIDATE	id:9543	inCount:42	outCount:1	links:17311	url:D009543	name:Adalat	normalName:adalat	normalWikiTitle:adalat	predictedType:Chemical

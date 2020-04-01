@@ -1,0 +1,4 @@
+ENTITY	text:seizure	normalName:seizure	predictedType:disease	q:true	qid:Q137	docId:6433367	origText:seizure	url:D012640
+CANDIDATE	id:12640	inCount:53	outCount:1	links:12640	url:D012640	name:Seizure	normalName:seizure	normalWikiTitle:seizure	predictedType:Disease
+ENTITY	text:convulsions	normalName:convulsions	predictedType:disease	q:true	qid:Q137	docId:6433367	origText:convulsions	url:D012640
+CANDIDATE	id:12640	inCount:53	outCount:1	links:12640	url:D012640	name:Convulsion	normalName:convulsion	normalWikiTitle:convulsion	predictedType:Disease

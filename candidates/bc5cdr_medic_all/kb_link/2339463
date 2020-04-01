@@ -1,0 +1,26 @@
+ENTITY	text:menorrhagia	normalName:menorrhagia	predictedType:disease	q:true	qid:Q1412	docId:2339463	origText:menorrhagia	url:D008595
+CANDIDATE	id:8595	inCount:0	outCount:2	links:	url:D008595	name:Menorrhagia	normalName:menorrhagia	normalWikiTitle:menorrhagia	predictedType:Disease
+ENTITY	text:thromboembolic disease	normalName:thromboembolic disease	predictedType:disease	q:true	qid:Q1412	docId:2339463	origText:thromboembolic disease	url:D013923
+CANDIDATE	id:13923	inCount:3	outCount:1	links:	url:D013923	name:Thromboembolism	normalName:thromboembolism	normalWikiTitle:thromboembolism	predictedType:Disease
+CANDIDATE	id:8659	inCount:23	outCount:1	links:	url:D008659	name:Metabolic Diseases	normalName:metabolic diseases	normalWikiTitle:metabolic diseases	predictedType:Disease
+CANDIDATE	id:6402	inCount:22	outCount:1	links:	url:D006402	name:Hematologic Diseases	normalName:hematologic diseases	normalWikiTitle:hematologic diseases	predictedType:Disease
+CANDIDATE	id:6450	inCount:0	outCount:1	links:	url:D006450	name:Hemoglobin SC Disease	normalName:hemoglobin sc disease	normalWikiTitle:hemoglobin sc disease	predictedType:Disease
+CANDIDATE	id:7049	inCount:1	outCount:1	links:	url:D007049	name:Iatrogenic Disease	normalName:iatrogenic disease	normalWikiTitle:iatrogenic disease	predictedType:Disease
+CANDIDATE	id:13959	inCount:13	outCount:1	links:	url:D013959	name:Thyroid Diseases	normalName:thyroid diseases	normalWikiTitle:thyroid diseases	predictedType:Disease
+CANDIDATE	id:581942	inCount:0	outCount:1	links:	url:C581942	name:Hemoglobin M Disease	normalName:hemoglobin m disease	normalWikiTitle:hemoglobin m disease	predictedType:Disease
+CANDIDATE	id:14570	inCount:9	outCount:2	links:	url:D014570	name:Urologic Diseases	normalName:urologic diseases	normalWikiTitle:urologic diseases	predictedType:Disease
+CANDIDATE	id:13786	inCount:1	outCount:1	links:	url:D013786	name:Thalamic Diseases	normalName:thalamic diseases	normalWikiTitle:thalamic diseases	predictedType:Disease
+CANDIDATE	id:1851	inCount:14	outCount:2	links:	url:D001851	name:Bone Diseases, Metabolic	normalName:bone diseases, metabolic	normalWikiTitle:bone diseases, metabolic	predictedType:Disease
+CANDIDATE	id:8659	inCount:23	outCount:1	links:	url:D008659	name:Disease, Metabolic	normalName:disease, metabolic	normalWikiTitle:disease, metabolic	predictedType:Disease
+CANDIDATE	id:8659	inCount:23	outCount:1	links:	url:D008659	name:Metabolic Disease	normalName:metabolic disease	normalWikiTitle:metabolic disease	predictedType:Disease
+ENTITY	text:Cerebral sinus thrombosis	normalName:cerebral sinus thrombosis	predictedType:disease	q:true	qid:Q1412	docId:2339463	origText:Cerebral sinus thrombosis	url:D012851
+CANDIDATE	id:12851	inCount:3	outCount:1	links:	url:D012851	name:Sinus Thrombosis, Intracranial	normalName:sinus thrombosis, intracranial	normalWikiTitle:sinus thrombosis, intracranial	predictedType:Disease
+CANDIDATE	id:20227	inCount:0	outCount:1	links:	url:D020227	name:Lateral Sinus Thrombosis	normalName:lateral sinus thrombosis	normalWikiTitle:lateral sinus thrombosis	predictedType:Disease
+CANDIDATE	id:20226	inCount:0	outCount:1	links:	url:D020226	name:Cavernous Sinus Thrombosis	normalName:cavernous sinus thrombosis	normalWikiTitle:cavernous sinus thrombosis	predictedType:Disease
+CANDIDATE	id:20225	inCount:0	outCount:1	links:	url:D020225	name:Sagittal Sinus Thrombosis	normalName:sagittal sinus thrombosis	normalWikiTitle:sagittal sinus thrombosis	predictedType:Disease
+CANDIDATE	id:19294	inCount:0	outCount:2	links:	url:D019294	name:Xanthomatosis, Cerebrotendinous	normalName:xanthomatosis, cerebrotendinous	normalWikiTitle:xanthomatosis, cerebrotendinous	predictedType:Disease
+CANDIDATE	id:16781	inCount:0	outCount:3	links:	url:D016781	name:Toxoplasmosis, Cerebral	normalName:toxoplasmosis, cerebral	normalWikiTitle:toxoplasmosis, cerebral	predictedType:Disease
+CANDIDATE	id:16769	inCount:3	outCount:1	links:	url:D016769	name:Embolism and Thrombosis	normalName:embolism and thrombosis	normalWikiTitle:embolism and thrombosis	predictedType:Disease
+CANDIDATE	id:2341	inCount:0	outCount:2	links:	url:D002341	name:Carotid Artery Thrombosis	normalName:carotid artery thrombosis	normalWikiTitle:carotid artery thrombosis	predictedType:Disease
+CANDIDATE	id:3328	inCount:0	outCount:2	links:	url:D003328	name:Coronary Thrombosis	normalName:coronary thrombosis	normalWikiTitle:coronary thrombosis	predictedType:Disease
+CANDIDATE	id:18240	inCount:0	outCount:1	links:	url:D018240	name:Endodermal Sinus Tumor	normalName:endodermal sinus tumor	normalWikiTitle:endodermal sinus tumor	predictedType:Disease

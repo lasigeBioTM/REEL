@@ -1,0 +1,6 @@
+ENTITY	text:tumor	normalName:tumor	predictedType:disease	q:true	qid:Q432	docId:6292680	origText:tumor	url:D009369
+CANDIDATE	id:9369	inCount:18	outCount:1	links:	url:D009369	name:Tumor	normalName:tumor	normalWikiTitle:tumor	predictedType:Disease
+ENTITY	text:cardiomyopathy	normalName:cardiomyopathy	predictedType:disease	q:true	qid:Q432	docId:6292680	origText:cardiomyopathy	url:D009202
+CANDIDATE	id:9202	inCount:37	outCount:1	links:	url:D009202	name:Cardiomyopathy	normalName:cardiomyopathy	normalWikiTitle:cardiomyopathy	predictedType:Disease
+ENTITY	text:Wilms tumor	normalName:wilms tumor	predictedType:disease	q:true	qid:Q432	docId:6292680	origText:Wilms tumor	url:D009396
+CANDIDATE	id:9396	inCount:9	outCount:3	links:	url:D009396	name:Wilms Tumor	normalName:wilms tumor	normalWikiTitle:wilms tumor	predictedType:Disease

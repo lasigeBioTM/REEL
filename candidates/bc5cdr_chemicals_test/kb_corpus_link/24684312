@@ -1,0 +1,4 @@
+ENTITY	text:capsaicin	normalName:capsaicin	predictedType:chemical	q:true	qid:Q136	docId:24684312	origText:capsaicin	url:D002211
+CANDIDATE	id:2211	inCount:38	outCount:4	links:	url:D002211	name:Capsaicin	normalName:capsaicin	normalWikiTitle:capsaicin	predictedType:Chemical
+ENTITY	text:glutamate	normalName:glutamate	predictedType:chemical	q:true	qid:Q136	docId:24684312	origText:glutamate	url:D018698
+CANDIDATE	id:18698	inCount:53	outCount:2	links:	url:D018698	name:Glutamate	normalName:glutamate	normalWikiTitle:glutamate	predictedType:Chemical

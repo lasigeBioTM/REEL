@@ -1,0 +1,8 @@
+ENTITY	text:tumors	normalName:tumors	predictedType:disease	q:true	qid:Q1420	docId:3969369	origText:tumors	url:D009369
+CANDIDATE	id:9369	inCount:18	outCount:1	links:	url:D009369	name:Tumor	normalName:tumor	normalWikiTitle:tumor	predictedType:Disease
+ENTITY	text:prostatitis	normalName:prostatitis	predictedType:disease	q:true	qid:Q1420	docId:3969369	origText:prostatitis	url:D011472
+CANDIDATE	id:11472	inCount:0	outCount:1	links:	url:D011472	name:Prostatitis	normalName:prostatitis	normalWikiTitle:prostatitis	predictedType:Disease
+ENTITY	text:carcinogenesis	normalName:carcinogenesis	predictedType:disease	q:true	qid:Q1420	docId:3969369	origText:carcinogenesis	url:D063646
+CANDIDATE	id:63646	inCount:2	outCount:1	links:	url:D063646	name:Carcinogenesis	normalName:carcinogenesis	normalWikiTitle:carcinogenesis	predictedType:Disease
+ENTITY	text:prostate cancer	normalName:prostate cancer	predictedType:disease	q:true	qid:Q1420	docId:3969369	origText:prostate cancer	url:D011471
+CANDIDATE	id:11471	inCount:19	outCount:2	links:	url:D011471	name:Prostate Cancer	normalName:prostate cancer	normalWikiTitle:prostate cancer	predictedType:Disease

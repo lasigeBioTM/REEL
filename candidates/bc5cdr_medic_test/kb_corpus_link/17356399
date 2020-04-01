@@ -1,0 +1,34 @@
+ENTITY	text:incontinence	normalName:incontinence	predictedType:disease	q:true	qid:Q160	docId:17356399	origText:incontinence	url:D014549
+CANDIDATE	id:14549	inCount:2	outCount:2	links:20301;6212;1037;18908	url:D014549	name:Urinary Incontinence	normalName:urinary incontinence	normalWikiTitle:urinary incontinence	predictedType:Disease
+CANDIDATE	id:5242	inCount:1	outCount:1	links:	url:D005242	name:Fecal Incontinence	normalName:fecal incontinence	normalWikiTitle:fecal incontinence	predictedType:Disease
+CANDIDATE	id:53202	inCount:0	outCount:1	links:	url:D053202	name:Urinary Incontinence, Urge	normalName:urinary incontinence, urge	normalWikiTitle:urinary incontinence, urge	predictedType:Disease
+CANDIDATE	id:7184	inCount:2	outCount:4	links:	url:D007184	name:Incontinentia Pigmenti	normalName:incontinentia pigmenti	normalWikiTitle:incontinentia pigmenti	predictedType:Disease
+CANDIDATE	id:14550	inCount:0	outCount:1	links:	url:D014550	name:Urinary Incontinence, Stress	normalName:urinary incontinence, stress	normalWikiTitle:urinary incontinence, stress	predictedType:Disease
+CANDIDATE	id:13159	inCount:0	outCount:2	links:	url:D013159	name:Splenic Infarction	normalName:splenic infarction	normalWikiTitle:splenic infarction	predictedType:Disease
+CANDIDATE	id:70624	inCount:0	outCount:2	links:	url:D000070624	name:Brain Contusion	normalName:brain contusion	normalWikiTitle:brain contusion	predictedType:Disease
+CANDIDATE	id:7239	inCount:33	outCount:1	links:	url:D007239	name:Infection	normalName:infection	normalWikiTitle:infection	predictedType:Disease
+CANDIDATE	id:34161	inCount:1	outCount:1	links:	url:D034161	name:Pelvic Infection	normalName:pelvic infection	normalWikiTitle:pelvic infection	predictedType:Disease
+CANDIDATE	id:11230	inCount:10	outCount:1	links:	url:D011230	name:Precancerous Conditions	normalName:precancerous conditions	normalWikiTitle:precancerous conditions	predictedType:Disease
+CANDIDATE	id:53202	inCount:0	outCount:1	links:	url:D053202	name:Urge Incontinence	normalName:urge incontinence	normalWikiTitle:urge incontinence	predictedType:Disease
+CANDIDATE	id:53202	inCount:0	outCount:1	links:	url:D053202	name:Incontinence, Urge	normalName:incontinence, urge	normalWikiTitle:incontinence, urge	predictedType:Disease
+ENTITY	text:ALL	normalName:all	predictedType:disease	q:true	qid:Q160	docId:17356399	origText:ALL	url:D054198
+CANDIDATE	id:54198	inCount:3	outCount:1	links:54198	url:D054198	name:ALL	normalName:all	normalWikiTitle:all	predictedType:Disease
+ENTITY	text:acute lymphoblastic leukemia	normalName:acute lymphoblastic leukemia	predictedType:disease	q:true	qid:Q160	docId:17356399	origText:acute lymphoblastic leukemia	url:D054198
+CANDIDATE	id:54198	inCount:3	outCount:1	links:54198	url:D054198	name:Leukemia, Acute Lymphoblastic	normalName:leukemia, acute lymphoblastic	normalWikiTitle:leukemia, acute lymphoblastic	predictedType:Disease
+ENTITY	text:weakness	normalName:weakness	predictedType:disease	q:true	qid:Q160	docId:17356399	origText:weakness	url:D018908
+CANDIDATE	id:18908	inCount:6	outCount:3	links:20301;6212;14549;1037	url:D018908	name:Muscle Weakness	normalName:muscle weakness	normalWikiTitle:muscle weakness	predictedType:Disease
+CANDIDATE	id:3638	inCount:110	outCount:1	links:	url:D003638	name:Deafness	normalName:deafness	normalWikiTitle:deafness	predictedType:Disease
+CANDIDATE	id:4775	inCount:2	outCount:2	links:	url:D004775	name:Enuresis	normalName:enuresis	normalWikiTitle:enuresis	predictedType:Disease
+CANDIDATE	id:6948	inCount:1	outCount:1	links:	url:D006948	name:Hyperkinesis	normalName:hyperkinesis	normalWikiTitle:hyperkinesis	predictedType:Disease
+CANDIDATE	id:8548	inCount:4	outCount:1	links:	url:D008548	name:Melanosis	normalName:melanosis	normalWikiTitle:melanosis	predictedType:Disease
+CANDIDATE	id:566019	inCount:0	outCount:1	links:	url:C566019	name:Tune Deafness	normalName:tune deafness	normalWikiTitle:tune deafness	predictedType:Disease
+CANDIDATE	id:4428	inCount:0	outCount:2	links:	url:D004428	name:Ear Neoplasms	normalName:ear neoplasms	normalWikiTitle:ear neoplasms	predictedType:Disease
+CANDIDATE	id:64793	inCount:0	outCount:1	links:	url:D064793	name:Teratogenesis	normalName:teratogenesis	normalWikiTitle:teratogenesis	predictedType:Disease
+CANDIDATE	id:46608	inCount:2	outCount:1	links:	url:D046608	name:Synkinesis	normalName:synkinesis	normalWikiTitle:synkinesis	predictedType:Disease
+CANDIDATE	id:77260	inCount:0	outCount:1	links:	url:D000077260	name:Sleepiness	normalName:sleepiness	normalWikiTitle:sleepiness	predictedType:Disease
+ENTITY	text:aphasia	normalName:aphasia	predictedType:disease	q:true	qid:Q160	docId:17356399	origText:aphasia	url:D001037
+CANDIDATE	id:1037	inCount:5	outCount:1	links:20301;6212;14549;18908	url:D001037	name:Aphasia	normalName:aphasia	normalWikiTitle:aphasia	predictedType:Disease
+ENTITY	text:cerebral vasospasm	normalName:cerebral vasospasm	predictedType:disease	q:true	qid:Q160	docId:17356399	origText:cerebral vasospasm	url:D020301
+CANDIDATE	id:20301	inCount:0	outCount:1	links:6212;14549;1037;18908	url:D020301	name:Vasospasm, Cerebral	normalName:vasospasm, cerebral	normalWikiTitle:vasospasm, cerebral	predictedType:Disease
+ENTITY	text:visual hallucinations	normalName:visual hallucinations	predictedType:disease	q:true	qid:Q160	docId:17356399	origText:visual hallucinations	url:D006212
+CANDIDATE	id:6212	inCount:1	outCount:1	links:20301;14549;1037;18908	url:D006212	name:Hallucinations, Visual	normalName:hallucinations, visual	normalWikiTitle:hallucinations, visual	predictedType:Disease

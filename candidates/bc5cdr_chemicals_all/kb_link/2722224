@@ -1,0 +1,4 @@
+ENTITY	text:norepinephrine	normalName:norepinephrine	predictedType:chemical	q:true	qid:Q23	docId:2722224	origText:norepinephrine	url:D009638
+CANDIDATE	id:9638	inCount:31	outCount:4	links:	url:D009638	name:Norepinephrine	normalName:norepinephrine	normalWikiTitle:norepinephrine	predictedType:Chemical
+ENTITY	text:Hydrocortisone	normalName:hydrocortisone	predictedType:chemical	q:true	qid:Q23	docId:2722224	origText:Hydrocortisone	url:D006854
+CANDIDATE	id:6854	inCount:91	outCount:3	links:	url:D006854	name:Hydrocortisone	normalName:hydrocortisone	normalWikiTitle:hydrocortisone	predictedType:Chemical

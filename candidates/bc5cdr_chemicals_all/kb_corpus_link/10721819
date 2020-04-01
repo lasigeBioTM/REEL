@@ -1,0 +1,8 @@
+ENTITY	text:dopamine	normalName:dopamine	predictedType:chemical	q:true	qid:Q414	docId:10721819	origText:dopamine	url:D004298
+CANDIDATE	id:4298	inCount:90	outCount:2	links:	url:D004298	name:Dopamine	normalName:dopamine	normalWikiTitle:dopamine	predictedType:Chemical
+ENTITY	text:isoproterenol	normalName:isoproterenol	predictedType:chemical	q:true	qid:Q414	docId:10721819	origText:isoproterenol	url:D007545
+CANDIDATE	id:7545	inCount:12	outCount:2	links:4294;1971	url:D007545	name:Isoproterenol	normalName:isoproterenol	normalWikiTitle:isoproterenol	predictedType:Chemical
+ENTITY	text:domperidone	normalName:domperidone	predictedType:chemical	q:true	qid:Q414	docId:10721819	origText:domperidone	url:D004294
+CANDIDATE	id:4294	inCount:7	outCount:2	links:7545	url:D004294	name:Domperidone	normalName:domperidone	normalWikiTitle:domperidone	predictedType:Chemical
+ENTITY	text:bromocriptine	normalName:bromocriptine	predictedType:chemical	q:true	qid:Q414	docId:10721819	origText:bromocriptine	url:D001971
+CANDIDATE	id:1971	inCount:0	outCount:2	links:7545	url:D001971	name:Bromocriptine	normalName:bromocriptine	normalWikiTitle:bromocriptine	predictedType:Chemical

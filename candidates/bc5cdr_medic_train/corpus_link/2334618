@@ -1,0 +1,15 @@
+ENTITY	text:tachyarrhythmias	normalName:tachyarrhythmias	predictedType:disease	q:true	qid:Q4	docId:2334618	origText:tachyarrhythmias	url:D013610
+CANDIDATE	id:13610	inCount:7	outCount:2	links:4417	url:D013610	name:Tachyarrhythmia	normalName:tachyarrhythmia	normalWikiTitle:tachyarrhythmia	predictedType:Disease
+ENTITY	text:apnoea	normalName:apnoea	predictedType:disease	q:true	qid:Q4	docId:2334618	origText:apnoea	url:D001049
+CANDIDATE	id:1049	inCount:3	outCount:2	links:	url:D001049	name:Apnea	normalName:apnea	normalWikiTitle:apnea	predictedType:Disease
+CANDIDATE	id:855	inCount:1	outCount:1	links:	url:D000855	name:Anorexia	normalName:anorexia	normalWikiTitle:anorexia	predictedType:Disease
+CANDIDATE	id:59246	inCount:1	outCount:2	links:	url:D059246	name:Tachypnea	normalName:tachypnea	normalWikiTitle:tachypnea	predictedType:Disease
+CANDIDATE	id:849	inCount:0	outCount:1	links:	url:D000849	name:Anomia	normalName:anomia	normalWikiTitle:anomia	predictedType:Disease
+CANDIDATE	id:740	inCount:14	outCount:1	links:	url:D000740	name:Anemia	normalName:anemia	normalWikiTitle:anemia	predictedType:Disease
+CANDIDATE	id:4417	inCount:1	outCount:2	links:13610	url:D004417	name:Dyspnea	normalName:dyspnea	normalWikiTitle:dyspnea	predictedType:Disease
+CANDIDATE	id:647	inCount:4	outCount:2	links:	url:D000647	name:Amnesia	normalName:amnesia	normalWikiTitle:amnesia	predictedType:Disease
+CANDIDATE	id:568	inCount:3	outCount:1	links:	url:D000568	name:Amenorrhea	normalName:amenorrhea	normalWikiTitle:amenorrhea	predictedType:Disease
+CANDIDATE	id:1079	inCount:0	outCount:2	links:	url:D001079	name:Apudoma	normalName:apudoma	normalWikiTitle:apudoma	predictedType:Disease
+CANDIDATE	id:377	inCount:3	outCount:1	links:	url:D000377	name:Agnosia	normalName:agnosia	normalWikiTitle:agnosia	predictedType:Disease
+ENTITY	text:ventricular ectopic beats	normalName:ventricular ectopic beats	predictedType:disease	q:true	qid:Q4	docId:2334618	origText:ventricular ectopic beats	url:D018879
+CANDIDATE	id:18879	inCount:1	outCount:1	links:	url:D018879	name:Ectopic Beats, Ventricular	normalName:ectopic beats, ventricular	normalWikiTitle:ectopic beats, ventricular	predictedType:Disease

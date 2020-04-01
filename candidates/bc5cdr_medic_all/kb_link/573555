@@ -1,0 +1,19 @@
+ENTITY	text:hyperbilirubinemia	normalName:hyperbilirubinemia	predictedType:disease	q:true	qid:Q1411	docId:573555	origText:hyperbilirubinemia	url:D006932
+CANDIDATE	id:6932	inCount:4	outCount:1	links:	url:D006932	name:Hyperbilirubinemia	normalName:hyperbilirubinemia	normalWikiTitle:hyperbilirubinemia	predictedType:Disease
+ENTITY	text:hypoglycemia	normalName:hypoglycemia	predictedType:disease	q:true	qid:Q1411	docId:573555	origText:hypoglycemia	url:D007003
+CANDIDATE	id:7003	inCount:14	outCount:1	links:	url:D007003	name:Hypoglycemia	normalName:hypoglycemia	normalWikiTitle:hypoglycemia	predictedType:Disease
+ENTITY	text:polycythemia	normalName:polycythemia	predictedType:disease	q:true	qid:Q1411	docId:573555	origText:polycythemia	url:D011086
+CANDIDATE	id:11086	inCount:5	outCount:1	links:	url:D011086	name:Polycythemia	normalName:polycythemia	normalWikiTitle:polycythemia	predictedType:Disease
+ENTITY	text:bradycardia	normalName:bradycardia	predictedType:disease	q:true	qid:Q1411	docId:573555	origText:bradycardia	url:D001919
+CANDIDATE	id:1919	inCount:0	outCount:1	links:	url:D001919	name:Bradycardia	normalName:bradycardia	normalWikiTitle:bradycardia	predictedType:Disease
+ENTITY	text:Growth retardation	normalName:growth retardation	predictedType:disease	q:true	qid:Q1411	docId:573555	origText:Growth retardation	url:D005317
+CANDIDATE	id:5317	inCount:25	outCount:2	links:	url:D005317	name:Fetal Growth Retardation	normalName:fetal growth retardation	normalWikiTitle:fetal growth retardation	predictedType:Disease
+CANDIDATE	id:1183	inCount:0	outCount:1	links:	url:D001183	name:Arthus Reaction	normalName:arthus reaction	normalWikiTitle:arthus reaction	predictedType:Disease
+CANDIDATE	id:1946	inCount:0	outCount:1	links:	url:D001946	name:Breech Presentation	normalName:breech presentation	normalWikiTitle:breech presentation	predictedType:Disease
+CANDIDATE	id:38901	inCount:129	outCount:3	links:	url:D038901	name:Mental Retardation, X-Linked	normalName:mental retardation, x-linked	normalWikiTitle:mental retardation, x-linked	predictedType:Disease
+CANDIDATE	id:566980	inCount:0	outCount:2	links:	url:C566980	name:Mental Retardation, Fra12a Type	normalName:mental retardation, fra12a type	normalWikiTitle:mental retardation, fra12a type	predictedType:Disease
+CANDIDATE	id:563591	inCount:0	outCount:3	links:	url:C563591	name:Mental and Growth Retardation with Amblyopia	normalName:mental and growth retardation with amblyopia	normalWikiTitle:mental and growth retardation with amblyopia	predictedType:Disease
+CANDIDATE	id:13217	inCount:0	outCount:1	links:	url:D013217	name:Starvation	normalName:starvation	normalWikiTitle:starvation	predictedType:Disease
+CANDIDATE	id:17564	inCount:0	outCount:3	links:	url:D017564	name:Radiation Pneumonitis	normalName:radiation pneumonitis	normalWikiTitle:radiation pneumonitis	predictedType:Disease
+CANDIDATE	id:563095	inCount:0	outCount:3	links:	url:C563095	name:Mental Retardation, Buenos Aires Type	normalName:mental retardation, buenos aires type	normalWikiTitle:mental retardation, buenos aires type	predictedType:Disease
+CANDIDATE	id:1010	inCount:0	outCount:2	links:	url:D001010	name:Anxiety, Separation	normalName:anxiety, separation	normalWikiTitle:anxiety, separation	predictedType:Disease

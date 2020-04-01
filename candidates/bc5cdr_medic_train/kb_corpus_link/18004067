@@ -1,0 +1,4 @@
+ENTITY	text:Acute liver failure	normalName:acute liver failure	predictedType:disease	q:true	qid:Q452	docId:18004067	origText:Acute liver failure	url:D017114
+CANDIDATE	id:17114	inCount:3	outCount:1	links:17093	url:D017114	name:Liver Failure, Acute	normalName:liver failure, acute	normalWikiTitle:liver failure, acute	predictedType:Disease
+ENTITY	text:liver failure	normalName:liver failure	predictedType:disease	q:true	qid:Q452	docId:18004067	origText:liver failure	url:D017093
+CANDIDATE	id:17093	inCount:5	outCount:1	links:17114	url:D017093	name:Liver Failure	normalName:liver failure	normalWikiTitle:liver failure	predictedType:Disease

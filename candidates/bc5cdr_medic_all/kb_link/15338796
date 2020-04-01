@@ -1,0 +1,4 @@
+ENTITY	text:Tremor	normalName:tremor	predictedType:disease	q:true	qid:Q658	docId:15338796	origText:Tremor	url:D014202
+CANDIDATE	id:14202	inCount:6	outCount:1	links:	url:D014202	name:Tremor	normalName:tremor	normalWikiTitle:tremor	predictedType:Disease
+ENTITY	text:obstructive lung disease	normalName:obstructive lung disease	predictedType:disease	q:true	qid:Q658	docId:15338796	origText:obstructive lung disease	url:D008173
+CANDIDATE	id:8173	inCount:3	outCount:1	links:	url:D008173	name:Obstructive Lung Disease	normalName:obstructive lung disease	normalWikiTitle:obstructive lung disease	predictedType:Disease

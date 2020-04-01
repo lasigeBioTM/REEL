@@ -1,0 +1,53 @@
+ENTITY	text:Blepharoconjunctivitis	normalName:blepharoconjunctivitis	predictedType:disease	q:true	qid:Q827	docId:2931989	origText:Blepharoconjunctivitis	url:D003231
+CANDIDATE	id:3231	inCount:5	outCount:1	links:14786;11559;10787;10211;3318	url:D003231	name:Conjunctivitis	normalName:conjunctivitis	normalWikiTitle:conjunctivitis	predictedType:Disease
+CANDIDATE	id:7637	inCount:2	outCount:2	links:	url:D007637	name:Keratoconjunctivitis	normalName:keratoconjunctivitis	normalWikiTitle:keratoconjunctivitis	predictedType:Disease
+CANDIDATE	id:3233	inCount:0	outCount:2	links:	url:D003233	name:Conjunctivitis, Allergic	normalName:conjunctivitis, allergic	normalWikiTitle:conjunctivitis, allergic	predictedType:Disease
+CANDIDATE	id:3234	inCount:3	outCount:2	links:	url:D003234	name:Conjunctivitis, Bacterial	normalName:conjunctivitis, bacterial	normalWikiTitle:conjunctivitis, bacterial	predictedType:Disease
+CANDIDATE	id:7638	inCount:1	outCount:2	links:	url:D007638	name:Keratoconjunctivitis Sicca	normalName:keratoconjunctivitis sicca	normalWikiTitle:keratoconjunctivitis sicca	predictedType:Disease
+CANDIDATE	id:3236	inCount:1	outCount:2	links:	url:D003236	name:Conjunctivitis, Viral	normalName:conjunctivitis, viral	normalWikiTitle:conjunctivitis, viral	predictedType:Disease
+CANDIDATE	id:1762	inCount:1	outCount:1	links:	url:D001762	name:Blepharitis	normalName:blepharitis	normalWikiTitle:blepharitis	predictedType:Disease
+CANDIDATE	id:7639	inCount:0	outCount:3	links:	url:D007639	name:Keratoconjunctivitis, Infectious	normalName:keratoconjunctivitis, infectious	normalWikiTitle:keratoconjunctivitis, infectious	predictedType:Disease
+CANDIDATE	id:1763	inCount:24	outCount:1	links:	url:D001763	name:Blepharoptosis	normalName:blepharoptosis	normalWikiTitle:blepharoptosis	predictedType:Disease
+CANDIDATE	id:3235	inCount:0	outCount:2	links:	url:D003235	name:Conjunctivitis, Inclusion	normalName:conjunctivitis, inclusion	normalWikiTitle:conjunctivitis, inclusion	predictedType:Disease
+ENTITY	text:microphthalmos	normalName:microphthalmos	predictedType:disease	q:true	qid:Q827	docId:2931989	origText:microphthalmos	url:D008850
+CANDIDATE	id:8850	inCount:69	outCount:1	links:	url:D008850	name:Microphthalmos	normalName:microphthalmos	normalWikiTitle:microphthalmos	predictedType:Disease
+ENTITY	text:papilledema	normalName:papilledema	predictedType:disease	q:true	qid:Q827	docId:2931989	origText:papilledema	url:D010211
+CANDIDATE	id:10211	inCount:0	outCount:1	links:3318;14786;10787;11559;3231	url:D010211	name:Papilledema	normalName:papilledema	normalWikiTitle:papilledema	predictedType:Disease
+ENTITY	text:corneal opacities	normalName:corneal opacities	predictedType:disease	q:true	qid:Q827	docId:2931989	origText:corneal opacities	url:D003318
+CANDIDATE	id:3318	inCount:9	outCount:1	links:14786;11559;10787;10211;3231	url:D003318	name:Opacities, Corneal	normalName:opacities, corneal	normalWikiTitle:opacities, corneal	predictedType:Disease
+ENTITY	text:pseudotumor cerebri	normalName:pseudotumor cerebri	predictedType:disease	q:true	qid:Q827	docId:2931989	origText:pseudotumor cerebri	url:D011559
+CANDIDATE	id:11559	inCount:1	outCount:1	links:3318;14786;10787;10211;3231	url:D011559	name:Pseudotumor Cerebri	normalName:pseudotumor cerebri	normalWikiTitle:pseudotumor cerebri	predictedType:Disease
+ENTITY	text:congenital abnormalities	normalName:congenital abnormalities	predictedType:disease	q:true	qid:Q827	docId:2931989	origText:congenital abnormalities	url:D000013
+CANDIDATE	id:13	inCount:50	outCount:1	links:	url:D000013	name:Congenital Abnormalities	normalName:congenital abnormalities	normalWikiTitle:congenital abnormalities	predictedType:Disease
+ENTITY	text:photodermatitis	normalName:photodermatitis	predictedType:disease	q:true	qid:Q827	docId:2931989	origText:photodermatitis	url:D010787
+CANDIDATE	id:10787	inCount:16	outCount:1	links:3318;14786;11559;10211;3231	url:D010787	name:Photodermatitis	normalName:photodermatitis	normalWikiTitle:photodermatitis	predictedType:Disease
+ENTITY	text:blurred vision	normalName:blurred vision	predictedType:disease	q:true	qid:Q827	docId:2931989	origText:blurred vision	url:D014786
+CANDIDATE	id:14786	inCount:19	outCount:2	links:3318;3231;10787;11559;10211;9901	url:D014786	name:Vision Disorders	normalName:vision disorders	normalWikiTitle:vision disorders	predictedType:Disease
+CANDIDATE	id:15354	inCount:0	outCount:1	links:	url:D015354	name:Vision, Low	normalName:vision, low	normalWikiTitle:vision, low	predictedType:Disease
+CANDIDATE	id:3117	inCount:12	outCount:2	links:	url:D003117	name:Color Vision Defects	normalName:color vision defects	normalWikiTitle:color vision defects	predictedType:Disease
+CANDIDATE	id:11004	inCount:0	outCount:1	links:	url:D011004	name:Plummer-Vinson Syndrome	normalName:plummer-vinson syndrome	normalWikiTitle:plummer-vinson syndrome	predictedType:Disease
+CANDIDATE	id:18329	inCount:2	outCount:1	links:	url:D018329	name:Nevus, Blue	normalName:nevus, blue	normalWikiTitle:nevus, blue	predictedType:Disease
+CANDIDATE	id:7855	inCount:1	outCount:1	links:	url:D007855	name:Lead Poisoning	normalName:lead poisoning	normalWikiTitle:lead poisoning	predictedType:Disease
+CANDIDATE	id:5458	inCount:0	outCount:1	links:	url:D005458	name:Fluoride Poisoning	normalName:fluoride poisoning	normalWikiTitle:fluoride poisoning	predictedType:Disease
+CANDIDATE	id:1899	inCount:2	outCount:2	links:	url:D001899	name:Borrelia Infections	normalName:borrelia infections	normalWikiTitle:borrelia infections	predictedType:Disease
+CANDIDATE	id:565061	inCount:0	outCount:1	links:	url:C565061	name:EDS VIIB	normalName:eds viib	normalWikiTitle:eds viib	predictedType:Disease
+CANDIDATE	id:44342	inCount:5	outCount:1	links:	url:D044342	name:Malnutrition	normalName:malnutrition	normalWikiTitle:malnutrition	predictedType:Disease
+CANDIDATE	id:4172	inCount:0	outCount:1	links:	url:D004172	name:Double Vision	normalName:double vision	normalWikiTitle:double vision	predictedType:Disease
+CANDIDATE	id:4172	inCount:0	outCount:1	links:	url:D004172	name:Vision, Double	normalName:vision, double	normalWikiTitle:vision, double	predictedType:Disease
+CANDIDATE	id:15354	inCount:0	outCount:1	links:	url:D015354	name:Vision, Reduced	normalName:vision, reduced	normalWikiTitle:vision, reduced	predictedType:Disease
+CANDIDATE	id:15354	inCount:0	outCount:1	links:	url:D015354	name:Reduced Vision	normalName:reduced vision	normalWikiTitle:reduced vision	predictedType:Disease
+ENTITY	text:optic nerve hypoplasia	normalName:optic nerve hypoplasia	predictedType:disease	q:true	qid:Q827	docId:2931989	origText:optic nerve hypoplasia	url:C563492
+CANDIDATE	id:563492	inCount:0	outCount:1	links:	url:C563492	name:Optic Nerve Hypoplasia, Bilateral	normalName:optic nerve hypoplasia, bilateral	normalWikiTitle:optic nerve hypoplasia, bilateral	predictedType:Disease
+CANDIDATE	id:19574	inCount:2	outCount:2	links:	url:D019574	name:Optic Nerve Neoplasms	normalName:optic nerve neoplasms	normalWikiTitle:optic nerve neoplasms	predictedType:Disease
+CANDIDATE	id:20339	inCount:0	outCount:2	links:	url:D020339	name:Optic Nerve Glioma	normalName:optic nerve glioma	normalWikiTitle:optic nerve glioma	predictedType:Disease
+CANDIDATE	id:535682	inCount:0	outCount:1	links:	url:C535682	name:Right ventricle hypoplasia	normalName:right ventricle hypoplasia	normalWikiTitle:right ventricle hypoplasia	predictedType:Disease
+CANDIDATE	id:563493	inCount:0	outCount:1	links:	url:C563493	name:Optic Nerve Aplasia, Bilateral	normalName:optic nerve aplasia, bilateral	normalWikiTitle:optic nerve aplasia, bilateral	predictedType:Disease
+CANDIDATE	id:563028	inCount:1	outCount:1	links:	url:C563028	name:Splenic Hypoplasia	normalName:splenic hypoplasia	normalWikiTitle:splenic hypoplasia	predictedType:Disease
+CANDIDATE	id:537130	inCount:0	outCount:1	links:	url:C537130	name:Optic nerve hypoplasia, familial bilateral	normalName:optic nerve hypoplasia, familial bilateral	normalWikiTitle:optic nerve hypoplasia, familial bilateral	predictedType:Disease
+CANDIDATE	id:11470	inCount:1	outCount:1	links:	url:D011470	name:Prostatic Hyperplasia	normalName:prostatic hyperplasia	normalWikiTitle:prostatic hyperplasia	predictedType:Disease
+CANDIDATE	id:567715	inCount:0	outCount:1	links:	url:C567715	name:Polymicrogyria With Optic Nerve Hypoplasia	normalName:polymicrogyria with optic nerve hypoplasia	normalWikiTitle:polymicrogyria with optic nerve hypoplasia	predictedType:Disease
+CANDIDATE	id:9901	inCount:13	outCount:2	links:14786	url:D009901	name:Optic Nerve Diseases	normalName:optic nerve diseases	normalWikiTitle:optic nerve diseases	predictedType:Disease
+ENTITY	text:hypertelorism	normalName:hypertelorism	predictedType:disease	q:true	qid:Q827	docId:2931989	origText:hypertelorism	url:D006972
+CANDIDATE	id:6972	inCount:27	outCount:1	links:	url:D006972	name:Hypertelorism	normalName:hypertelorism	normalWikiTitle:hypertelorism	predictedType:Disease
+ENTITY	text:acne	normalName:acne	predictedType:disease	q:true	qid:Q827	docId:2931989	origText:acne	url:D000152
+CANDIDATE	id:152	inCount:4	outCount:2	links:	url:D000152	name:Acne	normalName:acne	normalWikiTitle:acne	predictedType:Disease

@@ -1,0 +1,29 @@
+ENTITY	text:insomnia	normalName:insomnia	predictedType:disease	q:true	qid:Q137	docId:7803371	origText:insomnia	url:D007319
+CANDIDATE	id:7319	inCount:1	outCount:1	links:	url:D007319	name:Insomnia	normalName:insomnia	normalWikiTitle:insomnia	predictedType:Disease
+ENTITY	text:ataxia	normalName:ataxia	predictedType:disease	q:true	qid:Q137	docId:7803371	origText:ataxia	url:D001259
+CANDIDATE	id:1259	inCount:60	outCount:1	links:	url:D001259	name:Ataxia	normalName:ataxia	normalWikiTitle:ataxia	predictedType:Disease
+ENTITY	text:nystagmus	normalName:nystagmus	predictedType:disease	q:true	qid:Q137	docId:7803371	origText:nystagmus	url:C564088
+CANDIDATE	id:564088	inCount:0	outCount:2	links:	url:C564088	name:Nystagmus, Myoclonic	normalName:nystagmus, myoclonic	normalWikiTitle:nystagmus, myoclonic	predictedType:Disease
+CANDIDATE	id:13285	inCount:13	outCount:1	links:	url:D013285	name:Strabismus	normalName:strabismus	normalWikiTitle:strabismus	predictedType:Disease
+CANDIDATE	id:9759	inCount:8	outCount:1	links:	url:D009759	name:Nystagmus, Pathologic	normalName:nystagmus, pathologic	normalWikiTitle:nystagmus, pathologic	predictedType:Disease
+CANDIDATE	id:20417	inCount:17	outCount:2	links:	url:D020417	name:Nystagmus, Congenital	normalName:nystagmus, congenital	normalWikiTitle:nystagmus, congenital	predictedType:Disease
+CANDIDATE	id:3560	inCount:36	outCount:2	links:	url:D003560	name:Cysts	normalName:cysts	normalWikiTitle:cysts	predictedType:Disease
+CANDIDATE	id:4408	inCount:0	outCount:1	links:	url:D004408	name:Dysgeusia	normalName:dysgeusia	normalWikiTitle:dysgeusia	predictedType:Disease
+CANDIDATE	id:1845	inCount:3	outCount:2	links:	url:D001845	name:Bone Cysts	normalName:bone cysts	normalWikiTitle:bone cysts	predictedType:Disease
+CANDIDATE	id:9325	inCount:2	outCount:1	links:9325	url:D009325	name:Nausea	normalName:nausea	normalWikiTitle:nausea	predictedType:Disease
+CANDIDATE	id:52065	inCount:0	outCount:3	links:	url:D052065	name:Vaginismus	normalName:vaginismus	normalWikiTitle:vaginismus	predictedType:Disease
+CANDIDATE	id:18293	inCount:0	outCount:1	links:	url:D018293	name:Cystadenoma, Serous	normalName:cystadenoma, serous	normalWikiTitle:cystadenoma, serous	predictedType:Disease
+CANDIDATE	id:9759	inCount:8	outCount:1	links:	url:D009759	name:Jerk Nystagmus	normalName:jerk nystagmus	normalWikiTitle:jerk nystagmus	predictedType:Disease
+CANDIDATE	id:9759	inCount:8	outCount:1	links:	url:D009759	name:Nystagmus, Jerk	normalName:nystagmus, jerk	normalWikiTitle:nystagmus, jerk	predictedType:Disease
+CANDIDATE	id:9759	inCount:8	outCount:1	links:	url:D009759	name:Rotary Nystagmus	normalName:rotary nystagmus	normalWikiTitle:rotary nystagmus	predictedType:Disease
+CANDIDATE	id:9759	inCount:8	outCount:1	links:	url:D009759	name:Nystagmus, Rotary	normalName:nystagmus, rotary	normalWikiTitle:nystagmus, rotary	predictedType:Disease
+CANDIDATE	id:9759	inCount:8	outCount:1	links:	url:D009759	name:Rebound Nystagmus	normalName:rebound nystagmus	normalWikiTitle:rebound nystagmus	predictedType:Disease
+CANDIDATE	id:9759	inCount:8	outCount:1	links:	url:D009759	name:See-Saw Nystagmus	normalName:see-saw nystagmus	normalWikiTitle:see-saw nystagmus	predictedType:Disease
+CANDIDATE	id:9759	inCount:8	outCount:1	links:	url:D009759	name:Nystagmus, See-Saw	normalName:nystagmus, see-saw	normalWikiTitle:nystagmus, see-saw	predictedType:Disease
+CANDIDATE	id:9759	inCount:8	outCount:1	links:	url:D009759	name:Nystagmus, Rebound	normalName:nystagmus, rebound	normalWikiTitle:nystagmus, rebound	predictedType:Disease
+CANDIDATE	id:9759	inCount:8	outCount:1	links:	url:D009759	name:See Saw Nystagmus	normalName:see saw nystagmus	normalWikiTitle:see saw nystagmus	predictedType:Disease
+CANDIDATE	id:9759	inCount:8	outCount:1	links:	url:D009759	name:Nystagmus, Vertical	normalName:nystagmus, vertical	normalWikiTitle:nystagmus, vertical	predictedType:Disease
+ENTITY	text:nausea	normalName:nausea	predictedType:disease	q:true	qid:Q137	docId:7803371	origText:nausea	url:D009325
+CANDIDATE	id:9325	inCount:2	outCount:1	links:9325	url:D009325	name:Nausea	normalName:nausea	normalWikiTitle:nausea	predictedType:Disease
+ENTITY	text:restlessness	normalName:restlessness	predictedType:disease	q:true	qid:Q137	docId:7803371	origText:restlessness	url:D011595
+CANDIDATE	id:11595	inCount:1	outCount:2	links:	url:D011595	name:Restlessness	normalName:restlessness	normalWikiTitle:restlessness	predictedType:Disease

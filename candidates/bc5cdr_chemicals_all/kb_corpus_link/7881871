@@ -1,0 +1,6 @@
+ENTITY	text:puromycin aminonucleoside	normalName:puromycin aminonucleoside	predictedType:chemical	q:true	qid:Q769	docId:7881871	origText:puromycin aminonucleoside	url:D011692
+CANDIDATE	id:11692	inCount:4	outCount:2	links:	url:D011692	name:Puromycin Aminonucleoside	normalName:puromycin aminonucleoside	normalWikiTitle:puromycin aminonucleoside	predictedType:Chemical
+ENTITY	text:thiobarbituric acid	normalName:thiobarbituric acid	predictedType:chemical	q:true	qid:Q769	docId:7881871	origText:thiobarbituric acid	url:C029684
+CANDIDATE	id:29684	inCount:0	outCount:1	links:	url:C029684	name:thiobarbituric acid	normalName:thiobarbituric acid	normalWikiTitle:thiobarbituric acid	predictedType:Chemical
+ENTITY	text:oxygen	normalName:oxygen	predictedType:chemical	q:true	qid:Q769	docId:7881871	origText:oxygen	url:D010100
+CANDIDATE	id:10100	inCount:11	outCount:2	links:	url:D010100	name:Oxygen	normalName:oxygen	normalWikiTitle:oxygen	predictedType:Chemical

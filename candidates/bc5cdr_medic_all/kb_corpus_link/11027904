@@ -1,0 +1,18 @@
+ENTITY	text:opioid addicts	normalName:opioid addicts	predictedType:disease	q:true	qid:Q765	docId:11027904	origText:opioid addicts	url:D009293
+CANDIDATE	id:9293	inCount:3	outCount:1	links:	url:D009293	name:Opioid Addiction	normalName:opioid addiction	normalWikiTitle:opioid addiction	predictedType:Disease
+CANDIDATE	id:73932	inCount:0	outCount:1	links:	url:D000073932	name:Food Addiction	normalName:food addiction	normalWikiTitle:food addiction	predictedType:Disease
+CANDIDATE	id:74723	inCount:0	outCount:1	links:	url:D000074723	name:Oncogene Addiction	normalName:oncogene addiction	normalWikiTitle:oncogene addiction	predictedType:Disease
+CANDIDATE	id:56693	inCount:1	outCount:1	links:	url:D056693	name:Propionic Acidemia	normalName:propionic acidemia	normalWikiTitle:propionic acidemia	predictedType:Disease
+CANDIDATE	id:1098	inCount:0	outCount:1	links:	url:D001098	name:Spider Bites	normalName:spider bites	normalWikiTitle:spider bites	predictedType:Disease
+CANDIDATE	id:12810	inCount:2	outCount:1	links:	url:D012810	name:Sigmoid Diseases	normalName:sigmoid diseases	normalWikiTitle:sigmoid diseases	predictedType:Disease
+CANDIDATE	id:17205	inCount:3	outCount:1	links:	url:D017205	name:Spirurida Infections	normalName:spirurida infections	normalWikiTitle:spirurida infections	predictedType:Disease
+CANDIDATE	id:10305	inCount:3	outCount:1	links:	url:D010305	name:Parotid Diseases	normalName:parotid diseases	normalWikiTitle:parotid diseases	predictedType:Disease
+CANDIDATE	id:10382	inCount:0	outCount:2	links:	url:D010382	name:Peliosis Hepatis	normalName:peliosis hepatis	normalWikiTitle:peliosis hepatis	predictedType:Disease
+CANDIDATE	id:9293	inCount:3	outCount:1	links:	url:D009293	name:Opioid-Related Disorders	normalName:opioid-related disorders	normalWikiTitle:opioid-related disorders	predictedType:Disease
+CANDIDATE	id:4483	inCount:2	outCount:1	links:	url:D004483	name:Ectropion	normalName:ectropion	normalWikiTitle:ectropion	predictedType:Disease
+CANDIDATE	id:9293	inCount:3	outCount:1	links:	url:D009293	name:Opioid Addictions	normalName:opioid addictions	normalWikiTitle:opioid addictions	predictedType:Disease
+CANDIDATE	id:9293	inCount:3	outCount:1	links:	url:D009293	name:Addictions, Opioid	normalName:addictions, opioid	normalWikiTitle:addictions, opioid	predictedType:Disease
+CANDIDATE	id:9293	inCount:3	outCount:1	links:	url:D009293	name:Addiction, Opioid	normalName:addiction, opioid	normalWikiTitle:addiction, opioid	predictedType:Disease
+CANDIDATE	id:73932	inCount:0	outCount:1	links:	url:D000073932	name:Food Addictions	normalName:food addictions	normalWikiTitle:food addictions	predictedType:Disease
+ENTITY	text:Pain	normalName:pain	predictedType:disease	q:true	qid:Q765	docId:11027904	origText:Pain	url:D010146
+CANDIDATE	id:10146	inCount:34	outCount:1	links:	url:D010146	name:Pain	normalName:pain	normalWikiTitle:pain	predictedType:Disease

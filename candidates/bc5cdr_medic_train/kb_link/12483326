@@ -1,0 +1,37 @@
+ENTITY	text:retinal detachment	normalName:retinal detachment	predictedType:disease	q:true	qid:Q322	docId:12483326	origText:retinal detachment	url:D012163
+CANDIDATE	id:12163	inCount:10	outCount:1	links:	url:D012163	name:Retinal Detachment	normalName:retinal detachment	normalWikiTitle:retinal detachment	predictedType:Disease
+ENTITY	text:chorioretinal atrophy	normalName:chorioretinal atrophy	predictedType:disease	q:true	qid:Q322	docId:12483326	origText:chorioretinal atrophy	url:C566236
+CANDIDATE	id:566236	inCount:0	outCount:2	links:	url:C566236	name:Sveinsson Chorioretinal Atrophy	normalName:sveinsson chorioretinal atrophy	normalWikiTitle:sveinsson chorioretinal atrophy	predictedType:Disease
+CANDIDATE	id:55093	inCount:3	outCount:1	links:	url:D055093	name:Periodontal Atrophy	normalName:periodontal atrophy	normalWikiTitle:periodontal atrophy	predictedType:Disease
+CANDIDATE	id:535356	inCount:0	outCount:1	links:	url:C535356	name:Chorioretinal atrophy, progressive bifocal	normalName:chorioretinal atrophy, progressive bifocal	normalWikiTitle:chorioretinal atrophy, progressive bifocal	predictedType:Disease
+CANDIDATE	id:616188	inCount:0	outCount:2	links:	url:616188	name:RETINAL DYSTROPHY AND OBESITY	normalName:retinal dystrophy and obesity	normalWikiTitle:retinal dystrophy and obesity	predictedType:Disease
+CANDIDATE	id:608850	inCount:0	outCount:1	links:	url:608850	name:MACULAR DYSTROPHY, RETINAL, 3	normalName:macular dystrophy, retinal, 3	normalWikiTitle:macular dystrophy, retinal, 3	predictedType:Disease
+CANDIDATE	id:15356	inCount:1	outCount:2	links:	url:D015356	name:Retinal Artery Occlusion	normalName:retinal artery occlusion	normalWikiTitle:retinal artery occlusion	predictedType:Disease
+CANDIDATE	id:562746	inCount:0	outCount:1	links:	url:C562746	name:Macular Dystrophy, Retinal, 2	normalName:macular dystrophy, retinal, 2	normalWikiTitle:macular dystrophy, retinal, 2	predictedType:Disease
+CANDIDATE	id:566801	inCount:0	outCount:2	links:	url:C566801	name:Pigmented Paravenous Chorioretinal Atrophy	normalName:pigmented paravenous chorioretinal atrophy	normalWikiTitle:pigmented paravenous chorioretinal atrophy	predictedType:Disease
+CANDIDATE	id:564392	inCount:0	outCount:2	links:	url:C564392	name:Bothnia Retinal Dystrophy	normalName:bothnia retinal dystrophy	normalWikiTitle:bothnia retinal dystrophy	predictedType:Disease
+CANDIDATE	id:566483	inCount:0	outCount:1	links:	url:C566483	name:Retinal Cone Dystrophy 3A	normalName:retinal cone dystrophy 3a	normalWikiTitle:retinal cone dystrophy 3a	predictedType:Disease
+ENTITY	text:glioblastomas	normalName:glioblastomas	predictedType:disease	q:true	qid:Q322	docId:12483326	origText:glioblastomas	url:D005909
+CANDIDATE	id:5909	inCount:0	outCount:1	links:5909	url:D005909	name:Glioblastoma	normalName:glioblastoma	normalWikiTitle:glioblastoma	predictedType:Disease
+ENTITY	text:optic atrophy	normalName:optic atrophy	predictedType:disease	q:true	qid:Q322	docId:12483326	origText:optic atrophy	url:D009896
+CANDIDATE	id:9896	inCount:24	outCount:1	links:	url:D009896	name:Optic Atrophy	normalName:optic atrophy	normalWikiTitle:optic atrophy	predictedType:Disease
+ENTITY	text:papilledema	normalName:papilledema	predictedType:disease	q:true	qid:Q322	docId:12483326	origText:papilledema	url:D010211
+CANDIDATE	id:10211	inCount:0	outCount:1	links:	url:D010211	name:Papilledema	normalName:papilledema	normalWikiTitle:papilledema	predictedType:Disease
+ENTITY	text:Glioblastoma	normalName:glioblastoma	predictedType:disease	q:true	qid:Q322	docId:12483326	origText:Glioblastoma	url:D005909
+CANDIDATE	id:5909	inCount:0	outCount:1	links:5909	url:D005909	name:Glioblastoma	normalName:glioblastoma	normalWikiTitle:glioblastoma	predictedType:Disease
+ENTITY	text:glaucoma	normalName:glaucoma	predictedType:disease	q:true	qid:Q322	docId:12483326	origText:glaucoma	url:D005901
+CANDIDATE	id:5901	inCount:34	outCount:1	links:	url:D005901	name:Glaucoma	normalName:glaucoma	normalWikiTitle:glaucoma	predictedType:Disease
+ENTITY	text:toxicity	normalName:toxicity	predictedType:disease	q:true	qid:Q322	docId:12483326	origText:toxicity	url:D064420
+CANDIDATE	id:64420	inCount:10	outCount:1	links:	url:D064420	name:Drug Toxicity	normalName:drug toxicity	normalWikiTitle:drug toxicity	predictedType:Disease
+CANDIDATE	id:66126	inCount:0	outCount:3	links:	url:D066126	name:Cardiotoxicity	normalName:cardiotoxicity	normalWikiTitle:cardiotoxicity	predictedType:Disease
+CANDIDATE	id:15651	inCount:2	outCount:1	links:	url:D015651	name:Mycotoxicosis	normalName:mycotoxicosis	normalWikiTitle:mycotoxicosis	predictedType:Disease
+CANDIDATE	id:13971	inCount:2	outCount:1	links:	url:D013971	name:Thyrotoxicosis	normalName:thyrotoxicosis	normalWikiTitle:thyrotoxicosis	predictedType:Disease
+CANDIDATE	id:14869	inCount:0	outCount:2	links:	url:D014869	name:Water Intoxication	normalName:water intoxication	normalWikiTitle:water intoxication	predictedType:Disease
+CANDIDATE	id:14103	inCount:4	outCount:2	links:	url:D014103	name:Torticollis	normalName:torticollis	normalWikiTitle:torticollis	predictedType:Disease
+CANDIDATE	id:9765	inCount:42	outCount:2	links:	url:D009765	name:Obesity	normalName:obesity	normalWikiTitle:obesity	predictedType:Disease
+CANDIDATE	id:14115	inCount:1	outCount:1	links:	url:D014115	name:Toxemia	normalName:toxemia	normalWikiTitle:toxemia	predictedType:Disease
+CANDIDATE	id:7246	inCount:2	outCount:2	links:	url:D007246	name:Infertility	normalName:infertility	normalWikiTitle:infertility	predictedType:Disease
+CANDIDATE	id:20234	inCount:0	outCount:2	links:	url:D020234	name:Gait Ataxia	normalName:gait ataxia	normalWikiTitle:gait ataxia	predictedType:Disease
+CANDIDATE	id:14069	inCount:1	outCount:1	links:	url:D014069	name:Tonsillitis	normalName:tonsillitis	normalWikiTitle:tonsillitis	predictedType:Disease
+CANDIDATE	id:64420	inCount:10	outCount:1	links:	url:D064420	name:Toxicity, Drug	normalName:toxicity, drug	normalWikiTitle:toxicity, drug	predictedType:Disease
+CANDIDATE	id:17484	inCount:0	outCount:2	links:	url:D017484	name:Phototoxicity	normalName:phototoxicity	normalWikiTitle:phototoxicity	predictedType:Disease

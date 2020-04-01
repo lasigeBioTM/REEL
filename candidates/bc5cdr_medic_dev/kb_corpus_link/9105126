@@ -1,0 +1,13 @@
+ENTITY	text:ventricular septal rupture	normalName:ventricular septal rupture	predictedType:disease	q:true	qid:Q44	docId:9105126	origText:ventricular septal rupture	url:D018658
+CANDIDATE	id:18658	inCount:0	outCount:1	links:18658	url:D018658	name:Ventricular Septal Rupture	normalName:ventricular septal rupture	normalWikiTitle:ventricular septal rupture	predictedType:Disease
+ENTITY	text:septal rupture	normalName:septal rupture	predictedType:disease	q:true	qid:Q44	docId:9105126	origText:septal rupture	url:D018658
+CANDIDATE	id:18658	inCount:0	outCount:1	links:18658	url:D018658	name:Ventricular Septal Rupture	normalName:ventricular septal rupture	normalWikiTitle:ventricular septal rupture	predictedType:Disease
+CANDIDATE	id:13275	inCount:0	outCount:3	links:	url:D013275	name:Stomach Rupture	normalName:stomach rupture	normalWikiTitle:stomach rupture	predictedType:Disease
+CANDIDATE	id:13161	inCount:1	outCount:3	links:	url:D013161	name:Splenic Rupture	normalName:splenic rupture	normalWikiTitle:splenic rupture	predictedType:Disease
+CANDIDATE	id:12422	inCount:1	outCount:1	links:	url:D012422	name:Rupture, Spontaneous	normalName:rupture, spontaneous	normalWikiTitle:rupture, spontaneous	predictedType:Disease
+CANDIDATE	id:12421	inCount:5	outCount:1	links:	url:D012421	name:Rupture	normalName:rupture	normalWikiTitle:rupture	predictedType:Disease
+CANDIDATE	id:16103	inCount:0	outCount:2	links:	url:D016103	name:Spinal Fractures	normalName:spinal fractures	normalWikiTitle:spinal fractures	predictedType:Disease
+CANDIDATE	id:13121	inCount:4	outCount:1	links:	url:D013121	name:Spinal Curvatures	normalName:spinal curvatures	normalWikiTitle:spinal curvatures	predictedType:Disease
+CANDIDATE	id:14597	inCount:1	outCount:3	links:	url:D014597	name:Uterine Rupture	normalName:uterine rupture	normalWikiTitle:uterine rupture	predictedType:Disease
+CANDIDATE	id:14525	inCount:0	outCount:1	links:	url:D014525	name:Urethral Stricture	normalName:urethral stricture	normalWikiTitle:urethral stricture	predictedType:Disease
+CANDIDATE	id:13978	inCount:1	outCount:2	links:	url:D013978	name:Tibial Fractures	normalName:tibial fractures	normalWikiTitle:tibial fractures	predictedType:Disease

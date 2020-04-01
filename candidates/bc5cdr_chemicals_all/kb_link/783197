@@ -1,0 +1,6 @@
+ENTITY	text:oxygen	normalName:oxygen	predictedType:chemical	q:true	qid:Q1488	docId:783197	origText:oxygen	url:D010100
+CANDIDATE	id:10100	inCount:11	outCount:2	links:	url:D010100	name:Oxygen	normalName:oxygen	normalWikiTitle:oxygen	predictedType:Chemical
+ENTITY	text:digitalis glycosides	normalName:digitalis glycosides	predictedType:chemical	q:true	qid:Q1488	docId:783197	origText:digitalis glycosides	url:D004071
+CANDIDATE	id:4071	inCount:10	outCount:2	links:	url:D004071	name:Digitalis Glycosides	normalName:digitalis glycosides	normalWikiTitle:digitalis glycosides	predictedType:Chemical
+ENTITY	text:ouabain	normalName:ouabain	predictedType:chemical	q:true	qid:Q1488	docId:783197	origText:ouabain	url:D010042
+CANDIDATE	id:10042	inCount:14	outCount:1	links:	url:D010042	name:Ouabain	normalName:ouabain	normalWikiTitle:ouabain	predictedType:Chemical

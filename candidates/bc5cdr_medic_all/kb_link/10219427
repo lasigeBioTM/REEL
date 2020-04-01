@@ -1,0 +1,6 @@
+ENTITY	text:loss of consciousness	normalName:loss of consciousness	predictedType:disease	q:true	qid:Q1361	docId:10219427	origText:loss of consciousness	url:D014474
+CANDIDATE	id:14474	inCount:4	outCount:1	links:	url:D014474	name:Consciousness, Loss of	normalName:consciousness, loss of	normalWikiTitle:consciousness, loss of	predictedType:Disease
+ENTITY	text:dyspnea	normalName:dyspnea	predictedType:disease	q:true	qid:Q1361	docId:10219427	origText:dyspnea	url:D004417
+CANDIDATE	id:4417	inCount:1	outCount:2	links:	url:D004417	name:Dyspnea	normalName:dyspnea	normalWikiTitle:dyspnea	predictedType:Disease
+ENTITY	text:pain	normalName:pain	predictedType:disease	q:true	qid:Q1361	docId:10219427	origText:pain	url:D010146
+CANDIDATE	id:10146	inCount:34	outCount:1	links:	url:D010146	name:Pain	normalName:pain	normalWikiTitle:pain	predictedType:Disease

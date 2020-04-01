@@ -1,0 +1,6 @@
+ENTITY	text:N-methyl-D-aspartate	normalName:n-methyl-d-aspartate	predictedType:chemical	q:true	qid:Q59	docId:24614773	origText:N-methyl-D-aspartate	url:D016202
+CANDIDATE	id:16202	inCount:3	outCount:1	links:	url:D016202	name:N-Methyl-D-aspartate	normalName:n-methyl-d-aspartate	normalWikiTitle:n-methyl-d-aspartate	predictedType:Chemical
+ENTITY	text:valproate	normalName:valproate	predictedType:chemical	q:true	qid:Q59	docId:24614773	origText:valproate	url:D014635
+CANDIDATE	id:14635	inCount:43	outCount:1	links:	url:D014635	name:Valproate	normalName:valproate	normalWikiTitle:valproate	predictedType:Chemical
+ENTITY	text:NMDA	normalName:nmda	predictedType:chemical	q:true	qid:Q59	docId:24614773	origText:NMDA	url:D016202
+CANDIDATE	id:16202	inCount:3	outCount:1	links:	url:D016202	name:NMDA	normalName:nmda	normalWikiTitle:nmda	predictedType:Chemical

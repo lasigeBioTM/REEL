@@ -1,0 +1,48 @@
+ENTITY	text:polyphenol	normalName:polyphenol	predictedType:chemical	q:true	qid:Q1276	docId:16584858	origText:polyphenol	url:D059808
+CANDIDATE	id:59808	inCount:30	outCount:2	links:	url:D059808	name:Polyphenols	normalName:polyphenols	normalWikiTitle:polyphenols	predictedType:Chemical
+CANDIDATE	id:434583	inCount:0	outCount:1	links:	url:C434583	name:polycaphenol	normalName:polycaphenol	normalWikiTitle:polycaphenol	predictedType:Chemical
+CANDIDATE	id:562293	inCount:0	outCount:1	links:	url:C562293	name:polysiphenol	normalName:polysiphenol	normalWikiTitle:polysiphenol	predictedType:Chemical
+CANDIDATE	id:81026	inCount:0	outCount:2	links:	url:D000081026	name:Polyprenols	normalName:polyprenols	normalWikiTitle:polyprenols	predictedType:Chemical
+CANDIDATE	id:506663	inCount:0	outCount:1	links:	url:C506663	name:polyphenon B	normalName:polyphenon b	normalWikiTitle:polyphenon b	predictedType:Chemical
+CANDIDATE	id:472086	inCount:0	outCount:1	links:	url:C472086	name:polyphenon E	normalName:polyphenon e	normalWikiTitle:polyphenon e	predictedType:Chemical
+CANDIDATE	id:474055	inCount:0	outCount:1	links:	url:C474055	name:octylphenol	normalName:octylphenol	normalWikiTitle:octylphenol	predictedType:Chemical
+CANDIDATE	id:25256	inCount:0	outCount:1	links:	url:C025256	name:nonylphenol	normalName:nonylphenol	normalWikiTitle:nonylphenol	predictedType:Chemical
+CANDIDATE	id:80638	inCount:0	outCount:1	links:	url:C080638	name:2-propylphenol	normalName:2-propylphenol	normalWikiTitle:2-propylphenol	predictedType:Chemical
+CANDIDATE	id:99327	inCount:0	outCount:1	links:	url:C099327	name:4-propylphenol	normalName:4-propylphenol	normalWikiTitle:4-propylphenol	predictedType:Chemical
+ENTITY	text:Vitamin E	normalName:vitamin e	predictedType:chemical	q:true	qid:Q1276	docId:16584858	origText:Vitamin E	url:D014810
+CANDIDATE	id:14810	inCount:73	outCount:1	links:	url:D014810	name:Vitamin E	normalName:vitamin e	normalWikiTitle:vitamin e	predictedType:Chemical
+ENTITY	text:dimethyl sulphoxide	normalName:dimethyl sulphoxide	predictedType:chemical	q:true	qid:Q1276	docId:16584858	origText:dimethyl sulphoxide	url:D004121
+CANDIDATE	id:4121	inCount:17	outCount:1	links:	url:D004121	name:Sulphoxide, Dimethyl	normalName:sulphoxide, dimethyl	normalWikiTitle:sulphoxide, dimethyl	predictedType:Chemical
+ENTITY	text:uric acid	normalName:uric acid	predictedType:chemical	q:true	qid:Q1276	docId:16584858	origText:uric acid	url:D014527
+CANDIDATE	id:14527	inCount:21	outCount:1	links:	url:D014527	name:Uric Acid	normalName:uric acid	normalWikiTitle:uric acid	predictedType:Chemical
+ENTITY	text:glutathione	normalName:glutathione	predictedType:chemical	q:true	qid:Q1276	docId:16584858	origText:glutathione	url:D005978
+CANDIDATE	id:5978	inCount:255	outCount:1	links:	url:D005978	name:Glutathione	normalName:glutathione	normalWikiTitle:glutathione	predictedType:Chemical
+ENTITY	text:isoproterenol	normalName:isoproterenol	predictedType:chemical	q:true	qid:Q1276	docId:16584858	origText:isoproterenol	url:D007545
+CANDIDATE	id:7545	inCount:12	outCount:2	links:	url:D007545	name:Isoproterenol	normalName:isoproterenol	normalWikiTitle:isoproterenol	predictedType:Chemical
+ENTITY	text:mangiferin	normalName:mangiferin	predictedType:chemical	q:true	qid:Q1276	docId:16584858	origText:mangiferin	url:C013592
+CANDIDATE	id:13592	inCount:0	outCount:1	links:	url:C013592	name:mangiferin	normalName:mangiferin	normalWikiTitle:mangiferin	predictedType:Chemical
+ENTITY	text:creatine	normalName:creatine	predictedType:chemical	q:true	qid:Q1276	docId:16584858	origText:creatine	url:D003401
+CANDIDATE	id:3401	inCount:7	outCount:2	links:	url:D003401	name:Creatine	normalName:creatine	normalWikiTitle:creatine	predictedType:Chemical
+ENTITY	text:iron	normalName:iron	predictedType:chemical	q:true	qid:Q1276	docId:16584858	origText:iron	url:D007501
+CANDIDATE	id:7501	inCount:40	outCount:2	links:	url:D007501	name:Iron	normalName:iron	normalWikiTitle:iron	predictedType:Chemical
+ENTITY	text:triphenyl tetrazolium chloride	normalName:triphenyl tetrazolium chloride	predictedType:chemical	q:true	qid:Q1276	docId:16584858	origText:triphenyl tetrazolium chloride	url:C009591
+CANDIDATE	id:9591	inCount:0	outCount:1	links:	url:C009591	name:2,3,5- triphenyl-2H-tetrazolium, chloride	normalName:2,3,5- triphenyl-2h-tetrazolium, chloride	normalWikiTitle:2,3,5- triphenyl-2h-tetrazolium, chloride	predictedType:Chemical
+CANDIDATE	id:12594	inCount:0	outCount:1	links:	url:C012594	name:triphenyltin chloride	normalName:triphenyltin chloride	normalWikiTitle:triphenyltin chloride	predictedType:Chemical
+CANDIDATE	id:7800	inCount:0	outCount:2	links:	url:C007800	name:furazolium chloride	normalName:furazolium chloride	normalWikiTitle:furazolium chloride	predictedType:Chemical
+CANDIDATE	id:420974	inCount:0	outCount:1	links:	url:C420974	name:triphenyllead chloride	normalName:triphenyllead chloride	normalWikiTitle:triphenyllead chloride	predictedType:Chemical
+CANDIDATE	id:16798	inCount:0	outCount:1	links:	url:C016798	name:triphenylphosphine gold chloride	normalName:triphenylphosphine gold chloride	normalWikiTitle:triphenylphosphine gold chloride	predictedType:Chemical
+CANDIDATE	id:40533	inCount:0	outCount:1	links:	url:C040533	name:trimethyltin chloride	normalName:trimethyltin chloride	normalWikiTitle:trimethyltin chloride	predictedType:Chemical
+CANDIDATE	id:621880	inCount:0	outCount:1	links:	url:C000621880	name:meso-(pentafluorophenyl)chlorin	normalName:meso-(pentafluorophenyl)chlorin	normalWikiTitle:meso-(pentafluorophenyl)chlorin	predictedType:Chemical
+CANDIDATE	id:554578	inCount:0	outCount:1	links:	url:C554578	name:neopentyl chloride	normalName:neopentyl chloride	normalWikiTitle:neopentyl chloride	predictedType:Chemical
+CANDIDATE	id:3723	inCount:0	outCount:1	links:	url:C003723	name:trityl chloride	normalName:trityl chloride	normalWikiTitle:trityl chloride	predictedType:Chemical
+CANDIDATE	id:14737	inCount:0	outCount:1	links:	url:C014737	name:pentafluorobenzoyl chloride	normalName:pentafluorobenzoyl chloride	normalWikiTitle:pentafluorobenzoyl chloride	predictedType:Chemical
+CANDIDATE	id:525175	inCount:0	outCount:1	links:	url:C525175	name:tetraphenyl porphyrinatoiron chloride	normalName:tetraphenyl porphyrinatoiron chloride	normalWikiTitle:tetraphenyl porphyrinatoiron chloride	predictedType:Chemical
+CANDIDATE	id:406794	inCount:0	outCount:1	links:	url:C406794	name:phenyl-4,5-dimethylthiazolium chloride	normalName:phenyl-4,5-dimethylthiazolium chloride	normalWikiTitle:phenyl-4,5-dimethylthiazolium chloride	predictedType:Chemical
+CANDIDATE	id:33303	inCount:0	outCount:1	links:	url:C033303	name:triphenyl tin fluoride	normalName:triphenyl tin fluoride	normalWikiTitle:triphenyl tin fluoride	predictedType:Chemical
+CANDIDATE	id:494145	inCount:0	outCount:1	links:	url:C494145	name:2,3-diphenyl-5-thienyl-(2)-tetrazolium chloride	normalName:2,3-diphenyl-5-thienyl-(2)-tetrazolium chloride	normalWikiTitle:2,3-diphenyl-5-thienyl-(2)-tetrazolium chloride	predictedType:Chemical
+ENTITY	text:Vitamin C	normalName:vitamin c	predictedType:chemical	q:true	qid:Q1276	docId:16584858	origText:Vitamin C	url:D001205
+CANDIDATE	id:1205	inCount:125	outCount:1	links:	url:D001205	name:Vitamin C	normalName:vitamin c	normalWikiTitle:vitamin c	predictedType:Chemical
+ENTITY	text:lactate	normalName:lactate	predictedType:chemical	q:true	qid:Q1276	docId:16584858	origText:lactate	url:D019344
+CANDIDATE	id:19344	inCount:38	outCount:1	links:	url:D019344	name:Lactate	normalName:lactate	normalWikiTitle:lactate	predictedType:Chemical
+ENTITY	text:superoxide	normalName:superoxide	predictedType:chemical	q:true	qid:Q1276	docId:16584858	origText:superoxide	url:D013481
+CANDIDATE	id:13481	inCount:1	outCount:1	links:	url:D013481	name:Superoxide	normalName:superoxide	normalWikiTitle:superoxide	predictedType:Chemical

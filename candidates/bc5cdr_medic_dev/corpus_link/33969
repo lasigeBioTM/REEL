@@ -1,0 +1,42 @@
+ENTITY	text:parkinsonian symptoms	normalName:parkinsonian symptoms	predictedType:disease	q:true	qid:Q218	docId:33969	origText:parkinsonian symptoms	url:D010302
+CANDIDATE	id:10302	inCount:4	outCount:1	links:	url:D010302	name:Parkinsonism, Symptomatic	normalName:parkinsonism, symptomatic	normalWikiTitle:parkinsonism, symptomatic	predictedType:Disease
+CANDIDATE	id:12816	inCount:38	outCount:1	links:	url:D012816	name:Signs and Symptoms	normalName:signs and symptoms	normalWikiTitle:signs and symptoms	predictedType:Disease
+CANDIDATE	id:62706	inCount:0	outCount:1	links:	url:D062706	name:Prodromal Symptoms	normalName:prodromal symptoms	normalWikiTitle:prodromal symptoms	predictedType:Disease
+CANDIDATE	id:14927	inCount:0	outCount:2	links:	url:D014927	name:Wolff-Parkinson-White Syndrome	normalName:wolff-parkinson-white syndrome	normalWikiTitle:wolff-parkinson-white syndrome	predictedType:Disease
+CANDIDATE	id:12818	inCount:18	outCount:1	links:	url:D012818	name:Signs and Symptoms, Respiratory	normalName:signs and symptoms, respiratory	normalWikiTitle:signs and symptoms, respiratory	predictedType:Disease
+CANDIDATE	id:536658	inCount:0	outCount:3	links:	url:C536658	name:Perisylvian syndrome	normalName:perisylvian syndrome	normalWikiTitle:perisylvian syndrome	predictedType:Disease
+CANDIDATE	id:536214	inCount:0	outCount:5	links:	url:C536214	name:Crisponi syndrome	normalName:crisponi syndrome	normalWikiTitle:crisponi syndrome	predictedType:Disease
+CANDIDATE	id:12817	inCount:18	outCount:1	links:	url:D012817	name:Signs and Symptoms, Digestive	normalName:signs and symptoms, digestive	normalWikiTitle:signs and symptoms, digestive	predictedType:Disease
+CANDIDATE	id:47808	inCount:2	outCount:1	links:	url:D047808	name:Adrenogenital Syndrome	normalName:adrenogenital syndrome	normalWikiTitle:adrenogenital syndrome	predictedType:Disease
+CANDIDATE	id:20447	inCount:7	outCount:1	links:	url:D020447	name:Parasomnias	normalName:parasomnias	normalWikiTitle:parasomnias	predictedType:Disease
+CANDIDATE	id:20734	inCount:10	outCount:2	links:	url:D020734	name:Parkinsonian Disorders	normalName:parkinsonian disorders	normalWikiTitle:parkinsonian disorders	predictedType:Disease
+CANDIDATE	id:20734	inCount:10	outCount:2	links:	url:D020734	name:Parkinsonian Syndromes	normalName:parkinsonian syndromes	normalWikiTitle:parkinsonian syndromes	predictedType:Disease
+CANDIDATE	id:20734	inCount:10	outCount:2	links:	url:D020734	name:Parkinsonian Syndrome	normalName:parkinsonian syndrome	normalWikiTitle:parkinsonian syndrome	predictedType:Disease
+CANDIDATE	id:10302	inCount:4	outCount:1	links:	url:D010302	name:Symptomatic Parkinsonism	normalName:symptomatic parkinsonism	normalWikiTitle:symptomatic parkinsonism	predictedType:Disease
+CANDIDATE	id:20734	inCount:10	outCount:2	links:	url:D020734	name:Parkinsonism	normalName:parkinsonism	normalWikiTitle:parkinsonism	predictedType:Disease
+ENTITY	text:depression	normalName:depression	predictedType:disease	q:true	qid:Q218	docId:33969	origText:depression	url:D003866
+CANDIDATE	id:3866	inCount:6	outCount:1	links:1008	url:D003866	name:Depressive Disorder	normalName:depressive disorder	normalWikiTitle:depressive disorder	predictedType:Disease
+CANDIDATE	id:18450	inCount:2	outCount:1	links:	url:D018450	name:Disease Progression	normalName:disease progression	normalWikiTitle:disease progression	predictedType:Disease
+CANDIDATE	id:19052	inCount:0	outCount:2	links:	url:D019052	name:Depression, Postpartum	normalName:depression, postpartum	normalWikiTitle:depression, postpartum	predictedType:Disease
+CANDIDATE	id:146850	inCount:0	outCount:2	links:	url:146850	name:IMMUNE SUPPRESSION	normalName:immune suppression	normalWikiTitle:immune suppression	predictedType:Disease
+CANDIDATE	id:6973	inCount:18	outCount:1	links:	url:D006973	name:Hypertension	normalName:hypertension	normalWikiTitle:hypertension	predictedType:Disease
+CANDIDATE	id:58246	inCount:0	outCount:1	links:	url:D058246	name:Prehypertension	normalName:prehypertension	normalWikiTitle:prehypertension	predictedType:Disease
+CANDIDATE	id:14786	inCount:19	outCount:2	links:	url:D014786	name:Vision Disorders	normalName:vision disorders	normalWikiTitle:vision disorders	predictedType:Disease
+CANDIDATE	id:3665	inCount:0	outCount:1	links:	url:D003665	name:Decompression Sickness	normalName:decompression sickness	normalWikiTitle:decompression sickness	predictedType:Disease
+CANDIDATE	id:12871	inCount:71	outCount:1	links:	url:D012871	name:Skin Diseases	normalName:skin diseases	normalWikiTitle:skin diseases	predictedType:Disease
+CANDIDATE	id:4688	inCount:1	outCount:2	links:	url:D004688	name:Encopresis	normalName:encopresis	normalWikiTitle:encopresis	predictedType:Disease
+CANDIDATE	id:1714	inCount:11	outCount:1	links:	url:D001714	name:Depression, Bipolar	normalName:depression, bipolar	normalWikiTitle:depression, bipolar	predictedType:Disease
+CANDIDATE	id:1714	inCount:11	outCount:1	links:	url:D001714	name:Bipolar Depression	normalName:bipolar depression	normalWikiTitle:bipolar depression	predictedType:Disease
+ENTITY	text:schizophrenic	normalName:schizophrenic	predictedType:disease	q:true	qid:Q218	docId:33969	origText:schizophrenic	url:D012559
+CANDIDATE	id:12559	inCount:4	outCount:1	links:	url:D012559	name:Schizophrenia	normalName:schizophrenia	normalWikiTitle:schizophrenia	predictedType:Disease
+CANDIDATE	id:12563	inCount:0	outCount:1	links:	url:D012563	name:Schizophrenia, Paranoid	normalName:schizophrenia, paranoid	normalWikiTitle:schizophrenia, paranoid	predictedType:Disease
+CANDIDATE	id:12561	inCount:0	outCount:1	links:	url:D012561	name:Schizophrenia, Childhood	normalName:schizophrenia, childhood	normalWikiTitle:schizophrenia, childhood	predictedType:Disease
+CANDIDATE	id:12560	inCount:0	outCount:1	links:	url:D012560	name:Schizophrenia, Catatonic	normalName:schizophrenia, catatonic	normalWikiTitle:schizophrenia, catatonic	predictedType:Disease
+CANDIDATE	id:12562	inCount:0	outCount:1	links:	url:D012562	name:Schizophrenia, Disorganized	normalName:schizophrenia, disorganized	normalWikiTitle:schizophrenia, disorganized	predictedType:Disease
+CANDIDATE	id:55948	inCount:0	outCount:1	links:	url:D055948	name:Sarcopenia	normalName:sarcopenia	normalWikiTitle:sarcopenia	predictedType:Disease
+CANDIDATE	id:65707	inCount:0	outCount:1	links:	url:D065707	name:Schizencephaly	normalName:schizencephaly	normalWikiTitle:schizencephaly	predictedType:Disease
+CANDIDATE	id:13369	inCount:0	outCount:2	links:	url:D013369	name:Subphrenic Abscess	normalName:subphrenic abscess	normalWikiTitle:subphrenic abscess	predictedType:Disease
+CANDIDATE	id:536634	inCount:0	outCount:1	links:	url:C536634	name:Schizotaxia	normalName:schizotaxia	normalWikiTitle:schizotaxia	predictedType:Disease
+CANDIDATE	id:2825	inCount:1	outCount:2	links:	url:D002825	name:Chorioretinitis	normalName:chorioretinitis	normalWikiTitle:chorioretinitis	predictedType:Disease
+ENTITY	text:anxiety	normalName:anxiety	predictedType:disease	q:true	qid:Q218	docId:33969	origText:anxiety	url:D001008
+CANDIDATE	id:1008	inCount:7	outCount:1	links:3866	url:D001008	name:ANXIETY	normalName:anxiety	normalWikiTitle:anxiety	predictedType:Disease

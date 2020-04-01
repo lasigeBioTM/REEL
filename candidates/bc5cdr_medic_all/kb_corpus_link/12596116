@@ -1,0 +1,8 @@
+ENTITY	text:necrotizing enterocolitis	normalName:necrotizing enterocolitis	predictedType:disease	q:true	qid:Q566	docId:12596116	origText:necrotizing enterocolitis	url:D020345
+CANDIDATE	id:20345	inCount:0	outCount:1	links:	url:D020345	name:Enterocolitis, Necrotizing	normalName:enterocolitis, necrotizing	normalWikiTitle:enterocolitis, necrotizing	predictedType:Disease
+ENTITY	text:pulmonary hypertension	normalName:pulmonary hypertension	predictedType:disease	q:true	qid:Q566	docId:12596116	origText:pulmonary hypertension	url:D006976
+CANDIDATE	id:6976	inCount:12	outCount:1	links:860	url:D006976	name:Hypertension, Pulmonary	normalName:hypertension, pulmonary	normalWikiTitle:hypertension, pulmonary	predictedType:Disease
+ENTITY	text:hypoxemia	normalName:hypoxemia	predictedType:disease	q:true	qid:Q566	docId:12596116	origText:hypoxemia	url:D000860
+CANDIDATE	id:860	inCount:1	outCount:1	links:6976	url:D000860	name:Hypoxemia	normalName:hypoxemia	normalWikiTitle:hypoxemia	predictedType:Disease
+ENTITY	text:fistula	normalName:fistula	predictedType:disease	q:true	qid:Q566	docId:12596116	origText:fistula	url:D005402
+CANDIDATE	id:5402	inCount:9	outCount:1	links:	url:D005402	name:Fistula	normalName:fistula	normalWikiTitle:fistula	predictedType:Disease

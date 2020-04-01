@@ -1,0 +1,52 @@
+ENTITY	text:cancer	normalName:cancer	predictedType:disease	q:true	qid:Q239	docId:11868798	origText:cancer	url:D009369
+CANDIDATE	id:9369	inCount:18	outCount:1	links:	url:D009369	name:Cancer	normalName:cancer	normalWikiTitle:cancer	predictedType:Disease
+ENTITY	text:hypokalemia	normalName:hypokalemia	predictedType:disease	q:true	qid:Q239	docId:11868798	origText:hypokalemia	url:D007008
+CANDIDATE	id:7008	inCount:1	outCount:1	links:	url:D007008	name:Hypokalemia	normalName:hypokalemia	normalWikiTitle:hypokalemia	predictedType:Disease
+ENTITY	text:toxicity	normalName:toxicity	predictedType:disease	q:true	qid:Q239	docId:11868798	origText:toxicity	url:D064420
+CANDIDATE	id:64420	inCount:10	outCount:1	links:	url:D064420	name:Drug Toxicity	normalName:drug toxicity	normalWikiTitle:drug toxicity	predictedType:Disease
+CANDIDATE	id:66126	inCount:0	outCount:3	links:	url:D066126	name:Cardiotoxicity	normalName:cardiotoxicity	normalWikiTitle:cardiotoxicity	predictedType:Disease
+CANDIDATE	id:15651	inCount:2	outCount:1	links:	url:D015651	name:Mycotoxicosis	normalName:mycotoxicosis	normalWikiTitle:mycotoxicosis	predictedType:Disease
+CANDIDATE	id:13971	inCount:2	outCount:1	links:	url:D013971	name:Thyrotoxicosis	normalName:thyrotoxicosis	normalWikiTitle:thyrotoxicosis	predictedType:Disease
+CANDIDATE	id:14869	inCount:0	outCount:2	links:	url:D014869	name:Water Intoxication	normalName:water intoxication	normalWikiTitle:water intoxication	predictedType:Disease
+CANDIDATE	id:14103	inCount:4	outCount:2	links:	url:D014103	name:Torticollis	normalName:torticollis	normalWikiTitle:torticollis	predictedType:Disease
+CANDIDATE	id:9765	inCount:42	outCount:2	links:	url:D009765	name:Obesity	normalName:obesity	normalWikiTitle:obesity	predictedType:Disease
+CANDIDATE	id:14115	inCount:1	outCount:1	links:	url:D014115	name:Toxemia	normalName:toxemia	normalWikiTitle:toxemia	predictedType:Disease
+CANDIDATE	id:7246	inCount:2	outCount:2	links:	url:D007246	name:Infertility	normalName:infertility	normalWikiTitle:infertility	predictedType:Disease
+CANDIDATE	id:20234	inCount:0	outCount:2	links:	url:D020234	name:Gait Ataxia	normalName:gait ataxia	normalWikiTitle:gait ataxia	predictedType:Disease
+CANDIDATE	id:14069	inCount:1	outCount:1	links:	url:D014069	name:Tonsillitis	normalName:tonsillitis	normalWikiTitle:tonsillitis	predictedType:Disease
+CANDIDATE	id:64420	inCount:10	outCount:1	links:	url:D064420	name:Toxicity, Drug	normalName:toxicity, drug	normalWikiTitle:toxicity, drug	predictedType:Disease
+CANDIDATE	id:17484	inCount:0	outCount:2	links:	url:D017484	name:Phototoxicity	normalName:phototoxicity	normalWikiTitle:phototoxicity	predictedType:Disease
+ENTITY	text:hematological disorders	normalName:hematological disorders	predictedType:disease	q:true	qid:Q239	docId:11868798	origText:hematological disorders	url:D006402
+CANDIDATE	id:6402	inCount:22	outCount:1	links:	url:D006402	name:Diseases, Hematological	normalName:diseases, hematological	normalWikiTitle:diseases, hematological	predictedType:Disease
+CANDIDATE	id:20141	inCount:11	outCount:2	links:	url:D020141	name:Hemostatic Disorders	normalName:hemostatic disorders	normalWikiTitle:hemostatic disorders	predictedType:Disease
+CANDIDATE	id:6402	inCount:22	outCount:1	links:	url:D006402	name:Hematologic Diseases	normalName:hematologic diseases	normalWikiTitle:hematologic diseases	predictedType:Disease
+CANDIDATE	id:6474	inCount:26	outCount:1	links:	url:D006474	name:Hemorrhagic Disorders	normalName:hemorrhagic disorders	normalWikiTitle:hemorrhagic disorders	predictedType:Disease
+CANDIDATE	id:20233	inCount:2	outCount:1	links:	url:D020233	name:Gait Disorders, Neurologic	normalName:gait disorders, neurologic	normalWikiTitle:gait disorders, neurologic	predictedType:Disease
+CANDIDATE	id:20967	inCount:3	outCount:1	links:	url:D020967	name:Myotonic Disorders	normalName:myotonic disorders	normalWikiTitle:myotonic disorders	predictedType:Disease
+CANDIDATE	id:1523	inCount:27	outCount:1	links:	url:D001523	name:Mental Disorders	normalName:mental disorders	normalWikiTitle:mental disorders	predictedType:Disease
+CANDIDATE	id:10698	inCount:2	outCount:1	links:	url:D010698	name:Phobic Disorders	normalName:phobic disorders	normalWikiTitle:phobic disorders	predictedType:Disease
+CANDIDATE	id:13981	inCount:1	outCount:2	links:	url:D013981	name:Tic Disorders	normalName:tic disorders	normalWikiTitle:tic disorders	predictedType:Disease
+CANDIDATE	id:19964	inCount:2	outCount:1	links:	url:D019964	name:Mood Disorders	normalName:mood disorders	normalWikiTitle:mood disorders	predictedType:Disease
+CANDIDATE	id:13001	inCount:5	outCount:1	links:	url:D013001	name:Somatoform Disorders	normalName:somatoform disorders	normalWikiTitle:somatoform disorders	predictedType:Disease
+CANDIDATE	id:6402	inCount:22	outCount:1	links:	url:D006402	name:Hematological Disease	normalName:hematological disease	normalWikiTitle:hematological disease	predictedType:Disease
+CANDIDATE	id:6402	inCount:22	outCount:1	links:	url:D006402	name:Disease, Hematological	normalName:disease, hematological	normalWikiTitle:disease, hematological	predictedType:Disease
+CANDIDATE	id:9422	inCount:27	outCount:1	links:	url:D009422	name:Disorders, Neurological	normalName:disorders, neurological	normalWikiTitle:disorders, neurological	predictedType:Disease
+CANDIDATE	id:6402	inCount:22	outCount:1	links:	url:D006402	name:Hematological Diseases	normalName:hematological diseases	normalWikiTitle:hematological diseases	predictedType:Disease
+CANDIDATE	id:66229	inCount:1	outCount:1	links:	url:D066229	name:Phonological Disorders	normalName:phonological disorders	normalWikiTitle:phonological disorders	predictedType:Disease
+CANDIDATE	id:9422	inCount:27	outCount:1	links:	url:D009422	name:Neurological Disorders	normalName:neurological disorders	normalWikiTitle:neurological disorders	predictedType:Disease
+CANDIDATE	id:66229	inCount:1	outCount:1	links:	url:D066229	name:Disorders, Phonological	normalName:disorders, phonological	normalWikiTitle:disorders, phonological	predictedType:Disease
+CANDIDATE	id:9422	inCount:27	outCount:1	links:	url:D009422	name:Disorder, Neurological	normalName:disorder, neurological	normalWikiTitle:disorder, neurological	predictedType:Disease
+CANDIDATE	id:66229	inCount:1	outCount:1	links:	url:D066229	name:Phonological Disorder	normalName:phonological disorder	normalWikiTitle:phonological disorder	predictedType:Disease
+ENTITY	text:fungal infection	normalName:fungal infection	predictedType:disease	q:true	qid:Q239	docId:11868798	origText:fungal infection	url:D009181
+CANDIDATE	id:9181	inCount:19	outCount:1	links:	url:D009181	name:Infection, Fungal	normalName:infection, fungal	normalWikiTitle:infection, fungal	predictedType:Disease
+ENTITY	text:neutropenic	normalName:neutropenic	predictedType:disease	q:true	qid:Q239	docId:11868798	origText:neutropenic	url:D009503
+CANDIDATE	id:9503	inCount:19	outCount:1	links:	url:D009503	name:Neutropenia	normalName:neutropenia	normalWikiTitle:neutropenia	predictedType:Disease
+CANDIDATE	id:536227	inCount:0	outCount:1	links:	url:C536227	name:Cyclic neutropenia	normalName:cyclic neutropenia	normalWikiTitle:cyclic neutropenia	predictedType:Disease
+CANDIDATE	id:7970	inCount:4	outCount:1	links:	url:D007970	name:Leukopenia	normalName:leukopenia	normalWikiTitle:leukopenia	predictedType:Disease
+CANDIDATE	id:64147	inCount:1	outCount:1	links:	url:D064147	name:Febrile Neutropenia	normalName:febrile neutropenia	normalWikiTitle:febrile neutropenia	predictedType:Disease
+CANDIDATE	id:55496	inCount:0	outCount:1	links:	url:D055496	name:Neurogenic Bowel	normalName:neurogenic bowel	normalWikiTitle:neurogenic bowel	predictedType:Disease
+CANDIDATE	id:9902	inCount:1	outCount:1	links:	url:D009902	name:Optic Neuritis	normalName:optic neuritis	normalWikiTitle:optic neuritis	predictedType:Disease
+CANDIDATE	id:13161	inCount:1	outCount:3	links:	url:D013161	name:Splenic Rupture	normalName:splenic rupture	normalWikiTitle:splenic rupture	predictedType:Disease
+CANDIDATE	id:11001	inCount:0	outCount:2	links:	url:D011001	name:Pleuropneumonia	normalName:pleuropneumonia	normalWikiTitle:pleuropneumonia	predictedType:Disease
+CANDIDATE	id:44504	inCount:0	outCount:1	links:	url:D044504	name:Enterocolitis, Neutropenic	normalName:enterocolitis, neutropenic	normalWikiTitle:enterocolitis, neutropenic	predictedType:Disease
+CANDIDATE	id:9440	inCount:0	outCount:1	links:	url:D009440	name:Neurasthenia	normalName:neurasthenia	normalWikiTitle:neurasthenia	predictedType:Disease

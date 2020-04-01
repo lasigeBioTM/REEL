@@ -1,0 +1,22 @@
+ENTITY	text:nitric oxide	normalName:nitric oxide	predictedType:chemical	q:true	qid:Q626	docId:12707296	origText:nitric oxide	url:D009569
+CANDIDATE	id:9569	inCount:13	outCount:3	links:	url:D009569	name:Nitric Oxide	normalName:nitric oxide	normalWikiTitle:nitric oxide	predictedType:Chemical
+ENTITY	text:L-arginine	normalName:l-arginine	predictedType:chemical	q:true	qid:Q626	docId:12707296	origText:L-arginine	url:D001120
+CANDIDATE	id:1120	inCount:190	outCount:3	links:1120	url:D001120	name:L Arginine	normalName:l arginine	normalWikiTitle:l arginine	predictedType:Chemical
+ENTITY	text:[3H]-l-arginine	normalName:[3h]-l-arginine	predictedType:chemical	q:true	qid:Q626	docId:12707296	origText:[3H]-l-arginine	url:D001120
+CANDIDATE	id:1120	inCount:190	outCount:3	links:1120	url:D001120	name:L Arginine	normalName:l arginine	normalWikiTitle:l arginine	predictedType:Chemical
+CANDIDATE	id:1120	inCount:190	outCount:3	links:1120	url:D001120	name:Arginine	normalName:arginine	normalWikiTitle:arginine	predictedType:Chemical
+CANDIDATE	id:33879	inCount:0	outCount:1	links:	url:C033879	name:argininal	normalName:argininal	normalWikiTitle:argininal	predictedType:Chemical
+CANDIDATE	id:461241	inCount:0	outCount:1	links:	url:C461241	name:thioarginine	normalName:thioarginine	normalWikiTitle:thioarginine	predictedType:Chemical
+CANDIDATE	id:6709	inCount:7	outCount:1	links:	url:D006709	name:Homoarginine	normalName:homoarginine	normalWikiTitle:homoarginine	predictedType:Chemical
+CANDIDATE	id:102782	inCount:0	outCount:2	links:	url:C102782	name:arganine J	normalName:arganine j	normalWikiTitle:arganine j	predictedType:Chemical
+CANDIDATE	id:102780	inCount:0	outCount:2	links:	url:C102780	name:arganine H	normalName:arganine h	normalWikiTitle:arganine h	predictedType:Chemical
+CANDIDATE	id:473293	inCount:0	outCount:2	links:	url:C473293	name:arganine C	normalName:arganine c	normalWikiTitle:arganine c	predictedType:Chemical
+CANDIDATE	id:66947	inCount:0	outCount:1	links:	url:C066947	name:magainin H	normalName:magainin h	normalWikiTitle:magainin h	predictedType:Chemical
+CANDIDATE	id:102781	inCount:0	outCount:2	links:	url:C102781	name:arganine G	normalName:arganine g	normalWikiTitle:arganine g	predictedType:Chemical
+CANDIDATE	id:15	inCount:0	outCount:1	links:	url:C000015	name:N-acetyl-L-arginine	normalName:n-acetyl-l-arginine	normalWikiTitle:n-acetyl-l-arginine	predictedType:Chemical
+CANDIDATE	id:1120	inCount:190	outCount:3	links:1120	url:D001120	name:L-Arginine	normalName:l-arginine	normalWikiTitle:l-arginine	predictedType:Chemical
+CANDIDATE	id:54141	inCount:0	outCount:2	links:	url:C054141	name:argiopinine 3	normalName:argiopinine 3	normalWikiTitle:argiopinine 3	predictedType:Chemical
+ENTITY	text:cortisol	normalName:cortisol	predictedType:chemical	q:true	qid:Q626	docId:12707296	origText:cortisol	url:D006854
+CANDIDATE	id:6854	inCount:91	outCount:3	links:	url:D006854	name:Cortisol	normalName:cortisol	normalWikiTitle:cortisol	predictedType:Chemical
+ENTITY	text:Hydrocortisone acetate	normalName:hydrocortisone acetate	predictedType:chemical	q:true	qid:Q626	docId:12707296	origText:Hydrocortisone acetate	url:C021650
+CANDIDATE	id:21650	inCount:0	outCount:1	links:	url:C021650	name:hydrocortisone acetate	normalName:hydrocortisone acetate	normalWikiTitle:hydrocortisone acetate	predictedType:Chemical

@@ -1,0 +1,10 @@
+ENTITY	text:deaths	normalName:deaths	predictedType:disease	q:true	qid:Q53	docId:3101906	origText:deaths	url:D003643
+CANDIDATE	id:3643	inCount:11	outCount:1	links:	url:D003643	name:Death	normalName:death	normalWikiTitle:death	predictedType:Disease
+ENTITY	text:cholestasis	normalName:cholestasis	predictedType:disease	q:true	qid:Q53	docId:3101906	origText:cholestasis	url:D002779
+CANDIDATE	id:2779	inCount:14	outCount:1	links:4802;7565	url:D002779	name:Cholestasis	normalName:cholestasis	normalWikiTitle:cholestasis	predictedType:Disease
+ENTITY	text:rash	normalName:rash	predictedType:disease	q:true	qid:Q53	docId:3101906	origText:rash	url:D005076
+CANDIDATE	id:5076	inCount:1	outCount:1	links:	url:D005076	name:Rash	normalName:rash	normalWikiTitle:rash	predictedType:Disease
+ENTITY	text:eosinophilia	normalName:eosinophilia	predictedType:disease	q:true	qid:Q53	docId:3101906	origText:eosinophilia	url:D004802
+CANDIDATE	id:4802	inCount:14	outCount:1	links:7565;2779	url:D004802	name:Eosinophilia	normalName:eosinophilia	normalWikiTitle:eosinophilia	predictedType:Disease
+ENTITY	text:jaundice	normalName:jaundice	predictedType:disease	q:true	qid:Q53	docId:3101906	origText:jaundice	url:D007565
+CANDIDATE	id:7565	inCount:5	outCount:2	links:4802;2779	url:D007565	name:Jaundice	normalName:jaundice	normalWikiTitle:jaundice	predictedType:Disease

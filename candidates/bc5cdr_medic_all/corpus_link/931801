@@ -1,0 +1,13 @@
+ENTITY	text:renal failure	normalName:renal failure	predictedType:disease	q:true	qid:Q1349	docId:931801	origText:renal failure	url:D051437
+CANDIDATE	id:51437	inCount:10	outCount:1	links:58186	url:D051437	name:Renal Failure	normalName:renal failure	normalWikiTitle:renal failure	predictedType:Disease
+ENTITY	text:Dehydrated	normalName:dehydrated	predictedType:disease	q:true	qid:Q1349	docId:931801	origText:Dehydrated	url:D003681
+CANDIDATE	id:3681	inCount:0	outCount:2	links:	url:D003681	name:Dehydration	normalName:dehydration	normalWikiTitle:dehydration	predictedType:Disease
+CANDIDATE	id:6229	inCount:1	outCount:1	links:	url:D006229	name:Hand Dermatoses	normalName:hand dermatoses	normalWikiTitle:hand dermatoses	predictedType:Disease
+CANDIDATE	id:3643	inCount:11	outCount:1	links:	url:D003643	name:Death	normalName:death	normalWikiTitle:death	predictedType:Disease
+CANDIDATE	id:270	inCount:1	outCount:3	links:	url:D000270	name:Adie Syndrome	normalName:adie syndrome	normalWikiTitle:adie syndrome	predictedType:Disease
+CANDIDATE	id:6833	inCount:0	outCount:1	links:	url:D006833	name:Hydrarthrosis	normalName:hydrarthrosis	normalWikiTitle:hydrarthrosis	predictedType:Disease
+CANDIDATE	id:536317	inCount:0	outCount:4	links:	url:C536317	name:PEHO syndrome	normalName:peho syndrome	normalWikiTitle:peho syndrome	predictedType:Disease
+CANDIDATE	id:537669	inCount:0	outCount:5	links:	url:C537669	name:Behr syndrome	normalName:behr syndrome	normalWikiTitle:behr syndrome	predictedType:Disease
+CANDIDATE	id:6955	inCount:0	outCount:1	links:	url:D006955	name:Hypernatremia	normalName:hypernatremia	normalWikiTitle:hypernatremia	predictedType:Disease
+ENTITY	text:acute renal failure	normalName:acute renal failure	predictedType:disease	q:true	qid:Q1349	docId:931801	origText:acute renal failure	url:D058186
+CANDIDATE	id:58186	inCount:2	outCount:1	links:51437	url:D058186	name:Acute Renal Failure	normalName:acute renal failure	normalWikiTitle:acute renal failure	predictedType:Disease

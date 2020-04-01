@@ -1,0 +1,21 @@
+ENTITY	text:microprolactinoma	normalName:microprolactinoma	predictedType:disease	q:true	qid:Q275	docId:20595935	origText:microprolactinoma	url:D015175
+CANDIDATE	id:15175	inCount:0	outCount:2	links:15175	url:D015175	name:Microprolactinoma	normalName:microprolactinoma	normalWikiTitle:microprolactinoma	predictedType:Disease
+ENTITY	text:macroprolactinoma	normalName:macroprolactinoma	predictedType:disease	q:true	qid:Q275	docId:20595935	origText:macroprolactinoma	url:D015175
+CANDIDATE	id:15175	inCount:0	outCount:2	links:15175	url:D015175	name:Macroprolactinoma	normalName:macroprolactinoma	normalWikiTitle:macroprolactinoma	predictedType:Disease
+ENTITY	text:hyperprolactinemia	normalName:hyperprolactinemia	predictedType:disease	q:true	qid:Q275	docId:20595935	origText:hyperprolactinemia	url:D006966
+CANDIDATE	id:6966	inCount:1	outCount:1	links:6966	url:D006966	name:Hyperprolactinemia	normalName:hyperprolactinemia	normalWikiTitle:hyperprolactinemia	predictedType:Disease
+ENTITY	text:Macroprolactinemia	normalName:macroprolactinemia	predictedType:disease	q:true	qid:Q275	docId:20595935	origText:Macroprolactinemia	url:D015175
+CANDIDATE	id:15175	inCount:0	outCount:2	links:15175	url:D015175	name:Microprolactinomas	normalName:microprolactinomas	normalWikiTitle:microprolactinomas	predictedType:Disease
+CANDIDATE	id:6966	inCount:1	outCount:1	links:6966	url:D006966	name:Hyperprolactinemia	normalName:hyperprolactinemia	normalWikiTitle:hyperprolactinemia	predictedType:Disease
+CANDIDATE	id:15175	inCount:0	outCount:2	links:15175	url:D015175	name:Prolactinoma	normalName:prolactinoma	normalWikiTitle:prolactinoma	predictedType:Disease
+CANDIDATE	id:10265	inCount:8	outCount:2	links:	url:D010265	name:Paraproteinemias	normalName:paraproteinemias	normalWikiTitle:paraproteinemias	predictedType:Disease
+CANDIDATE	id:562669	inCount:0	outCount:1	links:	url:C562669	name:Hydroxyprolinemia	normalName:hydroxyprolinemia	normalWikiTitle:hydroxyprolinemia	predictedType:Disease
+CANDIDATE	id:7019	inCount:1	outCount:1	links:	url:D007019	name:Hypoproteinemia	normalName:hypoproteinemia	normalWikiTitle:hypoproteinemia	predictedType:Disease
+CANDIDATE	id:3449	inCount:3	outCount:2	links:	url:D003449	name:Cryoglobulinemia	normalName:cryoglobulinemia	normalWikiTitle:cryoglobulinemia	predictedType:Disease
+CANDIDATE	id:535402	inCount:0	outCount:2	links:	url:C535402	name:Galactorrhea-Hyperprolactinemia	normalName:galactorrhea-hyperprolactinemia	normalWikiTitle:galactorrhea-hyperprolactinemia	predictedType:Disease
+CANDIDATE	id:12	inCount:2	outCount:1	links:	url:D000012	name:Abetalipoproteinemia	normalName:abetalipoproteinemia	normalWikiTitle:abetalipoproteinemia	predictedType:Disease
+CANDIDATE	id:8265	inCount:3	outCount:1	links:	url:D008265	name:Macrostomia	normalName:macrostomia	normalWikiTitle:macrostomia	predictedType:Disease
+CANDIDATE	id:18250	inCount:1	outCount:1	links:	url:D018250	name:Acrospiroma	normalName:acrospiroma	normalWikiTitle:acrospiroma	predictedType:Disease
+CANDIDATE	id:15175	inCount:0	outCount:2	links:15175	url:D015175	name:Macroprolactinoma	normalName:macroprolactinoma	normalWikiTitle:macroprolactinoma	predictedType:Disease
+CANDIDATE	id:15175	inCount:0	outCount:2	links:15175	url:D015175	name:Macroprolactinomas	normalName:macroprolactinomas	normalWikiTitle:macroprolactinomas	predictedType:Disease
+CANDIDATE	id:15175	inCount:0	outCount:2	links:15175	url:D015175	name:Microprolactinoma	normalName:microprolactinoma	normalWikiTitle:microprolactinoma	predictedType:Disease

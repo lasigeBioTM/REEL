@@ -1,0 +1,6 @@
+ENTITY	text:carbamazepine	normalName:carbamazepine	predictedType:chemical	q:true	qid:Q716	docId:12536034	origText:carbamazepine	url:D002220
+CANDIDATE	id:2220	inCount:15	outCount:1	links:20888	url:D002220	name:Carbamazepine	normalName:carbamazepine	normalWikiTitle:carbamazepine	predictedType:Chemical
+ENTITY	text:vigabatrin	normalName:vigabatrin	predictedType:chemical	q:true	qid:Q716	docId:12536034	origText:vigabatrin	url:D020888
+CANDIDATE	id:20888	inCount:0	outCount:1	links:2220	url:D020888	name:Vigabatrin	normalName:vigabatrin	normalWikiTitle:vigabatrin	predictedType:Chemical
+ENTITY	text:gamma-aminobutyric acid	normalName:gamma-aminobutyric acid	predictedType:chemical	q:true	qid:Q716	docId:12536034	origText:gamma-aminobutyric acid	url:D005680
+CANDIDATE	id:5680	inCount:100	outCount:1	links:	url:D005680	name:gamma-Aminobutyric Acid	normalName:gamma-aminobutyric acid	normalWikiTitle:gamma-aminobutyric acid	predictedType:Chemical

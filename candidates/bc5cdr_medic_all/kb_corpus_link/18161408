@@ -1,0 +1,23 @@
+ENTITY	text:Myocardial infarction	normalName:myocardial infarction	predictedType:disease	q:true	qid:Q224	docId:18161408	origText:Myocardial infarction	url:D009203
+CANDIDATE	id:9203	inCount:8	outCount:1	links:9203;2637;13923	url:D009203	name:Myocardial Infarction	normalName:myocardial infarction	normalWikiTitle:myocardial infarction	predictedType:Disease
+ENTITY	text:coronary thrombosis	normalName:coronary thrombosis	predictedType:disease	q:true	qid:Q224	docId:18161408	origText:coronary thrombosis	url:D003328
+CANDIDATE	id:3328	inCount:0	outCount:2	links:	url:D003328	name:Coronary Thrombosis	normalName:coronary thrombosis	normalWikiTitle:coronary thrombosis	predictedType:Disease
+ENTITY	text:chest pain	normalName:chest pain	predictedType:disease	q:true	qid:Q224	docId:18161408	origText:chest pain	url:D002637
+CANDIDATE	id:2637	inCount:1	outCount:1	links:9203	url:D002637	name:Chest Pain	normalName:chest pain	normalWikiTitle:chest pain	predictedType:Disease
+ENTITY	text:radiation injury	normalName:radiation injury	predictedType:disease	q:true	qid:Q224	docId:18161408	origText:radiation injury	url:D011832
+CANDIDATE	id:11832	inCount:10	outCount:1	links:	url:D011832	name:Injury, Radiation	normalName:injury, radiation	normalWikiTitle:injury, radiation	predictedType:Disease
+ENTITY	text:Thrombosis	normalName:thrombosis	predictedType:disease	q:true	qid:Q224	docId:18161408	origText:Thrombosis	url:D013927
+CANDIDATE	id:13927	inCount:4	outCount:1	links:13923	url:D013927	name:Thrombosis	normalName:thrombosis	normalWikiTitle:thrombosis	predictedType:Disease
+ENTITY	text:Thromboembolism	normalName:thromboembolism	predictedType:disease	q:true	qid:Q224	docId:18161408	origText:Thromboembolism	url:D013923
+CANDIDATE	id:13923	inCount:3	outCount:1	links:9203;13927	url:D013923	name:Thromboembolism	normalName:thromboembolism	normalWikiTitle:thromboembolism	predictedType:Disease
+ENTITY	text:MI	normalName:mi	predictedType:disease	q:true	qid:Q224	docId:18161408	origText:MI	url:D009203
+CANDIDATE	id:9203	inCount:8	outCount:1	links:9203;2637;13923	url:D009203	name:MCI2	normalName:mci2	normalWikiTitle:mci2	predictedType:Disease
+CANDIDATE	id:300337	inCount:0	outCount:2	links:	url:300337	name:HMI	normalName:hmi	normalWikiTitle:hmi	predictedType:Disease
+CANDIDATE	id:564108	inCount:0	outCount:2	links:	url:C564108	name:MDI	normalName:mdi	normalWikiTitle:mdi	predictedType:Disease
+CANDIDATE	id:535689	inCount:0	outCount:4	links:	url:C535689	name:MIP	normalName:mip	normalWikiTitle:mip	predictedType:Disease
+CANDIDATE	id:535689	inCount:0	outCount:4	links:	url:C535689	name:TMIP	normalName:tmip	normalWikiTitle:tmip	predictedType:Disease
+CANDIDATE	id:4831	inCount:17	outCount:2	links:	url:D004831	name:SMEI	normalName:smei	normalWikiTitle:smei	predictedType:Disease
+CANDIDATE	id:155310	inCount:0	outCount:2	links:	url:155310	name:MMIH	normalName:mmih	normalWikiTitle:mmih	predictedType:Disease
+CANDIDATE	id:567832	inCount:0	outCount:1	links:	url:C567832	name:MIAR	normalName:miar	normalWikiTitle:miar	predictedType:Disease
+CANDIDATE	id:614817	inCount:0	outCount:1	links:	url:614817	name:KMIN	normalName:kmin	normalWikiTitle:kmin	predictedType:Disease
+CANDIDATE	id:536266	inCount:0	outCount:2	links:	url:C536266	name:MNRI	normalName:mnri	normalWikiTitle:mnri	predictedType:Disease

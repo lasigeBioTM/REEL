@@ -1,0 +1,8 @@
+ENTITY	text:Hoe-140	normalName:hoe-140	predictedType:chemical	q:true	qid:Q1061	docId:8955532	origText:Hoe-140	url:C065679
+CANDIDATE	id:65679	inCount:0	outCount:1	links:	url:C065679	name:HOE-140	normalName:hoe-140	normalWikiTitle:hoe-140	predictedType:Chemical
+ENTITY	text:dextran	normalName:dextran	predictedType:chemical	q:true	qid:Q1061	docId:8955532	origText:dextran	url:D003911
+CANDIDATE	id:3911	inCount:149	outCount:1	links:	url:D003911	name:Dextran	normalName:dextran	normalWikiTitle:dextran	predictedType:Chemical
+ENTITY	text:bradykinin	normalName:bradykinin	predictedType:chemical	q:true	qid:Q1061	docId:8955532	origText:bradykinin	url:D001920
+CANDIDATE	id:1920	inCount:95	outCount:3	links:	url:D001920	name:Bradykinin	normalName:bradykinin	normalWikiTitle:bradykinin	predictedType:Chemical
+ENTITY	text:phenylephrine	normalName:phenylephrine	predictedType:chemical	q:true	qid:Q1061	docId:8955532	origText:phenylephrine	url:D010656
+CANDIDATE	id:10656	inCount:28	outCount:1	links:	url:D010656	name:Phenylephrine	normalName:phenylephrine	normalWikiTitle:phenylephrine	predictedType:Chemical

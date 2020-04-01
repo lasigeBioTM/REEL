@@ -1,0 +1,4 @@
+ENTITY	text:metformin hydrochloride	normalName:metformin hydrochloride	predictedType:chemical	q:true	qid:Q53	docId:11467664	origText:metformin hydrochloride	url:D008687
+CANDIDATE	id:8687	inCount:8	outCount:1	links:8687	url:D008687	name:Hydrochloride, Metformin	normalName:hydrochloride, metformin	normalWikiTitle:hydrochloride, metformin	predictedType:Chemical
+ENTITY	text:metformin	normalName:metformin	predictedType:chemical	q:true	qid:Q53	docId:11467664	origText:metformin	url:D008687
+CANDIDATE	id:8687	inCount:8	outCount:1	links:8687	url:D008687	name:Metformin	normalName:metformin	normalWikiTitle:metformin	predictedType:Chemical

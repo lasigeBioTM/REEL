@@ -1,0 +1,6 @@
+ENTITY	text:Gentamicin	normalName:gentamicin	predictedType:chemical	q:true	qid:Q172	docId:4069770	origText:Gentamicin	url:D005839
+CANDIDATE	id:5839	inCount:33	outCount:1	links:	url:D005839	name:Gentamicin	normalName:gentamicin	normalWikiTitle:gentamicin	predictedType:Chemical
+ENTITY	text:periodic acid	normalName:periodic acid	predictedType:chemical	q:true	qid:Q172	docId:4069770	origText:periodic acid	url:D010504
+CANDIDATE	id:10504	inCount:4	outCount:2	links:	url:D010504	name:Periodic Acid	normalName:periodic acid	normalWikiTitle:periodic acid	predictedType:Chemical
+ENTITY	text:penicillin	normalName:penicillin	predictedType:chemical	q:true	qid:Q172	docId:4069770	origText:penicillin	url:D010406
+CANDIDATE	id:10406	inCount:59	outCount:1	links:	url:D010406	name:Penicillin	normalName:penicillin	normalWikiTitle:penicillin	predictedType:Chemical

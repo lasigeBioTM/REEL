@@ -1,0 +1,40 @@
+ENTITY	text:osteoporosis	normalName:osteoporosis	predictedType:disease	q:true	qid:Q1055	docId:19370593	origText:osteoporosis	url:D010024
+CANDIDATE	id:10024	inCount:21	outCount:1	links:20246;11655;54556	url:D010024	name:Osteoporosis	normalName:osteoporosis	normalWikiTitle:osteoporosis	predictedType:Disease
+ENTITY	text:cancer	normalName:cancer	predictedType:disease	q:true	qid:Q1055	docId:19370593	origText:cancer	url:D009369
+CANDIDATE	id:9369	inCount:18	outCount:1	links:	url:D009369	name:Cancer	normalName:cancer	normalWikiTitle:cancer	predictedType:Disease
+ENTITY	text:dementia	normalName:dementia	predictedType:disease	q:true	qid:Q1055	docId:19370593	origText:dementia	url:D003704
+CANDIDATE	id:3704	inCount:25	outCount:2	links:20521;1943;54556;5705;2318	url:D003704	name:Dementia	normalName:dementia	normalWikiTitle:dementia	predictedType:Disease
+ENTITY	text:stroke	normalName:stroke	predictedType:disease	q:true	qid:Q1055	docId:19370593	origText:stroke	url:D020521
+CANDIDATE	id:20521	inCount:2	outCount:1	links:3704;54556;1943;5705;2318	url:D020521	name:Stroke	normalName:stroke	normalWikiTitle:stroke	predictedType:Disease
+ENTITY	text:fractures	normalName:fractures	predictedType:disease	q:true	qid:Q1055	docId:19370593	origText:fractures	url:D050723
+CANDIDATE	id:50723	inCount:31	outCount:1	links:	url:D050723	name:Fractures, Bone	normalName:fractures, bone	normalWikiTitle:fractures, bone	predictedType:Disease
+CANDIDATE	id:6620	inCount:1	outCount:2	links:	url:D006620	name:Hip Fractures	normalName:hip fractures	normalWikiTitle:hip fractures	predictedType:Disease
+CANDIDATE	id:7572	inCount:2	outCount:2	links:	url:D007572	name:Jaw Fractures	normalName:jaw fractures	normalWikiTitle:jaw fractures	predictedType:Disease
+CANDIDATE	id:12253	inCount:0	outCount:2	links:	url:D012253	name:Rib Fractures	normalName:rib fractures	normalWikiTitle:rib fractures	predictedType:Disease
+CANDIDATE	id:3286	inCount:40	outCount:2	links:	url:D003286	name:Contracture	normalName:contracture	normalWikiTitle:contracture	predictedType:Disease
+CANDIDATE	id:5597	inCount:0	outCount:1	links:	url:D005597	name:Fractures, Open	normalName:fractures, open	normalWikiTitle:fractures, open	predictedType:Disease
+CANDIDATE	id:14458	inCount:1	outCount:2	links:	url:D014458	name:Ulna Fractures	normalName:ulna fractures	normalWikiTitle:ulna fractures	predictedType:Disease
+CANDIDATE	id:3100	inCount:0	outCount:2	links:	url:D003100	name:Colles' Fracture	normalName:colles' fracture	normalWikiTitle:colles' fracture	predictedType:Disease
+CANDIDATE	id:12887	inCount:5	outCount:2	links:	url:D012887	name:Skull Fractures	normalName:skull fractures	normalWikiTitle:skull fractures	predictedType:Disease
+CANDIDATE	id:14082	inCount:1	outCount:1	links:	url:D014082	name:Tooth Fractures	normalName:tooth fractures	normalWikiTitle:tooth fractures	predictedType:Disease
+CANDIDATE	id:7572	inCount:2	outCount:2	links:	url:D007572	name:Jaw Fracture	normalName:jaw fracture	normalWikiTitle:jaw fracture	predictedType:Disease
+CANDIDATE	id:12253	inCount:0	outCount:2	links:	url:D012253	name:Rib Fracture	normalName:rib fracture	normalWikiTitle:rib fracture	predictedType:Disease
+CANDIDATE	id:12253	inCount:0	outCount:2	links:	url:D012253	name:Fracture, Rib	normalName:fracture, rib	normalWikiTitle:fracture, rib	predictedType:Disease
+CANDIDATE	id:7572	inCount:2	outCount:2	links:	url:D007572	name:Fracture, Jaw	normalName:fracture, jaw	normalWikiTitle:fracture, jaw	predictedType:Disease
+ENTITY	text:gallbladder disease	normalName:gallbladder disease	predictedType:disease	q:true	qid:Q1055	docId:19370593	origText:gallbladder disease	url:D005705
+CANDIDATE	id:5705	inCount:10	outCount:1	links:20521;3704;54556;1943;2318	url:D005705	name:Gallbladder Disease	normalName:gallbladder disease	normalWikiTitle:gallbladder disease	predictedType:Disease
+ENTITY	text:cardiovascular disease	normalName:cardiovascular disease	predictedType:disease	q:true	qid:Q1055	docId:19370593	origText:cardiovascular disease	url:D002318
+CANDIDATE	id:2318	inCount:5	outCount:1	links:20521;3704;1943;5705;54556	url:D002318	name:Disease, Cardiovascular	normalName:disease, cardiovascular	normalWikiTitle:disease, cardiovascular	predictedType:Disease
+ENTITY	text:venous thrombo-embolism	normalName:venous thrombo-embolism	predictedType:disease	q:true	qid:Q1055	docId:19370593	origText:venous thrombo-embolism	url:D054556
+CANDIDATE	id:54556	inCount:0	outCount:1	links:10024;20521;2318;1943;3704;5705	url:D054556	name:Venous Thromboembolism	normalName:venous thromboembolism	normalWikiTitle:venous thromboembolism	predictedType:Disease
+CANDIDATE	id:16769	inCount:3	outCount:1	links:	url:D016769	name:Embolism and Thrombosis	normalName:embolism and thrombosis	normalWikiTitle:embolism and thrombosis	predictedType:Disease
+CANDIDATE	id:20246	inCount:5	outCount:1	links:10024	url:D020246	name:Venous Thrombosis	normalName:venous thrombosis	normalWikiTitle:venous thrombosis	predictedType:Disease
+CANDIDATE	id:537927	inCount:0	outCount:2	links:	url:C537927	name:Fibrocartilaginous embolism	normalName:fibrocartilaginous embolism	normalWikiTitle:fibrocartilaginous embolism	predictedType:Disease
+CANDIDATE	id:11655	inCount:3	outCount:2	links:10024	url:D011655	name:Pulmonary Embolism	normalName:pulmonary embolism	normalWikiTitle:pulmonary embolism	predictedType:Disease
+CANDIDATE	id:2542	inCount:3	outCount:2	links:	url:D002542	name:Intracranial Embolism and Thrombosis	normalName:intracranial embolism and thrombosis	normalWikiTitle:intracranial embolism and thrombosis	predictedType:Disease
+CANDIDATE	id:4620	inCount:1	outCount:1	links:	url:D004620	name:Embolism, Fat	normalName:embolism, fat	normalWikiTitle:embolism, fat	predictedType:Disease
+CANDIDATE	id:13919	inCount:0	outCount:2	links:	url:D013919	name:Thromboangiitis Obliterans	normalName:thromboangiitis obliterans	normalWikiTitle:thromboangiitis obliterans	predictedType:Disease
+CANDIDATE	id:13953	inCount:2	outCount:2	links:	url:D013953	name:Thymus Neoplasms	normalName:thymus neoplasms	normalWikiTitle:thymus neoplasms	predictedType:Disease
+CANDIDATE	id:20766	inCount:0	outCount:1	links:	url:D020766	name:Intracranial Embolism	normalName:intracranial embolism	normalWikiTitle:intracranial embolism	predictedType:Disease
+ENTITY	text:breast cancer	normalName:breast cancer	predictedType:disease	q:true	qid:Q1055	docId:19370593	origText:breast cancer	url:D001943
+CANDIDATE	id:1943	inCount:19	outCount:2	links:20521;3704;54556;5705;2318	url:D001943	name:Breast Cancer	normalName:breast cancer	normalWikiTitle:breast cancer	predictedType:Disease

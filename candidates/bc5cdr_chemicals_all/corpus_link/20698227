@@ -1,0 +1,35 @@
+ENTITY	text:ribavirin	normalName:ribavirin	predictedType:chemical	q:true	qid:Q594	docId:20698227	origText:ribavirin	url:D012254
+CANDIDATE	id:12254	inCount:24	outCount:1	links:7372;417083;16898	url:D012254	name:Ribavirin	normalName:ribavirin	normalWikiTitle:ribavirin	predictedType:Chemical
+ENTITY	text:pegylated interferon	normalName:pegylated interferon	predictedType:chemical	q:true	qid:Q594	docId:20698227	origText:pegylated interferon	url:C417083
+CANDIDATE	id:417083	inCount:0	outCount:3	links:12254	url:C417083	name:pegylated interferon alfa-2b	normalName:pegylated interferon alfa-2b	normalWikiTitle:pegylated interferon alfa-2b	predictedType:Chemical
+CANDIDATE	id:63743	inCount:0	outCount:1	links:	url:C063743	name:interferon omega 1	normalName:interferon omega 1	normalWikiTitle:interferon omega 1	predictedType:Chemical
+CANDIDATE	id:439669	inCount:0	outCount:1	links:	url:C439669	name:interferon kappa	normalName:interferon kappa	normalWikiTitle:interferon kappa	predictedType:Chemical
+CANDIDATE	id:549812	inCount:0	outCount:2	links:	url:C549812	name:mono-PEGylated Endostar	normalName:mono-pegylated endostar	normalWikiTitle:mono-pegylated endostar	predictedType:Chemical
+CANDIDATE	id:7370	inCount:7	outCount:1	links:	url:D007370	name:Interferon Type I	normalName:interferon type i	normalWikiTitle:interferon type i	predictedType:Chemical
+CANDIDATE	id:508174	inCount:0	outCount:2	links:	url:C508174	name:pegylated erythropoietin	normalName:pegylated erythropoietin	normalWikiTitle:pegylated erythropoietin	predictedType:Chemical
+CANDIDATE	id:627197	inCount:0	outCount:1	links:	url:C000627197	name:interferon type III	normalName:interferon type iii	normalWikiTitle:interferon type iii	predictedType:Chemical
+CANDIDATE	id:484843	inCount:0	outCount:2	links:	url:C484843	name:pegylated leptin	normalName:pegylated leptin	normalWikiTitle:pegylated leptin	predictedType:Chemical
+CANDIDATE	id:7372	inCount:15	outCount:1	links:16898;12254	url:D007372	name:Interferons	normalName:interferons	normalWikiTitle:interferons	predictedType:Chemical
+CANDIDATE	id:624353	inCount:0	outCount:1	links:	url:C000624353	name:interferon-lambda, human	normalName:interferon-lambda, human	normalWikiTitle:interferon-lambda, human	predictedType:Chemical
+CANDIDATE	id:602567	inCount:0	outCount:1	links:	url:C000602567	name:interferon-lambda3, mouse	normalName:interferon-lambda3, mouse	normalWikiTitle:interferon-lambda3, mouse	predictedType:Chemical
+CANDIDATE	id:571406	inCount:0	outCount:2	links:	url:C571406	name:pegylated interferon SA	normalName:pegylated interferon sa	normalWikiTitle:pegylated interferon sa	predictedType:Chemical
+CANDIDATE	id:100416	inCount:0	outCount:2	links:	url:C100416	name:pegylated interferon alfa-2a	normalName:pegylated interferon alfa-2a	normalWikiTitle:pegylated interferon alfa-2a	predictedType:Chemical
+CANDIDATE	id:63743	inCount:0	outCount:1	links:	url:C063743	name:interferon omega	normalName:interferon omega	normalWikiTitle:interferon omega	predictedType:Chemical
+CANDIDATE	id:63743	inCount:0	outCount:1	links:	url:C063743	name:interferon omega1	normalName:interferon omega1	normalWikiTitle:interferon omega1	predictedType:Chemical
+CANDIDATE	id:16898	inCount:62	outCount:1	links:12254	url:D016898	name:Leukocyte Interferon	normalName:leukocyte interferon	normalWikiTitle:leukocyte interferon	predictedType:Chemical
+CANDIDATE	id:16898	inCount:62	outCount:1	links:12254	url:D016898	name:Interferon, Leukocyte	normalName:interferon, leukocyte	normalWikiTitle:interferon, leukocyte	predictedType:Chemical
+ENTITY	text:pegylated interferon alpha 2a	normalName:pegylated interferon alpha 2a	predictedType:chemical	q:true	qid:Q594	docId:20698227	origText:pegylated interferon alpha 2a	url:C100416
+CANDIDATE	id:100416	inCount:0	outCount:2	links:	url:C100416	name:PEG-interferon alfa-2A	normalName:peg-interferon alfa-2a	normalWikiTitle:peg-interferon alfa-2a	predictedType:Chemical
+CANDIDATE	id:77190	inCount:1	outCount:1	links:	url:D000077190	name:Interferon alpha-2	normalName:interferon alpha-2	normalWikiTitle:interferon alpha-2	predictedType:Chemical
+CANDIDATE	id:68567	inCount:0	outCount:1	links:	url:C068567	name:interferon alpha 4A	normalName:interferon alpha 4a	normalWikiTitle:interferon alpha 4a	predictedType:Chemical
+CANDIDATE	id:80665	inCount:0	outCount:1	links:	url:C080665	name:interferon-alpha A-D	normalName:interferon-alpha a-d	normalWikiTitle:interferon-alpha a-d	predictedType:Chemical
+CANDIDATE	id:76799	inCount:0	outCount:1	links:	url:C076799	name:interferon-alpha 8	normalName:interferon-alpha 8	normalWikiTitle:interferon-alpha 8	predictedType:Chemical
+CANDIDATE	id:16898	inCount:62	outCount:1	links:12254	url:D016898	name:Interferon-alpha	normalName:interferon-alpha	normalWikiTitle:interferon-alpha	predictedType:Chemical
+CANDIDATE	id:554129	inCount:0	outCount:1	links:	url:C554129	name:interferon alfa-2c	normalName:interferon alfa-2c	normalWikiTitle:interferon alfa-2c	predictedType:Chemical
+CANDIDATE	id:120240	inCount:0	outCount:1	links:	url:C120240	name:interferon alpha, HY-3	normalName:interferon alpha, hy-3	normalWikiTitle:interferon alpha, hy-3	predictedType:Chemical
+CANDIDATE	id:100416	inCount:0	outCount:2	links:	url:C100416	name:peginterferon alfa-2a	normalName:peginterferon alfa-2a	normalWikiTitle:peginterferon alfa-2a	predictedType:Chemical
+CANDIDATE	id:531108	inCount:0	outCount:1	links:	url:C531108	name:albinterferon alfa-2b	normalName:albinterferon alfa-2b	normalWikiTitle:albinterferon alfa-2b	predictedType:Chemical
+CANDIDATE	id:40773	inCount:0	outCount:1	links:	url:C040773	name:interferon, alpha 2(1-110)	normalName:interferon, alpha 2(1-110)	normalWikiTitle:interferon, alpha 2(1-110)	predictedType:Chemical
+CANDIDATE	id:100416	inCount:0	outCount:2	links:	url:C100416	name:pegylated interferon alfa-2a	normalName:pegylated interferon alfa-2a	normalWikiTitle:pegylated interferon alfa-2a	predictedType:Chemical
+CANDIDATE	id:417083	inCount:0	outCount:3	links:12254	url:C417083	name:pegylated interferon alfa-2b	normalName:pegylated interferon alfa-2b	normalWikiTitle:pegylated interferon alfa-2b	predictedType:Chemical
+CANDIDATE	id:417083	inCount:0	outCount:3	links:12254	url:C417083	name:peg-proline-interferon alpha-2b	normalName:peg-proline-interferon alpha-2b	normalWikiTitle:peg-proline-interferon alpha-2b	predictedType:Chemical

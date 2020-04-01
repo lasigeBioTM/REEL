@@ -1,0 +1,15 @@
+ENTITY	text:imipenem	normalName:imipenem	predictedType:chemical	q:true	qid:Q355	docId:2343592	origText:imipenem	url:D015378
+CANDIDATE	id:15378	inCount:5	outCount:1	links:	url:D015378	name:Imipenem	normalName:imipenem	normalWikiTitle:imipenem	predictedType:Chemical
+ENTITY	text:beta-lactam	normalName:beta-lactam	predictedType:chemical	q:true	qid:Q355	docId:2343592	origText:beta-lactam	url:D047090
+CANDIDATE	id:47090	inCount:16	outCount:3	links:	url:D047090	name:beta-Lactams	normalName:beta-lactams	normalWikiTitle:beta-lactams	predictedType:Chemical
+CANDIDATE	id:480101	inCount:0	outCount:1	links:	url:C480101	name:beta-sultam	normalName:beta-sultam	normalWikiTitle:beta-sultam	predictedType:Chemical
+CANDIDATE	id:32090	inCount:0	outCount:1	links:	url:C032090	name:beta-caprolactam	normalName:beta-caprolactam	normalWikiTitle:beta-caprolactam	predictedType:Chemical
+CANDIDATE	id:606053	inCount:0	outCount:1	links:	url:C000606053	name:entonalactam B	normalName:entonalactam b	normalWikiTitle:entonalactam b	predictedType:Chemical
+CANDIDATE	id:604530	inCount:0	outCount:1	links:	url:C000604530	name:xylactam B	normalName:xylactam b	normalWikiTitle:xylactam b	predictedType:Chemical
+CANDIDATE	id:611165	inCount:0	outCount:1	links:	url:C000611165	name:pestalactam D	normalName:pestalactam d	normalWikiTitle:pestalactam d	predictedType:Chemical
+CANDIDATE	id:611166	inCount:0	outCount:1	links:	url:C000611166	name:pestalactam E	normalName:pestalactam e	normalWikiTitle:pestalactam e	predictedType:Chemical
+CANDIDATE	id:611167	inCount:0	outCount:1	links:	url:C000611167	name:pestalactam F	normalName:pestalactam f	normalWikiTitle:pestalactam f	predictedType:Chemical
+CANDIDATE	id:26549	inCount:0	outCount:1	links:	url:C026549	name:cobetalactamines	normalName:cobetalactamines	normalWikiTitle:cobetalactamines	predictedType:Chemical
+CANDIDATE	id:598096	inCount:0	outCount:1	links:	url:C000598096	name:albactam	normalName:albactam	normalWikiTitle:albactam	predictedType:Chemical
+ENTITY	text:phenytoin	normalName:phenytoin	predictedType:chemical	q:true	qid:Q355	docId:2343592	origText:phenytoin	url:D010672
+CANDIDATE	id:10672	inCount:38	outCount:1	links:	url:D010672	name:Phenytoin	normalName:phenytoin	normalWikiTitle:phenytoin	predictedType:Chemical

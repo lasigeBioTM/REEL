@@ -1,0 +1,29 @@
+ENTITY	text:loss in body weight	normalName:loss in body weight	predictedType:disease	q:true	qid:Q402	docId:8665051	origText:loss in body weight	url:D015431
+CANDIDATE	id:15431	inCount:1	outCount:1	links:9133;9135	url:D015431	name:Weight Loss	normalName:weight loss	normalWikiTitle:weight loss	predictedType:Disease
+CANDIDATE	id:1836	inCount:3	outCount:1	links:	url:D001836	name:Body Weight Changes	normalName:body weight changes	normalWikiTitle:body weight changes	predictedType:Disease
+CANDIDATE	id:1835	inCount:5	outCount:1	links:	url:D001835	name:Body Weight	normalName:body weight	normalWikiTitle:body weight	predictedType:Disease
+CANDIDATE	id:77962	inCount:0	outCount:1	links:	url:D000077962	name:Body-Weight Trajectory	normalName:body-weight trajectory	normalWikiTitle:body-weight trajectory	predictedType:Disease
+CANDIDATE	id:15430	inCount:1	outCount:1	links:	url:D015430	name:Weight Gain	normalName:weight gain	normalWikiTitle:weight gain	predictedType:Disease
+CANDIDATE	id:7594	inCount:0	outCount:1	links:	url:D007594	name:Joint Loose Bodies	normalName:joint loose bodies	normalWikiTitle:joint loose bodies	predictedType:Disease
+CANDIDATE	id:9755	inCount:10	outCount:1	links:	url:D009755	name:Night Blindness	normalName:night blindness	normalWikiTitle:night blindness	predictedType:Disease
+CANDIDATE	id:1724	inCount:1	outCount:1	links:	url:D001724	name:Birth Weight	normalName:birth weight	normalWikiTitle:birth weight	predictedType:Disease
+CANDIDATE	id:18979	inCount:5	outCount:1	links:	url:D018979	name:Myositis, Inclusion Body	normalName:myositis, inclusion body	normalWikiTitle:myositis, inclusion body	predictedType:Disease
+CANDIDATE	id:20961	inCount:3	outCount:3	links:	url:D020961	name:Lewy Body Disease	normalName:lewy body disease	normalWikiTitle:lewy body disease	predictedType:Disease
+ENTITY	text:tetanic	normalName:tetanic	predictedType:disease	q:true	qid:Q402	docId:8665051	origText:tetanic	url:D013746
+CANDIDATE	id:13746	inCount:0	outCount:2	links:	url:D013746	name:Tetanies	normalName:tetanies	normalWikiTitle:tetanies	predictedType:Disease
+CANDIDATE	id:13746	inCount:0	outCount:2	links:	url:D013746	name:Tetany	normalName:tetany	normalWikiTitle:tetany	predictedType:Disease
+CANDIDATE	id:13742	inCount:0	outCount:1	links:	url:D013742	name:Tetanus	normalName:tetanus	normalWikiTitle:tetanus	predictedType:Disease
+CANDIDATE	id:64927	inCount:1	outCount:1	links:	url:D064927	name:Tick Bites	normalName:tick bites	normalWikiTitle:tick bites	predictedType:Disease
+CANDIDATE	id:190900	inCount:0	outCount:1	links:	url:190900	name:TRITANOPIA	normalName:tritanopia	normalWikiTitle:tritanopia	predictedType:Disease
+CANDIDATE	id:13684	inCount:15	outCount:1	links:	url:D013684	name:Telangiectasis	normalName:telangiectasis	normalWikiTitle:telangiectasis	predictedType:Disease
+CANDIDATE	id:57891	inCount:0	outCount:1	links:	url:D057891	name:Tetraploidy	normalName:tetraploidy	normalWikiTitle:tetraploidy	predictedType:Disease
+CANDIDATE	id:20323	inCount:0	outCount:1	links:	url:D020323	name:Tics	normalName:tics	normalWikiTitle:tics	predictedType:Disease
+CANDIDATE	id:562562	inCount:0	outCount:1	links:	url:C562562	name:Colonic Atresia	normalName:colonic atresia	normalWikiTitle:colonic atresia	predictedType:Disease
+CANDIDATE	id:7565	inCount:5	outCount:2	links:	url:D007565	name:Jaundice	normalName:jaundice	normalWikiTitle:jaundice	predictedType:Disease
+CANDIDATE	id:13724	inCount:10	outCount:1	links:	url:D013724	name:Teratoma	normalName:teratoma	normalWikiTitle:teratoma	predictedType:Disease
+ENTITY	text:myopathy	normalName:myopathy	predictedType:disease	q:true	qid:Q402	docId:8665051	origText:myopathy	url:D009135
+CANDIDATE	id:9135	inCount:77	outCount:2	links:9133;9336;15431	url:D009135	name:Myopathy	normalName:myopathy	normalWikiTitle:myopathy	predictedType:Disease
+ENTITY	text:muscle atrophy	normalName:muscle atrophy	predictedType:disease	q:true	qid:Q402	docId:8665051	origText:muscle atrophy	url:D009133
+CANDIDATE	id:9133	inCount:16	outCount:2	links:9135;15431	url:D009133	name:Muscle Atrophy	normalName:muscle atrophy	normalWikiTitle:muscle atrophy	predictedType:Disease
+ENTITY	text:necrosis	normalName:necrosis	predictedType:disease	q:true	qid:Q402	docId:8665051	origText:necrosis	url:D009336
+CANDIDATE	id:9336	inCount:6	outCount:1	links:9135	url:D009336	name:Necrosis	normalName:necrosis	normalWikiTitle:necrosis	predictedType:Disease

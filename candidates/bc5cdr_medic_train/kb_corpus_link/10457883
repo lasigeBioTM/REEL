@@ -1,0 +1,37 @@
+ENTITY	text:neuromuscular blockade	normalName:neuromuscular blockade	predictedType:disease	q:true	qid:Q287	docId:10457883	origText:neuromuscular blockade	url:D020879
+CANDIDATE	id:20879	inCount:10	outCount:1	links:	url:D020879	name:Neuromuscular Manifestations	normalName:neuromuscular manifestations	normalWikiTitle:neuromuscular manifestations	predictedType:Disease
+CANDIDATE	id:9468	inCount:14	outCount:1	links:	url:D009468	name:Neuromuscular Diseases	normalName:neuromuscular diseases	normalWikiTitle:neuromuscular diseases	predictedType:Disease
+CANDIDATE	id:1750	inCount:0	outCount:2	links:	url:D001750	name:Urinary Bladder, Neurogenic	normalName:urinary bladder, neurogenic	normalWikiTitle:urinary bladder, neurogenic	predictedType:Disease
+CANDIDATE	id:15355	inCount:0	outCount:1	links:	url:D015355	name:Glaucoma, Neovascular	normalName:glaucoma, neovascular	normalWikiTitle:glaucoma, neovascular	predictedType:Disease
+CANDIDATE	id:565543	inCount:0	outCount:2	links:	url:C565543	name:GSD IV, Neuromuscular Form, Childhood	normalName:gsd iv, neuromuscular form, childhood	normalWikiTitle:gsd iv, neuromuscular form, childhood	predictedType:Disease
+CANDIDATE	id:20511	inCount:4	outCount:1	links:	url:D020511	name:Neuromuscular Junction Diseases	normalName:neuromuscular junction diseases	normalWikiTitle:neuromuscular junction diseases	predictedType:Disease
+CANDIDATE	id:1749	inCount:2	outCount:2	links:	url:D001749	name:Urinary Bladder Neoplasms	normalName:urinary bladder neoplasms	normalWikiTitle:urinary bladder neoplasms	predictedType:Disease
+CANDIDATE	id:565542	inCount:0	outCount:2	links:	url:C565542	name:GSD IV, Neuromuscular Form, Congenital	normalName:gsd iv, neuromuscular form, congenital	normalWikiTitle:gsd iv, neuromuscular form, congenital	predictedType:Disease
+CANDIDATE	id:9133	inCount:16	outCount:2	links:	url:D009133	name:Muscular Atrophy	normalName:muscular atrophy	normalWikiTitle:muscular atrophy	predictedType:Disease
+CANDIDATE	id:5352	inCount:0	outCount:1	links:	url:D005352	name:Fibromuscular Dysplasia	normalName:fibromuscular dysplasia	normalWikiTitle:fibromuscular dysplasia	predictedType:Disease
+CANDIDATE	id:55191	inCount:0	outCount:1	links:	url:D055191	name:Blockade, Residual Neuromuscular	normalName:blockade, residual neuromuscular	normalWikiTitle:blockade, residual neuromuscular	predictedType:Disease
+CANDIDATE	id:55191	inCount:0	outCount:1	links:	url:D055191	name:Neuromuscular Blockade, Residual	normalName:neuromuscular blockade, residual	normalWikiTitle:neuromuscular blockade, residual	predictedType:Disease
+CANDIDATE	id:55191	inCount:0	outCount:1	links:	url:D055191	name:Residual Neuromuscular Blockade	normalName:residual neuromuscular blockade	normalWikiTitle:residual neuromuscular blockade	predictedType:Disease
+CANDIDATE	id:55191	inCount:0	outCount:1	links:	url:D055191	name:Residual Neuromuscular Blockades	normalName:residual neuromuscular blockades	normalWikiTitle:residual neuromuscular blockades	predictedType:Disease
+CANDIDATE	id:55191	inCount:0	outCount:1	links:	url:D055191	name:Neuromuscular Blockades, Residual	normalName:neuromuscular blockades, residual	normalWikiTitle:neuromuscular blockades, residual	predictedType:Disease
+CANDIDATE	id:55191	inCount:0	outCount:1	links:	url:D055191	name:Blockades, Residual Neuromuscular	normalName:blockades, residual neuromuscular	normalWikiTitle:blockades, residual neuromuscular	predictedType:Disease
+CANDIDATE	id:55191	inCount:0	outCount:1	links:	url:D055191	name:Residual Neuromuscular Block	normalName:residual neuromuscular block	normalWikiTitle:residual neuromuscular block	predictedType:Disease
+CANDIDATE	id:55191	inCount:0	outCount:1	links:	url:D055191	name:Neuromuscular Block, Residual	normalName:neuromuscular block, residual	normalWikiTitle:neuromuscular block, residual	predictedType:Disease
+CANDIDATE	id:55191	inCount:0	outCount:1	links:	url:D055191	name:Block, Residual Neuromuscular	normalName:block, residual neuromuscular	normalWikiTitle:block, residual neuromuscular	predictedType:Disease
+CANDIDATE	id:55191	inCount:0	outCount:1	links:	url:D055191	name:Neuromuscular Blocks, Residual	normalName:neuromuscular blocks, residual	normalWikiTitle:neuromuscular blocks, residual	predictedType:Disease
+ENTITY	text:respiratory arrest	normalName:respiratory arrest	predictedType:disease	q:true	qid:Q287	docId:10457883	origText:respiratory arrest	url:D012131
+CANDIDATE	id:12131	inCount:13	outCount:1	links:1919	url:D012131	name:Respiratory Failure	normalName:respiratory failure	normalWikiTitle:respiratory failure	predictedType:Disease
+CANDIDATE	id:12133	inCount:0	outCount:2	links:	url:D012133	name:Respiratory Paralysis	normalName:respiratory paralysis	normalWikiTitle:respiratory paralysis	predictedType:Disease
+CANDIDATE	id:53120	inCount:1	outCount:2	links:	url:D053120	name:Respiratory Aspiration	normalName:respiratory aspiration	normalWikiTitle:respiratory aspiration	predictedType:Disease
+CANDIDATE	id:142	inCount:0	outCount:2	links:	url:D000142	name:Acidosis, Respiratory	normalName:acidosis, respiratory	normalWikiTitle:acidosis, respiratory	predictedType:Disease
+CANDIDATE	id:472	inCount:0	outCount:2	links:	url:D000472	name:Alkalosis, Respiratory	normalName:alkalosis, respiratory	normalWikiTitle:alkalosis, respiratory	predictedType:Disease
+CANDIDATE	id:12130	inCount:6	outCount:2	links:	url:D012130	name:Respiratory Hypersensitivity	normalName:respiratory hypersensitivity	normalWikiTitle:respiratory hypersensitivity	predictedType:Disease
+CANDIDATE	id:12140	inCount:17	outCount:1	links:	url:D012140	name:Respiratory Tract Diseases	normalName:respiratory tract diseases	normalWikiTitle:respiratory tract diseases	predictedType:Disease
+CANDIDATE	id:6323	inCount:2	outCount:1	links:1919	url:D006323	name:Heart Arrest	normalName:heart arrest	normalWikiTitle:heart arrest	predictedType:Disease
+CANDIDATE	id:12120	inCount:20	outCount:1	links:	url:D012120	name:Respiration Disorders	normalName:respiration disorders	normalWikiTitle:respiration disorders	predictedType:Disease
+CANDIDATE	id:16156	inCount:2	outCount:2	links:	url:D016156	name:Respiratory Tract Fistula	normalName:respiratory tract fistula	normalWikiTitle:respiratory tract fistula	predictedType:Disease
+CANDIDATE	id:15619	inCount:12	outCount:2	links:	url:D015619	name:Respiratory System Abnormalities	normalName:respiratory system abnormalities	normalWikiTitle:respiratory system abnormalities	predictedType:Disease
+CANDIDATE	id:142	inCount:0	outCount:2	links:	url:D000142	name:Acidoses, Respiratory	normalName:acidoses, respiratory	normalWikiTitle:acidoses, respiratory	predictedType:Disease
+CANDIDATE	id:142	inCount:0	outCount:2	links:	url:D000142	name:Respiratory Acidoses	normalName:respiratory acidoses	normalWikiTitle:respiratory acidoses	predictedType:Disease
+ENTITY	text:bradycardia	normalName:bradycardia	predictedType:disease	q:true	qid:Q287	docId:10457883	origText:bradycardia	url:D001919
+CANDIDATE	id:1919	inCount:0	outCount:1	links:6323;12131	url:D001919	name:Bradycardia	normalName:bradycardia	normalWikiTitle:bradycardia	predictedType:Disease

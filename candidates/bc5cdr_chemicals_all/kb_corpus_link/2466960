@@ -1,0 +1,4 @@
+ENTITY	text:fluorouracil	normalName:fluorouracil	predictedType:chemical	q:true	qid:Q18	docId:2466960	origText:fluorouracil	url:D005472
+CANDIDATE	id:5472	inCount:271	outCount:1	links:5472	url:D005472	name:Fluorouracil	normalName:fluorouracil	normalWikiTitle:fluorouracil	predictedType:Chemical
+ENTITY	text:5-FU	normalName:5-fu	predictedType:chemical	q:true	qid:Q18	docId:2466960	origText:5-FU	url:D005472
+CANDIDATE	id:5472	inCount:271	outCount:1	links:5472	url:D005472	name:5-FU	normalName:5-fu	normalWikiTitle:5-fu	predictedType:Chemical

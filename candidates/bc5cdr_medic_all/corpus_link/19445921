@@ -1,0 +1,31 @@
+ENTITY	text:myocardial infarction	normalName:myocardial infarction	predictedType:disease	q:true	qid:Q956	docId:19445921	origText:myocardial infarction	url:D009203
+CANDIDATE	id:9203	inCount:8	outCount:1	links:6333;17202;13610;9202;1919	url:D009203	name:Myocardial Infarction	normalName:myocardial infarction	normalWikiTitle:myocardial infarction	predictedType:Disease
+ENTITY	text:myocardial damage	normalName:myocardial damage	predictedType:disease	q:true	qid:Q956	docId:19445921	origText:myocardial damage	url:D009202
+CANDIDATE	id:9202	inCount:37	outCount:1	links:9203	url:D009202	name:Diseases, Myocardial	normalName:diseases, myocardial	normalWikiTitle:diseases, myocardial	predictedType:Disease
+CANDIDATE	id:17202	inCount:6	outCount:2	links:9203	url:D017202	name:Myocardial Ischemia	normalName:myocardial ischemia	normalWikiTitle:myocardial ischemia	predictedType:Disease
+CANDIDATE	id:54084	inCount:0	outCount:1	links:	url:D054084	name:Myocardial Bridging	normalName:myocardial bridging	normalWikiTitle:myocardial bridging	predictedType:Disease
+CANDIDATE	id:9203	inCount:8	outCount:1	links:6333;17202;13610;9202;1919	url:D009203	name:Myocardial Infarction	normalName:myocardial infarction	normalWikiTitle:myocardial infarction	predictedType:Disease
+CANDIDATE	id:3914	inCount:4	outCount:2	links:	url:D003914	name:Dextrocardia	normalName:dextrocardia	normalWikiTitle:dextrocardia	predictedType:Disease
+CANDIDATE	id:7979	inCount:0	outCount:2	links:	url:D007979	name:Levocardia	normalName:levocardia	normalWikiTitle:levocardia	predictedType:Disease
+CANDIDATE	id:71956	inCount:1	outCount:2	links:	url:D000071956	name:Myocardial Contusions	normalName:myocardial contusions	normalWikiTitle:myocardial contusions	predictedType:Disease
+CANDIDATE	id:9205	inCount:2	outCount:1	links:	url:D009205	name:Myocarditis	normalName:myocarditis	normalWikiTitle:myocarditis	predictedType:Disease
+CANDIDATE	id:1919	inCount:0	outCount:1	links:7172;12131;18754;9203	url:D001919	name:Bradycardia	normalName:bradycardia	normalWikiTitle:bradycardia	predictedType:Disease
+CANDIDATE	id:13610	inCount:7	outCount:2	links:9203	url:D013610	name:Tachycardia	normalName:tachycardia	normalWikiTitle:tachycardia	predictedType:Disease
+CANDIDATE	id:28361	inCount:64	outCount:1	links:	url:D028361	name:Mitochondrial Diseases	normalName:mitochondrial diseases	normalWikiTitle:mitochondrial diseases	predictedType:Disease
+CANDIDATE	id:9202	inCount:37	outCount:1	links:9203	url:D009202	name:Disease, Myocardial	normalName:disease, myocardial	normalWikiTitle:disease, myocardial	predictedType:Disease
+CANDIDATE	id:9202	inCount:37	outCount:1	links:9203	url:D009202	name:Myocardial Disease	normalName:myocardial disease	normalWikiTitle:myocardial disease	predictedType:Disease
+CANDIDATE	id:9202	inCount:37	outCount:1	links:9203	url:D009202	name:Myocardial Diseases	normalName:myocardial diseases	normalWikiTitle:myocardial diseases	predictedType:Disease
+CANDIDATE	id:6333	inCount:5	outCount:1	links:7172;9203	url:D006333	name:Myocardial Failure	normalName:myocardial failure	normalWikiTitle:myocardial failure	predictedType:Disease
+ENTITY	text:respiratory dysfunction	normalName:respiratory dysfunction	predictedType:disease	q:true	qid:Q956	docId:19445921	origText:respiratory dysfunction	url:D012131
+CANDIDATE	id:12131	inCount:13	outCount:1	links:1919	url:D012131	name:Respiratory Insufficiency	normalName:respiratory insufficiency	normalWikiTitle:respiratory insufficiency	predictedType:Disease
+CANDIDATE	id:53120	inCount:1	outCount:2	links:	url:D053120	name:Respiratory Aspiration	normalName:respiratory aspiration	normalWikiTitle:respiratory aspiration	predictedType:Disease
+CANDIDATE	id:55031	inCount:0	outCount:1	links:	url:D055031	name:Primary Graft Dysfunction	normalName:primary graft dysfunction	normalWikiTitle:primary graft dysfunction	predictedType:Disease
+CANDIDATE	id:12141	inCount:27	outCount:2	links:	url:D012141	name:Respiratory Tract Infections	normalName:respiratory tract infections	normalWikiTitle:respiratory tract infections	predictedType:Disease
+CANDIDATE	id:580477	inCount:0	outCount:1	links:	url:C580477	name:Surfactant Dysfunction	normalName:surfactant dysfunction	normalWikiTitle:surfactant dysfunction	predictedType:Disease
+CANDIDATE	id:142	inCount:0	outCount:2	links:	url:D000142	name:Acidosis, Respiratory	normalName:acidosis, respiratory	normalWikiTitle:acidosis, respiratory	predictedType:Disease
+CANDIDATE	id:18754	inCount:2	outCount:1	links:1919	url:D018754	name:Ventricular Dysfunction	normalName:ventricular dysfunction	normalWikiTitle:ventricular dysfunction	predictedType:Disease
+CANDIDATE	id:7172	inCount:1	outCount:2	links:6333;1919	url:D007172	name:Erectile Dysfunction	normalName:erectile dysfunction	normalWikiTitle:erectile dysfunction	predictedType:Disease
+CANDIDATE	id:12133	inCount:0	outCount:2	links:	url:D012133	name:Respiratory Paralysis	normalName:respiratory paralysis	normalWikiTitle:respiratory paralysis	predictedType:Disease
+CANDIDATE	id:12130	inCount:6	outCount:2	links:	url:D012130	name:Respiratory Hypersensitivity	normalName:respiratory hypersensitivity	normalWikiTitle:respiratory hypersensitivity	predictedType:Disease
+CANDIDATE	id:12141	inCount:27	outCount:2	links:	url:D012141	name:Infections, Respiratory	normalName:infections, respiratory	normalWikiTitle:infections, respiratory	predictedType:Disease
+CANDIDATE	id:12141	inCount:27	outCount:2	links:	url:D012141	name:Respiratory Infections	normalName:respiratory infections	normalWikiTitle:respiratory infections	predictedType:Disease

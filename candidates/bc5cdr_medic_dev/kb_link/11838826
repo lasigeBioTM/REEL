@@ -1,0 +1,10 @@
+ENTITY	text:Mental Disorders	normalName:mental disorders	predictedType:disease	q:true	qid:Q44	docId:11838826	origText:Mental Disorders	url:D001523
+CANDIDATE	id:1523	inCount:27	outCount:1	links:	url:D001523	name:Mental Disorders	normalName:mental disorders	normalWikiTitle:mental disorders	predictedType:Disease
+ENTITY	text:delayed puberty	normalName:delayed puberty	predictedType:disease	q:true	qid:Q44	docId:11838826	origText:delayed puberty	url:D011628
+CANDIDATE	id:11628	inCount:1	outCount:1	links:	url:D011628	name:Puberty, Delayed	normalName:puberty, delayed	normalWikiTitle:puberty, delayed	predictedType:Disease
+ENTITY	text:hyperprolactinemia	normalName:hyperprolactinemia	predictedType:disease	q:true	qid:Q44	docId:11838826	origText:hyperprolactinemia	url:D006966
+CANDIDATE	id:6966	inCount:1	outCount:1	links:	url:D006966	name:Hyperprolactinemia	normalName:hyperprolactinemia	normalWikiTitle:hyperprolactinemia	predictedType:Disease
+ENTITY	text:prolactinomas	normalName:prolactinomas	predictedType:disease	q:true	qid:Q44	docId:11838826	origText:prolactinomas	url:D015175
+CANDIDATE	id:15175	inCount:0	outCount:2	links:	url:D015175	name:Prolactinoma	normalName:prolactinoma	normalWikiTitle:prolactinoma	predictedType:Disease
+ENTITY	text:bipolar disorder	normalName:bipolar disorder	predictedType:disease	q:true	qid:Q44	docId:11838826	origText:bipolar disorder	url:D001714
+CANDIDATE	id:1714	inCount:11	outCount:1	links:	url:D001714	name:Bipolar Disorder	normalName:bipolar disorder	normalWikiTitle:bipolar disorder	predictedType:Disease

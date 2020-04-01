@@ -1,0 +1,14 @@
+ENTITY	text:calcium	normalName:calcium	predictedType:chemical	q:true	qid:Q373	docId:19721134	origText:calcium	url:D002118
+CANDIDATE	id:2118	inCount:11	outCount:2	links:	url:D002118	name:Calcium	normalName:calcium	normalWikiTitle:calcium	predictedType:Chemical
+ENTITY	text:ouabain	normalName:ouabain	predictedType:chemical	q:true	qid:Q373	docId:19721134	origText:ouabain	url:D010042
+CANDIDATE	id:10042	inCount:14	outCount:1	links:157	url:D010042	name:Ouabain	normalName:ouabain	normalWikiTitle:ouabain	predictedType:Chemical
+ENTITY	text:aconitine	normalName:aconitine	predictedType:chemical	q:true	qid:Q373	docId:19721134	origText:aconitine	url:D000157
+CANDIDATE	id:157	inCount:70	outCount:1	links:10042	url:D000157	name:Aconitine	normalName:aconitine	normalWikiTitle:aconitine	predictedType:Chemical
+ENTITY	text:acetylcholine	normalName:acetylcholine	predictedType:chemical	q:true	qid:Q373	docId:19721134	origText:acetylcholine	url:D000109
+CANDIDATE	id:109	inCount:23	outCount:1	links:	url:D000109	name:Acetylcholine	normalName:acetylcholine	normalWikiTitle:acetylcholine	predictedType:Chemical
+ENTITY	text:pilocarpine	normalName:pilocarpine	predictedType:chemical	q:true	qid:Q373	docId:19721134	origText:pilocarpine	url:D010862
+CANDIDATE	id:10862	inCount:7	outCount:1	links:	url:D010862	name:Pilocarpine	normalName:pilocarpine	normalWikiTitle:pilocarpine	predictedType:Chemical
+ENTITY	text:4-DAMP	normalName:4-damp	predictedType:chemical	q:true	qid:Q373	docId:19721134	origText:4-DAMP	url:C042375
+CANDIDATE	id:42375	inCount:0	outCount:1	links:	url:C042375	name:4-DAMP	normalName:4-damp	normalWikiTitle:4-damp	predictedType:Chemical
+ENTITY	text:4-diphenylacetoxy-N-methylpiperidine-methiodide	normalName:4-diphenylacetoxy-n-methylpiperidine-methiodide	predictedType:chemical	q:true	qid:Q373	docId:19721134	origText:4-diphenylacetoxy-N-methylpiperidine-methiodide	url:C042375
+CANDIDATE	id:42375	inCount:0	outCount:1	links:	url:C042375	name:4-diphenylacetoxy-N-methylpiperidine methiodide	normalName:4-diphenylacetoxy-n-methylpiperidine methiodide	normalWikiTitle:4-diphenylacetoxy-n-methylpiperidine methiodide	predictedType:Chemical

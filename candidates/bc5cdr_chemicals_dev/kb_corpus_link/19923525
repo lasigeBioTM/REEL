@@ -1,0 +1,6 @@
+ENTITY	text:calcium	normalName:calcium	predictedType:chemical	q:true	qid:Q131	docId:19923525	origText:calcium	url:D002118
+CANDIDATE	id:2118	inCount:11	outCount:2	links:	url:D002118	name:Calcium	normalName:calcium	normalWikiTitle:calcium	predictedType:Chemical
+ENTITY	text:nitroglycerin	normalName:nitroglycerin	predictedType:chemical	q:true	qid:Q131	docId:19923525	origText:nitroglycerin	url:D005996
+CANDIDATE	id:5996	inCount:10	outCount:1	links:	url:D005996	name:Nitroglycerin	normalName:nitroglycerin	normalWikiTitle:nitroglycerin	predictedType:Chemical
+ENTITY	text:Nimodipine	normalName:nimodipine	predictedType:chemical	q:true	qid:Q131	docId:19923525	origText:Nimodipine	url:D009553
+CANDIDATE	id:9553	inCount:1	outCount:2	links:	url:D009553	name:Nimodipine	normalName:nimodipine	normalWikiTitle:nimodipine	predictedType:Chemical

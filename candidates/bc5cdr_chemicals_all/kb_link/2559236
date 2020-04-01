@@ -1,0 +1,4 @@
+ENTITY	text:enalapril	normalName:enalapril	predictedType:chemical	q:true	qid:Q60	docId:2559236	origText:enalapril	url:D004656
+CANDIDATE	id:4656	inCount:8	outCount:1	links:	url:D004656	name:Enalapril	normalName:enalapril	normalWikiTitle:enalapril	predictedType:Chemical
+ENTITY	text:adriamycin	normalName:adriamycin	predictedType:chemical	q:true	qid:Q60	docId:2559236	origText:adriamycin	url:D004317
+CANDIDATE	id:4317	inCount:559	outCount:1	links:	url:D004317	name:Adriamycin	normalName:adriamycin	normalWikiTitle:adriamycin	predictedType:Chemical

@@ -1,0 +1,28 @@
+ENTITY	text:atherosclerotic lesion	normalName:atherosclerotic lesion	predictedType:disease	q:true	qid:Q868	docId:17879945	origText:atherosclerotic lesion	url:D050197
+CANDIDATE	id:50197	inCount:3	outCount:1	links:	url:D050197	name:Atherosclerosis	normalName:atherosclerosis	normalWikiTitle:atherosclerosis	predictedType:Disease
+CANDIDATE	id:58226	inCount:0	outCount:1	links:	url:D058226	name:Plaque, Atherosclerotic	normalName:plaque, atherosclerotic	normalWikiTitle:plaque, atherosclerotic	predictedType:Disease
+CANDIDATE	id:1161	inCount:9	outCount:1	links:	url:D001161	name:Arteriosclerosis	normalName:arteriosclerosis	normalWikiTitle:arteriosclerosis	predictedType:Disease
+CANDIDATE	id:50379	inCount:0	outCount:1	links:	url:D050379	name:Arteriolosclerosis	normalName:arteriolosclerosis	normalWikiTitle:arteriolosclerosis	predictedType:Disease
+CANDIDATE	id:1162	inCount:0	outCount:1	links:	url:D001162	name:Arteriosclerosis Obliterans	normalName:arteriosclerosis obliterans	normalWikiTitle:arteriosclerosis obliterans	predictedType:Disease
+CANDIDATE	id:10026	inCount:17	outCount:1	links:	url:D010026	name:Osteosclerosis	normalName:osteosclerosis	normalWikiTitle:osteosclerosis	predictedType:Disease
+CANDIDATE	id:565941	inCount:0	outCount:1	links:	url:C565941	name:Arteriosclerosis, Severe Juvenile	normalName:arteriosclerosis, severe juvenile	normalWikiTitle:arteriosclerosis, severe juvenile	predictedType:Disease
+CANDIDATE	id:2537	inCount:1	outCount:2	links:	url:D002537	name:Intracranial Arteriosclerosis	normalName:intracranial arteriosclerosis	normalWikiTitle:intracranial arteriosclerosis	predictedType:Disease
+CANDIDATE	id:9400	inCount:0	outCount:1	links:	url:D009400	name:Nephrosclerosis	normalName:nephrosclerosis	normalWikiTitle:nephrosclerosis	predictedType:Disease
+CANDIDATE	id:10040	inCount:6	outCount:1	links:	url:D010040	name:Otosclerosis	normalName:otosclerosis	normalWikiTitle:otosclerosis	predictedType:Disease
+CANDIDATE	id:58226	inCount:0	outCount:1	links:	url:D058226	name:Atherosclerotic Plaques	normalName:atherosclerotic plaques	normalWikiTitle:atherosclerotic plaques	predictedType:Disease
+CANDIDATE	id:58226	inCount:0	outCount:1	links:	url:D058226	name:Plaques, Atherosclerotic	normalName:plaques, atherosclerotic	normalWikiTitle:plaques, atherosclerotic	predictedType:Disease
+ENTITY	text:premature atherosclerosis	normalName:premature atherosclerosis	predictedType:disease	q:true	qid:Q868	docId:17879945	origText:premature atherosclerosis	url:D050197
+CANDIDATE	id:50197	inCount:3	outCount:1	links:	url:D050197	name:Atherosclerosis	normalName:atherosclerosis	normalWikiTitle:atherosclerosis	predictedType:Disease
+CANDIDATE	id:58226	inCount:0	outCount:1	links:	url:D058226	name:Plaque, Atherosclerotic	normalName:plaque, atherosclerotic	normalWikiTitle:plaque, atherosclerotic	predictedType:Disease
+CANDIDATE	id:7752	inCount:1	outCount:1	links:	url:D007752	name:Obstetric Labor, Premature	normalName:obstetric labor, premature	normalWikiTitle:obstetric labor, premature	predictedType:Disease
+CANDIDATE	id:1161	inCount:9	outCount:1	links:	url:D001161	name:Arteriosclerosis	normalName:arteriosclerosis	normalWikiTitle:arteriosclerosis	predictedType:Disease
+CANDIDATE	id:2537	inCount:1	outCount:2	links:	url:D002537	name:Intracranial Arteriosclerosis	normalName:intracranial arteriosclerosis	normalWikiTitle:intracranial arteriosclerosis	predictedType:Disease
+CANDIDATE	id:18880	inCount:0	outCount:1	links:	url:D018880	name:Atrial Premature Complexes	normalName:atrial premature complexes	normalWikiTitle:atrial premature complexes	predictedType:Disease
+CANDIDATE	id:50379	inCount:0	outCount:1	links:	url:D050379	name:Arteriolosclerosis	normalName:arteriolosclerosis	normalWikiTitle:arteriolosclerosis	predictedType:Disease
+CANDIDATE	id:1162	inCount:0	outCount:1	links:	url:D001162	name:Arteriosclerosis Obliterans	normalName:arteriosclerosis obliterans	normalWikiTitle:arteriosclerosis obliterans	predictedType:Disease
+CANDIDATE	id:8594	inCount:1	outCount:1	links:	url:D008594	name:Menopause, Premature	normalName:menopause, premature	normalWikiTitle:menopause, premature	predictedType:Disease
+CANDIDATE	id:565941	inCount:0	outCount:1	links:	url:C565941	name:Arteriosclerosis, Severe Juvenile	normalName:arteriosclerosis, severe juvenile	normalWikiTitle:arteriosclerosis, severe juvenile	predictedType:Disease
+CANDIDATE	id:3324	inCount:4	outCount:2	links:	url:D003324	name:Atherosclerosis, Coronary	normalName:atherosclerosis, coronary	normalWikiTitle:atherosclerosis, coronary	predictedType:Disease
+CANDIDATE	id:2537	inCount:1	outCount:2	links:	url:D002537	name:Cerebral Atherosclerosis	normalName:cerebral atherosclerosis	normalWikiTitle:cerebral atherosclerosis	predictedType:Disease
+CANDIDATE	id:2537	inCount:1	outCount:2	links:	url:D002537	name:Atherosclerosis, Cerebral	normalName:atherosclerosis, cerebral	normalWikiTitle:atherosclerosis, cerebral	predictedType:Disease
+CANDIDATE	id:3324	inCount:4	outCount:2	links:	url:D003324	name:Coronary Atherosclerosis	normalName:coronary atherosclerosis	normalWikiTitle:coronary atherosclerosis	predictedType:Disease

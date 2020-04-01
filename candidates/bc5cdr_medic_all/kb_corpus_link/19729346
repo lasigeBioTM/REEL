@@ -1,0 +1,4 @@
+ENTITY	text:chronic pain	normalName:chronic pain	predictedType:disease	q:true	qid:Q848	docId:19729346	origText:chronic pain	url:D059350
+CANDIDATE	id:59350	inCount:0	outCount:1	links:	url:D059350	name:Chronic Pain	normalName:chronic pain	normalWikiTitle:chronic pain	predictedType:Disease
+ENTITY	text:pain	normalName:pain	predictedType:disease	q:true	qid:Q848	docId:19729346	origText:pain	url:D010146
+CANDIDATE	id:10146	inCount:34	outCount:1	links:	url:D010146	name:Pain	normalName:pain	normalWikiTitle:pain	predictedType:Disease

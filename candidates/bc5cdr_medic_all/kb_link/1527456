@@ -1,0 +1,23 @@
+ENTITY	text:vertigo	normalName:vertigo	predictedType:disease	q:true	qid:Q1343	docId:1527456	origText:vertigo	url:D014717
+CANDIDATE	id:14717	inCount:2	outCount:2	links:	url:D014717	name:Vertigo	normalName:vertigo	normalWikiTitle:vertigo	predictedType:Disease
+ENTITY	text:tinnitus	normalName:tinnitus	predictedType:disease	q:true	qid:Q1343	docId:1527456	origText:tinnitus	url:D014012
+CANDIDATE	id:14012	inCount:1	outCount:1	links:14012	url:D014012	name:Tinnitus	normalName:tinnitus	normalWikiTitle:tinnitus	predictedType:Disease
+ENTITY	text:vomiting	normalName:vomiting	predictedType:disease	q:true	qid:Q1343	docId:1527456	origText:vomiting	url:D014839
+CANDIDATE	id:14839	inCount:7	outCount:1	links:	url:D014839	name:Vomiting	normalName:vomiting	normalWikiTitle:vomiting	predictedType:Disease
+ENTITY	text:Idiopathic subjective tinnitus	normalName:idiopathic subjective tinnitus	predictedType:disease	q:true	qid:Q1343	docId:1527456	origText:Idiopathic subjective tinnitus	url:D014012
+CANDIDATE	id:14012	inCount:1	outCount:1	links:14012	url:D014012	name:Objective Tinnitus	normalName:objective tinnitus	normalWikiTitle:objective tinnitus	predictedType:Disease
+CANDIDATE	id:54988	inCount:2	outCount:1	links:	url:D054988	name:Idiopathic Interstitial Pneumonias	normalName:idiopathic interstitial pneumonias	normalWikiTitle:idiopathic interstitial pneumonias	predictedType:Disease
+CANDIDATE	id:548027	inCount:0	outCount:1	links:	url:C548027	name:Idiopathic Juxtafoveal Retinal Telangiectasia	normalName:idiopathic juxtafoveal retinal telangiectasia	normalWikiTitle:idiopathic juxtafoveal retinal telangiectasia	predictedType:Disease
+CANDIDATE	id:16553	inCount:0	outCount:3	links:	url:D016553	name:Purpura, Thrombocytopenic, Idiopathic	normalName:purpura, thrombocytopenic, idiopathic	normalWikiTitle:purpura, thrombocytopenic, idiopathic	predictedType:Disease
+CANDIDATE	id:564479	inCount:0	outCount:2	links:	url:C564479	name:Short Stature, Idiopathic, X-Linked	normalName:short stature, idiopathic, x-linked	normalWikiTitle:short stature, idiopathic, x-linked	predictedType:Disease
+CANDIDATE	id:59905	inCount:0	outCount:1	links:	url:D059905	name:Endocarditis, Non-Infective	normalName:endocarditis, non-infective	normalWikiTitle:endocarditis, non-infective	predictedType:Disease
+CANDIDATE	id:3919	inCount:7	outCount:2	links:	url:D003919	name:Diabetes Insipidus	normalName:diabetes insipidus	normalWikiTitle:diabetes insipidus	predictedType:Disease
+CANDIDATE	id:565805	inCount:0	outCount:1	links:	url:C565805	name:Short Stature, Idiopathic, Autosomal	normalName:short stature, idiopathic, autosomal	normalWikiTitle:short stature, idiopathic, autosomal	predictedType:Disease
+CANDIDATE	id:565846	inCount:0	outCount:2	links:	url:C565846	name:Copper Toxicosis, Idiopathic	normalName:copper toxicosis, idiopathic	normalWikiTitle:copper toxicosis, idiopathic	predictedType:Disease
+CANDIDATE	id:47508	inCount:0	outCount:1	links:	url:D047508	name:Massive Hepatic Necrosis	normalName:massive hepatic necrosis	normalWikiTitle:massive hepatic necrosis	predictedType:Disease
+CANDIDATE	id:536283	inCount:0	outCount:1	links:	url:C536283	name:Idiopathic subglottic tracheal stenosis	normalName:idiopathic subglottic tracheal stenosis	normalWikiTitle:idiopathic subglottic tracheal stenosis	predictedType:Disease
+CANDIDATE	id:14012	inCount:1	outCount:1	links:14012	url:D014012	name:Tinnitus, Subjective	normalName:tinnitus, subjective	normalWikiTitle:tinnitus, subjective	predictedType:Disease
+CANDIDATE	id:14012	inCount:1	outCount:1	links:14012	url:D014012	name:Subjective Tinnitus	normalName:subjective tinnitus	normalWikiTitle:subjective tinnitus	predictedType:Disease
+CANDIDATE	id:14012	inCount:1	outCount:1	links:14012	url:D014012	name:Tinnitus, Objective	normalName:tinnitus, objective	normalWikiTitle:tinnitus, objective	predictedType:Disease
+CANDIDATE	id:580539	inCount:0	outCount:2	links:	url:C580539	name:Idiopathic Infantile Nystagmus	normalName:idiopathic infantile nystagmus	normalWikiTitle:idiopathic infantile nystagmus	predictedType:Disease
+CANDIDATE	id:3093	inCount:1	outCount:2	links:	url:D003093	name:Idiopathic Proctocolitis	normalName:idiopathic proctocolitis	normalWikiTitle:idiopathic proctocolitis	predictedType:Disease

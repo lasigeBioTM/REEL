@@ -1,0 +1,4 @@
+ENTITY	text:amphetamine	normalName:amphetamine	predictedType:chemical	q:true	qid:Q399	docId:3615541	origText:amphetamine	url:D000661
+CANDIDATE	id:661	inCount:1	outCount:1	links:	url:D000661	name:Amphetamine	normalName:amphetamine	normalWikiTitle:amphetamine	predictedType:Chemical
+ENTITY	text:calcitonin	normalName:calcitonin	predictedType:chemical	q:true	qid:Q399	docId:3615541	origText:calcitonin	url:D002116
+CANDIDATE	id:2116	inCount:27	outCount:3	links:	url:D002116	name:Calcitonin	normalName:calcitonin	normalWikiTitle:calcitonin	predictedType:Chemical

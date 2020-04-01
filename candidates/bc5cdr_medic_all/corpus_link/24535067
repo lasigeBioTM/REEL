@@ -1,0 +1,4 @@
+ENTITY	text:myoclonus	normalName:myoclonus	predictedType:disease	q:true	qid:Q1212	docId:24535067	origText:myoclonus	url:D009207
+CANDIDATE	id:9207	inCount:11	outCount:1	links:10146	url:D009207	name:Myoclonus	normalName:myoclonus	normalWikiTitle:myoclonus	predictedType:Disease
+ENTITY	text:pain	normalName:pain	predictedType:disease	q:true	qid:Q1212	docId:24535067	origText:pain	url:D010146
+CANDIDATE	id:10146	inCount:34	outCount:1	links:9207	url:D010146	name:Pain	normalName:pain	normalWikiTitle:pain	predictedType:Disease

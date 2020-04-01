@@ -1,0 +1,8 @@
+ENTITY	text:amyloidosis	normalName:amyloidosis	predictedType:disease	q:true	qid:Q359	docId:24040781	origText:amyloidosis	url:D000686
+CANDIDATE	id:686	inCount:6	outCount:1	links:	url:D000686	name:Amyloidosis	normalName:amyloidosis	normalWikiTitle:amyloidosis	predictedType:Disease
+ENTITY	text:fibrosis	normalName:fibrosis	predictedType:disease	q:true	qid:Q359	docId:24040781	origText:fibrosis	url:D005355
+CANDIDATE	id:5355	inCount:11	outCount:1	links:	url:D005355	name:Fibrosis	normalName:fibrosis	normalWikiTitle:fibrosis	predictedType:Disease
+ENTITY	text:proteinuria	normalName:proteinuria	predictedType:disease	q:true	qid:Q359	docId:24040781	origText:proteinuria	url:D011507
+CANDIDATE	id:11507	inCount:4	outCount:2	links:	url:D011507	name:Proteinuria	normalName:proteinuria	normalWikiTitle:proteinuria	predictedType:Disease
+ENTITY	text:atrophy	normalName:atrophy	predictedType:disease	q:true	qid:Q359	docId:24040781	origText:atrophy	url:D001284
+CANDIDATE	id:1284	inCount:3	outCount:1	links:	url:D001284	name:Atrophy	normalName:atrophy	normalWikiTitle:atrophy	predictedType:Disease

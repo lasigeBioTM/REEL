@@ -1,0 +1,8 @@
+ENTITY	text:heart failure	normalName:heart failure	predictedType:disease	q:true	qid:Q267	docId:1595783	origText:heart failure	url:D006333
+CANDIDATE	id:6333	inCount:5	outCount:1	links:	url:D006333	name:Heart Failure	normalName:heart failure	normalWikiTitle:heart failure	predictedType:Disease
+ENTITY	text:infection	normalName:infection	predictedType:disease	q:true	qid:Q267	docId:1595783	origText:infection	url:D007239
+CANDIDATE	id:7239	inCount:33	outCount:1	links:	url:D007239	name:Infection	normalName:infection	normalWikiTitle:infection	predictedType:Disease
+ENTITY	text:pneumonitis	normalName:pneumonitis	predictedType:disease	q:true	qid:Q267	docId:1595783	origText:pneumonitis	url:D011014
+CANDIDATE	id:11014	inCount:10	outCount:2	links:	url:D011014	name:Pneumonitis	normalName:pneumonitis	normalWikiTitle:pneumonitis	predictedType:Disease
+ENTITY	text:malignancy	normalName:malignancy	predictedType:disease	q:true	qid:Q267	docId:1595783	origText:malignancy	url:D009369
+CANDIDATE	id:9369	inCount:18	outCount:1	links:	url:D009369	name:Malignancy	normalName:malignancy	normalWikiTitle:malignancy	predictedType:Disease

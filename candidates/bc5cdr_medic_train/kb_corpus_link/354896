@@ -1,0 +1,36 @@
+ENTITY	text:depression	normalName:depression	predictedType:disease	q:true	qid:Q157	docId:354896	origText:depression	url:D003866
+CANDIDATE	id:3866	inCount:6	outCount:1	links:	url:D003866	name:Depressive Disorder	normalName:depressive disorder	normalWikiTitle:depressive disorder	predictedType:Disease
+CANDIDATE	id:18450	inCount:2	outCount:1	links:	url:D018450	name:Disease Progression	normalName:disease progression	normalWikiTitle:disease progression	predictedType:Disease
+CANDIDATE	id:19052	inCount:0	outCount:2	links:	url:D019052	name:Depression, Postpartum	normalName:depression, postpartum	normalWikiTitle:depression, postpartum	predictedType:Disease
+CANDIDATE	id:146850	inCount:0	outCount:2	links:	url:146850	name:IMMUNE SUPPRESSION	normalName:immune suppression	normalWikiTitle:immune suppression	predictedType:Disease
+CANDIDATE	id:6973	inCount:18	outCount:1	links:6323;1919	url:D006973	name:Hypertension	normalName:hypertension	normalWikiTitle:hypertension	predictedType:Disease
+CANDIDATE	id:58246	inCount:0	outCount:1	links:	url:D058246	name:Prehypertension	normalName:prehypertension	normalWikiTitle:prehypertension	predictedType:Disease
+CANDIDATE	id:14786	inCount:19	outCount:2	links:	url:D014786	name:Vision Disorders	normalName:vision disorders	normalWikiTitle:vision disorders	predictedType:Disease
+CANDIDATE	id:3665	inCount:0	outCount:1	links:	url:D003665	name:Decompression Sickness	normalName:decompression sickness	normalWikiTitle:decompression sickness	predictedType:Disease
+CANDIDATE	id:12871	inCount:71	outCount:1	links:	url:D012871	name:Skin Diseases	normalName:skin diseases	normalWikiTitle:skin diseases	predictedType:Disease
+CANDIDATE	id:4688	inCount:1	outCount:2	links:	url:D004688	name:Encopresis	normalName:encopresis	normalWikiTitle:encopresis	predictedType:Disease
+CANDIDATE	id:1714	inCount:11	outCount:1	links:	url:D001714	name:Depression, Bipolar	normalName:depression, bipolar	normalWikiTitle:depression, bipolar	predictedType:Disease
+CANDIDATE	id:1714	inCount:11	outCount:1	links:	url:D001714	name:Bipolar Depression	normalName:bipolar depression	normalWikiTitle:bipolar depression	predictedType:Disease
+ENTITY	text:cardiac asystole	normalName:cardiac asystole	predictedType:disease	q:true	qid:Q157	docId:354896	origText:cardiac asystole	url:D006323
+CANDIDATE	id:6323	inCount:2	outCount:1	links:6973;1919	url:D006323	name:Asystole	normalName:asystole	normalWikiTitle:asystole	predictedType:Disease
+CANDIDATE	id:1145	inCount:27	outCount:2	links:	url:D001145	name:Arrhythmias, Cardiac	normalName:arrhythmias, cardiac	normalWikiTitle:arrhythmias, cardiac	predictedType:Disease
+CANDIDATE	id:7979	inCount:0	outCount:2	links:	url:D007979	name:Levocardia	normalName:levocardia	normalWikiTitle:levocardia	predictedType:Disease
+CANDIDATE	id:54138	inCount:0	outCount:1	links:1919	url:D054138	name:Sinus Arrest, Cardiac	normalName:sinus arrest, cardiac	normalWikiTitle:sinus arrest, cardiac	predictedType:Disease
+CANDIDATE	id:1919	inCount:0	outCount:1	links:6973;1919	url:D001919	name:Bradycardia	normalName:bradycardia	normalWikiTitle:bradycardia	predictedType:Disease
+CANDIDATE	id:13610	inCount:7	outCount:2	links:1919	url:D013610	name:Tachycardia	normalName:tachycardia	normalWikiTitle:tachycardia	predictedType:Disease
+CANDIDATE	id:17574	inCount:0	outCount:1	links:	url:D017574	name:Parasystole	normalName:parasystole	normalWikiTitle:parasystole	predictedType:Disease
+CANDIDATE	id:13614	inCount:1	outCount:1	links:	url:D013614	name:Tachycardia, Paroxysmal	normalName:tachycardia, paroxysmal	normalWikiTitle:tachycardia, paroxysmal	predictedType:Disease
+CANDIDATE	id:4420	inCount:1	outCount:1	links:	url:D004420	name:Dystocia	normalName:dystocia	normalWikiTitle:dystocia	predictedType:Disease
+CANDIDATE	id:7046	inCount:0	outCount:1	links:	url:D007046	name:Hysteria	normalName:hysteria	normalWikiTitle:hysteria	predictedType:Disease
+CANDIDATE	id:3914	inCount:4	outCount:2	links:	url:D003914	name:Dextrocardia	normalName:dextrocardia	normalWikiTitle:dextrocardia	predictedType:Disease
+CANDIDATE	id:4418	inCount:0	outCount:2	links:	url:D004418	name:Asthma, Cardiac	normalName:asthma, cardiac	normalWikiTitle:asthma, cardiac	predictedType:Disease
+CANDIDATE	id:6323	inCount:2	outCount:1	links:6973;1919	url:D006323	name:Cardiac Arrest	normalName:cardiac arrest	normalWikiTitle:cardiac arrest	predictedType:Disease
+CANDIDATE	id:6323	inCount:2	outCount:1	links:6973;1919	url:D006323	name:Arrest, Cardiac	normalName:arrest, cardiac	normalWikiTitle:arrest, cardiac	predictedType:Disease
+CANDIDATE	id:6322	inCount:0	outCount:2	links:	url:D006322	name:Aneurysm, Cardiac	normalName:aneurysm, cardiac	normalWikiTitle:aneurysm, cardiac	predictedType:Disease
+CANDIDATE	id:6322	inCount:0	outCount:2	links:	url:D006322	name:Cardiac Aneurysm	normalName:cardiac aneurysm	normalWikiTitle:cardiac aneurysm	predictedType:Disease
+CANDIDATE	id:6322	inCount:0	outCount:2	links:	url:D006322	name:Aneurysms, Cardiac	normalName:aneurysms, cardiac	normalWikiTitle:aneurysms, cardiac	predictedType:Disease
+CANDIDATE	id:6338	inCount:2	outCount:2	links:	url:D006338	name:Cancer, Cardiac	normalName:cancer, cardiac	normalWikiTitle:cancer, cardiac	predictedType:Disease
+CANDIDATE	id:6322	inCount:0	outCount:2	links:	url:D006322	name:Cardiac Aneurysms	normalName:cardiac aneurysms	normalWikiTitle:cardiac aneurysms	predictedType:Disease
+CANDIDATE	id:787	inCount:3	outCount:2	links:	url:D000787	name:Stenocardia	normalName:stenocardia	normalWikiTitle:stenocardia	predictedType:Disease
+ENTITY	text:bradyarrhythmias	normalName:bradyarrhythmias	predictedType:disease	q:true	qid:Q157	docId:354896	origText:bradyarrhythmias	url:D001919
+CANDIDATE	id:1919	inCount:0	outCount:1	links:6973;1919	url:D001919	name:Bradyarrhythmia	normalName:bradyarrhythmia	normalWikiTitle:bradyarrhythmia	predictedType:Disease

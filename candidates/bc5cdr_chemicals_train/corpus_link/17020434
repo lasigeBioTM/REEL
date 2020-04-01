@@ -1,0 +1,14 @@
+ENTITY	text:Idraparinux	normalName:idraparinux	predictedType:chemical	q:true	qid:Q288	docId:17020434	origText:Idraparinux	url:C479958
+CANDIDATE	id:479958	inCount:0	outCount:1	links:	url:C479958	name:idraparinux	normalName:idraparinux	normalWikiTitle:idraparinux	predictedType:Chemical
+ENTITY	text:vitamin K	normalName:vitamin k	predictedType:chemical	q:true	qid:Q288	docId:17020434	origText:vitamin K	url:D014812
+CANDIDATE	id:14812	inCount:12	outCount:2	links:	url:D014812	name:Vitamin K	normalName:vitamin k	normalWikiTitle:vitamin k	predictedType:Chemical
+ENTITY	text:Ximelagatran	normalName:ximelagatran	predictedType:chemical	q:true	qid:Q288	docId:17020434	origText:Ximelagatran	url:C426686
+CANDIDATE	id:426686	inCount:0	outCount:2	links:	url:C426686	name:ximelagatran	normalName:ximelagatran	normalWikiTitle:ximelagatran	predictedType:Chemical
+ENTITY	text:aspirin	normalName:aspirin	predictedType:chemical	q:true	qid:Q288	docId:17020434	origText:aspirin	url:D001241
+CANDIDATE	id:1241	inCount:106	outCount:1	links:	url:D001241	name:Aspirin	normalName:aspirin	normalWikiTitle:aspirin	predictedType:Chemical
+ENTITY	text:warfarin	normalName:warfarin	predictedType:chemical	q:true	qid:Q288	docId:17020434	origText:warfarin	url:D014859
+CANDIDATE	id:14859	inCount:14	outCount:1	links:	url:D014859	name:Warfarin	normalName:warfarin	normalWikiTitle:warfarin	predictedType:Chemical
+ENTITY	text:Angiotensin	normalName:angiotensin	predictedType:chemical	q:true	qid:Q288	docId:17020434	origText:Angiotensin	url:D000809
+CANDIDATE	id:809	inCount:9	outCount:4	links:	url:D000809	name:Angiotensin	normalName:angiotensin	normalWikiTitle:angiotensin	predictedType:Chemical
+ENTITY	text:angiotensin II	normalName:angiotensin ii	predictedType:chemical	q:true	qid:Q288	docId:17020434	origText:angiotensin II	url:D000804
+CANDIDATE	id:804	inCount:91	outCount:1	links:	url:D000804	name:Angiotensin II	normalName:angiotensin ii	normalWikiTitle:angiotensin ii	predictedType:Chemical

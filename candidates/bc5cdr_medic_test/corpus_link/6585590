@@ -1,0 +1,12 @@
+ENTITY	text:albuminuria	normalName:albuminuria	predictedType:disease	q:true	qid:Q229	docId:6585590	origText:albuminuria	url:D000419
+CANDIDATE	id:419	inCount:0	outCount:1	links:66126;1201;6876;9202	url:D000419	name:Albuminuria	normalName:albuminuria	normalWikiTitle:albuminuria	predictedType:Disease
+ENTITY	text:cardiotoxicity	normalName:cardiotoxicity	predictedType:disease	q:true	qid:Q229	docId:6585590	origText:cardiotoxicity	url:D066126
+CANDIDATE	id:66126	inCount:0	outCount:3	links:1201;6876;9202;419	url:D066126	name:Cardiotoxicity	normalName:cardiotoxicity	normalWikiTitle:cardiotoxicity	predictedType:Disease
+ENTITY	text:Ascites	normalName:ascites	predictedType:disease	q:true	qid:Q229	docId:6585590	origText:Ascites	url:D001201
+CANDIDATE	id:1201	inCount:0	outCount:1	links:66126;6876;9202;419	url:D001201	name:Ascites	normalName:ascites	normalWikiTitle:ascites	predictedType:Disease
+ENTITY	text:hydrothorax	normalName:hydrothorax	predictedType:disease	q:true	qid:Q229	docId:6585590	origText:hydrothorax	url:D006876
+CANDIDATE	id:6876	inCount:0	outCount:1	links:66126;1201;9202;419	url:D006876	name:Hydrothorax	normalName:hydrothorax	normalWikiTitle:hydrothorax	predictedType:Disease
+ENTITY	text:tumor	normalName:tumor	predictedType:disease	q:true	qid:Q229	docId:6585590	origText:tumor	url:D009369
+CANDIDATE	id:9369	inCount:18	outCount:1	links:	url:D009369	name:Tumor	normalName:tumor	normalWikiTitle:tumor	predictedType:Disease
+ENTITY	text:cardiomyopathy	normalName:cardiomyopathy	predictedType:disease	q:true	qid:Q229	docId:6585590	origText:cardiomyopathy	url:D009202
+CANDIDATE	id:9202	inCount:37	outCount:1	links:66126;1201;6876;419	url:D009202	name:Cardiomyopathy	normalName:cardiomyopathy	normalWikiTitle:cardiomyopathy	predictedType:Disease

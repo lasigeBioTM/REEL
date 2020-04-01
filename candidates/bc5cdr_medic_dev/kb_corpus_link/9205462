@@ -1,0 +1,8 @@
+ENTITY	text:Granulosa cell tumor of the ovary	normalName:granulosa cell tumor of the ovary	predictedType:disease	q:true	qid:Q306	docId:9205462	origText:Granulosa cell tumor of the ovary	url:C537296
+CANDIDATE	id:537296	inCount:0	outCount:1	links:	url:C537296	name:Granulosa cell tumor of the ovary	normalName:granulosa cell tumor of the ovary	normalWikiTitle:granulosa cell tumor of the ovary	predictedType:Disease
+ENTITY	text:breast carcinoma	normalName:breast carcinoma	predictedType:disease	q:true	qid:Q306	docId:9205462	origText:breast carcinoma	url:D001943
+CANDIDATE	id:1943	inCount:19	outCount:2	links:	url:D001943	name:Carcinoma, Breast	normalName:carcinoma, breast	normalWikiTitle:carcinoma, breast	predictedType:Disease
+ENTITY	text:tumors	normalName:tumors	predictedType:disease	q:true	qid:Q306	docId:9205462	origText:tumors	url:D009369
+CANDIDATE	id:9369	inCount:18	outCount:1	links:	url:D009369	name:Tumor	normalName:tumor	normalWikiTitle:tumor	predictedType:Disease
+ENTITY	text:granulosa cell tumors	normalName:granulosa cell tumors	predictedType:disease	q:true	qid:Q306	docId:9205462	origText:granulosa cell tumors	url:D006106
+CANDIDATE	id:6106	inCount:2	outCount:2	links:	url:D006106	name:Granulosa Cell Tumors	normalName:granulosa cell tumors	normalWikiTitle:granulosa cell tumors	predictedType:Disease

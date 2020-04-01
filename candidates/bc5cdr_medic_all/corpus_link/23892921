@@ -1,0 +1,6 @@
+ENTITY	text:Peripheral neuropathy	normalName:peripheral neuropathy	predictedType:disease	q:true	qid:Q494	docId:23892921	origText:Peripheral neuropathy	url:D010523
+CANDIDATE	id:10523	inCount:37	outCount:1	links:20246	url:D010523	name:Peripheral Neuropathy	normalName:peripheral neuropathy	normalWikiTitle:peripheral neuropathy	predictedType:Disease
+ENTITY	text:deep vein thrombosis	normalName:deep vein thrombosis	predictedType:disease	q:true	qid:Q494	docId:23892921	origText:deep vein thrombosis	url:D020246
+CANDIDATE	id:20246	inCount:5	outCount:1	links:10523	url:D020246	name:Deep Vein Thrombosis	normalName:deep vein thrombosis	normalWikiTitle:deep vein thrombosis	predictedType:Disease
+ENTITY	text:multiple myeloma	normalName:multiple myeloma	predictedType:disease	q:true	qid:Q494	docId:23892921	origText:multiple myeloma	url:D009101
+CANDIDATE	id:9101	inCount:1	outCount:4	links:	url:D009101	name:Multiple Myeloma	normalName:multiple myeloma	normalWikiTitle:multiple myeloma	predictedType:Disease

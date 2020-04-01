@@ -1,0 +1,32 @@
+ENTITY	text:neurotoxicity	normalName:neurotoxicity	predictedType:disease	q:true	qid:Q11	docId:10225068	origText:neurotoxicity	url:D020258
+CANDIDATE	id:20258	inCount:7	outCount:2	links:	url:D020258	name:Neurotoxicity Syndromes	normalName:neurotoxicity syndromes	normalWikiTitle:neurotoxicity syndromes	predictedType:Disease
+CANDIDATE	id:66126	inCount:0	outCount:3	links:	url:D066126	name:Cardiotoxicity	normalName:cardiotoxicity	normalWikiTitle:cardiotoxicity	predictedType:Disease
+CANDIDATE	id:7246	inCount:2	outCount:2	links:	url:D007246	name:Infertility	normalName:infertility	normalWikiTitle:infertility	predictedType:Disease
+CANDIDATE	id:4767	inCount:0	outCount:2	links:	url:D004767	name:Enterotoxemia	normalName:enterotoxemia	normalWikiTitle:enterotoxemia	predictedType:Disease
+CANDIDATE	id:13971	inCount:2	outCount:1	links:	url:D013971	name:Thyrotoxicosis	normalName:thyrotoxicosis	normalWikiTitle:thyrotoxicosis	predictedType:Disease
+CANDIDATE	id:9902	inCount:1	outCount:1	links:	url:D009902	name:Optic Neuritis	normalName:optic neuritis	normalWikiTitle:optic neuritis	predictedType:Disease
+CANDIDATE	id:20426	inCount:2	outCount:1	links:	url:D020426	name:Sciatic Neuropathy	normalName:sciatic neuropathy	normalWikiTitle:sciatic neuropathy	predictedType:Disease
+CANDIDATE	id:18306	inCount:0	outCount:2	links:	url:D018306	name:Neurocytoma	normalName:neurocytoma	normalWikiTitle:neurocytoma	predictedType:Disease
+CANDIDATE	id:20019	inCount:0	outCount:2	links:	url:D020019	name:Neurocysticercosis	normalName:neurocysticercosis	normalWikiTitle:neurocysticercosis	predictedType:Disease
+CANDIDATE	id:9443	inCount:2	outCount:1	links:	url:D009443	name:Neuritis	normalName:neuritis	normalWikiTitle:neuritis	predictedType:Disease
+ENTITY	text:neurological deficits	normalName:neurological deficits	predictedType:disease	q:true	qid:Q11	docId:10225068	origText:neurological deficits	url:D009461
+CANDIDATE	id:9461	inCount:26	outCount:2	links:	url:D009461	name:Focal Neurologic Deficits	normalName:focal neurologic deficits	normalWikiTitle:focal neurologic deficits	predictedType:Disease
+CANDIDATE	id:5156	inCount:1	outCount:1	links:	url:D005156	name:Facial Neuralgia	normalName:facial neuralgia	normalWikiTitle:facial neuralgia	predictedType:Disease
+CANDIDATE	id:20233	inCount:2	outCount:1	links:	url:D020233	name:Gait Disorders, Neurologic	normalName:gait disorders, neurologic	normalWikiTitle:gait disorders, neurologic	predictedType:Disease
+CANDIDATE	id:9436	inCount:11	outCount:1	links:	url:D009436	name:Neural Tube Defects	normalName:neural tube defects	normalWikiTitle:neural tube defects	predictedType:Disease
+CANDIDATE	id:536479	inCount:0	outCount:1	links:	url:C536479	name:Urocanase deficiency	normalName:urocanase deficiency	normalWikiTitle:urocanase deficiency	predictedType:Disease
+CANDIDATE	id:56732	inCount:0	outCount:4	links:	url:D056732	name:Prolidase Deficiency	normalName:prolidase deficiency	normalWikiTitle:prolidase deficiency	predictedType:Disease
+CANDIDATE	id:8586	inCount:0	outCount:2	links:	url:D008586	name:Meningitis, Pneumococcal	normalName:meningitis, pneumococcal	normalWikiTitle:meningitis, pneumococcal	predictedType:Disease
+CANDIDATE	id:562649	inCount:0	outCount:1	links:	url:C562649	name:Enterokinase Deficiency	normalName:enterokinase deficiency	normalWikiTitle:enterokinase deficiency	predictedType:Disease
+CANDIDATE	id:14570	inCount:9	outCount:2	links:	url:D014570	name:Urologic Diseases	normalName:urologic diseases	normalWikiTitle:urologic diseases	predictedType:Disease
+CANDIDATE	id:13529	inCount:0	outCount:1	links:	url:D013529	name:Surgical Wound Dehiscence	normalName:surgical wound dehiscence	normalWikiTitle:surgical wound dehiscence	predictedType:Disease
+CANDIDATE	id:9461	inCount:26	outCount:2	links:	url:D009461	name:Neurologic Manifestations	normalName:neurologic manifestations	normalWikiTitle:neurologic manifestations	predictedType:Disease
+CANDIDATE	id:9461	inCount:26	outCount:2	links:	url:D009461	name:Neurologic Deficit	normalName:neurologic deficit	normalWikiTitle:neurologic deficit	predictedType:Disease
+CANDIDATE	id:9461	inCount:26	outCount:2	links:	url:D009461	name:Deficit, Neurologic	normalName:deficit, neurologic	normalWikiTitle:deficit, neurologic	predictedType:Disease
+CANDIDATE	id:9461	inCount:26	outCount:2	links:	url:D009461	name:Deficits, Neurologic	normalName:deficits, neurologic	normalWikiTitle:deficits, neurologic	predictedType:Disease
+CANDIDATE	id:9461	inCount:26	outCount:2	links:	url:D009461	name:Neurologic Deficits	normalName:neurologic deficits	normalWikiTitle:neurologic deficits	predictedType:Disease
+CANDIDATE	id:9461	inCount:26	outCount:2	links:	url:D009461	name:Deficit, Focal Neurologic	normalName:deficit, focal neurologic	normalWikiTitle:deficit, focal neurologic	predictedType:Disease
+CANDIDATE	id:9461	inCount:26	outCount:2	links:	url:D009461	name:Focal Neurologic Deficit	normalName:focal neurologic deficit	normalWikiTitle:focal neurologic deficit	predictedType:Disease
+CANDIDATE	id:9461	inCount:26	outCount:2	links:	url:D009461	name:Neurologic Deficit, Focal	normalName:neurologic deficit, focal	normalWikiTitle:neurologic deficit, focal	predictedType:Disease
+CANDIDATE	id:9461	inCount:26	outCount:2	links:	url:D009461	name:Neurologic Deficits, Focal	normalName:neurologic deficits, focal	normalWikiTitle:neurologic deficits, focal	predictedType:Disease
+CANDIDATE	id:9461	inCount:26	outCount:2	links:	url:D009461	name:Deficits, Focal Neurologic	normalName:deficits, focal neurologic	normalWikiTitle:deficits, focal neurologic	predictedType:Disease

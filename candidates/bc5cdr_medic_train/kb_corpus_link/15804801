@@ -1,0 +1,6 @@
+ENTITY	text:Coronary aneurysm	normalName:coronary aneurysm	predictedType:disease	q:true	qid:Q18	docId:15804801	origText:Coronary aneurysm	url:D003323
+CANDIDATE	id:3323	inCount:0	outCount:2	links:	url:D003323	name:Coronary Aneurysm	normalName:coronary aneurysm	normalWikiTitle:coronary aneurysm	predictedType:Disease
+ENTITY	text:thrombosis	normalName:thrombosis	predictedType:disease	q:true	qid:Q18	docId:15804801	origText:thrombosis	url:D013927
+CANDIDATE	id:13927	inCount:4	outCount:1	links:	url:D013927	name:Thrombosis	normalName:thrombosis	normalWikiTitle:thrombosis	predictedType:Disease
+ENTITY	text:aneurysm	normalName:aneurysm	predictedType:disease	q:true	qid:Q18	docId:15804801	origText:aneurysm	url:D000783
+CANDIDATE	id:783	inCount:11	outCount:1	links:	url:D000783	name:Aneurysm	normalName:aneurysm	normalWikiTitle:aneurysm	predictedType:Disease

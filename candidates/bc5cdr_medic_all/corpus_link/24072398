@@ -1,0 +1,52 @@
+ENTITY	text:depressive	normalName:depressive	predictedType:disease	q:true	qid:Q936	docId:24072398	origText:depressive	url:D003866
+CANDIDATE	id:3866	inCount:6	outCount:1	links:20258;1714	url:D003866	name:Depressive Disorder	normalName:depressive disorder	normalWikiTitle:depressive disorder	predictedType:Disease
+CANDIDATE	id:4688	inCount:1	outCount:2	links:	url:D004688	name:Encopresis	normalName:encopresis	normalWikiTitle:encopresis	predictedType:Disease
+CANDIDATE	id:10291	inCount:3	outCount:1	links:20258	url:D010291	name:Paresis	normalName:paresis	normalWikiTitle:paresis	predictedType:Disease
+CANDIDATE	id:13553	inCount:12	outCount:1	links:	url:D013553	name:Swine Diseases	normalName:swine diseases	normalWikiTitle:swine diseases	predictedType:Disease
+CANDIDATE	id:6561	inCount:7	outCount:2	links:	url:D006561	name:Herpes Simplex	normalName:herpes simplex	normalWikiTitle:herpes simplex	predictedType:Disease
+CANDIDATE	id:8107	inCount:37	outCount:1	links:1714	url:D008107	name:Liver Diseases	normalName:liver diseases	normalWikiTitle:liver diseases	predictedType:Disease
+CANDIDATE	id:3865	inCount:2	outCount:1	links:	url:D003865	name:Depressive Disorder, Major	normalName:depressive disorder, major	normalWikiTitle:depressive disorder, major	predictedType:Disease
+CANDIDATE	id:11304	inCount:2	outCount:1	links:	url:D011304	name:Presbycusis	normalName:presbycusis	normalWikiTitle:presbycusis	predictedType:Disease
+CANDIDATE	id:10292	inCount:0	outCount:1	links:20258;14786	url:D010292	name:Paresthesia	normalName:paresthesia	normalWikiTitle:paresthesia	predictedType:Disease
+CANDIDATE	id:4775	inCount:2	outCount:2	links:3866	url:D004775	name:Enuresis	normalName:enuresis	normalWikiTitle:enuresis	predictedType:Disease
+ENTITY	text:depression	normalName:depression	predictedType:disease	q:true	qid:Q936	docId:24072398	origText:depression	url:D003866
+CANDIDATE	id:3866	inCount:6	outCount:1	links:20258;1714	url:D003866	name:Depressive Disorder	normalName:depressive disorder	normalWikiTitle:depressive disorder	predictedType:Disease
+CANDIDATE	id:18450	inCount:2	outCount:1	links:	url:D018450	name:Disease Progression	normalName:disease progression	normalWikiTitle:disease progression	predictedType:Disease
+CANDIDATE	id:19052	inCount:0	outCount:2	links:	url:D019052	name:Depression, Postpartum	normalName:depression, postpartum	normalWikiTitle:depression, postpartum	predictedType:Disease
+CANDIDATE	id:146850	inCount:0	outCount:2	links:	url:146850	name:IMMUNE SUPPRESSION	normalName:immune suppression	normalWikiTitle:immune suppression	predictedType:Disease
+CANDIDATE	id:6973	inCount:18	outCount:1	links:20258	url:D006973	name:Hypertension	normalName:hypertension	normalWikiTitle:hypertension	predictedType:Disease
+CANDIDATE	id:58246	inCount:0	outCount:1	links:	url:D058246	name:Prehypertension	normalName:prehypertension	normalWikiTitle:prehypertension	predictedType:Disease
+CANDIDATE	id:14786	inCount:19	outCount:2	links:20258;10292;14987	url:D014786	name:Vision Disorders	normalName:vision disorders	normalWikiTitle:vision disorders	predictedType:Disease
+CANDIDATE	id:3665	inCount:0	outCount:1	links:	url:D003665	name:Decompression Sickness	normalName:decompression sickness	normalWikiTitle:decompression sickness	predictedType:Disease
+CANDIDATE	id:12871	inCount:71	outCount:1	links:20258	url:D012871	name:Skin Diseases	normalName:skin diseases	normalWikiTitle:skin diseases	predictedType:Disease
+CANDIDATE	id:4688	inCount:1	outCount:2	links:	url:D004688	name:Encopresis	normalName:encopresis	normalWikiTitle:encopresis	predictedType:Disease
+CANDIDATE	id:1714	inCount:11	outCount:1	links:20258;3866;8107	url:D001714	name:Depression, Bipolar	normalName:depression, bipolar	normalWikiTitle:depression, bipolar	predictedType:Disease
+CANDIDATE	id:1714	inCount:11	outCount:1	links:20258;3866;8107	url:D001714	name:Bipolar Depression	normalName:bipolar depression	normalWikiTitle:bipolar depression	predictedType:Disease
+ENTITY	text:neurotoxic	normalName:neurotoxic	predictedType:disease	q:true	qid:Q936	docId:24072398	origText:neurotoxic	url:D020258
+CANDIDATE	id:20258	inCount:7	outCount:2	links:14786;1714;12871;3866;6973;10291;10292	url:D020258	name:Neurotoxicity Syndromes	normalName:neurotoxicity syndromes	normalWikiTitle:neurotoxicity syndromes	predictedType:Disease
+CANDIDATE	id:4767	inCount:0	outCount:2	links:	url:D004767	name:Enterotoxemia	normalName:enterotoxemia	normalWikiTitle:enterotoxemia	predictedType:Disease
+CANDIDATE	id:9443	inCount:2	outCount:1	links:	url:D009443	name:Neuritis	normalName:neuritis	normalWikiTitle:neuritis	predictedType:Disease
+CANDIDATE	id:18306	inCount:0	outCount:2	links:	url:D018306	name:Neurocytoma	normalName:neurocytoma	normalWikiTitle:neurocytoma	predictedType:Disease
+CANDIDATE	id:9902	inCount:1	outCount:1	links:	url:D009902	name:Optic Neuritis	normalName:optic neuritis	normalWikiTitle:optic neuritis	predictedType:Disease
+CANDIDATE	id:11030	inCount:3	outCount:1	links:	url:D011030	name:Pneumothorax	normalName:pneumothorax	normalWikiTitle:pneumothorax	predictedType:Disease
+CANDIDATE	id:1014	inCount:5	outCount:2	links:	url:D001014	name:Aortic Aneurysm	normalName:aortic aneurysm	normalWikiTitle:aortic aneurysm	predictedType:Disease
+CANDIDATE	id:18321	inCount:0	outCount:2	links:	url:D018321	name:Neurothekeoma	normalName:neurothekeoma	normalWikiTitle:neurothekeoma	predictedType:Disease
+CANDIDATE	id:9447	inCount:2	outCount:1	links:	url:D009447	name:Neuroblastoma	normalName:neuroblastoma	normalWikiTitle:neuroblastoma	predictedType:Disease
+CANDIDATE	id:14987	inCount:1	outCount:1	links:12817;14786	url:D014987	name:Xerostomia	normalName:xerostomia	normalWikiTitle:xerostomia	predictedType:Disease
+ENTITY	text:depressive symptoms	normalName:depressive symptoms	predictedType:disease	q:true	qid:Q936	docId:24072398	origText:depressive symptoms	url:D003866
+CANDIDATE	id:3866	inCount:6	outCount:1	links:20258;1714	url:D003866	name:Disorders, Depressive	normalName:disorders, depressive	normalWikiTitle:disorders, depressive	predictedType:Disease
+CANDIDATE	id:3866	inCount:6	outCount:1	links:20258;1714	url:D003866	name:Depressive Disorder	normalName:depressive disorder	normalWikiTitle:depressive disorder	predictedType:Disease
+CANDIDATE	id:19052	inCount:0	outCount:2	links:	url:D019052	name:Depression, Postpartum	normalName:depression, postpartum	normalWikiTitle:depression, postpartum	predictedType:Disease
+CANDIDATE	id:12816	inCount:38	outCount:1	links:	url:D012816	name:Signs and Symptoms	normalName:signs and symptoms	normalWikiTitle:signs and symptoms	predictedType:Disease
+CANDIDATE	id:12817	inCount:18	outCount:1	links:14987	url:D012817	name:Signs and Symptoms, Digestive	normalName:signs and symptoms, digestive	normalWikiTitle:signs and symptoms, digestive	predictedType:Disease
+CANDIDATE	id:3865	inCount:2	outCount:1	links:	url:D003865	name:Depressive Disorder, Major	normalName:depressive disorder, major	normalWikiTitle:depressive disorder, major	predictedType:Disease
+CANDIDATE	id:9408	inCount:9	outCount:1	links:	url:D009408	name:Nerve Compression Syndromes	normalName:nerve compression syndromes	normalWikiTitle:nerve compression syndromes	predictedType:Disease
+CANDIDATE	id:12818	inCount:18	outCount:1	links:	url:D012818	name:Signs and Symptoms, Respiratory	normalName:signs and symptoms, respiratory	normalWikiTitle:signs and symptoms, respiratory	predictedType:Disease
+CANDIDATE	id:563875	inCount:0	outCount:1	links:	url:C563875	name:Major Depressive Disorder 2	normalName:major depressive disorder 2	normalWikiTitle:major depressive disorder 2	predictedType:Disease
+CANDIDATE	id:563919	inCount:0	outCount:1	links:	url:C563919	name:Major Depressive Disorder 1	normalName:major depressive disorder 1	normalWikiTitle:major depressive disorder 1	predictedType:Disease
+CANDIDATE	id:62706	inCount:0	outCount:1	links:	url:D062706	name:Prodromal Symptoms	normalName:prodromal symptoms	normalWikiTitle:prodromal symptoms	predictedType:Disease
+CANDIDATE	id:3866	inCount:6	outCount:1	links:20258;1714	url:D003866	name:Depressive Syndromes	normalName:depressive syndromes	normalWikiTitle:depressive syndromes	predictedType:Disease
+CANDIDATE	id:3866	inCount:6	outCount:1	links:20258;1714	url:D003866	name:Syndromes, Depressive	normalName:syndromes, depressive	normalWikiTitle:syndromes, depressive	predictedType:Disease
+CANDIDATE	id:3866	inCount:6	outCount:1	links:20258;1714	url:D003866	name:Syndrome, Depressive	normalName:syndrome, depressive	normalWikiTitle:syndrome, depressive	predictedType:Disease
+CANDIDATE	id:3866	inCount:6	outCount:1	links:20258;1714	url:D003866	name:Depressive Syndrome	normalName:depressive syndrome	normalWikiTitle:depressive syndrome	predictedType:Disease
+CANDIDATE	id:3866	inCount:6	outCount:1	links:20258;1714	url:D003866	name:Depressive Disorders	normalName:depressive disorders	normalWikiTitle:depressive disorders	predictedType:Disease

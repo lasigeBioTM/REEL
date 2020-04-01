@@ -1,0 +1,33 @@
+ENTITY	text:corneal disease	normalName:corneal disease	predictedType:disease	q:true	qid:Q989	docId:6115999	origText:corneal disease	url:D003316
+CANDIDATE	id:3316	inCount:26	outCount:1	links:	url:D003316	name:Corneal Disease	normalName:corneal disease	normalWikiTitle:corneal disease	predictedType:Disease
+ENTITY	text:Raynaud's phenomenon	normalName:raynaud's phenomenon	predictedType:disease	q:true	qid:Q989	docId:6115999	origText:Raynaud's phenomenon	url:D011928
+CANDIDATE	id:11928	inCount:3	outCount:1	links:4417;6973;7172	url:D011928	name:Raynaud Phenomenon	normalName:raynaud phenomenon	normalWikiTitle:raynaud phenomenon	predictedType:Disease
+CANDIDATE	id:12790	inCount:0	outCount:2	links:	url:D012790	name:Shwartzman Phenomenon	normalName:shwartzman phenomenon	normalWikiTitle:shwartzman phenomenon	predictedType:Disease
+CANDIDATE	id:54318	inCount:0	outCount:2	links:	url:D054318	name:No-Reflow Phenomenon	normalName:no-reflow phenomenon	normalWikiTitle:no-reflow phenomenon	predictedType:Disease
+CANDIDATE	id:11928	inCount:3	outCount:1	links:4417;6973;7172	url:D011928	name:Raynaud Disease	normalName:raynaud disease	normalWikiTitle:raynaud disease	predictedType:Disease
+CANDIDATE	id:10661	inCount:9	outCount:2	links:	url:D010661	name:Phenylketonurias	normalName:phenylketonurias	normalWikiTitle:phenylketonurias	predictedType:Disease
+CANDIDATE	id:566724	inCount:0	outCount:1	links:	url:C566724	name:Raindrop Hypopigmentation	normalName:raindrop hypopigmentation	normalWikiTitle:raindrop hypopigmentation	predictedType:Disease
+CANDIDATE	id:6977	inCount:3	outCount:2	links:	url:D006977	name:Hypertension, Renal	normalName:hypertension, renal	normalWikiTitle:hypertension, renal	predictedType:Disease
+CANDIDATE	id:14950	inCount:6	outCount:1	links:	url:D014950	name:Wounds, Penetrating	normalName:wounds, penetrating	normalWikiTitle:wounds, penetrating	predictedType:Disease
+CANDIDATE	id:300114	inCount:0	outCount:1	links:	url:300114	name:RAYNAUD-CLAES SYNDROME	normalName:raynaud-claes syndrome	normalWikiTitle:raynaud-claes syndrome	predictedType:Disease
+CANDIDATE	id:535881	inCount:0	outCount:3	links:	url:C535881	name:Johnson Munson syndrome	normalName:johnson munson syndrome	normalWikiTitle:johnson munson syndrome	predictedType:Disease
+CANDIDATE	id:6607	inCount:5	outCount:2	links:	url:D006607	name:Adenoma, Sweat Gland	normalName:adenoma, sweat gland	normalWikiTitle:adenoma, sweat gland	predictedType:Disease
+ENTITY	text:impaired glucose tolerance	normalName:impaired glucose tolerance	predictedType:disease	q:true	qid:Q989	docId:6115999	origText:impaired glucose tolerance	url:D018149
+CANDIDATE	id:18149	inCount:0	outCount:1	links:6073;7172	url:D018149	name:Glucose Tolerance, Impaired	normalName:glucose tolerance, impaired	normalWikiTitle:glucose tolerance, impaired	predictedType:Disease
+ENTITY	text:dyspnoea	normalName:dyspnoea	predictedType:disease	q:true	qid:Q989	docId:6115999	origText:dyspnoea	url:D004417
+CANDIDATE	id:4417	inCount:1	outCount:2	links:11928;6973;7172	url:D004417	name:Dyspnea	normalName:dyspnea	normalWikiTitle:dyspnea	predictedType:Disease
+CANDIDATE	id:4415	inCount:0	outCount:1	links:	url:D004415	name:Dyspepsia	normalName:dyspepsia	normalWikiTitle:dyspepsia	predictedType:Disease
+CANDIDATE	id:55154	inCount:1	outCount:1	links:	url:D055154	name:Dysphonia	normalName:dysphonia	normalWikiTitle:dysphonia	predictedType:Disease
+CANDIDATE	id:4412	inCount:0	outCount:2	links:	url:D004412	name:Dysmenorrhea	normalName:dysmenorrhea	normalWikiTitle:dysmenorrhea	predictedType:Disease
+CANDIDATE	id:4414	inCount:0	outCount:2	links:	url:D004414	name:Dyspareunia	normalName:dyspareunia	normalWikiTitle:dyspareunia	predictedType:Disease
+CANDIDATE	id:20820	inCount:25	outCount:2	links:6973	url:D020820	name:Dyskinesias	normalName:dyskinesias	normalWikiTitle:dyskinesias	predictedType:Disease
+CANDIDATE	id:4410	inCount:2	outCount:2	links:	url:D004410	name:Dyslexia	normalName:dyslexia	normalWikiTitle:dyslexia	predictedType:Disease
+CANDIDATE	id:4421	inCount:16	outCount:1	links:	url:D004421	name:Dystonia	normalName:dystonia	normalWikiTitle:dystonia	predictedType:Disease
+CANDIDATE	id:4420	inCount:1	outCount:1	links:	url:D004420	name:Dystocia	normalName:dystocia	normalWikiTitle:dystocia	predictedType:Disease
+CANDIDATE	id:1049	inCount:3	outCount:2	links:	url:D001049	name:Apnea	normalName:apnea	normalWikiTitle:apnea	predictedType:Disease
+ENTITY	text:gout	normalName:gout	predictedType:disease	q:true	qid:Q989	docId:6115999	origText:gout	url:D006073
+CANDIDATE	id:6073	inCount:6	outCount:4	links:18149;7172	url:D006073	name:Gout	normalName:gout	normalWikiTitle:gout	predictedType:Disease
+ENTITY	text:hypertension	normalName:hypertension	predictedType:disease	q:true	qid:Q989	docId:6115999	origText:hypertension	url:D006973
+CANDIDATE	id:6973	inCount:18	outCount:1	links:20820;11928;4417;7172	url:D006973	name:Hypertension	normalName:hypertension	normalWikiTitle:hypertension	predictedType:Disease
+ENTITY	text:impotence	normalName:impotence	predictedType:disease	q:true	qid:Q989	docId:6115999	origText:impotence	url:D007172
+CANDIDATE	id:7172	inCount:1	outCount:2	links:11928;4417;6073;6973;18149	url:D007172	name:Impotence	normalName:impotence	normalWikiTitle:impotence	predictedType:Disease

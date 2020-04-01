@@ -1,0 +1,26 @@
+ENTITY	text:pegylated interferon	normalName:pegylated interferon	predictedType:chemical	q:true	qid:Q246	docId:24927617	origText:pegylated interferon	url:C417083
+CANDIDATE	id:417083	inCount:0	outCount:3	links:	url:C417083	name:pegylated interferon alfa-2b	normalName:pegylated interferon alfa-2b	normalWikiTitle:pegylated interferon alfa-2b	predictedType:Chemical
+CANDIDATE	id:63743	inCount:0	outCount:1	links:	url:C063743	name:interferon omega 1	normalName:interferon omega 1	normalWikiTitle:interferon omega 1	predictedType:Chemical
+CANDIDATE	id:439669	inCount:0	outCount:1	links:	url:C439669	name:interferon kappa	normalName:interferon kappa	normalWikiTitle:interferon kappa	predictedType:Chemical
+CANDIDATE	id:549812	inCount:0	outCount:2	links:	url:C549812	name:mono-PEGylated Endostar	normalName:mono-pegylated endostar	normalWikiTitle:mono-pegylated endostar	predictedType:Chemical
+CANDIDATE	id:7370	inCount:7	outCount:1	links:	url:D007370	name:Interferon Type I	normalName:interferon type i	normalWikiTitle:interferon type i	predictedType:Chemical
+CANDIDATE	id:508174	inCount:0	outCount:2	links:	url:C508174	name:pegylated erythropoietin	normalName:pegylated erythropoietin	normalWikiTitle:pegylated erythropoietin	predictedType:Chemical
+CANDIDATE	id:627197	inCount:0	outCount:1	links:	url:C000627197	name:interferon type III	normalName:interferon type iii	normalWikiTitle:interferon type iii	predictedType:Chemical
+CANDIDATE	id:484843	inCount:0	outCount:2	links:	url:C484843	name:pegylated leptin	normalName:pegylated leptin	normalWikiTitle:pegylated leptin	predictedType:Chemical
+CANDIDATE	id:7372	inCount:15	outCount:1	links:	url:D007372	name:Interferons	normalName:interferons	normalWikiTitle:interferons	predictedType:Chemical
+CANDIDATE	id:624353	inCount:0	outCount:1	links:	url:C000624353	name:interferon-lambda, human	normalName:interferon-lambda, human	normalWikiTitle:interferon-lambda, human	predictedType:Chemical
+CANDIDATE	id:602567	inCount:0	outCount:1	links:	url:C000602567	name:interferon-lambda3, mouse	normalName:interferon-lambda3, mouse	normalWikiTitle:interferon-lambda3, mouse	predictedType:Chemical
+CANDIDATE	id:571406	inCount:0	outCount:2	links:	url:C571406	name:pegylated interferon SA	normalName:pegylated interferon sa	normalWikiTitle:pegylated interferon sa	predictedType:Chemical
+CANDIDATE	id:100416	inCount:0	outCount:2	links:	url:C100416	name:pegylated interferon alfa-2a	normalName:pegylated interferon alfa-2a	normalWikiTitle:pegylated interferon alfa-2a	predictedType:Chemical
+CANDIDATE	id:63743	inCount:0	outCount:1	links:	url:C063743	name:interferon omega	normalName:interferon omega	normalWikiTitle:interferon omega	predictedType:Chemical
+CANDIDATE	id:63743	inCount:0	outCount:1	links:	url:C063743	name:interferon omega1	normalName:interferon omega1	normalWikiTitle:interferon omega1	predictedType:Chemical
+CANDIDATE	id:16898	inCount:62	outCount:1	links:	url:D016898	name:Leukocyte Interferon	normalName:leukocyte interferon	normalWikiTitle:leukocyte interferon	predictedType:Chemical
+CANDIDATE	id:16898	inCount:62	outCount:1	links:	url:D016898	name:Interferon, Leukocyte	normalName:interferon, leukocyte	normalWikiTitle:interferon, leukocyte	predictedType:Chemical
+ENTITY	text:creatine	normalName:creatine	predictedType:chemical	q:true	qid:Q246	docId:24927617	origText:creatine	url:D003401
+CANDIDATE	id:3401	inCount:7	outCount:2	links:	url:D003401	name:Creatine	normalName:creatine	normalWikiTitle:creatine	predictedType:Chemical
+ENTITY	text:telaprevir	normalName:telaprevir	predictedType:chemical	q:true	qid:Q246	docId:24927617	origText:telaprevir	url:C486464
+CANDIDATE	id:486464	inCount:0	outCount:1	links:	url:C486464	name:telaprevir	normalName:telaprevir	normalWikiTitle:telaprevir	predictedType:Chemical
+ENTITY	text:simvastatin	normalName:simvastatin	predictedType:chemical	q:true	qid:Q246	docId:24927617	origText:simvastatin	url:D019821
+CANDIDATE	id:19821	inCount:7	outCount:1	links:	url:D019821	name:Simvastatin	normalName:simvastatin	normalWikiTitle:simvastatin	predictedType:Chemical
+ENTITY	text:ribavirin	normalName:ribavirin	predictedType:chemical	q:true	qid:Q246	docId:24927617	origText:ribavirin	url:D012254
+CANDIDATE	id:12254	inCount:24	outCount:1	links:	url:D012254	name:Ribavirin	normalName:ribavirin	normalWikiTitle:ribavirin	predictedType:Chemical

@@ -1,0 +1,15 @@
+ENTITY	text:Postoperative myalgia	normalName:postoperative myalgia	predictedType:disease	q:true	qid:Q365	docId:12760988	origText:Postoperative myalgia	url:D010149
+CANDIDATE	id:10149	inCount:1	outCount:2	links:	url:D010149	name:Pain, Postoperative	normalName:pain, postoperative	normalWikiTitle:pain, postoperative	predictedType:Disease
+CANDIDATE	id:19106	inCount:1	outCount:2	links:	url:D019106	name:Postoperative Hemorrhage	normalName:postoperative hemorrhage	normalWikiTitle:postoperative hemorrhage	predictedType:Disease
+CANDIDATE	id:11183	inCount:27	outCount:1	links:	url:D011183	name:Postoperative Complications	normalName:postoperative complications	normalWikiTitle:postoperative complications	predictedType:Disease
+CANDIDATE	id:51474	inCount:0	outCount:1	links:	url:D051474	name:Neuralgia, Postherpetic	normalName:neuralgia, postherpetic	normalWikiTitle:neuralgia, postherpetic	predictedType:Disease
+CANDIDATE	id:7431	inCount:3	outCount:1	links:	url:D007431	name:Intraoperative Complications	normalName:intraoperative complications	normalWikiTitle:intraoperative complications	predictedType:Disease
+CANDIDATE	id:20250	inCount:0	outCount:3	links:	url:D020250	name:Postoperative Nausea and Vomiting	normalName:postoperative nausea and vomiting	normalWikiTitle:postoperative nausea and vomiting	predictedType:Disease
+CANDIDATE	id:10035	inCount:0	outCount:2	links:	url:D010035	name:Otitis Media, Suppurative	normalName:otitis media, suppurative	normalWikiTitle:otitis media, suppurative	predictedType:Disease
+CANDIDATE	id:58926	inCount:0	outCount:1	links:	url:D058926	name:Intraoperative Awareness	normalName:intraoperative awareness	normalWikiTitle:intraoperative awareness	predictedType:Disease
+CANDIDATE	id:11470	inCount:1	outCount:1	links:	url:D011470	name:Prostatic Hyperplasia	normalName:prostatic hyperplasia	normalWikiTitle:prostatic hyperplasia	predictedType:Disease
+CANDIDATE	id:11111	inCount:0	outCount:2	links:	url:D011111	name:Polymyalgia Rheumatica	normalName:polymyalgia rheumatica	normalWikiTitle:polymyalgia rheumatica	predictedType:Disease
+ENTITY	text:inflammation	normalName:inflammation	predictedType:disease	q:true	qid:Q365	docId:12760988	origText:inflammation	url:D007249
+CANDIDATE	id:7249	inCount:14	outCount:1	links:	url:D007249	name:Inflammation	normalName:inflammation	normalWikiTitle:inflammation	predictedType:Disease
+ENTITY	text:myalgia	normalName:myalgia	predictedType:disease	q:true	qid:Q365	docId:12760988	origText:myalgia	url:D063806
+CANDIDATE	id:63806	inCount:0	outCount:2	links:	url:D063806	name:Myalgia	normalName:myalgia	normalWikiTitle:myalgia	predictedType:Disease

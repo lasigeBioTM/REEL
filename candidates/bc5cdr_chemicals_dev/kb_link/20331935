@@ -1,0 +1,6 @@
+ENTITY	text:testosterone	normalName:testosterone	predictedType:chemical	q:true	qid:Q325	docId:20331935	origText:testosterone	url:D013739
+CANDIDATE	id:13739	inCount:97	outCount:2	links:	url:D013739	name:Testosterone	normalName:testosterone	normalWikiTitle:testosterone	predictedType:Chemical
+ENTITY	text:risperidone	normalName:risperidone	predictedType:chemical	q:true	qid:Q325	docId:20331935	origText:risperidone	url:D018967
+CANDIDATE	id:18967	inCount:2	outCount:1	links:	url:D018967	name:Risperidone	normalName:risperidone	normalWikiTitle:risperidone	predictedType:Chemical
+ENTITY	text:serotonin	normalName:serotonin	predictedType:chemical	q:true	qid:Q325	docId:20331935	origText:serotonin	url:D012701
+CANDIDATE	id:12701	inCount:48	outCount:2	links:	url:D012701	name:Serotonin	normalName:serotonin	normalWikiTitle:serotonin	predictedType:Chemical

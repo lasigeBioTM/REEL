@@ -1,0 +1,22 @@
+ENTITY	text:headache	normalName:headache	predictedType:disease	q:true	qid:Q1117	docId:3560095	origText:headache	url:D006261
+CANDIDATE	id:6261	inCount:2	outCount:1	links:15746;6471;7410	url:D006261	name:Headache	normalName:headache	normalWikiTitle:headache	predictedType:Disease
+ENTITY	text:abdominal pain	normalName:abdominal pain	predictedType:disease	q:true	qid:Q1117	docId:3560095	origText:abdominal pain	url:D015746
+CANDIDATE	id:15746	inCount:2	outCount:2	links:6261;6471	url:D015746	name:Abdominal Pain	normalName:abdominal pain	normalWikiTitle:abdominal pain	predictedType:Disease
+ENTITY	text:juvenile rheumatoid arthritis	normalName:juvenile rheumatoid arthritis	predictedType:disease	q:true	qid:Q1117	docId:3560095	origText:juvenile rheumatoid arthritis	url:D001171
+CANDIDATE	id:1171	inCount:3	outCount:3	links:	url:D001171	name:Rheumatoid Arthritis, Juvenile	normalName:rheumatoid arthritis, juvenile	normalWikiTitle:rheumatoid arthritis, juvenile	predictedType:Disease
+ENTITY	text:gastrointestinal (GI) bleeding	normalName:gastrointestinal (gi) bleeding	predictedType:disease	q:true	qid:Q1117	docId:3560095	origText:gastrointestinal (GI) bleeding	url:D006471
+CANDIDATE	id:6471	inCount:3	outCount:2	links:15746;6261	url:D006471	name:Gastrointestinal Hemorrhage	normalName:gastrointestinal hemorrhage	normalWikiTitle:gastrointestinal hemorrhage	predictedType:Disease
+CANDIDATE	id:5767	inCount:12	outCount:1	links:	url:D005767	name:Gastrointestinal Diseases	normalName:gastrointestinal diseases	normalWikiTitle:gastrointestinal diseases	predictedType:Disease
+CANDIDATE	id:571911	inCount:0	outCount:2	links:	url:C571911	name:Gastrointestinal anthrax	normalName:gastrointestinal anthrax	normalWikiTitle:gastrointestinal anthrax	predictedType:Disease
+CANDIDATE	id:5770	inCount:7	outCount:2	links:	url:D005770	name:Gastrointestinal Neoplasms	normalName:gastrointestinal neoplasms	normalWikiTitle:gastrointestinal neoplasms	predictedType:Disease
+CANDIDATE	id:14385	inCount:0	outCount:2	links:	url:D014385	name:Tuberculosis, Gastrointestinal	normalName:tuberculosis, gastrointestinal	normalWikiTitle:tuberculosis, gastrointestinal	predictedType:Disease
+CANDIDATE	id:7410	inCount:30	outCount:1	links:6261	url:D007410	name:Intestinal Diseases	normalName:intestinal diseases	normalWikiTitle:intestinal diseases	predictedType:Disease
+CANDIDATE	id:531698	inCount:0	outCount:2	links:	url:C531698	name:Intestinal helminthiasis	normalName:intestinal helminthiasis	normalWikiTitle:intestinal helminthiasis	predictedType:Disease
+CANDIDATE	id:46152	inCount:2	outCount:2	links:	url:D046152	name:Gastrointestinal Stromal Tumors	normalName:gastrointestinal stromal tumors	normalWikiTitle:gastrointestinal stromal tumors	predictedType:Disease
+CANDIDATE	id:7409	inCount:12	outCount:2	links:	url:D007409	name:Intestinal Atresia	normalName:intestinal atresia	normalWikiTitle:intestinal atresia	predictedType:Disease
+CANDIDATE	id:7412	inCount:1	outCount:2	links:	url:D007412	name:Intestinal Fistula	normalName:intestinal fistula	normalWikiTitle:intestinal fistula	predictedType:Disease
+CANDIDATE	id:535740	inCount:0	outCount:1	links:	url:C535740	name:CDG, GASTROINTESTINAL TYPE	normalName:cdg, gastrointestinal type	normalWikiTitle:cdg, gastrointestinal type	predictedType:Disease
+CANDIDATE	id:5767	inCount:12	outCount:1	links:	url:D005767	name:Gastrointestinal Disease	normalName:gastrointestinal disease	normalWikiTitle:gastrointestinal disease	predictedType:Disease
+CANDIDATE	id:5767	inCount:12	outCount:1	links:	url:D005767	name:Disease, Gastrointestinal	normalName:disease, gastrointestinal	normalWikiTitle:disease, gastrointestinal	predictedType:Disease
+ENTITY	text:arthritis	normalName:arthritis	predictedType:disease	q:true	qid:Q1117	docId:3560095	origText:arthritis	url:D001168
+CANDIDATE	id:1168	inCount:24	outCount:1	links:	url:D001168	name:Arthritis	normalName:arthritis	normalWikiTitle:arthritis	predictedType:Disease

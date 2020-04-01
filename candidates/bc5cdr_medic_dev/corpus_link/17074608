@@ -1,0 +1,31 @@
+ENTITY	text:hypotonia	normalName:hypotonia	predictedType:disease	q:true	qid:Q329	docId:17074608	origText:hypotonia	url:D009123
+CANDIDATE	id:9123	inCount:44	outCount:1	links:	url:D009123	name:Hypotonia	normalName:hypotonia	normalWikiTitle:hypotonia	predictedType:Disease
+ENTITY	text:disorder of amino acid metabolism	normalName:disorder of amino acid metabolism	predictedType:disease	q:true	qid:Q329	docId:17074608	origText:disorder of amino acid metabolism	url:D000592
+CANDIDATE	id:592	inCount:89	outCount:1	links:	url:D000592	name:Amino Acid Metabolism, Inherited Disorders	normalName:amino acid metabolism, inherited disorders	normalWikiTitle:amino acid metabolism, inherited disorders	predictedType:Disease
+CANDIDATE	id:2128	inCount:8	outCount:1	links:	url:D002128	name:Calcium Metabolism Disorders	normalName:calcium metabolism disorders	normalWikiTitle:calcium metabolism disorders	predictedType:Disease
+CANDIDATE	id:592	inCount:89	outCount:1	links:	url:D000592	name:Amino Acid Metabolism, Inborn Errors	normalName:amino acid metabolism, inborn errors	normalWikiTitle:amino acid metabolism, inborn errors	predictedType:Disease
+CANDIDATE	id:20157	inCount:2	outCount:1	links:	url:D020157	name:Amino Acid Transport Disorders, Inborn	normalName:amino acid transport disorders, inborn	normalWikiTitle:amino acid transport disorders, inborn	predictedType:Disease
+CANDIDATE	id:19189	inCount:9	outCount:1	links:	url:D019189	name:Iron Metabolism Disorders	normalName:iron metabolism disorders	normalWikiTitle:iron metabolism disorders	predictedType:Disease
+CANDIDATE	id:10760	inCount:3	outCount:1	links:	url:D010760	name:Phosphorus Metabolism Disorders	normalName:phosphorus metabolism disorders	normalWikiTitle:phosphorus metabolism disorders	predictedType:Disease
+CANDIDATE	id:52439	inCount:7	outCount:1	links:	url:D052439	name:Lipid Metabolism Disorders	normalName:lipid metabolism disorders	normalWikiTitle:lipid metabolism disorders	predictedType:Disease
+CANDIDATE	id:44882	inCount:8	outCount:1	links:	url:D044882	name:Glucose Metabolism Disorders	normalName:glucose metabolism disorders	normalWikiTitle:glucose metabolism disorders	predictedType:Disease
+CANDIDATE	id:1928	inCount:15	outCount:2	links:	url:D001928	name:Brain Diseases, Metabolic	normalName:brain diseases, metabolic	normalWikiTitle:brain diseases, metabolic	predictedType:Disease
+CANDIDATE	id:566454	inCount:0	outCount:1	links:	url:C566454	name:Thyroid Hormone Metabolism, Abnormal	normalName:thyroid hormone metabolism, abnormal	normalWikiTitle:thyroid hormone metabolism, abnormal	predictedType:Disease
+CANDIDATE	id:614546	inCount:0	outCount:1	links:	url:614546	name:EFAVIRENZ, POOR METABOLISM OF	normalName:efavirenz, poor metabolism of	normalWikiTitle:efavirenz, poor metabolism of	predictedType:Disease
+CANDIDATE	id:592	inCount:89	outCount:1	links:	url:D000592	name:Amino Acid Metabolism Disorders, Inborn	normalName:amino acid metabolism disorders, inborn	normalWikiTitle:amino acid metabolism disorders, inborn	predictedType:Disease
+CANDIDATE	id:2128	inCount:8	outCount:1	links:	url:D002128	name:Disorder, Calcium Metabolism	normalName:disorder, calcium metabolism	normalWikiTitle:disorder, calcium metabolism	predictedType:Disease
+CANDIDATE	id:2128	inCount:8	outCount:1	links:	url:D002128	name:Calcium Metabolism Disorder	normalName:calcium metabolism disorder	normalWikiTitle:calcium metabolism disorder	predictedType:Disease
+ENTITY	text:chorea	normalName:chorea	predictedType:disease	q:true	qid:Q329	docId:17074608	origText:chorea	url:D002819
+CANDIDATE	id:2819	inCount:13	outCount:1	links:1927	url:D002819	name:Chorea	normalName:chorea	normalWikiTitle:chorea	predictedType:Disease
+ENTITY	text:language delay	normalName:language delay	predictedType:disease	q:true	qid:Q329	docId:17074608	origText:language delay	url:D007805
+CANDIDATE	id:7805	inCount:13	outCount:1	links:	url:D007805	name:Language Delay	normalName:language delay	normalWikiTitle:language delay	predictedType:Disease
+ENTITY	text:nonketotic hyperglycinemia	normalName:nonketotic hyperglycinemia	predictedType:disease	q:true	qid:Q329	docId:17074608	origText:nonketotic hyperglycinemia	url:D020158
+CANDIDATE	id:20158	inCount:4	outCount:2	links:	url:D020158	name:Hyperglycinemia, Nonketotic	normalName:hyperglycinemia, nonketotic	normalWikiTitle:hyperglycinemia, nonketotic	predictedType:Disease
+ENTITY	text:apnea	normalName:apnea	predictedType:disease	q:true	qid:Q329	docId:17074608	origText:apnea	url:D001049
+CANDIDATE	id:1049	inCount:3	outCount:2	links:	url:D001049	name:Apnea	normalName:apnea	normalWikiTitle:apnea	predictedType:Disease
+ENTITY	text:encephalopathy	normalName:encephalopathy	predictedType:disease	q:true	qid:Q329	docId:17074608	origText:encephalopathy	url:D001927
+CANDIDATE	id:1927	inCount:55	outCount:1	links:2819	url:D001927	name:Encephalopathy	normalName:encephalopathy	normalWikiTitle:encephalopathy	predictedType:Disease
+ENTITY	text:mental retardation	normalName:mental retardation	predictedType:disease	q:true	qid:Q329	docId:17074608	origText:mental retardation	url:D008607
+CANDIDATE	id:8607	inCount:522	outCount:2	links:	url:D008607	name:Mental Retardation	normalName:mental retardation	normalWikiTitle:mental retardation	predictedType:Disease
+ENTITY	text:seizures	normalName:seizures	predictedType:disease	q:true	qid:Q329	docId:17074608	origText:seizures	url:D012640
+CANDIDATE	id:12640	inCount:53	outCount:1	links:	url:D012640	name:Seizure	normalName:seizure	normalWikiTitle:seizure	predictedType:Disease

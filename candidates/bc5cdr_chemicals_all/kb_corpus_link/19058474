@@ -1,0 +1,13 @@
+ENTITY	text:warfarin	normalName:warfarin	predictedType:chemical	q:true	qid:Q33	docId:19058474	origText:warfarin	url:D014859
+CANDIDATE	id:14859	inCount:14	outCount:1	links:5419	url:D014859	name:Warfarin	normalName:warfarin	normalWikiTitle:warfarin	predictedType:Chemical
+ENTITY	text:flavonoids	normalName:flavonoids	predictedType:chemical	q:true	qid:Q33	docId:19058474	origText:flavonoids	url:D005419
+CANDIDATE	id:5419	inCount:1102	outCount:1	links:14859	url:D005419	name:Flavonoids	normalName:flavonoids	normalWikiTitle:flavonoids	predictedType:Chemical
+CANDIDATE	id:44946	inCount:93	outCount:1	links:	url:D044946	name:Biflavonoids	normalName:biflavonoids	normalWikiTitle:biflavonoids	predictedType:Chemical
+CANDIDATE	id:544478	inCount:0	outCount:1	links:	url:C544478	name:flavocoxid	normalName:flavocoxid	normalWikiTitle:flavocoxid	predictedType:Chemical
+CANDIDATE	id:592723	inCount:0	outCount:1	links:	url:C000592723	name:PMT1 flavonoid	normalName:pmt1 flavonoid	normalWikiTitle:pmt1 flavonoid	predictedType:Chemical
+CANDIDATE	id:592724	inCount:0	outCount:1	links:	url:C000592724	name:PMT2 flavonoid	normalName:pmt2 flavonoid	normalWikiTitle:pmt2 flavonoid	predictedType:Chemical
+CANDIDATE	id:44948	inCount:121	outCount:1	links:	url:D044948	name:Flavonols	normalName:flavonols	normalWikiTitle:flavonols	predictedType:Chemical
+CANDIDATE	id:43562	inCount:0	outCount:1	links:	url:C043562	name:flavone	normalName:flavone	normalWikiTitle:flavone	predictedType:Chemical
+CANDIDATE	id:574191	inCount:0	outCount:1	links:	url:C574191	name:VI-16 flavonoid	normalName:vi-16 flavonoid	normalWikiTitle:vi-16 flavonoid	predictedType:Chemical
+CANDIDATE	id:573672	inCount:0	outCount:1	links:	url:C573672	name:VI-14 flavonoid	normalName:vi-14 flavonoid	normalWikiTitle:vi-14 flavonoid	predictedType:Chemical
+CANDIDATE	id:588739	inCount:0	outCount:1	links:	url:C000588739	name:linobiflavonoid	normalName:linobiflavonoid	normalWikiTitle:linobiflavonoid	predictedType:Chemical

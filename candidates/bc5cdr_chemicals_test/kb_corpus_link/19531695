@@ -1,0 +1,12 @@
+ENTITY	text:sodium	normalName:sodium	predictedType:chemical	q:true	qid:Q94	docId:19531695	origText:sodium	url:D012964
+CANDIDATE	id:12964	inCount:10	outCount:2	links:	url:D012964	name:Sodium	normalName:sodium	normalWikiTitle:sodium	predictedType:Chemical
+ENTITY	text:flecainide	normalName:flecainide	predictedType:chemical	q:true	qid:Q94	docId:19531695	origText:flecainide	url:D005424
+CANDIDATE	id:5424	inCount:1	outCount:1	links:17374	url:D005424	name:Flecainide	normalName:flecainide	normalWikiTitle:flecainide	predictedType:Chemical
+ENTITY	text:paroxetine	normalName:paroxetine	predictedType:chemical	q:true	qid:Q94	docId:19531695	origText:paroxetine	url:D017374
+CANDIDATE	id:17374	inCount:1	outCount:1	links:5424	url:D017374	name:Paroxetine	normalName:paroxetine	normalWikiTitle:paroxetine	predictedType:Chemical
+ENTITY	text:warfarin	normalName:warfarin	predictedType:chemical	q:true	qid:Q94	docId:19531695	origText:warfarin	url:D014859
+CANDIDATE	id:14859	inCount:14	outCount:1	links:	url:D014859	name:Warfarin	normalName:warfarin	normalWikiTitle:warfarin	predictedType:Chemical
+ENTITY	text:folic acid	normalName:folic acid	predictedType:chemical	q:true	qid:Q94	docId:19531695	origText:folic acid	url:D005492
+CANDIDATE	id:5492	inCount:121	outCount:1	links:	url:D005492	name:Folic Acid	normalName:folic acid	normalWikiTitle:folic acid	predictedType:Chemical
+ENTITY	text:levothyroxine	normalName:levothyroxine	predictedType:chemical	q:true	qid:Q94	docId:19531695	origText:levothyroxine	url:D013974
+CANDIDATE	id:13974	inCount:12	outCount:2	links:	url:D013974	name:Levothyroxine	normalName:levothyroxine	normalWikiTitle:levothyroxine	predictedType:Chemical

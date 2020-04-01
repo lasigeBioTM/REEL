@@ -1,0 +1,4 @@
+ENTITY	text:Myasthenia gravis	normalName:myasthenia gravis	predictedType:disease	q:true	qid:Q634	docId:3750012	origText:Myasthenia gravis	url:D009157
+CANDIDATE	id:9157	inCount:5	outCount:2	links:	url:D009157	name:Myasthenia Gravis	normalName:myasthenia gravis	normalWikiTitle:myasthenia gravis	predictedType:Disease
+ENTITY	text:rheumatoid arthritis	normalName:rheumatoid arthritis	predictedType:disease	q:true	qid:Q634	docId:3750012	origText:rheumatoid arthritis	url:D001172
+CANDIDATE	id:1172	inCount:8	outCount:3	links:	url:D001172	name:Arthritis, Rheumatoid	normalName:arthritis, rheumatoid	normalWikiTitle:arthritis, rheumatoid	predictedType:Disease

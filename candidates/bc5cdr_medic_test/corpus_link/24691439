@@ -1,0 +1,25 @@
+ENTITY	text:ocular hypertension	normalName:ocular hypertension	predictedType:disease	q:true	qid:Q484	docId:24691439	origText:ocular hypertension	url:D009798
+CANDIDATE	id:9798	inCount:1	outCount:1	links:9410;5901	url:D009798	name:Ocular Hypertension	normalName:ocular hypertension	normalWikiTitle:ocular hypertension	predictedType:Disease
+ENTITY	text:axonal degeneration	normalName:axonal degeneration	predictedType:disease	q:true	qid:Q484	docId:24691439	origText:axonal degeneration	url:D009410
+CANDIDATE	id:9410	inCount:6	outCount:1	links:9798;5901	url:D009410	name:Nerve Degeneration	normalName:nerve degeneration	normalWikiTitle:nerve degeneration	predictedType:Disease
+CANDIDATE	id:75902	inCount:0	outCount:1	links:	url:D000075902	name:Clinical Deterioration	normalName:clinical deterioration	normalWikiTitle:clinical deterioration	predictedType:Disease
+CANDIDATE	id:57112	inCount:0	outCount:1	links:	url:D057112	name:Corneal Perforation	normalName:corneal perforation	normalWikiTitle:corneal perforation	predictedType:Disease
+CANDIDATE	id:56768	inCount:1	outCount:2	links:	url:D056768	name:Giant Axonal Neuropathy	normalName:giant axonal neuropathy	normalWikiTitle:giant axonal neuropathy	predictedType:Disease
+CANDIDATE	id:12162	inCount:28	outCount:2	links:	url:D012162	name:Retinal Degeneration	normalName:retinal degeneration	normalWikiTitle:retinal degeneration	predictedType:Disease
+CANDIDATE	id:8268	inCount:33	outCount:1	links:	url:D008268	name:Macular Degeneration	normalName:macular degeneration	normalWikiTitle:macular degeneration	predictedType:Disease
+CANDIDATE	id:52879	inCount:0	outCount:5	links:	url:D052879	name:Subacute Combined Degeneration	normalName:subacute combined degeneration	normalWikiTitle:subacute combined degeneration	predictedType:Disease
+CANDIDATE	id:14855	inCount:1	outCount:1	links:	url:D014855	name:Wallerian Degeneration	normalName:wallerian degeneration	normalWikiTitle:wallerian degeneration	predictedType:Disease
+CANDIDATE	id:5490	inCount:1	outCount:1	links:	url:D005490	name:Focal Infection	normalName:focal infection	normalWikiTitle:focal infection	predictedType:Disease
+CANDIDATE	id:47728	inCount:0	outCount:1	links:	url:D047728	name:Myopia, Degenerative	normalName:myopia, degenerative	normalWikiTitle:myopia, degenerative	predictedType:Disease
+CANDIDATE	id:12183	inCount:0	outCount:1	links:	url:D012183	name:Axonal Reaction	normalName:axonal reaction	normalWikiTitle:axonal reaction	predictedType:Disease
+CANDIDATE	id:12183	inCount:0	outCount:1	links:	url:D012183	name:Reaction, Axonal	normalName:reaction, axonal	normalWikiTitle:reaction, axonal	predictedType:Disease
+CANDIDATE	id:71700	inCount:1	outCount:2	links:	url:D000071700	name:Cone-Rod Degeneration	normalName:cone-rod degeneration	normalWikiTitle:cone-rod degeneration	predictedType:Disease
+CANDIDATE	id:12183	inCount:0	outCount:1	links:	url:D012183	name:Axonal Reactions	normalName:axonal reactions	normalWikiTitle:axonal reactions	predictedType:Disease
+CANDIDATE	id:12183	inCount:0	outCount:1	links:	url:D012183	name:Reactions, Axonal	normalName:reactions, axonal	normalWikiTitle:reactions, axonal	predictedType:Disease
+CANDIDATE	id:71700	inCount:1	outCount:2	links:	url:D000071700	name:Cone-Rod Degenerations	normalName:cone-rod degenerations	normalWikiTitle:cone-rod degenerations	predictedType:Disease
+CANDIDATE	id:71700	inCount:1	outCount:2	links:	url:D000071700	name:Cone Rod Degenerations	normalName:cone rod degenerations	normalWikiTitle:cone rod degenerations	predictedType:Disease
+CANDIDATE	id:12183	inCount:0	outCount:1	links:	url:D012183	name:Reaction, Axon	normalName:reaction, axon	normalWikiTitle:reaction, axon	predictedType:Disease
+CANDIDATE	id:12183	inCount:0	outCount:1	links:	url:D012183	name:Axon Reaction	normalName:axon reaction	normalWikiTitle:axon reaction	predictedType:Disease
+CANDIDATE	id:536432	inCount:0	outCount:2	links:	url:C536432	name:Cochleosaccular Degeneration	normalName:cochleosaccular degeneration	normalWikiTitle:cochleosaccular degeneration	predictedType:Disease
+ENTITY	text:glaucoma	normalName:glaucoma	predictedType:disease	q:true	qid:Q484	docId:24691439	origText:glaucoma	url:D005901
+CANDIDATE	id:5901	inCount:34	outCount:1	links:9798;9410	url:D005901	name:Glaucoma	normalName:glaucoma	normalWikiTitle:glaucoma	predictedType:Disease

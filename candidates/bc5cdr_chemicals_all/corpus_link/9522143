@@ -1,0 +1,4 @@
+ENTITY	text:bupivacaine	normalName:bupivacaine	predictedType:chemical	q:true	qid:Q196	docId:9522143	origText:bupivacaine	url:D002045
+CANDIDATE	id:2045	inCount:4	outCount:1	links:11318	url:D002045	name:Bupivacaine	normalName:bupivacaine	normalWikiTitle:bupivacaine	predictedType:Chemical
+ENTITY	text:prilocaine	normalName:prilocaine	predictedType:chemical	q:true	qid:Q196	docId:9522143	origText:prilocaine	url:D011318
+CANDIDATE	id:11318	inCount:1	outCount:1	links:2045	url:D011318	name:Prilocaine	normalName:prilocaine	normalWikiTitle:prilocaine	predictedType:Chemical

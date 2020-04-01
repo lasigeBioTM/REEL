@@ -1,0 +1,10 @@
+ENTITY	text:oxygen	normalName:oxygen	predictedType:chemical	q:true	qid:Q44	docId:16112787	origText:oxygen	url:D010100
+CANDIDATE	id:10100	inCount:11	outCount:2	links:	url:D010100	name:Oxygen	normalName:oxygen	normalWikiTitle:oxygen	predictedType:Chemical
+ENTITY	text:erdosteine	normalName:erdosteine	predictedType:chemical	q:true	qid:Q44	docId:16112787	origText:erdosteine	url:C048498
+CANDIDATE	id:48498	inCount:0	outCount:2	links:	url:C048498	name:erdosteine	normalName:erdosteine	normalWikiTitle:erdosteine	predictedType:Chemical
+ENTITY	text:vancomycin	normalName:vancomycin	predictedType:chemical	q:true	qid:Q44	docId:16112787	origText:vancomycin	url:D014640
+CANDIDATE	id:14640	inCount:29	outCount:1	links:	url:D014640	name:Vancomycin	normalName:vancomycin	normalWikiTitle:vancomycin	predictedType:Chemical
+ENTITY	text:malondialdehyde	normalName:malondialdehyde	predictedType:chemical	q:true	qid:Q44	docId:16112787	origText:malondialdehyde	url:D008315
+CANDIDATE	id:8315	inCount:11	outCount:1	links:	url:D008315	name:Malondialdehyde	normalName:malondialdehyde	normalWikiTitle:malondialdehyde	predictedType:Chemical
+ENTITY	text:superoxide	normalName:superoxide	predictedType:chemical	q:true	qid:Q44	docId:16112787	origText:superoxide	url:D013481
+CANDIDATE	id:13481	inCount:1	outCount:1	links:	url:D013481	name:Superoxide	normalName:superoxide	normalWikiTitle:superoxide	predictedType:Chemical

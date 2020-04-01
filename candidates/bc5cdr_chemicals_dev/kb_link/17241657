@@ -1,0 +1,6 @@
+ENTITY	text:cocaine	normalName:cocaine	predictedType:chemical	q:true	qid:Q46	docId:17241657	origText:cocaine	url:D003042
+CANDIDATE	id:3042	inCount:89	outCount:1	links:	url:D003042	name:Cocaine	normalName:cocaine	normalWikiTitle:cocaine	predictedType:Chemical
+ENTITY	text:SM 21	normalName:sm 21	predictedType:chemical	q:true	qid:Q46	docId:17241657	origText:SM 21	url:C107044
+CANDIDATE	id:107044	inCount:0	outCount:2	links:	url:C107044	name:SM 21	normalName:sm 21	normalWikiTitle:sm 21	predictedType:Chemical
+ENTITY	text:1-(2-phenethyl)-4-(2-pyridyl)-piperazine	normalName:1-(2-phenethyl)-4-(2-pyridyl)-piperazine	predictedType:chemical	q:true	qid:Q46	docId:17241657	origText:1-(2-phenethyl)-4-(2-pyridyl)-piperazine	url:C519696
+CANDIDATE	id:519696	inCount:0	outCount:2	links:	url:C519696	name:1-(2-phenethyl)-4-(2-pyridyl)piperazine	normalName:1-(2-phenethyl)-4-(2-pyridyl)piperazine	normalWikiTitle:1-(2-phenethyl)-4-(2-pyridyl)piperazine	predictedType:Chemical

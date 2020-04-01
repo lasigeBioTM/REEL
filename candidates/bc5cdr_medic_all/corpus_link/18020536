@@ -1,0 +1,21 @@
+ENTITY	text:dizziness	normalName:dizziness	predictedType:disease	q:true	qid:Q753	docId:18020536	origText:dizziness	url:D004244
+CANDIDATE	id:4244	inCount:1	outCount:1	links:3866	url:D004244	name:Dizziness	normalName:dizziness	normalWikiTitle:dizziness	predictedType:Disease
+ENTITY	text:depressive symptoms	normalName:depressive symptoms	predictedType:disease	q:true	qid:Q753	docId:18020536	origText:depressive symptoms	url:D003866
+CANDIDATE	id:3866	inCount:6	outCount:1	links:4244	url:D003866	name:Disorders, Depressive	normalName:disorders, depressive	normalWikiTitle:disorders, depressive	predictedType:Disease
+CANDIDATE	id:3866	inCount:6	outCount:1	links:4244	url:D003866	name:Depressive Disorder	normalName:depressive disorder	normalWikiTitle:depressive disorder	predictedType:Disease
+CANDIDATE	id:19052	inCount:0	outCount:2	links:	url:D019052	name:Depression, Postpartum	normalName:depression, postpartum	normalWikiTitle:depression, postpartum	predictedType:Disease
+CANDIDATE	id:12816	inCount:38	outCount:1	links:	url:D012816	name:Signs and Symptoms	normalName:signs and symptoms	normalWikiTitle:signs and symptoms	predictedType:Disease
+CANDIDATE	id:12817	inCount:18	outCount:1	links:	url:D012817	name:Signs and Symptoms, Digestive	normalName:signs and symptoms, digestive	normalWikiTitle:signs and symptoms, digestive	predictedType:Disease
+CANDIDATE	id:3865	inCount:2	outCount:1	links:	url:D003865	name:Depressive Disorder, Major	normalName:depressive disorder, major	normalWikiTitle:depressive disorder, major	predictedType:Disease
+CANDIDATE	id:9408	inCount:9	outCount:1	links:	url:D009408	name:Nerve Compression Syndromes	normalName:nerve compression syndromes	normalWikiTitle:nerve compression syndromes	predictedType:Disease
+CANDIDATE	id:12818	inCount:18	outCount:1	links:	url:D012818	name:Signs and Symptoms, Respiratory	normalName:signs and symptoms, respiratory	normalWikiTitle:signs and symptoms, respiratory	predictedType:Disease
+CANDIDATE	id:563875	inCount:0	outCount:1	links:	url:C563875	name:Major Depressive Disorder 2	normalName:major depressive disorder 2	normalWikiTitle:major depressive disorder 2	predictedType:Disease
+CANDIDATE	id:563919	inCount:0	outCount:1	links:	url:C563919	name:Major Depressive Disorder 1	normalName:major depressive disorder 1	normalWikiTitle:major depressive disorder 1	predictedType:Disease
+CANDIDATE	id:62706	inCount:0	outCount:1	links:	url:D062706	name:Prodromal Symptoms	normalName:prodromal symptoms	normalWikiTitle:prodromal symptoms	predictedType:Disease
+CANDIDATE	id:3866	inCount:6	outCount:1	links:4244	url:D003866	name:Depressive Syndromes	normalName:depressive syndromes	normalWikiTitle:depressive syndromes	predictedType:Disease
+CANDIDATE	id:3866	inCount:6	outCount:1	links:4244	url:D003866	name:Syndromes, Depressive	normalName:syndromes, depressive	normalWikiTitle:syndromes, depressive	predictedType:Disease
+CANDIDATE	id:3866	inCount:6	outCount:1	links:4244	url:D003866	name:Syndrome, Depressive	normalName:syndrome, depressive	normalWikiTitle:syndrome, depressive	predictedType:Disease
+CANDIDATE	id:3866	inCount:6	outCount:1	links:4244	url:D003866	name:Depressive Syndrome	normalName:depressive syndrome	normalWikiTitle:depressive syndrome	predictedType:Disease
+CANDIDATE	id:3866	inCount:6	outCount:1	links:4244	url:D003866	name:Depressive Disorders	normalName:depressive disorders	normalWikiTitle:depressive disorders	predictedType:Disease
+ENTITY	text:dementia	normalName:dementia	predictedType:disease	q:true	qid:Q753	docId:18020536	origText:dementia	url:D003704
+CANDIDATE	id:3704	inCount:25	outCount:2	links:	url:D003704	name:Dementia	normalName:dementia	normalWikiTitle:dementia	predictedType:Disease

@@ -1,0 +1,17 @@
+ENTITY	text:heart failure	normalName:heart failure	predictedType:disease	q:true	qid:Q143	docId:11279304	origText:heart failure	url:D006333
+CANDIDATE	id:6333	inCount:5	outCount:1	links:66126	url:D006333	name:Heart Failure	normalName:heart failure	normalWikiTitle:heart failure	predictedType:Disease
+ENTITY	text:cardiotoxicity	normalName:cardiotoxicity	predictedType:disease	q:true	qid:Q143	docId:11279304	origText:cardiotoxicity	url:D066126
+CANDIDATE	id:66126	inCount:0	outCount:3	links:6333	url:D066126	name:Cardiotoxicity	normalName:cardiotoxicity	normalWikiTitle:cardiotoxicity	predictedType:Disease
+ENTITY	text:acute leukemia	normalName:acute leukemia	predictedType:disease	q:true	qid:Q143	docId:11279304	origText:acute leukemia	url:D015470
+CANDIDATE	id:15470	inCount:13	outCount:1	links:	url:D015470	name:Leukemia, Myeloid, Acute	normalName:leukemia, myeloid, acute	normalWikiTitle:leukemia, myeloid, acute	predictedType:Disease
+CANDIDATE	id:535673	inCount:0	outCount:1	links:	url:C535673	name:Acute erythroleukemia	normalName:acute erythroleukemia	normalWikiTitle:acute erythroleukemia	predictedType:Disease
+CANDIDATE	id:15448	inCount:2	outCount:1	links:	url:D015448	name:Leukemia, B-Cell	normalName:leukemia, b-cell	normalWikiTitle:leukemia, b-cell	predictedType:Disease
+CANDIDATE	id:564112	inCount:0	outCount:1	links:	url:C564112	name:Leukemia, Acute, X-Linked	normalName:leukemia, acute, x-linked	normalWikiTitle:leukemia, acute, x-linked	predictedType:Disease
+CANDIDATE	id:15458	inCount:4	outCount:1	links:	url:D015458	name:Leukemia, T-Cell	normalName:leukemia, t-cell	normalWikiTitle:leukemia, t-cell	predictedType:Disease
+CANDIDATE	id:7948	inCount:0	outCount:1	links:	url:D007948	name:Leukemia, Monocytic, Acute	normalName:leukemia, monocytic, acute	normalWikiTitle:leukemia, monocytic, acute	predictedType:Disease
+CANDIDATE	id:7938	inCount:12	outCount:1	links:	url:D007938	name:Leukemia	normalName:leukemia	normalWikiTitle:leukemia	predictedType:Disease
+CANDIDATE	id:15471	inCount:0	outCount:1	links:	url:D015471	name:Leukemia, Basophilic, Acute	normalName:leukemia, basophilic, acute	normalWikiTitle:leukemia, basophilic, acute	predictedType:Disease
+CANDIDATE	id:11289	inCount:0	outCount:2	links:	url:D011289	name:Preleukemia	normalName:preleukemia	normalWikiTitle:preleukemia	predictedType:Disease
+CANDIDATE	id:16582	inCount:0	outCount:3	links:	url:D016582	name:Leukemia, Feline	normalName:leukemia, feline	normalWikiTitle:leukemia, feline	predictedType:Disease
+ENTITY	text:congestive heart failure	normalName:congestive heart failure	predictedType:disease	q:true	qid:Q143	docId:11279304	origText:congestive heart failure	url:D006333
+CANDIDATE	id:6333	inCount:5	outCount:1	links:66126	url:D006333	name:Heart Failure, Congestive	normalName:heart failure, congestive	normalWikiTitle:heart failure, congestive	predictedType:Disease

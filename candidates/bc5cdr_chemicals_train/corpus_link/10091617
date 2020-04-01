@@ -1,0 +1,17 @@
+ENTITY	text:amphetamine	normalName:amphetamine	predictedType:chemical	q:true	qid:Q194	docId:10091617	origText:amphetamine	url:D000661
+CANDIDATE	id:661	inCount:1	outCount:1	links:8694;3913	url:D000661	name:Amphetamine	normalName:amphetamine	normalWikiTitle:amphetamine	predictedType:Chemical
+ENTITY	text:metamphetamine	normalName:metamphetamine	predictedType:chemical	q:true	qid:Q194	docId:10091617	origText:metamphetamine	url:D008694
+CANDIDATE	id:8694	inCount:44	outCount:1	links:661	url:D008694	name:Methamphetamine	normalName:methamphetamine	normalWikiTitle:methamphetamine	predictedType:Chemical
+CANDIDATE	id:661	inCount:1	outCount:1	links:8694;3913	url:D000661	name:Amphetamine	normalName:amphetamine	normalWikiTitle:amphetamine	predictedType:Chemical
+CANDIDATE	id:16434	inCount:0	outCount:1	links:	url:C016434	name:ethylamphetamine	normalName:ethylamphetamine	normalWikiTitle:ethylamphetamine	predictedType:Chemical
+CANDIDATE	id:662	inCount:80	outCount:1	links:	url:D000662	name:Amphetamines	normalName:amphetamines	normalWikiTitle:amphetamines	predictedType:Chemical
+CANDIDATE	id:592891	inCount:0	outCount:1	links:	url:C000592891	name:2-methylamphetamine	normalName:2-methylamphetamine	normalWikiTitle:2-methylamphetamine	predictedType:Chemical
+CANDIDATE	id:3714	inCount:0	outCount:1	links:	url:C003714	name:dimethylamphetamine	normalName:dimethylamphetamine	normalWikiTitle:dimethylamphetamine	predictedType:Chemical
+CANDIDATE	id:592890	inCount:0	outCount:1	links:	url:C000592890	name:3-methylamphetamine	normalName:3-methylamphetamine	normalWikiTitle:3-methylamphetamine	predictedType:Chemical
+CANDIDATE	id:3913	inCount:7	outCount:1	links:661	url:D003913	name:Dextroamphetamine	normalName:dextroamphetamine	normalWikiTitle:dextroamphetamine	predictedType:Chemical
+CANDIDATE	id:29870	inCount:0	outCount:1	links:	url:C029870	name:3-methoxyamphetamine	normalName:3-methoxyamphetamine	normalWikiTitle:3-methoxyamphetamine	predictedType:Chemical
+CANDIDATE	id:73090	inCount:0	outCount:1	links:	url:C073090	name:chlormethamphetamine	normalName:chlormethamphetamine	normalWikiTitle:chlormethamphetamine	predictedType:Chemical
+ENTITY	text:L-dopa	normalName:l-dopa	predictedType:chemical	q:true	qid:Q194	docId:10091617	origText:L-dopa	url:D007980
+CANDIDATE	id:7980	inCount:32	outCount:1	links:12642	url:D007980	name:L-Dopa	normalName:l-dopa	normalWikiTitle:l-dopa	predictedType:Chemical
+ENTITY	text:Selegiline	normalName:selegiline	predictedType:chemical	q:true	qid:Q194	docId:10091617	origText:Selegiline	url:D012642
+CANDIDATE	id:12642	inCount:7	outCount:1	links:7980	url:D012642	name:Selegiline	normalName:selegiline	normalWikiTitle:selegiline	predictedType:Chemical

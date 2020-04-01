@@ -1,0 +1,12 @@
+ENTITY	text:L-glutamic acid	normalName:l-glutamic acid	predictedType:chemical	q:true	qid:Q375	docId:3708328	origText:L-glutamic acid	url:D018698
+CANDIDATE	id:18698	inCount:53	outCount:2	links:	url:D018698	name:L-Glutamic acid	normalName:l-glutamic acid	normalWikiTitle:l-glutamic acid	predictedType:Chemical
+ENTITY	text:gamma-vinyl-GABA	normalName:gamma-vinyl-gaba	predictedType:chemical	q:true	qid:Q375	docId:3708328	origText:gamma-vinyl-GABA	url:D020888
+CANDIDATE	id:20888	inCount:0	outCount:1	links:	url:D020888	name:gamma Vinyl GABA	normalName:gamma vinyl gaba	normalWikiTitle:gamma vinyl gaba	predictedType:Chemical
+ENTITY	text:GABA	normalName:gaba	predictedType:chemical	q:true	qid:Q375	docId:3708328	origText:GABA	url:D005680
+CANDIDATE	id:5680	inCount:100	outCount:1	links:	url:D005680	name:GABA	normalName:gaba	normalWikiTitle:gaba	predictedType:Chemical
+ENTITY	text:pilocarpine	normalName:pilocarpine	predictedType:chemical	q:true	qid:Q375	docId:3708328	origText:pilocarpine	url:D010862
+CANDIDATE	id:10862	inCount:7	outCount:1	links:7538	url:D010862	name:Pilocarpine	normalName:pilocarpine	normalWikiTitle:pilocarpine	predictedType:Chemical
+ENTITY	text:isoniazid	normalName:isoniazid	predictedType:chemical	q:true	qid:Q375	docId:3708328	origText:isoniazid	url:D007538
+CANDIDATE	id:7538	inCount:46	outCount:2	links:10862	url:D007538	name:Isoniazid	normalName:isoniazid	normalWikiTitle:isoniazid	predictedType:Chemical
+ENTITY	text:gamma-aminobutyric acid	normalName:gamma-aminobutyric acid	predictedType:chemical	q:true	qid:Q375	docId:3708328	origText:gamma-aminobutyric acid	url:D005680
+CANDIDATE	id:5680	inCount:100	outCount:1	links:	url:D005680	name:gamma-Aminobutyric Acid	normalName:gamma-aminobutyric acid	normalWikiTitle:gamma-aminobutyric acid	predictedType:Chemical

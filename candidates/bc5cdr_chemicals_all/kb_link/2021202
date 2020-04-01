@@ -1,0 +1,29 @@
+ENTITY	text:isoflurane	normalName:isoflurane	predictedType:chemical	q:true	qid:Q296	docId:2021202	origText:isoflurane	url:D007530
+CANDIDATE	id:7530	inCount:1	outCount:1	links:	url:D007530	name:Isoflurane	normalName:isoflurane	normalWikiTitle:isoflurane	predictedType:Chemical
+ENTITY	text:para-aminohippurate	normalName:para-aminohippurate	predictedType:chemical	q:true	qid:Q296	docId:2021202	origText:para-aminohippurate	url:D010130
+CANDIDATE	id:10130	inCount:0	outCount:2	links:	url:D010130	name:Sodium, Aminohippurate	normalName:sodium, aminohippurate	normalWikiTitle:sodium, aminohippurate	predictedType:Chemical
+CANDIDATE	id:62366	inCount:118	outCount:1	links:	url:D062366	name:para-Aminobenzoates	normalName:para-aminobenzoates	normalWikiTitle:para-aminobenzoates	predictedType:Chemical
+CANDIDATE	id:10130	inCount:0	outCount:2	links:	url:D010130	name:p-Aminohippuric Acid	normalName:p-aminohippuric acid	normalWikiTitle:p-aminohippuric acid	predictedType:Chemical
+CANDIDATE	id:19490	inCount:0	outCount:1	links:	url:C019490	name:methyl thionohippurate	normalName:methyl thionohippurate	normalWikiTitle:methyl thionohippurate	predictedType:Chemical
+CANDIDATE	id:34677	inCount:0	outCount:1	links:	url:C034677	name:phenyl hippurate	normalName:phenyl hippurate	normalWikiTitle:phenyl hippurate	predictedType:Chemical
+CANDIDATE	id:6626	inCount:38	outCount:2	links:	url:D006626	name:Hippurates	normalName:hippurates	normalWikiTitle:hippurates	predictedType:Chemical
+CANDIDATE	id:6559	inCount:0	outCount:1	links:	url:C006559	name:aminorex fumarate	normalName:aminorex fumarate	normalWikiTitle:aminorex fumarate	predictedType:Chemical
+CANDIDATE	id:613	inCount:112	outCount:2	links:	url:D000613	name:Aminobutyrates	normalName:aminobutyrates	normalWikiTitle:aminobutyrates	predictedType:Chemical
+CANDIDATE	id:614	inCount:46	outCount:2	links:	url:D000614	name:Aminocaproates	normalName:aminocaproates	normalWikiTitle:aminocaproates	predictedType:Chemical
+CANDIDATE	id:14084	inCount:0	outCount:2	links:	url:C014084	name:Metamin-Hippurate	normalName:metamin-hippurate	normalWikiTitle:metamin-hippurate	predictedType:Chemical
+CANDIDATE	id:43577	inCount:0	outCount:1	links:	url:C043577	name:7-aminonitrazepam	normalName:7-aminonitrazepam	normalWikiTitle:7-aminonitrazepam	predictedType:Chemical
+CANDIDATE	id:10130	inCount:0	outCount:2	links:	url:D010130	name:p-Aminohippurate	normalName:p-aminohippurate	normalWikiTitle:p-aminohippurate	predictedType:Chemical
+CANDIDATE	id:10130	inCount:0	outCount:2	links:	url:D010130	name:p Aminohippurate	normalName:p aminohippurate	normalWikiTitle:p aminohippurate	predictedType:Chemical
+CANDIDATE	id:10130	inCount:0	outCount:2	links:	url:D010130	name:Sodium Para-Aminohippurate	normalName:sodium para-aminohippurate	normalWikiTitle:sodium para-aminohippurate	predictedType:Chemical
+CANDIDATE	id:10130	inCount:0	outCount:2	links:	url:D010130	name:Sodium Para Aminohippurate	normalName:sodium para aminohippurate	normalWikiTitle:sodium para aminohippurate	predictedType:Chemical
+CANDIDATE	id:10130	inCount:0	outCount:2	links:	url:D010130	name:Para-Aminohippurate, Sodium	normalName:para-aminohippurate, sodium	normalWikiTitle:para-aminohippurate, sodium	predictedType:Chemical
+CANDIDATE	id:10130	inCount:0	outCount:2	links:	url:D010130	name:para-Aminohippuric Acid	normalName:para-aminohippuric acid	normalWikiTitle:para-aminohippuric acid	predictedType:Chemical
+CANDIDATE	id:10130	inCount:0	outCount:2	links:	url:D010130	name:para Aminohippuric Acid	normalName:para aminohippuric acid	normalWikiTitle:para aminohippuric acid	predictedType:Chemical
+CANDIDATE	id:10130	inCount:0	outCount:2	links:	url:D010130	name:Aminohippurate Sodium	normalName:aminohippurate sodium	normalWikiTitle:aminohippurate sodium	predictedType:Chemical
+CANDIDATE	id:33352	inCount:0	outCount:1	links:	url:C033352	name:para-nitrohippuric acid	normalName:para-nitrohippuric acid	normalWikiTitle:para-nitrohippuric acid	predictedType:Chemical
+ENTITY	text:fentanyl	normalName:fentanyl	predictedType:chemical	q:true	qid:Q296	docId:2021202	origText:fentanyl	url:D005283
+CANDIDATE	id:5283	inCount:40	outCount:1	links:	url:D005283	name:Fentanyl	normalName:fentanyl	normalWikiTitle:fentanyl	predictedType:Chemical
+ENTITY	text:nitrous oxide	normalName:nitrous oxide	predictedType:chemical	q:true	qid:Q296	docId:2021202	origText:nitrous oxide	url:D009609
+CANDIDATE	id:9609	inCount:3	outCount:1	links:	url:D009609	name:Nitrous Oxide	normalName:nitrous oxide	normalWikiTitle:nitrous oxide	predictedType:Chemical
+ENTITY	text:oxygen	normalName:oxygen	predictedType:chemical	q:true	qid:Q296	docId:2021202	origText:oxygen	url:D010100
+CANDIDATE	id:10100	inCount:11	outCount:2	links:	url:D010100	name:Oxygen	normalName:oxygen	normalWikiTitle:oxygen	predictedType:Chemical

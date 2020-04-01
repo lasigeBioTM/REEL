@@ -1,0 +1,19 @@
+ENTITY	text:asthmatic	normalName:asthmatic	predictedType:disease	q:true	qid:Q468	docId:3475563	origText:asthmatic	url:D001249
+CANDIDATE	id:1249	inCount:16	outCount:3	links:	url:D001249	name:Asthma	normalName:asthma	normalWikiTitle:asthma	predictedType:Disease
+CANDIDATE	id:1251	inCount:0	outCount:1	links:	url:D001251	name:Astigmatism	normalName:astigmatism	normalWikiTitle:astigmatism	predictedType:Disease
+CANDIDATE	id:13224	inCount:0	outCount:1	links:	url:D013224	name:Status Asthmaticus	normalName:status asthmaticus	normalWikiTitle:status asthmaticus	predictedType:Disease
+CANDIDATE	id:14973	inCount:5	outCount:1	links:	url:D014973	name:Xanthomatosis	normalName:xanthomatosis	normalWikiTitle:xanthomatosis	predictedType:Disease
+CANDIDATE	id:535346	inCount:0	outCount:1	links:	url:C535346	name:Catatrichy	normalName:catatrichy	normalWikiTitle:catatrichy	predictedType:Disease
+CANDIDATE	id:13280	inCount:5	outCount:1	links:	url:D013280	name:Stomatitis	normalName:stomatitis	normalWikiTitle:stomatitis	predictedType:Disease
+CANDIDATE	id:562989	inCount:0	outCount:1	links:	url:C562989	name:Amastia	normalName:amastia	normalWikiTitle:amastia	predictedType:Disease
+CANDIDATE	id:536288	inCount:0	outCount:1	links:	url:C536288	name:Thymic aplasia	normalName:thymic aplasia	normalWikiTitle:thymic aplasia	predictedType:Disease
+CANDIDATE	id:565299	inCount:0	outCount:1	links:	url:C565299	name:Anisomastia	normalName:anisomastia	normalWikiTitle:anisomastia	predictedType:Disease
+CANDIDATE	id:3970	inCount:2	outCount:1	links:	url:D003970	name:Diastema	normalName:diastema	normalWikiTitle:diastema	predictedType:Disease
+ENTITY	text:oral candidiasis	normalName:oral candidiasis	predictedType:disease	q:true	qid:Q468	docId:3475563	origText:oral candidiasis	url:D002180
+CANDIDATE	id:2180	inCount:0	outCount:2	links:2180	url:D002180	name:Candidiasis, Oral	normalName:candidiasis, oral	normalWikiTitle:candidiasis, oral	predictedType:Disease
+ENTITY	text:hoarseness	normalName:hoarseness	predictedType:disease	q:true	qid:Q468	docId:3475563	origText:hoarseness	url:D006685
+CANDIDATE	id:6685	inCount:3	outCount:3	links:	url:D006685	name:Hoarseness	normalName:hoarseness	normalWikiTitle:hoarseness	predictedType:Disease
+ENTITY	text:thrush	normalName:thrush	predictedType:disease	q:true	qid:Q468	docId:3475563	origText:thrush	url:D002180
+CANDIDATE	id:2180	inCount:0	outCount:2	links:2180	url:D002180	name:Thrush	normalName:thrush	normalWikiTitle:thrush	predictedType:Disease
+ENTITY	text:Candidiasis	normalName:candidiasis	predictedType:disease	q:true	qid:Q468	docId:3475563	origText:Candidiasis	url:D002177
+CANDIDATE	id:2177	inCount:7	outCount:1	links:	url:D002177	name:Candidiasis	normalName:candidiasis	normalWikiTitle:candidiasis	predictedType:Disease

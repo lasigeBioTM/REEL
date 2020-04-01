@@ -1,0 +1,8 @@
+ENTITY	text:telithromycin	normalName:telithromycin	predictedType:chemical	q:true	qid:Q1157	docId:17919553	origText:telithromycin	url:C106791
+CANDIDATE	id:106791	inCount:0	outCount:1	links:	url:C106791	name:telithromycin	normalName:telithromycin	normalWikiTitle:telithromycin	predictedType:Chemical
+ENTITY	text:alanine	normalName:alanine	predictedType:chemical	q:true	qid:Q1157	docId:17919553	origText:alanine	url:D000409
+CANDIDATE	id:409	inCount:359	outCount:1	links:	url:D000409	name:Alanine	normalName:alanine	normalWikiTitle:alanine	predictedType:Chemical
+ENTITY	text:bilirubin	normalName:bilirubin	predictedType:chemical	q:true	qid:Q1157	docId:17919553	origText:bilirubin	url:D001663
+CANDIDATE	id:1663	inCount:20	outCount:1	links:	url:D001663	name:Bilirubin	normalName:bilirubin	normalWikiTitle:bilirubin	predictedType:Chemical
+ENTITY	text:aspartate	normalName:aspartate	predictedType:chemical	q:true	qid:Q1157	docId:17919553	origText:aspartate	url:D001224
+CANDIDATE	id:1224	inCount:112	outCount:3	links:	url:D001224	name:Aspartate	normalName:aspartate	normalWikiTitle:aspartate	predictedType:Chemical

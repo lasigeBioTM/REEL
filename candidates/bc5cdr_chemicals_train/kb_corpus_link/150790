@@ -1,0 +1,14 @@
+ENTITY	text:isoniazid	normalName:isoniazid	predictedType:chemical	q:true	qid:Q394	docId:150790	origText:isoniazid	url:D007538
+CANDIDATE	id:7538	inCount:46	outCount:2	links:	url:D007538	name:Isoniazid	normalName:isoniazid	normalWikiTitle:isoniazid	predictedType:Chemical
+ENTITY	text:niacinamide	normalName:niacinamide	predictedType:chemical	q:true	qid:Q394	docId:150790	origText:niacinamide	url:D009536
+CANDIDATE	id:9536	inCount:185	outCount:1	links:	url:D009536	name:Niacinamide	normalName:niacinamide	normalWikiTitle:niacinamide	predictedType:Chemical
+ENTITY	text:tryptophan	normalName:tryptophan	predictedType:chemical	q:true	qid:Q394	docId:150790	origText:tryptophan	url:D014364
+CANDIDATE	id:14364	inCount:167	outCount:2	links:	url:D014364	name:Tryptophan	normalName:tryptophan	normalWikiTitle:tryptophan	predictedType:Chemical
+ENTITY	text:pyridoxal	normalName:pyridoxal	predictedType:chemical	q:true	qid:Q394	docId:150790	origText:pyridoxal	url:D011730
+CANDIDATE	id:11730	inCount:44	outCount:1	links:	url:D011730	name:Pyridoxal	normalName:pyridoxal	normalWikiTitle:pyridoxal	predictedType:Chemical
+ENTITY	text:pyridoxine	normalName:pyridoxine	predictedType:chemical	q:true	qid:Q394	docId:150790	origText:pyridoxine	url:D011736
+CANDIDATE	id:11736	inCount:59	outCount:1	links:11736	url:D011736	name:Pyridoxine	normalName:pyridoxine	normalWikiTitle:pyridoxine	predictedType:Chemical
+ENTITY	text:kynurenine	normalName:kynurenine	predictedType:chemical	q:true	qid:Q394	docId:150790	origText:kynurenine	url:D007737
+CANDIDATE	id:7737	inCount:14	outCount:1	links:	url:D007737	name:Kynurenine	normalName:kynurenine	normalWikiTitle:kynurenine	predictedType:Chemical
+ENTITY	text:pyridoxine hydrochloride	normalName:pyridoxine hydrochloride	predictedType:chemical	q:true	qid:Q394	docId:150790	origText:pyridoxine hydrochloride	url:D011736
+CANDIDATE	id:11736	inCount:59	outCount:1	links:11736	url:D011736	name:Pyridoxine Hydrochloride	normalName:pyridoxine hydrochloride	normalWikiTitle:pyridoxine hydrochloride	predictedType:Chemical

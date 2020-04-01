@@ -1,0 +1,13 @@
+ENTITY	text:doxorubicin	normalName:doxorubicin	predictedType:chemical	q:true	qid:Q1299	docId:8600333	origText:doxorubicin	url:D004317
+CANDIDATE	id:4317	inCount:559	outCount:1	links:	url:D004317	name:Doxorubicin	normalName:doxorubicin	normalWikiTitle:doxorubicin	predictedType:Chemical
+ENTITY	text:Rosen's T5 or T10 protocol	normalName:rosen's t5 or t10 protocol	predictedType:chemical	q:true	qid:Q1299	docId:8600333	origText:Rosen's T5 or T10 protocol	url:C053519
+CANDIDATE	id:53519	inCount:0	outCount:5	links:	url:C053519	name:Rosen's T-10 protocol	normalName:rosen's t-10 protocol	normalWikiTitle:rosen's t-10 protocol	predictedType:Chemical
+CANDIDATE	id:80658	inCount:0	outCount:5	links:	url:C080658	name:T10 A protocol	normalName:t10 a protocol	normalWikiTitle:t10 a protocol	predictedType:Chemical
+CANDIDATE	id:429383	inCount:0	outCount:4	links:	url:C429383	name:Rizzoli IOR protocol	normalName:rizzoli ior protocol	normalWikiTitle:rizzoli ior protocol	predictedType:Chemical
+CANDIDATE	id:92060	inCount:0	outCount:4	links:	url:C092060	name:T-NOP protocol	normalName:t-nop protocol	normalWikiTitle:t-nop protocol	predictedType:Chemical
+CANDIDATE	id:40750	inCount:0	outCount:4	links:	url:C040750	name:MOF-Strep protocol	normalName:mof-strep protocol	normalWikiTitle:mof-strep protocol	predictedType:Chemical
+CANDIDATE	id:411257	inCount:0	outCount:4	links:	url:C411257	name:SSG IX protocol	normalName:ssg ix protocol	normalWikiTitle:ssg ix protocol	predictedType:Chemical
+CANDIDATE	id:571759	inCount:0	outCount:4	links:	url:C571759	name:R-CHOP protocol	normalName:r-chop protocol	normalWikiTitle:r-chop protocol	predictedType:Chemical
+CANDIDATE	id:69450	inCount:0	outCount:6	links:	url:C069450	name:T-6 protocol	normalName:t-6 protocol	normalWikiTitle:t-6 protocol	predictedType:Chemical
+CANDIDATE	id:98533	inCount:0	outCount:3	links:	url:C098533	name:TNT protocol	normalName:tnt protocol	normalWikiTitle:tnt protocol	predictedType:Chemical
+CANDIDATE	id:56688	inCount:0	outCount:4	links:	url:C056688	name:B-triple-V protocol	normalName:b-triple-v protocol	normalWikiTitle:b-triple-v protocol	predictedType:Chemical

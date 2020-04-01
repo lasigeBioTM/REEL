@@ -1,0 +1,15 @@
+ENTITY	text:dysphagia	normalName:dysphagia	predictedType:disease	q:true	qid:Q475	docId:15625689	origText:dysphagia	url:D003680
+CANDIDATE	id:3680	inCount:5	outCount:2	links:	url:D003680	name:Dysphagia	normalName:dysphagia	normalWikiTitle:dysphagia	predictedType:Disease
+ENTITY	text:Parkinson's disease	normalName:parkinson's disease	predictedType:disease	q:true	qid:Q475	docId:15625689	origText:Parkinson's disease	url:D010300
+CANDIDATE	id:10300	inCount:31	outCount:2	links:	url:D010300	name:Parkinson's Disease	normalName:parkinson's disease	normalWikiTitle:parkinson's disease	predictedType:Disease
+ENTITY	text:Gastrointestinal abnormalities	normalName:gastrointestinal abnormalities	predictedType:disease	q:true	qid:Q475	docId:15625689	origText:Gastrointestinal abnormalities	url:D005767
+CANDIDATE	id:5767	inCount:12	outCount:1	links:	url:D005767	name:Gastrointestinal Diseases	normalName:gastrointestinal diseases	normalWikiTitle:gastrointestinal diseases	predictedType:Disease
+CANDIDATE	id:571911	inCount:0	outCount:2	links:	url:C571911	name:Gastrointestinal anthrax	normalName:gastrointestinal anthrax	normalWikiTitle:gastrointestinal anthrax	predictedType:Disease
+CANDIDATE	id:14564	inCount:52	outCount:3	links:	url:D014564	name:Urogenital Abnormalities	normalName:urogenital abnormalities	normalWikiTitle:urogenital abnormalities	predictedType:Disease
+CANDIDATE	id:13	inCount:50	outCount:1	links:	url:D000013	name:Congenital Abnormalities	normalName:congenital abnormalities	normalWikiTitle:congenital abnormalities	predictedType:Disease
+CANDIDATE	id:12868	inCount:63	outCount:2	links:	url:D012868	name:Skin Abnormalities	normalName:skin abnormalities	normalWikiTitle:skin abnormalities	predictedType:Disease
+CANDIDATE	id:4065	inCount:17	outCount:2	links:	url:D004065	name:Digestive System Abnormalities	normalName:digestive system abnormalities	normalWikiTitle:digestive system abnormalities	predictedType:Disease
+CANDIDATE	id:14071	inCount:53	outCount:2	links:	url:D014071	name:Tooth Abnormalities	normalName:tooth abnormalities	normalWikiTitle:tooth abnormalities	predictedType:Disease
+CANDIDATE	id:19465	inCount:223	outCount:1	links:	url:D019465	name:Craniofacial Abnormalities	normalName:craniofacial abnormalities	normalWikiTitle:craniofacial abnormalities	predictedType:Disease
+CANDIDATE	id:9139	inCount:30	outCount:2	links:	url:D009139	name:Musculoskeletal Abnormalities	normalName:musculoskeletal abnormalities	normalWikiTitle:musculoskeletal abnormalities	predictedType:Disease
+CANDIDATE	id:9008	inCount:2	outCount:1	links:	url:D009008	name:Abnormalities, Severe Teratoid	normalName:abnormalities, severe teratoid	normalWikiTitle:abnormalities, severe teratoid	predictedType:Disease

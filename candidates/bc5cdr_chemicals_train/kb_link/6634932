@@ -1,0 +1,17 @@
+ENTITY	text:UM-272	normalName:um-272	predictedType:chemical	q:true	qid:Q173	docId:6634932	origText:UM-272	url:C002616
+CANDIDATE	id:2616	inCount:0	outCount:1	links:2616	url:C002616	name:UM 272	normalName:um 272	normalWikiTitle:um 272	predictedType:Chemical
+ENTITY	text:N,N-dimethylpropranolol	normalName:n,n-dimethylpropranolol	predictedType:chemical	q:true	qid:Q173	docId:6634932	origText:N,N-dimethylpropranolol	url:C002616
+CANDIDATE	id:2616	inCount:0	outCount:1	links:2616	url:C002616	name:N,N-dimethylpropranolol	normalName:n,n-dimethylpropranolol	normalWikiTitle:n,n-dimethylpropranolol	predictedType:Chemical
+ENTITY	text:ouabain	normalName:ouabain	predictedType:chemical	q:true	qid:Q173	docId:6634932	origText:ouabain	url:D010042
+CANDIDATE	id:10042	inCount:14	outCount:1	links:	url:D010042	name:Ouabain	normalName:ouabain	normalWikiTitle:ouabain	predictedType:Chemical
+ENTITY	text:quaternary ammonium	normalName:quaternary ammonium	predictedType:chemical	q:true	qid:Q173	docId:6634932	origText:quaternary ammonium	url:D000644
+CANDIDATE	id:644	inCount:622	outCount:3	links:	url:D000644	name:Quaternary Ammonium Compounds	normalName:quaternary ammonium compounds	normalWikiTitle:quaternary ammonium compounds	predictedType:Chemical
+CANDIDATE	id:413608	inCount:0	outCount:2	links:	url:C413608	name:quaternary bisammonium salt	normalName:quaternary bisammonium salt	normalWikiTitle:quaternary bisammonium salt	predictedType:Chemical
+CANDIDATE	id:645	inCount:4	outCount:2	links:	url:D000645	name:Ammonium Sulfate	normalName:ammonium sulfate	normalWikiTitle:ammonium sulfate	predictedType:Chemical
+CANDIDATE	id:52451	inCount:0	outCount:1	links:	url:C052451	name:quaternary ammonium sulfanilamide	normalName:quaternary ammonium sulfanilamide	normalWikiTitle:quaternary ammonium sulfanilamide	predictedType:Chemical
+CANDIDATE	id:28466	inCount:0	outCount:1	links:	url:C028466	name:ammonium borate	normalName:ammonium borate	normalWikiTitle:ammonium borate	predictedType:Chemical
+CANDIDATE	id:31251	inCount:0	outCount:2	links:	url:C031251	name:zinc ammonium sulfate	normalName:zinc ammonium sulfate	normalWikiTitle:zinc ammonium sulfate	predictedType:Chemical
+CANDIDATE	id:54288	inCount:0	outCount:2	links:	url:C054288	name:ammonium diuranate	normalName:ammonium diuranate	normalWikiTitle:ammonium diuranate	predictedType:Chemical
+CANDIDATE	id:34007	inCount:0	outCount:1	links:	url:C034007	name:ammonium bisulfate	normalName:ammonium bisulfate	normalWikiTitle:ammonium bisulfate	predictedType:Chemical
+CANDIDATE	id:40502	inCount:0	outCount:1	links:	url:C040502	name:ammonium carbonate	normalName:ammonium carbonate	normalWikiTitle:ammonium carbonate	predictedType:Chemical
+CANDIDATE	id:481046	inCount:0	outCount:2	links:	url:C481046	name:ammonium citrate	normalName:ammonium citrate	normalWikiTitle:ammonium citrate	predictedType:Chemical

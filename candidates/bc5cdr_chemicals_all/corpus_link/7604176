@@ -1,0 +1,6 @@
+ENTITY	text:lovastatin	normalName:lovastatin	predictedType:chemical	q:true	qid:Q969	docId:7604176	origText:lovastatin	url:D008148
+CANDIDATE	id:8148	inCount:14	outCount:1	links:19821;17035	url:D008148	name:Lovastatin	normalName:lovastatin	normalWikiTitle:lovastatin	predictedType:Chemical
+ENTITY	text:simvastatin	normalName:simvastatin	predictedType:chemical	q:true	qid:Q969	docId:7604176	origText:simvastatin	url:D019821
+CANDIDATE	id:19821	inCount:7	outCount:1	links:8148	url:D019821	name:Simvastatin	normalName:simvastatin	normalWikiTitle:simvastatin	predictedType:Chemical
+ENTITY	text:Pravastatin	normalName:pravastatin	predictedType:chemical	q:true	qid:Q969	docId:7604176	origText:Pravastatin	url:D017035
+CANDIDATE	id:17035	inCount:7	outCount:1	links:8148	url:D017035	name:Pravastatin	normalName:pravastatin	normalWikiTitle:pravastatin	predictedType:Chemical

@@ -1,0 +1,36 @@
+ENTITY	text:depression	normalName:depression	predictedType:disease	q:true	qid:Q289	docId:18752389	origText:depression	url:D003866
+CANDIDATE	id:3866	inCount:6	outCount:1	links:	url:D003866	name:Depressive Disorder	normalName:depressive disorder	normalWikiTitle:depressive disorder	predictedType:Disease
+CANDIDATE	id:18450	inCount:2	outCount:1	links:	url:D018450	name:Disease Progression	normalName:disease progression	normalWikiTitle:disease progression	predictedType:Disease
+CANDIDATE	id:19052	inCount:0	outCount:2	links:	url:D019052	name:Depression, Postpartum	normalName:depression, postpartum	normalWikiTitle:depression, postpartum	predictedType:Disease
+CANDIDATE	id:146850	inCount:0	outCount:2	links:	url:146850	name:IMMUNE SUPPRESSION	normalName:immune suppression	normalWikiTitle:immune suppression	predictedType:Disease
+CANDIDATE	id:6973	inCount:18	outCount:1	links:	url:D006973	name:Hypertension	normalName:hypertension	normalWikiTitle:hypertension	predictedType:Disease
+CANDIDATE	id:58246	inCount:0	outCount:1	links:	url:D058246	name:Prehypertension	normalName:prehypertension	normalWikiTitle:prehypertension	predictedType:Disease
+CANDIDATE	id:14786	inCount:19	outCount:2	links:	url:D014786	name:Vision Disorders	normalName:vision disorders	normalWikiTitle:vision disorders	predictedType:Disease
+CANDIDATE	id:3665	inCount:0	outCount:1	links:	url:D003665	name:Decompression Sickness	normalName:decompression sickness	normalWikiTitle:decompression sickness	predictedType:Disease
+CANDIDATE	id:12871	inCount:71	outCount:1	links:	url:D012871	name:Skin Diseases	normalName:skin diseases	normalWikiTitle:skin diseases	predictedType:Disease
+CANDIDATE	id:4688	inCount:1	outCount:2	links:	url:D004688	name:Encopresis	normalName:encopresis	normalWikiTitle:encopresis	predictedType:Disease
+CANDIDATE	id:1714	inCount:11	outCount:1	links:	url:D001714	name:Depression, Bipolar	normalName:depression, bipolar	normalWikiTitle:depression, bipolar	predictedType:Disease
+CANDIDATE	id:1714	inCount:11	outCount:1	links:	url:D001714	name:Bipolar Depression	normalName:bipolar depression	normalWikiTitle:bipolar depression	predictedType:Disease
+ENTITY	text:hepatotoxic	normalName:hepatotoxic	predictedType:disease	q:true	qid:Q289	docId:18752389	origText:hepatotoxic	url:D056486
+CANDIDATE	id:56486	inCount:2	outCount:3	links:	url:D056486	name:Hepatitides, Toxic	normalName:hepatitides, toxic	normalWikiTitle:hepatitides, toxic	predictedType:Disease
+CANDIDATE	id:6505	inCount:5	outCount:1	links:	url:D006505	name:Hepatitis	normalName:hepatitis	normalWikiTitle:hepatitis	predictedType:Disease
+CANDIDATE	id:3699	inCount:1	outCount:2	links:	url:D003699	name:Hepatitis D	normalName:hepatitis d	normalWikiTitle:hepatitis d	predictedType:Disease
+CANDIDATE	id:6506	inCount:0	outCount:2	links:	url:D006506	name:Hepatitis A	normalName:hepatitis a	normalWikiTitle:hepatitis a	predictedType:Disease
+CANDIDATE	id:18197	inCount:0	outCount:1	links:	url:D018197	name:Hepatoblastoma	normalName:hepatoblastoma	normalWikiTitle:hepatoblastoma	predictedType:Disease
+CANDIDATE	id:6526	inCount:1	outCount:2	links:	url:D006526	name:Hepatitis C	normalName:hepatitis c	normalWikiTitle:hepatitis c	predictedType:Disease
+CANDIDATE	id:6509	inCount:1	outCount:2	links:	url:D006509	name:Hepatitis B	normalName:hepatitis b	normalWikiTitle:hepatitis b	predictedType:Disease
+CANDIDATE	id:16751	inCount:0	outCount:2	links:	url:D016751	name:Hepatitis E	normalName:hepatitis e	normalWikiTitle:hepatitis e	predictedType:Disease
+CANDIDATE	id:8532	inCount:0	outCount:1	links:	url:D008532	name:Megacolon, Toxic	normalName:megacolon, toxic	normalWikiTitle:megacolon, toxic	predictedType:Disease
+CANDIDATE	id:4767	inCount:0	outCount:2	links:	url:D004767	name:Enterotoxemia	normalName:enterotoxemia	normalWikiTitle:enterotoxemia	predictedType:Disease
+CANDIDATE	id:6491	inCount:1	outCount:2	links:	url:D006491	name:Hemothorax	normalName:hemothorax	normalWikiTitle:hemothorax	predictedType:Disease
+CANDIDATE	id:56486	inCount:2	outCount:3	links:	url:D056486	name:Hepatitis, Toxic	normalName:hepatitis, toxic	normalWikiTitle:hepatitis, toxic	predictedType:Disease
+CANDIDATE	id:56486	inCount:2	outCount:3	links:	url:D056486	name:Toxic Hepatitis	normalName:toxic hepatitis	normalWikiTitle:toxic hepatitis	predictedType:Disease
+CANDIDATE	id:56486	inCount:2	outCount:3	links:	url:D056486	name:Toxic Hepatitides	normalName:toxic hepatitides	normalWikiTitle:toxic hepatitides	predictedType:Disease
+ENTITY	text:fulminant hepatic failure	normalName:fulminant hepatic failure	predictedType:disease	q:true	qid:Q289	docId:18752389	origText:fulminant hepatic failure	url:D017114
+CANDIDATE	id:17114	inCount:3	outCount:1	links:	url:D017114	name:Fulminant Hepatic Failure	normalName:fulminant hepatic failure	normalWikiTitle:fulminant hepatic failure	predictedType:Disease
+ENTITY	text:hepatic failure	normalName:hepatic failure	predictedType:disease	q:true	qid:Q289	docId:18752389	origText:hepatic failure	url:D017093
+CANDIDATE	id:17093	inCount:5	outCount:1	links:17093	url:D017093	name:Hepatic Failure	normalName:hepatic failure	normalWikiTitle:hepatic failure	predictedType:Disease
+ENTITY	text:drug toxicity	normalName:drug toxicity	predictedType:disease	q:true	qid:Q289	docId:18752389	origText:drug toxicity	url:D064420
+CANDIDATE	id:64420	inCount:10	outCount:1	links:	url:D064420	name:Drug Toxicity	normalName:drug toxicity	normalWikiTitle:drug toxicity	predictedType:Disease
+ENTITY	text:liver failure	normalName:liver failure	predictedType:disease	q:true	qid:Q289	docId:18752389	origText:liver failure	url:D017093
+CANDIDATE	id:17093	inCount:5	outCount:1	links:17093	url:D017093	name:Liver Failure	normalName:liver failure	normalWikiTitle:liver failure	predictedType:Disease

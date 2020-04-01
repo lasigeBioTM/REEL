@@ -1,0 +1,4 @@
+ENTITY	text:Pilsicainide	normalName:pilsicainide	predictedType:chemical	q:true	qid:Q35	docId:24653743	origText:Pilsicainide	url:C042288
+CANDIDATE	id:42288	inCount:0	outCount:1	links:	url:C042288	name:pilsicainide	normalName:pilsicainide	normalWikiTitle:pilsicainide	predictedType:Chemical
+ENTITY	text:sodium	normalName:sodium	predictedType:chemical	q:true	qid:Q35	docId:24653743	origText:sodium	url:D012964
+CANDIDATE	id:12964	inCount:10	outCount:2	links:	url:D012964	name:Sodium	normalName:sodium	normalWikiTitle:sodium	predictedType:Chemical

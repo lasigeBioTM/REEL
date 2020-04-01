@@ -1,0 +1,6 @@
+ENTITY	text:propranolol	normalName:propranolol	predictedType:chemical	q:true	qid:Q51	docId:14982270	origText:propranolol	url:D011433
+CANDIDATE	id:11433	inCount:46	outCount:2	links:	url:D011433	name:Propranolol	normalName:propranolol	normalWikiTitle:propranolol	predictedType:Chemical
+ENTITY	text:bilirubin	normalName:bilirubin	predictedType:chemical	q:true	qid:Q51	docId:14982270	origText:bilirubin	url:D001663
+CANDIDATE	id:1663	inCount:20	outCount:1	links:	url:D001663	name:Bilirubin	normalName:bilirubin	normalWikiTitle:bilirubin	predictedType:Chemical
+ENTITY	text:Methimazole	normalName:methimazole	predictedType:chemical	q:true	qid:Q51	docId:14982270	origText:Methimazole	url:D008713
+CANDIDATE	id:8713	inCount:3	outCount:2	links:	url:D008713	name:Methimazole	normalName:methimazole	normalWikiTitle:methimazole	predictedType:Chemical

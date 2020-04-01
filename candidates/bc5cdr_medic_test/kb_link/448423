@@ -1,0 +1,58 @@
+ENTITY	text:intracranial vascular thrombosis	normalName:intracranial vascular thrombosis	predictedType:disease	q:true	qid:Q2	docId:448423	origText:intracranial vascular thrombosis	url:D020767
+CANDIDATE	id:20767	inCount:1	outCount:1	links:	url:D020767	name:Intracranial Thrombosis	normalName:intracranial thrombosis	normalWikiTitle:intracranial thrombosis	predictedType:Disease
+CANDIDATE	id:12851	inCount:3	outCount:1	links:	url:D012851	name:Sinus Thrombosis, Intracranial	normalName:sinus thrombosis, intracranial	normalWikiTitle:sinus thrombosis, intracranial	predictedType:Disease
+CANDIDATE	id:16862	inCount:0	outCount:2	links:	url:D016862	name:Tuberculoma, Intracranial	normalName:tuberculoma, intracranial	normalWikiTitle:tuberculoma, intracranial	predictedType:Disease
+CANDIDATE	id:2542	inCount:3	outCount:2	links:	url:D002542	name:Intracranial Embolism and Thrombosis	normalName:intracranial embolism and thrombosis	normalWikiTitle:intracranial embolism and thrombosis	predictedType:Disease
+CANDIDATE	id:20252	inCount:1	outCount:2	links:	url:D020252	name:Gastric Antral Vascular Ectasia	normalName:gastric antral vascular ectasia	normalWikiTitle:gastric antral vascular ectasia	predictedType:Disease
+CANDIDATE	id:20301	inCount:0	outCount:1	links:	url:D020301	name:Vasospasm, Intracranial	normalName:vasospasm, intracranial	normalWikiTitle:vasospasm, intracranial	predictedType:Disease
+CANDIDATE	id:564750	inCount:0	outCount:5	links:	url:C564750	name:Vascular Hyalinosis	normalName:vascular hyalinosis	normalWikiTitle:vascular hyalinosis	predictedType:Disease
+CANDIDATE	id:3328	inCount:0	outCount:2	links:3328	url:D003328	name:Coronary Thrombosis	normalName:coronary thrombosis	normalWikiTitle:coronary thrombosis	predictedType:Disease
+CANDIDATE	id:17566	inCount:0	outCount:1	links:	url:D017566	name:Microvascular Angina	normalName:microvascular angina	normalWikiTitle:microvascular angina	predictedType:Disease
+CANDIDATE	id:8946	inCount:0	outCount:1	links:	url:D008946	name:Mitral Valve Stenosis	normalName:mitral valve stenosis	normalWikiTitle:mitral valve stenosis	predictedType:Disease
+ENTITY	text:subarachnoid hemorrhage	normalName:subarachnoid hemorrhage	predictedType:disease	q:true	qid:Q2	docId:448423	origText:subarachnoid hemorrhage	url:D013345
+CANDIDATE	id:13345	inCount:7	outCount:1	links:	url:D013345	name:Subarachnoid Hemorrhage	normalName:subarachnoid hemorrhage	normalWikiTitle:subarachnoid hemorrhage	predictedType:Disease
+ENTITY	text:disseminated intravascular coagulation	normalName:disseminated intravascular coagulation	predictedType:disease	q:true	qid:Q2	docId:448423	origText:disseminated intravascular coagulation	url:D004211
+CANDIDATE	id:4211	inCount:0	outCount:3	links:4211	url:D004211	name:Disseminated Intravascular Coagulation	normalName:disseminated intravascular coagulation	normalWikiTitle:disseminated intravascular coagulation	predictedType:Disease
+ENTITY	text:hypertension	normalName:hypertension	predictedType:disease	q:true	qid:Q2	docId:448423	origText:hypertension	url:D006973
+CANDIDATE	id:6973	inCount:18	outCount:1	links:	url:D006973	name:Hypertension	normalName:hypertension	normalWikiTitle:hypertension	predictedType:Disease
+ENTITY	text:infarction	normalName:infarction	predictedType:disease	q:true	qid:Q2	docId:448423	origText:infarction	url:D007238
+CANDIDATE	id:7238	inCount:0	outCount:2	links:	url:D007238	name:Infarction	normalName:infarction	normalWikiTitle:infarction	predictedType:Disease
+ENTITY	text:consumption coagulopathies	normalName:consumption coagulopathies	predictedType:disease	q:true	qid:Q2	docId:448423	origText:consumption coagulopathies	url:D004211
+CANDIDATE	id:4211	inCount:0	outCount:3	links:4211	url:D004211	name:Coagulopathies, Consumption	normalName:coagulopathies, consumption	normalWikiTitle:coagulopathies, consumption	predictedType:Disease
+ENTITY	text:thrombi	normalName:thrombi	predictedType:disease	q:true	qid:Q2	docId:448423	origText:thrombi	url:D013927
+CANDIDATE	id:13927	inCount:4	outCount:1	links:13927	url:D013927	name:Thrombosis	normalName:thrombosis	normalWikiTitle:thrombosis	predictedType:Disease
+CANDIDATE	id:19851	inCount:16	outCount:1	links:19851	url:D019851	name:Thrombophilia	normalName:thrombophilia	normalWikiTitle:thrombophilia	predictedType:Disease
+CANDIDATE	id:13915	inCount:3	outCount:3	links:13915	url:D013915	name:Thrombasthenia	normalName:thrombasthenia	normalWikiTitle:thrombasthenia	predictedType:Disease
+CANDIDATE	id:13922	inCount:4	outCount:2	links:13922	url:D013922	name:Thrombocytosis	normalName:thrombocytosis	normalWikiTitle:thrombocytosis	predictedType:Disease
+CANDIDATE	id:13923	inCount:3	outCount:1	links:13923	url:D013923	name:Thromboembolism	normalName:thromboembolism	normalWikiTitle:thromboembolism	predictedType:Disease
+CANDIDATE	id:13924	inCount:1	outCount:2	links:13924	url:D013924	name:Thrombophlebitis	normalName:thrombophlebitis	normalWikiTitle:thrombophlebitis	predictedType:Disease
+CANDIDATE	id:13921	inCount:42	outCount:1	links:13921	url:D013921	name:Thrombocytopenia	normalName:thrombocytopenia	normalWikiTitle:thrombocytopenia	predictedType:Disease
+CANDIDATE	id:4480	inCount:21	outCount:1	links:	url:D004480	name:Ectromelia	normalName:ectromelia	normalWikiTitle:ectromelia	predictedType:Disease
+CANDIDATE	id:20246	inCount:5	outCount:1	links:	url:D020246	name:Venous Thrombosis	normalName:venous thrombosis	normalWikiTitle:venous thrombosis	predictedType:Disease
+CANDIDATE	id:13798	inCount:0	outCount:2	links:	url:D013798	name:Thecoma	normalName:thecoma	normalWikiTitle:thecoma	predictedType:Disease
+ENTITY	text:thromboembolic phenomena	normalName:thromboembolic phenomena	predictedType:disease	q:true	qid:Q2	docId:448423	origText:thromboembolic phenomena	url:D013923
+CANDIDATE	id:13923	inCount:3	outCount:1	links:13923	url:D013923	name:Thromboembolism	normalName:thromboembolism	normalWikiTitle:thromboembolism	predictedType:Disease
+CANDIDATE	id:13920	inCount:0	outCount:3	links:	url:D013920	name:Thrombocythemia, Essential	normalName:thrombocythemia, essential	normalWikiTitle:thrombocythemia, essential	predictedType:Disease
+CANDIDATE	id:536900	inCount:0	outCount:1	links:	url:C536900	name:Thrombomodulin anomalies, familial	normalName:thrombomodulin anomalies, familial	normalWikiTitle:thrombomodulin anomalies, familial	predictedType:Disease
+CANDIDATE	id:540694	inCount:0	outCount:1	links:	url:C540694	name:Thrombophilia, hereditary	normalName:thrombophilia, hereditary	normalWikiTitle:thrombophilia, hereditary	predictedType:Disease
+CANDIDATE	id:54556	inCount:0	outCount:1	links:	url:D054556	name:Venous Thromboembolism	normalName:venous thromboembolism	normalWikiTitle:venous thromboembolism	predictedType:Disease
+CANDIDATE	id:3328	inCount:0	outCount:2	links:3328	url:D003328	name:Coronary Thrombosis	normalName:coronary thrombosis	normalWikiTitle:coronary thrombosis	predictedType:Disease
+CANDIDATE	id:238	inCount:0	outCount:2	links:	url:D000238	name:Adenoma, Chromophobe	normalName:adenoma, chromophobe	normalWikiTitle:adenoma, chromophobe	predictedType:Disease
+CANDIDATE	id:54318	inCount:0	outCount:2	links:	url:D054318	name:No-Reflow Phenomenon	normalName:no-reflow phenomenon	normalWikiTitle:no-reflow phenomenon	predictedType:Disease
+CANDIDATE	id:57180	inCount:13	outCount:1	links:	url:D057180	name:Frontotemporal Dementia	normalName:frontotemporal dementia	normalWikiTitle:frontotemporal dementia	predictedType:Disease
+CANDIDATE	id:743	inCount:20	outCount:1	links:	url:D000743	name:Anemia, Hemolytic	normalName:anemia, hemolytic	normalWikiTitle:anemia, hemolytic	predictedType:Disease
+CANDIDATE	id:11655	inCount:3	outCount:2	links:	url:D011655	name:Pulmonary Thromboembolism	normalName:pulmonary thromboembolism	normalWikiTitle:pulmonary thromboembolism	predictedType:Disease
+CANDIDATE	id:11655	inCount:3	outCount:2	links:	url:D011655	name:Thromboembolism, Pulmonary	normalName:thromboembolism, pulmonary	normalWikiTitle:thromboembolism, pulmonary	predictedType:Disease
+CANDIDATE	id:11655	inCount:3	outCount:2	links:	url:D011655	name:Thromboembolisms, Pulmonary	normalName:thromboembolisms, pulmonary	normalWikiTitle:thromboembolisms, pulmonary	predictedType:Disease
+CANDIDATE	id:11655	inCount:3	outCount:2	links:	url:D011655	name:Pulmonary Thromboembolisms	normalName:pulmonary thromboembolisms	normalWikiTitle:pulmonary thromboembolisms	predictedType:Disease
+ENTITY	text:thrombotic	normalName:thrombotic	predictedType:disease	q:true	qid:Q2	docId:448423	origText:thrombotic	url:D013927
+CANDIDATE	id:13927	inCount:4	outCount:1	links:13927	url:D013927	name:Thrombosis	normalName:thrombosis	normalWikiTitle:thrombosis	predictedType:Disease
+CANDIDATE	id:13922	inCount:4	outCount:2	links:13922	url:D013922	name:Thrombocytosis	normalName:thrombocytosis	normalWikiTitle:thrombocytosis	predictedType:Disease
+CANDIDATE	id:19851	inCount:16	outCount:1	links:19851	url:D019851	name:Thrombophilia	normalName:thrombophilia	normalWikiTitle:thrombophilia	predictedType:Disease
+CANDIDATE	id:13924	inCount:1	outCount:2	links:13924	url:D013924	name:Thrombophlebitis	normalName:thrombophlebitis	normalWikiTitle:thrombophlebitis	predictedType:Disease
+CANDIDATE	id:13921	inCount:42	outCount:1	links:13921	url:D013921	name:Thrombocytopenia	normalName:thrombocytopenia	normalWikiTitle:thrombocytopenia	predictedType:Disease
+CANDIDATE	id:13915	inCount:3	outCount:3	links:13915	url:D013915	name:Thrombasthenia	normalName:thrombasthenia	normalWikiTitle:thrombasthenia	predictedType:Disease
+CANDIDATE	id:567438	inCount:0	outCount:1	links:	url:C567438	name:Thrombocytopenia 4	normalName:thrombocytopenia 4	normalWikiTitle:thrombocytopenia 4	predictedType:Disease
+CANDIDATE	id:616937	inCount:0	outCount:1	links:	url:616937	name:THROMBOCYTOPENIA 6	normalName:thrombocytopenia 6	normalWikiTitle:thrombocytopenia 6	predictedType:Disease
+CANDIDATE	id:567487	inCount:0	outCount:1	links:	url:C567487	name:Thrombocytopenia 3	normalName:thrombocytopenia 3	normalWikiTitle:thrombocytopenia 3	predictedType:Disease
+CANDIDATE	id:564052	inCount:0	outCount:2	links:	url:C564052	name:Thrombocytopenia 1	normalName:thrombocytopenia 1	normalWikiTitle:thrombocytopenia 1	predictedType:Disease

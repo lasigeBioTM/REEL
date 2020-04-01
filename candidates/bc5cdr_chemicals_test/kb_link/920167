@@ -1,0 +1,4 @@
+ENTITY	text:heparin	normalName:heparin	predictedType:chemical	q:true	qid:Q77	docId:920167	origText:heparin	url:D006493
+CANDIDATE	id:6493	inCount:75	outCount:1	links:	url:D006493	name:Heparin	normalName:heparin	normalWikiTitle:heparin	predictedType:Chemical
+ENTITY	text:warfarin	normalName:warfarin	predictedType:chemical	q:true	qid:Q77	docId:920167	origText:warfarin	url:D014859
+CANDIDATE	id:14859	inCount:14	outCount:1	links:	url:D014859	name:Warfarin	normalName:warfarin	normalWikiTitle:warfarin	predictedType:Chemical

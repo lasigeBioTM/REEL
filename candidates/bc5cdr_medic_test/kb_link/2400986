@@ -1,0 +1,55 @@
+ENTITY	text:neurotoxic	normalName:neurotoxic	predictedType:disease	q:true	qid:Q109	docId:2400986	origText:neurotoxic	url:D020258
+CANDIDATE	id:20258	inCount:7	outCount:2	links:20258	url:D020258	name:Neurotoxicity Syndromes	normalName:neurotoxicity syndromes	normalWikiTitle:neurotoxicity syndromes	predictedType:Disease
+CANDIDATE	id:4767	inCount:0	outCount:2	links:4767	url:D004767	name:Enterotoxemia	normalName:enterotoxemia	normalWikiTitle:enterotoxemia	predictedType:Disease
+CANDIDATE	id:9443	inCount:2	outCount:1	links:9443	url:D009443	name:Neuritis	normalName:neuritis	normalWikiTitle:neuritis	predictedType:Disease
+CANDIDATE	id:18306	inCount:0	outCount:2	links:18306	url:D018306	name:Neurocytoma	normalName:neurocytoma	normalWikiTitle:neurocytoma	predictedType:Disease
+CANDIDATE	id:9902	inCount:1	outCount:1	links:9902	url:D009902	name:Optic Neuritis	normalName:optic neuritis	normalWikiTitle:optic neuritis	predictedType:Disease
+CANDIDATE	id:11030	inCount:3	outCount:1	links:	url:D011030	name:Pneumothorax	normalName:pneumothorax	normalWikiTitle:pneumothorax	predictedType:Disease
+CANDIDATE	id:1014	inCount:5	outCount:2	links:	url:D001014	name:Aortic Aneurysm	normalName:aortic aneurysm	normalWikiTitle:aortic aneurysm	predictedType:Disease
+CANDIDATE	id:18321	inCount:0	outCount:2	links:	url:D018321	name:Neurothekeoma	normalName:neurothekeoma	normalWikiTitle:neurothekeoma	predictedType:Disease
+CANDIDATE	id:9447	inCount:2	outCount:1	links:9447	url:D009447	name:Neuroblastoma	normalName:neuroblastoma	normalWikiTitle:neuroblastoma	predictedType:Disease
+CANDIDATE	id:14987	inCount:1	outCount:1	links:	url:D014987	name:Xerostomia	normalName:xerostomia	normalWikiTitle:xerostomia	predictedType:Disease
+ENTITY	text:seizures	normalName:seizures	predictedType:disease	q:true	qid:Q109	docId:2400986	origText:seizures	url:D012640
+CANDIDATE	id:12640	inCount:53	outCount:1	links:	url:D012640	name:Seizure	normalName:seizure	normalWikiTitle:seizure	predictedType:Disease
+ENTITY	text:neurological symptoms	normalName:neurological symptoms	predictedType:disease	q:true	qid:Q109	docId:2400986	origText:neurological symptoms	url:D009461
+CANDIDATE	id:9461	inCount:26	outCount:2	links:	url:D009461	name:Neurologic Signs and Symptoms	normalName:neurologic signs and symptoms	normalWikiTitle:neurologic signs and symptoms	predictedType:Disease
+CANDIDATE	id:62706	inCount:0	outCount:1	links:	url:D062706	name:Prodromal Symptoms	normalName:prodromal symptoms	normalWikiTitle:prodromal symptoms	predictedType:Disease
+CANDIDATE	id:9447	inCount:2	outCount:1	links:9447	url:D009447	name:Neuroblastoma	normalName:neuroblastoma	normalWikiTitle:neuroblastoma	predictedType:Disease
+CANDIDATE	id:20258	inCount:7	outCount:2	links:20258	url:D020258	name:Neurotoxicity Syndromes	normalName:neurotoxicity syndromes	normalWikiTitle:neurotoxicity syndromes	predictedType:Disease
+CANDIDATE	id:77162	inCount:0	outCount:1	links:	url:D000077162	name:Neurolymphomatosis	normalName:neurolymphomatosis	normalWikiTitle:neurolymphomatosis	predictedType:Disease
+CANDIDATE	id:18306	inCount:0	outCount:2	links:18306	url:D018306	name:Neurocytoma	normalName:neurocytoma	normalWikiTitle:neurocytoma	predictedType:Disease
+CANDIDATE	id:6610	inCount:0	outCount:2	links:	url:D006610	name:High Pressure Neurological Syndrome	normalName:high pressure neurological syndrome	normalWikiTitle:high pressure neurological syndrome	predictedType:Disease
+CANDIDATE	id:537388	inCount:0	outCount:5	links:	url:C537388	name:Neurofaciodigitorenal syndrome	normalName:neurofaciodigitorenal syndrome	normalWikiTitle:neurofaciodigitorenal syndrome	predictedType:Disease
+CANDIDATE	id:20752	inCount:17	outCount:2	links:	url:D020752	name:Neurocutaneous Syndromes	normalName:neurocutaneous syndromes	normalWikiTitle:neurocutaneous syndromes	predictedType:Disease
+CANDIDATE	id:9958	inCount:16	outCount:5	links:	url:D009958	name:Orofaciodigital Syndromes	normalName:orofaciodigital syndromes	normalWikiTitle:orofaciodigital syndromes	predictedType:Disease
+CANDIDATE	id:13568	inCount:4	outCount:1	links:	url:D013568	name:Pathological Conditions, Signs and Symptoms	normalName:pathological conditions, signs and symptoms	normalWikiTitle:pathological conditions, signs and symptoms	predictedType:Disease
+CANDIDATE	id:9461	inCount:26	outCount:2	links:	url:D009461	name:Symptoms, Neurologic	normalName:symptoms, neurologic	normalWikiTitle:symptoms, neurologic	predictedType:Disease
+CANDIDATE	id:9461	inCount:26	outCount:2	links:	url:D009461	name:Neurologic Symptoms	normalName:neurologic symptoms	normalWikiTitle:neurologic symptoms	predictedType:Disease
+CANDIDATE	id:9461	inCount:26	outCount:2	links:	url:D009461	name:Symptom, Neurologic	normalName:symptom, neurologic	normalWikiTitle:symptom, neurologic	predictedType:Disease
+CANDIDATE	id:9461	inCount:26	outCount:2	links:	url:D009461	name:Neurologic Symptom	normalName:neurologic symptom	normalWikiTitle:neurologic symptom	predictedType:Disease
+ENTITY	text:brain tumors	normalName:brain tumors	predictedType:disease	q:true	qid:Q109	docId:2400986	origText:brain tumors	url:D001932
+CANDIDATE	id:1932	inCount:16	outCount:2	links:	url:D001932	name:Brain Tumor	normalName:brain tumor	normalWikiTitle:brain tumor	predictedType:Disease
+ENTITY	text:central nervous system disease	normalName:central nervous system disease	predictedType:disease	q:true	qid:Q109	docId:2400986	origText:central nervous system disease	url:D002493
+CANDIDATE	id:2493	inCount:15	outCount:1	links:	url:D002493	name:Central Nervous System Diseases	normalName:central nervous system diseases	normalWikiTitle:central nervous system diseases	predictedType:Disease
+CANDIDATE	id:20805	inCount:7	outCount:2	links:	url:D020805	name:Central Nervous System Viral Diseases	normalName:central nervous system viral diseases	normalWikiTitle:central nervous system viral diseases	predictedType:Disease
+CANDIDATE	id:20863	inCount:5	outCount:2	links:	url:D020863	name:Central Nervous System Cysts	normalName:central nervous system cysts	normalWikiTitle:central nervous system cysts	predictedType:Disease
+CANDIDATE	id:16543	inCount:4	outCount:1	links:	url:D016543	name:Central Nervous System Neoplasms	normalName:central nervous system neoplasms	normalWikiTitle:central nervous system neoplasms	predictedType:Disease
+CANDIDATE	id:2494	inCount:12	outCount:2	links:	url:D002494	name:Central Nervous System Infections	normalName:central nervous system infections	normalWikiTitle:central nervous system infections	predictedType:Disease
+CANDIDATE	id:9422	inCount:27	outCount:1	links:	url:D009422	name:Nervous System Diseases	normalName:nervous system diseases	normalWikiTitle:nervous system diseases	predictedType:Disease
+CANDIDATE	id:20809	inCount:2	outCount:1	links:	url:D020809	name:Central Nervous System Helminthiasis	normalName:central nervous system helminthiasis	normalWikiTitle:central nervous system helminthiasis	predictedType:Disease
+CANDIDATE	id:1342	inCount:11	outCount:1	links:	url:D001342	name:Autonomic Nervous System Diseases	normalName:autonomic nervous system diseases	normalWikiTitle:autonomic nervous system diseases	predictedType:Disease
+CANDIDATE	id:20314	inCount:2	outCount:2	links:	url:D020314	name:Central Nervous System Fungal Infections	normalName:central nervous system fungal infections	normalWikiTitle:central nervous system fungal infections	predictedType:Disease
+CANDIDATE	id:20806	inCount:4	outCount:2	links:	url:D020806	name:Central Nervous System Bacterial Infections	normalName:central nervous system bacterial infections	normalWikiTitle:central nervous system bacterial infections	predictedType:Disease
+ENTITY	text:neurotoxicity	normalName:neurotoxicity	predictedType:disease	q:true	qid:Q109	docId:2400986	origText:neurotoxicity	url:D020258
+CANDIDATE	id:20258	inCount:7	outCount:2	links:20258	url:D020258	name:Neurotoxicity Syndromes	normalName:neurotoxicity syndromes	normalWikiTitle:neurotoxicity syndromes	predictedType:Disease
+CANDIDATE	id:66126	inCount:0	outCount:3	links:	url:D066126	name:Cardiotoxicity	normalName:cardiotoxicity	normalWikiTitle:cardiotoxicity	predictedType:Disease
+CANDIDATE	id:7246	inCount:2	outCount:2	links:	url:D007246	name:Infertility	normalName:infertility	normalWikiTitle:infertility	predictedType:Disease
+CANDIDATE	id:4767	inCount:0	outCount:2	links:4767	url:D004767	name:Enterotoxemia	normalName:enterotoxemia	normalWikiTitle:enterotoxemia	predictedType:Disease
+CANDIDATE	id:13971	inCount:2	outCount:1	links:	url:D013971	name:Thyrotoxicosis	normalName:thyrotoxicosis	normalWikiTitle:thyrotoxicosis	predictedType:Disease
+CANDIDATE	id:9902	inCount:1	outCount:1	links:9902	url:D009902	name:Optic Neuritis	normalName:optic neuritis	normalWikiTitle:optic neuritis	predictedType:Disease
+CANDIDATE	id:20426	inCount:2	outCount:1	links:	url:D020426	name:Sciatic Neuropathy	normalName:sciatic neuropathy	normalWikiTitle:sciatic neuropathy	predictedType:Disease
+CANDIDATE	id:18306	inCount:0	outCount:2	links:18306	url:D018306	name:Neurocytoma	normalName:neurocytoma	normalWikiTitle:neurocytoma	predictedType:Disease
+CANDIDATE	id:20019	inCount:0	outCount:2	links:	url:D020019	name:Neurocysticercosis	normalName:neurocysticercosis	normalWikiTitle:neurocysticercosis	predictedType:Disease
+CANDIDATE	id:9443	inCount:2	outCount:1	links:9443	url:D009443	name:Neuritis	normalName:neuritis	normalWikiTitle:neuritis	predictedType:Disease
+ENTITY	text:tumors	normalName:tumors	predictedType:disease	q:true	qid:Q109	docId:2400986	origText:tumors	url:D009369
+CANDIDATE	id:9369	inCount:18	outCount:1	links:	url:D009369	name:Tumor	normalName:tumor	normalWikiTitle:tumor	predictedType:Disease

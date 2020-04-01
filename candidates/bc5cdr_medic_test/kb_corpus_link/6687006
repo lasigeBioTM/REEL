@@ -1,0 +1,24 @@
+ENTITY	text:hyperactivity	normalName:hyperactivity	predictedType:disease	q:true	qid:Q366	docId:6687006	origText:hyperactivity	url:D006948
+CANDIDATE	id:6948	inCount:1	outCount:1	links:	url:D006948	name:Hyperactivity, Motor	normalName:hyperactivity, motor	normalWikiTitle:hyperactivity, motor	predictedType:Disease
+CANDIDATE	id:6967	inCount:9	outCount:1	links:	url:D006967	name:Hypersensitivity	normalName:hypersensitivity	normalWikiTitle:hypersensitivity	predictedType:Disease
+CANDIDATE	id:16535	inCount:0	outCount:1	links:	url:D016535	name:Bronchial Hyperreactivity	normalName:bronchial hyperreactivity	normalWikiTitle:bronchial hyperreactivity	predictedType:Disease
+CANDIDATE	id:21184	inCount:0	outCount:1	links:	url:D021184	name:Nut Hypersensitivity	normalName:nut hypersensitivity	normalWikiTitle:nut hypersensitivity	predictedType:Disease
+CANDIDATE	id:53565	inCount:6	outCount:1	links:	url:D053565	name:Hypercalciuria	normalName:hypercalciuria	normalWikiTitle:hypercalciuria	predictedType:Disease
+CANDIDATE	id:21181	inCount:0	outCount:1	links:	url:D021181	name:Egg Hypersensitivity	normalName:egg hypersensitivity	normalWikiTitle:egg hypersensitivity	predictedType:Disease
+CANDIDATE	id:12001	inCount:0	outCount:1	links:	url:D012001	name:Hyperacusis	normalName:hyperacusis	normalWikiTitle:hyperacusis	predictedType:Disease
+CANDIDATE	id:5512	inCount:5	outCount:1	links:	url:D005512	name:Food Hypersensitivity	normalName:food hypersensitivity	normalWikiTitle:food hypersensitivity	predictedType:Disease
+CANDIDATE	id:569627	inCount:0	outCount:1	links:	url:C569627	name:Cold Hypersensitivity	normalName:cold hypersensitivity	normalWikiTitle:cold hypersensitivity	predictedType:Disease
+CANDIDATE	id:6966	inCount:1	outCount:1	links:	url:D006966	name:Hyperprolactinemia	normalName:hyperprolactinemia	normalWikiTitle:hyperprolactinemia	predictedType:Disease
+CANDIDATE	id:16269	inCount:0	outCount:1	links:	url:D016269	name:Milk Hypersensitivity	normalName:milk hypersensitivity	normalWikiTitle:milk hypersensitivity	predictedType:Disease
+CANDIDATE	id:6948	inCount:1	outCount:1	links:	url:D006948	name:Motor Hyperactivity	normalName:motor hyperactivity	normalWikiTitle:motor hyperactivity	predictedType:Disease
+ENTITY	text:neurotoxic	normalName:neurotoxic	predictedType:disease	q:true	qid:Q366	docId:6687006	origText:neurotoxic	url:D020258
+CANDIDATE	id:20258	inCount:7	outCount:2	links:	url:D020258	name:Neurotoxicity Syndromes	normalName:neurotoxicity syndromes	normalWikiTitle:neurotoxicity syndromes	predictedType:Disease
+CANDIDATE	id:4767	inCount:0	outCount:2	links:	url:D004767	name:Enterotoxemia	normalName:enterotoxemia	normalWikiTitle:enterotoxemia	predictedType:Disease
+CANDIDATE	id:9443	inCount:2	outCount:1	links:	url:D009443	name:Neuritis	normalName:neuritis	normalWikiTitle:neuritis	predictedType:Disease
+CANDIDATE	id:18306	inCount:0	outCount:2	links:	url:D018306	name:Neurocytoma	normalName:neurocytoma	normalWikiTitle:neurocytoma	predictedType:Disease
+CANDIDATE	id:9902	inCount:1	outCount:1	links:	url:D009902	name:Optic Neuritis	normalName:optic neuritis	normalWikiTitle:optic neuritis	predictedType:Disease
+CANDIDATE	id:11030	inCount:3	outCount:1	links:	url:D011030	name:Pneumothorax	normalName:pneumothorax	normalWikiTitle:pneumothorax	predictedType:Disease
+CANDIDATE	id:1014	inCount:5	outCount:2	links:	url:D001014	name:Aortic Aneurysm	normalName:aortic aneurysm	normalWikiTitle:aortic aneurysm	predictedType:Disease
+CANDIDATE	id:18321	inCount:0	outCount:2	links:	url:D018321	name:Neurothekeoma	normalName:neurothekeoma	normalWikiTitle:neurothekeoma	predictedType:Disease
+CANDIDATE	id:9447	inCount:2	outCount:1	links:	url:D009447	name:Neuroblastoma	normalName:neuroblastoma	normalWikiTitle:neuroblastoma	predictedType:Disease
+CANDIDATE	id:14987	inCount:1	outCount:1	links:	url:D014987	name:Xerostomia	normalName:xerostomia	normalWikiTitle:xerostomia	predictedType:Disease

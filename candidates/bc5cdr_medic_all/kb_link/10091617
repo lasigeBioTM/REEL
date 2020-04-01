@@ -1,0 +1,17 @@
+ENTITY	text:Parkinson's disease	normalName:parkinson's disease	predictedType:disease	q:true	qid:Q23	docId:10091617	origText:Parkinson's disease	url:D010300
+CANDIDATE	id:10300	inCount:31	outCount:2	links:	url:D010300	name:Parkinson's Disease	normalName:parkinson's disease	normalWikiTitle:parkinson's disease	predictedType:Disease
+ENTITY	text:orthostatic hypotension	normalName:orthostatic hypotension	predictedType:disease	q:true	qid:Q23	docId:10091617	origText:orthostatic hypotension	url:D007024
+CANDIDATE	id:7024	inCount:2	outCount:2	links:7024	url:D007024	name:Hypotension, Orthostatic	normalName:hypotension, orthostatic	normalWikiTitle:hypotension, orthostatic	predictedType:Disease
+ENTITY	text:postural hypotension	normalName:postural hypotension	predictedType:disease	q:true	qid:Q23	docId:10091617	origText:postural hypotension	url:D007024
+CANDIDATE	id:7024	inCount:2	outCount:2	links:7024	url:D007024	name:Hypotension, Postural	normalName:hypotension, postural	normalWikiTitle:hypotension, postural	predictedType:Disease
+ENTITY	text:systolic orthostatic hypotension	normalName:systolic orthostatic hypotension	predictedType:disease	q:true	qid:Q23	docId:10091617	origText:systolic orthostatic hypotension	url:D007024
+CANDIDATE	id:7024	inCount:2	outCount:2	links:7024	url:D007024	name:Hypotension, Orthostatic	normalName:hypotension, orthostatic	normalWikiTitle:hypotension, orthostatic	predictedType:Disease
+CANDIDATE	id:544351	inCount:0	outCount:2	links:	url:C544351	name:Idiopathic orthostatic hypotension	normalName:idiopathic orthostatic hypotension	normalWikiTitle:idiopathic orthostatic hypotension	predictedType:Disease
+CANDIDATE	id:537381	inCount:0	outCount:1	links:	url:C537381	name:Multiple system atrophy (MSA) with orthostatic hypotension	normalName:multiple system atrophy (msa) with orthostatic hypotension	normalWikiTitle:multiple system atrophy (msa) with orthostatic hypotension	predictedType:Disease
+CANDIDATE	id:6975	inCount:3	outCount:1	links:	url:D006975	name:Hypertension, Portal	normalName:hypertension, portal	normalWikiTitle:hypertension, portal	predictedType:Disease
+CANDIDATE	id:564174	inCount:0	outCount:1	links:	url:C564174	name:Orthostatic Hypotensive Disorder, Streeten Type	normalName:orthostatic hypotensive disorder, streeten type	normalWikiTitle:orthostatic hypotensive disorder, streeten type	predictedType:Disease
+CANDIDATE	id:15814	inCount:0	outCount:1	links:	url:D015814	name:Ocular Hypotension	normalName:ocular hypotension	normalWikiTitle:ocular hypotension	predictedType:Disease
+CANDIDATE	id:19585	inCount:0	outCount:1	links:	url:D019585	name:Intracranial Hypotension	normalName:intracranial hypotension	normalWikiTitle:intracranial hypotension	predictedType:Disease
+CANDIDATE	id:11470	inCount:1	outCount:1	links:	url:D011470	name:Prostatic Hyperplasia	normalName:prostatic hyperplasia	normalWikiTitle:prostatic hyperplasia	predictedType:Disease
+CANDIDATE	id:563897	inCount:0	outCount:1	links:	url:C563897	name:Hypertension, Diastolic, Resistance to	normalName:hypertension, diastolic, resistance to	normalWikiTitle:hypertension, diastolic, resistance to	predictedType:Disease
+CANDIDATE	id:6978	inCount:0	outCount:1	links:	url:D006978	name:Hypertension, Renovascular	normalName:hypertension, renovascular	normalWikiTitle:hypertension, renovascular	predictedType:Disease

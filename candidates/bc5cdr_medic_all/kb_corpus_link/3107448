@@ -1,0 +1,6 @@
+ENTITY	text:viral infection	normalName:viral infection	predictedType:disease	q:true	qid:Q1446	docId:3107448	origText:viral infection	url:D014777
+CANDIDATE	id:14777	inCount:20	outCount:1	links:	url:D014777	name:Infection, Viral	normalName:infection, viral	normalWikiTitle:infection, viral	predictedType:Disease
+ENTITY	text:type II diabetes mellitus	normalName:type ii diabetes mellitus	predictedType:disease	q:true	qid:Q1446	docId:3107448	origText:type II diabetes mellitus	url:D003924
+CANDIDATE	id:3924	inCount:19	outCount:1	links:	url:D003924	name:Diabetes Mellitus, Type II	normalName:diabetes mellitus, type ii	normalWikiTitle:diabetes mellitus, type ii	predictedType:Disease
+ENTITY	text:drug-induced hepatitis	normalName:drug-induced hepatitis	predictedType:disease	q:true	qid:Q1446	docId:3107448	origText:drug-induced hepatitis	url:D056486
+CANDIDATE	id:56486	inCount:2	outCount:3	links:	url:D056486	name:Hepatitis, Drug Induced	normalName:hepatitis, drug induced	normalWikiTitle:hepatitis, drug induced	predictedType:Disease

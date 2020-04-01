@@ -1,0 +1,34 @@
+ENTITY	text:increased cardiac output	normalName:increased cardiac output	predictedType:disease	q:true	qid:Q1058	docId:2722224	origText:increased cardiac output	url:D016534
+CANDIDATE	id:16534	inCount:0	outCount:2	links:7022	url:D016534	name:Cardiac Output, High	normalName:cardiac output, high	normalWikiTitle:cardiac output, high	predictedType:Disease
+CANDIDATE	id:2303	inCount:0	outCount:2	links:7022	url:D002303	name:Cardiac Output, Low	normalName:cardiac output, low	normalWikiTitle:cardiac output, low	predictedType:Disease
+CANDIDATE	id:567062	inCount:0	outCount:1	links:	url:C567062	name:Fabry Disease, Cardiac Variant	normalName:fabry disease, cardiac variant	normalWikiTitle:fabry disease, cardiac variant	predictedType:Disease
+CANDIDATE	id:566156	inCount:0	outCount:1	links:	url:C566156	name:Cataract, Nuclear Total	normalName:cataract, nuclear total	normalWikiTitle:cataract, nuclear total	predictedType:Disease
+CANDIDATE	id:5536	inCount:0	outCount:2	links:	url:D005536	name:Foot-and-Mouth Disease	normalName:foot-and-mouth disease	normalWikiTitle:foot-and-mouth disease	predictedType:Disease
+CANDIDATE	id:75224	inCount:12	outCount:1	links:	url:D000075224	name:Cardiac Conduction System Disease	normalName:cardiac conduction system disease	normalWikiTitle:cardiac conduction system disease	predictedType:Disease
+CANDIDATE	id:5117	inCount:3	outCount:2	links:	url:D005117	name:Cardiac Complexes, Premature	normalName:cardiac complexes, premature	normalWikiTitle:cardiac complexes, premature	predictedType:Disease
+CANDIDATE	id:531647	inCount:0	outCount:1	links:	url:C531647	name:Caroli disease isolated	normalName:caroli disease isolated	normalWikiTitle:caroli disease isolated	predictedType:Disease
+CANDIDATE	id:50500	inCount:4	outCount:1	links:	url:D050500	name:Pancreatitis, Chronic	normalName:pancreatitis, chronic	normalWikiTitle:pancreatitis, chronic	predictedType:Disease
+CANDIDATE	id:562463	inCount:0	outCount:1	links:	url:C562463	name:Pancreatic Carcinoma	normalName:pancreatic carcinoma	normalWikiTitle:pancreatic carcinoma	predictedType:Disease
+ENTITY	text:hypertension	normalName:hypertension	predictedType:disease	q:true	qid:Q1058	docId:2722224	origText:hypertension	url:D006973
+CANDIDATE	id:6973	inCount:18	outCount:1	links:7022	url:D006973	name:Hypertension	normalName:hypertension	normalWikiTitle:hypertension	predictedType:Disease
+ENTITY	text:rise in resting blood pressure	normalName:rise in resting blood pressure	predictedType:disease	q:true	qid:Q1058	docId:2722224	origText:rise in resting blood pressure	url:D006973
+CANDIDATE	id:6973	inCount:18	outCount:1	links:7022	url:D006973	name:Blood Pressure, High	normalName:blood pressure, high	normalWikiTitle:blood pressure, high	predictedType:Disease
+CANDIDATE	id:1796	inCount:12	outCount:1	links:	url:D001796	name:Blood Protein Disorders	normalName:blood protein disorders	normalWikiTitle:blood protein disorders	predictedType:Disease
+CANDIDATE	id:25861	inCount:32	outCount:2	links:	url:D025861	name:Blood Coagulation Disorders, Inherited	normalName:blood coagulation disorders, inherited	normalWikiTitle:blood coagulation disorders, inherited	predictedType:Disease
+CANDIDATE	id:7299	inCount:0	outCount:1	links:	url:D007299	name:Insect Bites and Stings	normalName:insect bites and stings	normalWikiTitle:insect bites and stings	predictedType:Disease
+CANDIDATE	id:18467	inCount:0	outCount:1	links:	url:D018467	name:Positive-Pressure Respiration, Intrinsic	normalName:positive-pressure respiration, intrinsic	normalWikiTitle:positive-pressure respiration, intrinsic	predictedType:Disease
+CANDIDATE	id:1733	inCount:6	outCount:2	links:	url:D001733	name:Bites and Stings	normalName:bites and stings	normalWikiTitle:bites and stings	predictedType:Disease
+CANDIDATE	id:176430	inCount:0	outCount:1	links:	url:176430	name:PREMATURE CHROMATID SEPARATION TRAIT	normalName:premature chromatid separation trait	normalWikiTitle:premature chromatid separation trait	predictedType:Disease
+CANDIDATE	id:6610	inCount:0	outCount:2	links:	url:D006610	name:High Pressure Neurological Syndrome	normalName:high pressure neurological syndrome	normalWikiTitle:high pressure neurological syndrome	predictedType:Disease
+CANDIDATE	id:1791	inCount:29	outCount:1	links:	url:D001791	name:Blood Platelet Disorders	normalName:blood platelet disorders	normalWikiTitle:blood platelet disorders	predictedType:Disease
+CANDIDATE	id:565275	inCount:0	outCount:1	links:	url:C565275	name:Bleeding Disorder, East Texas Type	normalName:bleeding disorder, east texas type	normalWikiTitle:bleeding disorder, east texas type	predictedType:Disease
+CANDIDATE	id:564035	inCount:0	outCount:2	links:	url:C564035	name:Retinitis Pigmentosa, Y-Linked	normalName:retinitis pigmentosa, y-linked	normalWikiTitle:retinitis pigmentosa, y-linked	predictedType:Disease
+CANDIDATE	id:6973	inCount:18	outCount:1	links:7022	url:D006973	name:High Blood Pressures	normalName:high blood pressures	normalWikiTitle:high blood pressures	predictedType:Disease
+CANDIDATE	id:6973	inCount:18	outCount:1	links:7022	url:D006973	name:Blood Pressures, High	normalName:blood pressures, high	normalWikiTitle:blood pressures, high	predictedType:Disease
+CANDIDATE	id:6973	inCount:18	outCount:1	links:7022	url:D006973	name:High Blood Pressure	normalName:high blood pressure	normalWikiTitle:high blood pressure	predictedType:Disease
+CANDIDATE	id:7022	inCount:3	outCount:1	links:16534;2303;6973	url:D007022	name:Low Blood Pressure	normalName:low blood pressure	normalWikiTitle:low blood pressure	predictedType:Disease
+CANDIDATE	id:7022	inCount:3	outCount:1	links:16534;2303;6973	url:D007022	name:Blood Pressure, Low	normalName:blood pressure, low	normalWikiTitle:blood pressure, low	predictedType:Disease
+CANDIDATE	id:784	inCount:4	outCount:1	links:	url:D000784	name:Dissection, Blood Vessel	normalName:dissection, blood vessel	normalWikiTitle:dissection, blood vessel	predictedType:Disease
+CANDIDATE	id:784	inCount:4	outCount:1	links:	url:D000784	name:Blood Vessel Dissection	normalName:blood vessel dissection	normalWikiTitle:blood vessel dissection	predictedType:Disease
+CANDIDATE	id:18467	inCount:0	outCount:1	links:	url:D018467	name:Respiration, Non-Therapeutic Positive-Pressure	normalName:respiration, non-therapeutic positive-pressure	normalWikiTitle:respiration, non-therapeutic positive-pressure	predictedType:Disease
+CANDIDATE	id:18467	inCount:0	outCount:1	links:	url:D018467	name:Positive Pressure Respiration, Non Therapeutic	normalName:positive pressure respiration, non therapeutic	normalWikiTitle:positive pressure respiration, non therapeutic	predictedType:Disease

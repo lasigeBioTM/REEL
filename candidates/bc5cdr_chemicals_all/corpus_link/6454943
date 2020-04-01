@@ -1,0 +1,23 @@
+ENTITY	text:sodium	normalName:sodium	predictedType:chemical	q:true	qid:Q860	docId:6454943	origText:sodium	url:D012964
+CANDIDATE	id:12964	inCount:10	outCount:2	links:	url:D012964	name:Sodium	normalName:sodium	normalWikiTitle:sodium	predictedType:Chemical
+ENTITY	text:captopril	normalName:captopril	predictedType:chemical	q:true	qid:Q860	docId:6454943	origText:captopril	url:D002216
+CANDIDATE	id:2216	inCount:17	outCount:1	links:11692	url:D002216	name:Captopril	normalName:captopril	normalWikiTitle:captopril	predictedType:Chemical
+ENTITY	text:potassium	normalName:potassium	predictedType:chemical	q:true	qid:Q860	docId:6454943	origText:potassium	url:D011188
+CANDIDATE	id:11188	inCount:10	outCount:2	links:	url:D011188	name:Potassium	normalName:potassium	normalWikiTitle:potassium	predictedType:Chemical
+ENTITY	text:creatinine	normalName:creatinine	predictedType:chemical	q:true	qid:Q860	docId:6454943	origText:creatinine	url:D003404
+CANDIDATE	id:3404	inCount:8	outCount:1	links:	url:D003404	name:Creatinine	normalName:creatinine	normalWikiTitle:creatinine	predictedType:Chemical
+ENTITY	text:puromycin aminonucleoside	normalName:puromycin aminonucleoside	predictedType:chemical	q:true	qid:Q860	docId:6454943	origText:puromycin aminonucleoside	url:D011692
+CANDIDATE	id:11692	inCount:4	outCount:2	links:2216	url:D011692	name:Puromycin Aminonucleoside	normalName:puromycin aminonucleoside	normalWikiTitle:puromycin aminonucleoside	predictedType:Chemical
+ENTITY	text:aminonucleoside	normalName:aminonucleoside	predictedType:chemical	q:true	qid:Q860	docId:6454943	origText:aminonucleoside	url:D011692
+CANDIDATE	id:11692	inCount:4	outCount:2	links:2216	url:D011692	name:Aminonucleoside	normalName:aminonucleoside	normalWikiTitle:aminonucleoside	predictedType:Chemical
+ENTITY	text:ketone	normalName:ketone	predictedType:chemical	q:true	qid:Q860	docId:6454943	origText:ketone	url:D007659
+CANDIDATE	id:7659	inCount:248	outCount:1	links:	url:D007659	name:Ketones	normalName:ketones	normalWikiTitle:ketones	predictedType:Chemical
+CANDIDATE	id:8223	inCount:0	outCount:2	links:	url:C008223	name:ketene	normalName:ketene	normalWikiTitle:ketene	predictedType:Chemical
+CANDIDATE	id:9816	inCount:0	outCount:1	links:	url:C009816	name:ketocaine	normalName:ketocaine	normalWikiTitle:ketocaine	predictedType:Chemical
+CANDIDATE	id:94208	inCount:0	outCount:1	links:	url:C094208	name:kievitone	normalName:kievitone	normalWikiTitle:kievitone	predictedType:Chemical
+CANDIDATE	id:4970	inCount:96	outCount:3	links:	url:D004970	name:Estrone	normalName:estrone	normalWikiTitle:estrone	predictedType:Chemical
+CANDIDATE	id:7661	inCount:26	outCount:1	links:	url:D007661	name:Ketoses	normalName:ketoses	normalWikiTitle:ketoses	predictedType:Chemical
+CANDIDATE	id:45628	inCount:0	outCount:1	links:	url:C045628	name:ectoine	normalName:ectoine	normalWikiTitle:ectoine	predictedType:Chemical
+CANDIDATE	id:33612	inCount:0	outCount:1	links:	url:C033612	name:elatone	normalName:elatone	normalWikiTitle:elatone	predictedType:Chemical
+CANDIDATE	id:96	inCount:66	outCount:1	links:	url:D000096	name:Acetone	normalName:acetone	normalWikiTitle:acetone	predictedType:Chemical
+CANDIDATE	id:510819	inCount:0	outCount:1	links:	url:C510819	name:okenone	normalName:okenone	normalWikiTitle:okenone	predictedType:Chemical

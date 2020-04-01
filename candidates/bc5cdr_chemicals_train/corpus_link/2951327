@@ -1,0 +1,10 @@
+ENTITY	text:epinephrine	normalName:epinephrine	predictedType:chemical	q:true	qid:Q285	docId:2951327	origText:epinephrine	url:D004837
+CANDIDATE	id:4837	inCount:33	outCount:3	links:9638	url:D004837	name:Epinephrine	normalName:epinephrine	normalWikiTitle:epinephrine	predictedType:Chemical
+ENTITY	text:sodium	normalName:sodium	predictedType:chemical	q:true	qid:Q285	docId:2951327	origText:sodium	url:D012964
+CANDIDATE	id:12964	inCount:10	outCount:2	links:	url:D012964	name:Sodium	normalName:sodium	normalWikiTitle:sodium	predictedType:Chemical
+ENTITY	text:norepinephrine	normalName:norepinephrine	predictedType:chemical	q:true	qid:Q285	docId:2951327	origText:norepinephrine	url:D009638
+CANDIDATE	id:9638	inCount:31	outCount:4	links:4837	url:D009638	name:Norepinephrine	normalName:norepinephrine	normalWikiTitle:norepinephrine	predictedType:Chemical
+ENTITY	text:hydralazine	normalName:hydralazine	predictedType:chemical	q:true	qid:Q285	docId:2951327	origText:hydralazine	url:D006830
+CANDIDATE	id:6830	inCount:15	outCount:1	links:5996	url:D006830	name:Hydralazine	normalName:hydralazine	normalWikiTitle:hydralazine	predictedType:Chemical
+ENTITY	text:nitroglycerin	normalName:nitroglycerin	predictedType:chemical	q:true	qid:Q285	docId:2951327	origText:nitroglycerin	url:D005996
+CANDIDATE	id:5996	inCount:10	outCount:1	links:6830	url:D005996	name:Nitroglycerin	normalName:nitroglycerin	normalWikiTitle:nitroglycerin	predictedType:Chemical

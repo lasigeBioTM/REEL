@@ -1,0 +1,21 @@
+ENTITY	text:streptozotocin	normalName:streptozotocin	predictedType:chemical	q:true	qid:Q1234	docId:24902786	origText:streptozotocin	url:D013311
+CANDIDATE	id:13311	inCount:12	outCount:2	links:5485;13629	url:D013311	name:Streptozotocin	normalName:streptozotocin	normalWikiTitle:streptozotocin	predictedType:Chemical
+ENTITY	text:estrogen	normalName:estrogen	predictedType:chemical	q:true	qid:Q1234	docId:24902786	origText:estrogen	url:D004967
+CANDIDATE	id:4967	inCount:1	outCount:1	links:13629	url:D004967	name:Estrogen	normalName:estrogen	normalWikiTitle:estrogen	predictedType:Chemical
+ENTITY	text:tamoxifen	normalName:tamoxifen	predictedType:chemical	q:true	qid:Q1234	docId:24902786	origText:tamoxifen	url:D013629
+CANDIDATE	id:13629	inCount:91	outCount:1	links:13311;5485;4967	url:D013629	name:Tamoxifen	normalName:tamoxifen	normalWikiTitle:tamoxifen	predictedType:Chemical
+ENTITY	text:flutamide	normalName:flutamide	predictedType:chemical	q:true	qid:Q1234	docId:24902786	origText:flutamide	url:D005485
+CANDIDATE	id:5485	inCount:2	outCount:1	links:13311;13629	url:D005485	name:Flutamide	normalName:flutamide	normalWikiTitle:flutamide	predictedType:Chemical
+ENTITY	text:androgen	normalName:androgen	predictedType:chemical	q:true	qid:Q1234	docId:24902786	origText:androgen	url:D000728
+CANDIDATE	id:728	inCount:0	outCount:1	links:	url:D000728	name:Androgens	normalName:androgens	normalWikiTitle:androgens	predictedType:Chemical
+CANDIDATE	id:435014	inCount:0	outCount:1	links:	url:C435014	name:androechin	normalName:androechin	normalWikiTitle:androechin	predictedType:Chemical
+CANDIDATE	id:361	inCount:0	outCount:1	links:	url:C000361	name:caprogen	normalName:caprogen	normalWikiTitle:caprogen	predictedType:Chemical
+CANDIDATE	id:403078	inCount:0	outCount:1	links:	url:C403078	name:alprogen	normalName:alprogen	normalWikiTitle:alprogen	predictedType:Chemical
+CANDIDATE	id:71696	inCount:0	outCount:1	links:	url:C071696	name:androsin	normalName:androsin	normalWikiTitle:androsin	predictedType:Chemical
+CANDIDATE	id:9584	inCount:7	outCount:2	links:	url:D009584	name:Nitrogen	normalName:nitrogen	normalWikiTitle:nitrogen	predictedType:Chemical
+CANDIDATE	id:11700	inCount:0	outCount:2	links:	url:C011700	name:carbogen	normalName:carbogen	normalWikiTitle:carbogen	predictedType:Chemical
+CANDIDATE	id:11206	inCount:0	outCount:1	links:	url:C011206	name:cyanogen	normalName:cyanogen	normalWikiTitle:cyanogen	predictedType:Chemical
+CANDIDATE	id:6859	inCount:7	outCount:2	links:	url:D006859	name:Hydrogen	normalName:hydrogen	normalWikiTitle:hydrogen	predictedType:Chemical
+CANDIDATE	id:736	inCount:88	outCount:1	links:	url:D000736	name:Androstenes	normalName:androstenes	normalWikiTitle:androstenes	predictedType:Chemical
+ENTITY	text:Testosterone	normalName:testosterone	predictedType:chemical	q:true	qid:Q1234	docId:24902786	origText:Testosterone	url:D013739
+CANDIDATE	id:13739	inCount:97	outCount:2	links:	url:D013739	name:Testosterone	normalName:testosterone	normalWikiTitle:testosterone	predictedType:Chemical

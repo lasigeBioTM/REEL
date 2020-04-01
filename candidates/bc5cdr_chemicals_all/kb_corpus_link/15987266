@@ -1,0 +1,4 @@
+ENTITY	text:pilocarpine	normalName:pilocarpine	predictedType:chemical	q:true	qid:Q712	docId:15987266	origText:pilocarpine	url:D010862
+CANDIDATE	id:10862	inCount:7	outCount:1	links:	url:D010862	name:Pilocarpine	normalName:pilocarpine	normalWikiTitle:pilocarpine	predictedType:Chemical
+ENTITY	text:cycloheximide	normalName:cycloheximide	predictedType:chemical	q:true	qid:Q712	docId:15987266	origText:cycloheximide	url:D003513
+CANDIDATE	id:3513	inCount:5	outCount:1	links:	url:D003513	name:Cycloheximide	normalName:cycloheximide	normalWikiTitle:cycloheximide	predictedType:Chemical

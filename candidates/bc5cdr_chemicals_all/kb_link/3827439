@@ -1,0 +1,4 @@
+ENTITY	text:amphotericin B	normalName:amphotericin b	predictedType:chemical	q:true	qid:Q349	docId:3827439	origText:amphotericin B	url:D000666
+CANDIDATE	id:666	inCount:27	outCount:1	links:666	url:D000666	name:Amphotericin B	normalName:amphotericin b	normalWikiTitle:amphotericin b	predictedType:Chemical
+ENTITY	text:amphotericin	normalName:amphotericin	predictedType:chemical	q:true	qid:Q349	docId:3827439	origText:amphotericin	url:D000666
+CANDIDATE	id:666	inCount:27	outCount:1	links:666	url:D000666	name:Amphotericin	normalName:amphotericin	normalWikiTitle:amphotericin	predictedType:Chemical

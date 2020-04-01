@@ -1,0 +1,8 @@
+ENTITY	text:oligomenorrhea	normalName:oligomenorrhea	predictedType:disease	q:true	qid:Q1300	docId:1359137	origText:oligomenorrhea	url:D009839
+CANDIDATE	id:9839	inCount:0	outCount:1	links:	url:D009839	name:Oligomenorrhea	normalName:oligomenorrhea	normalWikiTitle:oligomenorrhea	predictedType:Disease
+ENTITY	text:galactorrhea	normalName:galactorrhea	predictedType:disease	q:true	qid:Q1300	docId:1359137	origText:galactorrhea	url:D005687
+CANDIDATE	id:5687	inCount:3	outCount:1	links:	url:D005687	name:Galactorrhea	normalName:galactorrhea	normalWikiTitle:galactorrhea	predictedType:Disease
+ENTITY	text:hyperprolactinemia	normalName:hyperprolactinemia	predictedType:disease	q:true	qid:Q1300	docId:1359137	origText:hyperprolactinemia	url:D006966
+CANDIDATE	id:6966	inCount:1	outCount:1	links:	url:D006966	name:Hyperprolactinemia	normalName:hyperprolactinemia	normalWikiTitle:hyperprolactinemia	predictedType:Disease
+ENTITY	text:amenorrhea	normalName:amenorrhea	predictedType:disease	q:true	qid:Q1300	docId:1359137	origText:amenorrhea	url:D000568
+CANDIDATE	id:568	inCount:3	outCount:1	links:	url:D000568	name:Amenorrhea	normalName:amenorrhea	normalWikiTitle:amenorrhea	predictedType:Disease

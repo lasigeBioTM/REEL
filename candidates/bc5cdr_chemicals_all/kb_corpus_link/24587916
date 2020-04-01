@@ -1,0 +1,6 @@
+ENTITY	text:iron	normalName:iron	predictedType:chemical	q:true	qid:Q66	docId:24587916	origText:iron	url:D007501
+CANDIDATE	id:7501	inCount:40	outCount:2	links:	url:D007501	name:Iron	normalName:iron	normalWikiTitle:iron	predictedType:Chemical
+ENTITY	text:dexamethasone	normalName:dexamethasone	predictedType:chemical	q:true	qid:Q66	docId:24587916	origText:dexamethasone	url:D003907
+CANDIDATE	id:3907	inCount:138	outCount:2	links:	url:D003907	name:Dexamethasone	normalName:dexamethasone	normalWikiTitle:dexamethasone	predictedType:Chemical
+ENTITY	text:hydrogen peroxide	normalName:hydrogen peroxide	predictedType:chemical	q:true	qid:Q66	docId:24587916	origText:hydrogen peroxide	url:D006861
+CANDIDATE	id:6861	inCount:26	outCount:1	links:	url:D006861	name:Hydrogen Peroxide	normalName:hydrogen peroxide	normalWikiTitle:hydrogen peroxide	predictedType:Chemical

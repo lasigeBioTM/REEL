@@ -1,0 +1,16 @@
+ENTITY	text:renal insufficiency	normalName:renal insufficiency	predictedType:disease	q:true	qid:Q1204	docId:4071154	origText:renal insufficiency	url:D051437
+CANDIDATE	id:51437	inCount:10	outCount:1	links:51437	url:D051437	name:Renal Insufficiency	normalName:renal insufficiency	normalWikiTitle:renal insufficiency	predictedType:Disease
+ENTITY	text:acute renal failure	normalName:acute renal failure	predictedType:disease	q:true	qid:Q1204	docId:4071154	origText:acute renal failure	url:D058186
+CANDIDATE	id:58186	inCount:2	outCount:1	links:	url:D058186	name:Acute Renal Failure	normalName:acute renal failure	normalWikiTitle:acute renal failure	predictedType:Disease
+ENTITY	text:renal failure	normalName:renal failure	predictedType:disease	q:true	qid:Q1204	docId:4071154	origText:renal failure	url:D051437
+CANDIDATE	id:51437	inCount:10	outCount:1	links:51437	url:D051437	name:Renal Failure	normalName:renal failure	normalWikiTitle:renal failure	predictedType:Disease
+ENTITY	text:ascites	normalName:ascites	predictedType:disease	q:true	qid:Q1204	docId:4071154	origText:ascites	url:D001201
+CANDIDATE	id:1201	inCount:0	outCount:1	links:	url:D001201	name:Ascites	normalName:ascites	normalWikiTitle:ascites	predictedType:Disease
+ENTITY	text:cor pulmonale	normalName:cor pulmonale	predictedType:disease	q:true	qid:Q1204	docId:4071154	origText:cor pulmonale	url:D011660
+CANDIDATE	id:11660	inCount:0	outCount:1	links:	url:D011660	name:Cor Pulmonale	normalName:cor pulmonale	normalWikiTitle:cor pulmonale	predictedType:Disease
+ENTITY	text:hyperkalemia	normalName:hyperkalemia	predictedType:disease	q:true	qid:Q1204	docId:4071154	origText:hyperkalemia	url:D006947
+CANDIDATE	id:6947	inCount:4	outCount:1	links:	url:D006947	name:Hyperkalemia	normalName:hyperkalemia	normalWikiTitle:hyperkalemia	predictedType:Disease
+ENTITY	text:oliguria	normalName:oliguria	predictedType:disease	q:true	qid:Q1204	docId:4071154	origText:oliguria	url:D009846
+CANDIDATE	id:9846	inCount:0	outCount:2	links:	url:D009846	name:Oliguria	normalName:oliguria	normalWikiTitle:oliguria	predictedType:Disease
+ENTITY	text:cirrhosis	normalName:cirrhosis	predictedType:disease	q:true	qid:Q1204	docId:4071154	origText:cirrhosis	url:D005355
+CANDIDATE	id:5355	inCount:11	outCount:1	links:	url:D005355	name:Cirrhosis	normalName:cirrhosis	normalWikiTitle:cirrhosis	predictedType:Disease

@@ -1,0 +1,4 @@
+ENTITY	text:pimecrolimus	normalName:pimecrolimus	predictedType:chemical	q:true	qid:Q18	docId:20466178	origText:pimecrolimus	url:C117268
+CANDIDATE	id:117268	inCount:0	outCount:1	links:	url:C117268	name:pimecrolimus	normalName:pimecrolimus	normalWikiTitle:pimecrolimus	predictedType:Chemical
+ENTITY	text:tacrolimus	normalName:tacrolimus	predictedType:chemical	q:true	qid:Q18	docId:20466178	origText:tacrolimus	url:D016559
+CANDIDATE	id:16559	inCount:40	outCount:1	links:	url:D016559	name:Tacrolimus	normalName:tacrolimus	normalWikiTitle:tacrolimus	predictedType:Chemical

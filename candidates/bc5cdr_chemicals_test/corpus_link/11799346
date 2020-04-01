@@ -1,0 +1,16 @@
+ENTITY	text:clarithromycin	normalName:clarithromycin	predictedType:chemical	q:true	qid:Q298	docId:11799346	origText:clarithromycin	url:D017291
+CANDIDATE	id:17291	inCount:3	outCount:1	links:8795;658;15662;15242;7538;4917;2939	url:D017291	name:Clarithromycin	normalName:clarithromycin	normalWikiTitle:clarithromycin	predictedType:Chemical
+ENTITY	text:erythromycin	normalName:erythromycin	predictedType:chemical	q:true	qid:Q298	docId:11799346	origText:erythromycin	url:D004917
+CANDIDATE	id:4917	inCount:121	outCount:1	links:8795;658;15662;15242;17291;7538;2939	url:D004917	name:Erythromycin	normalName:erythromycin	normalWikiTitle:erythromycin	predictedType:Chemical
+ENTITY	text:ofloxacin	normalName:ofloxacin	predictedType:chemical	q:true	qid:Q298	docId:11799346	origText:ofloxacin	url:D015242
+CANDIDATE	id:15242	inCount:8	outCount:1	links:8795;658;15662;7538;17291;4917;2939	url:D015242	name:Ofloxacin	normalName:ofloxacin	normalWikiTitle:ofloxacin	predictedType:Chemical
+ENTITY	text:amoxicillin	normalName:amoxicillin	predictedType:chemical	q:true	qid:Q298	docId:11799346	origText:amoxicillin	url:D000658
+CANDIDATE	id:658	inCount:9	outCount:1	links:8795;15662;15242;7538;17291;4917;2939	url:D000658	name:Amoxicillin	normalName:amoxicillin	normalWikiTitle:amoxicillin	predictedType:Chemical
+ENTITY	text:Cotrimoxazole	normalName:cotrimoxazole	predictedType:chemical	q:true	qid:Q298	docId:11799346	origText:Cotrimoxazole	url:D015662
+CANDIDATE	id:15662	inCount:1	outCount:2	links:8795;658;15242;7538;17291;4917;2939	url:D015662	name:Cotrimoxazole	normalName:cotrimoxazole	normalWikiTitle:cotrimoxazole	predictedType:Chemical
+ENTITY	text:metronidazole	normalName:metronidazole	predictedType:chemical	q:true	qid:Q298	docId:11799346	origText:metronidazole	url:D008795
+CANDIDATE	id:8795	inCount:37	outCount:1	links:658;15662;15242;7538;17291;4917;2939	url:D008795	name:Metronidazole	normalName:metronidazole	normalWikiTitle:metronidazole	predictedType:Chemical
+ENTITY	text:ciprofloxacin	normalName:ciprofloxacin	predictedType:chemical	q:true	qid:Q298	docId:11799346	origText:ciprofloxacin	url:D002939
+CANDIDATE	id:2939	inCount:46	outCount:1	links:8795;658;15242;7538;17291;4917;15662	url:D002939	name:Ciprofloxacin	normalName:ciprofloxacin	normalWikiTitle:ciprofloxacin	predictedType:Chemical
+ENTITY	text:isoniazid	normalName:isoniazid	predictedType:chemical	q:true	qid:Q298	docId:11799346	origText:isoniazid	url:D007538
+CANDIDATE	id:7538	inCount:46	outCount:2	links:8795;658;15242;17291;2939;4917;15662	url:D007538	name:Isoniazid	normalName:isoniazid	normalWikiTitle:isoniazid	predictedType:Chemical

@@ -1,0 +1,41 @@
+ENTITY	text:nerve entrapment	normalName:nerve entrapment	predictedType:disease	q:true	qid:Q49	docId:3985451	origText:nerve entrapment	url:D009408
+CANDIDATE	id:9408	inCount:9	outCount:1	links:	url:D009408	name:Entrapment, Nerve	normalName:entrapment, nerve	normalWikiTitle:entrapment, nerve	predictedType:Disease
+ENTITY	text:contracture	normalName:contracture	predictedType:disease	q:true	qid:Q49	docId:3985451	origText:contracture	url:D003286
+CANDIDATE	id:3286	inCount:40	outCount:2	links:	url:D003286	name:Contracture	normalName:contracture	normalWikiTitle:contracture	predictedType:Disease
+ENTITY	text:pain	normalName:pain	predictedType:disease	q:true	qid:Q49	docId:3985451	origText:pain	url:D010146
+CANDIDATE	id:10146	inCount:34	outCount:1	links:	url:D010146	name:Pain	normalName:pain	normalWikiTitle:pain	predictedType:Disease
+ENTITY	text:femoral nerve palsy	normalName:femoral nerve palsy	predictedType:disease	q:true	qid:Q49	docId:3985451	origText:femoral nerve palsy	url:D020428
+CANDIDATE	id:20428	inCount:0	outCount:1	links:	url:D020428	name:Femoral Neuropathy	normalName:femoral neuropathy	normalWikiTitle:femoral neuropathy	predictedType:Disease
+CANDIDATE	id:5266	inCount:0	outCount:1	links:	url:D005266	name:Femoral Neoplasms	normalName:femoral neoplasms	normalWikiTitle:femoral neoplasms	predictedType:Disease
+CANDIDATE	id:6550	inCount:0	outCount:1	links:	url:D006550	name:Hernia, Femoral	normalName:hernia, femoral	normalWikiTitle:hernia, femoral	predictedType:Disease
+CANDIDATE	id:2547	inCount:11	outCount:1	links:	url:D002547	name:Cerebral Palsy	normalName:cerebral palsy	normalWikiTitle:cerebral palsy	predictedType:Disease
+CANDIDATE	id:5264	inCount:1	outCount:2	links:	url:D005264	name:Femoral Fractures	normalName:femoral fractures	normalWikiTitle:femoral fractures	predictedType:Disease
+CANDIDATE	id:7247	inCount:4	outCount:1	links:	url:D007247	name:Infertility, Female	normalName:infertility, female	normalWikiTitle:infertility, female	predictedType:Disease
+CANDIDATE	id:537555	inCount:0	outCount:2	links:	url:C537555	name:Microhydranencephaly	normalName:microhydranencephaly	normalWikiTitle:microhydranencephaly	predictedType:Disease
+CANDIDATE	id:15192	inCount:2	outCount:1	links:	url:D015192	name:Infratentorial Neoplasms	normalName:infratentorial neoplasms	normalWikiTitle:infratentorial neoplasms	predictedType:Disease
+CANDIDATE	id:20421	inCount:2	outCount:1	links:	url:D020421	name:Vagus Nerve Diseases	normalName:vagus nerve diseases	normalWikiTitle:vagus nerve diseases	predictedType:Disease
+CANDIDATE	id:19574	inCount:2	outCount:2	links:	url:D019574	name:Optic Nerve Neoplasms	normalName:optic nerve neoplasms	normalWikiTitle:optic nerve neoplasms	predictedType:Disease
+CANDIDATE	id:20432	inCount:1	outCount:1	links:	url:D020432	name:Palsy, Fourth Nerve	normalName:palsy, fourth nerve	normalWikiTitle:palsy, fourth nerve	predictedType:Disease
+CANDIDATE	id:20432	inCount:1	outCount:1	links:	url:D020432	name:Fourth Nerve Palsy	normalName:fourth nerve palsy	normalWikiTitle:fourth nerve palsy	predictedType:Disease
+CANDIDATE	id:3389	inCount:16	outCount:1	links:	url:D003389	name:Palsy, Cranial Nerve	normalName:palsy, cranial nerve	normalWikiTitle:palsy, cranial nerve	predictedType:Disease
+CANDIDATE	id:3389	inCount:16	outCount:1	links:	url:D003389	name:Cranial Nerve Palsy	normalName:cranial nerve palsy	normalWikiTitle:cranial nerve palsy	predictedType:Disease
+ENTITY	text:hemorrhage	normalName:hemorrhage	predictedType:disease	q:true	qid:Q49	docId:3985451	origText:hemorrhage	url:D006470
+CANDIDATE	id:6470	inCount:31	outCount:1	links:	url:D006470	name:Hemorrhage	normalName:hemorrhage	normalWikiTitle:hemorrhage	predictedType:Disease
+ENTITY	text:peripheral neuropathy	normalName:peripheral neuropathy	predictedType:disease	q:true	qid:Q49	docId:3985451	origText:peripheral neuropathy	url:D010523
+CANDIDATE	id:10523	inCount:37	outCount:1	links:	url:D010523	name:Peripheral Neuropathy	normalName:peripheral neuropathy	normalWikiTitle:peripheral neuropathy	predictedType:Disease
+ENTITY	text:motor and sensory impairment	normalName:motor and sensory impairment	predictedType:disease	q:true	qid:Q49	docId:3985451	origText:motor and sensory impairment	url:D015417
+CANDIDATE	id:15417	inCount:24	outCount:3	links:	url:D015417	name:Herditary Sensory and Motor Neuropathy	normalName:herditary sensory and motor neuropathy	normalWikiTitle:herditary sensory and motor neuropathy	predictedType:Disease
+CANDIDATE	id:15417	inCount:24	outCount:3	links:	url:D015417	name:Hereditary Sensory and Motor Neuropathy	normalName:hereditary sensory and motor neuropathy	normalWikiTitle:hereditary sensory and motor neuropathy	predictedType:Disease
+CANDIDATE	id:562851	inCount:0	outCount:1	links:	url:C562851	name:Hereditary Motor And Sensory Neuropathy VI	normalName:hereditary motor and sensory neuropathy vi	normalWikiTitle:hereditary motor and sensory neuropathy vi	predictedType:Disease
+CANDIDATE	id:20886	inCount:6	outCount:1	links:	url:D020886	name:Somatosensory Disorders	normalName:somatosensory disorders	normalWikiTitle:somatosensory disorders	predictedType:Disease
+CANDIDATE	id:535716	inCount:0	outCount:2	links:	url:C535716	name:Neuropathy, hereditary motor and sensory, LOM type	normalName:neuropathy, hereditary motor and sensory, lom type	normalWikiTitle:neuropathy, hereditary motor and sensory, lom type	predictedType:Disease
+CANDIDATE	id:567359	inCount:0	outCount:3	links:	url:C567359	name:Microtia, Hearing Impairment, And Cleft Palate	normalName:microtia, hearing impairment, and cleft palate	normalWikiTitle:microtia, hearing impairment, and cleft palate	predictedType:Disease
+CANDIDATE	id:16171	inCount:0	outCount:1	links:	url:D016171	name:Torsades de Pointes	normalName:torsades de pointes	normalWikiTitle:torsades de pointes	predictedType:Disease
+CANDIDATE	id:538436	inCount:0	outCount:1	links:	url:C538436	name:Auditory perceptual impairment	normalName:auditory perceptual impairment	normalWikiTitle:auditory perceptual impairment	predictedType:Disease
+CANDIDATE	id:565261	inCount:0	outCount:1	links:	url:C565261	name:Hereditary Motor And Sensory Neuropathy, Type IIC	normalName:hereditary motor and sensory neuropathy, type iic	normalWikiTitle:hereditary motor and sensory neuropathy, type iic	predictedType:Disease
+CANDIDATE	id:13180	inCount:1	outCount:1	links:	url:D013180	name:Sprains and Strains	normalName:sprains and strains	normalWikiTitle:sprains and strains	predictedType:Disease
+CANDIDATE	id:9477	inCount:19	outCount:3	links:	url:D009477	name:Hereditary Sensory and Autonomic Neuropathies	normalName:hereditary sensory and autonomic neuropathies	normalWikiTitle:hereditary sensory and autonomic neuropathies	predictedType:Disease
+CANDIDATE	id:11596	inCount:53	outCount:1	links:	url:D011596	name:Impairment, Psychomotor	normalName:impairment, psychomotor	normalWikiTitle:impairment, psychomotor	predictedType:Disease
+CANDIDATE	id:11596	inCount:53	outCount:1	links:	url:D011596	name:Psychomotor Impairment	normalName:psychomotor impairment	normalWikiTitle:psychomotor impairment	predictedType:Disease
+ENTITY	text:hematoma	normalName:hematoma	predictedType:disease	q:true	qid:Q49	docId:3985451	origText:hematoma	url:D006406
+CANDIDATE	id:6406	inCount:3	outCount:1	links:	url:D006406	name:Hematoma	normalName:hematoma	normalWikiTitle:hematoma	predictedType:Disease

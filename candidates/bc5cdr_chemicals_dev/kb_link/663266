@@ -1,0 +1,33 @@
+ENTITY	text:Renografin	normalName:renografin	predictedType:chemical	q:true	qid:Q235	docId:663266	origText:Renografin	url:D003974
+CANDIDATE	id:3974	inCount:3	outCount:2	links:	url:D003974	name:Renografin	normalName:renografin	normalWikiTitle:renografin	predictedType:Chemical
+ENTITY	text:disodium edetate	normalName:disodium edetate	predictedType:chemical	q:true	qid:Q235	docId:663266	origText:disodium edetate	url:D004492
+CANDIDATE	id:4492	inCount:105	outCount:2	links:4492	url:D004492	name:Edetate Disodium Calcium	normalName:edetate disodium calcium	normalWikiTitle:edetate disodium calcium	predictedType:Chemical
+CANDIDATE	id:62962	inCount:0	outCount:1	links:	url:C062962	name:dirhodium tetraacetate	normalName:dirhodium tetraacetate	normalWikiTitle:dirhodium tetraacetate	predictedType:Chemical
+CANDIDATE	id:471701	inCount:0	outCount:2	links:	url:C471701	name:sodium titanate	normalName:sodium titanate	normalWikiTitle:sodium titanate	predictedType:Chemical
+CANDIDATE	id:404416	inCount:0	outCount:2	links:	url:C404416	name:sodium tantalate	normalName:sodium tantalate	normalWikiTitle:sodium tantalate	predictedType:Chemical
+CANDIDATE	id:400715	inCount:0	outCount:1	links:	url:C400715	name:sodium usnate	normalName:sodium usnate	normalWikiTitle:sodium usnate	predictedType:Chemical
+CANDIDATE	id:32039	inCount:0	outCount:1	links:	url:C032039	name:sodium tellurate(IV)	normalName:sodium tellurate(iv)	normalWikiTitle:sodium tellurate(iv)	predictedType:Chemical
+CANDIDATE	id:12036	inCount:0	outCount:1	links:	url:C012036	name:sodium sulfate	normalName:sodium sulfate	normalWikiTitle:sodium sulfate	predictedType:Chemical
+CANDIDATE	id:80440	inCount:0	outCount:1	links:	url:C080440	name:sodium tetraethylborate	normalName:sodium tetraethylborate	normalWikiTitle:sodium tetraethylborate	predictedType:Chemical
+CANDIDATE	id:89767	inCount:0	outCount:2	links:	url:C089767	name:indium nitrate	normalName:indium nitrate	normalWikiTitle:indium nitrate	predictedType:Chemical
+CANDIDATE	id:17717	inCount:0	outCount:1	links:	url:C017717	name:sodium thiosulfate	normalName:sodium thiosulfate	normalWikiTitle:sodium thiosulfate	predictedType:Chemical
+CANDIDATE	id:77424	inCount:0	outCount:2	links:	url:C077424	name:dysprosium nitrate	normalName:dysprosium nitrate	normalWikiTitle:dysprosium nitrate	predictedType:Chemical
+CANDIDATE	id:4492	inCount:105	outCount:2	links:4492	url:D004492	name:EDTA, Disodium	normalName:edta, disodium	normalWikiTitle:edta, disodium	predictedType:Chemical
+CANDIDATE	id:4492	inCount:105	outCount:2	links:4492	url:D004492	name:Disodium EDTA	normalName:disodium edta	normalWikiTitle:disodium edta	predictedType:Chemical
+CANDIDATE	id:73590	inCount:0	outCount:1	links:	url:C073590	name:disodium gadoxetate	normalName:disodium gadoxetate	normalWikiTitle:disodium gadoxetate	predictedType:Chemical
+CANDIDATE	id:73590	inCount:0	outCount:1	links:	url:C073590	name:gadoxetate disodium	normalName:gadoxetate disodium	normalWikiTitle:gadoxetate disodium	predictedType:Chemical
+CANDIDATE	id:64586	inCount:1	outCount:1	links:	url:D064586	name:Selenate, Disodium	normalName:selenate, disodium	normalWikiTitle:selenate, disodium	predictedType:Chemical
+CANDIDATE	id:64586	inCount:1	outCount:1	links:	url:D064586	name:Disodium Selenate	normalName:disodium selenate	normalWikiTitle:disodium selenate	predictedType:Chemical
+CANDIDATE	id:12968	inCount:6	outCount:1	links:	url:D012968	name:Disodium Etidronate	normalName:disodium etidronate	normalWikiTitle:disodium etidronate	predictedType:Chemical
+CANDIDATE	id:12968	inCount:6	outCount:1	links:	url:D012968	name:Etidronate Disodium	normalName:etidronate disodium	normalWikiTitle:etidronate disodium	predictedType:Chemical
+CANDIDATE	id:12968	inCount:6	outCount:1	links:	url:D012968	name:Etidronate, Disodium	normalName:etidronate, disodium	normalWikiTitle:etidronate, disodium	predictedType:Chemical
+ENTITY	text:Hypaque 76%	normalName:hypaque 76%	predictedType:chemical	q:true	qid:Q235	docId:663266	origText:Hypaque 76%	url:C027278
+CANDIDATE	id:27278	inCount:0	outCount:2	links:27278	url:C027278	name:Hypaque 76	normalName:hypaque 76	normalWikiTitle:hypaque 76	predictedType:Chemical
+ENTITY	text:diatrizoate	normalName:diatrizoate	predictedType:chemical	q:true	qid:Q235	docId:663266	origText:diatrizoate	url:D003973
+CANDIDATE	id:3973	inCount:11	outCount:1	links:3973	url:D003973	name:Diatrizoate	normalName:diatrizoate	normalWikiTitle:diatrizoate	predictedType:Chemical
+ENTITY	text:Hypaque	normalName:hypaque	predictedType:chemical	q:true	qid:Q235	docId:663266	origText:Hypaque	url:D003973
+CANDIDATE	id:3973	inCount:11	outCount:1	links:3973	url:D003973	name:Hypaque	normalName:hypaque	normalWikiTitle:hypaque	predictedType:Chemical
+ENTITY	text:calcium disodium edetate	normalName:calcium disodium edetate	predictedType:chemical	q:true	qid:Q235	docId:663266	origText:calcium disodium edetate	url:D004492
+CANDIDATE	id:4492	inCount:105	outCount:2	links:4492	url:D004492	name:Edetate, Calcium Disodium	normalName:edetate, calcium disodium	normalWikiTitle:edetate, calcium disodium	predictedType:Chemical
+ENTITY	text:Renografin 76%	normalName:renografin 76%	predictedType:chemical	q:true	qid:Q235	docId:663266	origText:Renografin 76%	url:C027278
+CANDIDATE	id:27278	inCount:0	outCount:2	links:27278	url:C027278	name:renografin 76	normalName:renografin 76	normalWikiTitle:renografin 76	predictedType:Chemical

@@ -1,0 +1,6 @@
+ENTITY	text:warfarin	normalName:warfarin	predictedType:chemical	q:true	qid:Q781	docId:24733133	origText:warfarin	url:D014859
+CANDIDATE	id:14859	inCount:14	outCount:1	links:31942;6493	url:D014859	name:Warfarin	normalName:warfarin	normalWikiTitle:warfarin	predictedType:Chemical
+ENTITY	text:argatroban	normalName:argatroban	predictedType:chemical	q:true	qid:Q781	docId:24733133	origText:argatroban	url:C031942
+CANDIDATE	id:31942	inCount:0	outCount:1	links:14859;6493	url:C031942	name:argatroban	normalName:argatroban	normalWikiTitle:argatroban	predictedType:Chemical
+ENTITY	text:heparin	normalName:heparin	predictedType:chemical	q:true	qid:Q781	docId:24733133	origText:heparin	url:D006493
+CANDIDATE	id:6493	inCount:75	outCount:1	links:31942;14859	url:D006493	name:Heparin	normalName:heparin	normalWikiTitle:heparin	predictedType:Chemical

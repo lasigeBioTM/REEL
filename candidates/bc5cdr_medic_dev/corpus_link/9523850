@@ -1,0 +1,4 @@
+ENTITY	text:myalgia	normalName:myalgia	predictedType:disease	q:true	qid:Q162	docId:9523850	origText:myalgia	url:D063806
+CANDIDATE	id:63806	inCount:0	outCount:2	links:18771	url:D063806	name:Myalgia	normalName:myalgia	normalWikiTitle:myalgia	predictedType:Disease
+ENTITY	text:arthralgia	normalName:arthralgia	predictedType:disease	q:true	qid:Q162	docId:9523850	origText:arthralgia	url:D018771
+CANDIDATE	id:18771	inCount:1	outCount:2	links:63806	url:D018771	name:Arthralgia	normalName:arthralgia	normalWikiTitle:arthralgia	predictedType:Disease

@@ -1,0 +1,8 @@
+ENTITY	text:sinusitis	normalName:sinusitis	predictedType:disease	q:true	qid:Q126	docId:9564988	origText:sinusitis	url:D012852
+CANDIDATE	id:12852	inCount:5	outCount:2	links:	url:D012852	name:Sinusitis	normalName:sinusitis	normalWikiTitle:sinusitis	predictedType:Disease
+ENTITY	text:diarrhea	normalName:diarrhea	predictedType:disease	q:true	qid:Q126	docId:9564988	origText:diarrhea	url:D003967
+CANDIDATE	id:3967	inCount:14	outCount:1	links:9325;5414	url:D003967	name:Diarrhea	normalName:diarrhea	normalWikiTitle:diarrhea	predictedType:Disease
+ENTITY	text:flatulence	normalName:flatulence	predictedType:disease	q:true	qid:Q126	docId:9564988	origText:flatulence	url:D005414
+CANDIDATE	id:5414	inCount:0	outCount:1	links:3967;9325	url:D005414	name:Flatulence	normalName:flatulence	normalWikiTitle:flatulence	predictedType:Disease
+ENTITY	text:nausea	normalName:nausea	predictedType:disease	q:true	qid:Q126	docId:9564988	origText:nausea	url:D009325
+CANDIDATE	id:9325	inCount:2	outCount:1	links:3967;5414	url:D009325	name:Nausea	normalName:nausea	normalWikiTitle:nausea	predictedType:Disease

@@ -1,0 +1,18 @@
+ENTITY	text:torsade de pointes	normalName:torsade de pointes	predictedType:disease	q:true	qid:Q262	docId:12678199	origText:torsade de pointes	url:D016171
+CANDIDATE	id:16171	inCount:0	outCount:1	links:1919	url:D016171	name:de Pointes, Torsade	normalName:de pointes, torsade	normalWikiTitle:de pointes, torsade	predictedType:Disease
+ENTITY	text:bradycardia	normalName:bradycardia	predictedType:disease	q:true	qid:Q262	docId:12678199	origText:bradycardia	url:D001919
+CANDIDATE	id:1919	inCount:0	outCount:1	links:16171	url:D001919	name:Bradycardia	normalName:bradycardia	normalWikiTitle:bradycardia	predictedType:Disease
+ENTITY	text:hypomagnesemia	normalName:hypomagnesemia	predictedType:disease	q:true	qid:Q262	docId:12678199	origText:hypomagnesemia	url:C537153
+CANDIDATE	id:537153	inCount:0	outCount:3	links:	url:C537153	name:Hypomagnesemia primary	normalName:hypomagnesemia primary	normalWikiTitle:hypomagnesemia primary	predictedType:Disease
+CANDIDATE	id:537152	inCount:0	outCount:1	links:	url:C537152	name:Hypomagnesemia 2, renal	normalName:hypomagnesemia 2, renal	normalWikiTitle:hypomagnesemia 2, renal	predictedType:Disease
+CANDIDATE	id:567127	inCount:0	outCount:1	links:	url:C567127	name:Hypomagnesemia 4, Renal	normalName:hypomagnesemia 4, renal	normalWikiTitle:hypomagnesemia 4, renal	predictedType:Disease
+CANDIDATE	id:613882	inCount:0	outCount:1	links:	url:613882	name:HYPOMAGNESEMIA 6, RENAL	normalName:hypomagnesemia 6, renal	normalWikiTitle:hypomagnesemia 6, renal	predictedType:Disease
+CANDIDATE	id:7008	inCount:1	outCount:1	links:	url:D007008	name:Hypokalemia	normalName:hypokalemia	normalWikiTitle:hypokalemia	predictedType:Disease
+CANDIDATE	id:18476	inCount:1	outCount:1	links:	url:D018476	name:Hypokinesia	normalName:hypokinesia	normalWikiTitle:hypokinesia	predictedType:Disease
+CANDIDATE	id:6940	inCount:0	outCount:1	links:	url:D006940	name:Hyperemia	normalName:hyperemia	normalWikiTitle:hyperemia	predictedType:Disease
+CANDIDATE	id:34141	inCount:1	outCount:1	links:	url:D034141	name:Hypoalbuminemia	normalName:hypoalbuminemia	normalWikiTitle:hypoalbuminemia	predictedType:Disease
+CANDIDATE	id:6996	inCount:5	outCount:2	links:	url:D006996	name:Hypocalcemia	normalName:hypocalcemia	normalWikiTitle:hypocalcemia	predictedType:Disease
+CANDIDATE	id:34321	inCount:0	outCount:1	links:	url:D034321	name:Hyperamylasemia	normalName:hyperamylasemia	normalWikiTitle:hyperamylasemia	predictedType:Disease
+CANDIDATE	id:566593	inCount:0	outCount:2	links:	url:C566593	name:HYPOMAGNESEMIC TETANY	normalName:hypomagnesemic tetany	normalWikiTitle:hypomagnesemic tetany	predictedType:Disease
+ENTITY	text:hypokalemia	normalName:hypokalemia	predictedType:disease	q:true	qid:Q262	docId:12678199	origText:hypokalemia	url:D007008
+CANDIDATE	id:7008	inCount:1	outCount:1	links:	url:D007008	name:Hypokalemia	normalName:hypokalemia	normalWikiTitle:hypokalemia	predictedType:Disease

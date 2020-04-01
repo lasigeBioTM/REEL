@@ -1,0 +1,4 @@
+ENTITY	text:Chorea	normalName:chorea	predictedType:disease	q:true	qid:Q147	docId:3123611	origText:Chorea	url:D002819
+CANDIDATE	id:2819	inCount:13	outCount:1	links:	url:D002819	name:Chorea	normalName:chorea	normalWikiTitle:chorea	predictedType:Disease
+ENTITY	text:rheumatic fever	normalName:rheumatic fever	predictedType:disease	q:true	qid:Q147	docId:3123611	origText:rheumatic fever	url:D012213
+CANDIDATE	id:12213	inCount:3	outCount:3	links:	url:D012213	name:Rheumatic Fever	normalName:rheumatic fever	normalWikiTitle:rheumatic fever	predictedType:Disease

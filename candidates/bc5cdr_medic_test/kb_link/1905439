@@ -1,0 +1,4 @@
+ENTITY	text:Delirium	normalName:delirium	predictedType:disease	q:true	qid:Q461	docId:1905439	origText:Delirium	url:D003693
+CANDIDATE	id:3693	inCount:1	outCount:2	links:	url:D003693	name:Delirium	normalName:delirium	normalWikiTitle:delirium	predictedType:Disease
+ENTITY	text:headache	normalName:headache	predictedType:disease	q:true	qid:Q461	docId:1905439	origText:headache	url:D006261
+CANDIDATE	id:6261	inCount:2	outCount:1	links:	url:D006261	name:Headache	normalName:headache	normalWikiTitle:headache	predictedType:Disease

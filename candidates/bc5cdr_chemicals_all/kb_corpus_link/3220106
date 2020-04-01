@@ -1,0 +1,6 @@
+ENTITY	text:dopamine	normalName:dopamine	predictedType:chemical	q:true	qid:Q201	docId:3220106	origText:dopamine	url:D004298
+CANDIDATE	id:4298	inCount:90	outCount:2	links:	url:D004298	name:Dopamine	normalName:dopamine	normalWikiTitle:dopamine	predictedType:Chemical
+ENTITY	text:spiperone	normalName:spiperone	predictedType:chemical	q:true	qid:Q201	docId:3220106	origText:spiperone	url:D013134
+CANDIDATE	id:13134	inCount:20	outCount:2	links:	url:D013134	name:Spiperone	normalName:spiperone	normalWikiTitle:spiperone	predictedType:Chemical
+ENTITY	text:nicotine	normalName:nicotine	predictedType:chemical	q:true	qid:Q201	docId:3220106	origText:nicotine	url:D009538
+CANDIDATE	id:9538	inCount:50	outCount:2	links:	url:D009538	name:Nicotine	normalName:nicotine	normalWikiTitle:nicotine	predictedType:Chemical

@@ -1,0 +1,6 @@
+ENTITY	text:tumor	normalName:tumor	predictedType:disease	q:true	qid:Q887	docId:20510337	origText:tumor	url:D009369
+CANDIDATE	id:9369	inCount:18	outCount:1	links:	url:D009369	name:Tumor	normalName:tumor	normalWikiTitle:tumor	predictedType:Disease
+ENTITY	text:acute renal injury	normalName:acute renal injury	predictedType:disease	q:true	qid:Q887	docId:20510337	origText:acute renal injury	url:D058186
+CANDIDATE	id:58186	inCount:2	outCount:1	links:9336	url:D058186	name:Renal Injury, Acute	normalName:renal injury, acute	normalWikiTitle:renal injury, acute	predictedType:Disease
+ENTITY	text:necrosis	normalName:necrosis	predictedType:disease	q:true	qid:Q887	docId:20510337	origText:necrosis	url:D009336
+CANDIDATE	id:9336	inCount:6	outCount:1	links:58186	url:D009336	name:Necrosis	normalName:necrosis	normalWikiTitle:necrosis	predictedType:Disease

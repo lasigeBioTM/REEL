@@ -1,0 +1,4 @@
+ENTITY	text:hypercholesterolemia	normalName:hypercholesterolemia	predictedType:disease	q:true	qid:Q123	docId:8480959	origText:hypercholesterolemia	url:D006937
+CANDIDATE	id:6937	inCount:5	outCount:1	links:	url:D006937	name:Hypercholesterolemia	normalName:hypercholesterolemia	normalWikiTitle:hypercholesterolemia	predictedType:Disease
+ENTITY	text:Myopathy	normalName:myopathy	predictedType:disease	q:true	qid:Q123	docId:8480959	origText:Myopathy	url:D009135
+CANDIDATE	id:9135	inCount:77	outCount:2	links:	url:D009135	name:Myopathy	normalName:myopathy	normalWikiTitle:myopathy	predictedType:Disease

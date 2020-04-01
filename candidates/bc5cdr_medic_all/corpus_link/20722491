@@ -1,0 +1,25 @@
+ENTITY	text:vomiting	normalName:vomiting	predictedType:disease	q:true	qid:Q912	docId:20722491	origText:vomiting	url:D014839
+CANDIDATE	id:14839	inCount:7	outCount:1	links:3967;60831;13280;9325;7674	url:D014839	name:Vomiting	normalName:vomiting	normalWikiTitle:vomiting	predictedType:Disease
+ENTITY	text:nausea	normalName:nausea	predictedType:disease	q:true	qid:Q912	docId:20722491	origText:nausea	url:D009325
+CANDIDATE	id:9325	inCount:2	outCount:1	links:3967;60831;13280;14839;7674	url:D009325	name:Nausea	normalName:nausea	normalWikiTitle:nausea	predictedType:Disease
+ENTITY	text:stomatitis	normalName:stomatitis	predictedType:disease	q:true	qid:Q912	docId:20722491	origText:stomatitis	url:D013280
+CANDIDATE	id:13280	inCount:5	outCount:1	links:9325;3967;60831;14839	url:D013280	name:Stomatitis	normalName:stomatitis	normalWikiTitle:stomatitis	predictedType:Disease
+ENTITY	text:hand-foot syndrome	normalName:hand-foot syndrome	predictedType:disease	q:true	qid:Q912	docId:20722491	origText:hand-foot syndrome	url:D060831
+CANDIDATE	id:60831	inCount:0	outCount:1	links:9325;3967;13280;14839	url:D060831	name:Hand-Foot Syndrome	normalName:hand-foot syndrome	normalWikiTitle:hand-foot syndrome	predictedType:Disease
+ENTITY	text:tumors	normalName:tumors	predictedType:disease	q:true	qid:Q912	docId:20722491	origText:tumors	url:D009369
+CANDIDATE	id:9369	inCount:18	outCount:1	links:	url:D009369	name:Tumor	normalName:tumor	normalWikiTitle:tumor	predictedType:Disease
+ENTITY	text:renal and kidney disease	normalName:renal and kidney disease	predictedType:disease	q:true	qid:Q912	docId:20722491	origText:renal and kidney disease	url:D007674
+CANDIDATE	id:7674	inCount:65	outCount:1	links:9325;14839	url:D007674	name:Disease, Kidney	normalName:disease, kidney	normalWikiTitle:disease, kidney	predictedType:Disease
+CANDIDATE	id:7674	inCount:65	outCount:1	links:9325;14839	url:D007674	name:Kidney Diseases	normalName:kidney diseases	normalWikiTitle:kidney diseases	predictedType:Disease
+CANDIDATE	id:17193	inCount:5	outCount:2	links:	url:D017193	name:Skin Diseases, Viral	normalName:skin diseases, viral	normalWikiTitle:skin diseases, viral	predictedType:Disease
+CANDIDATE	id:562664	inCount:0	outCount:2	links:	url:C562664	name:Aland Island Eye Disease	normalName:aland island eye disease	normalWikiTitle:aland island eye disease	predictedType:Disease
+CANDIDATE	id:535531	inCount:0	outCount:2	links:	url:C535531	name:Intervertebral disc disease	normalName:intervertebral disc disease	normalWikiTitle:intervertebral disc disease	predictedType:Disease
+CANDIDATE	id:7410	inCount:30	outCount:1	links:3967	url:D007410	name:Intestinal Diseases	normalName:intestinal diseases	normalWikiTitle:intestinal diseases	predictedType:Disease
+CANDIDATE	id:52177	inCount:36	outCount:1	links:	url:D052177	name:Kidney Diseases, Cystic	normalName:kidney diseases, cystic	normalWikiTitle:kidney diseases, cystic	predictedType:Disease
+CANDIDATE	id:3389	inCount:16	outCount:1	links:	url:D003389	name:Cranial Nerve Diseases	normalName:cranial nerve diseases	normalWikiTitle:cranial nerve diseases	predictedType:Disease
+CANDIDATE	id:538130	inCount:0	outCount:1	links:	url:C538130	name:Kyrle disease	normalName:kyrle disease	normalWikiTitle:kyrle disease	predictedType:Disease
+CANDIDATE	id:537900	inCount:0	outCount:1	links:	url:C537900	name:Baker-Winegrad disease	normalName:baker-winegrad disease	normalWikiTitle:baker-winegrad disease	predictedType:Disease
+CANDIDATE	id:12164	inCount:50	outCount:1	links:	url:D012164	name:Retinal Diseases	normalName:retinal diseases	normalWikiTitle:retinal diseases	predictedType:Disease
+CANDIDATE	id:7674	inCount:65	outCount:1	links:9325;14839	url:D007674	name:Kidney Disease	normalName:kidney disease	normalWikiTitle:kidney disease	predictedType:Disease
+ENTITY	text:diarrhea	normalName:diarrhea	predictedType:disease	q:true	qid:Q912	docId:20722491	origText:diarrhea	url:D003967
+CANDIDATE	id:3967	inCount:14	outCount:1	links:9325;7410;60831;13280;14839	url:D003967	name:Diarrhea	normalName:diarrhea	normalWikiTitle:diarrhea	predictedType:Disease

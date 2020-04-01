@@ -1,0 +1,4 @@
+ENTITY	text:melphalan	normalName:melphalan	predictedType:chemical	q:true	qid:Q374	docId:15696449	origText:melphalan	url:D008558
+CANDIDATE	id:8558	inCount:72	outCount:2	links:	url:D008558	name:Melphalan	normalName:melphalan	normalWikiTitle:melphalan	predictedType:Chemical
+ENTITY	text:creatinine	normalName:creatinine	predictedType:chemical	q:true	qid:Q374	docId:15696449	origText:creatinine	url:D003404
+CANDIDATE	id:3404	inCount:8	outCount:1	links:	url:D003404	name:Creatinine	normalName:creatinine	normalWikiTitle:creatinine	predictedType:Chemical

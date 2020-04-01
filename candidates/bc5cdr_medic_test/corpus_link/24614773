@@ -1,0 +1,10 @@
+ENTITY	text:confusion	normalName:confusion	predictedType:disease	q:true	qid:Q37	docId:24614773	origText:confusion	url:D003221
+CANDIDATE	id:3221	inCount:2	outCount:1	links:6212	url:D003221	name:Confusion	normalName:confusion	normalWikiTitle:confusion	predictedType:Disease
+ENTITY	text:auditory hallucinations	normalName:auditory hallucinations	predictedType:disease	q:true	qid:Q37	docId:24614773	origText:auditory hallucinations	url:D006212
+CANDIDATE	id:6212	inCount:1	outCount:1	links:1927;3221	url:D006212	name:Hallucinations, Auditory	normalName:hallucinations, auditory	normalWikiTitle:hallucinations, auditory	predictedType:Disease
+ENTITY	text:encephalitis	normalName:encephalitis	predictedType:disease	q:true	qid:Q37	docId:24614773	origText:encephalitis	url:D004660
+CANDIDATE	id:4660	inCount:9	outCount:1	links:	url:D004660	name:Encephalitis	normalName:encephalitis	normalWikiTitle:encephalitis	predictedType:Disease
+ENTITY	text:encephalopathy	normalName:encephalopathy	predictedType:disease	q:true	qid:Q37	docId:24614773	origText:encephalopathy	url:D001927
+CANDIDATE	id:1927	inCount:55	outCount:1	links:6212	url:D001927	name:Encephalopathy	normalName:encephalopathy	normalWikiTitle:encephalopathy	predictedType:Disease
+ENTITY	text:hemiparesis	normalName:hemiparesis	predictedType:disease	q:true	qid:Q37	docId:24614773	origText:hemiparesis	url:D010291
+CANDIDATE	id:10291	inCount:3	outCount:1	links:	url:D010291	name:Hemiparesis	normalName:hemiparesis	normalWikiTitle:hemiparesis	predictedType:Disease

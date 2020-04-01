@@ -1,0 +1,83 @@
+ENTITY	text:carcinoma of the urinary tract	normalName:carcinoma of the urinary tract	predictedType:disease	q:true	qid:Q338	docId:7248895	origText:carcinoma of the urinary tract	url:D014571
+CANDIDATE	id:14571	inCount:4	outCount:1	links:14571	url:D014571	name:Urinary Tract Cancers	normalName:urinary tract cancers	normalWikiTitle:urinary tract cancers	predictedType:Disease
+CANDIDATE	id:2295	inCount:0	outCount:1	links:	url:D002295	name:Carcinoma, Transitional Cell	normalName:carcinoma, transitional cell	normalWikiTitle:carcinoma, transitional cell	predictedType:Disease
+CANDIDATE	id:14552	inCount:3	outCount:2	links:	url:D014552	name:Urinary Tract Infections	normalName:urinary tract infections	normalWikiTitle:urinary tract infections	predictedType:Disease
+CANDIDATE	id:6528	inCount:3	outCount:2	links:	url:D006528	name:Carcinoma, Hepatocellular	normalName:carcinoma, hepatocellular	normalWikiTitle:carcinoma, hepatocellular	predictedType:Disease
+CANDIDATE	id:77216	inCount:0	outCount:2	links:	url:D000077216	name:Carcinoma, Ovarian Epithelial	normalName:carcinoma, ovarian epithelial	normalWikiTitle:carcinoma, ovarian epithelial	predictedType:Disease
+CANDIDATE	id:538232	inCount:0	outCount:2	links:538232	url:C538232	name:Adenosarcoma of the uterus	normalName:adenosarcoma of the uterus	normalWikiTitle:adenosarcoma of the uterus	predictedType:Disease
+CANDIDATE	id:53201	inCount:0	outCount:2	links:53201	url:D053201	name:Urinary Bladder, Overactive	normalName:urinary bladder, overactive	normalWikiTitle:urinary bladder, overactive	predictedType:Disease
+CANDIDATE	id:2291	inCount:2	outCount:2	links:	url:D002291	name:Carcinoma, Papillary	normalName:carcinoma, papillary	normalWikiTitle:carcinoma, papillary	predictedType:Disease
+CANDIDATE	id:18276	inCount:1	outCount:2	links:	url:D018276	name:Carcinoma, Medullary	normalName:carcinoma, medullary	normalWikiTitle:carcinoma, medullary	predictedType:Disease
+CANDIDATE	id:18265	inCount:0	outCount:2	links:	url:D018265	name:Carcinoma, Papillary, Follicular	normalName:carcinoma, papillary, follicular	normalWikiTitle:carcinoma, papillary, follicular	predictedType:Disease
+CANDIDATE	id:18275	inCount:0	outCount:3	links:	url:D018275	name:Carcinoma, Lobular	normalName:carcinoma, lobular	normalWikiTitle:carcinoma, lobular	predictedType:Disease
+CANDIDATE	id:14571	inCount:4	outCount:1	links:14571	url:D014571	name:Cancer of the Urinary Tract	normalName:cancer of the urinary tract	normalWikiTitle:cancer of the urinary tract	predictedType:Disease
+CANDIDATE	id:14571	inCount:4	outCount:1	links:14571	url:D014571	name:Cancer of Urinary Tract	normalName:cancer of urinary tract	normalWikiTitle:cancer of urinary tract	predictedType:Disease
+CANDIDATE	id:14571	inCount:4	outCount:1	links:14571	url:D014571	name:Cancer, Urinary Tract	normalName:cancer, urinary tract	normalWikiTitle:cancer, urinary tract	predictedType:Disease
+CANDIDATE	id:14571	inCount:4	outCount:1	links:14571	url:D014571	name:Urinary Tract Cancer	normalName:urinary tract cancer	normalWikiTitle:urinary tract cancer	predictedType:Disease
+CANDIDATE	id:14571	inCount:4	outCount:1	links:14571	url:D014571	name:Cancers, Urinary Tract	normalName:cancers, urinary tract	normalWikiTitle:cancers, urinary tract	predictedType:Disease
+CANDIDATE	id:536474	inCount:0	outCount:2	links:536474	url:C536474	name:Adenocarcinoma of the urachus	normalName:adenocarcinoma of the urachus	normalWikiTitle:adenocarcinoma of the urachus	predictedType:Disease
+CANDIDATE	id:14552	inCount:3	outCount:2	links:	url:D014552	name:Tract Infection, Urinary	normalName:tract infection, urinary	normalWikiTitle:tract infection, urinary	predictedType:Disease
+CANDIDATE	id:14552	inCount:3	outCount:2	links:	url:D014552	name:Urinary Tract Infection	normalName:urinary tract infection	normalWikiTitle:urinary tract infection	predictedType:Disease
+CANDIDATE	id:14552	inCount:3	outCount:2	links:	url:D014552	name:Infection, Urinary Tract	normalName:infection, urinary tract	normalWikiTitle:infection, urinary tract	predictedType:Disease
+ENTITY	text:carcinoma	normalName:carcinoma	predictedType:disease	q:true	qid:Q338	docId:7248895	origText:carcinoma	url:D002277
+CANDIDATE	id:2277	inCount:25	outCount:1	links:6417;1749;1745;6470	url:D002277	name:Carcinoma	normalName:carcinoma	normalWikiTitle:carcinoma	predictedType:Disease
+ENTITY	text:carcinomas of the urinary bladder	normalName:carcinomas of the urinary bladder	predictedType:disease	q:true	qid:Q338	docId:7248895	origText:carcinomas of the urinary bladder	url:D001749
+CANDIDATE	id:1749	inCount:2	outCount:2	links:6417;2277;6470	url:D001749	name:Cancer, Urinary Bladder	normalName:cancer, urinary bladder	normalWikiTitle:cancer, urinary bladder	predictedType:Disease
+CANDIDATE	id:1744	inCount:0	outCount:2	links:	url:D001744	name:Urinary Bladder Calculi	normalName:urinary bladder calculi	normalWikiTitle:urinary bladder calculi	predictedType:Disease
+CANDIDATE	id:1745	inCount:13	outCount:1	links:6417;2277;6470	url:D001745	name:Urinary Bladder Diseases	normalName:urinary bladder diseases	normalWikiTitle:urinary bladder diseases	predictedType:Disease
+CANDIDATE	id:1749	inCount:2	outCount:2	links:6417;2277;6470	url:D001749	name:Urinary Bladder Neoplasms	normalName:urinary bladder neoplasms	normalWikiTitle:urinary bladder neoplasms	predictedType:Disease
+CANDIDATE	id:1747	inCount:1	outCount:2	links:	url:D001747	name:Urinary Bladder Fistula	normalName:urinary bladder fistula	normalWikiTitle:urinary bladder fistula	predictedType:Disease
+CANDIDATE	id:53201	inCount:0	outCount:2	links:53201	url:D053201	name:Urinary Bladder, Overactive	normalName:urinary bladder, overactive	normalWikiTitle:urinary bladder, overactive	predictedType:Disease
+CANDIDATE	id:77295	inCount:0	outCount:2	links:	url:D000077295	name:Urinary Bladder, Underactive	normalName:urinary bladder, underactive	normalWikiTitle:urinary bladder, underactive	predictedType:Disease
+CANDIDATE	id:565972	inCount:0	outCount:1	links:	url:C565972	name:Adrenocortical Carcinoma, Hereditary	normalName:adrenocortical carcinoma, hereditary	normalWikiTitle:adrenocortical carcinoma, hereditary	predictedType:Disease
+CANDIDATE	id:1748	inCount:0	outCount:2	links:	url:D001748	name:Urinary Bladder Neck Obstruction	normalName:urinary bladder neck obstruction	normalWikiTitle:urinary bladder neck obstruction	predictedType:Disease
+CANDIDATE	id:538232	inCount:0	outCount:2	links:538232	url:C538232	name:Adenosarcoma of the uterus	normalName:adenosarcoma of the uterus	normalWikiTitle:adenosarcoma of the uterus	predictedType:Disease
+CANDIDATE	id:1750	inCount:0	outCount:2	links:	url:D001750	name:Urinary Bladder, Neurogenic	normalName:urinary bladder, neurogenic	normalWikiTitle:urinary bladder, neurogenic	predictedType:Disease
+CANDIDATE	id:1744	inCount:0	outCount:2	links:	url:D001744	name:Calculi of Urinary Bladder	normalName:calculi of urinary bladder	normalWikiTitle:calculi of urinary bladder	predictedType:Disease
+CANDIDATE	id:1749	inCount:2	outCount:2	links:6417;2277;6470	url:D001749	name:Malignant Tumor of Urinary Bladder	normalName:malignant tumor of urinary bladder	normalWikiTitle:malignant tumor of urinary bladder	predictedType:Disease
+CANDIDATE	id:536474	inCount:0	outCount:2	links:536474	url:C536474	name:Adenocarcinoma of the urachus	normalName:adenocarcinoma of the urachus	normalWikiTitle:adenocarcinoma of the urachus	predictedType:Disease
+CANDIDATE	id:52858	inCount:0	outCount:2	links:	url:D052858	name:Urinary Bladder Prolapse	normalName:urinary bladder prolapse	normalWikiTitle:urinary bladder prolapse	predictedType:Disease
+CANDIDATE	id:52858	inCount:0	outCount:2	links:	url:D052858	name:Prolapse, Urinary Bladder	normalName:prolapse, urinary bladder	normalWikiTitle:prolapse, urinary bladder	predictedType:Disease
+CANDIDATE	id:1749	inCount:2	outCount:2	links:6417;2277;6470	url:D001749	name:Urinary Bladder Cancer	normalName:urinary bladder cancer	normalWikiTitle:urinary bladder cancer	predictedType:Disease
+ENTITY	text:cerebral vasculitis	normalName:cerebral vasculitis	predictedType:disease	q:true	qid:Q338	docId:7248895	origText:cerebral vasculitis	url:D020293
+CANDIDATE	id:20293	inCount:6	outCount:3	links:	url:D020293	name:Cerebral Vasculitis	normalName:cerebral vasculitis	normalWikiTitle:cerebral vasculitis	predictedType:Disease
+ENTITY	text:hematuria	normalName:hematuria	predictedType:disease	q:true	qid:Q338	docId:7248895	origText:hematuria	url:D006417
+CANDIDATE	id:6417	inCount:2	outCount:2	links:6470;1749;2277;1745	url:D006417	name:Hematuria	normalName:hematuria	normalWikiTitle:hematuria	predictedType:Disease
+ENTITY	text:tumor	normalName:tumor	predictedType:disease	q:true	qid:Q338	docId:7248895	origText:tumor	url:D009369
+CANDIDATE	id:9369	inCount:18	outCount:1	links:	url:D009369	name:Tumor	normalName:tumor	normalWikiTitle:tumor	predictedType:Disease
+ENTITY	text:urinary tract cancer	normalName:urinary tract cancer	predictedType:disease	q:true	qid:Q338	docId:7248895	origText:urinary tract cancer	url:D014571
+CANDIDATE	id:14571	inCount:4	outCount:1	links:14571	url:D014571	name:Urinary Tract Cancer	normalName:urinary tract cancer	normalWikiTitle:urinary tract cancer	predictedType:Disease
+ENTITY	text:hydroureteronephrosis	normalName:hydroureteronephrosis	predictedType:disease	q:true	qid:Q338	docId:7248895	origText:hydroureteronephrosis	url:D006869
+CANDIDATE	id:6869	inCount:5	outCount:1	links:	url:D006869	name:Hydronephrosis	normalName:hydronephrosis	normalWikiTitle:hydronephrosis	predictedType:Disease
+CANDIDATE	id:6833	inCount:0	outCount:1	links:	url:D006833	name:Hydrarthrosis	normalName:hydrarthrosis	normalWikiTitle:hydrarthrosis	predictedType:Disease
+CANDIDATE	id:53018	inCount:0	outCount:1	links:	url:D053018	name:Pyonephrosis	normalName:pyonephrosis	normalWikiTitle:pyonephrosis	predictedType:Disease
+CANDIDATE	id:10020	inCount:5	outCount:2	links:	url:D010020	name:Osteonecrosis	normalName:osteonecrosis	normalWikiTitle:osteonecrosis	predictedType:Disease
+CANDIDATE	id:10025	inCount:0	outCount:1	links:	url:D010025	name:Osteoradionecrosis	normalName:osteoradionecrosis	normalWikiTitle:osteoradionecrosis	predictedType:Disease
+CANDIDATE	id:10024	inCount:21	outCount:1	links:	url:D010024	name:Osteoporosis	normalName:osteoporosis	normalWikiTitle:osteoporosis	predictedType:Disease
+CANDIDATE	id:9401	inCount:8	outCount:1	links:	url:D009401	name:Nephrosis	normalName:nephrosis	normalWikiTitle:nephrosis	predictedType:Disease
+CANDIDATE	id:53039	inCount:1	outCount:2	links:	url:D053039	name:Ureterolithiasis	normalName:ureterolithiasis	normalWikiTitle:ureterolithiasis	predictedType:Disease
+CANDIDATE	id:564871	inCount:0	outCount:1	links:	url:C564871	name:Progesterone Resistance	normalName:progesterone resistance	normalWikiTitle:progesterone resistance	predictedType:Disease
+CANDIDATE	id:9394	inCount:11	outCount:3	links:	url:D009394	name:Nephritis, Hereditary	normalName:nephritis, hereditary	normalWikiTitle:nephritis, hereditary	predictedType:Disease
+ENTITY	text:bleeding	normalName:bleeding	predictedType:disease	q:true	qid:Q338	docId:7248895	origText:bleeding	url:D006470
+CANDIDATE	id:6470	inCount:31	outCount:1	links:6417;1749;2277;1745	url:D006470	name:Bleeding	normalName:bleeding	normalWikiTitle:bleeding	predictedType:Disease
+ENTITY	text:carcinoma of the prostate	normalName:carcinoma of the prostate	predictedType:disease	q:true	qid:Q338	docId:7248895	origText:carcinoma of the prostate	url:D011471
+CANDIDATE	id:11471	inCount:19	outCount:2	links:	url:D011471	name:Cancer of Prostate	normalName:cancer of prostate	normalWikiTitle:cancer of prostate	predictedType:Disease
+CANDIDATE	id:2278	inCount:4	outCount:1	links:	url:D002278	name:Carcinoma in Situ	normalName:carcinoma in situ	normalWikiTitle:carcinoma in situ	predictedType:Disease
+CANDIDATE	id:562463	inCount:0	outCount:1	links:	url:C562463	name:Pancreatic Carcinoma	normalName:pancreatic carcinoma	normalWikiTitle:pancreatic carcinoma	predictedType:Disease
+CANDIDATE	id:18273	inCount:4	outCount:2	links:	url:D018273	name:Carcinoma, Islet Cell	normalName:carcinoma, islet cell	normalWikiTitle:carcinoma, islet cell	predictedType:Disease
+CANDIDATE	id:562943	inCount:0	outCount:2	links:	url:C562943	name:Choroid Plexus Carcinoma	normalName:choroid plexus carcinoma	normalWikiTitle:choroid plexus carcinoma	predictedType:Disease
+CANDIDATE	id:535837	inCount:0	outCount:2	links:	url:C535837	name:Pancreatic carcinoma, familial	normalName:pancreatic carcinoma, familial	normalWikiTitle:pancreatic carcinoma, familial	predictedType:Disease
+CANDIDATE	id:538232	inCount:0	outCount:2	links:538232	url:C538232	name:Adenosarcoma of the uterus	normalName:adenosarcoma of the uterus	normalWikiTitle:adenosarcoma of the uterus	predictedType:Disease
+CANDIDATE	id:18279	inCount:1	outCount:2	links:	url:D018279	name:Carcinoma, Signet Ring Cell	normalName:carcinoma, signet ring cell	normalWikiTitle:carcinoma, signet ring cell	predictedType:Disease
+CANDIDATE	id:9202	inCount:37	outCount:1	links:	url:D009202	name:Cardiomyopathies	normalName:cardiomyopathies	normalWikiTitle:cardiomyopathies	predictedType:Disease
+CANDIDATE	id:18289	inCount:1	outCount:2	links:	url:D018289	name:Carcinoma, Verrucous	normalName:carcinoma, verrucous	normalWikiTitle:carcinoma, verrucous	predictedType:Disease
+CANDIDATE	id:18236	inCount:0	outCount:1	links:	url:D018236	name:Carcinoma, Embryonal	normalName:carcinoma, embryonal	normalWikiTitle:carcinoma, embryonal	predictedType:Disease
+CANDIDATE	id:11471	inCount:19	outCount:2	links:	url:D011471	name:Cancer of the Prostate	normalName:cancer of the prostate	normalWikiTitle:cancer of the prostate	predictedType:Disease
+CANDIDATE	id:21441	inCount:0	outCount:2	links:	url:D021441	name:Ductal Carcinoma of the Pancreas	normalName:ductal carcinoma of the pancreas	normalWikiTitle:ductal carcinoma of the pancreas	predictedType:Disease
+CANDIDATE	id:21441	inCount:0	outCount:2	links:	url:D021441	name:Duct-Cell Carcinoma of the Pancreas	normalName:duct-cell carcinoma of the pancreas	normalWikiTitle:duct-cell carcinoma of the pancreas	predictedType:Disease
+CANDIDATE	id:21441	inCount:0	outCount:2	links:	url:D021441	name:Duct Cell Carcinoma of the Pancreas	normalName:duct cell carcinoma of the pancreas	normalWikiTitle:duct cell carcinoma of the pancreas	predictedType:Disease
+CANDIDATE	id:18288	inCount:1	outCount:1	links:	url:D018288	name:Carcinoma, Oat Cell	normalName:carcinoma, oat cell	normalWikiTitle:carcinoma, oat cell	predictedType:Disease
+CANDIDATE	id:10307	inCount:1	outCount:2	links:	url:D010307	name:Cancer of the Parotid	normalName:cancer of the parotid	normalWikiTitle:cancer of the parotid	predictedType:Disease
+CANDIDATE	id:77273	inCount:0	outCount:2	links:	url:D000077273	name:Papillary Carcinoma Of Thyroid	normalName:papillary carcinoma of thyroid	normalWikiTitle:papillary carcinoma of thyroid	predictedType:Disease
+CANDIDATE	id:18288	inCount:1	outCount:1	links:	url:D018288	name:Oat Cell Carcinoma	normalName:oat cell carcinoma	normalWikiTitle:oat cell carcinoma	predictedType:Disease
+CANDIDATE	id:10282	inCount:1	outCount:3	links:	url:D010282	name:Carcinoma, Parathyroid	normalName:carcinoma, parathyroid	normalWikiTitle:carcinoma, parathyroid	predictedType:Disease

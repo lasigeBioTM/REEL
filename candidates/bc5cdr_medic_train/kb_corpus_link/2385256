@@ -1,0 +1,57 @@
+ENTITY	text:Myasthenia gravis	normalName:myasthenia gravis	predictedType:disease	q:true	qid:Q277	docId:2385256	origText:Myasthenia gravis	url:D009157
+CANDIDATE	id:9157	inCount:5	outCount:2	links:	url:D009157	name:Myasthenia Gravis	normalName:myasthenia gravis	normalWikiTitle:myasthenia gravis	predictedType:Disease
+ENTITY	text:quadriplegic	normalName:quadriplegic	predictedType:disease	q:true	qid:Q277	docId:2385256	origText:quadriplegic	url:D011782
+CANDIDATE	id:11782	inCount:4	outCount:1	links:	url:D011782	name:Quadriplegia	normalName:quadriplegia	normalWikiTitle:quadriplegia	predictedType:Disease
+CANDIDATE	id:10264	inCount:13	outCount:1	links:	url:D010264	name:Paraplegia	normalName:paraplegia	normalWikiTitle:paraplegia	predictedType:Disease
+CANDIDATE	id:56987	inCount:0	outCount:2	links:	url:D056987	name:Vasoplegia	normalName:vasoplegia	normalWikiTitle:vasoplegia	predictedType:Disease
+CANDIDATE	id:6429	inCount:1	outCount:1	links:	url:D006429	name:Hemiplegia	normalName:hemiplegia	normalWikiTitle:hemiplegia	predictedType:Disease
+CANDIDATE	id:13159	inCount:0	outCount:2	links:	url:D013159	name:Splenic Infarction	normalName:splenic infarction	normalWikiTitle:splenic infarction	predictedType:Disease
+CANDIDATE	id:562561	inCount:0	outCount:1	links:	url:C562561	name:Pyloric Atresia	normalName:pyloric atresia	normalWikiTitle:pyloric atresia	predictedType:Disease
+CANDIDATE	id:17699	inCount:3	outCount:1	links:	url:D017699	name:Pelvic Pain	normalName:pelvic pain	normalWikiTitle:pelvic pain	predictedType:Disease
+CANDIDATE	id:13161	inCount:1	outCount:3	links:	url:D013161	name:Splenic Rupture	normalName:splenic rupture	normalWikiTitle:splenic rupture	predictedType:Disease
+ENTITY	text:paralysis	normalName:paralysis	predictedType:disease	q:true	qid:Q277	docId:2385256	origText:paralysis	url:D010243
+CANDIDATE	id:10243	inCount:10	outCount:1	links:	url:D010243	name:Paralysis	normalName:paralysis	normalWikiTitle:paralysis	predictedType:Disease
+ENTITY	text:neuromuscular disease	normalName:neuromuscular disease	predictedType:disease	q:true	qid:Q277	docId:2385256	origText:neuromuscular disease	url:D009468
+CANDIDATE	id:9468	inCount:14	outCount:1	links:9468	url:D009468	name:Neuromuscular Disease	normalName:neuromuscular disease	normalWikiTitle:neuromuscular disease	predictedType:Disease
+ENTITY	text:postsynaptic neuromuscular blockade	normalName:postsynaptic neuromuscular blockade	predictedType:disease	q:true	qid:Q277	docId:2385256	origText:postsynaptic neuromuscular blockade	url:D009468
+CANDIDATE	id:9468	inCount:14	outCount:1	links:9468	url:D009468	name:Neuromuscular Diseases	normalName:neuromuscular diseases	normalWikiTitle:neuromuscular diseases	predictedType:Disease
+CANDIDATE	id:565541	inCount:0	outCount:2	links:	url:C565541	name:GSD IV, Neuromuscular Form, Fatal Perinatal	normalName:gsd iv, neuromuscular form, fatal perinatal	normalWikiTitle:gsd iv, neuromuscular form, fatal perinatal	predictedType:Disease
+CANDIDATE	id:564022	inCount:0	outCount:2	links:564022	url:C564022	name:Cyclic Vomiting Syndrome with Neuromuscular Disease	normalName:cyclic vomiting syndrome with neuromuscular disease	normalWikiTitle:cyclic vomiting syndrome with neuromuscular disease	predictedType:Disease
+CANDIDATE	id:563558	inCount:0	outCount:1	links:	url:C563558	name:Muscular Dystrophy, Barnes Type	normalName:muscular dystrophy, barnes type	normalWikiTitle:muscular dystrophy, barnes type	predictedType:Disease
+CANDIDATE	id:563247	inCount:0	outCount:2	links:	url:C563247	name:Muscular Dystrophy, Cardiac Type	normalName:muscular dystrophy, cardiac type	normalWikiTitle:muscular dystrophy, cardiac type	predictedType:Disease
+CANDIDATE	id:538110	inCount:0	outCount:2	links:	url:C538110	name:Pancreatic adenoma	normalName:pancreatic adenoma	normalWikiTitle:pancreatic adenoma	predictedType:Disease
+CANDIDATE	id:51474	inCount:0	outCount:1	links:	url:D051474	name:Neuralgia, Postherpetic	normalName:neuralgia, postherpetic	normalWikiTitle:neuralgia, postherpetic	predictedType:Disease
+CANDIDATE	id:570377	inCount:0	outCount:1	links:	url:C570377	name:Benign Pseudohypertrophic Muscular Dystrophy	normalName:benign pseudohypertrophic muscular dystrophy	normalWikiTitle:benign pseudohypertrophic muscular dystrophy	predictedType:Disease
+CANDIDATE	id:20263	inCount:2	outCount:2	links:	url:D020263	name:Lead Poisoning, Nervous System	normalName:lead poisoning, nervous system	normalWikiTitle:lead poisoning, nervous system	predictedType:Disease
+CANDIDATE	id:11471	inCount:19	outCount:2	links:	url:D011471	name:Prostatic Neoplasms	normalName:prostatic neoplasms	normalWikiTitle:prostatic neoplasms	predictedType:Disease
+CANDIDATE	id:55191	inCount:0	outCount:1	links:	url:D055191	name:Blockade, Residual Neuromuscular	normalName:blockade, residual neuromuscular	normalWikiTitle:blockade, residual neuromuscular	predictedType:Disease
+CANDIDATE	id:55191	inCount:0	outCount:1	links:	url:D055191	name:Neuromuscular Blockade, Residual	normalName:neuromuscular blockade, residual	normalWikiTitle:neuromuscular blockade, residual	predictedType:Disease
+CANDIDATE	id:55191	inCount:0	outCount:1	links:	url:D055191	name:Residual Neuromuscular Blockade	normalName:residual neuromuscular blockade	normalWikiTitle:residual neuromuscular blockade	predictedType:Disease
+CANDIDATE	id:55191	inCount:0	outCount:1	links:	url:D055191	name:Residual Neuromuscular Blockades	normalName:residual neuromuscular blockades	normalWikiTitle:residual neuromuscular blockades	predictedType:Disease
+CANDIDATE	id:55191	inCount:0	outCount:1	links:	url:D055191	name:Neuromuscular Blockades, Residual	normalName:neuromuscular blockades, residual	normalWikiTitle:neuromuscular blockades, residual	predictedType:Disease
+CANDIDATE	id:55191	inCount:0	outCount:1	links:	url:D055191	name:Blockades, Residual Neuromuscular	normalName:blockades, residual neuromuscular	normalWikiTitle:blockades, residual neuromuscular	predictedType:Disease
+CANDIDATE	id:55191	inCount:0	outCount:1	links:	url:D055191	name:Residual Neuromuscular Block	normalName:residual neuromuscular block	normalWikiTitle:residual neuromuscular block	predictedType:Disease
+CANDIDATE	id:55191	inCount:0	outCount:1	links:	url:D055191	name:Neuromuscular Block, Residual	normalName:neuromuscular block, residual	normalWikiTitle:neuromuscular block, residual	predictedType:Disease
+CANDIDATE	id:55191	inCount:0	outCount:1	links:	url:D055191	name:Block, Residual Neuromuscular	normalName:block, residual neuromuscular	normalWikiTitle:block, residual neuromuscular	predictedType:Disease
+CANDIDATE	id:55191	inCount:0	outCount:1	links:	url:D055191	name:Neuromuscular Blocks, Residual	normalName:neuromuscular blocks, residual	normalWikiTitle:neuromuscular blocks, residual	predictedType:Disease
+ENTITY	text:preeclampsia	normalName:preeclampsia	predictedType:disease	q:true	qid:Q277	docId:2385256	origText:preeclampsia	url:D011225
+CANDIDATE	id:11225	inCount:4	outCount:1	links:	url:D011225	name:Preeclampsia	normalName:preeclampsia	normalWikiTitle:preeclampsia	predictedType:Disease
+ENTITY	text:disorder of neuromuscular transmission	normalName:disorder of neuromuscular transmission	predictedType:disease	q:true	qid:Q277	docId:2385256	origText:disorder of neuromuscular transmission	url:D020511
+CANDIDATE	id:20511	inCount:4	outCount:1	links:	url:D020511	name:Neuromuscular Junction Disorders	normalName:neuromuscular junction disorders	normalWikiTitle:neuromuscular junction disorders	predictedType:Disease
+CANDIDATE	id:7280	inCount:2	outCount:1	links:	url:D007280	name:Disorders of Environmental Origin	normalName:disorders of environmental origin	normalWikiTitle:disorders of environmental origin	predictedType:Disease
+CANDIDATE	id:19965	inCount:6	outCount:1	links:	url:D019965	name:Neurocognitive Disorders	normalName:neurocognitive disorders	normalWikiTitle:neurocognitive disorders	predictedType:Disease
+CANDIDATE	id:20922	inCount:0	outCount:1	links:	url:D020922	name:Sleep-Wake Transition Disorders	normalName:sleep-wake transition disorders	normalWikiTitle:sleep-wake transition disorders	predictedType:Disease
+CANDIDATE	id:9468	inCount:14	outCount:1	links:9468	url:D009468	name:Neuromuscular Diseases	normalName:neuromuscular diseases	normalWikiTitle:neuromuscular diseases	predictedType:Disease
+CANDIDATE	id:9748	inCount:6	outCount:1	links:	url:D009748	name:Nutrition Disorders	normalName:nutrition disorders	normalWikiTitle:nutrition disorders	predictedType:Disease
+CANDIDATE	id:9497	inCount:0	outCount:2	links:	url:D009497	name:Neurotic Disorders	normalName:neurotic disorders	normalWikiTitle:neurotic disorders	predictedType:Disease
+CANDIDATE	id:48070	inCount:0	outCount:2	links:	url:D048070	name:Fetal Nutrition Disorders	normalName:fetal nutrition disorders	normalWikiTitle:fetal nutrition disorders	predictedType:Disease
+CANDIDATE	id:566024	inCount:0	outCount:2	links:	url:C566024	name:Transient Myeloproliferative Disorder of Down Syndrome	normalName:transient myeloproliferative disorder of down syndrome	normalWikiTitle:transient myeloproliferative disorder of down syndrome	predictedType:Disease
+CANDIDATE	id:564022	inCount:0	outCount:2	links:564022	url:C564022	name:Cyclic Vomiting Syndrome with Neuromuscular Disease	normalName:cyclic vomiting syndrome with neuromuscular disease	normalWikiTitle:cyclic vomiting syndrome with neuromuscular disease	predictedType:Disease
+CANDIDATE	id:14786	inCount:19	outCount:2	links:	url:D014786	name:Vision Disorders	normalName:vision disorders	normalWikiTitle:vision disorders	predictedType:Disease
+CANDIDATE	id:20511	inCount:4	outCount:1	links:	url:D020511	name:Neuromuscular Transmission Disorder	normalName:neuromuscular transmission disorder	normalWikiTitle:neuromuscular transmission disorder	predictedType:Disease
+CANDIDATE	id:20511	inCount:4	outCount:1	links:	url:D020511	name:Neuromuscular Transmission Disorders	normalName:neuromuscular transmission disorders	normalWikiTitle:neuromuscular transmission disorders	predictedType:Disease
+CANDIDATE	id:20511	inCount:4	outCount:1	links:	url:D020511	name:Toxic Disorders, Neuromuscular Junction	normalName:toxic disorders, neuromuscular junction	normalWikiTitle:toxic disorders, neuromuscular junction	predictedType:Disease
+CANDIDATE	id:20511	inCount:4	outCount:1	links:	url:D020511	name:Neuromuscular Junction Toxic Disorders	normalName:neuromuscular junction toxic disorders	normalWikiTitle:neuromuscular junction toxic disorders	predictedType:Disease
+CANDIDATE	id:20752	inCount:17	outCount:2	links:	url:D020752	name:Neurocutaneous Disorder	normalName:neurocutaneous disorder	normalWikiTitle:neurocutaneous disorder	predictedType:Disease
+CANDIDATE	id:20752	inCount:17	outCount:2	links:	url:D020752	name:Neurocutaneous Disorders	normalName:neurocutaneous disorders	normalWikiTitle:neurocutaneous disorders	predictedType:Disease
+CANDIDATE	id:20511	inCount:4	outCount:1	links:	url:D020511	name:Neuromuscular Junction Disorder	normalName:neuromuscular junction disorder	normalWikiTitle:neuromuscular junction disorder	predictedType:Disease

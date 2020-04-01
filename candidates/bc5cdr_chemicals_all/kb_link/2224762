@@ -1,0 +1,34 @@
+ENTITY	text:Adriamycinol	normalName:adriamycinol	predictedType:chemical	q:true	qid:Q93	docId:2224762	origText:Adriamycinol	url:C010013
+CANDIDATE	id:10013	inCount:0	outCount:1	links:	url:C010013	name:adriamycinol	normalName:adriamycinol	normalWikiTitle:adriamycinol	predictedType:Chemical
+ENTITY	text:Pirarubicin	normalName:pirarubicin	predictedType:chemical	q:true	qid:Q93	docId:2224762	origText:Pirarubicin	url:C027260
+CANDIDATE	id:27260	inCount:0	outCount:1	links:27260	url:C027260	name:pirarubicin	normalName:pirarubicin	normalWikiTitle:pirarubicin	predictedType:Chemical
+ENTITY	text:doxorubicin	normalName:doxorubicin	predictedType:chemical	q:true	qid:Q93	docId:2224762	origText:doxorubicin	url:D004317
+CANDIDATE	id:4317	inCount:559	outCount:1	links:	url:D004317	name:Doxorubicin	normalName:doxorubicin	normalWikiTitle:doxorubicin	predictedType:Chemical
+ENTITY	text:tetrahydropyranyladriamycinol	normalName:tetrahydropyranyladriamycinol	predictedType:chemical	q:true	qid:Q93	docId:2224762	origText:tetrahydropyranyladriamycinol	url:C027260
+CANDIDATE	id:27260	inCount:0	outCount:1	links:27260	url:C027260	name:4'-O-tetrahydropyranyldoxorubicin	normalName:4'-o-tetrahydropyranyldoxorubicin	normalWikiTitle:4'-o-tetrahydropyranyldoxorubicin	predictedType:Chemical
+CANDIDATE	id:5909	inCount:0	outCount:1	links:	url:C005909	name:tetrahydrotriamcinolone	normalName:tetrahydrotriamcinolone	normalWikiTitle:tetrahydrotriamcinolone	predictedType:Chemical
+CANDIDATE	id:505709	inCount:0	outCount:1	links:	url:C505709	name:tetrahydropyrimidinone	normalName:tetrahydropyrimidinone	normalWikiTitle:tetrahydropyrimidinone	predictedType:Chemical
+CANDIDATE	id:625424	inCount:0	outCount:1	links:	url:C000625424	name:tetrahydropyridoindole	normalName:tetrahydropyridoindole	normalWikiTitle:tetrahydropyridoindole	predictedType:Chemical
+CANDIDATE	id:479778	inCount:0	outCount:1	links:	url:C479778	name:tetrahydroxyflavanol	normalName:tetrahydroxyflavanol	normalWikiTitle:tetrahydroxyflavanol	predictedType:Chemical
+CANDIDATE	id:514548	inCount:0	outCount:1	links:514548	url:C514548	name:tetrahydroazadirachtin-A	normalName:tetrahydroazadirachtin-a	normalWikiTitle:tetrahydroazadirachtin-a	predictedType:Chemical
+CANDIDATE	id:79220	inCount:0	outCount:1	links:79220	url:C079220	name:tetrahydroproscillaridin	normalName:tetrahydroproscillaridin	normalWikiTitle:tetrahydroproscillaridin	predictedType:Chemical
+CANDIDATE	id:69426	inCount:0	outCount:1	links:69426	url:C069426	name:tetrahydropyridostigmine	normalName:tetrahydropyridostigmine	normalWikiTitle:tetrahydropyridostigmine	predictedType:Chemical
+CANDIDATE	id:19105	inCount:0	outCount:2	links:19105	url:C019105	name:2-tetrahydropyranylbenzoate	normalName:2-tetrahydropyranylbenzoate	normalWikiTitle:2-tetrahydropyranylbenzoate	predictedType:Chemical
+CANDIDATE	id:14215	inCount:0	outCount:1	links:	url:C014215	name:tetrahydropalmatine	normalName:tetrahydropalmatine	normalWikiTitle:tetrahydropalmatine	predictedType:Chemical
+CANDIDATE	id:54552	inCount:0	outCount:1	links:	url:C054552	name:N-trifluoroacetyladriamycinol	normalName:n-trifluoroacetyladriamycinol	normalWikiTitle:n-trifluoroacetyladriamycinol	predictedType:Chemical
+CANDIDATE	id:27260	inCount:0	outCount:1	links:27260	url:C027260	name:4'-O-tetrahydropyranyladriamycin	normalName:4'-o-tetrahydropyranyladriamycin	normalWikiTitle:4'-o-tetrahydropyranyladriamycin	predictedType:Chemical
+ENTITY	text:4'-0-tetrahydropyranyladriamycin	normalName:4'-0-tetrahydropyranyladriamycin	predictedType:chemical	q:true	qid:Q93	docId:2224762	origText:4'-0-tetrahydropyranyladriamycin	url:C027260
+CANDIDATE	id:27260	inCount:0	outCount:1	links:27260	url:C027260	name:4'-O-tetrahydropyranyldoxorubicin	normalName:4'-o-tetrahydropyranyldoxorubicin	normalWikiTitle:4'-o-tetrahydropyranyldoxorubicin	predictedType:Chemical
+CANDIDATE	id:34336	inCount:0	outCount:1	links:	url:C034336	name:9,10-anhydroadriamycin	normalName:9,10-anhydroadriamycin	normalWikiTitle:9,10-anhydroadriamycin	predictedType:Chemical
+CANDIDATE	id:433946	inCount:0	outCount:1	links:	url:C433946	name:10-hydroxydesacetyladriamycin	normalName:10-hydroxydesacetyladriamycin	normalWikiTitle:10-hydroxydesacetyladriamycin	predictedType:Chemical
+CANDIDATE	id:514548	inCount:0	outCount:1	links:514548	url:C514548	name:tetrahydroazadirachtin-A	normalName:tetrahydroazadirachtin-a	normalWikiTitle:tetrahydroazadirachtin-a	predictedType:Chemical
+CANDIDATE	id:68493	inCount:0	outCount:2	links:	url:C068493	name:4-tetrahydropyranyloxy-2-butenal	normalName:4-tetrahydropyranyloxy-2-butenal	normalWikiTitle:4-tetrahydropyranyloxy-2-butenal	predictedType:Chemical
+CANDIDATE	id:19105	inCount:0	outCount:2	links:19105	url:C019105	name:2-tetrahydropyranylbenzoate	normalName:2-tetrahydropyranylbenzoate	normalWikiTitle:2-tetrahydropyranylbenzoate	predictedType:Chemical
+CANDIDATE	id:30793	inCount:0	outCount:1	links:	url:C030793	name:4-demethoxy-11-deoxyadriamycin	normalName:4-demethoxy-11-deoxyadriamycin	normalWikiTitle:4-demethoxy-11-deoxyadriamycin	predictedType:Chemical
+CANDIDATE	id:552147	inCount:0	outCount:1	links:	url:C552147	name:(S)-tetrahydropalmatrubine	normalName:(s)-tetrahydropalmatrubine	normalWikiTitle:(s)-tetrahydropalmatrubine	predictedType:Chemical
+CANDIDATE	id:79220	inCount:0	outCount:1	links:79220	url:C079220	name:tetrahydroproscillaridin	normalName:tetrahydroproscillaridin	normalWikiTitle:tetrahydroproscillaridin	predictedType:Chemical
+CANDIDATE	id:621454	inCount:0	outCount:2	links:	url:C000621454	name:4,5,6,7-tetrahydropyrazolopyrazine	normalName:4,5,6,7-tetrahydropyrazolopyrazine	normalWikiTitle:4,5,6,7-tetrahydropyrazolopyrazine	predictedType:Chemical
+CANDIDATE	id:69426	inCount:0	outCount:1	links:69426	url:C069426	name:tetrahydropyridostigmine	normalName:tetrahydropyridostigmine	normalWikiTitle:tetrahydropyridostigmine	predictedType:Chemical
+CANDIDATE	id:27260	inCount:0	outCount:1	links:27260	url:C027260	name:4'-O-tetrahydropyranyladriamycin	normalName:4'-o-tetrahydropyranyladriamycin	normalWikiTitle:4'-o-tetrahydropyranyladriamycin	predictedType:Chemical
+ENTITY	text:adriamycinone	normalName:adriamycinone	predictedType:chemical	q:true	qid:Q93	docId:2224762	origText:adriamycinone	url:C010012
+CANDIDATE	id:10012	inCount:0	outCount:1	links:	url:C010012	name:adriamycinone	normalName:adriamycinone	normalWikiTitle:adriamycinone	predictedType:Chemical

@@ -1,0 +1,4 @@
+ENTITY	text:urticaria	normalName:urticaria	predictedType:disease	q:true	qid:Q1382	docId:7582165	origText:urticaria	url:D014581
+CANDIDATE	id:14581	inCount:6	outCount:2	links:	url:D014581	name:Urticaria	normalName:urticaria	normalWikiTitle:urticaria	predictedType:Disease
+ENTITY	text:conjunctivitis	normalName:conjunctivitis	predictedType:disease	q:true	qid:Q1382	docId:7582165	origText:conjunctivitis	url:D003231
+CANDIDATE	id:3231	inCount:5	outCount:1	links:	url:D003231	name:Conjunctivitis	normalName:conjunctivitis	normalWikiTitle:conjunctivitis	predictedType:Disease

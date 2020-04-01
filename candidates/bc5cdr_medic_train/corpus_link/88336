@@ -1,0 +1,55 @@
+ENTITY	text:coma	normalName:coma	predictedType:disease	q:true	qid:Q379	docId:88336	origText:coma	url:D003128
+CANDIDATE	id:3128	inCount:3	outCount:1	links:53608;62787	url:D003128	name:Coma	normalName:coma	normalWikiTitle:coma	predictedType:Disease
+ENTITY	text:depression	normalName:depression	predictedType:disease	q:true	qid:Q379	docId:88336	origText:depression	url:D003866
+CANDIDATE	id:3866	inCount:6	outCount:1	links:	url:D003866	name:Depressive Disorder	normalName:depressive disorder	normalWikiTitle:depressive disorder	predictedType:Disease
+CANDIDATE	id:18450	inCount:2	outCount:1	links:	url:D018450	name:Disease Progression	normalName:disease progression	normalWikiTitle:disease progression	predictedType:Disease
+CANDIDATE	id:19052	inCount:0	outCount:2	links:	url:D019052	name:Depression, Postpartum	normalName:depression, postpartum	normalWikiTitle:depression, postpartum	predictedType:Disease
+CANDIDATE	id:146850	inCount:0	outCount:2	links:	url:146850	name:IMMUNE SUPPRESSION	normalName:immune suppression	normalWikiTitle:immune suppression	predictedType:Disease
+CANDIDATE	id:6973	inCount:18	outCount:1	links:2534	url:D006973	name:Hypertension	normalName:hypertension	normalWikiTitle:hypertension	predictedType:Disease
+CANDIDATE	id:58246	inCount:0	outCount:1	links:	url:D058246	name:Prehypertension	normalName:prehypertension	normalWikiTitle:prehypertension	predictedType:Disease
+CANDIDATE	id:14786	inCount:19	outCount:2	links:	url:D014786	name:Vision Disorders	normalName:vision disorders	normalWikiTitle:vision disorders	predictedType:Disease
+CANDIDATE	id:3665	inCount:0	outCount:1	links:	url:D003665	name:Decompression Sickness	normalName:decompression sickness	normalWikiTitle:decompression sickness	predictedType:Disease
+CANDIDATE	id:12871	inCount:71	outCount:1	links:	url:D012871	name:Skin Diseases	normalName:skin diseases	normalWikiTitle:skin diseases	predictedType:Disease
+CANDIDATE	id:4688	inCount:1	outCount:2	links:	url:D004688	name:Encopresis	normalName:encopresis	normalWikiTitle:encopresis	predictedType:Disease
+CANDIDATE	id:1714	inCount:11	outCount:1	links:	url:D001714	name:Depression, Bipolar	normalName:depression, bipolar	normalWikiTitle:depression, bipolar	predictedType:Disease
+CANDIDATE	id:1714	inCount:11	outCount:1	links:	url:D001714	name:Bipolar Depression	normalName:bipolar depression	normalWikiTitle:bipolar depression	predictedType:Disease
+ENTITY	text:hypoxaemia	normalName:hypoxaemia	predictedType:disease	q:true	qid:Q379	docId:88336	origText:hypoxaemia	url:D000860
+CANDIDATE	id:860	inCount:1	outCount:1	links:	url:D000860	name:Hypoxemia	normalName:hypoxemia	normalWikiTitle:hypoxemia	predictedType:Disease
+CANDIDATE	id:7008	inCount:1	outCount:1	links:	url:D007008	name:Hypokalemia	normalName:hypokalemia	normalWikiTitle:hypokalemia	predictedType:Disease
+CANDIDATE	id:6996	inCount:5	outCount:2	links:	url:D006996	name:Hypocalcemia	normalName:hypocalcemia	normalWikiTitle:hypocalcemia	predictedType:Disease
+CANDIDATE	id:860	inCount:1	outCount:1	links:	url:D000860	name:Hypoxia	normalName:hypoxia	normalWikiTitle:hypoxia	predictedType:Disease
+CANDIDATE	id:7010	inCount:1	outCount:1	links:	url:D007010	name:Hyponatremia	normalName:hyponatremia	normalWikiTitle:hyponatremia	predictedType:Disease
+CANDIDATE	id:7035	inCount:2	outCount:1	links:	url:D007035	name:Hypothermia	normalName:hypothermia	normalWikiTitle:hypothermia	predictedType:Disease
+CANDIDATE	id:20896	inCount:0	outCount:1	links:	url:D020896	name:Hypovolemia	normalName:hypovolemia	normalWikiTitle:hypovolemia	predictedType:Disease
+CANDIDATE	id:18496	inCount:0	outCount:1	links:	url:D018496	name:Hyperoxia	normalName:hyperoxia	normalWikiTitle:hyperoxia	predictedType:Disease
+CANDIDATE	id:6940	inCount:0	outCount:1	links:	url:D006940	name:Hyperemia	normalName:hyperemia	normalWikiTitle:hyperemia	predictedType:Disease
+CANDIDATE	id:6947	inCount:4	outCount:1	links:	url:D006947	name:Hyperkalemia	normalName:hyperkalemia	normalWikiTitle:hyperkalemia	predictedType:Disease
+CANDIDATE	id:7003	inCount:14	outCount:1	links:	url:D007003	name:Hypoglycemia	normalName:hypoglycemia	normalWikiTitle:hypoglycemia	predictedType:Disease
+ENTITY	text:comatose	normalName:comatose	predictedType:disease	q:true	qid:Q379	docId:88336	origText:comatose	url:D003128
+CANDIDATE	id:3128	inCount:3	outCount:1	links:53608;62787	url:D003128	name:Comatose	normalName:comatose	normalWikiTitle:comatose	predictedType:Disease
+ENTITY	text:cerebral hypoxia	normalName:cerebral hypoxia	predictedType:disease	q:true	qid:Q379	docId:88336	origText:cerebral hypoxia	url:D002534
+CANDIDATE	id:2534	inCount:1	outCount:1	links:6973	url:D002534	name:Hypoxia, Cerebral	normalName:hypoxia, cerebral	normalWikiTitle:hypoxia, cerebral	predictedType:Disease
+ENTITY	text:stuporous	normalName:stuporous	predictedType:disease	q:true	qid:Q379	docId:88336	origText:stuporous	url:D053608
+CANDIDATE	id:53608	inCount:0	outCount:1	links:3128	url:D053608	name:Stupor	normalName:stupor	normalWikiTitle:stupor	predictedType:Disease
+CANDIDATE	id:10024	inCount:21	outCount:1	links:	url:D010024	name:Osteoporosis	normalName:osteoporosis	normalWikiTitle:osteoporosis	predictedType:Disease
+CANDIDATE	id:10020	inCount:5	outCount:2	links:	url:D010020	name:Osteonecrosis	normalName:osteonecrosis	normalWikiTitle:osteonecrosis	predictedType:Disease
+CANDIDATE	id:10022	inCount:17	outCount:1	links:	url:D010022	name:Osteopetrosis	normalName:osteopetrosis	normalWikiTitle:osteopetrosis	predictedType:Disease
+CANDIDATE	id:13285	inCount:13	outCount:1	links:	url:D013285	name:Strabismus	normalName:strabismus	normalWikiTitle:strabismus	predictedType:Disease
+CANDIDATE	id:20521	inCount:2	outCount:1	links:	url:D020521	name:Stroke	normalName:stroke	normalWikiTitle:stroke	predictedType:Disease
+CANDIDATE	id:57091	inCount:1	outCount:1	links:	url:D057091	name:Poroma	normalName:poroma	normalWikiTitle:poroma	predictedType:Disease
+CANDIDATE	id:536972	inCount:0	outCount:1	links:	url:C536972	name:Torulopsis	normalName:torulopsis	normalWikiTitle:torulopsis	predictedType:Disease
+CANDIDATE	id:18293	inCount:0	outCount:1	links:	url:D018293	name:Cystadenoma, Serous	normalName:cystadenoma, serous	normalWikiTitle:cystadenoma, serous	predictedType:Disease
+CANDIDATE	id:13174	inCount:0	outCount:1	links:	url:D013174	name:Sporotrichosis	normalName:sporotrichosis	normalWikiTitle:sporotrichosis	predictedType:Disease
+ENTITY	text:withdrawal symptoms	normalName:withdrawal symptoms	predictedType:disease	q:true	qid:Q379	docId:88336	origText:withdrawal symptoms	url:D013375
+CANDIDATE	id:13375	inCount:2	outCount:1	links:	url:D013375	name:Symptoms, Withdrawal	normalName:symptoms, withdrawal	normalWikiTitle:symptoms, withdrawal	predictedType:Disease
+ENTITY	text:overdose	normalName:overdose	predictedType:disease	q:true	qid:Q379	docId:88336	origText:overdose	url:D062787
+CANDIDATE	id:62787	inCount:0	outCount:1	links:3128	url:D062787	name:Drug Overdose	normalName:drug overdose	normalWikiTitle:drug overdose	predictedType:Disease
+CANDIDATE	id:57887	inCount:0	outCount:1	links:	url:D057887	name:Overbite	normalName:overbite	normalWikiTitle:overbite	predictedType:Disease
+CANDIDATE	id:8141	inCount:2	outCount:1	links:	url:D008141	name:Lordosis	normalName:lordosis	normalWikiTitle:lordosis	predictedType:Disease
+CANDIDATE	id:564931	inCount:0	outCount:2	links:	url:C564931	name:Oliver Syndrome	normalName:oliver syndrome	normalWikiTitle:oliver syndrome	predictedType:Disease
+CANDIDATE	id:50177	inCount:1	outCount:1	links:	url:D050177	name:Overweight	normalName:overweight	normalWikiTitle:overweight	predictedType:Disease
+CANDIDATE	id:1882	inCount:0	outCount:2	links:	url:D001882	name:Border Disease	normalName:border disease	normalWikiTitle:border disease	predictedType:Disease
+CANDIDATE	id:12393	inCount:1	outCount:1	links:	url:D012393	name:Rosacea	normalName:rosacea	normalWikiTitle:rosacea	predictedType:Disease
+CANDIDATE	id:14717	inCount:2	outCount:2	links:	url:D014717	name:Vertigo	normalName:vertigo	normalWikiTitle:vertigo	predictedType:Disease
+CANDIDATE	id:7918	inCount:2	outCount:1	links:	url:D007918	name:Leprosy	normalName:leprosy	normalWikiTitle:leprosy	predictedType:Disease
+CANDIDATE	id:6732	inCount:1	outCount:2	links:	url:D006732	name:Horner Syndrome	normalName:horner syndrome	normalWikiTitle:horner syndrome	predictedType:Disease

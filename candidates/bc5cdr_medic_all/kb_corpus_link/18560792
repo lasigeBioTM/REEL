@@ -1,0 +1,10 @@
+ENTITY	text:Parkinson's disease	normalName:parkinson's disease	predictedType:disease	q:true	qid:Q309	docId:18560792	origText:Parkinson's disease	url:D010300
+CANDIDATE	id:10300	inCount:31	outCount:2	links:	url:D010300	name:Parkinson's Disease	normalName:parkinson's disease	normalWikiTitle:parkinson's disease	predictedType:Disease
+ENTITY	text:mitral regurgitation	normalName:mitral regurgitation	predictedType:disease	q:true	qid:Q309	docId:18560792	origText:mitral regurgitation	url:D008944
+CANDIDATE	id:8944	inCount:1	outCount:1	links:1022	url:D008944	name:Mitral Regurgitation	normalName:mitral regurgitation	normalWikiTitle:mitral regurgitation	predictedType:Disease
+ENTITY	text:Valvular heart disease	normalName:valvular heart disease	predictedType:disease	q:true	qid:Q309	docId:18560792	origText:Valvular heart disease	url:D006349
+CANDIDATE	id:6349	inCount:17	outCount:1	links:	url:D006349	name:Disease, Valvular Heart	normalName:disease, valvular heart	normalWikiTitle:disease, valvular heart	predictedType:Disease
+ENTITY	text:heart failure	normalName:heart failure	predictedType:disease	q:true	qid:Q309	docId:18560792	origText:heart failure	url:D006333
+CANDIDATE	id:6333	inCount:5	outCount:1	links:	url:D006333	name:Heart Failure	normalName:heart failure	normalWikiTitle:heart failure	predictedType:Disease
+ENTITY	text:aortic regurgitation	normalName:aortic regurgitation	predictedType:disease	q:true	qid:Q309	docId:18560792	origText:aortic regurgitation	url:D001022
+CANDIDATE	id:1022	inCount:0	outCount:1	links:8944	url:D001022	name:Aortic Regurgitation	normalName:aortic regurgitation	normalWikiTitle:aortic regurgitation	predictedType:Disease

@@ -1,0 +1,4 @@
+ENTITY	text:lithium	normalName:lithium	predictedType:chemical	q:true	qid:Q1026	docId:24582773	origText:lithium	url:D008094
+CANDIDATE	id:8094	inCount:15	outCount:2	links:	url:D008094	name:Lithium	normalName:lithium	normalWikiTitle:lithium	predictedType:Chemical
+ENTITY	text:zuclopenthixol	normalName:zuclopenthixol	predictedType:chemical	q:true	qid:Q1026	docId:24582773	origText:zuclopenthixol	url:D003006
+CANDIDATE	id:3006	inCount:2	outCount:1	links:	url:D003006	name:Zuclopenthixol	normalName:zuclopenthixol	normalWikiTitle:zuclopenthixol	predictedType:Chemical

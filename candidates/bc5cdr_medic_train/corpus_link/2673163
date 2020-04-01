@@ -1,0 +1,16 @@
+ENTITY	text:intracerebral hemorrhage	normalName:intracerebral hemorrhage	predictedType:disease	q:true	qid:Q320	docId:2673163	origText:intracerebral hemorrhage	url:D002543
+CANDIDATE	id:2543	inCount:3	outCount:1	links:13345;2544	url:D002543	name:Hemorrhage, Intracerebral	normalName:hemorrhage, intracerebral	normalWikiTitle:hemorrhage, intracerebral	predictedType:Disease
+ENTITY	text:intracranial hemorrhage	normalName:intracranial hemorrhage	predictedType:disease	q:true	qid:Q320	docId:2673163	origText:intracranial hemorrhage	url:D020300
+CANDIDATE	id:20300	inCount:7	outCount:2	links:	url:D020300	name:Intracranial Hemorrhage	normalName:intracranial hemorrhage	normalWikiTitle:intracranial hemorrhage	predictedType:Disease
+ENTITY	text:cerebral vasculitis	normalName:cerebral vasculitis	predictedType:disease	q:true	qid:Q320	docId:2673163	origText:cerebral vasculitis	url:D020293
+CANDIDATE	id:20293	inCount:6	outCount:3	links:	url:D020293	name:Cerebral Vasculitis	normalName:cerebral vasculitis	normalWikiTitle:cerebral vasculitis	predictedType:Disease
+ENTITY	text:Stroke	normalName:stroke	predictedType:disease	q:true	qid:Q320	docId:2673163	origText:Stroke	url:D020521
+CANDIDATE	id:20521	inCount:2	outCount:1	links:	url:D020521	name:Stroke	normalName:stroke	normalWikiTitle:stroke	predictedType:Disease
+ENTITY	text:subarachnoid hemorrhage	normalName:subarachnoid hemorrhage	predictedType:disease	q:true	qid:Q320	docId:2673163	origText:subarachnoid hemorrhage	url:D013345
+CANDIDATE	id:13345	inCount:7	outCount:1	links:2543;2544	url:D013345	name:Subarachnoid Hemorrhage	normalName:subarachnoid hemorrhage	normalWikiTitle:subarachnoid hemorrhage	predictedType:Disease
+ENTITY	text:Intracranial aneurysms	normalName:intracranial aneurysms	predictedType:disease	q:true	qid:Q320	docId:2673163	origText:Intracranial aneurysms	url:D002532
+CANDIDATE	id:2532	inCount:11	outCount:2	links:	url:D002532	name:Aneurysms, Intracranial	normalName:aneurysms, intracranial	normalWikiTitle:aneurysms, intracranial	predictedType:Disease
+ENTITY	text:Cerebral infarction	normalName:cerebral infarction	predictedType:disease	q:true	qid:Q320	docId:2673163	origText:Cerebral infarction	url:D002544
+CANDIDATE	id:2544	inCount:5	outCount:1	links:2543;13345	url:D002544	name:Cerebral Infarction	normalName:cerebral infarction	normalWikiTitle:cerebral infarction	predictedType:Disease
+ENTITY	text:arteriovenous malformations	normalName:arteriovenous malformations	predictedType:disease	q:true	qid:Q320	docId:2673163	origText:arteriovenous malformations	url:D001165
+CANDIDATE	id:1165	inCount:7	outCount:2	links:	url:D001165	name:Arteriovenous Malformations	normalName:arteriovenous malformations	normalWikiTitle:arteriovenous malformations	predictedType:Disease

@@ -1,0 +1,6 @@
+ENTITY	text:seizures	normalName:seizures	predictedType:disease	q:true	qid:Q1238	docId:12921865	origText:seizures	url:D012640
+CANDIDATE	id:12640	inCount:53	outCount:1	links:12640	url:D012640	name:Seizure	normalName:seizure	normalWikiTitle:seizure	predictedType:Disease
+ENTITY	text:drug dependence	normalName:drug dependence	predictedType:disease	q:true	qid:Q1238	docId:12921865	origText:drug dependence	url:D019966
+CANDIDATE	id:19966	inCount:15	outCount:2	links:	url:D019966	name:Drug Dependence	normalName:drug dependence	normalWikiTitle:drug dependence	predictedType:Disease
+ENTITY	text:seizure	normalName:seizure	predictedType:disease	q:true	qid:Q1238	docId:12921865	origText:seizure	url:D012640
+CANDIDATE	id:12640	inCount:53	outCount:1	links:12640	url:D012640	name:Seizure	normalName:seizure	normalWikiTitle:seizure	predictedType:Disease

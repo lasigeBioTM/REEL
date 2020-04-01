@@ -1,0 +1,4 @@
+ENTITY	text:nausea	normalName:nausea	predictedType:disease	q:true	qid:Q832	docId:16680561	origText:nausea	url:D009325
+CANDIDATE	id:9325	inCount:2	outCount:1	links:6261	url:D009325	name:Nausea	normalName:nausea	normalWikiTitle:nausea	predictedType:Disease
+ENTITY	text:headache	normalName:headache	predictedType:disease	q:true	qid:Q832	docId:16680561	origText:headache	url:D006261
+CANDIDATE	id:6261	inCount:2	outCount:1	links:9325	url:D006261	name:Headache	normalName:headache	normalWikiTitle:headache	predictedType:Disease

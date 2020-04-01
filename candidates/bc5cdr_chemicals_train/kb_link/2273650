@@ -1,0 +1,8 @@
+ENTITY	text:morphine	normalName:morphine	predictedType:chemical	q:true	qid:Q421	docId:2273650	origText:morphine	url:D009020
+CANDIDATE	id:9020	inCount:13	outCount:1	links:	url:D009020	name:Morphine	normalName:morphine	normalWikiTitle:morphine	predictedType:Chemical
+ENTITY	text:cycloheximide	normalName:cycloheximide	predictedType:chemical	q:true	qid:Q421	docId:2273650	origText:cycloheximide	url:D003513
+CANDIDATE	id:3513	inCount:5	outCount:1	links:	url:D003513	name:Cycloheximide	normalName:cycloheximide	normalWikiTitle:cycloheximide	predictedType:Chemical
+ENTITY	text:scopolamine	normalName:scopolamine	predictedType:chemical	q:true	qid:Q421	docId:2273650	origText:scopolamine	url:D012601
+CANDIDATE	id:12601	inCount:3	outCount:2	links:	url:D012601	name:Scopolamine	normalName:scopolamine	normalWikiTitle:scopolamine	predictedType:Chemical
+ENTITY	text:naloxone	normalName:naloxone	predictedType:chemical	q:true	qid:Q421	docId:2273650	origText:naloxone	url:D009270
+CANDIDATE	id:9270	inCount:20	outCount:1	links:	url:D009270	name:Naloxone	normalName:naloxone	normalWikiTitle:naloxone	predictedType:Chemical

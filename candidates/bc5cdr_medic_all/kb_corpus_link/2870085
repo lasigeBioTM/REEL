@@ -1,0 +1,17 @@
+ENTITY	text:tachycardia	normalName:tachycardia	predictedType:disease	q:true	qid:Q1265	docId:2870085	origText:tachycardia	url:D013610
+CANDIDATE	id:13610	inCount:7	outCount:2	links:	url:D013610	name:Tachycardia	normalName:tachycardia	normalWikiTitle:tachycardia	predictedType:Disease
+ENTITY	text:chest pain	normalName:chest pain	predictedType:disease	q:true	qid:Q1265	docId:2870085	origText:chest pain	url:D002637
+CANDIDATE	id:2637	inCount:1	outCount:1	links:	url:D002637	name:Chest Pain	normalName:chest pain	normalWikiTitle:chest pain	predictedType:Disease
+ENTITY	text:supraventricular tachyarrhythmia	normalName:supraventricular tachyarrhythmia	predictedType:disease	q:true	qid:Q1265	docId:2870085	origText:supraventricular tachyarrhythmia	url:D013617
+CANDIDATE	id:13617	inCount:3	outCount:1	links:	url:D013617	name:Tachycardia, Supraventricular	normalName:tachycardia, supraventricular	normalWikiTitle:tachycardia, supraventricular	predictedType:Disease
+CANDIDATE	id:16170	inCount:0	outCount:1	links:	url:D016170	name:Accelerated Idioventricular Rhythm	normalName:accelerated idioventricular rhythm	normalWikiTitle:accelerated idioventricular rhythm	predictedType:Disease
+CANDIDATE	id:536112	inCount:0	outCount:1	links:	url:C536112	name:Partial atrioventricular canal	normalName:partial atrioventricular canal	normalWikiTitle:partial atrioventricular canal	predictedType:Disease
+CANDIDATE	id:566237	inCount:0	outCount:1	links:	url:C566237	name:Atrial Tachyarrhythmia with Short PR Interval	normalName:atrial tachyarrhythmia with short pr interval	normalWikiTitle:atrial tachyarrhythmia with short pr interval	predictedType:Disease
+CANDIDATE	id:13611	inCount:0	outCount:1	links:	url:D013611	name:Tachycardia, Atrioventricular Nodal Reentry	normalName:tachycardia, atrioventricular nodal reentry	normalWikiTitle:tachycardia, atrioventricular nodal reentry	predictedType:Disease
+CANDIDATE	id:13920	inCount:0	outCount:3	links:	url:D013920	name:Thrombocythemia, Essential	normalName:thrombocythemia, essential	normalWikiTitle:thrombocythemia, essential	predictedType:Disease
+CANDIDATE	id:536977	inCount:0	outCount:2	links:	url:C536977	name:Tracheobronchopathia osteoplastica	normalName:tracheobronchopathia osteoplastica	normalWikiTitle:tracheobronchopathia osteoplastica	predictedType:Disease
+CANDIDATE	id:13612	inCount:0	outCount:1	links:	url:D013612	name:Tachycardia, Ectopic Atrial	normalName:tachycardia, ectopic atrial	normalWikiTitle:tachycardia, ectopic atrial	predictedType:Disease
+CANDIDATE	id:562481	inCount:0	outCount:1	links:	url:C562481	name:Urticaria, Aquagenic	normalName:urticaria, aquagenic	normalWikiTitle:urticaria, aquagenic	predictedType:Disease
+CANDIDATE	id:562461	inCount:0	outCount:2	links:	url:C562461	name:Annular Erythema	normalName:annular erythema	normalWikiTitle:annular erythema	predictedType:Disease
+ENTITY	text:unstable angina	normalName:unstable angina	predictedType:disease	q:true	qid:Q1265	docId:2870085	origText:unstable angina	url:D000789
+CANDIDATE	id:789	inCount:1	outCount:1	links:	url:D000789	name:Angina, Unstable	normalName:angina, unstable	normalWikiTitle:angina, unstable	predictedType:Disease

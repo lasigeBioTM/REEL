@@ -1,0 +1,6 @@
+ENTITY	text:proteinuria	normalName:proteinuria	predictedType:disease	q:true	qid:Q117	docId:8267029	origText:proteinuria	url:D011507
+CANDIDATE	id:11507	inCount:4	outCount:2	links:5921	url:D011507	name:Proteinuria	normalName:proteinuria	normalWikiTitle:proteinuria	predictedType:Disease
+ENTITY	text:rheumatoid arthritis	normalName:rheumatoid arthritis	predictedType:disease	q:true	qid:Q117	docId:8267029	origText:rheumatoid arthritis	url:D001172
+CANDIDATE	id:1172	inCount:8	outCount:3	links:	url:D001172	name:Arthritis, Rheumatoid	normalName:arthritis, rheumatoid	normalWikiTitle:arthritis, rheumatoid	predictedType:Disease
+ENTITY	text:glomerulonephritis	normalName:glomerulonephritis	predictedType:disease	q:true	qid:Q117	docId:8267029	origText:glomerulonephritis	url:D005921
+CANDIDATE	id:5921	inCount:11	outCount:1	links:11507	url:D005921	name:Glomerulonephritis	normalName:glomerulonephritis	normalWikiTitle:glomerulonephritis	predictedType:Disease

@@ -1,0 +1,6 @@
+ENTITY	text:dehydration	normalName:dehydration	predictedType:disease	q:true	qid:Q1485	docId:9406968	origText:dehydration	url:D003681
+CANDIDATE	id:3681	inCount:0	outCount:2	links:	url:D003681	name:Dehydration	normalName:dehydration	normalWikiTitle:dehydration	predictedType:Disease
+ENTITY	text:diabetes insipidus	normalName:diabetes insipidus	predictedType:disease	q:true	qid:Q1485	docId:9406968	origText:diabetes insipidus	url:D003919
+CANDIDATE	id:3919	inCount:7	outCount:2	links:11141	url:D003919	name:Diabetes Insipidus	normalName:diabetes insipidus	normalWikiTitle:diabetes insipidus	predictedType:Disease
+ENTITY	text:polyuria	normalName:polyuria	predictedType:disease	q:true	qid:Q1485	docId:9406968	origText:polyuria	url:D011141
+CANDIDATE	id:11141	inCount:1	outCount:2	links:3919	url:D011141	name:Polyuria	normalName:polyuria	normalWikiTitle:polyuria	predictedType:Disease

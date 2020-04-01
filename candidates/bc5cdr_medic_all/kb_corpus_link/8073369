@@ -1,0 +1,18 @@
+ENTITY	text:cranial hemorrhage	normalName:cranial hemorrhage	predictedType:disease	q:true	qid:Q71	docId:8073369	origText:cranial hemorrhage	url:D002543
+CANDIDATE	id:2543	inCount:3	outCount:1	links:1176	url:D002543	name:Cerebral Hemorrhage	normalName:cerebral hemorrhage	normalWikiTitle:cerebral hemorrhage	predictedType:Disease
+CANDIDATE	id:5884	inCount:1	outCount:2	links:	url:D005884	name:Gingival Hemorrhage	normalName:gingival hemorrhage	normalWikiTitle:gingival hemorrhage	predictedType:Disease
+CANDIDATE	id:2832	inCount:0	outCount:2	links:	url:D002832	name:Choroid Hemorrhage	normalName:choroid hemorrhage	normalWikiTitle:choroid hemorrhage	predictedType:Disease
+CANDIDATE	id:6471	inCount:3	outCount:2	links:	url:D006471	name:Gastrointestinal Hemorrhage	normalName:gastrointestinal hemorrhage	normalWikiTitle:gastrointestinal hemorrhage	predictedType:Disease
+CANDIDATE	id:20145	inCount:1	outCount:2	links:	url:D020145	name:Basal Ganglia Hemorrhage	normalName:basal ganglia hemorrhage	normalWikiTitle:basal ganglia hemorrhage	predictedType:Disease
+CANDIDATE	id:6470	inCount:31	outCount:1	links:	url:D006470	name:Hemorrhage	normalName:hemorrhage	normalWikiTitle:hemorrhage	predictedType:Disease
+CANDIDATE	id:5130	inCount:4	outCount:3	links:	url:D005130	name:Eye Hemorrhage	normalName:eye hemorrhage	normalWikiTitle:eye hemorrhage	predictedType:Disease
+CANDIDATE	id:6479	inCount:0	outCount:3	links:	url:D006479	name:Hemorrhagic Fever, Crimean	normalName:hemorrhagic fever, crimean	normalWikiTitle:hemorrhagic fever, crimean	predictedType:Disease
+CANDIDATE	id:20202	inCount:0	outCount:2	links:	url:D020202	name:Cerebral Hemorrhage, Traumatic	normalName:cerebral hemorrhage, traumatic	normalWikiTitle:cerebral hemorrhage, traumatic	predictedType:Disease
+CANDIDATE	id:20201	inCount:2	outCount:2	links:	url:D020201	name:Brain Hemorrhage, Traumatic	normalName:brain hemorrhage, traumatic	normalWikiTitle:brain hemorrhage, traumatic	predictedType:Disease
+CANDIDATE	id:2832	inCount:0	outCount:2	links:	url:D002832	name:Choroidal Hemorrhage	normalName:choroidal hemorrhage	normalWikiTitle:choroidal hemorrhage	predictedType:Disease
+CANDIDATE	id:2832	inCount:0	outCount:2	links:	url:D002832	name:Hemorrhage, Choroidal	normalName:hemorrhage, choroidal	normalWikiTitle:hemorrhage, choroidal	predictedType:Disease
+CANDIDATE	id:20300	inCount:7	outCount:2	links:	url:D020300	name:Hemorrhage, Brain	normalName:hemorrhage, brain	normalWikiTitle:hemorrhage, brain	predictedType:Disease
+CANDIDATE	id:2832	inCount:0	outCount:2	links:	url:D002832	name:Choroidal Hemorrhages	normalName:choroidal hemorrhages	normalWikiTitle:choroidal hemorrhages	predictedType:Disease
+CANDIDATE	id:20300	inCount:7	outCount:2	links:	url:D020300	name:Brain Hemorrhage	normalName:brain hemorrhage	normalWikiTitle:brain hemorrhage	predictedType:Disease
+ENTITY	text:arthrogryposis	normalName:arthrogryposis	predictedType:disease	q:true	qid:Q71	docId:8073369	origText:arthrogryposis	url:D001176
+CANDIDATE	id:1176	inCount:69	outCount:3	links:2543	url:D001176	name:Arthrogryposis	normalName:arthrogryposis	normalWikiTitle:arthrogryposis	predictedType:Disease

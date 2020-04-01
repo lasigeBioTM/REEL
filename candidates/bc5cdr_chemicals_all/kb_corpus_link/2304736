@@ -1,0 +1,4 @@
+ENTITY	text:verapamil	normalName:verapamil	predictedType:chemical	q:true	qid:Q1165	docId:2304736	origText:verapamil	url:D014700
+CANDIDATE	id:14700	inCount:37	outCount:1	links:11224	url:D014700	name:Verapamil	normalName:verapamil	normalWikiTitle:verapamil	predictedType:Chemical
+ENTITY	text:Prazosin	normalName:prazosin	predictedType:chemical	q:true	qid:Q1165	docId:2304736	origText:Prazosin	url:D011224
+CANDIDATE	id:11224	inCount:24	outCount:1	links:14700	url:D011224	name:Prazosin	normalName:prazosin	normalWikiTitle:prazosin	predictedType:Chemical

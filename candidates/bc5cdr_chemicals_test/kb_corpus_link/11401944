@@ -1,0 +1,4 @@
+ENTITY	text:sotalol	normalName:sotalol	predictedType:chemical	q:true	qid:Q89	docId:11401944	origText:sotalol	url:D013015
+CANDIDATE	id:13015	inCount:4	outCount:1	links:	url:D013015	name:Sotalol	normalName:sotalol	normalWikiTitle:sotalol	predictedType:Chemical
+ENTITY	text:azimilide	normalName:azimilide	predictedType:chemical	q:true	qid:Q89	docId:11401944	origText:azimilide	url:C086123
+CANDIDATE	id:86123	inCount:0	outCount:2	links:	url:C086123	name:azimilide	normalName:azimilide	normalWikiTitle:azimilide	predictedType:Chemical

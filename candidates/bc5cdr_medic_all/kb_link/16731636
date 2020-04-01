@@ -1,0 +1,4 @@
+ENTITY	text:hypertrophy	normalName:hypertrophy	predictedType:disease	q:true	qid:Q30	docId:16731636	origText:hypertrophy	url:D006984
+CANDIDATE	id:6984	inCount:9	outCount:1	links:	url:D006984	name:Hypertrophy	normalName:hypertrophy	normalWikiTitle:hypertrophy	predictedType:Disease
+ENTITY	text:cardiac hypertrophy	normalName:cardiac hypertrophy	predictedType:disease	q:true	qid:Q30	docId:16731636	origText:cardiac hypertrophy	url:D006332
+CANDIDATE	id:6332	inCount:5	outCount:2	links:	url:D006332	name:Cardiac Hypertrophy	normalName:cardiac hypertrophy	normalWikiTitle:cardiac hypertrophy	predictedType:Disease

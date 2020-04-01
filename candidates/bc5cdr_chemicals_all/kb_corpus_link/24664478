@@ -1,0 +1,4 @@
+ENTITY	text:cytarabine	normalName:cytarabine	predictedType:chemical	q:true	qid:Q916	docId:24664478	origText:cytarabine	url:D003561
+CANDIDATE	id:3561	inCount:271	outCount:2	links:104457	url:D003561	name:Cytarabine	normalName:cytarabine	normalWikiTitle:cytarabine	predictedType:Chemical
+ENTITY	text:Nelarabine	normalName:nelarabine	predictedType:chemical	q:true	qid:Q916	docId:24664478	origText:Nelarabine	url:C104457
+CANDIDATE	id:104457	inCount:0	outCount:1	links:3561	url:C104457	name:nelarabine	normalName:nelarabine	normalWikiTitle:nelarabine	predictedType:Chemical

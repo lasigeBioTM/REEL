@@ -1,0 +1,6 @@
+ENTITY	text:carbimazole	normalName:carbimazole	predictedType:chemical	q:true	qid:Q243	docId:12549952	origText:carbimazole	url:D002231
+CANDIDATE	id:2231	inCount:0	outCount:1	links:16642	url:D002231	name:Carbimazole	normalName:carbimazole	normalWikiTitle:carbimazole	predictedType:Chemical
+ENTITY	text:bupropion	normalName:bupropion	predictedType:chemical	q:true	qid:Q243	docId:12549952	origText:bupropion	url:D016642
+CANDIDATE	id:16642	inCount:7	outCount:1	links:2231	url:D016642	name:Bupropion	normalName:bupropion	normalWikiTitle:bupropion	predictedType:Chemical
+ENTITY	text:propranolol	normalName:propranolol	predictedType:chemical	q:true	qid:Q243	docId:12549952	origText:propranolol	url:D011433
+CANDIDATE	id:11433	inCount:46	outCount:2	links:	url:D011433	name:Propranolol	normalName:propranolol	normalWikiTitle:propranolol	predictedType:Chemical

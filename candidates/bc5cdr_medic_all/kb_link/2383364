@@ -1,0 +1,8 @@
+ENTITY	text:burn	normalName:burn	predictedType:disease	q:true	qid:Q1269	docId:2383364	origText:burn	url:D002056
+CANDIDATE	id:2056	inCount:5	outCount:1	links:2056	url:D002056	name:Burn	normalName:burn	normalWikiTitle:burn	predictedType:Disease
+ENTITY	text:infection	normalName:infection	predictedType:disease	q:true	qid:Q1269	docId:2383364	origText:infection	url:D007239
+CANDIDATE	id:7239	inCount:33	outCount:1	links:	url:D007239	name:Infection	normalName:infection	normalWikiTitle:infection	predictedType:Disease
+ENTITY	text:burns	normalName:burns	predictedType:disease	q:true	qid:Q1269	docId:2383364	origText:burns	url:D002056
+CANDIDATE	id:2056	inCount:5	outCount:1	links:2056	url:D002056	name:Burn	normalName:burn	normalWikiTitle:burn	predictedType:Disease
+ENTITY	text:pain	normalName:pain	predictedType:disease	q:true	qid:Q1269	docId:2383364	origText:pain	url:D010146
+CANDIDATE	id:10146	inCount:34	outCount:1	links:	url:D010146	name:Pain	normalName:pain	normalWikiTitle:pain	predictedType:Disease

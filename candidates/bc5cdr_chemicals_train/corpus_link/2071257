@@ -1,0 +1,17 @@
+ENTITY	text:scopolamine	normalName:scopolamine	predictedType:chemical	q:true	qid:Q76	docId:2071257	origText:scopolamine	url:D012601
+CANDIDATE	id:12601	inCount:3	outCount:2	links:	url:D012601	name:Scopolamine	normalName:scopolamine	normalWikiTitle:scopolamine	predictedType:Chemical
+ENTITY	text:L-alpha-glyceryl-phosphorylcholine	normalName:l-alpha-glyceryl-phosphorylcholine	predictedType:chemical	q:true	qid:Q76	docId:2071257	origText:L-alpha-glyceryl-phosphorylcholine	url:D005997
+CANDIDATE	id:5997	inCount:9	outCount:3	links:	url:D005997	name:L-alpha-Glycerylphosphorylcholine	normalName:l-alpha-glycerylphosphorylcholine	normalWikiTitle:l-alpha-glycerylphosphorylcholine	predictedType:Chemical
+CANDIDATE	id:5997	inCount:9	outCount:3	links:	url:D005997	name:Glycerylphosphorylcholine	normalName:glycerylphosphorylcholine	normalWikiTitle:glycerylphosphorylcholine	predictedType:Chemical
+CANDIDATE	id:14307	inCount:0	outCount:1	links:	url:C014307	name:1-acylglycerylphosphorylcholine	normalName:1-acylglycerylphosphorylcholine	normalWikiTitle:1-acylglycerylphosphorylcholine	predictedType:Chemical
+CANDIDATE	id:2521	inCount:0	outCount:1	links:	url:C002521	name:diphenylphosphorylcholine	normalName:diphenylphosphorylcholine	normalWikiTitle:diphenylphosphorylcholine	predictedType:Chemical
+CANDIDATE	id:657337	inCount:0	outCount:2	links:	url:C000657337	name:sn-glycerol-3-phosphocholine	normalName:sn-glycerol-3-phosphocholine	normalWikiTitle:sn-glycerol-3-phosphocholine	predictedType:Chemical
+CANDIDATE	id:6669	inCount:0	outCount:1	links:	url:C006669	name:4-azophenylphosphorylcholine	normalName:4-azophenylphosphorylcholine	normalWikiTitle:4-azophenylphosphorylcholine	predictedType:Chemical
+CANDIDATE	id:32521	inCount:0	outCount:1	links:	url:C032521	name:acetyl glyceryl ether phosphorylethanolamine	normalName:acetyl glyceryl ether phosphorylethanolamine	normalWikiTitle:acetyl glyceryl ether phosphorylethanolamine	predictedType:Chemical
+CANDIDATE	id:29419	inCount:0	outCount:1	links:	url:C029419	name:1-O-alkyl-2-O-ethyl-sn-glyceryl-3-phosphorylcholine	normalName:1-o-alkyl-2-o-ethyl-sn-glyceryl-3-phosphorylcholine	normalWikiTitle:1-o-alkyl-2-o-ethyl-sn-glyceryl-3-phosphorylcholine	predictedType:Chemical
+CANDIDATE	id:31168	inCount:0	outCount:1	links:	url:C031168	name:n-octylphosphorylcholine	normalName:n-octylphosphorylcholine	normalWikiTitle:n-octylphosphorylcholine	predictedType:Chemical
+CANDIDATE	id:68170	inCount:0	outCount:1	links:	url:C068170	name:oleyloxyethylphosphorylcholine	normalName:oleyloxyethylphosphorylcholine	normalWikiTitle:oleyloxyethylphosphorylcholine	predictedType:Chemical
+CANDIDATE	id:66256	inCount:0	outCount:1	links:	url:C066256	name:methyl phosphorylcholine	normalName:methyl phosphorylcholine	normalWikiTitle:methyl phosphorylcholine	predictedType:Chemical
+CANDIDATE	id:5997	inCount:9	outCount:3	links:	url:D005997	name:L alpha Glycerylphosphorylcholine	normalName:l alpha glycerylphosphorylcholine	normalWikiTitle:l alpha glycerylphosphorylcholine	predictedType:Chemical
+ENTITY	text:L-alpha-glycerylphosphorylcholine	normalName:l-alpha-glycerylphosphorylcholine	predictedType:chemical	q:true	qid:Q76	docId:2071257	origText:L-alpha-glycerylphosphorylcholine	url:D005997
+CANDIDATE	id:5997	inCount:9	outCount:3	links:	url:D005997	name:L-alpha-Glycerylphosphorylcholine	normalName:l-alpha-glycerylphosphorylcholine	normalWikiTitle:l-alpha-glycerylphosphorylcholine	predictedType:Chemical

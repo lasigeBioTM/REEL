@@ -1,0 +1,10 @@
+ENTITY	text:MPTP	normalName:mptp	predictedType:chemical	q:true	qid:Q1277	docId:20973483	origText:MPTP	url:D015632
+CANDIDATE	id:15632	inCount:30	outCount:1	links:6220	url:D015632	name:MPTP	normalName:mptp	normalWikiTitle:mptp	predictedType:Chemical
+ENTITY	text:6-hydroxydopamine	normalName:6-hydroxydopamine	predictedType:chemical	q:true	qid:Q1277	docId:20973483	origText:6-hydroxydopamine	url:D016627
+CANDIDATE	id:16627	inCount:0	outCount:1	links:	url:D016627	name:6-Hydroxydopamine	normalName:6-hydroxydopamine	normalWikiTitle:6-hydroxydopamine	predictedType:Chemical
+ENTITY	text:haloperidol	normalName:haloperidol	predictedType:chemical	q:true	qid:Q1277	docId:20973483	origText:haloperidol	url:D006220
+CANDIDATE	id:6220	inCount:24	outCount:1	links:12110;15632	url:D006220	name:Haloperidol	normalName:haloperidol	normalWikiTitle:haloperidol	predictedType:Chemical
+ENTITY	text:reserpine	normalName:reserpine	predictedType:chemical	q:true	qid:Q1277	docId:20973483	origText:reserpine	url:D012110
+CANDIDATE	id:12110	inCount:25	outCount:1	links:6220	url:D012110	name:Reserpine	normalName:reserpine	normalWikiTitle:reserpine	predictedType:Chemical
+ENTITY	text:6-OHDA	normalName:6-ohda	predictedType:chemical	q:true	qid:Q1277	docId:20973483	origText:6-OHDA	url:D016627
+CANDIDATE	id:16627	inCount:0	outCount:1	links:	url:D016627	name:6-OHDA	normalName:6-ohda	normalWikiTitle:6-ohda	predictedType:Chemical

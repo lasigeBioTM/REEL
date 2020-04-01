@@ -1,0 +1,4 @@
+ENTITY	text:dexamethasone	normalName:dexamethasone	predictedType:chemical	q:true	qid:Q419	docId:12760988	origText:dexamethasone	url:D003907
+CANDIDATE	id:3907	inCount:138	outCount:2	links:	url:D003907	name:Dexamethasone	normalName:dexamethasone	normalWikiTitle:dexamethasone	predictedType:Chemical
+ENTITY	text:succinylcholine	normalName:succinylcholine	predictedType:chemical	q:true	qid:Q419	docId:12760988	origText:succinylcholine	url:D013390
+CANDIDATE	id:13390	inCount:3	outCount:2	links:	url:D013390	name:Succinylcholine	normalName:succinylcholine	normalWikiTitle:succinylcholine	predictedType:Chemical

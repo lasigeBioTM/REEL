@@ -1,0 +1,4 @@
+ENTITY	text:necrosis	normalName:necrosis	predictedType:disease	q:true	qid:Q117	docId:10462057	origText:necrosis	url:D009336
+CANDIDATE	id:9336	inCount:6	outCount:1	links:	url:D009336	name:Necrosis	normalName:necrosis	normalWikiTitle:necrosis	predictedType:Disease
+ENTITY	text:aplastic anemia	normalName:aplastic anemia	predictedType:disease	q:true	qid:Q117	docId:10462057	origText:aplastic anemia	url:D000741
+CANDIDATE	id:741	inCount:5	outCount:2	links:	url:D000741	name:Anemia, Aplastic	normalName:anemia, aplastic	normalWikiTitle:anemia, aplastic	predictedType:Disease

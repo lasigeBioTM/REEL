@@ -1,0 +1,66 @@
+ENTITY	text:depressive illness	normalName:depressive illness	predictedType:disease	q:true	qid:Q555	docId:6386793	origText:depressive illness	url:D003866
+CANDIDATE	id:3866	inCount:6	outCount:1	links:3866	url:D003866	name:Syndromes, Depressive	normalName:syndromes, depressive	normalWikiTitle:syndromes, depressive	predictedType:Disease
+CANDIDATE	id:3866	inCount:6	outCount:1	links:3866	url:D003866	name:Depressive Disorder	normalName:depressive disorder	normalWikiTitle:depressive disorder	predictedType:Disease
+CANDIDATE	id:3665	inCount:0	outCount:1	links:	url:D003665	name:Decompression Sickness	normalName:decompression sickness	normalWikiTitle:decompression sickness	predictedType:Disease
+CANDIDATE	id:3865	inCount:2	outCount:1	links:	url:D003865	name:Depressive Disorder, Major	normalName:depressive disorder, major	normalWikiTitle:depressive disorder, major	predictedType:Disease
+CANDIDATE	id:16638	inCount:0	outCount:1	links:	url:D016638	name:Critical Illness	normalName:critical illness	normalWikiTitle:critical illness	predictedType:Disease
+CANDIDATE	id:563875	inCount:0	outCount:1	links:	url:C563875	name:Major Depressive Disorder 2	normalName:major depressive disorder 2	normalWikiTitle:major depressive disorder 2	predictedType:Disease
+CANDIDATE	id:563919	inCount:0	outCount:1	links:	url:C563919	name:Major Depressive Disorder 1	normalName:major depressive disorder 1	normalWikiTitle:major depressive disorder 1	predictedType:Disease
+CANDIDATE	id:566417	inCount:0	outCount:1	links:	url:C566417	name:Endotoxin Hyporesponsiveness	normalName:endotoxin hyporesponsiveness	normalWikiTitle:endotoxin hyporesponsiveness	predictedType:Disease
+CANDIDATE	id:47508	inCount:0	outCount:1	links:	url:D047508	name:Massive Hepatic Necrosis	normalName:massive hepatic necrosis	normalWikiTitle:massive hepatic necrosis	predictedType:Disease
+CANDIDATE	id:18876	inCount:2	outCount:2	links:	url:D018876	name:Environmental Illness	normalName:environmental illness	normalWikiTitle:environmental illness	predictedType:Disease
+CANDIDATE	id:12832	inCount:0	outCount:2	links:	url:D012832	name:Silo Filler's Disease	normalName:silo filler's disease	normalWikiTitle:silo filler's disease	predictedType:Disease
+CANDIDATE	id:564108	inCount:0	outCount:2	links:	url:C564108	name:Manic-Depressive Illness	normalName:manic-depressive illness	normalWikiTitle:manic-depressive illness	predictedType:Disease
+CANDIDATE	id:3866	inCount:6	outCount:1	links:3866	url:D003866	name:Neuroses, Depressive	normalName:neuroses, depressive	normalWikiTitle:neuroses, depressive	predictedType:Disease
+CANDIDATE	id:3866	inCount:6	outCount:1	links:3866	url:D003866	name:Depressive Neurosis	normalName:depressive neurosis	normalWikiTitle:depressive neurosis	predictedType:Disease
+CANDIDATE	id:3866	inCount:6	outCount:1	links:3866	url:D003866	name:Neurosis, Depressive	normalName:neurosis, depressive	normalWikiTitle:neurosis, depressive	predictedType:Disease
+CANDIDATE	id:3866	inCount:6	outCount:1	links:3866	url:D003866	name:Depressive Neuroses	normalName:depressive neuroses	normalWikiTitle:depressive neuroses	predictedType:Disease
+CANDIDATE	id:3866	inCount:6	outCount:1	links:3866	url:D003866	name:Depressive Disorders	normalName:depressive disorders	normalWikiTitle:depressive disorders	predictedType:Disease
+CANDIDATE	id:3866	inCount:6	outCount:1	links:3866	url:D003866	name:Disorders, Depressive	normalName:disorders, depressive	normalWikiTitle:disorders, depressive	predictedType:Disease
+CANDIDATE	id:3866	inCount:6	outCount:1	links:3866	url:D003866	name:Depressive Syndromes	normalName:depressive syndromes	normalWikiTitle:depressive syndromes	predictedType:Disease
+ENTITY	text:depressive disorder	normalName:depressive disorder	predictedType:disease	q:true	qid:Q555	docId:6386793	origText:depressive disorder	url:D003866
+CANDIDATE	id:3866	inCount:6	outCount:1	links:3866	url:D003866	name:Depressive Disorder	normalName:depressive disorder	normalWikiTitle:depressive disorder	predictedType:Disease
+ENTITY	text:blurred vision	normalName:blurred vision	predictedType:disease	q:true	qid:Q555	docId:6386793	origText:blurred vision	url:D014786
+CANDIDATE	id:14786	inCount:19	outCount:2	links:	url:D014786	name:Vision Disorders	normalName:vision disorders	normalWikiTitle:vision disorders	predictedType:Disease
+CANDIDATE	id:15354	inCount:0	outCount:1	links:	url:D015354	name:Vision, Low	normalName:vision, low	normalWikiTitle:vision, low	predictedType:Disease
+CANDIDATE	id:3117	inCount:12	outCount:2	links:	url:D003117	name:Color Vision Defects	normalName:color vision defects	normalWikiTitle:color vision defects	predictedType:Disease
+CANDIDATE	id:11004	inCount:0	outCount:1	links:	url:D011004	name:Plummer-Vinson Syndrome	normalName:plummer-vinson syndrome	normalWikiTitle:plummer-vinson syndrome	predictedType:Disease
+CANDIDATE	id:18329	inCount:2	outCount:1	links:	url:D018329	name:Nevus, Blue	normalName:nevus, blue	normalWikiTitle:nevus, blue	predictedType:Disease
+CANDIDATE	id:7855	inCount:1	outCount:1	links:	url:D007855	name:Lead Poisoning	normalName:lead poisoning	normalWikiTitle:lead poisoning	predictedType:Disease
+CANDIDATE	id:5458	inCount:0	outCount:1	links:	url:D005458	name:Fluoride Poisoning	normalName:fluoride poisoning	normalWikiTitle:fluoride poisoning	predictedType:Disease
+CANDIDATE	id:1899	inCount:2	outCount:2	links:	url:D001899	name:Borrelia Infections	normalName:borrelia infections	normalWikiTitle:borrelia infections	predictedType:Disease
+CANDIDATE	id:565061	inCount:0	outCount:1	links:	url:C565061	name:EDS VIIB	normalName:eds viib	normalWikiTitle:eds viib	predictedType:Disease
+CANDIDATE	id:44342	inCount:5	outCount:1	links:	url:D044342	name:Malnutrition	normalName:malnutrition	normalWikiTitle:malnutrition	predictedType:Disease
+CANDIDATE	id:4172	inCount:0	outCount:1	links:	url:D004172	name:Double Vision	normalName:double vision	normalWikiTitle:double vision	predictedType:Disease
+CANDIDATE	id:4172	inCount:0	outCount:1	links:	url:D004172	name:Vision, Double	normalName:vision, double	normalWikiTitle:vision, double	predictedType:Disease
+CANDIDATE	id:15354	inCount:0	outCount:1	links:	url:D015354	name:Vision, Reduced	normalName:vision, reduced	normalWikiTitle:vision, reduced	predictedType:Disease
+CANDIDATE	id:15354	inCount:0	outCount:1	links:	url:D015354	name:Reduced Vision	normalName:reduced vision	normalWikiTitle:reduced vision	predictedType:Disease
+ENTITY	text:dry mouth	normalName:dry mouth	predictedType:disease	q:true	qid:Q555	docId:6386793	origText:dry mouth	url:D014987
+CANDIDATE	id:14987	inCount:1	outCount:1	links:	url:D014987	name:Mouth Dryness	normalName:mouth dryness	normalWikiTitle:mouth dryness	predictedType:Disease
+CANDIDATE	id:4368	inCount:0	outCount:1	links:	url:D004368	name:Dry Socket	normalName:dry socket	normalWikiTitle:dry socket	predictedType:Disease
+CANDIDATE	id:9059	inCount:32	outCount:1	links:	url:D009059	name:Mouth Diseases	normalName:mouth diseases	normalWikiTitle:mouth diseases	predictedType:Disease
+CANDIDATE	id:536607	inCount:0	outCount:1	links:	url:C536607	name:Brody myopathy	normalName:brody myopathy	normalWikiTitle:brody myopathy	predictedType:Disease
+CANDIDATE	id:9058	inCount:0	outCount:2	links:	url:D009058	name:Mouth Breathing	normalName:mouth breathing	normalWikiTitle:mouth breathing	predictedType:Disease
+CANDIDATE	id:9066	inCount:1	outCount:2	links:	url:D009066	name:Mouth, Edentulous	normalName:mouth, edentulous	normalWikiTitle:mouth, edentulous	predictedType:Disease
+CANDIDATE	id:536962	inCount:0	outCount:3	links:	url:C536962	name:Timothy syndrome	normalName:timothy syndrome	normalWikiTitle:timothy syndrome	predictedType:Disease
+CANDIDATE	id:9223	inCount:1	outCount:3	links:	url:D009223	name:Myotonic Dystrophy	normalName:myotonic dystrophy	normalWikiTitle:myotonic dystrophy	predictedType:Disease
+CANDIDATE	id:536748	inCount:0	outCount:2	links:	url:C536748	name:Worth syndrome	normalName:worth syndrome	normalWikiTitle:worth syndrome	predictedType:Disease
+CANDIDATE	id:14987	inCount:1	outCount:1	links:	url:D014987	name:Dryness, Mouth	normalName:dryness, mouth	normalWikiTitle:dryness, mouth	predictedType:Disease
+CANDIDATE	id:9062	inCount:6	outCount:2	links:	url:D009062	name:Cancer, Mouth	normalName:cancer, mouth	normalWikiTitle:cancer, mouth	predictedType:Disease
+CANDIDATE	id:9062	inCount:6	outCount:2	links:	url:D009062	name:Mouth Cancer	normalName:mouth cancer	normalWikiTitle:mouth cancer	predictedType:Disease
+CANDIDATE	id:9062	inCount:6	outCount:2	links:	url:D009062	name:Mouth Cancers	normalName:mouth cancers	normalWikiTitle:mouth cancers	predictedType:Disease
+CANDIDATE	id:9059	inCount:32	outCount:1	links:	url:D009059	name:Mouth Disease	normalName:mouth disease	normalWikiTitle:mouth disease	predictedType:Disease
+CANDIDATE	id:9062	inCount:6	outCount:2	links:	url:D009062	name:Cancers, Mouth	normalName:cancers, mouth	normalWikiTitle:cancers, mouth	predictedType:Disease
+CANDIDATE	id:9059	inCount:32	outCount:1	links:	url:D009059	name:Disease, Mouth	normalName:disease, mouth	normalWikiTitle:disease, mouth	predictedType:Disease
+ENTITY	text:depressed	normalName:depressed	predictedType:disease	q:true	qid:Q555	docId:6386793	origText:depressed	url:D003866
+CANDIDATE	id:3866	inCount:6	outCount:1	links:3866	url:D003866	name:Depressive Disorder	normalName:depressive disorder	normalWikiTitle:depressive disorder	predictedType:Disease
+CANDIDATE	id:4688	inCount:1	outCount:2	links:	url:D004688	name:Encopresis	normalName:encopresis	normalWikiTitle:encopresis	predictedType:Disease
+CANDIDATE	id:10291	inCount:3	outCount:1	links:	url:D010291	name:Paresis	normalName:paresis	normalWikiTitle:paresis	predictedType:Disease
+CANDIDATE	id:4775	inCount:2	outCount:2	links:	url:D004775	name:Enuresis	normalName:enuresis	normalWikiTitle:enuresis	predictedType:Disease
+CANDIDATE	id:3638	inCount:110	outCount:1	links:	url:D003638	name:Deafness	normalName:deafness	normalWikiTitle:deafness	predictedType:Disease
+CANDIDATE	id:9401	inCount:8	outCount:1	links:	url:D009401	name:Nephrosis	normalName:nephrosis	normalWikiTitle:nephrosis	predictedType:Disease
+CANDIDATE	id:12806	inCount:1	outCount:1	links:	url:D012806	name:Siderosis	normalName:siderosis	normalWikiTitle:siderosis	predictedType:Disease
+CANDIDATE	id:566019	inCount:0	outCount:1	links:	url:C566019	name:Tune Deafness	normalName:tune deafness	normalWikiTitle:tune deafness	predictedType:Disease
+CANDIDATE	id:6562	inCount:3	outCount:1	links:	url:D006562	name:Herpes Zoster	normalName:herpes zoster	normalWikiTitle:herpes zoster	predictedType:Disease
+CANDIDATE	id:9668	inCount:13	outCount:2	links:	url:D009668	name:Nose Diseases	normalName:nose diseases	normalWikiTitle:nose diseases	predictedType:Disease
+CANDIDATE	id:563392	inCount:0	outCount:3	links:	url:C563392	name:ADRESD	normalName:adresd	normalWikiTitle:adresd	predictedType:Disease

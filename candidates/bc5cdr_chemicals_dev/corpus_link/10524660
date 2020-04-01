@@ -1,0 +1,4 @@
+ENTITY	text:nitric oxide	normalName:nitric oxide	predictedType:chemical	q:true	qid:Q289	docId:10524660	origText:nitric oxide	url:D009569
+CANDIDATE	id:9569	inCount:13	outCount:3	links:5996	url:D009569	name:Nitric Oxide	normalName:nitric oxide	normalWikiTitle:nitric oxide	predictedType:Chemical
+ENTITY	text:Glyceryl trinitrate	normalName:glyceryl trinitrate	predictedType:chemical	q:true	qid:Q289	docId:10524660	origText:Glyceryl trinitrate	url:D005996
+CANDIDATE	id:5996	inCount:10	outCount:1	links:9569	url:D005996	name:Trinitrate, Glyceryl	normalName:trinitrate, glyceryl	normalWikiTitle:trinitrate, glyceryl	predictedType:Chemical

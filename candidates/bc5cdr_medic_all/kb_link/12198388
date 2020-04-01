@@ -1,0 +1,21 @@
+ENTITY	text:convulsions	normalName:convulsions	predictedType:disease	q:true	qid:Q1154	docId:12198388	origText:convulsions	url:D012640
+CANDIDATE	id:12640	inCount:53	outCount:1	links:12640	url:D012640	name:Convulsion	normalName:convulsion	normalWikiTitle:convulsion	predictedType:Disease
+ENTITY	text:tremor	normalName:tremor	predictedType:disease	q:true	qid:Q1154	docId:12198388	origText:tremor	url:D014202
+CANDIDATE	id:14202	inCount:6	outCount:1	links:	url:D014202	name:Tremor	normalName:tremor	normalWikiTitle:tremor	predictedType:Disease
+ENTITY	text:seizure	normalName:seizure	predictedType:disease	q:true	qid:Q1154	docId:12198388	origText:seizure	url:D012640
+CANDIDATE	id:12640	inCount:53	outCount:1	links:12640	url:D012640	name:Seizure	normalName:seizure	normalWikiTitle:seizure	predictedType:Disease
+ENTITY	text:convulsants	normalName:convulsants	predictedType:disease	q:true	qid:Q1154	docId:12198388	origText:convulsants	url:D012640
+CANDIDATE	id:12640	inCount:53	outCount:1	links:12640	url:D012640	name:Convulsion	normalName:convulsion	normalWikiTitle:convulsion	predictedType:Disease
+CANDIDATE	id:3288	inCount:2	outCount:1	links:	url:D003288	name:Contusions	normalName:contusions	normalWikiTitle:contusions	predictedType:Disease
+CANDIDATE	id:2761	inCount:1	outCount:1	links:	url:D002761	name:Cholangitis	normalName:cholangitis	normalWikiTitle:cholangitis	predictedType:Disease
+CANDIDATE	id:3221	inCount:2	outCount:1	links:	url:D003221	name:Confusion	normalName:confusion	normalWikiTitle:confusion	predictedType:Disease
+CANDIDATE	id:152	inCount:4	outCount:2	links:	url:D000152	name:Acne Vulgaris	normalName:acne vulgaris	normalWikiTitle:acne vulgaris	predictedType:Disease
+CANDIDATE	id:3289	inCount:0	outCount:1	links:	url:D003289	name:Convalescence	normalName:convalescence	normalWikiTitle:convalescence	predictedType:Disease
+CANDIDATE	id:14848	inCount:2	outCount:2	links:	url:D014848	name:Vulvovaginitis	normalName:vulvovaginitis	normalWikiTitle:vulvovaginitis	predictedType:Disease
+CANDIDATE	id:3092	inCount:7	outCount:2	links:	url:D003092	name:Colitis	normalName:colitis	normalWikiTitle:colitis	predictedType:Disease
+CANDIDATE	id:3231	inCount:5	outCount:1	links:	url:D003231	name:Conjunctivitis	normalName:conjunctivitis	normalWikiTitle:conjunctivitis	predictedType:Disease
+CANDIDATE	id:18352	inCount:4	outCount:1	links:	url:D018352	name:Coronavirus Infections	normalName:coronavirus infections	normalWikiTitle:coronavirus infections	predictedType:Disease
+CANDIDATE	id:858	inCount:0	outCount:1	links:	url:D000858	name:Anovulation	normalName:anovulation	normalWikiTitle:anovulation	predictedType:Disease
+CANDIDATE	id:12640	inCount:53	outCount:1	links:12640	url:D012640	name:Convulsions	normalName:convulsions	normalWikiTitle:convulsions	predictedType:Disease
+ENTITY	text:convulsion	normalName:convulsion	predictedType:disease	q:true	qid:Q1154	docId:12198388	origText:convulsion	url:D012640
+CANDIDATE	id:12640	inCount:53	outCount:1	links:12640	url:D012640	name:Convulsion	normalName:convulsion	normalWikiTitle:convulsion	predictedType:Disease

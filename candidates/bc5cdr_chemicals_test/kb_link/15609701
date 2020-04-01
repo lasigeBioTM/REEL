@@ -1,0 +1,8 @@
+ENTITY	text:nifekalant	normalName:nifekalant	predictedType:chemical	q:true	qid:Q199	docId:15609701	origText:nifekalant	url:C076259
+CANDIDATE	id:76259	inCount:0	outCount:1	links:76259	url:C076259	name:nifekalant	normalName:nifekalant	normalWikiTitle:nifekalant	predictedType:Chemical
+ENTITY	text:nifekalant hydrochloride	normalName:nifekalant hydrochloride	predictedType:chemical	q:true	qid:Q199	docId:15609701	origText:nifekalant hydrochloride	url:C076259
+CANDIDATE	id:76259	inCount:0	outCount:1	links:76259	url:C076259	name:nifekalant hydrochloride	normalName:nifekalant hydrochloride	normalWikiTitle:nifekalant hydrochloride	predictedType:Chemical
+ENTITY	text:Sotalol	normalName:sotalol	predictedType:chemical	q:true	qid:Q199	docId:15609701	origText:Sotalol	url:D013015
+CANDIDATE	id:13015	inCount:4	outCount:1	links:	url:D013015	name:Sotalol	normalName:sotalol	normalWikiTitle:sotalol	predictedType:Chemical
+ENTITY	text:diltiazem	normalName:diltiazem	predictedType:chemical	q:true	qid:Q199	docId:15609701	origText:diltiazem	url:D004110
+CANDIDATE	id:4110	inCount:19	outCount:1	links:	url:D004110	name:Diltiazem	normalName:diltiazem	normalWikiTitle:diltiazem	predictedType:Chemical

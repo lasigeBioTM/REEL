@@ -1,0 +1,6 @@
+ENTITY	text:Eating disorders	normalName:eating disorders	predictedType:disease	q:true	qid:Q329	docId:9653867	origText:Eating disorders	url:D001068
+CANDIDATE	id:1068	inCount:10	outCount:1	links:	url:D001068	name:Eating Disorders	normalName:eating disorders	normalWikiTitle:eating disorders	predictedType:Disease
+ENTITY	text:thyrotoxicosis	normalName:thyrotoxicosis	predictedType:disease	q:true	qid:Q329	docId:9653867	origText:thyrotoxicosis	url:D013971
+CANDIDATE	id:13971	inCount:2	outCount:1	links:	url:D013971	name:Thyrotoxicosis	normalName:thyrotoxicosis	normalWikiTitle:thyrotoxicosis	predictedType:Disease
+ENTITY	text:drug abuse	normalName:drug abuse	predictedType:disease	q:true	qid:Q329	docId:9653867	origText:drug abuse	url:D019966
+CANDIDATE	id:19966	inCount:15	outCount:2	links:	url:D019966	name:Drug Abuse	normalName:drug abuse	normalWikiTitle:drug abuse	predictedType:Disease

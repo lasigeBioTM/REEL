@@ -1,0 +1,62 @@
+ENTITY	text:paresthesias	normalName:paresthesias	predictedType:disease	q:true	qid:Q769	docId:8643971	origText:paresthesias	url:D010292
+CANDIDATE	id:10292	inCount:0	outCount:1	links:505;18771;63806	url:D010292	name:Paresthesia	normalName:paresthesia	normalWikiTitle:paresthesia	predictedType:Disease
+ENTITY	text:head and neck cancer	normalName:head and neck cancer	predictedType:disease	q:true	qid:Q769	docId:8643971	origText:head and neck cancer	url:D006258
+CANDIDATE	id:6258	inCount:8	outCount:1	links:6258	url:D006258	name:Head and Neck Cancer	normalName:head and neck cancer	normalWikiTitle:head and neck cancer	predictedType:Disease
+ENTITY	text:toxicity	normalName:toxicity	predictedType:disease	q:true	qid:Q769	docId:8643971	origText:toxicity	url:D064420
+CANDIDATE	id:64420	inCount:10	outCount:1	links:	url:D064420	name:Drug Toxicity	normalName:drug toxicity	normalWikiTitle:drug toxicity	predictedType:Disease
+CANDIDATE	id:66126	inCount:0	outCount:3	links:505	url:D066126	name:Cardiotoxicity	normalName:cardiotoxicity	normalWikiTitle:cardiotoxicity	predictedType:Disease
+CANDIDATE	id:15651	inCount:2	outCount:1	links:	url:D015651	name:Mycotoxicosis	normalName:mycotoxicosis	normalWikiTitle:mycotoxicosis	predictedType:Disease
+CANDIDATE	id:13971	inCount:2	outCount:1	links:	url:D013971	name:Thyrotoxicosis	normalName:thyrotoxicosis	normalWikiTitle:thyrotoxicosis	predictedType:Disease
+CANDIDATE	id:14869	inCount:0	outCount:2	links:	url:D014869	name:Water Intoxication	normalName:water intoxication	normalWikiTitle:water intoxication	predictedType:Disease
+CANDIDATE	id:14103	inCount:4	outCount:2	links:	url:D014103	name:Torticollis	normalName:torticollis	normalWikiTitle:torticollis	predictedType:Disease
+CANDIDATE	id:9765	inCount:42	outCount:2	links:	url:D009765	name:Obesity	normalName:obesity	normalWikiTitle:obesity	predictedType:Disease
+CANDIDATE	id:14115	inCount:1	outCount:1	links:	url:D014115	name:Toxemia	normalName:toxemia	normalWikiTitle:toxemia	predictedType:Disease
+CANDIDATE	id:7246	inCount:2	outCount:2	links:	url:D007246	name:Infertility	normalName:infertility	normalWikiTitle:infertility	predictedType:Disease
+CANDIDATE	id:20234	inCount:0	outCount:2	links:	url:D020234	name:Gait Ataxia	normalName:gait ataxia	normalWikiTitle:gait ataxia	predictedType:Disease
+CANDIDATE	id:14069	inCount:1	outCount:1	links:	url:D014069	name:Tonsillitis	normalName:tonsillitis	normalWikiTitle:tonsillitis	predictedType:Disease
+CANDIDATE	id:64420	inCount:10	outCount:1	links:	url:D064420	name:Toxicity, Drug	normalName:toxicity, drug	normalWikiTitle:toxicity, drug	predictedType:Disease
+CANDIDATE	id:17484	inCount:0	outCount:2	links:	url:D017484	name:Phototoxicity	normalName:phototoxicity	normalWikiTitle:phototoxicity	predictedType:Disease
+ENTITY	text:Alopecia	normalName:alopecia	predictedType:disease	q:true	qid:Q769	docId:8643971	origText:Alopecia	url:D000505
+CANDIDATE	id:505	inCount:57	outCount:2	links:10292;18771;63806;66126	url:D000505	name:Alopecia	normalName:alopecia	normalWikiTitle:alopecia	predictedType:Disease
+ENTITY	text:myalgia	normalName:myalgia	predictedType:disease	q:true	qid:Q769	docId:8643971	origText:myalgia	url:D063806
+CANDIDATE	id:63806	inCount:0	outCount:2	links:10292;18771;63806;505	url:D063806	name:Myalgia	normalName:myalgia	normalWikiTitle:myalgia	predictedType:Disease
+ENTITY	text:tumor	normalName:tumor	predictedType:disease	q:true	qid:Q769	docId:8643971	origText:tumor	url:D009369
+CANDIDATE	id:9369	inCount:18	outCount:1	links:	url:D009369	name:Tumor	normalName:tumor	normalWikiTitle:tumor	predictedType:Disease
+ENTITY	text:myalgias	normalName:myalgias	predictedType:disease	q:true	qid:Q769	docId:8643971	origText:myalgias	url:D063806
+CANDIDATE	id:63806	inCount:0	outCount:2	links:10292;18771;63806;505	url:D063806	name:Myalgia	normalName:myalgia	normalWikiTitle:myalgia	predictedType:Disease
+ENTITY	text:head and neck cancers	normalName:head and neck cancers	predictedType:disease	q:true	qid:Q769	docId:8643971	origText:head and neck cancers	url:D006258
+CANDIDATE	id:6258	inCount:8	outCount:1	links:6258	url:D006258	name:Head and Neck Cancer	normalName:head and neck cancer	normalWikiTitle:head and neck cancer	predictedType:Disease
+ENTITY	text:arthralgias	normalName:arthralgias	predictedType:disease	q:true	qid:Q769	docId:8643971	origText:arthralgias	url:D018771
+CANDIDATE	id:18771	inCount:1	outCount:2	links:10292;63806;505	url:D018771	name:Arthralgia	normalName:arthralgia	normalWikiTitle:arthralgia	predictedType:Disease
+ENTITY	text:head and neck carcinomas	normalName:head and neck carcinomas	predictedType:disease	q:true	qid:Q769	docId:8643971	origText:head and neck carcinomas	url:D006258
+CANDIDATE	id:6258	inCount:8	outCount:1	links:6258	url:D006258	name:Cancer of Head and Neck	normalName:cancer of head and neck	normalWikiTitle:cancer of head and neck	predictedType:Disease
+CANDIDATE	id:77195	inCount:0	outCount:2	links:77195	url:D000077195	name:Squamous Cell Carcinoma of Head and Neck	normalName:squamous cell carcinoma of head and neck	normalWikiTitle:squamous cell carcinoma of head and neck	predictedType:Disease
+CANDIDATE	id:2284	inCount:0	outCount:1	links:2284	url:D002284	name:Carcinoma, Brown-Pearce	normalName:carcinoma, brown-pearce	normalWikiTitle:carcinoma, brown-pearce	predictedType:Disease
+CANDIDATE	id:562463	inCount:0	outCount:1	links:562463	url:C562463	name:Pancreatic Carcinoma	normalName:pancreatic carcinoma	normalWikiTitle:pancreatic carcinoma	predictedType:Disease
+CANDIDATE	id:3528	inCount:0	outCount:1	links:3528	url:D003528	name:Carcinoma, Adenoid Cystic	normalName:carcinoma, adenoid cystic	normalWikiTitle:carcinoma, adenoid cystic	predictedType:Disease
+CANDIDATE	id:18266	inCount:0	outCount:2	links:18266	url:D018266	name:Adenocarcinoma, Sebaceous	normalName:adenocarcinoma, sebaceous	normalWikiTitle:adenocarcinoma, sebaceous	predictedType:Disease
+CANDIDATE	id:18267	inCount:0	outCount:1	links:18267	url:D018267	name:Carcinoma, Acinar Cell	normalName:carcinoma, acinar cell	normalWikiTitle:carcinoma, acinar cell	predictedType:Disease
+CANDIDATE	id:15266	inCount:0	outCount:3	links:15266	url:D015266	name:Carcinoma, Merkel Cell	normalName:carcinoma, merkel cell	normalWikiTitle:carcinoma, merkel cell	predictedType:Disease
+CANDIDATE	id:18280	inCount:0	outCount:2	links:18280	url:D018280	name:Carcinoma, Skin Appendage	normalName:carcinoma, skin appendage	normalWikiTitle:carcinoma, skin appendage	predictedType:Disease
+CANDIDATE	id:536474	inCount:0	outCount:2	links:536474	url:C536474	name:Urachal adenocarcinoma	normalName:urachal adenocarcinoma	normalWikiTitle:urachal adenocarcinoma	predictedType:Disease
+CANDIDATE	id:538557	inCount:0	outCount:1	links:538557	url:C538557	name:Renal cell carcinoma 1	normalName:renal cell carcinoma 1	normalWikiTitle:renal cell carcinoma 1	predictedType:Disease
+CANDIDATE	id:6258	inCount:8	outCount:1	links:6258	url:D006258	name:Head and Neck Cancer	normalName:head and neck cancer	normalWikiTitle:head and neck cancer	predictedType:Disease
+CANDIDATE	id:77195	inCount:0	outCount:2	links:77195	url:D000077195	name:Squamous Cell Carcinoma, Head And Neck	normalName:squamous cell carcinoma, head and neck	normalWikiTitle:squamous cell carcinoma, head and neck	predictedType:Disease
+CANDIDATE	id:77195	inCount:0	outCount:2	links:77195	url:D000077195	name:Head and Neck Squamous Cell Carcinoma	normalName:head and neck squamous cell carcinoma	normalWikiTitle:head and neck squamous cell carcinoma	predictedType:Disease
+ENTITY	text:head and neck carcinoma	normalName:head and neck carcinoma	predictedType:disease	q:true	qid:Q769	docId:8643971	origText:head and neck carcinoma	url:D006258
+CANDIDATE	id:6258	inCount:8	outCount:1	links:6258	url:D006258	name:Cancer of Head and Neck	normalName:cancer of head and neck	normalWikiTitle:cancer of head and neck	predictedType:Disease
+CANDIDATE	id:77195	inCount:0	outCount:2	links:77195	url:D000077195	name:Squamous Cell Carcinoma of Head and Neck	normalName:squamous cell carcinoma of head and neck	normalWikiTitle:squamous cell carcinoma of head and neck	predictedType:Disease
+CANDIDATE	id:2284	inCount:0	outCount:1	links:2284	url:D002284	name:Carcinoma, Brown-Pearce	normalName:carcinoma, brown-pearce	normalWikiTitle:carcinoma, brown-pearce	predictedType:Disease
+CANDIDATE	id:562463	inCount:0	outCount:1	links:562463	url:C562463	name:Pancreatic Carcinoma	normalName:pancreatic carcinoma	normalWikiTitle:pancreatic carcinoma	predictedType:Disease
+CANDIDATE	id:3528	inCount:0	outCount:1	links:3528	url:D003528	name:Carcinoma, Adenoid Cystic	normalName:carcinoma, adenoid cystic	normalWikiTitle:carcinoma, adenoid cystic	predictedType:Disease
+CANDIDATE	id:18266	inCount:0	outCount:2	links:18266	url:D018266	name:Adenocarcinoma, Sebaceous	normalName:adenocarcinoma, sebaceous	normalWikiTitle:adenocarcinoma, sebaceous	predictedType:Disease
+CANDIDATE	id:18267	inCount:0	outCount:1	links:18267	url:D018267	name:Carcinoma, Acinar Cell	normalName:carcinoma, acinar cell	normalWikiTitle:carcinoma, acinar cell	predictedType:Disease
+CANDIDATE	id:15266	inCount:0	outCount:3	links:15266	url:D015266	name:Carcinoma, Merkel Cell	normalName:carcinoma, merkel cell	normalWikiTitle:carcinoma, merkel cell	predictedType:Disease
+CANDIDATE	id:18280	inCount:0	outCount:2	links:18280	url:D018280	name:Carcinoma, Skin Appendage	normalName:carcinoma, skin appendage	normalWikiTitle:carcinoma, skin appendage	predictedType:Disease
+CANDIDATE	id:536474	inCount:0	outCount:2	links:536474	url:C536474	name:Urachal adenocarcinoma	normalName:urachal adenocarcinoma	normalWikiTitle:urachal adenocarcinoma	predictedType:Disease
+CANDIDATE	id:538557	inCount:0	outCount:1	links:538557	url:C538557	name:Renal cell carcinoma 1	normalName:renal cell carcinoma 1	normalWikiTitle:renal cell carcinoma 1	predictedType:Disease
+CANDIDATE	id:6258	inCount:8	outCount:1	links:6258	url:D006258	name:Head and Neck Cancer	normalName:head and neck cancer	normalWikiTitle:head and neck cancer	predictedType:Disease
+CANDIDATE	id:77195	inCount:0	outCount:2	links:77195	url:D000077195	name:Squamous Cell Carcinoma, Head And Neck	normalName:squamous cell carcinoma, head and neck	normalWikiTitle:squamous cell carcinoma, head and neck	predictedType:Disease
+CANDIDATE	id:77195	inCount:0	outCount:2	links:77195	url:D000077195	name:Head and Neck Squamous Cell Carcinoma	normalName:head and neck squamous cell carcinoma	normalWikiTitle:head and neck squamous cell carcinoma	predictedType:Disease
+ENTITY	text:ovarian cancer	normalName:ovarian cancer	predictedType:disease	q:true	qid:Q769	docId:8643971	origText:ovarian cancer	url:D010051
+CANDIDATE	id:10051	inCount:17	outCount:3	links:	url:D010051	name:Ovarian Cancer	normalName:ovarian cancer	normalWikiTitle:ovarian cancer	predictedType:Disease

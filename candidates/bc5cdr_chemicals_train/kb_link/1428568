@@ -1,0 +1,4 @@
+ENTITY	text:timolol	normalName:timolol	predictedType:chemical	q:true	qid:Q159	docId:1428568	origText:timolol	url:D013999
+CANDIDATE	id:13999	inCount:10	outCount:3	links:	url:D013999	name:Timolol	normalName:timolol	normalWikiTitle:timolol	predictedType:Chemical
+ENTITY	text:betaxolol	normalName:betaxolol	predictedType:chemical	q:true	qid:Q159	docId:1428568	origText:betaxolol	url:D015784
+CANDIDATE	id:15784	inCount:3	outCount:1	links:	url:D015784	name:Betaxolol	normalName:betaxolol	normalWikiTitle:betaxolol	predictedType:Chemical

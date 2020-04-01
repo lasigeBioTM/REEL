@@ -1,0 +1,6 @@
+ENTITY	text:clozapine	normalName:clozapine	predictedType:chemical	q:true	qid:Q476	docId:1420650	origText:clozapine	url:D003024
+CANDIDATE	id:3024	inCount:15	outCount:1	links:8094;2220	url:D003024	name:Clozapine	normalName:clozapine	normalWikiTitle:clozapine	predictedType:Chemical
+ENTITY	text:carbamazepine	normalName:carbamazepine	predictedType:chemical	q:true	qid:Q476	docId:1420650	origText:carbamazepine	url:D002220
+CANDIDATE	id:2220	inCount:15	outCount:1	links:3024;8094	url:D002220	name:Carbamazepine	normalName:carbamazepine	normalWikiTitle:carbamazepine	predictedType:Chemical
+ENTITY	text:lithium	normalName:lithium	predictedType:chemical	q:true	qid:Q476	docId:1420650	origText:lithium	url:D008094
+CANDIDATE	id:8094	inCount:15	outCount:2	links:3024;2220	url:D008094	name:Lithium	normalName:lithium	normalWikiTitle:lithium	predictedType:Chemical

@@ -1,0 +1,8 @@
+ENTITY	text:physostigmine	normalName:physostigmine	predictedType:chemical	q:true	qid:Q324	docId:603022	origText:physostigmine	url:D010830
+CANDIDATE	id:10830	inCount:25	outCount:2	links:	url:D010830	name:Physostigmine	normalName:physostigmine	normalWikiTitle:physostigmine	predictedType:Chemical
+ENTITY	text:scopolamine	normalName:scopolamine	predictedType:chemical	q:true	qid:Q324	docId:603022	origText:scopolamine	url:D012601
+CANDIDATE	id:12601	inCount:3	outCount:2	links:12601	url:D012601	name:Scopolamine	normalName:scopolamine	normalWikiTitle:scopolamine	predictedType:Chemical
+ENTITY	text:Hyoscine	normalName:hyoscine	predictedType:chemical	q:true	qid:Q324	docId:603022	origText:Hyoscine	url:D012601
+CANDIDATE	id:12601	inCount:3	outCount:2	links:12601	url:D012601	name:Hyoscine	normalName:hyoscine	normalWikiTitle:hyoscine	predictedType:Chemical
+ENTITY	text:Galanthamine hydrobromide	normalName:galanthamine hydrobromide	predictedType:chemical	q:true	qid:Q324	docId:603022	origText:Galanthamine hydrobromide	url:D005702
+CANDIDATE	id:5702	inCount:10	outCount:2	links:	url:D005702	name:Galanthamine Hydrobromide	normalName:galanthamine hydrobromide	normalWikiTitle:galanthamine hydrobromide	predictedType:Chemical

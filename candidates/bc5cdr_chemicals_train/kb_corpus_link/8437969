@@ -1,0 +1,4 @@
+ENTITY	text:cimetidine	normalName:cimetidine	predictedType:chemical	q:true	qid:Q70	docId:8437969	origText:cimetidine	url:D002927
+CANDIDATE	id:2927	inCount:14	outCount:2	links:	url:D002927	name:Cimetidine	normalName:cimetidine	normalWikiTitle:cimetidine	predictedType:Chemical
+ENTITY	text:ranitidine	normalName:ranitidine	predictedType:chemical	q:true	qid:Q70	docId:8437969	origText:ranitidine	url:D011899
+CANDIDATE	id:11899	inCount:12	outCount:1	links:	url:D011899	name:Ranitidine	normalName:ranitidine	normalWikiTitle:ranitidine	predictedType:Chemical

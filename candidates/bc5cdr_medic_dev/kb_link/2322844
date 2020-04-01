@@ -1,0 +1,15 @@
+ENTITY	text:pain	normalName:pain	predictedType:disease	q:true	qid:Q1	docId:2322844	origText:pain	url:D010146
+CANDIDATE	id:10146	inCount:34	outCount:1	links:	url:D010146	name:Pain	normalName:pain	normalWikiTitle:pain	predictedType:Disease
+ENTITY	text:hyperalgesia	normalName:hyperalgesia	predictedType:disease	q:true	qid:Q1	docId:2322844	origText:hyperalgesia	url:D006930
+CANDIDATE	id:6930	inCount:0	outCount:1	links:6930	url:D006930	name:Hyperalgesia	normalName:hyperalgesia	normalWikiTitle:hyperalgesia	predictedType:Disease
+ENTITY	text:hyperalgesic	normalName:hyperalgesic	predictedType:disease	q:true	qid:Q1	docId:2322844	origText:hyperalgesic	url:D006930
+CANDIDATE	id:6930	inCount:0	outCount:1	links:6930	url:D006930	name:Hyperalgesia	normalName:hyperalgesia	normalWikiTitle:hyperalgesia	predictedType:Disease
+CANDIDATE	id:6947	inCount:4	outCount:1	links:	url:D006947	name:Hyperkalemia	normalName:hyperkalemia	normalWikiTitle:hyperkalemia	predictedType:Disease
+CANDIDATE	id:565500	inCount:0	outCount:1	links:	url:C565500	name:Hyperlexia	normalName:hyperlexia	normalWikiTitle:hyperlexia	predictedType:Disease
+CANDIDATE	id:6934	inCount:10	outCount:2	links:	url:D006934	name:Hypercalcemia	normalName:hypercalcemia	normalWikiTitle:hypercalcemia	predictedType:Disease
+CANDIDATE	id:6965	inCount:4	outCount:1	links:	url:D006965	name:Hyperplasia	normalName:hyperplasia	normalWikiTitle:hyperplasia	predictedType:Disease
+CANDIDATE	id:6963	inCount:2	outCount:1	links:	url:D006963	name:Hyperphagia	normalName:hyperphagia	normalWikiTitle:hyperphagia	predictedType:Disease
+CANDIDATE	id:12001	inCount:0	outCount:1	links:	url:D012001	name:Hyperacusis	normalName:hyperacusis	normalWikiTitle:hyperacusis	predictedType:Disease
+CANDIDATE	id:6973	inCount:18	outCount:1	links:	url:D006973	name:Hypertension	normalName:hypertension	normalWikiTitle:hypertension	predictedType:Disease
+CANDIDATE	id:34321	inCount:0	outCount:1	links:	url:D034321	name:Hyperamylasemia	normalName:hyperamylasemia	normalWikiTitle:hyperamylasemia	predictedType:Disease
+CANDIDATE	id:6948	inCount:1	outCount:1	links:	url:D006948	name:Hyperkinesis	normalName:hyperkinesis	normalWikiTitle:hyperkinesis	predictedType:Disease

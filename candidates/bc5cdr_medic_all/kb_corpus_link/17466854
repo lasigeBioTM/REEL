@@ -1,0 +1,36 @@
+ENTITY	text:cataract	normalName:cataract	predictedType:disease	q:true	qid:Q137	docId:17466854	origText:cataract	url:D002386
+CANDIDATE	id:2386	inCount:169	outCount:1	links:	url:D002386	name:Cataract	normalName:cataract	normalWikiTitle:cataract	predictedType:Disease
+ENTITY	text:nausea, vomiting	normalName:nausea, vomiting	predictedType:disease	q:true	qid:Q137	docId:17466854	origText:nausea, vomiting	url:D020250
+CANDIDATE	id:20250	inCount:0	outCount:3	links:20250;6261	url:D020250	name:Postoperative Nausea and Vomiting	normalName:postoperative nausea and vomiting	normalWikiTitle:postoperative nausea and vomiting	predictedType:Disease
+CANDIDATE	id:14839	inCount:7	outCount:1	links:6261	url:D014839	name:Vomiting	normalName:vomiting	normalWikiTitle:vomiting	predictedType:Disease
+CANDIDATE	id:14840	inCount:0	outCount:1	links:	url:D014840	name:Vomiting, Anticipatory	normalName:vomiting, anticipatory	normalWikiTitle:vomiting, anticipatory	predictedType:Disease
+CANDIDATE	id:537562	inCount:0	outCount:1	links:	url:C537562	name:Jamaican vomiting sickness	normalName:jamaican vomiting sickness	normalWikiTitle:jamaican vomiting sickness	predictedType:Disease
+CANDIDATE	id:20149	inCount:0	outCount:2	links:	url:D020149	name:Manganese Poisoning	normalName:manganese poisoning	normalWikiTitle:manganese poisoning	predictedType:Disease
+CANDIDATE	id:9325	inCount:2	outCount:1	links:6261	url:D009325	name:Nausea	normalName:nausea	normalWikiTitle:nausea	predictedType:Disease
+CANDIDATE	id:5739	inCount:2	outCount:1	links:	url:D005739	name:Gas Poisoning	normalName:gas poisoning	normalWikiTitle:gas poisoning	predictedType:Disease
+CANDIDATE	id:20261	inCount:0	outCount:2	links:	url:D020261	name:Arsenic Poisoning	normalName:arsenic poisoning	normalWikiTitle:arsenic poisoning	predictedType:Disease
+CANDIDATE	id:15508	inCount:0	outCount:2	links:	url:D015508	name:Nasal Obstruction	normalName:nasal obstruction	normalWikiTitle:nasal obstruction	predictedType:Disease
+CANDIDATE	id:564023	inCount:0	outCount:1	links:	url:C564023	name:Cyclic Vomiting Syndrome-Plus	normalName:cyclic vomiting syndrome-plus	normalWikiTitle:cyclic vomiting syndrome-plus	predictedType:Disease
+ENTITY	text:headache	normalName:headache	predictedType:disease	q:true	qid:Q137	docId:17466854	origText:headache	url:D006261
+CANDIDATE	id:6261	inCount:2	outCount:1	links:20250;14839;9325	url:D006261	name:Headache	normalName:headache	normalWikiTitle:headache	predictedType:Disease
+ENTITY	text:postoperative emetic symptoms	normalName:postoperative emetic symptoms	predictedType:disease	q:true	qid:Q137	docId:17466854	origText:postoperative emetic symptoms	url:D020250
+CANDIDATE	id:20250	inCount:0	outCount:3	links:20250;6261	url:D020250	name:Emeses, Postoperative	normalName:emeses, postoperative	normalWikiTitle:emeses, postoperative	predictedType:Disease
+CANDIDATE	id:19106	inCount:1	outCount:2	links:	url:D019106	name:Postoperative Hemorrhage	normalName:postoperative hemorrhage	normalWikiTitle:postoperative hemorrhage	predictedType:Disease
+CANDIDATE	id:10149	inCount:1	outCount:2	links:	url:D010149	name:Pain, Postoperative	normalName:pain, postoperative	normalWikiTitle:pain, postoperative	predictedType:Disease
+CANDIDATE	id:11183	inCount:27	outCount:1	links:	url:D011183	name:Postoperative Complications	normalName:postoperative complications	normalWikiTitle:postoperative complications	predictedType:Disease
+CANDIDATE	id:20250	inCount:0	outCount:3	links:20250;6261	url:D020250	name:Postoperative Nausea and Vomiting	normalName:postoperative nausea and vomiting	normalWikiTitle:postoperative nausea and vomiting	predictedType:Disease
+CANDIDATE	id:13283	inCount:0	outCount:2	links:	url:D013283	name:Stomatitis, Herpetic	normalName:stomatitis, herpetic	normalWikiTitle:stomatitis, herpetic	predictedType:Disease
+CANDIDATE	id:55010	inCount:0	outCount:1	links:	url:D055010	name:Posterior Cervical Sympathetic Syndrome	normalName:posterior cervical sympathetic syndrome	normalWikiTitle:posterior cervical sympathetic syndrome	predictedType:Disease
+CANDIDATE	id:62706	inCount:0	outCount:1	links:	url:D062706	name:Prodromal Symptoms	normalName:prodromal symptoms	normalWikiTitle:prodromal symptoms	predictedType:Disease
+CANDIDATE	id:536513	inCount:0	outCount:4	links:	url:C536513	name:Thomas Jewett Raines syndrome	normalName:thomas jewett raines syndrome	normalWikiTitle:thomas jewett raines syndrome	predictedType:Disease
+CANDIDATE	id:566248	inCount:0	outCount:3	links:	url:C566248	name:Asymmetric Short Stature Syndrome	normalName:asymmetric short stature syndrome	normalWikiTitle:asymmetric short stature syndrome	predictedType:Disease
+CANDIDATE	id:16849	inCount:1	outCount:3	links:	url:D016849	name:Keratitis, Herpetic	normalName:keratitis, herpetic	normalWikiTitle:keratitis, herpetic	predictedType:Disease
+CANDIDATE	id:20250	inCount:0	outCount:3	links:20250;6261	url:D020250	name:Postoperative Emesis	normalName:postoperative emesis	normalWikiTitle:postoperative emesis	predictedType:Disease
+CANDIDATE	id:20250	inCount:0	outCount:3	links:20250;6261	url:D020250	name:Emesis, Postoperative	normalName:emesis, postoperative	normalWikiTitle:emesis, postoperative	predictedType:Disease
+CANDIDATE	id:20250	inCount:0	outCount:3	links:20250;6261	url:D020250	name:Postoperative Emeses	normalName:postoperative emeses	normalWikiTitle:postoperative emeses	predictedType:Disease
+CANDIDATE	id:1261	inCount:1	outCount:1	links:	url:D001261	name:Postoperative Pulmonary Atelectasis	normalName:postoperative pulmonary atelectasis	normalWikiTitle:postoperative pulmonary atelectasis	predictedType:Disease
+CANDIDATE	id:1261	inCount:1	outCount:1	links:	url:D001261	name:Pulmonary Atelectasis, Postoperative	normalName:pulmonary atelectasis, postoperative	normalWikiTitle:pulmonary atelectasis, postoperative	predictedType:Disease
+CANDIDATE	id:1261	inCount:1	outCount:1	links:	url:D001261	name:Atelectasis, Postoperative Pulmonary	normalName:atelectasis, postoperative pulmonary	normalWikiTitle:atelectasis, postoperative pulmonary	predictedType:Disease
+CANDIDATE	id:13530	inCount:0	outCount:2	links:	url:D013530	name:Wound Infection, Postoperative	normalName:wound infection, postoperative	normalWikiTitle:wound infection, postoperative	predictedType:Disease
+CANDIDATE	id:13530	inCount:0	outCount:2	links:	url:D013530	name:Postoperative Wound Infection	normalName:postoperative wound infection	normalWikiTitle:postoperative wound infection	predictedType:Disease
+CANDIDATE	id:13530	inCount:0	outCount:2	links:	url:D013530	name:Infection, Postoperative Wound	normalName:infection, postoperative wound	normalWikiTitle:infection, postoperative wound	predictedType:Disease

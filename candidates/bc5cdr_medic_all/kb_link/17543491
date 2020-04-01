@@ -1,0 +1,25 @@
+ENTITY	text:paralysis	normalName:paralysis	predictedType:disease	q:true	qid:Q687	docId:17543491	origText:paralysis	url:D010243
+CANDIDATE	id:10243	inCount:10	outCount:1	links:	url:D010243	name:Paralysis	normalName:paralysis	normalWikiTitle:paralysis	predictedType:Disease
+ENTITY	text:vocal cord paralysis	normalName:vocal cord paralysis	predictedType:disease	q:true	qid:Q687	docId:17543491	origText:vocal cord paralysis	url:D014826
+CANDIDATE	id:14826	inCount:6	outCount:3	links:14826	url:D014826	name:Vocal Cord Paralysis	normalName:vocal cord paralysis	normalWikiTitle:vocal cord paralysis	predictedType:Disease
+ENTITY	text:vocal nerve palsies	normalName:vocal nerve palsies	predictedType:disease	q:true	qid:Q687	docId:17543491	origText:vocal nerve palsies	url:D014826
+CANDIDATE	id:14826	inCount:6	outCount:3	links:14826	url:D014826	name:Vocal Cord Palsies	normalName:vocal cord palsies	normalWikiTitle:vocal cord palsies	predictedType:Disease
+CANDIDATE	id:14826	inCount:6	outCount:3	links:14826	url:D014826	name:Vocal Cord Paralysis	normalName:vocal cord paralysis	normalWikiTitle:vocal cord paralysis	predictedType:Disease
+CANDIDATE	id:20427	inCount:0	outCount:1	links:	url:D020427	name:Peroneal Neuropathies	normalName:peroneal neuropathies	normalWikiTitle:peroneal neuropathies	predictedType:Disease
+CANDIDATE	id:14604	inCount:3	outCount:2	links:	url:D014604	name:Uveal Neoplasms	normalName:uveal neoplasms	normalWikiTitle:uveal neoplasms	predictedType:Disease
+CANDIDATE	id:53206	inCount:1	outCount:1	links:	url:D053206	name:Nocturnal Enuresis	normalName:nocturnal enuresis	normalWikiTitle:nocturnal enuresis	predictedType:Disease
+CANDIDATE	id:18792	inCount:7	outCount:3	links:	url:D018792	name:Encephalitis, Viral	normalName:encephalitis, viral	normalWikiTitle:encephalitis, viral	predictedType:Disease
+CANDIDATE	id:12004	inCount:2	outCount:1	links:	url:D012004	name:Rectal Neoplasms	normalName:rectal neoplasms	normalWikiTitle:rectal neoplasms	predictedType:Disease
+CANDIDATE	id:12536	inCount:9	outCount:1	links:	url:D012536	name:Scalp Dermatoses	normalName:scalp dermatoses	normalWikiTitle:scalp dermatoses	predictedType:Disease
+CANDIDATE	id:4831	inCount:17	outCount:2	links:	url:D004831	name:Epilepsies, Myoclonic	normalName:epilepsies, myoclonic	normalWikiTitle:epilepsies, myoclonic	predictedType:Disease
+CANDIDATE	id:563439	inCount:0	outCount:1	links:	url:C563439	name:Enuresis, Nocturnal, 2	normalName:enuresis, nocturnal, 2	normalWikiTitle:enuresis, nocturnal, 2	predictedType:Disease
+CANDIDATE	id:5148	inCount:5	outCount:1	links:	url:D005148	name:Facial Dermatoses	normalName:facial dermatoses	normalWikiTitle:facial dermatoses	predictedType:Disease
+CANDIDATE	id:20434	inCount:2	outCount:1	links:	url:D020434	name:Palsies, VI Nerve	normalName:palsies, vi nerve	normalWikiTitle:palsies, vi nerve	predictedType:Disease
+CANDIDATE	id:20425	inCount:0	outCount:1	links:	url:D020425	name:Radial Nerve Palsies	normalName:radial nerve palsies	normalWikiTitle:radial nerve palsies	predictedType:Disease
+CANDIDATE	id:14826	inCount:6	outCount:3	links:14826	url:D014826	name:Palsies, Vocal Cord	normalName:palsies, vocal cord	normalWikiTitle:palsies, vocal cord	predictedType:Disease
+CANDIDATE	id:20432	inCount:1	outCount:1	links:	url:D020432	name:Palsies, Trochlear Nerve	normalName:palsies, trochlear nerve	normalWikiTitle:palsies, trochlear nerve	predictedType:Disease
+CANDIDATE	id:20432	inCount:1	outCount:1	links:	url:D020432	name:Trochlear Nerve Palsies	normalName:trochlear nerve palsies	normalWikiTitle:trochlear nerve palsies	predictedType:Disease
+CANDIDATE	id:20426	inCount:2	outCount:1	links:	url:D020426	name:Nerve Palsies, Sciatic	normalName:nerve palsies, sciatic	normalWikiTitle:nerve palsies, sciatic	predictedType:Disease
+CANDIDATE	id:20426	inCount:2	outCount:1	links:	url:D020426	name:Palsies, Sciatic Nerve	normalName:palsies, sciatic nerve	normalWikiTitle:palsies, sciatic nerve	predictedType:Disease
+CANDIDATE	id:20426	inCount:2	outCount:1	links:	url:D020426	name:Sciatic Nerve Palsies	normalName:sciatic nerve palsies	normalWikiTitle:sciatic nerve palsies	predictedType:Disease
+CANDIDATE	id:20424	inCount:2	outCount:1	links:	url:D020424	name:Ulnar Nerve Palsies	normalName:ulnar nerve palsies	normalWikiTitle:ulnar nerve palsies	predictedType:Disease

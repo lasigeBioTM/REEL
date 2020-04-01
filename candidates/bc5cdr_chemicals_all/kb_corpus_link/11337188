@@ -1,0 +1,26 @@
+ENTITY	text:corticosteroids	normalName:corticosteroids	predictedType:chemical	q:true	qid:Q227	docId:11337188	origText:corticosteroids	url:D000305
+CANDIDATE	id:305	inCount:8	outCount:1	links:10068;305	url:D000305	name:Corticosteroids	normalName:corticosteroids	normalWikiTitle:corticosteroids	predictedType:Chemical
+CANDIDATE	id:3345	inCount:21	outCount:2	links:3345	url:D003345	name:Corticosterone	normalName:corticosterone	normalWikiTitle:corticosterone	predictedType:Chemical
+CANDIDATE	id:540640	inCount:0	outCount:1	links:540640	url:C540640	name:ptilosteroid C	normalName:ptilosteroid c	normalWikiTitle:ptilosteroid c	predictedType:Chemical
+CANDIDATE	id:6889	inCount:5	outCount:1	links:6889	url:D006889	name:Hydroxycorticosteroids	normalName:hydroxycorticosteroids	normalWikiTitle:hydroxycorticosteroids	predictedType:Chemical
+CANDIDATE	id:534366	inCount:0	outCount:1	links:534366	url:C534366	name:parathiosteroid C	normalName:parathiosteroid c	normalWikiTitle:parathiosteroid c	predictedType:Chemical
+CANDIDATE	id:26367	inCount:0	outCount:1	links:26367	url:C026367	name:corticosterone nitroxide	normalName:corticosterone nitroxide	normalWikiTitle:corticosterone nitroxide	predictedType:Chemical
+CANDIDATE	id:54598	inCount:0	outCount:1	links:54598	url:C054598	name:corticostatin	normalName:corticostatin	normalWikiTitle:corticostatin	predictedType:Chemical
+CANDIDATE	id:3525	inCount:1	outCount:1	links:3525	url:D003525	name:Cyclosteroids	normalName:cyclosteroids	normalWikiTitle:cyclosteroids	predictedType:Chemical
+CANDIDATE	id:10897	inCount:0	outCount:1	links:10897	url:C010897	name:corticotensin	normalName:corticotensin	normalWikiTitle:corticotensin	predictedType:Chemical
+CANDIDATE	id:15062	inCount:5	outCount:1	links:15062	url:D015062	name:11-Hydroxycorticosteroids	normalName:11-hydroxycorticosteroids	normalWikiTitle:11-hydroxycorticosteroids	predictedType:Chemical
+CANDIDATE	id:9654	inCount:35	outCount:1	links:9654	url:D009654	name:Norsteroids	normalName:norsteroids	normalWikiTitle:norsteroids	predictedType:Chemical
+ENTITY	text:corticosteroid	normalName:corticosteroid	predictedType:chemical	q:true	qid:Q227	docId:11337188	origText:corticosteroid	url:D000305
+CANDIDATE	id:305	inCount:8	outCount:1	links:10068;305	url:D000305	name:Corticosteroids	normalName:corticosteroids	normalWikiTitle:corticosteroids	predictedType:Chemical
+CANDIDATE	id:3345	inCount:21	outCount:2	links:3345	url:D003345	name:Corticosterone	normalName:corticosterone	normalWikiTitle:corticosterone	predictedType:Chemical
+CANDIDATE	id:540640	inCount:0	outCount:1	links:540640	url:C540640	name:ptilosteroid C	normalName:ptilosteroid c	normalWikiTitle:ptilosteroid c	predictedType:Chemical
+CANDIDATE	id:6889	inCount:5	outCount:1	links:6889	url:D006889	name:Hydroxycorticosteroids	normalName:hydroxycorticosteroids	normalWikiTitle:hydroxycorticosteroids	predictedType:Chemical
+CANDIDATE	id:534366	inCount:0	outCount:1	links:534366	url:C534366	name:parathiosteroid C	normalName:parathiosteroid c	normalWikiTitle:parathiosteroid c	predictedType:Chemical
+CANDIDATE	id:26367	inCount:0	outCount:1	links:26367	url:C026367	name:corticosterone nitroxide	normalName:corticosterone nitroxide	normalWikiTitle:corticosterone nitroxide	predictedType:Chemical
+CANDIDATE	id:54598	inCount:0	outCount:1	links:54598	url:C054598	name:corticostatin	normalName:corticostatin	normalWikiTitle:corticostatin	predictedType:Chemical
+CANDIDATE	id:3525	inCount:1	outCount:1	links:3525	url:D003525	name:Cyclosteroids	normalName:cyclosteroids	normalWikiTitle:cyclosteroids	predictedType:Chemical
+CANDIDATE	id:10897	inCount:0	outCount:1	links:10897	url:C010897	name:corticotensin	normalName:corticotensin	normalWikiTitle:corticotensin	predictedType:Chemical
+CANDIDATE	id:15062	inCount:5	outCount:1	links:15062	url:D015062	name:11-Hydroxycorticosteroids	normalName:11-hydroxycorticosteroids	normalWikiTitle:11-hydroxycorticosteroids	predictedType:Chemical
+CANDIDATE	id:9654	inCount:35	outCount:1	links:9654	url:D009654	name:Norsteroids	normalName:norsteroids	normalWikiTitle:norsteroids	predictedType:Chemical
+ENTITY	text:oxacillin	normalName:oxacillin	predictedType:chemical	q:true	qid:Q227	docId:11337188	origText:oxacillin	url:D010068
+CANDIDATE	id:10068	inCount:3	outCount:1	links:305	url:D010068	name:Oxacillin	normalName:oxacillin	normalWikiTitle:oxacillin	predictedType:Chemical

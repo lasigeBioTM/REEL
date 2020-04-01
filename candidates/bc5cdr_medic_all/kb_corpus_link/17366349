@@ -1,0 +1,6 @@
+ENTITY	text:movement disorders	normalName:movement disorders	predictedType:disease	q:true	qid:Q1479	docId:17366349	origText:movement disorders	url:D009069
+CANDIDATE	id:9069	inCount:19	outCount:1	links:12559	url:D009069	name:Movement Disorder	normalName:movement disorder	normalWikiTitle:movement disorder	predictedType:Disease
+ENTITY	text:schizophrenia	normalName:schizophrenia	predictedType:disease	q:true	qid:Q1479	docId:17366349	origText:schizophrenia	url:D012559
+CANDIDATE	id:12559	inCount:4	outCount:1	links:9069	url:D012559	name:Schizophrenia	normalName:schizophrenia	normalWikiTitle:schizophrenia	predictedType:Disease
+ENTITY	text:Neuroleptic malignant syndrome	normalName:neuroleptic malignant syndrome	predictedType:disease	q:true	qid:Q1479	docId:17366349	origText:Neuroleptic malignant syndrome	url:D009459
+CANDIDATE	id:9459	inCount:0	outCount:2	links:	url:D009459	name:Neuroleptic Malignant Syndrome	normalName:neuroleptic malignant syndrome	normalWikiTitle:neuroleptic malignant syndrome	predictedType:Disease

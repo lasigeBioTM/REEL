@@ -1,0 +1,4 @@
+ENTITY	text:systemic sclerosis	normalName:systemic sclerosis	predictedType:disease	q:true	qid:Q22	docId:22836123	origText:systemic sclerosis	url:D012595
+CANDIDATE	id:12595	inCount:6	outCount:2	links:	url:D012595	name:Systemic Sclerosis	normalName:systemic sclerosis	normalWikiTitle:systemic sclerosis	predictedType:Disease
+ENTITY	text:thrombotic microangiopathy	normalName:thrombotic microangiopathy	predictedType:disease	q:true	qid:Q22	docId:22836123	origText:thrombotic microangiopathy	url:D057049
+CANDIDATE	id:57049	inCount:2	outCount:1	links:	url:D057049	name:Microangiopathy, Thrombotic	normalName:microangiopathy, thrombotic	normalWikiTitle:microangiopathy, thrombotic	predictedType:Disease

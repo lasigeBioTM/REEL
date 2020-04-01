@@ -1,0 +1,16 @@
+ENTITY	text:S-312	normalName:s-312	predictedType:chemical	q:true	qid:Q1038	docId:7967231	origText:S-312	url:C059447
+CANDIDATE	id:59447	inCount:0	outCount:1	links:59447	url:C059447	name:S 312	normalName:s 312	normalWikiTitle:s 312	predictedType:Chemical
+ENTITY	text:pentylenetetrazole	normalName:pentylenetetrazole	predictedType:chemical	q:true	qid:Q1038	docId:7967231	origText:pentylenetetrazole	url:D010433
+CANDIDATE	id:10433	inCount:2	outCount:1	links:10852;1534	url:D010433	name:Pentylenetetrazole	normalName:pentylenetetrazole	normalWikiTitle:pentylenetetrazole	predictedType:Chemical
+ENTITY	text:flunarizine	normalName:flunarizine	predictedType:chemical	q:true	qid:Q1038	docId:7967231	origText:flunarizine	url:D005444
+CANDIDATE	id:5444	inCount:2	outCount:1	links:	url:D005444	name:Flunarizine	normalName:flunarizine	normalWikiTitle:flunarizine	predictedType:Chemical
+ENTITY	text:bemegride	normalName:bemegride	predictedType:chemical	q:true	qid:Q1038	docId:7967231	origText:bemegride	url:D001534
+CANDIDATE	id:1534	inCount:0	outCount:1	links:10433;10852	url:D001534	name:Bemegride	normalName:bemegride	normalWikiTitle:bemegride	predictedType:Chemical
+ENTITY	text:picrotoxin	normalName:picrotoxin	predictedType:chemical	q:true	qid:Q1038	docId:7967231	origText:picrotoxin	url:D010852
+CANDIDATE	id:10852	inCount:7	outCount:2	links:10433;1534	url:D010852	name:Picrotoxin	normalName:picrotoxin	normalWikiTitle:picrotoxin	predictedType:Chemical
+ENTITY	text:S-312-d	normalName:s-312-d	predictedType:chemical	q:true	qid:Q1038	docId:7967231	origText:S-312-d	url:C059447
+CANDIDATE	id:59447	inCount:0	outCount:1	links:59447	url:C059447	name:S-312-d	normalName:s-312-d	normalWikiTitle:s-312-d	predictedType:Chemical
+ENTITY	text:calcium	normalName:calcium	predictedType:chemical	q:true	qid:Q1038	docId:7967231	origText:calcium	url:D002118
+CANDIDATE	id:2118	inCount:11	outCount:2	links:	url:D002118	name:Calcium	normalName:calcium	normalWikiTitle:calcium	predictedType:Chemical
+ENTITY	text:N-methyl-D-aspartate	normalName:n-methyl-d-aspartate	predictedType:chemical	q:true	qid:Q1038	docId:7967231	origText:N-methyl-D-aspartate	url:D016202
+CANDIDATE	id:16202	inCount:3	outCount:1	links:	url:D016202	name:N-Methyl-D-aspartate	normalName:n-methyl-d-aspartate	normalWikiTitle:n-methyl-d-aspartate	predictedType:Chemical

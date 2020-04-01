@@ -1,0 +1,6 @@
+ENTITY	text:prostaglandin F2 alpha	normalName:prostaglandin f2 alpha	predictedType:chemical	q:true	qid:Q238	docId:1468485	origText:prostaglandin F2 alpha	url:D015237
+CANDIDATE	id:15237	inCount:59	outCount:1	links:	url:D015237	name:F2 alpha, Prostaglandin	normalName:f2 alpha, prostaglandin	normalWikiTitle:f2 alpha, prostaglandin	predictedType:Chemical
+ENTITY	text:oxygen	normalName:oxygen	predictedType:chemical	q:true	qid:Q238	docId:1468485	origText:oxygen	url:D010100
+CANDIDATE	id:10100	inCount:11	outCount:2	links:	url:D010100	name:Oxygen	normalName:oxygen	normalWikiTitle:oxygen	predictedType:Chemical
+ENTITY	text:cyclophosphamide	normalName:cyclophosphamide	predictedType:chemical	q:true	qid:Q238	docId:1468485	origText:cyclophosphamide	url:D003520
+CANDIDATE	id:3520	inCount:474	outCount:1	links:	url:D003520	name:Cyclophosphamide	normalName:cyclophosphamide	normalWikiTitle:cyclophosphamide	predictedType:Chemical

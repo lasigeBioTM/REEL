@@ -1,0 +1,24 @@
+ENTITY	text:incontinence	normalName:incontinence	predictedType:disease	q:true	qid:Q125	docId:2304736	origText:incontinence	url:D014549
+CANDIDATE	id:14549	inCount:2	outCount:2	links:14549	url:D014549	name:Urinary Incontinence	normalName:urinary incontinence	normalWikiTitle:urinary incontinence	predictedType:Disease
+CANDIDATE	id:5242	inCount:1	outCount:1	links:5242	url:D005242	name:Fecal Incontinence	normalName:fecal incontinence	normalWikiTitle:fecal incontinence	predictedType:Disease
+CANDIDATE	id:53202	inCount:0	outCount:1	links:53202	url:D053202	name:Urinary Incontinence, Urge	normalName:urinary incontinence, urge	normalWikiTitle:urinary incontinence, urge	predictedType:Disease
+CANDIDATE	id:7184	inCount:2	outCount:4	links:7184	url:D007184	name:Incontinentia Pigmenti	normalName:incontinentia pigmenti	normalWikiTitle:incontinentia pigmenti	predictedType:Disease
+CANDIDATE	id:14550	inCount:0	outCount:1	links:14550	url:D014550	name:Urinary Incontinence, Stress	normalName:urinary incontinence, stress	normalWikiTitle:urinary incontinence, stress	predictedType:Disease
+CANDIDATE	id:13159	inCount:0	outCount:2	links:	url:D013159	name:Splenic Infarction	normalName:splenic infarction	normalWikiTitle:splenic infarction	predictedType:Disease
+CANDIDATE	id:70624	inCount:0	outCount:2	links:	url:D000070624	name:Brain Contusion	normalName:brain contusion	normalWikiTitle:brain contusion	predictedType:Disease
+CANDIDATE	id:7239	inCount:33	outCount:1	links:	url:D007239	name:Infection	normalName:infection	normalWikiTitle:infection	predictedType:Disease
+CANDIDATE	id:34161	inCount:1	outCount:1	links:	url:D034161	name:Pelvic Infection	normalName:pelvic infection	normalWikiTitle:pelvic infection	predictedType:Disease
+CANDIDATE	id:11230	inCount:10	outCount:1	links:	url:D011230	name:Precancerous Conditions	normalName:precancerous conditions	normalWikiTitle:precancerous conditions	predictedType:Disease
+CANDIDATE	id:53202	inCount:0	outCount:1	links:53202	url:D053202	name:Urge Incontinence	normalName:urge incontinence	normalWikiTitle:urge incontinence	predictedType:Disease
+CANDIDATE	id:53202	inCount:0	outCount:1	links:53202	url:D053202	name:Incontinence, Urge	normalName:incontinence, urge	normalWikiTitle:incontinence, urge	predictedType:Disease
+ENTITY	text:stress incontinence	normalName:stress incontinence	predictedType:disease	q:true	qid:Q125	docId:2304736	origText:stress incontinence	url:D014550
+CANDIDATE	id:14550	inCount:0	outCount:1	links:14550	url:D014550	name:Urinary Incontinence, Stress	normalName:urinary incontinence, stress	normalWikiTitle:urinary incontinence, stress	predictedType:Disease
+CANDIDATE	id:14549	inCount:2	outCount:2	links:14549	url:D014549	name:Urinary Incontinence	normalName:urinary incontinence	normalWikiTitle:urinary incontinence	predictedType:Disease
+CANDIDATE	id:53202	inCount:0	outCount:1	links:53202	url:D053202	name:Urinary Incontinence, Urge	normalName:urinary incontinence, urge	normalWikiTitle:urinary incontinence, urge	predictedType:Disease
+CANDIDATE	id:5242	inCount:1	outCount:1	links:5242	url:D005242	name:Fecal Incontinence	normalName:fecal incontinence	normalWikiTitle:fecal incontinence	predictedType:Disease
+CANDIDATE	id:7184	inCount:2	outCount:4	links:7184	url:D007184	name:Incontinentia Pigmenti	normalName:incontinentia pigmenti	normalWikiTitle:incontinentia pigmenti	predictedType:Disease
+CANDIDATE	id:3677	inCount:5	outCount:1	links:	url:D003677	name:Deficiency Diseases	normalName:deficiency diseases	normalWikiTitle:deficiency diseases	predictedType:Disease
+CANDIDATE	id:3072	inCount:8	outCount:1	links:	url:D003072	name:Cognition Disorders	normalName:cognition disorders	normalWikiTitle:cognition disorders	predictedType:Disease
+CANDIDATE	id:73397	inCount:1	outCount:1	links:	url:D000073397	name:Occupational Stress	normalName:occupational stress	normalWikiTitle:occupational stress	predictedType:Disease
+CANDIDATE	id:15775	inCount:0	outCount:1	links:	url:D015775	name:Fractures, Stress	normalName:fractures, stress	normalWikiTitle:fractures, stress	predictedType:Disease
+CANDIDATE	id:57896	inCount:1	outCount:1	links:	url:D057896	name:Striae Distensae	normalName:striae distensae	normalWikiTitle:striae distensae	predictedType:Disease

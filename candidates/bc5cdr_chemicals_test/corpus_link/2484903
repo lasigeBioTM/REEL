@@ -1,0 +1,4 @@
+ENTITY	text:propylthiouracil	normalName:propylthiouracil	predictedType:chemical	q:true	qid:Q11	docId:2484903	origText:propylthiouracil	url:D011441
+CANDIDATE	id:11441	inCount:1	outCount:1	links:	url:D011441	name:Propylthiouracil	normalName:propylthiouracil	normalWikiTitle:propylthiouracil	predictedType:Chemical
+ENTITY	text:methimazole	normalName:methimazole	predictedType:chemical	q:true	qid:Q11	docId:2484903	origText:methimazole	url:D008713
+CANDIDATE	id:8713	inCount:3	outCount:2	links:	url:D008713	name:Methimazole	normalName:methimazole	normalWikiTitle:methimazole	predictedType:Chemical

@@ -1,0 +1,44 @@
+ENTITY	text:tuberculosis	normalName:tuberculosis	predictedType:disease	q:true	qid:Q964	docId:15565293	origText:tuberculosis	url:D014376
+CANDIDATE	id:14376	inCount:27	outCount:1	links:	url:D014376	name:Tuberculosis	normalName:tuberculosis	normalWikiTitle:tuberculosis	predictedType:Disease
+ENTITY	text:optic neuropathy	normalName:optic neuropathy	predictedType:disease	q:true	qid:Q964	docId:15565293	origText:optic neuropathy	url:D009901
+CANDIDATE	id:9901	inCount:13	outCount:2	links:9901	url:D009901	name:Neuropathy, Optic	normalName:neuropathy, optic	normalWikiTitle:neuropathy, optic	predictedType:Disease
+ENTITY	text:axonal degeneration	normalName:axonal degeneration	predictedType:disease	q:true	qid:Q964	docId:15565293	origText:axonal degeneration	url:D009410
+CANDIDATE	id:9410	inCount:6	outCount:1	links:	url:D009410	name:Nerve Degeneration	normalName:nerve degeneration	normalWikiTitle:nerve degeneration	predictedType:Disease
+CANDIDATE	id:75902	inCount:0	outCount:1	links:	url:D000075902	name:Clinical Deterioration	normalName:clinical deterioration	normalWikiTitle:clinical deterioration	predictedType:Disease
+CANDIDATE	id:57112	inCount:0	outCount:1	links:	url:D057112	name:Corneal Perforation	normalName:corneal perforation	normalWikiTitle:corneal perforation	predictedType:Disease
+CANDIDATE	id:56768	inCount:1	outCount:2	links:	url:D056768	name:Giant Axonal Neuropathy	normalName:giant axonal neuropathy	normalWikiTitle:giant axonal neuropathy	predictedType:Disease
+CANDIDATE	id:12162	inCount:28	outCount:2	links:	url:D012162	name:Retinal Degeneration	normalName:retinal degeneration	normalWikiTitle:retinal degeneration	predictedType:Disease
+CANDIDATE	id:8268	inCount:33	outCount:1	links:	url:D008268	name:Macular Degeneration	normalName:macular degeneration	normalWikiTitle:macular degeneration	predictedType:Disease
+CANDIDATE	id:52879	inCount:0	outCount:5	links:	url:D052879	name:Subacute Combined Degeneration	normalName:subacute combined degeneration	normalWikiTitle:subacute combined degeneration	predictedType:Disease
+CANDIDATE	id:14855	inCount:1	outCount:1	links:	url:D014855	name:Wallerian Degeneration	normalName:wallerian degeneration	normalWikiTitle:wallerian degeneration	predictedType:Disease
+CANDIDATE	id:5490	inCount:1	outCount:1	links:	url:D005490	name:Focal Infection	normalName:focal infection	normalWikiTitle:focal infection	predictedType:Disease
+CANDIDATE	id:47728	inCount:0	outCount:1	links:	url:D047728	name:Myopia, Degenerative	normalName:myopia, degenerative	normalWikiTitle:myopia, degenerative	predictedType:Disease
+CANDIDATE	id:12183	inCount:0	outCount:1	links:	url:D012183	name:Axonal Reaction	normalName:axonal reaction	normalWikiTitle:axonal reaction	predictedType:Disease
+CANDIDATE	id:12183	inCount:0	outCount:1	links:	url:D012183	name:Reaction, Axonal	normalName:reaction, axonal	normalWikiTitle:reaction, axonal	predictedType:Disease
+CANDIDATE	id:71700	inCount:1	outCount:2	links:	url:D000071700	name:Cone-Rod Degeneration	normalName:cone-rod degeneration	normalWikiTitle:cone-rod degeneration	predictedType:Disease
+CANDIDATE	id:12183	inCount:0	outCount:1	links:	url:D012183	name:Axonal Reactions	normalName:axonal reactions	normalWikiTitle:axonal reactions	predictedType:Disease
+CANDIDATE	id:12183	inCount:0	outCount:1	links:	url:D012183	name:Reactions, Axonal	normalName:reactions, axonal	normalWikiTitle:reactions, axonal	predictedType:Disease
+CANDIDATE	id:71700	inCount:1	outCount:2	links:	url:D000071700	name:Cone-Rod Degenerations	normalName:cone-rod degenerations	normalWikiTitle:cone-rod degenerations	predictedType:Disease
+CANDIDATE	id:71700	inCount:1	outCount:2	links:	url:D000071700	name:Cone Rod Degenerations	normalName:cone rod degenerations	normalWikiTitle:cone rod degenerations	predictedType:Disease
+CANDIDATE	id:12183	inCount:0	outCount:1	links:	url:D012183	name:Reaction, Axon	normalName:reaction, axon	normalWikiTitle:reaction, axon	predictedType:Disease
+CANDIDATE	id:12183	inCount:0	outCount:1	links:	url:D012183	name:Axon Reaction	normalName:axon reaction	normalWikiTitle:axon reaction	predictedType:Disease
+CANDIDATE	id:536432	inCount:0	outCount:2	links:	url:C536432	name:Cochleosaccular Degeneration	normalName:cochleosaccular degeneration	normalWikiTitle:cochleosaccular degeneration	predictedType:Disease
+ENTITY	text:optic neuropathies	normalName:optic neuropathies	predictedType:disease	q:true	qid:Q964	docId:15565293	origText:optic neuropathies	url:D009901
+CANDIDATE	id:9901	inCount:13	outCount:2	links:9901	url:D009901	name:Optic Neuropathies	normalName:optic neuropathies	normalWikiTitle:optic neuropathies	predictedType:Disease
+ENTITY	text:visual deficits	normalName:visual deficits	predictedType:disease	q:true	qid:Q964	docId:15565293	origText:visual deficits	url:D014786
+CANDIDATE	id:14786	inCount:19	outCount:2	links:	url:D014786	name:Visual Disorder	normalName:visual disorder	normalWikiTitle:visual disorder	predictedType:Disease
+CANDIDATE	id:8587	inCount:1	outCount:2	links:	url:D008587	name:Meningitis, Viral	normalName:meningitis, viral	normalWikiTitle:meningitis, viral	predictedType:Disease
+CANDIDATE	id:17098	inCount:4	outCount:1	links:	url:D017098	name:IgA Deficiency	normalName:iga deficiency	normalWikiTitle:iga deficiency	predictedType:Disease
+CANDIDATE	id:15299	inCount:0	outCount:1	links:	url:D015299	name:Discitis	normalName:discitis	normalWikiTitle:discitis	predictedType:Disease
+CANDIDATE	id:18792	inCount:7	outCount:3	links:	url:D018792	name:Encephalitis, Viral	normalName:encephalitis, viral	normalWikiTitle:encephalitis, viral	predictedType:Disease
+CANDIDATE	id:565767	inCount:0	outCount:1	links:	url:C565767	name:VDAC Deficiency	normalName:vdac deficiency	normalWikiTitle:vdac deficiency	predictedType:Disease
+CANDIDATE	id:3677	inCount:5	outCount:1	links:	url:D003677	name:Deficiency Diseases	normalName:deficiency diseases	normalWikiTitle:deficiency diseases	predictedType:Disease
+CANDIDATE	id:567308	inCount:0	outCount:1	links:	url:C567308	name:C6 Deficiency, Subtotal	normalName:c6 deficiency, subtotal	normalWikiTitle:c6 deficiency, subtotal	predictedType:Disease
+CANDIDATE	id:9436	inCount:11	outCount:1	links:	url:D009436	name:Neural Tube Defects	normalName:neural tube defects	normalWikiTitle:neural tube defects	predictedType:Disease
+CANDIDATE	id:536353	inCount:0	outCount:3	links:	url:C536353	name:VLCAD deficiency	normalName:vlcad deficiency	normalWikiTitle:vlcad deficiency	predictedType:Disease
+CANDIDATE	id:564352	inCount:0	outCount:1	links:	url:C564352	name:IRAK4 Deficiency	normalName:irak4 deficiency	normalWikiTitle:irak4 deficiency	predictedType:Disease
+CANDIDATE	id:12640	inCount:53	outCount:1	links:	url:D012640	name:Seizures, Visual	normalName:seizures, visual	normalWikiTitle:seizures, visual	predictedType:Disease
+CANDIDATE	id:12640	inCount:53	outCount:1	links:	url:D012640	name:Visual Seizures	normalName:visual seizures	normalWikiTitle:visual seizures	predictedType:Disease
+CANDIDATE	id:14786	inCount:19	outCount:2	links:	url:D014786	name:Disorder, Visual	normalName:disorder, visual	normalWikiTitle:disorder, visual	predictedType:Disease
+CANDIDATE	id:14786	inCount:19	outCount:2	links:	url:D014786	name:Impairments, Visual	normalName:impairments, visual	normalWikiTitle:impairments, visual	predictedType:Disease
+CANDIDATE	id:14786	inCount:19	outCount:2	links:	url:D014786	name:Visual Impairments	normalName:visual impairments	normalWikiTitle:visual impairments	predictedType:Disease

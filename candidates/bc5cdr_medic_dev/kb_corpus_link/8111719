@@ -1,0 +1,25 @@
+ENTITY	text:Hallucinations	normalName:hallucinations	predictedType:disease	q:true	qid:Q310	docId:8111719	origText:Hallucinations	url:D006212
+CANDIDATE	id:6212	inCount:1	outCount:1	links:6212	url:D006212	name:Hallucinations	normalName:hallucinations	normalWikiTitle:hallucinations	predictedType:Disease
+ENTITY	text:hallucinatory	normalName:hallucinatory	predictedType:disease	q:true	qid:Q310	docId:8111719	origText:hallucinatory	url:D006212
+CANDIDATE	id:6212	inCount:1	outCount:1	links:6212	url:D006212	name:Hallucination	normalName:hallucination	normalWikiTitle:hallucination	predictedType:Disease
+CANDIDATE	id:6212	inCount:1	outCount:1	links:6212	url:D006212	name:Hallucinations	normalName:hallucinations	normalWikiTitle:hallucinations	predictedType:Disease
+CANDIDATE	id:14545	inCount:4	outCount:2	links:	url:D014545	name:Urinary Calculi	normalName:urinary calculi	normalWikiTitle:urinary calculi	predictedType:Disease
+CANDIDATE	id:50488	inCount:2	outCount:1	links:	url:D050488	name:Hallux Varus	normalName:hallux varus	normalWikiTitle:hallux varus	predictedType:Disease
+CANDIDATE	id:6209	inCount:0	outCount:1	links:	url:D006209	name:Halitosis	normalName:halitosis	normalWikiTitle:halitosis	predictedType:Disease
+CANDIDATE	id:472	inCount:0	outCount:2	links:	url:D000472	name:Alkalosis, Respiratory	normalName:alkalosis, respiratory	normalWikiTitle:alkalosis, respiratory	predictedType:Disease
+CANDIDATE	id:9449	inCount:0	outCount:1	links:	url:D009449	name:Neurocirculatory Asthenia	normalName:neurocirculatory asthenia	normalWikiTitle:neurocirculatory asthenia	predictedType:Disease
+CANDIDATE	id:10167	inCount:0	outCount:1	links:	url:D010167	name:Pallor	normalName:pallor	normalWikiTitle:pallor	predictedType:Disease
+CANDIDATE	id:12465	inCount:0	outCount:1	links:	url:D012465	name:Salivary Duct Calculi	normalName:salivary duct calculi	normalWikiTitle:salivary duct calculi	predictedType:Disease
+CANDIDATE	id:4614	inCount:1	outCount:1	links:	url:D004614	name:Emaciation	normalName:emaciation	normalWikiTitle:emaciation	predictedType:Disease
+CANDIDATE	id:58734	inCount:0	outCount:1	links:	url:D058734	name:Exsanguination	normalName:exsanguination	normalWikiTitle:exsanguination	predictedType:Disease
+ENTITY	text:neurotoxicity	normalName:neurotoxicity	predictedType:disease	q:true	qid:Q310	docId:8111719	origText:neurotoxicity	url:D020258
+CANDIDATE	id:20258	inCount:7	outCount:2	links:	url:D020258	name:Neurotoxicity Syndromes	normalName:neurotoxicity syndromes	normalWikiTitle:neurotoxicity syndromes	predictedType:Disease
+CANDIDATE	id:66126	inCount:0	outCount:3	links:	url:D066126	name:Cardiotoxicity	normalName:cardiotoxicity	normalWikiTitle:cardiotoxicity	predictedType:Disease
+CANDIDATE	id:7246	inCount:2	outCount:2	links:	url:D007246	name:Infertility	normalName:infertility	normalWikiTitle:infertility	predictedType:Disease
+CANDIDATE	id:4767	inCount:0	outCount:2	links:	url:D004767	name:Enterotoxemia	normalName:enterotoxemia	normalWikiTitle:enterotoxemia	predictedType:Disease
+CANDIDATE	id:13971	inCount:2	outCount:1	links:	url:D013971	name:Thyrotoxicosis	normalName:thyrotoxicosis	normalWikiTitle:thyrotoxicosis	predictedType:Disease
+CANDIDATE	id:9902	inCount:1	outCount:1	links:	url:D009902	name:Optic Neuritis	normalName:optic neuritis	normalWikiTitle:optic neuritis	predictedType:Disease
+CANDIDATE	id:20426	inCount:2	outCount:1	links:	url:D020426	name:Sciatic Neuropathy	normalName:sciatic neuropathy	normalWikiTitle:sciatic neuropathy	predictedType:Disease
+CANDIDATE	id:18306	inCount:0	outCount:2	links:	url:D018306	name:Neurocytoma	normalName:neurocytoma	normalWikiTitle:neurocytoma	predictedType:Disease
+CANDIDATE	id:20019	inCount:0	outCount:2	links:	url:D020019	name:Neurocysticercosis	normalName:neurocysticercosis	normalWikiTitle:neurocysticercosis	predictedType:Disease
+CANDIDATE	id:9443	inCount:2	outCount:1	links:	url:D009443	name:Neuritis	normalName:neuritis	normalWikiTitle:neuritis	predictedType:Disease

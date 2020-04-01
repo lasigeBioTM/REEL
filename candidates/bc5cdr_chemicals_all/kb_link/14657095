@@ -1,0 +1,4 @@
+ENTITY	text:amphotericin B	normalName:amphotericin b	predictedType:chemical	q:true	qid:Q857	docId:14657095	origText:amphotericin B	url:D000666
+CANDIDATE	id:666	inCount:27	outCount:1	links:	url:D000666	name:Amphotericin B	normalName:amphotericin b	normalWikiTitle:amphotericin b	predictedType:Chemical
+ENTITY	text:posaconazole	normalName:posaconazole	predictedType:chemical	q:true	qid:Q857	docId:14657095	origText:posaconazole	url:C101425
+CANDIDATE	id:101425	inCount:0	outCount:1	links:	url:C101425	name:posaconazole	normalName:posaconazole	normalWikiTitle:posaconazole	predictedType:Chemical

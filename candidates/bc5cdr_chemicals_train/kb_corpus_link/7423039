@@ -1,0 +1,22 @@
+ENTITY	text:adriamycin	normalName:adriamycin	predictedType:chemical	q:true	qid:Q499	docId:7423039	origText:adriamycin	url:D004317
+CANDIDATE	id:4317	inCount:559	outCount:1	links:	url:D004317	name:Adriamycin	normalName:adriamycin	normalWikiTitle:adriamycin	predictedType:Chemical
+ENTITY	text:phosphorylcreatine	normalName:phosphorylcreatine	predictedType:chemical	q:true	qid:Q499	docId:7423039	origText:phosphorylcreatine	url:D010725
+CANDIDATE	id:10725	inCount:4	outCount:2	links:10725	url:D010725	name:Phosphorylcreatine	normalName:phosphorylcreatine	normalWikiTitle:phosphorylcreatine	predictedType:Chemical
+ENTITY	text:phophorylcreatine	normalName:phophorylcreatine	predictedType:chemical	q:true	qid:Q499	docId:7423039	origText:phophorylcreatine	url:D010725
+CANDIDATE	id:10725	inCount:4	outCount:2	links:10725	url:D010725	name:Phosphorylcreatine	normalName:phosphorylcreatine	normalWikiTitle:phosphorylcreatine	predictedType:Chemical
+CANDIDATE	id:10725	inCount:4	outCount:2	links:10725	url:D010725	name:Phosphocreatine	normalName:phosphocreatine	normalWikiTitle:phosphocreatine	predictedType:Chemical
+CANDIDATE	id:12487	inCount:0	outCount:2	links:	url:C012487	name:phosphocyclocreatine	normalName:phosphocyclocreatine	normalWikiTitle:phosphocyclocreatine	predictedType:Chemical
+CANDIDATE	id:25403	inCount:0	outCount:1	links:	url:C025403	name:phosphocreatinine	normalName:phosphocreatinine	normalWikiTitle:phosphocreatinine	predictedType:Chemical
+CANDIDATE	id:37183	inCount:0	outCount:2	links:	url:C037183	name:phosphohomocyclocreatine	normalName:phosphohomocyclocreatine	normalWikiTitle:phosphohomocyclocreatine	predictedType:Chemical
+CANDIDATE	id:37182	inCount:0	outCount:2	links:	url:C037182	name:homocyclocreatine	normalName:homocyclocreatine	normalWikiTitle:homocyclocreatine	predictedType:Chemical
+CANDIDATE	id:10767	inCount:71	outCount:1	links:	url:D010767	name:Phosphorylcholine	normalName:phosphorylcholine	normalWikiTitle:phosphorylcholine	predictedType:Chemical
+CANDIDATE	id:485025	inCount:0	outCount:1	links:	url:C485025	name:phosphocarnitine	normalName:phosphocarnitine	normalWikiTitle:phosphocarnitine	predictedType:Chemical
+CANDIDATE	id:18933	inCount:0	outCount:1	links:	url:C018933	name:epoxycreatine	normalName:epoxycreatine	normalWikiTitle:epoxycreatine	predictedType:Chemical
+CANDIDATE	id:34928	inCount:0	outCount:1	links:	url:C034928	name:4-phosphorylproline	normalName:4-phosphorylproline	normalWikiTitle:4-phosphorylproline	predictedType:Chemical
+CANDIDATE	id:5448	inCount:0	outCount:1	links:	url:C005448	name:phosphorylethanolamine	normalName:phosphorylethanolamine	normalWikiTitle:phosphorylethanolamine	predictedType:Chemical
+ENTITY	text:adenosine	normalName:adenosine	predictedType:chemical	q:true	qid:Q499	docId:7423039	origText:adenosine	url:D000241
+CANDIDATE	id:241	inCount:475	outCount:2	links:	url:D000241	name:Adenosine	normalName:adenosine	normalWikiTitle:adenosine	predictedType:Chemical
+ENTITY	text:creatine	normalName:creatine	predictedType:chemical	q:true	qid:Q499	docId:7423039	origText:creatine	url:D003401
+CANDIDATE	id:3401	inCount:7	outCount:2	links:	url:D003401	name:Creatine	normalName:creatine	normalWikiTitle:creatine	predictedType:Chemical
+ENTITY	text:ATP	normalName:atp	predictedType:chemical	q:true	qid:Q499	docId:7423039	origText:ATP	url:D000255
+CANDIDATE	id:255	inCount:176	outCount:1	links:	url:D000255	name:ATP	normalName:atp	normalWikiTitle:atp	predictedType:Chemical

@@ -1,0 +1,6 @@
+ENTITY	text:cocaine	normalName:cocaine	predictedType:chemical	q:true	qid:Q312	docId:11185967	origText:cocaine	url:D003042
+CANDIDATE	id:3042	inCount:89	outCount:1	links:5618;661	url:D003042	name:Cocaine	normalName:cocaine	normalWikiTitle:cocaine	predictedType:Chemical
+ENTITY	text:amphetamine	normalName:amphetamine	predictedType:chemical	q:true	qid:Q312	docId:11185967	origText:amphetamine	url:D000661
+CANDIDATE	id:661	inCount:1	outCount:1	links:3042	url:D000661	name:Amphetamine	normalName:amphetamine	normalWikiTitle:amphetamine	predictedType:Chemical
+ENTITY	text:benzoylecgonine	normalName:benzoylecgonine	predictedType:chemical	q:true	qid:Q312	docId:11185967	origText:benzoylecgonine	url:C005618
+CANDIDATE	id:5618	inCount:0	outCount:1	links:3042	url:C005618	name:benzoylecgonine	normalName:benzoylecgonine	normalWikiTitle:benzoylecgonine	predictedType:Chemical

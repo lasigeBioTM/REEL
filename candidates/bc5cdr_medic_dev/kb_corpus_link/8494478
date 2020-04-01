@@ -1,0 +1,6 @@
+ENTITY	text:acute renal failure	normalName:acute renal failure	predictedType:disease	q:true	qid:Q459	docId:8494478	origText:acute renal failure	url:D058186
+CANDIDATE	id:58186	inCount:2	outCount:1	links:9395	url:D058186	name:Acute Renal Failure	normalName:acute renal failure	normalWikiTitle:acute renal failure	predictedType:Disease
+ENTITY	text:cancer	normalName:cancer	predictedType:disease	q:true	qid:Q459	docId:8494478	origText:cancer	url:D009369
+CANDIDATE	id:9369	inCount:18	outCount:1	links:	url:D009369	name:Cancer	normalName:cancer	normalWikiTitle:cancer	predictedType:Disease
+ENTITY	text:interstitial nephritis	normalName:interstitial nephritis	predictedType:disease	q:true	qid:Q459	docId:8494478	origText:interstitial nephritis	url:D009395
+CANDIDATE	id:9395	inCount:8	outCount:1	links:58186	url:D009395	name:Nephritis, Interstitial	normalName:nephritis, interstitial	normalWikiTitle:nephritis, interstitial	predictedType:Disease

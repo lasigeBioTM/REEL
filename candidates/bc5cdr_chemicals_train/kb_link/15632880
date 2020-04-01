@@ -1,0 +1,17 @@
+ENTITY	text:Spironolactone	normalName:spironolactone	predictedType:chemical	q:true	qid:Q78	docId:15632880	origText:Spironolactone	url:D013148
+CANDIDATE	id:13148	inCount:32	outCount:2	links:	url:D013148	name:Spironolactone	normalName:spironolactone	normalWikiTitle:spironolactone	predictedType:Chemical
+ENTITY	text:creatinine	normalName:creatinine	predictedType:chemical	q:true	qid:Q78	docId:15632880	origText:creatinine	url:D003404
+CANDIDATE	id:3404	inCount:8	outCount:1	links:	url:D003404	name:Creatinine	normalName:creatinine	normalWikiTitle:creatinine	predictedType:Chemical
+ENTITY	text:potassium	normalName:potassium	predictedType:chemical	q:true	qid:Q78	docId:15632880	origText:potassium	url:D011188
+CANDIDATE	id:11188	inCount:10	outCount:2	links:	url:D011188	name:Potassium	normalName:potassium	normalWikiTitle:potassium	predictedType:Chemical
+ENTITY	text:thiazide	normalName:thiazide	predictedType:chemical	q:true	qid:Q78	docId:15632880	origText:thiazide	url:D049971
+CANDIDATE	id:49971	inCount:1	outCount:1	links:	url:D049971	name:Thiazides	normalName:thiazides	normalWikiTitle:thiazides	predictedType:Chemical
+CANDIDATE	id:38975	inCount:0	outCount:1	links:	url:C038975	name:nithiazide	normalName:nithiazide	normalWikiTitle:nithiazide	predictedType:Chemical
+CANDIDATE	id:9732	inCount:0	outCount:1	links:	url:C009732	name:buthiazide	normalName:buthiazide	normalWikiTitle:buthiazide	predictedType:Chemical
+CANDIDATE	id:6480	inCount:0	outCount:1	links:	url:C006480	name:althiazide	normalName:althiazide	normalWikiTitle:althiazide	predictedType:Chemical
+CANDIDATE	id:13843	inCount:175	outCount:2	links:	url:D013843	name:Thiazines	normalName:thiazines	normalWikiTitle:thiazines	predictedType:Chemical
+CANDIDATE	id:61382	inCount:0	outCount:1	links:	url:C061382	name:methaniazide	normalName:methaniazide	normalWikiTitle:methaniazide	predictedType:Chemical
+CANDIDATE	id:11139	inCount:1	outCount:1	links:	url:D011139	name:Polythiazide	normalName:polythiazide	normalWikiTitle:polythiazide	predictedType:Chemical
+CANDIDATE	id:613150	inCount:0	outCount:1	links:	url:C000613150	name:nithiazine	normalName:nithiazine	normalWikiTitle:nithiazine	predictedType:Chemical
+CANDIDATE	id:34609	inCount:0	outCount:1	links:	url:C034609	name:thionalide	normalName:thionalide	normalWikiTitle:thionalide	predictedType:Chemical
+CANDIDATE	id:13854	inCount:47	outCount:2	links:	url:D013854	name:Thioamides	normalName:thioamides	normalWikiTitle:thioamides	predictedType:Chemical

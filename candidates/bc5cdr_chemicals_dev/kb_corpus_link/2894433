@@ -1,0 +1,21 @@
+ENTITY	text:benzodiazepine	normalName:benzodiazepine	predictedType:chemical	q:true	qid:Q201	docId:2894433	origText:benzodiazepine	url:D001569
+CANDIDATE	id:1569	inCount:260	outCount:1	links:	url:D001569	name:Benzodiazepine	normalName:benzodiazepine	normalWikiTitle:benzodiazepine	predictedType:Chemical
+ENTITY	text:Diazepam	normalName:diazepam	predictedType:chemical	q:true	qid:Q201	docId:2894433	origText:Diazepam	url:D003975
+CANDIDATE	id:3975	inCount:21	outCount:1	links:4837	url:D003975	name:Diazepam	normalName:diazepam	normalWikiTitle:diazepam	predictedType:Chemical
+ENTITY	text:picrotoxin	normalName:picrotoxin	predictedType:chemical	q:true	qid:Q201	docId:2894433	origText:picrotoxin	url:D010852
+CANDIDATE	id:10852	inCount:7	outCount:2	links:	url:D010852	name:Picrotoxin	normalName:picrotoxin	normalWikiTitle:picrotoxin	predictedType:Chemical
+ENTITY	text:GABA	normalName:gaba	predictedType:chemical	q:true	qid:Q201	docId:2894433	origText:GABA	url:D005680
+CANDIDATE	id:5680	inCount:100	outCount:1	links:	url:D005680	name:GABA	normalName:gaba	normalWikiTitle:gaba	predictedType:Chemical
+ENTITY	text:adrenaline	normalName:adrenaline	predictedType:chemical	q:true	qid:Q201	docId:2894433	origText:adrenaline	url:D004837
+CANDIDATE	id:4837	inCount:33	outCount:3	links:3975	url:D004837	name:Adrenaline	normalName:adrenaline	normalWikiTitle:adrenaline	predictedType:Chemical
+ENTITY	text:chloride	normalName:chloride	predictedType:chemical	q:true	qid:Q201	docId:2894433	origText:chloride	url:D002712
+CANDIDATE	id:2712	inCount:62	outCount:2	links:	url:D002712	name:Chlorides	normalName:chlorides	normalWikiTitle:chlorides	predictedType:Chemical
+CANDIDATE	id:1599	inCount:0	outCount:1	links:	url:C001599	name:chlorite	normalName:chlorite	normalWikiTitle:chlorite	predictedType:Chemical
+CANDIDATE	id:2713	inCount:12	outCount:2	links:	url:D002713	name:Chlorine	normalName:chlorine	normalWikiTitle:chlorine	predictedType:Chemical
+CANDIDATE	id:510706	inCount:0	outCount:1	links:	url:C510706	name:chloriolide	normalName:chloriolide	normalWikiTitle:chloriolide	predictedType:Chemical
+CANDIDATE	id:10881	inCount:0	outCount:1	links:	url:C010881	name:chlordene	normalName:chlordene	normalWikiTitle:chlordene	predictedType:Chemical
+CANDIDATE	id:480822	inCount:0	outCount:1	links:	url:C480822	name:Chlofiden	normalName:chlofiden	normalWikiTitle:chlofiden	predictedType:Chemical
+CANDIDATE	id:98209	inCount:0	outCount:1	links:	url:C098209	name:VPM chloride	normalName:vpm chloride	normalWikiTitle:vpm chloride	predictedType:Chemical
+CANDIDATE	id:6969	inCount:0	outCount:1	links:	url:C006969	name:chlorin	normalName:chlorin	normalWikiTitle:chlorin	predictedType:Chemical
+CANDIDATE	id:4986	inCount:0	outCount:1	links:	url:C004986	name:chlorbenside	normalName:chlorbenside	normalWikiTitle:chlorbenside	predictedType:Chemical
+CANDIDATE	id:581611	inCount:0	outCount:1	links:	url:C581611	name:chlorizidine	normalName:chlorizidine	normalWikiTitle:chlorizidine	predictedType:Chemical

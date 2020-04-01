@@ -1,0 +1,27 @@
+ENTITY	text:lesions of the urinary bladder	normalName:lesions of the urinary bladder	predictedType:disease	q:true	qid:Q403	docId:3109094	origText:lesions of the urinary bladder	url:D001745
+CANDIDATE	id:1745	inCount:13	outCount:1	links:3556;4487	url:D001745	name:Urinary Bladder Diseases	normalName:urinary bladder diseases	normalWikiTitle:urinary bladder diseases	predictedType:Disease
+CANDIDATE	id:1747	inCount:1	outCount:2	links:	url:D001747	name:Urinary Bladder Fistula	normalName:urinary bladder fistula	normalWikiTitle:urinary bladder fistula	predictedType:Disease
+CANDIDATE	id:1749	inCount:2	outCount:2	links:3556;4487	url:D001749	name:Urinary Bladder Neoplasms	normalName:urinary bladder neoplasms	normalWikiTitle:urinary bladder neoplasms	predictedType:Disease
+CANDIDATE	id:1744	inCount:0	outCount:2	links:	url:D001744	name:Urinary Bladder Calculi	normalName:urinary bladder calculi	normalWikiTitle:urinary bladder calculi	predictedType:Disease
+CANDIDATE	id:1750	inCount:0	outCount:2	links:	url:D001750	name:Urinary Bladder, Neurogenic	normalName:urinary bladder, neurogenic	normalWikiTitle:urinary bladder, neurogenic	predictedType:Disease
+CANDIDATE	id:53201	inCount:0	outCount:2	links:	url:D053201	name:Urinary Bladder, Overactive	normalName:urinary bladder, overactive	normalWikiTitle:urinary bladder, overactive	predictedType:Disease
+CANDIDATE	id:1748	inCount:0	outCount:2	links:	url:D001748	name:Urinary Bladder Neck Obstruction	normalName:urinary bladder neck obstruction	normalWikiTitle:urinary bladder neck obstruction	predictedType:Disease
+CANDIDATE	id:77295	inCount:0	outCount:2	links:	url:D000077295	name:Urinary Bladder, Underactive	normalName:urinary bladder, underactive	normalWikiTitle:urinary bladder, underactive	predictedType:Disease
+CANDIDATE	id:59411	inCount:6	outCount:1	links:	url:D059411	name:Lower Urinary Tract Symptoms	normalName:lower urinary tract symptoms	normalWikiTitle:lower urinary tract symptoms	predictedType:Disease
+CANDIDATE	id:536979	inCount:0	outCount:1	links:	url:C536979	name:Transient bullous dermolysis of the newborn	normalName:transient bullous dermolysis of the newborn	normalWikiTitle:transient bullous dermolysis of the newborn	predictedType:Disease
+CANDIDATE	id:1744	inCount:0	outCount:2	links:	url:D001744	name:Stone, Urinary Bladder	normalName:stone, urinary bladder	normalWikiTitle:stone, urinary bladder	predictedType:Disease
+CANDIDATE	id:1744	inCount:0	outCount:2	links:	url:D001744	name:Urinary Bladder Stone	normalName:urinary bladder stone	normalWikiTitle:urinary bladder stone	predictedType:Disease
+CANDIDATE	id:1744	inCount:0	outCount:2	links:	url:D001744	name:Bladder Stone, Urinary	normalName:bladder stone, urinary	normalWikiTitle:bladder stone, urinary	predictedType:Disease
+CANDIDATE	id:1744	inCount:0	outCount:2	links:	url:D001744	name:Stones, Urinary Bladder	normalName:stones, urinary bladder	normalWikiTitle:stones, urinary bladder	predictedType:Disease
+CANDIDATE	id:1744	inCount:0	outCount:2	links:	url:D001744	name:Bladder Stones, Urinary	normalName:bladder stones, urinary	normalWikiTitle:bladder stones, urinary	predictedType:Disease
+CANDIDATE	id:1744	inCount:0	outCount:2	links:	url:D001744	name:Urinary Bladder Stones	normalName:urinary bladder stones	normalWikiTitle:urinary bladder stones	predictedType:Disease
+CANDIDATE	id:1749	inCount:2	outCount:2	links:3556;4487	url:D001749	name:Malignant Tumor of Urinary Bladder	normalName:malignant tumor of urinary bladder	normalWikiTitle:malignant tumor of urinary bladder	predictedType:Disease
+CANDIDATE	id:1744	inCount:0	outCount:2	links:	url:D001744	name:Calculi of Urinary Bladder	normalName:calculi of urinary bladder	normalWikiTitle:calculi of urinary bladder	predictedType:Disease
+CANDIDATE	id:1746	inCount:1	outCount:2	links:	url:D001746	name:Urinary Bladder Exstrophies	normalName:urinary bladder exstrophies	normalWikiTitle:urinary bladder exstrophies	predictedType:Disease
+CANDIDATE	id:1746	inCount:1	outCount:2	links:	url:D001746	name:Exstrophies, Urinary Bladder	normalName:exstrophies, urinary bladder	normalWikiTitle:exstrophies, urinary bladder	predictedType:Disease
+ENTITY	text:edema	normalName:edema	predictedType:disease	q:true	qid:Q403	docId:3109094	origText:edema	url:D004487
+CANDIDATE	id:4487	inCount:6	outCount:1	links:3556;1745;1749	url:D004487	name:Edema	normalName:edema	normalWikiTitle:edema	predictedType:Disease
+ENTITY	text:necroses	normalName:necroses	predictedType:disease	q:true	qid:Q403	docId:3109094	origText:necroses	url:D009336
+CANDIDATE	id:9336	inCount:6	outCount:1	links:	url:D009336	name:Necroses	normalName:necroses	normalWikiTitle:necroses	predictedType:Disease
+ENTITY	text:cystitis	normalName:cystitis	predictedType:disease	q:true	qid:Q403	docId:3109094	origText:cystitis	url:D003556
+CANDIDATE	id:3556	inCount:2	outCount:1	links:4487;1745;1749	url:D003556	name:Cystitis	normalName:cystitis	normalWikiTitle:cystitis	predictedType:Disease

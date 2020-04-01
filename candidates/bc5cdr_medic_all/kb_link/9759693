@@ -1,0 +1,10 @@
+ENTITY	text:migraine	normalName:migraine	predictedType:disease	q:true	qid:Q1455	docId:9759693	origText:migraine	url:D008881
+CANDIDATE	id:8881	inCount:9	outCount:1	links:	url:D008881	name:Migraine	normalName:migraine	normalWikiTitle:migraine	predictedType:Disease
+ENTITY	text:myocardial ischemia	normalName:myocardial ischemia	predictedType:disease	q:true	qid:Q1455	docId:9759693	origText:myocardial ischemia	url:D017202
+CANDIDATE	id:17202	inCount:6	outCount:2	links:	url:D017202	name:Myocardial Ischemia	normalName:myocardial ischemia	normalWikiTitle:myocardial ischemia	predictedType:Disease
+ENTITY	text:coronary vasospasm	normalName:coronary vasospasm	predictedType:disease	q:true	qid:Q1455	docId:9759693	origText:coronary vasospasm	url:D003329
+CANDIDATE	id:3329	inCount:1	outCount:1	links:	url:D003329	name:Coronary Vasospasm	normalName:coronary vasospasm	normalWikiTitle:coronary vasospasm	predictedType:Disease
+ENTITY	text:Ischemic colitis	normalName:ischemic colitis	predictedType:disease	q:true	qid:Q1455	docId:9759693	origText:Ischemic colitis	url:D017091
+CANDIDATE	id:17091	inCount:0	outCount:2	links:	url:D017091	name:Colitis, Ischemic	normalName:colitis, ischemic	normalWikiTitle:colitis, ischemic	predictedType:Disease
+ENTITY	text:myocardial infarction	normalName:myocardial infarction	predictedType:disease	q:true	qid:Q1455	docId:9759693	origText:myocardial infarction	url:D009203
+CANDIDATE	id:9203	inCount:8	outCount:1	links:	url:D009203	name:Myocardial Infarction	normalName:myocardial infarction	normalWikiTitle:myocardial infarction	predictedType:Disease

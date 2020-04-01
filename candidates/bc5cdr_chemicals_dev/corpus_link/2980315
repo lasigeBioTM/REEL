@@ -1,0 +1,6 @@
+ENTITY	text:iohexol	normalName:iohexol	predictedType:chemical	q:true	qid:Q80	docId:2980315	origText:iohexol	url:D007472
+CANDIDATE	id:7472	inCount:9	outCount:1	links:	url:D007472	name:Iohexol	normalName:iohexol	normalWikiTitle:iohexol	predictedType:Chemical
+ENTITY	text:iopentol	normalName:iopentol	predictedType:chemical	q:true	qid:Q80	docId:2980315	origText:iopentol	url:C053571
+CANDIDATE	id:53571	inCount:0	outCount:1	links:	url:C053571	name:iopentol	normalName:iopentol	normalWikiTitle:iopentol	predictedType:Chemical
+ENTITY	text:metrizoate	normalName:metrizoate	predictedType:chemical	q:true	qid:Q80	docId:2980315	origText:metrizoate	url:D008794
+CANDIDATE	id:8794	inCount:5	outCount:1	links:	url:D008794	name:Metrizoate	normalName:metrizoate	normalWikiTitle:metrizoate	predictedType:Chemical

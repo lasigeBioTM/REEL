@@ -1,0 +1,32 @@
+ENTITY	text:mitochondrial injury	normalName:mitochondrial injury	predictedType:disease	q:true	qid:Q670	docId:15605432	origText:mitochondrial injury	url:D028361
+CANDIDATE	id:28361	inCount:64	outCount:1	links:66126	url:D028361	name:Mitochondrial Disease	normalName:mitochondrial disease	normalWikiTitle:mitochondrial disease	predictedType:Disease
+CANDIDATE	id:28361	inCount:64	outCount:1	links:66126	url:D028361	name:Mitochondrial Diseases	normalName:mitochondrial diseases	normalWikiTitle:mitochondrial diseases	predictedType:Disease
+CANDIDATE	id:540770	inCount:0	outCount:2	links:	url:C540770	name:Mitochondrial cytopathy	normalName:mitochondrial cytopathy	normalWikiTitle:mitochondrial cytopathy	predictedType:Disease
+CANDIDATE	id:538525	inCount:0	outCount:1	links:	url:C538525	name:Mitochondrial encephalopathy	normalName:mitochondrial encephalopathy	normalWikiTitle:mitochondrial encephalopathy	predictedType:Disease
+CANDIDATE	id:537475	inCount:0	outCount:1	links:	url:C537475	name:Mitochondrial complex I deficiency	normalName:mitochondrial complex i deficiency	normalWikiTitle:mitochondrial complex i deficiency	predictedType:Disease
+CANDIDATE	id:565375	inCount:0	outCount:2	links:	url:C565375	name:Mitochondrial Complex II Deficiency	normalName:mitochondrial complex ii deficiency	normalWikiTitle:mitochondrial complex ii deficiency	predictedType:Disease
+CANDIDATE	id:8446	inCount:4	outCount:1	links:	url:D008446	name:Maxillofacial Injuries	normalName:maxillofacial injuries	normalWikiTitle:maxillofacial injuries	predictedType:Disease
+CANDIDATE	id:565128	inCount:1	outCount:1	links:	url:C565128	name:Mitochondrial Complex III Deficiency	normalName:mitochondrial complex iii deficiency	normalWikiTitle:mitochondrial complex iii deficiency	predictedType:Disease
+CANDIDATE	id:17237	inCount:11	outCount:2	links:	url:D017237	name:Mitochondrial Encephalomyopathies	normalName:mitochondrial encephalomyopathies	normalWikiTitle:mitochondrial encephalomyopathies	predictedType:Disease
+CANDIDATE	id:13898	inCount:4	outCount:1	links:	url:D013898	name:Thoracic Injuries	normalName:thoracic injuries	normalWikiTitle:thoracic injuries	predictedType:Disease
+CANDIDATE	id:2532	inCount:11	outCount:2	links:	url:D002532	name:Intracranial Aneurysm	normalName:intracranial aneurysm	normalWikiTitle:intracranial aneurysm	predictedType:Disease
+CANDIDATE	id:28361	inCount:64	outCount:1	links:66126	url:D028361	name:Mitochondrial Disorder	normalName:mitochondrial disorder	normalWikiTitle:mitochondrial disorder	predictedType:Disease
+CANDIDATE	id:28361	inCount:64	outCount:1	links:66126	url:D028361	name:Disorder, Mitochondrial	normalName:disorder, mitochondrial	normalWikiTitle:disorder, mitochondrial	predictedType:Disease
+CANDIDATE	id:13313	inCount:0	outCount:1	links:	url:D013313	name:Moral Injury	normalName:moral injury	normalWikiTitle:moral injury	predictedType:Disease
+CANDIDATE	id:13313	inCount:0	outCount:1	links:	url:D013313	name:Injury, Moral	normalName:injury, moral	normalWikiTitle:injury, moral	predictedType:Disease
+CANDIDATE	id:28361	inCount:64	outCount:1	links:66126	url:D028361	name:Mitochondrial Disorders	normalName:mitochondrial disorders	normalWikiTitle:mitochondrial disorders	predictedType:Disease
+CANDIDATE	id:28361	inCount:64	outCount:1	links:66126	url:D028361	name:Disorders, Mitochondrial	normalName:disorders, mitochondrial	normalWikiTitle:disorders, mitochondrial	predictedType:Disease
+CANDIDATE	id:28361	inCount:64	outCount:1	links:66126	url:D028361	name:Disease, Mitochondrial	normalName:disease, mitochondrial	normalWikiTitle:disease, mitochondrial	predictedType:Disease
+ENTITY	text:cardiotoxicity	normalName:cardiotoxicity	predictedType:disease	q:true	qid:Q670	docId:15605432	origText:cardiotoxicity	url:D066126
+CANDIDATE	id:66126	inCount:0	outCount:3	links:28361	url:D066126	name:Cardiotoxicity	normalName:cardiotoxicity	normalWikiTitle:cardiotoxicity	predictedType:Disease
+ENTITY	text:mitochondrial oxidative damage	normalName:mitochondrial oxidative damage	predictedType:disease	q:true	qid:Q670	docId:15605432	origText:mitochondrial oxidative damage	url:D028361
+CANDIDATE	id:28361	inCount:64	outCount:1	links:66126	url:D028361	name:Mitochondrial Diseases	normalName:mitochondrial diseases	normalWikiTitle:mitochondrial diseases	predictedType:Disease
+CANDIDATE	id:17240	inCount:20	outCount:2	links:	url:D017240	name:Mitochondrial Myopathies	normalName:mitochondrial myopathies	normalWikiTitle:mitochondrial myopathies	predictedType:Disease
+CANDIDATE	id:564026	inCount:0	outCount:2	links:	url:C564026	name:Mitochondrial Myopathy with Diabetes	normalName:mitochondrial myopathy with diabetes	normalWikiTitle:mitochondrial myopathy with diabetes	predictedType:Disease
+CANDIDATE	id:564015	inCount:0	outCount:2	links:	url:C564015	name:Parkinson Disease, Mitochondrial	normalName:parkinson disease, mitochondrial	normalWikiTitle:parkinson disease, mitochondrial	predictedType:Disease
+CANDIDATE	id:564971	inCount:0	outCount:2	links:	url:C564971	name:Myopathy with Giant Abnormal Mitochondria	normalName:myopathy with giant abnormal mitochondria	normalWikiTitle:myopathy with giant abnormal mitochondria	predictedType:Disease
+CANDIDATE	id:565637	inCount:0	outCount:1	links:	url:C565637	name:Deafness, Sensorineural, Autosomal-Mitochondrial Type	normalName:deafness, sensorineural, autosomal-mitochondrial type	normalWikiTitle:deafness, sensorineural, autosomal-mitochondrial type	predictedType:Disease
+CANDIDATE	id:537476	inCount:0	outCount:4	links:	url:C537476	name:Mitochondrial myopathy with lactic acidosis	normalName:mitochondrial myopathy with lactic acidosis	normalWikiTitle:mitochondrial myopathy with lactic acidosis	predictedType:Disease
+CANDIDATE	id:564017	inCount:0	outCount:1	links:	url:C564017	name:Myopathy, Mitochondrial, Lethal Infantile	normalName:myopathy, mitochondrial, lethal infantile	normalWikiTitle:myopathy, mitochondrial, lethal infantile	predictedType:Disease
+CANDIDATE	id:563665	inCount:0	outCount:1	links:	url:C563665	name:Mitochondrial Phosphate Carrier Deficiency	normalName:mitochondrial phosphate carrier deficiency	normalWikiTitle:mitochondrial phosphate carrier deficiency	predictedType:Disease
+CANDIDATE	id:17237	inCount:11	outCount:2	links:	url:D017237	name:Mitochondrial Encephalomyopathies	normalName:mitochondrial encephalomyopathies	normalWikiTitle:mitochondrial encephalomyopathies	predictedType:Disease

@@ -1,0 +1,32 @@
+ENTITY	text:death	normalName:death	predictedType:disease	q:true	qid:Q1107	docId:16005948	origText:death	url:D003643
+CANDIDATE	id:3643	inCount:11	outCount:1	links:	url:D003643	name:Death	normalName:death	normalWikiTitle:death	predictedType:Disease
+ENTITY	text:seizures	normalName:seizures	predictedType:disease	q:true	qid:Q1107	docId:16005948	origText:seizures	url:D012640
+CANDIDATE	id:12640	inCount:53	outCount:1	links:62787;66126	url:D012640	name:Seizure	normalName:seizure	normalWikiTitle:seizure	predictedType:Disease
+ENTITY	text:cocaine overdose	normalName:cocaine overdose	predictedType:disease	q:true	qid:Q1107	docId:16005948	origText:cocaine overdose	url:D062787
+CANDIDATE	id:62787	inCount:0	outCount:1	links:12640	url:D062787	name:Drug Overdose	normalName:drug overdose	normalWikiTitle:drug overdose	predictedType:Disease
+CANDIDATE	id:19970	inCount:0	outCount:1	links:	url:D019970	name:Cocaine-Related Disorders	normalName:cocaine-related disorders	normalWikiTitle:cocaine-related disorders	predictedType:Disease
+CANDIDATE	id:3057	inCount:6	outCount:4	links:	url:D003057	name:Cockayne Syndrome	normalName:cockayne syndrome	normalWikiTitle:cockayne syndrome	predictedType:Disease
+CANDIDATE	id:536554	inCount:0	outCount:6	links:	url:C536554	name:Oliver-McFarlane syndrome	normalName:oliver-mcfarlane syndrome	normalWikiTitle:oliver-mcfarlane syndrome	predictedType:Disease
+CANDIDATE	id:18289	inCount:1	outCount:2	links:	url:D018289	name:Carcinoma, Verrucous	normalName:carcinoma, verrucous	normalWikiTitle:carcinoma, verrucous	predictedType:Disease
+CANDIDATE	id:3147	inCount:5	outCount:2	links:	url:D003147	name:Communication Disorders	normalName:communication disorders	normalWikiTitle:communication disorders	predictedType:Disease
+CANDIDATE	id:3043	inCount:0	outCount:1	links:	url:D003043	name:Cocarcinogenesis	normalName:cocarcinogenesis	normalWikiTitle:cocarcinogenesis	predictedType:Disease
+CANDIDATE	id:3244	inCount:1	outCount:2	links:9765	url:D003244	name:Consciousness Disorders	normalName:consciousness disorders	normalWikiTitle:consciousness disorders	predictedType:Disease
+CANDIDATE	id:565178	inCount:0	outCount:2	links:	url:C565178	name:OI-EDS Combined Syndrome	normalName:oi-eds combined syndrome	normalWikiTitle:oi-eds combined syndrome	predictedType:Disease
+CANDIDATE	id:60751	inCount:1	outCount:2	links:	url:D060751	name:Bone Retroversion	normalName:bone retroversion	normalWikiTitle:bone retroversion	predictedType:Disease
+CANDIDATE	id:19970	inCount:0	outCount:1	links:	url:D019970	name:Cocaine Dependence	normalName:cocaine dependence	normalWikiTitle:cocaine dependence	predictedType:Disease
+CANDIDATE	id:19970	inCount:0	outCount:1	links:	url:D019970	name:Dependence, Cocaine	normalName:dependence, cocaine	normalWikiTitle:dependence, cocaine	predictedType:Disease
+CANDIDATE	id:57091	inCount:1	outCount:1	links:	url:D057091	name:Eccrine Poromas	normalName:eccrine poromas	normalWikiTitle:eccrine poromas	predictedType:Disease
+ENTITY	text:toxicity	normalName:toxicity	predictedType:disease	q:true	qid:Q1107	docId:16005948	origText:toxicity	url:D064420
+CANDIDATE	id:64420	inCount:10	outCount:1	links:	url:D064420	name:Drug Toxicity	normalName:drug toxicity	normalWikiTitle:drug toxicity	predictedType:Disease
+CANDIDATE	id:66126	inCount:0	outCount:3	links:12640	url:D066126	name:Cardiotoxicity	normalName:cardiotoxicity	normalWikiTitle:cardiotoxicity	predictedType:Disease
+CANDIDATE	id:15651	inCount:2	outCount:1	links:	url:D015651	name:Mycotoxicosis	normalName:mycotoxicosis	normalWikiTitle:mycotoxicosis	predictedType:Disease
+CANDIDATE	id:13971	inCount:2	outCount:1	links:	url:D013971	name:Thyrotoxicosis	normalName:thyrotoxicosis	normalWikiTitle:thyrotoxicosis	predictedType:Disease
+CANDIDATE	id:14869	inCount:0	outCount:2	links:	url:D014869	name:Water Intoxication	normalName:water intoxication	normalWikiTitle:water intoxication	predictedType:Disease
+CANDIDATE	id:14103	inCount:4	outCount:2	links:	url:D014103	name:Torticollis	normalName:torticollis	normalWikiTitle:torticollis	predictedType:Disease
+CANDIDATE	id:9765	inCount:42	outCount:2	links:3244	url:D009765	name:Obesity	normalName:obesity	normalWikiTitle:obesity	predictedType:Disease
+CANDIDATE	id:14115	inCount:1	outCount:1	links:	url:D014115	name:Toxemia	normalName:toxemia	normalWikiTitle:toxemia	predictedType:Disease
+CANDIDATE	id:7246	inCount:2	outCount:2	links:	url:D007246	name:Infertility	normalName:infertility	normalWikiTitle:infertility	predictedType:Disease
+CANDIDATE	id:20234	inCount:0	outCount:2	links:	url:D020234	name:Gait Ataxia	normalName:gait ataxia	normalWikiTitle:gait ataxia	predictedType:Disease
+CANDIDATE	id:14069	inCount:1	outCount:1	links:	url:D014069	name:Tonsillitis	normalName:tonsillitis	normalWikiTitle:tonsillitis	predictedType:Disease
+CANDIDATE	id:64420	inCount:10	outCount:1	links:	url:D064420	name:Toxicity, Drug	normalName:toxicity, drug	normalWikiTitle:toxicity, drug	predictedType:Disease
+CANDIDATE	id:17484	inCount:0	outCount:2	links:	url:D017484	name:Phototoxicity	normalName:phototoxicity	normalWikiTitle:phototoxicity	predictedType:Disease

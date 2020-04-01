@@ -1,0 +1,4 @@
+ENTITY	text:3-methyladenine	normalName:3-methyladenine	predictedType:chemical	q:true	qid:Q855	docId:18619688	origText:3-methyladenine	url:C025946
+CANDIDATE	id:25946	inCount:0	outCount:1	links:	url:C025946	name:3-methyladenine	normalName:3-methyladenine	normalWikiTitle:3-methyladenine	predictedType:Chemical
+ENTITY	text:Adriamycin	normalName:adriamycin	predictedType:chemical	q:true	qid:Q855	docId:18619688	origText:Adriamycin	url:D004317
+CANDIDATE	id:4317	inCount:559	outCount:1	links:	url:D004317	name:Adriamycin	normalName:adriamycin	normalWikiTitle:adriamycin	predictedType:Chemical

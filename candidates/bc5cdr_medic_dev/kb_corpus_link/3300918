@@ -1,0 +1,8 @@
+ENTITY	text:gangrene	normalName:gangrene	predictedType:disease	q:true	qid:Q384	docId:3300918	origText:gangrene	url:D005734
+CANDIDATE	id:5734	inCount:0	outCount:1	links:	url:D005734	name:Gangrene	normalName:gangrene	normalWikiTitle:gangrene	predictedType:Disease
+ENTITY	text:migraine headache	normalName:migraine headache	predictedType:disease	q:true	qid:Q384	docId:3300918	origText:migraine headache	url:D008881
+CANDIDATE	id:8881	inCount:9	outCount:1	links:8881	url:D008881	name:Headache, Migraine	normalName:headache, migraine	normalWikiTitle:headache, migraine	predictedType:Disease
+ENTITY	text:St. Anthony's fire	normalName:st. anthony's fire	predictedType:disease	q:true	qid:Q384	docId:3300918	origText:St. Anthony's fire	url:D004881
+CANDIDATE	id:4881	inCount:0	outCount:1	links:	url:D004881	name:St. Anthony's Fire	normalName:st. anthony's fire	normalWikiTitle:st. anthony's fire	predictedType:Disease
+ENTITY	text:migraine	normalName:migraine	predictedType:disease	q:true	qid:Q384	docId:3300918	origText:migraine	url:D008881
+CANDIDATE	id:8881	inCount:9	outCount:1	links:8881	url:D008881	name:Migraine	normalName:migraine	normalWikiTitle:migraine	predictedType:Disease

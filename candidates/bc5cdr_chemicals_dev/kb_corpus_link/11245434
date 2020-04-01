@@ -1,0 +1,6 @@
+ENTITY	text:cyclophosphamide	normalName:cyclophosphamide	predictedType:chemical	q:true	qid:Q27	docId:11245434	origText:cyclophosphamide	url:D003520
+CANDIDATE	id:3520	inCount:474	outCount:1	links:	url:D003520	name:Cyclophosphamide	normalName:cyclophosphamide	normalWikiTitle:cyclophosphamide	predictedType:Chemical
+ENTITY	text:carboplatin	normalName:carboplatin	predictedType:chemical	q:true	qid:Q27	docId:11245434	origText:carboplatin	url:D016190
+CANDIDATE	id:16190	inCount:64	outCount:1	links:	url:D016190	name:Carboplatin	normalName:carboplatin	normalWikiTitle:carboplatin	predictedType:Chemical
+ENTITY	text:oxygen	normalName:oxygen	predictedType:chemical	q:true	qid:Q27	docId:11245434	origText:oxygen	url:D010100
+CANDIDATE	id:10100	inCount:11	outCount:2	links:	url:D010100	name:Oxygen	normalName:oxygen	normalWikiTitle:oxygen	predictedType:Chemical

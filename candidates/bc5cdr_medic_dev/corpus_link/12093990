@@ -1,0 +1,25 @@
+ENTITY	text:infection	normalName:infection	predictedType:disease	q:true	qid:Q266	docId:12093990	origText:infection	url:D007239
+CANDIDATE	id:7239	inCount:33	outCount:1	links:	url:D007239	name:Infection	normalName:infection	normalWikiTitle:infection	predictedType:Disease
+ENTITY	text:hepatitis C	normalName:hepatitis c	predictedType:disease	q:true	qid:Q266	docId:12093990	origText:hepatitis C	url:D006526
+CANDIDATE	id:6526	inCount:1	outCount:2	links:	url:D006526	name:Hepatitis C	normalName:hepatitis c	normalWikiTitle:hepatitis c	predictedType:Disease
+ENTITY	text:adenovirus infection	normalName:adenovirus infection	predictedType:disease	q:true	qid:Q266	docId:12093990	origText:adenovirus infection	url:D000257
+CANDIDATE	id:257	inCount:2	outCount:1	links:	url:D000257	name:Infection, Adenovirus	normalName:infection, adenovirus	normalWikiTitle:infection, adenovirus	predictedType:Disease
+ENTITY	text:anemia	normalName:anemia	predictedType:disease	q:true	qid:Q266	docId:12093990	origText:anemia	url:D000740
+CANDIDATE	id:740	inCount:14	outCount:1	links:9503	url:D000740	name:Anemia	normalName:anemia	normalWikiTitle:anemia	predictedType:Disease
+ENTITY	text:neutropenia	normalName:neutropenia	predictedType:disease	q:true	qid:Q266	docId:12093990	origText:neutropenia	url:D009503
+CANDIDATE	id:9503	inCount:19	outCount:1	links:740	url:D009503	name:Neutropenia	normalName:neutropenia	normalWikiTitle:neutropenia	predictedType:Disease
+ENTITY	text:infection with hemorrhagic fever viruses	normalName:infection with hemorrhagic fever viruses	predictedType:disease	q:true	qid:Q266	docId:12093990	origText:infection with hemorrhagic fever viruses	url:D006482
+CANDIDATE	id:6482	inCount:11	outCount:1	links:	url:D006482	name:Hemorrhagic Fevers, Viral	normalName:hemorrhagic fevers, viral	normalWikiTitle:hemorrhagic fevers, viral	predictedType:Disease
+CANDIDATE	id:6480	inCount:1	outCount:2	links:	url:D006480	name:Hemorrhagic Fever with Renal Syndrome	normalName:hemorrhagic fever with renal syndrome	normalWikiTitle:hemorrhagic fever with renal syndrome	predictedType:Disease
+CANDIDATE	id:6481	inCount:0	outCount:3	links:	url:D006481	name:Hemorrhagic Fever, Omsk	normalName:hemorrhagic fever, omsk	normalWikiTitle:hemorrhagic fever, omsk	predictedType:Disease
+CANDIDATE	id:20031	inCount:4	outCount:2	links:	url:D020031	name:Epstein-Barr Virus Infections	normalName:epstein-barr virus infections	normalWikiTitle:epstein-barr virus infections	predictedType:Disease
+CANDIDATE	id:71243	inCount:0	outCount:2	links:	url:D000071243	name:Zika Virus Infection	normalName:zika virus infection	normalWikiTitle:zika virus infection	predictedType:Disease
+CANDIDATE	id:4266	inCount:9	outCount:1	links:	url:D004266	name:DNA Virus Infections	normalName:dna virus infections	normalWikiTitle:dna virus infections	predictedType:Disease
+CANDIDATE	id:31941	inCount:0	outCount:3	links:	url:D031941	name:Hemorrhagic Septicemia, Viral	normalName:hemorrhagic septicemia, viral	normalWikiTitle:hemorrhagic septicemia, viral	predictedType:Disease
+CANDIDATE	id:6483	inCount:0	outCount:2	links:	url:D006483	name:Hemorrhagic Septicemia	normalName:hemorrhagic septicemia	normalWikiTitle:hemorrhagic septicemia	predictedType:Disease
+CANDIDATE	id:6192	inCount:3	outCount:1	links:	url:D006192	name:Haemophilus Infections	normalName:haemophilus infections	normalWikiTitle:haemophilus infections	predictedType:Disease
+CANDIDATE	id:537257	inCount:0	outCount:2	links:	url:C537257	name:Hepatic venoocclusive disease with immunodeficiency	normalName:hepatic venoocclusive disease with immunodeficiency	normalWikiTitle:hepatic venoocclusive disease with immunodeficiency	predictedType:Disease
+ENTITY	text:DiGeorge syndrome	normalName:digeorge syndrome	predictedType:disease	q:true	qid:Q266	docId:12093990	origText:DiGeorge syndrome	url:D004062
+CANDIDATE	id:4062	inCount:4	outCount:1	links:	url:D004062	name:DiGeorge Syndrome	normalName:digeorge syndrome	normalWikiTitle:digeorge syndrome	predictedType:Disease
+ENTITY	text:respiratory syncytial virus infection	normalName:respiratory syncytial virus infection	predictedType:disease	q:true	qid:Q266	docId:12093990	origText:respiratory syncytial virus infection	url:D018357
+CANDIDATE	id:18357	inCount:0	outCount:1	links:	url:D018357	name:Respiratory Syncytial Virus Infection	normalName:respiratory syncytial virus infection	normalWikiTitle:respiratory syncytial virus infection	predictedType:Disease

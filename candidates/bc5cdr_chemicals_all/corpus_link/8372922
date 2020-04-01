@@ -1,0 +1,4 @@
+ENTITY	text:kanamycin	normalName:kanamycin	predictedType:chemical	q:true	qid:Q517	docId:8372922	origText:kanamycin	url:D007612
+CANDIDATE	id:7612	inCount:29	outCount:1	links:5665	url:D007612	name:Kanamycin	normalName:kanamycin	normalWikiTitle:kanamycin	predictedType:Chemical
+ENTITY	text:furosemide	normalName:furosemide	predictedType:chemical	q:true	qid:Q517	docId:8372922	origText:furosemide	url:D005665
+CANDIDATE	id:5665	inCount:8	outCount:1	links:7612	url:D005665	name:Furosemide	normalName:furosemide	normalWikiTitle:furosemide	predictedType:Chemical

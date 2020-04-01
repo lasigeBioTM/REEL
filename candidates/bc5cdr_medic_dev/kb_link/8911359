@@ -1,0 +1,33 @@
+ENTITY	text:bladder tumors	normalName:bladder tumors	predictedType:disease	q:true	qid:Q238	docId:8911359	origText:bladder tumors	url:D001749
+CANDIDATE	id:1749	inCount:2	outCount:2	links:1749	url:D001749	name:Bladder Tumor	normalName:bladder tumor	normalWikiTitle:bladder tumor	predictedType:Disease
+ENTITY	text:bladder tumor	normalName:bladder tumor	predictedType:disease	q:true	qid:Q238	docId:8911359	origText:bladder tumor	url:D001749
+CANDIDATE	id:1749	inCount:2	outCount:2	links:1749	url:D001749	name:Bladder Tumor	normalName:bladder tumor	normalWikiTitle:bladder tumor	predictedType:Disease
+ENTITY	text:cancer	normalName:cancer	predictedType:disease	q:true	qid:Q238	docId:8911359	origText:cancer	url:D009369
+CANDIDATE	id:9369	inCount:18	outCount:1	links:9369	url:D009369	name:Cancer	normalName:cancer	normalWikiTitle:cancer	predictedType:Disease
+ENTITY	text:tumors	normalName:tumors	predictedType:disease	q:true	qid:Q238	docId:8911359	origText:tumors	url:D009369
+CANDIDATE	id:9369	inCount:18	outCount:1	links:9369	url:D009369	name:Tumor	normalName:tumor	normalWikiTitle:tumor	predictedType:Disease
+ENTITY	text:urothelial cancer	normalName:urothelial cancer	predictedType:disease	q:true	qid:Q238	docId:8911359	origText:urothelial cancer	url:D014523
+CANDIDATE	id:14523	inCount:0	outCount:2	links:	url:D014523	name:Cancer, Urethral	normalName:cancer, urethral	normalWikiTitle:cancer, urethral	predictedType:Disease
+CANDIDATE	id:536475	inCount:0	outCount:1	links:	url:C536475	name:Urachal cancer	normalName:urachal cancer	normalWikiTitle:urachal cancer	predictedType:Disease
+CANDIDATE	id:9440	inCount:0	outCount:1	links:	url:D009440	name:Neurasthenia	normalName:neurasthenia	normalWikiTitle:neurasthenia	predictedType:Disease
+CANDIDATE	id:18302	inCount:6	outCount:2	links:	url:D018302	name:Neoplasms, Neuroepithelial	normalName:neoplasms, neuroepithelial	normalWikiTitle:neoplasms, neuroepithelial	predictedType:Disease
+CANDIDATE	id:14514	inCount:0	outCount:2	links:	url:D014514	name:Ureteral Calculi	normalName:ureteral calculi	normalWikiTitle:ureteral calculi	predictedType:Disease
+CANDIDATE	id:18321	inCount:0	outCount:2	links:	url:D018321	name:Neurothekeoma	normalName:neurothekeoma	normalWikiTitle:neurothekeoma	predictedType:Disease
+CANDIDATE	id:536913	inCount:0	outCount:2	links:	url:C536913	name:Thyroid cancer, Hurthle cell	normalName:thyroid cancer, hurthle cell	normalWikiTitle:thyroid cancer, hurthle cell	predictedType:Disease
+CANDIDATE	id:20425	inCount:0	outCount:1	links:	url:D020425	name:Radial Neuropathy	normalName:radial neuropathy	normalWikiTitle:radial neuropathy	predictedType:Disease
+CANDIDATE	id:20429	inCount:1	outCount:1	links:	url:D020429	name:Tibial Neuropathy	normalName:tibial neuropathy	normalWikiTitle:tibial neuropathy	predictedType:Disease
+CANDIDATE	id:536914	inCount:0	outCount:2	links:	url:C536914	name:Thyroid cancer, medullary	normalName:thyroid cancer, medullary	normalWikiTitle:thyroid cancer, medullary	predictedType:Disease
+CANDIDATE	id:538511	inCount:0	outCount:1	links:	url:C538511	name:Cancer of the oviduct	normalName:cancer of the oviduct	normalWikiTitle:cancer of the oviduct	predictedType:Disease
+CANDIDATE	id:14571	inCount:4	outCount:1	links:	url:D014571	name:Urological Cancer	normalName:urological cancer	normalWikiTitle:urological cancer	predictedType:Disease
+CANDIDATE	id:14571	inCount:4	outCount:1	links:	url:D014571	name:Cancer, Urological	normalName:cancer, urological	normalWikiTitle:cancer, urological	predictedType:Disease
+CANDIDATE	id:14565	inCount:4	outCount:3	links:	url:D014565	name:Urogenital Cancer	normalName:urogenital cancer	normalWikiTitle:urogenital cancer	predictedType:Disease
+CANDIDATE	id:14565	inCount:4	outCount:3	links:	url:D014565	name:Cancer, Urogenital	normalName:cancer, urogenital	normalWikiTitle:cancer, urogenital	predictedType:Disease
+CANDIDATE	id:14516	inCount:0	outCount:2	links:	url:D014516	name:Ureteral Cancer	normalName:ureteral cancer	normalWikiTitle:ureteral cancer	predictedType:Disease
+CANDIDATE	id:14523	inCount:0	outCount:2	links:	url:D014523	name:Urethral Cancer	normalName:urethral cancer	normalWikiTitle:urethral cancer	predictedType:Disease
+CANDIDATE	id:14516	inCount:0	outCount:2	links:	url:D014516	name:Cancer, Ureteral	normalName:cancer, ureteral	normalWikiTitle:cancer, ureteral	predictedType:Disease
+CANDIDATE	id:14565	inCount:4	outCount:3	links:	url:D014565	name:Urogenital Cancers	normalName:urogenital cancers	normalWikiTitle:urogenital cancers	predictedType:Disease
+CANDIDATE	id:14571	inCount:4	outCount:1	links:	url:D014571	name:Urological Cancers	normalName:urological cancers	normalWikiTitle:urological cancers	predictedType:Disease
+ENTITY	text:bladder cancer	normalName:bladder cancer	predictedType:disease	q:true	qid:Q238	docId:8911359	origText:bladder cancer	url:D001749
+CANDIDATE	id:1749	inCount:2	outCount:2	links:1749	url:D001749	name:Bladder Cancer	normalName:bladder cancer	normalWikiTitle:bladder cancer	predictedType:Disease
+ENTITY	text:carcinoma	normalName:carcinoma	predictedType:disease	q:true	qid:Q238	docId:8911359	origText:carcinoma	url:D002277
+CANDIDATE	id:2277	inCount:25	outCount:1	links:	url:D002277	name:Carcinoma	normalName:carcinoma	normalWikiTitle:carcinoma	predictedType:Disease

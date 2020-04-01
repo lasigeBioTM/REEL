@@ -1,0 +1,27 @@
+ENTITY	text:ventricular tachyarrhythmias	normalName:ventricular tachyarrhythmias	predictedType:disease	q:true	qid:Q233	docId:8475949	origText:ventricular tachyarrhythmias	url:D017180
+CANDIDATE	id:17180	inCount:4	outCount:1	links:17180	url:D017180	name:Tachycardia, Ventricular	normalName:tachycardia, ventricular	normalWikiTitle:tachycardia, ventricular	predictedType:Disease
+CANDIDATE	id:192605	inCount:0	outCount:1	links:	url:192605	name:VENTRICULAR TACHYCARDIA, FAMILIAL	normalName:ventricular tachycardia, familial	normalWikiTitle:ventricular tachycardia, familial	predictedType:Disease
+CANDIDATE	id:17379	inCount:0	outCount:1	links:	url:D017379	name:Hypertrophy, Left Ventricular	normalName:hypertrophy, left ventricular	normalWikiTitle:hypertrophy, left ventricular	predictedType:Disease
+CANDIDATE	id:17380	inCount:0	outCount:1	links:	url:D017380	name:Hypertrophy, Right Ventricular	normalName:hypertrophy, right ventricular	normalWikiTitle:hypertrophy, right ventricular	predictedType:Disease
+CANDIDATE	id:19571	inCount:14	outCount:2	links:	url:D019571	name:Arrhythmogenic Right Ventricular Dysplasia	normalName:arrhythmogenic right ventricular dysplasia	normalWikiTitle:arrhythmogenic right ventricular dysplasia	predictedType:Disease
+CANDIDATE	id:20257	inCount:0	outCount:1	links:	url:D020257	name:Ventricular Remodeling	normalName:ventricular remodeling	normalWikiTitle:ventricular remodeling	predictedType:Disease
+CANDIDATE	id:54141	inCount:0	outCount:1	links:	url:D054141	name:Ventricular Flutter	normalName:ventricular flutter	normalWikiTitle:ventricular flutter	predictedType:Disease
+CANDIDATE	id:562472	inCount:0	outCount:2	links:	url:C562472	name:Teratoma, Testicular	normalName:teratoma, testicular	normalWikiTitle:teratoma, testicular	predictedType:Disease
+CANDIDATE	id:1145	inCount:27	outCount:2	links:7008	url:D001145	name:Arrhythmias, Cardiac	normalName:arrhythmias, cardiac	normalWikiTitle:arrhythmias, cardiac	predictedType:Disease
+CANDIDATE	id:6345	inCount:6	outCount:1	links:	url:D006345	name:Heart Septal Defects, Ventricular	normalName:heart septal defects, ventricular	normalWikiTitle:heart septal defects, ventricular	predictedType:Disease
+ENTITY	text:hypomagnesemia	normalName:hypomagnesemia	predictedType:disease	q:true	qid:Q233	docId:8475949	origText:hypomagnesemia	url:C537153
+CANDIDATE	id:537153	inCount:0	outCount:3	links:	url:C537153	name:Hypomagnesemia primary	normalName:hypomagnesemia primary	normalWikiTitle:hypomagnesemia primary	predictedType:Disease
+CANDIDATE	id:537152	inCount:0	outCount:1	links:	url:C537152	name:Hypomagnesemia 2, renal	normalName:hypomagnesemia 2, renal	normalWikiTitle:hypomagnesemia 2, renal	predictedType:Disease
+CANDIDATE	id:567127	inCount:0	outCount:1	links:	url:C567127	name:Hypomagnesemia 4, Renal	normalName:hypomagnesemia 4, renal	normalWikiTitle:hypomagnesemia 4, renal	predictedType:Disease
+CANDIDATE	id:613882	inCount:0	outCount:1	links:	url:613882	name:HYPOMAGNESEMIA 6, RENAL	normalName:hypomagnesemia 6, renal	normalWikiTitle:hypomagnesemia 6, renal	predictedType:Disease
+CANDIDATE	id:7008	inCount:1	outCount:1	links:1145	url:D007008	name:Hypokalemia	normalName:hypokalemia	normalWikiTitle:hypokalemia	predictedType:Disease
+CANDIDATE	id:18476	inCount:1	outCount:1	links:	url:D018476	name:Hypokinesia	normalName:hypokinesia	normalWikiTitle:hypokinesia	predictedType:Disease
+CANDIDATE	id:6940	inCount:0	outCount:1	links:	url:D006940	name:Hyperemia	normalName:hyperemia	normalWikiTitle:hyperemia	predictedType:Disease
+CANDIDATE	id:34141	inCount:1	outCount:1	links:	url:D034141	name:Hypoalbuminemia	normalName:hypoalbuminemia	normalWikiTitle:hypoalbuminemia	predictedType:Disease
+CANDIDATE	id:6996	inCount:5	outCount:2	links:	url:D006996	name:Hypocalcemia	normalName:hypocalcemia	normalWikiTitle:hypocalcemia	predictedType:Disease
+CANDIDATE	id:34321	inCount:0	outCount:1	links:	url:D034321	name:Hyperamylasemia	normalName:hyperamylasemia	normalWikiTitle:hyperamylasemia	predictedType:Disease
+CANDIDATE	id:566593	inCount:0	outCount:2	links:	url:C566593	name:HYPOMAGNESEMIC TETANY	normalName:hypomagnesemic tetany	normalWikiTitle:hypomagnesemic tetany	predictedType:Disease
+ENTITY	text:torsade de pointes	normalName:torsade de pointes	predictedType:disease	q:true	qid:Q233	docId:8475949	origText:torsade de pointes	url:D016171
+CANDIDATE	id:16171	inCount:0	outCount:1	links:	url:D016171	name:de Pointes, Torsade	normalName:de pointes, torsade	normalWikiTitle:de pointes, torsade	predictedType:Disease
+ENTITY	text:ventricular tachycardia	normalName:ventricular tachycardia	predictedType:disease	q:true	qid:Q233	docId:8475949	origText:ventricular tachycardia	url:D017180
+CANDIDATE	id:17180	inCount:4	outCount:1	links:17180	url:D017180	name:Tachycardia, Ventricular	normalName:tachycardia, ventricular	normalWikiTitle:tachycardia, ventricular	predictedType:Disease

@@ -1,0 +1,6 @@
+ENTITY	text:gentamicin	normalName:gentamicin	predictedType:chemical	q:true	qid:Q799	docId:20164825	origText:gentamicin	url:D005839
+CANDIDATE	id:5839	inCount:33	outCount:1	links:	url:D005839	name:Gentamicin	normalName:gentamicin	normalWikiTitle:gentamicin	predictedType:Chemical
+ENTITY	text:oxygen	normalName:oxygen	predictedType:chemical	q:true	qid:Q799	docId:20164825	origText:oxygen	url:D010100
+CANDIDATE	id:10100	inCount:11	outCount:2	links:	url:D010100	name:Oxygen	normalName:oxygen	normalWikiTitle:oxygen	predictedType:Chemical
+ENTITY	text:Metformin	normalName:metformin	predictedType:chemical	q:true	qid:Q799	docId:20164825	origText:Metformin	url:D008687
+CANDIDATE	id:8687	inCount:8	outCount:1	links:	url:D008687	name:Metformin	normalName:metformin	normalWikiTitle:metformin	predictedType:Chemical

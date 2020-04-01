@@ -1,0 +1,4 @@
+ENTITY	text:ESRD	normalName:esrd	predictedType:disease	q:true	qid:Q81	docId:15882284	origText:ESRD	url:D007676
+CANDIDATE	id:7676	inCount:3	outCount:1	links:7676	url:D007676	name:ESRD	normalName:esrd	normalWikiTitle:esrd	predictedType:Disease
+ENTITY	text:end-stage renal disease	normalName:end-stage renal disease	predictedType:disease	q:true	qid:Q81	docId:15882284	origText:end-stage renal disease	url:D007676
+CANDIDATE	id:7676	inCount:3	outCount:1	links:7676	url:D007676	name:Renal Disease, End Stage	normalName:renal disease, end stage	normalWikiTitle:renal disease, end stage	predictedType:Disease

@@ -1,0 +1,10 @@
+ENTITY	text:arginine vasopressin	normalName:arginine vasopressin	predictedType:chemical	q:true	qid:Q949	docId:3015567	origText:arginine vasopressin	url:D001127
+CANDIDATE	id:1127	inCount:103	outCount:1	links:	url:D001127	name:Arginine Vasopressin	normalName:arginine vasopressin	normalWikiTitle:arginine vasopressin	predictedType:Chemical
+ENTITY	text:Nitroprusside	normalName:nitroprusside	predictedType:chemical	q:true	qid:Q949	docId:3015567	origText:Nitroprusside	url:D009599
+CANDIDATE	id:9599	inCount:2	outCount:1	links:10121	url:D009599	name:Nitroprusside	normalName:nitroprusside	normalWikiTitle:nitroprusside	predictedType:Chemical
+ENTITY	text:oxytocin	normalName:oxytocin	predictedType:chemical	q:true	qid:Q949	docId:3015567	origText:oxytocin	url:D010121
+CANDIDATE	id:10121	inCount:126	outCount:1	links:9599	url:D010121	name:Oxytocin	normalName:oxytocin	normalWikiTitle:oxytocin	predictedType:Chemical
+ENTITY	text:corticosterone	normalName:corticosterone	predictedType:chemical	q:true	qid:Q949	docId:3015567	origText:corticosterone	url:D003345
+CANDIDATE	id:3345	inCount:21	outCount:2	links:	url:D003345	name:Corticosterone	normalName:corticosterone	normalWikiTitle:corticosterone	predictedType:Chemical
+ENTITY	text:urethane	normalName:urethane	predictedType:chemical	q:true	qid:Q949	docId:3015567	origText:urethane	url:D014520
+CANDIDATE	id:14520	inCount:20	outCount:1	links:	url:D014520	name:Urethane	normalName:urethane	normalWikiTitle:urethane	predictedType:Chemical

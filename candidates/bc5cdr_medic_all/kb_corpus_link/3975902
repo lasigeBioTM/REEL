@@ -1,0 +1,58 @@
+ENTITY	text:metabolic disturbances	normalName:metabolic disturbances	predictedType:disease	q:true	qid:Q9	docId:3975902	origText:metabolic disturbances	url:D008659
+CANDIDATE	id:8659	inCount:23	outCount:1	links:	url:D008659	name:Metabolic Disease	normalName:metabolic disease	normalWikiTitle:metabolic disease	predictedType:Disease
+CANDIDATE	id:8659	inCount:23	outCount:1	links:	url:D008659	name:Metabolic Diseases	normalName:metabolic diseases	normalWikiTitle:metabolic diseases	predictedType:Disease
+CANDIDATE	id:8599	inCount:6	outCount:1	links:8599	url:D008599	name:Menstruation Disturbances	normalName:menstruation disturbances	normalWikiTitle:menstruation disturbances	predictedType:Disease
+CANDIDATE	id:1851	inCount:14	outCount:2	links:	url:D001851	name:Bone Diseases, Metabolic	normalName:bone diseases, metabolic	normalWikiTitle:bone diseases, metabolic	predictedType:Disease
+CANDIDATE	id:12875	inCount:2	outCount:2	links:	url:D012875	name:Skin Diseases, Metabolic	normalName:skin diseases, metabolic	normalWikiTitle:skin diseases, metabolic	predictedType:Disease
+CANDIDATE	id:1928	inCount:15	outCount:2	links:	url:D001928	name:Brain Diseases, Metabolic	normalName:brain diseases, metabolic	normalWikiTitle:brain diseases, metabolic	predictedType:Disease
+CANDIDATE	id:5316	inCount:0	outCount:1	links:	url:D005316	name:Fetal Distress	normalName:fetal distress	normalWikiTitle:fetal distress	predictedType:Disease
+CANDIDATE	id:44882	inCount:8	outCount:1	links:	url:D044882	name:Glucose Metabolism Disorders	normalName:glucose metabolism disorders	normalWikiTitle:glucose metabolism disorders	predictedType:Disease
+CANDIDATE	id:19189	inCount:9	outCount:1	links:	url:D019189	name:Iron Metabolism Disorders	normalName:iron metabolism disorders	normalWikiTitle:iron metabolism disorders	predictedType:Disease
+CANDIDATE	id:52439	inCount:7	outCount:1	links:	url:D052439	name:Lipid Metabolism Disorders	normalName:lipid metabolism disorders	normalWikiTitle:lipid metabolism disorders	predictedType:Disease
+CANDIDATE	id:1523	inCount:27	outCount:1	links:6973	url:D001523	name:Mental Disorders	normalName:mental disorders	normalWikiTitle:mental disorders	predictedType:Disease
+CANDIDATE	id:8659	inCount:23	outCount:1	links:	url:D008659	name:Disease, Metabolic	normalName:disease, metabolic	normalWikiTitle:disease, metabolic	predictedType:Disease
+CANDIDATE	id:14832	inCount:4	outCount:2	links:	url:D014832	name:Voice Disturbance	normalName:voice disturbance	normalWikiTitle:voice disturbance	predictedType:Disease
+CANDIDATE	id:14832	inCount:4	outCount:2	links:	url:D014832	name:Disturbance, Voice	normalName:disturbance, voice	normalWikiTitle:disturbance, voice	predictedType:Disease
+ENTITY	text:disturbances within the cardiovascular system	normalName:disturbances within the cardiovascular system	predictedType:disease	q:true	qid:Q9	docId:3975902	origText:disturbances within the cardiovascular system	url:D002318
+CANDIDATE	id:2318	inCount:5	outCount:1	links:54549;2318	url:D002318	name:Disease, Cardiovascular	normalName:disease, cardiovascular	normalWikiTitle:disease, cardiovascular	predictedType:Disease
+CANDIDATE	id:2318	inCount:5	outCount:1	links:54549;2318	url:D002318	name:Cardiovascular Diseases	normalName:cardiovascular diseases	normalWikiTitle:cardiovascular diseases	predictedType:Disease
+CANDIDATE	id:53821	inCount:3	outCount:2	links:53821	url:D053821	name:Cardiovascular Infections	normalName:cardiovascular infections	normalWikiTitle:cardiovascular infections	predictedType:Disease
+CANDIDATE	id:13589	inCount:0	outCount:2	links:13589	url:D013589	name:Syphilis, Cardiovascular	normalName:syphilis, cardiovascular	normalWikiTitle:syphilis, cardiovascular	predictedType:Disease
+CANDIDATE	id:14381	inCount:1	outCount:2	links:14381	url:D014381	name:Tuberculosis, Cardiovascular	normalName:tuberculosis, cardiovascular	normalWikiTitle:tuberculosis, cardiovascular	predictedType:Disease
+CANDIDATE	id:565856	inCount:0	outCount:3	links:	url:C565856	name:Cholestasis with Gallstone, Ataxia, and Visual Disturbance	normalName:cholestasis with gallstone, ataxia, and visual disturbance	normalWikiTitle:cholestasis with gallstone, ataxia, and visual disturbance	predictedType:Disease
+CANDIDATE	id:565883	inCount:0	outCount:2	links:	url:C565883	name:Cardiac Septal Defects with Coarctation of the Aorta	normalName:cardiac septal defects with coarctation of the aorta	normalWikiTitle:cardiac septal defects with coarctation of the aorta	predictedType:Disease
+CANDIDATE	id:75224	inCount:12	outCount:1	links:	url:D000075224	name:Cardiac Conduction System Disease	normalName:cardiac conduction system disease	normalWikiTitle:cardiac conduction system disease	predictedType:Disease
+CANDIDATE	id:11249	inCount:1	outCount:2	links:11249	url:D011249	name:Pregnancy Complications, Cardiovascular	normalName:pregnancy complications, cardiovascular	normalWikiTitle:pregnancy complications, cardiovascular	predictedType:Disease
+CANDIDATE	id:8599	inCount:6	outCount:1	links:8599	url:D008599	name:Menstruation Disturbances	normalName:menstruation disturbances	normalWikiTitle:menstruation disturbances	predictedType:Disease
+CANDIDATE	id:564944	inCount:0	outCount:1	links:	url:C564944	name:Neurovisceral Storage Disease with Curvilinear Bodies	normalName:neurovisceral storage disease with curvilinear bodies	normalWikiTitle:neurovisceral storage disease with curvilinear bodies	predictedType:Disease
+CANDIDATE	id:2318	inCount:5	outCount:1	links:54549;2318	url:D002318	name:Cardiovascular Disease	normalName:cardiovascular disease	normalWikiTitle:cardiovascular disease	predictedType:Disease
+ENTITY	text:Cardiovascular dysfunction	normalName:cardiovascular dysfunction	predictedType:disease	q:true	qid:Q9	docId:3975902	origText:Cardiovascular dysfunction	url:D002318
+CANDIDATE	id:2318	inCount:5	outCount:1	links:54549;2318	url:D002318	name:Cardiovascular Diseases	normalName:cardiovascular diseases	normalWikiTitle:cardiovascular diseases	predictedType:Disease
+CANDIDATE	id:53821	inCount:3	outCount:2	links:53821	url:D053821	name:Cardiovascular Infections	normalName:cardiovascular infections	normalWikiTitle:cardiovascular infections	predictedType:Disease
+CANDIDATE	id:73436	inCount:0	outCount:1	links:	url:D000073436	name:Microvascular Rarefaction	normalName:microvascular rarefaction	normalWikiTitle:microvascular rarefaction	predictedType:Disease
+CANDIDATE	id:13589	inCount:0	outCount:2	links:13589	url:D013589	name:Syphilis, Cardiovascular	normalName:syphilis, cardiovascular	normalWikiTitle:syphilis, cardiovascular	predictedType:Disease
+CANDIDATE	id:14381	inCount:1	outCount:2	links:14381	url:D014381	name:Tuberculosis, Cardiovascular	normalName:tuberculosis, cardiovascular	normalWikiTitle:tuberculosis, cardiovascular	predictedType:Disease
+CANDIDATE	id:60825	inCount:0	outCount:1	links:	url:D060825	name:Cognitive Dysfunction	normalName:cognitive dysfunction	normalWikiTitle:cognitive dysfunction	predictedType:Disease
+CANDIDATE	id:11249	inCount:1	outCount:2	links:11249	url:D011249	name:Pregnancy Complications, Cardiovascular	normalName:pregnancy complications, cardiovascular	normalWikiTitle:pregnancy complications, cardiovascular	predictedType:Disease
+CANDIDATE	id:64706	inCount:1	outCount:2	links:	url:D064706	name:Vocal Cord Dysfunction	normalName:vocal cord dysfunction	normalWikiTitle:vocal cord dysfunction	predictedType:Disease
+CANDIDATE	id:18188	inCount:0	outCount:1	links:	url:D018188	name:Cardiovirus Infections	normalName:cardiovirus infections	normalWikiTitle:cardiovirus infections	predictedType:Disease
+CANDIDATE	id:20256	inCount:0	outCount:2	links:	url:D020256	name:Choroidal Neovascularization	normalName:choroidal neovascularization	normalWikiTitle:choroidal neovascularization	predictedType:Disease
+CANDIDATE	id:53821	inCount:3	outCount:2	links:53821	url:D053821	name:Infection, Cardiovascular	normalName:infection, cardiovascular	normalWikiTitle:infection, cardiovascular	predictedType:Disease
+CANDIDATE	id:53821	inCount:3	outCount:2	links:53821	url:D053821	name:Cardiovascular Infection	normalName:cardiovascular infection	normalWikiTitle:cardiovascular infection	predictedType:Disease
+ENTITY	text:hypertension	normalName:hypertension	predictedType:disease	q:true	qid:Q9	docId:3975902	origText:hypertension	url:D006973
+CANDIDATE	id:6973	inCount:18	outCount:1	links:1523;9202	url:D006973	name:Hypertension	normalName:hypertension	normalWikiTitle:hypertension	predictedType:Disease
+ENTITY	text:cardiomyopathic disorder	normalName:cardiomyopathic disorder	predictedType:disease	q:true	qid:Q9	docId:3975902	origText:cardiomyopathic disorder	url:D009202
+CANDIDATE	id:9202	inCount:37	outCount:1	links:6973	url:D009202	name:Cardiomyopathies, Secondary	normalName:cardiomyopathies, secondary	normalWikiTitle:cardiomyopathies, secondary	predictedType:Disease
+CANDIDATE	id:9202	inCount:37	outCount:1	links:6973	url:D009202	name:Cardiomyopathies	normalName:cardiomyopathies	normalWikiTitle:cardiomyopathies	predictedType:Disease
+CANDIDATE	id:2311	inCount:50	outCount:2	links:	url:D002311	name:Cardiomyopathy, Dilated	normalName:cardiomyopathy, dilated	normalWikiTitle:cardiomyopathy, dilated	predictedType:Disease
+CANDIDATE	id:3527	inCount:0	outCount:1	links:	url:D003527	name:Cyclothymic Disorder	normalName:cyclothymic disorder	normalWikiTitle:cyclothymic disorder	predictedType:Disease
+CANDIDATE	id:58065	inCount:0	outCount:2	links:	url:D058065	name:Diabetic Cardiomyopathies	normalName:diabetic cardiomyopathies	normalWikiTitle:diabetic cardiomyopathies	predictedType:Disease
+CANDIDATE	id:3130	inCount:0	outCount:1	links:	url:D003130	name:Combat Disorders	normalName:combat disorders	normalWikiTitle:combat disorders	predictedType:Disease
+CANDIDATE	id:564679	inCount:0	outCount:1	links:	url:C564679	name:Cardiomyopathy, Dilated, 1l	normalName:cardiomyopathy, dilated, 1l	normalWikiTitle:cardiomyopathy, dilated, 1l	predictedType:Disease
+CANDIDATE	id:567506	inCount:0	outCount:1	links:	url:C567506	name:Cardiomyopathy, Dilated, 1z	normalName:cardiomyopathy, dilated, 1z	normalWikiTitle:cardiomyopathy, dilated, 1z	predictedType:Disease
+CANDIDATE	id:563538	inCount:0	outCount:1	links:	url:C563538	name:Cardiomyopathy, Dilated, 1s	normalName:cardiomyopathy, dilated, 1s	normalWikiTitle:cardiomyopathy, dilated, 1s	predictedType:Disease
+CANDIDATE	id:564390	inCount:0	outCount:1	links:	url:C564390	name:Cardiomyopathy, Dilated, 1M	normalName:cardiomyopathy, dilated, 1m	normalWikiTitle:cardiomyopathy, dilated, 1m	predictedType:Disease
+CANDIDATE	id:566907	inCount:0	outCount:1	links:	url:C566907	name:Cardiomyopathy, Dilated, 1x	normalName:cardiomyopathy, dilated, 1x	normalWikiTitle:cardiomyopathy, dilated, 1x	predictedType:Disease
+CANDIDATE	id:54549	inCount:1	outCount:1	links:2318	url:D054549	name:Stress Cardiomyopathy	normalName:stress cardiomyopathy	normalWikiTitle:stress cardiomyopathy	predictedType:Disease
+CANDIDATE	id:9202	inCount:37	outCount:1	links:6973	url:D009202	name:Secondary Cardiomyopathies	normalName:secondary cardiomyopathies	normalWikiTitle:secondary cardiomyopathies	predictedType:Disease
+CANDIDATE	id:54549	inCount:1	outCount:1	links:2318	url:D054549	name:Cardiomyopathy, Stress	normalName:cardiomyopathy, stress	normalWikiTitle:cardiomyopathy, stress	predictedType:Disease

@@ -1,0 +1,42 @@
+ENTITY	text:neurotoxicity	normalName:neurotoxicity	predictedType:disease	q:true	qid:Q11	docId:10526274	origText:neurotoxicity	url:D020258
+CANDIDATE	id:20258	inCount:7	outCount:2	links:13921;9503;18805;66126	url:D020258	name:Neurotoxicity Syndromes	normalName:neurotoxicity syndromes	normalWikiTitle:neurotoxicity syndromes	predictedType:Disease
+CANDIDATE	id:66126	inCount:0	outCount:3	links:13921;9503	url:D066126	name:Cardiotoxicity	normalName:cardiotoxicity	normalWikiTitle:cardiotoxicity	predictedType:Disease
+CANDIDATE	id:7246	inCount:2	outCount:2	links:	url:D007246	name:Infertility	normalName:infertility	normalWikiTitle:infertility	predictedType:Disease
+CANDIDATE	id:4767	inCount:0	outCount:2	links:	url:D004767	name:Enterotoxemia	normalName:enterotoxemia	normalWikiTitle:enterotoxemia	predictedType:Disease
+CANDIDATE	id:13971	inCount:2	outCount:1	links:	url:D013971	name:Thyrotoxicosis	normalName:thyrotoxicosis	normalWikiTitle:thyrotoxicosis	predictedType:Disease
+CANDIDATE	id:9902	inCount:1	outCount:1	links:	url:D009902	name:Optic Neuritis	normalName:optic neuritis	normalWikiTitle:optic neuritis	predictedType:Disease
+CANDIDATE	id:20426	inCount:2	outCount:1	links:	url:D020426	name:Sciatic Neuropathy	normalName:sciatic neuropathy	normalWikiTitle:sciatic neuropathy	predictedType:Disease
+CANDIDATE	id:18306	inCount:0	outCount:2	links:	url:D018306	name:Neurocytoma	normalName:neurocytoma	normalWikiTitle:neurocytoma	predictedType:Disease
+CANDIDATE	id:20019	inCount:0	outCount:2	links:	url:D020019	name:Neurocysticercosis	normalName:neurocysticercosis	normalWikiTitle:neurocysticercosis	predictedType:Disease
+CANDIDATE	id:9443	inCount:2	outCount:1	links:	url:D009443	name:Neuritis	normalName:neuritis	normalWikiTitle:neuritis	predictedType:Disease
+ENTITY	text:neutropenia	normalName:neutropenia	predictedType:disease	q:true	qid:Q11	docId:10526274	origText:neutropenia	url:D009503
+CANDIDATE	id:9503	inCount:19	outCount:1	links:13921;20258;66126	url:D009503	name:Neutropenia	normalName:neutropenia	normalWikiTitle:neutropenia	predictedType:Disease
+ENTITY	text:sepsis	normalName:sepsis	predictedType:disease	q:true	qid:Q11	docId:10526274	origText:sepsis	url:D018805
+CANDIDATE	id:18805	inCount:6	outCount:2	links:20258	url:D018805	name:Sepsis	normalName:sepsis	normalWikiTitle:sepsis	predictedType:Disease
+ENTITY	text:toxicity	normalName:toxicity	predictedType:disease	q:true	qid:Q11	docId:10526274	origText:toxicity	url:D064420
+CANDIDATE	id:64420	inCount:10	outCount:1	links:	url:D064420	name:Drug Toxicity	normalName:drug toxicity	normalWikiTitle:drug toxicity	predictedType:Disease
+CANDIDATE	id:66126	inCount:0	outCount:3	links:13921;9503	url:D066126	name:Cardiotoxicity	normalName:cardiotoxicity	normalWikiTitle:cardiotoxicity	predictedType:Disease
+CANDIDATE	id:15651	inCount:2	outCount:1	links:	url:D015651	name:Mycotoxicosis	normalName:mycotoxicosis	normalWikiTitle:mycotoxicosis	predictedType:Disease
+CANDIDATE	id:13971	inCount:2	outCount:1	links:	url:D013971	name:Thyrotoxicosis	normalName:thyrotoxicosis	normalWikiTitle:thyrotoxicosis	predictedType:Disease
+CANDIDATE	id:14869	inCount:0	outCount:2	links:	url:D014869	name:Water Intoxication	normalName:water intoxication	normalWikiTitle:water intoxication	predictedType:Disease
+CANDIDATE	id:14103	inCount:4	outCount:2	links:	url:D014103	name:Torticollis	normalName:torticollis	normalWikiTitle:torticollis	predictedType:Disease
+CANDIDATE	id:9765	inCount:42	outCount:2	links:	url:D009765	name:Obesity	normalName:obesity	normalWikiTitle:obesity	predictedType:Disease
+CANDIDATE	id:14115	inCount:1	outCount:1	links:	url:D014115	name:Toxemia	normalName:toxemia	normalWikiTitle:toxemia	predictedType:Disease
+CANDIDATE	id:7246	inCount:2	outCount:2	links:	url:D007246	name:Infertility	normalName:infertility	normalWikiTitle:infertility	predictedType:Disease
+CANDIDATE	id:20234	inCount:0	outCount:2	links:	url:D020234	name:Gait Ataxia	normalName:gait ataxia	normalWikiTitle:gait ataxia	predictedType:Disease
+CANDIDATE	id:14069	inCount:1	outCount:1	links:	url:D014069	name:Tonsillitis	normalName:tonsillitis	normalWikiTitle:tonsillitis	predictedType:Disease
+CANDIDATE	id:64420	inCount:10	outCount:1	links:	url:D064420	name:Toxicity, Drug	normalName:toxicity, drug	normalWikiTitle:toxicity, drug	predictedType:Disease
+CANDIDATE	id:17484	inCount:0	outCount:2	links:	url:D017484	name:Phototoxicity	normalName:phototoxicity	normalWikiTitle:phototoxicity	predictedType:Disease
+ENTITY	text:nonsmall cell lung carcinoma	normalName:nonsmall cell lung carcinoma	predictedType:disease	q:true	qid:Q11	docId:10526274	origText:nonsmall cell lung carcinoma	url:D002289
+CANDIDATE	id:2289	inCount:1	outCount:1	links:	url:D002289	name:Carcinoma, Non-Small-Cell Lung	normalName:carcinoma, non-small-cell lung	normalWikiTitle:carcinoma, non-small-cell lung	predictedType:Disease
+CANDIDATE	id:55752	inCount:0	outCount:1	links:	url:D055752	name:Small Cell Lung Carcinoma	normalName:small cell lung carcinoma	normalWikiTitle:small cell lung carcinoma	predictedType:Disease
+CANDIDATE	id:18288	inCount:1	outCount:1	links:	url:D018288	name:Carcinoma, Small Cell	normalName:carcinoma, small cell	normalWikiTitle:carcinoma, small cell	predictedType:Disease
+CANDIDATE	id:2292	inCount:5	outCount:2	links:	url:D002292	name:Carcinoma, Renal Cell	normalName:carcinoma, renal cell	normalWikiTitle:carcinoma, renal cell	predictedType:Disease
+CANDIDATE	id:2295	inCount:0	outCount:1	links:	url:D002295	name:Carcinoma, Transitional Cell	normalName:carcinoma, transitional cell	normalWikiTitle:carcinoma, transitional cell	predictedType:Disease
+CANDIDATE	id:538557	inCount:0	outCount:1	links:	url:C538557	name:Renal cell carcinoma 1	normalName:renal cell carcinoma 1	normalWikiTitle:renal cell carcinoma 1	predictedType:Disease
+CANDIDATE	id:18287	inCount:0	outCount:1	links:	url:D018287	name:Carcinoma, Large Cell	normalName:carcinoma, large cell	normalWikiTitle:carcinoma, large cell	predictedType:Disease
+CANDIDATE	id:18273	inCount:4	outCount:2	links:	url:D018273	name:Carcinoma, Islet Cell	normalName:carcinoma, islet cell	normalWikiTitle:carcinoma, islet cell	predictedType:Disease
+CANDIDATE	id:18286	inCount:0	outCount:1	links:	url:D018286	name:Carcinoma, Giant Cell	normalName:carcinoma, giant cell	normalWikiTitle:carcinoma, giant cell	predictedType:Disease
+CANDIDATE	id:2294	inCount:5	outCount:2	links:	url:D002294	name:Carcinoma, Squamous Cell	normalName:carcinoma, squamous cell	normalWikiTitle:carcinoma, squamous cell	predictedType:Disease
+ENTITY	text:thrombocytopenia	normalName:thrombocytopenia	predictedType:disease	q:true	qid:Q11	docId:10526274	origText:thrombocytopenia	url:D013921
+CANDIDATE	id:13921	inCount:42	outCount:1	links:9503;20258;66126	url:D013921	name:Thrombocytopenia	normalName:thrombocytopenia	normalWikiTitle:thrombocytopenia	predictedType:Disease

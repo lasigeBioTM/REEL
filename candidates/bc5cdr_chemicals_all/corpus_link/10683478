@@ -1,0 +1,8 @@
+ENTITY	text:dopamine	normalName:dopamine	predictedType:chemical	q:true	qid:Q959	docId:10683478	origText:dopamine	url:D004298
+CANDIDATE	id:4298	inCount:90	outCount:2	links:	url:D004298	name:Dopamine	normalName:dopamine	normalWikiTitle:dopamine	predictedType:Chemical
+ENTITY	text:dopamine agonist	normalName:dopamine agonist	predictedType:chemical	q:true	qid:Q959	docId:10683478	origText:dopamine agonist	url:D018491
+CANDIDATE	id:18491	inCount:0	outCount:1	links:	url:D018491	name:Dopamine Agonist	normalName:dopamine agonist	normalWikiTitle:dopamine agonist	predictedType:Chemical
+ENTITY	text:Apomorphine	normalName:apomorphine	predictedType:chemical	q:true	qid:Q959	docId:10683478	origText:Apomorphine	url:D001058
+CANDIDATE	id:1058	inCount:29	outCount:1	links:	url:D001058	name:Apomorphine	normalName:apomorphine	normalWikiTitle:apomorphine	predictedType:Chemical
+ENTITY	text:DOPAC	normalName:dopac	predictedType:chemical	q:true	qid:Q959	docId:10683478	origText:DOPAC	url:D015102
+CANDIDATE	id:15102	inCount:3	outCount:1	links:	url:D015102	name:DOPAC	normalName:dopac	normalWikiTitle:dopac	predictedType:Chemical

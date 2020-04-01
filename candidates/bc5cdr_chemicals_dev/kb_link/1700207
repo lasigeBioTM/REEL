@@ -1,0 +1,10 @@
+ENTITY	text:halothane	normalName:halothane	predictedType:chemical	q:true	qid:Q392	docId:1700207	origText:halothane	url:D006221
+CANDIDATE	id:6221	inCount:6	outCount:1	links:	url:D006221	name:Halothane	normalName:halothane	normalWikiTitle:halothane	predictedType:Chemical
+ENTITY	text:adrenaline	normalName:adrenaline	predictedType:chemical	q:true	qid:Q392	docId:1700207	origText:adrenaline	url:D004837
+CANDIDATE	id:4837	inCount:33	outCount:3	links:	url:D004837	name:Adrenaline	normalName:adrenaline	normalWikiTitle:adrenaline	predictedType:Chemical
+ENTITY	text:ouabain	normalName:ouabain	predictedType:chemical	q:true	qid:Q392	docId:1700207	origText:ouabain	url:D010042
+CANDIDATE	id:10042	inCount:14	outCount:1	links:	url:D010042	name:Ouabain	normalName:ouabain	normalWikiTitle:ouabain	predictedType:Chemical
+ENTITY	text:cibenzoline	normalName:cibenzoline	predictedType:chemical	q:true	qid:Q392	docId:1700207	origText:cibenzoline	url:C032151
+CANDIDATE	id:32151	inCount:0	outCount:1	links:	url:C032151	name:cibenzoline	normalName:cibenzoline	normalWikiTitle:cibenzoline	predictedType:Chemical
+ENTITY	text:pentobarbital	normalName:pentobarbital	predictedType:chemical	q:true	qid:Q392	docId:1700207	origText:pentobarbital	url:D010424
+CANDIDATE	id:10424	inCount:10	outCount:1	links:	url:D010424	name:Pentobarbital	normalName:pentobarbital	normalWikiTitle:pentobarbital	predictedType:Chemical

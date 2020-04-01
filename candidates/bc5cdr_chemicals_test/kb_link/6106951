@@ -1,0 +1,4 @@
+ENTITY	text:flurazepam	normalName:flurazepam	predictedType:chemical	q:true	qid:Q405	docId:6106951	origText:flurazepam	url:D005479
+CANDIDATE	id:5479	inCount:9	outCount:1	links:	url:D005479	name:Flurazepam	normalName:flurazepam	normalWikiTitle:flurazepam	predictedType:Chemical
+ENTITY	text:pentylenetetrazol	normalName:pentylenetetrazol	predictedType:chemical	q:true	qid:Q405	docId:6106951	origText:pentylenetetrazol	url:D010433
+CANDIDATE	id:10433	inCount:2	outCount:1	links:	url:D010433	name:Pentylenetetrazol	normalName:pentylenetetrazol	normalWikiTitle:pentylenetetrazol	predictedType:Chemical

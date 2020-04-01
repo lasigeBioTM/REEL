@@ -1,0 +1,6 @@
+ENTITY	text:azidothymidine	normalName:azidothymidine	predictedType:chemical	q:true	qid:Q194	docId:9209318	origText:azidothymidine	url:D015215
+CANDIDATE	id:15215	inCount:86	outCount:2	links:	url:D015215	name:Azidothymidine	normalName:azidothymidine	normalWikiTitle:azidothymidine	predictedType:Chemical
+ENTITY	text:phosphate	normalName:phosphate	predictedType:chemical	q:true	qid:Q194	docId:9209318	origText:phosphate	url:D010710
+CANDIDATE	id:10710	inCount:107	outCount:2	links:	url:D010710	name:Phosphate	normalName:phosphate	normalWikiTitle:phosphate	predictedType:Chemical
+ENTITY	text:thymidine	normalName:thymidine	predictedType:chemical	q:true	qid:Q194	docId:9209318	origText:thymidine	url:D013936
+CANDIDATE	id:13936	inCount:190	outCount:2	links:	url:D013936	name:Thymidine	normalName:thymidine	normalWikiTitle:thymidine	predictedType:Chemical

@@ -1,0 +1,33 @@
+ENTITY	text:dystonias	normalName:dystonias	predictedType:disease	q:true	qid:Q458	docId:12691807	origText:dystonias	url:D004421
+CANDIDATE	id:4421	inCount:16	outCount:1	links:	url:D004421	name:Dystonia	normalName:dystonia	normalWikiTitle:dystonia	predictedType:Disease
+ENTITY	text:dystonia	normalName:dystonia	predictedType:disease	q:true	qid:Q458	docId:12691807	origText:dystonia	url:D004421
+CANDIDATE	id:4421	inCount:16	outCount:1	links:	url:D004421	name:Dystonia	normalName:dystonia	normalWikiTitle:dystonia	predictedType:Disease
+ENTITY	text:multiple system atrophy	normalName:multiple system atrophy	predictedType:disease	q:true	qid:Q458	docId:12691807	origText:multiple system atrophy	url:D019578
+CANDIDATE	id:19578	inCount:4	outCount:4	links:	url:D019578	name:Multiple System Atrophy	normalName:multiple system atrophy	normalWikiTitle:multiple system atrophy	predictedType:Disease
+ENTITY	text:Parkinson's disease	normalName:parkinson's disease	predictedType:disease	q:true	qid:Q458	docId:12691807	origText:Parkinson's disease	url:D010300
+CANDIDATE	id:10300	inCount:31	outCount:2	links:	url:D010300	name:Parkinson's Disease	normalName:parkinson's disease	normalWikiTitle:parkinson's disease	predictedType:Disease
+ENTITY	text:progressive supranuclear palsy	normalName:progressive supranuclear palsy	predictedType:disease	q:true	qid:Q458	docId:12691807	origText:progressive supranuclear palsy	url:D013494
+CANDIDATE	id:13494	inCount:5	outCount:4	links:	url:D013494	name:Supranuclear Palsy, Progressive	normalName:supranuclear palsy, progressive	normalWikiTitle:supranuclear palsy, progressive	predictedType:Disease
+ENTITY	text:PSP	normalName:psp	predictedType:disease	q:true	qid:Q458	docId:12691807	origText:PSP	url:D013494
+CANDIDATE	id:13494	inCount:5	outCount:4	links:	url:D013494	name:PSP	normalName:psp	normalWikiTitle:psp	predictedType:Disease
+ENTITY	text:Oromandibular dystonia	normalName:oromandibular dystonia	predictedType:disease	q:true	qid:Q458	docId:12691807	origText:Oromandibular dystonia	url:D008538
+CANDIDATE	id:8538	inCount:0	outCount:2	links:	url:D008538	name:Dystonias, Blepharospasm-Oromandibular	normalName:dystonias, blepharospasm-oromandibular	normalWikiTitle:dystonias, blepharospasm-oromandibular	predictedType:Disease
+CANDIDATE	id:536957	inCount:0	outCount:2	links:	url:C536957	name:Temporomandibular ankylosis	normalName:temporomandibular ankylosis	normalWikiTitle:temporomandibular ankylosis	predictedType:Disease
+CANDIDATE	id:8336	inCount:5	outCount:1	links:	url:D008336	name:Mandibular Diseases	normalName:mandibular diseases	normalWikiTitle:mandibular diseases	predictedType:Disease
+CANDIDATE	id:11842	inCount:0	outCount:2	links:	url:D011842	name:Radicular Cyst	normalName:radicular cyst	normalWikiTitle:radicular cyst	predictedType:Disease
+CANDIDATE	id:537154	inCount:0	outCount:1	links:	url:C537154	name:Hypomandibular faciocranial dysostosis	normalName:hypomandibular faciocranial dysostosis	normalWikiTitle:hypomandibular faciocranial dysostosis	predictedType:Disease
+CANDIDATE	id:8342	inCount:22	outCount:2	links:	url:D008342	name:Mandibulofacial Dysostosis	normalName:mandibulofacial dysostosis	normalWikiTitle:mandibulofacial dysostosis	predictedType:Disease
+CANDIDATE	id:538003	inCount:0	outCount:1	links:	url:C538003	name:Dystonia 6, torsion	normalName:dystonia 6, torsion	normalWikiTitle:dystonia 6, torsion	predictedType:Disease
+CANDIDATE	id:536096	inCount:0	outCount:1	links:	url:C536096	name:Myoclonic dystonia	normalName:myoclonic dystonia	normalWikiTitle:myoclonic dystonia	predictedType:Disease
+CANDIDATE	id:13705	inCount:2	outCount:3	links:	url:D013705	name:Temporomandibular Joint Disorders	normalName:temporomandibular joint disorders	normalWikiTitle:temporomandibular joint disorders	predictedType:Disease
+CANDIDATE	id:13706	inCount:0	outCount:2	links:	url:D013706	name:Temporomandibular Joint Dysfunction Syndrome	normalName:temporomandibular joint dysfunction syndrome	normalWikiTitle:temporomandibular joint dysfunction syndrome	predictedType:Disease
+CANDIDATE	id:564354	inCount:0	outCount:2	links:	url:C564354	name:Dystonia 13, Torsion	normalName:dystonia 13, torsion	normalWikiTitle:dystonia 13, torsion	predictedType:Disease
+CANDIDATE	id:6053	inCount:1	outCount:1	links:	url:D006053	name:Otomandibular Dysostosis	normalName:otomandibular dysostosis	normalWikiTitle:otomandibular dysostosis	predictedType:Disease
+CANDIDATE	id:6053	inCount:1	outCount:1	links:	url:D006053	name:Dysostosis, Otomandibular	normalName:dysostosis, otomandibular	normalWikiTitle:dysostosis, otomandibular	predictedType:Disease
+CANDIDATE	id:8538	inCount:0	outCount:2	links:	url:D008538	name:Blepharospasm-Oromandibular Dystonia	normalName:blepharospasm-oromandibular dystonia	normalWikiTitle:blepharospasm-oromandibular dystonia	predictedType:Disease
+CANDIDATE	id:8538	inCount:0	outCount:2	links:	url:D008538	name:Dystonia, Blepharospasm-Oromandibular	normalName:dystonia, blepharospasm-oromandibular	normalWikiTitle:dystonia, blepharospasm-oromandibular	predictedType:Disease
+CANDIDATE	id:8538	inCount:0	outCount:2	links:	url:D008538	name:Blepharospasm Oromandibular Dystonia	normalName:blepharospasm oromandibular dystonia	normalWikiTitle:blepharospasm oromandibular dystonia	predictedType:Disease
+CANDIDATE	id:8538	inCount:0	outCount:2	links:	url:D008538	name:Blepharospasm-Oromandibular Dystonias	normalName:blepharospasm-oromandibular dystonias	normalWikiTitle:blepharospasm-oromandibular dystonias	predictedType:Disease
+CANDIDATE	id:20821	inCount:18	outCount:1	links:	url:D020821	name:Dystonia, Sporadic	normalName:dystonia, sporadic	normalWikiTitle:dystonia, sporadic	predictedType:Disease
+CANDIDATE	id:20821	inCount:18	outCount:1	links:	url:D020821	name:Sporadic Dystonia	normalName:sporadic dystonia	normalWikiTitle:sporadic dystonia	predictedType:Disease
+CANDIDATE	id:566308	inCount:0	outCount:3	links:	url:C566308	name:Oromandibular Limb Hypoplasia	normalName:oromandibular limb hypoplasia	normalWikiTitle:oromandibular limb hypoplasia	predictedType:Disease

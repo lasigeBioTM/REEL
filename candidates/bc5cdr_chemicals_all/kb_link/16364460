@@ -1,0 +1,6 @@
+ENTITY	text:DMSO	normalName:dmso	predictedType:chemical	q:true	qid:Q1008	docId:16364460	origText:DMSO	url:D004121
+CANDIDATE	id:4121	inCount:17	outCount:1	links:	url:D004121	name:DMSO	normalName:dmso	normalWikiTitle:dmso	predictedType:Chemical
+ENTITY	text:ritanserin	normalName:ritanserin	predictedType:chemical	q:true	qid:Q1008	docId:16364460	origText:ritanserin	url:D016713
+CANDIDATE	id:16713	inCount:1	outCount:2	links:	url:D016713	name:Ritanserin	normalName:ritanserin	normalWikiTitle:ritanserin	predictedType:Chemical
+ENTITY	text:scopolamine	normalName:scopolamine	predictedType:chemical	q:true	qid:Q1008	docId:16364460	origText:scopolamine	url:D012601
+CANDIDATE	id:12601	inCount:3	outCount:2	links:	url:D012601	name:Scopolamine	normalName:scopolamine	normalWikiTitle:scopolamine	predictedType:Chemical

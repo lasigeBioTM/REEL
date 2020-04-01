@@ -1,0 +1,29 @@
+ENTITY	text:gastrointestinal bleeding	normalName:gastrointestinal bleeding	predictedType:disease	q:true	qid:Q798	docId:19293073	origText:gastrointestinal bleeding	url:D006471
+CANDIDATE	id:6471	inCount:3	outCount:2	links:	url:D006471	name:Gastrointestinal Hemorrhage	normalName:gastrointestinal hemorrhage	normalWikiTitle:gastrointestinal hemorrhage	predictedType:Disease
+CANDIDATE	id:5767	inCount:12	outCount:1	links:	url:D005767	name:Gastrointestinal Diseases	normalName:gastrointestinal diseases	normalWikiTitle:gastrointestinal diseases	predictedType:Disease
+CANDIDATE	id:571911	inCount:0	outCount:2	links:	url:C571911	name:Gastrointestinal anthrax	normalName:gastrointestinal anthrax	normalWikiTitle:gastrointestinal anthrax	predictedType:Disease
+CANDIDATE	id:7410	inCount:30	outCount:1	links:	url:D007410	name:Intestinal Diseases	normalName:intestinal diseases	normalWikiTitle:intestinal diseases	predictedType:Disease
+CANDIDATE	id:5770	inCount:7	outCount:2	links:	url:D005770	name:Gastrointestinal Neoplasms	normalName:gastrointestinal neoplasms	normalWikiTitle:gastrointestinal neoplasms	predictedType:Disease
+CANDIDATE	id:531698	inCount:0	outCount:2	links:	url:C531698	name:Intestinal helminthiasis	normalName:intestinal helminthiasis	normalWikiTitle:intestinal helminthiasis	predictedType:Disease
+CANDIDATE	id:7409	inCount:12	outCount:2	links:	url:D007409	name:Intestinal Atresia	normalName:intestinal atresia	normalWikiTitle:intestinal atresia	predictedType:Disease
+CANDIDATE	id:7412	inCount:1	outCount:2	links:	url:D007412	name:Intestinal Fistula	normalName:intestinal fistula	normalWikiTitle:intestinal fistula	predictedType:Disease
+CANDIDATE	id:14385	inCount:0	outCount:2	links:	url:D014385	name:Tuberculosis, Gastrointestinal	normalName:tuberculosis, gastrointestinal	normalWikiTitle:tuberculosis, gastrointestinal	predictedType:Disease
+CANDIDATE	id:58499	inCount:18	outCount:1	links:	url:D058499	name:Retinal Dystrophies	normalName:retinal dystrophies	normalWikiTitle:retinal dystrophies	predictedType:Disease
+CANDIDATE	id:5767	inCount:12	outCount:1	links:	url:D005767	name:Gastrointestinal Disease	normalName:gastrointestinal disease	normalWikiTitle:gastrointestinal disease	predictedType:Disease
+CANDIDATE	id:5767	inCount:12	outCount:1	links:	url:D005767	name:Disease, Gastrointestinal	normalName:disease, gastrointestinal	normalWikiTitle:disease, gastrointestinal	predictedType:Disease
+ENTITY	text:cardiovascular disease	normalName:cardiovascular disease	predictedType:disease	q:true	qid:Q798	docId:19293073	origText:cardiovascular disease	url:D002318
+CANDIDATE	id:2318	inCount:5	outCount:1	links:	url:D002318	name:Disease, Cardiovascular	normalName:disease, cardiovascular	normalWikiTitle:disease, cardiovascular	predictedType:Disease
+ENTITY	text:Coronary heart disease	normalName:coronary heart disease	predictedType:disease	q:true	qid:Q798	docId:19293073	origText:Coronary heart disease	url:D003327
+CANDIDATE	id:3327	inCount:7	outCount:1	links:	url:D003327	name:Disease, Coronary Heart	normalName:disease, coronary heart	normalWikiTitle:disease, coronary heart	predictedType:Disease
+ENTITY	text:stroke	normalName:stroke	predictedType:disease	q:true	qid:Q798	docId:19293073	origText:stroke	url:D020521
+CANDIDATE	id:20521	inCount:2	outCount:1	links:20521	url:D020521	name:Stroke	normalName:stroke	normalWikiTitle:stroke	predictedType:Disease
+ENTITY	text:strokes	normalName:strokes	predictedType:disease	q:true	qid:Q798	docId:19293073	origText:strokes	url:D020521
+CANDIDATE	id:20521	inCount:2	outCount:1	links:20521	url:D020521	name:Stroke	normalName:stroke	normalWikiTitle:stroke	predictedType:Disease
+ENTITY	text:myocardial infarction	normalName:myocardial infarction	predictedType:disease	q:true	qid:Q798	docId:19293073	origText:myocardial infarction	url:D009203
+CANDIDATE	id:9203	inCount:8	outCount:1	links:9203	url:D009203	name:Myocardial Infarction	normalName:myocardial infarction	normalWikiTitle:myocardial infarction	predictedType:Disease
+ENTITY	text:cerebrovascular disease	normalName:cerebrovascular disease	predictedType:disease	q:true	qid:Q798	docId:19293073	origText:cerebrovascular disease	url:D002561
+CANDIDATE	id:2561	inCount:17	outCount:2	links:	url:D002561	name:Disease, Cerebrovascular	normalName:disease, cerebrovascular	normalWikiTitle:disease, cerebrovascular	predictedType:Disease
+ENTITY	text:myocardial infarctions	normalName:myocardial infarctions	predictedType:disease	q:true	qid:Q798	docId:19293073	origText:myocardial infarctions	url:D009203
+CANDIDATE	id:9203	inCount:8	outCount:1	links:9203	url:D009203	name:Myocardial Infarction	normalName:myocardial infarction	normalWikiTitle:myocardial infarction	predictedType:Disease
+ENTITY	text:bleeding	normalName:bleeding	predictedType:disease	q:true	qid:Q798	docId:19293073	origText:bleeding	url:D006470
+CANDIDATE	id:6470	inCount:31	outCount:1	links:	url:D006470	name:Bleeding	normalName:bleeding	normalWikiTitle:bleeding	predictedType:Disease

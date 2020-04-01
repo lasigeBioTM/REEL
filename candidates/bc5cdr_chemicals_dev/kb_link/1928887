@@ -1,0 +1,15 @@
+ENTITY	text:captopril	normalName:captopril	predictedType:chemical	q:true	qid:Q382	docId:1928887	origText:captopril	url:D002216
+CANDIDATE	id:2216	inCount:17	outCount:1	links:	url:D002216	name:Captopril	normalName:captopril	normalWikiTitle:captopril	predictedType:Chemical
+ENTITY	text:Naloxone	normalName:naloxone	predictedType:chemical	q:true	qid:Q382	docId:1928887	origText:Naloxone	url:D009270
+CANDIDATE	id:9270	inCount:20	outCount:1	links:	url:D009270	name:Naloxone	normalName:naloxone	normalWikiTitle:naloxone	predictedType:Chemical
+ENTITY	text:angiotensin-converting enzyme inhibitors	normalName:angiotensin-converting enzyme inhibitors	predictedType:chemical	q:true	qid:Q382	docId:1928887	origText:angiotensin-converting enzyme inhibitors	url:D000806
+CANDIDATE	id:806	inCount:1	outCount:1	links:	url:D000806	name:Angiotensin-Converting Enzyme Inhibitors	normalName:angiotensin-converting enzyme inhibitors	normalWikiTitle:angiotensin-converting enzyme inhibitors	predictedType:Chemical
+CANDIDATE	id:74641	inCount:0	outCount:1	links:	url:C074641	name:interleukin-1beta-converting enzyme inhibitor	normalName:interleukin-1beta-converting enzyme inhibitor	normalWikiTitle:interleukin-1beta-converting enzyme inhibitor	predictedType:Chemical
+CANDIDATE	id:22929	inCount:0	outCount:1	links:	url:C022929	name:angiotensin III, 1-desarginine-	normalName:angiotensin iii, 1-desarginine-	normalWikiTitle:angiotensin iii, 1-desarginine-	predictedType:Chemical
+CANDIDATE	id:65655	inCount:0	outCount:1	links:	url:C065655	name:anti-inhibitor coagulant complex	normalName:anti-inhibitor coagulant complex	normalWikiTitle:anti-inhibitor coagulant complex	predictedType:Chemical
+CANDIDATE	id:20533	inCount:0	outCount:1	links:	url:D020533	name:Angiogenesis Inhibitors	normalName:angiogenesis inhibitors	normalWikiTitle:angiogenesis inhibitors	predictedType:Chemical
+CANDIDATE	id:58892	inCount:0	outCount:1	links:	url:D058892	name:Adenosine Deaminase Inhibitors	normalName:adenosine deaminase inhibitors	normalWikiTitle:adenosine deaminase inhibitors	predictedType:Chemical
+CANDIDATE	id:18899	inCount:0	outCount:1	links:	url:C018899	name:des-angiotensin I renin substrate	normalName:des-angiotensin i renin substrate	normalWikiTitle:des-angiotensin i renin substrate	predictedType:Chemical
+CANDIDATE	id:27695	inCount:0	outCount:2	links:	url:C027695	name:angiotensin, 2-nitro-5-azidobenzoyl-	normalName:angiotensin, 2-nitro-5-azidobenzoyl-	normalWikiTitle:angiotensin, 2-nitro-5-azidobenzoyl-	predictedType:Chemical
+CANDIDATE	id:21651	inCount:0	outCount:1	links:	url:C021651	name:crinia-angiotensin	normalName:crinia-angiotensin	normalWikiTitle:crinia-angiotensin	predictedType:Chemical
+CANDIDATE	id:57911	inCount:2	outCount:1	links:	url:D057911	name:Angiotensin Receptor Antagonists	normalName:angiotensin receptor antagonists	normalWikiTitle:angiotensin receptor antagonists	predictedType:Chemical

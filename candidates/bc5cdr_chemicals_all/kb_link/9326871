@@ -1,0 +1,26 @@
+ENTITY	text:erythromycin	normalName:erythromycin	predictedType:chemical	q:true	qid:Q869	docId:9326871	origText:erythromycin	url:D004917
+CANDIDATE	id:4917	inCount:121	outCount:1	links:	url:D004917	name:Erythromycin	normalName:erythromycin	normalWikiTitle:erythromycin	predictedType:Chemical
+ENTITY	text:macrolide	normalName:macrolide	predictedType:chemical	q:true	qid:Q869	docId:9326871	origText:macrolide	url:D018942
+CANDIDATE	id:18942	inCount:770	outCount:2	links:18942	url:D018942	name:Macrolides	normalName:macrolides	normalWikiTitle:macrolides	predictedType:Chemical
+CANDIDATE	id:512190	inCount:0	outCount:1	links:512190	url:C512190	name:macroline	normalName:macroline	normalWikiTitle:macroline	predictedType:Chemical
+CANDIDATE	id:626884	inCount:0	outCount:1	links:626884	url:C000626884	name:marliolide	normalName:marliolide	normalWikiTitle:marliolide	predictedType:Chemical
+CANDIDATE	id:24973	inCount:0	outCount:1	links:24973	url:C024973	name:simarolide	normalName:simarolide	normalWikiTitle:simarolide	predictedType:Chemical
+CANDIDATE	id:605327	inCount:0	outCount:2	links:605327	url:C000605327	name:tarolide	normalName:tarolide	normalWikiTitle:tarolide	predictedType:Chemical
+CANDIDATE	id:416483	inCount:0	outCount:1	links:416483	url:C416483	name:RAD macrolide	normalName:rad macrolide	normalWikiTitle:rad macrolide	predictedType:Chemical
+CANDIDATE	id:433561	inCount:0	outCount:2	links:433561	url:C433561	name:macrophyllide	normalName:macrophyllide	normalWikiTitle:macrophyllide	predictedType:Chemical
+CANDIDATE	id:532529	inCount:0	outCount:2	links:532529	url:C532529	name:micromolide	normalName:micromolide	normalWikiTitle:micromolide	predictedType:Chemical
+CANDIDATE	id:432449	inCount:0	outCount:1	links:432449	url:C432449	name:germacranolide	normalName:germacranolide	normalWikiTitle:germacranolide	predictedType:Chemical
+CANDIDATE	id:483001	inCount:0	outCount:1	links:483001	url:C483001	name:micromide	normalName:micromide	normalWikiTitle:micromide	predictedType:Chemical
+ENTITY	text:Clarithromycin	normalName:clarithromycin	predictedType:chemical	q:true	qid:Q869	docId:9326871	origText:Clarithromycin	url:D017291
+CANDIDATE	id:17291	inCount:3	outCount:1	links:	url:D017291	name:Clarithromycin	normalName:clarithromycin	normalWikiTitle:clarithromycin	predictedType:Chemical
+ENTITY	text:macrolides	normalName:macrolides	predictedType:chemical	q:true	qid:Q869	docId:9326871	origText:macrolides	url:D018942
+CANDIDATE	id:18942	inCount:770	outCount:2	links:18942	url:D018942	name:Macrolides	normalName:macrolides	normalWikiTitle:macrolides	predictedType:Chemical
+CANDIDATE	id:512190	inCount:0	outCount:1	links:512190	url:C512190	name:macroline	normalName:macroline	normalWikiTitle:macroline	predictedType:Chemical
+CANDIDATE	id:626884	inCount:0	outCount:1	links:626884	url:C000626884	name:marliolide	normalName:marliolide	normalWikiTitle:marliolide	predictedType:Chemical
+CANDIDATE	id:24973	inCount:0	outCount:1	links:24973	url:C024973	name:simarolide	normalName:simarolide	normalWikiTitle:simarolide	predictedType:Chemical
+CANDIDATE	id:605327	inCount:0	outCount:2	links:605327	url:C000605327	name:tarolide	normalName:tarolide	normalWikiTitle:tarolide	predictedType:Chemical
+CANDIDATE	id:416483	inCount:0	outCount:1	links:416483	url:C416483	name:RAD macrolide	normalName:rad macrolide	normalWikiTitle:rad macrolide	predictedType:Chemical
+CANDIDATE	id:433561	inCount:0	outCount:2	links:433561	url:C433561	name:macrophyllide	normalName:macrophyllide	normalWikiTitle:macrophyllide	predictedType:Chemical
+CANDIDATE	id:532529	inCount:0	outCount:2	links:532529	url:C532529	name:micromolide	normalName:micromolide	normalWikiTitle:micromolide	predictedType:Chemical
+CANDIDATE	id:432449	inCount:0	outCount:1	links:432449	url:C432449	name:germacranolide	normalName:germacranolide	normalWikiTitle:germacranolide	predictedType:Chemical
+CANDIDATE	id:483001	inCount:0	outCount:1	links:483001	url:C483001	name:micromide	normalName:micromide	normalWikiTitle:micromide	predictedType:Chemical

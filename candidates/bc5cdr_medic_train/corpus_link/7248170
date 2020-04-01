@@ -1,0 +1,38 @@
+ENTITY	text:cirrhosis	normalName:cirrhosis	predictedType:disease	q:true	qid:Q476	docId:7248170	origText:cirrhosis	url:D005355
+CANDIDATE	id:5355	inCount:11	outCount:1	links:1201	url:D005355	name:Cirrhosis	normalName:cirrhosis	normalWikiTitle:cirrhosis	predictedType:Disease
+ENTITY	text:cirrhosis of the liver	normalName:cirrhosis of the liver	predictedType:disease	q:true	qid:Q476	docId:7248170	origText:cirrhosis of the liver	url:D008103
+CANDIDATE	id:8103	inCount:11	outCount:1	links:6529	url:D008103	name:Liver Cirrhosis	normalName:liver cirrhosis	normalWikiTitle:liver cirrhosis	predictedType:Disease
+CANDIDATE	id:8105	inCount:5	outCount:2	links:	url:D008105	name:Liver Cirrhosis, Biliary	normalName:liver cirrhosis, biliary	normalWikiTitle:liver cirrhosis, biliary	predictedType:Disease
+CANDIDATE	id:8104	inCount:0	outCount:2	links:	url:D008104	name:Liver Cirrhosis, Alcoholic	normalName:liver cirrhosis, alcoholic	normalWikiTitle:liver cirrhosis, alcoholic	predictedType:Disease
+CANDIDATE	id:566858	inCount:0	outCount:1	links:	url:C566858	name:Copper-Overload Cirrhosis	normalName:copper-overload cirrhosis	normalWikiTitle:copper-overload cirrhosis	predictedType:Disease
+CANDIDATE	id:562577	inCount:0	outCount:1	links:	url:C562577	name:Cirrhosis, Cryptogenic	normalName:cirrhosis, cryptogenic	normalWikiTitle:cirrhosis, cryptogenic	predictedType:Disease
+CANDIDATE	id:566123	inCount:0	outCount:2	links:	url:C566123	name:Cirrhosis, Familial	normalName:cirrhosis, familial	normalWikiTitle:cirrhosis, familial	predictedType:Disease
+CANDIDATE	id:8106	inCount:0	outCount:1	links:	url:D008106	name:Liver Cirrhosis, Experimental	normalName:liver cirrhosis, experimental	normalWikiTitle:liver cirrhosis, experimental	predictedType:Disease
+CANDIDATE	id:562580	inCount:0	outCount:2	links:	url:C562580	name:Cirrhosis, Familial, with Pulmonary Hypertension	normalName:cirrhosis, familial, with pulmonary hypertension	normalWikiTitle:cirrhosis, familial, with pulmonary hypertension	predictedType:Disease
+CANDIDATE	id:2558	inCount:0	outCount:1	links:	url:D002558	name:Cerebrospinal Fluid Otorrhea	normalName:cerebrospinal fluid otorrhea	normalWikiTitle:cerebrospinal fluid otorrhea	predictedType:Disease
+CANDIDATE	id:563620	inCount:0	outCount:2	links:	url:C563620	name:Lipoma of the Conjunctiva	normalName:lipoma of the conjunctiva	normalWikiTitle:lipoma of the conjunctiva	predictedType:Disease
+ENTITY	text:ascites	normalName:ascites	predictedType:disease	q:true	qid:Q476	docId:7248170	origText:ascites	url:D001201
+CANDIDATE	id:1201	inCount:0	outCount:1	links:5355	url:D001201	name:Ascites	normalName:ascites	normalWikiTitle:ascites	predictedType:Disease
+ENTITY	text:enlargement of the liver	normalName:enlargement of the liver	predictedType:disease	q:true	qid:Q476	docId:7248170	origText:enlargement of the liver	url:D006529
+CANDIDATE	id:6529	inCount:4	outCount:2	links:8103	url:D006529	name:Liver, Enlarged	normalName:liver, enlarged	normalWikiTitle:liver, enlarged	predictedType:Disease
+CANDIDATE	id:58625	inCount:0	outCount:1	links:	url:D058625	name:End Stage Liver Disease	normalName:end stage liver disease	normalWikiTitle:end stage liver disease	predictedType:Disease
+CANDIDATE	id:12734	inCount:8	outCount:2	links:	url:D012734	name:Disorders of Sex Development	normalName:disorders of sex development	normalWikiTitle:disorders of sex development	predictedType:Disease
+CANDIDATE	id:563914	inCount:0	outCount:4	links:	url:C563914	name:Larsen-Like Syndrome	normalName:larsen-like syndrome	normalWikiTitle:larsen-like syndrome	predictedType:Disease
+CANDIDATE	id:537872	inCount:0	outCount:3	links:	url:C537872	name:Larsen like syndrome, lethal type	normalName:larsen like syndrome, lethal type	normalWikiTitle:larsen like syndrome, lethal type	predictedType:Disease
+CANDIDATE	id:536601	inCount:0	outCount:1	links:	url:C536601	name:Amaurosis congenita of Leber, type 2	normalName:amaurosis congenita of leber, type 2	normalWikiTitle:amaurosis congenita of leber, type 2	predictedType:Disease
+CANDIDATE	id:536602	inCount:0	outCount:1	links:	url:C536602	name:Amaurosis congenita of Leber, type 5	normalName:amaurosis congenita of leber, type 5	normalWikiTitle:amaurosis congenita of leber, type 5	predictedType:Disease
+CANDIDATE	id:8114	inCount:0	outCount:2	links:	url:D008114	name:Liver Neoplasms, Experimental	normalName:liver neoplasms, experimental	normalWikiTitle:liver neoplasms, experimental	predictedType:Disease
+CANDIDATE	id:536600	inCount:0	outCount:1	links:	url:C536600	name:Amaurosis congenita of Leber, type 1	normalName:amaurosis congenita of leber, type 1	normalWikiTitle:amaurosis congenita of leber, type 1	predictedType:Disease
+CANDIDATE	id:536603	inCount:0	outCount:1	links:	url:C536603	name:Amaurosis congenita of Leber, type 9	normalName:amaurosis congenita of leber, type 9	normalWikiTitle:amaurosis congenita of leber, type 9	predictedType:Disease
+CANDIDATE	id:8644	inCount:0	outCount:1	links:	url:D008644	name:Mesial Movement of Teeth	normalName:mesial movement of teeth	normalWikiTitle:mesial movement of teeth	predictedType:Disease
+CANDIDATE	id:563621	inCount:0	outCount:2	links:	url:C563621	name:Enlargement of Lower Lip	normalName:enlargement of lower lip	normalWikiTitle:enlargement of lower lip	predictedType:Disease
+CANDIDATE	id:6332	inCount:5	outCount:2	links:	url:D006332	name:Enlargement, Heart	normalName:enlargement, heart	normalWikiTitle:enlargement, heart	predictedType:Disease
+CANDIDATE	id:6332	inCount:5	outCount:2	links:	url:D006332	name:Heart Enlargement	normalName:heart enlargement	normalWikiTitle:heart enlargement	predictedType:Disease
+CANDIDATE	id:8113	inCount:5	outCount:2	links:	url:D008113	name:Cancer of the Liver	normalName:cancer of the liver	normalWikiTitle:cancer of the liver	predictedType:Disease
+CANDIDATE	id:6529	inCount:4	outCount:2	links:8103	url:D006529	name:Enlarged Liver	normalName:enlarged liver	normalWikiTitle:enlarged liver	predictedType:Disease
+CANDIDATE	id:6940	inCount:0	outCount:1	links:	url:D006940	name:Venous Engorgement	normalName:venous engorgement	normalWikiTitle:venous engorgement	predictedType:Disease
+CANDIDATE	id:6940	inCount:0	outCount:1	links:	url:D006940	name:Engorgement, Venous	normalName:engorgement, venous	normalWikiTitle:engorgement, venous	predictedType:Disease
+ENTITY	text:atrophy	normalName:atrophy	predictedType:disease	q:true	qid:Q476	docId:7248170	origText:atrophy	url:D001284
+CANDIDATE	id:1284	inCount:3	outCount:1	links:	url:D001284	name:Atrophy	normalName:atrophy	normalWikiTitle:atrophy	predictedType:Disease
+ENTITY	text:splenomegaly	normalName:splenomegaly	predictedType:disease	q:true	qid:Q476	docId:7248170	origText:splenomegaly	url:D013163
+CANDIDATE	id:13163	inCount:6	outCount:1	links:	url:D013163	name:Splenomegaly	normalName:splenomegaly	normalWikiTitle:splenomegaly	predictedType:Disease

@@ -1,0 +1,25 @@
+ENTITY	text:thallium	normalName:thallium	predictedType:chemical	q:true	qid:Q448	docId:2348231	origText:thallium	url:D013793
+CANDIDATE	id:13793	inCount:8	outCount:1	links:	url:D013793	name:Thallium	normalName:thallium	normalWikiTitle:thallium	predictedType:Chemical
+ENTITY	text:methylxanthine	normalName:methylxanthine	predictedType:chemical	q:true	qid:Q448	docId:2348231	origText:methylxanthine	url:C008514
+CANDIDATE	id:8514	inCount:0	outCount:1	links:	url:C008514	name:methylxanthine	normalName:methylxanthine	normalWikiTitle:methylxanthine	predictedType:Chemical
+ENTITY	text:Trental	normalName:trental	predictedType:chemical	q:true	qid:Q448	docId:2348231	origText:Trental	url:D010431
+CANDIDATE	id:10431	inCount:11	outCount:1	links:	url:D010431	name:Trental	normalName:trental	normalWikiTitle:trental	predictedType:Chemical
+ENTITY	text:theophylline	normalName:theophylline	predictedType:chemical	q:true	qid:Q448	docId:2348231	origText:theophylline	url:D013806
+CANDIDATE	id:13806	inCount:113	outCount:1	links:	url:D013806	name:Theophylline	normalName:theophylline	normalWikiTitle:theophylline	predictedType:Chemical
+ENTITY	text:Pentoxifylline	normalName:pentoxifylline	predictedType:chemical	q:true	qid:Q448	docId:2348231	origText:Pentoxifylline	url:D010431
+CANDIDATE	id:10431	inCount:11	outCount:1	links:	url:D010431	name:Pentoxifylline	normalName:pentoxifylline	normalWikiTitle:pentoxifylline	predictedType:Chemical
+ENTITY	text:dipyridamole	normalName:dipyridamole	predictedType:chemical	q:true	qid:Q448	docId:2348231	origText:dipyridamole	url:D004176
+CANDIDATE	id:4176	inCount:10	outCount:1	links:	url:D004176	name:Dipyridamole	normalName:dipyridamole	normalWikiTitle:dipyridamole	predictedType:Chemical
+ENTITY	text:pentoxyifylline	normalName:pentoxyifylline	predictedType:chemical	q:true	qid:Q448	docId:2348231	origText:pentoxyifylline	url:D010431
+CANDIDATE	id:10431	inCount:11	outCount:1	links:	url:D010431	name:Pentoxifylline	normalName:pentoxifylline	normalWikiTitle:pentoxifylline	predictedType:Chemical
+CANDIDATE	id:7942	inCount:0	outCount:1	links:	url:C007942	name:pentifylline	normalName:pentifylline	normalWikiTitle:pentifylline	predictedType:Chemical
+CANDIDATE	id:442143	inCount:0	outCount:1	links:	url:C442143	name:8-oxopentoxifylline	normalName:8-oxopentoxifylline	normalWikiTitle:8-oxopentoxifylline	predictedType:Chemical
+CANDIDATE	id:32114	inCount:0	outCount:1	links:	url:C032114	name:propentofylline	normalName:propentofylline	normalWikiTitle:propentofylline	predictedType:Chemical
+CANDIDATE	id:8749	inCount:0	outCount:1	links:	url:C008749	name:etofylline	normalName:etofylline	normalWikiTitle:etofylline	predictedType:Chemical
+CANDIDATE	id:34347	inCount:0	outCount:1	links:	url:C034347	name:enprofylline	normalName:enprofylline	normalWikiTitle:enprofylline	predictedType:Chemical
+CANDIDATE	id:112313	inCount:0	outCount:1	links:	url:C112313	name:p-isopentoxyaniline	normalName:p-isopentoxyaniline	normalWikiTitle:p-isopentoxyaniline	predictedType:Chemical
+CANDIDATE	id:631509	inCount:0	outCount:2	links:	url:C000631509	name:methoxyvinylglycine	normalName:methoxyvinylglycine	normalWikiTitle:methoxyvinylglycine	predictedType:Chemical
+CANDIDATE	id:3237	inCount:0	outCount:1	links:	url:C003237	name:proxyphylline	normalName:proxyphylline	normalWikiTitle:proxyphylline	predictedType:Chemical
+CANDIDATE	id:37509	inCount:0	outCount:1	links:	url:C037509	name:pentanoylcholine	normalName:pentanoylcholine	normalWikiTitle:pentanoylcholine	predictedType:Chemical
+ENTITY	text:methylxanthines	normalName:methylxanthines	predictedType:chemical	q:true	qid:Q448	docId:2348231	origText:methylxanthines	url:C008514
+CANDIDATE	id:8514	inCount:0	outCount:1	links:	url:C008514	name:methylxanthine	normalName:methylxanthine	normalWikiTitle:methylxanthine	predictedType:Chemical

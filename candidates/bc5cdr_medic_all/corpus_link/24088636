@@ -1,0 +1,38 @@
+ENTITY	text:extensively drug-resistant tuberculosis	normalName:extensively drug-resistant tuberculosis	predictedType:disease	q:true	qid:Q83	docId:24088636	origText:extensively drug-resistant tuberculosis	url:D054908
+CANDIDATE	id:54908	inCount:0	outCount:1	links:	url:D054908	name:Extensively Drug-Resistant Tuberculosis	normalName:extensively drug-resistant tuberculosis	normalWikiTitle:extensively drug-resistant tuberculosis	predictedType:Disease
+ENTITY	text:XDR-TB	normalName:xdr-tb	predictedType:disease	q:true	qid:Q83	docId:24088636	origText:XDR-TB	url:D054908
+CANDIDATE	id:54908	inCount:0	outCount:1	links:	url:D054908	name:XDR-TB	normalName:xdr-tb	normalWikiTitle:xdr-tb	predictedType:Disease
+ENTITY	text:optic neuropathy	normalName:optic neuropathy	predictedType:disease	q:true	qid:Q83	docId:24088636	origText:optic neuropathy	url:D009901
+CANDIDATE	id:9901	inCount:13	outCount:2	links:14786	url:D009901	name:Neuropathy, Optic	normalName:neuropathy, optic	normalWikiTitle:neuropathy, optic	predictedType:Disease
+ENTITY	text:loss of vision	normalName:loss of vision	predictedType:disease	q:true	qid:Q83	docId:24088636	origText:loss of vision	url:D014786
+CANDIDATE	id:14786	inCount:19	outCount:2	links:9896;9901	url:D014786	name:Vision Disorders	normalName:vision disorders	normalWikiTitle:vision disorders	predictedType:Disease
+CANDIDATE	id:15354	inCount:0	outCount:1	links:	url:D015354	name:Vision, Low	normalName:vision, low	normalWikiTitle:vision, low	predictedType:Disease
+CANDIDATE	id:3117	inCount:12	outCount:2	links:	url:D003117	name:Color Vision Defects	normalName:color vision defects	normalWikiTitle:color vision defects	predictedType:Disease
+CANDIDATE	id:16388	inCount:0	outCount:2	links:	url:D016388	name:Tooth Loss	normalName:tooth loss	normalWikiTitle:tooth loss	predictedType:Disease
+CANDIDATE	id:7102	inCount:0	outCount:1	links:	url:D007102	name:Immersion Foot	normalName:immersion foot	normalWikiTitle:immersion foot	predictedType:Disease
+CANDIDATE	id:3428	inCount:2	outCount:2	links:	url:D003428	name:Cross Infection	normalName:cross infection	normalWikiTitle:cross infection	predictedType:Disease
+CANDIDATE	id:65710	inCount:0	outCount:1	links:	url:D065710	name:Glossoptosis	normalName:glossoptosis	normalWikiTitle:glossoptosis	predictedType:Disease
+CANDIDATE	id:7446	inCount:0	outCount:1	links:	url:D007446	name:Chromosome Inversion	normalName:chromosome inversion	normalWikiTitle:chromosome inversion	predictedType:Disease
+CANDIDATE	id:57066	inCount:0	outCount:2	links:	url:D057066	name:Low Tension Glaucoma	normalName:low tension glaucoma	normalWikiTitle:low tension glaucoma	predictedType:Disease
+CANDIDATE	id:536523	inCount:0	outCount:1	links:	url:C536523	name:Vagina, absence of	normalName:vagina, absence of	normalWikiTitle:vagina, absence of	predictedType:Disease
+ENTITY	text:toxic optic neuropathy	normalName:toxic optic neuropathy	predictedType:disease	q:true	qid:Q83	docId:24088636	origText:toxic optic neuropathy	url:D009901
+CANDIDATE	id:9901	inCount:13	outCount:2	links:14786	url:D009901	name:Neuropathy, Optic	normalName:neuropathy, optic	normalWikiTitle:neuropathy, optic	predictedType:Disease
+CANDIDATE	id:20426	inCount:2	outCount:1	links:	url:D020426	name:Sciatic Neuropathy	normalName:sciatic neuropathy	normalWikiTitle:sciatic neuropathy	predictedType:Disease
+CANDIDATE	id:20429	inCount:1	outCount:1	links:	url:D020429	name:Tibial Neuropathy	normalName:tibial neuropathy	normalWikiTitle:tibial neuropathy	predictedType:Disease
+CANDIDATE	id:18917	inCount:1	outCount:2	links:	url:D018917	name:Optic Neuropathy, Ischemic	normalName:optic neuropathy, ischemic	normalWikiTitle:optic neuropathy, ischemic	predictedType:Disease
+CANDIDATE	id:17545	inCount:14	outCount:1	links:	url:D017545	name:Aortic Aneurysm, Thoracic	normalName:aortic aneurysm, thoracic	normalWikiTitle:aortic aneurysm, thoracic	predictedType:Disease
+CANDIDATE	id:535952	inCount:0	outCount:3	links:	url:C535952	name:Eosinophilic enteropathy	normalName:eosinophilic enteropathy	normalWikiTitle:eosinophilic enteropathy	predictedType:Disease
+CANDIDATE	id:531783	inCount:0	outCount:2	links:	url:C531783	name:Hip socket neuropathy	normalName:hip socket neuropathy	normalWikiTitle:hip socket neuropathy	predictedType:Disease
+CANDIDATE	id:564945	inCount:0	outCount:2	links:	url:C564945	name:Neuropathy, Painful	normalName:neuropathy, painful	normalWikiTitle:neuropathy, painful	predictedType:Disease
+CANDIDATE	id:536965	inCount:0	outCount:2	links:	url:C536965	name:Tomaculous neuropathy	normalName:tomaculous neuropathy	normalWikiTitle:tomaculous neuropathy	predictedType:Disease
+CANDIDATE	id:54546	inCount:1	outCount:2	links:	url:D054546	name:Neuroacanthocytosis	normalName:neuroacanthocytosis	normalWikiTitle:neuroacanthocytosis	predictedType:Disease
+CANDIDATE	id:9896	inCount:24	outCount:1	links:14786	url:D009896	name:Optic Atrophy	normalName:optic atrophy	normalWikiTitle:optic atrophy	predictedType:Disease
+CANDIDATE	id:9901	inCount:13	outCount:2	links:14786	url:D009901	name:Optic Neuropathy	normalName:optic neuropathy	normalWikiTitle:optic neuropathy	predictedType:Disease
+CANDIDATE	id:20221	inCount:0	outCount:2	links:	url:D020221	name:Optic Neuropathy, Traumatic	normalName:optic neuropathy, traumatic	normalWikiTitle:optic neuropathy, traumatic	predictedType:Disease
+CANDIDATE	id:20221	inCount:0	outCount:2	links:	url:D020221	name:Neuropathy, Traumatic Optic	normalName:neuropathy, traumatic optic	normalWikiTitle:neuropathy, traumatic optic	predictedType:Disease
+CANDIDATE	id:20221	inCount:0	outCount:2	links:	url:D020221	name:Traumatic Optic Neuropathy	normalName:traumatic optic neuropathy	normalWikiTitle:traumatic optic neuropathy	predictedType:Disease
+CANDIDATE	id:15845	inCount:1	outCount:1	links:	url:D015845	name:Tonic Pupil, Neuropathic	normalName:tonic pupil, neuropathic	normalWikiTitle:tonic pupil, neuropathic	predictedType:Disease
+CANDIDATE	id:15845	inCount:1	outCount:1	links:	url:D015845	name:Pupil, Neuropathic Tonic	normalName:pupil, neuropathic tonic	normalWikiTitle:pupil, neuropathic tonic	predictedType:Disease
+CANDIDATE	id:20221	inCount:0	outCount:2	links:	url:D020221	name:Traumatic Optic Neuropathies	normalName:traumatic optic neuropathies	normalWikiTitle:traumatic optic neuropathies	predictedType:Disease
+CANDIDATE	id:20221	inCount:0	outCount:2	links:	url:D020221	name:Neuropathies, Traumatic Optic	normalName:neuropathies, traumatic optic	normalWikiTitle:neuropathies, traumatic optic	predictedType:Disease
+CANDIDATE	id:15845	inCount:1	outCount:1	links:	url:D015845	name:Neuropathic Tonic Pupil	normalName:neuropathic tonic pupil	normalWikiTitle:neuropathic tonic pupil	predictedType:Disease

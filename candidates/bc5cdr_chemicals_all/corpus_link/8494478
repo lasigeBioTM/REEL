@@ -1,0 +1,4 @@
+ENTITY	text:creatinine	normalName:creatinine	predictedType:chemical	q:true	qid:Q1250	docId:8494478	origText:creatinine	url:D003404
+CANDIDATE	id:3404	inCount:8	outCount:1	links:	url:D003404	name:Creatinine	normalName:creatinine	normalWikiTitle:creatinine	predictedType:Chemical
+ENTITY	text:Ciprofloxacin	normalName:ciprofloxacin	predictedType:chemical	q:true	qid:Q1250	docId:8494478	origText:Ciprofloxacin	url:D002939
+CANDIDATE	id:2939	inCount:46	outCount:1	links:	url:D002939	name:Ciprofloxacin	normalName:ciprofloxacin	normalWikiTitle:ciprofloxacin	predictedType:Chemical

@@ -1,0 +1,6 @@
+ENTITY	text:SR48692	normalName:sr48692	predictedType:chemical	q:true	qid:Q222	docId:20882060	origText:SR48692	url:C079087
+CANDIDATE	id:79087	inCount:0	outCount:2	links:	url:C079087	name:SR48692	normalName:sr48692	normalWikiTitle:sr48692	predictedType:Chemical
+ENTITY	text:haloperidol	normalName:haloperidol	predictedType:chemical	q:true	qid:Q222	docId:20882060	origText:haloperidol	url:D006220
+CANDIDATE	id:6220	inCount:24	outCount:1	links:	url:D006220	name:Haloperidol	normalName:haloperidol	normalWikiTitle:haloperidol	predictedType:Chemical
+ENTITY	text:neurotensin	normalName:neurotensin	predictedType:chemical	q:true	qid:Q222	docId:20882060	origText:neurotensin	url:D009496
+CANDIDATE	id:9496	inCount:39	outCount:1	links:	url:D009496	name:Neurotensin	normalName:neurotensin	normalWikiTitle:neurotensin	predictedType:Chemical

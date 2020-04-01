@@ -1,0 +1,8 @@
+ENTITY	text:cancer	normalName:cancer	predictedType:disease	q:true	qid:Q277	docId:8766220	origText:cancer	url:D009369
+CANDIDATE	id:9369	inCount:18	outCount:1	links:	url:D009369	name:Cancer	normalName:cancer	normalWikiTitle:cancer	predictedType:Disease
+ENTITY	text:hallucinations	normalName:hallucinations	predictedType:disease	q:true	qid:Q277	docId:8766220	origText:hallucinations	url:D006212
+CANDIDATE	id:6212	inCount:1	outCount:1	links:	url:D006212	name:Hallucinations	normalName:hallucinations	normalWikiTitle:hallucinations	predictedType:Disease
+ENTITY	text:pain	normalName:pain	predictedType:disease	q:true	qid:Q277	docId:8766220	origText:pain	url:D010146
+CANDIDATE	id:10146	inCount:34	outCount:1	links:	url:D010146	name:Pain	normalName:pain	normalWikiTitle:pain	predictedType:Disease
+ENTITY	text:chronic pain	normalName:chronic pain	predictedType:disease	q:true	qid:Q277	docId:8766220	origText:chronic pain	url:D059350
+CANDIDATE	id:59350	inCount:0	outCount:1	links:	url:D059350	name:Chronic Pain	normalName:chronic pain	normalWikiTitle:chronic pain	predictedType:Disease

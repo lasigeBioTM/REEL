@@ -1,0 +1,6 @@
+ENTITY	text:penicillamine	normalName:penicillamine	predictedType:chemical	q:true	qid:Q124	docId:3750012	origText:penicillamine	url:D010396
+CANDIDATE	id:10396	inCount:23	outCount:1	links:2738	url:D010396	name:Penicillamine	normalName:penicillamine	normalWikiTitle:penicillamine	predictedType:Chemical
+ENTITY	text:acetylcholine	normalName:acetylcholine	predictedType:chemical	q:true	qid:Q124	docId:3750012	origText:acetylcholine	url:D000109
+CANDIDATE	id:109	inCount:23	outCount:1	links:	url:D000109	name:Acetylcholine	normalName:acetylcholine	normalWikiTitle:acetylcholine	predictedType:Chemical
+ENTITY	text:chloroquine	normalName:chloroquine	predictedType:chemical	q:true	qid:Q124	docId:3750012	origText:chloroquine	url:D002738
+CANDIDATE	id:2738	inCount:26	outCount:1	links:10396	url:D002738	name:Chloroquine	normalName:chloroquine	normalWikiTitle:chloroquine	predictedType:Chemical

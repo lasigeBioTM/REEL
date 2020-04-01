@@ -1,0 +1,6 @@
+ENTITY	text:methotrexate	normalName:methotrexate	predictedType:chemical	q:true	qid:Q1209	docId:17682013	origText:methotrexate	url:D008727
+CANDIDATE	id:8727	inCount:364	outCount:1	links:5472;17367	url:D008727	name:Methotrexate	normalName:methotrexate	normalWikiTitle:methotrexate	predictedType:Chemical
+ENTITY	text:5-fluorouracil	normalName:5-fluorouracil	predictedType:chemical	q:true	qid:Q1209	docId:17682013	origText:5-fluorouracil	url:D005472
+CANDIDATE	id:5472	inCount:271	outCount:1	links:17367;8727	url:D005472	name:5 Fluorouracil	normalName:5 fluorouracil	normalWikiTitle:5 fluorouracil	predictedType:Chemical
+ENTITY	text:carmofur	normalName:carmofur	predictedType:chemical	q:true	qid:Q1209	docId:17682013	origText:carmofur	url:C017367
+CANDIDATE	id:17367	inCount:0	outCount:1	links:5472;8727	url:C017367	name:carmofur	normalName:carmofur	normalWikiTitle:carmofur	predictedType:Chemical

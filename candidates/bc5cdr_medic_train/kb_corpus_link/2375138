@@ -1,0 +1,15 @@
+ENTITY	text:cardiorespiratory arrest	normalName:cardiorespiratory arrest	predictedType:disease	q:true	qid:Q171	docId:2375138	origText:cardiorespiratory arrest	url:D006323
+CANDIDATE	id:6323	inCount:2	outCount:1	links:	url:D006323	name:Cardiopulmonary Arrest	normalName:cardiopulmonary arrest	normalWikiTitle:cardiopulmonary arrest	predictedType:Disease
+CANDIDATE	id:53120	inCount:1	outCount:2	links:	url:D053120	name:Respiratory Aspiration	normalName:respiratory aspiration	normalWikiTitle:respiratory aspiration	predictedType:Disease
+CANDIDATE	id:142	inCount:0	outCount:2	links:	url:D000142	name:Acidosis, Respiratory	normalName:acidosis, respiratory	normalWikiTitle:acidosis, respiratory	predictedType:Disease
+CANDIDATE	id:58687	inCount:0	outCount:1	links:	url:D058687	name:Out-of-Hospital Cardiac Arrest	normalName:out-of-hospital cardiac arrest	normalWikiTitle:out-of-hospital cardiac arrest	predictedType:Disease
+CANDIDATE	id:12133	inCount:0	outCount:2	links:	url:D012133	name:Respiratory Paralysis	normalName:respiratory paralysis	normalWikiTitle:respiratory paralysis	predictedType:Disease
+CANDIDATE	id:54138	inCount:0	outCount:1	links:	url:D054138	name:Sinus Arrest, Cardiac	normalName:sinus arrest, cardiac	normalWikiTitle:sinus arrest, cardiac	predictedType:Disease
+CANDIDATE	id:537535	inCount:0	outCount:2	links:	url:C537535	name:Secretory breast carcinoma	normalName:secretory breast carcinoma	normalWikiTitle:secretory breast carcinoma	predictedType:Disease
+CANDIDATE	id:472	inCount:0	outCount:2	links:	url:D000472	name:Alkalosis, Respiratory	normalName:alkalosis, respiratory	normalWikiTitle:alkalosis, respiratory	predictedType:Disease
+CANDIDATE	id:12130	inCount:6	outCount:2	links:	url:D012130	name:Respiratory Hypersensitivity	normalName:respiratory hypersensitivity	normalWikiTitle:respiratory hypersensitivity	predictedType:Disease
+CANDIDATE	id:63466	inCount:0	outCount:2	links:	url:D063466	name:Respiratory Aspiration of Gastric Contents	normalName:respiratory aspiration of gastric contents	normalWikiTitle:respiratory aspiration of gastric contents	predictedType:Disease
+CANDIDATE	id:12140	inCount:17	outCount:1	links:	url:D012140	name:Respiratory Tract Diseases	normalName:respiratory tract diseases	normalWikiTitle:respiratory tract diseases	predictedType:Disease
+CANDIDATE	id:6323	inCount:2	outCount:1	links:	url:D006323	name:Arrest, Cardiopulmonary	normalName:arrest, cardiopulmonary	normalWikiTitle:arrest, cardiopulmonary	predictedType:Disease
+ENTITY	text:death	normalName:death	predictedType:disease	q:true	qid:Q171	docId:2375138	origText:death	url:D003643
+CANDIDATE	id:3643	inCount:11	outCount:1	links:	url:D003643	name:Death	normalName:death	normalWikiTitle:death	predictedType:Disease

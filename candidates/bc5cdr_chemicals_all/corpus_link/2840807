@@ -1,0 +1,4 @@
+ENTITY	text:ACTH	normalName:acth	predictedType:chemical	q:true	qid:Q46	docId:2840807	origText:ACTH	url:D000324
+CANDIDATE	id:324	inCount:64	outCount:1	links:9074	url:D000324	name:ACTH	normalName:acth	normalWikiTitle:acth	predictedType:Chemical
+ENTITY	text:MSH	normalName:msh	predictedType:chemical	q:true	qid:Q46	docId:2840807	origText:MSH	url:D009074
+CANDIDATE	id:9074	inCount:29	outCount:2	links:324	url:D009074	name:MSH	normalName:msh	normalWikiTitle:msh	predictedType:Chemical

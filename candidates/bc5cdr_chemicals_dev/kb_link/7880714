@@ -1,0 +1,4 @@
+ENTITY	text:adrenaline	normalName:adrenaline	predictedType:chemical	q:true	qid:Q493	docId:7880714	origText:adrenaline	url:D004837
+CANDIDATE	id:4837	inCount:33	outCount:3	links:	url:D004837	name:Adrenaline	normalName:adrenaline	normalWikiTitle:adrenaline	predictedType:Chemical
+ENTITY	text:Bupivacaine	normalName:bupivacaine	predictedType:chemical	q:true	qid:Q493	docId:7880714	origText:Bupivacaine	url:D002045
+CANDIDATE	id:2045	inCount:4	outCount:1	links:	url:D002045	name:Bupivacaine	normalName:bupivacaine	normalWikiTitle:bupivacaine	predictedType:Chemical

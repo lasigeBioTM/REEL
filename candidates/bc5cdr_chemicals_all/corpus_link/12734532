@@ -1,0 +1,15 @@
+ENTITY	text:Dexatrim	normalName:dexatrim	predictedType:chemical	q:true	qid:Q558	docId:12734532	origText:Dexatrim	url:D010665
+CANDIDATE	id:10665	inCount:33	outCount:1	links:	url:D010665	name:Dexatrim	normalName:dexatrim	normalWikiTitle:dexatrim	predictedType:Chemical
+ENTITY	text:amine	normalName:amine	predictedType:chemical	q:true	qid:Q558	docId:12734532	origText:amine	url:D000588
+CANDIDATE	id:588	inCount:138	outCount:1	links:	url:D000588	name:Amines	normalName:amines	normalWikiTitle:amines	predictedType:Chemical
+CANDIDATE	id:2329	inCount:5	outCount:1	links:	url:D002329	name:Carmine	normalName:carmine	normalWikiTitle:carmine	predictedType:Chemical
+CANDIDATE	id:514045	inCount:0	outCount:2	links:	url:C514045	name:abamine	normalName:abamine	normalWikiTitle:abamine	predictedType:Chemical
+CANDIDATE	id:7884	inCount:0	outCount:1	links:	url:C007884	name:gramine	normalName:gramine	normalWikiTitle:gramine	predictedType:Chemical
+CANDIDATE	id:407151	inCount:0	outCount:1	links:	url:C407151	name:apomine	normalName:apomine	normalWikiTitle:apomine	predictedType:Chemical
+CANDIDATE	id:488396	inCount:0	outCount:1	links:	url:C488396	name:neamine	normalName:neamine	normalWikiTitle:neamine	predictedType:Chemical
+CANDIDATE	id:467072	inCount:0	outCount:1	links:	url:C467072	name:jamtine	normalName:jamtine	normalWikiTitle:jamtine	predictedType:Chemical
+CANDIDATE	id:6247	inCount:18	outCount:2	links:	url:D006247	name:Harmine	normalName:harmine	normalWikiTitle:harmine	predictedType:Chemical
+CANDIDATE	id:547236	inCount:0	outCount:2	links:	url:C547236	name:zeamine	normalName:zeamine	normalWikiTitle:zeamine	predictedType:Chemical
+CANDIDATE	id:1138	inCount:0	outCount:1	links:	url:D001138	name:Armin	normalName:armin	normalWikiTitle:armin	predictedType:Chemical
+ENTITY	text:Phenylpropanolamine	normalName:phenylpropanolamine	predictedType:chemical	q:true	qid:Q558	docId:12734532	origText:Phenylpropanolamine	url:D010665
+CANDIDATE	id:10665	inCount:33	outCount:1	links:	url:D010665	name:Phenylpropanolamine	normalName:phenylpropanolamine	normalWikiTitle:phenylpropanolamine	predictedType:Chemical

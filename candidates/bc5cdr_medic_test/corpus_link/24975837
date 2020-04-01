@@ -1,0 +1,32 @@
+ENTITY	text:acute renal injury	normalName:acute renal injury	predictedType:disease	q:true	qid:Q27	docId:24975837	origText:acute renal injury	url:D058186
+CANDIDATE	id:58186	inCount:2	outCount:1	links:7683;9336;15431	url:D058186	name:Renal Injury, Acute	normalName:renal injury, acute	normalWikiTitle:renal injury, acute	predictedType:Disease
+ENTITY	text:necrotic	normalName:necrotic	predictedType:disease	q:true	qid:Q27	docId:24975837	origText:necrotic	url:D009336
+CANDIDATE	id:9336	inCount:6	outCount:1	links:58186;15431	url:D009336	name:Necrosis	normalName:necrosis	normalWikiTitle:necrosis	predictedType:Disease
+CANDIDATE	id:748	inCount:2	outCount:1	links:	url:D000748	name:Anemia, Macrocytic	normalName:anemia, macrocytic	normalWikiTitle:anemia, macrocytic	predictedType:Disease
+CANDIDATE	id:9902	inCount:1	outCount:1	links:	url:D009902	name:Optic Neuritis	normalName:optic neuritis	normalWikiTitle:optic neuritis	predictedType:Disease
+CANDIDATE	id:9443	inCount:2	outCount:1	links:	url:D009443	name:Neuritis	normalName:neuritis	normalWikiTitle:neuritis	predictedType:Disease
+CANDIDATE	id:4881	inCount:0	outCount:1	links:	url:D004881	name:Ergotism	normalName:ergotism	normalWikiTitle:ergotism	predictedType:Disease
+CANDIDATE	id:3085	inCount:0	outCount:1	links:	url:D003085	name:Colic	normalName:colic	normalWikiTitle:colic	predictedType:Disease
+CANDIDATE	id:1014	inCount:5	outCount:2	links:	url:D001014	name:Aortic Aneurysm	normalName:aortic aneurysm	normalWikiTitle:aortic aneurysm	predictedType:Disease
+CANDIDATE	id:6177	inCount:6	outCount:1	links:	url:D006177	name:Gynecomastia	normalName:gynecomastia	normalWikiTitle:gynecomastia	predictedType:Disease
+CANDIDATE	id:5218	inCount:0	outCount:1	links:	url:D005218	name:Fat Necrosis	normalName:fat necrosis	normalWikiTitle:fat necrosis	predictedType:Disease
+CANDIDATE	id:7239	inCount:33	outCount:1	links:	url:D007239	name:Infection	normalName:infection	normalWikiTitle:infection	predictedType:Disease
+ENTITY	text:acute tubular necrosis	normalName:acute tubular necrosis	predictedType:disease	q:true	qid:Q27	docId:24975837	origText:acute tubular necrosis	url:D007683
+CANDIDATE	id:7683	inCount:0	outCount:1	links:58186;15431	url:D007683	name:Kidney Tubular Necrosis, Acute	normalName:kidney tubular necrosis, acute	normalWikiTitle:kidney tubular necrosis, acute	predictedType:Disease
+CANDIDATE	id:15882	inCount:0	outCount:1	links:	url:D015882	name:Retinal Necrosis Syndrome, Acute	normalName:retinal necrosis syndrome, acute	normalWikiTitle:retinal necrosis syndrome, acute	predictedType:Disease
+CANDIDATE	id:17577	inCount:0	outCount:2	links:	url:D017577	name:Cutaneous Fistula	normalName:cutaneous fistula	normalWikiTitle:cutaneous fistula	predictedType:Disease
+CANDIDATE	id:1020	inCount:3	outCount:1	links:	url:D001020	name:Aortic Stenosis, Subvalvular	normalName:aortic stenosis, subvalvular	normalWikiTitle:aortic stenosis, subvalvular	predictedType:Disease
+CANDIDATE	id:531662	inCount:0	outCount:1	links:	url:C531662	name:Submacular Cysticercosis	normalName:submacular cysticercosis	normalWikiTitle:submacular cysticercosis	predictedType:Disease
+CANDIDATE	id:5218	inCount:0	outCount:1	links:	url:D005218	name:Fat Necrosis	normalName:fat necrosis	normalWikiTitle:fat necrosis	predictedType:Disease
+CANDIDATE	id:564356	inCount:0	outCount:1	links:	url:C564356	name:Acute Tubulointerstitial Nephritis	normalName:acute tubulointerstitial nephritis	normalWikiTitle:acute tubulointerstitial nephritis	predictedType:Disease
+CANDIDATE	id:141	inCount:11	outCount:2	links:	url:D000141	name:Acidosis, Renal Tubular	normalName:acidosis, renal tubular	normalWikiTitle:acidosis, renal tubular	predictedType:Disease
+CANDIDATE	id:3790	inCount:0	outCount:2	links:	url:D003790	name:Dental Pulp Necrosis	normalName:dental pulp necrosis	normalWikiTitle:dental pulp necrosis	predictedType:Disease
+CANDIDATE	id:267430	inCount:0	outCount:2	links:	url:267430	name:RENAL TUBULAR DYSGENESIS	normalName:renal tubular dysgenesis	normalWikiTitle:renal tubular dysgenesis	predictedType:Disease
+ENTITY	text:acute kidney injury	normalName:acute kidney injury	predictedType:disease	q:true	qid:Q27	docId:24975837	origText:acute kidney injury	url:D058186
+CANDIDATE	id:58186	inCount:2	outCount:1	links:7683;9336;15431	url:D058186	name:Acute Kidney Injury	normalName:acute kidney injury	normalWikiTitle:acute kidney injury	predictedType:Disease
+ENTITY	text:diabetic nephropathy	normalName:diabetic nephropathy	predictedType:disease	q:true	qid:Q27	docId:24975837	origText:diabetic nephropathy	url:D003928
+CANDIDATE	id:3928	inCount:4	outCount:2	links:7249	url:D003928	name:Nephropathy, Diabetic	normalName:nephropathy, diabetic	normalWikiTitle:nephropathy, diabetic	predictedType:Disease
+ENTITY	text:weight loss	normalName:weight loss	predictedType:disease	q:true	qid:Q27	docId:24975837	origText:weight loss	url:D015431
+CANDIDATE	id:15431	inCount:1	outCount:1	links:7683;58186;9336	url:D015431	name:Weight Loss	normalName:weight loss	normalWikiTitle:weight loss	predictedType:Disease
+ENTITY	text:inflammation	normalName:inflammation	predictedType:disease	q:true	qid:Q27	docId:24975837	origText:inflammation	url:D007249
+CANDIDATE	id:7249	inCount:14	outCount:1	links:3928	url:D007249	name:Inflammation	normalName:inflammation	normalWikiTitle:inflammation	predictedType:Disease

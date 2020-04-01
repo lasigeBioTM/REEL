@@ -1,0 +1,6 @@
+ENTITY	text:seizures	normalName:seizures	predictedType:disease	q:true	qid:Q217	docId:7189975	origText:seizures	url:D012640
+CANDIDATE	id:12640	inCount:53	outCount:1	links:12640	url:D012640	name:Seizure	normalName:seizure	normalWikiTitle:seizure	predictedType:Disease
+ENTITY	text:cardiopulmonary arrest	normalName:cardiopulmonary arrest	predictedType:disease	q:true	qid:Q217	docId:7189975	origText:cardiopulmonary arrest	url:D006323
+CANDIDATE	id:6323	inCount:2	outCount:1	links:	url:D006323	name:Cardiopulmonary Arrest	normalName:cardiopulmonary arrest	normalWikiTitle:cardiopulmonary arrest	predictedType:Disease
+ENTITY	text:convulsions	normalName:convulsions	predictedType:disease	q:true	qid:Q217	docId:7189975	origText:convulsions	url:D012640
+CANDIDATE	id:12640	inCount:53	outCount:1	links:12640	url:D012640	name:Convulsion	normalName:convulsion	normalWikiTitle:convulsion	predictedType:Disease

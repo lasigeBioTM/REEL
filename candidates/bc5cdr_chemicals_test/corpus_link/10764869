@@ -1,0 +1,6 @@
+ENTITY	text:FK 506	normalName:fk 506	predictedType:chemical	q:true	qid:Q175	docId:10764869	origText:FK 506	url:D016559
+CANDIDATE	id:16559	inCount:40	outCount:1	links:	url:D016559	name:FK-506	normalName:fk-506	normalWikiTitle:fk-506	predictedType:Chemical
+ENTITY	text:FK506	normalName:fk506	predictedType:chemical	q:true	qid:Q175	docId:10764869	origText:FK506	url:D016559
+CANDIDATE	id:16559	inCount:40	outCount:1	links:	url:D016559	name:FK506	normalName:fk506	normalWikiTitle:fk506	predictedType:Chemical
+ENTITY	text:tacrolimus	normalName:tacrolimus	predictedType:chemical	q:true	qid:Q175	docId:10764869	origText:tacrolimus	url:D016559
+CANDIDATE	id:16559	inCount:40	outCount:1	links:	url:D016559	name:Tacrolimus	normalName:tacrolimus	normalWikiTitle:tacrolimus	predictedType:Chemical

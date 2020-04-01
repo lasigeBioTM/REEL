@@ -1,0 +1,6 @@
+ENTITY	text:vitamin B6	normalName:vitamin b6	predictedType:chemical	q:true	qid:Q822	docId:2265898	origText:vitamin B6	url:D025101
+CANDIDATE	id:25101	inCount:12	outCount:1	links:	url:D025101	name:Vitamin B6	normalName:vitamin b6	normalWikiTitle:vitamin b6	predictedType:Chemical
+ENTITY	text:carbidopa/levodopa	normalName:carbidopa/levodopa	predictedType:chemical	q:true	qid:Q822	docId:2265898	origText:carbidopa/levodopa	url:C009265
+CANDIDATE	id:9265	inCount:0	outCount:2	links:9265	url:C009265	name:carbidopa - levodopa	normalName:carbidopa - levodopa	normalWikiTitle:carbidopa - levodopa	predictedType:Chemical
+ENTITY	text:levodopa/carbidopa	normalName:levodopa/carbidopa	predictedType:chemical	q:true	qid:Q822	docId:2265898	origText:levodopa/carbidopa	url:C009265
+CANDIDATE	id:9265	inCount:0	outCount:2	links:9265	url:C009265	name:carbidopa - levodopa	normalName:carbidopa - levodopa	normalWikiTitle:carbidopa - levodopa	predictedType:Chemical

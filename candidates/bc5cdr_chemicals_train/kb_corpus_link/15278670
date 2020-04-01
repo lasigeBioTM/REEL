@@ -1,0 +1,10 @@
+ENTITY	text:Apamin	normalName:apamin	predictedType:chemical	q:true	qid:Q119	docId:15278670	origText:Apamin	url:D001030
+CANDIDATE	id:1030	inCount:2	outCount:1	links:	url:D001030	name:Apamin	normalName:apamin	normalWikiTitle:apamin	predictedType:Chemical
+ENTITY	text:enflurane	normalName:enflurane	predictedType:chemical	q:true	qid:Q119	docId:15278670	origText:enflurane	url:D004737
+CANDIDATE	id:4737	inCount:0	outCount:1	links:	url:D004737	name:Enflurane	normalName:enflurane	normalWikiTitle:enflurane	predictedType:Chemical
+ENTITY	text:lidocaine	normalName:lidocaine	predictedType:chemical	q:true	qid:Q119	docId:15278670	origText:lidocaine	url:D008012
+CANDIDATE	id:8012	inCount:68	outCount:1	links:	url:D008012	name:Lidocaine	normalName:lidocaine	normalWikiTitle:lidocaine	predictedType:Chemical
+ENTITY	text:potassium	normalName:potassium	predictedType:chemical	q:true	qid:Q119	docId:15278670	origText:potassium	url:D011188
+CANDIDATE	id:11188	inCount:10	outCount:2	links:	url:D011188	name:Potassium	normalName:potassium	normalWikiTitle:potassium	predictedType:Chemical
+ENTITY	text:calcium	normalName:calcium	predictedType:chemical	q:true	qid:Q119	docId:15278670	origText:calcium	url:D002118
+CANDIDATE	id:2118	inCount:11	outCount:2	links:	url:D002118	name:Calcium	normalName:calcium	normalWikiTitle:calcium	predictedType:Chemical

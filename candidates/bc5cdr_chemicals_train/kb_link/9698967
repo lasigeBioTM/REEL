@@ -1,0 +1,10 @@
+ENTITY	text:adrenaline	normalName:adrenaline	predictedType:chemical	q:true	qid:Q287	docId:9698967	origText:adrenaline	url:D004837
+CANDIDATE	id:4837	inCount:33	outCount:3	links:	url:D004837	name:Adrenaline	normalName:adrenaline	normalWikiTitle:adrenaline	predictedType:Chemical
+ENTITY	text:metoprolol	normalName:metoprolol	predictedType:chemical	q:true	qid:Q287	docId:9698967	origText:metoprolol	url:D008790
+CANDIDATE	id:8790	inCount:9	outCount:1	links:	url:D008790	name:Metoprolol	normalName:metoprolol	normalWikiTitle:metoprolol	predictedType:Chemical
+ENTITY	text:mepivacaine	normalName:mepivacaine	predictedType:chemical	q:true	qid:Q287	docId:9698967	origText:mepivacaine	url:D008619
+CANDIDATE	id:8619	inCount:1	outCount:1	links:	url:D008619	name:Mepivacaine	normalName:mepivacaine	normalWikiTitle:mepivacaine	predictedType:Chemical
+ENTITY	text:labetalol	normalName:labetalol	predictedType:chemical	q:true	qid:Q287	docId:9698967	origText:labetalol	url:D007741
+CANDIDATE	id:7741	inCount:0	outCount:2	links:	url:D007741	name:Labetalol	normalName:labetalol	normalWikiTitle:labetalol	predictedType:Chemical
+ENTITY	text:midazolam	normalName:midazolam	predictedType:chemical	q:true	qid:Q287	docId:9698967	origText:midazolam	url:D008874
+CANDIDATE	id:8874	inCount:6	outCount:1	links:	url:D008874	name:Midazolam	normalName:midazolam	normalWikiTitle:midazolam	predictedType:Chemical

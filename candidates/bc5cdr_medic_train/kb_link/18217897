@@ -1,0 +1,51 @@
+ENTITY	text:dyspnea	normalName:dyspnea	predictedType:disease	q:true	qid:Q343	docId:18217897	origText:dyspnea	url:D004417
+CANDIDATE	id:4417	inCount:1	outCount:2	links:	url:D004417	name:Dyspnea	normalName:dyspnea	normalWikiTitle:dyspnea	predictedType:Disease
+ENTITY	text:mantle cell lymphoma	normalName:mantle cell lymphoma	predictedType:disease	q:true	qid:Q343	docId:18217897	origText:mantle cell lymphoma	url:D020522
+CANDIDATE	id:20522	inCount:0	outCount:1	links:	url:D020522	name:Lymphoma, Mantle-Cell	normalName:lymphoma, mantle-cell	normalWikiTitle:lymphoma, mantle-cell	predictedType:Disease
+ENTITY	text:tumour	normalName:tumour	predictedType:disease	q:true	qid:Q343	docId:18217897	origText:tumour	url:D009369
+CANDIDATE	id:9369	inCount:18	outCount:1	links:9369	url:D009369	name:Tumors	normalName:tumors	normalWikiTitle:tumors	predictedType:Disease
+CANDIDATE	id:14202	inCount:6	outCount:1	links:	url:D014202	name:Tremor	normalName:tremor	normalWikiTitle:tremor	predictedType:Disease
+CANDIDATE	id:53608	inCount:0	outCount:1	links:	url:D053608	name:Stupor	normalName:stupor	normalWikiTitle:stupor	predictedType:Disease
+CANDIDATE	id:9396	inCount:9	outCount:3	links:	url:D009396	name:Wilms Tumor	normalName:wilms tumor	normalWikiTitle:wilms tumor	predictedType:Disease
+CANDIDATE	id:563168	inCount:0	outCount:2	links:	url:C563168	name:Askin Tumor	normalName:askin tumor	normalWikiTitle:askin tumor	predictedType:Disease
+CANDIDATE	id:5918	inCount:1	outCount:1	links:	url:D005918	name:Glomus Tumor	normalName:glomus tumor	normalWikiTitle:glomus tumor	predictedType:Disease
+CANDIDATE	id:601583	inCount:0	outCount:1	links:	url:601583	name:WILMS TUMOR 5	normalName:wilms tumor 5	normalWikiTitle:wilms tumor 5	predictedType:Disease
+CANDIDATE	id:616806	inCount:0	outCount:1	links:	url:616806	name:WILMS TUMOR 6	normalName:wilms tumor 6	normalWikiTitle:wilms tumor 6	predictedType:Disease
+CANDIDATE	id:563336	inCount:0	outCount:1	links:	url:C563336	name:Wilms Tumor 4	normalName:wilms tumor 4	normalWikiTitle:wilms tumor 4	predictedType:Disease
+CANDIDATE	id:6337	inCount:1	outCount:1	links:	url:D006337	name:Heart Murmurs	normalName:heart murmurs	normalWikiTitle:heart murmurs	predictedType:Disease
+CANDIDATE	id:565991	inCount:0	outCount:1	links:	url:C565991	name:Wilms Tumor 3	normalName:wilms tumor 3	normalWikiTitle:wilms tumor 3	predictedType:Disease
+CANDIDATE	id:9369	inCount:18	outCount:1	links:9369	url:D009369	name:Tumor	normalName:tumor	normalWikiTitle:tumor	predictedType:Disease
+ENTITY	text:thromboembolic	normalName:thromboembolic	predictedType:disease	q:true	qid:Q343	docId:18217897	origText:thromboembolic	url:D013923
+CANDIDATE	id:13923	inCount:3	outCount:1	links:	url:D013923	name:Thromboembolism	normalName:thromboembolism	normalWikiTitle:thromboembolism	predictedType:Disease
+CANDIDATE	id:54556	inCount:0	outCount:1	links:	url:D054556	name:Venous Thromboembolism	normalName:venous thromboembolism	normalWikiTitle:venous thromboembolism	predictedType:Disease
+CANDIDATE	id:13927	inCount:4	outCount:1	links:	url:D013927	name:Thrombosis	normalName:thrombosis	normalWikiTitle:thrombosis	predictedType:Disease
+CANDIDATE	id:13924	inCount:1	outCount:2	links:	url:D013924	name:Thrombophlebitis	normalName:thrombophlebitis	normalWikiTitle:thrombophlebitis	predictedType:Disease
+CANDIDATE	id:19851	inCount:16	outCount:1	links:	url:D019851	name:Thrombophilia	normalName:thrombophilia	normalWikiTitle:thrombophilia	predictedType:Disease
+CANDIDATE	id:13922	inCount:4	outCount:2	links:	url:D013922	name:Thrombocytosis	normalName:thrombocytosis	normalWikiTitle:thrombocytosis	predictedType:Disease
+CANDIDATE	id:13921	inCount:42	outCount:1	links:	url:D013921	name:Thrombocytopenia	normalName:thrombocytopenia	normalWikiTitle:thrombocytopenia	predictedType:Disease
+CANDIDATE	id:20246	inCount:5	outCount:1	links:	url:D020246	name:Venous Thrombosis	normalName:venous thrombosis	normalWikiTitle:venous thrombosis	predictedType:Disease
+CANDIDATE	id:4480	inCount:21	outCount:1	links:	url:D004480	name:Ectromelia	normalName:ectromelia	normalWikiTitle:ectromelia	predictedType:Disease
+CANDIDATE	id:13915	inCount:3	outCount:3	links:	url:D013915	name:Thrombasthenia	normalName:thrombasthenia	normalWikiTitle:thrombasthenia	predictedType:Disease
+ENTITY	text:fatigue	normalName:fatigue	predictedType:disease	q:true	qid:Q343	docId:18217897	origText:fatigue	url:D005221
+CANDIDATE	id:5221	inCount:2	outCount:1	links:	url:D005221	name:Fatigue	normalName:fatigue	normalWikiTitle:fatigue	predictedType:Disease
+ENTITY	text:Leukemia	normalName:leukemia	predictedType:disease	q:true	qid:Q343	docId:18217897	origText:Leukemia	url:D007938
+CANDIDATE	id:7938	inCount:12	outCount:1	links:	url:D007938	name:Leukemia	normalName:leukemia	normalWikiTitle:leukemia	predictedType:Disease
+ENTITY	text:Cancer	normalName:cancer	predictedType:disease	q:true	qid:Q343	docId:18217897	origText:Cancer	url:D009369
+CANDIDATE	id:9369	inCount:18	outCount:1	links:9369	url:D009369	name:Cancer	normalName:cancer	normalWikiTitle:cancer	predictedType:Disease
+ENTITY	text:lymphomas	normalName:lymphomas	predictedType:disease	q:true	qid:Q343	docId:18217897	origText:lymphomas	url:D008223
+CANDIDATE	id:8223	inCount:8	outCount:2	links:	url:D008223	name:Lymphoma	normalName:lymphoma	normalWikiTitle:lymphoma	predictedType:Disease
+ENTITY	text:non-Hodgkin lymphomas	normalName:non-hodgkin lymphomas	predictedType:disease	q:true	qid:Q343	docId:18217897	origText:non-Hodgkin lymphomas	url:D008228
+CANDIDATE	id:8228	inCount:7	outCount:1	links:	url:D008228	name:Lymphoma, Non-Hodgkin	normalName:lymphoma, non-hodgkin	normalWikiTitle:lymphoma, non-hodgkin	predictedType:Disease
+ENTITY	text:multiple myeloma	normalName:multiple myeloma	predictedType:disease	q:true	qid:Q343	docId:18217897	origText:multiple myeloma	url:D009101
+CANDIDATE	id:9101	inCount:1	outCount:4	links:	url:D009101	name:Multiple Myeloma	normalName:multiple myeloma	normalWikiTitle:multiple myeloma	predictedType:Disease
+ENTITY	text:depressed mood	normalName:depressed mood	predictedType:disease	q:true	qid:Q343	docId:18217897	origText:depressed mood	url:D003866
+CANDIDATE	id:3866	inCount:6	outCount:1	links:	url:D003866	name:Depressive Disorder	normalName:depressive disorder	normalWikiTitle:depressive disorder	predictedType:Disease
+CANDIDATE	id:19964	inCount:2	outCount:1	links:	url:D019964	name:Mood Disorders	normalName:mood disorders	normalWikiTitle:mood disorders	predictedType:Disease
+CANDIDATE	id:3865	inCount:2	outCount:1	links:	url:D003865	name:Depressive Disorder, Major	normalName:depressive disorder, major	normalWikiTitle:depressive disorder, major	predictedType:Disease
+CANDIDATE	id:563875	inCount:0	outCount:1	links:	url:C563875	name:Major Depressive Disorder 2	normalName:major depressive disorder 2	normalWikiTitle:major depressive disorder 2	predictedType:Disease
+CANDIDATE	id:563919	inCount:0	outCount:1	links:	url:C563919	name:Major Depressive Disorder 1	normalName:major depressive disorder 1	normalWikiTitle:major depressive disorder 1	predictedType:Disease
+CANDIDATE	id:68079	inCount:0	outCount:1	links:	url:D000068079	name:Motor Disorders	normalName:motor disorders	normalWikiTitle:motor disorders	predictedType:Disease
+CANDIDATE	id:5533	inCount:2	outCount:1	links:	url:D005533	name:Foot Dermatoses	normalName:foot dermatoses	normalWikiTitle:foot dermatoses	predictedType:Disease
+CANDIDATE	id:12810	inCount:2	outCount:1	links:	url:D012810	name:Sigmoid Diseases	normalName:sigmoid diseases	normalWikiTitle:sigmoid diseases	predictedType:Disease
+CANDIDATE	id:5530	inCount:9	outCount:1	links:	url:D005530	name:Foot Deformities	normalName:foot deformities	normalWikiTitle:foot deformities	predictedType:Disease
+CANDIDATE	id:4831	inCount:17	outCount:2	links:	url:D004831	name:Epilepsies, Myoclonic	normalName:epilepsies, myoclonic	normalWikiTitle:epilepsies, myoclonic	predictedType:Disease

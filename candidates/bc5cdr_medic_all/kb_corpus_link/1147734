@@ -1,0 +1,15 @@
+ENTITY	text:Liver disease	normalName:liver disease	predictedType:disease	q:true	qid:Q674	docId:1147734	origText:Liver disease	url:D008107
+CANDIDATE	id:8107	inCount:37	outCount:1	links:	url:D008107	name:Disease, Liver	normalName:disease, liver	normalWikiTitle:disease, liver	predictedType:Disease
+ENTITY	text:chronic active (aggressive) hepatitis	normalName:chronic active (aggressive) hepatitis	predictedType:disease	q:true	qid:Q674	docId:1147734	origText:chronic active (aggressive) hepatitis	url:D006521
+CANDIDATE	id:6521	inCount:4	outCount:1	links:	url:D006521	name:Hepatitis, Chronic Active	normalName:hepatitis, chronic active	normalWikiTitle:hepatitis, chronic active	predictedType:Disease
+CANDIDATE	id:19698	inCount:0	outCount:2	links:	url:D019698	name:Hepatitis C, Chronic	normalName:hepatitis c, chronic	normalWikiTitle:hepatitis c, chronic	predictedType:Disease
+CANDIDATE	id:19694	inCount:0	outCount:2	links:	url:D019694	name:Hepatitis B, Chronic	normalName:hepatitis b, chronic	normalWikiTitle:hepatitis b, chronic	predictedType:Disease
+CANDIDATE	id:566946	inCount:0	outCount:1	links:	url:C566946	name:Periodontitis, Aggressive, 2	normalName:periodontitis, aggressive, 2	normalWikiTitle:periodontitis, aggressive, 2	predictedType:Disease
+CANDIDATE	id:6521	inCount:4	outCount:1	links:	url:D006521	name:Hepatitis, Chronic	normalName:hepatitis, chronic	normalWikiTitle:hepatitis, chronic	predictedType:Disease
+CANDIDATE	id:10520	inCount:0	outCount:1	links:	url:D010520	name:Aggressive Periodontitis	normalName:aggressive periodontitis	normalWikiTitle:aggressive periodontitis	predictedType:Disease
+CANDIDATE	id:19701	inCount:0	outCount:2	links:	url:D019701	name:Hepatitis D, Chronic	normalName:hepatitis d, chronic	normalWikiTitle:hepatitis d, chronic	predictedType:Disease
+CANDIDATE	id:6519	inCount:0	outCount:2	links:	url:D006519	name:Hepatitis, Alcoholic	normalName:hepatitis, alcoholic	normalWikiTitle:hepatitis, alcoholic	predictedType:Disease
+CANDIDATE	id:18222	inCount:1	outCount:1	links:	url:D018222	name:Fibromatosis, Aggressive	normalName:fibromatosis, aggressive	normalWikiTitle:fibromatosis, aggressive	predictedType:Disease
+CANDIDATE	id:19283	inCount:0	outCount:1	links:	url:D019283	name:Pancreatitis, Acute Necrotizing	normalName:pancreatitis, acute necrotizing	normalWikiTitle:pancreatitis, acute necrotizing	predictedType:Disease
+CANDIDATE	id:17449	inCount:3	outCount:2	links:	url:D017449	name:Dermatitis, Allergic Contact	normalName:dermatitis, allergic contact	normalWikiTitle:dermatitis, allergic contact	predictedType:Disease
+CANDIDATE	id:6521	inCount:4	outCount:1	links:	url:D006521	name:Chronic Active Hepatitis	normalName:chronic active hepatitis	normalWikiTitle:chronic active hepatitis	predictedType:Disease

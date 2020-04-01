@@ -1,0 +1,6 @@
+ENTITY	text:suxamethonium	normalName:suxamethonium	predictedType:chemical	q:true	qid:Q860	docId:6466532	origText:suxamethonium	url:D013390
+CANDIDATE	id:13390	inCount:3	outCount:2	links:	url:D013390	name:Suxamethonium	normalName:suxamethonium	normalWikiTitle:suxamethonium	predictedType:Chemical
+ENTITY	text:glycopyrrolate	normalName:glycopyrrolate	predictedType:chemical	q:true	qid:Q860	docId:6466532	origText:glycopyrrolate	url:D006024
+CANDIDATE	id:6024	inCount:5	outCount:2	links:	url:D006024	name:Glycopyrrolate	normalName:glycopyrrolate	normalWikiTitle:glycopyrrolate	predictedType:Chemical
+ENTITY	text:atropine	normalName:atropine	predictedType:chemical	q:true	qid:Q860	docId:6466532	origText:atropine	url:D001285
+CANDIDATE	id:1285	inCount:16	outCount:1	links:	url:D001285	name:Atropine	normalName:atropine	normalWikiTitle:atropine	predictedType:Chemical

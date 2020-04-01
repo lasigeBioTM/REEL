@@ -1,0 +1,8 @@
+ENTITY	text:calcium	normalName:calcium	predictedType:chemical	q:true	qid:Q315	docId:8492347	origText:calcium	url:D002118
+CANDIDATE	id:2118	inCount:11	outCount:2	links:	url:D002118	name:Calcium	normalName:calcium	normalWikiTitle:calcium	predictedType:Chemical
+ENTITY	text:potassium	normalName:potassium	predictedType:chemical	q:true	qid:Q315	docId:8492347	origText:potassium	url:D011188
+CANDIDATE	id:11188	inCount:10	outCount:2	links:	url:D011188	name:Potassium	normalName:potassium	normalWikiTitle:potassium	predictedType:Chemical
+ENTITY	text:furosemide	normalName:furosemide	predictedType:chemical	q:true	qid:Q315	docId:8492347	origText:furosemide	url:D005665
+CANDIDATE	id:5665	inCount:8	outCount:1	links:	url:D005665	name:Furosemide	normalName:furosemide	normalWikiTitle:furosemide	predictedType:Chemical
+ENTITY	text:magnesium	normalName:magnesium	predictedType:chemical	q:true	qid:Q315	docId:8492347	origText:magnesium	url:D008274
+CANDIDATE	id:8274	inCount:26	outCount:2	links:	url:D008274	name:Magnesium	normalName:magnesium	normalWikiTitle:magnesium	predictedType:Chemical

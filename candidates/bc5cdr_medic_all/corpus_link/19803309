@@ -1,0 +1,4 @@
+ENTITY	text:masseter spasm	normalName:masseter spasm	predictedType:disease	q:true	qid:Q1395	docId:19803309	origText:masseter spasm	url:D014313
+CANDIDATE	id:14313	inCount:2	outCount:1	links:	url:D014313	name:Spasm, Masseter	normalName:spasm, masseter	normalWikiTitle:spasm, masseter	predictedType:Disease
+ENTITY	text:myotonia congenita	normalName:myotonia congenita	predictedType:disease	q:true	qid:Q1395	docId:19803309	origText:myotonia congenita	url:D009224
+CANDIDATE	id:9224	inCount:5	outCount:2	links:	url:D009224	name:Myotonia Congenita	normalName:myotonia congenita	normalWikiTitle:myotonia congenita	predictedType:Disease

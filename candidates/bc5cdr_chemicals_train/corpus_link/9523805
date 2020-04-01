@@ -1,0 +1,8 @@
+ENTITY	text:prilocaine	normalName:prilocaine	predictedType:chemical	q:true	qid:Q434	docId:9523805	origText:prilocaine	url:D011318
+CANDIDATE	id:11318	inCount:1	outCount:1	links:8012;2045	url:D011318	name:Prilocaine	normalName:prilocaine	normalWikiTitle:prilocaine	predictedType:Chemical
+ENTITY	text:bupivacaine	normalName:bupivacaine	predictedType:chemical	q:true	qid:Q434	docId:9523805	origText:bupivacaine	url:D002045
+CANDIDATE	id:2045	inCount:4	outCount:1	links:8012;11318	url:D002045	name:Bupivacaine	normalName:bupivacaine	normalWikiTitle:bupivacaine	predictedType:Chemical
+ENTITY	text:glucose	normalName:glucose	predictedType:chemical	q:true	qid:Q434	docId:9523805	origText:glucose	url:D005947
+CANDIDATE	id:5947	inCount:160	outCount:1	links:	url:D005947	name:Glucose	normalName:glucose	normalWikiTitle:glucose	predictedType:Chemical
+ENTITY	text:lidocaine	normalName:lidocaine	predictedType:chemical	q:true	qid:Q434	docId:9523805	origText:lidocaine	url:D008012
+CANDIDATE	id:8012	inCount:68	outCount:1	links:2045;11318	url:D008012	name:Lidocaine	normalName:lidocaine	normalWikiTitle:lidocaine	predictedType:Chemical

@@ -1,0 +1,4 @@
+ENTITY	text:sodium 4-phenylbutyrate	normalName:sodium 4-phenylbutyrate	predictedType:chemical	q:true	qid:Q209	docId:24691439	origText:sodium 4-phenylbutyrate	url:C075773
+CANDIDATE	id:75773	inCount:0	outCount:1	links:	url:C075773	name:sodium 4-phenylbutyrate	normalName:sodium 4-phenylbutyrate	normalWikiTitle:sodium 4-phenylbutyrate	predictedType:Chemical
+ENTITY	text:dexamethasone	normalName:dexamethasone	predictedType:chemical	q:true	qid:Q209	docId:24691439	origText:dexamethasone	url:D003907
+CANDIDATE	id:3907	inCount:138	outCount:2	links:	url:D003907	name:Dexamethasone	normalName:dexamethasone	normalWikiTitle:dexamethasone	predictedType:Chemical

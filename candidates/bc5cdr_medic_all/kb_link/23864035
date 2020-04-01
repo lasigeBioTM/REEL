@@ -1,0 +1,4 @@
+ENTITY	text:peripheral neuropathy	normalName:peripheral neuropathy	predictedType:disease	q:true	qid:Q1044	docId:23864035	origText:peripheral neuropathy	url:D010523
+CANDIDATE	id:10523	inCount:37	outCount:1	links:	url:D010523	name:Peripheral Neuropathy	normalName:peripheral neuropathy	normalWikiTitle:peripheral neuropathy	predictedType:Disease
+ENTITY	text:multiple myeloma	normalName:multiple myeloma	predictedType:disease	q:true	qid:Q1044	docId:23864035	origText:multiple myeloma	url:D009101
+CANDIDATE	id:9101	inCount:1	outCount:4	links:	url:D009101	name:Multiple Myeloma	normalName:multiple myeloma	normalWikiTitle:multiple myeloma	predictedType:Disease

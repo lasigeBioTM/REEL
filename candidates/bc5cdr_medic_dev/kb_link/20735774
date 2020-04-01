@@ -1,0 +1,8 @@
+ENTITY	text:liver failure	normalName:liver failure	predictedType:disease	q:true	qid:Q413	docId:20735774	origText:liver failure	url:D017093
+CANDIDATE	id:17093	inCount:5	outCount:1	links:	url:D017093	name:Liver Failure	normalName:liver failure	normalWikiTitle:liver failure	predictedType:Disease
+ENTITY	text:liver disease	normalName:liver disease	predictedType:disease	q:true	qid:Q413	docId:20735774	origText:liver disease	url:D008107
+CANDIDATE	id:8107	inCount:37	outCount:1	links:	url:D008107	name:Disease, Liver	normalName:disease, liver	normalWikiTitle:disease, liver	predictedType:Disease
+ENTITY	text:acute liver failure	normalName:acute liver failure	predictedType:disease	q:true	qid:Q413	docId:20735774	origText:acute liver failure	url:D017114
+CANDIDATE	id:17114	inCount:3	outCount:1	links:	url:D017114	name:Liver Failure, Acute	normalName:liver failure, acute	normalWikiTitle:liver failure, acute	predictedType:Disease
+ENTITY	text:substance abuse	normalName:substance abuse	predictedType:disease	q:true	qid:Q413	docId:20735774	origText:substance abuse	url:D019966
+CANDIDATE	id:19966	inCount:15	outCount:2	links:	url:D019966	name:Abuse, Substance	normalName:abuse, substance	normalWikiTitle:abuse, substance	predictedType:Disease

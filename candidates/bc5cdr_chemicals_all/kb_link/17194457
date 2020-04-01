@@ -1,0 +1,32 @@
+ENTITY	text:5-HIAA	normalName:5-hiaa	predictedType:chemical	q:true	qid:Q999	docId:17194457	origText:5-HIAA	url:D006897
+CANDIDATE	id:6897	inCount:5	outCount:1	links:6897	url:D006897	name:5-HIAA	normalName:5-hiaa	normalWikiTitle:5-hiaa	predictedType:Chemical
+ENTITY	text:5-HT	normalName:5-ht	predictedType:chemical	q:true	qid:Q999	docId:17194457	origText:5-HT	url:D012701
+CANDIDATE	id:12701	inCount:48	outCount:2	links:12701	url:D012701	name:5-HT	normalName:5-ht	normalWikiTitle:5-ht	predictedType:Chemical
+ENTITY	text:5-hydroxytryptamine	normalName:5-hydroxytryptamine	predictedType:chemical	q:true	qid:Q999	docId:17194457	origText:5-hydroxytryptamine	url:D012701
+CANDIDATE	id:12701	inCount:48	outCount:2	links:12701	url:D012701	name:5 Hydroxytryptamine	normalName:5 hydroxytryptamine	normalWikiTitle:5 hydroxytryptamine	predictedType:Chemical
+ENTITY	text:5-hydroxyindoleacetic acid	normalName:5-hydroxyindoleacetic acid	predictedType:chemical	q:true	qid:Q999	docId:17194457	origText:5-hydroxyindoleacetic acid	url:D006897
+CANDIDATE	id:6897	inCount:5	outCount:1	links:6897	url:D006897	name:Hydroxyindoleacetic Acid	normalName:hydroxyindoleacetic acid	normalWikiTitle:hydroxyindoleacetic acid	predictedType:Chemical
+CANDIDATE	id:1736	inCount:0	outCount:1	links:	url:C001736	name:5-methoxyindoleacetic acid	normalName:5-methoxyindoleacetic acid	normalWikiTitle:5-methoxyindoleacetic acid	predictedType:Chemical
+CANDIDATE	id:18079	inCount:0	outCount:1	links:	url:C018079	name:5-(hydroxy-3-indolyl)lactic acid	normalName:5-(hydroxy-3-indolyl)lactic acid	normalWikiTitle:5-(hydroxy-3-indolyl)lactic acid	predictedType:Chemical
+CANDIDATE	id:75806	inCount:0	outCount:1	links:	url:C075806	name:8-hydroxylinoleic acid	normalName:8-hydroxylinoleic acid	normalWikiTitle:8-hydroxylinoleic acid	predictedType:Chemical
+CANDIDATE	id:42835	inCount:0	outCount:1	links:	url:C042835	name:13-hydroxylinoleic acid	normalName:13-hydroxylinoleic acid	normalWikiTitle:13-hydroxylinoleic acid	predictedType:Chemical
+CANDIDATE	id:8070	inCount:0	outCount:1	links:	url:C008070	name:4-hydroxyphenylacetic acid	normalName:4-hydroxyphenylacetic acid	normalWikiTitle:4-hydroxyphenylacetic acid	predictedType:Chemical
+CANDIDATE	id:549121	inCount:0	outCount:2	links:	url:C549121	name:2-hydroxy-2-iminoacetic acid	normalName:2-hydroxy-2-iminoacetic acid	normalWikiTitle:2-hydroxy-2-iminoacetic acid	predictedType:Chemical
+CANDIDATE	id:5756	inCount:0	outCount:1	links:	url:C005756	name:2-hydroxyphenylacetic acid	normalName:2-hydroxyphenylacetic acid	normalWikiTitle:2-hydroxyphenylacetic acid	predictedType:Chemical
+CANDIDATE	id:483229	inCount:0	outCount:1	links:	url:C483229	name:2-hydroxyoleic acid	normalName:2-hydroxyoleic acid	normalWikiTitle:2-hydroxyoleic acid	predictedType:Chemical
+CANDIDATE	id:102523	inCount:0	outCount:1	links:	url:C102523	name:6-hydroxyoleic acid	normalName:6-hydroxyoleic acid	normalWikiTitle:6-hydroxyoleic acid	predictedType:Chemical
+ENTITY	text:steroid	normalName:steroid	predictedType:chemical	q:true	qid:Q999	docId:17194457	origText:steroid	url:D013256
+CANDIDATE	id:13256	inCount:415	outCount:1	links:	url:D013256	name:Steroids	normalName:steroids	normalWikiTitle:steroids	predictedType:Chemical
+CANDIDATE	id:549774	inCount:0	outCount:1	links:	url:C549774	name:Sterodin	normalName:sterodin	normalWikiTitle:sterodin	predictedType:Chemical
+CANDIDATE	id:9654	inCount:35	outCount:1	links:	url:D009654	name:Norsteroids	normalName:norsteroids	normalWikiTitle:norsteroids	predictedType:Chemical
+CANDIDATE	id:1378	inCount:68	outCount:1	links:	url:D001378	name:Azasteroids	normalName:azasteroids	normalWikiTitle:azasteroids	predictedType:Chemical
+CANDIDATE	id:19432	inCount:0	outCount:1	links:	url:C019432	name:zeroid	normalName:zeroid	normalWikiTitle:zeroid	predictedType:Chemical
+CANDIDATE	id:2566	inCount:0	outCount:2	links:	url:D002566	name:Ceroid	normalName:ceroid	normalWikiTitle:ceroid	predictedType:Chemical
+CANDIDATE	id:49412	inCount:0	outCount:1	links:	url:C049412	name:sweroside	normalName:sweroside	normalWikiTitle:sweroside	predictedType:Chemical
+CANDIDATE	id:35227	inCount:0	outCount:1	links:	url:C035227	name:stepronin	normalName:stepronin	normalWikiTitle:stepronin	predictedType:Chemical
+CANDIDATE	id:13722	inCount:2	outCount:1	links:	url:D013722	name:Teprotide	normalName:teprotide	normalWikiTitle:teprotide	predictedType:Chemical
+CANDIDATE	id:7664	inCount:6	outCount:1	links:	url:D007664	name:Ketosteroids	normalName:ketosteroids	normalWikiTitle:ketosteroids	predictedType:Chemical
+ENTITY	text:testosterone	normalName:testosterone	predictedType:chemical	q:true	qid:Q999	docId:17194457	origText:testosterone	url:D013739
+CANDIDATE	id:13739	inCount:97	outCount:2	links:	url:D013739	name:Testosterone	normalName:testosterone	normalWikiTitle:testosterone	predictedType:Chemical
+ENTITY	text:serotonin	normalName:serotonin	predictedType:chemical	q:true	qid:Q999	docId:17194457	origText:serotonin	url:D012701
+CANDIDATE	id:12701	inCount:48	outCount:2	links:12701	url:D012701	name:Serotonin	normalName:serotonin	normalWikiTitle:serotonin	predictedType:Chemical

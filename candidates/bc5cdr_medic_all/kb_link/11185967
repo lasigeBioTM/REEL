@@ -1,0 +1,4 @@
+ENTITY	text:seizure	normalName:seizure	predictedType:disease	q:true	qid:Q1341	docId:11185967	origText:seizure	url:D012640
+CANDIDATE	id:12640	inCount:53	outCount:1	links:	url:D012640	name:Seizure	normalName:seizure	normalWikiTitle:seizure	predictedType:Disease
+ENTITY	text:drug abuse	normalName:drug abuse	predictedType:disease	q:true	qid:Q1341	docId:11185967	origText:drug abuse	url:D019966
+CANDIDATE	id:19966	inCount:15	outCount:2	links:	url:D019966	name:Drug Abuse	normalName:drug abuse	normalWikiTitle:drug abuse	predictedType:Disease

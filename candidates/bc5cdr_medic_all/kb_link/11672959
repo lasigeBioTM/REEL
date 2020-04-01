@@ -1,0 +1,55 @@
+ENTITY	text:rheumatoid arthritis	normalName:rheumatoid arthritis	predictedType:disease	q:true	qid:Q654	docId:11672959	origText:rheumatoid arthritis	url:D001172
+CANDIDATE	id:1172	inCount:8	outCount:3	links:	url:D001172	name:Arthritis, Rheumatoid	normalName:arthritis, rheumatoid	normalWikiTitle:arthritis, rheumatoid	predictedType:Disease
+ENTITY	text:adverse drug reaction	normalName:adverse drug reaction	predictedType:disease	q:true	qid:Q654	docId:11672959	origText:adverse drug reaction	url:D064420
+CANDIDATE	id:64420	inCount:10	outCount:1	links:	url:D064420	name:Adverse Drug Reaction	normalName:adverse drug reaction	normalWikiTitle:adverse drug reaction	predictedType:Disease
+ENTITY	text:fever	normalName:fever	predictedType:disease	q:true	qid:Q654	docId:11672959	origText:fever	url:D005334
+CANDIDATE	id:5334	inCount:5	outCount:1	links:	url:D005334	name:Fever	normalName:fever	normalWikiTitle:fever	predictedType:Disease
+ENTITY	text:drug-induced hepatitis	normalName:drug-induced hepatitis	predictedType:disease	q:true	qid:Q654	docId:11672959	origText:drug-induced hepatitis	url:D056486
+CANDIDATE	id:56486	inCount:2	outCount:3	links:	url:D056486	name:Hepatitis, Drug Induced	normalName:hepatitis, drug induced	normalWikiTitle:hepatitis, drug induced	predictedType:Disease
+ENTITY	text:lymphadenitis	normalName:lymphadenitis	predictedType:disease	q:true	qid:Q654	docId:11672959	origText:lymphadenitis	url:D008199
+CANDIDATE	id:8199	inCount:3	outCount:1	links:	url:D008199	name:Lymphadenitis	normalName:lymphadenitis	normalWikiTitle:lymphadenitis	predictedType:Disease
+ENTITY	text:myocarditis	normalName:myocarditis	predictedType:disease	q:true	qid:Q654	docId:11672959	origText:myocarditis	url:D009205
+CANDIDATE	id:9205	inCount:2	outCount:1	links:	url:D009205	name:Myocarditis	normalName:myocarditis	normalWikiTitle:myocarditis	predictedType:Disease
+ENTITY	text:multi-organ failure	normalName:multi-organ failure	predictedType:disease	q:true	qid:Q654	docId:11672959	origText:multi-organ failure	url:D009102
+CANDIDATE	id:9102	inCount:0	outCount:1	links:	url:D009102	name:Multiple Organ Failure	normalName:multiple organ failure	normalWikiTitle:multiple organ failure	predictedType:Disease
+CANDIDATE	id:17093	inCount:5	outCount:1	links:	url:D017093	name:Liver Failure	normalName:liver failure	normalWikiTitle:liver failure	predictedType:Disease
+CANDIDATE	id:5183	inCount:5	outCount:1	links:	url:D005183	name:Failure to Thrive	normalName:failure to thrive	normalWikiTitle:failure to thrive	predictedType:Disease
+CANDIDATE	id:270960	inCount:0	outCount:1	links:	url:270960	name:SPERMATOGENIC FAILURE 4	normalName:spermatogenic failure 4	normalWikiTitle:spermatogenic failure 4	predictedType:Disease
+CANDIDATE	id:613957	inCount:0	outCount:1	links:	url:613957	name:SPERMATOGENIC FAILURE 8	normalName:spermatogenic failure 8	normalWikiTitle:spermatogenic failure 8	predictedType:Disease
+CANDIDATE	id:567832	inCount:0	outCount:1	links:	url:C567832	name:Spermatogenic Failure 7	normalName:spermatogenic failure 7	normalWikiTitle:spermatogenic failure 7	predictedType:Disease
+CANDIDATE	id:108420	inCount:0	outCount:1	links:	url:108420	name:SPERMATOGENIC FAILURE 2	normalName:spermatogenic failure 2	normalWikiTitle:spermatogenic failure 2	predictedType:Disease
+CANDIDATE	id:102530	inCount:0	outCount:1	links:	url:102530	name:SPERMATOGENIC FAILURE 6	normalName:spermatogenic failure 6	normalWikiTitle:spermatogenic failure 6	predictedType:Disease
+CANDIDATE	id:613958	inCount:0	outCount:1	links:	url:613958	name:SPERMATOGENIC FAILURE 9	normalName:spermatogenic failure 9	normalWikiTitle:spermatogenic failure 9	predictedType:Disease
+CANDIDATE	id:616950	inCount:0	outCount:1	links:	url:616950	name:SPERMATOGENIC FAILURE 15	normalName:spermatogenic failure 15	normalWikiTitle:spermatogenic failure 15	predictedType:Disease
+ENTITY	text:nephritis	normalName:nephritis	predictedType:disease	q:true	qid:Q654	docId:11672959	origText:nephritis	url:D009393
+CANDIDATE	id:9393	inCount:10	outCount:1	links:	url:D009393	name:Nephritis	normalName:nephritis	normalWikiTitle:nephritis	predictedType:Disease
+ENTITY	text:malignancy	normalName:malignancy	predictedType:disease	q:true	qid:Q654	docId:11672959	origText:malignancy	url:D009369
+CANDIDATE	id:9369	inCount:18	outCount:1	links:	url:D009369	name:Malignancy	normalName:malignancy	normalWikiTitle:malignancy	predictedType:Disease
+ENTITY	text:sepsis	normalName:sepsis	predictedType:disease	q:true	qid:Q654	docId:11672959	origText:sepsis	url:D018805
+CANDIDATE	id:18805	inCount:6	outCount:2	links:	url:D018805	name:Sepsis	normalName:sepsis	normalWikiTitle:sepsis	predictedType:Disease
+ENTITY	text:dermatitis	normalName:dermatitis	predictedType:disease	q:true	qid:Q654	docId:11672959	origText:dermatitis	url:D003872
+CANDIDATE	id:3872	inCount:20	outCount:1	links:	url:D003872	name:Dermatitis	normalName:dermatitis	normalWikiTitle:dermatitis	predictedType:Disease
+ENTITY	text:autoimmunity	normalName:autoimmunity	predictedType:disease	q:true	qid:Q654	docId:11672959	origText:autoimmunity	url:D001327
+CANDIDATE	id:1327	inCount:50	outCount:1	links:	url:D001327	name:Autoimmune Diseases	normalName:autoimmune diseases	normalWikiTitle:autoimmune diseases	predictedType:Disease
+CANDIDATE	id:19693	inCount:0	outCount:2	links:	url:D019693	name:Hepatitis, Autoimmune	normalName:hepatitis, autoimmune	normalWikiTitle:hepatitis, autoimmune	predictedType:Disease
+CANDIDATE	id:538274	inCount:0	outCount:2	links:	url:C538274	name:Autoimmune oophoritis	normalName:autoimmune oophoritis	normalWikiTitle:autoimmune oophoritis	predictedType:Disease
+CANDIDATE	id:538273	inCount:0	outCount:1	links:	url:C538273	name:Autoimmune enteropathy	normalName:autoimmune enteropathy	normalWikiTitle:autoimmune enteropathy	predictedType:Disease
+CANDIDATE	id:13967	inCount:3	outCount:2	links:	url:D013967	name:Thyroiditis, Autoimmune	normalName:thyroiditis, autoimmune	normalWikiTitle:thyroiditis, autoimmune	predictedType:Disease
+CANDIDATE	id:69281	inCount:0	outCount:2	links:	url:D000069281	name:Autoimmune Hypophysitis	normalName:autoimmune hypophysitis	normalWikiTitle:autoimmune hypophysitis	predictedType:Disease
+CANDIDATE	id:562768	inCount:0	outCount:2	links:	url:C562768	name:Hypothyroidism, Autoimmune	normalName:hypothyroidism, autoimmune	normalWikiTitle:hypothyroidism, autoimmune	predictedType:Disease
+CANDIDATE	id:66126	inCount:0	outCount:3	links:	url:D066126	name:Cardiotoxicity	normalName:cardiotoxicity	normalWikiTitle:cardiotoxicity	predictedType:Disease
+CANDIDATE	id:566872	inCount:0	outCount:1	links:	url:C566872	name:Dilution, Pigmentary	normalName:dilution, pigmentary	normalWikiTitle:dilution, pigmentary	predictedType:Disease
+CANDIDATE	id:531729	inCount:0	outCount:2	links:	url:C531729	name:Autoimmune limbic encephalitis	normalName:autoimmune limbic encephalitis	normalWikiTitle:autoimmune limbic encephalitis	predictedType:Disease
+CANDIDATE	id:3922	inCount:26	outCount:2	links:	url:D003922	name:Diabetes, Autoimmune	normalName:diabetes, autoimmune	normalWikiTitle:diabetes, autoimmune	predictedType:Disease
+CANDIDATE	id:3922	inCount:26	outCount:2	links:	url:D003922	name:Autoimmune Diabetes	normalName:autoimmune diabetes	normalWikiTitle:autoimmune diabetes	predictedType:Disease
+ENTITY	text:massive hepatocellular necrosis	normalName:massive hepatocellular necrosis	predictedType:disease	q:true	qid:Q654	docId:11672959	origText:massive hepatocellular necrosis	url:D047508
+CANDIDATE	id:47508	inCount:0	outCount:1	links:	url:D047508	name:Massive Hepatic Necrosis	normalName:massive hepatic necrosis	normalWikiTitle:massive hepatic necrosis	predictedType:Disease
+CANDIDATE	id:507	inCount:0	outCount:3	links:	url:D000507	name:Mucinosis, Follicular	normalName:mucinosis, follicular	normalWikiTitle:mucinosis, follicular	predictedType:Disease
+CANDIDATE	id:5271	inCount:1	outCount:1	links:	url:D005271	name:Femur Head Necrosis	normalName:femur head necrosis	normalWikiTitle:femur head necrosis	predictedType:Disease
+CANDIDATE	id:20065	inCount:0	outCount:2	links:	url:D020065	name:Hepatopulmonary Syndrome	normalName:hepatopulmonary syndrome	normalWikiTitle:hepatopulmonary syndrome	predictedType:Disease
+CANDIDATE	id:71079	inCount:0	outCount:1	links:	url:D000071079	name:Stenosis, Pulmonary Artery	normalName:stenosis, pulmonary artery	normalWikiTitle:stenosis, pulmonary artery	predictedType:Disease
+CANDIDATE	id:1474	inCount:3	outCount:1	links:	url:D001474	name:Bartonella Infections	normalName:bartonella infections	normalWikiTitle:bartonella infections	predictedType:Disease
+CANDIDATE	id:564133	inCount:0	outCount:1	links:	url:C564133	name:Ige Responsiveness, Atopic	normalName:ige responsiveness, atopic	normalWikiTitle:ige responsiveness, atopic	predictedType:Disease
+CANDIDATE	id:1476	inCount:1	outCount:1	links:	url:D001476	name:Bartonellaceae Infections	normalName:bartonellaceae infections	normalWikiTitle:bartonellaceae infections	predictedType:Disease
+CANDIDATE	id:10025	inCount:0	outCount:1	links:	url:D010025	name:Osteoradionecrosis	normalName:osteoradionecrosis	normalWikiTitle:osteoradionecrosis	predictedType:Disease
+CANDIDATE	id:7673	inCount:0	outCount:1	links:	url:D007673	name:Kidney Cortex Necrosis	normalName:kidney cortex necrosis	normalWikiTitle:kidney cortex necrosis	predictedType:Disease

@@ -1,0 +1,4 @@
+ENTITY	text:Cisplatin	normalName:cisplatin	predictedType:chemical	q:true	qid:Q885	docId:24778426	origText:Cisplatin	url:D002945
+CANDIDATE	id:2945	inCount:293	outCount:3	links:	url:D002945	name:Cisplatin	normalName:cisplatin	normalWikiTitle:cisplatin	predictedType:Chemical
+ENTITY	text:Mannitol	normalName:mannitol	predictedType:chemical	q:true	qid:Q885	docId:24778426	origText:Mannitol	url:D008353
+CANDIDATE	id:8353	inCount:51	outCount:1	links:	url:D008353	name:Mannitol	normalName:mannitol	normalWikiTitle:mannitol	predictedType:Chemical

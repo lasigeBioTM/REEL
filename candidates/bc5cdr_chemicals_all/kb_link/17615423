@@ -1,0 +1,16 @@
+ENTITY	text:amiodarone	normalName:amiodarone	predictedType:chemical	q:true	qid:Q1325	docId:17615423	origText:amiodarone	url:D000638
+CANDIDATE	id:638	inCount:17	outCount:1	links:	url:D000638	name:Amiodarone	normalName:amiodarone	normalWikiTitle:amiodarone	predictedType:Chemical
+ENTITY	text:aspartate	normalName:aspartate	predictedType:chemical	q:true	qid:Q1325	docId:17615423	origText:aspartate	url:D001224
+CANDIDATE	id:1224	inCount:112	outCount:3	links:	url:D001224	name:Aspartate	normalName:aspartate	normalWikiTitle:aspartate	predictedType:Chemical
+ENTITY	text:simvastatin	normalName:simvastatin	predictedType:chemical	q:true	qid:Q1325	docId:17615423	origText:simvastatin	url:D019821
+CANDIDATE	id:19821	inCount:7	outCount:1	links:	url:D019821	name:Simvastatin	normalName:simvastatin	normalWikiTitle:simvastatin	predictedType:Chemical
+ENTITY	text:pravastatin	normalName:pravastatin	predictedType:chemical	q:true	qid:Q1325	docId:17615423	origText:pravastatin	url:D017035
+CANDIDATE	id:17035	inCount:7	outCount:1	links:	url:D017035	name:Pravastatin	normalName:pravastatin	normalWikiTitle:pravastatin	predictedType:Chemical
+ENTITY	text:creatinine	normalName:creatinine	predictedType:chemical	q:true	qid:Q1325	docId:17615423	origText:creatinine	url:D003404
+CANDIDATE	id:3404	inCount:8	outCount:1	links:	url:D003404	name:Creatinine	normalName:creatinine	normalWikiTitle:creatinine	predictedType:Chemical
+ENTITY	text:alanine	normalName:alanine	predictedType:chemical	q:true	qid:Q1325	docId:17615423	origText:alanine	url:D000409
+CANDIDATE	id:409	inCount:359	outCount:1	links:	url:D000409	name:Alanine	normalName:alanine	normalWikiTitle:alanine	predictedType:Chemical
+ENTITY	text:creatine	normalName:creatine	predictedType:chemical	q:true	qid:Q1325	docId:17615423	origText:creatine	url:D003401
+CANDIDATE	id:3401	inCount:7	outCount:2	links:	url:D003401	name:Creatine	normalName:creatine	normalWikiTitle:creatine	predictedType:Chemical
+ENTITY	text:lovastatin	normalName:lovastatin	predictedType:chemical	q:true	qid:Q1325	docId:17615423	origText:lovastatin	url:D008148
+CANDIDATE	id:8148	inCount:14	outCount:1	links:	url:D008148	name:Lovastatin	normalName:lovastatin	normalWikiTitle:lovastatin	predictedType:Chemical

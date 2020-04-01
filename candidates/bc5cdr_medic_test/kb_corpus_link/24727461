@@ -1,0 +1,57 @@
+ENTITY	text:breast cancer	normalName:breast cancer	predictedType:disease	q:true	qid:Q66	docId:24727461	origText:breast cancer	url:D001943
+CANDIDATE	id:1943	inCount:19	outCount:2	links:1943;2318	url:D001943	name:Breast Cancer	normalName:breast cancer	normalWikiTitle:breast cancer	predictedType:Disease
+ENTITY	text:cardiotoxicity	normalName:cardiotoxicity	predictedType:disease	q:true	qid:Q66	docId:24727461	origText:cardiotoxicity	url:D066126
+CANDIDATE	id:66126	inCount:0	outCount:3	links:6323;6333;66126;6331;28361	url:D066126	name:Cardiotoxicity	normalName:cardiotoxicity	normalWikiTitle:cardiotoxicity	predictedType:Disease
+ENTITY	text:Cardiac disturbances	normalName:cardiac disturbances	predictedType:disease	q:true	qid:Q66	docId:24727461	origText:Cardiac disturbances	url:D006331
+CANDIDATE	id:6331	inCount:29	outCount:1	links:6333;66126;6331;28361	url:D006331	name:Cardiac Disease	normalName:cardiac disease	normalWikiTitle:cardiac disease	predictedType:Disease
+CANDIDATE	id:2305	inCount:0	outCount:1	links:	url:D002305	name:Cardiac Tamponade	normalName:cardiac tamponade	normalWikiTitle:cardiac tamponade	predictedType:Disease
+CANDIDATE	id:2318	inCount:5	outCount:1	links:1943;2318	url:D002318	name:Cardiovascular Diseases	normalName:cardiovascular diseases	normalWikiTitle:cardiovascular diseases	predictedType:Disease
+CANDIDATE	id:2357	inCount:10	outCount:2	links:	url:D002357	name:Cartilage Diseases	normalName:cartilage diseases	normalWikiTitle:cartilage diseases	predictedType:Disease
+CANDIDATE	id:1018	inCount:6	outCount:1	links:	url:D001018	name:Aortic Diseases	normalName:aortic diseases	normalWikiTitle:aortic diseases	predictedType:Disease
+CANDIDATE	id:563039	inCount:0	outCount:1	links:	url:C563039	name:Coumarin Resistance	normalName:coumarin resistance	normalWikiTitle:coumarin resistance	predictedType:Disease
+CANDIDATE	id:4489	inCount:0	outCount:2	links:	url:D004489	name:Edema, Cardiac	normalName:edema, cardiac	normalWikiTitle:edema, cardiac	predictedType:Disease
+CANDIDATE	id:535464	inCount:1	outCount:1	links:	url:C535464	name:Conotruncal cardiac defects	normalName:conotruncal cardiac defects	normalWikiTitle:conotruncal cardiac defects	predictedType:Disease
+CANDIDATE	id:16757	inCount:4	outCount:2	links:	url:D016757	name:Death, Sudden, Cardiac	normalName:death, sudden, cardiac	normalWikiTitle:death, sudden, cardiac	predictedType:Disease
+CANDIDATE	id:2446	inCount:0	outCount:1	links:	url:D002446	name:Celiac Disease	normalName:celiac disease	normalWikiTitle:celiac disease	predictedType:Disease
+CANDIDATE	id:16767	inCount:1	outCount:2	links:	url:D016767	name:Caroli Disease	normalName:caroli disease	normalWikiTitle:caroli disease	predictedType:Disease
+CANDIDATE	id:6331	inCount:29	outCount:1	links:6333;66126;6331;28361	url:D006331	name:Diseases, Cardiac	normalName:diseases, cardiac	normalWikiTitle:diseases, cardiac	predictedType:Disease
+CANDIDATE	id:6331	inCount:29	outCount:1	links:6333;66126;6331;28361	url:D006331	name:Cardiac Diseases	normalName:cardiac diseases	normalWikiTitle:cardiac diseases	predictedType:Disease
+CANDIDATE	id:6331	inCount:29	outCount:1	links:6333;66126;6331;28361	url:D006331	name:Disease, Cardiac	normalName:disease, cardiac	normalWikiTitle:disease, cardiac	predictedType:Disease
+CANDIDATE	id:6341	inCount:1	outCount:1	links:	url:D006341	name:Cardiac Ruptures	normalName:cardiac ruptures	normalWikiTitle:cardiac ruptures	predictedType:Disease
+CANDIDATE	id:6338	inCount:2	outCount:2	links:	url:D006338	name:Cardiac Tumors	normalName:cardiac tumors	normalWikiTitle:cardiac tumors	predictedType:Disease
+CANDIDATE	id:6338	inCount:2	outCount:2	links:	url:D006338	name:Tumors, Cardiac	normalName:tumors, cardiac	normalWikiTitle:tumors, cardiac	predictedType:Disease
+CANDIDATE	id:6341	inCount:1	outCount:1	links:	url:D006341	name:Cardiac Rupture	normalName:cardiac rupture	normalWikiTitle:cardiac rupture	predictedType:Disease
+CANDIDATE	id:6333	inCount:5	outCount:1	links:6333;66126;6331;28361	url:D006333	name:Cardiac Failure	normalName:cardiac failure	normalWikiTitle:cardiac failure	predictedType:Disease
+CANDIDATE	id:2305	inCount:0	outCount:1	links:	url:D002305	name:Tamponades, Cardiac	normalName:tamponades, cardiac	normalWikiTitle:tamponades, cardiac	predictedType:Disease
+ENTITY	text:cardiac toxicity	normalName:cardiac toxicity	predictedType:disease	q:true	qid:Q66	docId:24727461	origText:cardiac toxicity	url:D066126
+CANDIDATE	id:66126	inCount:0	outCount:3	links:6323;6333;66126;6331;28361	url:D066126	name:Cardiac Toxicity	normalName:cardiac toxicity	normalWikiTitle:cardiac toxicity	predictedType:Disease
+ENTITY	text:breast tumors	normalName:breast tumors	predictedType:disease	q:true	qid:Q66	docId:24727461	origText:breast tumors	url:D001943
+CANDIDATE	id:1943	inCount:19	outCount:2	links:1943;2318	url:D001943	name:Tumors, Breast	normalName:tumors, breast	normalWikiTitle:tumors, breast	predictedType:Disease
+ENTITY	text:cancer	normalName:cancer	predictedType:disease	q:true	qid:Q66	docId:24727461	origText:cancer	url:D009369
+CANDIDATE	id:9369	inCount:18	outCount:1	links:	url:D009369	name:Cancer	normalName:cancer	normalWikiTitle:cancer	predictedType:Disease
+ENTITY	text:cardiovascular disease	normalName:cardiovascular disease	predictedType:disease	q:true	qid:Q66	docId:24727461	origText:cardiovascular disease	url:D002318
+CANDIDATE	id:2318	inCount:5	outCount:1	links:1943;2318	url:D002318	name:Disease, Cardiovascular	normalName:disease, cardiovascular	normalWikiTitle:disease, cardiovascular	predictedType:Disease
+ENTITY	text:heart damage	normalName:heart damage	predictedType:disease	q:true	qid:Q66	docId:24727461	origText:heart damage	url:D006331
+CANDIDATE	id:6331	inCount:29	outCount:1	links:6333;66126;6331;28361	url:D006331	name:Disease, Heart	normalName:disease, heart	normalWikiTitle:disease, heart	predictedType:Disease
+CANDIDATE	id:6331	inCount:29	outCount:1	links:6333;66126;6331;28361	url:D006331	name:Heart Diseases	normalName:heart diseases	normalWikiTitle:heart diseases	predictedType:Disease
+CANDIDATE	id:6323	inCount:2	outCount:1	links:66126	url:D006323	name:Heart Arrest	normalName:heart arrest	normalWikiTitle:heart arrest	predictedType:Disease
+CANDIDATE	id:6333	inCount:5	outCount:1	links:6333;66126;6331;28361	url:D006333	name:Heart Failure	normalName:heart failure	normalWikiTitle:heart failure	predictedType:Disease
+CANDIDATE	id:6322	inCount:0	outCount:2	links:	url:D006322	name:Heart Aneurysm	normalName:heart aneurysm	normalWikiTitle:heart aneurysm	predictedType:Disease
+CANDIDATE	id:6357	inCount:0	outCount:3	links:	url:D006357	name:Heartwater Disease	normalName:heartwater disease	normalWikiTitle:heartwater disease	predictedType:Disease
+CANDIDATE	id:6250	inCount:0	outCount:3	links:	url:D006250	name:Hartnup Disease	normalName:hartnup disease	normalWikiTitle:hartnup disease	predictedType:Disease
+CANDIDATE	id:4427	inCount:21	outCount:1	links:	url:D004427	name:Ear Diseases	normalName:ear diseases	normalWikiTitle:ear diseases	predictedType:Disease
+CANDIDATE	id:6520	inCount:1	outCount:2	links:	url:D006520	name:Hepatitis, Animal	normalName:hepatitis, animal	normalWikiTitle:hepatitis, animal	predictedType:Disease
+CANDIDATE	id:54144	inCount:0	outCount:1	links:	url:D054144	name:Heart Failure, Diastolic	normalName:heart failure, diastolic	normalWikiTitle:heart failure, diastolic	predictedType:Disease
+CANDIDATE	id:6201	inCount:49	outCount:1	links:	url:D006201	name:Hair Diseases	normalName:hair diseases	normalWikiTitle:hair diseases	predictedType:Disease
+CANDIDATE	id:6331	inCount:29	outCount:1	links:6333;66126;6331;28361	url:D006331	name:Heart Disease	normalName:heart disease	normalWikiTitle:heart disease	predictedType:Disease
+ENTITY	text:mitochondrial dysfunction	normalName:mitochondrial dysfunction	predictedType:disease	q:true	qid:Q66	docId:24727461	origText:mitochondrial dysfunction	url:D028361
+CANDIDATE	id:28361	inCount:64	outCount:1	links:6333;66126;6331	url:D028361	name:Mitochondrial Diseases	normalName:mitochondrial diseases	normalWikiTitle:mitochondrial diseases	predictedType:Disease
+CANDIDATE	id:565304	inCount:1	outCount:1	links:	url:C565304	name:Multiple Mitochondrial Dysfunctions Syndrome	normalName:multiple mitochondrial dysfunctions syndrome	normalWikiTitle:multiple mitochondrial dysfunctions syndrome	predictedType:Disease
+CANDIDATE	id:540770	inCount:0	outCount:2	links:	url:C540770	name:Mitochondrial cytopathy	normalName:mitochondrial cytopathy	normalWikiTitle:mitochondrial cytopathy	predictedType:Disease
+CANDIDATE	id:64706	inCount:1	outCount:2	links:	url:D064706	name:Vocal Cord Dysfunction	normalName:vocal cord dysfunction	normalWikiTitle:vocal cord dysfunction	predictedType:Disease
+CANDIDATE	id:18497	inCount:0	outCount:1	links:	url:D018497	name:Ventricular Dysfunction, Right	normalName:ventricular dysfunction, right	normalWikiTitle:ventricular dysfunction, right	predictedType:Disease
+CANDIDATE	id:18754	inCount:2	outCount:1	links:	url:D018754	name:Ventricular Dysfunction	normalName:ventricular dysfunction	normalWikiTitle:ventricular dysfunction	predictedType:Disease
+CANDIDATE	id:7172	inCount:1	outCount:2	links:	url:D007172	name:Erectile Dysfunction	normalName:erectile dysfunction	normalWikiTitle:erectile dysfunction	predictedType:Disease
+CANDIDATE	id:537475	inCount:0	outCount:1	links:	url:C537475	name:Mitochondrial complex I deficiency	normalName:mitochondrial complex i deficiency	normalWikiTitle:mitochondrial complex i deficiency	predictedType:Disease
+CANDIDATE	id:55031	inCount:0	outCount:1	links:	url:D055031	name:Primary Graft Dysfunction	normalName:primary graft dysfunction	normalWikiTitle:primary graft dysfunction	predictedType:Disease
+CANDIDATE	id:538525	inCount:0	outCount:1	links:	url:C538525	name:Mitochondrial encephalopathy	normalName:mitochondrial encephalopathy	normalWikiTitle:mitochondrial encephalopathy	predictedType:Disease

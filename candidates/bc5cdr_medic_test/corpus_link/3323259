@@ -1,0 +1,26 @@
+ENTITY	text:headache	normalName:headache	predictedType:disease	q:true	qid:Q95	docId:3323259	origText:headache	url:D006261
+CANDIDATE	id:6261	inCount:2	outCount:1	links:6973;855;5483;4487;9325;4244	url:D006261	name:Headache	normalName:headache	normalWikiTitle:headache	predictedType:Disease
+ENTITY	text:dementia	normalName:dementia	predictedType:disease	q:true	qid:Q95	docId:3323259	origText:dementia	url:D003704
+CANDIDATE	id:3704	inCount:25	outCount:2	links:2318;20521	url:D003704	name:Dementia	normalName:dementia	normalWikiTitle:dementia	predictedType:Disease
+ENTITY	text:cardiovascular disease	normalName:cardiovascular disease	predictedType:disease	q:true	qid:Q95	docId:3323259	origText:cardiovascular disease	url:D002318
+CANDIDATE	id:2318	inCount:5	outCount:1	links:3704;20521	url:D002318	name:Disease, Cardiovascular	normalName:disease, cardiovascular	normalWikiTitle:disease, cardiovascular	predictedType:Disease
+ENTITY	text:nausea	normalName:nausea	predictedType:disease	q:true	qid:Q95	docId:3323259	origText:nausea	url:D009325
+CANDIDATE	id:9325	inCount:2	outCount:1	links:5483;6261;4244;4487;855	url:D009325	name:Nausea	normalName:nausea	normalWikiTitle:nausea	predictedType:Disease
+ENTITY	text:hypertension	normalName:hypertension	predictedType:disease	q:true	qid:Q95	docId:3323259	origText:hypertension	url:D006973
+CANDIDATE	id:6973	inCount:18	outCount:1	links:6261;13345	url:D006973	name:Hypertension	normalName:hypertension	normalWikiTitle:hypertension	predictedType:Disease
+ENTITY	text:cardiovascular diseases	normalName:cardiovascular diseases	predictedType:disease	q:true	qid:Q95	docId:3323259	origText:cardiovascular diseases	url:D002318
+CANDIDATE	id:2318	inCount:5	outCount:1	links:3704;20521	url:D002318	name:Disease, Cardiovascular	normalName:disease, cardiovascular	normalWikiTitle:disease, cardiovascular	predictedType:Disease
+ENTITY	text:anorexia	normalName:anorexia	predictedType:disease	q:true	qid:Q95	docId:3323259	origText:anorexia	url:D000855
+CANDIDATE	id:855	inCount:1	outCount:1	links:5483;4487;6261;4244;9325	url:D000855	name:Anorexia	normalName:anorexia	normalWikiTitle:anorexia	predictedType:Disease
+ENTITY	text:migraine headache	normalName:migraine headache	predictedType:disease	q:true	qid:Q95	docId:3323259	origText:migraine headache	url:D008881
+CANDIDATE	id:8881	inCount:9	outCount:1	links:	url:D008881	name:Headache, Migraine	normalName:headache, migraine	normalWikiTitle:headache, migraine	predictedType:Disease
+ENTITY	text:dizziness	normalName:dizziness	predictedType:disease	q:true	qid:Q95	docId:3323259	origText:dizziness	url:D004244
+CANDIDATE	id:4244	inCount:1	outCount:1	links:5483;4487;6261;9325;855	url:D004244	name:Dizziness	normalName:dizziness	normalWikiTitle:dizziness	predictedType:Disease
+ENTITY	text:edema	normalName:edema	predictedType:disease	q:true	qid:Q95	docId:3323259	origText:edema	url:D004487
+CANDIDATE	id:4487	inCount:6	outCount:1	links:5483;6261;4244;9325;855	url:D004487	name:Edema	normalName:edema	normalWikiTitle:edema	predictedType:Disease
+ENTITY	text:flushing	normalName:flushing	predictedType:disease	q:true	qid:Q95	docId:3323259	origText:flushing	url:D005483
+CANDIDATE	id:5483	inCount:2	outCount:1	links:4487;6261;4244;9325;855	url:D005483	name:Flushing	normalName:flushing	normalWikiTitle:flushing	predictedType:Disease
+ENTITY	text:stroke	normalName:stroke	predictedType:disease	q:true	qid:Q95	docId:3323259	origText:stroke	url:D020521
+CANDIDATE	id:20521	inCount:2	outCount:1	links:3704;2318	url:D020521	name:Stroke	normalName:stroke	normalWikiTitle:stroke	predictedType:Disease
+ENTITY	text:subarachnoid hemorrhage	normalName:subarachnoid hemorrhage	predictedType:disease	q:true	qid:Q95	docId:3323259	origText:subarachnoid hemorrhage	url:D013345
+CANDIDATE	id:13345	inCount:7	outCount:1	links:6973	url:D013345	name:Subarachnoid Hemorrhage	normalName:subarachnoid hemorrhage	normalWikiTitle:subarachnoid hemorrhage	predictedType:Disease

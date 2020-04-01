@@ -1,0 +1,21 @@
+ENTITY	text:syndrome of obstructive sleep apnea	normalName:syndrome of obstructive sleep apnea	predictedType:disease	q:true	qid:Q337	docId:6732043	origText:syndrome of obstructive sleep apnea	url:D020181
+CANDIDATE	id:20181	inCount:1	outCount:1	links:20181	url:D020181	name:Syndrome, Sleep Apnea, Obstructive	normalName:syndrome, sleep apnea, obstructive	normalWikiTitle:syndrome, sleep apnea, obstructive	predictedType:Disease
+CANDIDATE	id:20181	inCount:1	outCount:1	links:20181	url:D020181	name:Sleep Apnea, Obstructive	normalName:sleep apnea, obstructive	normalWikiTitle:sleep apnea, obstructive	predictedType:Disease
+CANDIDATE	id:12891	inCount:3	outCount:2	links:12891	url:D012891	name:Sleep Apnea Syndromes	normalName:sleep apnea syndromes	normalWikiTitle:sleep apnea syndromes	predictedType:Disease
+CANDIDATE	id:564650	inCount:0	outCount:2	links:	url:C564650	name:Carney-Stratakis Syndrome	normalName:carney-stratakis syndrome	normalWikiTitle:carney-stratakis syndrome	predictedType:Disease
+CANDIDATE	id:4370	inCount:2	outCount:2	links:	url:D004370	name:Duane Retraction Syndrome	normalName:duane retraction syndrome	normalWikiTitle:duane retraction syndrome	predictedType:Disease
+CANDIDATE	id:535963	inCount:0	outCount:4	links:	url:C535963	name:Cole Carpenter syndrome	normalName:cole carpenter syndrome	normalWikiTitle:cole carpenter syndrome	predictedType:Disease
+CANDIDATE	id:565607	inCount:0	outCount:4	links:	url:C565607	name:Schopf-Schulz-Passarge Syndrome	normalName:schopf-schulz-passarge syndrome	normalWikiTitle:schopf-schulz-passarge syndrome	predictedType:Disease
+CANDIDATE	id:565129	inCount:0	outCount:4	links:	url:C565129	name:Cutis Gyrata Syndrome of Beare And Stevenson	normalName:cutis gyrata syndrome of beare and stevenson	normalWikiTitle:cutis gyrata syndrome of beare and stevenson	predictedType:Disease
+CANDIDATE	id:567172	inCount:0	outCount:1	links:	url:C567172	name:Osteopenic Nonfracture Syndrome	normalName:osteopenic nonfracture syndrome	normalWikiTitle:osteopenic nonfracture syndrome	predictedType:Disease
+CANDIDATE	id:535651	inCount:0	outCount:4	links:	url:C535651	name:Gastrocutaneous syndrome	normalName:gastrocutaneous syndrome	normalWikiTitle:gastrocutaneous syndrome	predictedType:Disease
+CANDIDATE	id:565789	inCount:0	outCount:1	links:	url:C565789	name:Advanced Sleep-Phase Syndrome, Familial	normalName:advanced sleep-phase syndrome, familial	normalWikiTitle:advanced sleep-phase syndrome, familial	predictedType:Disease
+CANDIDATE	id:20181	inCount:1	outCount:1	links:20181	url:D020181	name:Syndrome, Obstructive Sleep Apnea	normalName:syndrome, obstructive sleep apnea	normalWikiTitle:syndrome, obstructive sleep apnea	predictedType:Disease
+CANDIDATE	id:20181	inCount:1	outCount:1	links:20181	url:D020181	name:Sleep Apnea Syndrome, Obstructive	normalName:sleep apnea syndrome, obstructive	normalWikiTitle:sleep apnea syndrome, obstructive	predictedType:Disease
+CANDIDATE	id:20181	inCount:1	outCount:1	links:20181	url:D020181	name:Obstructive Sleep Apnea Syndrome	normalName:obstructive sleep apnea syndrome	normalWikiTitle:obstructive sleep apnea syndrome	predictedType:Disease
+ENTITY	text:obstructive sleep apnea syndrome	normalName:obstructive sleep apnea syndrome	predictedType:disease	q:true	qid:Q337	docId:6732043	origText:obstructive sleep apnea syndrome	url:D020181
+CANDIDATE	id:20181	inCount:1	outCount:1	links:20181	url:D020181	name:Syndrome, Sleep Apnea, Obstructive	normalName:syndrome, sleep apnea, obstructive	normalWikiTitle:syndrome, sleep apnea, obstructive	predictedType:Disease
+ENTITY	text:obstructive sleep apnea	normalName:obstructive sleep apnea	predictedType:disease	q:true	qid:Q337	docId:6732043	origText:obstructive sleep apnea	url:D020181
+CANDIDATE	id:20181	inCount:1	outCount:1	links:20181	url:D020181	name:Sleep Apnea, Obstructive	normalName:sleep apnea, obstructive	normalWikiTitle:sleep apnea, obstructive	predictedType:Disease
+ENTITY	text:sleep apnea	normalName:sleep apnea	predictedType:disease	q:true	qid:Q337	docId:6732043	origText:sleep apnea	url:D012891
+CANDIDATE	id:12891	inCount:3	outCount:2	links:12891	url:D012891	name:Apnea, Sleep	normalName:apnea, sleep	normalWikiTitle:apnea, sleep	predictedType:Disease

@@ -1,0 +1,17 @@
+ENTITY	text:hemorrhage	normalName:hemorrhage	predictedType:disease	q:true	qid:Q386	docId:15276120	origText:hemorrhage	url:D006470
+CANDIDATE	id:6470	inCount:31	outCount:1	links:6470;20300	url:D006470	name:Hemorrhage	normalName:hemorrhage	normalWikiTitle:hemorrhage	predictedType:Disease
+ENTITY	text:intracranial bleeding	normalName:intracranial bleeding	predictedType:disease	q:true	qid:Q386	docId:15276120	origText:intracranial bleeding	url:D020300
+CANDIDATE	id:20300	inCount:7	outCount:2	links:6470	url:D020300	name:Intracranial Hemorrhages	normalName:intracranial hemorrhages	normalWikiTitle:intracranial hemorrhages	predictedType:Disease
+CANDIDATE	id:20766	inCount:0	outCount:1	links:	url:D020766	name:Intracranial Embolism	normalName:intracranial embolism	normalWikiTitle:intracranial embolism	predictedType:Disease
+CANDIDATE	id:19586	inCount:2	outCount:1	links:	url:D019586	name:Intracranial Hypertension	normalName:intracranial hypertension	normalWikiTitle:intracranial hypertension	predictedType:Disease
+CANDIDATE	id:19585	inCount:0	outCount:1	links:	url:D019585	name:Intracranial Hypotension	normalName:intracranial hypotension	normalWikiTitle:intracranial hypotension	predictedType:Disease
+CANDIDATE	id:2532	inCount:11	outCount:2	links:	url:D002532	name:Intracranial Aneurysm	normalName:intracranial aneurysm	normalWikiTitle:intracranial aneurysm	predictedType:Disease
+CANDIDATE	id:2537	inCount:1	outCount:2	links:	url:D002537	name:Intracranial Arteriosclerosis	normalName:intracranial arteriosclerosis	normalWikiTitle:intracranial arteriosclerosis	predictedType:Disease
+CANDIDATE	id:20765	inCount:4	outCount:1	links:	url:D020765	name:Intracranial Arterial Diseases	normalName:intracranial arterial diseases	normalWikiTitle:intracranial arterial diseases	predictedType:Disease
+CANDIDATE	id:74021	inCount:0	outCount:1	links:	url:D000074021	name:Interatrial Block	normalName:interatrial block	normalWikiTitle:interatrial block	predictedType:Disease
+CANDIDATE	id:566284	inCount:0	outCount:2	links:	url:C566284	name:Aneurysm, Intracranial Berry, 1	normalName:aneurysm, intracranial berry, 1	normalWikiTitle:aneurysm, intracranial berry, 1	predictedType:Disease
+CANDIDATE	id:567406	inCount:0	outCount:2	links:	url:C567406	name:Aneurysm, Intracranial Berry, 7	normalName:aneurysm, intracranial berry, 7	normalWikiTitle:aneurysm, intracranial berry, 7	predictedType:Disease
+CANDIDATE	id:1929	inCount:2	outCount:1	links:	url:D001929	name:Intracranial Edema	normalName:intracranial edema	normalWikiTitle:intracranial edema	predictedType:Disease
+CANDIDATE	id:1929	inCount:2	outCount:1	links:	url:D001929	name:Edema, Intracranial	normalName:edema, intracranial	normalWikiTitle:edema, intracranial	predictedType:Disease
+ENTITY	text:bleeding	normalName:bleeding	predictedType:disease	q:true	qid:Q386	docId:15276120	origText:bleeding	url:D006470
+CANDIDATE	id:6470	inCount:31	outCount:1	links:6470;20300	url:D006470	name:Bleeding	normalName:bleeding	normalWikiTitle:bleeding	predictedType:Disease

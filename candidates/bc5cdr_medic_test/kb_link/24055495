@@ -1,0 +1,43 @@
+ENTITY	text:dementia	normalName:dementia	predictedType:disease	q:true	qid:Q377	docId:24055495	origText:dementia	url:D003704
+CANDIDATE	id:3704	inCount:25	outCount:2	links:	url:D003704	name:Dementia	normalName:dementia	normalWikiTitle:dementia	predictedType:Disease
+ENTITY	text:AD	normalName:ad	predictedType:disease	q:true	qid:Q377	docId:24055495	origText:AD	url:D000544
+CANDIDATE	id:544	inCount:26	outCount:2	links:544	url:D000544	name:AD	normalName:ad	normalWikiTitle:ad	predictedType:Disease
+ENTITY	text:Alzheimer's disease	normalName:alzheimer's disease	predictedType:disease	q:true	qid:Q377	docId:24055495	origText:Alzheimer's disease	url:D000544
+CANDIDATE	id:544	inCount:26	outCount:2	links:544	url:D000544	name:Alzheimer's Disease	normalName:alzheimer's disease	normalWikiTitle:alzheimer's disease	predictedType:Disease
+ENTITY	text:cognitive deficits	normalName:cognitive deficits	predictedType:disease	q:true	qid:Q377	docId:24055495	origText:cognitive deficits	url:D003072
+CANDIDATE	id:3072	inCount:8	outCount:1	links:	url:D003072	name:Cognition Disorders	normalName:cognition disorders	normalWikiTitle:cognition disorders	predictedType:Disease
+CANDIDATE	id:60825	inCount:0	outCount:1	links:60825	url:D060825	name:Cognitive Dysfunction	normalName:cognitive dysfunction	normalWikiTitle:cognitive dysfunction	predictedType:Disease
+CANDIDATE	id:10494	inCount:0	outCount:1	links:	url:D010494	name:Pericarditis, Constrictive	normalName:pericarditis, constrictive	normalWikiTitle:pericarditis, constrictive	predictedType:Disease
+CANDIDATE	id:562600	inCount:0	outCount:1	links:	url:C562600	name:Lactase Deficiency, Congenital	normalName:lactase deficiency, congenital	normalWikiTitle:lactase deficiency, congenital	predictedType:Disease
+CANDIDATE	id:300082	inCount:0	outCount:1	links:	url:300082	name:COGNITIVE FUNCTION 1, SOCIAL	normalName:cognitive function 1, social	normalWikiTitle:cognitive function 1, social	predictedType:Disease
+CANDIDATE	id:6330	inCount:140	outCount:2	links:	url:D006330	name:Heart Defects, Congenital	normalName:heart defects, congenital	normalWikiTitle:heart defects, congenital	predictedType:Disease
+CANDIDATE	id:2796	inCount:0	outCount:1	links:	url:D002796	name:Choline Deficiency	normalName:choline deficiency	normalWikiTitle:choline deficiency	predictedType:Disease
+CANDIDATE	id:536778	inCount:0	outCount:3	links:	url:C536778	name:Systemic carnitine deficiency	normalName:systemic carnitine deficiency	normalWikiTitle:systemic carnitine deficiency	predictedType:Disease
+CANDIDATE	id:4239	inCount:0	outCount:2	links:	url:D004239	name:Diverticulitis, Colonic	normalName:diverticulitis, colonic	normalWikiTitle:diverticulitis, colonic	predictedType:Disease
+CANDIDATE	id:536006	inCount:0	outCount:1	links:	url:C536006	name:Acetylcarnitine deficiency	normalName:acetylcarnitine deficiency	normalWikiTitle:acetylcarnitine deficiency	predictedType:Disease
+CANDIDATE	id:60825	inCount:0	outCount:1	links:60825	url:D060825	name:Cognitive Declines	normalName:cognitive declines	normalWikiTitle:cognitive declines	predictedType:Disease
+CANDIDATE	id:60825	inCount:0	outCount:1	links:60825	url:D060825	name:Declines, Cognitive	normalName:declines, cognitive	normalWikiTitle:declines, cognitive	predictedType:Disease
+CANDIDATE	id:60825	inCount:0	outCount:1	links:60825	url:D060825	name:Cognitive Decline	normalName:cognitive decline	normalWikiTitle:cognitive decline	predictedType:Disease
+CANDIDATE	id:60825	inCount:0	outCount:1	links:60825	url:D060825	name:Decline, Cognitive	normalName:decline, cognitive	normalWikiTitle:decline, cognitive	predictedType:Disease
+CANDIDATE	id:60825	inCount:0	outCount:1	links:60825	url:D060825	name:Dysfunctions, Cognitive	normalName:dysfunctions, cognitive	normalWikiTitle:dysfunctions, cognitive	predictedType:Disease
+CANDIDATE	id:60825	inCount:0	outCount:1	links:60825	url:D060825	name:Cognitive Dysfunctions	normalName:cognitive dysfunctions	normalWikiTitle:cognitive dysfunctions	predictedType:Disease
+ENTITY	text:memory deterioration	normalName:memory deterioration	predictedType:disease	q:true	qid:Q377	docId:24055495	origText:memory deterioration	url:D008569
+CANDIDATE	id:8569	inCount:2	outCount:1	links:	url:D008569	name:Deficit, Memory	normalName:deficit, memory	normalWikiTitle:deficit, memory	predictedType:Disease
+CANDIDATE	id:10439	inCount:0	outCount:1	links:	url:D010439	name:Peptic Ulcer Perforation	normalName:peptic ulcer perforation	normalWikiTitle:peptic ulcer perforation	predictedType:Disease
+CANDIDATE	id:9410	inCount:6	outCount:1	links:	url:D009410	name:Nerve Degeneration	normalName:nerve degeneration	normalWikiTitle:nerve degeneration	predictedType:Disease
+CANDIDATE	id:75902	inCount:0	outCount:1	links:	url:D000075902	name:Clinical Deterioration	normalName:clinical deterioration	normalWikiTitle:clinical deterioration	predictedType:Disease
+CANDIDATE	id:14595	inCount:0	outCount:1	links:	url:D014595	name:Uterine Perforation	normalName:uterine perforation	normalWikiTitle:uterine perforation	predictedType:Disease
+CANDIDATE	id:8569	inCount:2	outCount:1	links:	url:D008569	name:Memory Disorders	normalName:memory disorders	normalWikiTitle:memory disorders	predictedType:Disease
+CANDIDATE	id:12183	inCount:0	outCount:1	links:	url:D012183	name:Retrograde Degeneration	normalName:retrograde degeneration	normalWikiTitle:retrograde degeneration	predictedType:Disease
+CANDIDATE	id:8268	inCount:33	outCount:1	links:	url:D008268	name:Macular Degeneration	normalName:macular degeneration	normalWikiTitle:macular degeneration	predictedType:Disease
+CANDIDATE	id:12892	inCount:0	outCount:2	links:	url:D012892	name:Sleep Deprivation	normalName:sleep deprivation	normalWikiTitle:sleep deprivation	predictedType:Disease
+CANDIDATE	id:565430	inCount:0	outCount:1	links:	url:C565430	name:Lymphoid System Deterioration, Progressive	normalName:lymphoid system deterioration, progressive	normalWikiTitle:lymphoid system deterioration, progressive	predictedType:Disease
+CANDIDATE	id:17001	inCount:2	outCount:1	links:	url:D017001	name:Tooth Demineralization	normalName:tooth demineralization	normalWikiTitle:tooth demineralization	predictedType:Disease
+CANDIDATE	id:60825	inCount:0	outCount:1	links:60825	url:D060825	name:Mental Deterioration	normalName:mental deterioration	normalWikiTitle:mental deterioration	predictedType:Disease
+CANDIDATE	id:60825	inCount:0	outCount:1	links:60825	url:D060825	name:Deterioration, Mental	normalName:deterioration, mental	normalWikiTitle:deterioration, mental	predictedType:Disease
+CANDIDATE	id:60825	inCount:0	outCount:1	links:60825	url:D060825	name:Deteriorations, Mental	normalName:deteriorations, mental	normalWikiTitle:deteriorations, mental	predictedType:Disease
+CANDIDATE	id:60825	inCount:0	outCount:1	links:60825	url:D060825	name:Mental Deteriorations	normalName:mental deteriorations	normalWikiTitle:mental deteriorations	predictedType:Disease
+CANDIDATE	id:20964	inCount:2	outCount:2	links:	url:D020964	name:Embryo Disintegration	normalName:embryo disintegration	normalWikiTitle:embryo disintegration	predictedType:Disease
+CANDIDATE	id:20324	inCount:0	outCount:1	links:	url:D020324	name:Anterograde Memory Loss	normalName:anterograde memory loss	normalWikiTitle:anterograde memory loss	predictedType:Disease
+CANDIDATE	id:20324	inCount:0	outCount:1	links:	url:D020324	name:Memory Loss, Anterograde	normalName:memory loss, anterograde	normalWikiTitle:memory loss, anterograde	predictedType:Disease
+CANDIDATE	id:8569	inCount:2	outCount:1	links:	url:D008569	name:Memory Deficit	normalName:memory deficit	normalWikiTitle:memory deficit	predictedType:Disease

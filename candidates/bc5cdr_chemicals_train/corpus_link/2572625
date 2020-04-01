@@ -1,0 +1,16 @@
+ENTITY	text:benzodiazepines	normalName:benzodiazepines	predictedType:chemical	q:true	qid:Q110	docId:2572625	origText:benzodiazepines	url:D001569
+CANDIDATE	id:1569	inCount:260	outCount:1	links:	url:D001569	name:Benzodiazepine	normalName:benzodiazepine	normalWikiTitle:benzodiazepine	predictedType:Chemical
+ENTITY	text:Clotiazepam	normalName:clotiazepam	predictedType:chemical	q:true	qid:Q110	docId:2572625	origText:Clotiazepam	url:C084599
+CANDIDATE	id:84599	inCount:0	outCount:1	links:	url:C084599	name:clotiazepam	normalName:clotiazepam	normalWikiTitle:clotiazepam	predictedType:Chemical
+ENTITY	text:thienodiazepine	normalName:thienodiazepine	predictedType:chemical	q:true	qid:Q110	docId:2572625	origText:thienodiazepine	url:C013295
+CANDIDATE	id:13295	inCount:0	outCount:1	links:	url:C013295	name:thienodiazepine substance	normalName:thienodiazepine substance	normalWikiTitle:thienodiazepine substance	predictedType:Chemical
+CANDIDATE	id:1569	inCount:260	outCount:1	links:	url:D001569	name:Benzodiazepines	normalName:benzodiazepines	normalWikiTitle:benzodiazepines	predictedType:Chemical
+CANDIDATE	id:13841	inCount:78	outCount:2	links:	url:D013841	name:Thiazepines	normalName:thiazepines	normalWikiTitle:thiazepines	predictedType:Chemical
+CANDIDATE	id:1570	inCount:156	outCount:1	links:	url:D001570	name:Benzodiazepinones	normalName:benzodiazepinones	normalWikiTitle:benzodiazepinones	predictedType:Chemical
+CANDIDATE	id:13297	inCount:0	outCount:1	links:	url:C013297	name:thiodipin	normalName:thiodipin	normalWikiTitle:thiodipin	predictedType:Chemical
+CANDIDATE	id:13881	inCount:6	outCount:1	links:	url:D013881	name:Thioridazine	normalName:thioridazine	normalWikiTitle:thioridazine	predictedType:Chemical
+CANDIDATE	id:13829	inCount:58	outCount:1	links:	url:D013829	name:Thiadiazines	normalName:thiadiazines	normalWikiTitle:thiadiazines	predictedType:Chemical
+CANDIDATE	id:512397	inCount:0	outCount:1	links:	url:C512397	name:thienorphine	normalName:thienorphine	normalWikiTitle:thienorphine	predictedType:Chemical
+CANDIDATE	id:3987	inCount:9	outCount:2	links:	url:D003987	name:Dibenzothiazepines	normalName:dibenzothiazepines	normalWikiTitle:dibenzothiazepines	predictedType:Chemical
+CANDIDATE	id:28261	inCount:0	outCount:1	links:	url:C028261	name:kenazepine	normalName:kenazepine	normalWikiTitle:kenazepine	predictedType:Chemical
+CANDIDATE	id:1569	inCount:260	outCount:1	links:	url:D001569	name:Benzodiazepine	normalName:benzodiazepine	normalWikiTitle:benzodiazepine	predictedType:Chemical

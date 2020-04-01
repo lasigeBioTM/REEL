@@ -1,0 +1,51 @@
+ENTITY	text:sinoatrial block	normalName:sinoatrial block	predictedType:disease	q:true	qid:Q1369	docId:6529939	origText:sinoatrial block	url:D012848
+CANDIDATE	id:12848	inCount:1	outCount:1	links:12848	url:D012848	name:Sinoatrial Block	normalName:sinoatrial block	normalWikiTitle:sinoatrial block	predictedType:Disease
+ENTITY	text:conduction disorder	normalName:conduction disorder	predictedType:disease	q:true	qid:Q1369	docId:6529939	origText:conduction disorder	url:D019955
+CANDIDATE	id:19955	inCount:0	outCount:1	links:	url:D019955	name:Conduct Disorder	normalName:conduct disorder	normalWikiTitle:conduct disorder	predictedType:Disease
+CANDIDATE	id:3072	inCount:8	outCount:1	links:	url:D003072	name:Cognition Disorders	normalName:cognition disorders	normalWikiTitle:cognition disorders	predictedType:Disease
+CANDIDATE	id:3147	inCount:5	outCount:2	links:	url:D003147	name:Communication Disorders	normalName:communication disorders	normalWikiTitle:communication disorders	predictedType:Disease
+CANDIDATE	id:3291	inCount:0	outCount:1	links:	url:D003291	name:Conversion Disorder	normalName:conversion disorder	normalWikiTitle:conversion disorder	predictedType:Disease
+CANDIDATE	id:3244	inCount:1	outCount:2	links:	url:D003244	name:Consciousness Disorders	normalName:consciousness disorders	normalWikiTitle:consciousness disorders	predictedType:Disease
+CANDIDATE	id:3680	inCount:5	outCount:2	links:	url:D003680	name:Deglutition Disorders	normalName:deglutition disorders	normalWikiTitle:deglutition disorders	predictedType:Disease
+CANDIDATE	id:1184	inCount:1	outCount:1	links:	url:D001184	name:Articulation Disorders	normalName:articulation disorders	normalWikiTitle:articulation disorders	predictedType:Disease
+CANDIDATE	id:67404	inCount:0	outCount:1	links:	url:D000067404	name:Social Communication Disorder	normalName:social communication disorder	normalWikiTitle:social communication disorder	predictedType:Disease
+CANDIDATE	id:1778	inCount:21	outCount:1	links:	url:D001778	name:Blood Coagulation Disorders	normalName:blood coagulation disorders	normalWikiTitle:blood coagulation disorders	predictedType:Disease
+CANDIDATE	id:3130	inCount:0	outCount:1	links:	url:D003130	name:Combat Disorders	normalName:combat disorders	normalWikiTitle:combat disorders	predictedType:Disease
+ENTITY	text:S-A block	normalName:s-a block	predictedType:disease	q:true	qid:Q1369	docId:6529939	origText:S-A block	url:D012848
+CANDIDATE	id:12848	inCount:1	outCount:1	links:12848	url:D012848	name:Sinoatrial Block	normalName:sinoatrial block	normalWikiTitle:sinoatrial block	predictedType:Disease
+CANDIDATE	id:6327	inCount:13	outCount:2	links:	url:D006327	name:Heart Block	normalName:heart block	normalWikiTitle:heart block	predictedType:Disease
+CANDIDATE	id:55882	inCount:0	outCount:1	links:	url:D055882	name:Nevus, Halo	normalName:nevus, halo	normalWikiTitle:nevus, halo	predictedType:Disease
+CANDIDATE	id:54537	inCount:1	outCount:1	links:	url:D054537	name:AV Blocks	normalName:av blocks	normalWikiTitle:av blocks	predictedType:Disease
+CANDIDATE	id:54537	inCount:1	outCount:1	links:	url:D054537	name:Blocks, AV	normalName:blocks, av	normalWikiTitle:blocks, av	predictedType:Disease
+CANDIDATE	id:54537	inCount:1	outCount:1	links:	url:D054537	name:Block, AV	normalName:block, av	normalWikiTitle:block, av	predictedType:Disease
+CANDIDATE	id:54537	inCount:1	outCount:1	links:	url:D054537	name:AV Block	normalName:av block	normalWikiTitle:av block	predictedType:Disease
+CANDIDATE	id:14313	inCount:2	outCount:1	links:	url:D014313	name:Lock Jaw	normalName:lock jaw	normalWikiTitle:lock jaw	predictedType:Disease
+CANDIDATE	id:537032	inCount:0	outCount:2	links:	url:C537032	name:LOCS	normalName:locs	normalWikiTitle:locs	predictedType:Disease
+CANDIDATE	id:15508	inCount:0	outCount:2	links:	url:D015508	name:Nasal Blockage	normalName:nasal blockage	normalWikiTitle:nasal blockage	predictedType:Disease
+CANDIDATE	id:55191	inCount:0	outCount:1	links:	url:D055191	name:Block, Residual	normalName:block, residual	normalWikiTitle:block, residual	predictedType:Disease
+CANDIDATE	id:15508	inCount:0	outCount:2	links:	url:D015508	name:Blockage, Nasal	normalName:blockage, nasal	normalWikiTitle:blockage, nasal	predictedType:Disease
+CANDIDATE	id:55191	inCount:0	outCount:1	links:	url:D055191	name:Residual Block	normalName:residual block	normalWikiTitle:residual block	predictedType:Disease
+ENTITY	text:Alternating sinus rhythm	normalName:alternating sinus rhythm	predictedType:disease	q:true	qid:Q1369	docId:6529939	origText:Alternating sinus rhythm	url:D001146
+CANDIDATE	id:1146	inCount:2	outCount:1	links:	url:D001146	name:Arrhythmia, Sinus	normalName:arrhythmia, sinus	normalWikiTitle:arrhythmia, sinus	predictedType:Disease
+CANDIDATE	id:60487	inCount:0	outCount:1	links:	url:D060487	name:Alternariosis	normalName:alternariosis	normalWikiTitle:alternariosis	predictedType:Disease
+CANDIDATE	id:20227	inCount:0	outCount:1	links:	url:D020227	name:Lateral Sinus Thrombosis	normalName:lateral sinus thrombosis	normalWikiTitle:lateral sinus thrombosis	predictedType:Disease
+CANDIDATE	id:2341	inCount:0	outCount:2	links:	url:D002341	name:Carotid Artery Thrombosis	normalName:carotid artery thrombosis	normalWikiTitle:carotid artery thrombosis	predictedType:Disease
+CANDIDATE	id:71064	inCount:0	outCount:1	links:	url:D000071064	name:Alert Fatigue, Health Personnel	normalName:alert fatigue, health personnel	normalWikiTitle:alert fatigue, health personnel	predictedType:Disease
+CANDIDATE	id:171200	inCount:0	outCount:1	links:	url:171200	name:THIOUREA TASTING	normalName:thiourea tasting	normalWikiTitle:thiourea tasting	predictedType:Disease
+CANDIDATE	id:65631	inCount:2	outCount:2	links:	url:D065631	name:Rhinitis, Allergic	normalName:rhinitis, allergic	normalWikiTitle:rhinitis, allergic	predictedType:Disease
+CANDIDATE	id:566287	inCount:0	outCount:1	links:	url:C566287	name:Anal Sphincter Myopathy, Internal	normalName:anal sphincter myopathy, internal	normalWikiTitle:anal sphincter myopathy, internal	predictedType:Disease
+CANDIDATE	id:536589	inCount:0	outCount:1	links:	url:C536589	name:Alternating hemiplegia of childhood	normalName:alternating hemiplegia of childhood	normalWikiTitle:alternating hemiplegia of childhood	predictedType:Disease
+CANDIDATE	id:10032	inCount:0	outCount:1	links:	url:D010032	name:Otitis Externa	normalName:otitis externa	normalWikiTitle:otitis externa	predictedType:Disease
+ENTITY	text:sinoatrial (S-A) block	normalName:sinoatrial (s-a) block	predictedType:disease	q:true	qid:Q1369	docId:6529939	origText:sinoatrial (S-A) block	url:D012848
+CANDIDATE	id:12848	inCount:1	outCount:1	links:12848	url:D012848	name:Sinoatrial Blocks	normalName:sinoatrial blocks	normalWikiTitle:sinoatrial blocks	predictedType:Disease
+CANDIDATE	id:12848	inCount:1	outCount:1	links:12848	url:D012848	name:Sinoatrial Block	normalName:sinoatrial block	normalWikiTitle:sinoatrial block	predictedType:Disease
+CANDIDATE	id:74021	inCount:0	outCount:1	links:	url:D000074021	name:Interatrial Block	normalName:interatrial block	normalWikiTitle:interatrial block	predictedType:Disease
+CANDIDATE	id:6319	inCount:216	outCount:1	links:	url:D006319	name:Hearing Loss, Sensorineural	normalName:hearing loss, sensorineural	normalWikiTitle:hearing loss, sensorineural	predictedType:Disease
+CANDIDATE	id:46088	inCount:0	outCount:1	links:	url:D046088	name:Hearing Loss, Unilateral	normalName:hearing loss, unilateral	normalWikiTitle:hearing loss, unilateral	predictedType:Disease
+CANDIDATE	id:16063	inCount:0	outCount:2	links:	url:D016063	name:Blood Loss, Surgical	normalName:blood loss, surgical	normalWikiTitle:blood loss, surgical	predictedType:Disease
+CANDIDATE	id:13581	inCount:1	outCount:1	links:	url:D013581	name:Synovial Cyst	normalName:synovial cyst	normalWikiTitle:synovial cyst	predictedType:Disease
+CANDIDATE	id:20766	inCount:0	outCount:1	links:	url:D020766	name:Intracranial Embolism	normalName:intracranial embolism	normalWikiTitle:intracranial embolism	predictedType:Disease
+CANDIDATE	id:12773	inCount:0	outCount:2	links:	url:D012773	name:Shock, Surgical	normalName:shock, surgical	normalWikiTitle:shock, surgical	predictedType:Disease
+CANDIDATE	id:10482	inCount:0	outCount:2	links:	url:D010482	name:Periapical Abscess	normalName:periapical abscess	normalWikiTitle:periapical abscess	predictedType:Disease
+CANDIDATE	id:617235	inCount:0	outCount:1	links:	url:617235	name:MYOCLONUS, INTRACTABLE, NEONATAL	normalName:myoclonus, intractable, neonatal	normalWikiTitle:myoclonus, intractable, neonatal	predictedType:Disease
+CANDIDATE	id:12848	inCount:1	outCount:1	links:12848	url:D012848	name:Blocks, Sinoatrial	normalName:blocks, sinoatrial	normalWikiTitle:blocks, sinoatrial	predictedType:Disease

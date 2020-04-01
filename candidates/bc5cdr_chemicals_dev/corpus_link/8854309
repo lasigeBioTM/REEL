@@ -1,0 +1,4 @@
+ENTITY	text:cocaine	normalName:cocaine	predictedType:chemical	q:true	qid:Q200	docId:8854309	origText:cocaine	url:D003042
+CANDIDATE	id:3042	inCount:89	outCount:1	links:	url:D003042	name:Cocaine	normalName:cocaine	normalWikiTitle:cocaine	predictedType:Chemical
+ENTITY	text:crack cocaine	normalName:crack cocaine	predictedType:chemical	q:true	qid:Q200	docId:8854309	origText:crack cocaine	url:D016578
+CANDIDATE	id:16578	inCount:0	outCount:1	links:	url:D016578	name:Crack Cocaine	normalName:crack cocaine	normalWikiTitle:crack cocaine	predictedType:Chemical

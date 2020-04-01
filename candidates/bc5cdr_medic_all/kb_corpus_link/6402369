@@ -1,0 +1,29 @@
+ENTITY	text:toxicity	normalName:toxicity	predictedType:disease	q:true	qid:Q1150	docId:6402369	origText:toxicity	url:D064420
+CANDIDATE	id:64420	inCount:10	outCount:1	links:	url:D064420	name:Drug Toxicity	normalName:drug toxicity	normalWikiTitle:drug toxicity	predictedType:Disease
+CANDIDATE	id:66126	inCount:0	outCount:3	links:3556	url:D066126	name:Cardiotoxicity	normalName:cardiotoxicity	normalWikiTitle:cardiotoxicity	predictedType:Disease
+CANDIDATE	id:15651	inCount:2	outCount:1	links:	url:D015651	name:Mycotoxicosis	normalName:mycotoxicosis	normalWikiTitle:mycotoxicosis	predictedType:Disease
+CANDIDATE	id:13971	inCount:2	outCount:1	links:	url:D013971	name:Thyrotoxicosis	normalName:thyrotoxicosis	normalWikiTitle:thyrotoxicosis	predictedType:Disease
+CANDIDATE	id:14869	inCount:0	outCount:2	links:	url:D014869	name:Water Intoxication	normalName:water intoxication	normalWikiTitle:water intoxication	predictedType:Disease
+CANDIDATE	id:14103	inCount:4	outCount:2	links:	url:D014103	name:Torticollis	normalName:torticollis	normalWikiTitle:torticollis	predictedType:Disease
+CANDIDATE	id:9765	inCount:42	outCount:2	links:	url:D009765	name:Obesity	normalName:obesity	normalWikiTitle:obesity	predictedType:Disease
+CANDIDATE	id:14115	inCount:1	outCount:1	links:	url:D014115	name:Toxemia	normalName:toxemia	normalWikiTitle:toxemia	predictedType:Disease
+CANDIDATE	id:7246	inCount:2	outCount:2	links:	url:D007246	name:Infertility	normalName:infertility	normalWikiTitle:infertility	predictedType:Disease
+CANDIDATE	id:20234	inCount:0	outCount:2	links:	url:D020234	name:Gait Ataxia	normalName:gait ataxia	normalWikiTitle:gait ataxia	predictedType:Disease
+CANDIDATE	id:14069	inCount:1	outCount:1	links:	url:D014069	name:Tonsillitis	normalName:tonsillitis	normalWikiTitle:tonsillitis	predictedType:Disease
+CANDIDATE	id:64420	inCount:10	outCount:1	links:	url:D064420	name:Toxicity, Drug	normalName:toxicity, drug	normalWikiTitle:toxicity, drug	predictedType:Disease
+CANDIDATE	id:17484	inCount:0	outCount:2	links:	url:D017484	name:Phototoxicity	normalName:phototoxicity	normalWikiTitle:phototoxicity	predictedType:Disease
+ENTITY	text:cystitis	normalName:cystitis	predictedType:disease	q:true	qid:Q1150	docId:6402369	origText:cystitis	url:D003556
+CANDIDATE	id:3556	inCount:2	outCount:1	links:1002;6417;66126	url:D003556	name:Cystitis	normalName:cystitis	normalWikiTitle:cystitis	predictedType:Disease
+ENTITY	text:haematuria	normalName:haematuria	predictedType:disease	q:true	qid:Q1150	docId:6402369	origText:haematuria	url:D006417
+CANDIDATE	id:6417	inCount:2	outCount:2	links:3556	url:D006417	name:Hematuria	normalName:hematuria	normalWikiTitle:hematuria	predictedType:Disease
+CANDIDATE	id:562989	inCount:0	outCount:1	links:	url:C562989	name:Amastia	normalName:amastia	normalWikiTitle:amastia	predictedType:Disease
+CANDIDATE	id:6406	inCount:3	outCount:1	links:	url:D006406	name:Hematoma	normalName:hematoma	normalWikiTitle:hematoma	predictedType:Disease
+CANDIDATE	id:6409	inCount:0	outCount:1	links:	url:D006409	name:Hematometra	normalName:hematometra	normalWikiTitle:hematometra	predictedType:Disease
+CANDIDATE	id:474	inCount:1	outCount:1	links:	url:D000474	name:Alkaptonuria	normalName:alkaptonuria	normalWikiTitle:alkaptonuria	predictedType:Disease
+CANDIDATE	id:6395	inCount:0	outCount:2	links:	url:D006395	name:Hemarthrosis	normalName:hemarthrosis	normalWikiTitle:hemarthrosis	predictedType:Disease
+CANDIDATE	id:6356	inCount:0	outCount:1	links:	url:D006356	name:Heartburn	normalName:heartburn	normalWikiTitle:heartburn	predictedType:Disease
+CANDIDATE	id:6222	inCount:12	outCount:1	links:	url:D006222	name:Hamartoma	normalName:hamartoma	normalWikiTitle:hamartoma	predictedType:Disease
+CANDIDATE	id:1002	inCount:0	outCount:2	links:3556	url:D001002	name:Anuria	normalName:anuria	normalWikiTitle:anuria	predictedType:Disease
+CANDIDATE	id:6547	inCount:10	outCount:1	links:	url:D006547	name:Hernia	normalName:hernia	normalWikiTitle:hernia	predictedType:Disease
+ENTITY	text:lung cancer	normalName:lung cancer	predictedType:disease	q:true	qid:Q1150	docId:6402369	origText:lung cancer	url:D008175
+CANDIDATE	id:8175	inCount:12	outCount:2	links:	url:D008175	name:Cancer, Lung	normalName:cancer, lung	normalWikiTitle:cancer, lung	predictedType:Disease

@@ -1,0 +1,6 @@
+ENTITY	text:oxitropium bromide	normalName:oxitropium bromide	predictedType:chemical	q:true	qid:Q417	docId:3074291	origText:oxitropium bromide	url:C017590
+CANDIDATE	id:17590	inCount:0	outCount:1	links:17590	url:C017590	name:oxitropium bromide	normalName:oxitropium bromide	normalWikiTitle:oxitropium bromide	predictedType:Chemical
+ENTITY	text:theophylline	normalName:theophylline	predictedType:chemical	q:true	qid:Q417	docId:3074291	origText:theophylline	url:D013806
+CANDIDATE	id:13806	inCount:113	outCount:1	links:	url:D013806	name:Theophylline	normalName:theophylline	normalWikiTitle:theophylline	predictedType:Chemical
+ENTITY	text:oxitropium	normalName:oxitropium	predictedType:chemical	q:true	qid:Q417	docId:3074291	origText:oxitropium	url:C017590
+CANDIDATE	id:17590	inCount:0	outCount:1	links:17590	url:C017590	name:oxitropium	normalName:oxitropium	normalWikiTitle:oxitropium	predictedType:Chemical

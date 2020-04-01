@@ -1,0 +1,10 @@
+ENTITY	text:glutathione	normalName:glutathione	predictedType:chemical	q:true	qid:Q307	docId:12617329	origText:glutathione	url:D005978
+CANDIDATE	id:5978	inCount:255	outCount:1	links:	url:D005978	name:Glutathione	normalName:glutathione	normalWikiTitle:glutathione	predictedType:Chemical
+ENTITY	text:creatinine	normalName:creatinine	predictedType:chemical	q:true	qid:Q307	docId:12617329	origText:creatinine	url:D003404
+CANDIDATE	id:3404	inCount:8	outCount:1	links:	url:D003404	name:Creatinine	normalName:creatinine	normalWikiTitle:creatinine	predictedType:Chemical
+ENTITY	text:gum Arabic	normalName:gum arabic	predictedType:chemical	q:true	qid:Q307	docId:12617329	origText:gum Arabic	url:D006170
+CANDIDATE	id:6170	inCount:1	outCount:1	links:5839	url:D006170	name:Gum Arabic	normalName:gum arabic	normalWikiTitle:gum arabic	predictedType:Chemical
+ENTITY	text:gentamicin	normalName:gentamicin	predictedType:chemical	q:true	qid:Q307	docId:12617329	origText:gentamicin	url:D005839
+CANDIDATE	id:5839	inCount:33	outCount:1	links:6170	url:D005839	name:Gentamicin	normalName:gentamicin	normalWikiTitle:gentamicin	predictedType:Chemical
+ENTITY	text:urea	normalName:urea	predictedType:chemical	q:true	qid:Q307	docId:12617329	origText:urea	url:D014508
+CANDIDATE	id:14508	inCount:401	outCount:1	links:	url:D014508	name:Urea	normalName:urea	normalWikiTitle:urea	predictedType:Chemical

@@ -1,0 +1,6 @@
+ENTITY	text:thermal hyperalgesia	normalName:thermal hyperalgesia	predictedType:disease	q:true	qid:Q406	docId:15974569	origText:thermal hyperalgesia	url:D006930
+CANDIDATE	id:6930	inCount:0	outCount:1	links:10146;6930	url:D006930	name:Thermal Hyperalgesia	normalName:thermal hyperalgesia	normalWikiTitle:thermal hyperalgesia	predictedType:Disease
+ENTITY	text:mechanical hyperalgesia	normalName:mechanical hyperalgesia	predictedType:disease	q:true	qid:Q406	docId:15974569	origText:mechanical hyperalgesia	url:D006930
+CANDIDATE	id:6930	inCount:0	outCount:1	links:10146;6930	url:D006930	name:Hyperalgesia, Mechanical	normalName:hyperalgesia, mechanical	normalWikiTitle:hyperalgesia, mechanical	predictedType:Disease
+ENTITY	text:pain	normalName:pain	predictedType:disease	q:true	qid:Q406	docId:15974569	origText:pain	url:D010146
+CANDIDATE	id:10146	inCount:34	outCount:1	links:6930	url:D010146	name:Pain	normalName:pain	normalWikiTitle:pain	predictedType:Disease

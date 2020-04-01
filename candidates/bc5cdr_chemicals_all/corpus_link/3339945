@@ -1,0 +1,4 @@
+ENTITY	text:aminophylline	normalName:aminophylline	predictedType:chemical	q:true	qid:Q1420	docId:3339945	origText:aminophylline	url:D000628
+CANDIDATE	id:628	inCount:10	outCount:2	links:	url:D000628	name:Aminophylline	normalName:aminophylline	normalWikiTitle:aminophylline	predictedType:Chemical
+ENTITY	text:Theophylline	normalName:theophylline	predictedType:chemical	q:true	qid:Q1420	docId:3339945	origText:Theophylline	url:D013806
+CANDIDATE	id:13806	inCount:113	outCount:1	links:	url:D013806	name:Theophylline	normalName:theophylline	normalWikiTitle:theophylline	predictedType:Chemical

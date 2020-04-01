@@ -1,0 +1,4 @@
+ENTITY	text:haloperidol	normalName:haloperidol	predictedType:chemical	q:true	qid:Q248	docId:8617710	origText:haloperidol	url:D006220
+CANDIDATE	id:6220	inCount:24	outCount:1	links:	url:D006220	name:Haloperidol	normalName:haloperidol	normalWikiTitle:haloperidol	predictedType:Chemical
+ENTITY	text:sertraline	normalName:sertraline	predictedType:chemical	q:true	qid:Q248	docId:8617710	origText:sertraline	url:D020280
+CANDIDATE	id:20280	inCount:2	outCount:1	links:	url:D020280	name:Sertraline	normalName:sertraline	normalWikiTitle:sertraline	predictedType:Chemical

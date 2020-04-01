@@ -1,0 +1,4 @@
+ENTITY	text:carbon monoxide	normalName:carbon monoxide	predictedType:chemical	q:true	qid:Q341	docId:9245658	origText:carbon monoxide	url:D002248
+CANDIDATE	id:2248	inCount:0	outCount:3	links:	url:D002248	name:Carbon Monoxide	normalName:carbon monoxide	normalWikiTitle:carbon monoxide	predictedType:Chemical
+ENTITY	text:nicotine	normalName:nicotine	predictedType:chemical	q:true	qid:Q341	docId:9245658	origText:nicotine	url:D009538
+CANDIDATE	id:9538	inCount:50	outCount:2	links:	url:D009538	name:Nicotine	normalName:nicotine	normalWikiTitle:nicotine	predictedType:Chemical

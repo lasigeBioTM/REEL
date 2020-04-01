@@ -1,0 +1,6 @@
+ENTITY	text:heroin	normalName:heroin	predictedType:chemical	q:true	qid:Q938	docId:17344330	origText:heroin	url:D003932
+CANDIDATE	id:3932	inCount:3	outCount:1	links:8691	url:D003932	name:Heroin	normalName:heroin	normalWikiTitle:heroin	predictedType:Chemical
+ENTITY	text:methadone	normalName:methadone	predictedType:chemical	q:true	qid:Q938	docId:17344330	origText:methadone	url:D008691
+CANDIDATE	id:8691	inCount:9	outCount:1	links:3932	url:D008691	name:Methadone	normalName:methadone	normalWikiTitle:methadone	predictedType:Chemical
+ENTITY	text:buprenorphine	normalName:buprenorphine	predictedType:chemical	q:true	qid:Q938	docId:17344330	origText:buprenorphine	url:D002047
+CANDIDATE	id:2047	inCount:16	outCount:1	links:	url:D002047	name:Buprenorphine	normalName:buprenorphine	normalWikiTitle:buprenorphine	predictedType:Chemical

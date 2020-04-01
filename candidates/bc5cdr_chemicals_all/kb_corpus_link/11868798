@@ -1,0 +1,6 @@
+ENTITY	text:Spironolactone	normalName:spironolactone	predictedType:chemical	q:true	qid:Q958	docId:11868798	origText:Spironolactone	url:D013148
+CANDIDATE	id:13148	inCount:32	outCount:2	links:	url:D013148	name:Spironolactone	normalName:spironolactone	normalWikiTitle:spironolactone	predictedType:Chemical
+ENTITY	text:amphotericin B	normalName:amphotericin b	predictedType:chemical	q:true	qid:Q958	docId:11868798	origText:amphotericin B	url:D000666
+CANDIDATE	id:666	inCount:27	outCount:1	links:	url:D000666	name:Amphotericin B	normalName:amphotericin b	normalWikiTitle:amphotericin b	predictedType:Chemical
+ENTITY	text:potassium	normalName:potassium	predictedType:chemical	q:true	qid:Q958	docId:11868798	origText:potassium	url:D011188
+CANDIDATE	id:11188	inCount:10	outCount:2	links:	url:D011188	name:Potassium	normalName:potassium	normalWikiTitle:potassium	predictedType:Chemical

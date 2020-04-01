@@ -1,0 +1,6 @@
+ENTITY	text:fentanyl	normalName:fentanyl	predictedType:chemical	q:true	qid:Q189	docId:2564649	origText:fentanyl	url:D005283
+CANDIDATE	id:5283	inCount:40	outCount:1	links:	url:D005283	name:Fentanyl	normalName:fentanyl	normalWikiTitle:fentanyl	predictedType:Chemical
+ENTITY	text:ketamine	normalName:ketamine	predictedType:chemical	q:true	qid:Q189	docId:2564649	origText:ketamine	url:D007649
+CANDIDATE	id:7649	inCount:10	outCount:1	links:	url:D007649	name:Ketamine	normalName:ketamine	normalWikiTitle:ketamine	predictedType:Chemical
+ENTITY	text:prazosin	normalName:prazosin	predictedType:chemical	q:true	qid:Q189	docId:2564649	origText:prazosin	url:D011224
+CANDIDATE	id:11224	inCount:24	outCount:1	links:	url:D011224	name:Prazosin	normalName:prazosin	normalWikiTitle:prazosin	predictedType:Chemical

@@ -1,0 +1,4 @@
+ENTITY	text:haloperidol	normalName:haloperidol	predictedType:chemical	q:true	qid:Q347	docId:20520283	origText:haloperidol	url:D006220
+CANDIDATE	id:6220	inCount:24	outCount:1	links:522667	url:D006220	name:Haloperidol	normalName:haloperidol	normalWikiTitle:haloperidol	predictedType:Chemical
+ENTITY	text:asenapine	normalName:asenapine	predictedType:chemical	q:true	qid:Q347	docId:20520283	origText:asenapine	url:C522667
+CANDIDATE	id:522667	inCount:0	outCount:1	links:6220	url:C522667	name:Asenapine	normalName:asenapine	normalWikiTitle:asenapine	predictedType:Chemical

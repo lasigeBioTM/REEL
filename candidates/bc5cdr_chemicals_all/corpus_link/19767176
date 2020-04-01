@@ -1,0 +1,6 @@
+ENTITY	text:oxygen	normalName:oxygen	predictedType:chemical	q:true	qid:Q200	docId:19767176	origText:oxygen	url:D010100
+CANDIDATE	id:10100	inCount:11	outCount:2	links:10862	url:D010100	name:Oxygen	normalName:oxygen	normalWikiTitle:oxygen	predictedType:Chemical
+ENTITY	text:pilocarpine	normalName:pilocarpine	predictedType:chemical	q:true	qid:Q200	docId:19767176	origText:pilocarpine	url:D010862
+CANDIDATE	id:10862	inCount:7	outCount:1	links:10100	url:D010862	name:Pilocarpine	normalName:pilocarpine	normalWikiTitle:pilocarpine	predictedType:Chemical
+ENTITY	text:Pyrrolidine dithiocarbamate	normalName:pyrrolidine dithiocarbamate	predictedType:chemical	q:true	qid:Q200	docId:19767176	origText:Pyrrolidine dithiocarbamate	url:C020972
+CANDIDATE	id:20972	inCount:0	outCount:2	links:	url:C020972	name:pyrrolidine dithiocarbamate	normalName:pyrrolidine dithiocarbamate	normalWikiTitle:pyrrolidine dithiocarbamate	predictedType:Chemical

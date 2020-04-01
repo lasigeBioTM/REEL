@@ -1,0 +1,6 @@
+ENTITY	text:seizures	normalName:seizures	predictedType:disease	q:true	qid:Q271	docId:891494	origText:seizures	url:D012640
+CANDIDATE	id:12640	inCount:53	outCount:1	links:	url:D012640	name:Seizure	normalName:seizure	normalWikiTitle:seizure	predictedType:Disease
+ENTITY	text:encephalopathy	normalName:encephalopathy	predictedType:disease	q:true	qid:Q271	docId:891494	origText:encephalopathy	url:D001927
+CANDIDATE	id:1927	inCount:55	outCount:1	links:	url:D001927	name:Encephalopathy	normalName:encephalopathy	normalWikiTitle:encephalopathy	predictedType:Disease
+ENTITY	text:rash	normalName:rash	predictedType:disease	q:true	qid:Q271	docId:891494	origText:rash	url:D005076
+CANDIDATE	id:5076	inCount:1	outCount:1	links:	url:D005076	name:Rash	normalName:rash	normalWikiTitle:rash	predictedType:Disease

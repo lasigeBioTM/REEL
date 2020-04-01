@@ -1,0 +1,44 @@
+ENTITY	text:cardiomyopathy	normalName:cardiomyopathy	predictedType:disease	q:true	qid:Q242	docId:17943461	origText:cardiomyopathy	url:D009202
+CANDIDATE	id:9202	inCount:37	outCount:1	links:2311;6333;1281;6331	url:D009202	name:Cardiomyopathy	normalName:cardiomyopathy	normalWikiTitle:cardiomyopathy	predictedType:Disease
+ENTITY	text:AIDS	normalName:aids	predictedType:disease	q:true	qid:Q242	docId:17943461	origText:AIDS	url:D000163
+CANDIDATE	id:163	inCount:0	outCount:2	links:163	url:D000163	name:AIDS	normalName:aids	normalWikiTitle:aids	predictedType:Disease
+ENTITY	text:cardiac dilation	normalName:cardiac dilation	predictedType:disease	q:true	qid:Q242	docId:17943461	origText:cardiac dilation	url:D002311
+CANDIDATE	id:2311	inCount:50	outCount:2	links:2311;6333;9202	url:D002311	name:Cardiomyopathy, Dilated	normalName:cardiomyopathy, dilated	normalWikiTitle:cardiomyopathy, dilated	predictedType:Disease
+CANDIDATE	id:4489	inCount:0	outCount:2	links:	url:D004489	name:Edema, Cardiac	normalName:edema, cardiac	normalWikiTitle:edema, cardiac	predictedType:Disease
+CANDIDATE	id:1281	inCount:16	outCount:1	links:6333;9202	url:D001281	name:Atrial Fibrillation	normalName:atrial fibrillation	normalWikiTitle:atrial fibrillation	predictedType:Disease
+CANDIDATE	id:2305	inCount:0	outCount:1	links:9205	url:D002305	name:Cardiac Tamponade	normalName:cardiac tamponade	normalWikiTitle:cardiac tamponade	predictedType:Disease
+CANDIDATE	id:16757	inCount:4	outCount:2	links:	url:D016757	name:Death, Sudden, Cardiac	normalName:death, sudden, cardiac	normalWikiTitle:death, sudden, cardiac	predictedType:Disease
+CANDIDATE	id:17191	inCount:5	outCount:1	links:	url:D017191	name:Ascaridida Infections	normalName:ascaridida infections	normalWikiTitle:ascaridida infections	predictedType:Disease
+CANDIDATE	id:571912	inCount:0	outCount:2	links:	url:C571912	name:Inhalation anthrax	normalName:inhalation anthrax	normalWikiTitle:inhalation anthrax	predictedType:Disease
+CANDIDATE	id:53821	inCount:3	outCount:2	links:	url:D053821	name:Cardiovascular Infections	normalName:cardiovascular infections	normalWikiTitle:cardiovascular infections	predictedType:Disease
+CANDIDATE	id:115080	inCount:0	outCount:2	links:	url:115080	name:CARDIAC CONDUCTION DEFECT	normalName:cardiac conduction defect	normalWikiTitle:cardiac conduction defect	predictedType:Disease
+CANDIDATE	id:5207	inCount:1	outCount:1	links:	url:D005207	name:Fasciculation	normalName:fasciculation	normalWikiTitle:fasciculation	predictedType:Disease
+CANDIDATE	id:3643	inCount:11	outCount:1	links:	url:D003643	name:Cardiac Death	normalName:cardiac death	normalWikiTitle:cardiac death	predictedType:Disease
+CANDIDATE	id:3643	inCount:11	outCount:1	links:	url:D003643	name:Death, Cardiac	normalName:death, cardiac	normalWikiTitle:death, cardiac	predictedType:Disease
+CANDIDATE	id:71956	inCount:1	outCount:2	links:	url:D000071956	name:Cardiac Contusion	normalName:cardiac contusion	normalWikiTitle:cardiac contusion	predictedType:Disease
+CANDIDATE	id:71956	inCount:1	outCount:2	links:	url:D000071956	name:Contusion, Cardiac	normalName:contusion, cardiac	normalWikiTitle:contusion, cardiac	predictedType:Disease
+CANDIDATE	id:71956	inCount:1	outCount:2	links:	url:D000071956	name:Contusions, Cardiac	normalName:contusions, cardiac	normalWikiTitle:contusions, cardiac	predictedType:Disease
+CANDIDATE	id:71956	inCount:1	outCount:2	links:	url:D000071956	name:Cardiac Contusions	normalName:cardiac contusions	normalWikiTitle:cardiac contusions	predictedType:Disease
+CANDIDATE	id:6331	inCount:29	outCount:1	links:6333;9205;9202	url:D006331	name:Disease, Cardiac	normalName:disease, cardiac	normalWikiTitle:disease, cardiac	predictedType:Disease
+CANDIDATE	id:6331	inCount:29	outCount:1	links:6333;9205;9202	url:D006331	name:Cardiac Disease	normalName:cardiac disease	normalWikiTitle:cardiac disease	predictedType:Disease
+ENTITY	text:HIV-infected	normalName:hiv-infected	predictedType:disease	q:true	qid:Q242	docId:17943461	origText:HIV-infected	url:D015658
+CANDIDATE	id:15658	inCount:12	outCount:3	links:	url:D015658	name:Infection, HIV	normalName:infection, hiv	normalWikiTitle:infection, hiv	predictedType:Disease
+CANDIDATE	id:15658	inCount:12	outCount:3	links:	url:D015658	name:HIV Infections	normalName:hiv infections	normalWikiTitle:hiv infections	predictedType:Disease
+CANDIDATE	id:785	inCount:0	outCount:2	links:	url:D000785	name:Aneurysm, Infected	normalName:aneurysm, infected	normalWikiTitle:aneurysm, infected	predictedType:Disease
+CANDIDATE	id:15490	inCount:1	outCount:1	links:	url:D015490	name:HTLV-I Infections	normalName:htlv-i infections	normalWikiTitle:htlv-i infections	predictedType:Disease
+CANDIDATE	id:15491	inCount:0	outCount:1	links:	url:D015491	name:HTLV-II Infections	normalName:htlv-ii infections	normalWikiTitle:htlv-ii infections	predictedType:Disease
+CANDIDATE	id:45464	inCount:0	outCount:1	links:	url:D045464	name:Henipavirus Infections	normalName:henipavirus infections	normalWikiTitle:henipavirus infections	predictedType:Disease
+CANDIDATE	id:7239	inCount:33	outCount:1	links:	url:D007239	name:Infection	normalName:infection	normalWikiTitle:infection	predictedType:Disease
+CANDIDATE	id:2690	inCount:5	outCount:2	links:	url:D002690	name:Chlamydia Infections	normalName:chlamydia infections	normalWikiTitle:chlamydia infections	predictedType:Disease
+CANDIDATE	id:4457	inCount:2	outCount:1	links:	url:D004457	name:Echovirus Infections	normalName:echovirus infections	normalWikiTitle:echovirus infections	predictedType:Disease
+CANDIDATE	id:1170	inCount:2	outCount:2	links:	url:D001170	name:Arthritis, Infectious	normalName:arthritis, infectious	normalWikiTitle:arthritis, infectious	predictedType:Disease
+CANDIDATE	id:18354	inCount:2	outCount:1	links:	url:D018354	name:Alphavirus Infections	normalName:alphavirus infections	normalWikiTitle:alphavirus infections	predictedType:Disease
+CANDIDATE	id:15658	inCount:12	outCount:3	links:	url:D015658	name:HIV Infection	normalName:hiv infection	normalWikiTitle:hiv infection	predictedType:Disease
+ENTITY	text:acquired immunodeficiency syndrome	normalName:acquired immunodeficiency syndrome	predictedType:disease	q:true	qid:Q242	docId:17943461	origText:acquired immunodeficiency syndrome	url:D000163
+CANDIDATE	id:163	inCount:0	outCount:2	links:163	url:D000163	name:Acquired Immunodeficiency Syndrome	normalName:acquired immunodeficiency syndrome	normalWikiTitle:acquired immunodeficiency syndrome	predictedType:Disease
+ENTITY	text:heart failure	normalName:heart failure	predictedType:disease	q:true	qid:Q242	docId:17943461	origText:heart failure	url:D006333
+CANDIDATE	id:6333	inCount:5	outCount:1	links:2311;9205;9202;1281;6331	url:D006333	name:Heart Failure	normalName:heart failure	normalWikiTitle:heart failure	predictedType:Disease
+ENTITY	text:Dilated cardiomyopathy	normalName:dilated cardiomyopathy	predictedType:disease	q:true	qid:Q242	docId:17943461	origText:Dilated cardiomyopathy	url:D002311
+CANDIDATE	id:2311	inCount:50	outCount:2	links:2311;6333;9202	url:D002311	name:Cardiomyopathy, Dilated	normalName:cardiomyopathy, dilated	normalWikiTitle:cardiomyopathy, dilated	predictedType:Disease
+ENTITY	text:myocarditis	normalName:myocarditis	predictedType:disease	q:true	qid:Q242	docId:17943461	origText:myocarditis	url:D009205
+CANDIDATE	id:9205	inCount:2	outCount:1	links:2305;6331;6333	url:D009205	name:Myocarditis	normalName:myocarditis	normalWikiTitle:myocarditis	predictedType:Disease

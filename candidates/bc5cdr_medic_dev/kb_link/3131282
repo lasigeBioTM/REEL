@@ -1,0 +1,30 @@
+ENTITY	text:epithelial hyperplasia	normalName:epithelial hyperplasia	predictedType:disease	q:true	qid:Q380	docId:3131282	origText:epithelial hyperplasia	url:D017573
+CANDIDATE	id:17573	inCount:1	outCount:1	links:	url:D017573	name:Focal Epithelial Hyperplasia	normalName:focal epithelial hyperplasia	normalWikiTitle:focal epithelial hyperplasia	predictedType:Disease
+CANDIDATE	id:5885	inCount:0	outCount:1	links:	url:D005885	name:Gingival Hyperplasia	normalName:gingival hyperplasia	normalWikiTitle:gingival hyperplasia	predictedType:Disease
+CANDIDATE	id:4714	inCount:0	outCount:1	links:	url:D004714	name:Endometrial Hyperplasia	normalName:endometrial hyperplasia	normalWikiTitle:endometrial hyperplasia	predictedType:Disease
+CANDIDATE	id:535862	inCount:0	outCount:1	links:	url:C535862	name:Hemifacial myohyperplasia	normalName:hemifacial myohyperplasia	normalWikiTitle:hemifacial myohyperplasia	predictedType:Disease
+CANDIDATE	id:538236	inCount:0	outCount:1	links:	url:C538236	name:Adrenal hyperplasia 2	normalName:adrenal hyperplasia 2	normalWikiTitle:adrenal hyperplasia 2	predictedType:Disease
+CANDIDATE	id:18225	inCount:3	outCount:2	links:	url:D018225	name:Neoplasms, Fibroepithelial	normalName:neoplasms, fibroepithelial	normalWikiTitle:neoplasms, fibroepithelial	predictedType:Disease
+CANDIDATE	id:6965	inCount:4	outCount:1	links:	url:D006965	name:Hyperplasia	normalName:hyperplasia	normalWikiTitle:hyperplasia	predictedType:Disease
+CANDIDATE	id:18301	inCount:2	outCount:1	links:	url:D018301	name:Neoplasms, Mesothelial	normalName:neoplasms, mesothelial	normalWikiTitle:neoplasms, mesothelial	predictedType:Disease
+CANDIDATE	id:312	inCount:9	outCount:4	links:	url:D000312	name:Adrenal Hyperplasia, Congenital	normalName:adrenal hyperplasia, congenital	normalWikiTitle:adrenal hyperplasia, congenital	predictedType:Disease
+CANDIDATE	id:562568	inCount:3	outCount:2	links:	url:C562568	name:Cerebellar Hypoplasia	normalName:cerebellar hypoplasia	normalWikiTitle:cerebellar hypoplasia	predictedType:Disease
+ENTITY	text:Tumors	normalName:tumors	predictedType:disease	q:true	qid:Q380	docId:3131282	origText:Tumors	url:D009369
+CANDIDATE	id:9369	inCount:18	outCount:1	links:	url:D009369	name:Tumor	normalName:tumor	normalWikiTitle:tumor	predictedType:Disease
+ENTITY	text:squamous cell papilloma	normalName:squamous cell papilloma	predictedType:disease	q:true	qid:Q380	docId:3131282	origText:squamous cell papilloma	url:D010212
+CANDIDATE	id:10212	inCount:7	outCount:1	links:10212	url:D010212	name:Papilloma, Squamous Cell	normalName:papilloma, squamous cell	normalWikiTitle:papilloma, squamous cell	predictedType:Disease
+ENTITY	text:papillomas	normalName:papillomas	predictedType:disease	q:true	qid:Q380	docId:3131282	origText:papillomas	url:D010212
+CANDIDATE	id:10212	inCount:7	outCount:1	links:10212	url:D010212	name:Papillomas	normalName:papillomas	normalWikiTitle:papillomas	predictedType:Disease
+ENTITY	text:carcinogenic	normalName:carcinogenic	predictedType:disease	q:true	qid:Q380	docId:3131282	origText:carcinogenic	url:D063646
+CANDIDATE	id:63646	inCount:2	outCount:1	links:	url:D063646	name:Carcinogenesis	normalName:carcinogenesis	normalWikiTitle:carcinogenesis	predictedType:Disease
+CANDIDATE	id:3043	inCount:0	outCount:1	links:	url:D003043	name:Cocarcinogenesis	normalName:cocarcinogenesis	normalWikiTitle:cocarcinogenesis	predictedType:Disease
+CANDIDATE	id:12770	inCount:0	outCount:2	links:	url:D012770	name:Shock, Cardiogenic	normalName:shock, cardiogenic	normalWikiTitle:shock, cardiogenic	predictedType:Disease
+CANDIDATE	id:347	inCount:2	outCount:3	links:	url:D000347	name:Afibrinogenemia	normalName:afibrinogenemia	normalWikiTitle:afibrinogenemia	predictedType:Disease
+CANDIDATE	id:2277	inCount:25	outCount:1	links:2277	url:D002277	name:Carcinoma	normalName:carcinoma	normalWikiTitle:carcinoma	predictedType:Disease
+CANDIDATE	id:55948	inCount:0	outCount:1	links:	url:D055948	name:Sarcopenia	normalName:sarcopenia	normalWikiTitle:sarcopenia	predictedType:Disease
+CANDIDATE	id:2114	inCount:46	outCount:1	links:	url:D002114	name:Calcinosis	normalName:calcinosis	normalWikiTitle:calcinosis	predictedType:Disease
+CANDIDATE	id:2278	inCount:4	outCount:1	links:	url:D002278	name:Carcinoma in Situ	normalName:carcinoma in situ	normalWikiTitle:carcinoma in situ	predictedType:Disease
+CANDIDATE	id:562463	inCount:0	outCount:1	links:	url:C562463	name:Pancreatic Carcinoma	normalName:pancreatic carcinoma	normalWikiTitle:pancreatic carcinoma	predictedType:Disease
+CANDIDATE	id:2296	inCount:2	outCount:2	links:	url:D002296	name:Carcinosarcoma	normalName:carcinosarcoma	normalWikiTitle:carcinosarcoma	predictedType:Disease
+ENTITY	text:carcinoma	normalName:carcinoma	predictedType:disease	q:true	qid:Q380	docId:3131282	origText:carcinoma	url:D002277
+CANDIDATE	id:2277	inCount:25	outCount:1	links:2277	url:D002277	name:Carcinoma	normalName:carcinoma	normalWikiTitle:carcinoma	predictedType:Disease

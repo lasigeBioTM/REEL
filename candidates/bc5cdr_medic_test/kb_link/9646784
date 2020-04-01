@@ -1,0 +1,10 @@
+ENTITY	text:thromboembolism	normalName:thromboembolism	predictedType:disease	q:true	qid:Q346	docId:9646784	origText:thromboembolism	url:D013923
+CANDIDATE	id:13923	inCount:3	outCount:1	links:	url:D013923	name:Thromboembolism	normalName:thromboembolism	normalWikiTitle:thromboembolism	predictedType:Disease
+ENTITY	text:osteoporosis	normalName:osteoporosis	predictedType:disease	q:true	qid:Q346	docId:9646784	origText:osteoporosis	url:D010024
+CANDIDATE	id:10024	inCount:21	outCount:1	links:	url:D010024	name:Osteoporosis	normalName:osteoporosis	normalWikiTitle:osteoporosis	predictedType:Disease
+ENTITY	text:alopecia	normalName:alopecia	predictedType:disease	q:true	qid:Q346	docId:9646784	origText:alopecia	url:D000505
+CANDIDATE	id:505	inCount:57	outCount:2	links:	url:D000505	name:Alopecia	normalName:alopecia	normalWikiTitle:alopecia	predictedType:Disease
+ENTITY	text:thrombocytopenia	normalName:thrombocytopenia	predictedType:disease	q:true	qid:Q346	docId:9646784	origText:thrombocytopenia	url:D013921
+CANDIDATE	id:13921	inCount:42	outCount:1	links:	url:D013921	name:Thrombocytopenia	normalName:thrombocytopenia	normalWikiTitle:thrombocytopenia	predictedType:Disease
+ENTITY	text:eosinophilia	normalName:eosinophilia	predictedType:disease	q:true	qid:Q346	docId:9646784	origText:eosinophilia	url:D004802
+CANDIDATE	id:4802	inCount:14	outCount:1	links:	url:D004802	name:Eosinophilia	normalName:eosinophilia	normalWikiTitle:eosinophilia	predictedType:Disease

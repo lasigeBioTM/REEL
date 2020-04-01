@@ -1,0 +1,18 @@
+ENTITY	text:nitric oxide	normalName:nitric oxide	predictedType:chemical	q:true	qid:Q474	docId:20510337	origText:nitric oxide	url:D009569
+CANDIDATE	id:9569	inCount:13	outCount:3	links:	url:D009569	name:Nitric Oxide	normalName:nitric oxide	normalWikiTitle:nitric oxide	predictedType:Chemical
+ENTITY	text:cisplatin	normalName:cisplatin	predictedType:chemical	q:true	qid:Q474	docId:20510337	origText:cisplatin	url:D002945
+CANDIDATE	id:2945	inCount:293	outCount:3	links:	url:D002945	name:Cisplatin	normalName:cisplatin	normalWikiTitle:cisplatin	predictedType:Chemical
+ENTITY	text:creatinine	normalName:creatinine	predictedType:chemical	q:true	qid:Q474	docId:20510337	origText:creatinine	url:D003404
+CANDIDATE	id:3404	inCount:8	outCount:1	links:	url:D003404	name:Creatinine	normalName:creatinine	normalWikiTitle:creatinine	predictedType:Chemical
+ENTITY	text:platinum	normalName:platinum	predictedType:chemical	q:true	qid:Q474	docId:20510337	origText:platinum	url:D010984
+CANDIDATE	id:10984	inCount:13	outCount:2	links:	url:D010984	name:Platinum	normalName:platinum	normalWikiTitle:platinum	predictedType:Chemical
+ENTITY	text:zinc	normalName:zinc	predictedType:chemical	q:true	qid:Q474	docId:20510337	origText:zinc	url:D015032
+CANDIDATE	id:15032	inCount:17	outCount:2	links:	url:D015032	name:Zinc	normalName:zinc	normalWikiTitle:zinc	predictedType:Chemical
+ENTITY	text:superoxide	normalName:superoxide	predictedType:chemical	q:true	qid:Q474	docId:20510337	origText:superoxide	url:D013481
+CANDIDATE	id:13481	inCount:1	outCount:1	links:	url:D013481	name:Superoxide	normalName:superoxide	normalWikiTitle:superoxide	predictedType:Chemical
+ENTITY	text:selenium	normalName:selenium	predictedType:chemical	q:true	qid:Q474	docId:20510337	origText:selenium	url:D012643
+CANDIDATE	id:12643	inCount:13	outCount:2	links:	url:D012643	name:Selenium	normalName:selenium	normalWikiTitle:selenium	predictedType:Chemical
+ENTITY	text:Coenzyme Q10	normalName:coenzyme q10	predictedType:chemical	q:true	qid:Q474	docId:20510337	origText:Coenzyme Q10	url:C024989
+CANDIDATE	id:24989	inCount:0	outCount:1	links:	url:C024989	name:coenzyme Q10	normalName:coenzyme q10	normalWikiTitle:coenzyme q10	predictedType:Chemical
+ENTITY	text:reduced glutathione	normalName:reduced glutathione	predictedType:chemical	q:true	qid:Q474	docId:20510337	origText:reduced glutathione	url:D005978
+CANDIDATE	id:5978	inCount:255	outCount:1	links:	url:D005978	name:Glutathione, Reduced	normalName:glutathione, reduced	normalWikiTitle:glutathione, reduced	predictedType:Chemical

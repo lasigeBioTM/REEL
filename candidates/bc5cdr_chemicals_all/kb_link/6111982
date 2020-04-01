@@ -1,0 +1,26 @@
+ENTITY	text:Tobanum	normalName:tobanum	predictedType:chemical	q:true	qid:Q512	docId:6111982	origText:Tobanum	url:C025725
+CANDIDATE	id:25725	inCount:0	outCount:1	links:25725	url:C025725	name:tobanum	normalName:tobanum	normalWikiTitle:tobanum	predictedType:Chemical
+ENTITY	text:chlorpropanol	normalName:chlorpropanol	predictedType:chemical	q:true	qid:Q512	docId:6111982	origText:chlorpropanol	url:C025725
+CANDIDATE	id:25725	inCount:0	outCount:1	links:25725	url:C025725	name:chlorpropanol	normalName:chlorpropanol	normalWikiTitle:chlorpropanol	predictedType:Chemical
+ENTITY	text:pindolol	normalName:pindolol	predictedType:chemical	q:true	qid:Q512	docId:6111982	origText:pindolol	url:D010869
+CANDIDATE	id:10869	inCount:21	outCount:1	links:	url:D010869	name:Pindolol	normalName:pindolol	normalWikiTitle:pindolol	predictedType:Chemical
+ENTITY	text:GYKI-41 099	normalName:gyki-41 099	predictedType:chemical	q:true	qid:Q512	docId:6111982	origText:GYKI-41 099	url:C025725
+CANDIDATE	id:25725	inCount:0	outCount:1	links:25725	url:C025725	name:GYKI-41099	normalName:gyki-41099	normalWikiTitle:gyki-41099	predictedType:Chemical
+CANDIDATE	id:418824	inCount:0	outCount:1	links:	url:C418824	name:GYKI 47261	normalName:gyki 47261	normalWikiTitle:gyki 47261	predictedType:Chemical
+CANDIDATE	id:511090	inCount:0	outCount:1	links:	url:C511090	name:GYKI 20039	normalName:gyki 20039	normalWikiTitle:gyki 20039	predictedType:Chemical
+CANDIDATE	id:84032	inCount:0	outCount:1	links:	url:C084032	name:GI 90291	normalName:gi 90291	normalWikiTitle:gi 90291	predictedType:Chemical
+CANDIDATE	id:562345	inCount:0	outCount:1	links:	url:C562345	name:YK 4-279	normalName:yk 4-279	normalWikiTitle:yk 4-279	predictedType:Chemical
+CANDIDATE	id:70803	inCount:0	outCount:1	links:	url:C070803	name:CGI 18041	normalName:cgi 18041	normalWikiTitle:cgi 18041	predictedType:Chemical
+CANDIDATE	id:88672	inCount:0	outCount:1	links:	url:C088672	name:GI 129471	normalName:gi 129471	normalWikiTitle:gi 129471	predictedType:Chemical
+CANDIDATE	id:91804	inCount:0	outCount:2	links:	url:C091804	name:YM 099	normalName:ym 099	normalWikiTitle:ym 099	predictedType:Chemical
+CANDIDATE	id:94384	inCount:0	outCount:1	links:	url:C094384	name:P 9941	normalName:p 9941	normalWikiTitle:p 9941	predictedType:Chemical
+CANDIDATE	id:576923	inCount:0	outCount:1	links:	url:C576923	name:PI-091	normalName:pi-091	normalWikiTitle:pi-091	predictedType:Chemical
+CANDIDATE	id:114137	inCount:0	outCount:1	links:	url:C114137	name:FK 041	normalName:fk 041	normalWikiTitle:fk 041	predictedType:Chemical
+CANDIDATE	id:477866	inCount:0	outCount:1	links:	url:C477866	name:GYKI 39541	normalName:gyki 39541	normalWikiTitle:gyki 39541	predictedType:Chemical
+CANDIDATE	id:477866	inCount:0	outCount:1	links:	url:C477866	name:GYKI-39541	normalName:gyki-39541	normalWikiTitle:gyki-39541	predictedType:Chemical
+CANDIDATE	id:30798	inCount:0	outCount:1	links:	url:C030798	name:GYKI-14,451	normalName:gyki-14,451	normalWikiTitle:gyki-14,451	predictedType:Chemical
+CANDIDATE	id:30798	inCount:0	outCount:1	links:	url:C030798	name:GYKI 14,451	normalName:gyki 14,451	normalWikiTitle:gyki 14,451	predictedType:Chemical
+ENTITY	text:ouabain	normalName:ouabain	predictedType:chemical	q:true	qid:Q512	docId:6111982	origText:ouabain	url:D010042
+CANDIDATE	id:10042	inCount:14	outCount:1	links:	url:D010042	name:Ouabain	normalName:ouabain	normalWikiTitle:ouabain	predictedType:Chemical
+ENTITY	text:propranolol	normalName:propranolol	predictedType:chemical	q:true	qid:Q512	docId:6111982	origText:propranolol	url:D011433
+CANDIDATE	id:11433	inCount:46	outCount:2	links:	url:D011433	name:Propranolol	normalName:propranolol	normalWikiTitle:propranolol	predictedType:Chemical

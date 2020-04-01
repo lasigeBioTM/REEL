@@ -1,0 +1,24 @@
+ENTITY	text:tension-type headache	normalName:tension-type headache	predictedType:disease	q:true	qid:Q353	docId:11284996	origText:tension-type headache	url:D018781
+CANDIDATE	id:18781	inCount:0	outCount:1	links:	url:D018781	name:Tension-Type Headache	normalName:tension-type headache	normalWikiTitle:tension-type headache	predictedType:Disease
+ENTITY	text:headache	normalName:headache	predictedType:disease	q:true	qid:Q353	docId:11284996	origText:headache	url:D006261
+CANDIDATE	id:6261	inCount:2	outCount:1	links:6261	url:D006261	name:Headache	normalName:headache	normalWikiTitle:headache	predictedType:Disease
+ENTITY	text:primary headaches	normalName:primary headaches	predictedType:disease	q:true	qid:Q353	docId:11284996	origText:primary headaches	url:D051270
+CANDIDATE	id:51270	inCount:3	outCount:1	links:	url:D051270	name:Primary Headache Disorder	normalName:primary headache disorder	normalWikiTitle:primary headache disorder	predictedType:Disease
+CANDIDATE	id:51270	inCount:3	outCount:1	links:	url:D051270	name:Headache Disorders, Primary	normalName:headache disorders, primary	normalWikiTitle:headache disorders, primary	predictedType:Disease
+CANDIDATE	id:14653	inCount:0	outCount:2	links:	url:D014653	name:Vascular Headaches	normalName:vascular headaches	normalWikiTitle:vascular headaches	predictedType:Disease
+CANDIDATE	id:51298	inCount:0	outCount:1	links:	url:D051298	name:Post-Traumatic Headache	normalName:post-traumatic headache	normalWikiTitle:post-traumatic headache	predictedType:Disease
+CANDIDATE	id:6261	inCount:2	outCount:1	links:6261	url:D006261	name:Headache	normalName:headache	normalWikiTitle:headache	predictedType:Disease
+CANDIDATE	id:49950	inCount:7	outCount:1	links:	url:D049950	name:Hyperparathyroidism, Primary	normalName:hyperparathyroidism, primary	normalWikiTitle:hyperparathyroidism, primary	predictedType:Disease
+CANDIDATE	id:6960	inCount:3	outCount:2	links:	url:D006960	name:Hyperoxaluria, Primary	normalName:hyperoxaluria, primary	normalWikiTitle:hyperoxaluria, primary	predictedType:Disease
+CANDIDATE	id:537153	inCount:0	outCount:3	links:	url:C537153	name:Hypomagnesemia primary	normalName:hypomagnesemia primary	normalWikiTitle:hypomagnesemia primary	predictedType:Disease
+CANDIDATE	id:18419	inCount:3	outCount:1	links:	url:D018419	name:Primate Diseases	normalName:primate diseases	normalWikiTitle:primate diseases	predictedType:Disease
+CANDIDATE	id:537786	inCount:0	outCount:1	links:	url:C537786	name:Aphakia, congenital primary	normalName:aphakia, congenital primary	normalWikiTitle:aphakia, congenital primary	predictedType:Disease
+CANDIDATE	id:54969	inCount:6	outCount:1	links:	url:D054969	name:Primary Dysautonomias	normalName:primary dysautonomias	normalWikiTitle:primary dysautonomias	predictedType:Disease
+CANDIDATE	id:51270	inCount:3	outCount:1	links:	url:D051270	name:Primary Cough Headache	normalName:primary cough headache	normalWikiTitle:primary cough headache	predictedType:Disease
+CANDIDATE	id:51270	inCount:3	outCount:1	links:	url:D051270	name:Headache, Primary Cough	normalName:headache, primary cough	normalWikiTitle:headache, primary cough	predictedType:Disease
+CANDIDATE	id:51270	inCount:3	outCount:1	links:	url:D051270	name:Primary Stabbing Headache	normalName:primary stabbing headache	normalWikiTitle:primary stabbing headache	predictedType:Disease
+CANDIDATE	id:51270	inCount:3	outCount:1	links:	url:D051270	name:Headache, Primary Stabbing	normalName:headache, primary stabbing	normalWikiTitle:headache, primary stabbing	predictedType:Disease
+CANDIDATE	id:51270	inCount:3	outCount:1	links:	url:D051270	name:Disorder, Primary Headache	normalName:disorder, primary headache	normalWikiTitle:disorder, primary headache	predictedType:Disease
+CANDIDATE	id:51270	inCount:3	outCount:1	links:	url:D051270	name:Headache Disorder, Primary	normalName:headache disorder, primary	normalWikiTitle:headache disorder, primary	predictedType:Disease
+CANDIDATE	id:6261	inCount:2	outCount:1	links:6261	url:D006261	name:Sharp Headaches	normalName:sharp headaches	normalWikiTitle:sharp headaches	predictedType:Disease
+CANDIDATE	id:6261	inCount:2	outCount:1	links:6261	url:D006261	name:Headaches, Sharp	normalName:headaches, sharp	normalWikiTitle:headaches, sharp	predictedType:Disease

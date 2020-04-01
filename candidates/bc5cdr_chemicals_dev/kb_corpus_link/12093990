@@ -1,0 +1,4 @@
+ENTITY	text:guanosine	normalName:guanosine	predictedType:chemical	q:true	qid:Q199	docId:12093990	origText:guanosine	url:D006151
+CANDIDATE	id:6151	inCount:125	outCount:2	links:	url:D006151	name:Guanosine	normalName:guanosine	normalWikiTitle:guanosine	predictedType:Chemical
+ENTITY	text:ribavirin	normalName:ribavirin	predictedType:chemical	q:true	qid:Q199	docId:12093990	origText:ribavirin	url:D012254
+CANDIDATE	id:12254	inCount:24	outCount:1	links:	url:D012254	name:Ribavirin	normalName:ribavirin	normalWikiTitle:ribavirin	predictedType:Chemical

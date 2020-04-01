@@ -1,0 +1,8 @@
+ENTITY	text:beta-carotene	normalName:beta-carotene	predictedType:chemical	q:true	qid:Q270	docId:15531665	origText:beta-carotene	url:D019207
+CANDIDATE	id:19207	inCount:19	outCount:1	links:	url:D019207	name:beta Carotene	normalName:beta carotene	normalWikiTitle:beta carotene	predictedType:Chemical
+ENTITY	text:vitamin E	normalName:vitamin e	predictedType:chemical	q:true	qid:Q270	docId:15531665	origText:vitamin E	url:D014810
+CANDIDATE	id:14810	inCount:73	outCount:1	links:	url:D014810	name:Vitamin E	normalName:vitamin e	normalWikiTitle:vitamin e	predictedType:Chemical
+ENTITY	text:vitamin C	normalName:vitamin c	predictedType:chemical	q:true	qid:Q270	docId:15531665	origText:vitamin C	url:D001205
+CANDIDATE	id:1205	inCount:125	outCount:1	links:	url:D001205	name:Vitamin C	normalName:vitamin c	normalWikiTitle:vitamin c	predictedType:Chemical
+ENTITY	text:folate	normalName:folate	predictedType:chemical	q:true	qid:Q270	docId:15531665	origText:folate	url:D005492
+CANDIDATE	id:5492	inCount:121	outCount:1	links:	url:D005492	name:Folate	normalName:folate	normalWikiTitle:folate	predictedType:Chemical

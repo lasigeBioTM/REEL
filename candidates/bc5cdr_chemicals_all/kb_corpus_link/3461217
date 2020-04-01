@@ -1,0 +1,4 @@
+ENTITY	text:testosterone propionate	normalName:testosterone propionate	predictedType:chemical	q:true	qid:Q900	docId:3461217	origText:testosterone propionate	url:D043343
+CANDIDATE	id:43343	inCount:1	outCount:1	links:13739	url:D043343	name:Testosterone Propionate	normalName:testosterone propionate	normalWikiTitle:testosterone propionate	predictedType:Chemical
+ENTITY	text:testosterone	normalName:testosterone	predictedType:chemical	q:true	qid:Q900	docId:3461217	origText:testosterone	url:D013739
+CANDIDATE	id:13739	inCount:97	outCount:2	links:43343	url:D013739	name:Testosterone	normalName:testosterone	normalWikiTitle:testosterone	predictedType:Chemical

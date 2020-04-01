@@ -1,0 +1,27 @@
+ENTITY	text:cyclooxygenase inhibitors	normalName:cyclooxygenase inhibitors	predictedType:chemical	q:true	qid:Q157	docId:16586083	origText:cyclooxygenase inhibitors	url:D016861
+CANDIDATE	id:16861	inCount:1	outCount:2	links:	url:D016861	name:Cyclooxygenase Inhibitors	normalName:cyclooxygenase inhibitors	normalWikiTitle:cyclooxygenase inhibitors	predictedType:Chemical
+ENTITY	text:NT-proBNP	normalName:nt-probnp	predictedType:chemical	q:true	qid:Q157	docId:16586083	origText:NT-proBNP	url:C109794
+CANDIDATE	id:109794	inCount:0	outCount:1	links:109794	url:C109794	name:NT-proBNP	normalName:nt-probnp	normalWikiTitle:nt-probnp	predictedType:Chemical
+ENTITY	text:N-terminal pro brain natriuretic peptide	normalName:n-terminal pro brain natriuretic peptide	predictedType:chemical	q:true	qid:Q157	docId:16586083	origText:N-terminal pro brain natriuretic peptide	url:C109794
+CANDIDATE	id:109794	inCount:0	outCount:1	links:109794	url:C109794	name:Amino-terminal pro-brain natriuretic peptide	normalName:amino-terminal pro-brain natriuretic peptide	normalWikiTitle:amino-terminal pro-brain natriuretic peptide	predictedType:Chemical
+CANDIDATE	id:99254	inCount:0	outCount:1	links:	url:C099254	name:N-terminal proatrial natriuretic peptide	normalName:n-terminal proatrial natriuretic peptide	normalWikiTitle:n-terminal proatrial natriuretic peptide	predictedType:Chemical
+CANDIDATE	id:76910	inCount:0	outCount:1	links:	url:C076910	name:brain natriuretic peptide, porcine	normalName:brain natriuretic peptide, porcine	normalWikiTitle:brain natriuretic peptide, porcine	predictedType:Chemical
+CANDIDATE	id:480579	inCount:0	outCount:1	links:	url:C480579	name:amino-terminal pro-C-type natriuretic peptide, human	normalName:amino-terminal pro-c-type natriuretic peptide, human	normalWikiTitle:amino-terminal pro-c-type natriuretic peptide, human	predictedType:Chemical
+CANDIDATE	id:63382	inCount:0	outCount:1	links:	url:C063382	name:prepro-brain natriuretic peptide	normalName:prepro-brain natriuretic peptide	normalWikiTitle:prepro-brain natriuretic peptide	predictedType:Chemical
+CANDIDATE	id:109794	inCount:0	outCount:1	links:109794	url:C109794	name:pro-brain natriuretic peptide (1-76)	normalName:pro-brain natriuretic peptide (1-76)	normalWikiTitle:pro-brain natriuretic peptide (1-76)	predictedType:Chemical
+CANDIDATE	id:95026	inCount:0	outCount:1	links:	url:C095026	name:brain natriuretic peptide-35, rat	normalName:brain natriuretic peptide-35, rat	normalWikiTitle:brain natriuretic peptide-35, rat	predictedType:Chemical
+CANDIDATE	id:20097	inCount:6	outCount:1	links:	url:D020097	name:Natriuretic Peptide, Brain	normalName:natriuretic peptide, brain	normalWikiTitle:natriuretic peptide, brain	predictedType:Chemical
+CANDIDATE	id:472610	inCount:0	outCount:1	links:	url:C472610	name:atrial natriuretic peptide, rat	normalName:atrial natriuretic peptide, rat	normalWikiTitle:atrial natriuretic peptide, rat	predictedType:Chemical
+CANDIDATE	id:495963	inCount:0	outCount:1	links:	url:C495963	name:natriuretic peptide precursor type B, rat	normalName:natriuretic peptide precursor type b, rat	normalWikiTitle:natriuretic peptide precursor type b, rat	predictedType:Chemical
+CANDIDATE	id:20098	inCount:8	outCount:1	links:	url:D020098	name:Natriuretic Peptide, C-Type	normalName:natriuretic peptide, c-type	normalWikiTitle:natriuretic peptide, c-type	predictedType:Chemical
+ENTITY	text:prostaglandin	normalName:prostaglandin	predictedType:chemical	q:true	qid:Q157	docId:16586083	origText:prostaglandin	url:D011453
+CANDIDATE	id:11453	inCount:31	outCount:1	links:	url:D011453	name:Prostaglandins	normalName:prostaglandins	normalWikiTitle:prostaglandins	predictedType:Chemical
+CANDIDATE	id:11454	inCount:15	outCount:1	links:	url:D011454	name:Prostaglandins A	normalName:prostaglandins a	normalWikiTitle:prostaglandins a	predictedType:Chemical
+CANDIDATE	id:11458	inCount:10	outCount:1	links:	url:D011458	name:Prostaglandins E	normalName:prostaglandins e	normalWikiTitle:prostaglandins e	predictedType:Chemical
+CANDIDATE	id:11456	inCount:9	outCount:1	links:	url:D011456	name:Prostaglandins B	normalName:prostaglandins b	normalWikiTitle:prostaglandins b	predictedType:Chemical
+CANDIDATE	id:100573	inCount:0	outCount:1	links:	url:C100573	name:prostaglandin A1	normalName:prostaglandin a1	normalWikiTitle:prostaglandin a1	predictedType:Chemical
+CANDIDATE	id:11457	inCount:7	outCount:1	links:	url:D011457	name:Prostaglandins D	normalName:prostaglandins d	normalWikiTitle:prostaglandins d	predictedType:Chemical
+CANDIDATE	id:11463	inCount:7	outCount:1	links:	url:D011463	name:Prostaglandins H	normalName:prostaglandins h	normalWikiTitle:prostaglandins h	predictedType:Chemical
+CANDIDATE	id:33246	inCount:0	outCount:1	links:	url:C033246	name:prostaglandin E3	normalName:prostaglandin e3	normalWikiTitle:prostaglandin e3	predictedType:Chemical
+CANDIDATE	id:15230	inCount:18	outCount:1	links:	url:D015230	name:Prostaglandin D2	normalName:prostaglandin d2	normalWikiTitle:prostaglandin d2	predictedType:Chemical
+CANDIDATE	id:44262	inCount:4	outCount:1	links:	url:D044262	name:Prostaglandin H2	normalName:prostaglandin h2	normalWikiTitle:prostaglandin h2	predictedType:Chemical

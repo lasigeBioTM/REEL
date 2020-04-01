@@ -1,0 +1,6 @@
+ENTITY	text:spironolactone	normalName:spironolactone	predictedType:chemical	q:true	qid:Q240	docId:7949506	origText:spironolactone	url:D013148
+CANDIDATE	id:13148	inCount:32	outCount:2	links:	url:D013148	name:Spironolactone	normalName:spironolactone	normalWikiTitle:spironolactone	predictedType:Chemical
+ENTITY	text:verapamil	normalName:verapamil	predictedType:chemical	q:true	qid:Q240	docId:7949506	origText:verapamil	url:D014700
+CANDIDATE	id:14700	inCount:37	outCount:1	links:	url:D014700	name:Verapamil	normalName:verapamil	normalWikiTitle:verapamil	predictedType:Chemical
+ENTITY	text:clonidine	normalName:clonidine	predictedType:chemical	q:true	qid:Q240	docId:7949506	origText:clonidine	url:D003000
+CANDIDATE	id:3000	inCount:39	outCount:1	links:	url:D003000	name:Clonidine	normalName:clonidine	normalWikiTitle:clonidine	predictedType:Chemical

@@ -1,0 +1,43 @@
+ENTITY	text:Cancer	normalName:cancer	predictedType:disease	q:true	qid:Q462	docId:8558192	origText:Cancer	url:D009369
+CANDIDATE	id:9369	inCount:18	outCount:1	links:	url:D009369	name:Cancer	normalName:cancer	normalWikiTitle:cancer	predictedType:Disease
+ENTITY	text:toxicity	normalName:toxicity	predictedType:disease	q:true	qid:Q462	docId:8558192	origText:toxicity	url:D064420
+CANDIDATE	id:64420	inCount:10	outCount:1	links:	url:D064420	name:Drug Toxicity	normalName:drug toxicity	normalWikiTitle:drug toxicity	predictedType:Disease
+CANDIDATE	id:66126	inCount:0	outCount:3	links:380	url:D066126	name:Cardiotoxicity	normalName:cardiotoxicity	normalWikiTitle:cardiotoxicity	predictedType:Disease
+CANDIDATE	id:15651	inCount:2	outCount:1	links:	url:D015651	name:Mycotoxicosis	normalName:mycotoxicosis	normalWikiTitle:mycotoxicosis	predictedType:Disease
+CANDIDATE	id:13971	inCount:2	outCount:1	links:	url:D013971	name:Thyrotoxicosis	normalName:thyrotoxicosis	normalWikiTitle:thyrotoxicosis	predictedType:Disease
+CANDIDATE	id:14869	inCount:0	outCount:2	links:	url:D014869	name:Water Intoxication	normalName:water intoxication	normalWikiTitle:water intoxication	predictedType:Disease
+CANDIDATE	id:14103	inCount:4	outCount:2	links:	url:D014103	name:Torticollis	normalName:torticollis	normalWikiTitle:torticollis	predictedType:Disease
+CANDIDATE	id:9765	inCount:42	outCount:2	links:	url:D009765	name:Obesity	normalName:obesity	normalWikiTitle:obesity	predictedType:Disease
+CANDIDATE	id:14115	inCount:1	outCount:1	links:	url:D014115	name:Toxemia	normalName:toxemia	normalWikiTitle:toxemia	predictedType:Disease
+CANDIDATE	id:7246	inCount:2	outCount:2	links:	url:D007246	name:Infertility	normalName:infertility	normalWikiTitle:infertility	predictedType:Disease
+CANDIDATE	id:20234	inCount:0	outCount:2	links:	url:D020234	name:Gait Ataxia	normalName:gait ataxia	normalWikiTitle:gait ataxia	predictedType:Disease
+CANDIDATE	id:14069	inCount:1	outCount:1	links:	url:D014069	name:Tonsillitis	normalName:tonsillitis	normalWikiTitle:tonsillitis	predictedType:Disease
+CANDIDATE	id:64420	inCount:10	outCount:1	links:	url:D064420	name:Toxicity, Drug	normalName:toxicity, drug	normalWikiTitle:toxicity, drug	predictedType:Disease
+CANDIDATE	id:17484	inCount:0	outCount:2	links:	url:D017484	name:Phototoxicity	normalName:phototoxicity	normalWikiTitle:phototoxicity	predictedType:Disease
+ENTITY	text:deaths	normalName:deaths	predictedType:disease	q:true	qid:Q462	docId:8558192	origText:deaths	url:D003643
+CANDIDATE	id:3643	inCount:11	outCount:1	links:	url:D003643	name:Death	normalName:death	normalWikiTitle:death	predictedType:Disease
+ENTITY	text:infection	normalName:infection	predictedType:disease	q:true	qid:Q462	docId:8558192	origText:infection	url:D007239
+CANDIDATE	id:7239	inCount:33	outCount:1	links:	url:D007239	name:Infection	normalName:infection	normalWikiTitle:infection	predictedType:Disease
+ENTITY	text:peripheral neurotoxicity	normalName:peripheral neurotoxicity	predictedType:disease	q:true	qid:Q462	docId:8558192	origText:peripheral neurotoxicity	url:D010523
+CANDIDATE	id:10523	inCount:37	outCount:1	links:380	url:D010523	name:Peripheral Neuropathies	normalName:peripheral neuropathies	normalWikiTitle:peripheral neuropathies	predictedType:Disease
+CANDIDATE	id:20258	inCount:7	outCount:2	links:380	url:D020258	name:Neurotoxicity Syndromes	normalName:neurotoxicity syndromes	normalWikiTitle:neurotoxicity syndromes	predictedType:Disease
+CANDIDATE	id:548028	inCount:0	outCount:1	links:	url:C548028	name:Inherited Peripheral Neuropathy	normalName:inherited peripheral neuropathy	normalWikiTitle:inherited peripheral neuropathy	predictedType:Disease
+CANDIDATE	id:563813	inCount:0	outCount:1	links:	url:C563813	name:Peripheral Cone Dystrophy	normalName:peripheral cone dystrophy	normalWikiTitle:peripheral cone dystrophy	predictedType:Disease
+CANDIDATE	id:20427	inCount:0	outCount:1	links:	url:D020427	name:Peroneal Neuropathies	normalName:peroneal neuropathies	normalWikiTitle:peroneal neuropathies	predictedType:Disease
+CANDIDATE	id:59348	inCount:0	outCount:2	links:	url:D059348	name:Peripheral Nerve Injuries	normalName:peripheral nerve injuries	normalWikiTitle:peripheral nerve injuries	predictedType:Disease
+CANDIDATE	id:19557	inCount:0	outCount:2	links:	url:D019557	name:Dermatitis, Perioral	normalName:dermatitis, perioral	normalWikiTitle:dermatitis, perioral	predictedType:Disease
+CANDIDATE	id:11645	inCount:0	outCount:2	links:	url:D011645	name:Puerperal Infection	normalName:puerperal infection	normalWikiTitle:puerperal infection	predictedType:Disease
+CANDIDATE	id:20425	inCount:0	outCount:1	links:	url:D020425	name:Radial Neuropathy	normalName:radial neuropathy	normalWikiTitle:radial neuropathy	predictedType:Disease
+CANDIDATE	id:58729	inCount:2	outCount:2	links:	url:D058729	name:Peripheral Arterial Disease	normalName:peripheral arterial disease	normalWikiTitle:peripheral arterial disease	predictedType:Disease
+CANDIDATE	id:7248	inCount:28	outCount:1	links:	url:D007248	name:Infertility, Male	normalName:infertility, male	normalWikiTitle:infertility, male	predictedType:Disease
+CANDIDATE	id:10523	inCount:37	outCount:1	links:380	url:D010523	name:Neuropathy, Peripheral	normalName:neuropathy, peripheral	normalWikiTitle:neuropathy, peripheral	predictedType:Disease
+CANDIDATE	id:10523	inCount:37	outCount:1	links:380	url:D010523	name:Peripheral Neuropathy	normalName:peripheral neuropathy	normalWikiTitle:peripheral neuropathy	predictedType:Disease
+CANDIDATE	id:9443	inCount:2	outCount:1	links:	url:D009443	name:Peripheral Neuritis	normalName:peripheral neuritis	normalWikiTitle:peripheral neuritis	predictedType:Disease
+CANDIDATE	id:9443	inCount:2	outCount:1	links:	url:D009443	name:Neuritis, Peripheral	normalName:neuritis, peripheral	normalWikiTitle:neuritis, peripheral	predictedType:Disease
+CANDIDATE	id:9443	inCount:2	outCount:1	links:	url:D009443	name:Peripheral Neuritides	normalName:peripheral neuritides	normalWikiTitle:peripheral neuritides	predictedType:Disease
+CANDIDATE	id:9443	inCount:2	outCount:1	links:	url:D009443	name:Neuritides, Peripheral	normalName:neuritides, peripheral	normalWikiTitle:neuritides, peripheral	predictedType:Disease
+CANDIDATE	id:9456	inCount:1	outCount:2	links:	url:D009456	name:Peripheral Neurofibromatosis	normalName:peripheral neurofibromatosis	normalWikiTitle:peripheral neurofibromatosis	predictedType:Disease
+CANDIDATE	id:9456	inCount:1	outCount:2	links:	url:D009456	name:Neurofibromatosis, Peripheral	normalName:neurofibromatosis, peripheral	normalWikiTitle:neurofibromatosis, peripheral	predictedType:Disease
+CANDIDATE	id:18241	inCount:1	outCount:1	links:	url:D018241	name:Peripheral Neuroepithelioma	normalName:peripheral neuroepithelioma	normalWikiTitle:peripheral neuroepithelioma	predictedType:Disease
+ENTITY	text:granulocytopenia	normalName:granulocytopenia	predictedType:disease	q:true	qid:Q462	docId:8558192	origText:granulocytopenia	url:D000380
+CANDIDATE	id:380	inCount:3	outCount:1	links:10523;20258;66126	url:D000380	name:Granulocytopenia	normalName:granulocytopenia	normalWikiTitle:granulocytopenia	predictedType:Disease

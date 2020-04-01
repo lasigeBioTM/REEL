@@ -1,0 +1,6 @@
+ENTITY	text:BCNU	normalName:bcnu	predictedType:chemical	q:true	qid:Q1382	docId:6747681	origText:BCNU	url:D002330
+CANDIDATE	id:2330	inCount:56	outCount:1	links:2330	url:D002330	name:BCNU	normalName:bcnu	normalWikiTitle:bcnu	predictedType:Chemical
+ENTITY	text:ethanol	normalName:ethanol	predictedType:chemical	q:true	qid:Q1382	docId:6747681	origText:ethanol	url:D000431
+CANDIDATE	id:431	inCount:62	outCount:1	links:	url:D000431	name:Ethanol	normalName:ethanol	normalWikiTitle:ethanol	predictedType:Chemical
+ENTITY	text:1,3-bis-(2-chloroethyl)-1-nitrosourea	normalName:1,3-bis-(2-chloroethyl)-1-nitrosourea	predictedType:chemical	q:true	qid:Q1382	docId:6747681	origText:1,3-bis-(2-chloroethyl)-1-nitrosourea	url:D002330
+CANDIDATE	id:2330	inCount:56	outCount:1	links:2330	url:D002330	name:1,3-Bis(2-Chloroethyl)-1-Nitrosourea	normalName:1,3-bis(2-chloroethyl)-1-nitrosourea	normalWikiTitle:1,3-bis(2-chloroethyl)-1-nitrosourea	predictedType:Chemical

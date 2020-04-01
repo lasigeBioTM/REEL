@@ -1,0 +1,22 @@
+ENTITY	text:bipolar mania	normalName:bipolar mania	predictedType:disease	q:true	qid:Q623	docId:17042884	origText:bipolar mania	url:D001714
+CANDIDATE	id:1714	inCount:11	outCount:1	links:	url:D001714	name:Bipolar Disorder	normalName:bipolar disorder	normalWikiTitle:bipolar disorder	predictedType:Disease
+CANDIDATE	id:70603	inCount:0	outCount:1	links:	url:D000070603	name:Coxa Magna	normalName:coxa magna	normalWikiTitle:coxa magna	predictedType:Disease
+CANDIDATE	id:18324	inCount:3	outCount:1	links:	url:D018324	name:Hemangioma, Capillary	normalName:hemangioma, capillary	normalWikiTitle:hemangioma, capillary	predictedType:Disease
+CANDIDATE	id:8080	inCount:2	outCount:2	links:	url:D008080	name:Liposarcoma	normalName:liposarcoma	normalWikiTitle:liposarcoma	predictedType:Disease
+CANDIDATE	id:20447	inCount:7	outCount:1	links:	url:D020447	name:Parasomnias	normalName:parasomnias	normalWikiTitle:parasomnias	predictedType:Disease
+CANDIDATE	id:16778	inCount:1	outCount:1	links:	url:D016778	name:Malaria, Falciparum	normalName:malaria, falciparum	normalWikiTitle:malaria, falciparum	predictedType:Disease
+CANDIDATE	id:1657	inCount:1	outCount:1	links:	url:D001657	name:Biliary Dyskinesia	normalName:biliary dyskinesia	normalWikiTitle:biliary dyskinesia	predictedType:Disease
+CANDIDATE	id:1658	inCount:0	outCount:1	links:	url:D001658	name:Biliary Fistula	normalName:biliary fistula	normalWikiTitle:biliary fistula	predictedType:Disease
+CANDIDATE	id:11141	inCount:1	outCount:2	links:14202	url:D011141	name:Polyuria	normalName:polyuria	normalWikiTitle:polyuria	predictedType:Disease
+CANDIDATE	id:8883	inCount:1	outCount:1	links:	url:D008883	name:Miliaria	normalName:miliaria	normalWikiTitle:miliaria	predictedType:Disease
+CANDIDATE	id:10259	inCount:0	outCount:1	links:	url:D010259	name:Paranoia	normalName:paranoia	normalWikiTitle:paranoia	predictedType:Disease
+CANDIDATE	id:6423	inCount:0	outCount:2	links:	url:D006423	name:Bitemporal Hemianopia	normalName:bitemporal hemianopia	normalWikiTitle:bitemporal hemianopia	predictedType:Disease
+CANDIDATE	id:6423	inCount:0	outCount:2	links:	url:D006423	name:Hemianopia, Bitemporal	normalName:hemianopia, bitemporal	normalWikiTitle:hemianopia, bitemporal	predictedType:Disease
+CANDIDATE	id:10259	inCount:0	outCount:1	links:	url:D010259	name:Paranoias	normalName:paranoias	normalWikiTitle:paranoias	predictedType:Disease
+CANDIDATE	id:5391	inCount:0	outCount:1	links:	url:D005391	name:Pyromania	normalName:pyromania	normalWikiTitle:pyromania	predictedType:Disease
+CANDIDATE	id:6423	inCount:0	outCount:2	links:	url:D006423	name:Bitemporal Hemianopias	normalName:bitemporal hemianopias	normalWikiTitle:bitemporal hemianopias	predictedType:Disease
+CANDIDATE	id:6423	inCount:0	outCount:2	links:	url:D006423	name:Hemianopsia, Bitemporal	normalName:hemianopsia, bitemporal	normalWikiTitle:hemianopsia, bitemporal	predictedType:Disease
+CANDIDATE	id:6423	inCount:0	outCount:2	links:	url:D006423	name:Bitemporal Hemianopsia	normalName:bitemporal hemianopsia	normalWikiTitle:bitemporal hemianopsia	predictedType:Disease
+CANDIDATE	id:6423	inCount:0	outCount:2	links:	url:D006423	name:Hemianopias, Bitemporal	normalName:hemianopias, bitemporal	normalWikiTitle:hemianopias, bitemporal	predictedType:Disease
+ENTITY	text:tremor	normalName:tremor	predictedType:disease	q:true	qid:Q623	docId:17042884	origText:tremor	url:D014202
+CANDIDATE	id:14202	inCount:6	outCount:1	links:11141	url:D014202	name:Tremor	normalName:tremor	normalWikiTitle:tremor	predictedType:Disease

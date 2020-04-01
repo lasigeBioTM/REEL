@@ -1,0 +1,8 @@
+ENTITY	text:dipyridamole	normalName:dipyridamole	predictedType:chemical	q:true	qid:Q615	docId:1415380	origText:dipyridamole	url:D004176
+CANDIDATE	id:4176	inCount:10	outCount:1	links:	url:D004176	name:Dipyridamole	normalName:dipyridamole	normalWikiTitle:dipyridamole	predictedType:Chemical
+ENTITY	text:quinine	normalName:quinine	predictedType:chemical	q:true	qid:Q615	docId:1415380	origText:quinine	url:D011803
+CANDIDATE	id:11803	inCount:24	outCount:3	links:	url:D011803	name:Quinine	normalName:quinine	normalWikiTitle:quinine	predictedType:Chemical
+ENTITY	text:prednisone	normalName:prednisone	predictedType:chemical	q:true	qid:Q615	docId:1415380	origText:prednisone	url:D011241
+CANDIDATE	id:11241	inCount:209	outCount:1	links:	url:D011241	name:Prednisone	normalName:prednisone	normalWikiTitle:prednisone	predictedType:Chemical
+ENTITY	text:aspirin	normalName:aspirin	predictedType:chemical	q:true	qid:Q615	docId:1415380	origText:aspirin	url:D001241
+CANDIDATE	id:1241	inCount:106	outCount:1	links:	url:D001241	name:Aspirin	normalName:aspirin	normalWikiTitle:aspirin	predictedType:Chemical

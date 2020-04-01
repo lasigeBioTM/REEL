@@ -1,0 +1,4 @@
+ENTITY	text:tacrolimus	normalName:tacrolimus	predictedType:chemical	q:true	qid:Q1081	docId:24040781	origText:tacrolimus	url:D016559
+CANDIDATE	id:16559	inCount:40	outCount:1	links:20123	url:D016559	name:Tacrolimus	normalName:tacrolimus	normalWikiTitle:tacrolimus	predictedType:Chemical
+ENTITY	text:rapamycin	normalName:rapamycin	predictedType:chemical	q:true	qid:Q1081	docId:24040781	origText:rapamycin	url:D020123
+CANDIDATE	id:20123	inCount:19	outCount:1	links:16559	url:D020123	name:Rapamycin	normalName:rapamycin	normalWikiTitle:rapamycin	predictedType:Chemical

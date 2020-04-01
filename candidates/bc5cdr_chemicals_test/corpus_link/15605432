@@ -1,0 +1,29 @@
+ENTITY	text:nitrogen	normalName:nitrogen	predictedType:chemical	q:true	qid:Q488	docId:15605432	origText:nitrogen	url:D009584
+CANDIDATE	id:9584	inCount:7	outCount:2	links:	url:D009584	name:Nitrogen	normalName:nitrogen	normalWikiTitle:nitrogen	predictedType:Chemical
+ENTITY	text:oxygen	normalName:oxygen	predictedType:chemical	q:true	qid:Q488	docId:15605432	origText:oxygen	url:D010100
+CANDIDATE	id:10100	inCount:11	outCount:2	links:	url:D010100	name:Oxygen	normalName:oxygen	normalWikiTitle:oxygen	predictedType:Chemical
+ENTITY	text:4-hydroxy-2-nonenal	normalName:4-hydroxy-2-nonenal	predictedType:chemical	q:true	qid:Q488	docId:15605432	origText:4-hydroxy-2-nonenal	url:C027576
+CANDIDATE	id:27576	inCount:0	outCount:1	links:	url:C027576	name:4-hydroxy-2-nonenal	normalName:4-hydroxy-2-nonenal	normalWikiTitle:4-hydroxy-2-nonenal	predictedType:Chemical
+ENTITY	text:adriamycin	normalName:adriamycin	predictedType:chemical	q:true	qid:Q488	docId:15605432	origText:adriamycin	url:D004317
+CANDIDATE	id:4317	inCount:559	outCount:1	links:	url:D004317	name:Adriamycin	normalName:adriamycin	normalWikiTitle:adriamycin	predictedType:Chemical
+ENTITY	text:3-nitrotyrosine	normalName:3-nitrotyrosine	predictedType:chemical	q:true	qid:Q488	docId:15605432	origText:3-nitrotyrosine	url:C002744
+CANDIDATE	id:2744	inCount:0	outCount:1	links:	url:C002744	name:3-nitrotyrosine	normalName:3-nitrotyrosine	normalWikiTitle:3-nitrotyrosine	predictedType:Chemical
+ENTITY	text:4HNE	normalName:4hne	predictedType:chemical	q:true	qid:Q488	docId:15605432	origText:4HNE	url:C027576
+CANDIDATE	id:27576	inCount:0	outCount:1	links:	url:C027576	name:4-HNE cpd	normalName:4-hne cpd	normalWikiTitle:4-hne cpd	predictedType:Chemical
+CANDIDATE	id:4980	inCount:33	outCount:1	links:	url:D004980	name:Ethane	normalName:ethane	normalWikiTitle:ethane	predictedType:Chemical
+CANDIDATE	id:528420	inCount:0	outCount:1	links:	url:C528420	name:shenle	normalName:shenle	normalWikiTitle:shenle	predictedType:Chemical
+CANDIDATE	id:528559	inCount:0	outCount:1	links:	url:C528559	name:HEP-40	normalName:hep-40	normalWikiTitle:hep-40	predictedType:Chemical
+CANDIDATE	id:25206	inCount:0	outCount:1	links:	url:C025206	name:hopane	normalName:hopane	normalWikiTitle:hopane	predictedType:Chemical
+CANDIDATE	id:68515	inCount:0	outCount:1	links:	url:C068515	name:4-chromone	normalName:4-chromone	normalWikiTitle:4-chromone	predictedType:Chemical
+CANDIDATE	id:7907	inCount:0	outCount:1	links:	url:C007907	name:HCE	normalName:hce	normalWikiTitle:hce	predictedType:Chemical
+CANDIDATE	id:14270	inCount:0	outCount:1	links:	url:C014270	name:HOE 747	normalName:hoe 747	normalWikiTitle:hoe 747	predictedType:Chemical
+CANDIDATE	id:8906	inCount:0	outCount:1	links:	url:C008906	name:phytane	normalName:phytane	normalWikiTitle:phytane	predictedType:Chemical
+CANDIDATE	id:35126	inCount:0	outCount:1	links:	url:C035126	name:thujane	normalName:thujane	normalWikiTitle:thujane	predictedType:Chemical
+CANDIDATE	id:68575	inCount:0	outCount:1	links:	url:C068575	name:lethane	normalName:lethane	normalWikiTitle:lethane	predictedType:Chemical
+CANDIDATE	id:36958	inCount:0	outCount:1	links:	url:C036958	name:4-HNDPE	normalName:4-hndpe	normalWikiTitle:4-hndpe	predictedType:Chemical
+CANDIDATE	id:121031	inCount:0	outCount:1	links:	url:C121031	name:HP-4-one	normalName:hp-4-one	normalWikiTitle:hp-4-one	predictedType:Chemical
+CANDIDATE	id:44935	inCount:0	outCount:1	links:	url:C044935	name:DHDNE	normalName:dhdne	normalWikiTitle:dhdne	predictedType:Chemical
+CANDIDATE	id:406428	inCount:0	outCount:1	links:	url:C406428	name:HNP-4	normalName:hnp-4	normalWikiTitle:hnp-4	predictedType:Chemical
+CANDIDATE	id:60744	inCount:0	outCount:2	links:	url:C060744	name:HNPPE	normalName:hnppe	normalWikiTitle:hnppe	predictedType:Chemical
+CANDIDATE	id:406867	inCount:0	outCount:2	links:	url:C406867	name:4-HNA	normalName:4-hna	normalWikiTitle:4-hna	predictedType:Chemical
+CANDIDATE	id:57169	inCount:0	outCount:1	links:	url:C057169	name:4-HBE	normalName:4-hbe	normalWikiTitle:4-hbe	predictedType:Chemical

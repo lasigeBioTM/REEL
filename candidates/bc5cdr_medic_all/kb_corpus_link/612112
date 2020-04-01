@@ -1,0 +1,13 @@
+ENTITY	text:pain	normalName:pain	predictedType:disease	q:true	qid:Q631	docId:612112	origText:pain	url:D010146
+CANDIDATE	id:10146	inCount:34	outCount:1	links:63806;9207	url:D010146	name:Pain	normalName:pain	normalWikiTitle:pain	predictedType:Disease
+ENTITY	text:myoclonia	normalName:myoclonia	predictedType:disease	q:true	qid:Q631	docId:612112	origText:myoclonia	url:D009207
+CANDIDATE	id:9207	inCount:11	outCount:1	links:10146	url:D009207	name:Myoclonus	normalName:myoclonus	normalWikiTitle:myoclonus	predictedType:Disease
+CANDIDATE	id:9222	inCount:2	outCount:1	links:	url:D009222	name:Myotonia	normalName:myotonia	normalWikiTitle:myotonia	predictedType:Disease
+CANDIDATE	id:9212	inCount:3	outCount:1	links:	url:D009212	name:Myoglobinuria	normalName:myoglobinuria	normalWikiTitle:myoglobinuria	predictedType:Disease
+CANDIDATE	id:562573	inCount:0	outCount:1	links:	url:C562573	name:Cyclopia	normalName:cyclopia	normalWikiTitle:cyclopia	predictedType:Disease
+CANDIDATE	id:9216	inCount:50	outCount:1	links:	url:D009216	name:Myopia	normalName:myopia	normalWikiTitle:myopia	predictedType:Disease
+CANDIDATE	id:564088	inCount:0	outCount:2	links:	url:C564088	name:Nystagmus, Myoclonic	normalName:nystagmus, myoclonic	normalWikiTitle:nystagmus, myoclonic	predictedType:Disease
+CANDIDATE	id:562563	inCount:0	outCount:1	links:	url:C562563	name:Microcolon	normalName:microcolon	normalWikiTitle:microcolon	predictedType:Disease
+CANDIDATE	id:9217	inCount:1	outCount:2	links:	url:D009217	name:Myosarcoma	normalName:myosarcoma	normalWikiTitle:myosarcoma	predictedType:Disease
+CANDIDATE	id:16857	inCount:0	outCount:1	links:	url:D016857	name:Hypocapnia	normalName:hypocapnia	normalWikiTitle:hypocapnia	predictedType:Disease
+CANDIDATE	id:63806	inCount:0	outCount:2	links:10146	url:D063806	name:Myalgia	normalName:myalgia	normalWikiTitle:myalgia	predictedType:Disease

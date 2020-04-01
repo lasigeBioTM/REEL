@@ -1,0 +1,6 @@
+ENTITY	text:myocardial ischemia	normalName:myocardial ischemia	predictedType:disease	q:true	qid:Q893	docId:2950248	origText:myocardial ischemia	url:D017202
+CANDIDATE	id:17202	inCount:6	outCount:2	links:7511;3324	url:D017202	name:Myocardial Ischemia	normalName:myocardial ischemia	normalWikiTitle:myocardial ischemia	predictedType:Disease
+ENTITY	text:coronary artery disease	normalName:coronary artery disease	predictedType:disease	q:true	qid:Q893	docId:2950248	origText:coronary artery disease	url:D003324
+CANDIDATE	id:3324	inCount:4	outCount:2	links:17202	url:D003324	name:Coronary Artery Disease	normalName:coronary artery disease	normalWikiTitle:coronary artery disease	predictedType:Disease
+ENTITY	text:ischemia	normalName:ischemia	predictedType:disease	q:true	qid:Q893	docId:2950248	origText:ischemia	url:D007511
+CANDIDATE	id:7511	inCount:3	outCount:1	links:17202	url:D007511	name:Ischemia	normalName:ischemia	normalWikiTitle:ischemia	predictedType:Disease

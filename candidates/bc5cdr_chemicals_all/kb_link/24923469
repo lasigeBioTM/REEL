@@ -1,0 +1,6 @@
+ENTITY	text:gentamicin	normalName:gentamicin	predictedType:chemical	q:true	qid:Q695	docId:24923469	origText:gentamicin	url:D005839
+CANDIDATE	id:5839	inCount:33	outCount:1	links:	url:D005839	name:Gentamicin	normalName:gentamicin	normalWikiTitle:gentamicin	predictedType:Chemical
+ENTITY	text:vancomycin	normalName:vancomycin	predictedType:chemical	q:true	qid:Q695	docId:24923469	origText:vancomycin	url:D014640
+CANDIDATE	id:14640	inCount:29	outCount:1	links:	url:D014640	name:Vancomycin	normalName:vancomycin	normalWikiTitle:vancomycin	predictedType:Chemical
+ENTITY	text:tobramycin	normalName:tobramycin	predictedType:chemical	q:true	qid:Q695	docId:24923469	origText:tobramycin	url:D014031
+CANDIDATE	id:14031	inCount:6	outCount:1	links:	url:D014031	name:Tobramycin	normalName:tobramycin	normalWikiTitle:tobramycin	predictedType:Chemical

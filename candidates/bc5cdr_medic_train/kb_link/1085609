@@ -1,0 +1,20 @@
+ENTITY	text:tuberculosis	normalName:tuberculosis	predictedType:disease	q:true	qid:Q237	docId:1085609	origText:tuberculosis	url:D014376
+CANDIDATE	id:14376	inCount:27	outCount:1	links:	url:D014376	name:Tuberculosis	normalName:tuberculosis	normalWikiTitle:tuberculosis	predictedType:Disease
+ENTITY	text:convulsions	normalName:convulsions	predictedType:disease	q:true	qid:Q237	docId:1085609	origText:convulsions	url:D012640
+CANDIDATE	id:12640	inCount:53	outCount:1	links:12640	url:D012640	name:Convulsion	normalName:convulsion	normalWikiTitle:convulsion	predictedType:Disease
+ENTITY	text:clonic fits	normalName:clonic fits	predictedType:disease	q:true	qid:Q237	docId:1085609	origText:clonic fits	url:D012640
+CANDIDATE	id:12640	inCount:53	outCount:1	links:12640	url:D012640	name:Seizures, Clonic	normalName:seizures, clonic	normalWikiTitle:seizures, clonic	predictedType:Disease
+CANDIDATE	id:3108	inCount:7	outCount:1	links:	url:D003108	name:Colonic Diseases	normalName:colonic diseases	normalWikiTitle:colonic diseases	predictedType:Disease
+CANDIDATE	id:6521	inCount:4	outCount:1	links:	url:D006521	name:Hepatitis, Chronic	normalName:hepatitis, chronic	normalWikiTitle:hepatitis, chronic	predictedType:Disease
+CANDIDATE	id:3111	inCount:0	outCount:1	links:	url:D003111	name:Colonic Polyps	normalName:colonic polyps	normalWikiTitle:colonic polyps	predictedType:Disease
+CANDIDATE	id:2908	inCount:2	outCount:1	links:	url:D002908	name:Chronic Disease	normalName:chronic disease	normalWikiTitle:chronic disease	predictedType:Disease
+CANDIDATE	id:43963	inCount:2	outCount:1	links:	url:D043963	name:Diverticulosis, Colonic	normalName:diverticulosis, colonic	normalWikiTitle:diverticulosis, colonic	predictedType:Disease
+CANDIDATE	id:4239	inCount:0	outCount:2	links:	url:D004239	name:Diverticulitis, Colonic	normalName:diverticulitis, colonic	normalWikiTitle:diverticulitis, colonic	predictedType:Disease
+CANDIDATE	id:59350	inCount:0	outCount:1	links:	url:D059350	name:Chronic Pain	normalName:chronic pain	normalWikiTitle:chronic pain	predictedType:Disease
+CANDIDATE	id:19698	inCount:0	outCount:2	links:	url:D019698	name:Hepatitis C, Chronic	normalName:hepatitis c, chronic	normalWikiTitle:hepatitis c, chronic	predictedType:Disease
+CANDIDATE	id:19694	inCount:0	outCount:2	links:	url:D019694	name:Hepatitis B, Chronic	normalName:hepatitis b, chronic	normalWikiTitle:hepatitis b, chronic	predictedType:Disease
+CANDIDATE	id:535842	inCount:0	outCount:2	links:	url:C535842	name:Thyroiditis, Chronic	normalName:thyroiditis, chronic	normalWikiTitle:thyroiditis, chronic	predictedType:Disease
+CANDIDATE	id:3108	inCount:7	outCount:1	links:	url:D003108	name:Colonic Disease	normalName:colonic disease	normalWikiTitle:colonic disease	predictedType:Disease
+CANDIDATE	id:12640	inCount:53	outCount:1	links:12640	url:D012640	name:Clonic Seizures	normalName:clonic seizures	normalWikiTitle:clonic seizures	predictedType:Disease
+CANDIDATE	id:3248	inCount:3	outCount:1	links:	url:D003248	name:Colonic Inertia	normalName:colonic inertia	normalWikiTitle:colonic inertia	predictedType:Disease
+CANDIDATE	id:3108	inCount:7	outCount:1	links:	url:D003108	name:Disease, Colonic	normalName:disease, colonic	normalWikiTitle:disease, colonic	predictedType:Disease

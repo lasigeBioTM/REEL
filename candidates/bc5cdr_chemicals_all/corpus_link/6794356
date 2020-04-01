@@ -1,0 +1,4 @@
+ENTITY	text:lithium	normalName:lithium	predictedType:chemical	q:true	qid:Q1448	docId:6794356	origText:lithium	url:D008094
+CANDIDATE	id:8094	inCount:15	outCount:2	links:	url:D008094	name:Lithium	normalName:lithium	normalWikiTitle:lithium	predictedType:Chemical
+ENTITY	text:lithium carbonate	normalName:lithium carbonate	predictedType:chemical	q:true	qid:Q1448	docId:6794356	origText:lithium carbonate	url:D016651
+CANDIDATE	id:16651	inCount:0	outCount:2	links:	url:D016651	name:Lithium Carbonate	normalName:lithium carbonate	normalWikiTitle:lithium carbonate	predictedType:Chemical

@@ -1,0 +1,6 @@
+ENTITY	text:dexamethasone	normalName:dexamethasone	predictedType:chemical	q:true	qid:Q12	docId:3289726	origText:dexamethasone	url:D003907
+CANDIDATE	id:3907	inCount:138	outCount:2	links:5047	url:D003907	name:Dexamethasone	normalName:dexamethasone	normalWikiTitle:dexamethasone	predictedType:Chemical
+ENTITY	text:VP-16-213	normalName:vp-16-213	predictedType:chemical	q:true	qid:Q12	docId:3289726	origText:VP-16-213	url:D005047
+CANDIDATE	id:5047	inCount:303	outCount:2	links:5047;3907	url:D005047	name:VP 16-213	normalName:vp 16-213	normalWikiTitle:vp 16-213	predictedType:Chemical
+ENTITY	text:etoposide	normalName:etoposide	predictedType:chemical	q:true	qid:Q12	docId:3289726	origText:etoposide	url:D005047
+CANDIDATE	id:5047	inCount:303	outCount:2	links:5047;3907	url:D005047	name:Etoposide	normalName:etoposide	normalWikiTitle:etoposide	predictedType:Chemical

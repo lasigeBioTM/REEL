@@ -1,0 +1,31 @@
+ENTITY	text:renal failure	normalName:renal failure	predictedType:disease	q:true	qid:Q105	docId:24434397	origText:renal failure	url:D051437
+CANDIDATE	id:51437	inCount:10	outCount:1	links:12640;4830	url:D051437	name:Renal Failure	normalName:renal failure	normalWikiTitle:renal failure	predictedType:Disease
+ENTITY	text:anemia	normalName:anemia	predictedType:disease	q:true	qid:Q105	docId:24434397	origText:anemia	url:D000740
+CANDIDATE	id:740	inCount:14	outCount:1	links:	url:D000740	name:Anemia	normalName:anemia	normalWikiTitle:anemia	predictedType:Disease
+ENTITY	text:seizure	normalName:seizure	predictedType:disease	q:true	qid:Q105	docId:24434397	origText:seizure	url:D012640
+CANDIDATE	id:12640	inCount:53	outCount:1	links:6470;12640;4830;12393;51437	url:D012640	name:Seizure	normalName:seizure	normalWikiTitle:seizure	predictedType:Disease
+ENTITY	text:bleeding	normalName:bleeding	predictedType:disease	q:true	qid:Q105	docId:24434397	origText:bleeding	url:D006470
+CANDIDATE	id:6470	inCount:31	outCount:1	links:12640	url:D006470	name:Bleeding	normalName:bleeding	normalWikiTitle:bleeding	predictedType:Disease
+ENTITY	text:tonic clonic convulsions	normalName:tonic clonic convulsions	predictedType:disease	q:true	qid:Q105	docId:24434397	origText:tonic clonic convulsions	url:D004830
+CANDIDATE	id:4830	inCount:1	outCount:1	links:12640;51437	url:D004830	name:Convulsions, Tonic Clonic	normalName:convulsions, tonic clonic	normalWikiTitle:convulsions, tonic clonic	predictedType:Disease
+ENTITY	text:menorrhagia	normalName:menorrhagia	predictedType:disease	q:true	qid:Q105	docId:24434397	origText:menorrhagia	url:D008595
+CANDIDATE	id:8595	inCount:0	outCount:2	links:	url:D008595	name:Menorrhagia	normalName:menorrhagia	normalWikiTitle:menorrhagia	predictedType:Disease
+ENTITY	text:convulsions	normalName:convulsions	predictedType:disease	q:true	qid:Q105	docId:24434397	origText:convulsions	url:D012640
+CANDIDATE	id:12640	inCount:53	outCount:1	links:6470;12640;4830;12393;51437	url:D012640	name:Convulsion	normalName:convulsion	normalWikiTitle:convulsion	predictedType:Disease
+ENTITY	text:overdose	normalName:overdose	predictedType:disease	q:true	qid:Q105	docId:24434397	origText:overdose	url:D062787
+CANDIDATE	id:62787	inCount:0	outCount:1	links:	url:D062787	name:Drug Overdose	normalName:drug overdose	normalWikiTitle:drug overdose	predictedType:Disease
+CANDIDATE	id:57887	inCount:0	outCount:1	links:	url:D057887	name:Overbite	normalName:overbite	normalWikiTitle:overbite	predictedType:Disease
+CANDIDATE	id:8141	inCount:2	outCount:1	links:	url:D008141	name:Lordosis	normalName:lordosis	normalWikiTitle:lordosis	predictedType:Disease
+CANDIDATE	id:564931	inCount:0	outCount:2	links:	url:C564931	name:Oliver Syndrome	normalName:oliver syndrome	normalWikiTitle:oliver syndrome	predictedType:Disease
+CANDIDATE	id:50177	inCount:1	outCount:1	links:	url:D050177	name:Overweight	normalName:overweight	normalWikiTitle:overweight	predictedType:Disease
+CANDIDATE	id:1882	inCount:0	outCount:2	links:	url:D001882	name:Border Disease	normalName:border disease	normalWikiTitle:border disease	predictedType:Disease
+CANDIDATE	id:12393	inCount:1	outCount:1	links:12640	url:D012393	name:Rosacea	normalName:rosacea	normalWikiTitle:rosacea	predictedType:Disease
+CANDIDATE	id:14717	inCount:2	outCount:2	links:	url:D014717	name:Vertigo	normalName:vertigo	normalWikiTitle:vertigo	predictedType:Disease
+CANDIDATE	id:7918	inCount:2	outCount:1	links:	url:D007918	name:Leprosy	normalName:leprosy	normalWikiTitle:leprosy	predictedType:Disease
+CANDIDATE	id:6732	inCount:1	outCount:2	links:	url:D006732	name:Horner Syndrome	normalName:horner syndrome	normalWikiTitle:horner syndrome	predictedType:Disease
+ENTITY	text:nervous system abnormalities	normalName:nervous system abnormalities	predictedType:disease	q:true	qid:Q105	docId:24434397	origText:nervous system abnormalities	url:D009421
+CANDIDATE	id:9421	inCount:26	outCount:2	links:	url:D009421	name:Nervous System Abnormalities	normalName:nervous system abnormalities	normalWikiTitle:nervous system abnormalities	predictedType:Disease
+ENTITY	text:chronic kidney disease	normalName:chronic kidney disease	predictedType:disease	q:true	qid:Q105	docId:24434397	origText:chronic kidney disease	url:D051436
+CANDIDATE	id:51436	inCount:1	outCount:1	links:	url:D051436	name:Kidney Disease, Chronic	normalName:kidney disease, chronic	normalWikiTitle:kidney disease, chronic	predictedType:Disease
+ENTITY	text:convulsion	normalName:convulsion	predictedType:disease	q:true	qid:Q105	docId:24434397	origText:convulsion	url:D012640
+CANDIDATE	id:12640	inCount:53	outCount:1	links:6470;12640;4830;12393;51437	url:D012640	name:Convulsion	normalName:convulsion	normalWikiTitle:convulsion	predictedType:Disease

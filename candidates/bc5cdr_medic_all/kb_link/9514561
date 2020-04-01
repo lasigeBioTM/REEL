@@ -1,0 +1,19 @@
+ENTITY	text:cluster headache	normalName:cluster headache	predictedType:disease	q:true	qid:Q499	docId:9514561	origText:cluster headache	url:D003027
+CANDIDATE	id:3027	inCount:1	outCount:1	links:	url:D003027	name:Cluster Headache	normalName:cluster headache	normalWikiTitle:cluster headache	predictedType:Disease
+ENTITY	text:painful	normalName:painful	predictedType:disease	q:true	qid:Q499	docId:9514561	origText:painful	url:D010146
+CANDIDATE	id:10146	inCount:34	outCount:1	links:10146	url:D010146	name:Pain	normalName:pain	normalWikiTitle:pain	predictedType:Disease
+CANDIDATE	id:11900	inCount:0	outCount:2	links:	url:D011900	name:Ranula	normalName:ranula	normalWikiTitle:ranula	predictedType:Disease
+CANDIDATE	id:387	inCount:1	outCount:1	links:	url:D000387	name:Ainhum	normalName:ainhum	normalWikiTitle:ainhum	predictedType:Disease
+CANDIDATE	id:20069	inCount:0	outCount:1	links:	url:D020069	name:Shoulder Pain	normalName:shoulder pain	normalWikiTitle:shoulder pain	predictedType:Disease
+CANDIDATE	id:59407	inCount:0	outCount:1	links:	url:D059407	name:Pinguecula	normalName:pinguecula	normalWikiTitle:pinguecula	predictedType:Disease
+CANDIDATE	id:17699	inCount:3	outCount:1	links:	url:D017699	name:Pelvic Pain	normalName:pelvic pain	normalWikiTitle:pelvic pain	predictedType:Disease
+CANDIDATE	id:564945	inCount:0	outCount:2	links:	url:C564945	name:Neuropathy, Painful	normalName:neuropathy, painful	normalWikiTitle:neuropathy, painful	predictedType:Disease
+CANDIDATE	id:73818	inCount:0	outCount:1	links:	url:D000073818	name:Pain, Procedural	normalName:pain, procedural	normalWikiTitle:pain, procedural	predictedType:Disease
+CANDIDATE	id:535821	inCount:0	outCount:2	links:	url:C535821	name:Pseudoainhum	normalName:pseudoainhum	normalWikiTitle:pseudoainhum	predictedType:Disease
+CANDIDATE	id:7331	inCount:0	outCount:2	links:	url:D007331	name:Insulin Coma	normalName:insulin coma	normalWikiTitle:insulin coma	predictedType:Disease
+ENTITY	text:migraine	normalName:migraine	predictedType:disease	q:true	qid:Q499	docId:9514561	origText:migraine	url:D008881
+CANDIDATE	id:8881	inCount:9	outCount:1	links:	url:D008881	name:Migraine	normalName:migraine	normalWikiTitle:migraine	predictedType:Disease
+ENTITY	text:headache	normalName:headache	predictedType:disease	q:true	qid:Q499	docId:9514561	origText:headache	url:D006261
+CANDIDATE	id:6261	inCount:2	outCount:1	links:	url:D006261	name:Headache	normalName:headache	normalWikiTitle:headache	predictedType:Disease
+ENTITY	text:pain	normalName:pain	predictedType:disease	q:true	qid:Q499	docId:9514561	origText:pain	url:D010146
+CANDIDATE	id:10146	inCount:34	outCount:1	links:10146	url:D010146	name:Pain	normalName:pain	normalWikiTitle:pain	predictedType:Disease

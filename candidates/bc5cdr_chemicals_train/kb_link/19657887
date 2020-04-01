@@ -1,0 +1,26 @@
+ENTITY	text:acetaldehyde	normalName:acetaldehyde	predictedType:chemical	q:true	qid:Q155	docId:19657887	origText:acetaldehyde	url:D000079
+CANDIDATE	id:79	inCount:38	outCount:1	links:79	url:D000079	name:Acetaldehyde	normalName:acetaldehyde	normalWikiTitle:acetaldehyde	predictedType:Chemical
+ENTITY	text:aldehyde	normalName:aldehyde	predictedType:chemical	q:true	qid:Q155	docId:19657887	origText:aldehyde	url:D000079
+CANDIDATE	id:79	inCount:38	outCount:1	links:79	url:D000079	name:Acetaldehyde	normalName:acetaldehyde	normalWikiTitle:acetaldehyde	predictedType:Chemical
+CANDIDATE	id:447	inCount:346	outCount:1	links:	url:D000447	name:Aldehydes	normalName:aldehydes	normalWikiTitle:aldehydes	predictedType:Chemical
+CANDIDATE	id:5662	inCount:23	outCount:2	links:	url:D005662	name:Furaldehyde	normalName:furaldehyde	normalWikiTitle:furaldehyde	predictedType:Chemical
+CANDIDATE	id:1058	inCount:0	outCount:1	links:	url:C001058	name:pivaldehyde	normalName:pivaldehyde	normalWikiTitle:pivaldehyde	predictedType:Chemical
+CANDIDATE	id:2935	inCount:0	outCount:1	links:	url:C002935	name:metaldehyde	normalName:metaldehyde	normalWikiTitle:metaldehyde	predictedType:Chemical
+CANDIDATE	id:6662	inCount:0	outCount:1	links:	url:C006662	name:azoaldehyde	normalName:azoaldehyde	normalWikiTitle:azoaldehyde	predictedType:Chemical
+CANDIDATE	id:10242	inCount:0	outCount:1	links:	url:D010242	name:Paraldehyde	normalName:paraldehyde	normalWikiTitle:paraldehyde	predictedType:Chemical
+CANDIDATE	id:516781	inCount:0	outCount:1	links:	url:C516781	name:C22 aldehyde	normalName:c22 aldehyde	normalWikiTitle:c22 aldehyde	predictedType:Chemical
+CANDIDATE	id:5557	inCount:43	outCount:1	links:	url:D005557	name:Formaldehyde	normalName:formaldehyde	normalWikiTitle:formaldehyde	predictedType:Chemical
+CANDIDATE	id:32175	inCount:0	outCount:1	links:	url:C032175	name:benzaldehyde	normalName:benzaldehyde	normalWikiTitle:benzaldehyde	predictedType:Chemical
+ENTITY	text:Disulfiram	normalName:disulfiram	predictedType:chemical	q:true	qid:Q155	docId:19657887	origText:Disulfiram	url:D004221
+CANDIDATE	id:4221	inCount:5	outCount:2	links:	url:D004221	name:Disulfiram	normalName:disulfiram	normalWikiTitle:disulfiram	predictedType:Chemical
+ENTITY	text:hydrogen cyanamide	normalName:hydrogen cyanamide	predictedType:chemical	q:true	qid:Q155	docId:19657887	origText:hydrogen cyanamide	url:D003484
+CANDIDATE	id:3484	inCount:4	outCount:2	links:	url:D003484	name:Cyanamide	normalName:cyanamide	normalWikiTitle:cyanamide	predictedType:Chemical
+CANDIDATE	id:6856	inCount:1	outCount:2	links:	url:D006856	name:Hydrogen Cyanide	normalName:hydrogen cyanide	normalWikiTitle:hydrogen cyanide	predictedType:Chemical
+CANDIDATE	id:86006	inCount:0	outCount:1	links:	url:C086006	name:dehydrothermal-cyanamide	normalName:dehydrothermal-cyanamide	normalWikiTitle:dehydrothermal-cyanamide	predictedType:Chemical
+CANDIDATE	id:488133	inCount:0	outCount:2	links:	url:C488133	name:7-hydroxy-clausenamide	normalName:7-hydroxy-clausenamide	normalWikiTitle:7-hydroxy-clausenamide	predictedType:Chemical
+CANDIDATE	id:519424	inCount:0	outCount:2	links:	url:C519424	name:6-hydroxyl-clausenamide	normalName:6-hydroxyl-clausenamide	normalWikiTitle:6-hydroxyl-clausenamide	predictedType:Chemical
+CANDIDATE	id:496336	inCount:0	outCount:1	links:	url:C496336	name:hemin dicyanide	normalName:hemin dicyanide	normalWikiTitle:hemin dicyanide	predictedType:Chemical
+CANDIDATE	id:41576	inCount:0	outCount:1	links:	url:C041576	name:hygrolidin amide	normalName:hygrolidin amide	normalWikiTitle:hygrolidin amide	predictedType:Chemical
+CANDIDATE	id:74036	inCount:0	outCount:2	links:	url:C074036	name:4-(hydroxyphenyl)acetamide	normalName:4-(hydroxyphenyl)acetamide	normalWikiTitle:4-(hydroxyphenyl)acetamide	predictedType:Chemical
+CANDIDATE	id:21170	inCount:0	outCount:1	links:	url:C021170	name:decanaldehyde	normalName:decanaldehyde	normalWikiTitle:decanaldehyde	predictedType:Chemical
+CANDIDATE	id:615203	inCount:0	outCount:1	links:	url:C000615203	name:Hydrogen-5	normalName:hydrogen-5	normalWikiTitle:hydrogen-5	predictedType:Chemical

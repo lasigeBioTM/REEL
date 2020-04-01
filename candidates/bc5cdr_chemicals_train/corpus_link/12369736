@@ -1,0 +1,6 @@
+ENTITY	text:GR 55562	normalName:gr 55562	predictedType:chemical	q:true	qid:Q343	docId:12369736	origText:GR 55562	url:C103477
+CANDIDATE	id:103477	inCount:0	outCount:2	links:	url:C103477	name:GR 55562	normalName:gr 55562	normalWikiTitle:gr 55562	predictedType:Chemical
+ENTITY	text:cocaine	normalName:cocaine	predictedType:chemical	q:true	qid:Q343	docId:12369736	origText:cocaine	url:D003042
+CANDIDATE	id:3042	inCount:89	outCount:1	links:65046	url:D003042	name:Cocaine	normalName:cocaine	normalWikiTitle:cocaine	predictedType:Chemical
+ENTITY	text:CP 93129	normalName:cp 93129	predictedType:chemical	q:true	qid:Q343	docId:12369736	origText:CP 93129	url:C065046
+CANDIDATE	id:65046	inCount:0	outCount:2	links:3042	url:C065046	name:CP 93129	normalName:cp 93129	normalWikiTitle:cp 93129	predictedType:Chemical

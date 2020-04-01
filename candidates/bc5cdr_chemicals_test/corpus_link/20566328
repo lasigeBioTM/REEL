@@ -1,0 +1,6 @@
+ENTITY	text:oxygen	normalName:oxygen	predictedType:chemical	q:true	qid:Q145	docId:20566328	origText:oxygen	url:D010100
+CANDIDATE	id:10100	inCount:11	outCount:2	links:255	url:D010100	name:Oxygen	normalName:oxygen	normalWikiTitle:oxygen	predictedType:Chemical
+ENTITY	text:ATP	normalName:atp	predictedType:chemical	q:true	qid:Q145	docId:20566328	origText:ATP	url:D000255
+CANDIDATE	id:255	inCount:176	outCount:1	links:10100	url:D000255	name:ATP	normalName:atp	normalWikiTitle:atp	predictedType:Chemical
+ENTITY	text:cocaine	normalName:cocaine	predictedType:chemical	q:true	qid:Q145	docId:20566328	origText:cocaine	url:D003042
+CANDIDATE	id:3042	inCount:89	outCount:1	links:	url:D003042	name:Cocaine	normalName:cocaine	normalWikiTitle:cocaine	predictedType:Chemical

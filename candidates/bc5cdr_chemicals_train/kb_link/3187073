@@ -1,0 +1,15 @@
+ENTITY	text:5-fluorouracil	normalName:5-fluorouracil	predictedType:chemical	q:true	qid:Q68	docId:3187073	origText:5-fluorouracil	url:D005472
+CANDIDATE	id:5472	inCount:271	outCount:1	links:5472	url:D005472	name:5 Fluorouracil	normalName:5 fluorouracil	normalWikiTitle:5 fluorouracil	predictedType:Chemical
+ENTITY	text:cis-platin	normalName:cis-platin	predictedType:chemical	q:true	qid:Q68	docId:3187073	origText:cis-platin	url:D002945
+CANDIDATE	id:2945	inCount:293	outCount:3	links:	url:D002945	name:Cisplatin	normalName:cisplatin	normalWikiTitle:cisplatin	predictedType:Chemical
+CANDIDATE	id:98361	inCount:0	outCount:1	links:	url:C098361	name:plactin C	normalName:plactin c	normalWikiTitle:plactin c	predictedType:Chemical
+CANDIDATE	id:621688	inCount:0	outCount:2	links:	url:C000621688	name:Cx-platin	normalName:cx-platin	normalWikiTitle:cx-platin	predictedType:Chemical
+CANDIDATE	id:37510	inCount:0	outCount:3	links:	url:C037510	name:DVP (cisplatin)	normalName:dvp (cisplatin)	normalWikiTitle:dvp (cisplatin)	predictedType:Chemical
+CANDIDATE	id:609050	inCount:0	outCount:1	links:	url:C000609050	name:platin-B	normalName:platin-b	normalWikiTitle:platin-b	predictedType:Chemical
+CANDIDATE	id:606482	inCount:0	outCount:1	links:	url:C000606482	name:myrisplatin	normalName:myrisplatin	normalWikiTitle:myrisplatin	predictedType:Chemical
+CANDIDATE	id:519987	inCount:0	outCount:1	links:	url:C519987	name:cis-solamin	normalName:cis-solamin	normalWikiTitle:cis-solamin	predictedType:Chemical
+CANDIDATE	id:7510	inCount:56	outCount:1	links:	url:D007510	name:Isatin	normalName:isatin	normalWikiTitle:isatin	predictedType:Chemical
+CANDIDATE	id:98359	inCount:0	outCount:1	links:	url:C098359	name:plactin A	normalName:plactin a	normalWikiTitle:plactin a	predictedType:Chemical
+CANDIDATE	id:98362	inCount:0	outCount:1	links:	url:C098362	name:plactin D	normalName:plactin d	normalWikiTitle:plactin d	predictedType:Chemical
+ENTITY	text:5-FU	normalName:5-fu	predictedType:chemical	q:true	qid:Q68	docId:3187073	origText:5-FU	url:D005472
+CANDIDATE	id:5472	inCount:271	outCount:1	links:5472	url:D005472	name:5-FU	normalName:5-fu	normalWikiTitle:5-fu	predictedType:Chemical

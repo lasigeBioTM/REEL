@@ -1,0 +1,28 @@
+ENTITY	text:jaundice	normalName:jaundice	predictedType:disease	q:true	qid:Q276	docId:17919553	origText:jaundice	url:D007565
+CANDIDATE	id:7565	inCount:5	outCount:2	links:56486;9325;14839	url:D007565	name:Jaundice	normalName:jaundice	normalWikiTitle:jaundice	predictedType:Disease
+ENTITY	text:upper respiratory tract infection	normalName:upper respiratory tract infection	predictedType:disease	q:true	qid:Q276	docId:17919553	origText:upper respiratory tract infection	url:D012141
+CANDIDATE	id:12141	inCount:27	outCount:2	links:	url:D012141	name:Respiratory Infection, Upper	normalName:respiratory infection, upper	normalWikiTitle:respiratory infection, upper	predictedType:Disease
+CANDIDATE	id:12141	inCount:27	outCount:2	links:	url:D012141	name:Respiratory Tract Infections	normalName:respiratory tract infections	normalWikiTitle:respiratory tract infections	predictedType:Disease
+CANDIDATE	id:18357	inCount:0	outCount:1	links:	url:D018357	name:Respiratory Syncytial Virus Infections	normalName:respiratory syncytial virus infections	normalWikiTitle:respiratory syncytial virus infections	predictedType:Disease
+CANDIDATE	id:12142	inCount:5	outCount:2	links:	url:D012142	name:Respiratory Tract Neoplasms	normalName:respiratory tract neoplasms	normalWikiTitle:respiratory tract neoplasms	predictedType:Disease
+CANDIDATE	id:16156	inCount:2	outCount:2	links:	url:D016156	name:Respiratory Tract Fistula	normalName:respiratory tract fistula	normalWikiTitle:respiratory tract fistula	predictedType:Disease
+CANDIDATE	id:10253	inCount:1	outCount:1	links:	url:D010253	name:Respirovirus Infections	normalName:respirovirus infections	normalWikiTitle:respirovirus infections	predictedType:Disease
+CANDIDATE	id:12140	inCount:17	outCount:1	links:	url:D012140	name:Respiratory Tract Diseases	normalName:respiratory tract diseases	normalWikiTitle:respiratory tract diseases	predictedType:Disease
+CANDIDATE	id:60737	inCount:0	outCount:3	links:	url:D060737	name:Reproductive Tract Infections	normalName:reproductive tract infections	normalWikiTitle:reproductive tract infections	predictedType:Disease
+CANDIDATE	id:15769	inCount:1	outCount:2	links:	url:D015769	name:Granuloma, Respiratory Tract	normalName:granuloma, respiratory tract	normalWikiTitle:granuloma, respiratory tract	predictedType:Disease
+CANDIDATE	id:14552	inCount:3	outCount:2	links:	url:D014552	name:Urinary Tract Infections	normalName:urinary tract infections	normalWikiTitle:urinary tract infections	predictedType:Disease
+CANDIDATE	id:565366	inCount:0	outCount:1	links:	url:C565366	name:Mucus Inspissation of Respiratory Tract	normalName:mucus inspissation of respiratory tract	normalWikiTitle:mucus inspissation of respiratory tract	predictedType:Disease
+CANDIDATE	id:12141	inCount:27	outCount:2	links:	url:D012141	name:Infections, Upper Respiratory Tract	normalName:infections, upper respiratory tract	normalWikiTitle:infections, upper respiratory tract	predictedType:Disease
+CANDIDATE	id:12141	inCount:27	outCount:2	links:	url:D012141	name:Upper Respiratory Tract Infections	normalName:upper respiratory tract infections	normalWikiTitle:upper respiratory tract infections	predictedType:Disease
+CANDIDATE	id:12141	inCount:27	outCount:2	links:	url:D012141	name:Infection, Respiratory Tract	normalName:infection, respiratory tract	normalWikiTitle:infection, respiratory tract	predictedType:Disease
+CANDIDATE	id:12141	inCount:27	outCount:2	links:	url:D012141	name:Respiratory Tract Infection	normalName:respiratory tract infection	normalWikiTitle:respiratory tract infection	predictedType:Disease
+ENTITY	text:toxic hepatitis	normalName:toxic hepatitis	predictedType:disease	q:true	qid:Q276	docId:17919553	origText:toxic hepatitis	url:D056486
+CANDIDATE	id:56486	inCount:2	outCount:3	links:7565;9325;14839	url:D056486	name:Toxic Hepatitis	normalName:toxic hepatitis	normalWikiTitle:toxic hepatitis	predictedType:Disease
+ENTITY	text:adverse drug reaction	normalName:adverse drug reaction	predictedType:disease	q:true	qid:Q276	docId:17919553	origText:adverse drug reaction	url:D064420
+CANDIDATE	id:64420	inCount:10	outCount:1	links:64420	url:D064420	name:Adverse Drug Reaction	normalName:adverse drug reaction	normalWikiTitle:adverse drug reaction	predictedType:Disease
+ENTITY	text:vomiting	normalName:vomiting	predictedType:disease	q:true	qid:Q276	docId:17919553	origText:vomiting	url:D014839
+CANDIDATE	id:14839	inCount:7	outCount:1	links:7565;56486;9325	url:D014839	name:Vomiting	normalName:vomiting	normalWikiTitle:vomiting	predictedType:Disease
+ENTITY	text:nausea	normalName:nausea	predictedType:disease	q:true	qid:Q276	docId:17919553	origText:nausea	url:D009325
+CANDIDATE	id:9325	inCount:2	outCount:1	links:7565;56486;14839	url:D009325	name:Nausea	normalName:nausea	normalWikiTitle:nausea	predictedType:Disease
+ENTITY	text:adverse drug reactions	normalName:adverse drug reactions	predictedType:disease	q:true	qid:Q276	docId:17919553	origText:adverse drug reactions	url:D064420
+CANDIDATE	id:64420	inCount:10	outCount:1	links:64420	url:D064420	name:Adverse Drug Reaction	normalName:adverse drug reaction	normalWikiTitle:adverse drug reaction	predictedType:Disease

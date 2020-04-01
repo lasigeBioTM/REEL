@@ -1,0 +1,23 @@
+ENTITY	text:tobramycin sulfate	normalName:tobramycin sulfate	predictedType:chemical	q:true	qid:Q391	docId:3535719	origText:tobramycin sulfate	url:D014031
+CANDIDATE	id:14031	inCount:6	outCount:1	links:14031	url:D014031	name:Tobramycin Sulfate	normalName:tobramycin sulfate	normalWikiTitle:tobramycin sulfate	predictedType:Chemical
+ENTITY	text:tobramycin	normalName:tobramycin	predictedType:chemical	q:true	qid:Q391	docId:3535719	origText:tobramycin	url:D014031
+CANDIDATE	id:14031	inCount:6	outCount:1	links:14031	url:D014031	name:Tobramycin	normalName:tobramycin	normalWikiTitle:tobramycin	predictedType:Chemical
+ENTITY	text:netilmicin sulfate	normalName:netilmicin sulfate	predictedType:chemical	q:true	qid:Q391	docId:3535719	origText:netilmicin sulfate	url:D009428
+CANDIDATE	id:9428	inCount:1	outCount:1	links:9428	url:D009428	name:Netilmicin Sulfate	normalName:netilmicin sulfate	normalWikiTitle:netilmicin sulfate	predictedType:Chemical
+ENTITY	text:netilmicin	normalName:netilmicin	predictedType:chemical	q:true	qid:Q391	docId:3535719	origText:netilmicin	url:D009428
+CANDIDATE	id:9428	inCount:1	outCount:1	links:9428	url:D009428	name:Netilmicin	normalName:netilmicin	normalWikiTitle:netilmicin	predictedType:Chemical
+ENTITY	text:aminoglycoside	normalName:aminoglycoside	predictedType:chemical	q:true	qid:Q391	docId:3535719	origText:aminoglycoside	url:D000617
+CANDIDATE	id:617	inCount:339	outCount:1	links:	url:D000617	name:Aminoglycosides	normalName:aminoglycosides	normalWikiTitle:aminoglycosides	predictedType:Chemical
+CANDIDATE	id:572445	inCount:0	outCount:2	links:	url:C572445	name:aminoglycoside NB84	normalName:aminoglycoside nb84	normalWikiTitle:aminoglycoside nb84	predictedType:Chemical
+CANDIDATE	id:20970	inCount:0	outCount:1	links:	url:C020970	name:aminoglycogen	normalName:aminoglycogen	normalWikiTitle:aminoglycogen	predictedType:Chemical
+CANDIDATE	id:15614	inCount:0	outCount:1	links:	url:C015614	name:aminoglycoside 66-40C	normalName:aminoglycoside 66-40c	normalWikiTitle:aminoglycoside 66-40c	predictedType:Chemical
+CANDIDATE	id:5351	inCount:0	outCount:1	links:	url:C005351	name:1-aminoglucose	normalName:1-aminoglucose	normalWikiTitle:1-aminoglucose	predictedType:Chemical
+CANDIDATE	id:13865	inCount:33	outCount:2	links:	url:D013865	name:Thioglycosides	normalName:thioglycosides	normalWikiTitle:thioglycosides	predictedType:Chemical
+CANDIDATE	id:87807	inCount:0	outCount:1	links:	url:C087807	name:daucoglycoside	normalName:daucoglycoside	normalWikiTitle:daucoglycoside	predictedType:Chemical
+CANDIDATE	id:33013	inCount:0	outCount:1	links:	url:C033013	name:iminoglycine	normalName:iminoglycine	normalWikiTitle:iminoglycine	predictedType:Chemical
+CANDIDATE	id:507900	inCount:0	outCount:1	links:	url:C507900	name:diaminoglyoxime	normalName:diaminoglyoxime	normalWikiTitle:diaminoglyoxime	predictedType:Chemical
+CANDIDATE	id:51618	inCount:0	outCount:1	links:	url:C051618	name:mycoside A	normalName:mycoside a	normalWikiTitle:mycoside a	predictedType:Chemical
+ENTITY	text:piperacillin	normalName:piperacillin	predictedType:chemical	q:true	qid:Q391	docId:3535719	origText:piperacillin	url:D010878
+CANDIDATE	id:10878	inCount:4	outCount:1	links:10878	url:D010878	name:Piperacillin	normalName:piperacillin	normalWikiTitle:piperacillin	predictedType:Chemical
+ENTITY	text:piperacillin sodium	normalName:piperacillin sodium	predictedType:chemical	q:true	qid:Q391	docId:3535719	origText:piperacillin sodium	url:D010878
+CANDIDATE	id:10878	inCount:4	outCount:1	links:10878	url:D010878	name:Sodium, Piperacillin	normalName:sodium, piperacillin	normalWikiTitle:sodium, piperacillin	predictedType:Chemical

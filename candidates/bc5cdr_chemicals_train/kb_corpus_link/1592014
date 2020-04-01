@@ -1,0 +1,4 @@
+ENTITY	text:cocaine	normalName:cocaine	predictedType:chemical	q:true	qid:Q292	docId:1592014	origText:cocaine	url:D003042
+CANDIDATE	id:3042	inCount:89	outCount:1	links:5618	url:D003042	name:Cocaine	normalName:cocaine	normalWikiTitle:cocaine	predictedType:Chemical
+ENTITY	text:benzoylecgonine	normalName:benzoylecgonine	predictedType:chemical	q:true	qid:Q292	docId:1592014	origText:benzoylecgonine	url:C005618
+CANDIDATE	id:5618	inCount:0	outCount:1	links:3042	url:C005618	name:benzoylecgonine	normalName:benzoylecgonine	normalWikiTitle:benzoylecgonine	predictedType:Chemical

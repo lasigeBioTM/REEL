@@ -1,0 +1,33 @@
+ENTITY	text:dermatomyositis	normalName:dermatomyositis	predictedType:disease	q:true	qid:Q1397	docId:8268147	origText:dermatomyositis	url:D003882
+CANDIDATE	id:3882	inCount:2	outCount:3	links:	url:D003882	name:Dermatomyositis	normalName:dermatomyositis	normalWikiTitle:dermatomyositis	predictedType:Disease
+ENTITY	text:polymyositis	normalName:polymyositis	predictedType:disease	q:true	qid:Q1397	docId:8268147	origText:polymyositis	url:D017285
+CANDIDATE	id:17285	inCount:1	outCount:1	links:	url:D017285	name:Polymyositis	normalName:polymyositis	normalWikiTitle:polymyositis	predictedType:Disease
+ENTITY	text:rheumatologic diseases	normalName:rheumatologic diseases	predictedType:disease	q:true	qid:Q1397	docId:8268147	origText:rheumatologic diseases	url:D012216
+CANDIDATE	id:12216	inCount:9	outCount:2	links:	url:D012216	name:Rheumatic Diseases	normalName:rheumatic diseases	normalWikiTitle:rheumatic diseases	predictedType:Disease
+CANDIDATE	id:6402	inCount:22	outCount:1	links:66126	url:D006402	name:Hematologic Diseases	normalName:hematologic diseases	normalWikiTitle:hematologic diseases	predictedType:Disease
+CANDIDATE	id:14570	inCount:9	outCount:2	links:	url:D014570	name:Urologic Diseases	normalName:urologic diseases	normalWikiTitle:urologic diseases	predictedType:Disease
+CANDIDATE	id:12214	inCount:0	outCount:2	links:	url:D012214	name:Rheumatic Heart Disease	normalName:rheumatic heart disease	normalWikiTitle:rheumatic heart disease	predictedType:Disease
+CANDIDATE	id:6450	inCount:0	outCount:1	links:	url:D006450	name:Hemoglobin SC Disease	normalName:hemoglobin sc disease	normalWikiTitle:hemoglobin sc disease	predictedType:Disease
+CANDIDATE	id:581942	inCount:0	outCount:1	links:	url:C581942	name:Hemoglobin M Disease	normalName:hemoglobin m disease	normalWikiTitle:hemoglobin m disease	predictedType:Disease
+CANDIDATE	id:6445	inCount:1	outCount:2	links:	url:D006445	name:Hemoglobin C Disease	normalName:hemoglobin c disease	normalWikiTitle:hemoglobin c disease	predictedType:Disease
+CANDIDATE	id:8659	inCount:23	outCount:1	links:	url:D008659	name:Metabolic Diseases	normalName:metabolic diseases	normalWikiTitle:metabolic diseases	predictedType:Disease
+CANDIDATE	id:7049	inCount:1	outCount:1	links:	url:D007049	name:Iatrogenic Disease	normalName:iatrogenic disease	normalWikiTitle:iatrogenic disease	predictedType:Disease
+CANDIDATE	id:10182	inCount:13	outCount:1	links:	url:D010182	name:Pancreatic Diseases	normalName:pancreatic diseases	normalWikiTitle:pancreatic diseases	predictedType:Disease
+CANDIDATE	id:6402	inCount:22	outCount:1	links:66126	url:D006402	name:Disease, Hematologic	normalName:disease, hematologic	normalWikiTitle:disease, hematologic	predictedType:Disease
+CANDIDATE	id:6402	inCount:22	outCount:1	links:66126	url:D006402	name:Hematologic Disease	normalName:hematologic disease	normalWikiTitle:hematologic disease	predictedType:Disease
+ENTITY	text:primary biliary cirrhosis	normalName:primary biliary cirrhosis	predictedType:disease	q:true	qid:Q1397	docId:8268147	origText:primary biliary cirrhosis	url:D008105
+CANDIDATE	id:8105	inCount:5	outCount:2	links:	url:D008105	name:Primary Biliary Cirrhosis	normalName:primary biliary cirrhosis	normalWikiTitle:primary biliary cirrhosis	predictedType:Disease
+ENTITY	text:toxicity	normalName:toxicity	predictedType:disease	q:true	qid:Q1397	docId:8268147	origText:toxicity	url:D064420
+CANDIDATE	id:64420	inCount:10	outCount:1	links:	url:D064420	name:Drug Toxicity	normalName:drug toxicity	normalWikiTitle:drug toxicity	predictedType:Disease
+CANDIDATE	id:66126	inCount:0	outCount:3	links:6402	url:D066126	name:Cardiotoxicity	normalName:cardiotoxicity	normalWikiTitle:cardiotoxicity	predictedType:Disease
+CANDIDATE	id:15651	inCount:2	outCount:1	links:	url:D015651	name:Mycotoxicosis	normalName:mycotoxicosis	normalWikiTitle:mycotoxicosis	predictedType:Disease
+CANDIDATE	id:13971	inCount:2	outCount:1	links:	url:D013971	name:Thyrotoxicosis	normalName:thyrotoxicosis	normalWikiTitle:thyrotoxicosis	predictedType:Disease
+CANDIDATE	id:14869	inCount:0	outCount:2	links:	url:D014869	name:Water Intoxication	normalName:water intoxication	normalWikiTitle:water intoxication	predictedType:Disease
+CANDIDATE	id:14103	inCount:4	outCount:2	links:	url:D014103	name:Torticollis	normalName:torticollis	normalWikiTitle:torticollis	predictedType:Disease
+CANDIDATE	id:9765	inCount:42	outCount:2	links:	url:D009765	name:Obesity	normalName:obesity	normalWikiTitle:obesity	predictedType:Disease
+CANDIDATE	id:14115	inCount:1	outCount:1	links:	url:D014115	name:Toxemia	normalName:toxemia	normalWikiTitle:toxemia	predictedType:Disease
+CANDIDATE	id:7246	inCount:2	outCount:2	links:	url:D007246	name:Infertility	normalName:infertility	normalWikiTitle:infertility	predictedType:Disease
+CANDIDATE	id:20234	inCount:0	outCount:2	links:	url:D020234	name:Gait Ataxia	normalName:gait ataxia	normalWikiTitle:gait ataxia	predictedType:Disease
+CANDIDATE	id:14069	inCount:1	outCount:1	links:	url:D014069	name:Tonsillitis	normalName:tonsillitis	normalWikiTitle:tonsillitis	predictedType:Disease
+CANDIDATE	id:64420	inCount:10	outCount:1	links:	url:D064420	name:Toxicity, Drug	normalName:toxicity, drug	normalWikiTitle:toxicity, drug	predictedType:Disease
+CANDIDATE	id:17484	inCount:0	outCount:2	links:	url:D017484	name:Phototoxicity	normalName:phototoxicity	normalWikiTitle:phototoxicity	predictedType:Disease

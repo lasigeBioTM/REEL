@@ -1,0 +1,6 @@
+ENTITY	text:pilocarpine	normalName:pilocarpine	predictedType:chemical	q:true	qid:Q441	docId:15120741	origText:pilocarpine	url:D010862
+CANDIDATE	id:10862	inCount:7	outCount:1	links:1640	url:D010862	name:Pilocarpine	normalName:pilocarpine	normalWikiTitle:pilocarpine	predictedType:Chemical
+ENTITY	text:bicuculline	normalName:bicuculline	predictedType:chemical	q:true	qid:Q441	docId:15120741	origText:bicuculline	url:D001640
+CANDIDATE	id:1640	inCount:4	outCount:1	links:10862	url:D001640	name:Bicuculline	normalName:bicuculline	normalWikiTitle:bicuculline	predictedType:Chemical
+ENTITY	text:glutamate	normalName:glutamate	predictedType:chemical	q:true	qid:Q441	docId:15120741	origText:glutamate	url:D018698
+CANDIDATE	id:18698	inCount:53	outCount:2	links:	url:D018698	name:Glutamate	normalName:glutamate	normalWikiTitle:glutamate	predictedType:Chemical

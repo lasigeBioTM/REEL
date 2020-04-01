@@ -1,0 +1,6 @@
+ENTITY	text:reserpine	normalName:reserpine	predictedType:chemical	q:true	qid:Q105	docId:19761039	origText:reserpine	url:D012110
+CANDIDATE	id:12110	inCount:25	outCount:1	links:	url:D012110	name:Reserpine	normalName:reserpine	normalWikiTitle:reserpine	predictedType:Chemical
+ENTITY	text:glutathione	normalName:glutathione	predictedType:chemical	q:true	qid:Q105	docId:19761039	origText:glutathione	url:D005978
+CANDIDATE	id:5978	inCount:255	outCount:1	links:	url:D005978	name:Glutathione	normalName:glutathione	normalWikiTitle:glutathione	predictedType:Chemical
+ENTITY	text:superoxide	normalName:superoxide	predictedType:chemical	q:true	qid:Q105	docId:19761039	origText:superoxide	url:D013481
+CANDIDATE	id:13481	inCount:1	outCount:1	links:	url:D013481	name:Superoxide	normalName:superoxide	normalWikiTitle:superoxide	predictedType:Chemical

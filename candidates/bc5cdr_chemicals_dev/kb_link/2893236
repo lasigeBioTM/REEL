@@ -1,0 +1,25 @@
+ENTITY	text:thiosemicarbazide	normalName:thiosemicarbazide	predictedType:chemical	q:true	qid:Q72	docId:2893236	origText:thiosemicarbazide	url:C005151
+CANDIDATE	id:5151	inCount:0	outCount:1	links:	url:C005151	name:thiosemicarbazide	normalName:thiosemicarbazide	normalWikiTitle:thiosemicarbazide	predictedType:Chemical
+ENTITY	text:GABA	normalName:gaba	predictedType:chemical	q:true	qid:Q72	docId:2893236	origText:GABA	url:D005680
+CANDIDATE	id:5680	inCount:100	outCount:1	links:	url:D005680	name:GABA	normalName:gaba	normalWikiTitle:gaba	predictedType:Chemical
+ENTITY	text:amino acids	normalName:amino acids	predictedType:chemical	q:true	qid:Q72	docId:2893236	origText:amino acids	url:D000596
+CANDIDATE	id:596	inCount:212	outCount:1	links:	url:D000596	name:Amino Acids	normalName:amino acids	normalWikiTitle:amino acids	predictedType:Chemical
+CANDIDATE	id:7098	inCount:66	outCount:3	links:	url:D007098	name:Imino Acids	normalName:imino acids	normalWikiTitle:imino acids	predictedType:Chemical
+CANDIDATE	id:15258	inCount:0	outCount:1	links:	url:D015258	name:Acid Rain	normalName:acid rain	normalWikiTitle:acid rain	predictedType:Chemical
+CANDIDATE	id:17721	inCount:0	outCount:1	links:	url:C017721	name:casamino acids	normalName:casamino acids	normalWikiTitle:casamino acids	predictedType:Chemical
+CANDIDATE	id:33153	inCount:0	outCount:1	links:	url:C033153	name:amido-G-acid	normalName:amido-g-acid	normalWikiTitle:amido-g-acid	predictedType:Chemical
+CANDIDATE	id:603108	inCount:0	outCount:2	links:	url:C000603108	name:chaminic acid	normalName:chaminic acid	normalWikiTitle:chaminic acid	predictedType:Chemical
+CANDIDATE	id:98196	inCount:0	outCount:1	links:	url:C098196	name:marinoic acid	normalName:marinoic acid	normalWikiTitle:marinoic acid	predictedType:Chemical
+CANDIDATE	id:452082	inCount:0	outCount:1	links:	url:C452082	name:jasminic acid	normalName:jasminic acid	normalWikiTitle:jasminic acid	predictedType:Chemical
+CANDIDATE	id:477448	inCount:0	outCount:2	links:	url:C477448	name:fluvoxamino acid	normalName:fluvoxamino acid	normalWikiTitle:fluvoxamino acid	predictedType:Chemical
+CANDIDATE	id:7608	inCount:17	outCount:1	links:	url:D007608	name:Kainic Acid	normalName:kainic acid	normalWikiTitle:kainic acid	predictedType:Chemical
+ENTITY	text:glutamate	normalName:glutamate	predictedType:chemical	q:true	qid:Q72	docId:2893236	origText:glutamate	url:D018698
+CANDIDATE	id:18698	inCount:53	outCount:2	links:	url:D018698	name:Glutamate	normalName:glutamate	normalWikiTitle:glutamate	predictedType:Chemical
+ENTITY	text:thiopental	normalName:thiopental	predictedType:chemical	q:true	qid:Q72	docId:2893236	origText:thiopental	url:D013874
+CANDIDATE	id:13874	inCount:3	outCount:1	links:	url:D013874	name:Thiopental	normalName:thiopental	normalWikiTitle:thiopental	predictedType:Chemical
+ENTITY	text:naloxone	normalName:naloxone	predictedType:chemical	q:true	qid:Q72	docId:2893236	origText:naloxone	url:D009270
+CANDIDATE	id:9270	inCount:20	outCount:1	links:	url:D009270	name:Naloxone	normalName:naloxone	normalWikiTitle:naloxone	predictedType:Chemical
+ENTITY	text:glycine	normalName:glycine	predictedType:chemical	q:true	qid:Q72	docId:2893236	origText:glycine	url:D005998
+CANDIDATE	id:5998	inCount:463	outCount:1	links:	url:D005998	name:Glycine	normalName:glycine	normalWikiTitle:glycine	predictedType:Chemical
+ENTITY	text:aspartate	normalName:aspartate	predictedType:chemical	q:true	qid:Q72	docId:2893236	origText:aspartate	url:D001224
+CANDIDATE	id:1224	inCount:112	outCount:3	links:	url:D001224	name:Aspartate	normalName:aspartate	normalWikiTitle:aspartate	predictedType:Chemical

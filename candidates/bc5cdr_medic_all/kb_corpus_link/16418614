@@ -1,0 +1,10 @@
+ENTITY	text:vasculitis	normalName:vasculitis	predictedType:disease	q:true	qid:Q1042	docId:16418614	origText:vasculitis	url:D014657
+CANDIDATE	id:14657	inCount:16	outCount:1	links:	url:D014657	name:Vasculitis	normalName:vasculitis	normalWikiTitle:vasculitis	predictedType:Disease
+ENTITY	text:Turner Syndrome	normalName:turner syndrome	predictedType:disease	q:true	qid:Q1042	docId:16418614	origText:Turner Syndrome	url:D014424
+CANDIDATE	id:14424	inCount:2	outCount:3	links:	url:D014424	name:Turner Syndrome	normalName:turner syndrome	normalWikiTitle:turner syndrome	predictedType:Disease
+ENTITY	text:purpura	normalName:purpura	predictedType:disease	q:true	qid:Q1042	docId:16418614	origText:purpura	url:D011693
+CANDIDATE	id:11693	inCount:8	outCount:3	links:	url:D011693	name:Purpura	normalName:purpura	normalWikiTitle:purpura	predictedType:Disease
+ENTITY	text:hyperthyroidism	normalName:hyperthyroidism	predictedType:disease	q:true	qid:Q1042	docId:16418614	origText:hyperthyroidism	url:D006980
+CANDIDATE	id:6980	inCount:6	outCount:1	links:	url:D006980	name:Hyperthyroidism	normalName:hyperthyroidism	normalWikiTitle:hyperthyroidism	predictedType:Disease
+ENTITY	text:Graves' disease	normalName:graves' disease	predictedType:disease	q:true	qid:Q1042	docId:16418614	origText:Graves' disease	url:D006111
+CANDIDATE	id:6111	inCount:3	outCount:4	links:	url:D006111	name:Graves Disease	normalName:graves disease	normalWikiTitle:graves disease	predictedType:Disease

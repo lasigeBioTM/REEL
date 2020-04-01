@@ -1,0 +1,25 @@
+ENTITY	text:renal calculi	normalName:renal calculi	predictedType:disease	q:true	qid:Q569	docId:8170551	origText:renal calculi	url:D007669
+CANDIDATE	id:7669	inCount:3	outCount:2	links:7669	url:D007669	name:Renal Calculi	normalName:renal calculi	normalWikiTitle:renal calculi	predictedType:Disease
+ENTITY	text:paralysis	normalName:paralysis	predictedType:disease	q:true	qid:Q569	docId:8170551	origText:paralysis	url:D010243
+CANDIDATE	id:10243	inCount:10	outCount:1	links:	url:D010243	name:Paralysis	normalName:paralysis	normalWikiTitle:paralysis	predictedType:Disease
+ENTITY	text:nephrolithiasis	normalName:nephrolithiasis	predictedType:disease	q:true	qid:Q569	docId:8170551	origText:nephrolithiasis	url:D053040
+CANDIDATE	id:53040	inCount:9	outCount:2	links:	url:D053040	name:Nephrolithiasis	normalName:nephrolithiasis	normalWikiTitle:nephrolithiasis	predictedType:Disease
+ENTITY	text:renal calculus	normalName:renal calculus	predictedType:disease	q:true	qid:Q569	docId:8170551	origText:renal calculus	url:D007669
+CANDIDATE	id:7669	inCount:3	outCount:2	links:7669	url:D007669	name:Renal Calculus	normalName:renal calculus	normalWikiTitle:renal calculus	predictedType:Disease
+ENTITY	text:myotonia	normalName:myotonia	predictedType:disease	q:true	qid:Q569	docId:8170551	origText:myotonia	url:D009222
+CANDIDATE	id:9222	inCount:2	outCount:1	links:	url:D009222	name:Myotonia	normalName:myotonia	normalWikiTitle:myotonia	predictedType:Disease
+ENTITY	text:calculus	normalName:calculus	predictedType:disease	q:true	qid:Q569	docId:8170551	origText:calculus	url:D002137
+CANDIDATE	id:2137	inCount:5	outCount:1	links:	url:D002137	name:Calculus	normalName:calculus	normalWikiTitle:calculus	predictedType:Disease
+ENTITY	text:neuromuscular disorders	normalName:neuromuscular disorders	predictedType:disease	q:true	qid:Q569	docId:8170551	origText:neuromuscular disorders	url:D009468
+CANDIDATE	id:9468	inCount:14	outCount:1	links:	url:D009468	name:Neuromuscular Disease	normalName:neuromuscular disease	normalWikiTitle:neuromuscular disease	predictedType:Disease
+CANDIDATE	id:9468	inCount:14	outCount:1	links:	url:D009468	name:Neuromuscular Diseases	normalName:neuromuscular diseases	normalWikiTitle:neuromuscular diseases	predictedType:Disease
+CANDIDATE	id:9497	inCount:0	outCount:2	links:	url:D009497	name:Neurotic Disorders	normalName:neurotic disorders	normalWikiTitle:neurotic disorders	predictedType:Disease
+CANDIDATE	id:20966	inCount:3	outCount:1	links:	url:D020966	name:Muscular Disorders, Atrophic	normalName:muscular disorders, atrophic	normalWikiTitle:muscular disorders, atrophic	predictedType:Disease
+CANDIDATE	id:20879	inCount:10	outCount:1	links:	url:D020879	name:Neuromuscular Manifestations	normalName:neuromuscular manifestations	normalWikiTitle:neuromuscular manifestations	predictedType:Disease
+CANDIDATE	id:20511	inCount:4	outCount:1	links:	url:D020511	name:Neuromuscular Junction Diseases	normalName:neuromuscular junction diseases	normalWikiTitle:neuromuscular junction diseases	predictedType:Disease
+CANDIDATE	id:10468	inCount:8	outCount:1	links:	url:D010468	name:Perceptual Disorders	normalName:perceptual disorders	normalWikiTitle:perceptual disorders	predictedType:Disease
+CANDIDATE	id:9135	inCount:77	outCount:2	links:	url:D009135	name:Muscular Diseases	normalName:muscular diseases	normalWikiTitle:muscular diseases	predictedType:Disease
+CANDIDATE	id:563233	inCount:0	outCount:2	links:	url:C563233	name:Myelocerebellar Disorder	normalName:myelocerebellar disorder	normalWikiTitle:myelocerebellar disorder	predictedType:Disease
+CANDIDATE	id:19965	inCount:6	outCount:1	links:	url:D019965	name:Neurocognitive Disorders	normalName:neurocognitive disorders	normalWikiTitle:neurocognitive disorders	predictedType:Disease
+CANDIDATE	id:13705	inCount:2	outCount:3	links:	url:D013705	name:Temporomandibular Joint Disorders	normalName:temporomandibular joint disorders	normalWikiTitle:temporomandibular joint disorders	predictedType:Disease
+CANDIDATE	id:20511	inCount:4	outCount:1	links:	url:D020511	name:Neuromuscular Junction Disorder	normalName:neuromuscular junction disorder	normalWikiTitle:neuromuscular junction disorder	predictedType:Disease

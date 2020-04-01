@@ -1,0 +1,19 @@
+ENTITY	text:valproate	normalName:valproate	predictedType:chemical	q:true	qid:Q1334	docId:17828434	origText:valproate	url:D014635
+CANDIDATE	id:14635	inCount:43	outCount:1	links:8094	url:D014635	name:Valproate	normalName:valproate	normalWikiTitle:valproate	predictedType:Chemical
+ENTITY	text:inositol	normalName:inositol	predictedType:chemical	q:true	qid:Q1334	docId:17828434	origText:inositol	url:D007294
+CANDIDATE	id:7294	inCount:115	outCount:1	links:	url:D007294	name:Inositol	normalName:inositol	normalWikiTitle:inositol	predictedType:Chemical
+ENTITY	text:Myo-inositol-1-phosphate	normalName:myo-inositol-1-phosphate	predictedType:chemical	q:true	qid:Q1334	docId:17828434	origText:Myo-inositol-1-phosphate	url:C002647
+CANDIDATE	id:2647	inCount:0	outCount:1	links:	url:C002647	name:inositol 1-phosphate	normalName:inositol 1-phosphate	normalWikiTitle:inositol 1-phosphate	predictedType:Chemical
+CANDIDATE	id:10251	inCount:0	outCount:1	links:	url:C010251	name:inositol-1-pyrophosphate	normalName:inositol-1-pyrophosphate	normalWikiTitle:inositol-1-pyrophosphate	predictedType:Chemical
+CANDIDATE	id:75843	inCount:0	outCount:1	links:	url:C075843	name:di-myo-inositol-1,1'-phosphate	normalName:di-myo-inositol-1,1'-phosphate	normalWikiTitle:di-myo-inositol-1,1'-phosphate	predictedType:Chemical
+CANDIDATE	id:47872	inCount:0	outCount:1	links:	url:C047872	name:inositol 2-monophosphate	normalName:inositol 2-monophosphate	normalWikiTitle:inositol 2-monophosphate	predictedType:Chemical
+CANDIDATE	id:45537	inCount:0	outCount:1	links:	url:C045537	name:inositol 4-phosphate	normalName:inositol 4-phosphate	normalWikiTitle:inositol 4-phosphate	predictedType:Chemical
+CANDIDATE	id:52128	inCount:0	outCount:1	links:	url:C052128	name:inositol 3-phosphate	normalName:inositol 3-phosphate	normalWikiTitle:inositol 3-phosphate	predictedType:Chemical
+CANDIDATE	id:7295	inCount:78	outCount:2	links:	url:D007295	name:Inositol Phosphates	normalName:inositol phosphates	normalWikiTitle:inositol phosphates	predictedType:Chemical
+CANDIDATE	id:440349	inCount:0	outCount:1	links:	url:C440349	name:D-myo-inositol-1,3,4-trisphosphate	normalName:d-myo-inositol-1,3,4-trisphosphate	normalWikiTitle:d-myo-inositol-1,3,4-trisphosphate	predictedType:Chemical
+CANDIDATE	id:440348	inCount:0	outCount:1	links:	url:C440348	name:D-myo-inositol-1,2,4-trisphosphate	normalName:d-myo-inositol-1,2,4-trisphosphate	normalWikiTitle:d-myo-inositol-1,2,4-trisphosphate	predictedType:Chemical
+CANDIDATE	id:73048	inCount:0	outCount:1	links:	url:C073048	name:2-naphthyl-myo-inositol 1-phosphate	normalName:2-naphthyl-myo-inositol 1-phosphate	normalWikiTitle:2-naphthyl-myo-inositol 1-phosphate	predictedType:Chemical
+ENTITY	text:pilocarpine	normalName:pilocarpine	predictedType:chemical	q:true	qid:Q1334	docId:17828434	origText:pilocarpine	url:D010862
+CANDIDATE	id:10862	inCount:7	outCount:1	links:8094	url:D010862	name:Pilocarpine	normalName:pilocarpine	normalWikiTitle:pilocarpine	predictedType:Chemical
+ENTITY	text:Lithium	normalName:lithium	predictedType:chemical	q:true	qid:Q1334	docId:17828434	origText:Lithium	url:D008094
+CANDIDATE	id:8094	inCount:15	outCount:2	links:10862;14635	url:D008094	name:Lithium	normalName:lithium	normalWikiTitle:lithium	predictedType:Chemical

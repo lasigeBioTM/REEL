@@ -1,0 +1,4 @@
+ENTITY	text:tacrolimus	normalName:tacrolimus	predictedType:chemical	q:true	qid:Q503	docId:18503483	origText:tacrolimus	url:D016559
+CANDIDATE	id:16559	inCount:40	outCount:1	links:	url:D016559	name:Tacrolimus	normalName:tacrolimus	normalWikiTitle:tacrolimus	predictedType:Chemical
+ENTITY	text:methylprednisolone	normalName:methylprednisolone	predictedType:chemical	q:true	qid:Q503	docId:18503483	origText:methylprednisolone	url:D008775
+CANDIDATE	id:8775	inCount:29	outCount:1	links:	url:D008775	name:Methylprednisolone	normalName:methylprednisolone	normalWikiTitle:methylprednisolone	predictedType:Chemical

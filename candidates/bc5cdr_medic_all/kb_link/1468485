@@ -1,0 +1,8 @@
+ENTITY	text:hemorrhage	normalName:hemorrhage	predictedType:disease	q:true	qid:Q1047	docId:1468485	origText:hemorrhage	url:D006470
+CANDIDATE	id:6470	inCount:31	outCount:1	links:6470	url:D006470	name:Hemorrhage	normalName:hemorrhage	normalWikiTitle:hemorrhage	predictedType:Disease
+ENTITY	text:Wegener's granulomatosis	normalName:wegener's granulomatosis	predictedType:disease	q:true	qid:Q1047	docId:1468485	origText:Wegener's granulomatosis	url:D014890
+CANDIDATE	id:14890	inCount:2	outCount:2	links:	url:D014890	name:Granulomatosis, Wegener's	normalName:granulomatosis, wegener's	normalWikiTitle:granulomatosis, wegener's	predictedType:Disease
+ENTITY	text:bleeding	normalName:bleeding	predictedType:disease	q:true	qid:Q1047	docId:1468485	origText:bleeding	url:D006470
+CANDIDATE	id:6470	inCount:31	outCount:1	links:6470	url:D006470	name:Bleeding	normalName:bleeding	normalWikiTitle:bleeding	predictedType:Disease
+ENTITY	text:hematuria	normalName:hematuria	predictedType:disease	q:true	qid:Q1047	docId:1468485	origText:hematuria	url:D006417
+CANDIDATE	id:6417	inCount:2	outCount:2	links:	url:D006417	name:Hematuria	normalName:hematuria	normalWikiTitle:hematuria	predictedType:Disease

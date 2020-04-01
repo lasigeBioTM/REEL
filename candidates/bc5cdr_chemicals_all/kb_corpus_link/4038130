@@ -1,0 +1,12 @@
+ENTITY	text:mepivacaine hydrochloride	normalName:mepivacaine hydrochloride	predictedType:chemical	q:true	qid:Q176	docId:4038130	origText:mepivacaine hydrochloride	url:D008619
+CANDIDATE	id:8619	inCount:1	outCount:1	links:4837;8619;2045;8012	url:D008619	name:Mepivacaine Hydrochloride	normalName:mepivacaine hydrochloride	normalWikiTitle:mepivacaine hydrochloride	predictedType:Chemical
+ENTITY	text:lidocaine	normalName:lidocaine	predictedType:chemical	q:true	qid:Q176	docId:4038130	origText:lidocaine	url:D008012
+CANDIDATE	id:8012	inCount:68	outCount:1	links:4837;8012;2045;8619	url:D008012	name:Lidocaine	normalName:lidocaine	normalWikiTitle:lidocaine	predictedType:Chemical
+ENTITY	text:lidocaine hydrochloride	normalName:lidocaine hydrochloride	predictedType:chemical	q:true	qid:Q176	docId:4038130	origText:lidocaine hydrochloride	url:D008012
+CANDIDATE	id:8012	inCount:68	outCount:1	links:4837;8012;2045;8619	url:D008012	name:Lidocaine Hydrochloride	normalName:lidocaine hydrochloride	normalWikiTitle:lidocaine hydrochloride	predictedType:Chemical
+ENTITY	text:bupivacaine hydrochloride	normalName:bupivacaine hydrochloride	predictedType:chemical	q:true	qid:Q176	docId:4038130	origText:bupivacaine hydrochloride	url:D002045
+CANDIDATE	id:2045	inCount:4	outCount:1	links:4837;8012;8619	url:D002045	name:Bupivacaine Hydrochloride	normalName:bupivacaine hydrochloride	normalWikiTitle:bupivacaine hydrochloride	predictedType:Chemical
+ENTITY	text:epinephrine	normalName:epinephrine	predictedType:chemical	q:true	qid:Q176	docId:4038130	origText:epinephrine	url:D004837
+CANDIDATE	id:4837	inCount:33	outCount:3	links:8012;2045;8619	url:D004837	name:Epinephrine	normalName:epinephrine	normalWikiTitle:epinephrine	predictedType:Chemical
+ENTITY	text:mepivacaine	normalName:mepivacaine	predictedType:chemical	q:true	qid:Q176	docId:4038130	origText:mepivacaine	url:D008619
+CANDIDATE	id:8619	inCount:1	outCount:1	links:4837;8619;2045;8012	url:D008619	name:Mepivacaine	normalName:mepivacaine	normalWikiTitle:mepivacaine	predictedType:Chemical

@@ -1,0 +1,12 @@
+ENTITY	text:cocaine	normalName:cocaine	predictedType:chemical	q:true	qid:Q169	docId:16725121	origText:cocaine	url:D003042
+CANDIDATE	id:3042	inCount:89	outCount:1	links:3891;2045;8012	url:D003042	name:Cocaine	normalName:cocaine	normalWikiTitle:cocaine	predictedType:Chemical
+ENTITY	text:lidocaine	normalName:lidocaine	predictedType:chemical	q:true	qid:Q169	docId:16725121	origText:lidocaine	url:D008012
+CANDIDATE	id:8012	inCount:68	outCount:1	links:3042;3891;2045	url:D008012	name:Lidocaine	normalName:lidocaine	normalWikiTitle:lidocaine	predictedType:Chemical
+ENTITY	text:desipramine	normalName:desipramine	predictedType:chemical	q:true	qid:Q169	docId:16725121	origText:desipramine	url:D003891
+CANDIDATE	id:3891	inCount:6	outCount:1	links:3042;9638;2045;8012	url:D003891	name:Desipramine	normalName:desipramine	normalWikiTitle:desipramine	predictedType:Chemical
+ENTITY	text:bupivacaine	normalName:bupivacaine	predictedType:chemical	q:true	qid:Q169	docId:16725121	origText:bupivacaine	url:D002045
+CANDIDATE	id:2045	inCount:4	outCount:1	links:3042;3891;9638;8012	url:D002045	name:Bupivacaine	normalName:bupivacaine	normalWikiTitle:bupivacaine	predictedType:Chemical
+ENTITY	text:norepinephrine	normalName:norepinephrine	predictedType:chemical	q:true	qid:Q169	docId:16725121	origText:norepinephrine	url:D009638
+CANDIDATE	id:9638	inCount:31	outCount:4	links:3891;2045	url:D009638	name:Norepinephrine	normalName:norepinephrine	normalWikiTitle:norepinephrine	predictedType:Chemical
+ENTITY	text:tricaine	normalName:tricaine	predictedType:chemical	q:true	qid:Q169	docId:16725121	origText:tricaine	url:C003636
+CANDIDATE	id:3636	inCount:0	outCount:1	links:	url:C003636	name:tricaine	normalName:tricaine	normalWikiTitle:tricaine	predictedType:Chemical

@@ -1,0 +1,10 @@
+ENTITY	text:diltiazem	normalName:diltiazem	predictedType:chemical	q:true	qid:Q214	docId:9100294	origText:diltiazem	url:D004110
+CANDIDATE	id:4110	inCount:19	outCount:1	links:	url:D004110	name:Diltiazem	normalName:diltiazem	normalWikiTitle:diltiazem	predictedType:Chemical
+ENTITY	text:calcium	normalName:calcium	predictedType:chemical	q:true	qid:Q214	docId:9100294	origText:calcium	url:D002118
+CANDIDATE	id:2118	inCount:11	outCount:2	links:	url:D002118	name:Calcium	normalName:calcium	normalWikiTitle:calcium	predictedType:Chemical
+ENTITY	text:Ro 40-5967	normalName:ro 40-5967	predictedType:chemical	q:true	qid:Q214	docId:9100294	origText:Ro 40-5967	url:D020748
+CANDIDATE	id:20748	inCount:0	outCount:2	links:	url:D020748	name:Ro 40 5967	normalName:ro 40 5967	normalWikiTitle:ro 40 5967	predictedType:Chemical
+ENTITY	text:verapamil	normalName:verapamil	predictedType:chemical	q:true	qid:Q214	docId:9100294	origText:verapamil	url:D014700
+CANDIDATE	id:14700	inCount:37	outCount:1	links:	url:D014700	name:Verapamil	normalName:verapamil	normalWikiTitle:verapamil	predictedType:Chemical
+ENTITY	text:nifedipine	normalName:nifedipine	predictedType:chemical	q:true	qid:Q214	docId:9100294	origText:nifedipine	url:D009543
+CANDIDATE	id:9543	inCount:42	outCount:1	links:	url:D009543	name:Nifedipine	normalName:nifedipine	normalWikiTitle:nifedipine	predictedType:Chemical

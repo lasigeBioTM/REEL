@@ -1,0 +1,24 @@
+ENTITY	text:shock	normalName:shock	predictedType:disease	q:true	qid:Q135	docId:8318674	origText:shock	url:D012769
+CANDIDATE	id:12769	inCount:6	outCount:1	links:	url:D012769	name:Shock	normalName:shock	normalWikiTitle:shock	predictedType:Disease
+ENTITY	text:Pulmonary edema	normalName:pulmonary edema	predictedType:disease	q:true	qid:Q135	docId:8318674	origText:Pulmonary edema	url:D011654
+CANDIDATE	id:11654	inCount:1	outCount:1	links:	url:D011654	name:Pulmonary Edema	normalName:pulmonary edema	normalWikiTitle:pulmonary edema	predictedType:Disease
+ENTITY	text:leukocytosis	normalName:leukocytosis	predictedType:disease	q:true	qid:Q135	docId:8318674	origText:leukocytosis	url:D007964
+CANDIDATE	id:7964	inCount:3	outCount:2	links:	url:D007964	name:Leukocytosis	normalName:leukocytosis	normalWikiTitle:leukocytosis	predictedType:Disease
+ENTITY	text:weight gain	normalName:weight gain	predictedType:disease	q:true	qid:Q135	docId:8318674	origText:weight gain	url:D015430
+CANDIDATE	id:15430	inCount:1	outCount:1	links:	url:D015430	name:Weight Gain	normalName:weight gain	normalWikiTitle:weight gain	predictedType:Disease
+ENTITY	text:infection	normalName:infection	predictedType:disease	q:true	qid:Q135	docId:8318674	origText:infection	url:D007239
+CANDIDATE	id:7239	inCount:33	outCount:1	links:	url:D007239	name:Infection	normalName:infection	normalWikiTitle:infection	predictedType:Disease
+ENTITY	text:diarrhea	normalName:diarrhea	predictedType:disease	q:true	qid:Q135	docId:8318674	origText:diarrhea	url:D003967
+CANDIDATE	id:3967	inCount:14	outCount:1	links:	url:D003967	name:Diarrhea	normalName:diarrhea	normalWikiTitle:diarrhea	predictedType:Disease
+ENTITY	text:adult respiratory distress syndrome	normalName:adult respiratory distress syndrome	predictedType:disease	q:true	qid:Q135	docId:8318674	origText:adult respiratory distress syndrome	url:D012128
+CANDIDATE	id:12128	inCount:0	outCount:2	links:	url:D012128	name:Respiratory Distress Syndrome, Adult	normalName:respiratory distress syndrome, adult	normalWikiTitle:respiratory distress syndrome, adult	predictedType:Disease
+ENTITY	text:lymphomas	normalName:lymphomas	predictedType:disease	q:true	qid:Q135	docId:8318674	origText:lymphomas	url:D008223
+CANDIDATE	id:8223	inCount:8	outCount:2	links:8223	url:D008223	name:Lymphoma	normalName:lymphoma	normalWikiTitle:lymphoma	predictedType:Disease
+ENTITY	text:acute renal failure	normalName:acute renal failure	predictedType:disease	q:true	qid:Q135	docId:8318674	origText:acute renal failure	url:D058186
+CANDIDATE	id:58186	inCount:2	outCount:1	links:	url:D058186	name:Acute Renal Failure	normalName:acute renal failure	normalWikiTitle:acute renal failure	predictedType:Disease
+ENTITY	text:metabolic acidosis	normalName:metabolic acidosis	predictedType:disease	q:true	qid:Q135	docId:8318674	origText:metabolic acidosis	url:D000138
+CANDIDATE	id:138	inCount:7	outCount:1	links:	url:D000138	name:Acidosis, Metabolic	normalName:acidosis, metabolic	normalWikiTitle:acidosis, metabolic	predictedType:Disease
+ENTITY	text:fever	normalName:fever	predictedType:disease	q:true	qid:Q135	docId:8318674	origText:fever	url:D005334
+CANDIDATE	id:5334	inCount:5	outCount:1	links:	url:D005334	name:Fever	normalName:fever	normalWikiTitle:fever	predictedType:Disease
+ENTITY	text:lymphoma	normalName:lymphoma	predictedType:disease	q:true	qid:Q135	docId:8318674	origText:lymphoma	url:D008223
+CANDIDATE	id:8223	inCount:8	outCount:2	links:8223	url:D008223	name:Lymphoma	normalName:lymphoma	normalWikiTitle:lymphoma	predictedType:Disease

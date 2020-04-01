@@ -1,0 +1,20 @@
+ENTITY	text:hypoplastic left heart syndrome	normalName:hypoplastic left heart syndrome	predictedType:disease	q:true	qid:Q380	docId:19884587	origText:hypoplastic left heart syndrome	url:D018636
+CANDIDATE	id:18636	inCount:0	outCount:1	links:	url:D018636	name:Hypoplastic Left Heart Syndrome	normalName:hypoplastic left heart syndrome	normalWikiTitle:hypoplastic left heart syndrome	predictedType:Disease
+ENTITY	text:coarctation of the aorta	normalName:coarctation of the aorta	predictedType:disease	q:true	qid:Q380	docId:19884587	origText:coarctation of the aorta	url:D001017
+CANDIDATE	id:1017	inCount:3	outCount:1	links:	url:D001017	name:Coarctation of the Aorta	normalName:coarctation of the aorta	normalWikiTitle:coarctation of the aorta	predictedType:Disease
+ENTITY	text:choanal atresia	normalName:choanal atresia	predictedType:disease	q:true	qid:Q380	docId:19884587	origText:choanal atresia	url:D002754
+CANDIDATE	id:2754	inCount:7	outCount:2	links:	url:D002754	name:Choanal Atresia	normalName:choanal atresia	normalWikiTitle:choanal atresia	predictedType:Disease
+ENTITY	text:anencephaly	normalName:anencephaly	predictedType:disease	q:true	qid:Q380	docId:19884587	origText:anencephaly	url:D000757
+CANDIDATE	id:757	inCount:4	outCount:2	links:	url:D000757	name:Anencephaly	normalName:anencephaly	normalWikiTitle:anencephaly	predictedType:Disease
+ENTITY	text:anophthalmia	normalName:anophthalmia	predictedType:disease	q:true	qid:Q380	docId:19884587	origText:anophthalmia	url:D000853
+CANDIDATE	id:853	inCount:8	outCount:1	links:	url:D000853	name:Anophthalmia	normalName:anophthalmia	normalWikiTitle:anophthalmia	predictedType:Disease
+ENTITY	text:microphthalmos	normalName:microphthalmos	predictedType:disease	q:true	qid:Q380	docId:19884587	origText:microphthalmos	url:D008850
+CANDIDATE	id:8850	inCount:69	outCount:1	links:	url:D008850	name:Microphthalmos	normalName:microphthalmos	normalWikiTitle:microphthalmos	predictedType:Disease
+ENTITY	text:atrial septal defects	normalName:atrial septal defects	predictedType:disease	q:true	qid:Q380	docId:19884587	origText:atrial septal defects	url:D006344
+CANDIDATE	id:6344	inCount:26	outCount:1	links:	url:D006344	name:Atrial Septal Defects	normalName:atrial septal defects	normalWikiTitle:atrial septal defects	predictedType:Disease
+ENTITY	text:cleft palate	normalName:cleft palate	predictedType:disease	q:true	qid:Q380	docId:19884587	origText:cleft palate	url:D002972
+CANDIDATE	id:2972	inCount:105	outCount:2	links:	url:D002972	name:Cleft Palate	normalName:cleft palate	normalWikiTitle:cleft palate	predictedType:Disease
+ENTITY	text:cleft lip	normalName:cleft lip	predictedType:disease	q:true	qid:Q380	docId:19884587	origText:cleft lip	url:D002971
+CANDIDATE	id:2971	inCount:59	outCount:2	links:	url:D002971	name:Cleft Lip	normalName:cleft lip	normalWikiTitle:cleft lip	predictedType:Disease
+ENTITY	text:diaphragmatic hernia	normalName:diaphragmatic hernia	predictedType:disease	q:true	qid:Q380	docId:19884587	origText:diaphragmatic hernia	url:D006548
+CANDIDATE	id:6548	inCount:9	outCount:1	links:	url:D006548	name:Hernia, Diaphragmatic	normalName:hernia, diaphragmatic	normalWikiTitle:hernia, diaphragmatic	predictedType:Disease

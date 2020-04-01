@@ -1,0 +1,65 @@
+ENTITY	text:growth retardation	normalName:growth retardation	predictedType:disease	q:true	qid:Q198	docId:24753331	origText:growth retardation	url:D005317
+CANDIDATE	id:5317	inCount:25	outCount:2	links:64793;20964;6345	url:D005317	name:Fetal Growth Retardation	normalName:fetal growth retardation	normalWikiTitle:fetal growth retardation	predictedType:Disease
+CANDIDATE	id:1183	inCount:0	outCount:1	links:	url:D001183	name:Arthus Reaction	normalName:arthus reaction	normalWikiTitle:arthus reaction	predictedType:Disease
+CANDIDATE	id:1946	inCount:0	outCount:1	links:	url:D001946	name:Breech Presentation	normalName:breech presentation	normalWikiTitle:breech presentation	predictedType:Disease
+CANDIDATE	id:38901	inCount:129	outCount:3	links:	url:D038901	name:Mental Retardation, X-Linked	normalName:mental retardation, x-linked	normalWikiTitle:mental retardation, x-linked	predictedType:Disease
+CANDIDATE	id:566980	inCount:0	outCount:2	links:	url:C566980	name:Mental Retardation, Fra12a Type	normalName:mental retardation, fra12a type	normalWikiTitle:mental retardation, fra12a type	predictedType:Disease
+CANDIDATE	id:563591	inCount:0	outCount:3	links:	url:C563591	name:Mental and Growth Retardation with Amblyopia	normalName:mental and growth retardation with amblyopia	normalWikiTitle:mental and growth retardation with amblyopia	predictedType:Disease
+CANDIDATE	id:13217	inCount:0	outCount:1	links:	url:D013217	name:Starvation	normalName:starvation	normalWikiTitle:starvation	predictedType:Disease
+CANDIDATE	id:17564	inCount:0	outCount:3	links:	url:D017564	name:Radiation Pneumonitis	normalName:radiation pneumonitis	normalWikiTitle:radiation pneumonitis	predictedType:Disease
+CANDIDATE	id:563095	inCount:0	outCount:3	links:	url:C563095	name:Mental Retardation, Buenos Aires Type	normalName:mental retardation, buenos aires type	normalWikiTitle:mental retardation, buenos aires type	predictedType:Disease
+CANDIDATE	id:1010	inCount:0	outCount:2	links:	url:D001010	name:Anxiety, Separation	normalName:anxiety, separation	normalWikiTitle:anxiety, separation	predictedType:Disease
+ENTITY	text:teratogenicity	normalName:teratogenicity	predictedType:disease	q:true	qid:Q198	docId:24753331	origText:teratogenicity	url:D064793
+CANDIDATE	id:64793	inCount:0	outCount:1	links:5317;64793;20964;6345	url:D064793	name:Teratogenesis	normalName:teratogenesis	normalWikiTitle:teratogenesis	predictedType:Disease
+CANDIDATE	id:66126	inCount:0	outCount:3	links:66126	url:D066126	name:Cardiotoxicity	normalName:cardiotoxicity	normalWikiTitle:cardiotoxicity	predictedType:Disease
+CANDIDATE	id:10538	inCount:3	outCount:2	links:	url:D010538	name:Peritonitis	normalName:peritonitis	normalWikiTitle:peritonitis	predictedType:Disease
+CANDIDATE	id:57891	inCount:0	outCount:1	links:	url:D057891	name:Tetraploidy	normalName:tetraploidy	normalWikiTitle:tetraploidy	predictedType:Disease
+CANDIDATE	id:7246	inCount:2	outCount:2	links:7246	url:D007246	name:Infertility	normalName:infertility	normalWikiTitle:infertility	predictedType:Disease
+CANDIDATE	id:108721	inCount:0	outCount:3	links:	url:108721	name:ATELOSTEOGENESIS, TYPE III	normalName:atelosteogenesis, type iii	normalWikiTitle:atelosteogenesis, type iii	predictedType:Disease
+CANDIDATE	id:7049	inCount:1	outCount:1	links:7049	url:D007049	name:Iatrogenic Disease	normalName:iatrogenic disease	normalWikiTitle:iatrogenic disease	predictedType:Disease
+CANDIDATE	id:1177	inCount:2	outCount:1	links:1177	url:D001177	name:Arthropathy, Neurogenic	normalName:arthropathy, neurogenic	normalWikiTitle:arthropathy, neurogenic	predictedType:Disease
+CANDIDATE	id:4630	inCount:0	outCount:1	links:	url:D004630	name:Emergencies	normalName:emergencies	normalWikiTitle:emergencies	predictedType:Disease
+CANDIDATE	id:18243	inCount:0	outCount:1	links:	url:D018243	name:Teratocarcinoma	normalName:teratocarcinoma	normalWikiTitle:teratocarcinoma	predictedType:Disease
+ENTITY	text:ventricular septal defect	normalName:ventricular septal defect	predictedType:disease	q:true	qid:Q198	docId:24753331	origText:ventricular septal defect	url:D006345
+CANDIDATE	id:6345	inCount:6	outCount:1	links:5317;64793;6345;20964	url:D006345	name:Septal Defect, Ventricular	normalName:septal defect, ventricular	normalWikiTitle:septal defect, ventricular	predictedType:Disease
+ENTITY	text:embryonic death	normalName:embryonic death	predictedType:disease	q:true	qid:Q198	docId:24753331	origText:embryonic death	url:D020964
+CANDIDATE	id:20964	inCount:2	outCount:2	links:5317;64793;6345	url:D020964	name:Embryo Deaths	normalName:embryo deaths	normalWikiTitle:embryo deaths	predictedType:Disease
+CANDIDATE	id:65907	inCount:0	outCount:1	links:	url:D065907	name:Karoshi Death	normalName:karoshi death	normalWikiTitle:karoshi death	predictedType:Disease
+CANDIDATE	id:63130	inCount:0	outCount:2	links:	url:D063130	name:Maternal Death	normalName:maternal death	normalWikiTitle:maternal death	predictedType:Disease
+CANDIDATE	id:9223	inCount:1	outCount:3	links:	url:D009223	name:Myotonic Dystrophy	normalName:myotonic dystrophy	normalWikiTitle:myotonic dystrophy	predictedType:Disease
+CANDIDATE	id:66087	inCount:0	outCount:2	links:	url:D066087	name:Perinatal Death	normalName:perinatal death	normalWikiTitle:perinatal death	predictedType:Disease
+CANDIDATE	id:3645	inCount:5	outCount:1	links:	url:D003645	name:Death, Sudden	normalName:death, sudden	normalWikiTitle:death, sudden	predictedType:Disease
+CANDIDATE	id:12628	inCount:3	outCount:4	links:	url:D012628	name:Dermatitis, Seborrheic	normalName:dermatitis, seborrheic	normalWikiTitle:dermatitis, seborrheic	predictedType:Disease
+CANDIDATE	id:56693	inCount:1	outCount:1	links:	url:D056693	name:Propionic Acidemia	normalName:propionic acidemia	normalWikiTitle:propionic acidemia	predictedType:Disease
+CANDIDATE	id:63129	inCount:1	outCount:1	links:	url:D063129	name:Parental Death	normalName:parental death	normalWikiTitle:parental death	predictedType:Disease
+CANDIDATE	id:8659	inCount:23	outCount:1	links:	url:D008659	name:Metabolic Diseases	normalName:metabolic diseases	normalWikiTitle:metabolic diseases	predictedType:Disease
+CANDIDATE	id:20967	inCount:3	outCount:1	links:	url:D020967	name:Myotonic Disorders	normalName:myotonic disorders	normalWikiTitle:myotonic disorders	predictedType:Disease
+CANDIDATE	id:20964	inCount:2	outCount:2	links:5317;64793;6345	url:D020964	name:Death, Embryo	normalName:death, embryo	normalWikiTitle:death, embryo	predictedType:Disease
+CANDIDATE	id:20964	inCount:2	outCount:2	links:5317;64793;6345	url:D020964	name:Embryo Death	normalName:embryo death	normalWikiTitle:embryo death	predictedType:Disease
+ENTITY	text:ventricular septal defects	normalName:ventricular septal defects	predictedType:disease	q:true	qid:Q198	docId:24753331	origText:ventricular septal defects	url:D006345
+CANDIDATE	id:6345	inCount:6	outCount:1	links:5317;64793;6345;20964	url:D006345	name:Septal Defect, Ventricular	normalName:septal defect, ventricular	normalWikiTitle:septal defect, ventricular	predictedType:Disease
+ENTITY	text:toxicity	normalName:toxicity	predictedType:disease	q:true	qid:Q198	docId:24753331	origText:toxicity	url:D064420
+CANDIDATE	id:64420	inCount:10	outCount:1	links:	url:D064420	name:Drug Toxicity	normalName:drug toxicity	normalWikiTitle:drug toxicity	predictedType:Disease
+CANDIDATE	id:66126	inCount:0	outCount:3	links:66126	url:D066126	name:Cardiotoxicity	normalName:cardiotoxicity	normalWikiTitle:cardiotoxicity	predictedType:Disease
+CANDIDATE	id:15651	inCount:2	outCount:1	links:	url:D015651	name:Mycotoxicosis	normalName:mycotoxicosis	normalWikiTitle:mycotoxicosis	predictedType:Disease
+CANDIDATE	id:13971	inCount:2	outCount:1	links:	url:D013971	name:Thyrotoxicosis	normalName:thyrotoxicosis	normalWikiTitle:thyrotoxicosis	predictedType:Disease
+CANDIDATE	id:14869	inCount:0	outCount:2	links:	url:D014869	name:Water Intoxication	normalName:water intoxication	normalWikiTitle:water intoxication	predictedType:Disease
+CANDIDATE	id:14103	inCount:4	outCount:2	links:	url:D014103	name:Torticollis	normalName:torticollis	normalWikiTitle:torticollis	predictedType:Disease
+CANDIDATE	id:9765	inCount:42	outCount:2	links:	url:D009765	name:Obesity	normalName:obesity	normalWikiTitle:obesity	predictedType:Disease
+CANDIDATE	id:14115	inCount:1	outCount:1	links:	url:D014115	name:Toxemia	normalName:toxemia	normalWikiTitle:toxemia	predictedType:Disease
+CANDIDATE	id:7246	inCount:2	outCount:2	links:7246	url:D007246	name:Infertility	normalName:infertility	normalWikiTitle:infertility	predictedType:Disease
+CANDIDATE	id:20234	inCount:0	outCount:2	links:	url:D020234	name:Gait Ataxia	normalName:gait ataxia	normalWikiTitle:gait ataxia	predictedType:Disease
+CANDIDATE	id:14069	inCount:1	outCount:1	links:	url:D014069	name:Tonsillitis	normalName:tonsillitis	normalWikiTitle:tonsillitis	predictedType:Disease
+CANDIDATE	id:64420	inCount:10	outCount:1	links:	url:D064420	name:Toxicity, Drug	normalName:toxicity, drug	normalWikiTitle:toxicity, drug	predictedType:Disease
+CANDIDATE	id:17484	inCount:0	outCount:2	links:	url:D017484	name:Phototoxicity	normalName:phototoxicity	normalWikiTitle:phototoxicity	predictedType:Disease
+ENTITY	text:teratogenic	normalName:teratogenic	predictedType:disease	q:true	qid:Q198	docId:24753331	origText:teratogenic	url:D064793
+CANDIDATE	id:64793	inCount:0	outCount:1	links:5317;64793;20964;6345	url:D064793	name:Teratogenesis	normalName:teratogenesis	normalWikiTitle:teratogenesis	predictedType:Disease
+CANDIDATE	id:13724	inCount:10	outCount:1	links:	url:D013724	name:Teratoma	normalName:teratoma	normalWikiTitle:teratoma	predictedType:Disease
+CANDIDATE	id:7049	inCount:1	outCount:1	links:7049	url:D007049	name:Iatrogenic Disease	normalName:iatrogenic disease	normalWikiTitle:iatrogenic disease	predictedType:Disease
+CANDIDATE	id:9440	inCount:0	outCount:1	links:	url:D009440	name:Neurasthenia	normalName:neurasthenia	normalWikiTitle:neurasthenia	predictedType:Disease
+CANDIDATE	id:1177	inCount:2	outCount:1	links:1177	url:D001177	name:Arthropathy, Neurogenic	normalName:arthropathy, neurogenic	normalWikiTitle:arthropathy, neurogenic	predictedType:Disease
+CANDIDATE	id:562472	inCount:0	outCount:2	links:	url:C562472	name:Teratoma, Testicular	normalName:teratoma, testicular	normalWikiTitle:teratoma, testicular	predictedType:Disease
+CANDIDATE	id:7642	inCount:20	outCount:1	links:	url:D007642	name:Keratosis	normalName:keratosis	normalWikiTitle:keratosis	predictedType:Disease
+CANDIDATE	id:2389	inCount:1	outCount:1	links:	url:D002389	name:Catatonia	normalName:catatonia	normalWikiTitle:catatonia	predictedType:Disease
+CANDIDATE	id:270960	inCount:0	outCount:1	links:	url:270960	name:SPERMATOGENIC FAILURE 4	normalName:spermatogenic failure 4	normalWikiTitle:spermatogenic failure 4	predictedType:Disease
+CANDIDATE	id:613957	inCount:0	outCount:1	links:	url:613957	name:SPERMATOGENIC FAILURE 8	normalName:spermatogenic failure 8	normalWikiTitle:spermatogenic failure 8	predictedType:Disease

@@ -1,0 +1,8 @@
+ENTITY	text:glaucoma	normalName:glaucoma	predictedType:disease	q:true	qid:Q477	docId:11704023	origText:glaucoma	url:D005901
+CANDIDATE	id:5901	inCount:34	outCount:1	links:	url:D005901	name:Glaucoma	normalName:glaucoma	normalWikiTitle:glaucoma	predictedType:Disease
+ENTITY	text:bradycardia	normalName:bradycardia	predictedType:disease	q:true	qid:Q477	docId:11704023	origText:bradycardia	url:D001919
+CANDIDATE	id:1919	inCount:0	outCount:1	links:	url:D001919	name:Bradycardia	normalName:bradycardia	normalWikiTitle:bradycardia	predictedType:Disease
+ENTITY	text:open-angle glaucoma	normalName:open-angle glaucoma	predictedType:disease	q:true	qid:Q477	docId:11704023	origText:open-angle glaucoma	url:D005902
+CANDIDATE	id:5902	inCount:17	outCount:1	links:	url:D005902	name:Glaucoma, Open-Angle	normalName:glaucoma, open-angle	normalWikiTitle:glaucoma, open-angle	predictedType:Disease
+ENTITY	text:ocular hypertension	normalName:ocular hypertension	predictedType:disease	q:true	qid:Q477	docId:11704023	origText:ocular hypertension	url:D009798
+CANDIDATE	id:9798	inCount:1	outCount:1	links:	url:D009798	name:Ocular Hypertension	normalName:ocular hypertension	normalWikiTitle:ocular hypertension	predictedType:Disease

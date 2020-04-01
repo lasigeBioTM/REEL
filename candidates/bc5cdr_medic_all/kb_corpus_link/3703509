@@ -1,0 +1,24 @@
+ENTITY	text:polyphagia	normalName:polyphagia	predictedType:disease	q:true	qid:Q8	docId:3703509	origText:polyphagia	url:D006963
+CANDIDATE	id:6963	inCount:2	outCount:1	links:	url:D006963	name:Polyphagia	normalName:polyphagia	normalWikiTitle:polyphagia	predictedType:Disease
+ENTITY	text:acidosis	normalName:acidosis	predictedType:disease	q:true	qid:Q8	docId:3703509	origText:acidosis	url:D000138
+CANDIDATE	id:138	inCount:7	outCount:1	links:7022	url:D000138	name:Acidosis	normalName:acidosis	normalWikiTitle:acidosis	predictedType:Disease
+ENTITY	text:coma	normalName:coma	predictedType:disease	q:true	qid:Q8	docId:3703509	origText:coma	url:D003128
+CANDIDATE	id:3128	inCount:3	outCount:1	links:6943;7662;12131;140;7022	url:D003128	name:Coma	normalName:coma	normalWikiTitle:coma	predictedType:Disease
+ENTITY	text:hyperglycemia	normalName:hyperglycemia	predictedType:disease	q:true	qid:Q8	docId:3703509	origText:hyperglycemia	url:D006943
+CANDIDATE	id:6943	inCount:1	outCount:1	links:3128;140;7022;7662	url:D006943	name:Hyperglycemia	normalName:hyperglycemia	normalWikiTitle:hyperglycemia	predictedType:Disease
+ENTITY	text:hypotension	normalName:hypotension	predictedType:disease	q:true	qid:Q8	docId:3703509	origText:hypotension	url:D007022
+CANDIDATE	id:7022	inCount:3	outCount:1	links:6943;7662;138;3128;140;12131	url:D007022	name:Hypotension	normalName:hypotension	normalWikiTitle:hypotension	predictedType:Disease
+ENTITY	text:Kearns-Sayre syndrome	normalName:kearns-sayre syndrome	predictedType:disease	q:true	qid:Q8	docId:3703509	origText:Kearns-Sayre syndrome	url:D007625
+CANDIDATE	id:7625	inCount:1	outCount:4	links:	url:D007625	name:Kearns-Sayre Syndrome	normalName:kearns-sayre syndrome	normalWikiTitle:kearns-sayre syndrome	predictedType:Disease
+ENTITY	text:polyuria	normalName:polyuria	predictedType:disease	q:true	qid:Q8	docId:3703509	origText:polyuria	url:D011141
+CANDIDATE	id:11141	inCount:1	outCount:2	links:	url:D011141	name:Polyuria	normalName:polyuria	normalWikiTitle:polyuria	predictedType:Disease
+ENTITY	text:Respiratory failure	normalName:respiratory failure	predictedType:disease	q:true	qid:Q8	docId:3703509	origText:Respiratory failure	url:D012131
+CANDIDATE	id:12131	inCount:13	outCount:1	links:3128;7022	url:D012131	name:Respiratory Failure	normalName:respiratory failure	normalWikiTitle:respiratory failure	predictedType:Disease
+ENTITY	text:polydipsia	normalName:polydipsia	predictedType:disease	q:true	qid:Q8	docId:3703509	origText:polydipsia	url:D059606
+CANDIDATE	id:59606	inCount:1	outCount:2	links:	url:D059606	name:Polydipsia	normalName:polydipsia	normalWikiTitle:polydipsia	predictedType:Disease
+ENTITY	text:ketosis	normalName:ketosis	predictedType:disease	q:true	qid:Q8	docId:3703509	origText:ketosis	url:D007662
+CANDIDATE	id:7662	inCount:2	outCount:1	links:6943;3128;140;7022	url:D007662	name:Ketosis	normalName:ketosis	normalWikiTitle:ketosis	predictedType:Disease
+ENTITY	text:lethargy	normalName:lethargy	predictedType:disease	q:true	qid:Q8	docId:3703509	origText:lethargy	url:D053609
+CANDIDATE	id:53609	inCount:0	outCount:1	links:	url:D053609	name:Lethargy	normalName:lethargy	normalWikiTitle:lethargy	predictedType:Disease
+ENTITY	text:lactic acidosis	normalName:lactic acidosis	predictedType:disease	q:true	qid:Q8	docId:3703509	origText:lactic acidosis	url:D000140
+CANDIDATE	id:140	inCount:19	outCount:1	links:6943;3128;7022;7662	url:D000140	name:Acidosis, Lactic	normalName:acidosis, lactic	normalWikiTitle:acidosis, lactic	predictedType:Disease

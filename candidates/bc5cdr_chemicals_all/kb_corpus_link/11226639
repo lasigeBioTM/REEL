@@ -1,0 +1,24 @@
+ENTITY	text:barbiturate	normalName:barbiturate	predictedType:chemical	q:true	qid:Q455	docId:11226639	origText:barbiturate	url:C032232
+CANDIDATE	id:32232	inCount:0	outCount:1	links:	url:C032232	name:barbiturate	normalName:barbiturate	normalWikiTitle:barbiturate	predictedType:Chemical
+ENTITY	text:Sodium thiopenthal	normalName:sodium thiopenthal	predictedType:chemical	q:true	qid:Q455	docId:11226639	origText:Sodium thiopenthal	url:D013874
+CANDIDATE	id:13874	inCount:3	outCount:1	links:8550;3975;7649	url:D013874	name:Thiopental Sodium	normalName:thiopental sodium	normalWikiTitle:thiopental sodium	predictedType:Chemical
+CANDIDATE	id:51503	inCount:0	outCount:2	links:	url:C051503	name:iodonium thiophene	normalName:iodonium thiophene	normalWikiTitle:iodonium thiophene	predictedType:Chemical
+CANDIDATE	id:24553	inCount:0	outCount:1	links:	url:C024553	name:sodium thiocyanate	normalName:sodium thiocyanate	normalWikiTitle:sodium thiocyanate	predictedType:Chemical
+CANDIDATE	id:404416	inCount:0	outCount:2	links:	url:C404416	name:sodium tantalate	normalName:sodium tantalate	normalWikiTitle:sodium tantalate	predictedType:Chemical
+CANDIDATE	id:13874	inCount:3	outCount:1	links:8550;3975;7649	url:D013874	name:Thiopental	normalName:thiopental	normalWikiTitle:thiopental	predictedType:Chemical
+CANDIDATE	id:471701	inCount:0	outCount:2	links:	url:C471701	name:sodium titanate	normalName:sodium titanate	normalWikiTitle:sodium titanate	predictedType:Chemical
+CANDIDATE	id:17717	inCount:0	outCount:1	links:	url:C017717	name:sodium thiosulfate	normalName:sodium thiosulfate	normalWikiTitle:sodium thiosulfate	predictedType:Chemical
+CANDIDATE	id:102087	inCount:0	outCount:5	links:	url:C102087	name:STHGAL solution	normalName:sthgal solution	normalWikiTitle:sthgal solution	predictedType:Chemical
+CANDIDATE	id:6052	inCount:0	outCount:2	links:	url:D006052	name:Gold Sodium Thiomalate	normalName:gold sodium thiomalate	normalWikiTitle:gold sodium thiomalate	predictedType:Chemical
+CANDIDATE	id:91751	inCount:0	outCount:2	links:	url:C091751	name:sodium zirconate	normalName:sodium zirconate	normalWikiTitle:sodium zirconate	predictedType:Chemical
+CANDIDATE	id:519323	inCount:0	outCount:2	links:	url:C519323	name:sodium tetrasulfide	normalName:sodium tetrasulfide	normalWikiTitle:sodium tetrasulfide	predictedType:Chemical
+CANDIDATE	id:42983	inCount:0	outCount:2	links:	url:C042983	name:thiophenol, sodium salt	normalName:thiophenol, sodium salt	normalWikiTitle:thiophenol, sodium salt	predictedType:Chemical
+CANDIDATE	id:555729	inCount:0	outCount:2	links:	url:C555729	name:thiosultap sodium	normalName:thiosultap sodium	normalWikiTitle:thiosultap sodium	predictedType:Chemical
+CANDIDATE	id:35638	inCount:0	outCount:1	links:	url:C035638	name:sodium thiophosphate	normalName:sodium thiophosphate	normalWikiTitle:sodium thiophosphate	predictedType:Chemical
+CANDIDATE	id:51503	inCount:0	outCount:2	links:	url:C051503	name:iodonium thiophen	normalName:iodonium thiophen	normalWikiTitle:iodonium thiophen	predictedType:Chemical
+ENTITY	text:melatonin	normalName:melatonin	predictedType:chemical	q:true	qid:Q455	docId:11226639	origText:melatonin	url:D008550
+CANDIDATE	id:8550	inCount:32	outCount:2	links:13874;3975;7649	url:D008550	name:Melatonin	normalName:melatonin	normalWikiTitle:melatonin	predictedType:Chemical
+ENTITY	text:diazepam	normalName:diazepam	predictedType:chemical	q:true	qid:Q455	docId:11226639	origText:diazepam	url:D003975
+CANDIDATE	id:3975	inCount:21	outCount:1	links:13874;8550;7649	url:D003975	name:Diazepam	normalName:diazepam	normalWikiTitle:diazepam	predictedType:Chemical
+ENTITY	text:ketamine	normalName:ketamine	predictedType:chemical	q:true	qid:Q455	docId:11226639	origText:ketamine	url:D007649
+CANDIDATE	id:7649	inCount:10	outCount:1	links:13874;8550;3975	url:D007649	name:Ketamine	normalName:ketamine	normalWikiTitle:ketamine	predictedType:Chemical

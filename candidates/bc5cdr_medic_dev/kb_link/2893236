@@ -1,0 +1,16 @@
+ENTITY	text:respiratory paralysis	normalName:respiratory paralysis	predictedType:disease	q:true	qid:Q21	docId:2893236	origText:respiratory paralysis	url:D012133
+CANDIDATE	id:12133	inCount:0	outCount:2	links:12133	url:D012133	name:Respiratory Paralysis	normalName:respiratory paralysis	normalWikiTitle:respiratory paralysis	predictedType:Disease
+ENTITY	text:respiratory arrest	normalName:respiratory arrest	predictedType:disease	q:true	qid:Q21	docId:2893236	origText:respiratory arrest	url:D012131
+CANDIDATE	id:12131	inCount:13	outCount:1	links:	url:D012131	name:Respiratory Failure	normalName:respiratory failure	normalWikiTitle:respiratory failure	predictedType:Disease
+CANDIDATE	id:12133	inCount:0	outCount:2	links:12133	url:D012133	name:Respiratory Paralysis	normalName:respiratory paralysis	normalWikiTitle:respiratory paralysis	predictedType:Disease
+CANDIDATE	id:53120	inCount:1	outCount:2	links:	url:D053120	name:Respiratory Aspiration	normalName:respiratory aspiration	normalWikiTitle:respiratory aspiration	predictedType:Disease
+CANDIDATE	id:142	inCount:0	outCount:2	links:	url:D000142	name:Acidosis, Respiratory	normalName:acidosis, respiratory	normalWikiTitle:acidosis, respiratory	predictedType:Disease
+CANDIDATE	id:472	inCount:0	outCount:2	links:	url:D000472	name:Alkalosis, Respiratory	normalName:alkalosis, respiratory	normalWikiTitle:alkalosis, respiratory	predictedType:Disease
+CANDIDATE	id:12130	inCount:6	outCount:2	links:	url:D012130	name:Respiratory Hypersensitivity	normalName:respiratory hypersensitivity	normalWikiTitle:respiratory hypersensitivity	predictedType:Disease
+CANDIDATE	id:12140	inCount:17	outCount:1	links:	url:D012140	name:Respiratory Tract Diseases	normalName:respiratory tract diseases	normalWikiTitle:respiratory tract diseases	predictedType:Disease
+CANDIDATE	id:6323	inCount:2	outCount:1	links:	url:D006323	name:Heart Arrest	normalName:heart arrest	normalWikiTitle:heart arrest	predictedType:Disease
+CANDIDATE	id:12120	inCount:20	outCount:1	links:	url:D012120	name:Respiration Disorders	normalName:respiration disorders	normalWikiTitle:respiration disorders	predictedType:Disease
+CANDIDATE	id:16156	inCount:2	outCount:2	links:	url:D016156	name:Respiratory Tract Fistula	normalName:respiratory tract fistula	normalWikiTitle:respiratory tract fistula	predictedType:Disease
+CANDIDATE	id:15619	inCount:12	outCount:2	links:	url:D015619	name:Respiratory System Abnormalities	normalName:respiratory system abnormalities	normalWikiTitle:respiratory system abnormalities	predictedType:Disease
+CANDIDATE	id:142	inCount:0	outCount:2	links:	url:D000142	name:Acidoses, Respiratory	normalName:acidoses, respiratory	normalWikiTitle:acidoses, respiratory	predictedType:Disease
+CANDIDATE	id:142	inCount:0	outCount:2	links:	url:D000142	name:Respiratory Acidoses	normalName:respiratory acidoses	normalWikiTitle:respiratory acidoses	predictedType:Disease

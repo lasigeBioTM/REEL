@@ -1,0 +1,14 @@
+ENTITY	text:anxiety	normalName:anxiety	predictedType:disease	q:true	qid:Q496	docId:17263743	origText:anxiety	url:D001008
+CANDIDATE	id:1008	inCount:7	outCount:1	links:	url:D001008	name:ANXIETY	normalName:anxiety	normalWikiTitle:anxiety	predictedType:Disease
+ENTITY	text:seizure disorder	normalName:seizure disorder	predictedType:disease	q:true	qid:Q496	docId:17263743	origText:seizure disorder	url:D004827
+CANDIDATE	id:4827	inCount:52	outCount:1	links:	url:D004827	name:Seizure Disorder	normalName:seizure disorder	normalWikiTitle:seizure disorder	predictedType:Disease
+ENTITY	text:restlessness	normalName:restlessness	predictedType:disease	q:true	qid:Q496	docId:17263743	origText:restlessness	url:D011595
+CANDIDATE	id:11595	inCount:1	outCount:2	links:	url:D011595	name:Restlessness	normalName:restlessness	normalWikiTitle:restlessness	predictedType:Disease
+ENTITY	text:Cardiac arrest	normalName:cardiac arrest	predictedType:disease	q:true	qid:Q496	docId:17263743	origText:Cardiac arrest	url:D006323
+CANDIDATE	id:6323	inCount:2	outCount:1	links:7022;1919	url:D006323	name:Arrest, Cardiac	normalName:arrest, cardiac	normalWikiTitle:arrest, cardiac	predictedType:Disease
+ENTITY	text:cerebral palsy	normalName:cerebral palsy	predictedType:disease	q:true	qid:Q496	docId:17263743	origText:cerebral palsy	url:D002547
+CANDIDATE	id:2547	inCount:11	outCount:1	links:	url:D002547	name:Cerebral Palsy	normalName:cerebral palsy	normalWikiTitle:cerebral palsy	predictedType:Disease
+ENTITY	text:bradycardia	normalName:bradycardia	predictedType:disease	q:true	qid:Q496	docId:17263743	origText:bradycardia	url:D001919
+CANDIDATE	id:1919	inCount:0	outCount:1	links:6323;7022	url:D001919	name:Bradycardia	normalName:bradycardia	normalWikiTitle:bradycardia	predictedType:Disease
+ENTITY	text:hypotension	normalName:hypotension	predictedType:disease	q:true	qid:Q496	docId:17263743	origText:hypotension	url:D007022
+CANDIDATE	id:7022	inCount:3	outCount:1	links:6323;1919	url:D007022	name:Hypotension	normalName:hypotension	normalWikiTitle:hypotension	predictedType:Disease

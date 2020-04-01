@@ -1,0 +1,13 @@
+ENTITY	text:hypercalcaemia	normalName:hypercalcaemia	predictedType:disease	q:true	qid:Q28	docId:625456	origText:hypercalcaemia	url:D006934
+CANDIDATE	id:6934	inCount:10	outCount:2	links:53040	url:D006934	name:Hypercalcemia	normalName:hypercalcemia	normalWikiTitle:hypercalcemia	predictedType:Disease
+CANDIDATE	id:6947	inCount:4	outCount:1	links:	url:D006947	name:Hyperkalemia	normalName:hyperkalemia	normalWikiTitle:hyperkalemia	predictedType:Disease
+CANDIDATE	id:6996	inCount:5	outCount:2	links:	url:D006996	name:Hypocalcemia	normalName:hypocalcemia	normalWikiTitle:hypocalcemia	predictedType:Disease
+CANDIDATE	id:34321	inCount:0	outCount:1	links:	url:D034321	name:Hyperamylasemia	normalName:hyperamylasemia	normalWikiTitle:hyperamylasemia	predictedType:Disease
+CANDIDATE	id:65906	inCount:0	outCount:2	links:	url:D065906	name:Hyperlactatemia	normalName:hyperlactatemia	normalWikiTitle:hyperlactatemia	predictedType:Disease
+CANDIDATE	id:6943	inCount:1	outCount:1	links:	url:D006943	name:Hyperglycemia	normalName:hyperglycemia	normalWikiTitle:hyperglycemia	predictedType:Disease
+CANDIDATE	id:53565	inCount:6	outCount:1	links:	url:D053565	name:Hypercalciuria	normalName:hypercalciuria	normalWikiTitle:hypercalciuria	predictedType:Disease
+CANDIDATE	id:6940	inCount:0	outCount:1	links:	url:D006940	name:Hyperemia	normalName:hyperemia	normalWikiTitle:hyperemia	predictedType:Disease
+CANDIDATE	id:6930	inCount:0	outCount:1	links:	url:D006930	name:Hyperalgesia	normalName:hyperalgesia	normalWikiTitle:hyperalgesia	predictedType:Disease
+CANDIDATE	id:565500	inCount:0	outCount:1	links:	url:C565500	name:Hyperlexia	normalName:hyperlexia	normalWikiTitle:hyperlexia	predictedType:Disease
+ENTITY	text:nephrolithiasis	normalName:nephrolithiasis	predictedType:disease	q:true	qid:Q28	docId:625456	origText:nephrolithiasis	url:D053040
+CANDIDATE	id:53040	inCount:9	outCount:2	links:6934	url:D053040	name:Nephrolithiasis	normalName:nephrolithiasis	normalWikiTitle:nephrolithiasis	predictedType:Disease

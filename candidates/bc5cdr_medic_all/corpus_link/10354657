@@ -1,0 +1,30 @@
+ENTITY	text:bipolar disorder	normalName:bipolar disorder	predictedType:disease	q:true	qid:Q703	docId:10354657	origText:bipolar disorder	url:D001714
+CANDIDATE	id:1714	inCount:11	outCount:1	links:	url:D001714	name:Bipolar Disorder	normalName:bipolar disorder	normalWikiTitle:bipolar disorder	predictedType:Disease
+ENTITY	text:thyroid disease	normalName:thyroid disease	predictedType:disease	q:true	qid:Q703	docId:10354657	origText:thyroid disease	url:D013959
+CANDIDATE	id:13959	inCount:13	outCount:1	links:7035;7037	url:D013959	name:Thyroid Disease	normalName:thyroid disease	normalWikiTitle:thyroid disease	predictedType:Disease
+ENTITY	text:Hypothyroidism	normalName:hypothyroidism	predictedType:disease	q:true	qid:Q703	docId:10354657	origText:Hypothyroidism	url:D007037
+CANDIDATE	id:7037	inCount:14	outCount:1	links:6934;7035;13959;6961	url:D007037	name:Hypothyroidism	normalName:hypothyroidism	normalWikiTitle:hypothyroidism	predictedType:Disease
+ENTITY	text:hypercalcemia	normalName:hypercalcemia	predictedType:disease	q:true	qid:Q703	docId:10354657	origText:hypercalcemia	url:D006934
+CANDIDATE	id:6934	inCount:10	outCount:2	links:7037;6961	url:D006934	name:Hypercalcemia	normalName:hypercalcemia	normalWikiTitle:hypercalcemia	predictedType:Disease
+ENTITY	text:thyroid illness	normalName:thyroid illness	predictedType:disease	q:true	qid:Q703	docId:10354657	origText:thyroid illness	url:D013959
+CANDIDATE	id:13959	inCount:13	outCount:1	links:7035;7037	url:D013959	name:Thyroid Diseases	normalName:thyroid diseases	normalWikiTitle:thyroid diseases	predictedType:Disease
+CANDIDATE	id:13958	inCount:0	outCount:1	links:	url:D013958	name:Thyroid Crisis	normalName:thyroid crisis	normalWikiTitle:thyroid crisis	predictedType:Disease
+CANDIDATE	id:13964	inCount:12	outCount:3	links:	url:D013964	name:Thyroid Neoplasms	normalName:thyroid neoplasms	normalWikiTitle:thyroid neoplasms	predictedType:Disease
+CANDIDATE	id:50033	inCount:2	outCount:2	links:	url:D050033	name:Thyroid Dysgenesis	normalName:thyroid dysgenesis	normalWikiTitle:thyroid dysgenesis	predictedType:Disease
+CANDIDATE	id:10279	inCount:3	outCount:1	links:	url:D010279	name:Parathyroid Diseases	normalName:parathyroid diseases	normalWikiTitle:parathyroid diseases	predictedType:Disease
+CANDIDATE	id:16606	inCount:0	outCount:1	links:	url:D016606	name:Thyroid Nodule	normalName:thyroid nodule	normalWikiTitle:thyroid nodule	predictedType:Disease
+CANDIDATE	id:10282	inCount:1	outCount:3	links:	url:D010282	name:Parathyroid Neoplasms	normalName:parathyroid neoplasms	normalWikiTitle:parathyroid neoplasms	predictedType:Disease
+CANDIDATE	id:46151	inCount:1	outCount:1	links:	url:D046151	name:Lingual Thyroid	normalName:lingual thyroid	normalWikiTitle:lingual thyroid	predictedType:Disease
+CANDIDATE	id:13967	inCount:3	outCount:2	links:	url:D013967	name:Thyroiditis, Autoimmune	normalName:thyroiditis, autoimmune	normalWikiTitle:thyroiditis, autoimmune	predictedType:Disease
+CANDIDATE	id:10305	inCount:3	outCount:1	links:	url:D010305	name:Parotid Diseases	normalName:parotid diseases	normalWikiTitle:parotid diseases	predictedType:Disease
+ENTITY	text:hypothyroid	normalName:hypothyroid	predictedType:disease	q:true	qid:Q703	docId:10354657	origText:hypothyroid	url:D007037
+CANDIDATE	id:7037	inCount:14	outCount:1	links:6934;7035;13959;6961	url:D007037	name:Hypothyroidism	normalName:hypothyroidism	normalWikiTitle:hypothyroidism	predictedType:Disease
+CANDIDATE	id:6980	inCount:6	outCount:1	links:	url:D006980	name:Hyperthyroidism	normalName:hyperthyroidism	normalWikiTitle:hyperthyroidism	predictedType:Disease
+CANDIDATE	id:7011	inCount:9	outCount:1	links:	url:D007011	name:Hypoparathyroidism	normalName:hypoparathyroidism	normalWikiTitle:hypoparathyroidism	predictedType:Disease
+CANDIDATE	id:7035	inCount:2	outCount:1	links:7037;13959	url:D007035	name:Hypothermia	normalName:hypothermia	normalWikiTitle:hypothermia	predictedType:Disease
+CANDIDATE	id:7007	inCount:8	outCount:1	links:	url:D007007	name:Hypohidrosis	normalName:hypohidrosis	normalWikiTitle:hypohidrosis	predictedType:Disease
+CANDIDATE	id:6961	inCount:5	outCount:1	links:6934;7037	url:D006961	name:Hyperparathyroidism	normalName:hyperparathyroidism	normalWikiTitle:hyperparathyroidism	predictedType:Disease
+CANDIDATE	id:7039	inCount:27	outCount:1	links:	url:D007039	name:Hypotrichosis	normalName:hypotrichosis	normalWikiTitle:hypotrichosis	predictedType:Disease
+CANDIDATE	id:13966	inCount:4	outCount:1	links:	url:D013966	name:Thyroiditis	normalName:thyroiditis	normalWikiTitle:thyroiditis	predictedType:Disease
+CANDIDATE	id:16606	inCount:0	outCount:1	links:	url:D016606	name:Thyroid Nodule	normalName:thyroid nodule	normalWikiTitle:thyroid nodule	predictedType:Disease
+CANDIDATE	id:6981	inCount:5	outCount:1	links:	url:D006981	name:Hyperthyroxinemia	normalName:hyperthyroxinemia	normalWikiTitle:hyperthyroxinemia	predictedType:Disease

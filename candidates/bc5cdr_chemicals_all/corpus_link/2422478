@@ -1,0 +1,6 @@
+ENTITY	text:methyldopa	normalName:methyldopa	predictedType:chemical	q:true	qid:Q571	docId:2422478	origText:methyldopa	url:D008750
+CANDIDATE	id:8750	inCount:9	outCount:1	links:	url:D008750	name:Methyldopa	normalName:methyldopa	normalWikiTitle:methyldopa	predictedType:Chemical
+ENTITY	text:5,7-dihydroxytryptamine	normalName:5,7-dihydroxytryptamine	predictedType:chemical	q:true	qid:Q571	docId:2422478	origText:5,7-dihydroxytryptamine	url:D015116
+CANDIDATE	id:15116	inCount:2	outCount:1	links:	url:D015116	name:5,7-Dihydroxytryptamine	normalName:5,7-dihydroxytryptamine	normalWikiTitle:5,7-dihydroxytryptamine	predictedType:Chemical
+ENTITY	text:serotonin	normalName:serotonin	predictedType:chemical	q:true	qid:Q571	docId:2422478	origText:serotonin	url:D012701
+CANDIDATE	id:12701	inCount:48	outCount:2	links:	url:D012701	name:Serotonin	normalName:serotonin	normalWikiTitle:serotonin	predictedType:Chemical

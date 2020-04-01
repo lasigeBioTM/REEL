@@ -1,0 +1,4 @@
+ENTITY	text:valproic acid	normalName:valproic acid	predictedType:chemical	q:true	qid:Q20	docId:6436733	origText:valproic acid	url:D014635
+CANDIDATE	id:14635	inCount:43	outCount:1	links:	url:D014635	name:Valproic Acid	normalName:valproic acid	normalWikiTitle:valproic acid	predictedType:Chemical
+ENTITY	text:ammonia	normalName:ammonia	predictedType:chemical	q:true	qid:Q20	docId:6436733	origText:ammonia	url:D000641
+CANDIDATE	id:641	inCount:2	outCount:2	links:	url:D000641	name:Ammonia	normalName:ammonia	normalWikiTitle:ammonia	predictedType:Chemical

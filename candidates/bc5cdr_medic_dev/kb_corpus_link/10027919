@@ -1,0 +1,12 @@
+ENTITY	text:hypercalcemia	normalName:hypercalcemia	predictedType:disease	q:true	qid:Q207	docId:10027919	origText:hypercalcemia	url:D006934
+CANDIDATE	id:6934	inCount:10	outCount:2	links:54559	url:D006934	name:Hypercalcemia	normalName:hypercalcemia	normalWikiTitle:hypercalcemia	predictedType:Disease
+ENTITY	text:renal insufficiency	normalName:renal insufficiency	predictedType:disease	q:true	qid:Q207	docId:10027919	origText:renal insufficiency	url:D051437
+CANDIDATE	id:51437	inCount:10	outCount:1	links:51437	url:D051437	name:Renal Insufficiency	normalName:renal insufficiency	normalWikiTitle:renal insufficiency	predictedType:Disease
+ENTITY	text:renal failure	normalName:renal failure	predictedType:disease	q:true	qid:Q207	docId:10027919	origText:renal failure	url:D051437
+CANDIDATE	id:51437	inCount:10	outCount:1	links:51437	url:D051437	name:Renal Failure	normalName:renal failure	normalWikiTitle:renal failure	predictedType:Disease
+ENTITY	text:hyperphosphatemia	normalName:hyperphosphatemia	predictedType:disease	q:true	qid:Q207	docId:10027919	origText:hyperphosphatemia	url:D054559
+CANDIDATE	id:54559	inCount:3	outCount:1	links:6934	url:D054559	name:Hyperphosphatemia	normalName:hyperphosphatemia	normalWikiTitle:hyperphosphatemia	predictedType:Disease
+ENTITY	text:secondary hyperparathyroidism	normalName:secondary hyperparathyroidism	predictedType:disease	q:true	qid:Q207	docId:10027919	origText:secondary hyperparathyroidism	url:D006962
+CANDIDATE	id:6962	inCount:1	outCount:1	links:	url:D006962	name:Hyperparathyroidism, Secondary	normalName:hyperparathyroidism, secondary	normalWikiTitle:hyperparathyroidism, secondary	predictedType:Disease
+ENTITY	text:fibrosis	normalName:fibrosis	predictedType:disease	q:true	qid:Q207	docId:10027919	origText:fibrosis	url:D005355
+CANDIDATE	id:5355	inCount:11	outCount:1	links:	url:D005355	name:Fibrosis	normalName:fibrosis	normalWikiTitle:fibrosis	predictedType:Disease

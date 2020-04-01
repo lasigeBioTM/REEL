@@ -1,0 +1,23 @@
+ENTITY	text:chloroform	normalName:chloroform	predictedType:chemical	q:true	qid:Q426	docId:44072	origText:chloroform	url:D002725
+CANDIDATE	id:2725	inCount:7	outCount:2	links:	url:D002725	name:Chloroform	normalName:chloroform	normalWikiTitle:chloroform	predictedType:Chemical
+ENTITY	text:BaCl2	normalName:bacl2	predictedType:chemical	q:true	qid:Q426	docId:44072	origText:BaCl2	url:C024986
+CANDIDATE	id:24986	inCount:0	outCount:2	links:	url:C024986	name:BaCl2	normalName:bacl2	normalWikiTitle:bacl2	predictedType:Chemical
+ENTITY	text:aconitine	normalName:aconitine	predictedType:chemical	q:true	qid:Q426	docId:44072	origText:aconitine	url:D000157
+CANDIDATE	id:157	inCount:70	outCount:1	links:	url:D000157	name:Aconitine	normalName:aconitine	normalWikiTitle:aconitine	predictedType:Chemical
+ENTITY	text:adrenaline	normalName:adrenaline	predictedType:chemical	q:true	qid:Q426	docId:44072	origText:adrenaline	url:D004837
+CANDIDATE	id:4837	inCount:33	outCount:3	links:	url:D004837	name:Adrenaline	normalName:adrenaline	normalWikiTitle:adrenaline	predictedType:Chemical
+ENTITY	text:strophantine G	normalName:strophantine g	predictedType:chemical	q:true	qid:Q426	docId:44072	origText:strophantine G	url:D010042
+CANDIDATE	id:10042	inCount:14	outCount:1	links:	url:D010042	name:G-Strophanthin	normalName:g-strophanthin	normalWikiTitle:g-strophanthin	predictedType:Chemical
+CANDIDATE	id:29082	inCount:0	outCount:1	links:	url:C029082	name:strophanthin K	normalName:strophanthin k	normalWikiTitle:strophanthin k	predictedType:Chemical
+CANDIDATE	id:13328	inCount:12	outCount:2	links:	url:D013328	name:Strophanthins	normalName:strophanthins	normalWikiTitle:strophanthins	predictedType:Chemical
+CANDIDATE	id:13327	inCount:8	outCount:1	links:	url:D013327	name:Strophanthidin	normalName:strophanthidin	normalWikiTitle:strophanthidin	predictedType:Chemical
+CANDIDATE	id:8240	inCount:0	outCount:1	links:	url:C008240	name:K-strophanthoside	normalName:k-strophanthoside	normalWikiTitle:k-strophanthoside	predictedType:Chemical
+CANDIDATE	id:54160	inCount:0	outCount:1	links:	url:C054160	name:stephanine	normalName:stephanine	normalWikiTitle:stephanine	predictedType:Chemical
+CANDIDATE	id:574396	inCount:0	outCount:1	links:	url:C574396	name:streptophenazine G	normalName:streptophenazine g	normalWikiTitle:streptophenazine g	predictedType:Chemical
+CANDIDATE	id:17899	inCount:0	outCount:1	links:	url:C017899	name:K-strophanthin-beta	normalName:k-strophanthin-beta	normalWikiTitle:k-strophanthin-beta	predictedType:Chemical
+CANDIDATE	id:13322	inCount:0	outCount:1	links:	url:C013322	name:tropatepine	normalName:tropatepine	normalWikiTitle:tropatepine	predictedType:Chemical
+CANDIDATE	id:70075	inCount:0	outCount:1	links:	url:C070075	name:glystrophan	normalName:glystrophan	normalWikiTitle:glystrophan	predictedType:Chemical
+CANDIDATE	id:118096	inCount:0	outCount:1	links:	url:C118096	name:tomenphantin A	normalName:tomenphantin a	normalWikiTitle:tomenphantin a	predictedType:Chemical
+CANDIDATE	id:10042	inCount:14	outCount:1	links:	url:D010042	name:G Strophanthin	normalName:g strophanthin	normalWikiTitle:g strophanthin	predictedType:Chemical
+CANDIDATE	id:29082	inCount:0	outCount:1	links:	url:C029082	name:K-strophantin	normalName:k-strophantin	normalWikiTitle:k-strophantin	predictedType:Chemical
+CANDIDATE	id:8721	inCount:0	outCount:1	links:	url:C008721	name:g-strophanthidin	normalName:g-strophanthidin	normalWikiTitle:g-strophanthidin	predictedType:Chemical

@@ -1,0 +1,7 @@
+Total unique entities: 2304
+Entities w/o solution (FN): 513
+Wrong disambiguations (FP): 276
+Correct disambiguations (TP): 1515
+Precision: 0.8458961474036851
+Recall: 0.7470414201183432
+Micro F1-score: 0.793401413982718

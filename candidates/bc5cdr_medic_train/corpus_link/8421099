@@ -1,0 +1,33 @@
+ENTITY	text:acute cholecystitis	normalName:acute cholecystitis	predictedType:disease	q:true	qid:Q11	docId:8421099	origText:acute cholecystitis	url:D041881
+CANDIDATE	id:41881	inCount:1	outCount:1	links:42882	url:D041881	name:Cholecystitis, Acute	normalName:cholecystitis, acute	normalWikiTitle:cholecystitis, acute	predictedType:Disease
+ENTITY	text:acromegalic	normalName:acromegalic	predictedType:disease	q:true	qid:Q11	docId:8421099	origText:acromegalic	url:D000172
+CANDIDATE	id:172	inCount:6	outCount:2	links:	url:D000172	name:Acromegaly	normalName:acromegaly	normalWikiTitle:acromegaly	predictedType:Disease
+CANDIDATE	id:6332	inCount:5	outCount:2	links:3866	url:D006332	name:Cardiomegaly	normalName:cardiomegaly	normalWikiTitle:cardiomegaly	predictedType:Disease
+CANDIDATE	id:4480	inCount:21	outCount:1	links:	url:D004480	name:Ectromelia	normalName:ectromelia	normalWikiTitle:ectromelia	predictedType:Disease
+CANDIDATE	id:3085	inCount:0	outCount:1	links:	url:D003085	name:Colic	normalName:colic	normalWikiTitle:colic	predictedType:Disease
+CANDIDATE	id:6529	inCount:4	outCount:2	links:3866	url:D006529	name:Hepatomegaly	normalName:hepatomegaly	normalWikiTitle:hepatomegaly	predictedType:Disease
+CANDIDATE	id:8260	inCount:1	outCount:1	links:	url:D008260	name:Macroglossia	normalName:macroglossia	normalWikiTitle:macroglossia	predictedType:Disease
+CANDIDATE	id:535702	inCount:0	outCount:1	links:	url:C535702	name:Malonic aciduria	normalName:malonic aciduria	normalWikiTitle:malonic aciduria	predictedType:Disease
+CANDIDATE	id:14137	inCount:0	outCount:3	links:	url:D014137	name:Tracheobronchomegaly	normalName:tracheobronchomegaly	normalWikiTitle:tracheobronchomegaly	predictedType:Disease
+CANDIDATE	id:55092	inCount:1	outCount:3	links:	url:D055092	name:Laryngomalacia	normalName:laryngomalacia	normalWikiTitle:laryngomalacia	predictedType:Disease
+CANDIDATE	id:169	inCount:1	outCount:2	links:	url:D000169	name:Acrodermatitis	normalName:acrodermatitis	normalWikiTitle:acrodermatitis	predictedType:Disease
+ENTITY	text:gallstone	normalName:gallstone	predictedType:disease	q:true	qid:Q11	docId:8421099	origText:gallstone	url:D042882
+CANDIDATE	id:42882	inCount:2	outCount:3	links:41881	url:D042882	name:Gallstone	normalName:gallstone	normalWikiTitle:gallstone	predictedType:Disease
+ENTITY	text:cholecystitis	normalName:cholecystitis	predictedType:disease	q:true	qid:Q11	docId:8421099	origText:cholecystitis	url:D002764
+CANDIDATE	id:2764	inCount:4	outCount:1	links:	url:D002764	name:Cholecystitis	normalName:cholecystitis	normalWikiTitle:cholecystitis	predictedType:Disease
+ENTITY	text:gallstones	normalName:gallstones	predictedType:disease	q:true	qid:Q11	docId:8421099	origText:gallstones	url:D042882
+CANDIDATE	id:42882	inCount:2	outCount:3	links:41881	url:D042882	name:Gallstone	normalName:gallstone	normalWikiTitle:gallstone	predictedType:Disease
+ENTITY	text:acromegaly	normalName:acromegaly	predictedType:disease	q:true	qid:Q11	docId:8421099	origText:acromegaly	url:D000172
+CANDIDATE	id:172	inCount:6	outCount:2	links:	url:D000172	name:Acromegaly	normalName:acromegaly	normalWikiTitle:acromegaly	predictedType:Disease
+ENTITY	text:depressed	normalName:depressed	predictedType:disease	q:true	qid:Q11	docId:8421099	origText:depressed	url:D003866
+CANDIDATE	id:3866	inCount:6	outCount:1	links:6529;6332	url:D003866	name:Depressive Disorder	normalName:depressive disorder	normalWikiTitle:depressive disorder	predictedType:Disease
+CANDIDATE	id:4688	inCount:1	outCount:2	links:	url:D004688	name:Encopresis	normalName:encopresis	normalWikiTitle:encopresis	predictedType:Disease
+CANDIDATE	id:10291	inCount:3	outCount:1	links:	url:D010291	name:Paresis	normalName:paresis	normalWikiTitle:paresis	predictedType:Disease
+CANDIDATE	id:4775	inCount:2	outCount:2	links:	url:D004775	name:Enuresis	normalName:enuresis	normalWikiTitle:enuresis	predictedType:Disease
+CANDIDATE	id:3638	inCount:110	outCount:1	links:	url:D003638	name:Deafness	normalName:deafness	normalWikiTitle:deafness	predictedType:Disease
+CANDIDATE	id:9401	inCount:8	outCount:1	links:	url:D009401	name:Nephrosis	normalName:nephrosis	normalWikiTitle:nephrosis	predictedType:Disease
+CANDIDATE	id:12806	inCount:1	outCount:1	links:	url:D012806	name:Siderosis	normalName:siderosis	normalWikiTitle:siderosis	predictedType:Disease
+CANDIDATE	id:566019	inCount:0	outCount:1	links:	url:C566019	name:Tune Deafness	normalName:tune deafness	normalWikiTitle:tune deafness	predictedType:Disease
+CANDIDATE	id:6562	inCount:3	outCount:1	links:	url:D006562	name:Herpes Zoster	normalName:herpes zoster	normalWikiTitle:herpes zoster	predictedType:Disease
+CANDIDATE	id:9668	inCount:13	outCount:2	links:	url:D009668	name:Nose Diseases	normalName:nose diseases	normalWikiTitle:nose diseases	predictedType:Disease
+CANDIDATE	id:563392	inCount:0	outCount:3	links:	url:C563392	name:ADRESD	normalName:adresd	normalWikiTitle:adresd	predictedType:Disease

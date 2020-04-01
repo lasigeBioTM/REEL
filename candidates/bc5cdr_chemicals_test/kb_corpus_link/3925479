@@ -1,0 +1,46 @@
+ENTITY	text:neuroleptics	normalName:neuroleptics	predictedType:chemical	q:true	qid:Q247	docId:3925479	origText:neuroleptics	url:D014150
+CANDIDATE	id:14150	inCount:0	outCount:1	links:6220;14150	url:D014150	name:Agents, Neuroleptic	normalName:agents, neuroleptic	normalWikiTitle:agents, neuroleptic	predictedType:Chemical
+CANDIDATE	id:9479	inCount:432	outCount:1	links:9479	url:D009479	name:Neuropeptides	normalName:neuropeptides	normalWikiTitle:neuropeptides	predictedType:Chemical
+CANDIDATE	id:100531	inCount:0	outCount:2	links:100531	url:C100531	name:neuroserpin	normalName:neuroserpin	normalWikiTitle:neuroserpin	predictedType:Chemical
+CANDIDATE	id:495188	inCount:0	outCount:1	links:495188	url:C495188	name:neuropeptide B	normalName:neuropeptide b	normalWikiTitle:neuropeptide b	predictedType:Chemical
+CANDIDATE	id:9478	inCount:45	outCount:1	links:9478	url:D009478	name:Neuropeptide Y	normalName:neuropeptide y	normalWikiTitle:neuropeptide y	predictedType:Chemical
+CANDIDATE	id:76101	inCount:0	outCount:1	links:76101	url:C076101	name:neuropeptide F	normalName:neuropeptide f	normalWikiTitle:neuropeptide f	predictedType:Chemical
+CANDIDATE	id:45206	inCount:0	outCount:1	links:45206	url:C045206	name:neuropeptide K	normalName:neuropeptide k	normalWikiTitle:neuropeptide k	predictedType:Chemical
+CANDIDATE	id:620953	inCount:0	outCount:2	links:620953	url:C000620953	name:urolastic	normalName:urolastic	normalWikiTitle:urolastic	predictedType:Chemical
+CANDIDATE	id:462159	inCount:0	outCount:2	links:462159	url:C462159	name:neurolenin B	normalName:neurolenin b	normalWikiTitle:neurolenin b	predictedType:Chemical
+CANDIDATE	id:106428	inCount:0	outCount:1	links:106428	url:C106428	name:NocII neuropeptide	normalName:nocii neuropeptide	normalWikiTitle:nocii neuropeptide	predictedType:Chemical
+CANDIDATE	id:414382	inCount:0	outCount:1	links:414382	url:C414382	name:neuropeptide SF	normalName:neuropeptide sf	normalWikiTitle:neuropeptide sf	predictedType:Chemical
+CANDIDATE	id:14150	inCount:0	outCount:1	links:6220;14150	url:D014150	name:Neuroleptics	normalName:neuroleptics	normalWikiTitle:neuroleptics	predictedType:Chemical
+CANDIDATE	id:84584	inCount:0	outCount:1	links:84584	url:C084584	name:Neuleptil	normalName:neuleptil	normalWikiTitle:neuleptil	predictedType:Chemical
+CANDIDATE	id:14150	inCount:0	outCount:1	links:6220;14150	url:D014150	name:Neuroleptic Drugs	normalName:neuroleptic drugs	normalWikiTitle:neuroleptic drugs	predictedType:Chemical
+CANDIDATE	id:14150	inCount:0	outCount:1	links:6220;14150	url:D014150	name:Drugs, Neuroleptic	normalName:drugs, neuroleptic	normalWikiTitle:drugs, neuroleptic	predictedType:Chemical
+CANDIDATE	id:9479	inCount:432	outCount:1	links:9479	url:D009479	name:Neuropeptide	normalName:neuropeptide	normalWikiTitle:neuropeptide	predictedType:Chemical
+CANDIDATE	id:14150	inCount:0	outCount:1	links:6220;14150	url:D014150	name:Neuroleptic Agents	normalName:neuroleptic agents	normalWikiTitle:neuroleptic agents	predictedType:Chemical
+ENTITY	text:hemicholinium	normalName:hemicholinium	predictedType:chemical	q:true	qid:Q247	docId:3925479	origText:hemicholinium	url:D006426
+CANDIDATE	id:6426	inCount:5	outCount:1	links:	url:D006426	name:Hemicholinium	normalName:hemicholinium	normalWikiTitle:hemicholinium	predictedType:Chemical
+ENTITY	text:pilocarpine	normalName:pilocarpine	predictedType:chemical	q:true	qid:Q247	docId:3925479	origText:pilocarpine	url:D010862
+CANDIDATE	id:10862	inCount:7	outCount:1	links:109;6220	url:D010862	name:Pilocarpine	normalName:pilocarpine	normalWikiTitle:pilocarpine	predictedType:Chemical
+ENTITY	text:haloperidol	normalName:haloperidol	predictedType:chemical	q:true	qid:Q247	docId:3925479	origText:haloperidol	url:D006220
+CANDIDATE	id:6220	inCount:24	outCount:1	links:14150;10862	url:D006220	name:Haloperidol	normalName:haloperidol	normalWikiTitle:haloperidol	predictedType:Chemical
+ENTITY	text:atropine	normalName:atropine	predictedType:chemical	q:true	qid:Q247	docId:3925479	origText:atropine	url:D001285
+CANDIDATE	id:1285	inCount:16	outCount:1	links:	url:D001285	name:Atropine	normalName:atropine	normalWikiTitle:atropine	predictedType:Chemical
+ENTITY	text:neuroleptic	normalName:neuroleptic	predictedType:chemical	q:true	qid:Q247	docId:3925479	origText:neuroleptic	url:D014150
+CANDIDATE	id:14150	inCount:0	outCount:1	links:6220;14150	url:D014150	name:Agents, Neuroleptic	normalName:agents, neuroleptic	normalWikiTitle:agents, neuroleptic	predictedType:Chemical
+CANDIDATE	id:9479	inCount:432	outCount:1	links:9479	url:D009479	name:Neuropeptides	normalName:neuropeptides	normalWikiTitle:neuropeptides	predictedType:Chemical
+CANDIDATE	id:100531	inCount:0	outCount:2	links:100531	url:C100531	name:neuroserpin	normalName:neuroserpin	normalWikiTitle:neuroserpin	predictedType:Chemical
+CANDIDATE	id:495188	inCount:0	outCount:1	links:495188	url:C495188	name:neuropeptide B	normalName:neuropeptide b	normalWikiTitle:neuropeptide b	predictedType:Chemical
+CANDIDATE	id:9478	inCount:45	outCount:1	links:9478	url:D009478	name:Neuropeptide Y	normalName:neuropeptide y	normalWikiTitle:neuropeptide y	predictedType:Chemical
+CANDIDATE	id:76101	inCount:0	outCount:1	links:76101	url:C076101	name:neuropeptide F	normalName:neuropeptide f	normalWikiTitle:neuropeptide f	predictedType:Chemical
+CANDIDATE	id:45206	inCount:0	outCount:1	links:45206	url:C045206	name:neuropeptide K	normalName:neuropeptide k	normalWikiTitle:neuropeptide k	predictedType:Chemical
+CANDIDATE	id:620953	inCount:0	outCount:2	links:620953	url:C000620953	name:urolastic	normalName:urolastic	normalWikiTitle:urolastic	predictedType:Chemical
+CANDIDATE	id:462159	inCount:0	outCount:2	links:462159	url:C462159	name:neurolenin B	normalName:neurolenin b	normalWikiTitle:neurolenin b	predictedType:Chemical
+CANDIDATE	id:106428	inCount:0	outCount:1	links:106428	url:C106428	name:NocII neuropeptide	normalName:nocii neuropeptide	normalWikiTitle:nocii neuropeptide	predictedType:Chemical
+CANDIDATE	id:414382	inCount:0	outCount:1	links:414382	url:C414382	name:neuropeptide SF	normalName:neuropeptide sf	normalWikiTitle:neuropeptide sf	predictedType:Chemical
+CANDIDATE	id:14150	inCount:0	outCount:1	links:6220;14150	url:D014150	name:Neuroleptics	normalName:neuroleptics	normalWikiTitle:neuroleptics	predictedType:Chemical
+CANDIDATE	id:84584	inCount:0	outCount:1	links:84584	url:C084584	name:Neuleptil	normalName:neuleptil	normalWikiTitle:neuleptil	predictedType:Chemical
+CANDIDATE	id:14150	inCount:0	outCount:1	links:6220;14150	url:D014150	name:Neuroleptic Drugs	normalName:neuroleptic drugs	normalWikiTitle:neuroleptic drugs	predictedType:Chemical
+CANDIDATE	id:14150	inCount:0	outCount:1	links:6220;14150	url:D014150	name:Drugs, Neuroleptic	normalName:drugs, neuroleptic	normalWikiTitle:drugs, neuroleptic	predictedType:Chemical
+CANDIDATE	id:9479	inCount:432	outCount:1	links:9479	url:D009479	name:Neuropeptide	normalName:neuropeptide	normalWikiTitle:neuropeptide	predictedType:Chemical
+CANDIDATE	id:14150	inCount:0	outCount:1	links:6220;14150	url:D014150	name:Neuroleptic Agents	normalName:neuroleptic agents	normalWikiTitle:neuroleptic agents	predictedType:Chemical
+ENTITY	text:acetylcholine	normalName:acetylcholine	predictedType:chemical	q:true	qid:Q247	docId:3925479	origText:acetylcholine	url:D000109
+CANDIDATE	id:109	inCount:23	outCount:1	links:10862	url:D000109	name:Acetylcholine	normalName:acetylcholine	normalWikiTitle:acetylcholine	predictedType:Chemical

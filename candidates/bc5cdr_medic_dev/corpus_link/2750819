@@ -1,0 +1,35 @@
+ENTITY	text:toxicity	normalName:toxicity	predictedType:disease	q:true	qid:Q32	docId:2750819	origText:toxicity	url:D064420
+CANDIDATE	id:64420	inCount:10	outCount:1	links:	url:D064420	name:Drug Toxicity	normalName:drug toxicity	normalWikiTitle:drug toxicity	predictedType:Disease
+CANDIDATE	id:66126	inCount:0	outCount:3	links:	url:D066126	name:Cardiotoxicity	normalName:cardiotoxicity	normalWikiTitle:cardiotoxicity	predictedType:Disease
+CANDIDATE	id:15651	inCount:2	outCount:1	links:	url:D015651	name:Mycotoxicosis	normalName:mycotoxicosis	normalWikiTitle:mycotoxicosis	predictedType:Disease
+CANDIDATE	id:13971	inCount:2	outCount:1	links:	url:D013971	name:Thyrotoxicosis	normalName:thyrotoxicosis	normalWikiTitle:thyrotoxicosis	predictedType:Disease
+CANDIDATE	id:14869	inCount:0	outCount:2	links:	url:D014869	name:Water Intoxication	normalName:water intoxication	normalWikiTitle:water intoxication	predictedType:Disease
+CANDIDATE	id:14103	inCount:4	outCount:2	links:	url:D014103	name:Torticollis	normalName:torticollis	normalWikiTitle:torticollis	predictedType:Disease
+CANDIDATE	id:9765	inCount:42	outCount:2	links:	url:D009765	name:Obesity	normalName:obesity	normalWikiTitle:obesity	predictedType:Disease
+CANDIDATE	id:14115	inCount:1	outCount:1	links:	url:D014115	name:Toxemia	normalName:toxemia	normalWikiTitle:toxemia	predictedType:Disease
+CANDIDATE	id:7246	inCount:2	outCount:2	links:	url:D007246	name:Infertility	normalName:infertility	normalWikiTitle:infertility	predictedType:Disease
+CANDIDATE	id:20234	inCount:0	outCount:2	links:	url:D020234	name:Gait Ataxia	normalName:gait ataxia	normalWikiTitle:gait ataxia	predictedType:Disease
+CANDIDATE	id:14069	inCount:1	outCount:1	links:	url:D014069	name:Tonsillitis	normalName:tonsillitis	normalWikiTitle:tonsillitis	predictedType:Disease
+CANDIDATE	id:64420	inCount:10	outCount:1	links:	url:D064420	name:Toxicity, Drug	normalName:toxicity, drug	normalWikiTitle:toxicity, drug	predictedType:Disease
+CANDIDATE	id:17484	inCount:0	outCount:2	links:	url:D017484	name:Phototoxicity	normalName:phototoxicity	normalWikiTitle:phototoxicity	predictedType:Disease
+ENTITY	text:Neuromuscular blockade	normalName:neuromuscular blockade	predictedType:disease	q:true	qid:Q32	docId:2750819	origText:Neuromuscular blockade	url:D020879
+CANDIDATE	id:20879	inCount:10	outCount:1	links:	url:D020879	name:Neuromuscular Manifestations	normalName:neuromuscular manifestations	normalWikiTitle:neuromuscular manifestations	predictedType:Disease
+CANDIDATE	id:9468	inCount:14	outCount:1	links:	url:D009468	name:Neuromuscular Diseases	normalName:neuromuscular diseases	normalWikiTitle:neuromuscular diseases	predictedType:Disease
+CANDIDATE	id:1750	inCount:0	outCount:2	links:	url:D001750	name:Urinary Bladder, Neurogenic	normalName:urinary bladder, neurogenic	normalWikiTitle:urinary bladder, neurogenic	predictedType:Disease
+CANDIDATE	id:15355	inCount:0	outCount:1	links:	url:D015355	name:Glaucoma, Neovascular	normalName:glaucoma, neovascular	normalWikiTitle:glaucoma, neovascular	predictedType:Disease
+CANDIDATE	id:565543	inCount:0	outCount:2	links:	url:C565543	name:GSD IV, Neuromuscular Form, Childhood	normalName:gsd iv, neuromuscular form, childhood	normalWikiTitle:gsd iv, neuromuscular form, childhood	predictedType:Disease
+CANDIDATE	id:20511	inCount:4	outCount:1	links:	url:D020511	name:Neuromuscular Junction Diseases	normalName:neuromuscular junction diseases	normalWikiTitle:neuromuscular junction diseases	predictedType:Disease
+CANDIDATE	id:1749	inCount:2	outCount:2	links:	url:D001749	name:Urinary Bladder Neoplasms	normalName:urinary bladder neoplasms	normalWikiTitle:urinary bladder neoplasms	predictedType:Disease
+CANDIDATE	id:565542	inCount:0	outCount:2	links:	url:C565542	name:GSD IV, Neuromuscular Form, Congenital	normalName:gsd iv, neuromuscular form, congenital	normalWikiTitle:gsd iv, neuromuscular form, congenital	predictedType:Disease
+CANDIDATE	id:9133	inCount:16	outCount:2	links:	url:D009133	name:Muscular Atrophy	normalName:muscular atrophy	normalWikiTitle:muscular atrophy	predictedType:Disease
+CANDIDATE	id:5352	inCount:0	outCount:1	links:	url:D005352	name:Fibromuscular Dysplasia	normalName:fibromuscular dysplasia	normalWikiTitle:fibromuscular dysplasia	predictedType:Disease
+CANDIDATE	id:55191	inCount:0	outCount:1	links:	url:D055191	name:Blockade, Residual Neuromuscular	normalName:blockade, residual neuromuscular	normalWikiTitle:blockade, residual neuromuscular	predictedType:Disease
+CANDIDATE	id:55191	inCount:0	outCount:1	links:	url:D055191	name:Neuromuscular Blockade, Residual	normalName:neuromuscular blockade, residual	normalWikiTitle:neuromuscular blockade, residual	predictedType:Disease
+CANDIDATE	id:55191	inCount:0	outCount:1	links:	url:D055191	name:Residual Neuromuscular Blockade	normalName:residual neuromuscular blockade	normalWikiTitle:residual neuromuscular blockade	predictedType:Disease
+CANDIDATE	id:55191	inCount:0	outCount:1	links:	url:D055191	name:Residual Neuromuscular Blockades	normalName:residual neuromuscular blockades	normalWikiTitle:residual neuromuscular blockades	predictedType:Disease
+CANDIDATE	id:55191	inCount:0	outCount:1	links:	url:D055191	name:Neuromuscular Blockades, Residual	normalName:neuromuscular blockades, residual	normalWikiTitle:neuromuscular blockades, residual	predictedType:Disease
+CANDIDATE	id:55191	inCount:0	outCount:1	links:	url:D055191	name:Blockades, Residual Neuromuscular	normalName:blockades, residual neuromuscular	normalWikiTitle:blockades, residual neuromuscular	predictedType:Disease
+CANDIDATE	id:55191	inCount:0	outCount:1	links:	url:D055191	name:Residual Neuromuscular Block	normalName:residual neuromuscular block	normalWikiTitle:residual neuromuscular block	predictedType:Disease
+CANDIDATE	id:55191	inCount:0	outCount:1	links:	url:D055191	name:Neuromuscular Block, Residual	normalName:neuromuscular block, residual	normalWikiTitle:neuromuscular block, residual	predictedType:Disease
+CANDIDATE	id:55191	inCount:0	outCount:1	links:	url:D055191	name:Block, Residual Neuromuscular	normalName:block, residual neuromuscular	normalWikiTitle:block, residual neuromuscular	predictedType:Disease
+CANDIDATE	id:55191	inCount:0	outCount:1	links:	url:D055191	name:Neuromuscular Blocks, Residual	normalName:neuromuscular blocks, residual	normalWikiTitle:neuromuscular blocks, residual	predictedType:Disease

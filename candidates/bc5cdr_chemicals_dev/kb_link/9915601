@@ -1,0 +1,26 @@
+ENTITY	text:GABA	normalName:gaba	predictedType:chemical	q:true	qid:Q20	docId:9915601	origText:GABA	url:D005680
+CANDIDATE	id:5680	inCount:100	outCount:1	links:5680	url:D005680	name:GABA	normalName:gaba	normalWikiTitle:gaba	predictedType:Chemical
+ENTITY	text:labetalol	normalName:labetalol	predictedType:chemical	q:true	qid:Q20	docId:9915601	origText:labetalol	url:D007741
+CANDIDATE	id:7741	inCount:0	outCount:2	links:	url:D007741	name:Labetalol	normalName:labetalol	normalWikiTitle:labetalol	predictedType:Chemical
+ENTITY	text:isoniazid	normalName:isoniazid	predictedType:chemical	q:true	qid:Q20	docId:9915601	origText:isoniazid	url:D007538
+CANDIDATE	id:7538	inCount:46	outCount:2	links:	url:D007538	name:Isoniazid	normalName:isoniazid	normalWikiTitle:isoniazid	predictedType:Chemical
+ENTITY	text:urethane	normalName:urethane	predictedType:chemical	q:true	qid:Q20	docId:9915601	origText:urethane	url:D014520
+CANDIDATE	id:14520	inCount:20	outCount:1	links:	url:D014520	name:Urethane	normalName:urethane	normalWikiTitle:urethane	predictedType:Chemical
+ENTITY	text:hexamethonium	normalName:hexamethonium	predictedType:chemical	q:true	qid:Q20	docId:9915601	origText:hexamethonium	url:D018738
+CANDIDATE	id:18738	inCount:0	outCount:1	links:	url:D018738	name:Hexamethonium	normalName:hexamethonium	normalWikiTitle:hexamethonium	predictedType:Chemical
+ENTITY	text:carbachol	normalName:carbachol	predictedType:chemical	q:true	qid:Q20	docId:9915601	origText:carbachol	url:D002217
+CANDIDATE	id:2217	inCount:9	outCount:1	links:	url:D002217	name:Carbachol	normalName:carbachol	normalWikiTitle:carbachol	predictedType:Chemical
+ENTITY	text:chloralose	normalName:chloralose	predictedType:chemical	q:true	qid:Q20	docId:9915601	origText:chloralose	url:D002698
+CANDIDATE	id:2698	inCount:0	outCount:2	links:	url:D002698	name:Chloralose	normalName:chloralose	normalWikiTitle:chloralose	predictedType:Chemical
+ENTITY	text:propranolol	normalName:propranolol	predictedType:chemical	q:true	qid:Q20	docId:9915601	origText:propranolol	url:D011433
+CANDIDATE	id:11433	inCount:46	outCount:2	links:	url:D011433	name:Propranolol	normalName:propranolol	normalWikiTitle:propranolol	predictedType:Chemical
+ENTITY	text:pindolol	normalName:pindolol	predictedType:chemical	q:true	qid:Q20	docId:9915601	origText:pindolol	url:D010869
+CANDIDATE	id:10869	inCount:21	outCount:1	links:	url:D010869	name:Pindolol	normalName:pindolol	normalWikiTitle:pindolol	predictedType:Chemical
+ENTITY	text:atenolol	normalName:atenolol	predictedType:chemical	q:true	qid:Q20	docId:9915601	origText:atenolol	url:D001262
+CANDIDATE	id:1262	inCount:5	outCount:1	links:	url:D001262	name:Atenolol	normalName:atenolol	normalWikiTitle:atenolol	predictedType:Chemical
+ENTITY	text:methylatropine	normalName:methylatropine	predictedType:chemical	q:true	qid:Q20	docId:9915601	origText:methylatropine	url:C006649
+CANDIDATE	id:6649	inCount:0	outCount:1	links:	url:C006649	name:methylatropine	normalName:methylatropine	normalWikiTitle:methylatropine	predictedType:Chemical
+ENTITY	text:gamma-aminobutyric acid	normalName:gamma-aminobutyric acid	predictedType:chemical	q:true	qid:Q20	docId:9915601	origText:gamma-aminobutyric acid	url:D005680
+CANDIDATE	id:5680	inCount:100	outCount:1	links:5680	url:D005680	name:gamma-Aminobutyric Acid	normalName:gamma-aminobutyric acid	normalWikiTitle:gamma-aminobutyric acid	predictedType:Chemical
+ENTITY	text:clonidine	normalName:clonidine	predictedType:chemical	q:true	qid:Q20	docId:9915601	origText:clonidine	url:D003000
+CANDIDATE	id:3000	inCount:39	outCount:1	links:	url:D003000	name:Clonidine	normalName:clonidine	normalWikiTitle:clonidine	predictedType:Chemical

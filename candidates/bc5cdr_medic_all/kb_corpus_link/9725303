@@ -1,0 +1,39 @@
+ENTITY	text:urolithiasis	normalName:urolithiasis	predictedType:disease	q:true	qid:Q302	docId:9725303	origText:urolithiasis	url:D052878
+CANDIDATE	id:52878	inCount:5	outCount:1	links:	url:D052878	name:Urolithiasis	normalName:urolithiasis	normalWikiTitle:urolithiasis	predictedType:Disease
+ENTITY	text:ureteric calculi	normalName:ureteric calculi	predictedType:disease	q:true	qid:Q302	docId:9725303	origText:ureteric calculi	url:D014514
+CANDIDATE	id:14514	inCount:0	outCount:2	links:	url:D014514	name:Ureteral Calculi	normalName:ureteral calculi	normalWikiTitle:ureteral calculi	predictedType:Disease
+CANDIDATE	id:14545	inCount:4	outCount:2	links:	url:D014545	name:Urinary Calculi	normalName:urinary calculi	normalWikiTitle:urinary calculi	predictedType:Disease
+CANDIDATE	id:69282	inCount:0	outCount:1	links:	url:D000069282	name:Canaliculitis	normalName:canaliculitis	normalWikiTitle:canaliculitis	predictedType:Disease
+CANDIDATE	id:69856	inCount:0	outCount:1	links:	url:D000069856	name:Staghorn Calculi	normalName:staghorn calculi	normalWikiTitle:staghorn calculi	predictedType:Disease
+CANDIDATE	id:2137	inCount:5	outCount:1	links:	url:D002137	name:Calculi	normalName:calculi	normalWikiTitle:calculi	predictedType:Disease
+CANDIDATE	id:64749	inCount:0	outCount:1	links:	url:D064749	name:Retrocaval Ureter	normalName:retrocaval ureter	normalWikiTitle:retrocaval ureter	predictedType:Disease
+CANDIDATE	id:7669	inCount:3	outCount:2	links:	url:D007669	name:Kidney Calculi	normalName:kidney calculi	normalWikiTitle:kidney calculi	predictedType:Disease
+CANDIDATE	id:12465	inCount:0	outCount:1	links:	url:D012465	name:Salivary Duct Calculi	normalName:salivary duct calculi	normalWikiTitle:salivary duct calculi	predictedType:Disease
+CANDIDATE	id:3728	inCount:0	outCount:2	links:	url:D003728	name:Dental Calculus	normalName:dental calculus	normalWikiTitle:dental calculus	predictedType:Disease
+CANDIDATE	id:14718	inCount:4	outCount:1	links:	url:D014718	name:Vesico-Ureteral Reflux	normalName:vesico-ureteral reflux	normalWikiTitle:vesico-ureteral reflux	predictedType:Disease
+ENTITY	text:HIV infection	normalName:hiv infection	predictedType:disease	q:true	qid:Q302	docId:9725303	origText:HIV infection	url:D015658
+CANDIDATE	id:15658	inCount:12	outCount:3	links:15658	url:D015658	name:Infection, HIV	normalName:infection, hiv	normalWikiTitle:infection, hiv	predictedType:Disease
+ENTITY	text:HIV-infected	normalName:hiv-infected	predictedType:disease	q:true	qid:Q302	docId:9725303	origText:HIV-infected	url:D015658
+CANDIDATE	id:15658	inCount:12	outCount:3	links:15658	url:D015658	name:Infection, HIV	normalName:infection, hiv	normalWikiTitle:infection, hiv	predictedType:Disease
+CANDIDATE	id:15658	inCount:12	outCount:3	links:15658	url:D015658	name:HIV Infections	normalName:hiv infections	normalWikiTitle:hiv infections	predictedType:Disease
+CANDIDATE	id:785	inCount:0	outCount:2	links:	url:D000785	name:Aneurysm, Infected	normalName:aneurysm, infected	normalWikiTitle:aneurysm, infected	predictedType:Disease
+CANDIDATE	id:15490	inCount:1	outCount:1	links:	url:D015490	name:HTLV-I Infections	normalName:htlv-i infections	normalWikiTitle:htlv-i infections	predictedType:Disease
+CANDIDATE	id:15491	inCount:0	outCount:1	links:	url:D015491	name:HTLV-II Infections	normalName:htlv-ii infections	normalWikiTitle:htlv-ii infections	predictedType:Disease
+CANDIDATE	id:45464	inCount:0	outCount:1	links:	url:D045464	name:Henipavirus Infections	normalName:henipavirus infections	normalWikiTitle:henipavirus infections	predictedType:Disease
+CANDIDATE	id:7239	inCount:33	outCount:1	links:	url:D007239	name:Infection	normalName:infection	normalWikiTitle:infection	predictedType:Disease
+CANDIDATE	id:2690	inCount:5	outCount:2	links:	url:D002690	name:Chlamydia Infections	normalName:chlamydia infections	normalWikiTitle:chlamydia infections	predictedType:Disease
+CANDIDATE	id:4457	inCount:2	outCount:1	links:	url:D004457	name:Echovirus Infections	normalName:echovirus infections	normalWikiTitle:echovirus infections	predictedType:Disease
+CANDIDATE	id:1170	inCount:2	outCount:2	links:	url:D001170	name:Arthritis, Infectious	normalName:arthritis, infectious	normalWikiTitle:arthritis, infectious	predictedType:Disease
+CANDIDATE	id:18354	inCount:2	outCount:1	links:	url:D018354	name:Alphavirus Infections	normalName:alphavirus infections	normalWikiTitle:alphavirus infections	predictedType:Disease
+CANDIDATE	id:15658	inCount:12	outCount:3	links:15658	url:D015658	name:HIV Infection	normalName:hiv infection	normalWikiTitle:hiv infection	predictedType:Disease
+ENTITY	text:ureteric obstruction	normalName:ureteric obstruction	predictedType:disease	q:true	qid:Q302	docId:9725303	origText:ureteric obstruction	url:D014517
+CANDIDATE	id:14517	inCount:1	outCount:1	links:	url:D014517	name:Ureteral Obstruction	normalName:ureteral obstruction	normalWikiTitle:ureteral obstruction	predictedType:Disease
+CANDIDATE	id:14524	inCount:6	outCount:1	links:	url:D014524	name:Urethral Obstruction	normalName:urethral obstruction	normalWikiTitle:urethral obstruction	predictedType:Disease
+CANDIDATE	id:14694	inCount:2	outCount:1	links:	url:D014694	name:Ventricular Outflow Obstruction	normalName:ventricular outflow obstruction	normalWikiTitle:ventricular outflow obstruction	predictedType:Disease
+CANDIDATE	id:536477	inCount:0	outCount:6	links:	url:C536477	name:Urethral obstruction sequence	normalName:urethral obstruction sequence	normalWikiTitle:urethral obstruction sequence	predictedType:Disease
+CANDIDATE	id:17219	inCount:2	outCount:1	links:	url:D017219	name:Gastric Outlet Obstruction	normalName:gastric outlet obstruction	normalWikiTitle:gastric outlet obstruction	predictedType:Disease
+CANDIDATE	id:12078	inCount:0	outCount:2	links:	url:D012078	name:Renal Artery Obstruction	normalName:renal artery obstruction	normalWikiTitle:renal artery obstruction	predictedType:Disease
+CANDIDATE	id:31	inCount:0	outCount:2	links:	url:D000031	name:Abortion, Septic	normalName:abortion, septic	normalWikiTitle:abortion, septic	predictedType:Disease
+CANDIDATE	id:34	inCount:1	outCount:2	links:	url:D000034	name:Abortion, Veterinary	normalName:abortion, veterinary	normalWikiTitle:abortion, veterinary	predictedType:Disease
+CANDIDATE	id:14595	inCount:0	outCount:1	links:	url:D014595	name:Uterine Perforation	normalName:uterine perforation	normalWikiTitle:uterine perforation	predictedType:Disease
+CANDIDATE	id:3251	inCount:8	outCount:1	links:	url:D003251	name:Constriction, Pathologic	normalName:constriction, pathologic	normalWikiTitle:constriction, pathologic	predictedType:Disease

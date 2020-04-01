@@ -1,0 +1,29 @@
+ENTITY	text:cocaine-addicted	normalName:cocaine-addicted	predictedType:disease	q:true	qid:Q487	docId:20304337	origText:cocaine-addicted	url:D019970
+CANDIDATE	id:19970	inCount:0	outCount:1	links:	url:D019970	name:Abuse, Cocaine	normalName:abuse, cocaine	normalWikiTitle:abuse, cocaine	predictedType:Disease
+CANDIDATE	id:74723	inCount:0	outCount:1	links:	url:D000074723	name:Oncogene Addiction	normalName:oncogene addiction	normalWikiTitle:oncogene addiction	predictedType:Disease
+CANDIDATE	id:59787	inCount:0	outCount:1	links:	url:D059787	name:Acute Pain	normalName:acute pain	normalWikiTitle:acute pain	predictedType:Disease
+CANDIDATE	id:1017	inCount:3	outCount:1	links:	url:D001017	name:Aortic Coarctation	normalName:aortic coarctation	normalWikiTitle:aortic coarctation	predictedType:Disease
+CANDIDATE	id:41781	inCount:2	outCount:1	links:	url:D041781	name:Jaundice, Obstructive	normalName:jaundice, obstructive	normalWikiTitle:jaundice, obstructive	predictedType:Disease
+CANDIDATE	id:536479	inCount:0	outCount:1	links:	url:C536479	name:Urocanase deficiency	normalName:urocanase deficiency	normalWikiTitle:urocanase deficiency	predictedType:Disease
+CANDIDATE	id:115080	inCount:0	outCount:2	links:	url:115080	name:CARDIAC CONDUCTION DEFECT	normalName:cardiac conduction defect	normalWikiTitle:cardiac conduction defect	predictedType:Disease
+CANDIDATE	id:230	inCount:32	outCount:1	links:	url:D000230	name:Adenocarcinoma	normalName:adenocarcinoma	normalWikiTitle:adenocarcinoma	predictedType:Disease
+CANDIDATE	id:73932	inCount:0	outCount:1	links:	url:D000073932	name:Food Addiction	normalName:food addiction	normalWikiTitle:food addiction	predictedType:Disease
+CANDIDATE	id:2754	inCount:7	outCount:2	links:	url:D002754	name:Choanal Atresia	normalName:choanal atresia	normalWikiTitle:choanal atresia	predictedType:Disease
+CANDIDATE	id:72716	inCount:0	outCount:1	links:	url:D000072716	name:Cancer Pain	normalName:cancer pain	normalWikiTitle:cancer pain	predictedType:Disease
+CANDIDATE	id:19970	inCount:0	outCount:1	links:	url:D019970	name:Addiction, Cocaine	normalName:addiction, cocaine	normalWikiTitle:addiction, cocaine	predictedType:Disease
+CANDIDATE	id:19970	inCount:0	outCount:1	links:	url:D019970	name:Cocaine Addiction	normalName:cocaine addiction	normalWikiTitle:cocaine addiction	predictedType:Disease
+CANDIDATE	id:19970	inCount:0	outCount:1	links:	url:D019970	name:Cocaine Abuse	normalName:cocaine abuse	normalWikiTitle:cocaine abuse	predictedType:Disease
+ENTITY	text:multiple cranial-nerve involvement	normalName:multiple cranial-nerve involvement	predictedType:disease	q:true	qid:Q487	docId:20304337	origText:multiple cranial-nerve involvement	url:D003389
+CANDIDATE	id:3389	inCount:16	outCount:1	links:	url:D003389	name:Cranial Nerve Diseases	normalName:cranial nerve diseases	normalWikiTitle:cranial nerve diseases	predictedType:Disease
+CANDIDATE	id:20209	inCount:12	outCount:2	links:	url:D020209	name:Cranial Nerve Injuries	normalName:cranial nerve injuries	normalWikiTitle:cranial nerve injuries	predictedType:Disease
+CANDIDATE	id:535816	inCount:0	outCount:1	links:	url:C535816	name:Nevi flammei, familial multiple	normalName:nevi flammei, familial multiple	normalWikiTitle:nevi flammei, familial multiple	predictedType:Disease
+CANDIDATE	id:3390	inCount:2	outCount:3	links:	url:D003390	name:Cranial Nerve Neoplasms	normalName:cranial nerve neoplasms	normalWikiTitle:cranial nerve neoplasms	predictedType:Disease
+CANDIDATE	id:566346	inCount:0	outCount:1	links:	url:C566346	name:Blue Nevi, Familial Multiple	normalName:blue nevi, familial multiple	normalWikiTitle:blue nevi, familial multiple	predictedType:Disease
+CANDIDATE	id:20220	inCount:0	outCount:2	links:	url:D020220	name:Facial Nerve Injuries	normalName:facial nerve injuries	normalWikiTitle:facial nerve injuries	predictedType:Disease
+CANDIDATE	id:537656	inCount:0	outCount:2	links:	url:C537656	name:Basal cell carcinoma, multiple	normalName:basal cell carcinoma, multiple	normalWikiTitle:basal cell carcinoma, multiple	predictedType:Disease
+CANDIDATE	id:2581	inCount:0	outCount:2	links:	url:D002581	name:Uterine Cervical Incompetence	normalName:uterine cervical incompetence	normalWikiTitle:uterine cervical incompetence	predictedType:Disease
+CANDIDATE	id:71070	inCount:0	outCount:2	links:	url:D000071070	name:Familial Multiple Lipomatosis	normalName:familial multiple lipomatosis	normalWikiTitle:familial multiple lipomatosis	predictedType:Disease
+CANDIDATE	id:6223	inCount:9	outCount:3	links:	url:D006223	name:Hamartoma Syndrome, Multiple	normalName:hamartoma syndrome, multiple	normalWikiTitle:hamartoma syndrome, multiple	predictedType:Disease
+CANDIDATE	id:61227	inCount:0	outCount:2	links:	url:D061227	name:Eleventh Cranial Nerve Injuries	normalName:eleventh cranial nerve injuries	normalWikiTitle:eleventh cranial nerve injuries	predictedType:Disease
+ENTITY	text:cocaine abuse	normalName:cocaine abuse	predictedType:disease	q:true	qid:Q487	docId:20304337	origText:cocaine abuse	url:D019970
+CANDIDATE	id:19970	inCount:0	outCount:1	links:	url:D019970	name:Abuse, Cocaine	normalName:abuse, cocaine	normalWikiTitle:abuse, cocaine	predictedType:Disease

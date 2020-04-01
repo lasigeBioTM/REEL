@@ -1,0 +1,32 @@
+ENTITY	text:premature (< 36 weeks of gestation) infants	normalName:premature (< 36 weeks of gestation) infants	predictedType:disease	q:true	qid:Q1035	docId:11425091	origText:premature (< 36 weeks of gestation) infants	url:D007235
+CANDIDATE	id:7235	inCount:5	outCount:1	links:3560	url:D007235	name:Infant, Premature, Diseases	normalName:infant, premature, diseases	normalWikiTitle:infant, premature, diseases	predictedType:Disease
+CANDIDATE	id:535270	inCount:0	outCount:6	links:	url:C535270	name:Premature aging, Okamoto type	normalName:premature aging, okamoto type	normalWikiTitle:premature aging, okamoto type	predictedType:Disease
+CANDIDATE	id:566881	inCount:0	outCount:1	links:	url:C566881	name:Respiratory Distress Syndrome In Premature Infants	normalName:respiratory distress syndrome in premature infants	normalWikiTitle:respiratory distress syndrome in premature infants	predictedType:Disease
+CANDIDATE	id:567351	inCount:0	outCount:1	links:	url:C567351	name:Premature Ovarian Failure 6	normalName:premature ovarian failure 6	normalWikiTitle:premature ovarian failure 6	predictedType:Disease
+CANDIDATE	id:563816	inCount:0	outCount:1	links:	url:C563816	name:Premature Ovarian Failure 3	normalName:premature ovarian failure 3	normalWikiTitle:premature ovarian failure 3	predictedType:Disease
+CANDIDATE	id:617442	inCount:0	outCount:1	links:	url:617442	name:PREMATURE OVARIAN FAILURE 13	normalName:premature ovarian failure 13	normalWikiTitle:premature ovarian failure 13	predictedType:Disease
+CANDIDATE	id:566621	inCount:0	outCount:1	links:	url:C566621	name:Premature Aging Syndrome, Okamoto Type	normalName:premature aging syndrome, okamoto type	normalWikiTitle:premature aging syndrome, okamoto type	predictedType:Disease
+CANDIDATE	id:5322	inCount:2	outCount:1	links:	url:D005322	name:Fetal Membranes, Premature Rupture	normalName:fetal membranes, premature rupture	normalWikiTitle:fetal membranes, premature rupture	predictedType:Disease
+CANDIDATE	id:61686	inCount:0	outCount:2	links:	url:D061686	name:Premature Ejaculation	normalName:premature ejaculation	normalWikiTitle:premature ejaculation	predictedType:Disease
+CANDIDATE	id:567838	inCount:0	outCount:1	links:	url:C567838	name:Premature Ovarian Failure 7	normalName:premature ovarian failure 7	normalWikiTitle:premature ovarian failure 7	predictedType:Disease
+ENTITY	text:preterm infants	normalName:preterm infants	predictedType:disease	q:true	qid:Q1035	docId:11425091	origText:preterm infants	url:D007235
+CANDIDATE	id:7235	inCount:5	outCount:1	links:3560	url:D007235	name:Infant, Premature, Diseases	normalName:infant, premature, diseases	normalWikiTitle:infant, premature, diseases	predictedType:Disease
+CANDIDATE	id:538359	inCount:0	outCount:1	links:	url:C538359	name:RDS - infants	normalName:rds - infants	normalWikiTitle:rds - infants	predictedType:Disease
+CANDIDATE	id:537014	inCount:0	outCount:1	links:	url:C537014	name:Infantile polyarteritis	normalName:infantile polyarteritis	normalWikiTitle:infantile polyarteritis	predictedType:Disease
+CANDIDATE	id:11512	inCount:0	outCount:1	links:	url:D011512	name:Proteus Infections	normalName:proteus infections	normalWikiTitle:proteus infections	predictedType:Disease
+CANDIDATE	id:13036	inCount:49	outCount:2	links:	url:D013036	name:Spasms, Infantile	normalName:spasms, infantile	normalWikiTitle:spasms, infantile	predictedType:Disease
+CANDIDATE	id:57873	inCount:0	outCount:1	links:	url:D057873	name:Peri-Implantitis	normalName:peri-implantitis	normalWikiTitle:peri-implantitis	predictedType:Disease
+CANDIDATE	id:14201	inCount:8	outCount:1	links:	url:D014201	name:Trematode Infections	normalName:trematode infections	normalWikiTitle:trematode infections	predictedType:Disease
+CANDIDATE	id:14515	inCount:4	outCount:1	links:	url:D014515	name:Ureteral Diseases	normalName:ureteral diseases	normalWikiTitle:ureteral diseases	predictedType:Disease
+CANDIDATE	id:14211	inCount:4	outCount:2	links:	url:D014211	name:Treponemal Infections	normalName:treponemal infections	normalWikiTitle:treponemal infections	predictedType:Disease
+CANDIDATE	id:55665	inCount:0	outCount:1	links:	url:D055665	name:Purpura Fulminans	normalName:purpura fulminans	normalWikiTitle:purpura fulminans	predictedType:Disease
+CANDIDATE	id:47928	inCount:0	outCount:1	links:	url:D047928	name:Preterm Births	normalName:preterm births	normalWikiTitle:preterm births	predictedType:Disease
+CANDIDATE	id:47928	inCount:0	outCount:1	links:	url:D047928	name:Births, Preterm	normalName:births, preterm	normalWikiTitle:births, preterm	predictedType:Disease
+CANDIDATE	id:47928	inCount:0	outCount:1	links:	url:D047928	name:Birth, Preterm	normalName:birth, preterm	normalWikiTitle:birth, preterm	predictedType:Disease
+CANDIDATE	id:47928	inCount:0	outCount:1	links:	url:D047928	name:Preterm Birth	normalName:preterm birth	normalWikiTitle:preterm birth	predictedType:Disease
+ENTITY	text:cysts	normalName:cysts	predictedType:disease	q:true	qid:Q1035	docId:11425091	origText:cysts	url:D003560
+CANDIDATE	id:3560	inCount:36	outCount:2	links:7235	url:D003560	name:Cysts	normalName:cysts	normalWikiTitle:cysts	predictedType:Disease
+ENTITY	text:hemorrhage	normalName:hemorrhage	predictedType:disease	q:true	qid:Q1035	docId:11425091	origText:hemorrhage	url:D006470
+CANDIDATE	id:6470	inCount:31	outCount:1	links:	url:D006470	name:Hemorrhage	normalName:hemorrhage	normalWikiTitle:hemorrhage	predictedType:Disease
+ENTITY	text:cocaine abuse	normalName:cocaine abuse	predictedType:disease	q:true	qid:Q1035	docId:11425091	origText:cocaine abuse	url:D019970
+CANDIDATE	id:19970	inCount:0	outCount:1	links:	url:D019970	name:Abuse, Cocaine	normalName:abuse, cocaine	normalWikiTitle:abuse, cocaine	predictedType:Disease

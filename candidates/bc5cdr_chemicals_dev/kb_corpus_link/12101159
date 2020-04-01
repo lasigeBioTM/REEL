@@ -1,0 +1,25 @@
+ENTITY	text:diltiazem	normalName:diltiazem	predictedType:chemical	q:true	qid:Q250	docId:12101159	origText:diltiazem	url:D004110
+CANDIDATE	id:4110	inCount:19	outCount:1	links:4837	url:D004110	name:Diltiazem	normalName:diltiazem	normalWikiTitle:diltiazem	predictedType:Chemical
+ENTITY	text:isosorbide	normalName:isosorbide	predictedType:chemical	q:true	qid:Q250	docId:12101159	origText:isosorbide	url:D007547
+CANDIDATE	id:7547	inCount:7	outCount:1	links:	url:D007547	name:Isosorbide	normalName:isosorbide	normalWikiTitle:isosorbide	predictedType:Chemical
+ENTITY	text:epinephrine	normalName:epinephrine	predictedType:chemical	q:true	qid:Q250	docId:12101159	origText:epinephrine	url:D004837
+CANDIDATE	id:4837	inCount:33	outCount:3	links:4110;4837	url:D004837	name:Epinephrine	normalName:epinephrine	normalWikiTitle:epinephrine	predictedType:Chemical
+ENTITY	text:aspirin	normalName:aspirin	predictedType:chemical	q:true	qid:Q250	docId:12101159	origText:aspirin	url:D001241
+CANDIDATE	id:1241	inCount:106	outCount:1	links:	url:D001241	name:Aspirin	normalName:aspirin	normalWikiTitle:aspirin	predictedType:Chemical
+ENTITY	text:calcium	normalName:calcium	predictedType:chemical	q:true	qid:Q250	docId:12101159	origText:calcium	url:D002118
+CANDIDATE	id:2118	inCount:11	outCount:2	links:	url:D002118	name:Calcium	normalName:calcium	normalWikiTitle:calcium	predictedType:Chemical
+ENTITY	text:paracetamol	normalName:paracetamol	predictedType:chemical	q:true	qid:Q250	docId:12101159	origText:paracetamol	url:D000082
+CANDIDATE	id:82	inCount:89	outCount:1	links:	url:D000082	name:Paracetamol	normalName:paracetamol	normalWikiTitle:paracetamol	predictedType:Chemical
+ENTITY	text:nitrate	normalName:nitrate	predictedType:chemical	q:true	qid:Q250	docId:12101159	origText:nitrate	url:D009566
+CANDIDATE	id:9566	inCount:116	outCount:3	links:	url:D009566	name:Nitrates	normalName:nitrates	normalWikiTitle:nitrates	predictedType:Chemical
+CANDIDATE	id:9573	inCount:21	outCount:3	links:	url:D009573	name:Nitrites	normalName:nitrites	normalWikiTitle:nitrites	predictedType:Chemical
+CANDIDATE	id:2951	inCount:97	outCount:1	links:	url:D002951	name:Citrates	normalName:citrates	normalWikiTitle:citrates	predictedType:Chemical
+CANDIDATE	id:5873	inCount:0	outCount:2	links:	url:C005873	name:trolnitrate	normalName:trolnitrate	normalWikiTitle:trolnitrate	predictedType:Chemical
+CANDIDATE	id:9545	inCount:0	outCount:2	links:	url:D009545	name:Nifuratel	normalName:nifuratel	normalWikiTitle:nifuratel	predictedType:Chemical
+CANDIDATE	id:15384	inCount:0	outCount:2	links:	url:C015384	name:nitramine	normalName:nitramine	normalWikiTitle:nitramine	predictedType:Chemical
+CANDIDATE	id:530477	inCount:0	outCount:2	links:	url:C530477	name:urea nitrate	normalName:urea nitrate	normalWikiTitle:urea nitrate	predictedType:Chemical
+CANDIDATE	id:17461	inCount:0	outCount:2	links:	url:C017461	name:lead nitrate	normalName:lead nitrate	normalWikiTitle:lead nitrate	predictedType:Chemical
+CANDIDATE	id:11042	inCount:0	outCount:2	links:	url:C011042	name:nitroscanate	normalName:nitroscanate	normalWikiTitle:nitroscanate	predictedType:Chemical
+CANDIDATE	id:36285	inCount:0	outCount:2	links:	url:C036285	name:amyl nitrate	normalName:amyl nitrate	normalWikiTitle:amyl nitrate	predictedType:Chemical
+ENTITY	text:adrenaline	normalName:adrenaline	predictedType:chemical	q:true	qid:Q250	docId:12101159	origText:adrenaline	url:D004837
+CANDIDATE	id:4837	inCount:33	outCount:3	links:4110;4837	url:D004837	name:Adrenaline	normalName:adrenaline	normalWikiTitle:adrenaline	predictedType:Chemical

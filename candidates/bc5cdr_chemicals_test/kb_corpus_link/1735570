@@ -1,0 +1,4 @@
+ENTITY	text:N-methyl-D-aspartic acid	normalName:n-methyl-d-aspartic acid	predictedType:chemical	q:true	qid:Q348	docId:1735570	origText:N-methyl-D-aspartic acid	url:D016202
+CANDIDATE	id:16202	inCount:3	outCount:1	links:	url:D016202	name:N Methyl D aspartic Acid	normalName:n methyl d aspartic acid	normalWikiTitle:n methyl d aspartic acid	predictedType:Chemical
+ENTITY	text:trimethaphan	normalName:trimethaphan	predictedType:chemical	q:true	qid:Q348	docId:1735570	origText:trimethaphan	url:D014294
+CANDIDATE	id:14294	inCount:2	outCount:1	links:	url:D014294	name:Trimethaphan	normalName:trimethaphan	normalWikiTitle:trimethaphan	predictedType:Chemical

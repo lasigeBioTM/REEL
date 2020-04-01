@@ -1,0 +1,6 @@
+ENTITY	text:cyclophosphamide	normalName:cyclophosphamide	predictedType:chemical	q:true	qid:Q305	docId:23666265	origText:cyclophosphamide	url:D003520
+CANDIDATE	id:3520	inCount:474	outCount:1	links:	url:D003520	name:Cyclophosphamide	normalName:cyclophosphamide	normalWikiTitle:cyclophosphamide	predictedType:Chemical
+ENTITY	text:Suramin	normalName:suramin	predictedType:chemical	q:true	qid:Q305	docId:23666265	origText:Suramin	url:D013498
+CANDIDATE	id:13498	inCount:7	outCount:1	links:	url:D013498	name:Suramin	normalName:suramin	normalWikiTitle:suramin	predictedType:Chemical
+ENTITY	text:GR 82334	normalName:gr 82334	predictedType:chemical	q:true	qid:Q305	docId:23666265	origText:GR 82334	url:C079014
+CANDIDATE	id:79014	inCount:0	outCount:1	links:	url:C079014	name:GR 82334	normalName:gr 82334	normalWikiTitle:gr 82334	predictedType:Chemical

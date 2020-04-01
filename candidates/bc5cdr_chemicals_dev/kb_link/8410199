@@ -1,0 +1,12 @@
+ENTITY	text:GABA	normalName:gaba	predictedType:chemical	q:true	qid:Q2	docId:8410199	origText:GABA	url:D005680
+CANDIDATE	id:5680	inCount:100	outCount:1	links:	url:D005680	name:GABA	normalName:gaba	normalWikiTitle:gaba	predictedType:Chemical
+ENTITY	text:glutamate	normalName:glutamate	predictedType:chemical	q:true	qid:Q2	docId:8410199	origText:glutamate	url:D018698
+CANDIDATE	id:18698	inCount:53	outCount:2	links:18698	url:D018698	name:Glutamate	normalName:glutamate	normalWikiTitle:glutamate	predictedType:Chemical
+ENTITY	text:cresyl violet	normalName:cresyl violet	predictedType:chemical	q:true	qid:Q2	docId:8410199	origText:cresyl violet	url:C028911
+CANDIDATE	id:28911	inCount:0	outCount:1	links:	url:C028911	name:cresyl violet	normalName:cresyl violet	normalWikiTitle:cresyl violet	predictedType:Chemical
+ENTITY	text:pilocarpine	normalName:pilocarpine	predictedType:chemical	q:true	qid:Q2	docId:8410199	origText:pilocarpine	url:D010862
+CANDIDATE	id:10862	inCount:7	outCount:1	links:	url:D010862	name:Pilocarpine	normalName:pilocarpine	normalWikiTitle:pilocarpine	predictedType:Chemical
+ENTITY	text:glutamic acid	normalName:glutamic acid	predictedType:chemical	q:true	qid:Q2	docId:8410199	origText:glutamic acid	url:D018698
+CANDIDATE	id:18698	inCount:53	outCount:2	links:18698	url:D018698	name:Glutamic Acid	normalName:glutamic acid	normalWikiTitle:glutamic acid	predictedType:Chemical
+ENTITY	text:digoxigenin	normalName:digoxigenin	predictedType:chemical	q:true	qid:Q2	docId:8410199	origText:digoxigenin	url:D004076
+CANDIDATE	id:4076	inCount:17	outCount:1	links:	url:D004076	name:Digoxigenin	normalName:digoxigenin	normalWikiTitle:digoxigenin	predictedType:Chemical

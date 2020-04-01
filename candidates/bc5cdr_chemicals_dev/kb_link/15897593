@@ -1,0 +1,34 @@
+ENTITY	text:daunorubicin	normalName:daunorubicin	predictedType:chemical	q:true	qid:Q203	docId:15897593	origText:daunorubicin	url:D003630
+CANDIDATE	id:3630	inCount:192	outCount:1	links:	url:D003630	name:Daunorubicin	normalName:daunorubicin	normalWikiTitle:daunorubicin	predictedType:Chemical
+ENTITY	text:doxorubicin	normalName:doxorubicin	predictedType:chemical	q:true	qid:Q203	docId:15897593	origText:doxorubicin	url:D004317
+CANDIDATE	id:4317	inCount:559	outCount:1	links:	url:D004317	name:Doxorubicin	normalName:doxorubicin	normalWikiTitle:doxorubicin	predictedType:Chemical
+ENTITY	text:etoposide	normalName:etoposide	predictedType:chemical	q:true	qid:Q203	docId:15897593	origText:etoposide	url:D005047
+CANDIDATE	id:5047	inCount:303	outCount:2	links:	url:D005047	name:Etoposide	normalName:etoposide	normalWikiTitle:etoposide	predictedType:Chemical
+ENTITY	text:epipodophyllotoxin	normalName:epipodophyllotoxin	predictedType:chemical	q:true	qid:Q203	docId:15897593	origText:epipodophyllotoxin	url:D011034
+CANDIDATE	id:11034	inCount:69	outCount:2	links:	url:D011034	name:Epipodophyllotoxin	normalName:epipodophyllotoxin	normalWikiTitle:epipodophyllotoxin	predictedType:Chemical
+ENTITY	text:anthracycline	normalName:anthracycline	predictedType:chemical	q:true	qid:Q203	docId:15897593	origText:anthracycline	url:D018943
+CANDIDATE	id:18943	inCount:235	outCount:2	links:18943	url:D018943	name:Anthracyclines	normalName:anthracyclines	normalWikiTitle:anthracyclines	predictedType:Chemical
+CANDIDATE	id:583934	inCount:0	outCount:1	links:583934	url:C583934	name:anthracimycin	normalName:anthracimycin	normalWikiTitle:anthracimycin	predictedType:Chemical
+CANDIDATE	id:34050	inCount:0	outCount:1	links:34050	url:C034050	name:thiacycline	normalName:thiacycline	normalWikiTitle:thiacycline	predictedType:Chemical
+CANDIDATE	id:876	inCount:11	outCount:2	links:876	url:D000876	name:Anthramycin	normalName:anthramycin	normalWikiTitle:anthramycin	predictedType:Chemical
+CANDIDATE	id:2746	inCount:0	outCount:2	links:2746	url:C002746	name:Noracycline	normalName:noracycline	normalWikiTitle:noracycline	predictedType:Chemical
+CANDIDATE	id:875	inCount:19	outCount:1	links:875	url:D000875	name:Anthralin	normalName:anthralin	normalWikiTitle:anthralin	predictedType:Chemical
+CANDIDATE	id:13752	inCount:14	outCount:1	links:13752	url:D013752	name:Tetracycline	normalName:tetracycline	normalWikiTitle:tetracycline	predictedType:Chemical
+CANDIDATE	id:11663	inCount:0	outCount:1	links:11663	url:C011663	name:anthrazoline	normalName:anthrazoline	normalWikiTitle:anthrazoline	predictedType:Chemical
+CANDIDATE	id:8690	inCount:1	outCount:1	links:8690	url:D008690	name:Methacycline	normalName:methacycline	normalWikiTitle:methacycline	predictedType:Chemical
+CANDIDATE	id:620828	inCount:0	outCount:1	links:620828	url:C000620828	name:trachycladine A	normalName:trachycladine a	normalWikiTitle:trachycladine a	predictedType:Chemical
+ENTITY	text:Dexrazoxane	normalName:dexrazoxane	predictedType:chemical	q:true	qid:Q203	docId:15897593	origText:Dexrazoxane	url:D064730
+CANDIDATE	id:64730	inCount:1	outCount:1	links:64730	url:D064730	name:Dexrazoxane	normalName:dexrazoxane	normalWikiTitle:dexrazoxane	predictedType:Chemical
+ENTITY	text:ICRF-187	normalName:icrf-187	predictedType:chemical	q:true	qid:Q203	docId:15897593	origText:ICRF-187	url:D064730
+CANDIDATE	id:64730	inCount:1	outCount:1	links:64730	url:D064730	name:ICRF-187	normalName:icrf-187	normalWikiTitle:icrf-187	predictedType:Chemical
+ENTITY	text:anthracyclines	normalName:anthracyclines	predictedType:chemical	q:true	qid:Q203	docId:15897593	origText:anthracyclines	url:D018943
+CANDIDATE	id:18943	inCount:235	outCount:2	links:18943	url:D018943	name:Anthracyclines	normalName:anthracyclines	normalWikiTitle:anthracyclines	predictedType:Chemical
+CANDIDATE	id:583934	inCount:0	outCount:1	links:583934	url:C583934	name:anthracimycin	normalName:anthracimycin	normalWikiTitle:anthracimycin	predictedType:Chemical
+CANDIDATE	id:34050	inCount:0	outCount:1	links:34050	url:C034050	name:thiacycline	normalName:thiacycline	normalWikiTitle:thiacycline	predictedType:Chemical
+CANDIDATE	id:876	inCount:11	outCount:2	links:876	url:D000876	name:Anthramycin	normalName:anthramycin	normalWikiTitle:anthramycin	predictedType:Chemical
+CANDIDATE	id:2746	inCount:0	outCount:2	links:2746	url:C002746	name:Noracycline	normalName:noracycline	normalWikiTitle:noracycline	predictedType:Chemical
+CANDIDATE	id:875	inCount:19	outCount:1	links:875	url:D000875	name:Anthralin	normalName:anthralin	normalWikiTitle:anthralin	predictedType:Chemical
+CANDIDATE	id:13752	inCount:14	outCount:1	links:13752	url:D013752	name:Tetracycline	normalName:tetracycline	normalWikiTitle:tetracycline	predictedType:Chemical
+CANDIDATE	id:11663	inCount:0	outCount:1	links:11663	url:C011663	name:anthrazoline	normalName:anthrazoline	normalWikiTitle:anthrazoline	predictedType:Chemical
+CANDIDATE	id:8690	inCount:1	outCount:1	links:8690	url:D008690	name:Methacycline	normalName:methacycline	normalWikiTitle:methacycline	predictedType:Chemical
+CANDIDATE	id:620828	inCount:0	outCount:1	links:620828	url:C000620828	name:trachycladine A	normalName:trachycladine a	normalWikiTitle:trachycladine a	predictedType:Chemical

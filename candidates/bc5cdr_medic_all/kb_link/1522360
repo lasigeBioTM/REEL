@@ -1,0 +1,8 @@
+ENTITY	text:acute renal failure	normalName:acute renal failure	predictedType:disease	q:true	qid:Q413	docId:1522360	origText:acute renal failure	url:D058186
+CANDIDATE	id:58186	inCount:2	outCount:1	links:	url:D058186	name:Acute Renal Failure	normalName:acute renal failure	normalWikiTitle:acute renal failure	predictedType:Disease
+ENTITY	text:hemolysis	normalName:hemolysis	predictedType:disease	q:true	qid:Q413	docId:1522360	origText:hemolysis	url:D006461
+CANDIDATE	id:6461	inCount:2	outCount:1	links:	url:D006461	name:Hemolysis	normalName:hemolysis	normalWikiTitle:hemolysis	predictedType:Disease
+ENTITY	text:Renal failure	normalName:renal failure	predictedType:disease	q:true	qid:Q413	docId:1522360	origText:Renal failure	url:D051437
+CANDIDATE	id:51437	inCount:10	outCount:1	links:	url:D051437	name:Renal Failure	normalName:renal failure	normalWikiTitle:renal failure	predictedType:Disease
+ENTITY	text:leprosy	normalName:leprosy	predictedType:disease	q:true	qid:Q413	docId:1522360	origText:leprosy	url:D007918
+CANDIDATE	id:7918	inCount:2	outCount:1	links:	url:D007918	name:Leprosy	normalName:leprosy	normalWikiTitle:leprosy	predictedType:Disease

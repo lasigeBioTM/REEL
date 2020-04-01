@@ -1,0 +1,36 @@
+ENTITY	text:movement abnormalities	normalName:movement abnormalities	predictedType:disease	q:true	qid:Q129	docId:9754849	origText:movement abnormalities	url:D020820
+CANDIDATE	id:20820	inCount:25	outCount:2	links:	url:D020820	name:Movements, Abnormal	normalName:movements, abnormal	normalWikiTitle:movements, abnormal	predictedType:Disease
+CANDIDATE	id:9056	inCount:13	outCount:2	links:	url:D009056	name:Mouth Abnormalities	normalName:mouth abnormalities	normalWikiTitle:mouth abnormalities	predictedType:Disease
+CANDIDATE	id:5124	inCount:75	outCount:2	links:	url:D005124	name:Eye Abnormalities	normalName:eye abnormalities	normalWikiTitle:eye abnormalities	predictedType:Disease
+CANDIDATE	id:14564	inCount:52	outCount:3	links:	url:D014564	name:Urogenital Abnormalities	normalName:urogenital abnormalities	normalWikiTitle:urogenital abnormalities	predictedType:Disease
+CANDIDATE	id:14071	inCount:53	outCount:2	links:	url:D014071	name:Tooth Abnormalities	normalName:tooth abnormalities	normalWikiTitle:tooth abnormalities	predictedType:Disease
+CANDIDATE	id:13	inCount:50	outCount:1	links:	url:D000013	name:Congenital Abnormalities	normalName:congenital abnormalities	normalWikiTitle:congenital abnormalities	predictedType:Disease
+CANDIDATE	id:12868	inCount:63	outCount:2	links:	url:D012868	name:Skin Abnormalities	normalName:skin abnormalities	normalWikiTitle:skin abnormalities	predictedType:Disease
+CANDIDATE	id:9139	inCount:30	outCount:2	links:	url:D009139	name:Musculoskeletal Abnormalities	normalName:musculoskeletal abnormalities	normalWikiTitle:musculoskeletal abnormalities	predictedType:Disease
+CANDIDATE	id:15	inCount:389	outCount:1	links:	url:D000015	name:Abnormalities, Multiple	normalName:abnormalities, multiple	normalWikiTitle:abnormalities, multiple	predictedType:Disease
+CANDIDATE	id:7569	inCount:16	outCount:2	links:	url:D007569	name:Jaw Abnormalities	normalName:jaw abnormalities	normalWikiTitle:jaw abnormalities	predictedType:Disease
+CANDIDATE	id:44148	inCount:2	outCount:2	links:	url:D044148	name:Lymphatic Abnormalities	normalName:lymphatic abnormalities	normalWikiTitle:lymphatic abnormalities	predictedType:Disease
+CANDIDATE	id:20820	inCount:25	outCount:2	links:	url:D020820	name:Abnormal Movement	normalName:abnormal movement	normalWikiTitle:abnormal movement	predictedType:Disease
+CANDIDATE	id:20820	inCount:25	outCount:2	links:	url:D020820	name:Movement, Abnormal	normalName:movement, abnormal	normalWikiTitle:movement, abnormal	predictedType:Disease
+CANDIDATE	id:20820	inCount:25	outCount:2	links:	url:D020820	name:Abnormal Movements	normalName:abnormal movements	normalWikiTitle:abnormal movements	predictedType:Disease
+ENTITY	text:Choreoathetoid movements	normalName:choreoathetoid movements	predictedType:disease	q:true	qid:Q129	docId:9754849	origText:Choreoathetoid movements	url:D002819
+CANDIDATE	id:2819	inCount:13	outCount:1	links:	url:D002819	name:Choreiform Movements	normalName:choreiform movements	normalWikiTitle:choreiform movements	predictedType:Disease
+CANDIDATE	id:566127	inCount:0	outCount:2	links:	url:C566127	name:Choreoathetosis, Familial Inverted	normalName:choreoathetosis, familial inverted	normalWikiTitle:choreoathetosis, familial inverted	predictedType:Disease
+CANDIDATE	id:616059	inCount:0	outCount:1	links:	url:616059	name:MIRROR MOVEMENTS 3	normalName:mirror movements 3	normalWikiTitle:mirror movements 3	predictedType:Disease
+CANDIDATE	id:538427	inCount:0	outCount:1	links:	url:C538427	name:Myoclonic epilepsy with choreoathetosis	normalName:myoclonic epilepsy with choreoathetosis	normalWikiTitle:myoclonic epilepsy with choreoathetosis	predictedType:Disease
+CANDIDATE	id:157600	inCount:0	outCount:1	links:	url:157600	name:MIRROR MOVEMENTS 1	normalName:mirror movements 1	normalWikiTitle:mirror movements 1	predictedType:Disease
+CANDIDATE	id:9069	inCount:19	outCount:1	links:	url:D009069	name:Movement Disorders	normalName:movement disorders	normalWikiTitle:movement disorders	predictedType:Disease
+CANDIDATE	id:614508	inCount:0	outCount:1	links:	url:614508	name:MIRROR MOVEMENTS 2	normalName:mirror movements 2	normalWikiTitle:mirror movements 2	predictedType:Disease
+CANDIDATE	id:2825	inCount:1	outCount:2	links:	url:D002825	name:Chorioretinitis	normalName:chorioretinitis	normalWikiTitle:chorioretinitis	predictedType:Disease
+CANDIDATE	id:2821	inCount:0	outCount:3	links:	url:D002821	name:Chorioamnionitis	normalName:chorioamnionitis	normalWikiTitle:chorioamnionitis	predictedType:Disease
+CANDIDATE	id:15862	inCount:12	outCount:1	links:	url:D015862	name:Choroid Diseases	normalName:choroid diseases	normalWikiTitle:choroid diseases	predictedType:Disease
+CANDIDATE	id:563401	inCount:0	outCount:2	links:	url:C563401	name:Choreoathetosis-Spasticity, Episodic	normalName:choreoathetosis-spasticity, episodic	normalWikiTitle:choreoathetosis-spasticity, episodic	predictedType:Disease
+CANDIDATE	id:1264	inCount:5	outCount:1	links:	url:D001264	name:Athetoid Movements	normalName:athetoid movements	normalWikiTitle:athetoid movements	predictedType:Disease
+CANDIDATE	id:1264	inCount:5	outCount:1	links:	url:D001264	name:Movements, Athetoid	normalName:movements, athetoid	normalWikiTitle:movements, athetoid	predictedType:Disease
+CANDIDATE	id:1264	inCount:5	outCount:1	links:	url:D001264	name:Movement, Athetoid	normalName:movement, athetoid	normalWikiTitle:movement, athetoid	predictedType:Disease
+CANDIDATE	id:1264	inCount:5	outCount:1	links:	url:D001264	name:Athetoid Movement	normalName:athetoid movement	normalWikiTitle:athetoid movement	predictedType:Disease
+CANDIDATE	id:2819	inCount:13	outCount:1	links:	url:D002819	name:Choreic Movements	normalName:choreic movements	normalWikiTitle:choreic movements	predictedType:Disease
+CANDIDATE	id:2819	inCount:13	outCount:1	links:	url:D002819	name:Movements, Choreic	normalName:movements, choreic	normalWikiTitle:movements, choreic	predictedType:Disease
+CANDIDATE	id:2819	inCount:13	outCount:1	links:	url:D002819	name:Movement, Choreic	normalName:movement, choreic	normalWikiTitle:movement, choreic	predictedType:Disease
+CANDIDATE	id:2819	inCount:13	outCount:1	links:	url:D002819	name:Choreic Movement	normalName:choreic movement	normalWikiTitle:choreic movement	predictedType:Disease
+CANDIDATE	id:2819	inCount:13	outCount:1	links:	url:D002819	name:Movements, Choreiform	normalName:movements, choreiform	normalWikiTitle:movements, choreiform	predictedType:Disease

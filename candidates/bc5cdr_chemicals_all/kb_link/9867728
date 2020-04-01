@@ -1,0 +1,6 @@
+ENTITY	text:fenfluramine	normalName:fenfluramine	predictedType:chemical	q:true	qid:Q1386	docId:9867728	origText:fenfluramine	url:D005277
+CANDIDATE	id:5277	inCount:15	outCount:1	links:	url:D005277	name:Fenfluramine	normalName:fenfluramine	normalWikiTitle:fenfluramine	predictedType:Chemical
+ENTITY	text:phentermine	normalName:phentermine	predictedType:chemical	q:true	qid:Q1386	docId:9867728	origText:phentermine	url:D010645
+CANDIDATE	id:10645	inCount:12	outCount:1	links:	url:D010645	name:Phentermine	normalName:phentermine	normalWikiTitle:phentermine	predictedType:Chemical
+ENTITY	text:dexfenfluramine	normalName:dexfenfluramine	predictedType:chemical	q:true	qid:Q1386	docId:9867728	origText:dexfenfluramine	url:D020372
+CANDIDATE	id:20372	inCount:0	outCount:1	links:	url:D020372	name:Dexfenfluramine	normalName:dexfenfluramine	normalWikiTitle:dexfenfluramine	predictedType:Chemical

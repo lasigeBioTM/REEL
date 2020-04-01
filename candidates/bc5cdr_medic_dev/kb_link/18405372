@@ -1,0 +1,12 @@
+ENTITY	text:hepatic failure	normalName:hepatic failure	predictedType:disease	q:true	qid:Q146	docId:18405372	origText:hepatic failure	url:D017093
+CANDIDATE	id:17093	inCount:5	outCount:1	links:17093	url:D017093	name:Hepatic Failure	normalName:hepatic failure	normalWikiTitle:hepatic failure	predictedType:Disease
+ENTITY	text:eosinophilia	normalName:eosinophilia	predictedType:disease	q:true	qid:Q146	docId:18405372	origText:eosinophilia	url:D004802
+CANDIDATE	id:4802	inCount:14	outCount:1	links:	url:D004802	name:Eosinophilia	normalName:eosinophilia	normalWikiTitle:eosinophilia	predictedType:Disease
+ENTITY	text:liver failure	normalName:liver failure	predictedType:disease	q:true	qid:Q146	docId:18405372	origText:liver failure	url:D017093
+CANDIDATE	id:17093	inCount:5	outCount:1	links:17093	url:D017093	name:Liver Failure	normalName:liver failure	normalWikiTitle:liver failure	predictedType:Disease
+ENTITY	text:interstitial nephritis	normalName:interstitial nephritis	predictedType:disease	q:true	qid:Q146	docId:18405372	origText:interstitial nephritis	url:D009395
+CANDIDATE	id:9395	inCount:8	outCount:1	links:	url:D009395	name:Nephritis, Interstitial	normalName:nephritis, interstitial	normalWikiTitle:nephritis, interstitial	predictedType:Disease
+ENTITY	text:arthritis	normalName:arthritis	predictedType:disease	q:true	qid:Q146	docId:18405372	origText:arthritis	url:D001168
+CANDIDATE	id:1168	inCount:24	outCount:1	links:	url:D001168	name:Arthritis	normalName:arthritis	normalWikiTitle:arthritis	predictedType:Disease
+ENTITY	text:skin rash	normalName:skin rash	predictedType:disease	q:true	qid:Q146	docId:18405372	origText:skin rash	url:D005076
+CANDIDATE	id:5076	inCount:1	outCount:1	links:	url:D005076	name:Rash, Skin	normalName:rash, skin	normalWikiTitle:rash, skin	predictedType:Disease

@@ -1,0 +1,6 @@
+ENTITY	text:chronic myeloid leukemia	normalName:chronic myeloid leukemia	predictedType:disease	q:true	qid:Q461	docId:26002693	origText:chronic myeloid leukemia	url:D015464
+CANDIDATE	id:15464	inCount:3	outCount:2	links:15464	url:D015464	name:Leukemia, Myeloid, Chronic	normalName:leukemia, myeloid, chronic	normalWikiTitle:leukemia, myeloid, chronic	predictedType:Disease
+ENTITY	text:Philadelphia chromosome	normalName:philadelphia chromosome	predictedType:disease	q:true	qid:Q461	docId:26002693	origText:Philadelphia chromosome	url:D010677
+CANDIDATE	id:10677	inCount:0	outCount:1	links:	url:D010677	name:Philadelphia Chromosome	normalName:philadelphia chromosome	normalWikiTitle:philadelphia chromosome	predictedType:Disease
+ENTITY	text:CML	normalName:cml	predictedType:disease	q:true	qid:Q461	docId:26002693	origText:CML	url:D015464
+CANDIDATE	id:15464	inCount:3	outCount:2	links:15464	url:D015464	name:CML	normalName:cml	normalWikiTitle:cml	predictedType:Disease

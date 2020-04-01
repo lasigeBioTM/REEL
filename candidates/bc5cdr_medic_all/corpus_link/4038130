@@ -1,0 +1,15 @@
+ENTITY	text:diplopia	normalName:diplopia	predictedType:disease	q:true	qid:Q1423	docId:4038130	origText:diplopia	url:D004172
+CANDIDATE	id:4172	inCount:0	outCount:1	links:	url:D004172	name:Diplopia	normalName:diplopia	normalWikiTitle:diplopia	predictedType:Disease
+ENTITY	text:muscle damage	normalName:muscle damage	predictedType:disease	q:true	qid:Q1423	docId:4038130	origText:muscle damage	url:D009135
+CANDIDATE	id:9135	inCount:77	outCount:2	links:	url:D009135	name:Muscular Diseases	normalName:muscular diseases	normalWikiTitle:muscular diseases	predictedType:Disease
+CANDIDATE	id:9120	inCount:3	outCount:2	links:	url:D009120	name:Muscle Cramp	normalName:muscle cramp	normalWikiTitle:muscle cramp	predictedType:Disease
+CANDIDATE	id:70630	inCount:0	outCount:1	links:	url:D000070630	name:Diastasis, Muscle	normalName:diastasis, muscle	normalWikiTitle:diastasis, muscle	predictedType:Disease
+CANDIDATE	id:14912	inCount:0	outCount:1	links:	url:D014912	name:White Muscle Disease	normalName:white muscle disease	normalWikiTitle:white muscle disease	predictedType:Disease
+CANDIDATE	id:755	inCount:3	outCount:2	links:	url:D000755	name:Anemia, Sickle Cell	normalName:anemia, sickle cell	normalWikiTitle:anemia, sickle cell	predictedType:Disease
+CANDIDATE	id:563563	inCount:0	outCount:1	links:	url:C563563	name:Muscle Cramps, Familial	normalName:muscle cramps, familial	normalWikiTitle:muscle cramps, familial	predictedType:Disease
+CANDIDATE	id:12536	inCount:9	outCount:1	links:	url:D012536	name:Scalp Dermatoses	normalName:scalp dermatoses	normalWikiTitle:scalp dermatoses	predictedType:Disease
+CANDIDATE	id:15422	inCount:4	outCount:1	links:	url:D015422	name:Scleral Diseases	normalName:scleral diseases	normalWikiTitle:scleral diseases	predictedType:Disease
+CANDIDATE	id:9123	inCount:44	outCount:1	links:	url:D009123	name:Muscle Hypotonia	normalName:muscle hypotonia	normalWikiTitle:muscle hypotonia	predictedType:Disease
+CANDIDATE	id:9140	inCount:13	outCount:1	links:	url:D009140	name:Musculoskeletal Diseases	normalName:musculoskeletal diseases	normalWikiTitle:musculoskeletal diseases	predictedType:Disease
+CANDIDATE	id:70630	inCount:0	outCount:1	links:	url:D000070630	name:Muscle Diastases	normalName:muscle diastases	normalWikiTitle:muscle diastases	predictedType:Disease
+CANDIDATE	id:70630	inCount:0	outCount:1	links:	url:D000070630	name:Diastases, Muscle	normalName:diastases, muscle	normalWikiTitle:diastases, muscle	predictedType:Disease

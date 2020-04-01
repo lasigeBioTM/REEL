@@ -1,0 +1,4 @@
+ENTITY	text:propranolol	normalName:propranolol	predictedType:chemical	q:true	qid:Q307	docId:6529939	origText:propranolol	url:D011433
+CANDIDATE	id:11433	inCount:46	outCount:2	links:	url:D011433	name:Propranolol	normalName:propranolol	normalWikiTitle:propranolol	predictedType:Chemical
+ENTITY	text:Atropine	normalName:atropine	predictedType:chemical	q:true	qid:Q307	docId:6529939	origText:Atropine	url:D001285
+CANDIDATE	id:1285	inCount:16	outCount:1	links:	url:D001285	name:Atropine	normalName:atropine	normalWikiTitle:atropine	predictedType:Chemical

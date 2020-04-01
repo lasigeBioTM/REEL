@@ -1,0 +1,4 @@
+ENTITY	text:Parkinson disease	normalName:parkinson disease	predictedType:disease	q:true	qid:Q1052	docId:16116131	origText:Parkinson disease	url:D010300
+CANDIDATE	id:10300	inCount:31	outCount:2	links:	url:D010300	name:Parkinson Disease	normalName:parkinson disease	normalWikiTitle:parkinson disease	predictedType:Disease
+ENTITY	text:drug-induced dyskinesias	normalName:drug-induced dyskinesias	predictedType:disease	q:true	qid:Q1052	docId:16116131	origText:drug-induced dyskinesias	url:D004409
+CANDIDATE	id:4409	inCount:1	outCount:3	links:	url:D004409	name:Drug-Induced Dyskinesias	normalName:drug-induced dyskinesias	normalWikiTitle:drug-induced dyskinesias	predictedType:Disease

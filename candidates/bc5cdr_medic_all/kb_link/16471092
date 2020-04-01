@@ -1,0 +1,31 @@
+ENTITY	text:overactive bladder	normalName:overactive bladder	predictedType:disease	q:true	qid:Q110	docId:16471092	origText:overactive bladder	url:D053201
+CANDIDATE	id:53201	inCount:0	outCount:2	links:	url:D053201	name:Bladder, Overactive	normalName:bladder, overactive	normalWikiTitle:bladder, overactive	predictedType:Disease
+ENTITY	text:nocturia	normalName:nocturia	predictedType:disease	q:true	qid:Q110	docId:16471092	origText:nocturia	url:D053158
+CANDIDATE	id:53158	inCount:0	outCount:1	links:	url:D053158	name:Nocturia	normalName:nocturia	normalWikiTitle:nocturia	predictedType:Disease
+ENTITY	text:dry mouth	normalName:dry mouth	predictedType:disease	q:true	qid:Q110	docId:16471092	origText:dry mouth	url:D014987
+CANDIDATE	id:14987	inCount:1	outCount:1	links:14987	url:D014987	name:Mouth Dryness	normalName:mouth dryness	normalWikiTitle:mouth dryness	predictedType:Disease
+CANDIDATE	id:4368	inCount:0	outCount:1	links:4368	url:D004368	name:Dry Socket	normalName:dry socket	normalWikiTitle:dry socket	predictedType:Disease
+CANDIDATE	id:9059	inCount:32	outCount:1	links:9059	url:D009059	name:Mouth Diseases	normalName:mouth diseases	normalWikiTitle:mouth diseases	predictedType:Disease
+CANDIDATE	id:536607	inCount:0	outCount:1	links:536607	url:C536607	name:Brody myopathy	normalName:brody myopathy	normalWikiTitle:brody myopathy	predictedType:Disease
+CANDIDATE	id:9058	inCount:0	outCount:2	links:	url:D009058	name:Mouth Breathing	normalName:mouth breathing	normalWikiTitle:mouth breathing	predictedType:Disease
+CANDIDATE	id:9066	inCount:1	outCount:2	links:	url:D009066	name:Mouth, Edentulous	normalName:mouth, edentulous	normalWikiTitle:mouth, edentulous	predictedType:Disease
+CANDIDATE	id:536962	inCount:0	outCount:3	links:536962	url:C536962	name:Timothy syndrome	normalName:timothy syndrome	normalWikiTitle:timothy syndrome	predictedType:Disease
+CANDIDATE	id:9223	inCount:1	outCount:3	links:9223	url:D009223	name:Myotonic Dystrophy	normalName:myotonic dystrophy	normalWikiTitle:myotonic dystrophy	predictedType:Disease
+CANDIDATE	id:536748	inCount:0	outCount:2	links:536748	url:C536748	name:Worth syndrome	normalName:worth syndrome	normalWikiTitle:worth syndrome	predictedType:Disease
+CANDIDATE	id:14987	inCount:1	outCount:1	links:14987	url:D014987	name:Dryness, Mouth	normalName:dryness, mouth	normalWikiTitle:dryness, mouth	predictedType:Disease
+CANDIDATE	id:9062	inCount:6	outCount:2	links:	url:D009062	name:Cancer, Mouth	normalName:cancer, mouth	normalWikiTitle:cancer, mouth	predictedType:Disease
+CANDIDATE	id:9062	inCount:6	outCount:2	links:	url:D009062	name:Mouth Cancer	normalName:mouth cancer	normalWikiTitle:mouth cancer	predictedType:Disease
+CANDIDATE	id:9062	inCount:6	outCount:2	links:	url:D009062	name:Mouth Cancers	normalName:mouth cancers	normalWikiTitle:mouth cancers	predictedType:Disease
+CANDIDATE	id:9059	inCount:32	outCount:1	links:9059	url:D009059	name:Mouth Disease	normalName:mouth disease	normalWikiTitle:mouth disease	predictedType:Disease
+CANDIDATE	id:9062	inCount:6	outCount:2	links:	url:D009062	name:Cancers, Mouth	normalName:cancers, mouth	normalWikiTitle:cancers, mouth	predictedType:Disease
+CANDIDATE	id:9059	inCount:32	outCount:1	links:9059	url:D009059	name:Disease, Mouth	normalName:disease, mouth	normalWikiTitle:disease, mouth	predictedType:Disease
+ENTITY	text:dry month	normalName:dry month	predictedType:disease	q:true	qid:Q110	docId:16471092	origText:dry month	url:D014987
+CANDIDATE	id:14987	inCount:1	outCount:1	links:14987	url:D014987	name:Mouth Dryness	normalName:mouth dryness	normalWikiTitle:mouth dryness	predictedType:Disease
+CANDIDATE	id:4368	inCount:0	outCount:1	links:4368	url:D004368	name:Dry Socket	normalName:dry socket	normalWikiTitle:dry socket	predictedType:Disease
+CANDIDATE	id:536607	inCount:0	outCount:1	links:536607	url:C536607	name:Brody myopathy	normalName:brody myopathy	normalWikiTitle:brody myopathy	predictedType:Disease
+CANDIDATE	id:536962	inCount:0	outCount:3	links:536962	url:C536962	name:Timothy syndrome	normalName:timothy syndrome	normalWikiTitle:timothy syndrome	predictedType:Disease
+CANDIDATE	id:9059	inCount:32	outCount:1	links:9059	url:D009059	name:Mouth Diseases	normalName:mouth diseases	normalWikiTitle:mouth diseases	predictedType:Disease
+CANDIDATE	id:9223	inCount:1	outCount:3	links:9223	url:D009223	name:Myotonic Dystrophy	normalName:myotonic dystrophy	normalWikiTitle:myotonic dystrophy	predictedType:Disease
+CANDIDATE	id:536748	inCount:0	outCount:2	links:536748	url:C536748	name:Worth syndrome	normalName:worth syndrome	normalWikiTitle:worth syndrome	predictedType:Disease
+CANDIDATE	id:9069	inCount:19	outCount:1	links:	url:D009069	name:Movement Disorders	normalName:movement disorders	normalWikiTitle:movement disorders	predictedType:Disease
+CANDIDATE	id:14987	inCount:1	outCount:1	links:14987	url:D014987	name:Dryness, Mouth	normalName:dryness, mouth	normalWikiTitle:dryness, mouth	predictedType:Disease

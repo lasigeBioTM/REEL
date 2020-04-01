@@ -1,0 +1,10 @@
+ENTITY	text:cardiovascular disease	normalName:cardiovascular disease	predictedType:disease	q:true	qid:Q258	docId:17261653	origText:cardiovascular disease	url:D002318
+CANDIDATE	id:2318	inCount:5	outCount:1	links:	url:D002318	name:Disease, Cardiovascular	normalName:disease, cardiovascular	normalWikiTitle:disease, cardiovascular	predictedType:Disease
+ENTITY	text:coronary heart disease	normalName:coronary heart disease	predictedType:disease	q:true	qid:Q258	docId:17261653	origText:coronary heart disease	url:D003327
+CANDIDATE	id:3327	inCount:7	outCount:1	links:	url:D003327	name:Disease, Coronary Heart	normalName:disease, coronary heart	normalWikiTitle:disease, coronary heart	predictedType:Disease
+ENTITY	text:arrhythmia	normalName:arrhythmia	predictedType:disease	q:true	qid:Q258	docId:17261653	origText:arrhythmia	url:D001145
+CANDIDATE	id:1145	inCount:27	outCount:2	links:	url:D001145	name:Arrhythmia	normalName:arrhythmia	normalWikiTitle:arrhythmia	predictedType:Disease
+ENTITY	text:heart failure	normalName:heart failure	predictedType:disease	q:true	qid:Q258	docId:17261653	origText:heart failure	url:D006333
+CANDIDATE	id:6333	inCount:5	outCount:1	links:1919	url:D006333	name:Heart Failure	normalName:heart failure	normalWikiTitle:heart failure	predictedType:Disease
+ENTITY	text:bradycardia	normalName:bradycardia	predictedType:disease	q:true	qid:Q258	docId:17261653	origText:bradycardia	url:D001919
+CANDIDATE	id:1919	inCount:0	outCount:1	links:6333	url:D001919	name:Bradycardia	normalName:bradycardia	normalWikiTitle:bradycardia	predictedType:Disease

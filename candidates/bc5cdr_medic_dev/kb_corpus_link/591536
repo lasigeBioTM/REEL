@@ -1,0 +1,38 @@
+ENTITY	text:thrombocytopenia	normalName:thrombocytopenia	predictedType:disease	q:true	qid:Q234	docId:591536	origText:thrombocytopenia	url:D013921
+CANDIDATE	id:13921	inCount:42	outCount:1	links:1157;13927;13923;13921	url:D013921	name:Thrombocytopenia	normalName:thrombocytopenia	normalWikiTitle:thrombocytopenia	predictedType:Disease
+ENTITY	text:arterial occlusion	normalName:arterial occlusion	predictedType:disease	q:true	qid:Q234	docId:591536	origText:arterial occlusion	url:D001157
+CANDIDATE	id:1157	inCount:14	outCount:1	links:13927;13923;13921	url:D001157	name:Arterial Occlusive Diseases	normalName:arterial occlusive diseases	normalWikiTitle:arterial occlusive diseases	predictedType:Disease
+CANDIDATE	id:8310	inCount:6	outCount:1	links:	url:D008310	name:Malocclusion	normalName:malocclusion	normalWikiTitle:malocclusion	predictedType:Disease
+CANDIDATE	id:15356	inCount:1	outCount:2	links:	url:D015356	name:Retinal Artery Occlusion	normalName:retinal artery occlusion	normalWikiTitle:retinal artery occlusion	predictedType:Disease
+CANDIDATE	id:50379	inCount:0	outCount:1	links:	url:D050379	name:Arteriolosclerosis	normalName:arteriolosclerosis	normalWikiTitle:arteriolosclerosis	predictedType:Disease
+CANDIDATE	id:54059	inCount:0	outCount:1	links:	url:D054059	name:Coronary Occlusion	normalName:coronary occlusion	normalWikiTitle:coronary occlusion	predictedType:Disease
+CANDIDATE	id:1161	inCount:9	outCount:1	links:	url:D001161	name:Arteriosclerosis	normalName:arteriosclerosis	normalWikiTitle:arteriosclerosis	predictedType:Disease
+CANDIDATE	id:8311	inCount:0	outCount:1	links:	url:D008311	name:Malocclusion, Angle Class I	normalName:malocclusion, angle class i	normalWikiTitle:malocclusion, angle class i	predictedType:Disease
+CANDIDATE	id:64752	inCount:0	outCount:2	links:	url:D064752	name:Atrial Remodeling	normalName:atrial remodeling	normalWikiTitle:atrial remodeling	predictedType:Disease
+CANDIDATE	id:1424	inCount:12	outCount:1	links:	url:D001424	name:Bacterial Infections	normalName:bacterial infections	normalWikiTitle:bacterial infections	predictedType:Disease
+CANDIDATE	id:8312	inCount:1	outCount:1	links:	url:D008312	name:Malocclusion, Angle Class II	normalName:malocclusion, angle class ii	normalWikiTitle:malocclusion, angle class ii	predictedType:Disease
+ENTITY	text:ischemic	normalName:ischemic	predictedType:disease	q:true	qid:Q234	docId:591536	origText:ischemic	url:D007511
+CANDIDATE	id:7511	inCount:3	outCount:1	links:7511	url:D007511	name:Ischemia	normalName:ischemia	normalWikiTitle:ischemia	predictedType:Disease
+CANDIDATE	id:17091	inCount:0	outCount:2	links:	url:D017091	name:Colitis, Ischemic	normalName:colitis, ischemic	normalWikiTitle:colitis, ischemic	predictedType:Disease
+CANDIDATE	id:2545	inCount:4	outCount:1	links:	url:D002545	name:Brain Ischemia	normalName:brain ischemia	normalWikiTitle:brain ischemia	predictedType:Disease
+CANDIDATE	id:2057	inCount:0	outCount:1	links:	url:D002057	name:Burns, Chemical	normalName:burns, chemical	normalWikiTitle:burns, chemical	predictedType:Disease
+CANDIDATE	id:65666	inCount:0	outCount:3	links:	url:D065666	name:Mesenteric Ischemia	normalName:mesenteric ischemia	normalWikiTitle:mesenteric ischemia	predictedType:Disease
+CANDIDATE	id:17202	inCount:6	outCount:2	links:	url:D017202	name:Myocardial Ischemia	normalName:myocardial ischemia	normalWikiTitle:myocardial ischemia	predictedType:Disease
+CANDIDATE	id:54061	inCount:0	outCount:2	links:	url:D054061	name:Ischemic Contracture	normalName:ischemic contracture	normalWikiTitle:ischemic contracture	predictedType:Disease
+CANDIDATE	id:12216	inCount:9	outCount:2	links:	url:D012216	name:Rheumatic Diseases	normalName:rheumatic diseases	normalWikiTitle:rheumatic diseases	predictedType:Disease
+CANDIDATE	id:14766	inCount:1	outCount:2	links:	url:D014766	name:Viremia	normalName:viremia	normalWikiTitle:viremia	predictedType:Disease
+ENTITY	text:thromboembolism	normalName:thromboembolism	predictedType:disease	q:true	qid:Q234	docId:591536	origText:thromboembolism	url:D013923
+CANDIDATE	id:13923	inCount:3	outCount:1	links:1157;13927;13923;13921	url:D013923	name:Thromboembolism	normalName:thromboembolism	normalWikiTitle:thromboembolism	predictedType:Disease
+ENTITY	text:ischemia	normalName:ischemia	predictedType:disease	q:true	qid:Q234	docId:591536	origText:ischemia	url:D007511
+CANDIDATE	id:7511	inCount:3	outCount:1	links:7511	url:D007511	name:Ischemia	normalName:ischemia	normalWikiTitle:ischemia	predictedType:Disease
+ENTITY	text:thrombi	normalName:thrombi	predictedType:disease	q:true	qid:Q234	docId:591536	origText:thrombi	url:D013927
+CANDIDATE	id:13927	inCount:4	outCount:1	links:1157;13923;13921	url:D013927	name:Thrombosis	normalName:thrombosis	normalWikiTitle:thrombosis	predictedType:Disease
+CANDIDATE	id:19851	inCount:16	outCount:1	links:	url:D019851	name:Thrombophilia	normalName:thrombophilia	normalWikiTitle:thrombophilia	predictedType:Disease
+CANDIDATE	id:13915	inCount:3	outCount:3	links:	url:D013915	name:Thrombasthenia	normalName:thrombasthenia	normalWikiTitle:thrombasthenia	predictedType:Disease
+CANDIDATE	id:13922	inCount:4	outCount:2	links:	url:D013922	name:Thrombocytosis	normalName:thrombocytosis	normalWikiTitle:thrombocytosis	predictedType:Disease
+CANDIDATE	id:13923	inCount:3	outCount:1	links:1157;13927;13923;13921	url:D013923	name:Thromboembolism	normalName:thromboembolism	normalWikiTitle:thromboembolism	predictedType:Disease
+CANDIDATE	id:13924	inCount:1	outCount:2	links:	url:D013924	name:Thrombophlebitis	normalName:thrombophlebitis	normalWikiTitle:thrombophlebitis	predictedType:Disease
+CANDIDATE	id:13921	inCount:42	outCount:1	links:1157;13927;13923;13921	url:D013921	name:Thrombocytopenia	normalName:thrombocytopenia	normalWikiTitle:thrombocytopenia	predictedType:Disease
+CANDIDATE	id:4480	inCount:21	outCount:1	links:	url:D004480	name:Ectromelia	normalName:ectromelia	normalWikiTitle:ectromelia	predictedType:Disease
+CANDIDATE	id:20246	inCount:5	outCount:1	links:	url:D020246	name:Venous Thrombosis	normalName:venous thrombosis	normalWikiTitle:venous thrombosis	predictedType:Disease
+CANDIDATE	id:13798	inCount:0	outCount:2	links:	url:D013798	name:Thecoma	normalName:thecoma	normalWikiTitle:thecoma	predictedType:Disease

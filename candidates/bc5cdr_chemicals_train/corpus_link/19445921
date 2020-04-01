@@ -1,0 +1,18 @@
+ENTITY	text:salvianolic acid A	normalName:salvianolic acid a	predictedType:chemical	q:true	qid:Q120	docId:19445921	origText:salvianolic acid A	url:C066201
+CANDIDATE	id:66201	inCount:0	outCount:2	links:	url:C066201	name:salvianolic acid A	normalName:salvianolic acid a	normalWikiTitle:salvianolic acid a	predictedType:Chemical
+ENTITY	text:glutathione	normalName:glutathione	predictedType:chemical	q:true	qid:Q120	docId:19445921	origText:glutathione	url:D005978
+CANDIDATE	id:5978	inCount:255	outCount:1	links:	url:D005978	name:Glutathione	normalName:glutathione	normalWikiTitle:glutathione	predictedType:Chemical
+ENTITY	text:superoxide	normalName:superoxide	predictedType:chemical	q:true	qid:Q120	docId:19445921	origText:superoxide	url:D013481
+CANDIDATE	id:13481	inCount:1	outCount:1	links:	url:D013481	name:Superoxide	normalName:superoxide	normalWikiTitle:superoxide	predictedType:Chemical
+ENTITY	text:aspartate	normalName:aspartate	predictedType:chemical	q:true	qid:Q120	docId:19445921	origText:aspartate	url:D001224
+CANDIDATE	id:1224	inCount:112	outCount:3	links:	url:D001224	name:Aspartate	normalName:aspartate	normalWikiTitle:aspartate	predictedType:Chemical
+ENTITY	text:creatine	normalName:creatine	predictedType:chemical	q:true	qid:Q120	docId:19445921	origText:creatine	url:D003401
+CANDIDATE	id:3401	inCount:7	outCount:2	links:	url:D003401	name:Creatine	normalName:creatine	normalWikiTitle:creatine	predictedType:Chemical
+ENTITY	text:isoproterenol	normalName:isoproterenol	predictedType:chemical	q:true	qid:Q120	docId:19445921	origText:isoproterenol	url:D007545
+CANDIDATE	id:7545	inCount:12	outCount:2	links:	url:D007545	name:Isoproterenol	normalName:isoproterenol	normalWikiTitle:isoproterenol	predictedType:Chemical
+ENTITY	text:ADP	normalName:adp	predictedType:chemical	q:true	qid:Q120	docId:19445921	origText:ADP	url:D000244
+CANDIDATE	id:244	inCount:93	outCount:1	links:	url:D000244	name:ADP	normalName:adp	normalWikiTitle:adp	predictedType:Chemical
+ENTITY	text:lactate	normalName:lactate	predictedType:chemical	q:true	qid:Q120	docId:19445921	origText:lactate	url:D019344
+CANDIDATE	id:19344	inCount:38	outCount:1	links:	url:D019344	name:Lactate	normalName:lactate	normalWikiTitle:lactate	predictedType:Chemical
+ENTITY	text:malondialdehyde	normalName:malondialdehyde	predictedType:chemical	q:true	qid:Q120	docId:19445921	origText:malondialdehyde	url:D008315
+CANDIDATE	id:8315	inCount:11	outCount:1	links:	url:D008315	name:Malondialdehyde	normalName:malondialdehyde	normalWikiTitle:malondialdehyde	predictedType:Chemical

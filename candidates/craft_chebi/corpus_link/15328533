@@ -1,0 +1,61 @@
+ENTITY	text:GW501516	normalName:gw501516	predictedType:chemical	q:true	qid:Q40	docId:15328533	origText:GW501516	url:CHEBI:73726
+CANDIDATE	id:73726	inCount:0	outCount:5	links:	url:CHEBI:73726	name:GW 501516	normalName:gw 501516	normalWikiTitle:gw 501516	predictedType:chemical
+ENTITY	text:dye	normalName:dye	predictedType:chemical	q:true	qid:Q40	docId:15328533	origText:dye	url:CHEBI:37958
+CANDIDATE	id:37958	inCount:2	outCount:1	links:	url:CHEBI:37958	name:dye	normalName:dye	normalWikiTitle:dye	predictedType:chemical
+ENTITY	text:carnitine	normalName:carnitine	predictedType:chemical	q:true	qid:Q40	docId:15328533	origText:carnitine	url:CHEBI:17126
+CANDIDATE	id:17126	inCount:2	outCount:1	links:	url:CHEBI:17126	name:carnitine	normalName:carnitine	normalWikiTitle:carnitine	predictedType:chemical
+ENTITY	text:cofactor	normalName:cofactor	predictedType:chemical	q:true	qid:Q40	docId:15328533	origText:cofactor	url:CHEBI:23357
+CANDIDATE	id:23357	inCount:3	outCount:1	links:	url:CHEBI:23357	name:cofactor	normalName:cofactor	normalWikiTitle:cofactor	predictedType:chemical
+ENTITY	text:glucose	normalName:glucose	predictedType:chemical	q:true	qid:Q40	docId:15328533	origText:glucose	url:CHEBI:17234
+CANDIDATE	id:17234	inCount:4	outCount:1	links:	url:CHEBI:17234	name:glucose	normalName:glucose	normalWikiTitle:glucose	predictedType:chemical
+ENTITY	text:reagents	normalName:reagents	predictedType:chemical	q:true	qid:Q40	docId:15328533	origText:reagents	url:CHEBI:33893
+CANDIDATE	id:33893	inCount:15	outCount:1	links:	url:CHEBI:33893	name:reagent	normalName:reagent	normalWikiTitle:reagent	predictedType:chemical
+ENTITY	text:PPARδ Agonists	normalName:pparδ agonists	predictedType:chemical	q:true	qid:Q40	docId:15328533	origText:PPARδ Agonists	url:CHEBI:73730
+CANDIDATE	id:73730	inCount:0	outCount:2	links:	url:CHEBI:73730	name:PPARbeta/delta agonist	normalName:pparbeta/delta agonist	normalWikiTitle:pparbeta/delta agonist	predictedType:chemical
+CANDIDATE	id:71554	inCount:0	outCount:2	links:	url:CHEBI:71554	name:PPARgamma agonist	normalName:ppargamma agonist	normalWikiTitle:ppargamma agonist	predictedType:chemical
+CANDIDATE	id:70782	inCount:0	outCount:2	links:	url:CHEBI:70782	name:PPARalpha agonist	normalName:pparalpha agonist	normalWikiTitle:pparalpha agonist	predictedType:chemical
+CANDIDATE	id:51373	inCount:2	outCount:1	links:	url:CHEBI:51373	name:GABA agonist	normalName:gaba agonist	normalWikiTitle:gaba agonist	predictedType:chemical
+CANDIDATE	id:48705	inCount:58	outCount:1	links:	url:CHEBI:48705	name:agonist	normalName:agonist	normalWikiTitle:agonist	predictedType:chemical
+CANDIDATE	id:65254	inCount:0	outCount:1	links:	url:CHEBI:65254	name:LRH-1 agonist	normalName:lrh-1 agonist	normalWikiTitle:lrh-1 agonist	predictedType:chemical
+CANDIDATE	id:140535	inCount:0	outCount:1	links:	url:CHEBI:140535	name:TRPV1 agonist	normalName:trpv1 agonist	normalWikiTitle:trpv1 agonist	predictedType:chemical
+CANDIDATE	id:140061	inCount:0	outCount:1	links:	url:CHEBI:140061	name:TRPV4 agonist	normalName:trpv4 agonist	normalWikiTitle:trpv4 agonist	predictedType:chemical
+CANDIDATE	id:51065	inCount:1	outCount:1	links:	url:CHEBI:51065	name:dopamine agonist	normalName:dopamine agonist	normalWikiTitle:dopamine agonist	predictedType:chemical
+CANDIDATE	id:139109	inCount:0	outCount:1	links:	url:CHEBI:139109	name:IP3 receptor agonist	normalName:ip3 receptor agonist	normalWikiTitle:ip3 receptor agonist	predictedType:chemical
+ENTITY	text:metabolites	normalName:metabolites	predictedType:chemical	q:true	qid:Q40	docId:15328533	origText:metabolites	url:CHEBI:25212
+CANDIDATE	id:25212	inCount:10	outCount:1	links:	url:CHEBI:25212	name:metabolite	normalName:metabolite	normalWikiTitle:metabolite	predictedType:chemical
+CANDIDATE	id:75771	inCount:0	outCount:1	links:	url:CHEBI:75771	name:mouse metabolite	normalName:mouse metabolite	normalWikiTitle:mouse metabolite	predictedType:chemical
+CANDIDATE	id:86264	inCount:0	outCount:1	links:	url:CHEBI:86264	name:rat metabolite	normalName:rat metabolite	normalWikiTitle:rat metabolite	predictedType:chemical
+CANDIDATE	id:35221	inCount:1	outCount:1	links:	url:CHEBI:35221	name:antimetabolite	normalName:antimetabolite	normalWikiTitle:antimetabolite	predictedType:chemical
+CANDIDATE	id:49103	inCount:0	outCount:1	links:	url:CHEBI:49103	name:drug metabolite	normalName:drug metabolite	normalWikiTitle:drug metabolite	predictedType:chemical
+CANDIDATE	id:30173	inCount:0	outCount:1	links:	url:CHEBI:30173	name:metaborate	normalName:metaborate	normalWikiTitle:metaborate	predictedType:chemical
+CANDIDATE	id:84735	inCount:0	outCount:1	links:	url:CHEBI:84735	name:algal metabolite	normalName:algal metabolite	normalWikiTitle:algal metabolite	predictedType:chemical
+CANDIDATE	id:77746	inCount:3	outCount:1	links:	url:CHEBI:77746	name:human metabolite	normalName:human metabolite	normalWikiTitle:human metabolite	predictedType:chemical
+CANDIDATE	id:76924	inCount:7	outCount:1	links:	url:CHEBI:76924	name:plant metabolite	normalName:plant metabolite	normalWikiTitle:plant metabolite	predictedType:chemical
+CANDIDATE	id:76498	inCount:0	outCount:2	links:	url:CHEBI:76498	name:coral metabolite	normalName:coral metabolite	normalWikiTitle:coral metabolite	predictedType:chemical
+ENTITY	text:PPARδ agonist	normalName:pparδ agonist	predictedType:chemical	q:true	qid:Q40	docId:15328533	origText:PPARδ agonist	url:CHEBI:73730
+CANDIDATE	id:73730	inCount:0	outCount:2	links:	url:CHEBI:73730	name:PPARbeta/delta agonist	normalName:pparbeta/delta agonist	normalWikiTitle:pparbeta/delta agonist	predictedType:chemical
+CANDIDATE	id:71554	inCount:0	outCount:2	links:	url:CHEBI:71554	name:PPARgamma agonist	normalName:ppargamma agonist	normalWikiTitle:ppargamma agonist	predictedType:chemical
+CANDIDATE	id:70782	inCount:0	outCount:2	links:	url:CHEBI:70782	name:PPARalpha agonist	normalName:pparalpha agonist	normalWikiTitle:pparalpha agonist	predictedType:chemical
+CANDIDATE	id:51373	inCount:2	outCount:1	links:	url:CHEBI:51373	name:GABA agonist	normalName:gaba agonist	normalWikiTitle:gaba agonist	predictedType:chemical
+CANDIDATE	id:48705	inCount:58	outCount:1	links:	url:CHEBI:48705	name:agonist	normalName:agonist	normalWikiTitle:agonist	predictedType:chemical
+CANDIDATE	id:65254	inCount:0	outCount:1	links:	url:CHEBI:65254	name:LRH-1 agonist	normalName:lrh-1 agonist	normalWikiTitle:lrh-1 agonist	predictedType:chemical
+CANDIDATE	id:140535	inCount:0	outCount:1	links:	url:CHEBI:140535	name:TRPV1 agonist	normalName:trpv1 agonist	normalWikiTitle:trpv1 agonist	predictedType:chemical
+CANDIDATE	id:140061	inCount:0	outCount:1	links:	url:CHEBI:140061	name:TRPV4 agonist	normalName:trpv4 agonist	normalWikiTitle:trpv4 agonist	predictedType:chemical
+CANDIDATE	id:51065	inCount:1	outCount:1	links:	url:CHEBI:51065	name:dopamine agonist	normalName:dopamine agonist	normalWikiTitle:dopamine agonist	predictedType:chemical
+CANDIDATE	id:139109	inCount:0	outCount:1	links:	url:CHEBI:139109	name:IP3 receptor agonist	normalName:ip3 receptor agonist	normalWikiTitle:ip3 receptor agonist	predictedType:chemical
+ENTITY	text:long-chain fatty-acid	normalName:long-chain fatty-acid	predictedType:chemical	q:true	qid:Q40	docId:15328533	origText:long-chain fatty-acid	url:CHEBI:15904
+CANDIDATE	id:15904	inCount:383	outCount:1	links:	url:CHEBI:15904	name:long-chain fatty acid	normalName:long-chain fatty acid	normalWikiTitle:long-chain fatty acid	predictedType:chemical
+ENTITY	text:fatty-acid	normalName:fatty-acid	predictedType:chemical	q:true	qid:Q40	docId:15328533	origText:fatty-acid	url:CHEBI:35366
+CANDIDATE	id:35366	inCount:58	outCount:2	links:	url:CHEBI:35366	name:fatty acid	normalName:fatty acid	normalWikiTitle:fatty acid	predictedType:chemical
+ENTITY	text:electron	normalName:electron	predictedType:chemical	q:true	qid:Q40	docId:15328533	origText:electron	url:CHEBI:10545
+CANDIDATE	id:10545	inCount:0	outCount:1	links:	url:CHEBI:10545	name:electron	normalName:electron	normalWikiTitle:electron	predictedType:chemical
+ENTITY	text:cytochrome b	normalName:cytochrome b	predictedType:chemical	q:true	qid:Q40	docId:15328533	origText:cytochrome b	url:CHEBI:38551
+CANDIDATE	id:38551	inCount:5	outCount:1	links:	url:CHEBI:38551	name:cytochrome b	normalName:cytochrome b	normalWikiTitle:cytochrome b	predictedType:chemical
+ENTITY	text:agarose	normalName:agarose	predictedType:chemical	q:true	qid:Q40	docId:15328533	origText:agarose	url:CHEBI:2511
+CANDIDATE	id:2511	inCount:0	outCount:1	links:	url:CHEBI:2511	name:agarose	normalName:agarose	normalWikiTitle:agarose	predictedType:chemical
+ENTITY	text:Fatty acids	normalName:fatty acids	predictedType:chemical	q:true	qid:Q40	docId:15328533	origText:Fatty acids	url:CHEBI:35366
+CANDIDATE	id:35366	inCount:58	outCount:2	links:	url:CHEBI:35366	name:fatty acid	normalName:fatty acid	normalWikiTitle:fatty acid	predictedType:chemical
+ENTITY	text:cytochrome c	normalName:cytochrome c	predictedType:chemical	q:true	qid:Q40	docId:15328533	origText:cytochrome c	url:CHEBI:18070
+CANDIDATE	id:18070	inCount:8	outCount:1	links:	url:CHEBI:18070	name:cytochrome c	normalName:cytochrome c	normalWikiTitle:cytochrome c	predictedType:chemical
+ENTITY	text:triglyceride	normalName:triglyceride	predictedType:chemical	q:true	qid:Q40	docId:15328533	origText:triglyceride	url:CHEBI:17855
+CANDIDATE	id:17855	inCount:274	outCount:1	links:	url:CHEBI:17855	name:triglyceride	normalName:triglyceride	normalWikiTitle:triglyceride	predictedType:chemical

@@ -1,0 +1,25 @@
+ENTITY	text:p-choloroaniline	normalName:p-choloroaniline	predictedType:chemical	q:true	qid:Q163	docId:1009330	origText:p-choloroaniline	url:C004658
+CANDIDATE	id:4658	inCount:0	outCount:1	links:	url:C004658	name:para-chloroaniline	normalName:para-chloroaniline	normalWikiTitle:para-chloroaniline	predictedType:Chemical
+CANDIDATE	id:25257	inCount:0	outCount:1	links:	url:C025257	name:2-chloroaniline	normalName:2-chloroaniline	normalWikiTitle:2-chloroaniline	predictedType:Chemical
+CANDIDATE	id:31392	inCount:0	outCount:1	links:	url:C031392	name:3-chloroaniline	normalName:3-chloroaniline	normalWikiTitle:3-chloroaniline	predictedType:Chemical
+CANDIDATE	id:4658	inCount:0	outCount:1	links:	url:C004658	name:4-chloroaniline	normalName:4-chloroaniline	normalWikiTitle:4-chloroaniline	predictedType:Chemical
+CANDIDATE	id:37267	inCount:0	outCount:1	links:	url:C037267	name:3,5-dichloroaniline	normalName:3,5-dichloroaniline	normalWikiTitle:3,5-dichloroaniline	predictedType:Chemical
+CANDIDATE	id:14464	inCount:0	outCount:1	links:	url:C014464	name:3,4-dichloroaniline	normalName:3,4-dichloroaniline	normalWikiTitle:3,4-dichloroaniline	predictedType:Chemical
+CANDIDATE	id:54619	inCount:0	outCount:1	links:	url:C054619	name:2,4-dichloroaniline	normalName:2,4-dichloroaniline	normalWikiTitle:2,4-dichloroaniline	predictedType:Chemical
+CANDIDATE	id:4987	inCount:0	outCount:1	links:	url:C004987	name:5-chloroanisidine	normalName:5-chloroanisidine	normalWikiTitle:5-chloroanisidine	predictedType:Chemical
+CANDIDATE	id:2703	inCount:5	outCount:1	links:	url:D002703	name:Chloranil	normalName:chloranil	normalWikiTitle:chloranil	predictedType:Chemical
+CANDIDATE	id:551392	inCount:0	outCount:1	links:	url:C551392	name:4-chloroanisole	normalName:4-chloroanisole	normalWikiTitle:4-chloroanisole	predictedType:Chemical
+CANDIDATE	id:507301	inCount:0	outCount:1	links:	url:C507301	name:8-chloroguanine	normalName:8-chloroguanine	normalWikiTitle:8-chloroguanine	predictedType:Chemical
+CANDIDATE	id:4658	inCount:0	outCount:1	links:	url:C004658	name:p-chloroaniline	normalName:p-chloroaniline	normalWikiTitle:p-chloroaniline	predictedType:Chemical
+CANDIDATE	id:31392	inCount:0	outCount:1	links:	url:C031392	name:m-chloroaniline	normalName:m-chloroaniline	normalWikiTitle:m-chloroaniline	predictedType:Chemical
+CANDIDATE	id:25257	inCount:0	outCount:1	links:	url:C025257	name:o-chloroaniline	normalName:o-chloroaniline	normalWikiTitle:o-chloroaniline	predictedType:Chemical
+ENTITY	text:kanamycin	normalName:kanamycin	predictedType:chemical	q:true	qid:Q163	docId:1009330	origText:kanamycin	url:D007612
+CANDIDATE	id:7612	inCount:29	outCount:1	links:	url:D007612	name:Kanamycin	normalName:kanamycin	normalWikiTitle:kanamycin	predictedType:Chemical
+ENTITY	text:colistin	normalName:colistin	predictedType:chemical	q:true	qid:Q163	docId:1009330	origText:colistin	url:D003091
+CANDIDATE	id:3091	inCount:7	outCount:1	links:	url:D003091	name:Colistin	normalName:colistin	normalWikiTitle:colistin	predictedType:Chemical
+ENTITY	text:Picloxydine	normalName:picloxydine	predictedType:chemical	q:true	qid:Q163	docId:1009330	origText:Picloxydine	url:C005253
+CANDIDATE	id:5253	inCount:0	outCount:1	links:	url:C005253	name:picloxydine	normalName:picloxydine	normalWikiTitle:picloxydine	predictedType:Chemical
+ENTITY	text:chlorhexidine-digluconate	normalName:chlorhexidine-digluconate	predictedType:chemical	q:true	qid:Q163	docId:1009330	origText:chlorhexidine-digluconate	url:C010882
+CANDIDATE	id:10882	inCount:0	outCount:1	links:	url:C010882	name:chlorhexidine digluconate	normalName:chlorhexidine digluconate	normalWikiTitle:chlorhexidine digluconate	predictedType:Chemical
+ENTITY	text:povidone-iodine	normalName:povidone-iodine	predictedType:chemical	q:true	qid:Q163	docId:1009330	origText:povidone-iodine	url:D011206
+CANDIDATE	id:11206	inCount:2	outCount:3	links:	url:D011206	name:Povidone-Iodine	normalName:povidone-iodine	normalWikiTitle:povidone-iodine	predictedType:Chemical

@@ -1,0 +1,10 @@
+ENTITY	text:potassium	normalName:potassium	predictedType:chemical	q:true	qid:Q838	docId:28952	origText:potassium	url:D011188
+CANDIDATE	id:11188	inCount:10	outCount:2	links:	url:D011188	name:Potassium	normalName:potassium	normalWikiTitle:potassium	predictedType:Chemical
+ENTITY	text:angiotensin	normalName:angiotensin	predictedType:chemical	q:true	qid:Q838	docId:28952	origText:angiotensin	url:D000809
+CANDIDATE	id:809	inCount:9	outCount:4	links:	url:D000809	name:Angiotensin	normalName:angiotensin	normalWikiTitle:angiotensin	predictedType:Chemical
+ENTITY	text:aldosterone	normalName:aldosterone	predictedType:chemical	q:true	qid:Q838	docId:28952	origText:aldosterone	url:D000450
+CANDIDATE	id:450	inCount:23	outCount:2	links:	url:D000450	name:Aldosterone	normalName:aldosterone	normalWikiTitle:aldosterone	predictedType:Chemical
+ENTITY	text:chlorthalidone	normalName:chlorthalidone	predictedType:chemical	q:true	qid:Q838	docId:28952	origText:chlorthalidone	url:D002752
+CANDIDATE	id:2752	inCount:7	outCount:3	links:	url:D002752	name:Chlorthalidone	normalName:chlorthalidone	normalWikiTitle:chlorthalidone	predictedType:Chemical
+ENTITY	text:sodium	normalName:sodium	predictedType:chemical	q:true	qid:Q838	docId:28952	origText:sodium	url:D012964
+CANDIDATE	id:12964	inCount:10	outCount:2	links:	url:D012964	name:Sodium	normalName:sodium	normalWikiTitle:sodium	predictedType:Chemical

@@ -1,0 +1,12 @@
+ENTITY	text:verapamil	normalName:verapamil	predictedType:chemical	q:true	qid:Q463	docId:18442015	origText:verapamil	url:D014700
+CANDIDATE	id:14700	inCount:37	outCount:1	links:	url:D014700	name:Verapamil	normalName:verapamil	normalWikiTitle:verapamil	predictedType:Chemical
+ENTITY	text:histamine	normalName:histamine	predictedType:chemical	q:true	qid:Q463	docId:18442015	origText:histamine	url:D006632
+CANDIDATE	id:6632	inCount:55	outCount:4	links:	url:D006632	name:Histamine	normalName:histamine	normalWikiTitle:histamine	predictedType:Chemical
+ENTITY	text:cholesterol	normalName:cholesterol	predictedType:chemical	q:true	qid:Q463	docId:18442015	origText:cholesterol	url:D002784
+CANDIDATE	id:2784	inCount:223	outCount:2	links:	url:D002784	name:Cholesterol	normalName:cholesterol	normalWikiTitle:cholesterol	predictedType:Chemical
+ENTITY	text:calcium	normalName:calcium	predictedType:chemical	q:true	qid:Q463	docId:18442015	origText:calcium	url:D002118
+CANDIDATE	id:2118	inCount:11	outCount:2	links:	url:D002118	name:Calcium	normalName:calcium	normalWikiTitle:calcium	predictedType:Chemical
+ENTITY	text:vitamin D2	normalName:vitamin d2	predictedType:chemical	q:true	qid:Q463	docId:18442015	origText:vitamin D2	url:D004872
+CANDIDATE	id:4872	inCount:29	outCount:3	links:	url:D004872	name:D2, Vitamin	normalName:d2, vitamin	normalWikiTitle:d2, vitamin	predictedType:Chemical
+ENTITY	text:luminal	normalName:luminal	predictedType:chemical	q:true	qid:Q463	docId:18442015	origText:luminal	url:D010634
+CANDIDATE	id:10634	inCount:50	outCount:1	links:	url:D010634	name:Luminal	normalName:luminal	normalWikiTitle:luminal	predictedType:Chemical

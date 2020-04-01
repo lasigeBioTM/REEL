@@ -1,0 +1,8 @@
+ENTITY	text:asthma	normalName:asthma	predictedType:disease	q:true	qid:Q1257	docId:3074291	origText:asthma	url:D001249
+CANDIDATE	id:1249	inCount:16	outCount:3	links:	url:D001249	name:Asthma	normalName:asthma	normalWikiTitle:asthma	predictedType:Disease
+ENTITY	text:nausea	normalName:nausea	predictedType:disease	q:true	qid:Q1257	docId:3074291	origText:nausea	url:D009325
+CANDIDATE	id:9325	inCount:2	outCount:1	links:	url:D009325	name:Nausea	normalName:nausea	normalWikiTitle:nausea	predictedType:Disease
+ENTITY	text:vomiting	normalName:vomiting	predictedType:disease	q:true	qid:Q1257	docId:3074291	origText:vomiting	url:D014839
+CANDIDATE	id:14839	inCount:7	outCount:1	links:	url:D014839	name:Vomiting	normalName:vomiting	normalWikiTitle:vomiting	predictedType:Disease
+ENTITY	text:tremors	normalName:tremors	predictedType:disease	q:true	qid:Q1257	docId:3074291	origText:tremors	url:D014202
+CANDIDATE	id:14202	inCount:6	outCount:1	links:	url:D014202	name:Tremor	normalName:tremor	normalWikiTitle:tremor	predictedType:Disease

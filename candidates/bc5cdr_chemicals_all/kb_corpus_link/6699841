@@ -1,0 +1,19 @@
+ENTITY	text:gold	normalName:gold	predictedType:chemical	q:true	qid:Q196	docId:6699841	origText:gold	url:D006046
+CANDIDATE	id:6046	inCount:8	outCount:2	links:	url:D006046	name:Gold	normalName:gold	normalWikiTitle:gold	predictedType:Chemical
+ENTITY	text:sulindac	normalName:sulindac	predictedType:chemical	q:true	qid:Q196	docId:6699841	origText:sulindac	url:D013467
+CANDIDATE	id:13467	inCount:12	outCount:1	links:9288	url:D013467	name:Sulindac	normalName:sulindac	normalWikiTitle:sulindac	predictedType:Chemical
+ENTITY	text:salicylates	normalName:salicylates	predictedType:chemical	q:true	qid:Q196	docId:6699841	origText:salicylates	url:D012459
+CANDIDATE	id:12459	inCount:311	outCount:1	links:	url:D012459	name:Salicylates	normalName:salicylates	normalWikiTitle:salicylates	predictedType:Chemical
+CANDIDATE	id:693	inCount:0	outCount:1	links:	url:C000693	name:salicylurate	normalName:salicylurate	normalWikiTitle:salicylurate	predictedType:Chemical
+CANDIDATE	id:31060	inCount:0	outCount:1	links:	url:C031060	name:salicylamide	normalName:salicylamide	normalWikiTitle:salicylamide	predictedType:Chemical
+CANDIDATE	id:25771	inCount:0	outCount:1	links:	url:C025771	name:lysinsalicylate	normalName:lysinsalicylate	normalWikiTitle:lysinsalicylate	predictedType:Chemical
+CANDIDATE	id:12457	inCount:51	outCount:1	links:	url:D012457	name:Salicylamides	normalName:salicylamides	normalWikiTitle:salicylamides	predictedType:Chemical
+CANDIDATE	id:41835	inCount:0	outCount:1	links:	url:C041835	name:ethyl salicylate	normalName:ethyl salicylate	normalWikiTitle:ethyl salicylate	predictedType:Chemical
+CANDIDATE	id:526485	inCount:0	outCount:1	links:	url:C526485	name:hexyl salicylate	normalName:hexyl salicylate	normalWikiTitle:hexyl salicylate	predictedType:Chemical
+CANDIDATE	id:493238	inCount:0	outCount:1	links:	url:C493238	name:butyl salicylate	normalName:butyl salicylate	normalWikiTitle:butyl salicylate	predictedType:Chemical
+CANDIDATE	id:34596	inCount:0	outCount:1	links:	url:C034596	name:salicylanilide	normalName:salicylanilide	normalWikiTitle:salicylanilide	predictedType:Chemical
+CANDIDATE	id:44714	inCount:0	outCount:2	links:	url:C044714	name:lysine salicylate	normalName:lysine salicylate	normalWikiTitle:lysine salicylate	predictedType:Chemical
+ENTITY	text:naproxen	normalName:naproxen	predictedType:chemical	q:true	qid:Q196	docId:6699841	origText:naproxen	url:D009288
+CANDIDATE	id:9288	inCount:25	outCount:1	links:13467	url:D009288	name:Naproxen	normalName:naproxen	normalWikiTitle:naproxen	predictedType:Chemical
+ENTITY	text:fenoprofen calcium	normalName:fenoprofen calcium	predictedType:chemical	q:true	qid:Q196	docId:6699841	origText:fenoprofen calcium	url:D005279
+CANDIDATE	id:5279	inCount:0	outCount:1	links:	url:D005279	name:Fenoprofen Calcium	normalName:fenoprofen calcium	normalWikiTitle:fenoprofen calcium	predictedType:Chemical

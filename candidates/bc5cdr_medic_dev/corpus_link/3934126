@@ -1,0 +1,10 @@
+ENTITY	text:infection	normalName:infection	predictedType:disease	q:true	qid:Q358	docId:3934126	origText:infection	url:D007239
+CANDIDATE	id:7239	inCount:33	outCount:1	links:	url:D007239	name:Infection	normalName:infection	normalWikiTitle:infection	predictedType:Disease
+ENTITY	text:thrombophlebitis	normalName:thrombophlebitis	predictedType:disease	q:true	qid:Q358	docId:3934126	origText:thrombophlebitis	url:D013924
+CANDIDATE	id:13924	inCount:1	outCount:2	links:5076;11507	url:D013924	name:Thrombophlebitis	normalName:thrombophlebitis	normalWikiTitle:thrombophlebitis	predictedType:Disease
+ENTITY	text:infections	normalName:infections	predictedType:disease	q:true	qid:Q358	docId:3934126	origText:infections	url:D007239
+CANDIDATE	id:7239	inCount:33	outCount:1	links:	url:D007239	name:Infection	normalName:infection	normalWikiTitle:infection	predictedType:Disease
+ENTITY	text:proteinuria	normalName:proteinuria	predictedType:disease	q:true	qid:Q358	docId:3934126	origText:proteinuria	url:D011507
+CANDIDATE	id:11507	inCount:4	outCount:2	links:13924;5076	url:D011507	name:Proteinuria	normalName:proteinuria	normalWikiTitle:proteinuria	predictedType:Disease
+ENTITY	text:rash	normalName:rash	predictedType:disease	q:true	qid:Q358	docId:3934126	origText:rash	url:D005076
+CANDIDATE	id:5076	inCount:1	outCount:1	links:13924;11507	url:D005076	name:Rash	normalName:rash	normalWikiTitle:rash	predictedType:Disease

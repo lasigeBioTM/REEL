@@ -1,0 +1,17 @@
+ENTITY	text:Hepatic veno-occlusive disease	normalName:hepatic veno-occlusive disease	predictedType:disease	q:true	qid:Q1421	docId:7053705	origText:Hepatic veno-occlusive disease	url:D006504
+CANDIDATE	id:6504	inCount:1	outCount:2	links:6504	url:D006504	name:Hepatic Veno-Occlusive Disease	normalName:hepatic veno-occlusive disease	normalWikiTitle:hepatic veno-occlusive disease	predictedType:Disease
+ENTITY	text:acute lymphocytic leukemia	normalName:acute lymphocytic leukemia	predictedType:disease	q:true	qid:Q1421	docId:7053705	origText:acute lymphocytic leukemia	url:D054198
+CANDIDATE	id:54198	inCount:3	outCount:1	links:	url:D054198	name:Leukemia, Acute Lymphocytic	normalName:leukemia, acute lymphocytic	normalWikiTitle:leukemia, acute lymphocytic	predictedType:Disease
+ENTITY	text:fibrosis	normalName:fibrosis	predictedType:disease	q:true	qid:Q1421	docId:7053705	origText:fibrosis	url:D005355
+CANDIDATE	id:5355	inCount:11	outCount:1	links:	url:D005355	name:Fibrosis	normalName:fibrosis	normalWikiTitle:fibrosis	predictedType:Disease
+ENTITY	text:veno-occlusive disease of the liver	normalName:veno-occlusive disease of the liver	predictedType:disease	q:true	qid:Q1421	docId:7053705	origText:veno-occlusive disease of the liver	url:D006504
+CANDIDATE	id:6504	inCount:1	outCount:2	links:6504	url:D006504	name:Hepatic Veno-Occlusive Disease	normalName:hepatic veno-occlusive disease	normalWikiTitle:hepatic veno-occlusive disease	predictedType:Disease
+CANDIDATE	id:11668	inCount:0	outCount:2	links:	url:D011668	name:Pulmonary Veno-Occlusive Disease	normalName:pulmonary veno-occlusive disease	normalWikiTitle:pulmonary veno-occlusive disease	predictedType:Disease
+CANDIDATE	id:536330	inCount:0	outCount:2	links:	url:C536330	name:Polycystic liver disease	normalName:polycystic liver disease	normalWikiTitle:polycystic liver disease	predictedType:Disease
+CANDIDATE	id:58625	inCount:0	outCount:1	links:	url:D058625	name:End Stage Liver Disease	normalName:end stage liver disease	normalWikiTitle:end stage liver disease	predictedType:Disease
+CANDIDATE	id:20431	inCount:2	outCount:1	links:	url:D020431	name:Olfactory Nerve Diseases	normalName:olfactory nerve diseases	normalWikiTitle:olfactory nerve diseases	predictedType:Disease
+CANDIDATE	id:8109	inCount:4	outCount:2	links:	url:D008109	name:Liver Diseases, Parasitic	normalName:liver diseases, parasitic	normalWikiTitle:liver diseases, parasitic	predictedType:Disease
+CANDIDATE	id:15840	inCount:3	outCount:1	links:	url:D015840	name:Oculomotor Nerve Diseases	normalName:oculomotor nerve diseases	normalWikiTitle:oculomotor nerve diseases	predictedType:Disease
+CANDIDATE	id:537395	inCount:0	outCount:1	links:	url:C537395	name:Neuronal intranuclear inclusion disease	normalName:neuronal intranuclear inclusion disease	normalWikiTitle:neuronal intranuclear inclusion disease	predictedType:Disease
+CANDIDATE	id:9265	inCount:0	outCount:3	links:	url:D009265	name:Nairobi Sheep Disease	normalName:nairobi sheep disease	normalWikiTitle:nairobi sheep disease	predictedType:Disease
+CANDIDATE	id:168600	inCount:0	outCount:1	links:	url:168600	name:PARKINSON DISEASE, LATE-ONSET	normalName:parkinson disease, late-onset	normalWikiTitle:parkinson disease, late-onset	predictedType:Disease

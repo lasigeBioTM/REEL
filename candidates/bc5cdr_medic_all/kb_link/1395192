@@ -1,0 +1,4 @@
+ENTITY	text:Spasm	normalName:spasm	predictedType:disease	q:true	qid:Q1	docId:1395192	origText:Spasm	url:D013035
+CANDIDATE	id:13035	inCount:5	outCount:1	links:	url:D013035	name:Spasm	normalName:spasm	normalWikiTitle:spasm	predictedType:Disease
+ENTITY	text:myocardial infarction	normalName:myocardial infarction	predictedType:disease	q:true	qid:Q1	docId:1395192	origText:myocardial infarction	url:D009203
+CANDIDATE	id:9203	inCount:8	outCount:1	links:	url:D009203	name:Myocardial Infarction	normalName:myocardial infarction	normalWikiTitle:myocardial infarction	predictedType:Disease

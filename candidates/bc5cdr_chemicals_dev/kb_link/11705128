@@ -1,0 +1,4 @@
+ENTITY	text:ribavirin	normalName:ribavirin	predictedType:chemical	q:true	qid:Q14	docId:11705128	origText:ribavirin	url:D012254
+CANDIDATE	id:12254	inCount:24	outCount:1	links:	url:D012254	name:Ribavirin	normalName:ribavirin	normalWikiTitle:ribavirin	predictedType:Chemical
+ENTITY	text:interferon-alpha	normalName:interferon-alpha	predictedType:chemical	q:true	qid:Q14	docId:11705128	origText:interferon-alpha	url:D016898
+CANDIDATE	id:16898	inCount:62	outCount:1	links:	url:D016898	name:Interferon-alpha	normalName:interferon-alpha	normalWikiTitle:interferon-alpha	predictedType:Chemical

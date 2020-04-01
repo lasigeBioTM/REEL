@@ -1,0 +1,6 @@
+ENTITY	text:trimethoprim-sulfamethoxazole	normalName:trimethoprim-sulfamethoxazole	predictedType:chemical	q:true	qid:Q856	docId:20589632	origText:trimethoprim-sulfamethoxazole	url:D015662
+CANDIDATE	id:15662	inCount:1	outCount:2	links:14295	url:D015662	name:Trimethoprim-Sulfamethoxazole	normalName:trimethoprim-sulfamethoxazole	normalWikiTitle:trimethoprim-sulfamethoxazole	predictedType:Chemical
+ENTITY	text:sulfamethoxazole	normalName:sulfamethoxazole	predictedType:chemical	q:true	qid:Q856	docId:20589632	origText:sulfamethoxazole	url:D013420
+CANDIDATE	id:13420	inCount:13	outCount:1	links:	url:D013420	name:Sulfamethoxazole	normalName:sulfamethoxazole	normalWikiTitle:sulfamethoxazole	predictedType:Chemical
+ENTITY	text:Trimethoprim	normalName:trimethoprim	predictedType:chemical	q:true	qid:Q856	docId:20589632	origText:Trimethoprim	url:D014295
+CANDIDATE	id:14295	inCount:24	outCount:1	links:15662	url:D014295	name:Trimethoprim	normalName:trimethoprim	normalWikiTitle:trimethoprim	predictedType:Chemical

@@ -1,0 +1,13 @@
+ENTITY	text:hypoglycaemia	normalName:hypoglycaemia	predictedType:disease	q:true	qid:Q25	docId:48835	origText:hypoglycaemia	url:D007003
+CANDIDATE	id:7003	inCount:14	outCount:1	links:	url:D007003	name:Hypoglycemia	normalName:hypoglycemia	normalWikiTitle:hypoglycemia	predictedType:Disease
+CANDIDATE	id:6943	inCount:1	outCount:1	links:6973	url:D006943	name:Hyperglycemia	normalName:hyperglycemia	normalWikiTitle:hyperglycemia	predictedType:Disease
+CANDIDATE	id:6996	inCount:5	outCount:2	links:6973	url:D006996	name:Hypocalcemia	normalName:hypocalcemia	normalWikiTitle:hypocalcemia	predictedType:Disease
+CANDIDATE	id:7008	inCount:1	outCount:1	links:	url:D007008	name:Hypokalemia	normalName:hypokalemia	normalWikiTitle:hypokalemia	predictedType:Disease
+CANDIDATE	id:20896	inCount:0	outCount:1	links:	url:D020896	name:Hypovolemia	normalName:hypovolemia	normalWikiTitle:hypovolemia	predictedType:Disease
+CANDIDATE	id:564159	inCount:0	outCount:1	links:	url:C564159	name:Hyperproglucagonemia	normalName:hyperproglucagonemia	normalWikiTitle:hyperproglucagonemia	predictedType:Disease
+CANDIDATE	id:11086	inCount:5	outCount:1	links:	url:D011086	name:Polycythemia	normalName:polycythemia	normalWikiTitle:polycythemia	predictedType:Disease
+CANDIDATE	id:7010	inCount:1	outCount:1	links:	url:D007010	name:Hyponatremia	normalName:hyponatremia	normalWikiTitle:hyponatremia	predictedType:Disease
+CANDIDATE	id:65906	inCount:0	outCount:2	links:	url:D065906	name:Hyperlactatemia	normalName:hyperlactatemia	normalWikiTitle:hyperlactatemia	predictedType:Disease
+CANDIDATE	id:16857	inCount:0	outCount:1	links:	url:D016857	name:Hypocapnia	normalName:hypocapnia	normalWikiTitle:hypocapnia	predictedType:Disease
+ENTITY	text:Hypertension	normalName:hypertension	predictedType:disease	q:true	qid:Q25	docId:48835	origText:Hypertension	url:D006973
+CANDIDATE	id:6973	inCount:18	outCount:1	links:6996;6943	url:D006973	name:Hypertension	normalName:hypertension	normalWikiTitle:hypertension	predictedType:Disease

@@ -1,0 +1,22 @@
+ENTITY	text:thrombocytopenia	normalName:thrombocytopenia	predictedType:disease	q:true	qid:Q964	docId:2224762	origText:thrombocytopenia	url:D013921
+CANDIDATE	id:13921	inCount:42	outCount:1	links:505;380;52016;10689;740;9325	url:D013921	name:Thrombocytopenia	normalName:thrombocytopenia	normalWikiTitle:thrombocytopenia	predictedType:Disease
+ENTITY	text:anemia	normalName:anemia	predictedType:disease	q:true	qid:Q964	docId:2224762	origText:anemia	url:D000740
+CANDIDATE	id:740	inCount:14	outCount:1	links:505;13921;380;52016;10689;9325	url:D000740	name:Anemia	normalName:anemia	normalWikiTitle:anemia	predictedType:Disease
+ENTITY	text:mesothelioma	normalName:mesothelioma	predictedType:disease	q:true	qid:Q964	docId:2224762	origText:mesothelioma	url:D008654
+CANDIDATE	id:8654	inCount:2	outCount:2	links:	url:D008654	name:Mesothelioma	normalName:mesothelioma	normalWikiTitle:mesothelioma	predictedType:Disease
+ENTITY	text:alopecia	normalName:alopecia	predictedType:disease	q:true	qid:Q964	docId:2224762	origText:alopecia	url:D000505
+CANDIDATE	id:505	inCount:57	outCount:2	links:13921;380;52016;10689;740;9325	url:D000505	name:Alopecia	normalName:alopecia	normalWikiTitle:alopecia	predictedType:Disease
+ENTITY	text:nausea	normalName:nausea	predictedType:disease	q:true	qid:Q964	docId:2224762	origText:nausea	url:D009325
+CANDIDATE	id:9325	inCount:2	outCount:1	links:505;13921;380;52016;10689;740	url:D009325	name:Nausea	normalName:nausea	normalWikiTitle:nausea	predictedType:Disease
+ENTITY	text:mucositis	normalName:mucositis	predictedType:disease	q:true	qid:Q964	docId:2224762	origText:mucositis	url:D052016
+CANDIDATE	id:52016	inCount:0	outCount:2	links:505;13921;380;10689;740;9325	url:D052016	name:Mucositis	normalName:mucositis	normalWikiTitle:mucositis	predictedType:Disease
+ENTITY	text:granulocytopenia	normalName:granulocytopenia	predictedType:disease	q:true	qid:Q964	docId:2224762	origText:granulocytopenia	url:D000380
+CANDIDATE	id:380	inCount:3	outCount:1	links:505;13921;52016;10689;740;9325	url:D000380	name:Granulocytopenia	normalName:granulocytopenia	normalWikiTitle:granulocytopenia	predictedType:Disease
+ENTITY	text:phlebitis	normalName:phlebitis	predictedType:disease	q:true	qid:Q964	docId:2224762	origText:phlebitis	url:D010689
+CANDIDATE	id:10689	inCount:2	outCount:2	links:505;13921;380;52016;740;9325	url:D010689	name:Phlebitis	normalName:phlebitis	normalWikiTitle:phlebitis	predictedType:Disease
+ENTITY	text:leiomyosarcoma	normalName:leiomyosarcoma	predictedType:disease	q:true	qid:Q964	docId:2224762	origText:leiomyosarcoma	url:D007890
+CANDIDATE	id:7890	inCount:1	outCount:2	links:	url:D007890	name:Leiomyosarcoma	normalName:leiomyosarcoma	normalWikiTitle:leiomyosarcoma	predictedType:Disease
+ENTITY	text:tumors	normalName:tumors	predictedType:disease	q:true	qid:Q964	docId:2224762	origText:tumors	url:D009369
+CANDIDATE	id:9369	inCount:18	outCount:1	links:	url:D009369	name:Tumor	normalName:tumor	normalWikiTitle:tumor	predictedType:Disease
+ENTITY	text:basal cell carcinoma	normalName:basal cell carcinoma	predictedType:disease	q:true	qid:Q964	docId:2224762	origText:basal cell carcinoma	url:D002280
+CANDIDATE	id:2280	inCount:6	outCount:2	links:	url:D002280	name:Carcinoma, Basal Cell	normalName:carcinoma, basal cell	normalWikiTitle:carcinoma, basal cell	predictedType:Disease

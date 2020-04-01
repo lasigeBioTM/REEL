@@ -1,0 +1,8 @@
+ENTITY	text:chlorpromazine	normalName:chlorpromazine	predictedType:chemical	q:true	qid:Q2	docId:7862923	origText:chlorpromazine	url:D002746
+CANDIDATE	id:2746	inCount:26	outCount:1	links:3024;6220	url:D002746	name:Chlorpromazine	normalName:chlorpromazine	normalWikiTitle:chlorpromazine	predictedType:Chemical
+ENTITY	text:haloperidol	normalName:haloperidol	predictedType:chemical	q:true	qid:Q2	docId:7862923	origText:haloperidol	url:D006220
+CANDIDATE	id:6220	inCount:24	outCount:1	links:2746;3024	url:D006220	name:Haloperidol	normalName:haloperidol	normalWikiTitle:haloperidol	predictedType:Chemical
+ENTITY	text:carbamazepine	normalName:carbamazepine	predictedType:chemical	q:true	qid:Q2	docId:7862923	origText:carbamazepine	url:D002220
+CANDIDATE	id:2220	inCount:15	outCount:1	links:	url:D002220	name:Carbamazepine	normalName:carbamazepine	normalWikiTitle:carbamazepine	predictedType:Chemical
+ENTITY	text:clozapine	normalName:clozapine	predictedType:chemical	q:true	qid:Q2	docId:7862923	origText:clozapine	url:D003024
+CANDIDATE	id:3024	inCount:15	outCount:1	links:2746;6220	url:D003024	name:Clozapine	normalName:clozapine	normalWikiTitle:clozapine	predictedType:Chemical

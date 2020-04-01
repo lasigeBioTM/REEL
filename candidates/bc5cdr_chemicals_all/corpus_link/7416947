@@ -1,0 +1,8 @@
+ENTITY	text:estradiol	normalName:estradiol	predictedType:chemical	q:true	qid:Q923	docId:7416947	origText:estradiol	url:D004958
+CANDIDATE	id:4958	inCount:306	outCount:2	links:4077	url:D004958	name:Estradiol	normalName:estradiol	normalWikiTitle:estradiol	predictedType:Chemical
+ENTITY	text:estrogen	normalName:estrogen	predictedType:chemical	q:true	qid:Q923	docId:7416947	origText:estrogen	url:D004967
+CANDIDATE	id:4967	inCount:1	outCount:1	links:	url:D004967	name:Estrogen	normalName:estrogen	normalWikiTitle:estrogen	predictedType:Chemical
+ENTITY	text:testosterone	normalName:testosterone	predictedType:chemical	q:true	qid:Q923	docId:7416947	origText:testosterone	url:D013739
+CANDIDATE	id:13739	inCount:97	outCount:2	links:4077	url:D013739	name:Testosterone	normalName:testosterone	normalWikiTitle:testosterone	predictedType:Chemical
+ENTITY	text:digoxin	normalName:digoxin	predictedType:chemical	q:true	qid:Q923	docId:7416947	origText:digoxin	url:D004077
+CANDIDATE	id:4077	inCount:22	outCount:2	links:13739;4958	url:D004077	name:Digoxin	normalName:digoxin	normalWikiTitle:digoxin	predictedType:Chemical

@@ -1,0 +1,48 @@
+ENTITY	text:urinary bladder retention	normalName:urinary bladder retention	predictedType:disease	q:true	qid:Q71	docId:11581460	origText:urinary bladder retention	url:D001745
+CANDIDATE	id:1745	inCount:13	outCount:1	links:16055;7022;12131;1919	url:D001745	name:Urinary Bladder Diseases	normalName:urinary bladder diseases	normalWikiTitle:urinary bladder diseases	predictedType:Disease
+CANDIDATE	id:16055	inCount:0	outCount:1	links:16055;7022;12131;1919	url:D016055	name:Urinary Retention	normalName:urinary retention	normalWikiTitle:urinary retention	predictedType:Disease
+CANDIDATE	id:1750	inCount:0	outCount:2	links:	url:D001750	name:Urinary Bladder, Neurogenic	normalName:urinary bladder, neurogenic	normalWikiTitle:urinary bladder, neurogenic	predictedType:Disease
+CANDIDATE	id:1748	inCount:0	outCount:2	links:	url:D001748	name:Urinary Bladder Neck Obstruction	normalName:urinary bladder neck obstruction	normalWikiTitle:urinary bladder neck obstruction	predictedType:Disease
+CANDIDATE	id:53201	inCount:0	outCount:2	links:	url:D053201	name:Urinary Bladder, Overactive	normalName:urinary bladder, overactive	normalWikiTitle:urinary bladder, overactive	predictedType:Disease
+CANDIDATE	id:77295	inCount:0	outCount:2	links:	url:D000077295	name:Urinary Bladder, Underactive	normalName:urinary bladder, underactive	normalWikiTitle:urinary bladder, underactive	predictedType:Disease
+CANDIDATE	id:1749	inCount:2	outCount:2	links:	url:D001749	name:Urinary Bladder Neoplasms	normalName:urinary bladder neoplasms	normalWikiTitle:urinary bladder neoplasms	predictedType:Disease
+CANDIDATE	id:1744	inCount:0	outCount:2	links:	url:D001744	name:Urinary Bladder Calculi	normalName:urinary bladder calculi	normalWikiTitle:urinary bladder calculi	predictedType:Disease
+CANDIDATE	id:1747	inCount:1	outCount:2	links:	url:D001747	name:Urinary Bladder Fistula	normalName:urinary bladder fistula	normalWikiTitle:urinary bladder fistula	predictedType:Disease
+CANDIDATE	id:566226	inCount:0	outCount:1	links:	url:C566226	name:Basilar Impression, Primary	normalName:basilar impression, primary	normalWikiTitle:basilar impression, primary	predictedType:Disease
+CANDIDATE	id:1744	inCount:0	outCount:2	links:	url:D001744	name:Stone, Urinary Bladder	normalName:stone, urinary bladder	normalWikiTitle:stone, urinary bladder	predictedType:Disease
+CANDIDATE	id:1744	inCount:0	outCount:2	links:	url:D001744	name:Urinary Bladder Stone	normalName:urinary bladder stone	normalWikiTitle:urinary bladder stone	predictedType:Disease
+CANDIDATE	id:1744	inCount:0	outCount:2	links:	url:D001744	name:Bladder Stone, Urinary	normalName:bladder stone, urinary	normalWikiTitle:bladder stone, urinary	predictedType:Disease
+ENTITY	text:retention of urine	normalName:retention of urine	predictedType:disease	q:true	qid:Q71	docId:11581460	origText:retention of urine	url:D016055
+CANDIDATE	id:16055	inCount:0	outCount:1	links:16055;7022;12131;1919	url:D016055	name:Urinary Retention	normalName:urinary retention	normalWikiTitle:urinary retention	predictedType:Disease
+CANDIDATE	id:60725	inCount:0	outCount:2	links:	url:D060725	name:Uterine Retroversion	normalName:uterine retroversion	normalWikiTitle:uterine retroversion	predictedType:Disease
+CANDIDATE	id:14595	inCount:0	outCount:1	links:	url:D014595	name:Uterine Perforation	normalName:uterine perforation	normalWikiTitle:uterine perforation	predictedType:Disease
+CANDIDATE	id:19339	inCount:4	outCount:1	links:	url:D019339	name:Port-Wine Stain	normalName:port-wine stain	normalWikiTitle:port-wine stain	predictedType:Disease
+CANDIDATE	id:59466	inCount:0	outCount:1	links:	url:D059466	name:White Coat Hypertension	normalName:white coat hypertension	normalWikiTitle:white coat hypertension	predictedType:Disease
+CANDIDATE	id:12162	inCount:28	outCount:2	links:	url:D012162	name:Retinal Degeneration	normalName:retinal degeneration	normalWikiTitle:retinal degeneration	predictedType:Disease
+CANDIDATE	id:19687	inCount:0	outCount:2	links:	url:D019687	name:Uterine Inversion	normalName:uterine inversion	normalWikiTitle:uterine inversion	predictedType:Disease
+CANDIDATE	id:8924	inCount:2	outCount:1	links:	url:D008924	name:Mite Infestations	normalName:mite infestations	normalWikiTitle:mite infestations	predictedType:Disease
+CANDIDATE	id:10373	inCount:0	outCount:2	links:	url:D010373	name:Lice Infestations	normalName:lice infestations	normalWikiTitle:lice infestations	predictedType:Disease
+CANDIDATE	id:15814	inCount:0	outCount:1	links:	url:D015814	name:Ocular Hypotension	normalName:ocular hypotension	normalWikiTitle:ocular hypotension	predictedType:Disease
+ENTITY	text:chest wall rigidity	normalName:chest wall rigidity	predictedType:disease	q:true	qid:Q71	docId:11581460	origText:chest wall rigidity	url:D009127
+CANDIDATE	id:9127	inCount:3	outCount:2	links:	url:D009127	name:Rigidity, Cogwheel	normalName:rigidity, cogwheel	normalWikiTitle:rigidity, cogwheel	predictedType:Disease
+CANDIDATE	id:9127	inCount:3	outCount:2	links:	url:D009127	name:Muscle Rigidity	normalName:muscle rigidity	normalWikiTitle:muscle rigidity	predictedType:Disease
+CANDIDATE	id:10509	inCount:1	outCount:2	links:	url:D010509	name:Periodontal Cyst	normalName:periodontal cyst	normalWikiTitle:periodontal cyst	predictedType:Disease
+CANDIDATE	id:538507	inCount:0	outCount:1	links:	url:C538507	name:Dandy Walker cyst	normalName:dandy walker cyst	normalWikiTitle:dandy walker cyst	predictedType:Disease
+CANDIDATE	id:21182	inCount:0	outCount:1	links:	url:D021182	name:Wheat Hypersensitivity	normalName:wheat hypersensitivity	normalWikiTitle:wheat hypersensitivity	predictedType:Disease
+CANDIDATE	id:5409	inCount:0	outCount:1	links:	url:D005409	name:Flail Chest	normalName:flail chest	normalWikiTitle:flail chest	predictedType:Disease
+CANDIDATE	id:64250	inCount:0	outCount:2	links:	url:D064250	name:Hypertriglyceridemic Waist	normalName:hypertriglyceridemic waist	normalWikiTitle:hypertriglyceridemic waist	predictedType:Disease
+CANDIDATE	id:10508	inCount:0	outCount:2	links:	url:D010508	name:Periodontal Abscess	normalName:periodontal abscess	normalWikiTitle:periodontal abscess	predictedType:Disease
+CANDIDATE	id:531763	inCount:0	outCount:1	links:	url:C531763	name:Irritable heart	normalName:irritable heart	normalWikiTitle:irritable heart	predictedType:Disease
+CANDIDATE	id:7248	inCount:28	outCount:1	links:	url:D007248	name:Infertility, Male	normalName:infertility, male	normalWikiTitle:infertility, male	predictedType:Disease
+CANDIDATE	id:8476	inCount:0	outCount:2	links:	url:D008476	name:Mediastinal Cyst	normalName:mediastinal cyst	normalWikiTitle:mediastinal cyst	predictedType:Disease
+CANDIDATE	id:9127	inCount:3	outCount:2	links:	url:D009127	name:Cogwheel Rigidity	normalName:cogwheel rigidity	normalWikiTitle:cogwheel rigidity	predictedType:Disease
+ENTITY	text:bradycardia	normalName:bradycardia	predictedType:disease	q:true	qid:Q71	docId:11581460	origText:bradycardia	url:D001919
+CANDIDATE	id:1919	inCount:0	outCount:1	links:16055;7022;1745;12131	url:D001919	name:Bradycardia	normalName:bradycardia	normalWikiTitle:bradycardia	predictedType:Disease
+ENTITY	text:hydronephrosis	normalName:hydronephrosis	predictedType:disease	q:true	qid:Q71	docId:11581460	origText:hydronephrosis	url:D006869
+CANDIDATE	id:6869	inCount:5	outCount:1	links:	url:D006869	name:Hydronephrosis	normalName:hydronephrosis	normalWikiTitle:hydronephrosis	predictedType:Disease
+ENTITY	text:pain	normalName:pain	predictedType:disease	q:true	qid:Q71	docId:11581460	origText:pain	url:D010146
+CANDIDATE	id:10146	inCount:34	outCount:1	links:7022	url:D010146	name:Pain	normalName:pain	normalWikiTitle:pain	predictedType:Disease
+ENTITY	text:respiratory depression	normalName:respiratory depression	predictedType:disease	q:true	qid:Q71	docId:11581460	origText:respiratory depression	url:D012131
+CANDIDATE	id:12131	inCount:13	outCount:1	links:16055;7022;1745;1919	url:D012131	name:Respiratory Depression	normalName:respiratory depression	normalWikiTitle:respiratory depression	predictedType:Disease
+ENTITY	text:hypotension	normalName:hypotension	predictedType:disease	q:true	qid:Q71	docId:11581460	origText:hypotension	url:D007022
+CANDIDATE	id:7022	inCount:3	outCount:1	links:16055;12131;10146;1745;1919	url:D007022	name:Hypotension	normalName:hypotension	normalWikiTitle:hypotension	predictedType:Disease

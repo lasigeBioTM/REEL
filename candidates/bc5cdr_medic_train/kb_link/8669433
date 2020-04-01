@@ -1,0 +1,6 @@
+ENTITY	text:end-stage renal disease	normalName:end-stage renal disease	predictedType:disease	q:true	qid:Q483	docId:8669433	origText:end-stage renal disease	url:D007676
+CANDIDATE	id:7676	inCount:3	outCount:1	links:7676	url:D007676	name:Renal Disease, End Stage	normalName:renal disease, end stage	normalWikiTitle:renal disease, end stage	predictedType:Disease
+ENTITY	text:ESRD	normalName:esrd	predictedType:disease	q:true	qid:Q483	docId:8669433	origText:ESRD	url:D007676
+CANDIDATE	id:7676	inCount:3	outCount:1	links:7676	url:D007676	name:ESRD	normalName:esrd	normalWikiTitle:esrd	predictedType:Disease
+ENTITY	text:chronic renal failure	normalName:chronic renal failure	predictedType:disease	q:true	qid:Q483	docId:8669433	origText:chronic renal failure	url:D007676
+CANDIDATE	id:7676	inCount:3	outCount:1	links:7676	url:D007676	name:Chronic Renal Failure	normalName:chronic renal failure	normalWikiTitle:chronic renal failure	predictedType:Disease

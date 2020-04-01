@@ -1,0 +1,6 @@
+ENTITY	text:thrombosis	normalName:thrombosis	predictedType:disease	q:true	qid:Q285	docId:9245658	origText:thrombosis	url:D013927
+CANDIDATE	id:13927	inCount:4	outCount:1	links:	url:D013927	name:Thrombosis	normalName:thrombosis	normalWikiTitle:thrombosis	predictedType:Disease
+ENTITY	text:cardiovascular disease	normalName:cardiovascular disease	predictedType:disease	q:true	qid:Q285	docId:9245658	origText:cardiovascular disease	url:D002318
+CANDIDATE	id:2318	inCount:5	outCount:1	links:50197	url:D002318	name:Disease, Cardiovascular	normalName:disease, cardiovascular	normalWikiTitle:disease, cardiovascular	predictedType:Disease
+ENTITY	text:atherosclerosis	normalName:atherosclerosis	predictedType:disease	q:true	qid:Q285	docId:9245658	origText:atherosclerosis	url:D050197
+CANDIDATE	id:50197	inCount:3	outCount:1	links:2318	url:D050197	name:Atherosclerosis	normalName:atherosclerosis	normalWikiTitle:atherosclerosis	predictedType:Disease

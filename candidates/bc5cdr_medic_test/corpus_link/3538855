@@ -1,0 +1,6 @@
+ENTITY	text:acute renal failure	normalName:acute renal failure	predictedType:disease	q:true	qid:Q168	docId:3538855	origText:acute renal failure	url:D058186
+CANDIDATE	id:58186	inCount:2	outCount:1	links:12769	url:D058186	name:Acute Renal Failure	normalName:acute renal failure	normalWikiTitle:acute renal failure	predictedType:Disease
+ENTITY	text:shock	normalName:shock	predictedType:disease	q:true	qid:Q168	docId:3538855	origText:shock	url:D012769
+CANDIDATE	id:12769	inCount:6	outCount:1	links:58186	url:D012769	name:Shock	normalName:shock	normalWikiTitle:shock	predictedType:Disease
+ENTITY	text:liver disease	normalName:liver disease	predictedType:disease	q:true	qid:Q168	docId:3538855	origText:liver disease	url:D008107
+CANDIDATE	id:8107	inCount:37	outCount:1	links:	url:D008107	name:Disease, Liver	normalName:disease, liver	normalWikiTitle:disease, liver	predictedType:Disease

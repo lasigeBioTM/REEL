@@ -1,0 +1,4 @@
+ENTITY	text:cytosine arabinoside	normalName:cytosine arabinoside	predictedType:chemical	q:true	qid:Q84	docId:16826348	origText:cytosine arabinoside	url:D003561
+CANDIDATE	id:3561	inCount:271	outCount:2	links:	url:D003561	name:Cytosine Arabinoside	normalName:cytosine arabinoside	normalWikiTitle:cytosine arabinoside	predictedType:Chemical
+ENTITY	text:methylprednisolone	normalName:methylprednisolone	predictedType:chemical	q:true	qid:Q84	docId:16826348	origText:methylprednisolone	url:D008775
+CANDIDATE	id:8775	inCount:29	outCount:1	links:	url:D008775	name:Methylprednisolone	normalName:methylprednisolone	normalWikiTitle:methylprednisolone	predictedType:Chemical

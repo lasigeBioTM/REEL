@@ -1,0 +1,23 @@
+ENTITY	text:delirium	normalName:delirium	predictedType:disease	q:true	qid:Q303	docId:24068571	origText:delirium	url:D003693
+CANDIDATE	id:3693	inCount:1	outCount:2	links:11183	url:D003693	name:Delirium	normalName:delirium	normalWikiTitle:delirium	predictedType:Disease
+ENTITY	text:confusion	normalName:confusion	predictedType:disease	q:true	qid:Q303	docId:24068571	origText:confusion	url:D003221
+CANDIDATE	id:3221	inCount:2	outCount:1	links:	url:D003221	name:Confusion	normalName:confusion	normalWikiTitle:confusion	predictedType:Disease
+ENTITY	text:postoperative delirium	normalName:postoperative delirium	predictedType:disease	q:true	qid:Q303	docId:24068571	origText:postoperative delirium	url:D011183
+CANDIDATE	id:11183	inCount:27	outCount:1	links:3693	url:D011183	name:Postoperative Complications	normalName:postoperative complications	normalWikiTitle:postoperative complications	predictedType:Disease
+CANDIDATE	id:10149	inCount:1	outCount:2	links:	url:D010149	name:Pain, Postoperative	normalName:pain, postoperative	normalWikiTitle:pain, postoperative	predictedType:Disease
+CANDIDATE	id:19106	inCount:1	outCount:2	links:	url:D019106	name:Postoperative Hemorrhage	normalName:postoperative hemorrhage	normalWikiTitle:postoperative hemorrhage	predictedType:Disease
+CANDIDATE	id:71257	inCount:0	outCount:2	links:	url:D000071257	name:Emergence Delirium	normalName:emergence delirium	normalWikiTitle:emergence delirium	predictedType:Disease
+CANDIDATE	id:7431	inCount:3	outCount:1	links:	url:D007431	name:Intraoperative Complications	normalName:intraoperative complications	normalWikiTitle:intraoperative complications	predictedType:Disease
+CANDIDATE	id:20250	inCount:0	outCount:3	links:	url:D020250	name:Postoperative Nausea and Vomiting	normalName:postoperative nausea and vomiting	normalWikiTitle:postoperative nausea and vomiting	predictedType:Disease
+CANDIDATE	id:19052	inCount:0	outCount:2	links:	url:D019052	name:Depression, Postpartum	normalName:depression, postpartum	normalWikiTitle:depression, postpartum	predictedType:Disease
+CANDIDATE	id:12030	inCount:7	outCount:1	links:	url:D012030	name:Refractive Errors	normalName:refractive errors	normalWikiTitle:refractive errors	predictedType:Disease
+CANDIDATE	id:8173	inCount:3	outCount:1	links:	url:D008173	name:Lung Diseases, Obstructive	normalName:lung diseases, obstructive	normalWikiTitle:lung diseases, obstructive	predictedType:Disease
+CANDIDATE	id:7160	inCount:3	outCount:1	links:	url:D007160	name:Immunoproliferative Disorders	normalName:immunoproliferative disorders	normalWikiTitle:immunoproliferative disorders	predictedType:Disease
+CANDIDATE	id:69290	inCount:0	outCount:2	links:	url:D000069290	name:Postoperative Hernia	normalName:postoperative hernia	normalWikiTitle:postoperative hernia	predictedType:Disease
+CANDIDATE	id:69290	inCount:0	outCount:2	links:	url:D000069290	name:Hernia, Postoperative	normalName:hernia, postoperative	normalWikiTitle:hernia, postoperative	predictedType:Disease
+CANDIDATE	id:69290	inCount:0	outCount:2	links:	url:D000069290	name:Postoperative Hernias	normalName:postoperative hernias	normalWikiTitle:postoperative hernias	predictedType:Disease
+CANDIDATE	id:69290	inCount:0	outCount:2	links:	url:D000069290	name:Hernias, Postoperative	normalName:hernias, postoperative	normalWikiTitle:hernias, postoperative	predictedType:Disease
+CANDIDATE	id:20250	inCount:0	outCount:3	links:	url:D020250	name:Postoperative Emeses	normalName:postoperative emeses	normalWikiTitle:postoperative emeses	predictedType:Disease
+CANDIDATE	id:20250	inCount:0	outCount:3	links:	url:D020250	name:Postoperative Emesis	normalName:postoperative emesis	normalWikiTitle:postoperative emesis	predictedType:Disease
+CANDIDATE	id:20250	inCount:0	outCount:3	links:	url:D020250	name:Emeses, Postoperative	normalName:emeses, postoperative	normalWikiTitle:emeses, postoperative	predictedType:Disease
+CANDIDATE	id:20250	inCount:0	outCount:3	links:	url:D020250	name:Emesis, Postoperative	normalName:emesis, postoperative	normalWikiTitle:emesis, postoperative	predictedType:Disease

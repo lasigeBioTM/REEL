@@ -1,0 +1,6 @@
+ENTITY	text:mitogen	normalName:mitogen	predictedType:chemical	q:true	qid:Q64	docId:17244351	origText:mitogen	url:CHEBI:52290
+CANDIDATE	id:52290	inCount:0	outCount:1	links:	url:CHEBI:52290	name:mitogen	normalName:mitogen	normalWikiTitle:mitogen	predictedType:chemical
+ENTITY	text:proteoglycan	normalName:proteoglycan	predictedType:chemical	q:true	qid:Q64	docId:17244351	origText:proteoglycan	url:CHEBI:37396
+CANDIDATE	id:37396	inCount:4	outCount:2	links:	url:CHEBI:37396	name:proteoglycan	normalName:proteoglycan	normalWikiTitle:proteoglycan	predictedType:chemical
+ENTITY	text:adjuvant	normalName:adjuvant	predictedType:chemical	q:true	qid:Q64	docId:17244351	origText:adjuvant	url:CHEBI:60809
+CANDIDATE	id:60809	inCount:2	outCount:1	links:	url:CHEBI:60809	name:adjuvant	normalName:adjuvant	normalWikiTitle:adjuvant	predictedType:chemical

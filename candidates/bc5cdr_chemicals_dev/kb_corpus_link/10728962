@@ -1,0 +1,4 @@
+ENTITY	text:milrinone	normalName:milrinone	predictedType:chemical	q:true	qid:Q162	docId:10728962	origText:milrinone	url:D020105
+CANDIDATE	id:20105	inCount:4	outCount:1	links:14667	url:D020105	name:Milrinone	normalName:milrinone	normalWikiTitle:milrinone	predictedType:Chemical
+ENTITY	text:Vasopressin	normalName:vasopressin	predictedType:chemical	q:true	qid:Q162	docId:10728962	origText:Vasopressin	url:D014667
+CANDIDATE	id:14667	inCount:20	outCount:3	links:20105	url:D014667	name:Vasopressin	normalName:vasopressin	normalWikiTitle:vasopressin	predictedType:Chemical

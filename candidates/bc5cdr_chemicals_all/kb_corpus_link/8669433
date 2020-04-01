@@ -1,0 +1,4 @@
+ENTITY	text:acetaminophen	normalName:acetaminophen	predictedType:chemical	q:true	qid:Q1119	docId:8669433	origText:acetaminophen	url:D000082
+CANDIDATE	id:82	inCount:89	outCount:1	links:10615	url:D000082	name:Acetaminophen	normalName:acetaminophen	normalWikiTitle:acetaminophen	predictedType:Chemical
+ENTITY	text:phenacetin	normalName:phenacetin	predictedType:chemical	q:true	qid:Q1119	docId:8669433	origText:phenacetin	url:D010615
+CANDIDATE	id:10615	inCount:19	outCount:1	links:82	url:D010615	name:Phenacetin	normalName:phenacetin	normalWikiTitle:phenacetin	predictedType:Chemical

@@ -1,0 +1,31 @@
+ENTITY	text:clonidine	normalName:clonidine	predictedType:chemical	q:true	qid:Q1306	docId:8586822	origText:clonidine	url:D003000
+CANDIDATE	id:3000	inCount:39	outCount:1	links:	url:D003000	name:Clonidine	normalName:clonidine	normalWikiTitle:clonidine	predictedType:Chemical
+ENTITY	text:dietary sodium chloride	normalName:dietary sodium chloride	predictedType:chemical	q:true	qid:Q1306	docId:8586822	origText:dietary sodium chloride	url:D017673
+CANDIDATE	id:17673	inCount:2	outCount:2	links:	url:D017673	name:Sodium Chloride, Dietary	normalName:sodium chloride, dietary	normalWikiTitle:sodium chloride, dietary	predictedType:Chemical
+ENTITY	text:hexamethonium	normalName:hexamethonium	predictedType:chemical	q:true	qid:Q1306	docId:8586822	origText:hexamethonium	url:D018738
+CANDIDATE	id:18738	inCount:0	outCount:1	links:	url:D018738	name:Hexamethonium	normalName:hexamethonium	normalWikiTitle:hexamethonium	predictedType:Chemical
+ENTITY	text:alpha2-adrenergic receptor agonist	normalName:alpha2-adrenergic receptor agonist	predictedType:chemical	q:true	qid:Q1306	docId:8586822	origText:alpha2-adrenergic receptor agonist	url:D058647
+CANDIDATE	id:58647	inCount:0	outCount:1	links:	url:D058647	name:Adrenergic alpha-2 Receptor Agonists	normalName:adrenergic alpha-2 receptor agonists	normalWikiTitle:adrenergic alpha-2 receptor agonists	predictedType:Chemical
+CANDIDATE	id:58646	inCount:0	outCount:1	links:	url:D058646	name:Adrenergic alpha-1 Receptor Agonists	normalName:adrenergic alpha-1 receptor agonists	normalWikiTitle:adrenergic alpha-1 receptor agonists	predictedType:Chemical
+CANDIDATE	id:58666	inCount:0	outCount:1	links:	url:D058666	name:Adrenergic beta-2 Receptor Agonists	normalName:adrenergic beta-2 receptor agonists	normalWikiTitle:adrenergic beta-2 receptor agonists	predictedType:Chemical
+CANDIDATE	id:58665	inCount:0	outCount:1	links:	url:D058665	name:Adrenergic beta-1 Receptor Agonists	normalName:adrenergic beta-1 receptor agonists	normalWikiTitle:adrenergic beta-1 receptor agonists	predictedType:Chemical
+CANDIDATE	id:58667	inCount:0	outCount:1	links:	url:D058667	name:Adrenergic beta-3 Receptor Agonists	normalName:adrenergic beta-3 receptor agonists	normalWikiTitle:adrenergic beta-3 receptor agonists	predictedType:Chemical
+CANDIDATE	id:58672	inCount:0	outCount:1	links:	url:D058672	name:Adrenergic beta-2 Receptor Antagonists	normalName:adrenergic beta-2 receptor antagonists	normalWikiTitle:adrenergic beta-2 receptor antagonists	predictedType:Chemical
+CANDIDATE	id:58673	inCount:0	outCount:1	links:	url:D058673	name:Adrenergic beta-3 Receptor Antagonists	normalName:adrenergic beta-3 receptor antagonists	normalWikiTitle:adrenergic beta-3 receptor antagonists	predictedType:Chemical
+CANDIDATE	id:316	inCount:2	outCount:1	links:	url:D000316	name:Adrenergic alpha-Agonists	normalName:adrenergic alpha-agonists	normalWikiTitle:adrenergic alpha-agonists	predictedType:Chemical
+CANDIDATE	id:58671	inCount:0	outCount:1	links:	url:D058671	name:Adrenergic beta-1 Receptor Antagonists	normalName:adrenergic beta-1 receptor antagonists	normalWikiTitle:adrenergic beta-1 receptor antagonists	predictedType:Chemical
+CANDIDATE	id:58668	inCount:0	outCount:1	links:	url:D058668	name:Adrenergic alpha-1 Receptor Antagonists	normalName:adrenergic alpha-1 receptor antagonists	normalWikiTitle:adrenergic alpha-1 receptor antagonists	predictedType:Chemical
+CANDIDATE	id:316	inCount:2	outCount:1	links:	url:D000316	name:alpha Adrenergic Receptor Agonist	normalName:alpha adrenergic receptor agonist	normalWikiTitle:alpha adrenergic receptor agonist	predictedType:Chemical
+CANDIDATE	id:316	inCount:2	outCount:1	links:	url:D000316	name:Agonist, alpha-Adrenergic Receptor	normalName:agonist, alpha-adrenergic receptor	normalWikiTitle:agonist, alpha-adrenergic receptor	predictedType:Chemical
+CANDIDATE	id:316	inCount:2	outCount:1	links:	url:D000316	name:alpha-Adrenergic Receptor Agonist	normalName:alpha-adrenergic receptor agonist	normalWikiTitle:alpha-adrenergic receptor agonist	predictedType:Chemical
+CANDIDATE	id:316	inCount:2	outCount:1	links:	url:D000316	name:Receptor Agonist, alpha-Adrenergic	normalName:receptor agonist, alpha-adrenergic	normalWikiTitle:receptor agonist, alpha-adrenergic	predictedType:Chemical
+CANDIDATE	id:316	inCount:2	outCount:1	links:	url:D000316	name:Agonist, Adrenergic alpha-Receptor	normalName:agonist, adrenergic alpha-receptor	normalWikiTitle:agonist, adrenergic alpha-receptor	predictedType:Chemical
+CANDIDATE	id:316	inCount:2	outCount:1	links:	url:D000316	name:alpha-Receptor Agonist, Adrenergic	normalName:alpha-receptor agonist, adrenergic	normalWikiTitle:alpha-receptor agonist, adrenergic	predictedType:Chemical
+CANDIDATE	id:316	inCount:2	outCount:1	links:	url:D000316	name:Adrenergic alpha-Receptor Agonist	normalName:adrenergic alpha-receptor agonist	normalWikiTitle:adrenergic alpha-receptor agonist	predictedType:Chemical
+CANDIDATE	id:316	inCount:2	outCount:1	links:	url:D000316	name:Adrenergic alpha Receptor Agonist	normalName:adrenergic alpha receptor agonist	normalWikiTitle:adrenergic alpha receptor agonist	predictedType:Chemical
+CANDIDATE	id:316	inCount:2	outCount:1	links:	url:D000316	name:Receptor Agonists, alpha-Adrenergic	normalName:receptor agonists, alpha-adrenergic	normalWikiTitle:receptor agonists, alpha-adrenergic	predictedType:Chemical
+CANDIDATE	id:316	inCount:2	outCount:1	links:	url:D000316	name:alpha Adrenergic Receptor Agonists	normalName:alpha adrenergic receptor agonists	normalWikiTitle:alpha adrenergic receptor agonists	predictedType:Chemical
+ENTITY	text:captopril	normalName:captopril	predictedType:chemical	q:true	qid:Q1306	docId:8586822	origText:captopril	url:D002216
+CANDIDATE	id:2216	inCount:17	outCount:1	links:	url:D002216	name:Captopril	normalName:captopril	normalWikiTitle:captopril	predictedType:Chemical
+ENTITY	text:sodium chloride	normalName:sodium chloride	predictedType:chemical	q:true	qid:Q1306	docId:8586822	origText:sodium chloride	url:D012965
+CANDIDATE	id:12965	inCount:37	outCount:2	links:	url:D012965	name:Sodium Chloride	normalName:sodium chloride	normalWikiTitle:sodium chloride	predictedType:Chemical

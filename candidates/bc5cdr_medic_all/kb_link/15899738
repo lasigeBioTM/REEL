@@ -1,0 +1,49 @@
+ENTITY	text:heart disease	normalName:heart disease	predictedType:disease	q:true	qid:Q471	docId:15899738	origText:heart disease	url:D006331
+CANDIDATE	id:6331	inCount:29	outCount:1	links:	url:D006331	name:Disease, Heart	normalName:disease, heart	normalWikiTitle:disease, heart	predictedType:Disease
+ENTITY	text:fractures	normalName:fractures	predictedType:disease	q:true	qid:Q471	docId:15899738	origText:fractures	url:D050723
+CANDIDATE	id:50723	inCount:31	outCount:1	links:	url:D050723	name:Fractures, Bone	normalName:fractures, bone	normalWikiTitle:fractures, bone	predictedType:Disease
+CANDIDATE	id:6620	inCount:1	outCount:2	links:	url:D006620	name:Hip Fractures	normalName:hip fractures	normalWikiTitle:hip fractures	predictedType:Disease
+CANDIDATE	id:7572	inCount:2	outCount:2	links:	url:D007572	name:Jaw Fractures	normalName:jaw fractures	normalWikiTitle:jaw fractures	predictedType:Disease
+CANDIDATE	id:12253	inCount:0	outCount:2	links:	url:D012253	name:Rib Fractures	normalName:rib fractures	normalWikiTitle:rib fractures	predictedType:Disease
+CANDIDATE	id:3286	inCount:40	outCount:2	links:	url:D003286	name:Contracture	normalName:contracture	normalWikiTitle:contracture	predictedType:Disease
+CANDIDATE	id:5597	inCount:0	outCount:1	links:	url:D005597	name:Fractures, Open	normalName:fractures, open	normalWikiTitle:fractures, open	predictedType:Disease
+CANDIDATE	id:14458	inCount:1	outCount:2	links:	url:D014458	name:Ulna Fractures	normalName:ulna fractures	normalWikiTitle:ulna fractures	predictedType:Disease
+CANDIDATE	id:3100	inCount:0	outCount:2	links:	url:D003100	name:Colles' Fracture	normalName:colles' fracture	normalWikiTitle:colles' fracture	predictedType:Disease
+CANDIDATE	id:12887	inCount:5	outCount:2	links:	url:D012887	name:Skull Fractures	normalName:skull fractures	normalWikiTitle:skull fractures	predictedType:Disease
+CANDIDATE	id:14082	inCount:1	outCount:1	links:	url:D014082	name:Tooth Fractures	normalName:tooth fractures	normalWikiTitle:tooth fractures	predictedType:Disease
+CANDIDATE	id:7572	inCount:2	outCount:2	links:	url:D007572	name:Jaw Fracture	normalName:jaw fracture	normalWikiTitle:jaw fracture	predictedType:Disease
+CANDIDATE	id:12253	inCount:0	outCount:2	links:	url:D012253	name:Rib Fracture	normalName:rib fracture	normalWikiTitle:rib fracture	predictedType:Disease
+CANDIDATE	id:12253	inCount:0	outCount:2	links:	url:D012253	name:Fracture, Rib	normalName:fracture, rib	normalWikiTitle:fracture, rib	predictedType:Disease
+CANDIDATE	id:7572	inCount:2	outCount:2	links:	url:D007572	name:Fracture, Jaw	normalName:fracture, jaw	normalWikiTitle:fracture, jaw	predictedType:Disease
+ENTITY	text:arrhythmia	normalName:arrhythmia	predictedType:disease	q:true	qid:Q471	docId:15899738	origText:arrhythmia	url:D001145
+CANDIDATE	id:1145	inCount:27	outCount:2	links:	url:D001145	name:Arrhythmia	normalName:arrhythmia	normalWikiTitle:arrhythmia	predictedType:Disease
+ENTITY	text:atrial fibrillation	normalName:atrial fibrillation	predictedType:disease	q:true	qid:Q471	docId:15899738	origText:atrial fibrillation	url:D001281
+CANDIDATE	id:1281	inCount:16	outCount:1	links:	url:D001281	name:Atrial Fibrillation	normalName:atrial fibrillation	normalWikiTitle:atrial fibrillation	predictedType:Disease
+ENTITY	text:acute alcohol intoxication	normalName:acute alcohol intoxication	predictedType:disease	q:true	qid:Q471	docId:15899738	origText:acute alcohol intoxication	url:D000435
+CANDIDATE	id:435	inCount:0	outCount:1	links:	url:D000435	name:Alcoholic Intoxication	normalName:alcoholic intoxication	normalWikiTitle:alcoholic intoxication	predictedType:Disease
+CANDIDATE	id:610251	inCount:0	outCount:1	links:	url:610251	name:ALCOHOL SENSITIVITY, ACUTE	normalName:alcohol sensitivity, acute	normalWikiTitle:alcohol sensitivity, acute	predictedType:Disease
+CANDIDATE	id:535672	inCount:0	outCount:1	links:	url:C535672	name:Acute cholinergic dysautonomia	normalName:acute cholinergic dysautonomia	normalWikiTitle:acute cholinergic dysautonomia	predictedType:Disease
+CANDIDATE	id:41881	inCount:1	outCount:1	links:	url:D041881	name:Cholecystitis, Acute	normalName:cholecystitis, acute	normalWikiTitle:cholecystitis, acute	predictedType:Disease
+CANDIDATE	id:1424	inCount:12	outCount:1	links:	url:D001424	name:Bacterial Infections	normalName:bacterial infections	normalWikiTitle:bacterial infections	predictedType:Disease
+CANDIDATE	id:538620	inCount:0	outCount:1	links:	url:C538620	name:Acute brachial neuritis	normalName:acute brachial neuritis	normalWikiTitle:acute brachial neuritis	predictedType:Disease
+CANDIDATE	id:58442	inCount:0	outCount:1	links:	url:D058442	name:Capsule Opacification	normalName:capsule opacification	normalWikiTitle:capsule opacification	predictedType:Disease
+CANDIDATE	id:67011	inCount:1	outCount:1	links:	url:D000067011	name:Severe Acute Malnutrition	normalName:severe acute malnutrition	normalWikiTitle:severe acute malnutrition	predictedType:Disease
+CANDIDATE	id:65290	inCount:0	outCount:1	links:	url:D065290	name:Acute-On-Chronic Liver Failure	normalName:acute-on-chronic liver failure	normalWikiTitle:acute-on-chronic liver failure	predictedType:Disease
+CANDIDATE	id:210	inCount:0	outCount:1	links:	url:D000210	name:Acute-Phase Reaction	normalName:acute-phase reaction	normalWikiTitle:acute-phase reaction	predictedType:Disease
+ENTITY	text:Thyroid disorders	normalName:thyroid disorders	predictedType:disease	q:true	qid:Q471	docId:15899738	origText:Thyroid disorders	url:D013959
+CANDIDATE	id:13959	inCount:13	outCount:1	links:	url:D013959	name:Thyroid Disease	normalName:thyroid disease	normalWikiTitle:thyroid disease	predictedType:Disease
+CANDIDATE	id:10259	inCount:0	outCount:1	links:	url:D010259	name:Paranoid Disorders	normalName:paranoid disorders	normalWikiTitle:paranoid disorders	predictedType:Disease
+CANDIDATE	id:13981	inCount:1	outCount:2	links:	url:D013981	name:Tic Disorders	normalName:tic disorders	normalWikiTitle:tic disorders	predictedType:Disease
+CANDIDATE	id:13959	inCount:13	outCount:1	links:	url:D013959	name:Thyroid Diseases	normalName:thyroid diseases	normalWikiTitle:thyroid diseases	predictedType:Disease
+CANDIDATE	id:10698	inCount:2	outCount:1	links:	url:D010698	name:Phobic Disorders	normalName:phobic disorders	normalWikiTitle:phobic disorders	predictedType:Disease
+CANDIDATE	id:19964	inCount:2	outCount:1	links:	url:D019964	name:Mood Disorders	normalName:mood disorders	normalWikiTitle:mood disorders	predictedType:Disease
+CANDIDATE	id:6311	inCount:4	outCount:2	links:	url:D006311	name:Hearing Disorders	normalName:hearing disorders	normalWikiTitle:hearing disorders	predictedType:Disease
+CANDIDATE	id:68079	inCount:0	outCount:1	links:	url:D000068079	name:Motor Disorders	normalName:motor disorders	normalWikiTitle:motor disorders	predictedType:Disease
+CANDIDATE	id:14832	inCount:4	outCount:2	links:	url:D014832	name:Voice Disorders	normalName:voice disorders	normalWikiTitle:voice disorders	predictedType:Disease
+CANDIDATE	id:19263	inCount:0	outCount:1	links:	url:D019263	name:Dysthymic Disorder	normalName:dysthymic disorder	normalWikiTitle:dysthymic disorder	predictedType:Disease
+CANDIDATE	id:9497	inCount:0	outCount:2	links:	url:D009497	name:Neurotic Disorders	normalName:neurotic disorders	normalWikiTitle:neurotic disorders	predictedType:Disease
+CANDIDATE	id:10279	inCount:3	outCount:1	links:	url:D010279	name:Parathyroid Disorders	normalName:parathyroid disorders	normalWikiTitle:parathyroid disorders	predictedType:Disease
+CANDIDATE	id:10279	inCount:3	outCount:1	links:	url:D010279	name:Disorders, Parathyroid	normalName:disorders, parathyroid	normalWikiTitle:disorders, parathyroid	predictedType:Disease
+CANDIDATE	id:10279	inCount:3	outCount:1	links:	url:D010279	name:Disorder, Parathyroid	normalName:disorder, parathyroid	normalWikiTitle:disorder, parathyroid	predictedType:Disease
+CANDIDATE	id:10279	inCount:3	outCount:1	links:	url:D010279	name:Parathyroid Disorder	normalName:parathyroid disorder	normalWikiTitle:parathyroid disorder	predictedType:Disease
+CANDIDATE	id:13959	inCount:13	outCount:1	links:	url:D013959	name:Disease, Thyroid	normalName:disease, thyroid	normalWikiTitle:disease, thyroid	predictedType:Disease

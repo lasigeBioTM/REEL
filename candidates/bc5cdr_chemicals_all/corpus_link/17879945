@@ -1,0 +1,34 @@
+ENTITY	text:progesterone	normalName:progesterone	predictedType:chemical	q:true	qid:Q417	docId:17879945	origText:progesterone	url:D011374
+CANDIDATE	id:11374	inCount:106	outCount:3	links:431	url:D011374	name:Progesterone	normalName:progesterone	normalWikiTitle:progesterone	predictedType:Chemical
+ENTITY	text:ritonavir	normalName:ritonavir	predictedType:chemical	q:true	qid:Q417	docId:17879945	origText:ritonavir	url:D019438
+CANDIDATE	id:19438	inCount:3	outCount:1	links:2784	url:D019438	name:Ritonavir	normalName:ritonavir	normalWikiTitle:ritonavir	predictedType:Chemical
+ENTITY	text:cholesterol	normalName:cholesterol	predictedType:chemical	q:true	qid:Q417	docId:17879945	origText:cholesterol	url:D002784
+CANDIDATE	id:2784	inCount:223	outCount:2	links:19438	url:D002784	name:Cholesterol	normalName:cholesterol	normalWikiTitle:cholesterol	predictedType:Chemical
+ENTITY	text:cholesteryl ester	normalName:cholesteryl ester	predictedType:chemical	q:true	qid:Q417	docId:17879945	origText:cholesteryl ester	url:D002788
+CANDIDATE	id:2788	inCount:80	outCount:1	links:	url:D002788	name:Cholesteryl Esters	normalName:cholesteryl esters	normalWikiTitle:cholesteryl esters	predictedType:Chemical
+CANDIDATE	id:2788	inCount:80	outCount:1	links:	url:D002788	name:Cholesterol Esters	normalName:cholesterol esters	normalWikiTitle:cholesterol esters	predictedType:Chemical
+CANDIDATE	id:59714	inCount:0	outCount:1	links:	url:C059714	name:HDL cholesteryl ester	normalName:hdl cholesteryl ester	normalWikiTitle:hdl cholesteryl ester	predictedType:Chemical
+CANDIDATE	id:14409	inCount:0	outCount:1	links:	url:C014409	name:cholesteryl oleate	normalName:cholesteryl oleate	normalWikiTitle:cholesteryl oleate	predictedType:Chemical
+CANDIDATE	id:76149	inCount:0	outCount:1	links:	url:C076149	name:cholesterylene	normalName:cholesterylene	normalWikiTitle:cholesterylene	predictedType:Chemical
+CANDIDATE	id:7045	inCount:0	outCount:1	links:	url:C007045	name:cholesteryl sulfate	normalName:cholesteryl sulfate	normalWikiTitle:cholesteryl sulfate	predictedType:Chemical
+CANDIDATE	id:110341	inCount:0	outCount:1	links:	url:C110341	name:cholesterol stearate	normalName:cholesterol stearate	normalWikiTitle:cholesterol stearate	predictedType:Chemical
+CANDIDATE	id:29809	inCount:0	outCount:1	links:	url:C029809	name:cholesteryl valerate	normalName:cholesteryl valerate	normalWikiTitle:cholesteryl valerate	predictedType:Chemical
+CANDIDATE	id:23511	inCount:0	outCount:1	links:	url:C023511	name:cholesteryl oleyl ether	normalName:cholesteryl oleyl ether	normalWikiTitle:cholesteryl oleyl ether	predictedType:Chemical
+CANDIDATE	id:48982	inCount:0	outCount:1	links:	url:C048982	name:cholesteryl hexyl ether	normalName:cholesteryl hexyl ether	normalWikiTitle:cholesteryl hexyl ether	predictedType:Chemical
+CANDIDATE	id:21976	inCount:0	outCount:1	links:	url:C021976	name:cholesteryl linoleate	normalName:cholesteryl linoleate	normalWikiTitle:cholesteryl linoleate	predictedType:Chemical
+CANDIDATE	id:2788	inCount:80	outCount:1	links:	url:D002788	name:Esters, Cholesteryl	normalName:esters, cholesteryl	normalWikiTitle:esters, cholesteryl	predictedType:Chemical
+ENTITY	text:cholesteryl esters	normalName:cholesteryl esters	predictedType:chemical	q:true	qid:Q417	docId:17879945	origText:cholesteryl esters	url:D002788
+CANDIDATE	id:2788	inCount:80	outCount:1	links:	url:D002788	name:Cholesteryl Esters	normalName:cholesteryl esters	normalWikiTitle:cholesteryl esters	predictedType:Chemical
+CANDIDATE	id:2788	inCount:80	outCount:1	links:	url:D002788	name:Cholesterol Esters	normalName:cholesterol esters	normalWikiTitle:cholesterol esters	predictedType:Chemical
+CANDIDATE	id:59714	inCount:0	outCount:1	links:	url:C059714	name:HDL cholesteryl ester	normalName:hdl cholesteryl ester	normalWikiTitle:hdl cholesteryl ester	predictedType:Chemical
+CANDIDATE	id:14409	inCount:0	outCount:1	links:	url:C014409	name:cholesteryl oleate	normalName:cholesteryl oleate	normalWikiTitle:cholesteryl oleate	predictedType:Chemical
+CANDIDATE	id:76149	inCount:0	outCount:1	links:	url:C076149	name:cholesterylene	normalName:cholesterylene	normalWikiTitle:cholesterylene	predictedType:Chemical
+CANDIDATE	id:7045	inCount:0	outCount:1	links:	url:C007045	name:cholesteryl sulfate	normalName:cholesteryl sulfate	normalWikiTitle:cholesteryl sulfate	predictedType:Chemical
+CANDIDATE	id:110341	inCount:0	outCount:1	links:	url:C110341	name:cholesterol stearate	normalName:cholesterol stearate	normalWikiTitle:cholesterol stearate	predictedType:Chemical
+CANDIDATE	id:29809	inCount:0	outCount:1	links:	url:C029809	name:cholesteryl valerate	normalName:cholesteryl valerate	normalWikiTitle:cholesteryl valerate	predictedType:Chemical
+CANDIDATE	id:23511	inCount:0	outCount:1	links:	url:C023511	name:cholesteryl oleyl ether	normalName:cholesteryl oleyl ether	normalWikiTitle:cholesteryl oleyl ether	predictedType:Chemical
+CANDIDATE	id:48982	inCount:0	outCount:1	links:	url:C048982	name:cholesteryl hexyl ether	normalName:cholesteryl hexyl ether	normalWikiTitle:cholesteryl hexyl ether	predictedType:Chemical
+CANDIDATE	id:21976	inCount:0	outCount:1	links:	url:C021976	name:cholesteryl linoleate	normalName:cholesteryl linoleate	normalWikiTitle:cholesteryl linoleate	predictedType:Chemical
+CANDIDATE	id:2788	inCount:80	outCount:1	links:	url:D002788	name:Esters, Cholesteryl	normalName:esters, cholesteryl	normalWikiTitle:esters, cholesteryl	predictedType:Chemical
+ENTITY	text:ethanol	normalName:ethanol	predictedType:chemical	q:true	qid:Q417	docId:17879945	origText:ethanol	url:D000431
+CANDIDATE	id:431	inCount:62	outCount:1	links:11374	url:D000431	name:Ethanol	normalName:ethanol	normalWikiTitle:ethanol	predictedType:Chemical

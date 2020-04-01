@@ -1,0 +1,4 @@
+ENTITY	text:cyclophosphamide	normalName:cyclophosphamide	predictedType:chemical	q:true	qid:Q303	docId:1545575	origText:cyclophosphamide	url:D003520
+CANDIDATE	id:3520	inCount:474	outCount:1	links:	url:D003520	name:Cyclophosphamide	normalName:cyclophosphamide	normalWikiTitle:cyclophosphamide	predictedType:Chemical
+ENTITY	text:mesna	normalName:mesna	predictedType:chemical	q:true	qid:Q303	docId:1545575	origText:mesna	url:D015080
+CANDIDATE	id:15080	inCount:22	outCount:2	links:	url:D015080	name:Mesna	normalName:mesna	normalWikiTitle:mesna	predictedType:Chemical

@@ -1,0 +1,6 @@
+ENTITY	text:isoproterenol	normalName:isoproterenol	predictedType:chemical	q:true	qid:Q823	docId:2870085	origText:isoproterenol	url:D007545
+CANDIDATE	id:7545	inCount:12	outCount:2	links:	url:D007545	name:Isoproterenol	normalName:isoproterenol	normalWikiTitle:isoproterenol	predictedType:Chemical
+ENTITY	text:Flestolol	normalName:flestolol	predictedType:chemical	q:true	qid:Q823	docId:2870085	origText:Flestolol	url:C047847
+CANDIDATE	id:47847	inCount:0	outCount:2	links:47847	url:C047847	name:flestolol	normalName:flestolol	normalWikiTitle:flestolol	predictedType:Chemical
+ENTITY	text:ACC-9089	normalName:acc-9089	predictedType:chemical	q:true	qid:Q823	docId:2870085	origText:ACC-9089	url:C047847
+CANDIDATE	id:47847	inCount:0	outCount:2	links:47847	url:C047847	name:ACC-9089	normalName:acc-9089	normalWikiTitle:acc-9089	predictedType:Chemical

@@ -1,0 +1,21 @@
+ENTITY	text:arrhythmia	normalName:arrhythmia	predictedType:disease	q:true	qid:Q435	docId:1280707	origText:arrhythmia	url:D001145
+CANDIDATE	id:1145	inCount:27	outCount:2	links:1145	url:D001145	name:Arrhythmia	normalName:arrhythmia	normalWikiTitle:arrhythmia	predictedType:Disease
+ENTITY	text:arrhythmic	normalName:arrhythmic	predictedType:disease	q:true	qid:Q435	docId:1280707	origText:arrhythmic	url:D001145
+CANDIDATE	id:1145	inCount:27	outCount:2	links:1145	url:D001145	name:Arrhythmia, Cardiac	normalName:arrhythmia, cardiac	normalWikiTitle:arrhythmia, cardiac	predictedType:Disease
+CANDIDATE	id:1145	inCount:27	outCount:2	links:1145	url:D001145	name:Arrhythmias, Cardiac	normalName:arrhythmias, cardiac	normalWikiTitle:arrhythmias, cardiac	predictedType:Disease
+CANDIDATE	id:1146	inCount:2	outCount:1	links:	url:D001146	name:Arrhythmia, Sinus	normalName:arrhythmia, sinus	normalWikiTitle:arrhythmia, sinus	predictedType:Disease
+CANDIDATE	id:9896	inCount:24	outCount:1	links:	url:D009896	name:Optic Atrophy	normalName:optic atrophy	normalWikiTitle:optic atrophy	predictedType:Disease
+CANDIDATE	id:7035	inCount:2	outCount:1	links:	url:D007035	name:Hypothermia	normalName:hypothermia	normalWikiTitle:hypothermia	predictedType:Disease
+CANDIDATE	id:19263	inCount:0	outCount:1	links:	url:D019263	name:Dysthymic Disorder	normalName:dysthymic disorder	normalWikiTitle:dysthymic disorder	predictedType:Disease
+CANDIDATE	id:311050	inCount:0	outCount:1	links:	url:311050	name:OPTIC ATROPHY 2	normalName:optic atrophy 2	normalWikiTitle:optic atrophy 2	predictedType:Disease
+CANDIDATE	id:565343	inCount:0	outCount:1	links:	url:C565343	name:Optic Atrophy 4	normalName:optic atrophy 4	normalWikiTitle:optic atrophy 4	predictedType:Disease
+CANDIDATE	id:537126	inCount:0	outCount:1	links:	url:C537126	name:Optic atrophy 5	normalName:optic atrophy 5	normalWikiTitle:optic atrophy 5	predictedType:Disease
+CANDIDATE	id:4890	inCount:11	outCount:2	links:	url:D004890	name:Erythema	normalName:erythema	normalWikiTitle:erythema	predictedType:Disease
+CANDIDATE	id:567833	inCount:0	outCount:1	links:	url:C567833	name:Optic Atrophy 7	normalName:optic atrophy 7	normalWikiTitle:optic atrophy 7	predictedType:Disease
+CANDIDATE	id:1145	inCount:27	outCount:2	links:1145	url:D001145	name:Arrhythmia	normalName:arrhythmia	normalWikiTitle:arrhythmia	predictedType:Disease
+CANDIDATE	id:1145	inCount:27	outCount:2	links:1145	url:D001145	name:Arrythmia	normalName:arrythmia	normalWikiTitle:arrythmia	predictedType:Disease
+CANDIDATE	id:13036	inCount:49	outCount:2	links:	url:D013036	name:Hypsarrhythmia	normalName:hypsarrhythmia	normalWikiTitle:hypsarrhythmia	predictedType:Disease
+CANDIDATE	id:13036	inCount:49	outCount:2	links:	url:D013036	name:Hypsarrhythmias	normalName:hypsarrhythmias	normalWikiTitle:hypsarrhythmias	predictedType:Disease
+CANDIDATE	id:1919	inCount:0	outCount:1	links:	url:D001919	name:Bradyarrhythmia	normalName:bradyarrhythmia	normalWikiTitle:bradyarrhythmia	predictedType:Disease
+CANDIDATE	id:13610	inCount:7	outCount:2	links:	url:D013610	name:Tachyarrhythmia	normalName:tachyarrhythmia	normalWikiTitle:tachyarrhythmia	predictedType:Disease
+CANDIDATE	id:1145	inCount:27	outCount:2	links:1145	url:D001145	name:Cardiac Arrhythmia	normalName:cardiac arrhythmia	normalWikiTitle:cardiac arrhythmia	predictedType:Disease

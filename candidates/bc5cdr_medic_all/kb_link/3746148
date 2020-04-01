@@ -1,0 +1,80 @@
+ENTITY	text:coronary artery disease	normalName:coronary artery disease	predictedType:disease	q:true	qid:Q386	docId:3746148	origText:coronary artery disease	url:D003324
+CANDIDATE	id:3324	inCount:4	outCount:2	links:	url:D003324	name:Coronary Artery Disease	normalName:coronary artery disease	normalWikiTitle:coronary artery disease	predictedType:Disease
+ENTITY	text:myocardial ischemia	normalName:myocardial ischemia	predictedType:disease	q:true	qid:Q386	docId:3746148	origText:myocardial ischemia	url:D017202
+CANDIDATE	id:17202	inCount:6	outCount:2	links:17202	url:D017202	name:Myocardial Ischemia	normalName:myocardial ischemia	normalWikiTitle:myocardial ischemia	predictedType:Disease
+ENTITY	text:ischemic	normalName:ischemic	predictedType:disease	q:true	qid:Q386	docId:3746148	origText:ischemic	url:D007511
+CANDIDATE	id:7511	inCount:3	outCount:1	links:	url:D007511	name:Ischemia	normalName:ischemia	normalWikiTitle:ischemia	predictedType:Disease
+CANDIDATE	id:17091	inCount:0	outCount:2	links:	url:D017091	name:Colitis, Ischemic	normalName:colitis, ischemic	normalWikiTitle:colitis, ischemic	predictedType:Disease
+CANDIDATE	id:2545	inCount:4	outCount:1	links:	url:D002545	name:Brain Ischemia	normalName:brain ischemia	normalWikiTitle:brain ischemia	predictedType:Disease
+CANDIDATE	id:2057	inCount:0	outCount:1	links:	url:D002057	name:Burns, Chemical	normalName:burns, chemical	normalWikiTitle:burns, chemical	predictedType:Disease
+CANDIDATE	id:65666	inCount:0	outCount:3	links:	url:D065666	name:Mesenteric Ischemia	normalName:mesenteric ischemia	normalWikiTitle:mesenteric ischemia	predictedType:Disease
+CANDIDATE	id:17202	inCount:6	outCount:2	links:17202	url:D017202	name:Myocardial Ischemia	normalName:myocardial ischemia	normalWikiTitle:myocardial ischemia	predictedType:Disease
+CANDIDATE	id:54061	inCount:0	outCount:2	links:	url:D054061	name:Ischemic Contracture	normalName:ischemic contracture	normalWikiTitle:ischemic contracture	predictedType:Disease
+CANDIDATE	id:12216	inCount:9	outCount:2	links:	url:D012216	name:Rheumatic Diseases	normalName:rheumatic diseases	normalWikiTitle:rheumatic diseases	predictedType:Disease
+CANDIDATE	id:14766	inCount:1	outCount:2	links:	url:D014766	name:Viremia	normalName:viremia	normalWikiTitle:viremia	predictedType:Disease
+ENTITY	text:anterior infarction	normalName:anterior infarction	predictedType:disease	q:true	qid:Q386	docId:3746148	origText:anterior infarction	url:D056988
+CANDIDATE	id:56988	inCount:0	outCount:1	links:	url:D056988	name:Anterior Wall Myocardial Infarction	normalName:anterior wall myocardial infarction	normalWikiTitle:anterior wall myocardial infarction	predictedType:Disease
+CANDIDATE	id:2544	inCount:5	outCount:1	links:	url:D002544	name:Cerebral Infarction	normalName:cerebral infarction	normalWikiTitle:cerebral infarction	predictedType:Disease
+CANDIDATE	id:20520	inCount:2	outCount:2	links:	url:D020520	name:Brain Infarction	normalName:brain infarction	normalWikiTitle:brain infarction	predictedType:Disease
+CANDIDATE	id:4769	inCount:8	outCount:1	links:	url:D004769	name:Enterovirus Infections	normalName:enterovirus infections	normalWikiTitle:enterovirus infections	predictedType:Disease
+CANDIDATE	id:18174	inCount:1	outCount:1	links:	url:D018174	name:Arterivirus Infections	normalName:arterivirus infections	normalWikiTitle:arterivirus infections	predictedType:Disease
+CANDIDATE	id:1424	inCount:12	outCount:1	links:	url:D001424	name:Bacterial Infections	normalName:bacterial infections	normalWikiTitle:bacterial infections	predictedType:Disease
+CANDIDATE	id:20243	inCount:0	outCount:2	links:	url:D020243	name:Infarction, Anterior Cerebral Artery	normalName:infarction, anterior cerebral artery	normalWikiTitle:infarction, anterior cerebral artery	predictedType:Disease
+CANDIDATE	id:18778	inCount:2	outCount:1	links:	url:D018778	name:Hantavirus Infections	normalName:hantavirus infections	normalWikiTitle:hantavirus infections	predictedType:Disease
+CANDIDATE	id:7238	inCount:0	outCount:2	links:7238	url:D007238	name:Infarction	normalName:infarction	normalWikiTitle:infarction	predictedType:Disease
+CANDIDATE	id:14606	inCount:3	outCount:1	links:	url:D014606	name:Uveitis, Anterior	normalName:uveitis, anterior	normalWikiTitle:uveitis, anterior	predictedType:Disease
+CANDIDATE	id:20526	inCount:2	outCount:1	links:	url:D020526	name:Brainstem Infarction	normalName:brainstem infarction	normalWikiTitle:brainstem infarction	predictedType:Disease
+CANDIDATE	id:20526	inCount:2	outCount:1	links:	url:D020526	name:Infarction, Brainstem	normalName:infarction, brainstem	normalWikiTitle:infarction, brainstem	predictedType:Disease
+CANDIDATE	id:4769	inCount:8	outCount:1	links:	url:D004769	name:Infection, Enterovirus	normalName:infection, enterovirus	normalWikiTitle:infection, enterovirus	predictedType:Disease
+CANDIDATE	id:18174	inCount:1	outCount:1	links:	url:D018174	name:Arterivirus Infection	normalName:arterivirus infection	normalWikiTitle:arterivirus infection	predictedType:Disease
+CANDIDATE	id:18174	inCount:1	outCount:1	links:	url:D018174	name:Infection, Arterivirus	normalName:infection, arterivirus	normalWikiTitle:infection, arterivirus	predictedType:Disease
+CANDIDATE	id:20526	inCount:2	outCount:1	links:	url:D020526	name:Infarctions, Brainstem	normalName:infarctions, brainstem	normalWikiTitle:infarctions, brainstem	predictedType:Disease
+CANDIDATE	id:20526	inCount:2	outCount:1	links:	url:D020526	name:Brainstem Infarctions	normalName:brainstem infarctions	normalWikiTitle:brainstem infarctions	predictedType:Disease
+CANDIDATE	id:4769	inCount:8	outCount:1	links:	url:D004769	name:Enterovirus Infection	normalName:enterovirus infection	normalWikiTitle:enterovirus infection	predictedType:Disease
+ENTITY	text:inferior infarction	normalName:inferior infarction	predictedType:disease	q:true	qid:Q386	docId:3746148	origText:inferior infarction	url:D056989
+CANDIDATE	id:56989	inCount:0	outCount:1	links:	url:D056989	name:Infarctions, Inferior Myocardial	normalName:infarctions, inferior myocardial	normalWikiTitle:infarctions, inferior myocardial	predictedType:Disease
+CANDIDATE	id:14735	inCount:2	outCount:1	links:	url:D014735	name:Vibrio Infections	normalName:vibrio infections	normalWikiTitle:vibrio infections	predictedType:Disease
+CANDIDATE	id:56989	inCount:0	outCount:1	links:	url:D056989	name:Inferior Wall Myocardial Infarction	normalName:inferior wall myocardial infarction	normalWikiTitle:inferior wall myocardial infarction	predictedType:Disease
+CANDIDATE	id:13159	inCount:0	outCount:2	links:	url:D013159	name:Splenic Infarction	normalName:splenic infarction	normalWikiTitle:splenic infarction	predictedType:Disease
+CANDIDATE	id:7238	inCount:0	outCount:2	links:7238	url:D007238	name:Infarction	normalName:infarction	normalWikiTitle:infarction	predictedType:Disease
+CANDIDATE	id:54060	inCount:0	outCount:1	links:	url:D054060	name:Pulmonary Infarction	normalName:pulmonary infarction	normalWikiTitle:pulmonary infarction	predictedType:Disease
+CANDIDATE	id:9203	inCount:8	outCount:1	links:9203	url:D009203	name:Myocardial Infarction	normalName:myocardial infarction	normalWikiTitle:myocardial infarction	predictedType:Disease
+CANDIDATE	id:30341	inCount:2	outCount:1	links:	url:D030341	name:Nidovirales Infections	normalName:nidovirales infections	normalWikiTitle:nidovirales infections	predictedType:Disease
+CANDIDATE	id:34161	inCount:1	outCount:1	links:	url:D034161	name:Pelvic Infection	normalName:pelvic infection	normalWikiTitle:pelvic infection	predictedType:Disease
+CANDIDATE	id:9617	inCount:1	outCount:1	links:	url:D009617	name:Nocardia Infections	normalName:nocardia infections	normalWikiTitle:nocardia infections	predictedType:Disease
+CANDIDATE	id:16868	inCount:0	outCount:1	links:	url:D016868	name:Serratia Infections	normalName:serratia infections	normalWikiTitle:serratia infections	predictedType:Disease
+CANDIDATE	id:56989	inCount:0	outCount:1	links:	url:D056989	name:Myocardial Infarction, Inferior	normalName:myocardial infarction, inferior	normalWikiTitle:myocardial infarction, inferior	predictedType:Disease
+CANDIDATE	id:56989	inCount:0	outCount:1	links:	url:D056989	name:Infarction, Inferior Myocardial	normalName:infarction, inferior myocardial	normalWikiTitle:infarction, inferior myocardial	predictedType:Disease
+CANDIDATE	id:56989	inCount:0	outCount:1	links:	url:D056989	name:Inferior Myocardial Infarction	normalName:inferior myocardial infarction	normalWikiTitle:inferior myocardial infarction	predictedType:Disease
+CANDIDATE	id:4204	inCount:15	outCount:2	links:	url:D004204	name:Inferior Dislocation	normalName:inferior dislocation	normalWikiTitle:inferior dislocation	predictedType:Disease
+CANDIDATE	id:56989	inCount:0	outCount:1	links:	url:D056989	name:Myocardial Infarctions, Inferior	normalName:myocardial infarctions, inferior	normalWikiTitle:myocardial infarctions, inferior	predictedType:Disease
+CANDIDATE	id:56989	inCount:0	outCount:1	links:	url:D056989	name:Inferior Myocardial Infarctions	normalName:inferior myocardial infarctions	normalWikiTitle:inferior myocardial infarctions	predictedType:Disease
+CANDIDATE	id:4204	inCount:15	outCount:2	links:	url:D004204	name:Inferior Dislocations	normalName:inferior dislocations	normalWikiTitle:inferior dislocations	predictedType:Disease
+CANDIDATE	id:14735	inCount:2	outCount:1	links:	url:D014735	name:Infection, Vibrio	normalName:infection, vibrio	normalWikiTitle:infection, vibrio	predictedType:Disease
+CANDIDATE	id:14735	inCount:2	outCount:1	links:	url:D014735	name:Vibrio Infection	normalName:vibrio infection	normalWikiTitle:vibrio infection	predictedType:Disease
+ENTITY	text:myocardial infarction	normalName:myocardial infarction	predictedType:disease	q:true	qid:Q386	docId:3746148	origText:myocardial infarction	url:D009203
+CANDIDATE	id:9203	inCount:8	outCount:1	links:9203	url:D009203	name:Myocardial Infarction	normalName:myocardial infarction	normalWikiTitle:myocardial infarction	predictedType:Disease
+ENTITY	text:depression	normalName:depression	predictedType:disease	q:true	qid:Q386	docId:3746148	origText:depression	url:D003866
+CANDIDATE	id:3866	inCount:6	outCount:1	links:	url:D003866	name:Depressive Disorder	normalName:depressive disorder	normalWikiTitle:depressive disorder	predictedType:Disease
+CANDIDATE	id:18450	inCount:2	outCount:1	links:	url:D018450	name:Disease Progression	normalName:disease progression	normalWikiTitle:disease progression	predictedType:Disease
+CANDIDATE	id:19052	inCount:0	outCount:2	links:	url:D019052	name:Depression, Postpartum	normalName:depression, postpartum	normalWikiTitle:depression, postpartum	predictedType:Disease
+CANDIDATE	id:146850	inCount:0	outCount:2	links:	url:146850	name:IMMUNE SUPPRESSION	normalName:immune suppression	normalWikiTitle:immune suppression	predictedType:Disease
+CANDIDATE	id:6973	inCount:18	outCount:1	links:	url:D006973	name:Hypertension	normalName:hypertension	normalWikiTitle:hypertension	predictedType:Disease
+CANDIDATE	id:58246	inCount:0	outCount:1	links:	url:D058246	name:Prehypertension	normalName:prehypertension	normalWikiTitle:prehypertension	predictedType:Disease
+CANDIDATE	id:14786	inCount:19	outCount:2	links:	url:D014786	name:Vision Disorders	normalName:vision disorders	normalWikiTitle:vision disorders	predictedType:Disease
+CANDIDATE	id:3665	inCount:0	outCount:1	links:	url:D003665	name:Decompression Sickness	normalName:decompression sickness	normalWikiTitle:decompression sickness	predictedType:Disease
+CANDIDATE	id:12871	inCount:71	outCount:1	links:	url:D012871	name:Skin Diseases	normalName:skin diseases	normalWikiTitle:skin diseases	predictedType:Disease
+CANDIDATE	id:4688	inCount:1	outCount:2	links:	url:D004688	name:Encopresis	normalName:encopresis	normalWikiTitle:encopresis	predictedType:Disease
+CANDIDATE	id:1714	inCount:11	outCount:1	links:	url:D001714	name:Depression, Bipolar	normalName:depression, bipolar	normalWikiTitle:depression, bipolar	predictedType:Disease
+CANDIDATE	id:1714	inCount:11	outCount:1	links:	url:D001714	name:Bipolar Depression	normalName:bipolar depression	normalWikiTitle:bipolar depression	predictedType:Disease
+ENTITY	text:MI	normalName:mi	predictedType:disease	q:true	qid:Q386	docId:3746148	origText:MI	url:D009203
+CANDIDATE	id:9203	inCount:8	outCount:1	links:9203	url:D009203	name:MCI2	normalName:mci2	normalWikiTitle:mci2	predictedType:Disease
+CANDIDATE	id:300337	inCount:0	outCount:2	links:	url:300337	name:HMI	normalName:hmi	normalWikiTitle:hmi	predictedType:Disease
+CANDIDATE	id:564108	inCount:0	outCount:2	links:	url:C564108	name:MDI	normalName:mdi	normalWikiTitle:mdi	predictedType:Disease
+CANDIDATE	id:535689	inCount:0	outCount:4	links:	url:C535689	name:MIP	normalName:mip	normalWikiTitle:mip	predictedType:Disease
+CANDIDATE	id:535689	inCount:0	outCount:4	links:	url:C535689	name:TMIP	normalName:tmip	normalWikiTitle:tmip	predictedType:Disease
+CANDIDATE	id:4831	inCount:17	outCount:2	links:	url:D004831	name:SMEI	normalName:smei	normalWikiTitle:smei	predictedType:Disease
+CANDIDATE	id:155310	inCount:0	outCount:2	links:	url:155310	name:MMIH	normalName:mmih	normalWikiTitle:mmih	predictedType:Disease
+CANDIDATE	id:567832	inCount:0	outCount:1	links:	url:C567832	name:MIAR	normalName:miar	normalWikiTitle:miar	predictedType:Disease
+CANDIDATE	id:614817	inCount:0	outCount:1	links:	url:614817	name:KMIN	normalName:kmin	normalWikiTitle:kmin	predictedType:Disease
+CANDIDATE	id:536266	inCount:0	outCount:2	links:	url:C536266	name:MNRI	normalName:mnri	normalWikiTitle:mnri	predictedType:Disease

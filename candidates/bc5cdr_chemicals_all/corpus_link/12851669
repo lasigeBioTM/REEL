@@ -1,0 +1,18 @@
+ENTITY	text:levonorgestrel	normalName:levonorgestrel	predictedType:chemical	q:true	qid:Q534	docId:12851669	origText:levonorgestrel	url:D016912
+CANDIDATE	id:16912	inCount:6	outCount:1	links:	url:D016912	name:Levonorgestrel	normalName:levonorgestrel	normalWikiTitle:levonorgestrel	predictedType:Chemical
+ENTITY	text:ethinylestradiol	normalName:ethinylestradiol	predictedType:chemical	q:true	qid:Q534	docId:12851669	origText:ethinylestradiol	url:D004997
+CANDIDATE	id:4997	inCount:62	outCount:2	links:17373;3277	url:D004997	name:Ethinyloestradiol	normalName:ethinyloestradiol	normalWikiTitle:ethinyloestradiol	predictedType:Chemical
+CANDIDATE	id:121824	inCount:0	outCount:1	links:	url:C121824	name:ethylenestradiol	normalName:ethylenestradiol	normalWikiTitle:ethylenestradiol	predictedType:Chemical
+CANDIDATE	id:37233	inCount:0	outCount:1	links:	url:C037233	name:2-methylestradiol	normalName:2-methylestradiol	normalWikiTitle:2-methylestradiol	predictedType:Chemical
+CANDIDATE	id:47107	inCount:0	outCount:1	links:	url:C047107	name:17-ethylestradiol	normalName:17-ethylestradiol	normalWikiTitle:17-ethylestradiol	predictedType:Chemical
+CANDIDATE	id:37234	inCount:0	outCount:1	links:	url:C037234	name:4-methylestradiol	normalName:4-methylestradiol	normalWikiTitle:4-methylestradiol	predictedType:Chemical
+CANDIDATE	id:38254	inCount:0	outCount:1	links:	url:C038254	name:17-methylestradiol	normalName:17-methylestradiol	normalWikiTitle:17-methylestradiol	predictedType:Chemical
+CANDIDATE	id:2911	inCount:0	outCount:1	links:	url:C002911	name:8-azaethynylestradiol	normalName:8-azaethynylestradiol	normalWikiTitle:8-azaethynylestradiol	predictedType:Chemical
+CANDIDATE	id:466764	inCount:0	outCount:1	links:	url:C466764	name:7-thiophenylestradiol	normalName:7-thiophenylestradiol	normalWikiTitle:7-thiophenylestradiol	predictedType:Chemical
+CANDIDATE	id:36992	inCount:0	outCount:1	links:	url:C036992	name:17-bromoethinylestradiol	normalName:17-bromoethinylestradiol	normalWikiTitle:17-bromoethinylestradiol	predictedType:Chemical
+CANDIDATE	id:532422	inCount:0	outCount:1	links:	url:C532422	name:2-ethoxyestradiol	normalName:2-ethoxyestradiol	normalWikiTitle:2-ethoxyestradiol	predictedType:Chemical
+CANDIDATE	id:12668	inCount:0	outCount:1	links:	url:C012668	name:18-methylethinylestradiol	normalName:18-methylethinylestradiol	normalWikiTitle:18-methylethinylestradiol	predictedType:Chemical
+ENTITY	text:cyproterone acetate	normalName:cyproterone acetate	predictedType:chemical	q:true	qid:Q534	docId:12851669	origText:cyproterone acetate	url:D017373
+CANDIDATE	id:17373	inCount:5	outCount:1	links:4997;3277	url:D017373	name:Cyproterone Acetate	normalName:cyproterone acetate	normalWikiTitle:cyproterone acetate	predictedType:Chemical
+ENTITY	text:combined oral contraceptives	normalName:combined oral contraceptives	predictedType:chemical	q:true	qid:Q534	docId:12851669	origText:combined oral contraceptives	url:D003277
+CANDIDATE	id:3277	inCount:0	outCount:1	links:17373;4997	url:D003277	name:Contraceptives, Oral, Combined	normalName:contraceptives, oral, combined	normalWikiTitle:contraceptives, oral, combined	predictedType:Chemical

@@ -1,0 +1,14 @@
+ENTITY	text:lead	normalName:lead	predictedType:chemical	q:true	qid:Q397	docId:10523326	origText:lead	url:D007854
+CANDIDATE	id:7854	inCount:31	outCount:1	links:	url:D007854	name:Lead	normalName:lead	normalWikiTitle:lead	predictedType:Chemical
+ENTITY	text:Nitric oxide	normalName:nitric oxide	predictedType:chemical	q:true	qid:Q397	docId:10523326	origText:Nitric oxide	url:D009569
+CANDIDATE	id:9569	inCount:13	outCount:3	links:	url:D009569	name:Nitric Oxide	normalName:nitric oxide	normalWikiTitle:nitric oxide	predictedType:Chemical
+ENTITY	text:oxygen	normalName:oxygen	predictedType:chemical	q:true	qid:Q397	docId:10523326	origText:oxygen	url:D010100
+CANDIDATE	id:10100	inCount:11	outCount:2	links:	url:D010100	name:Oxygen	normalName:oxygen	normalWikiTitle:oxygen	predictedType:Chemical
+ENTITY	text:nitrotyrosine	normalName:nitrotyrosine	predictedType:chemical	q:true	qid:Q397	docId:10523326	origText:nitrotyrosine	url:C002744
+CANDIDATE	id:2744	inCount:0	outCount:1	links:	url:C002744	name:nitrotyrosine	normalName:nitrotyrosine	normalWikiTitle:nitrotyrosine	predictedType:Chemical
+ENTITY	text:lead acetate	normalName:lead acetate	predictedType:chemical	q:true	qid:Q397	docId:10523326	origText:lead acetate	url:C008261
+CANDIDATE	id:8261	inCount:0	outCount:1	links:	url:C008261	name:lead acetate	normalName:lead acetate	normalWikiTitle:lead acetate	predictedType:Chemical
+ENTITY	text:malondialdehyde	normalName:malondialdehyde	predictedType:chemical	q:true	qid:Q397	docId:10523326	origText:malondialdehyde	url:D008315
+CANDIDATE	id:8315	inCount:11	outCount:1	links:	url:D008315	name:Malondialdehyde	normalName:malondialdehyde	normalWikiTitle:malondialdehyde	predictedType:Chemical
+ENTITY	text:vitamin E	normalName:vitamin e	predictedType:chemical	q:true	qid:Q397	docId:10523326	origText:vitamin E	url:D014810
+CANDIDATE	id:14810	inCount:73	outCount:1	links:	url:D014810	name:Vitamin E	normalName:vitamin e	normalWikiTitle:vitamin e	predictedType:Chemical

@@ -1,0 +1,4 @@
+ENTITY	text:dobutamine	normalName:dobutamine	predictedType:chemical	q:true	qid:Q20	docId:11078231	origText:dobutamine	url:D004280
+CANDIDATE	id:4280	inCount:2	outCount:2	links:	url:D004280	name:Dobutamine	normalName:dobutamine	normalWikiTitle:dobutamine	predictedType:Chemical
+ENTITY	text:acetylcholine	normalName:acetylcholine	predictedType:chemical	q:true	qid:Q20	docId:11078231	origText:acetylcholine	url:D000109
+CANDIDATE	id:109	inCount:23	outCount:1	links:	url:D000109	name:Acetylcholine	normalName:acetylcholine	normalWikiTitle:acetylcholine	predictedType:Chemical

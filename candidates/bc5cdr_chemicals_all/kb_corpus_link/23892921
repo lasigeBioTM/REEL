@@ -1,0 +1,4 @@
+ENTITY	text:dexamethasone	normalName:dexamethasone	predictedType:chemical	q:true	qid:Q858	docId:23892921	origText:dexamethasone	url:D003907
+CANDIDATE	id:3907	inCount:138	outCount:2	links:13792	url:D003907	name:Dexamethasone	normalName:dexamethasone	normalWikiTitle:dexamethasone	predictedType:Chemical
+ENTITY	text:thalidomide	normalName:thalidomide	predictedType:chemical	q:true	qid:Q858	docId:23892921	origText:thalidomide	url:D013792
+CANDIDATE	id:13792	inCount:36	outCount:2	links:3907	url:D013792	name:Thalidomide	normalName:thalidomide	normalWikiTitle:thalidomide	predictedType:Chemical

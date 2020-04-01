@@ -1,0 +1,6 @@
+ENTITY	text:doxorubicin	normalName:doxorubicin	predictedType:chemical	q:true	qid:Q50	docId:11230490	origText:doxorubicin	url:D004317
+CANDIDATE	id:4317	inCount:559	outCount:1	links:3520	url:D004317	name:Doxorubicin	normalName:doxorubicin	normalWikiTitle:doxorubicin	predictedType:Chemical
+ENTITY	text:cyclophosphamide	normalName:cyclophosphamide	predictedType:chemical	q:true	qid:Q50	docId:11230490	origText:cyclophosphamide	url:D003520
+CANDIDATE	id:3520	inCount:474	outCount:1	links:4317	url:D003520	name:Cyclophosphamide	normalName:cyclophosphamide	normalWikiTitle:cyclophosphamide	predictedType:Chemical
+ENTITY	text:Myocet	normalName:myocet	predictedType:chemical	q:true	qid:Q50	docId:11230490	origText:Myocet	url:D004317
+CANDIDATE	id:4317	inCount:559	outCount:1	links:3520	url:D004317	name:Myocet	normalName:myocet	normalWikiTitle:myocet	predictedType:Chemical

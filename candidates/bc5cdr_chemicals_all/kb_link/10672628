@@ -1,0 +1,29 @@
+ENTITY	text:Nitric oxide	normalName:nitric oxide	predictedType:chemical	q:true	qid:Q1419	docId:10672628	origText:Nitric oxide	url:D009569
+CANDIDATE	id:9569	inCount:13	outCount:3	links:9569	url:D009569	name:Nitric Oxide	normalName:nitric oxide	normalWikiTitle:nitric oxide	predictedType:Chemical
+ENTITY	text:haloperidol	normalName:haloperidol	predictedType:chemical	q:true	qid:Q1419	docId:10672628	origText:haloperidol	url:D006220
+CANDIDATE	id:6220	inCount:24	outCount:1	links:	url:D006220	name:Haloperidol	normalName:haloperidol	normalWikiTitle:haloperidol	predictedType:Chemical
+ENTITY	text:L-NOARG	normalName:l-noarg	predictedType:chemical	q:true	qid:Q1419	docId:10672628	origText:L-NOARG	url:D019335
+CANDIDATE	id:19335	inCount:4	outCount:1	links:19335	url:D019335	name:NO2Arg	normalName:no2arg	normalWikiTitle:no2arg	predictedType:Chemical
+CANDIDATE	id:102260	inCount:0	outCount:1	links:	url:C102260	name:NOR 4	normalName:nor 4	normalWikiTitle:nor 4	predictedType:Chemical
+CANDIDATE	id:634460	inCount:0	outCount:2	links:	url:C000634460	name:NOTA-PRGD2	normalName:nota-prgd2	normalWikiTitle:nota-prgd2	predictedType:Chemical
+CANDIDATE	id:87245	inCount:0	outCount:1	links:	url:C087245	name:orange oil	normalName:orange oil	normalWikiTitle:orange oil	predictedType:Chemical
+CANDIDATE	id:542916	inCount:0	outCount:1	links:	url:C542916	name:novaron	normalName:novaron	normalWikiTitle:novaron	predictedType:Chemical
+CANDIDATE	id:605332	inCount:0	outCount:1	links:	url:C000605332	name:NOX-L41	normalName:nox-l41	normalWikiTitle:nox-l41	predictedType:Chemical
+CANDIDATE	id:618614	inCount:0	outCount:2	links:	url:C000618614	name:Levorag	normalName:levorag	normalWikiTitle:levorag	predictedType:Chemical
+CANDIDATE	id:1451	inCount:0	outCount:2	links:	url:C001451	name:Innovar	normalName:innovar	normalWikiTitle:innovar	predictedType:Chemical
+CANDIDATE	id:517149	inCount:0	outCount:1	links:	url:C517149	name:NA-LMWH	normalName:na-lmwh	normalWikiTitle:na-lmwh	predictedType:Chemical
+CANDIDATE	id:63711	inCount:0	outCount:1	links:	url:C063711	name:NodRM-1	normalName:nodrm-1	normalWikiTitle:nodrm-1	predictedType:Chemical
+CANDIDATE	id:581171	inCount:0	outCount:1	links:	url:C581171	name:lobarin	normalName:lobarin	normalWikiTitle:lobarin	predictedType:Chemical
+CANDIDATE	id:19335	inCount:4	outCount:1	links:19335	url:D019335	name:NOARG	normalName:noarg	normalWikiTitle:noarg	predictedType:Chemical
+CANDIDATE	id:65472	inCount:0	outCount:2	links:	url:C065472	name:LUM-NAG	normalName:lum-nag	normalWikiTitle:lum-nag	predictedType:Chemical
+CANDIDATE	id:465027	inCount:0	outCount:1	links:	url:C465027	name:nor-LSD	normalName:nor-lsd	normalWikiTitle:nor-lsd	predictedType:Chemical
+ENTITY	text:nitric-oxide	normalName:nitric-oxide	predictedType:chemical	q:true	qid:Q1419	docId:10672628	origText:nitric-oxide	url:D009569
+CANDIDATE	id:9569	inCount:13	outCount:3	links:9569	url:D009569	name:Nitric Oxide	normalName:nitric oxide	normalWikiTitle:nitric oxide	predictedType:Chemical
+ENTITY	text:NG-nitro-L-arginine	normalName:ng-nitro-l-arginine	predictedType:chemical	q:true	qid:Q1419	docId:10672628	origText:NG-nitro-L-arginine	url:D019335
+CANDIDATE	id:19335	inCount:4	outCount:1	links:19335	url:D019335	name:NG-Nitro-L-Arginine	normalName:ng-nitro-l-arginine	normalWikiTitle:ng-nitro-l-arginine	predictedType:Chemical
+ENTITY	text:dopamine	normalName:dopamine	predictedType:chemical	q:true	qid:Q1419	docId:10672628	origText:dopamine	url:D004298
+CANDIDATE	id:4298	inCount:90	outCount:2	links:	url:D004298	name:Dopamine	normalName:dopamine	normalWikiTitle:dopamine	predictedType:Chemical
+ENTITY	text:NADPH	normalName:nadph	predictedType:chemical	q:true	qid:Q1419	docId:10672628	origText:NADPH	url:D009249
+CANDIDATE	id:9249	inCount:23	outCount:2	links:9249	url:D009249	name:NADPH	normalName:nadph	normalWikiTitle:nadph	predictedType:Chemical
+ENTITY	text:nicotinamide adenine dinucleotide phosphate	normalName:nicotinamide adenine dinucleotide phosphate	predictedType:chemical	q:true	qid:Q1419	docId:10672628	origText:nicotinamide adenine dinucleotide phosphate	url:D009249
+CANDIDATE	id:9249	inCount:23	outCount:2	links:9249	url:D009249	name:Nicotinamide-Adenine Dinucleotide Phosphate	normalName:nicotinamide-adenine dinucleotide phosphate	normalWikiTitle:nicotinamide-adenine dinucleotide phosphate	predictedType:Chemical

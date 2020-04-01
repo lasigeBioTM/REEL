@@ -1,0 +1,6 @@
+ENTITY	text:multicystic encephalomalacia	normalName:multicystic encephalomalacia	predictedType:disease	q:true	qid:Q11	docId:9831002	origText:multicystic encephalomalacia	url:D004678
+CANDIDATE	id:4678	inCount:2	outCount:1	links:	url:D004678	name:Encephalomalacia, Multicystic	normalName:encephalomalacia, multicystic	normalWikiTitle:encephalomalacia, multicystic	predictedType:Disease
+ENTITY	text:Neuroleptic malignant syndrome	normalName:neuroleptic malignant syndrome	predictedType:disease	q:true	qid:Q11	docId:9831002	origText:Neuroleptic malignant syndrome	url:D009459
+CANDIDATE	id:9459	inCount:0	outCount:2	links:	url:D009459	name:Neuroleptic Malignant Syndrome	normalName:neuroleptic malignant syndrome	normalWikiTitle:neuroleptic malignant syndrome	predictedType:Disease
+ENTITY	text:hypoxic-ischemic encephalopathy	normalName:hypoxic-ischemic encephalopathy	predictedType:disease	q:true	qid:Q11	docId:9831002	origText:hypoxic-ischemic encephalopathy	url:D020925
+CANDIDATE	id:20925	inCount:1	outCount:2	links:	url:D020925	name:Hypoxic-Ischemic Encephalopathy	normalName:hypoxic-ischemic encephalopathy	normalWikiTitle:hypoxic-ischemic encephalopathy	predictedType:Disease

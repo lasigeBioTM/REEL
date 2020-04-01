@@ -1,0 +1,4 @@
+ENTITY	text:asystole	normalName:asystole	predictedType:disease	q:true	qid:Q1473	docId:12139551	origText:asystole	url:D006323
+CANDIDATE	id:6323	inCount:2	outCount:1	links:6323	url:D006323	name:Asystole	normalName:asystole	normalWikiTitle:asystole	predictedType:Disease
+ENTITY	text:Cardiac arrest	normalName:cardiac arrest	predictedType:disease	q:true	qid:Q1473	docId:12139551	origText:Cardiac arrest	url:D006323
+CANDIDATE	id:6323	inCount:2	outCount:1	links:6323	url:D006323	name:Arrest, Cardiac	normalName:arrest, cardiac	normalWikiTitle:arrest, cardiac	predictedType:Disease

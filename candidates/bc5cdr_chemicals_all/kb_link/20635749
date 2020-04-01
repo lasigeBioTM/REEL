@@ -1,0 +1,16 @@
+ENTITY	text:amiodarone	normalName:amiodarone	predictedType:chemical	q:true	qid:Q1104	docId:20635749	origText:amiodarone	url:D000638
+CANDIDATE	id:638	inCount:17	outCount:1	links:	url:D000638	name:Amiodarone	normalName:amiodarone	normalWikiTitle:amiodarone	predictedType:Chemical
+ENTITY	text:thyroxine	normalName:thyroxine	predictedType:chemical	q:true	qid:Q1104	docId:20635749	origText:thyroxine	url:D013974
+CANDIDATE	id:13974	inCount:12	outCount:2	links:	url:D013974	name:Thyroxine	normalName:thyroxine	normalWikiTitle:thyroxine	predictedType:Chemical
+ENTITY	text:tri-iodo-thyronine	normalName:tri-iodo-thyronine	predictedType:chemical	q:true	qid:Q1104	docId:20635749	origText:tri-iodo-thyronine	url:D014284
+CANDIDATE	id:14284	inCount:17	outCount:1	links:	url:D014284	name:Triiodothyronine	normalName:triiodothyronine	normalWikiTitle:triiodothyronine	predictedType:Chemical
+CANDIDATE	id:4104	inCount:11	outCount:1	links:	url:D004104	name:Diiodothyronines	normalName:diiodothyronines	normalWikiTitle:diiodothyronines	predictedType:Chemical
+CANDIDATE	id:487948	inCount:0	outCount:1	links:	url:C487948	name:3-iodothyronamine	normalName:3-iodothyronamine	normalWikiTitle:3-iodothyronamine	predictedType:Chemical
+CANDIDATE	id:120665	inCount:0	outCount:1	links:	url:C120665	name:tri-o-thymotide	normalName:tri-o-thymotide	normalWikiTitle:tri-o-thymotide	predictedType:Chemical
+CANDIDATE	id:27594	inCount:0	outCount:1	links:	url:C027594	name:isopropyl-diiodothyronine	normalName:isopropyl-diiodothyronine	normalWikiTitle:isopropyl-diiodothyronine	predictedType:Chemical
+CANDIDATE	id:13068	inCount:0	outCount:1	links:	url:C013068	name:3-monoiodothyronine	normalName:3-monoiodothyronine	normalWikiTitle:3-monoiodothyronine	predictedType:Chemical
+CANDIDATE	id:19017	inCount:0	outCount:1	links:	url:C019017	name:3'-monoiodothyronine	normalName:3'-monoiodothyronine	normalWikiTitle:3'-monoiodothyronine	predictedType:Chemical
+CANDIDATE	id:30629	inCount:0	outCount:1	links:	url:C030629	name:3,3'-diiodothyronine	normalName:3,3'-diiodothyronine	normalWikiTitle:3,3'-diiodothyronine	predictedType:Chemical
+CANDIDATE	id:30103	inCount:0	outCount:1	links:	url:C030103	name:3,5-diiodothyronine	normalName:3,5-diiodothyronine	normalWikiTitle:3,5-diiodothyronine	predictedType:Chemical
+CANDIDATE	id:30102	inCount:0	outCount:1	links:	url:C030102	name:3',5'-diiodothyronine	normalName:3',5'-diiodothyronine	normalWikiTitle:3',5'-diiodothyronine	predictedType:Chemical
+CANDIDATE	id:13068	inCount:0	outCount:1	links:	url:C013068	name:3-iodothyronine	normalName:3-iodothyronine	normalWikiTitle:3-iodothyronine	predictedType:Chemical

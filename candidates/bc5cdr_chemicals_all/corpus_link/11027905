@@ -1,0 +1,10 @@
+ENTITY	text:diazepam	normalName:diazepam	predictedType:chemical	q:true	qid:Q473	docId:11027905	origText:diazepam	url:D003975
+CANDIDATE	id:3975	inCount:21	outCount:1	links:7649;9020	url:D003975	name:Diazepam	normalName:diazepam	normalWikiTitle:diazepam	predictedType:Chemical
+ENTITY	text:NMDA	normalName:nmda	predictedType:chemical	q:true	qid:Q473	docId:11027905	origText:NMDA	url:D016202
+CANDIDATE	id:16202	inCount:3	outCount:1	links:	url:D016202	name:NMDA	normalName:nmda	normalWikiTitle:nmda	predictedType:Chemical
+ENTITY	text:ketamine	normalName:ketamine	predictedType:chemical	q:true	qid:Q473	docId:11027905	origText:ketamine	url:D007649
+CANDIDATE	id:7649	inCount:10	outCount:1	links:9020;3975	url:D007649	name:Ketamine	normalName:ketamine	normalWikiTitle:ketamine	predictedType:Chemical
+ENTITY	text:morphine	normalName:morphine	predictedType:chemical	q:true	qid:Q473	docId:11027905	origText:morphine	url:D009020
+CANDIDATE	id:9020	inCount:13	outCount:1	links:7649;3975	url:D009020	name:Morphine	normalName:morphine	normalWikiTitle:morphine	predictedType:Chemical
+ENTITY	text:N-methyl-D-aspartate	normalName:n-methyl-d-aspartate	predictedType:chemical	q:true	qid:Q473	docId:11027905	origText:N-methyl-D-aspartate	url:D016202
+CANDIDATE	id:16202	inCount:3	outCount:1	links:	url:D016202	name:N-Methyl-D-aspartate	normalName:n-methyl-d-aspartate	normalWikiTitle:n-methyl-d-aspartate	predictedType:Chemical

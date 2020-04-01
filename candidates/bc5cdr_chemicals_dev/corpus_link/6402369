@@ -1,0 +1,38 @@
+ENTITY	text:ifosfamide	normalName:ifosfamide	predictedType:chemical	q:true	qid:Q26	docId:6402369	origText:ifosfamide	url:D007069
+CANDIDATE	id:7069	inCount:106	outCount:2	links:15080	url:D007069	name:Ifosfamide	normalName:ifosfamide	normalWikiTitle:ifosfamide	predictedType:Chemical
+ENTITY	text:sodium 2-mercaptoethane sulphonate	normalName:sodium 2-mercaptoethane sulphonate	predictedType:chemical	q:true	qid:Q26	docId:6402369	origText:sodium 2-mercaptoethane sulphonate	url:D015080
+CANDIDATE	id:15080	inCount:22	outCount:2	links:7069	url:D015080	name:2-Mercaptoethanesulphonate, Sodium	normalName:2-mercaptoethanesulphonate, sodium	normalWikiTitle:2-mercaptoethanesulphonate, sodium	predictedType:Chemical
+CANDIDATE	id:59083	inCount:0	outCount:2	links:	url:C059083	name:arginine 2-mercaptoethane sulfonate	normalName:arginine 2-mercaptoethane sulfonate	normalWikiTitle:arginine 2-mercaptoethane sulfonate	predictedType:Chemical
+CANDIDATE	id:2004	inCount:0	outCount:1	links:	url:C002004	name:epicatechin-2-sulfonate sodium salt	normalName:epicatechin-2-sulfonate sodium salt	normalWikiTitle:epicatechin-2-sulfonate sodium salt	predictedType:Chemical
+CANDIDATE	id:533173	inCount:0	outCount:1	links:	url:C533173	name:sodium 1,2-naphthoquine-4-sulfonate	normalName:sodium 1,2-naphthoquine-4-sulfonate	normalWikiTitle:sodium 1,2-naphthoquine-4-sulfonate	predictedType:Chemical
+CANDIDATE	id:479464	inCount:0	outCount:1	links:	url:C479464	name:2-mercaptoethylibuprofenate	normalName:2-mercaptoethylibuprofenate	normalWikiTitle:2-mercaptoethylibuprofenate	predictedType:Chemical
+CANDIDATE	id:488293	inCount:0	outCount:1	links:	url:C488293	name:methoxyellagic acid sodium sulphate	normalName:methoxyellagic acid sodium sulphate	normalWikiTitle:methoxyellagic acid sodium sulphate	predictedType:Chemical
+CANDIDATE	id:465798	inCount:0	outCount:1	links:	url:C465798	name:sodium 3,4-diaminonaphthalene-1-sulfonate	normalName:sodium 3,4-diaminonaphthalene-1-sulfonate	normalWikiTitle:sodium 3,4-diaminonaphthalene-1-sulfonate	predictedType:Chemical
+CANDIDATE	id:95300	inCount:0	outCount:2	links:	url:C095300	name:bis(2-mercaptoethyl)sulfone	normalName:bis(2-mercaptoethyl)sulfone	normalWikiTitle:bis(2-mercaptoethyl)sulfone	predictedType:Chemical
+CANDIDATE	id:100078	inCount:0	outCount:1	links:	url:C100078	name:2-mercaptoethylguanidine	normalName:2-mercaptoethylguanidine	normalWikiTitle:2-mercaptoethylguanidine	predictedType:Chemical
+CANDIDATE	id:25443	inCount:0	outCount:2	links:	url:C025443	name:S-nitroso-2-mercaptoethylamine	normalName:s-nitroso-2-mercaptoethylamine	normalWikiTitle:s-nitroso-2-mercaptoethylamine	predictedType:Chemical
+CANDIDATE	id:40255	inCount:0	outCount:2	links:	url:C040255	name:SL-mercaptoethanol	normalName:sl-mercaptoethanol	normalWikiTitle:sl-mercaptoethanol	predictedType:Chemical
+CANDIDATE	id:15080	inCount:22	outCount:2	links:7069	url:D015080	name:2 Mercaptoethanesulfonate	normalName:2 mercaptoethanesulfonate	normalWikiTitle:2 mercaptoethanesulfonate	predictedType:Chemical
+CANDIDATE	id:14494	inCount:1	outCount:1	links:	url:D014494	name:Sodium 2,3-Dimercaptopropane Sulfonate	normalName:sodium 2,3-dimercaptopropane sulfonate	normalWikiTitle:sodium 2,3-dimercaptopropane sulfonate	predictedType:Chemical
+CANDIDATE	id:14494	inCount:1	outCount:1	links:	url:D014494	name:2,3-Dimercaptopropane Sulfonate, Sodium	normalName:2,3-dimercaptopropane sulfonate, sodium	normalWikiTitle:2,3-dimercaptopropane sulfonate, sodium	predictedType:Chemical
+CANDIDATE	id:15080	inCount:22	outCount:2	links:7069	url:D015080	name:2-Mercaptoethanesulfonate	normalName:2-mercaptoethanesulfonate	normalWikiTitle:2-mercaptoethanesulfonate	predictedType:Chemical
+CANDIDATE	id:2004	inCount:0	outCount:1	links:	url:C002004	name:sodium epicatechin-2-sulfonate	normalName:sodium epicatechin-2-sulfonate	normalWikiTitle:sodium epicatechin-2-sulfonate	predictedType:Chemical
+CANDIDATE	id:14494	inCount:1	outCount:1	links:	url:D014494	name:2,3-Dimercaptopropane-1-sulfonate Sodium	normalName:2,3-dimercaptopropane-1-sulfonate sodium	normalWikiTitle:2,3-dimercaptopropane-1-sulfonate sodium	predictedType:Chemical
+CANDIDATE	id:15080	inCount:22	outCount:2	links:7069	url:D015080	name:Sodium 2-Mercaptoethanesulphonate	normalName:sodium 2-mercaptoethanesulphonate	normalWikiTitle:sodium 2-mercaptoethanesulphonate	predictedType:Chemical
+CANDIDATE	id:14494	inCount:1	outCount:1	links:	url:D014494	name:1-Sodium Sulfonate, 2,3-Dimercaptopropane	normalName:1-sodium sulfonate, 2,3-dimercaptopropane	normalWikiTitle:1-sodium sulfonate, 2,3-dimercaptopropane	predictedType:Chemical
+CANDIDATE	id:14494	inCount:1	outCount:1	links:	url:D014494	name:2,3 Dimercaptopropane 1 sulfonate Sodium	normalName:2,3 dimercaptopropane 1 sulfonate sodium	normalWikiTitle:2,3 dimercaptopropane 1 sulfonate sodium	predictedType:Chemical
+ENTITY	text:thiol	normalName:thiol	predictedType:chemical	q:true	qid:Q26	docId:6402369	origText:thiol	url:D013438
+CANDIDATE	id:13438	inCount:425	outCount:1	links:	url:D013438	name:Thiols	normalName:thiols	normalWikiTitle:thiols	predictedType:Chemical
+CANDIDATE	id:7949	inCount:0	outCount:2	links:	url:C007949	name:hithiol	normalName:hithiol	normalWikiTitle:hithiol	predictedType:Chemical
+CANDIDATE	id:4848	inCount:0	outCount:1	links:	url:C004848	name:dithiol	normalName:dithiol	normalWikiTitle:dithiol	predictedType:Chemical
+CANDIDATE	id:14494	inCount:1	outCount:1	links:	url:D014494	name:Unithiol	normalName:unithiol	normalWikiTitle:unithiol	predictedType:Chemical
+CANDIDATE	id:3460	inCount:0	outCount:1	links:	url:C003460	name:threitol	normalName:threitol	normalWikiTitle:threitol	predictedType:Chemical
+CANDIDATE	id:58983	inCount:0	outCount:1	links:	url:C058983	name:phethiol	normalName:phethiol	normalWikiTitle:phethiol	predictedType:Chemical
+CANDIDATE	id:8730	inCount:0	outCount:1	links:	url:C008730	name:oxathiol	normalName:oxathiol	normalWikiTitle:oxathiol	predictedType:Chemical
+CANDIDATE	id:100038	inCount:0	outCount:1	links:	url:C100038	name:ethion	normalName:ethion	normalWikiTitle:ethion	predictedType:Chemical
+CANDIDATE	id:576138	inCount:0	outCount:1	links:	url:C576138	name:heliol	normalName:heliol	normalWikiTitle:heliol	predictedType:Chemical
+CANDIDATE	id:46627	inCount:0	outCount:1	links:	url:C046627	name:osthol	normalName:osthol	normalWikiTitle:osthol	predictedType:Chemical
+CANDIDATE	id:46889	inCount:0	outCount:2	links:	url:C046889	name:tritol	normalName:tritol	normalWikiTitle:tritol	predictedType:Chemical
+CANDIDATE	id:8625	inCount:2	outCount:2	links:	url:D008625	name:Thiola	normalName:thiola	normalWikiTitle:thiola	predictedType:Chemical
+ENTITY	text:MESNA	normalName:mesna	predictedType:chemical	q:true	qid:Q26	docId:6402369	origText:MESNA	url:D015080
+CANDIDATE	id:15080	inCount:22	outCount:2	links:7069	url:D015080	name:Mesna	normalName:mesna	normalWikiTitle:mesna	predictedType:Chemical

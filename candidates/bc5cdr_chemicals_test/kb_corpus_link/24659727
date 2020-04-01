@@ -1,0 +1,6 @@
+ENTITY	text:cyclophosphamide	normalName:cyclophosphamide	predictedType:chemical	q:true	qid:Q115	docId:24659727	origText:cyclophosphamide	url:D003520
+CANDIDATE	id:3520	inCount:474	outCount:1	links:8130	url:D003520	name:Cyclophosphamide	normalName:cyclophosphamide	normalWikiTitle:cyclophosphamide	predictedType:Chemical
+ENTITY	text:lomustine	normalName:lomustine	predictedType:chemical	q:true	qid:Q115	docId:24659727	origText:lomustine	url:D008130
+CANDIDATE	id:8130	inCount:64	outCount:1	links:8130;3520	url:D008130	name:Lomustine	normalName:lomustine	normalWikiTitle:lomustine	predictedType:Chemical
+ENTITY	text:CCNU	normalName:ccnu	predictedType:chemical	q:true	qid:Q115	docId:24659727	origText:CCNU	url:D008130
+CANDIDATE	id:8130	inCount:64	outCount:1	links:8130;3520	url:D008130	name:CCNU	normalName:ccnu	normalWikiTitle:ccnu	predictedType:Chemical

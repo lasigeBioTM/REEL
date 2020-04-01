@@ -1,0 +1,36 @@
+ENTITY	text:renal cell carcinoma	normalName:renal cell carcinoma	predictedType:disease	q:true	qid:Q228	docId:19944333	origText:renal cell carcinoma	url:D002292
+CANDIDATE	id:2292	inCount:5	outCount:2	links:	url:D002292	name:Carcinoma, Renal Cell	normalName:carcinoma, renal cell	normalWikiTitle:carcinoma, renal cell	predictedType:Disease
+ENTITY	text:chest pain	normalName:chest pain	predictedType:disease	q:true	qid:Q228	docId:19944333	origText:chest pain	url:D002637
+CANDIDATE	id:2637	inCount:1	outCount:1	links:	url:D002637	name:Chest Pain	normalName:chest pain	normalWikiTitle:chest pain	predictedType:Disease
+ENTITY	text:myocardial infarction	normalName:myocardial infarction	predictedType:disease	q:true	qid:Q228	docId:19944333	origText:myocardial infarction	url:D009203
+CANDIDATE	id:9203	inCount:8	outCount:1	links:9203	url:D009203	name:Myocardial Infarction	normalName:myocardial infarction	normalWikiTitle:myocardial infarction	predictedType:Disease
+ENTITY	text:coronary artery spasm	normalName:coronary artery spasm	predictedType:disease	q:true	qid:Q228	docId:19944333	origText:coronary artery spasm	url:D003329
+CANDIDATE	id:3329	inCount:1	outCount:1	links:	url:D003329	name:Coronary Artery Vasospasms	normalName:coronary artery vasospasms	normalWikiTitle:coronary artery vasospasms	predictedType:Disease
+CANDIDATE	id:3324	inCount:4	outCount:2	links:	url:D003324	name:Coronary Artery Disease	normalName:coronary artery disease	normalWikiTitle:coronary artery disease	predictedType:Disease
+CANDIDATE	id:3329	inCount:1	outCount:1	links:	url:D003329	name:Coronary Vasospasm	normalName:coronary vasospasm	normalWikiTitle:coronary vasospasm	predictedType:Disease
+CANDIDATE	id:3323	inCount:0	outCount:2	links:	url:D003323	name:Coronary Aneurysm	normalName:coronary aneurysm	normalWikiTitle:coronary aneurysm	predictedType:Disease
+CANDIDATE	id:565153	inCount:0	outCount:2	links:	url:C565153	name:Coronary Artery Dissection, Spontaneous	normalName:coronary artery dissection, spontaneous	normalWikiTitle:coronary artery dissection, spontaneous	predictedType:Disease
+CANDIDATE	id:54058	inCount:0	outCount:1	links:	url:D054058	name:Acute Coronary Syndrome	normalName:acute coronary syndrome	normalWikiTitle:acute coronary syndrome	predictedType:Disease
+CANDIDATE	id:71079	inCount:0	outCount:1	links:	url:D000071079	name:Stenosis, Pulmonary Artery	normalName:stenosis, pulmonary artery	normalWikiTitle:stenosis, pulmonary artery	predictedType:Disease
+CANDIDATE	id:3327	inCount:7	outCount:1	links:	url:D003327	name:Coronary Disease	normalName:coronary disease	normalWikiTitle:coronary disease	predictedType:Disease
+CANDIDATE	id:2340	inCount:5	outCount:1	links:	url:D002340	name:Carotid Artery Diseases	normalName:carotid artery diseases	normalWikiTitle:carotid artery diseases	predictedType:Disease
+CANDIDATE	id:567045	inCount:0	outCount:2	links:	url:C567045	name:Coronary Artery Disease, Autosomal Dominant 2	normalName:coronary artery disease, autosomal dominant 2	normalWikiTitle:coronary artery disease, autosomal dominant 2	predictedType:Disease
+CANDIDATE	id:564258	inCount:0	outCount:2	links:	url:C564258	name:Coronary Artery Disease, Autosomal Dominant, 1	normalName:coronary artery disease, autosomal dominant, 1	normalWikiTitle:coronary artery disease, autosomal dominant, 1	predictedType:Disease
+CANDIDATE	id:3329	inCount:1	outCount:1	links:	url:D003329	name:Vasospasm, Coronary Artery	normalName:vasospasm, coronary artery	normalWikiTitle:vasospasm, coronary artery	predictedType:Disease
+CANDIDATE	id:3329	inCount:1	outCount:1	links:	url:D003329	name:Artery Vasospasm, Coronary	normalName:artery vasospasm, coronary	normalWikiTitle:artery vasospasm, coronary	predictedType:Disease
+CANDIDATE	id:3329	inCount:1	outCount:1	links:	url:D003329	name:Coronary Artery Vasospasm	normalName:coronary artery vasospasm	normalWikiTitle:coronary artery vasospasm	predictedType:Disease
+CANDIDATE	id:3329	inCount:1	outCount:1	links:	url:D003329	name:Artery Vasospasms, Coronary	normalName:artery vasospasms, coronary	normalWikiTitle:artery vasospasms, coronary	predictedType:Disease
+CANDIDATE	id:3329	inCount:1	outCount:1	links:	url:D003329	name:Vasospasms, Coronary Artery	normalName:vasospasms, coronary artery	normalWikiTitle:vasospasms, coronary artery	predictedType:Disease
+ENTITY	text:subendocardial infarction	normalName:subendocardial infarction	predictedType:disease	q:true	qid:Q228	docId:19944333	origText:subendocardial infarction	url:D009203
+CANDIDATE	id:9203	inCount:8	outCount:1	links:9203	url:D009203	name:Myocardial Infarction	normalName:myocardial infarction	normalWikiTitle:myocardial infarction	predictedType:Disease
+CANDIDATE	id:9617	inCount:1	outCount:1	links:	url:D009617	name:Nocardia Infections	normalName:nocardia infections	normalWikiTitle:nocardia infections	predictedType:Disease
+CANDIDATE	id:13159	inCount:0	outCount:2	links:	url:D013159	name:Splenic Infarction	normalName:splenic infarction	normalWikiTitle:splenic infarction	predictedType:Disease
+CANDIDATE	id:56989	inCount:0	outCount:1	links:	url:D056989	name:Inferior Wall Myocardial Infarction	normalName:inferior wall myocardial infarction	normalWikiTitle:inferior wall myocardial infarction	predictedType:Disease
+CANDIDATE	id:54060	inCount:0	outCount:1	links:	url:D054060	name:Pulmonary Infarction	normalName:pulmonary infarction	normalWikiTitle:pulmonary infarction	predictedType:Disease
+CANDIDATE	id:4694	inCount:0	outCount:1	links:	url:D004694	name:Endocardial Cushion Defects	normalName:endocardial cushion defects	normalWikiTitle:endocardial cushion defects	predictedType:Disease
+CANDIDATE	id:30341	inCount:2	outCount:1	links:	url:D030341	name:Nidovirales Infections	normalName:nidovirales infections	normalWikiTitle:nidovirales infections	predictedType:Disease
+CANDIDATE	id:16868	inCount:0	outCount:1	links:	url:D016868	name:Serratia Infections	normalName:serratia infections	normalWikiTitle:serratia infections	predictedType:Disease
+CANDIDATE	id:11645	inCount:0	outCount:2	links:	url:D011645	name:Puerperal Infection	normalName:puerperal infection	normalWikiTitle:puerperal infection	predictedType:Disease
+CANDIDATE	id:72657	inCount:0	outCount:1	links:	url:D000072657	name:ST Elevation Myocardial Infarction	normalName:st elevation myocardial infarction	normalWikiTitle:st elevation myocardial infarction	predictedType:Disease
+ENTITY	text:stable angina	normalName:stable angina	predictedType:disease	q:true	qid:Q228	docId:19944333	origText:stable angina	url:D060050
+CANDIDATE	id:60050	inCount:0	outCount:1	links:	url:D060050	name:Angina, Stable	normalName:angina, stable	normalWikiTitle:angina, stable	predictedType:Disease

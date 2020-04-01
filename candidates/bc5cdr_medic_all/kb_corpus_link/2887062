@@ -1,0 +1,6 @@
+ENTITY	text:adenoma	normalName:adenoma	predictedType:disease	q:true	qid:Q1219	docId:2887062	origText:adenoma	url:D000236
+CANDIDATE	id:236	inCount:27	outCount:1	links:	url:D000236	name:Adenoma	normalName:adenoma	normalWikiTitle:adenoma	predictedType:Disease
+ENTITY	text:prolactinomas	normalName:prolactinomas	predictedType:disease	q:true	qid:Q1219	docId:2887062	origText:prolactinomas	url:D015175
+CANDIDATE	id:15175	inCount:0	outCount:2	links:15175	url:D015175	name:Prolactinoma	normalName:prolactinoma	normalWikiTitle:prolactinoma	predictedType:Disease
+ENTITY	text:prolactinoma	normalName:prolactinoma	predictedType:disease	q:true	qid:Q1219	docId:2887062	origText:prolactinoma	url:D015175
+CANDIDATE	id:15175	inCount:0	outCount:2	links:15175	url:D015175	name:Prolactinoma	normalName:prolactinoma	normalWikiTitle:prolactinoma	predictedType:Disease

@@ -1,0 +1,6 @@
+ENTITY	text:ribavirin	normalName:ribavirin	predictedType:chemical	q:true	qid:Q75	docId:16629641	origText:ribavirin	url:D012254
+CANDIDATE	id:12254	inCount:24	outCount:1	links:7372	url:D012254	name:Ribavirin	normalName:ribavirin	normalWikiTitle:ribavirin	predictedType:Chemical
+ENTITY	text:Viramidine	normalName:viramidine	predictedType:chemical	q:true	qid:Q75	docId:16629641	origText:Viramidine	url:C026956
+CANDIDATE	id:26956	inCount:0	outCount:1	links:	url:C026956	name:viramidine	normalName:viramidine	normalWikiTitle:viramidine	predictedType:Chemical
+ENTITY	text:interferon	normalName:interferon	predictedType:chemical	q:true	qid:Q75	docId:16629641	origText:interferon	url:D007372
+CANDIDATE	id:7372	inCount:15	outCount:1	links:12254	url:D007372	name:Interferon	normalName:interferon	normalWikiTitle:interferon	predictedType:Chemical

@@ -1,0 +1,10 @@
+ENTITY	text:WR-2721	normalName:wr-2721	predictedType:chemical	q:true	qid:Q1308	docId:11745184	origText:WR-2721	url:D004999
+CANDIDATE	id:4999	inCount:7	outCount:1	links:	url:D004999	name:WR-2721	normalName:wr-2721	normalWikiTitle:wr-2721	predictedType:Chemical
+ENTITY	text:mannitol	normalName:mannitol	predictedType:chemical	q:true	qid:Q1308	docId:11745184	origText:mannitol	url:D008353
+CANDIDATE	id:8353	inCount:51	outCount:1	links:	url:D008353	name:Mannitol	normalName:mannitol	normalWikiTitle:mannitol	predictedType:Chemical
+ENTITY	text:amifostine	normalName:amifostine	predictedType:chemical	q:true	qid:Q1308	docId:11745184	origText:amifostine	url:D004999
+CANDIDATE	id:4999	inCount:7	outCount:1	links:	url:D004999	name:Amifostine	normalName:amifostine	normalWikiTitle:amifostine	predictedType:Chemical
+ENTITY	text:cisplatin	normalName:cisplatin	predictedType:chemical	q:true	qid:Q1308	docId:11745184	origText:cisplatin	url:D002945
+CANDIDATE	id:2945	inCount:293	outCount:3	links:	url:D002945	name:Cisplatin	normalName:cisplatin	normalWikiTitle:cisplatin	predictedType:Chemical
+ENTITY	text:alkylating agents	normalName:alkylating agents	predictedType:chemical	q:true	qid:Q1308	docId:11745184	origText:alkylating agents	url:D000477
+CANDIDATE	id:477	inCount:1	outCount:2	links:	url:D000477	name:Alkylating Agents	normalName:alkylating agents	normalWikiTitle:alkylating agents	predictedType:Chemical

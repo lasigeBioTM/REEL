@@ -1,0 +1,4 @@
+ENTITY	text:droperidol	normalName:droperidol	predictedType:chemical	q:true	qid:Q86	docId:15321332	origText:droperidol	url:D004329
+CANDIDATE	id:4329	inCount:2	outCount:2	links:	url:D004329	name:Droperidol	normalName:droperidol	normalWikiTitle:droperidol	predictedType:Chemical
+ENTITY	text:diamorphine	normalName:diamorphine	predictedType:chemical	q:true	qid:Q86	docId:15321332	origText:diamorphine	url:D003932
+CANDIDATE	id:3932	inCount:3	outCount:1	links:	url:D003932	name:Diamorphine	normalName:diamorphine	normalWikiTitle:diamorphine	predictedType:Chemical

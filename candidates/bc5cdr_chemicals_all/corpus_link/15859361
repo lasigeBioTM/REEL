@@ -1,0 +1,6 @@
+ENTITY	text:paracetamol	normalName:paracetamol	predictedType:chemical	q:true	qid:Q87	docId:15859361	origText:paracetamol	url:D000082
+CANDIDATE	id:82	inCount:89	outCount:1	links:12655	url:D000082	name:Paracetamol	normalName:paracetamol	normalWikiTitle:paracetamol	predictedType:Chemical
+ENTITY	text:acetaminophen	normalName:acetaminophen	predictedType:chemical	q:true	qid:Q87	docId:15859361	origText:acetaminophen	url:D000082
+CANDIDATE	id:82	inCount:89	outCount:1	links:12655	url:D000082	name:Acetaminophen	normalName:acetaminophen	normalWikiTitle:acetaminophen	predictedType:Chemical
+ENTITY	text:nimesulide	normalName:nimesulide	predictedType:chemical	q:true	qid:Q87	docId:15859361	origText:nimesulide	url:C012655
+CANDIDATE	id:12655	inCount:0	outCount:1	links:82	url:C012655	name:nimesulide	normalName:nimesulide	normalWikiTitle:nimesulide	predictedType:Chemical

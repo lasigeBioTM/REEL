@@ -1,0 +1,6 @@
+ENTITY	text:alfentanil	normalName:alfentanil	predictedType:chemical	q:true	qid:Q1349	docId:3125768	origText:alfentanil	url:D015760
+CANDIDATE	id:15760	inCount:0	outCount:1	links:	url:D015760	name:Alfentanil	normalName:alfentanil	normalWikiTitle:alfentanil	predictedType:Chemical
+ENTITY	text:metocurine	normalName:metocurine	predictedType:chemical	q:true	qid:Q1349	docId:3125768	origText:metocurine	url:C032943
+CANDIDATE	id:32943	inCount:0	outCount:1	links:	url:C032943	name:metocurine	normalName:metocurine	normalWikiTitle:metocurine	predictedType:Chemical
+ENTITY	text:halothane	normalName:halothane	predictedType:chemical	q:true	qid:Q1349	docId:3125768	origText:halothane	url:D006221
+CANDIDATE	id:6221	inCount:6	outCount:1	links:	url:D006221	name:Halothane	normalName:halothane	normalWikiTitle:halothane	predictedType:Chemical

@@ -1,0 +1,22 @@
+ENTITY	text:graft-versus-host disease	normalName:graft-versus-host disease	predictedType:disease	q:true	qid:Q33	docId:16826348	origText:graft-versus-host disease	url:D006086
+CANDIDATE	id:6086	inCount:0	outCount:1	links:	url:D006086	name:Disease, Graft-Versus-Host	normalName:disease, graft-versus-host	normalWikiTitle:disease, graft-versus-host	predictedType:Disease
+ENTITY	text:Peripheral neuropathy	normalName:peripheral neuropathy	predictedType:disease	q:true	qid:Q33	docId:16826348	origText:Peripheral neuropathy	url:D010523
+CANDIDATE	id:10523	inCount:37	outCount:1	links:	url:D010523	name:Peripheral Neuropathy	normalName:peripheral neuropathy	normalWikiTitle:peripheral neuropathy	predictedType:Disease
+ENTITY	text:acute myeloid leukemia	normalName:acute myeloid leukemia	predictedType:disease	q:true	qid:Q33	docId:16826348	origText:acute myeloid leukemia	url:D015470
+CANDIDATE	id:15470	inCount:13	outCount:1	links:66126	url:D015470	name:Leukemia, Myeloid, Acute	normalName:leukemia, myeloid, acute	normalWikiTitle:leukemia, myeloid, acute	predictedType:Disease
+ENTITY	text:toxicity	normalName:toxicity	predictedType:disease	q:true	qid:Q33	docId:16826348	origText:toxicity	url:D064420
+CANDIDATE	id:64420	inCount:10	outCount:1	links:	url:D064420	name:Drug Toxicity	normalName:drug toxicity	normalWikiTitle:drug toxicity	predictedType:Disease
+CANDIDATE	id:66126	inCount:0	outCount:3	links:15470	url:D066126	name:Cardiotoxicity	normalName:cardiotoxicity	normalWikiTitle:cardiotoxicity	predictedType:Disease
+CANDIDATE	id:15651	inCount:2	outCount:1	links:	url:D015651	name:Mycotoxicosis	normalName:mycotoxicosis	normalWikiTitle:mycotoxicosis	predictedType:Disease
+CANDIDATE	id:13971	inCount:2	outCount:1	links:	url:D013971	name:Thyrotoxicosis	normalName:thyrotoxicosis	normalWikiTitle:thyrotoxicosis	predictedType:Disease
+CANDIDATE	id:14869	inCount:0	outCount:2	links:	url:D014869	name:Water Intoxication	normalName:water intoxication	normalWikiTitle:water intoxication	predictedType:Disease
+CANDIDATE	id:14103	inCount:4	outCount:2	links:	url:D014103	name:Torticollis	normalName:torticollis	normalWikiTitle:torticollis	predictedType:Disease
+CANDIDATE	id:9765	inCount:42	outCount:2	links:	url:D009765	name:Obesity	normalName:obesity	normalWikiTitle:obesity	predictedType:Disease
+CANDIDATE	id:14115	inCount:1	outCount:1	links:	url:D014115	name:Toxemia	normalName:toxemia	normalWikiTitle:toxemia	predictedType:Disease
+CANDIDATE	id:7246	inCount:2	outCount:2	links:	url:D007246	name:Infertility	normalName:infertility	normalWikiTitle:infertility	predictedType:Disease
+CANDIDATE	id:20234	inCount:0	outCount:2	links:	url:D020234	name:Gait Ataxia	normalName:gait ataxia	normalWikiTitle:gait ataxia	predictedType:Disease
+CANDIDATE	id:14069	inCount:1	outCount:1	links:	url:D014069	name:Tonsillitis	normalName:tonsillitis	normalWikiTitle:tonsillitis	predictedType:Disease
+CANDIDATE	id:64420	inCount:10	outCount:1	links:	url:D064420	name:Toxicity, Drug	normalName:toxicity, drug	normalWikiTitle:toxicity, drug	predictedType:Disease
+CANDIDATE	id:17484	inCount:0	outCount:2	links:	url:D017484	name:Phototoxicity	normalName:phototoxicity	normalWikiTitle:phototoxicity	predictedType:Disease
+ENTITY	text:numbness	normalName:numbness	predictedType:disease	q:true	qid:Q33	docId:16826348	origText:numbness	url:D006987
+CANDIDATE	id:6987	inCount:1	outCount:1	links:	url:D006987	name:Numbness	normalName:numbness	normalWikiTitle:numbness	predictedType:Disease

@@ -1,0 +1,6 @@
+ENTITY	text:tacrolimus	normalName:tacrolimus	predictedType:chemical	q:true	qid:Q468	docId:8829025	origText:tacrolimus	url:D016559
+CANDIDATE	id:16559	inCount:40	outCount:1	links:	url:D016559	name:Tacrolimus	normalName:tacrolimus	normalWikiTitle:tacrolimus	predictedType:Chemical
+ENTITY	text:nifedipine	normalName:nifedipine	predictedType:chemical	q:true	qid:Q468	docId:8829025	origText:nifedipine	url:D009543
+CANDIDATE	id:9543	inCount:42	outCount:1	links:	url:D009543	name:Nifedipine	normalName:nifedipine	normalWikiTitle:nifedipine	predictedType:Chemical
+ENTITY	text:creatinine	normalName:creatinine	predictedType:chemical	q:true	qid:Q468	docId:8829025	origText:creatinine	url:D003404
+CANDIDATE	id:3404	inCount:8	outCount:1	links:	url:D003404	name:Creatinine	normalName:creatinine	normalWikiTitle:creatinine	predictedType:Chemical

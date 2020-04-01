@@ -1,0 +1,8 @@
+ENTITY	text:confusion	normalName:confusion	predictedType:disease	q:true	qid:Q30	docId:14765563	origText:confusion	url:D003221
+CANDIDATE	id:3221	inCount:2	outCount:1	links:	url:D003221	name:Confusion	normalName:confusion	normalWikiTitle:confusion	predictedType:Disease
+ENTITY	text:seizures	normalName:seizures	predictedType:disease	q:true	qid:Q30	docId:14765563	origText:seizures	url:D012640
+CANDIDATE	id:12640	inCount:53	outCount:1	links:	url:D012640	name:Seizure	normalName:seizure	normalWikiTitle:seizure	predictedType:Disease
+ENTITY	text:coma	normalName:coma	predictedType:disease	q:true	qid:Q30	docId:14765563	origText:coma	url:D003128
+CANDIDATE	id:3128	inCount:3	outCount:1	links:	url:D003128	name:Coma	normalName:coma	normalWikiTitle:coma	predictedType:Disease
+ENTITY	text:nocturnal leg cramps	normalName:nocturnal leg cramps	predictedType:disease	q:true	qid:Q30	docId:14765563	origText:nocturnal leg cramps	url:D020922
+CANDIDATE	id:20922	inCount:0	outCount:1	links:	url:D020922	name:Nocturnal Leg Cramps	normalName:nocturnal leg cramps	normalWikiTitle:nocturnal leg cramps	predictedType:Disease

@@ -1,0 +1,4 @@
+ENTITY	text:paracetamol	normalName:paracetamol	predictedType:chemical	q:true	qid:Q499	docId:1919871	origText:paracetamol	url:D000082
+CANDIDATE	id:82	inCount:89	outCount:1	links:1241	url:D000082	name:Paracetamol	normalName:paracetamol	normalWikiTitle:paracetamol	predictedType:Chemical
+ENTITY	text:aspirin	normalName:aspirin	predictedType:chemical	q:true	qid:Q499	docId:1919871	origText:aspirin	url:D001241
+CANDIDATE	id:1241	inCount:106	outCount:1	links:82	url:D001241	name:Aspirin	normalName:aspirin	normalWikiTitle:aspirin	predictedType:Chemical

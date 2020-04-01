@@ -1,0 +1,14 @@
+ENTITY	text:ventricular fibrillation	normalName:ventricular fibrillation	predictedType:disease	q:true	qid:Q51	docId:3895875	origText:ventricular fibrillation	url:D014693
+CANDIDATE	id:14693	inCount:3	outCount:1	links:17180;7022	url:D014693	name:Ventricular Fibrillation	normalName:ventricular fibrillation	normalWikiTitle:ventricular fibrillation	predictedType:Disease
+ENTITY	text:myocardial infarction	normalName:myocardial infarction	predictedType:disease	q:true	qid:Q51	docId:3895875	origText:myocardial infarction	url:D009203
+CANDIDATE	id:9203	inCount:8	outCount:1	links:17180;1145;7022	url:D009203	name:Myocardial Infarction	normalName:myocardial infarction	normalWikiTitle:myocardial infarction	predictedType:Disease
+ENTITY	text:hypotension	normalName:hypotension	predictedType:disease	q:true	qid:Q51	docId:3895875	origText:hypotension	url:D007022
+CANDIDATE	id:7022	inCount:3	outCount:1	links:17180;9203;1145;6323;14693	url:D007022	name:Hypotension	normalName:hypotension	normalWikiTitle:hypotension	predictedType:Disease
+ENTITY	text:asystole	normalName:asystole	predictedType:disease	q:true	qid:Q51	docId:3895875	origText:asystole	url:D006323
+CANDIDATE	id:6323	inCount:2	outCount:1	links:17180;1145;7022	url:D006323	name:Asystole	normalName:asystole	normalWikiTitle:asystole	predictedType:Disease
+ENTITY	text:arrhythmias	normalName:arrhythmias	predictedType:disease	q:true	qid:Q51	docId:3895875	origText:arrhythmias	url:D001145
+CANDIDATE	id:1145	inCount:27	outCount:2	links:17180;9203;6323;7022	url:D001145	name:Arrhythmia	normalName:arrhythmia	normalWikiTitle:arrhythmia	predictedType:Disease
+ENTITY	text:infarction	normalName:infarction	predictedType:disease	q:true	qid:Q51	docId:3895875	origText:infarction	url:D007238
+CANDIDATE	id:7238	inCount:0	outCount:2	links:	url:D007238	name:Infarction	normalName:infarction	normalWikiTitle:infarction	predictedType:Disease
+ENTITY	text:ventricular tachycardia	normalName:ventricular tachycardia	predictedType:disease	q:true	qid:Q51	docId:3895875	origText:ventricular tachycardia	url:D017180
+CANDIDATE	id:17180	inCount:4	outCount:1	links:9203;1145;6323;14693;7022	url:D017180	name:Tachycardia, Ventricular	normalName:tachycardia, ventricular	normalWikiTitle:tachycardia, ventricular	predictedType:Disease

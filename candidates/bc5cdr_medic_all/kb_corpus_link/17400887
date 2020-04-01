@@ -1,0 +1,30 @@
+ENTITY	text:preterm labor	normalName:preterm labor	predictedType:disease	q:true	qid:Q979	docId:17400887	origText:preterm labor	url:D007752
+CANDIDATE	id:7752	inCount:1	outCount:1	links:	url:D007752	name:Preterm Labor	normalName:preterm labor	normalWikiTitle:preterm labor	predictedType:Disease
+ENTITY	text:Neuroinflammation	normalName:neuroinflammation	predictedType:disease	q:true	qid:Q979	docId:17400887	origText:Neuroinflammation	url:D020078
+CANDIDATE	id:20078	inCount:0	outCount:2	links:	url:D020078	name:Neurogenic Inflammation	normalName:neurogenic inflammation	normalWikiTitle:neurogenic inflammation	predictedType:Disease
+CANDIDATE	id:7249	inCount:14	outCount:1	links:	url:D007249	name:Inflammation	normalName:inflammation	normalWikiTitle:inflammation	predictedType:Disease
+CANDIDATE	id:77162	inCount:0	outCount:1	links:	url:D000077162	name:Neurolymphomatosis	normalName:neurolymphomatosis	normalWikiTitle:neurolymphomatosis	predictedType:Disease
+CANDIDATE	id:9442	inCount:2	outCount:2	links:	url:D009442	name:Neurilemmoma	normalName:neurilemmoma	normalWikiTitle:neurilemmoma	predictedType:Disease
+CANDIDATE	id:2059	inCount:1	outCount:1	links:	url:D002059	name:Burns, Inhalation	normalName:burns, inhalation	normalWikiTitle:burns, inhalation	predictedType:Disease
+CANDIDATE	id:9447	inCount:2	outCount:1	links:	url:D009447	name:Neuroblastoma	normalName:neuroblastoma	normalWikiTitle:neuroblastoma	predictedType:Disease
+CANDIDATE	id:7238	inCount:0	outCount:2	links:	url:D007238	name:Infarction	normalName:infarction	normalWikiTitle:infarction	predictedType:Disease
+CANDIDATE	id:17253	inCount:12	outCount:4	links:	url:D017253	name:Neurofibromatoses	normalName:neurofibromatoses	normalWikiTitle:neurofibromatoses	predictedType:Disease
+CANDIDATE	id:17564	inCount:0	outCount:3	links:	url:D017564	name:Radiation Pneumonitis	normalName:radiation pneumonitis	normalWikiTitle:radiation pneumonitis	predictedType:Disease
+CANDIDATE	id:58734	inCount:0	outCount:1	links:	url:D058734	name:Exsanguination	normalName:exsanguination	normalWikiTitle:exsanguination	predictedType:Disease
+CANDIDATE	id:10031	inCount:3	outCount:1	links:	url:D010031	name:Ear Inflammation	normalName:ear inflammation	normalWikiTitle:ear inflammation	predictedType:Disease
+CANDIDATE	id:10031	inCount:3	outCount:1	links:	url:D010031	name:Inflammation, Ear	normalName:inflammation, ear	normalWikiTitle:inflammation, ear	predictedType:Disease
+ENTITY	text:autism	normalName:autism	predictedType:disease	q:true	qid:Q979	docId:17400887	origText:autism	url:D001321
+CANDIDATE	id:1321	inCount:7	outCount:1	links:	url:D001321	name:Autism	normalName:autism	normalWikiTitle:autism	predictedType:Disease
+ENTITY	text:deficits in communication and social skills	normalName:deficits in communication and social skills	predictedType:disease	q:true	qid:Q979	docId:17400887	origText:deficits in communication and social skills	url:D003147
+CANDIDATE	id:3147	inCount:5	outCount:2	links:	url:D003147	name:Communication Disorders	normalName:communication disorders	normalWikiTitle:communication disorders	predictedType:Disease
+CANDIDATE	id:67404	inCount:0	outCount:1	links:	url:D000067404	name:Social Communication Disorder	normalName:social communication disorder	normalWikiTitle:social communication disorder	predictedType:Disease
+CANDIDATE	id:300082	inCount:0	outCount:1	links:	url:300082	name:COGNITIVE FUNCTION 1, SOCIAL	normalName:cognitive function 1, social	normalWikiTitle:cognitive function 1, social	predictedType:Disease
+CANDIDATE	id:537221	inCount:0	outCount:2	links:	url:C537221	name:Sacral defect and anterior sacral meningocele	normalName:sacral defect and anterior sacral meningocele	normalWikiTitle:sacral defect and anterior sacral meningocele	predictedType:Disease
+CANDIDATE	id:563598	inCount:0	outCount:1	links:	url:C563598	name:Median-Ulnar Nerve Communications	normalName:median-ulnar nerve communications	normalWikiTitle:median-ulnar nerve communications	predictedType:Disease
+CANDIDATE	id:567557	inCount:0	outCount:2	links:	url:C567557	name:Cardiac Conduction Defect, Nonspecific	normalName:cardiac conduction defect, nonspecific	normalWikiTitle:cardiac conduction defect, nonspecific	predictedType:Disease
+CANDIDATE	id:565023	inCount:0	outCount:1	links:	url:C565023	name:Factors VIII, IX And XI, Combined Deficiency of	normalName:factors viii, ix and xi, combined deficiency of	normalWikiTitle:factors viii, ix and xi, combined deficiency of	predictedType:Disease
+CANDIDATE	id:4694	inCount:0	outCount:1	links:	url:D004694	name:Endocardial Cushion Defects	normalName:endocardial cushion defects	normalWikiTitle:endocardial cushion defects	predictedType:Disease
+CANDIDATE	id:17437	inCount:2	outCount:1	links:	url:D017437	name:Skin and Connective Tissue Diseases	normalName:skin and connective tissue diseases	normalWikiTitle:skin and connective tissue diseases	predictedType:Disease
+CANDIDATE	id:566186	inCount:0	outCount:2	links:	url:C566186	name:Cardiac Conduction Defect, Nonprogressive	normalName:cardiac conduction defect, nonprogressive	normalWikiTitle:cardiac conduction defect, nonprogressive	predictedType:Disease
+CANDIDATE	id:67404	inCount:0	outCount:1	links:	url:D000067404	name:Social Communication Disorders	normalName:social communication disorders	normalWikiTitle:social communication disorders	predictedType:Disease
+CANDIDATE	id:67404	inCount:0	outCount:1	links:	url:D000067404	name:Communication Disorders, Social	normalName:communication disorders, social	normalWikiTitle:communication disorders, social	predictedType:Disease

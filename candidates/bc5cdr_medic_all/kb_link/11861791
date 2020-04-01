@@ -1,0 +1,25 @@
+ENTITY	text:heart failure	normalName:heart failure	predictedType:disease	q:true	qid:Q846	docId:11861791	origText:heart failure	url:D006333
+CANDIDATE	id:6333	inCount:5	outCount:1	links:	url:D006333	name:Heart Failure	normalName:heart failure	normalWikiTitle:heart failure	predictedType:Disease
+ENTITY	text:cardiotoxicity	normalName:cardiotoxicity	predictedType:disease	q:true	qid:Q846	docId:11861791	origText:cardiotoxicity	url:D066126
+CANDIDATE	id:66126	inCount:0	outCount:3	links:66126	url:D066126	name:Cardiotoxicity	normalName:cardiotoxicity	normalWikiTitle:cardiotoxicity	predictedType:Disease
+ENTITY	text:cardiac complications	normalName:cardiac complications	predictedType:disease	q:true	qid:Q846	docId:11861791	origText:cardiac complications	url:D005117
+CANDIDATE	id:5117	inCount:3	outCount:2	links:	url:D005117	name:Cardiac Complexes, Premature	normalName:cardiac complexes, premature	normalWikiTitle:cardiac complexes, premature	predictedType:Disease
+CANDIDATE	id:11249	inCount:1	outCount:2	links:	url:D011249	name:Pregnancy Complications, Cardiovascular	normalName:pregnancy complications, cardiovascular	normalWikiTitle:pregnancy complications, cardiovascular	predictedType:Disease
+CANDIDATE	id:17191	inCount:5	outCount:1	links:	url:D017191	name:Ascaridida Infections	normalName:ascaridida infections	normalWikiTitle:ascaridida infections	predictedType:Disease
+CANDIDATE	id:1017	inCount:3	outCount:1	links:	url:D001017	name:Aortic Coarctation	normalName:aortic coarctation	normalWikiTitle:aortic coarctation	predictedType:Disease
+CANDIDATE	id:53821	inCount:3	outCount:2	links:	url:D053821	name:Cardiovascular Infections	normalName:cardiovascular infections	normalWikiTitle:cardiovascular infections	predictedType:Disease
+CANDIDATE	id:9202	inCount:37	outCount:1	links:	url:D009202	name:Cardiomyopathies	normalName:cardiomyopathies	normalWikiTitle:cardiomyopathies	predictedType:Disease
+CANDIDATE	id:115080	inCount:0	outCount:2	links:	url:115080	name:CARDIAC CONDUCTION DEFECT	normalName:cardiac conduction defect	normalWikiTitle:cardiac conduction defect	predictedType:Disease
+CANDIDATE	id:565884	inCount:0	outCount:2	links:	url:C565884	name:Cardiac Lipidosis, Familial	normalName:cardiac lipidosis, familial	normalWikiTitle:cardiac lipidosis, familial	predictedType:Disease
+CANDIDATE	id:2690	inCount:5	outCount:2	links:	url:D002690	name:Chlamydia Infections	normalName:chlamydia infections	normalWikiTitle:chlamydia infections	predictedType:Disease
+CANDIDATE	id:2305	inCount:0	outCount:1	links:	url:D002305	name:Cardiac Tamponade	normalName:cardiac tamponade	normalWikiTitle:cardiac tamponade	predictedType:Disease
+CANDIDATE	id:71956	inCount:1	outCount:2	links:	url:D000071956	name:Contusions, Cardiac	normalName:contusions, cardiac	normalWikiTitle:contusions, cardiac	predictedType:Disease
+CANDIDATE	id:71956	inCount:1	outCount:2	links:	url:D000071956	name:Cardiac Contusions	normalName:cardiac contusions	normalWikiTitle:cardiac contusions	predictedType:Disease
+CANDIDATE	id:56104	inCount:0	outCount:2	links:	url:D056104	name:Cardiac Concussions	normalName:cardiac concussions	normalWikiTitle:cardiac concussions	predictedType:Disease
+CANDIDATE	id:56104	inCount:0	outCount:2	links:	url:D056104	name:Concussions, Cardiac	normalName:concussions, cardiac	normalWikiTitle:concussions, cardiac	predictedType:Disease
+CANDIDATE	id:71956	inCount:1	outCount:2	links:	url:D000071956	name:Cardiac Contusion	normalName:cardiac contusion	normalWikiTitle:cardiac contusion	predictedType:Disease
+CANDIDATE	id:71956	inCount:1	outCount:2	links:	url:D000071956	name:Contusion, Cardiac	normalName:contusion, cardiac	normalWikiTitle:contusion, cardiac	predictedType:Disease
+CANDIDATE	id:66126	inCount:0	outCount:3	links:66126	url:D066126	name:Toxicities, Cardiac	normalName:toxicities, cardiac	normalWikiTitle:toxicities, cardiac	predictedType:Disease
+CANDIDATE	id:56104	inCount:0	outCount:2	links:	url:D056104	name:Concussion, Cardiac	normalName:concussion, cardiac	normalWikiTitle:concussion, cardiac	predictedType:Disease
+CANDIDATE	id:56104	inCount:0	outCount:2	links:	url:D056104	name:Cardiac Concussion	normalName:cardiac concussion	normalWikiTitle:cardiac concussion	predictedType:Disease
+CANDIDATE	id:66126	inCount:0	outCount:3	links:66126	url:D066126	name:Cardiac Toxicities	normalName:cardiac toxicities	normalWikiTitle:cardiac toxicities	predictedType:Disease

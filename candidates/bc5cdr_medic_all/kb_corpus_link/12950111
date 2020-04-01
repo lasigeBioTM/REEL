@@ -1,0 +1,40 @@
+ENTITY	text:sweating	normalName:sweating	predictedType:disease	q:true	qid:Q470	docId:12950111	origText:sweating	url:D013547
+CANDIDATE	id:13547	inCount:0	outCount:2	links:13547	url:D013547	name:Sweating, Gustatory	normalName:sweating, gustatory	normalWikiTitle:sweating, gustatory	predictedType:Disease
+CANDIDATE	id:18614	inCount:0	outCount:1	links:	url:D018614	name:Sweating Sickness	normalName:sweating sickness	normalWikiTitle:sweating sickness	predictedType:Disease
+CANDIDATE	id:12912	inCount:2	outCount:1	links:	url:D012912	name:Sneezing	normalName:sneezing	normalWikiTitle:sneezing	predictedType:Disease
+CANDIDATE	id:13231	inCount:0	outCount:2	links:	url:D013231	name:Steatitis	normalName:steatitis	normalWikiTitle:steatitis	predictedType:Disease
+CANDIDATE	id:19282	inCount:1	outCount:2	links:	url:D019282	name:Wasting Syndrome	normalName:wasting syndrome	normalWikiTitle:wasting syndrome	predictedType:Disease
+CANDIDATE	id:4614	inCount:1	outCount:1	links:	url:D004614	name:Emaciation	normalName:emaciation	normalWikiTitle:emaciation	predictedType:Disease
+CANDIDATE	id:13342	inCount:2	outCount:1	links:	url:D013342	name:Stuttering	normalName:stuttering	normalWikiTitle:stuttering	predictedType:Disease
+CANDIDATE	id:4884	inCount:0	outCount:1	links:	url:D004884	name:Eructation	normalName:eructation	normalWikiTitle:eructation	predictedType:Disease
+CANDIDATE	id:13217	inCount:0	outCount:1	links:	url:D013217	name:Starvation	normalName:starvation	normalWikiTitle:starvation	predictedType:Disease
+CANDIDATE	id:6816	inCount:3	outCount:5	links:	url:D006816	name:Huntington Disease	normalName:huntington disease	normalWikiTitle:huntington disease	predictedType:Disease
+CANDIDATE	id:1733	inCount:6	outCount:2	links:	url:D001733	name:Sting	normalName:sting	normalWikiTitle:sting	predictedType:Disease
+CANDIDATE	id:1733	inCount:6	outCount:2	links:	url:D001733	name:Stings	normalName:stings	normalWikiTitle:stings	predictedType:Disease
+CANDIDATE	id:53206	inCount:1	outCount:1	links:	url:D053206	name:Bedwetting	normalName:bedwetting	normalWikiTitle:bedwetting	predictedType:Disease
+CANDIDATE	id:6963	inCount:2	outCount:1	links:	url:D006963	name:Overeating	normalName:overeating	normalWikiTitle:overeating	predictedType:Disease
+ENTITY	text:hyperhidrosis	normalName:hyperhidrosis	predictedType:disease	q:true	qid:Q470	docId:12950111	origText:hyperhidrosis	url:D006945
+CANDIDATE	id:6945	inCount:7	outCount:1	links:	url:D006945	name:Hyperhidrosis	normalName:hyperhidrosis	normalWikiTitle:hyperhidrosis	predictedType:Disease
+ENTITY	text:headache	normalName:headache	predictedType:disease	q:true	qid:Q470	docId:12950111	origText:headache	url:D006261
+CANDIDATE	id:6261	inCount:2	outCount:1	links:10612	url:D006261	name:Headache	normalName:headache	normalWikiTitle:headache	predictedType:Disease
+ENTITY	text:dry mouth	normalName:dry mouth	predictedType:disease	q:true	qid:Q470	docId:12950111	origText:dry mouth	url:D014987
+CANDIDATE	id:14987	inCount:1	outCount:1	links:	url:D014987	name:Mouth Dryness	normalName:mouth dryness	normalWikiTitle:mouth dryness	predictedType:Disease
+CANDIDATE	id:4368	inCount:0	outCount:1	links:	url:D004368	name:Dry Socket	normalName:dry socket	normalWikiTitle:dry socket	predictedType:Disease
+CANDIDATE	id:9059	inCount:32	outCount:1	links:	url:D009059	name:Mouth Diseases	normalName:mouth diseases	normalWikiTitle:mouth diseases	predictedType:Disease
+CANDIDATE	id:536607	inCount:0	outCount:1	links:	url:C536607	name:Brody myopathy	normalName:brody myopathy	normalWikiTitle:brody myopathy	predictedType:Disease
+CANDIDATE	id:9058	inCount:0	outCount:2	links:	url:D009058	name:Mouth Breathing	normalName:mouth breathing	normalWikiTitle:mouth breathing	predictedType:Disease
+CANDIDATE	id:9066	inCount:1	outCount:2	links:	url:D009066	name:Mouth, Edentulous	normalName:mouth, edentulous	normalWikiTitle:mouth, edentulous	predictedType:Disease
+CANDIDATE	id:536962	inCount:0	outCount:3	links:	url:C536962	name:Timothy syndrome	normalName:timothy syndrome	normalWikiTitle:timothy syndrome	predictedType:Disease
+CANDIDATE	id:9223	inCount:1	outCount:3	links:	url:D009223	name:Myotonic Dystrophy	normalName:myotonic dystrophy	normalWikiTitle:myotonic dystrophy	predictedType:Disease
+CANDIDATE	id:536748	inCount:0	outCount:2	links:	url:C536748	name:Worth syndrome	normalName:worth syndrome	normalWikiTitle:worth syndrome	predictedType:Disease
+CANDIDATE	id:14987	inCount:1	outCount:1	links:	url:D014987	name:Dryness, Mouth	normalName:dryness, mouth	normalWikiTitle:dryness, mouth	predictedType:Disease
+CANDIDATE	id:9062	inCount:6	outCount:2	links:	url:D009062	name:Cancer, Mouth	normalName:cancer, mouth	normalWikiTitle:cancer, mouth	predictedType:Disease
+CANDIDATE	id:9062	inCount:6	outCount:2	links:	url:D009062	name:Mouth Cancer	normalName:mouth cancer	normalWikiTitle:mouth cancer	predictedType:Disease
+CANDIDATE	id:9062	inCount:6	outCount:2	links:	url:D009062	name:Mouth Cancers	normalName:mouth cancers	normalWikiTitle:mouth cancers	predictedType:Disease
+CANDIDATE	id:9059	inCount:32	outCount:1	links:	url:D009059	name:Mouth Disease	normalName:mouth disease	normalWikiTitle:mouth disease	predictedType:Disease
+CANDIDATE	id:9062	inCount:6	outCount:2	links:	url:D009062	name:Cancers, Mouth	normalName:cancers, mouth	normalWikiTitle:cancers, mouth	predictedType:Disease
+CANDIDATE	id:9059	inCount:32	outCount:1	links:	url:D009059	name:Disease, Mouth	normalName:disease, mouth	normalWikiTitle:disease, mouth	predictedType:Disease
+ENTITY	text:sore throat	normalName:sore throat	predictedType:disease	q:true	qid:Q470	docId:12950111	origText:sore throat	url:D010612
+CANDIDATE	id:10612	inCount:3	outCount:2	links:6261	url:D010612	name:Throat, Sore	normalName:throat, sore	normalWikiTitle:throat, sore	predictedType:Disease
+ENTITY	text:gustatory hyperhidrosis	normalName:gustatory hyperhidrosis	predictedType:disease	q:true	qid:Q470	docId:12950111	origText:gustatory hyperhidrosis	url:D013547
+CANDIDATE	id:13547	inCount:0	outCount:2	links:13547	url:D013547	name:Gustatory Hyperhidrosis	normalName:gustatory hyperhidrosis	normalWikiTitle:gustatory hyperhidrosis	predictedType:Disease

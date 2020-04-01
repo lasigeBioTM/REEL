@@ -1,0 +1,4 @@
+ENTITY	text:Suxamethonium	normalName:suxamethonium	predictedType:chemical	q:true	qid:Q6	docId:9587734	origText:Suxamethonium	url:D013390
+CANDIDATE	id:13390	inCount:3	outCount:2	links:11188	url:D013390	name:Suxamethonium	normalName:suxamethonium	normalWikiTitle:suxamethonium	predictedType:Chemical
+ENTITY	text:potassium	normalName:potassium	predictedType:chemical	q:true	qid:Q6	docId:9587734	origText:potassium	url:D011188
+CANDIDATE	id:11188	inCount:10	outCount:2	links:13390	url:D011188	name:Potassium	normalName:potassium	normalWikiTitle:potassium	predictedType:Chemical

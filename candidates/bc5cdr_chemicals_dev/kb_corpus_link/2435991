@@ -1,0 +1,8 @@
+ENTITY	text:cibenzoline	normalName:cibenzoline	predictedType:chemical	q:true	qid:Q136	docId:2435991	origText:cibenzoline	url:C032151
+CANDIDATE	id:32151	inCount:0	outCount:1	links:	url:C032151	name:cibenzoline	normalName:cibenzoline	normalWikiTitle:cibenzoline	predictedType:Chemical
+ENTITY	text:mexiletine	normalName:mexiletine	predictedType:chemical	q:true	qid:Q136	docId:2435991	origText:mexiletine	url:D008801
+CANDIDATE	id:8801	inCount:12	outCount:2	links:	url:D008801	name:Mexiletine	normalName:mexiletine	normalWikiTitle:mexiletine	predictedType:Chemical
+ENTITY	text:adrenaline	normalName:adrenaline	predictedType:chemical	q:true	qid:Q136	docId:2435991	origText:adrenaline	url:D004837
+CANDIDATE	id:4837	inCount:33	outCount:3	links:	url:D004837	name:Adrenaline	normalName:adrenaline	normalWikiTitle:adrenaline	predictedType:Chemical
+ENTITY	text:tocainide	normalName:tocainide	predictedType:chemical	q:true	qid:Q136	docId:2435991	origText:tocainide	url:D016677
+CANDIDATE	id:16677	inCount:4	outCount:1	links:	url:D016677	name:Tocainide	normalName:tocainide	normalWikiTitle:tocainide	predictedType:Chemical

@@ -1,0 +1,13 @@
+ENTITY	text:ritodrin-HCl	normalName:ritodrin-hcl	predictedType:chemical	q:true	qid:Q119	docId:689020	origText:ritodrin-HCl	url:D012312
+CANDIDATE	id:12312	inCount:0	outCount:2	links:5280	url:D012312	name:Ritodrine	normalName:ritodrine	normalWikiTitle:ritodrine	predictedType:Chemical
+CANDIDATE	id:77190	inCount:0	outCount:2	links:	url:C077190	name:clitorin	normalName:clitorin	normalWikiTitle:clitorin	predictedType:Chemical
+CANDIDATE	id:10212	inCount:0	outCount:1	links:	url:C010212	name:litorin	normalName:litorin	normalWikiTitle:litorin	predictedType:Chemical
+CANDIDATE	id:484931	inCount:0	outCount:1	links:	url:C484931	name:scleritodermin A	normalName:scleritodermin a	normalWikiTitle:scleritodermin a	predictedType:Chemical
+CANDIDATE	id:40442	inCount:0	outCount:1	links:	url:C040442	name:heliodermin	normalName:heliodermin	normalWikiTitle:heliodermin	predictedType:Chemical
+CANDIDATE	id:37654	inCount:0	outCount:1	links:	url:C037654	name:HC toxin	normalName:hc toxin	normalWikiTitle:hc toxin	predictedType:Chemical
+CANDIDATE	id:522366	inCount:0	outCount:1	links:	url:C522366	name:xenitorin C	normalName:xenitorin c	normalWikiTitle:xenitorin c	predictedType:Chemical
+CANDIDATE	id:33468	inCount:0	outCount:1	links:	url:C033468	name:iturin C	normalName:iturin c	normalWikiTitle:iturin c	predictedType:Chemical
+CANDIDATE	id:475149	inCount:0	outCount:3	links:	url:C475149	name:rigidin C	normalName:rigidin c	normalWikiTitle:rigidin c	predictedType:Chemical
+CANDIDATE	id:61641	inCount:0	outCount:2	links:	url:C061641	name:heritonin	normalName:heritonin	normalWikiTitle:heritonin	predictedType:Chemical
+ENTITY	text:fenoterol-hydrobromide	normalName:fenoterol-hydrobromide	predictedType:chemical	q:true	qid:Q119	docId:689020	origText:fenoterol-hydrobromide	url:D005280
+CANDIDATE	id:5280	inCount:6	outCount:1	links:12312	url:D005280	name:Fenoterol Hydrobromide	normalName:fenoterol hydrobromide	normalWikiTitle:fenoterol hydrobromide	predictedType:Chemical

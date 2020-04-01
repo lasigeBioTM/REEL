@@ -1,0 +1,17 @@
+ENTITY	text:embolic events	normalName:embolic events	predictedType:disease	q:true	qid:Q261	docId:17020434	origText:embolic events	url:D004617
+CANDIDATE	id:4617	inCount:5	outCount:1	links:	url:D004617	name:Embolism	normalName:embolism	normalWikiTitle:embolism	predictedType:Disease
+CANDIDATE	id:4620	inCount:1	outCount:1	links:	url:D004620	name:Embolism, Fat	normalName:embolism, fat	normalWikiTitle:embolism, fat	predictedType:Disease
+CANDIDATE	id:54556	inCount:0	outCount:1	links:	url:D054556	name:Venous Thromboembolism	normalName:venous thromboembolism	normalWikiTitle:venous thromboembolism	predictedType:Disease
+CANDIDATE	id:20246	inCount:5	outCount:1	links:	url:D020246	name:Venous Thrombosis	normalName:venous thrombosis	normalWikiTitle:venous thrombosis	predictedType:Disease
+CANDIDATE	id:4479	inCount:12	outCount:2	links:	url:D004479	name:Ectopia Lentis	normalName:ectopia lentis	normalWikiTitle:ectopia lentis	predictedType:Disease
+CANDIDATE	id:20257	inCount:0	outCount:1	links:	url:D020257	name:Ventricular Remodeling	normalName:ventricular remodeling	normalWikiTitle:ventricular remodeling	predictedType:Disease
+CANDIDATE	id:56844	inCount:0	outCount:2	links:	url:D056844	name:Renal Colic	normalName:renal colic	normalWikiTitle:renal colic	predictedType:Disease
+CANDIDATE	id:564088	inCount:0	outCount:2	links:	url:C564088	name:Nystagmus, Myoclonic	normalName:nystagmus, myoclonic	normalWikiTitle:nystagmus, myoclonic	predictedType:Disease
+CANDIDATE	id:13716	inCount:0	outCount:2	links:	url:D013716	name:Tennis Elbow	normalName:tennis elbow	normalWikiTitle:tennis elbow	predictedType:Disease
+CANDIDATE	id:4618	inCount:0	outCount:1	links:	url:D004618	name:Embolism, Air	normalName:embolism, air	normalWikiTitle:embolism, air	predictedType:Disease
+ENTITY	text:atrial fibrillation	normalName:atrial fibrillation	predictedType:disease	q:true	qid:Q261	docId:17020434	origText:atrial fibrillation	url:D001281
+CANDIDATE	id:1281	inCount:16	outCount:1	links:	url:D001281	name:Atrial Fibrillation	normalName:atrial fibrillation	normalWikiTitle:atrial fibrillation	predictedType:Disease
+ENTITY	text:strokes	normalName:strokes	predictedType:disease	q:true	qid:Q261	docId:17020434	origText:strokes	url:D020521
+CANDIDATE	id:20521	inCount:2	outCount:1	links:	url:D020521	name:Stroke	normalName:stroke	normalWikiTitle:stroke	predictedType:Disease
+ENTITY	text:stroke	normalName:stroke	predictedType:disease	q:true	qid:Q261	docId:17020434	origText:stroke	url:D020521
+CANDIDATE	id:20521	inCount:2	outCount:1	links:	url:D020521	name:Stroke	normalName:stroke	normalWikiTitle:stroke	predictedType:Disease

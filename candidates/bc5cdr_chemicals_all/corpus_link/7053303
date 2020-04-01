@@ -1,0 +1,4 @@
+ENTITY	text:creatinine	normalName:creatinine	predictedType:chemical	q:true	qid:Q504	docId:7053303	origText:creatinine	url:D003404
+CANDIDATE	id:3404	inCount:8	outCount:1	links:	url:D003404	name:Creatinine	normalName:creatinine	normalWikiTitle:creatinine	predictedType:Chemical
+ENTITY	text:cimetidine	normalName:cimetidine	predictedType:chemical	q:true	qid:Q504	docId:7053303	origText:cimetidine	url:D002927
+CANDIDATE	id:2927	inCount:14	outCount:2	links:	url:D002927	name:Cimetidine	normalName:cimetidine	normalWikiTitle:cimetidine	predictedType:Chemical

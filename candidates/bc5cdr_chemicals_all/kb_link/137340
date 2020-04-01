@@ -1,0 +1,42 @@
+ENTITY	text:catecholamines	normalName:catecholamines	predictedType:chemical	q:true	qid:Q1404	docId:137340	origText:catecholamines	url:D002395
+CANDIDATE	id:2395	inCount:25	outCount:2	links:	url:D002395	name:Catecholamines	normalName:catecholamines	normalWikiTitle:catecholamines	predictedType:Chemical
+CANDIDATE	id:522723	inCount:0	outCount:1	links:	url:C522723	name:cholamine	normalName:cholamine	normalWikiTitle:cholamine	predictedType:Chemical
+CANDIDATE	id:103141	inCount:0	outCount:2	links:	url:C103141	name:carthamine	normalName:carthamine	normalWikiTitle:carthamine	predictedType:Chemical
+CANDIDATE	id:119993	inCount:0	outCount:2	links:	url:C119993	name:tamoxifen catechol	normalName:tamoxifen catechol	normalWikiTitle:tamoxifen catechol	predictedType:Chemical
+CANDIDATE	id:2392	inCount:129	outCount:2	links:	url:D002392	name:Catechin	normalName:catechin	normalWikiTitle:catechin	predictedType:Chemical
+CANDIDATE	id:3380	inCount:0	outCount:1	links:	url:C003380	name:tecomine	normalName:tecomine	normalWikiTitle:tecomine	predictedType:Chemical
+CANDIDATE	id:34221	inCount:0	outCount:1	links:	url:C034221	name:catechol	normalName:catechol	normalWikiTitle:catechol	predictedType:Chemical
+CANDIDATE	id:627721	inCount:0	outCount:1	links:	url:C000627721	name:cathafoline	normalName:cathafoline	normalWikiTitle:cathafoline	predictedType:Chemical
+CANDIDATE	id:551413	inCount:0	outCount:1	links:	url:C551413	name:cathenamine	normalName:cathenamine	normalWikiTitle:cathenamine	predictedType:Chemical
+CANDIDATE	id:82789	inCount:0	outCount:1	links:	url:C082789	name:trehalamine	normalName:trehalamine	normalWikiTitle:trehalamine	predictedType:Chemical
+ENTITY	text:morphine	normalName:morphine	predictedType:chemical	q:true	qid:Q1404	docId:137340	origText:morphine	url:D009020
+CANDIDATE	id:9020	inCount:13	outCount:1	links:	url:D009020	name:Morphine	normalName:morphine	normalWikiTitle:morphine	predictedType:Chemical
+ENTITY	text:serotonin	normalName:serotonin	predictedType:chemical	q:true	qid:Q1404	docId:137340	origText:serotonin	url:D012701
+CANDIDATE	id:12701	inCount:48	outCount:2	links:	url:D012701	name:Serotonin	normalName:serotonin	normalWikiTitle:serotonin	predictedType:Chemical
+ENTITY	text:alpha-methyltyrosine	normalName:alpha-methyltyrosine	predictedType:chemical	q:true	qid:Q1404	docId:137340	origText:alpha-methyltyrosine	url:D019805
+CANDIDATE	id:19805	inCount:0	outCount:1	links:	url:D019805	name:alpha-Methyltyrosine	normalName:alpha-methyltyrosine	normalWikiTitle:alpha-methyltyrosine	predictedType:Chemical
+ENTITY	text:tyrosine	normalName:tyrosine	predictedType:chemical	q:true	qid:Q1404	docId:137340	origText:tyrosine	url:D014443
+CANDIDATE	id:14443	inCount:271	outCount:1	links:	url:D014443	name:Tyrosine	normalName:tyrosine	normalWikiTitle:tyrosine	predictedType:Chemical
+ENTITY	text:scopolamine	normalName:scopolamine	predictedType:chemical	q:true	qid:Q1404	docId:137340	origText:scopolamine	url:D012601
+CANDIDATE	id:12601	inCount:3	outCount:2	links:	url:D012601	name:Scopolamine	normalName:scopolamine	normalWikiTitle:scopolamine	predictedType:Chemical
+ENTITY	text:p-chlorophenylalamine	normalName:p-chlorophenylalamine	predictedType:chemical	q:true	qid:Q1404	docId:137340	origText:p-chlorophenylalamine	url:D010134
+CANDIDATE	id:10134	inCount:2	outCount:1	links:	url:D010134	name:p-Chlorophenylalanine	normalName:p-chlorophenylalanine	normalWikiTitle:p-chlorophenylalanine	predictedType:Chemical
+CANDIDATE	id:454659	inCount:0	outCount:2	links:	url:C454659	name:N-chlorophenylalanine	normalName:n-chlorophenylalanine	normalWikiTitle:n-chlorophenylalanine	predictedType:Chemical
+CANDIDATE	id:10135	inCount:2	outCount:1	links:	url:D010135	name:p-Fluorophenylalanine	normalName:p-fluorophenylalanine	normalWikiTitle:p-fluorophenylalanine	predictedType:Chemical
+CANDIDATE	id:495599	inCount:0	outCount:1	links:	url:C495599	name:N-chlorophenylacetaldimine	normalName:n-chlorophenylacetaldimine	normalWikiTitle:n-chlorophenylacetaldimine	predictedType:Chemical
+CANDIDATE	id:10133	inCount:5	outCount:1	links:	url:D010133	name:p-Chloroamphetamine	normalName:p-chloroamphetamine	normalWikiTitle:p-chloroamphetamine	predictedType:Chemical
+CANDIDATE	id:41830	inCount:0	outCount:1	links:	url:C041830	name:2'-chlorophenethylamine	normalName:2'-chlorophenethylamine	normalWikiTitle:2'-chlorophenethylamine	predictedType:Chemical
+CANDIDATE	id:24320	inCount:0	outCount:1	links:	url:C024320	name:4-chlorophenethylamine	normalName:4-chlorophenethylamine	normalWikiTitle:4-chlorophenethylamine	predictedType:Chemical
+CANDIDATE	id:530634	inCount:0	outCount:2	links:	url:C530634	name:p-cyanophenylalanine	normalName:p-cyanophenylalanine	normalWikiTitle:p-cyanophenylalanine	predictedType:Chemical
+CANDIDATE	id:495409	inCount:0	outCount:1	links:	url:C495409	name:m-chlorophenylguanidine	normalName:m-chlorophenylguanidine	normalWikiTitle:m-chlorophenylguanidine	predictedType:Chemical
+CANDIDATE	id:27218	inCount:0	outCount:1	links:	url:C027218	name:3-fluorophenylalanine	normalName:3-fluorophenylalanine	normalWikiTitle:3-fluorophenylalanine	predictedType:Chemical
+CANDIDATE	id:77877	inCount:0	outCount:1	links:	url:C077877	name:chlorotriphenylsilane	normalName:chlorotriphenylsilane	normalWikiTitle:chlorotriphenylsilane	predictedType:Chemical
+CANDIDATE	id:4658	inCount:0	outCount:1	links:	url:C004658	name:p-chlorophenylamine	normalName:p-chlorophenylamine	normalWikiTitle:p-chlorophenylamine	predictedType:Chemical
+ENTITY	text:acetylcholine	normalName:acetylcholine	predictedType:chemical	q:true	qid:Q1404	docId:137340	origText:acetylcholine	url:D000109
+CANDIDATE	id:109	inCount:23	outCount:1	links:	url:D000109	name:Acetylcholine	normalName:acetylcholine	normalWikiTitle:acetylcholine	predictedType:Chemical
+ENTITY	text:physostigmine	normalName:physostigmine	predictedType:chemical	q:true	qid:Q1404	docId:137340	origText:physostigmine	url:D010830
+CANDIDATE	id:10830	inCount:25	outCount:2	links:	url:D010830	name:Physostigmine	normalName:physostigmine	normalWikiTitle:physostigmine	predictedType:Chemical
+ENTITY	text:neostigmine	normalName:neostigmine	predictedType:chemical	q:true	qid:Q1404	docId:137340	origText:neostigmine	url:D009388
+CANDIDATE	id:9388	inCount:3	outCount:2	links:	url:D009388	name:Neostigmine	normalName:neostigmine	normalWikiTitle:neostigmine	predictedType:Chemical
+ENTITY	text:methscopolamine	normalName:methscopolamine	predictedType:chemical	q:true	qid:Q1404	docId:137340	origText:methscopolamine	url:D019832
+CANDIDATE	id:19832	inCount:0	outCount:1	links:	url:D019832	name:Methscopolamine	normalName:methscopolamine	normalWikiTitle:methscopolamine	predictedType:Chemical

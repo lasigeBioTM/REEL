@@ -1,0 +1,6 @@
+ENTITY	text:dementia	normalName:dementia	predictedType:disease	q:true	qid:Q183	docId:3084231	origText:dementia	url:D003704
+CANDIDATE	id:3704	inCount:25	outCount:2	links:22124	url:D003704	name:Dementia	normalName:dementia	normalWikiTitle:dementia	predictedType:Disease
+ENTITY	text:hyperammonemia	normalName:hyperammonemia	predictedType:disease	q:true	qid:Q183	docId:3084231	origText:hyperammonemia	url:D022124
+CANDIDATE	id:22124	inCount:4	outCount:1	links:3704	url:D022124	name:Hyperammonemia	normalName:hyperammonemia	normalWikiTitle:hyperammonemia	predictedType:Disease
+ENTITY	text:epilepsy	normalName:epilepsy	predictedType:disease	q:true	qid:Q183	docId:3084231	origText:epilepsy	url:D004827
+CANDIDATE	id:4827	inCount:52	outCount:1	links:	url:D004827	name:Epilepsy	normalName:epilepsy	normalWikiTitle:epilepsy	predictedType:Disease

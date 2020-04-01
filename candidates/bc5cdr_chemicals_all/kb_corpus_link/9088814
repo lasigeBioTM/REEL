@@ -1,0 +1,10 @@
+ENTITY	text:bilirubin	normalName:bilirubin	predictedType:chemical	q:true	qid:Q1402	docId:9088814	origText:bilirubin	url:D001663
+CANDIDATE	id:1663	inCount:20	outCount:1	links:	url:D001663	name:Bilirubin	normalName:bilirubin	normalWikiTitle:bilirubin	predictedType:Chemical
+ENTITY	text:3-hydroxybutyrate	normalName:3-hydroxybutyrate	predictedType:chemical	q:true	qid:Q1402	docId:9088814	origText:3-hydroxybutyrate	url:D020155
+CANDIDATE	id:20155	inCount:2	outCount:2	links:	url:D020155	name:3-Hydroxybutyrate	normalName:3-hydroxybutyrate	normalWikiTitle:3-hydroxybutyrate	predictedType:Chemical
+ENTITY	text:prostaglandin E1	normalName:prostaglandin e1	predictedType:chemical	q:true	qid:Q1402	docId:9088814	origText:prostaglandin E1	url:D000527
+CANDIDATE	id:527	inCount:69	outCount:2	links:527	url:D000527	name:Prostaglandin E1	normalName:prostaglandin e1	normalWikiTitle:prostaglandin e1	predictedType:Chemical
+ENTITY	text:PGE1	normalName:pge1	predictedType:chemical	q:true	qid:Q1402	docId:9088814	origText:PGE1	url:D000527
+CANDIDATE	id:527	inCount:69	outCount:2	links:527	url:D000527	name:PGE1	normalName:pge1	normalWikiTitle:pge1	predictedType:Chemical
+ENTITY	text:dextran	normalName:dextran	predictedType:chemical	q:true	qid:Q1402	docId:9088814	origText:dextran	url:D003911
+CANDIDATE	id:3911	inCount:149	outCount:1	links:	url:D003911	name:Dextran	normalName:dextran	normalWikiTitle:dextran	predictedType:Chemical

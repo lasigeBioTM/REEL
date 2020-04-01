@@ -1,0 +1,4 @@
+ENTITY	text:amnesia	normalName:amnesia	predictedType:disease	q:true	qid:Q478	docId:3088653	origText:amnesia	url:D000647
+CANDIDATE	id:647	inCount:4	outCount:2	links:	url:D000647	name:Amnesia	normalName:amnesia	normalWikiTitle:amnesia	predictedType:Disease
+ENTITY	text:pain	normalName:pain	predictedType:disease	q:true	qid:Q478	docId:3088653	origText:pain	url:D010146
+CANDIDATE	id:10146	inCount:34	outCount:1	links:	url:D010146	name:Pain	normalName:pain	normalWikiTitle:pain	predictedType:Disease

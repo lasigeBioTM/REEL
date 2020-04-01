@@ -1,0 +1,24 @@
+ENTITY	text:Cholesteryl hemisuccinate	normalName:cholesteryl hemisuccinate	predictedType:chemical	q:true	qid:Q10	docId:9067481	origText:Cholesteryl hemisuccinate	url:C013440
+CANDIDATE	id:13440	inCount:0	outCount:1	links:	url:C013440	name:cholesteryl hemisuccinate	normalName:cholesteryl hemisuccinate	normalWikiTitle:cholesteryl hemisuccinate	predictedType:Chemical
+ENTITY	text:galactosamine	normalName:galactosamine	predictedType:chemical	q:true	qid:Q10	docId:9067481	origText:galactosamine	url:D005688
+CANDIDATE	id:5688	inCount:31	outCount:1	links:82;2251;2725	url:D005688	name:Galactosamine	normalName:galactosamine	normalWikiTitle:galactosamine	predictedType:Chemical
+ENTITY	text:gamma-cholesteryloxybutyric acid	normalName:gamma-cholesteryloxybutyric acid	predictedType:chemical	q:true	qid:Q10	docId:9067481	origText:gamma-cholesteryloxybutyric acid	url:C103872
+CANDIDATE	id:103872	inCount:0	outCount:1	links:	url:C103872	name:gamma-(cholesteryloxy)butyric acid	normalName:gamma-(cholesteryloxy)butyric acid	normalWikiTitle:gamma-(cholesteryloxy)butyric acid	predictedType:Chemical
+CANDIDATE	id:113106	inCount:0	outCount:1	links:	url:C113106	name:tocopheryloxybutyric acid	normalName:tocopheryloxybutyric acid	normalWikiTitle:tocopheryloxybutyric acid	predictedType:Chemical
+CANDIDATE	id:544768	inCount:0	outCount:2	links:	url:C544768	name:3-cholesteryloxycarbonylpropanoic acid	normalName:3-cholesteryloxycarbonylpropanoic acid	normalWikiTitle:3-cholesteryloxycarbonylpropanoic acid	predictedType:Chemical
+CANDIDATE	id:5680	inCount:100	outCount:1	links:	url:D005680	name:gamma-Aminobutyric Acid	normalName:gamma-aminobutyric acid	normalWikiTitle:gamma-aminobutyric acid	predictedType:Chemical
+CANDIDATE	id:464654	inCount:0	outCount:2	links:	url:C464654	name:cholesteryl oligo(lactic acid)	normalName:cholesteryl oligo(lactic acid)	normalWikiTitle:cholesteryl oligo(lactic acid)	predictedType:Chemical
+CANDIDATE	id:511345	inCount:0	outCount:1	links:	url:C511345	name:4-chloro-3-hydroxybutyric acid	normalName:4-chloro-3-hydroxybutyric acid	normalWikiTitle:4-chloro-3-hydroxybutyric acid	predictedType:Chemical
+CANDIDATE	id:514718	inCount:0	outCount:1	links:	url:C514718	name:cholestenoic acid	normalName:cholestenoic acid	normalWikiTitle:cholestenoic acid	predictedType:Chemical
+CANDIDATE	id:483477	inCount:0	outCount:2	links:	url:C483477	name:N-arachidonoyl-gamma-amino-butyric acid	normalName:n-arachidonoyl-gamma-amino-butyric acid	normalWikiTitle:n-arachidonoyl-gamma-amino-butyric acid	predictedType:Chemical
+CANDIDATE	id:20155	inCount:2	outCount:2	links:	url:D020155	name:3-Hydroxybutyric Acid	normalName:3-hydroxybutyric acid	normalWikiTitle:3-hydroxybutyric acid	predictedType:Chemical
+CANDIDATE	id:111420	inCount:0	outCount:1	links:	url:C111420	name:4-hydroxybutyric acid	normalName:4-hydroxybutyric acid	normalWikiTitle:4-hydroxybutyric acid	predictedType:Chemical
+CANDIDATE	id:31570	inCount:0	outCount:1	links:	url:C031570	name:2-hydroxybutyric acid	normalName:2-hydroxybutyric acid	normalWikiTitle:2-hydroxybutyric acid	predictedType:Chemical
+ENTITY	text:adriamycin	normalName:adriamycin	predictedType:chemical	q:true	qid:Q10	docId:9067481	origText:adriamycin	url:D004317
+CANDIDATE	id:4317	inCount:559	outCount:1	links:82	url:D004317	name:Adriamycin	normalName:adriamycin	normalWikiTitle:adriamycin	predictedType:Chemical
+ENTITY	text:acetaminophen	normalName:acetaminophen	predictedType:chemical	q:true	qid:Q10	docId:9067481	origText:acetaminophen	url:D000082
+CANDIDATE	id:82	inCount:89	outCount:1	links:4317;2251;5688;2725	url:D000082	name:Acetaminophen	normalName:acetaminophen	normalWikiTitle:acetaminophen	predictedType:Chemical
+ENTITY	text:chloroform	normalName:chloroform	predictedType:chemical	q:true	qid:Q10	docId:9067481	origText:chloroform	url:D002725
+CANDIDATE	id:2725	inCount:7	outCount:2	links:82;2251;5688	url:D002725	name:Chloroform	normalName:chloroform	normalWikiTitle:chloroform	predictedType:Chemical
+ENTITY	text:carbon tetrachloride	normalName:carbon tetrachloride	predictedType:chemical	q:true	qid:Q10	docId:9067481	origText:carbon tetrachloride	url:D002251
+CANDIDATE	id:2251	inCount:1	outCount:1	links:82;5688;2725	url:D002251	name:Carbon Tetrachloride	normalName:carbon tetrachloride	normalWikiTitle:carbon tetrachloride	predictedType:Chemical

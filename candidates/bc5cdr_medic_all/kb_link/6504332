@@ -1,0 +1,25 @@
+ENTITY	text:neurologically-impaired	normalName:neurologically-impaired	predictedType:disease	q:true	qid:Q1370	docId:6504332	origText:neurologically-impaired	url:D009422
+CANDIDATE	id:9422	inCount:27	outCount:1	links:	url:D009422	name:Neurological Disorders	normalName:neurological disorders	normalWikiTitle:neurological disorders	predictedType:Disease
+CANDIDATE	id:9461	inCount:26	outCount:2	links:	url:D009461	name:Neurologic Manifestations	normalName:neurologic manifestations	normalWikiTitle:neurologic manifestations	predictedType:Disease
+CANDIDATE	id:20924	inCount:6	outCount:1	links:	url:D020924	name:Urological Manifestations	normalName:urological manifestations	normalWikiTitle:urological manifestations	predictedType:Disease
+CANDIDATE	id:14570	inCount:9	outCount:2	links:	url:D014570	name:Urologic Diseases	normalName:urologic diseases	normalWikiTitle:urologic diseases	predictedType:Disease
+CANDIDATE	id:11017	inCount:0	outCount:1	links:	url:D011017	name:Pneumonia, Lipid	normalName:pneumonia, lipid	normalWikiTitle:pneumonia, lipid	predictedType:Disease
+CANDIDATE	id:20233	inCount:2	outCount:1	links:	url:D020233	name:Gait Disorders, Neurologic	normalName:gait disorders, neurologic	normalWikiTitle:gait disorders, neurologic	predictedType:Disease
+CANDIDATE	id:20078	inCount:0	outCount:2	links:	url:D020078	name:Neurogenic Inflammation	normalName:neurogenic inflammation	normalWikiTitle:neurogenic inflammation	predictedType:Disease
+CANDIDATE	id:5156	inCount:1	outCount:1	links:	url:D005156	name:Facial Neuralgia	normalName:facial neuralgia	normalWikiTitle:facial neuralgia	predictedType:Disease
+CANDIDATE	id:20423	inCount:1	outCount:1	links:	url:D020423	name:Median Neuropathy	normalName:median neuropathy	normalWikiTitle:median neuropathy	predictedType:Disease
+CANDIDATE	id:14571	inCount:4	outCount:1	links:	url:D014571	name:Urologic Neoplasms	normalName:urologic neoplasms	normalWikiTitle:urologic neoplasms	predictedType:Disease
+CANDIDATE	id:9497	inCount:0	outCount:2	links:	url:D009497	name:Neurotic Disorders	normalName:neurotic disorders	normalWikiTitle:neurotic disorders	predictedType:Disease
+CANDIDATE	id:1184	inCount:1	outCount:1	links:	url:D001184	name:Impairment, Phonological	normalName:impairment, phonological	normalWikiTitle:impairment, phonological	predictedType:Disease
+CANDIDATE	id:1184	inCount:1	outCount:1	links:	url:D001184	name:Phonological Impairment	normalName:phonological impairment	normalWikiTitle:phonological impairment	predictedType:Disease
+CANDIDATE	id:9422	inCount:27	outCount:1	links:	url:D009422	name:Disorder, Neurological	normalName:disorder, neurological	normalWikiTitle:disorder, neurological	predictedType:Disease
+CANDIDATE	id:9422	inCount:27	outCount:1	links:	url:D009422	name:Neurological Disorder	normalName:neurological disorder	normalWikiTitle:neurological disorder	predictedType:Disease
+CANDIDATE	id:1184	inCount:1	outCount:1	links:	url:D001184	name:Impairments, Phonological	normalName:impairments, phonological	normalWikiTitle:impairments, phonological	predictedType:Disease
+CANDIDATE	id:1184	inCount:1	outCount:1	links:	url:D001184	name:Phonological Impairments	normalName:phonological impairments	normalWikiTitle:phonological impairments	predictedType:Disease
+CANDIDATE	id:9422	inCount:27	outCount:1	links:	url:D009422	name:Disorders, Neurological	normalName:disorders, neurological	normalWikiTitle:disorders, neurological	predictedType:Disease
+CANDIDATE	id:9461	inCount:26	outCount:2	links:	url:D009461	name:Manifestation, Neurological	normalName:manifestation, neurological	normalWikiTitle:manifestation, neurological	predictedType:Disease
+CANDIDATE	id:9461	inCount:26	outCount:2	links:	url:D009461	name:Neurological Manifestation	normalName:neurological manifestation	normalWikiTitle:neurological manifestation	predictedType:Disease
+ENTITY	text:seizures	normalName:seizures	predictedType:disease	q:true	qid:Q1370	docId:6504332	origText:seizures	url:D012640
+CANDIDATE	id:12640	inCount:53	outCount:1	links:	url:D012640	name:Seizure	normalName:seizure	normalWikiTitle:seizure	predictedType:Disease
+ENTITY	text:movement disorders	normalName:movement disorders	predictedType:disease	q:true	qid:Q1370	docId:6504332	origText:movement disorders	url:D009069
+CANDIDATE	id:9069	inCount:19	outCount:1	links:	url:D009069	name:Movement Disorder	normalName:movement disorder	normalWikiTitle:movement disorder	predictedType:Disease

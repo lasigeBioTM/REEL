@@ -1,0 +1,4 @@
+ENTITY	text:doxorubicin	normalName:doxorubicin	predictedType:chemical	q:true	qid:Q494	docId:1732369	origText:doxorubicin	url:D004317
+CANDIDATE	id:4317	inCount:559	outCount:1	links:4280	url:D004317	name:Doxorubicin	normalName:doxorubicin	normalWikiTitle:doxorubicin	predictedType:Chemical
+ENTITY	text:Dobutamine	normalName:dobutamine	predictedType:chemical	q:true	qid:Q494	docId:1732369	origText:Dobutamine	url:D004280
+CANDIDATE	id:4280	inCount:2	outCount:2	links:4317	url:D004280	name:Dobutamine	normalName:dobutamine	normalWikiTitle:dobutamine	predictedType:Chemical

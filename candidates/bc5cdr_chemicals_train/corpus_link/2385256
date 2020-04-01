@@ -1,0 +1,4 @@
+ENTITY	text:acetylcholine	normalName:acetylcholine	predictedType:chemical	q:true	qid:Q164	docId:2385256	origText:acetylcholine	url:D000109
+CANDIDATE	id:109	inCount:23	outCount:1	links:	url:D000109	name:Acetylcholine	normalName:acetylcholine	normalWikiTitle:acetylcholine	predictedType:Chemical
+ENTITY	text:magnesium	normalName:magnesium	predictedType:chemical	q:true	qid:Q164	docId:2385256	origText:magnesium	url:D008274
+CANDIDATE	id:8274	inCount:26	outCount:2	links:	url:D008274	name:Magnesium	normalName:magnesium	normalWikiTitle:magnesium	predictedType:Chemical

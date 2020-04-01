@@ -1,0 +1,4 @@
+ENTITY	text:coniine	normalName:coniine	predictedType:chemical	q:true	qid:Q1346	docId:8073369	origText:coniine	url:C007112
+CANDIDATE	id:7112	inCount:0	outCount:2	links:9538	url:C007112	name:coniine	normalName:coniine	normalWikiTitle:coniine	predictedType:Chemical
+ENTITY	text:nicotine	normalName:nicotine	predictedType:chemical	q:true	qid:Q1346	docId:8073369	origText:nicotine	url:D009538
+CANDIDATE	id:9538	inCount:50	outCount:2	links:7112	url:D009538	name:Nicotine	normalName:nicotine	normalWikiTitle:nicotine	predictedType:Chemical

@@ -1,0 +1,28 @@
+ENTITY	text:reduction in blood pressure	normalName:reduction in blood pressure	predictedType:disease	q:true	qid:Q413	docId:10835440	origText:reduction in blood pressure	url:D007022
+CANDIDATE	id:7022	inCount:3	outCount:1	links:	url:D007022	name:Blood Pressure, Low	normalName:blood pressure, low	normalWikiTitle:blood pressure, low	predictedType:Disease
+CANDIDATE	id:1796	inCount:12	outCount:1	links:	url:D001796	name:Blood Protein Disorders	normalName:blood protein disorders	normalWikiTitle:blood protein disorders	predictedType:Disease
+CANDIDATE	id:5549	inCount:2	outCount:2	links:	url:D005549	name:Foreign-Body Reaction	normalName:foreign-body reaction	normalWikiTitle:foreign-body reaction	predictedType:Disease
+CANDIDATE	id:1862	inCount:3	outCount:1	links:	url:D001862	name:Bone Resorption	normalName:bone resorption	normalWikiTitle:bone resorption	predictedType:Disease
+CANDIDATE	id:537554	inCount:0	outCount:4	links:	url:C537554	name:Microgastria limb reduction defect	normalName:microgastria limb reduction defect	normalWikiTitle:microgastria limb reduction defect	predictedType:Disease
+CANDIDATE	id:18467	inCount:0	outCount:1	links:	url:D018467	name:Positive-Pressure Respiration, Intrinsic	normalName:positive-pressure respiration, intrinsic	normalWikiTitle:positive-pressure respiration, intrinsic	predictedType:Disease
+CANDIDATE	id:60751	inCount:1	outCount:2	links:	url:D060751	name:Bone Retroversion	normalName:bone retroversion	normalWikiTitle:bone retroversion	predictedType:Disease
+CANDIDATE	id:563929	inCount:0	outCount:1	links:	url:C563929	name:Mental Retardation, Autosomal Recessive 3	normalName:mental retardation, autosomal recessive 3	normalWikiTitle:mental retardation, autosomal recessive 3	predictedType:Disease
+CANDIDATE	id:5401	inCount:0	outCount:1	links:	url:D005401	name:Fissure in Ano	normalName:fissure in ano	normalWikiTitle:fissure in ano	predictedType:Disease
+CANDIDATE	id:567014	inCount:0	outCount:1	links:	url:C567014	name:Mental Retardation, Autosomal Recessive 9	normalName:mental retardation, autosomal recessive 9	normalWikiTitle:mental retardation, autosomal recessive 9	predictedType:Disease
+CANDIDATE	id:567017	inCount:0	outCount:1	links:	url:C567017	name:Mental Retardation, Autosomal Recessive 6	normalName:mental retardation, autosomal recessive 6	normalWikiTitle:mental retardation, autosomal recessive 6	predictedType:Disease
+CANDIDATE	id:6973	inCount:18	outCount:1	links:	url:D006973	name:High Blood Pressure	normalName:high blood pressure	normalWikiTitle:high blood pressure	predictedType:Disease
+CANDIDATE	id:6973	inCount:18	outCount:1	links:	url:D006973	name:Blood Pressure, High	normalName:blood pressure, high	normalWikiTitle:blood pressure, high	predictedType:Disease
+CANDIDATE	id:6973	inCount:18	outCount:1	links:	url:D006973	name:High Blood Pressures	normalName:high blood pressures	normalWikiTitle:high blood pressures	predictedType:Disease
+CANDIDATE	id:6973	inCount:18	outCount:1	links:	url:D006973	name:Blood Pressures, High	normalName:blood pressures, high	normalWikiTitle:blood pressures, high	predictedType:Disease
+CANDIDATE	id:7022	inCount:3	outCount:1	links:	url:D007022	name:Low Blood Pressure	normalName:low blood pressure	normalWikiTitle:low blood pressure	predictedType:Disease
+CANDIDATE	id:1796	inCount:12	outCount:1	links:	url:D001796	name:Protein Disorder, Blood	normalName:protein disorder, blood	normalWikiTitle:protein disorder, blood	predictedType:Disease
+CANDIDATE	id:1796	inCount:12	outCount:1	links:	url:D001796	name:Blood Protein Disorder	normalName:blood protein disorder	normalWikiTitle:blood protein disorder	predictedType:Disease
+CANDIDATE	id:1796	inCount:12	outCount:1	links:	url:D001796	name:Disorder, Blood Protein	normalName:disorder, blood protein	normalWikiTitle:disorder, blood protein	predictedType:Disease
+ENTITY	text:ischemic stroke	normalName:ischemic stroke	predictedType:disease	q:true	qid:Q413	docId:10835440	origText:ischemic stroke	url:D002544
+CANDIDATE	id:2544	inCount:5	outCount:1	links:	url:D002544	name:STROKE, ISCHEMIC	normalName:stroke, ischemic	normalWikiTitle:stroke, ischemic	predictedType:Disease
+ENTITY	text:death	normalName:death	predictedType:disease	q:true	qid:Q413	docId:10835440	origText:death	url:D003643
+CANDIDATE	id:3643	inCount:11	outCount:1	links:	url:D003643	name:Death	normalName:death	normalWikiTitle:death	predictedType:Disease
+ENTITY	text:acute stroke	normalName:acute stroke	predictedType:disease	q:true	qid:Q413	docId:10835440	origText:acute stroke	url:D020521
+CANDIDATE	id:20521	inCount:2	outCount:1	links:	url:D020521	name:Stroke, Acute	normalName:stroke, acute	normalWikiTitle:stroke, acute	predictedType:Disease
+ENTITY	text:Stroke	normalName:stroke	predictedType:disease	q:true	qid:Q413	docId:10835440	origText:Stroke	url:D020521
+CANDIDATE	id:20521	inCount:2	outCount:1	links:	url:D020521	name:Stroke	normalName:stroke	normalWikiTitle:stroke	predictedType:Disease

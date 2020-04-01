@@ -1,0 +1,8 @@
+ENTITY	text:aplastic anemia	normalName:aplastic anemia	predictedType:disease	q:true	qid:Q304	docId:8441146	origText:aplastic anemia	url:D000741
+CANDIDATE	id:741	inCount:5	outCount:2	links:	url:D000741	name:Anemia, Aplastic	normalName:anemia, aplastic	normalWikiTitle:anemia, aplastic	predictedType:Disease
+ENTITY	text:rheumatoid arthritis	normalName:rheumatoid arthritis	predictedType:disease	q:true	qid:Q304	docId:8441146	origText:rheumatoid arthritis	url:D001172
+CANDIDATE	id:1172	inCount:8	outCount:3	links:1172	url:D001172	name:Arthritis, Rheumatoid	normalName:arthritis, rheumatoid	normalWikiTitle:arthritis, rheumatoid	predictedType:Disease
+ENTITY	text:RA	normalName:ra	predictedType:disease	q:true	qid:Q304	docId:8441146	origText:RA	url:D001172
+CANDIDATE	id:1172	inCount:8	outCount:3	links:1172	url:D001172	name:RA	normalName:ra	normalWikiTitle:ra	predictedType:Disease
+ENTITY	text:synovitis	normalName:synovitis	predictedType:disease	q:true	qid:Q304	docId:8441146	origText:synovitis	url:D013585
+CANDIDATE	id:13585	inCount:5	outCount:1	links:	url:D013585	name:Synovitis	normalName:synovitis	normalWikiTitle:synovitis	predictedType:Disease

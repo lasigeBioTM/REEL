@@ -1,0 +1,6 @@
+ENTITY	text:cardiac arrhythmia	normalName:cardiac arrhythmia	predictedType:disease	q:true	qid:Q291	docId:11419773	origText:cardiac arrhythmia	url:D001145
+CANDIDATE	id:1145	inCount:27	outCount:2	links:	url:D001145	name:Arrhythmia, Cardiac	normalName:arrhythmia, cardiac	normalWikiTitle:arrhythmia, cardiac	predictedType:Disease
+ENTITY	text:ventricular fibrillation	normalName:ventricular fibrillation	predictedType:disease	q:true	qid:Q291	docId:11419773	origText:ventricular fibrillation	url:D014693
+CANDIDATE	id:14693	inCount:3	outCount:1	links:	url:D014693	name:Ventricular Fibrillation	normalName:ventricular fibrillation	normalWikiTitle:ventricular fibrillation	predictedType:Disease
+ENTITY	text:mitral valve prolapse	normalName:mitral valve prolapse	predictedType:disease	q:true	qid:Q291	docId:11419773	origText:mitral valve prolapse	url:D008945
+CANDIDATE	id:8945	inCount:9	outCount:1	links:	url:D008945	name:Mitral Valve Prolapse	normalName:mitral valve prolapse	normalWikiTitle:mitral valve prolapse	predictedType:Disease

@@ -1,0 +1,68 @@
+ENTITY	text:hemosiderotic	normalName:hemosiderotic	predictedType:disease	q:true	qid:Q1241	docId:18801087	origText:hemosiderotic	url:D006486
+CANDIDATE	id:6486	inCount:3	outCount:1	links:7035;15433;1919	url:D006486	name:Hemosiderosis	normalName:hemosiderosis	normalWikiTitle:hemosiderosis	predictedType:Disease
+CANDIDATE	id:51516	inCount:0	outCount:1	links:	url:D051516	name:Hemospermia	normalName:hemospermia	normalWikiTitle:hemospermia	predictedType:Disease
+CANDIDATE	id:756	inCount:9	outCount:2	links:	url:D000756	name:Anemia, Sideroblastic	normalName:anemia, sideroblastic	normalWikiTitle:anemia, sideroblastic	predictedType:Disease
+CANDIDATE	id:12806	inCount:1	outCount:1	links:	url:D012806	name:Siderosis	normalName:siderosis	normalWikiTitle:siderosis	predictedType:Disease
+CANDIDATE	id:6484	inCount:0	outCount:2	links:	url:D006484	name:Hemorrhoids	normalName:hemorrhoids	normalWikiTitle:hemorrhoids	predictedType:Disease
+CANDIDATE	id:537337	inCount:0	outCount:2	links:	url:C537337	name:Silicosiderosis	normalName:silicosiderosis	normalWikiTitle:silicosiderosis	predictedType:Disease
+CANDIDATE	id:566555	inCount:0	outCount:2	links:	url:C566555	name:Desmosterolosis	normalName:desmosterolosis	normalWikiTitle:desmosterolosis	predictedType:Disease
+CANDIDATE	id:9220	inCount:8	outCount:1	links:	url:D009220	name:Myositis	normalName:myositis	normalWikiTitle:myositis	predictedType:Disease
+CANDIDATE	id:6432	inCount:6	outCount:2	links:	url:D006432	name:Hemochromatosis	normalName:hemochromatosis	normalWikiTitle:hemochromatosis	predictedType:Disease
+CANDIDATE	id:50197	inCount:3	outCount:1	links:	url:D050197	name:Atherosclerosis	normalName:atherosclerosis	normalWikiTitle:atherosclerosis	predictedType:Disease
+ENTITY	text:hemosiderin	normalName:hemosiderin	predictedType:disease	q:true	qid:Q1241	docId:18801087	origText:hemosiderin	url:D006486
+CANDIDATE	id:6486	inCount:3	outCount:1	links:7035;15433;1919	url:D006486	name:Hemosiderosis	normalName:hemosiderosis	normalWikiTitle:hemosiderosis	predictedType:Disease
+CANDIDATE	id:51516	inCount:0	outCount:1	links:	url:D051516	name:Hemospermia	normalName:hemospermia	normalWikiTitle:hemospermia	predictedType:Disease
+CANDIDATE	id:6465	inCount:0	outCount:2	links:	url:D006465	name:Hemoperitoneum	normalName:hemoperitoneum	normalWikiTitle:hemoperitoneum	predictedType:Disease
+CANDIDATE	id:12806	inCount:1	outCount:1	links:	url:D012806	name:Siderosis	normalName:siderosis	normalWikiTitle:siderosis	predictedType:Disease
+CANDIDATE	id:6431	inCount:0	outCount:1	links:	url:D006431	name:Hemobilia	normalName:hemobilia	normalWikiTitle:hemobilia	predictedType:Disease
+CANDIDATE	id:6461	inCount:2	outCount:1	links:11507	url:D006461	name:Hemolysis	normalName:hemolysis	normalWikiTitle:hemolysis	predictedType:Disease
+CANDIDATE	id:12303	inCount:18	outCount:1	links:	url:D012303	name:Ring Chromosomes	normalName:ring chromosomes	normalWikiTitle:ring chromosomes	predictedType:Disease
+CANDIDATE	id:7446	inCount:0	outCount:1	links:	url:D007446	name:Chromosome Inversion	normalName:chromosome inversion	normalWikiTitle:chromosome inversion	predictedType:Disease
+CANDIDATE	id:15794	inCount:2	outCount:3	links:	url:D015794	name:Choroideremia	normalName:choroideremia	normalWikiTitle:choroideremia	predictedType:Disease
+CANDIDATE	id:538022	inCount:0	outCount:1	links:	url:C538022	name:Chromosome 9 Ring	normalName:chromosome 9 ring	normalWikiTitle:chromosome 9 ring	predictedType:Disease
+ENTITY	text:membranous glomerulonephritis	normalName:membranous glomerulonephritis	predictedType:disease	q:true	qid:Q1241	docId:18801087	origText:membranous glomerulonephritis	url:D015433
+CANDIDATE	id:15433	inCount:0	outCount:2	links:6486;7035;1919	url:D015433	name:Glomerulonephritis, Membranous	normalName:glomerulonephritis, membranous	normalWikiTitle:glomerulonephritis, membranous	predictedType:Disease
+ENTITY	text:neoplasm	normalName:neoplasm	predictedType:disease	q:true	qid:Q1241	docId:18801087	origText:neoplasm	url:D009369
+CANDIDATE	id:9369	inCount:18	outCount:1	links:	url:D009369	name:Neoplasm	normalName:neoplasm	normalWikiTitle:neoplasm	predictedType:Disease
+ENTITY	text:lung cancer	normalName:lung cancer	predictedType:disease	q:true	qid:Q1241	docId:18801087	origText:lung cancer	url:D008175
+CANDIDATE	id:8175	inCount:12	outCount:2	links:	url:D008175	name:Cancer, Lung	normalName:cancer, lung	normalWikiTitle:cancer, lung	predictedType:Disease
+ENTITY	text:arrhythmic	normalName:arrhythmic	predictedType:disease	q:true	qid:Q1241	docId:18801087	origText:arrhythmic	url:D001145
+CANDIDATE	id:1145	inCount:27	outCount:2	links:13610	url:D001145	name:Arrhythmia, Cardiac	normalName:arrhythmia, cardiac	normalWikiTitle:arrhythmia, cardiac	predictedType:Disease
+CANDIDATE	id:1145	inCount:27	outCount:2	links:13610	url:D001145	name:Arrhythmias, Cardiac	normalName:arrhythmias, cardiac	normalWikiTitle:arrhythmias, cardiac	predictedType:Disease
+CANDIDATE	id:1146	inCount:2	outCount:1	links:	url:D001146	name:Arrhythmia, Sinus	normalName:arrhythmia, sinus	normalWikiTitle:arrhythmia, sinus	predictedType:Disease
+CANDIDATE	id:9896	inCount:24	outCount:1	links:	url:D009896	name:Optic Atrophy	normalName:optic atrophy	normalWikiTitle:optic atrophy	predictedType:Disease
+CANDIDATE	id:7035	inCount:2	outCount:1	links:6486;15433	url:D007035	name:Hypothermia	normalName:hypothermia	normalWikiTitle:hypothermia	predictedType:Disease
+CANDIDATE	id:19263	inCount:0	outCount:1	links:	url:D019263	name:Dysthymic Disorder	normalName:dysthymic disorder	normalWikiTitle:dysthymic disorder	predictedType:Disease
+CANDIDATE	id:311050	inCount:0	outCount:1	links:	url:311050	name:OPTIC ATROPHY 2	normalName:optic atrophy 2	normalWikiTitle:optic atrophy 2	predictedType:Disease
+CANDIDATE	id:565343	inCount:0	outCount:1	links:	url:C565343	name:Optic Atrophy 4	normalName:optic atrophy 4	normalWikiTitle:optic atrophy 4	predictedType:Disease
+CANDIDATE	id:537126	inCount:0	outCount:1	links:	url:C537126	name:Optic atrophy 5	normalName:optic atrophy 5	normalWikiTitle:optic atrophy 5	predictedType:Disease
+CANDIDATE	id:4890	inCount:11	outCount:2	links:	url:D004890	name:Erythema	normalName:erythema	normalWikiTitle:erythema	predictedType:Disease
+CANDIDATE	id:567833	inCount:0	outCount:1	links:	url:C567833	name:Optic Atrophy 7	normalName:optic atrophy 7	normalWikiTitle:optic atrophy 7	predictedType:Disease
+CANDIDATE	id:1145	inCount:27	outCount:2	links:13610	url:D001145	name:Arrhythmia	normalName:arrhythmia	normalWikiTitle:arrhythmia	predictedType:Disease
+CANDIDATE	id:1145	inCount:27	outCount:2	links:13610	url:D001145	name:Arrythmia	normalName:arrythmia	normalWikiTitle:arrythmia	predictedType:Disease
+CANDIDATE	id:13036	inCount:49	outCount:2	links:	url:D013036	name:Hypsarrhythmia	normalName:hypsarrhythmia	normalWikiTitle:hypsarrhythmia	predictedType:Disease
+CANDIDATE	id:13036	inCount:49	outCount:2	links:	url:D013036	name:Hypsarrhythmias	normalName:hypsarrhythmias	normalWikiTitle:hypsarrhythmias	predictedType:Disease
+CANDIDATE	id:1919	inCount:0	outCount:1	links:6486;15433;13610;11507	url:D001919	name:Bradyarrhythmia	normalName:bradyarrhythmia	normalWikiTitle:bradyarrhythmia	predictedType:Disease
+CANDIDATE	id:13610	inCount:7	outCount:2	links:	url:D013610	name:Tachyarrhythmia	normalName:tachyarrhythmia	normalWikiTitle:tachyarrhythmia	predictedType:Disease
+CANDIDATE	id:1145	inCount:27	outCount:2	links:13610	url:D001145	name:Cardiac Arrhythmia	normalName:cardiac arrhythmia	normalWikiTitle:cardiac arrhythmia	predictedType:Disease
+ENTITY	text:neoplasms	normalName:neoplasms	predictedType:disease	q:true	qid:Q1241	docId:18801087	origText:neoplasms	url:D009369
+CANDIDATE	id:9369	inCount:18	outCount:1	links:	url:D009369	name:Neoplasm	normalName:neoplasm	normalWikiTitle:neoplasm	predictedType:Disease
+ENTITY	text:Autoimmune diseases	normalName:autoimmune diseases	predictedType:disease	q:true	qid:Q1241	docId:18801087	origText:Autoimmune diseases	url:D001327
+CANDIDATE	id:1327	inCount:50	outCount:1	links:	url:D001327	name:Autoimmune Disease	normalName:autoimmune disease	normalWikiTitle:autoimmune disease	predictedType:Disease
+ENTITY	text:tachycardia	normalName:tachycardia	predictedType:disease	q:true	qid:Q1241	docId:18801087	origText:tachycardia	url:D013610
+CANDIDATE	id:13610	inCount:7	outCount:2	links:	url:D013610	name:Tachycardia	normalName:tachycardia	normalWikiTitle:tachycardia	predictedType:Disease
+ENTITY	text:viral hepatitis	normalName:viral hepatitis	predictedType:disease	q:true	qid:Q1241	docId:18801087	origText:viral hepatitis	url:D006525
+CANDIDATE	id:6525	inCount:5	outCount:2	links:	url:D006525	name:Hepatitis, Viral, Human	normalName:hepatitis, viral, human	normalWikiTitle:hepatitis, viral, human	predictedType:Disease
+CANDIDATE	id:6524	inCount:2	outCount:2	links:	url:D006524	name:Hepatitis, Viral, Animal	normalName:hepatitis, viral, animal	normalWikiTitle:hepatitis, viral, animal	predictedType:Disease
+CANDIDATE	id:18792	inCount:7	outCount:3	links:	url:D018792	name:Encephalitis, Viral	normalName:encephalitis, viral	normalWikiTitle:encephalitis, viral	predictedType:Disease
+CANDIDATE	id:6505	inCount:5	outCount:1	links:	url:D006505	name:Hepatitis	normalName:hepatitis	normalWikiTitle:hepatitis	predictedType:Disease
+CANDIDATE	id:19557	inCount:0	outCount:2	links:	url:D019557	name:Dermatitis, Perioral	normalName:dermatitis, perioral	normalWikiTitle:dermatitis, perioral	predictedType:Disease
+CANDIDATE	id:8587	inCount:1	outCount:2	links:	url:D008587	name:Meningitis, Viral	normalName:meningitis, viral	normalWikiTitle:meningitis, viral	predictedType:Disease
+CANDIDATE	id:3699	inCount:1	outCount:2	links:	url:D003699	name:Hepatitis D	normalName:hepatitis d	normalWikiTitle:hepatitis d	predictedType:Disease
+CANDIDATE	id:6506	inCount:0	outCount:2	links:	url:D006506	name:Hepatitis A	normalName:hepatitis a	normalWikiTitle:hepatitis a	predictedType:Disease
+CANDIDATE	id:53489	inCount:0	outCount:2	links:	url:D053489	name:Mink Viral Enteritis	normalName:mink viral enteritis	normalWikiTitle:mink viral enteritis	predictedType:Disease
+CANDIDATE	id:6526	inCount:1	outCount:2	links:	url:D006526	name:Hepatitis C	normalName:hepatitis c	normalWikiTitle:hepatitis c	predictedType:Disease
+ENTITY	text:valvular heart disease	normalName:valvular heart disease	predictedType:disease	q:true	qid:Q1241	docId:18801087	origText:valvular heart disease	url:D006349
+CANDIDATE	id:6349	inCount:17	outCount:1	links:	url:D006349	name:Disease, Valvular Heart	normalName:disease, valvular heart	normalWikiTitle:disease, valvular heart	predictedType:Disease
+ENTITY	text:proteinuria	normalName:proteinuria	predictedType:disease	q:true	qid:Q1241	docId:18801087	origText:proteinuria	url:D011507
+CANDIDATE	id:11507	inCount:4	outCount:2	links:6461;1919	url:D011507	name:Proteinuria	normalName:proteinuria	normalWikiTitle:proteinuria	predictedType:Disease

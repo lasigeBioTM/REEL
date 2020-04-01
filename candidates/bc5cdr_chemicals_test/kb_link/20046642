@@ -1,0 +1,8 @@
+ENTITY	text:BCNU	normalName:bcnu	predictedType:chemical	q:true	qid:Q13	docId:20046642	origText:BCNU	url:D002330
+CANDIDATE	id:2330	inCount:56	outCount:1	links:2330	url:D002330	name:BCNU	normalName:bcnu	normalWikiTitle:bcnu	predictedType:Chemical
+ENTITY	text:malondialdehyde	normalName:malondialdehyde	predictedType:chemical	q:true	qid:Q13	docId:20046642	origText:malondialdehyde	url:D008315
+CANDIDATE	id:8315	inCount:11	outCount:1	links:	url:D008315	name:Malondialdehyde	normalName:malondialdehyde	normalWikiTitle:malondialdehyde	predictedType:Chemical
+ENTITY	text:carmustine	normalName:carmustine	predictedType:chemical	q:true	qid:Q13	docId:20046642	origText:carmustine	url:D002330
+CANDIDATE	id:2330	inCount:56	outCount:1	links:2330	url:D002330	name:Carmustine	normalName:carmustine	normalWikiTitle:carmustine	predictedType:Chemical
+ENTITY	text:glutathione	normalName:glutathione	predictedType:chemical	q:true	qid:Q13	docId:20046642	origText:glutathione	url:D005978
+CANDIDATE	id:5978	inCount:255	outCount:1	links:	url:D005978	name:Glutathione	normalName:glutathione	normalWikiTitle:glutathione	predictedType:Chemical

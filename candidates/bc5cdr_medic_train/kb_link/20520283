@@ -1,0 +1,49 @@
+ENTITY	text:manic	normalName:manic	predictedType:disease	q:true	qid:Q175	docId:20520283	origText:manic	url:D001714
+CANDIDATE	id:1714	inCount:11	outCount:1	links:1714	url:D001714	name:Manias	normalName:manias	normalWikiTitle:manias	predictedType:Disease
+CANDIDATE	id:7565	inCount:5	outCount:2	links:	url:D007565	name:Jaundice	normalName:jaundice	normalWikiTitle:jaundice	predictedType:Disease
+CANDIDATE	id:8548	inCount:4	outCount:1	links:	url:D008548	name:Melanosis	normalName:melanosis	normalWikiTitle:melanosis	predictedType:Disease
+CANDIDATE	id:1002	inCount:0	outCount:2	links:	url:D001002	name:Anuria	normalName:anuria	normalWikiTitle:anuria	predictedType:Disease
+CANDIDATE	id:849	inCount:0	outCount:1	links:	url:D000849	name:Anomia	normalName:anomia	normalWikiTitle:anomia	predictedType:Disease
+CANDIDATE	id:740	inCount:14	outCount:1	links:	url:D000740	name:Anemia	normalName:anemia	normalWikiTitle:anemia	predictedType:Disease
+CANDIDATE	id:59373	inCount:0	outCount:1	links:	url:D059373	name:Mastodynia	normalName:mastodynia	normalWikiTitle:mastodynia	predictedType:Disease
+CANDIDATE	id:15875	inCount:0	outCount:1	links:	url:D015875	name:Anisocoria	normalName:anisocoria	normalWikiTitle:anisocoria	predictedType:Disease
+CANDIDATE	id:6391	inCount:14	outCount:1	links:	url:D006391	name:Hemangioma	normalName:hemangioma	normalWikiTitle:hemangioma	predictedType:Disease
+CANDIDATE	id:535983	inCount:0	outCount:1	links:	url:C535983	name:ANIC	normalName:anic	normalWikiTitle:anic	predictedType:Disease
+CANDIDATE	id:1714	inCount:11	outCount:1	links:1714	url:D001714	name:Mania	normalName:mania	normalWikiTitle:mania	predictedType:Disease
+CANDIDATE	id:58540	inCount:0	outCount:4	links:	url:D058540	name:AIC	normalName:aic	normalWikiTitle:aic	predictedType:Disease
+CANDIDATE	id:537984	inCount:0	outCount:1	links:	url:C537984	name:HMSNIC	normalName:hmsnic	normalWikiTitle:hmsnic	predictedType:Disease
+CANDIDATE	id:565737	inCount:0	outCount:1	links:	url:C565737	name:NAIC	normalName:naic	normalWikiTitle:naic	predictedType:Disease
+CANDIDATE	id:537555	inCount:0	outCount:2	links:	url:C537555	name:MHAC	normalName:mhac	normalWikiTitle:mhac	predictedType:Disease
+CANDIDATE	id:20386	inCount:0	outCount:2	links:	url:D020386	name:NMAN	normalName:nman	normalWikiTitle:nman	predictedType:Disease
+CANDIDATE	id:613376	inCount:0	outCount:1	links:	url:613376	name:HMN IIC	normalName:hmn iic	normalWikiTitle:hmn iic	predictedType:Disease
+CANDIDATE	id:614298	inCount:0	outCount:2	links:	url:614298	name:MPAN	normalName:mpan	normalWikiTitle:mpan	predictedType:Disease
+ENTITY	text:psychotic	normalName:psychotic	predictedType:disease	q:true	qid:Q175	docId:20520283	origText:psychotic	url:D011618
+CANDIDATE	id:11618	inCount:4	outCount:1	links:	url:D011618	name:Disorder, Psychotic	normalName:disorder, psychotic	normalWikiTitle:disorder, psychotic	predictedType:Disease
+CANDIDATE	id:11618	inCount:4	outCount:1	links:	url:D011618	name:Psychotic Disorders	normalName:psychotic disorders	normalWikiTitle:psychotic disorders	predictedType:Disease
+CANDIDATE	id:536634	inCount:0	outCount:1	links:	url:C536634	name:Schizotaxia	normalName:schizotaxia	normalWikiTitle:schizotaxia	predictedType:Disease
+CANDIDATE	id:12585	inCount:1	outCount:2	links:	url:D012585	name:Sciatica	normalName:sciatica	normalWikiTitle:sciatica	predictedType:Disease
+CANDIDATE	id:12769	inCount:6	outCount:1	links:	url:D012769	name:Shock	normalName:shock	normalWikiTitle:shock	predictedType:Disease
+CANDIDATE	id:3085	inCount:0	outCount:1	links:	url:D003085	name:Colic	normalName:colic	normalWikiTitle:colic	predictedType:Disease
+CANDIDATE	id:58968	inCount:0	outCount:2	links:	url:D058968	name:Pythiosis	normalName:pythiosis	normalWikiTitle:pythiosis	predictedType:Disease
+CANDIDATE	id:13585	inCount:5	outCount:1	links:	url:D013585	name:Synovitis	normalName:synovitis	normalWikiTitle:synovitis	predictedType:Disease
+CANDIDATE	id:19449	inCount:0	outCount:1	links:	url:D019449	name:Pouchitis	normalName:pouchitis	normalWikiTitle:pouchitis	predictedType:Disease
+CANDIDATE	id:15651	inCount:2	outCount:1	links:	url:D015651	name:Mycotoxicosis	normalName:mycotoxicosis	normalWikiTitle:mycotoxicosis	predictedType:Disease
+CANDIDATE	id:9896	inCount:24	outCount:1	links:	url:D009896	name:Optic Atrophy	normalName:optic atrophy	normalWikiTitle:optic atrophy	predictedType:Disease
+CANDIDATE	id:11618	inCount:4	outCount:1	links:	url:D011618	name:Psychosis	normalName:psychosis	normalWikiTitle:psychosis	predictedType:Disease
+CANDIDATE	id:11605	inCount:1	outCount:3	links:	url:D011605	name:Toxic Psychoses	normalName:toxic psychoses	normalWikiTitle:toxic psychoses	predictedType:Disease
+CANDIDATE	id:11605	inCount:1	outCount:3	links:	url:D011605	name:Psychoses, Toxic	normalName:psychoses, toxic	normalWikiTitle:psychoses, toxic	predictedType:Disease
+CANDIDATE	id:11618	inCount:4	outCount:1	links:	url:D011618	name:Psychoses	normalName:psychoses	normalWikiTitle:psychoses	predictedType:Disease
+CANDIDATE	id:11618	inCount:4	outCount:1	links:	url:D011618	name:Psychotic Disorder	normalName:psychotic disorder	normalWikiTitle:psychotic disorder	predictedType:Disease
+ENTITY	text:schizophrenia	normalName:schizophrenia	predictedType:disease	q:true	qid:Q175	docId:20520283	origText:schizophrenia	url:D012559
+CANDIDATE	id:12559	inCount:4	outCount:1	links:	url:D012559	name:Schizophrenia	normalName:schizophrenia	normalWikiTitle:schizophrenia	predictedType:Disease
+ENTITY	text:bipolar I disorder	normalName:bipolar i disorder	predictedType:disease	q:true	qid:Q175	docId:20520283	origText:bipolar I disorder	url:D001714
+CANDIDATE	id:1714	inCount:11	outCount:1	links:1714	url:D001714	name:Bipolar Disorder	normalName:bipolar disorder	normalWikiTitle:bipolar disorder	predictedType:Disease
+CANDIDATE	id:68105	inCount:1	outCount:1	links:	url:D000068105	name:Bipolar and Related Disorders	normalName:bipolar and related disorders	normalWikiTitle:bipolar and related disorders	predictedType:Disease
+CANDIDATE	id:2925	inCount:37	outCount:3	links:	url:D002925	name:Ciliary Motility Disorders	normalName:ciliary motility disorders	normalWikiTitle:ciliary motility disorders	predictedType:Disease
+CANDIDATE	id:56912	inCount:0	outCount:1	links:	url:D056912	name:Binge-Eating Disorder	normalName:binge-eating disorder	normalWikiTitle:binge-eating disorder	predictedType:Disease
+CANDIDATE	id:2561	inCount:17	outCount:2	links:	url:D002561	name:Cerebrovascular Disorders	normalName:cerebrovascular disorders	normalWikiTitle:cerebrovascular disorders	predictedType:Disease
+CANDIDATE	id:3130	inCount:0	outCount:1	links:	url:D003130	name:Combat Disorders	normalName:combat disorders	normalWikiTitle:combat disorders	predictedType:Disease
+CANDIDATE	id:13981	inCount:1	outCount:2	links:	url:D013981	name:Tic Disorders	normalName:tic disorders	normalWikiTitle:tic disorders	predictedType:Disease
+CANDIDATE	id:17271	inCount:2	outCount:2	links:	url:D017271	name:Craniomandibular Disorders	normalName:craniomandibular disorders	normalWikiTitle:craniomandibular disorders	predictedType:Disease
+CANDIDATE	id:54062	inCount:6	outCount:3	links:	url:D054062	name:Deaf-Blind Disorders	normalName:deaf-blind disorders	normalWikiTitle:deaf-blind disorders	predictedType:Disease
+CANDIDATE	id:1796	inCount:12	outCount:1	links:	url:D001796	name:Blood Protein Disorders	normalName:blood protein disorders	normalWikiTitle:blood protein disorders	predictedType:Disease

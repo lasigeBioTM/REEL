@@ -1,0 +1,4 @@
+ENTITY	text:pentylenetetrazole	normalName:pentylenetetrazole	predictedType:chemical	q:true	qid:Q255	docId:24802403	origText:pentylenetetrazole	url:D010433
+CANDIDATE	id:10433	inCount:2	outCount:1	links:	url:D010433	name:Pentylenetetrazole	normalName:pentylenetetrazole	normalWikiTitle:pentylenetetrazole	predictedType:Chemical
+ENTITY	text:Metformin	normalName:metformin	predictedType:chemical	q:true	qid:Q255	docId:24802403	origText:Metformin	url:D008687
+CANDIDATE	id:8687	inCount:8	outCount:1	links:	url:D008687	name:Metformin	normalName:metformin	normalWikiTitle:metformin	predictedType:Chemical

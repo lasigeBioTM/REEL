@@ -1,0 +1,4 @@
+ENTITY	text:Valproate	normalName:valproate	predictedType:chemical	q:true	qid:Q85	docId:17074608	origText:Valproate	url:D014635
+CANDIDATE	id:14635	inCount:43	outCount:1	links:	url:D014635	name:Valproate	normalName:valproate	normalWikiTitle:valproate	predictedType:Chemical
+ENTITY	text:glycine	normalName:glycine	predictedType:chemical	q:true	qid:Q85	docId:17074608	origText:glycine	url:D005998
+CANDIDATE	id:5998	inCount:463	outCount:1	links:	url:D005998	name:Glycine	normalName:glycine	normalWikiTitle:glycine	predictedType:Chemical

@@ -1,0 +1,4 @@
+ENTITY	text:Disoprivan	normalName:disoprivan	predictedType:chemical	q:true	qid:Q84	docId:14616590	origText:Disoprivan	url:D015742
+CANDIDATE	id:15742	inCount:12	outCount:1	links:15742	url:D015742	name:Disoprivan	normalName:disoprivan	normalWikiTitle:disoprivan	predictedType:Chemical
+ENTITY	text:propofol	normalName:propofol	predictedType:chemical	q:true	qid:Q84	docId:14616590	origText:propofol	url:D015742
+CANDIDATE	id:15742	inCount:12	outCount:1	links:15742	url:D015742	name:Propofol	normalName:propofol	normalWikiTitle:propofol	predictedType:Chemical

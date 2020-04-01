@@ -1,0 +1,6 @@
+ENTITY	text:diclofenac sodium	normalName:diclofenac sodium	predictedType:chemical	q:true	qid:Q749	docId:17965424	origText:diclofenac sodium	url:D004008
+CANDIDATE	id:4008	inCount:32	outCount:1	links:4008	url:D004008	name:Diclofenac, Sodium	normalName:diclofenac, sodium	normalWikiTitle:diclofenac, sodium	predictedType:Chemical
+ENTITY	text:aspirin	normalName:aspirin	predictedType:chemical	q:true	qid:Q749	docId:17965424	origText:aspirin	url:D001241
+CANDIDATE	id:1241	inCount:106	outCount:1	links:	url:D001241	name:Aspirin	normalName:aspirin	normalWikiTitle:aspirin	predictedType:Chemical
+ENTITY	text:diclofenac	normalName:diclofenac	predictedType:chemical	q:true	qid:Q749	docId:17965424	origText:diclofenac	url:D004008
+CANDIDATE	id:4008	inCount:32	outCount:1	links:4008	url:D004008	name:Diclofenac	normalName:diclofenac	normalWikiTitle:diclofenac	predictedType:Chemical

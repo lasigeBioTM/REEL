@@ -1,0 +1,8 @@
+ENTITY	text:chronic renal failure	normalName:chronic renal failure	predictedType:disease	q:true	qid:Q297	docId:11773892	origText:chronic renal failure	url:D007676
+CANDIDATE	id:7676	inCount:3	outCount:1	links:7676	url:D007676	name:Chronic Renal Failure	normalName:chronic renal failure	normalWikiTitle:chronic renal failure	predictedType:Disease
+ENTITY	text:End-stage renal disease	normalName:end-stage renal disease	predictedType:disease	q:true	qid:Q297	docId:11773892	origText:End-stage renal disease	url:D007676
+CANDIDATE	id:7676	inCount:3	outCount:1	links:7676	url:D007676	name:Renal Disease, End Stage	normalName:renal disease, end stage	normalWikiTitle:renal disease, end stage	predictedType:Disease
+ENTITY	text:ESRD	normalName:esrd	predictedType:disease	q:true	qid:Q297	docId:11773892	origText:ESRD	url:D007676
+CANDIDATE	id:7676	inCount:3	outCount:1	links:7676	url:D007676	name:ESRD	normalName:esrd	normalWikiTitle:esrd	predictedType:Disease
+ENTITY	text:hepatorenal syndrome	normalName:hepatorenal syndrome	predictedType:disease	q:true	qid:Q297	docId:11773892	origText:hepatorenal syndrome	url:D006530
+CANDIDATE	id:6530	inCount:0	outCount:2	links:	url:D006530	name:Hepatorenal Syndrome	normalName:hepatorenal syndrome	normalWikiTitle:hepatorenal syndrome	predictedType:Disease

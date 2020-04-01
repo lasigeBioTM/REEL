@@ -1,0 +1,12 @@
+ENTITY	text:lindane	normalName:lindane	predictedType:chemical	q:true	qid:Q12	docId:2453942	origText:lindane	url:D001556
+CANDIDATE	id:1556	inCount:14	outCount:1	links:	url:D001556	name:Lindane	normalName:lindane	normalWikiTitle:lindane	predictedType:Chemical
+ENTITY	text:dopamine	normalName:dopamine	predictedType:chemical	q:true	qid:Q12	docId:2453942	origText:dopamine	url:D004298
+CANDIDATE	id:4298	inCount:90	outCount:2	links:	url:D004298	name:Dopamine	normalName:dopamine	normalWikiTitle:dopamine	predictedType:Chemical
+ENTITY	text:gamma-hexachlorocyclohexane	normalName:gamma-hexachlorocyclohexane	predictedType:chemical	q:true	qid:Q12	docId:2453942	origText:gamma-hexachlorocyclohexane	url:D001556
+CANDIDATE	id:1556	inCount:14	outCount:1	links:	url:D001556	name:gamma Hexachlorocyclohexane	normalName:gamma hexachlorocyclohexane	normalWikiTitle:gamma hexachlorocyclohexane	predictedType:Chemical
+ENTITY	text:GABA	normalName:gaba	predictedType:chemical	q:true	qid:Q12	docId:2453942	origText:GABA	url:D005680
+CANDIDATE	id:5680	inCount:100	outCount:1	links:	url:D005680	name:GABA	normalName:gaba	normalWikiTitle:gaba	predictedType:Chemical
+ENTITY	text:DOPAC	normalName:dopac	predictedType:chemical	q:true	qid:Q12	docId:2453942	origText:DOPAC	url:D015102
+CANDIDATE	id:15102	inCount:3	outCount:1	links:	url:D015102	name:DOPAC	normalName:dopac	normalWikiTitle:dopac	predictedType:Chemical
+ENTITY	text:gamma-aminobutyric acid	normalName:gamma-aminobutyric acid	predictedType:chemical	q:true	qid:Q12	docId:2453942	origText:gamma-aminobutyric acid	url:D005680
+CANDIDATE	id:5680	inCount:100	outCount:1	links:	url:D005680	name:gamma-Aminobutyric Acid	normalName:gamma-aminobutyric acid	normalWikiTitle:gamma-aminobutyric acid	predictedType:Chemical

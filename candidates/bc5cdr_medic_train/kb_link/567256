@@ -1,0 +1,4 @@
+ENTITY	text:tumors	normalName:tumors	predictedType:disease	q:true	qid:Q181	docId:567256	origText:tumors	url:D009369
+CANDIDATE	id:9369	inCount:18	outCount:1	links:	url:D009369	name:Tumor	normalName:tumor	normalWikiTitle:tumor	predictedType:Disease
+ENTITY	text:Angiosarcoma	normalName:angiosarcoma	predictedType:disease	q:true	qid:Q181	docId:567256	origText:Angiosarcoma	url:D006394
+CANDIDATE	id:6394	inCount:4	outCount:2	links:	url:D006394	name:Angiosarcoma	normalName:angiosarcoma	normalWikiTitle:angiosarcoma	predictedType:Disease

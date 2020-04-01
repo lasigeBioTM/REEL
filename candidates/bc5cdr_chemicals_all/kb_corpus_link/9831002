@@ -1,0 +1,8 @@
+ENTITY	text:methylphenidate	normalName:methylphenidate	predictedType:chemical	q:true	qid:Q338	docId:9831002	origText:methylphenidate	url:D008774
+CANDIDATE	id:8774	inCount:9	outCount:2	links:	url:D008774	name:Methylphenidate	normalName:methylphenidate	normalWikiTitle:methylphenidate	predictedType:Chemical
+ENTITY	text:diazepam	normalName:diazepam	predictedType:chemical	q:true	qid:Q338	docId:9831002	origText:diazepam	url:D003975
+CANDIDATE	id:3975	inCount:21	outCount:1	links:	url:D003975	name:Diazepam	normalName:diazepam	normalWikiTitle:diazepam	predictedType:Chemical
+ENTITY	text:gamma-aminobutyric acid	normalName:gamma-aminobutyric acid	predictedType:chemical	q:true	qid:Q338	docId:9831002	origText:gamma-aminobutyric acid	url:D005680
+CANDIDATE	id:5680	inCount:100	outCount:1	links:	url:D005680	name:gamma-Aminobutyric Acid	normalName:gamma-aminobutyric acid	normalWikiTitle:gamma-aminobutyric acid	predictedType:Chemical
+ENTITY	text:dopamine	normalName:dopamine	predictedType:chemical	q:true	qid:Q338	docId:9831002	origText:dopamine	url:D004298
+CANDIDATE	id:4298	inCount:90	outCount:2	links:	url:D004298	name:Dopamine	normalName:dopamine	normalWikiTitle:dopamine	predictedType:Chemical

@@ -1,0 +1,10 @@
+ENTITY	text:renal failure	normalName:renal failure	predictedType:disease	q:true	qid:Q1290	docId:2522601	origText:renal failure	url:D051437
+CANDIDATE	id:51437	inCount:10	outCount:1	links:7955;4802;3873;7010	url:D051437	name:Renal Failure	normalName:renal failure	normalWikiTitle:renal failure	predictedType:Disease
+ENTITY	text:erythroderma	normalName:erythroderma	predictedType:disease	q:true	qid:Q1290	docId:2522601	origText:erythroderma	url:D003873
+CANDIDATE	id:3873	inCount:4	outCount:2	links:51437;7955;4802;7010	url:D003873	name:Erythroderma	normalName:erythroderma	normalWikiTitle:erythroderma	predictedType:Disease
+ENTITY	text:hyponatremia	normalName:hyponatremia	predictedType:disease	q:true	qid:Q1290	docId:2522601	origText:hyponatremia	url:D007010
+CANDIDATE	id:7010	inCount:1	outCount:1	links:51437;4802;3873;7955	url:D007010	name:Hyponatremia	normalName:hyponatremia	normalWikiTitle:hyponatremia	predictedType:Disease
+ENTITY	text:leukemoid reaction	normalName:leukemoid reaction	predictedType:disease	q:true	qid:Q1290	docId:2522601	origText:leukemoid reaction	url:D007955
+CANDIDATE	id:7955	inCount:1	outCount:2	links:51437;4802;3873;7010	url:D007955	name:Leukemoid Reaction	normalName:leukemoid reaction	normalWikiTitle:leukemoid reaction	predictedType:Disease
+ENTITY	text:eosinophilia	normalName:eosinophilia	predictedType:disease	q:true	qid:Q1290	docId:2522601	origText:eosinophilia	url:D004802
+CANDIDATE	id:4802	inCount:14	outCount:1	links:51437;7955;3873;7010	url:D004802	name:Eosinophilia	normalName:eosinophilia	normalWikiTitle:eosinophilia	predictedType:Disease

@@ -1,0 +1,33 @@
+ENTITY	text:exanthema	normalName:exanthema	predictedType:disease	q:true	qid:Q410	docId:7977601	origText:exanthema	url:D005076
+CANDIDATE	id:5076	inCount:1	outCount:1	links:9325;7022;10146;12769;14581	url:D005076	name:Exanthema	normalName:exanthema	normalWikiTitle:exanthema	predictedType:Disease
+ENTITY	text:urtication	normalName:urtication	predictedType:disease	q:true	qid:Q410	docId:7977601	origText:urtication	url:D014581
+CANDIDATE	id:14581	inCount:6	outCount:2	links:5076;7022;6973;10146;12769;9325	url:D014581	name:Urticaria	normalName:urticaria	normalWikiTitle:urticaria	predictedType:Disease
+CANDIDATE	id:4884	inCount:0	outCount:1	links:	url:D004884	name:Eructation	normalName:eructation	normalWikiTitle:eructation	predictedType:Disease
+CANDIDATE	id:13492	inCount:8	outCount:2	links:	url:D013492	name:Suppuration	normalName:suppuration	normalWikiTitle:suppuration	predictedType:Disease
+CANDIDATE	id:15163	inCount:0	outCount:1	links:	url:D015163	name:Superinfection	normalName:superinfection	normalWikiTitle:superinfection	predictedType:Disease
+CANDIDATE	id:44342	inCount:5	outCount:1	links:	url:D044342	name:Malnutrition	normalName:malnutrition	normalWikiTitle:malnutrition	predictedType:Disease
+CANDIDATE	id:3248	inCount:3	outCount:1	links:6948;18476	url:D003248	name:Constipation	normalName:constipation	normalWikiTitle:constipation	predictedType:Disease
+CANDIDATE	id:12652	inCount:0	outCount:1	links:	url:D012652	name:Self Mutilation	normalName:self mutilation	normalWikiTitle:self mutilation	predictedType:Disease
+CANDIDATE	id:1017	inCount:3	outCount:1	links:	url:D001017	name:Aortic Coarctation	normalName:aortic coarctation	normalWikiTitle:aortic coarctation	predictedType:Disease
+CANDIDATE	id:7239	inCount:33	outCount:1	links:9325	url:D007239	name:Infection	normalName:infection	normalWikiTitle:infection	predictedType:Disease
+CANDIDATE	id:6985	inCount:2	outCount:2	links:	url:D006985	name:Hyperventilation	normalName:hyperventilation	normalWikiTitle:hyperventilation	predictedType:Disease
+CANDIDATE	id:10292	inCount:0	outCount:1	links:10146	url:D010292	name:Formication	normalName:formication	normalWikiTitle:formication	predictedType:Disease
+ENTITY	text:pain	normalName:pain	predictedType:disease	q:true	qid:Q410	docId:7977601	origText:pain	url:D010146
+CANDIDATE	id:10146	inCount:34	outCount:1	links:10292;5076;7022;6973;12769;9325;14581	url:D010146	name:Pain	normalName:pain	normalWikiTitle:pain	predictedType:Disease
+ENTITY	text:shock	normalName:shock	predictedType:disease	q:true	qid:Q410	docId:7977601	origText:shock	url:D012769
+CANDIDATE	id:12769	inCount:6	outCount:1	links:5076;7022;10146;9325;14581	url:D012769	name:Shock	normalName:shock	normalWikiTitle:shock	predictedType:Disease
+ENTITY	text:nausea	normalName:nausea	predictedType:disease	q:true	qid:Q410	docId:7977601	origText:nausea	url:D009325
+CANDIDATE	id:9325	inCount:2	outCount:1	links:6948;5076;7022;10146;12769;7239;14581	url:D009325	name:Nausea	normalName:nausea	normalWikiTitle:nausea	predictedType:Disease
+ENTITY	text:hypotensive	normalName:hypotensive	predictedType:disease	q:true	qid:Q410	docId:7977601	origText:hypotensive	url:D007022
+CANDIDATE	id:7022	inCount:3	outCount:1	links:5076;7022;10146;12769;9325;14581	url:D007022	name:Hypotension	normalName:hypotension	normalWikiTitle:hypotension	predictedType:Disease
+CANDIDATE	id:6973	inCount:18	outCount:1	links:10146;14581	url:D006973	name:Hypertension	normalName:hypertension	normalWikiTitle:hypertension	predictedType:Disease
+CANDIDATE	id:7035	inCount:2	outCount:1	links:	url:D007035	name:Hypothermia	normalName:hypothermia	normalWikiTitle:hypothermia	predictedType:Disease
+CANDIDATE	id:6987	inCount:1	outCount:1	links:	url:D006987	name:Hypesthesia	normalName:hypesthesia	normalWikiTitle:hypesthesia	predictedType:Disease
+CANDIDATE	id:18476	inCount:1	outCount:1	links:3248	url:D018476	name:Hypokinesia	normalName:hypokinesia	normalWikiTitle:hypokinesia	predictedType:Disease
+CANDIDATE	id:7019	inCount:1	outCount:1	links:	url:D007019	name:Hypoproteinemia	normalName:hypoproteinemia	normalWikiTitle:hypoproteinemia	predictedType:Disease
+CANDIDATE	id:15814	inCount:0	outCount:1	links:	url:D015814	name:Ocular Hypotension	normalName:ocular hypotension	normalWikiTitle:ocular hypotension	predictedType:Disease
+CANDIDATE	id:58246	inCount:0	outCount:1	links:	url:D058246	name:Prehypertension	normalName:prehypertension	normalWikiTitle:prehypertension	predictedType:Disease
+CANDIDATE	id:6977	inCount:3	outCount:2	links:	url:D006977	name:Hypertension, Renal	normalName:hypertension, renal	normalWikiTitle:hypertension, renal	predictedType:Disease
+CANDIDATE	id:6948	inCount:1	outCount:1	links:9325;3248	url:D006948	name:Hyperkinesis	normalName:hyperkinesis	normalWikiTitle:hyperkinesis	predictedType:Disease
+ENTITY	text:hypotension	normalName:hypotension	predictedType:disease	q:true	qid:Q410	docId:7977601	origText:hypotension	url:D007022
+CANDIDATE	id:7022	inCount:3	outCount:1	links:5076;7022;10146;12769;9325;14581	url:D007022	name:Hypotension	normalName:hypotension	normalWikiTitle:hypotension	predictedType:Disease

@@ -1,0 +1,4 @@
+ENTITY	text:diethylnitrosamine	normalName:diethylnitrosamine	predictedType:chemical	q:true	qid:Q263	docId:3780814	origText:diethylnitrosamine	url:D004052
+CANDIDATE	id:4052	inCount:9	outCount:1	links:	url:D004052	name:Diethylnitrosamine	normalName:diethylnitrosamine	normalWikiTitle:diethylnitrosamine	predictedType:Chemical
+ENTITY	text:phenobarbital	normalName:phenobarbital	predictedType:chemical	q:true	qid:Q263	docId:3780814	origText:phenobarbital	url:D010634
+CANDIDATE	id:10634	inCount:50	outCount:1	links:	url:D010634	name:Phenobarbital	normalName:phenobarbital	normalWikiTitle:phenobarbital	predictedType:Chemical

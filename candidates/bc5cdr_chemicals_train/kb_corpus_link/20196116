@@ -1,0 +1,20 @@
+ENTITY	text:bilirubin	normalName:bilirubin	predictedType:chemical	q:true	qid:Q362	docId:20196116	origText:bilirubin	url:D001663
+CANDIDATE	id:1663	inCount:20	outCount:1	links:	url:D001663	name:Bilirubin	normalName:bilirubin	normalWikiTitle:bilirubin	predictedType:Chemical
+ENTITY	text:Antituberculosis	normalName:antituberculosis	predictedType:chemical	q:true	qid:Q362	docId:20196116	origText:Antituberculosis	url:D000995
+CANDIDATE	id:995	inCount:1	outCount:1	links:	url:D000995	name:Tuberculostatic Agents	normalName:tuberculostatic agents	normalWikiTitle:tuberculostatic agents	predictedType:Chemical
+CANDIDATE	id:551415	inCount:0	outCount:1	links:	url:C551415	name:tuberculosinol	normalName:tuberculosinol	normalWikiTitle:tuberculosinol	predictedType:Chemical
+CANDIDATE	id:26082	inCount:0	outCount:1	links:	url:C026082	name:tuberculostearic acid	normalName:tuberculostearic acid	normalWikiTitle:tuberculostearic acid	predictedType:Chemical
+CANDIDATE	id:14373	inCount:5	outCount:1	links:	url:D014373	name:Tuberculin	normalName:tuberculin	normalWikiTitle:tuberculin	predictedType:Chemical
+CANDIDATE	id:32581	inCount:6	outCount:1	links:	url:D032581	name:Tuberculosis Vaccines	normalName:tuberculosis vaccines	normalWikiTitle:tuberculosis vaccines	predictedType:Chemical
+CANDIDATE	id:995	inCount:1	outCount:1	links:	url:D000995	name:Antitubercular Agents	normalName:antitubercular agents	normalWikiTitle:antitubercular agents	predictedType:Chemical
+CANDIDATE	id:103139	inCount:0	outCount:2	links:	url:C103139	name:tuberculatin	normalName:tuberculatin	normalWikiTitle:tuberculatin	predictedType:Chemical
+CANDIDATE	id:72681	inCount:0	outCount:1	links:	url:C072681	name:Mycobacterium tuberculosis antigens	normalName:mycobacterium tuberculosis antigens	normalWikiTitle:mycobacterium tuberculosis antigens	predictedType:Chemical
+CANDIDATE	id:436828	inCount:0	outCount:2	links:	url:C436828	name:tuberoside	normalName:tuberoside	normalWikiTitle:tuberoside	predictedType:Chemical
+CANDIDATE	id:16603	inCount:0	outCount:1	links:	url:C016603	name:Mycobacterium tuberculosis antigen 5	normalName:mycobacterium tuberculosis antigen 5	normalWikiTitle:mycobacterium tuberculosis antigen 5	predictedType:Chemical
+CANDIDATE	id:992	inCount:7	outCount:1	links:	url:D000992	name:Antitoxins	normalName:antitoxins	normalWikiTitle:antitoxins	predictedType:Chemical
+CANDIDATE	id:72681	inCount:0	outCount:1	links:	url:C072681	name:16K antigen, M. tuberculosis	normalName:16k antigen, m. tuberculosis	normalWikiTitle:16k antigen, m. tuberculosis	predictedType:Chemical
+CANDIDATE	id:119774	inCount:0	outCount:1	links:	url:C119774	name:85C antigen, M. tuberculosis	normalName:85c antigen, m. tuberculosis	normalWikiTitle:85c antigen, m. tuberculosis	predictedType:Chemical
+CANDIDATE	id:121433	inCount:0	outCount:1	links:	url:C121433	name:M. tuberculosis antigen 85B	normalName:m. tuberculosis antigen 85b	normalWikiTitle:m. tuberculosis antigen 85b	predictedType:Chemical
+CANDIDATE	id:112580	inCount:0	outCount:1	links:	url:C112580	name:M. tuberculosis antigen 85A	normalName:m. tuberculosis antigen 85a	normalWikiTitle:m. tuberculosis antigen 85a	predictedType:Chemical
+CANDIDATE	id:995	inCount:1	outCount:1	links:	url:D000995	name:Agents, Tuberculostatic	normalName:agents, tuberculostatic	normalWikiTitle:agents, tuberculostatic	predictedType:Chemical
+CANDIDATE	id:112580	inCount:0	outCount:1	links:	url:C112580	name:antigen 85-A, M. tuberculosis	normalName:antigen 85-a, m. tuberculosis	normalWikiTitle:antigen 85-a, m. tuberculosis	predictedType:Chemical

@@ -1,0 +1,28 @@
+ENTITY	text:catalepsy	normalName:catalepsy	predictedType:disease	q:true	qid:Q226	docId:19759529	origText:catalepsy	url:D002375
+CANDIDATE	id:2375	inCount:0	outCount:1	links:	url:D002375	name:Catalepsy	normalName:catalepsy	normalWikiTitle:catalepsy	predictedType:Disease
+ENTITY	text:hyperactivity	normalName:hyperactivity	predictedType:disease	q:true	qid:Q226	docId:19759529	origText:hyperactivity	url:D006948
+CANDIDATE	id:6948	inCount:1	outCount:1	links:	url:D006948	name:Hyperactivity, Motor	normalName:hyperactivity, motor	normalWikiTitle:hyperactivity, motor	predictedType:Disease
+CANDIDATE	id:6967	inCount:9	outCount:1	links:	url:D006967	name:Hypersensitivity	normalName:hypersensitivity	normalWikiTitle:hypersensitivity	predictedType:Disease
+CANDIDATE	id:16535	inCount:0	outCount:1	links:	url:D016535	name:Bronchial Hyperreactivity	normalName:bronchial hyperreactivity	normalWikiTitle:bronchial hyperreactivity	predictedType:Disease
+CANDIDATE	id:21184	inCount:0	outCount:1	links:	url:D021184	name:Nut Hypersensitivity	normalName:nut hypersensitivity	normalWikiTitle:nut hypersensitivity	predictedType:Disease
+CANDIDATE	id:53565	inCount:6	outCount:1	links:	url:D053565	name:Hypercalciuria	normalName:hypercalciuria	normalWikiTitle:hypercalciuria	predictedType:Disease
+CANDIDATE	id:21181	inCount:0	outCount:1	links:	url:D021181	name:Egg Hypersensitivity	normalName:egg hypersensitivity	normalWikiTitle:egg hypersensitivity	predictedType:Disease
+CANDIDATE	id:12001	inCount:0	outCount:1	links:	url:D012001	name:Hyperacusis	normalName:hyperacusis	normalWikiTitle:hyperacusis	predictedType:Disease
+CANDIDATE	id:5512	inCount:5	outCount:1	links:	url:D005512	name:Food Hypersensitivity	normalName:food hypersensitivity	normalWikiTitle:food hypersensitivity	predictedType:Disease
+CANDIDATE	id:569627	inCount:0	outCount:1	links:	url:C569627	name:Cold Hypersensitivity	normalName:cold hypersensitivity	normalWikiTitle:cold hypersensitivity	predictedType:Disease
+CANDIDATE	id:6966	inCount:1	outCount:1	links:	url:D006966	name:Hyperprolactinemia	normalName:hyperprolactinemia	normalWikiTitle:hyperprolactinemia	predictedType:Disease
+CANDIDATE	id:16269	inCount:0	outCount:1	links:	url:D016269	name:Milk Hypersensitivity	normalName:milk hypersensitivity	normalWikiTitle:milk hypersensitivity	predictedType:Disease
+CANDIDATE	id:6948	inCount:1	outCount:1	links:	url:D006948	name:Motor Hyperactivity	normalName:motor hyperactivity	normalWikiTitle:motor hyperactivity	predictedType:Disease
+ENTITY	text:Schizophrenia	normalName:schizophrenia	predictedType:disease	q:true	qid:Q226	docId:19759529	origText:Schizophrenia	url:D012559
+CANDIDATE	id:12559	inCount:4	outCount:1	links:12559	url:D012559	name:Schizophrenia	normalName:schizophrenia	normalWikiTitle:schizophrenia	predictedType:Disease
+ENTITY	text:schizophrenic	normalName:schizophrenic	predictedType:disease	q:true	qid:Q226	docId:19759529	origText:schizophrenic	url:D012559
+CANDIDATE	id:12559	inCount:4	outCount:1	links:12559	url:D012559	name:Schizophrenia	normalName:schizophrenia	normalWikiTitle:schizophrenia	predictedType:Disease
+CANDIDATE	id:12563	inCount:0	outCount:1	links:	url:D012563	name:Schizophrenia, Paranoid	normalName:schizophrenia, paranoid	normalWikiTitle:schizophrenia, paranoid	predictedType:Disease
+CANDIDATE	id:12561	inCount:0	outCount:1	links:	url:D012561	name:Schizophrenia, Childhood	normalName:schizophrenia, childhood	normalWikiTitle:schizophrenia, childhood	predictedType:Disease
+CANDIDATE	id:12560	inCount:0	outCount:1	links:	url:D012560	name:Schizophrenia, Catatonic	normalName:schizophrenia, catatonic	normalWikiTitle:schizophrenia, catatonic	predictedType:Disease
+CANDIDATE	id:12562	inCount:0	outCount:1	links:	url:D012562	name:Schizophrenia, Disorganized	normalName:schizophrenia, disorganized	normalWikiTitle:schizophrenia, disorganized	predictedType:Disease
+CANDIDATE	id:55948	inCount:0	outCount:1	links:	url:D055948	name:Sarcopenia	normalName:sarcopenia	normalWikiTitle:sarcopenia	predictedType:Disease
+CANDIDATE	id:65707	inCount:0	outCount:1	links:	url:D065707	name:Schizencephaly	normalName:schizencephaly	normalWikiTitle:schizencephaly	predictedType:Disease
+CANDIDATE	id:13369	inCount:0	outCount:2	links:	url:D013369	name:Subphrenic Abscess	normalName:subphrenic abscess	normalWikiTitle:subphrenic abscess	predictedType:Disease
+CANDIDATE	id:536634	inCount:0	outCount:1	links:	url:C536634	name:Schizotaxia	normalName:schizotaxia	normalWikiTitle:schizotaxia	predictedType:Disease
+CANDIDATE	id:2825	inCount:1	outCount:2	links:	url:D002825	name:Chorioretinitis	normalName:chorioretinitis	normalWikiTitle:chorioretinitis	predictedType:Disease

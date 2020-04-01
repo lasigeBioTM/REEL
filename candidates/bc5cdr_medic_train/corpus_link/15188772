@@ -1,0 +1,26 @@
+ENTITY	text:myocardial stunning	normalName:myocardial stunning	predictedType:disease	q:true	qid:Q46	docId:15188772	origText:myocardial stunning	url:D017682
+CANDIDATE	id:17682	inCount:0	outCount:2	links:9202	url:D017682	name:Myocardial Stunning	normalName:myocardial stunning	normalWikiTitle:myocardial stunning	predictedType:Disease
+ENTITY	text:left ventricular systolic and diastolic dysfunction	normalName:left ventricular systolic and diastolic dysfunction	predictedType:disease	q:true	qid:Q46	docId:15188772	origText:left ventricular systolic and diastolic dysfunction	url:D018487
+CANDIDATE	id:18487	inCount:1	outCount:1	links:	url:D018487	name:Ventricular Dysfunction, Left	normalName:ventricular dysfunction, left	normalWikiTitle:ventricular dysfunction, left	predictedType:Disease
+CANDIDATE	id:18497	inCount:0	outCount:1	links:	url:D018497	name:Ventricular Dysfunction, Right	normalName:ventricular dysfunction, right	normalWikiTitle:ventricular dysfunction, right	predictedType:Disease
+CANDIDATE	id:18754	inCount:2	outCount:1	links:	url:D018754	name:Ventricular Dysfunction	normalName:ventricular dysfunction	normalWikiTitle:ventricular dysfunction	predictedType:Disease
+CANDIDATE	id:565626	inCount:0	outCount:1	links:	url:C565626	name:Diastrophic Dysplasia, Broad Bone-Platyspondylic Variant	normalName:diastrophic dysplasia, broad bone-platyspondylic variant	normalWikiTitle:diastrophic dysplasia, broad bone-platyspondylic variant	predictedType:Disease
+CANDIDATE	id:14694	inCount:2	outCount:1	links:	url:D014694	name:Ventricular Outflow Obstruction	normalName:ventricular outflow obstruction	normalWikiTitle:ventricular outflow obstruction	predictedType:Disease
+CANDIDATE	id:56830	inCount:8	outCount:4	links:	url:D056830	name:Isolated Noncompaction of the Ventricular Myocardium	normalName:isolated noncompaction of the ventricular myocardium	normalWikiTitle:isolated noncompaction of the ventricular myocardium	predictedType:Disease
+CANDIDATE	id:614962	inCount:0	outCount:2	links:	url:614962	name:LEPTIN DEFICIENCY OR DYSFUNCTION	normalName:leptin deficiency or dysfunction	normalWikiTitle:leptin deficiency or dysfunction	predictedType:Disease
+CANDIDATE	id:6345	inCount:6	outCount:1	links:	url:D006345	name:Heart Septal Defects, Ventricular	normalName:heart septal defects, ventricular	normalWikiTitle:heart septal defects, ventricular	predictedType:Disease
+CANDIDATE	id:536346	inCount:0	outCount:1	links:	url:C536346	name:Vestibulocochlear Dysfunction, Progressive	normalName:vestibulocochlear dysfunction, progressive	normalWikiTitle:vestibulocochlear dysfunction, progressive	predictedType:Disease
+CANDIDATE	id:567841	inCount:0	outCount:1	links:	url:C567841	name:Ventricular Fibrillation, Paroxysmal Familial, 2	normalName:ventricular fibrillation, paroxysmal familial, 2	normalWikiTitle:ventricular fibrillation, paroxysmal familial, 2	predictedType:Disease
+ENTITY	text:overdose	normalName:overdose	predictedType:disease	q:true	qid:Q46	docId:15188772	origText:overdose	url:D062787
+CANDIDATE	id:62787	inCount:0	outCount:1	links:	url:D062787	name:Drug Overdose	normalName:drug overdose	normalWikiTitle:drug overdose	predictedType:Disease
+CANDIDATE	id:57887	inCount:0	outCount:1	links:	url:D057887	name:Overbite	normalName:overbite	normalWikiTitle:overbite	predictedType:Disease
+CANDIDATE	id:8141	inCount:2	outCount:1	links:	url:D008141	name:Lordosis	normalName:lordosis	normalWikiTitle:lordosis	predictedType:Disease
+CANDIDATE	id:564931	inCount:0	outCount:2	links:	url:C564931	name:Oliver Syndrome	normalName:oliver syndrome	normalWikiTitle:oliver syndrome	predictedType:Disease
+CANDIDATE	id:50177	inCount:1	outCount:1	links:	url:D050177	name:Overweight	normalName:overweight	normalWikiTitle:overweight	predictedType:Disease
+CANDIDATE	id:1882	inCount:0	outCount:2	links:	url:D001882	name:Border Disease	normalName:border disease	normalWikiTitle:border disease	predictedType:Disease
+CANDIDATE	id:12393	inCount:1	outCount:1	links:	url:D012393	name:Rosacea	normalName:rosacea	normalWikiTitle:rosacea	predictedType:Disease
+CANDIDATE	id:14717	inCount:2	outCount:2	links:	url:D014717	name:Vertigo	normalName:vertigo	normalWikiTitle:vertigo	predictedType:Disease
+CANDIDATE	id:7918	inCount:2	outCount:1	links:	url:D007918	name:Leprosy	normalName:leprosy	normalWikiTitle:leprosy	predictedType:Disease
+CANDIDATE	id:6732	inCount:1	outCount:2	links:	url:D006732	name:Horner Syndrome	normalName:horner syndrome	normalWikiTitle:horner syndrome	predictedType:Disease
+ENTITY	text:cardiomyopathy	normalName:cardiomyopathy	predictedType:disease	q:true	qid:Q46	docId:15188772	origText:cardiomyopathy	url:D009202
+CANDIDATE	id:9202	inCount:37	outCount:1	links:17682	url:D009202	name:Cardiomyopathy	normalName:cardiomyopathy	normalWikiTitle:cardiomyopathy	predictedType:Disease

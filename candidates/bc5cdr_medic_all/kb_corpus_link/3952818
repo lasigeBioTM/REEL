@@ -1,0 +1,21 @@
+ENTITY	text:coronary spasm	normalName:coronary spasm	predictedType:disease	q:true	qid:Q1447	docId:3952818	origText:coronary spasm	url:D003329
+CANDIDATE	id:3329	inCount:1	outCount:1	links:2637;788	url:D003329	name:Coronary Vasospasm	normalName:coronary vasospasm	normalWikiTitle:coronary vasospasm	predictedType:Disease
+CANDIDATE	id:3327	inCount:7	outCount:1	links:	url:D003327	name:Coronary Disease	normalName:coronary disease	normalWikiTitle:coronary disease	predictedType:Disease
+CANDIDATE	id:23921	inCount:1	outCount:1	links:	url:D023921	name:Coronary Stenosis	normalName:coronary stenosis	normalWikiTitle:coronary stenosis	predictedType:Disease
+CANDIDATE	id:1986	inCount:0	outCount:1	links:	url:D001986	name:Bronchial Spasm	normalName:bronchial spasm	normalWikiTitle:bronchial spasm	predictedType:Disease
+CANDIDATE	id:23903	inCount:0	outCount:1	links:	url:D023903	name:Coronary Restenosis	normalName:coronary restenosis	normalWikiTitle:coronary restenosis	predictedType:Disease
+CANDIDATE	id:3328	inCount:0	outCount:2	links:	url:D003328	name:Coronary Thrombosis	normalName:coronary thrombosis	normalWikiTitle:coronary thrombosis	predictedType:Disease
+CANDIDATE	id:3324	inCount:4	outCount:2	links:2637	url:D003324	name:Coronary Artery Disease	normalName:coronary artery disease	normalWikiTitle:coronary artery disease	predictedType:Disease
+CANDIDATE	id:54059	inCount:0	outCount:1	links:	url:D054059	name:Coronary Occlusion	normalName:coronary occlusion	normalWikiTitle:coronary occlusion	predictedType:Disease
+CANDIDATE	id:536773	inCount:0	outCount:1	links:	url:C536773	name:Syphilis, secondary	normalName:syphilis, secondary	normalWikiTitle:syphilis, secondary	predictedType:Disease
+CANDIDATE	id:1997	inCount:0	outCount:2	links:	url:D001997	name:Bronchopulmonary Dysplasia	normalName:bronchopulmonary dysplasia	normalWikiTitle:bronchopulmonary dysplasia	predictedType:Disease
+ENTITY	text:cardiotoxicity	normalName:cardiotoxicity	predictedType:disease	q:true	qid:Q1447	docId:3952818	origText:cardiotoxicity	url:D066126
+CANDIDATE	id:66126	inCount:0	outCount:3	links:66126	url:D066126	name:Cardiotoxicity	normalName:cardiotoxicity	normalWikiTitle:cardiotoxicity	predictedType:Disease
+ENTITY	text:Cardiac toxicity	normalName:cardiac toxicity	predictedType:disease	q:true	qid:Q1447	docId:3952818	origText:Cardiac toxicity	url:D066126
+CANDIDATE	id:66126	inCount:0	outCount:3	links:66126	url:D066126	name:Cardiac Toxicity	normalName:cardiac toxicity	normalWikiTitle:cardiac toxicity	predictedType:Disease
+ENTITY	text:chest pain	normalName:chest pain	predictedType:disease	q:true	qid:Q1447	docId:3952818	origText:chest pain	url:D002637
+CANDIDATE	id:2637	inCount:1	outCount:1	links:3329;788;3324	url:D002637	name:Chest Pain	normalName:chest pain	normalWikiTitle:chest pain	predictedType:Disease
+ENTITY	text:metastasis	normalName:metastasis	predictedType:disease	q:true	qid:Q1447	docId:3952818	origText:metastasis	url:D009362
+CANDIDATE	id:9362	inCount:5	outCount:1	links:	url:D009362	name:Metastasis	normalName:metastasis	normalWikiTitle:metastasis	predictedType:Disease
+ENTITY	text:Prinzmetal's angina	normalName:prinzmetal's angina	predictedType:disease	q:true	qid:Q1447	docId:3952818	origText:Prinzmetal's angina	url:D000788
+CANDIDATE	id:788	inCount:1	outCount:1	links:3329;2637	url:D000788	name:Angina, Prinzmetal's	normalName:angina, prinzmetal's	normalWikiTitle:angina, prinzmetal's	predictedType:Disease

@@ -1,0 +1,28 @@
+ENTITY	text:infection	normalName:infection	predictedType:disease	q:true	qid:Q172	docId:2004015	origText:infection	url:D007239
+CANDIDATE	id:7239	inCount:33	outCount:1	links:	url:D007239	name:Infection	normalName:infection	normalWikiTitle:infection	predictedType:Disease
+ENTITY	text:AIDS	normalName:aids	predictedType:disease	q:true	qid:Q172	docId:2004015	origText:AIDS	url:D000163
+CANDIDATE	id:163	inCount:0	outCount:2	links:	url:D000163	name:AIDS	normalName:aids	normalWikiTitle:aids	predictedType:Disease
+ENTITY	text:anaemia	normalName:anaemia	predictedType:disease	q:true	qid:Q172	docId:2004015	origText:anaemia	url:D000740
+CANDIDATE	id:740	inCount:14	outCount:1	links:7970	url:D000740	name:Anemia	normalName:anemia	normalWikiTitle:anemia	predictedType:Disease
+CANDIDATE	id:849	inCount:0	outCount:1	links:	url:D000849	name:Anomia	normalName:anomia	normalWikiTitle:anomia	predictedType:Disease
+CANDIDATE	id:536524	inCount:0	outCount:1	links:	url:C536524	name:Valinemia	normalName:valinemia	normalWikiTitle:valinemia	predictedType:Disease
+CANDIDATE	id:58387	inCount:0	outCount:2	links:	url:D058387	name:Candidemia	normalName:candidemia	normalWikiTitle:candidemia	predictedType:Disease
+CANDIDATE	id:647	inCount:4	outCount:2	links:	url:D000647	name:Amnesia	normalName:amnesia	normalWikiTitle:amnesia	predictedType:Disease
+CANDIDATE	id:53099	inCount:0	outCount:2	links:	url:D053099	name:Azotemia	normalName:azotemia	normalWikiTitle:azotemia	predictedType:Disease
+CANDIDATE	id:855	inCount:1	outCount:1	links:	url:D000855	name:Anorexia	normalName:anorexia	normalWikiTitle:anorexia	predictedType:Disease
+CANDIDATE	id:16469	inCount:1	outCount:2	links:	url:D016469	name:Fungemia	normalName:fungemia	normalWikiTitle:fungemia	predictedType:Disease
+CANDIDATE	id:53714	inCount:0	outCount:1	links:	url:D053714	name:Aspermia	normalName:aspermia	normalWikiTitle:aspermia	predictedType:Disease
+CANDIDATE	id:18512	inCount:0	outCount:2	links:	url:D018512	name:Parasitemia	normalName:parasitemia	normalWikiTitle:parasitemia	predictedType:Disease
+ENTITY	text:reticulocytosis	normalName:reticulocytosis	predictedType:disease	q:true	qid:Q172	docId:2004015	origText:reticulocytosis	url:D045262
+CANDIDATE	id:45262	inCount:0	outCount:1	links:	url:D045262	name:Reticulocytosis	normalName:reticulocytosis	normalWikiTitle:reticulocytosis	predictedType:Disease
+ENTITY	text:leukaemia	normalName:leukaemia	predictedType:disease	q:true	qid:Q172	docId:2004015	origText:leukaemia	url:D007938
+CANDIDATE	id:7938	inCount:12	outCount:1	links:	url:D007938	name:Leukemia	normalName:leukemia	normalWikiTitle:leukemia	predictedType:Disease
+CANDIDATE	id:11289	inCount:0	outCount:2	links:	url:D011289	name:Preleukemia	normalName:preleukemia	normalWikiTitle:preleukemia	predictedType:Disease
+CANDIDATE	id:7970	inCount:4	outCount:1	links:740	url:D007970	name:Leukopenia	normalName:leukopenia	normalWikiTitle:leukopenia	predictedType:Disease
+CANDIDATE	id:7941	inCount:0	outCount:1	links:	url:D007941	name:Leukemia P388	normalName:leukemia p388	normalWikiTitle:leukemia p388	predictedType:Disease
+CANDIDATE	id:7940	inCount:0	outCount:1	links:	url:D007940	name:Leukemia L5178	normalName:leukemia l5178	normalWikiTitle:leukemia l5178	predictedType:Disease
+CANDIDATE	id:7939	inCount:0	outCount:1	links:	url:D007939	name:Leukemia L1210	normalName:leukemia l1210	normalWikiTitle:leukemia l1210	predictedType:Disease
+CANDIDATE	id:7971	inCount:1	outCount:2	links:	url:D007971	name:Leukoplakia	normalName:leukoplakia	normalWikiTitle:leukoplakia	predictedType:Disease
+CANDIDATE	id:15448	inCount:2	outCount:1	links:	url:D015448	name:Leukemia, B-Cell	normalName:leukemia, b-cell	normalWikiTitle:leukemia, b-cell	predictedType:Disease
+CANDIDATE	id:6947	inCount:4	outCount:1	links:	url:D006947	name:Hyperkalemia	normalName:hyperkalemia	normalWikiTitle:hyperkalemia	predictedType:Disease
+CANDIDATE	id:16582	inCount:0	outCount:3	links:	url:D016582	name:Leukemia, Feline	normalName:leukemia, feline	normalWikiTitle:leukemia, feline	predictedType:Disease

@@ -1,0 +1,10 @@
+ENTITY	text:monosodium glutamate	normalName:monosodium glutamate	predictedType:chemical	q:true	qid:Q126	docId:3685052	origText:monosodium glutamate	url:D012970
+CANDIDATE	id:12970	inCount:0	outCount:1	links:12970	url:D012970	name:Monosodium Glutamate	normalName:monosodium glutamate	normalWikiTitle:monosodium glutamate	predictedType:Chemical
+ENTITY	text:Flurothyl	normalName:flurothyl	predictedType:chemical	q:true	qid:Q126	docId:3685052	origText:Flurothyl	url:D005481
+CANDIDATE	id:5481	inCount:1	outCount:1	links:	url:D005481	name:Flurothyl	normalName:flurothyl	normalWikiTitle:flurothyl	predictedType:Chemical
+ENTITY	text:MSG	normalName:msg	predictedType:chemical	q:true	qid:Q126	docId:3685052	origText:MSG	url:D012970
+CANDIDATE	id:12970	inCount:0	outCount:1	links:12970	url:D012970	name:MSG	normalName:msg	normalWikiTitle:msg	predictedType:Chemical
+ENTITY	text:naloxone	normalName:naloxone	predictedType:chemical	q:true	qid:Q126	docId:3685052	origText:naloxone	url:D009270
+CANDIDATE	id:9270	inCount:20	outCount:1	links:	url:D009270	name:Naloxone	normalName:naloxone	normalWikiTitle:naloxone	predictedType:Chemical
+ENTITY	text:ether	normalName:ether	predictedType:chemical	q:true	qid:Q126	docId:3685052	origText:ether	url:D004986
+CANDIDATE	id:4986	inCount:3	outCount:1	links:	url:D004986	name:Ether	normalName:ether	normalWikiTitle:ether	predictedType:Chemical

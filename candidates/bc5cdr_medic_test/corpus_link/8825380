@@ -1,0 +1,31 @@
+ENTITY	text:glomerulosclerosis	normalName:glomerulosclerosis	predictedType:disease	q:true	qid:Q405	docId:8825380	origText:glomerulosclerosis	url:D005921
+CANDIDATE	id:5921	inCount:11	outCount:1	links:	url:D005921	name:Glomerulonephritis	normalName:glomerulonephritis	normalWikiTitle:glomerulonephritis	predictedType:Disease
+CANDIDATE	id:538457	inCount:0	outCount:1	links:	url:C538457	name:Segmental glomerulosclerosis	normalName:segmental glomerulosclerosis	normalWikiTitle:segmental glomerulosclerosis	predictedType:Disease
+CANDIDATE	id:10026	inCount:17	outCount:1	links:	url:D010026	name:Osteosclerosis	normalName:osteosclerosis	normalWikiTitle:osteosclerosis	predictedType:Disease
+CANDIDATE	id:537026	inCount:0	outCount:2	links:	url:C537026	name:Lipodermatosclerosis	normalName:lipodermatosclerosis	normalWikiTitle:lipodermatosclerosis	predictedType:Disease
+CANDIDATE	id:50197	inCount:3	outCount:1	links:	url:D050197	name:Atherosclerosis	normalName:atherosclerosis	normalWikiTitle:atherosclerosis	predictedType:Disease
+CANDIDATE	id:9400	inCount:0	outCount:1	links:	url:D009400	name:Nephrosclerosis	normalName:nephrosclerosis	normalWikiTitle:nephrosclerosis	predictedType:Disease
+CANDIDATE	id:10040	inCount:6	outCount:1	links:	url:D010040	name:Otosclerosis	normalName:otosclerosis	normalWikiTitle:otosclerosis	predictedType:Disease
+CANDIDATE	id:50379	inCount:0	outCount:1	links:	url:D050379	name:Arteriolosclerosis	normalName:arteriolosclerosis	normalWikiTitle:arteriolosclerosis	predictedType:Disease
+CANDIDATE	id:63371	inCount:0	outCount:1	links:	url:D063371	name:Myringosclerosis	normalName:myringosclerosis	normalWikiTitle:myringosclerosis	predictedType:Disease
+CANDIDATE	id:1161	inCount:9	outCount:1	links:	url:D001161	name:Arteriosclerosis	normalName:arteriosclerosis	normalWikiTitle:arteriosclerosis	predictedType:Disease
+CANDIDATE	id:5923	inCount:3	outCount:1	links:11507;6333	url:D005923	name:Focal Glomerulosclerosis	normalName:focal glomerulosclerosis	normalWikiTitle:focal glomerulosclerosis	predictedType:Disease
+CANDIDATE	id:5923	inCount:3	outCount:1	links:11507;6333	url:D005923	name:Glomerulosclerosis, Focal	normalName:glomerulosclerosis, focal	normalWikiTitle:glomerulosclerosis, focal	predictedType:Disease
+CANDIDATE	id:3928	inCount:4	outCount:2	links:	url:D003928	name:Nodular Glomerulosclerosis	normalName:nodular glomerulosclerosis	normalWikiTitle:nodular glomerulosclerosis	predictedType:Disease
+CANDIDATE	id:3928	inCount:4	outCount:2	links:	url:D003928	name:Glomerulosclerosis, Nodular	normalName:glomerulosclerosis, nodular	normalWikiTitle:glomerulosclerosis, nodular	predictedType:Disease
+CANDIDATE	id:55728	inCount:2	outCount:1	links:	url:D055728	name:Myelosclerosis	normalName:myelosclerosis	normalWikiTitle:myelosclerosis	predictedType:Disease
+CANDIDATE	id:3928	inCount:4	outCount:2	links:	url:D003928	name:Diabetic Glomerulosclerosis	normalName:diabetic glomerulosclerosis	normalWikiTitle:diabetic glomerulosclerosis	predictedType:Disease
+CANDIDATE	id:3928	inCount:4	outCount:2	links:	url:D003928	name:Glomerulosclerosis, Diabetic	normalName:glomerulosclerosis, diabetic	normalWikiTitle:glomerulosclerosis, diabetic	predictedType:Disease
+ENTITY	text:growth failure	normalName:growth failure	predictedType:disease	q:true	qid:Q405	docId:8825380	origText:growth failure	url:D006130
+CANDIDATE	id:6130	inCount:185	outCount:1	links:	url:D006130	name:Growth Disorders	normalName:growth disorders	normalWikiTitle:growth disorders	predictedType:Disease
+CANDIDATE	id:11475	inCount:1	outCount:1	links:	url:D011475	name:Prosthesis Failure	normalName:prosthesis failure	normalWikiTitle:prosthesis failure	predictedType:Disease
+CANDIDATE	id:6333	inCount:5	outCount:1	links:11507;5923	url:D006333	name:Heart Failure	normalName:heart failure	normalWikiTitle:heart failure	predictedType:Disease
+CANDIDATE	id:17093	inCount:5	outCount:1	links:	url:D017093	name:Liver Failure	normalName:liver failure	normalWikiTitle:liver failure	predictedType:Disease
+CANDIDATE	id:5183	inCount:5	outCount:1	links:	url:D005183	name:Failure to Thrive	normalName:failure to thrive	normalWikiTitle:failure to thrive	predictedType:Disease
+CANDIDATE	id:14082	inCount:1	outCount:1	links:	url:D014082	name:Tooth Fractures	normalName:tooth fractures	normalWikiTitle:tooth fractures	predictedType:Disease
+CANDIDATE	id:18677	inCount:2	outCount:2	links:	url:D018677	name:Tooth Injuries	normalName:tooth injuries	normalWikiTitle:tooth injuries	predictedType:Disease
+CANDIDATE	id:17213	inCount:0	outCount:1	links:	url:D017213	name:Root Caries	normalName:root caries	normalWikiTitle:root caries	predictedType:Disease
+CANDIDATE	id:54143	inCount:0	outCount:1	links:	url:D054143	name:Heart Failure, Systolic	normalName:heart failure, systolic	normalWikiTitle:heart failure, systolic	predictedType:Disease
+CANDIDATE	id:20325	inCount:10	outCount:1	links:	url:D020325	name:Migraine with Aura	normalName:migraine with aura	normalWikiTitle:migraine with aura	predictedType:Disease
+ENTITY	text:proteinuria	normalName:proteinuria	predictedType:disease	q:true	qid:Q405	docId:8825380	origText:proteinuria	url:D011507
+CANDIDATE	id:11507	inCount:4	outCount:2	links:6333;5923	url:D011507	name:Proteinuria	normalName:proteinuria	normalWikiTitle:proteinuria	predictedType:Disease

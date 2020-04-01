@@ -1,0 +1,4 @@
+ENTITY	text:atrial fibrillation	normalName:atrial fibrillation	predictedType:disease	q:true	qid:Q90	docId:15686794	origText:atrial fibrillation	url:D001281
+CANDIDATE	id:1281	inCount:16	outCount:1	links:	url:D001281	name:Atrial Fibrillation	normalName:atrial fibrillation	normalWikiTitle:atrial fibrillation	predictedType:Disease
+ENTITY	text:low back pain	normalName:low back pain	predictedType:disease	q:true	qid:Q90	docId:15686794	origText:low back pain	url:D017116
+CANDIDATE	id:17116	inCount:0	outCount:1	links:	url:D017116	name:Low Back Pain	normalName:low back pain	normalWikiTitle:low back pain	predictedType:Disease

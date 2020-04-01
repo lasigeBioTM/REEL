@@ -1,0 +1,95 @@
+ENTITY	text:Memory deficit	normalName:memory deficit	predictedType:disease	q:true	qid:Q139	docId:24333387	origText:Memory deficit	url:D008569
+CANDIDATE	id:8569	inCount:2	outCount:1	links:8569	url:D008569	name:Deficit, Memory	normalName:deficit, memory	normalWikiTitle:deficit, memory	predictedType:Disease
+ENTITY	text:memory impairment	normalName:memory impairment	predictedType:disease	q:true	qid:Q139	docId:24333387	origText:memory impairment	url:D008569
+CANDIDATE	id:8569	inCount:2	outCount:1	links:8569	url:D008569	name:Memory Deficit	normalName:memory deficit	normalWikiTitle:memory deficit	predictedType:Disease
+CANDIDATE	id:8569	inCount:2	outCount:1	links:8569	url:D008569	name:Memory Disorders	normalName:memory disorders	normalWikiTitle:memory disorders	predictedType:Disease
+CANDIDATE	id:3161	inCount:3	outCount:2	links:	url:D003161	name:Compartment Syndromes	normalName:compartment syndromes	normalWikiTitle:compartment syndromes	predictedType:Disease
+CANDIDATE	id:18198	inCount:0	outCount:1	links:	url:D018198	name:Mixed Tumor, Malignant	normalName:mixed tumor, malignant	normalWikiTitle:mixed tumor, malignant	predictedType:Disease
+CANDIDATE	id:19773	inCount:0	outCount:1	links:19773	url:D019773	name:Epiretinal Membrane	normalName:epiretinal membrane	normalWikiTitle:epiretinal membrane	predictedType:Disease
+CANDIDATE	id:57873	inCount:0	outCount:1	links:57873	url:D057873	name:Peri-Implantitis	normalName:peri-implantitis	normalWikiTitle:peri-implantitis	predictedType:Disease
+CANDIDATE	id:538436	inCount:0	outCount:1	links:	url:C538436	name:Auditory perceptual impairment	normalName:auditory perceptual impairment	normalWikiTitle:auditory perceptual impairment	predictedType:Disease
+CANDIDATE	id:564731	inCount:0	outCount:1	links:	url:C564731	name:Xeroderma Pigmentosum IX	normalName:xeroderma pigmentosum ix	normalWikiTitle:xeroderma pigmentosum ix	predictedType:Disease
+CANDIDATE	id:538169	inCount:0	outCount:1	links:	url:C538169	name:Acitretin embryopathy	normalName:acitretin embryopathy	normalWikiTitle:acitretin embryopathy	predictedType:Disease
+CANDIDATE	id:8546	inCount:0	outCount:2	links:	url:D008546	name:Melanoma, Experimental	normalName:melanoma, experimental	normalWikiTitle:melanoma, experimental	predictedType:Disease
+CANDIDATE	id:14983	inCount:15	outCount:6	links:	url:D014983	name:Xeroderma Pigmentosum	normalName:xeroderma pigmentosum	normalWikiTitle:xeroderma pigmentosum	predictedType:Disease
+CANDIDATE	id:11596	inCount:53	outCount:1	links:	url:D011596	name:Impairment, Psychomotor	normalName:impairment, psychomotor	normalWikiTitle:impairment, psychomotor	predictedType:Disease
+CANDIDATE	id:11596	inCount:53	outCount:1	links:	url:D011596	name:Psychomotor Impairment	normalName:psychomotor impairment	normalWikiTitle:psychomotor impairment	predictedType:Disease
+CANDIDATE	id:11596	inCount:53	outCount:1	links:	url:D011596	name:Impairments, Psychomotor	normalName:impairments, psychomotor	normalWikiTitle:impairments, psychomotor	predictedType:Disease
+CANDIDATE	id:1184	inCount:1	outCount:1	links:	url:D001184	name:Impairment, Phonology	normalName:impairment, phonology	normalWikiTitle:impairment, phonology	predictedType:Disease
+CANDIDATE	id:11596	inCount:53	outCount:1	links:	url:D011596	name:Psychomotor Impairments	normalName:psychomotor impairments	normalWikiTitle:psychomotor impairments	predictedType:Disease
+CANDIDATE	id:1184	inCount:1	outCount:1	links:	url:D001184	name:Phonology Impairment	normalName:phonology impairment	normalWikiTitle:phonology impairment	predictedType:Disease
+CANDIDATE	id:1184	inCount:1	outCount:1	links:	url:D001184	name:Impairments, Phonology	normalName:impairments, phonology	normalWikiTitle:impairments, phonology	predictedType:Disease
+CANDIDATE	id:1184	inCount:1	outCount:1	links:	url:D001184	name:Phonology Impairments	normalName:phonology impairments	normalWikiTitle:phonology impairments	predictedType:Disease
+CANDIDATE	id:14786	inCount:19	outCount:2	links:	url:D014786	name:Visual Impairment	normalName:visual impairment	normalWikiTitle:visual impairment	predictedType:Disease
+ENTITY	text:neurotoxicity	normalName:neurotoxicity	predictedType:disease	q:true	qid:Q139	docId:24333387	origText:neurotoxicity	url:D020258
+CANDIDATE	id:20258	inCount:7	outCount:2	links:	url:D020258	name:Neurotoxicity Syndromes	normalName:neurotoxicity syndromes	normalWikiTitle:neurotoxicity syndromes	predictedType:Disease
+CANDIDATE	id:66126	inCount:0	outCount:3	links:66126	url:D066126	name:Cardiotoxicity	normalName:cardiotoxicity	normalWikiTitle:cardiotoxicity	predictedType:Disease
+CANDIDATE	id:7246	inCount:2	outCount:2	links:7246	url:D007246	name:Infertility	normalName:infertility	normalWikiTitle:infertility	predictedType:Disease
+CANDIDATE	id:4767	inCount:0	outCount:2	links:	url:D004767	name:Enterotoxemia	normalName:enterotoxemia	normalWikiTitle:enterotoxemia	predictedType:Disease
+CANDIDATE	id:13971	inCount:2	outCount:1	links:13971	url:D013971	name:Thyrotoxicosis	normalName:thyrotoxicosis	normalWikiTitle:thyrotoxicosis	predictedType:Disease
+CANDIDATE	id:9902	inCount:1	outCount:1	links:	url:D009902	name:Optic Neuritis	normalName:optic neuritis	normalWikiTitle:optic neuritis	predictedType:Disease
+CANDIDATE	id:20426	inCount:2	outCount:1	links:	url:D020426	name:Sciatic Neuropathy	normalName:sciatic neuropathy	normalWikiTitle:sciatic neuropathy	predictedType:Disease
+CANDIDATE	id:18306	inCount:0	outCount:2	links:	url:D018306	name:Neurocytoma	normalName:neurocytoma	normalWikiTitle:neurocytoma	predictedType:Disease
+CANDIDATE	id:20019	inCount:0	outCount:2	links:	url:D020019	name:Neurocysticercosis	normalName:neurocysticercosis	normalWikiTitle:neurocysticercosis	predictedType:Disease
+CANDIDATE	id:9443	inCount:2	outCount:1	links:	url:D009443	name:Neuritis	normalName:neuritis	normalWikiTitle:neuritis	predictedType:Disease
+ENTITY	text:neuroinflammatory	normalName:neuroinflammatory	predictedType:disease	q:true	qid:Q139	docId:24333387	origText:neuroinflammatory	url:D007249
+CANDIDATE	id:7249	inCount:14	outCount:1	links:7249	url:D007249	name:Inflammation	normalName:inflammation	normalWikiTitle:inflammation	predictedType:Disease
+CANDIDATE	id:77162	inCount:0	outCount:1	links:77162	url:D000077162	name:Neurolymphomatosis	normalName:neurolymphomatosis	normalWikiTitle:neurolymphomatosis	predictedType:Disease
+CANDIDATE	id:9442	inCount:2	outCount:2	links:9442	url:D009442	name:Neurilemmoma	normalName:neurilemmoma	normalWikiTitle:neurilemmoma	predictedType:Disease
+CANDIDATE	id:531720	inCount:0	outCount:1	links:	url:C531720	name:Noninflammatory corneal thinning	normalName:noninflammatory corneal thinning	normalWikiTitle:noninflammatory corneal thinning	predictedType:Disease
+CANDIDATE	id:9447	inCount:2	outCount:1	links:9447	url:D009447	name:Neuroblastoma	normalName:neuroblastoma	normalWikiTitle:neuroblastoma	predictedType:Disease
+CANDIDATE	id:15212	inCount:31	outCount:2	links:	url:D015212	name:Inflammatory Bowel Diseases	normalName:inflammatory bowel diseases	normalWikiTitle:inflammatory bowel diseases	predictedType:Disease
+CANDIDATE	id:7757	inCount:0	outCount:2	links:	url:D007757	name:Laboratory Infection	normalName:laboratory infection	normalWikiTitle:laboratory infection	predictedType:Disease
+CANDIDATE	id:292	inCount:5	outCount:2	links:	url:D000292	name:Pelvic Inflammatory Disease	normalName:pelvic inflammatory disease	normalWikiTitle:pelvic inflammatory disease	predictedType:Disease
+CANDIDATE	id:17253	inCount:12	outCount:4	links:17253	url:D017253	name:Neurofibromatoses	normalName:neurofibromatoses	normalWikiTitle:neurofibromatoses	predictedType:Disease
+CANDIDATE	id:565234	inCount:0	outCount:1	links:	url:C565234	name:Inflammatory Bowel Disease 5	normalName:inflammatory bowel disease 5	normalWikiTitle:inflammatory bowel disease 5	predictedType:Disease
+CANDIDATE	id:10031	inCount:3	outCount:1	links:10031	url:D010031	name:Ear Inflammation	normalName:ear inflammation	normalWikiTitle:ear inflammation	predictedType:Disease
+CANDIDATE	id:10031	inCount:3	outCount:1	links:10031	url:D010031	name:Inflammation, Ear	normalName:inflammation, ear	normalWikiTitle:inflammation, ear	predictedType:Disease
+CANDIDATE	id:10000	inCount:0	outCount:1	links:	url:D010000	name:Bone Inflammation	normalName:bone inflammation	normalWikiTitle:bone inflammation	predictedType:Disease
+CANDIDATE	id:10031	inCount:3	outCount:1	links:10031	url:D010031	name:Inflammations, Ear	normalName:inflammations, ear	normalWikiTitle:inflammations, ear	predictedType:Disease
+CANDIDATE	id:10031	inCount:3	outCount:1	links:10031	url:D010031	name:Ear Inflammations	normalName:ear inflammations	normalWikiTitle:ear inflammations	predictedType:Disease
+CANDIDATE	id:10000	inCount:0	outCount:1	links:	url:D010000	name:Inflammation, Bone	normalName:inflammation, bone	normalWikiTitle:inflammation, bone	predictedType:Disease
+CANDIDATE	id:58922	inCount:0	outCount:1	links:	url:D058922	name:Inflammatory Breast Cancer	normalName:inflammatory breast cancer	normalWikiTitle:inflammatory breast cancer	predictedType:Disease
+CANDIDATE	id:58922	inCount:0	outCount:1	links:	url:D058922	name:Breast Cancer, Inflammatory	normalName:breast cancer, inflammatory	normalWikiTitle:breast cancer, inflammatory	predictedType:Disease
+CANDIDATE	id:58922	inCount:0	outCount:1	links:	url:D058922	name:Cancer, Inflammatory Breast	normalName:cancer, inflammatory breast	normalWikiTitle:cancer, inflammatory breast	predictedType:Disease
+ENTITY	text:neuroinflammation	normalName:neuroinflammation	predictedType:disease	q:true	qid:Q139	docId:24333387	origText:neuroinflammation	url:D007249
+CANDIDATE	id:7249	inCount:14	outCount:1	links:7249	url:D007249	name:Inflammation	normalName:inflammation	normalWikiTitle:inflammation	predictedType:Disease
+CANDIDATE	id:77162	inCount:0	outCount:1	links:77162	url:D000077162	name:Neurolymphomatosis	normalName:neurolymphomatosis	normalWikiTitle:neurolymphomatosis	predictedType:Disease
+CANDIDATE	id:9442	inCount:2	outCount:2	links:9442	url:D009442	name:Neurilemmoma	normalName:neurilemmoma	normalWikiTitle:neurilemmoma	predictedType:Disease
+CANDIDATE	id:2059	inCount:1	outCount:1	links:	url:D002059	name:Burns, Inhalation	normalName:burns, inhalation	normalWikiTitle:burns, inhalation	predictedType:Disease
+CANDIDATE	id:9447	inCount:2	outCount:1	links:9447	url:D009447	name:Neuroblastoma	normalName:neuroblastoma	normalWikiTitle:neuroblastoma	predictedType:Disease
+CANDIDATE	id:20078	inCount:0	outCount:2	links:	url:D020078	name:Neurogenic Inflammation	normalName:neurogenic inflammation	normalWikiTitle:neurogenic inflammation	predictedType:Disease
+CANDIDATE	id:7238	inCount:0	outCount:2	links:	url:D007238	name:Infarction	normalName:infarction	normalWikiTitle:infarction	predictedType:Disease
+CANDIDATE	id:17253	inCount:12	outCount:4	links:17253	url:D017253	name:Neurofibromatoses	normalName:neurofibromatoses	normalWikiTitle:neurofibromatoses	predictedType:Disease
+CANDIDATE	id:17564	inCount:0	outCount:3	links:	url:D017564	name:Radiation Pneumonitis	normalName:radiation pneumonitis	normalWikiTitle:radiation pneumonitis	predictedType:Disease
+CANDIDATE	id:58734	inCount:0	outCount:1	links:	url:D058734	name:Exsanguination	normalName:exsanguination	normalWikiTitle:exsanguination	predictedType:Disease
+CANDIDATE	id:10031	inCount:3	outCount:1	links:10031	url:D010031	name:Ear Inflammation	normalName:ear inflammation	normalWikiTitle:ear inflammation	predictedType:Disease
+CANDIDATE	id:10031	inCount:3	outCount:1	links:10031	url:D010031	name:Inflammation, Ear	normalName:inflammation, ear	normalWikiTitle:inflammation, ear	predictedType:Disease
+ENTITY	text:toxicity	normalName:toxicity	predictedType:disease	q:true	qid:Q139	docId:24333387	origText:toxicity	url:D064420
+CANDIDATE	id:64420	inCount:10	outCount:1	links:	url:D064420	name:Drug Toxicity	normalName:drug toxicity	normalWikiTitle:drug toxicity	predictedType:Disease
+CANDIDATE	id:66126	inCount:0	outCount:3	links:66126	url:D066126	name:Cardiotoxicity	normalName:cardiotoxicity	normalWikiTitle:cardiotoxicity	predictedType:Disease
+CANDIDATE	id:15651	inCount:2	outCount:1	links:	url:D015651	name:Mycotoxicosis	normalName:mycotoxicosis	normalWikiTitle:mycotoxicosis	predictedType:Disease
+CANDIDATE	id:13971	inCount:2	outCount:1	links:13971	url:D013971	name:Thyrotoxicosis	normalName:thyrotoxicosis	normalWikiTitle:thyrotoxicosis	predictedType:Disease
+CANDIDATE	id:14869	inCount:0	outCount:2	links:	url:D014869	name:Water Intoxication	normalName:water intoxication	normalWikiTitle:water intoxication	predictedType:Disease
+CANDIDATE	id:14103	inCount:4	outCount:2	links:	url:D014103	name:Torticollis	normalName:torticollis	normalWikiTitle:torticollis	predictedType:Disease
+CANDIDATE	id:9765	inCount:42	outCount:2	links:	url:D009765	name:Obesity	normalName:obesity	normalWikiTitle:obesity	predictedType:Disease
+CANDIDATE	id:14115	inCount:1	outCount:1	links:	url:D014115	name:Toxemia	normalName:toxemia	normalWikiTitle:toxemia	predictedType:Disease
+CANDIDATE	id:7246	inCount:2	outCount:2	links:7246	url:D007246	name:Infertility	normalName:infertility	normalWikiTitle:infertility	predictedType:Disease
+CANDIDATE	id:20234	inCount:0	outCount:2	links:	url:D020234	name:Gait Ataxia	normalName:gait ataxia	normalWikiTitle:gait ataxia	predictedType:Disease
+CANDIDATE	id:14069	inCount:1	outCount:1	links:	url:D014069	name:Tonsillitis	normalName:tonsillitis	normalWikiTitle:tonsillitis	predictedType:Disease
+CANDIDATE	id:64420	inCount:10	outCount:1	links:	url:D064420	name:Toxicity, Drug	normalName:toxicity, drug	normalWikiTitle:toxicity, drug	predictedType:Disease
+CANDIDATE	id:17484	inCount:0	outCount:2	links:	url:D017484	name:Phototoxicity	normalName:phototoxicity	normalWikiTitle:phototoxicity	predictedType:Disease
+ENTITY	text:memory impaired	normalName:memory impaired	predictedType:disease	q:true	qid:Q139	docId:24333387	origText:memory impaired	url:D008569
+CANDIDATE	id:8569	inCount:2	outCount:1	links:8569	url:D008569	name:Memory Disorder	normalName:memory disorder	normalWikiTitle:memory disorder	predictedType:Disease
+CANDIDATE	id:8569	inCount:2	outCount:1	links:8569	url:D008569	name:Memory Disorders	normalName:memory disorders	normalWikiTitle:memory disorders	predictedType:Disease
+CANDIDATE	id:18200	inCount:0	outCount:1	links:	url:D018200	name:Mixed Tumor, Mullerian	normalName:mixed tumor, mullerian	normalWikiTitle:mixed tumor, mullerian	predictedType:Disease
+CANDIDATE	id:14095	inCount:0	outCount:1	links:	url:D014095	name:Tooth, Impacted	normalName:tooth, impacted	normalWikiTitle:tooth, impacted	predictedType:Disease
+CANDIDATE	id:10211	inCount:0	outCount:1	links:	url:D010211	name:Papilledema	normalName:papilledema	normalWikiTitle:papilledema	predictedType:Disease
+CANDIDATE	id:19773	inCount:0	outCount:1	links:19773	url:D019773	name:Epiretinal Membrane	normalName:epiretinal membrane	normalWikiTitle:epiretinal membrane	predictedType:Disease
+CANDIDATE	id:11017	inCount:0	outCount:1	links:	url:D011017	name:Pneumonia, Lipid	normalName:pneumonia, lipid	normalWikiTitle:pneumonia, lipid	predictedType:Disease
+CANDIDATE	id:45745	inCount:1	outCount:1	links:	url:D045745	name:Scleroderma, Limited	normalName:scleroderma, limited	normalWikiTitle:scleroderma, limited	predictedType:Disease
+CANDIDATE	id:1714	inCount:11	outCount:1	links:	url:D001714	name:Bipolar Disorder	normalName:bipolar disorder	normalWikiTitle:bipolar disorder	predictedType:Disease
+CANDIDATE	id:65134	inCount:0	outCount:1	links:	url:D065134	name:Lipedema	normalName:lipedema	normalWikiTitle:lipedema	predictedType:Disease
+CANDIDATE	id:57873	inCount:0	outCount:1	links:57873	url:D057873	name:Peri-Implantitis	normalName:peri-implantitis	normalWikiTitle:peri-implantitis	predictedType:Disease
+CANDIDATE	id:6987	inCount:1	outCount:1	links:	url:D006987	name:Impaired Sensation	normalName:impaired sensation	normalWikiTitle:impaired sensation	predictedType:Disease
+CANDIDATE	id:6987	inCount:1	outCount:1	links:	url:D006987	name:Sensation, Impaired	normalName:sensation, impaired	normalWikiTitle:sensation, impaired	predictedType:Disease

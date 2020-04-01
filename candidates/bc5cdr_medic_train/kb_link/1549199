@@ -1,0 +1,56 @@
+ENTITY	text:Parkinson's disease	normalName:parkinson's disease	predictedType:disease	q:true	qid:Q184	docId:1549199	origText:Parkinson's disease	url:D010300
+CANDIDATE	id:10300	inCount:31	outCount:2	links:	url:D010300	name:Parkinson's Disease	normalName:parkinson's disease	normalWikiTitle:parkinson's disease	predictedType:Disease
+ENTITY	text:toxicity	normalName:toxicity	predictedType:disease	q:true	qid:Q184	docId:1549199	origText:toxicity	url:D064420
+CANDIDATE	id:64420	inCount:10	outCount:1	links:	url:D064420	name:Drug Toxicity	normalName:drug toxicity	normalWikiTitle:drug toxicity	predictedType:Disease
+CANDIDATE	id:66126	inCount:0	outCount:3	links:	url:D066126	name:Cardiotoxicity	normalName:cardiotoxicity	normalWikiTitle:cardiotoxicity	predictedType:Disease
+CANDIDATE	id:15651	inCount:2	outCount:1	links:	url:D015651	name:Mycotoxicosis	normalName:mycotoxicosis	normalWikiTitle:mycotoxicosis	predictedType:Disease
+CANDIDATE	id:13971	inCount:2	outCount:1	links:	url:D013971	name:Thyrotoxicosis	normalName:thyrotoxicosis	normalWikiTitle:thyrotoxicosis	predictedType:Disease
+CANDIDATE	id:14869	inCount:0	outCount:2	links:	url:D014869	name:Water Intoxication	normalName:water intoxication	normalWikiTitle:water intoxication	predictedType:Disease
+CANDIDATE	id:14103	inCount:4	outCount:2	links:	url:D014103	name:Torticollis	normalName:torticollis	normalWikiTitle:torticollis	predictedType:Disease
+CANDIDATE	id:9765	inCount:42	outCount:2	links:	url:D009765	name:Obesity	normalName:obesity	normalWikiTitle:obesity	predictedType:Disease
+CANDIDATE	id:14115	inCount:1	outCount:1	links:	url:D014115	name:Toxemia	normalName:toxemia	normalWikiTitle:toxemia	predictedType:Disease
+CANDIDATE	id:7246	inCount:2	outCount:2	links:	url:D007246	name:Infertility	normalName:infertility	normalWikiTitle:infertility	predictedType:Disease
+CANDIDATE	id:20234	inCount:0	outCount:2	links:	url:D020234	name:Gait Ataxia	normalName:gait ataxia	normalWikiTitle:gait ataxia	predictedType:Disease
+CANDIDATE	id:14069	inCount:1	outCount:1	links:	url:D014069	name:Tonsillitis	normalName:tonsillitis	normalWikiTitle:tonsillitis	predictedType:Disease
+CANDIDATE	id:64420	inCount:10	outCount:1	links:	url:D064420	name:Toxicity, Drug	normalName:toxicity, drug	normalWikiTitle:toxicity, drug	predictedType:Disease
+CANDIDATE	id:17484	inCount:0	outCount:2	links:	url:D017484	name:Phototoxicity	normalName:phototoxicity	normalWikiTitle:phototoxicity	predictedType:Disease
+ENTITY	text:psychosis	normalName:psychosis	predictedType:disease	q:true	qid:Q184	docId:1549199	origText:psychosis	url:D011618
+CANDIDATE	id:11618	inCount:4	outCount:1	links:	url:D011618	name:Psychosis	normalName:psychosis	normalWikiTitle:psychosis	predictedType:Disease
+ENTITY	text:parasomnias	normalName:parasomnias	predictedType:disease	q:true	qid:Q184	docId:1549199	origText:parasomnias	url:D020447
+CANDIDATE	id:20447	inCount:7	outCount:1	links:	url:D020447	name:Parasomnias	normalName:parasomnias	normalWikiTitle:parasomnias	predictedType:Disease
+ENTITY	text:sleep disturbances	normalName:sleep disturbances	predictedType:disease	q:true	qid:Q184	docId:1549199	origText:sleep disturbances	url:D012893
+CANDIDATE	id:12893	inCount:4	outCount:3	links:	url:D012893	name:Disorder, Sleep	normalName:disorder, sleep	normalWikiTitle:disorder, sleep	predictedType:Disease
+CANDIDATE	id:12757	inCount:10	outCount:1	links:	url:D012757	name:Sheep Diseases	normalName:sheep diseases	normalWikiTitle:sheep diseases	predictedType:Disease
+CANDIDATE	id:8599	inCount:6	outCount:1	links:	url:D008599	name:Menstruation Disturbances	normalName:menstruation disturbances	normalWikiTitle:menstruation disturbances	predictedType:Disease
+CANDIDATE	id:20919	inCount:5	outCount:1	links:	url:D020919	name:Sleep Disorders, Intrinsic	normalName:sleep disorders, intrinsic	normalWikiTitle:sleep disorders, intrinsic	predictedType:Disease
+CANDIDATE	id:12892	inCount:0	outCount:2	links:	url:D012892	name:Sleep Deprivation	normalName:sleep deprivation	normalWikiTitle:sleep deprivation	predictedType:Disease
+CANDIDATE	id:12893	inCount:4	outCount:3	links:	url:D012893	name:Sleep Wake Disorders	normalName:sleep wake disorders	normalWikiTitle:sleep wake disorders	predictedType:Disease
+CANDIDATE	id:563201	inCount:0	outCount:1	links:	url:C563201	name:Lysine Intolerance	normalName:lysine intolerance	normalWikiTitle:lysine intolerance	predictedType:Disease
+CANDIDATE	id:7787	inCount:1	outCount:2	links:	url:D007787	name:Lactose Intolerance	normalName:lactose intolerance	normalWikiTitle:lactose intolerance	predictedType:Disease
+CANDIDATE	id:20182	inCount:1	outCount:1	links:	url:D020182	name:Sleep Apnea, Central	normalName:sleep apnea, central	normalWikiTitle:sleep apnea, central	predictedType:Disease
+CANDIDATE	id:13158	inCount:7	outCount:1	links:	url:D013158	name:Splenic Diseases	normalName:splenic diseases	normalWikiTitle:splenic diseases	predictedType:Disease
+CANDIDATE	id:57896	inCount:1	outCount:1	links:	url:D057896	name:Striae Distensae	normalName:striae distensae	normalWikiTitle:striae distensae	predictedType:Disease
+CANDIDATE	id:14832	inCount:4	outCount:2	links:	url:D014832	name:Voice Disturbance	normalName:voice disturbance	normalWikiTitle:voice disturbance	predictedType:Disease
+CANDIDATE	id:7859	inCount:10	outCount:2	links:	url:D007859	name:Disturbance, Learning	normalName:disturbance, learning	normalWikiTitle:disturbance, learning	predictedType:Disease
+CANDIDATE	id:7859	inCount:10	outCount:2	links:	url:D007859	name:Learning Disturbance	normalName:learning disturbance	normalWikiTitle:learning disturbance	predictedType:Disease
+CANDIDATE	id:14832	inCount:4	outCount:2	links:	url:D014832	name:Disturbance, Voice	normalName:disturbance, voice	normalWikiTitle:disturbance, voice	predictedType:Disease
+CANDIDATE	id:7859	inCount:10	outCount:2	links:	url:D007859	name:Learning Disturbances	normalName:learning disturbances	normalWikiTitle:learning disturbances	predictedType:Disease
+CANDIDATE	id:7859	inCount:10	outCount:2	links:	url:D007859	name:Disturbances, Learning	normalName:disturbances, learning	normalWikiTitle:disturbances, learning	predictedType:Disease
+CANDIDATE	id:14832	inCount:4	outCount:2	links:	url:D014832	name:Disturbances, Voice	normalName:disturbances, voice	normalWikiTitle:disturbances, voice	predictedType:Disease
+CANDIDATE	id:14832	inCount:4	outCount:2	links:	url:D014832	name:Voice Disturbances	normalName:voice disturbances	normalWikiTitle:voice disturbances	predictedType:Disease
+CANDIDATE	id:12893	inCount:4	outCount:3	links:	url:D012893	name:Sleep Disorder	normalName:sleep disorder	normalWikiTitle:sleep disorder	predictedType:Disease
+ENTITY	text:gastrointestinal disorders	normalName:gastrointestinal disorders	predictedType:disease	q:true	qid:Q184	docId:1549199	origText:gastrointestinal disorders	url:D005767
+CANDIDATE	id:5767	inCount:12	outCount:1	links:	url:D005767	name:Disease, Gastrointestinal	normalName:disease, gastrointestinal	normalWikiTitle:disease, gastrointestinal	predictedType:Disease
+CANDIDATE	id:5767	inCount:12	outCount:1	links:	url:D005767	name:Gastrointestinal Diseases	normalName:gastrointestinal diseases	normalWikiTitle:gastrointestinal diseases	predictedType:Disease
+CANDIDATE	id:571911	inCount:0	outCount:2	links:	url:C571911	name:Gastrointestinal anthrax	normalName:gastrointestinal anthrax	normalWikiTitle:gastrointestinal anthrax	predictedType:Disease
+CANDIDATE	id:7410	inCount:30	outCount:1	links:	url:D007410	name:Intestinal Diseases	normalName:intestinal diseases	normalWikiTitle:intestinal diseases	predictedType:Disease
+CANDIDATE	id:20734	inCount:10	outCount:2	links:	url:D020734	name:Parkinsonian Disorders	normalName:parkinsonian disorders	normalWikiTitle:parkinsonian disorders	predictedType:Disease
+CANDIDATE	id:12678	inCount:7	outCount:1	links:	url:D012678	name:Sensation Disorders	normalName:sensation disorders	normalWikiTitle:sensation disorders	predictedType:Disease
+CANDIDATE	id:6677	inCount:1	outCount:1	links:	url:D006677	name:Histrionic Personality Disorder	normalName:histrionic personality disorder	normalWikiTitle:histrionic personality disorder	predictedType:Disease
+CANDIDATE	id:9748	inCount:6	outCount:1	links:	url:D009748	name:Nutrition Disorders	normalName:nutrition disorders	normalWikiTitle:nutrition disorders	predictedType:Disease
+CANDIDATE	id:14555	inCount:10	outCount:1	links:	url:D014555	name:Urination Disorders	normalName:urination disorders	normalWikiTitle:urination disorders	predictedType:Disease
+CANDIDATE	id:10260	inCount:0	outCount:1	links:	url:D010260	name:Paranoid Personality Disorder	normalName:paranoid personality disorder	normalWikiTitle:paranoid personality disorder	predictedType:Disease
+CANDIDATE	id:67562	inCount:0	outCount:1	links:	url:D000067562	name:Late Onset Disorders	normalName:late onset disorders	normalWikiTitle:late onset disorders	predictedType:Disease
+CANDIDATE	id:5767	inCount:12	outCount:1	links:	url:D005767	name:Gastrointestinal Disease	normalName:gastrointestinal disease	normalWikiTitle:gastrointestinal disease	predictedType:Disease
+ENTITY	text:orthostatic hypotension	normalName:orthostatic hypotension	predictedType:disease	q:true	qid:Q184	docId:1549199	origText:orthostatic hypotension	url:D007024
+CANDIDATE	id:7024	inCount:2	outCount:2	links:	url:D007024	name:Hypotension, Orthostatic	normalName:hypotension, orthostatic	normalWikiTitle:hypotension, orthostatic	predictedType:Disease

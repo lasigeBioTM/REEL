@@ -1,0 +1,17 @@
+ENTITY	text:Tacrolimus	normalName:tacrolimus	predictedType:chemical	q:true	qid:Q440	docId:18186898	origText:Tacrolimus	url:D016559
+CANDIDATE	id:16559	inCount:40	outCount:1	links:20123;19259	url:D016559	name:Tacrolimus	normalName:tacrolimus	normalWikiTitle:tacrolimus	predictedType:Chemical
+ENTITY	text:steroids	normalName:steroids	predictedType:chemical	q:true	qid:Q440	docId:18186898	origText:steroids	url:D013256
+CANDIDATE	id:13256	inCount:415	outCount:1	links:	url:D013256	name:Steroids	normalName:steroids	normalWikiTitle:steroids	predictedType:Chemical
+CANDIDATE	id:549774	inCount:0	outCount:1	links:	url:C549774	name:Sterodin	normalName:sterodin	normalWikiTitle:sterodin	predictedType:Chemical
+CANDIDATE	id:9654	inCount:35	outCount:1	links:	url:D009654	name:Norsteroids	normalName:norsteroids	normalWikiTitle:norsteroids	predictedType:Chemical
+CANDIDATE	id:1378	inCount:68	outCount:1	links:	url:D001378	name:Azasteroids	normalName:azasteroids	normalWikiTitle:azasteroids	predictedType:Chemical
+CANDIDATE	id:19432	inCount:0	outCount:1	links:	url:C019432	name:zeroid	normalName:zeroid	normalWikiTitle:zeroid	predictedType:Chemical
+CANDIDATE	id:2566	inCount:0	outCount:2	links:	url:D002566	name:Ceroid	normalName:ceroid	normalWikiTitle:ceroid	predictedType:Chemical
+CANDIDATE	id:49412	inCount:0	outCount:1	links:	url:C049412	name:sweroside	normalName:sweroside	normalWikiTitle:sweroside	predictedType:Chemical
+CANDIDATE	id:35227	inCount:0	outCount:1	links:	url:C035227	name:stepronin	normalName:stepronin	normalWikiTitle:stepronin	predictedType:Chemical
+CANDIDATE	id:13722	inCount:2	outCount:1	links:	url:D013722	name:Teprotide	normalName:teprotide	normalWikiTitle:teprotide	predictedType:Chemical
+CANDIDATE	id:7664	inCount:6	outCount:1	links:	url:D007664	name:Ketosteroids	normalName:ketosteroids	normalWikiTitle:ketosteroids	predictedType:Chemical
+ENTITY	text:sirolimus	normalName:sirolimus	predictedType:chemical	q:true	qid:Q440	docId:18186898	origText:sirolimus	url:D020123
+CANDIDATE	id:20123	inCount:19	outCount:1	links:16559	url:D020123	name:Sirolimus	normalName:sirolimus	normalWikiTitle:sirolimus	predictedType:Chemical
+ENTITY	text:Lamivudine	normalName:lamivudine	predictedType:chemical	q:true	qid:Q440	docId:18186898	origText:Lamivudine	url:D019259
+CANDIDATE	id:19259	inCount:14	outCount:1	links:16559	url:D019259	name:Lamivudine	normalName:lamivudine	normalWikiTitle:lamivudine	predictedType:Chemical

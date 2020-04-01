@@ -1,0 +1,28 @@
+ENTITY	text:hypothermic	normalName:hypothermic	predictedType:disease	q:true	qid:Q165	docId:17049862	origText:hypothermic	url:D007035
+CANDIDATE	id:7035	inCount:2	outCount:1	links:7035;1919	url:D007035	name:Hypothermia	normalName:hypothermia	normalWikiTitle:hypothermia	predictedType:Disease
+CANDIDATE	id:6940	inCount:0	outCount:1	links:	url:D006940	name:Hyperemia	normalName:hyperemia	normalWikiTitle:hyperemia	predictedType:Disease
+CANDIDATE	id:7010	inCount:1	outCount:1	links:	url:D007010	name:Hyponatremia	normalName:hyponatremia	normalWikiTitle:hyponatremia	predictedType:Disease
+CANDIDATE	id:6988	inCount:0	outCount:1	links:	url:D006988	name:Hyphema	normalName:hyphema	normalWikiTitle:hyphema	predictedType:Disease
+CANDIDATE	id:7039	inCount:27	outCount:1	links:	url:D007039	name:Hypotrichosis	normalName:hypotrichosis	normalWikiTitle:hypotrichosis	predictedType:Disease
+CANDIDATE	id:7022	inCount:3	outCount:1	links:7035;12640;1919	url:D007022	name:Hypotension	normalName:hypotension	normalWikiTitle:hypotension	predictedType:Disease
+CANDIDATE	id:7008	inCount:1	outCount:1	links:12640	url:D007008	name:Hypokalemia	normalName:hypokalemia	normalWikiTitle:hypokalemia	predictedType:Disease
+CANDIDATE	id:6987	inCount:1	outCount:1	links:	url:D006987	name:Hypesthesia	normalName:hypesthesia	normalWikiTitle:hypesthesia	predictedType:Disease
+CANDIDATE	id:7000	inCount:0	outCount:1	links:	url:D007000	name:Hypodermyiasis	normalName:hypodermyiasis	normalWikiTitle:hypodermyiasis	predictedType:Disease
+CANDIDATE	id:20896	inCount:0	outCount:1	links:	url:D020896	name:Hypovolemia	normalName:hypovolemia	normalWikiTitle:hypovolemia	predictedType:Disease
+ENTITY	text:bradycardia	normalName:bradycardia	predictedType:disease	q:true	qid:Q165	docId:17049862	origText:bradycardia	url:D001919
+CANDIDATE	id:1919	inCount:0	outCount:1	links:7035;7022;12640	url:D001919	name:Bradycardia	normalName:bradycardia	normalWikiTitle:bradycardia	predictedType:Disease
+ENTITY	text:Chiari malformation	normalName:chiari malformation	predictedType:disease	q:true	qid:Q165	docId:17049862	origText:Chiari malformation	url:D001139
+CANDIDATE	id:1139	inCount:1	outCount:1	links:	url:D001139	name:Arnold-Chiari Malformation	normalName:arnold-chiari malformation	normalWikiTitle:arnold-chiari malformation	predictedType:Disease
+CANDIDATE	id:566258	inCount:0	outCount:1	links:	url:C566258	name:Arms, Malformation of	normalName:arms, malformation of	normalWikiTitle:arms, malformation of	predictedType:Disease
+CANDIDATE	id:617300	inCount:0	outCount:3	links:	url:617300	name:LYMPHATIC MALFORMATION 7	normalName:lymphatic malformation 7	normalWikiTitle:lymphatic malformation 7	predictedType:Disease
+CANDIDATE	id:613480	inCount:0	outCount:1	links:	url:613480	name:LYMPHATIC MALFORMATION 3	normalName:lymphatic malformation 3	normalWikiTitle:lymphatic malformation 3	predictedType:Disease
+CANDIDATE	id:616843	inCount:0	outCount:1	links:	url:616843	name:LYMPHATIC MALFORMATION 6	normalName:lymphatic malformation 6	normalWikiTitle:lymphatic malformation 6	predictedType:Disease
+CANDIDATE	id:615907	inCount:0	outCount:1	links:	url:615907	name:LYMPHATIC MALFORMATION 4	normalName:lymphatic malformation 4	normalWikiTitle:lymphatic malformation 4	predictedType:Disease
+CANDIDATE	id:71056	inCount:0	outCount:1	links:	url:D000071056	name:Anorectal Malformations	normalName:anorectal malformations	normalWikiTitle:anorectal malformations	predictedType:Disease
+CANDIDATE	id:1165	inCount:7	outCount:2	links:	url:D001165	name:Arteriovenous Malformations	normalName:arteriovenous malformations	normalWikiTitle:arteriovenous malformations	predictedType:Disease
+CANDIDATE	id:163000	inCount:0	outCount:2	links:	url:163000	name:CAPILLARY MALFORMATIONS, CONGENITAL	normalName:capillary malformations, congenital	normalWikiTitle:capillary malformations, congenital	predictedType:Disease
+CANDIDATE	id:217095	inCount:0	outCount:3	links:	url:217095	name:CONOTRUNCAL HEART MALFORMATIONS	normalName:conotruncal heart malformations	normalWikiTitle:conotruncal heart malformations	predictedType:Disease
+ENTITY	text:hypothermia	normalName:hypothermia	predictedType:disease	q:true	qid:Q165	docId:17049862	origText:hypothermia	url:D007035
+CANDIDATE	id:7035	inCount:2	outCount:1	links:7035;1919	url:D007035	name:Hypothermia	normalName:hypothermia	normalWikiTitle:hypothermia	predictedType:Disease
+ENTITY	text:seizure	normalName:seizure	predictedType:disease	q:true	qid:Q165	docId:17049862	origText:seizure	url:D012640
+CANDIDATE	id:12640	inCount:53	outCount:1	links:7008;7022;1919	url:D012640	name:Seizure	normalName:seizure	normalWikiTitle:seizure	predictedType:Disease

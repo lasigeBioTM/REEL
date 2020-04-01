@@ -1,0 +1,6 @@
+ENTITY	text:clozapine	normalName:clozapine	predictedType:chemical	q:true	qid:Q1167	docId:15630069	origText:clozapine	url:D003024
+CANDIDATE	id:3024	inCount:15	outCount:1	links:18967	url:D003024	name:Clozapine	normalName:clozapine	normalWikiTitle:clozapine	predictedType:Chemical
+ENTITY	text:risperidone	normalName:risperidone	predictedType:chemical	q:true	qid:Q1167	docId:15630069	origText:risperidone	url:D018967
+CANDIDATE	id:18967	inCount:2	outCount:1	links:3024	url:D018967	name:Risperidone	normalName:risperidone	normalWikiTitle:risperidone	predictedType:Chemical
+ENTITY	text:Glucose	normalName:glucose	predictedType:chemical	q:true	qid:Q1167	docId:15630069	origText:Glucose	url:D005947
+CANDIDATE	id:5947	inCount:160	outCount:1	links:	url:D005947	name:Glucose	normalName:glucose	normalWikiTitle:glucose	predictedType:Chemical

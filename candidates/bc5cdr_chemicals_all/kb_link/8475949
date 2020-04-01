@@ -1,0 +1,6 @@
+ENTITY	text:Pentamidine isethionate	normalName:pentamidine isethionate	predictedType:chemical	q:true	qid:Q704	docId:8475949	origText:Pentamidine isethionate	url:D010419
+CANDIDATE	id:10419	inCount:14	outCount:1	links:10419	url:D010419	name:Pentamidine Isethionate	normalName:pentamidine isethionate	normalWikiTitle:pentamidine isethionate	predictedType:Chemical
+ENTITY	text:pentamidine	normalName:pentamidine	predictedType:chemical	q:true	qid:Q704	docId:8475949	origText:pentamidine	url:D010419
+CANDIDATE	id:10419	inCount:14	outCount:1	links:10419	url:D010419	name:Pentamidine	normalName:pentamidine	normalWikiTitle:pentamidine	predictedType:Chemical
+ENTITY	text:magnesium	normalName:magnesium	predictedType:chemical	q:true	qid:Q704	docId:8475949	origText:magnesium	url:D008274
+CANDIDATE	id:8274	inCount:26	outCount:2	links:	url:D008274	name:Magnesium	normalName:magnesium	normalWikiTitle:magnesium	predictedType:Chemical

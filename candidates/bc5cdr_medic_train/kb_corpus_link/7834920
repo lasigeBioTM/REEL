@@ -1,0 +1,6 @@
+ENTITY	text:pulmonary tuberculosis	normalName:pulmonary tuberculosis	predictedType:disease	q:true	qid:Q195	docId:7834920	origText:pulmonary tuberculosis	url:D014397
+CANDIDATE	id:14397	inCount:1	outCount:3	links:	url:D014397	name:Tuberculosis, Pulmonary	normalName:tuberculosis, pulmonary	normalWikiTitle:tuberculosis, pulmonary	predictedType:Disease
+ENTITY	text:glomerulonephritis	normalName:glomerulonephritis	predictedType:disease	q:true	qid:Q195	docId:7834920	origText:glomerulonephritis	url:D005921
+CANDIDATE	id:5921	inCount:11	outCount:1	links:51437	url:D005921	name:Glomerulonephritis	normalName:glomerulonephritis	normalWikiTitle:glomerulonephritis	predictedType:Disease
+ENTITY	text:renal failure	normalName:renal failure	predictedType:disease	q:true	qid:Q195	docId:7834920	origText:renal failure	url:D051437
+CANDIDATE	id:51437	inCount:10	outCount:1	links:5921	url:D051437	name:Renal Failure	normalName:renal failure	normalWikiTitle:renal failure	predictedType:Disease

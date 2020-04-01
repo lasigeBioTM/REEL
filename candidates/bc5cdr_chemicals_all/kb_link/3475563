@@ -1,0 +1,6 @@
+ENTITY	text:prednisone	normalName:prednisone	predictedType:chemical	q:true	qid:Q338	docId:3475563	origText:prednisone	url:D011241
+CANDIDATE	id:11241	inCount:209	outCount:1	links:	url:D011241	name:Prednisone	normalName:prednisone	normalWikiTitle:prednisone	predictedType:Chemical
+ENTITY	text:beclomethasone	normalName:beclomethasone	predictedType:chemical	q:true	qid:Q338	docId:3475563	origText:beclomethasone	url:D001507
+CANDIDATE	id:1507	inCount:2	outCount:2	links:1507	url:D001507	name:Beclomethasone	normalName:beclomethasone	normalWikiTitle:beclomethasone	predictedType:Chemical
+ENTITY	text:beclomethasone dipropionate	normalName:beclomethasone dipropionate	predictedType:chemical	q:true	qid:Q338	docId:3475563	origText:beclomethasone dipropionate	url:D001507
+CANDIDATE	id:1507	inCount:2	outCount:2	links:1507	url:D001507	name:Dipropionate, Beclomethasone	normalName:dipropionate, beclomethasone	normalWikiTitle:dipropionate, beclomethasone	predictedType:Chemical

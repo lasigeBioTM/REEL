@@ -1,0 +1,6 @@
+ENTITY	text:theophylline	normalName:theophylline	predictedType:chemical	q:true	qid:Q219	docId:12180796	origText:theophylline	url:D013806
+CANDIDATE	id:13806	inCount:113	outCount:1	links:18818	url:D013806	name:Theophylline	normalName:theophylline	normalWikiTitle:theophylline	predictedType:Chemical
+ENTITY	text:nitric oxide	normalName:nitric oxide	predictedType:chemical	q:true	qid:Q219	docId:12180796	origText:nitric oxide	url:D009569
+CANDIDATE	id:9569	inCount:13	outCount:3	links:	url:D009569	name:Nitric Oxide	normalName:nitric oxide	normalWikiTitle:nitric oxide	predictedType:Chemical
+ENTITY	text:fenoldopam	normalName:fenoldopam	predictedType:chemical	q:true	qid:Q219	docId:12180796	origText:fenoldopam	url:D018818
+CANDIDATE	id:18818	inCount:0	outCount:1	links:13806	url:D018818	name:Fenoldopam	normalName:fenoldopam	normalWikiTitle:fenoldopam	predictedType:Chemical

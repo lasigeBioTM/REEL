@@ -1,0 +1,50 @@
+ENTITY	text:aristolochic acids	normalName:aristolochic acids	predictedType:chemical	q:true	qid:Q141	docId:17028363	origText:aristolochic acids	url:D034341
+CANDIDATE	id:34341	inCount:32	outCount:2	links:	url:D034341	name:Aristolochic Acids	normalName:aristolochic acids	normalWikiTitle:aristolochic acids	predictedType:Chemical
+ENTITY	text:anthraquinones	normalName:anthraquinones	predictedType:chemical	q:true	qid:Q141	docId:17028363	origText:anthraquinones	url:D000880
+CANDIDATE	id:880	inCount:700	outCount:2	links:880	url:D000880	name:Anthraquinones	normalName:anthraquinones	normalWikiTitle:anthraquinones	predictedType:Chemical
+CANDIDATE	id:590811	inCount:0	outCount:1	links:590811	url:C000590811	name:xylanthraquinone	normalName:xylanthraquinone	normalWikiTitle:xylanthraquinone	predictedType:Chemical
+CANDIDATE	id:480243	inCount:0	outCount:2	links:480243	url:C480243	name:rubianthraquinone	normalName:rubianthraquinone	normalWikiTitle:rubianthraquinone	predictedType:Chemical
+CANDIDATE	id:416442	inCount:0	outCount:1	links:416442	url:C416442	name:1,4-anthraquinone	normalName:1,4-anthraquinone	normalWikiTitle:1,4-anthraquinone	predictedType:Chemical
+CANDIDATE	id:42834	inCount:0	outCount:1	links:42834	url:C042834	name:9,10-anthraquinone	normalName:9,10-anthraquinone	normalWikiTitle:9,10-anthraquinone	predictedType:Chemical
+CANDIDATE	id:575459	inCount:0	outCount:1	links:575459	url:C575459	name:anthuminone	normalName:anthuminone	normalWikiTitle:anthuminone	predictedType:Chemical
+CANDIDATE	id:493701	inCount:0	outCount:1	links:493701	url:C493701	name:blanchaquinone	normalName:blanchaquinone	normalWikiTitle:blanchaquinone	predictedType:Chemical
+CANDIDATE	id:575655	inCount:0	outCount:1	links:575655	url:C575655	name:juglanthraquinone C	normalName:juglanthraquinone c	normalWikiTitle:juglanthraquinone c	predictedType:Chemical
+CANDIDATE	id:551641	inCount:0	outCount:1	links:551641	url:C551641	name:eleuthraquinone A	normalName:eleuthraquinone a	normalWikiTitle:eleuthraquinone a	predictedType:Chemical
+CANDIDATE	id:49061	inCount:0	outCount:1	links:49061	url:C049061	name:1-aminoanthraquinone	normalName:1-aminoanthraquinone	normalWikiTitle:1-aminoanthraquinone	predictedType:Chemical
+ENTITY	text:diclofenac	normalName:diclofenac	predictedType:chemical	q:true	qid:Q141	docId:17028363	origText:diclofenac	url:D004008
+CANDIDATE	id:4008	inCount:32	outCount:1	links:	url:D004008	name:Diclofenac	normalName:diclofenac	normalWikiTitle:diclofenac	predictedType:Chemical
+ENTITY	text:anthraquinone	normalName:anthraquinone	predictedType:chemical	q:true	qid:Q141	docId:17028363	origText:anthraquinone	url:D000880
+CANDIDATE	id:880	inCount:700	outCount:2	links:880	url:D000880	name:Anthraquinones	normalName:anthraquinones	normalWikiTitle:anthraquinones	predictedType:Chemical
+CANDIDATE	id:590811	inCount:0	outCount:1	links:590811	url:C000590811	name:xylanthraquinone	normalName:xylanthraquinone	normalWikiTitle:xylanthraquinone	predictedType:Chemical
+CANDIDATE	id:480243	inCount:0	outCount:2	links:480243	url:C480243	name:rubianthraquinone	normalName:rubianthraquinone	normalWikiTitle:rubianthraquinone	predictedType:Chemical
+CANDIDATE	id:416442	inCount:0	outCount:1	links:416442	url:C416442	name:1,4-anthraquinone	normalName:1,4-anthraquinone	normalWikiTitle:1,4-anthraquinone	predictedType:Chemical
+CANDIDATE	id:42834	inCount:0	outCount:1	links:42834	url:C042834	name:9,10-anthraquinone	normalName:9,10-anthraquinone	normalWikiTitle:9,10-anthraquinone	predictedType:Chemical
+CANDIDATE	id:575459	inCount:0	outCount:1	links:575459	url:C575459	name:anthuminone	normalName:anthuminone	normalWikiTitle:anthuminone	predictedType:Chemical
+CANDIDATE	id:493701	inCount:0	outCount:1	links:493701	url:C493701	name:blanchaquinone	normalName:blanchaquinone	normalWikiTitle:blanchaquinone	predictedType:Chemical
+CANDIDATE	id:575655	inCount:0	outCount:1	links:575655	url:C575655	name:juglanthraquinone C	normalName:juglanthraquinone c	normalWikiTitle:juglanthraquinone c	predictedType:Chemical
+CANDIDATE	id:551641	inCount:0	outCount:1	links:551641	url:C551641	name:eleuthraquinone A	normalName:eleuthraquinone a	normalWikiTitle:eleuthraquinone a	predictedType:Chemical
+CANDIDATE	id:49061	inCount:0	outCount:1	links:49061	url:C049061	name:1-aminoanthraquinone	normalName:1-aminoanthraquinone	normalWikiTitle:1-aminoanthraquinone	predictedType:Chemical
+ENTITY	text:Chinese herbs	normalName:chinese herbs	predictedType:chemical	q:true	qid:Q141	docId:17028363	origText:Chinese herbs	url:D004365
+CANDIDATE	id:4365	inCount:1237	outCount:1	links:4365	url:D004365	name:Drugs, Chinese Herbal	normalName:drugs, chinese herbal	normalWikiTitle:drugs, chinese herbal	predictedType:Chemical
+CANDIDATE	id:28433	inCount:0	outCount:1	links:28433	url:C028433	name:chinese ink	normalName:chinese ink	normalWikiTitle:chinese ink	predictedType:Chemical
+CANDIDATE	id:515178	inCount:0	outCount:1	links:515178	url:C515178	name:chinensiolide E	normalName:chinensiolide e	normalWikiTitle:chinensiolide e	predictedType:Chemical
+CANDIDATE	id:103062	inCount:0	outCount:2	links:	url:C103062	name:chinenoside V	normalName:chinenoside v	normalWikiTitle:chinenoside v	predictedType:Chemical
+CANDIDATE	id:453340	inCount:0	outCount:1	links:453340	url:C453340	name:Chinese herbal product P07P	normalName:chinese herbal product p07p	normalWikiTitle:chinese herbal product p07p	predictedType:Chemical
+CANDIDATE	id:98274	inCount:0	outCount:2	links:	url:C098274	name:chinenoside II	normalName:chinenoside ii	normalWikiTitle:chinenoside ii	predictedType:Chemical
+CANDIDATE	id:103061	inCount:0	outCount:2	links:	url:C103061	name:chinenoside IV	normalName:chinenoside iv	normalWikiTitle:chinenoside iv	predictedType:Chemical
+CANDIDATE	id:2782	inCount:91	outCount:1	links:	url:D002782	name:Cholestenes	normalName:cholestenes	normalWikiTitle:cholestenes	predictedType:Chemical
+CANDIDATE	id:2800	inCount:0	outCount:2	links:	url:D002800	name:Cholinesterase Inhibitors	normalName:cholinesterase inhibitors	normalWikiTitle:cholinesterase inhibitors	predictedType:Chemical
+CANDIDATE	id:2788	inCount:80	outCount:1	links:	url:D002788	name:Cholesterol Esters	normalName:cholesterol esters	normalWikiTitle:cholesterol esters	predictedType:Chemical
+CANDIDATE	id:94853	inCount:0	outCount:2	links:	url:C094853	name:Chinese HRP3	normalName:chinese hrp3	normalWikiTitle:chinese hrp3	predictedType:Chemical
+CANDIDATE	id:95444	inCount:0	outCount:1	links:	url:C095444	name:Chinese SRBT	normalName:chinese srbt	normalWikiTitle:chinese srbt	predictedType:Chemical
+ENTITY	text:Chinese herbal	normalName:chinese herbal	predictedType:chemical	q:true	qid:Q141	docId:17028363	origText:Chinese herbal	url:D004365
+CANDIDATE	id:4365	inCount:1237	outCount:1	links:4365	url:D004365	name:Drugs, Chinese Herbal	normalName:drugs, chinese herbal	normalWikiTitle:drugs, chinese herbal	predictedType:Chemical
+CANDIDATE	id:453340	inCount:0	outCount:1	links:453340	url:C453340	name:Chinese herbal product P07P	normalName:chinese herbal product p07p	normalWikiTitle:chinese herbal product p07p	predictedType:Chemical
+CANDIDATE	id:14765	inCount:40	outCount:1	links:	url:D014765	name:Viral Vaccines	normalName:viral vaccines	normalWikiTitle:viral vaccines	predictedType:Chemical
+CANDIDATE	id:28433	inCount:0	outCount:1	links:28433	url:C028433	name:chinese ink	normalName:chinese ink	normalWikiTitle:chinese ink	predictedType:Chemical
+CANDIDATE	id:59826	inCount:9	outCount:1	links:	url:D059826	name:HLA-DRB3 Chains	normalName:hla-drb3 chains	normalWikiTitle:hla-drb3 chains	predictedType:Chemical
+CANDIDATE	id:515178	inCount:0	outCount:1	links:515178	url:C515178	name:chinensiolide E	normalName:chinensiolide e	normalWikiTitle:chinensiolide e	predictedType:Chemical
+CANDIDATE	id:59847	inCount:1	outCount:1	links:	url:D059847	name:HLA-DRB5 Chains	normalName:hla-drb5 chains	normalWikiTitle:hla-drb5 chains	predictedType:Chemical
+CANDIDATE	id:59811	inCount:70	outCount:1	links:	url:D059811	name:HLA-DRB1 Chains	normalName:hla-drb1 chains	normalWikiTitle:hla-drb1 chains	predictedType:Chemical
+CANDIDATE	id:59845	inCount:2	outCount:1	links:	url:D059845	name:HLA-DRB4 Chains	normalName:hla-drb4 chains	normalWikiTitle:hla-drb4 chains	predictedType:Chemical
+CANDIDATE	id:2150	inCount:0	outCount:1	links:	url:C002150	name:ineral	normalName:ineral	normalWikiTitle:ineral	predictedType:Chemical

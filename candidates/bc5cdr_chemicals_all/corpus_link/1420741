@@ -1,0 +1,4 @@
+ENTITY	text:fusidic acid	normalName:fusidic acid	predictedType:chemical	q:true	qid:Q81	docId:1420741	origText:fusidic acid	url:D005672
+CANDIDATE	id:5672	inCount:15	outCount:2	links:	url:D005672	name:Fusidic Acid	normalName:fusidic acid	normalWikiTitle:fusidic acid	predictedType:Chemical
+ENTITY	text:cyclosporin	normalName:cyclosporin	predictedType:chemical	q:true	qid:Q81	docId:1420741	origText:cyclosporin	url:D016572
+CANDIDATE	id:16572	inCount:14	outCount:1	links:	url:D016572	name:Cyclosporin	normalName:cyclosporin	normalWikiTitle:cyclosporin	predictedType:Chemical

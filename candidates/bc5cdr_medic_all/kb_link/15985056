@@ -1,0 +1,4 @@
+ENTITY	text:pharyngitis	normalName:pharyngitis	predictedType:disease	q:true	qid:Q1193	docId:15985056	origText:pharyngitis	url:D010612
+CANDIDATE	id:10612	inCount:3	outCount:2	links:	url:D010612	name:Pharyngitis	normalName:pharyngitis	normalWikiTitle:pharyngitis	predictedType:Disease
+ENTITY	text:hiccups	normalName:hiccups	predictedType:disease	q:true	qid:Q1193	docId:15985056	origText:hiccups	url:D006606
+CANDIDATE	id:6606	inCount:0	outCount:1	links:	url:D006606	name:Hiccups	normalName:hiccups	normalWikiTitle:hiccups	predictedType:Disease

@@ -1,0 +1,37 @@
+ENTITY	text:abnormal ocular motility	normalName:abnormal ocular motility	predictedType:disease	q:true	qid:Q60	docId:12912689	origText:abnormal ocular motility	url:D015835
+CANDIDATE	id:15835	inCount:24	outCount:3	links:5355	url:D015835	name:Ocular Motility Disorder	normalName:ocular motility disorder	normalWikiTitle:ocular motility disorder	predictedType:Disease
+CANDIDATE	id:15835	inCount:24	outCount:3	links:5355	url:D015835	name:Ocular Motility Disorders	normalName:ocular motility disorders	normalWikiTitle:ocular motility disorders	predictedType:Disease
+CANDIDATE	id:14102	inCount:6	outCount:1	links:	url:D014102	name:Torsion Abnormality	normalName:torsion abnormality	normalWikiTitle:torsion abnormality	predictedType:Disease
+CANDIDATE	id:564415	inCount:0	outCount:2	links:	url:C564415	name:Hemophilia A with Vascular Abnormality	normalName:hemophilia a with vascular abnormality	normalWikiTitle:hemophilia a with vascular abnormality	predictedType:Disease
+CANDIDATE	id:18376	inCount:6	outCount:2	links:	url:D018376	name:Cardiovascular Abnormalities	normalName:cardiovascular abnormalities	normalWikiTitle:cardiovascular abnormalities	predictedType:Disease
+CANDIDATE	id:535724	inCount:0	outCount:4	links:	url:C535724	name:Dwarfism stiff joint ocular abnormalities	normalName:dwarfism stiff joint ocular abnormalities	normalWikiTitle:dwarfism stiff joint ocular abnormalities	predictedType:Disease
+CANDIDATE	id:18263	inCount:2	outCount:1	links:	url:D018263	name:Adenocarcinoma, Follicular	normalName:adenocarcinoma, follicular	normalWikiTitle:adenocarcinoma, follicular	predictedType:Disease
+CANDIDATE	id:565597	inCount:0	outCount:1	links:	url:C565597	name:Encephalomalacia, Multilocular	normalName:encephalomalacia, multilocular	normalWikiTitle:encephalomalacia, multilocular	predictedType:Disease
+CANDIDATE	id:9056	inCount:13	outCount:2	links:	url:D009056	name:Mouth Abnormalities	normalName:mouth abnormalities	normalWikiTitle:mouth abnormalities	predictedType:Disease
+CANDIDATE	id:18275	inCount:0	outCount:3	links:	url:D018275	name:Carcinoma, Lobular	normalName:carcinoma, lobular	normalWikiTitle:carcinoma, lobular	predictedType:Disease
+CANDIDATE	id:19767	inCount:9	outCount:2	links:	url:D019767	name:Maxillofacial Abnormalities	normalName:maxillofacial abnormalities	normalWikiTitle:maxillofacial abnormalities	predictedType:Disease
+CANDIDATE	id:563515	inCount:0	outCount:2	links:	url:C563515	name:Neutrophil Motility, Abnormal	normalName:neutrophil motility, abnormal	normalWikiTitle:neutrophil motility, abnormal	predictedType:Disease
+ENTITY	text:necrosis	normalName:necrosis	predictedType:disease	q:true	qid:Q60	docId:12912689	origText:necrosis	url:D009336
+CANDIDATE	id:9336	inCount:6	outCount:1	links:66126;5355	url:D009336	name:Necrosis	normalName:necrosis	normalWikiTitle:necrosis	predictedType:Disease
+ENTITY	text:fibrosis	normalName:fibrosis	predictedType:disease	q:true	qid:Q60	docId:12912689	origText:fibrosis	url:D005355
+CANDIDATE	id:5355	inCount:11	outCount:1	links:15835;66126;9336	url:D005355	name:Fibrosis	normalName:fibrosis	normalWikiTitle:fibrosis	predictedType:Disease
+ENTITY	text:retinoblastoma	normalName:retinoblastoma	predictedType:disease	q:true	qid:Q60	docId:12912689	origText:retinoblastoma	url:D012175
+CANDIDATE	id:12175	inCount:2	outCount:3	links:	url:D012175	name:Retinoblastoma	normalName:retinoblastoma	normalWikiTitle:retinoblastoma	predictedType:Disease
+ENTITY	text:tumor	normalName:tumor	predictedType:disease	q:true	qid:Q60	docId:12912689	origText:tumor	url:D009369
+CANDIDATE	id:9369	inCount:18	outCount:1	links:	url:D009369	name:Tumor	normalName:tumor	normalWikiTitle:tumor	predictedType:Disease
+ENTITY	text:toxicity	normalName:toxicity	predictedType:disease	q:true	qid:Q60	docId:12912689	origText:toxicity	url:D064420
+CANDIDATE	id:64420	inCount:10	outCount:1	links:	url:D064420	name:Drug Toxicity	normalName:drug toxicity	normalWikiTitle:drug toxicity	predictedType:Disease
+CANDIDATE	id:66126	inCount:0	outCount:3	links:9336;5355	url:D066126	name:Cardiotoxicity	normalName:cardiotoxicity	normalWikiTitle:cardiotoxicity	predictedType:Disease
+CANDIDATE	id:15651	inCount:2	outCount:1	links:	url:D015651	name:Mycotoxicosis	normalName:mycotoxicosis	normalWikiTitle:mycotoxicosis	predictedType:Disease
+CANDIDATE	id:13971	inCount:2	outCount:1	links:	url:D013971	name:Thyrotoxicosis	normalName:thyrotoxicosis	normalWikiTitle:thyrotoxicosis	predictedType:Disease
+CANDIDATE	id:14869	inCount:0	outCount:2	links:	url:D014869	name:Water Intoxication	normalName:water intoxication	normalWikiTitle:water intoxication	predictedType:Disease
+CANDIDATE	id:14103	inCount:4	outCount:2	links:	url:D014103	name:Torticollis	normalName:torticollis	normalWikiTitle:torticollis	predictedType:Disease
+CANDIDATE	id:9765	inCount:42	outCount:2	links:	url:D009765	name:Obesity	normalName:obesity	normalWikiTitle:obesity	predictedType:Disease
+CANDIDATE	id:14115	inCount:1	outCount:1	links:	url:D014115	name:Toxemia	normalName:toxemia	normalWikiTitle:toxemia	predictedType:Disease
+CANDIDATE	id:7246	inCount:2	outCount:2	links:	url:D007246	name:Infertility	normalName:infertility	normalWikiTitle:infertility	predictedType:Disease
+CANDIDATE	id:20234	inCount:0	outCount:2	links:	url:D020234	name:Gait Ataxia	normalName:gait ataxia	normalWikiTitle:gait ataxia	predictedType:Disease
+CANDIDATE	id:14069	inCount:1	outCount:1	links:	url:D014069	name:Tonsillitis	normalName:tonsillitis	normalWikiTitle:tonsillitis	predictedType:Disease
+CANDIDATE	id:64420	inCount:10	outCount:1	links:	url:D064420	name:Toxicity, Drug	normalName:toxicity, drug	normalWikiTitle:toxicity, drug	predictedType:Disease
+CANDIDATE	id:17484	inCount:0	outCount:2	links:	url:D017484	name:Phototoxicity	normalName:phototoxicity	normalWikiTitle:phototoxicity	predictedType:Disease
+ENTITY	text:rupture	normalName:rupture	predictedType:disease	q:true	qid:Q60	docId:12912689	origText:rupture	url:D012421
+CANDIDATE	id:12421	inCount:5	outCount:1	links:	url:D012421	name:Rupture	normalName:rupture	normalWikiTitle:rupture	predictedType:Disease

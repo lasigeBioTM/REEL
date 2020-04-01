@@ -1,0 +1,6 @@
+ENTITY	text:scopolamine	normalName:scopolamine	predictedType:chemical	q:true	qid:Q261	docId:9228650	origText:scopolamine	url:D012601
+CANDIDATE	id:12601	inCount:3	outCount:2	links:49860;13619	url:D012601	name:Scopolamine	normalName:scopolamine	normalWikiTitle:scopolamine	predictedType:Chemical
+ENTITY	text:NIK-247	normalName:nik-247	predictedType:chemical	q:true	qid:Q261	docId:9228650	origText:NIK-247	url:C049860
+CANDIDATE	id:49860	inCount:0	outCount:1	links:13619;12601	url:C049860	name:NIK 247	normalName:nik 247	normalWikiTitle:nik 247	predictedType:Chemical
+ENTITY	text:tacrine	normalName:tacrine	predictedType:chemical	q:true	qid:Q261	docId:9228650	origText:tacrine	url:D013619
+CANDIDATE	id:13619	inCount:34	outCount:1	links:49860;12601	url:D013619	name:Tacrine	normalName:tacrine	normalWikiTitle:tacrine	predictedType:Chemical

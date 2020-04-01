@@ -1,0 +1,8 @@
+ENTITY	text:tariquidar	normalName:tariquidar	predictedType:chemical	q:true	qid:Q935	docId:17437408	origText:tariquidar	url:C402343
+CANDIDATE	id:402343	inCount:0	outCount:1	links:	url:C402343	name:tariquidar	normalName:tariquidar	normalWikiTitle:tariquidar	predictedType:Chemical
+ENTITY	text:phenobarbital	normalName:phenobarbital	predictedType:chemical	q:true	qid:Q935	docId:17437408	origText:phenobarbital	url:D010634
+CANDIDATE	id:10634	inCount:50	outCount:1	links:	url:D010634	name:Phenobarbital	normalName:phenobarbital	normalWikiTitle:phenobarbital	predictedType:Chemical
+ENTITY	text:phenytoin	normalName:phenytoin	predictedType:chemical	q:true	qid:Q935	docId:17437408	origText:phenytoin	url:D010672
+CANDIDATE	id:10672	inCount:38	outCount:1	links:10862	url:D010672	name:Phenytoin	normalName:phenytoin	normalWikiTitle:phenytoin	predictedType:Chemical
+ENTITY	text:pilocarpine	normalName:pilocarpine	predictedType:chemical	q:true	qid:Q935	docId:17437408	origText:pilocarpine	url:D010862
+CANDIDATE	id:10862	inCount:7	outCount:1	links:10672	url:D010862	name:Pilocarpine	normalName:pilocarpine	normalWikiTitle:pilocarpine	predictedType:Chemical

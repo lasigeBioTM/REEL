@@ -1,0 +1,19 @@
+ENTITY	text:chronically infected with hepatitis C virus	normalName:chronically infected with hepatitis c virus	predictedType:disease	q:true	qid:Q267	docId:20698227	origText:chronically infected with hepatitis C virus	url:D019698
+CANDIDATE	id:19698	inCount:0	outCount:2	links:	url:D019698	name:Hepatitis C, Chronic	normalName:hepatitis c, chronic	normalWikiTitle:hepatitis c, chronic	predictedType:Disease
+CANDIDATE	id:6522	inCount:0	outCount:3	links:	url:D006522	name:Hepatitis, Infectious Canine	normalName:hepatitis, infectious canine	normalWikiTitle:hepatitis, infectious canine	predictedType:Disease
+CANDIDATE	id:19694	inCount:0	outCount:2	links:	url:D019694	name:Hepatitis B, Chronic	normalName:hepatitis b, chronic	normalWikiTitle:hepatitis b, chronic	predictedType:Disease
+CANDIDATE	id:69544	inCount:1	outCount:2	links:	url:D000069544	name:Infectious Encephalitis	normalName:infectious encephalitis	normalWikiTitle:infectious encephalitis	predictedType:Disease
+CANDIDATE	id:6521	inCount:4	outCount:1	links:	url:D006521	name:Hepatitis, Chronic	normalName:hepatitis, chronic	normalWikiTitle:hepatitis, chronic	predictedType:Disease
+CANDIDATE	id:6524	inCount:2	outCount:2	links:	url:D006524	name:Hepatitis, Viral, Animal	normalName:hepatitis, viral, animal	normalWikiTitle:hepatitis, viral, animal	predictedType:Disease
+CANDIDATE	id:564019	inCount:0	outCount:1	links:	url:C564019	name:Diarrhea, Chronic, with Villous Atrophy	normalName:diarrhea, chronic, with villous atrophy	normalWikiTitle:diarrhea, chronic, with villous atrophy	predictedType:Disease
+CANDIDATE	id:19701	inCount:0	outCount:2	links:	url:D019701	name:Hepatitis D, Chronic	normalName:hepatitis d, chronic	normalWikiTitle:hepatitis d, chronic	predictedType:Disease
+CANDIDATE	id:537885	inCount:0	outCount:2	links:	url:C537885	name:Peters anomaly with cataract	normalName:peters anomaly with cataract	normalWikiTitle:peters anomaly with cataract	predictedType:Disease
+CANDIDATE	id:566332	inCount:0	outCount:1	links:	url:C566332	name:Microcephaly with Simplified Gyral Pattern	normalName:microcephaly with simplified gyral pattern	normalWikiTitle:microcephaly with simplified gyral pattern	predictedType:Disease
+CANDIDATE	id:19694	inCount:0	outCount:2	links:	url:D019694	name:Chronic Hepatitis B Virus Infection	normalName:chronic hepatitis b virus infection	normalWikiTitle:chronic hepatitis b virus infection	predictedType:Disease
+CANDIDATE	id:19694	inCount:0	outCount:2	links:	url:D019694	name:Hepatitis B Virus Infection, Chronic	normalName:hepatitis b virus infection, chronic	normalWikiTitle:hepatitis b virus infection, chronic	predictedType:Disease
+ENTITY	text:anemia	normalName:anemia	predictedType:disease	q:true	qid:Q267	docId:20698227	origText:anemia	url:D000740
+CANDIDATE	id:740	inCount:14	outCount:1	links:	url:D000740	name:Anemia	normalName:anemia	normalWikiTitle:anemia	predictedType:Disease
+ENTITY	text:hemolysis	normalName:hemolysis	predictedType:disease	q:true	qid:Q267	docId:20698227	origText:hemolysis	url:D006461
+CANDIDATE	id:6461	inCount:2	outCount:1	links:743	url:D006461	name:Hemolysis	normalName:hemolysis	normalWikiTitle:hemolysis	predictedType:Disease
+ENTITY	text:hemolytic anemia	normalName:hemolytic anemia	predictedType:disease	q:true	qid:Q267	docId:20698227	origText:hemolytic anemia	url:D000743
+CANDIDATE	id:743	inCount:20	outCount:1	links:6461	url:D000743	name:Anemia, Hemolytic	normalName:anemia, hemolytic	normalWikiTitle:anemia, hemolytic	predictedType:Disease

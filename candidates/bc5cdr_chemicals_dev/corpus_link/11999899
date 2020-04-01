@@ -1,0 +1,23 @@
+ENTITY	text:apomophine	normalName:apomophine	predictedType:chemical	q:true	qid:Q477	docId:11999899	origText:apomophine	url:D001058
+CANDIDATE	id:1058	inCount:29	outCount:1	links:12110	url:D001058	name:Apomorphine	normalName:apomorphine	normalWikiTitle:apomorphine	predictedType:Chemical
+CANDIDATE	id:81279	inCount:0	outCount:1	links:	url:C081279	name:aporphine	normalName:aporphine	normalWikiTitle:aporphine	predictedType:Chemical
+CANDIDATE	id:8668	inCount:0	outCount:1	links:	url:C008668	name:norapomorphine	normalName:norapomorphine	normalWikiTitle:norapomorphine	predictedType:Chemical
+CANDIDATE	id:8175	inCount:0	outCount:1	links:	url:C008175	name:isoapomorphine	normalName:isoapomorphine	normalWikiTitle:isoapomorphine	predictedType:Chemical
+CANDIDATE	id:407151	inCount:0	outCount:1	links:	url:C407151	name:apomine	normalName:apomine	normalWikiTitle:apomine	predictedType:Chemical
+CANDIDATE	id:1060	inCount:157	outCount:2	links:	url:D001060	name:Aporphines	normalName:aporphines	normalWikiTitle:aporphines	predictedType:Chemical
+CANDIDATE	id:5418	inCount:0	outCount:1	links:	url:C005418	name:omephine	normalName:omephine	normalWikiTitle:omephine	predictedType:Chemical
+CANDIDATE	id:531861	inCount:0	outCount:1	links:	url:C531861	name:homophymine A	normalName:homophymine a	normalWikiTitle:homophymine a	predictedType:Chemical
+CANDIDATE	id:107018	inCount:0	outCount:1	links:	url:C107018	name:porphine	normalName:porphine	normalWikiTitle:porphine	predictedType:Chemical
+CANDIDATE	id:6659	inCount:0	outCount:1	links:	url:C006659	name:azidomorphine	normalName:azidomorphine	normalWikiTitle:azidomorphine	predictedType:Chemical
+ENTITY	text:MK-801	normalName:mk-801	predictedType:chemical	q:true	qid:Q477	docId:11999899	origText:MK-801	url:D016291
+CANDIDATE	id:16291	inCount:9	outCount:1	links:	url:D016291	name:MK 801	normalName:mk 801	normalWikiTitle:mk 801	predictedType:Chemical
+ENTITY	text:NMDA	normalName:nmda	predictedType:chemical	q:true	qid:Q477	docId:11999899	origText:NMDA	url:D016202
+CANDIDATE	id:16202	inCount:3	outCount:1	links:	url:D016202	name:NMDA	normalName:nmda	normalWikiTitle:nmda	predictedType:Chemical
+ENTITY	text:dopamine	normalName:dopamine	predictedType:chemical	q:true	qid:Q477	docId:11999899	origText:dopamine	url:D004298
+CANDIDATE	id:4298	inCount:90	outCount:2	links:	url:D004298	name:Dopamine	normalName:dopamine	normalWikiTitle:dopamine	predictedType:Chemical
+ENTITY	text:reserpine	normalName:reserpine	predictedType:chemical	q:true	qid:Q477	docId:11999899	origText:reserpine	url:D012110
+CANDIDATE	id:12110	inCount:25	outCount:1	links:1058	url:D012110	name:Reserpine	normalName:reserpine	normalWikiTitle:reserpine	predictedType:Chemical
+ENTITY	text:N-methyl-D-aspartate	normalName:n-methyl-d-aspartate	predictedType:chemical	q:true	qid:Q477	docId:11999899	origText:N-methyl-D-aspartate	url:D016202
+CANDIDATE	id:16202	inCount:3	outCount:1	links:	url:D016202	name:N-Methyl-D-aspartate	normalName:n-methyl-d-aspartate	normalWikiTitle:n-methyl-d-aspartate	predictedType:Chemical
+ENTITY	text:dizocilpine	normalName:dizocilpine	predictedType:chemical	q:true	qid:Q477	docId:11999899	origText:dizocilpine	url:D016291
+CANDIDATE	id:16291	inCount:9	outCount:1	links:	url:D016291	name:Dizocilpine	normalName:dizocilpine	normalWikiTitle:dizocilpine	predictedType:Chemical

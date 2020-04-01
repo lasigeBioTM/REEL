@@ -1,0 +1,8 @@
+ENTITY	text:torsade de pointes	normalName:torsade de pointes	predictedType:disease	q:true	qid:Q1381	docId:24653743	origText:torsade de pointes	url:D016171
+CANDIDATE	id:16171	inCount:0	outCount:1	links:16171;16757	url:D016171	name:de Pointes, Torsade	normalName:de pointes, torsade	normalWikiTitle:de pointes, torsade	predictedType:Disease
+ENTITY	text:Torsades de Pointes	normalName:torsades de pointes	predictedType:disease	q:true	qid:Q1381	docId:24653743	origText:Torsades de Pointes	url:D016171
+CANDIDATE	id:16171	inCount:0	outCount:1	links:16171;16757	url:D016171	name:Torsades de Pointes	normalName:torsades de pointes	normalWikiTitle:torsades de pointes	predictedType:Disease
+ENTITY	text:Sudden Cardiac Death	normalName:sudden cardiac death	predictedType:disease	q:true	qid:Q1381	docId:24653743	origText:Sudden Cardiac Death	url:D016757
+CANDIDATE	id:16757	inCount:4	outCount:2	links:16171	url:D016757	name:Death, Sudden, Cardiac	normalName:death, sudden, cardiac	normalWikiTitle:death, sudden, cardiac	predictedType:Disease
+ENTITY	text:atrial fibrillation	normalName:atrial fibrillation	predictedType:disease	q:true	qid:Q1381	docId:24653743	origText:atrial fibrillation	url:D001281
+CANDIDATE	id:1281	inCount:16	outCount:1	links:	url:D001281	name:Atrial Fibrillation	normalName:atrial fibrillation	normalWikiTitle:atrial fibrillation	predictedType:Disease

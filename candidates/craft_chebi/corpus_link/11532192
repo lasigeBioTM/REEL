@@ -1,0 +1,38 @@
+ENTITY	text:alcohol	normalName:alcohol	predictedType:chemical	q:true	qid:Q38	docId:11532192	origText:alcohol	url:CHEBI:30879
+CANDIDATE	id:30879	inCount:48	outCount:1	links:	url:CHEBI:30879	name:alcohol	normalName:alcohol	normalWikiTitle:alcohol	predictedType:chemical
+ENTITY	text:fixative	normalName:fixative	predictedType:chemical	q:true	qid:Q38	docId:11532192	origText:fixative	url:CHEBI:50913
+CANDIDATE	id:50913	inCount:0	outCount:1	links:	url:CHEBI:50913	name:fixative	normalName:fixative	normalWikiTitle:fixative	predictedType:chemical
+ENTITY	text:Terpene	normalName:terpene	predictedType:chemical	q:true	qid:Q38	docId:11532192	origText:Terpene	url:CHEBI:35186
+CANDIDATE	id:35186	inCount:11	outCount:2	links:38867	url:CHEBI:35186	name:terpene	normalName:terpene	normalWikiTitle:terpene	predictedType:chemical
+ENTITY	text:drug	normalName:drug	predictedType:chemical	q:true	qid:Q38	docId:11532192	origText:drug	url:CHEBI:23888
+CANDIDATE	id:23888	inCount:65	outCount:1	links:	url:CHEBI:23888	name:drug	normalName:drug	normalWikiTitle:drug	predictedType:chemical
+ENTITY	text:acid	normalName:acid	predictedType:chemical	q:true	qid:Q38	docId:11532192	origText:acid	url:CHEBI:37527
+CANDIDATE	id:37527	inCount:2	outCount:1	links:	url:CHEBI:37527	name:acid	normalName:acid	normalWikiTitle:acid	predictedType:chemical
+ENTITY	text:ketamine	normalName:ketamine	predictedType:chemical	q:true	qid:Q38	docId:11532192	origText:ketamine	url:CHEBI:6121
+CANDIDATE	id:6121	inCount:2	outCount:3	links:	url:CHEBI:6121	name:ketamine	normalName:ketamine	normalWikiTitle:ketamine	predictedType:chemical
+ENTITY	text:anesthetic	normalName:anesthetic	predictedType:chemical	q:true	qid:Q38	docId:11532192	origText:anesthetic	url:CHEBI:38867
+CANDIDATE	id:38867	inCount:2	outCount:1	links:35186	url:CHEBI:38867	name:anaesthetic	normalName:anaesthetic	normalWikiTitle:anaesthetic	predictedType:chemical
+CANDIDATE	id:36333	inCount:1	outCount:1	links:	url:CHEBI:36333	name:local anaesthetic	normalName:local anaesthetic	normalWikiTitle:local anaesthetic	predictedType:chemical
+CANDIDATE	id:26841	inCount:0	outCount:2	links:	url:CHEBI:26841	name:synthetic auxin	normalName:synthetic auxin	normalWikiTitle:synthetic auxin	predictedType:chemical
+CANDIDATE	id:50919	inCount:0	outCount:1	links:	url:CHEBI:50919	name:antiemetic	normalName:antiemetic	normalWikiTitle:antiemetic	predictedType:chemical
+CANDIDATE	id:48425	inCount:0	outCount:1	links:	url:CHEBI:48425	name:topical anaesthetic	normalName:topical anaesthetic	normalWikiTitle:topical anaesthetic	predictedType:chemical
+CANDIDATE	id:38869	inCount:2	outCount:1	links:	url:CHEBI:38869	name:general anaesthetic	normalName:general anaesthetic	normalWikiTitle:general anaesthetic	predictedType:chemical
+CANDIDATE	id:87635	inCount:13	outCount:1	links:	url:CHEBI:87635	name:statin (synthetic)	normalName:statin (synthetic)	normalWikiTitle:statin (synthetic)	predictedType:chemical
+CANDIDATE	id:35493	inCount:0	outCount:1	links:	url:CHEBI:35493	name:antipyretic	normalName:antipyretic	normalWikiTitle:antipyretic	predictedType:chemical
+CANDIDATE	id:16753	inCount:0	outCount:2	links:	url:CHEBI:16753	name:pantetheine	normalName:pantetheine	normalWikiTitle:pantetheine	predictedType:chemical
+CANDIDATE	id:10073	inCount:0	outCount:1	links:	url:CHEBI:10073	name:Xanthyletin	normalName:xanthyletin	normalWikiTitle:xanthyletin	predictedType:chemical
+ENTITY	text:anesthetic agents	normalName:anesthetic agents	predictedType:chemical	q:true	qid:Q38	docId:11532192	origText:anesthetic agents	url:CHEBI:38867
+CANDIDATE	id:38867	inCount:2	outCount:1	links:35186	url:CHEBI:38867	name:anaesthetic	normalName:anaesthetic	normalWikiTitle:anaesthetic	predictedType:chemical
+CANDIDATE	id:65023	inCount:1	outCount:1	links:	url:CHEBI:65023	name:anti-asthmatic agent	normalName:anti-asthmatic agent	normalWikiTitle:anti-asthmatic agent	predictedType:chemical
+CANDIDATE	id:33295	inCount:1	outCount:1	links:	url:CHEBI:33295	name:diagnostic agent	normalName:diagnostic agent	normalWikiTitle:diagnostic agent	predictedType:chemical
+CANDIDATE	id:35476	inCount:2	outCount:1	links:	url:CHEBI:35476	name:antipsychotic agent	normalName:antipsychotic agent	normalWikiTitle:antipsychotic agent	predictedType:chemical
+CANDIDATE	id:50909	inCount:0	outCount:1	links:	url:CHEBI:50909	name:nephrotoxic agent	normalName:nephrotoxic agent	normalWikiTitle:nephrotoxic agent	predictedType:chemical
+CANDIDATE	id:64946	inCount:4	outCount:1	links:	url:CHEBI:64946	name:anti-HIV agent	normalName:anti-hiv agent	normalWikiTitle:anti-hiv agent	predictedType:chemical
+CANDIDATE	id:35610	inCount:0	outCount:1	links:	url:CHEBI:35610	name:antineoplastic agent	normalName:antineoplastic agent	normalWikiTitle:antineoplastic agent	predictedType:chemical
+CANDIDATE	id:50855	inCount:0	outCount:1	links:	url:CHEBI:50855	name:antiatherogenic agent	normalName:antiatherogenic agent	normalWikiTitle:antiatherogenic agent	predictedType:chemical
+CANDIDATE	id:35524	inCount:0	outCount:1	links:	url:CHEBI:35524	name:sympathomimetic agent	normalName:sympathomimetic agent	normalWikiTitle:sympathomimetic agent	predictedType:chemical
+CANDIDATE	id:66991	inCount:0	outCount:1	links:	url:CHEBI:66991	name:sympatholytic agent	normalName:sympatholytic agent	normalWikiTitle:sympatholytic agent	predictedType:chemical
+ENTITY	text:terpenes	normalName:terpenes	predictedType:chemical	q:true	qid:Q38	docId:11532192	origText:terpenes	url:CHEBI:35186
+CANDIDATE	id:35186	inCount:11	outCount:2	links:38867	url:CHEBI:35186	name:terpene	normalName:terpene	normalWikiTitle:terpene	predictedType:chemical
+ENTITY	text:water	normalName:water	predictedType:chemical	q:true	qid:Q38	docId:11532192	origText:water	url:CHEBI:15377
+CANDIDATE	id:15377	inCount:6	outCount:3	links:	url:CHEBI:15377	name:water	normalName:water	normalWikiTitle:water	predictedType:chemical

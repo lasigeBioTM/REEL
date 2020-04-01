@@ -1,0 +1,4 @@
+ENTITY	text:Quinidine	normalName:quinidine	predictedType:chemical	q:true	qid:Q522	docId:48362	origText:Quinidine	url:D011802
+CANDIDATE	id:11802	inCount:21	outCount:3	links:	url:D011802	name:Quinidine	normalName:quinidine	normalWikiTitle:quinidine	predictedType:Chemical
+ENTITY	text:lactic acid	normalName:lactic acid	predictedType:chemical	q:true	qid:Q522	docId:48362	origText:lactic acid	url:D019344
+CANDIDATE	id:19344	inCount:38	outCount:1	links:	url:D019344	name:Lactic Acid	normalName:lactic acid	normalWikiTitle:lactic acid	predictedType:Chemical

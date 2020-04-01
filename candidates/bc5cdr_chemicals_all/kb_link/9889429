@@ -1,0 +1,6 @@
+ENTITY	text:calcium	normalName:calcium	predictedType:chemical	q:true	qid:Q1324	docId:9889429	origText:calcium	url:D002118
+CANDIDATE	id:2118	inCount:11	outCount:2	links:	url:D002118	name:Calcium	normalName:calcium	normalWikiTitle:calcium	predictedType:Chemical
+ENTITY	text:cyclosporin A	normalName:cyclosporin a	predictedType:chemical	q:true	qid:Q1324	docId:9889429	origText:cyclosporin A	url:D016572
+CANDIDATE	id:16572	inCount:14	outCount:1	links:	url:D016572	name:Cyclosporin A	normalName:cyclosporin a	normalWikiTitle:cyclosporin a	predictedType:Chemical
+ENTITY	text:nifedipine	normalName:nifedipine	predictedType:chemical	q:true	qid:Q1324	docId:9889429	origText:nifedipine	url:D009543
+CANDIDATE	id:9543	inCount:42	outCount:1	links:	url:D009543	name:Nifedipine	normalName:nifedipine	normalWikiTitle:nifedipine	predictedType:Chemical

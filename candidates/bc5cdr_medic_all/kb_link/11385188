@@ -1,0 +1,19 @@
+ENTITY	text:heart disease	normalName:heart disease	predictedType:disease	q:true	qid:Q332	docId:11385188	origText:heart disease	url:D006331
+CANDIDATE	id:6331	inCount:29	outCount:1	links:	url:D006331	name:Disease, Heart	normalName:disease, heart	normalWikiTitle:disease, heart	predictedType:Disease
+ENTITY	text:coronary artery disease	normalName:coronary artery disease	predictedType:disease	q:true	qid:Q332	docId:11385188	origText:coronary artery disease	url:D003324
+CANDIDATE	id:3324	inCount:4	outCount:2	links:	url:D003324	name:Coronary Artery Disease	normalName:coronary artery disease	normalWikiTitle:coronary artery disease	predictedType:Disease
+ENTITY	text:abnormal left ventricular filling	normalName:abnormal left ventricular filling	predictedType:disease	q:true	qid:Q332	docId:11385188	origText:abnormal left ventricular filling	url:D018487
+CANDIDATE	id:18487	inCount:1	outCount:1	links:	url:D018487	name:Ventricular Dysfunction, Left	normalName:ventricular dysfunction, left	normalWikiTitle:ventricular dysfunction, left	predictedType:Disease
+CANDIDATE	id:14693	inCount:3	outCount:1	links:	url:D014693	name:Ventricular Fibrillation	normalName:ventricular fibrillation	normalWikiTitle:ventricular fibrillation	predictedType:Disease
+CANDIDATE	id:20257	inCount:0	outCount:1	links:	url:D020257	name:Ventricular Remodeling	normalName:ventricular remodeling	normalWikiTitle:ventricular remodeling	predictedType:Disease
+CANDIDATE	id:567841	inCount:0	outCount:1	links:	url:C567841	name:Ventricular Fibrillation, Paroxysmal Familial, 2	normalName:ventricular fibrillation, paroxysmal familial, 2	normalWikiTitle:ventricular fibrillation, paroxysmal familial, 2	predictedType:Disease
+CANDIDATE	id:567851	inCount:0	outCount:1	links:	url:C567851	name:Ventricular Fibrillation, Paroxysmal Familial, 1	normalName:ventricular fibrillation, paroxysmal familial, 1	normalWikiTitle:ventricular fibrillation, paroxysmal familial, 1	predictedType:Disease
+CANDIDATE	id:537182	inCount:0	outCount:1	links:	url:C537182	name:Paroxysmal ventricular fibrillation	normalName:paroxysmal ventricular fibrillation	normalWikiTitle:paroxysmal ventricular fibrillation	predictedType:Disease
+CANDIDATE	id:18376	inCount:6	outCount:2	links:	url:D018376	name:Cardiovascular Abnormalities	normalName:cardiovascular abnormalities	normalWikiTitle:cardiovascular abnormalities	predictedType:Disease
+CANDIDATE	id:566255	inCount:0	outCount:1	links:	url:C566255	name:Cardiomyopathy, Right Ventricular Dilated	normalName:cardiomyopathy, right ventricular dilated	normalWikiTitle:cardiomyopathy, right ventricular dilated	predictedType:Disease
+CANDIDATE	id:14720	inCount:0	outCount:2	links:	url:D014720	name:Vesicular Exanthema of Swine	normalName:vesicular exanthema of swine	normalWikiTitle:vesicular exanthema of swine	predictedType:Disease
+CANDIDATE	id:7969	inCount:0	outCount:3	links:	url:D007969	name:Leukomalacia, Periventricular	normalName:leukomalacia, periventricular	normalWikiTitle:leukomalacia, periventricular	predictedType:Disease
+CANDIDATE	id:2551	inCount:1	outCount:1	links:	url:D002551	name:Brain Ventricular Tumor	normalName:brain ventricular tumor	normalWikiTitle:brain ventricular tumor	predictedType:Disease
+CANDIDATE	id:54549	inCount:1	outCount:1	links:	url:D054549	name:Left Ventricular Apical Ballooning Syndrome	normalName:left ventricular apical ballooning syndrome	normalWikiTitle:left ventricular apical ballooning syndrome	predictedType:Disease
+CANDIDATE	id:2551	inCount:1	outCount:1	links:	url:D002551	name:Tumor, Brain Ventricular	normalName:tumor, brain ventricular	normalWikiTitle:tumor, brain ventricular	predictedType:Disease
+CANDIDATE	id:2551	inCount:1	outCount:1	links:	url:D002551	name:Ventricular Tumor, Brain	normalName:ventricular tumor, brain	normalWikiTitle:ventricular tumor, brain	predictedType:Disease

@@ -1,0 +1,6 @@
+ENTITY	text:death	normalName:death	predictedType:disease	q:true	qid:Q1008	docId:15275829	origText:death	url:D003643
+CANDIDATE	id:3643	inCount:11	outCount:1	links:	url:D003643	name:Death	normalName:death	normalWikiTitle:death	predictedType:Disease
+ENTITY	text:seizures	normalName:seizures	predictedType:disease	q:true	qid:Q1008	docId:15275829	origText:seizures	url:D012640
+CANDIDATE	id:12640	inCount:53	outCount:1	links:14202	url:D012640	name:Seizure	normalName:seizure	normalWikiTitle:seizure	predictedType:Disease
+ENTITY	text:tremors	normalName:tremors	predictedType:disease	q:true	qid:Q1008	docId:15275829	origText:tremors	url:D014202
+CANDIDATE	id:14202	inCount:6	outCount:1	links:12640	url:D014202	name:Tremor	normalName:tremor	normalWikiTitle:tremor	predictedType:Disease

@@ -1,0 +1,53 @@
+ENTITY	text:thrombocytopenia	normalName:thrombocytopenia	predictedType:disease	q:true	qid:Q161	docId:8888541	origText:thrombocytopenia	url:D013921
+CANDIDATE	id:13921	inCount:42	outCount:1	links:3221;20230;9207;14202;9127;5334	url:D013921	name:Thrombocytopenia	normalName:thrombocytopenia	normalWikiTitle:thrombocytopenia	predictedType:Disease
+ENTITY	text:paralysis	normalName:paralysis	predictedType:disease	q:true	qid:Q161	docId:8888541	origText:paralysis	url:D010243
+CANDIDATE	id:10243	inCount:10	outCount:1	links:10243	url:D010243	name:Paralysis	normalName:paralysis	normalWikiTitle:paralysis	predictedType:Disease
+ENTITY	text:myoclonic jerks	normalName:myoclonic jerks	predictedType:disease	q:true	qid:Q161	docId:8888541	origText:myoclonic jerks	url:D009207
+CANDIDATE	id:9207	inCount:11	outCount:1	links:3221;20230;14202;9127;13921;5334	url:D009207	name:Jerks, Myoclonic	normalName:jerks, myoclonic	normalWikiTitle:jerks, myoclonic	predictedType:Disease
+ENTITY	text:hypoventilation	normalName:hypoventilation	predictedType:disease	q:true	qid:Q161	docId:8888541	origText:hypoventilation	url:D007040
+CANDIDATE	id:7040	inCount:3	outCount:2	links:	url:D007040	name:Hypoventilation	normalName:hypoventilation	normalWikiTitle:hypoventilation	predictedType:Disease
+ENTITY	text:depression	normalName:depression	predictedType:disease	q:true	qid:Q161	docId:8888541	origText:depression	url:D003866
+CANDIDATE	id:3866	inCount:6	outCount:1	links:	url:D003866	name:Depressive Disorder	normalName:depressive disorder	normalWikiTitle:depressive disorder	predictedType:Disease
+CANDIDATE	id:18450	inCount:2	outCount:1	links:	url:D018450	name:Disease Progression	normalName:disease progression	normalWikiTitle:disease progression	predictedType:Disease
+CANDIDATE	id:19052	inCount:0	outCount:2	links:	url:D019052	name:Depression, Postpartum	normalName:depression, postpartum	normalWikiTitle:depression, postpartum	predictedType:Disease
+CANDIDATE	id:146850	inCount:0	outCount:2	links:	url:146850	name:IMMUNE SUPPRESSION	normalName:immune suppression	normalWikiTitle:immune suppression	predictedType:Disease
+CANDIDATE	id:6973	inCount:18	outCount:1	links:	url:D006973	name:Hypertension	normalName:hypertension	normalWikiTitle:hypertension	predictedType:Disease
+CANDIDATE	id:58246	inCount:0	outCount:1	links:	url:D058246	name:Prehypertension	normalName:prehypertension	normalWikiTitle:prehypertension	predictedType:Disease
+CANDIDATE	id:14786	inCount:19	outCount:2	links:	url:D014786	name:Vision Disorders	normalName:vision disorders	normalWikiTitle:vision disorders	predictedType:Disease
+CANDIDATE	id:3665	inCount:0	outCount:1	links:	url:D003665	name:Decompression Sickness	normalName:decompression sickness	normalWikiTitle:decompression sickness	predictedType:Disease
+CANDIDATE	id:12871	inCount:71	outCount:1	links:	url:D012871	name:Skin Diseases	normalName:skin diseases	normalWikiTitle:skin diseases	predictedType:Disease
+CANDIDATE	id:4688	inCount:1	outCount:2	links:	url:D004688	name:Encopresis	normalName:encopresis	normalWikiTitle:encopresis	predictedType:Disease
+CANDIDATE	id:1714	inCount:11	outCount:1	links:	url:D001714	name:Depression, Bipolar	normalName:depression, bipolar	normalWikiTitle:depression, bipolar	predictedType:Disease
+CANDIDATE	id:1714	inCount:11	outCount:1	links:	url:D001714	name:Bipolar Depression	normalName:bipolar depression	normalWikiTitle:bipolar depression	predictedType:Disease
+ENTITY	text:confusion	normalName:confusion	predictedType:disease	q:true	qid:Q161	docId:8888541	origText:confusion	url:D003221
+CANDIDATE	id:3221	inCount:2	outCount:1	links:20230;9207;14202;9127;13921;5334	url:D003221	name:Confusion	normalName:confusion	normalWikiTitle:confusion	predictedType:Disease
+ENTITY	text:paralyzed	normalName:paralyzed	predictedType:disease	q:true	qid:Q161	docId:8888541	origText:paralyzed	url:D010243
+CANDIDATE	id:10243	inCount:10	outCount:1	links:10243	url:D010243	name:Paralyses	normalName:paralyses	normalWikiTitle:paralyses	predictedType:Disease
+CANDIDATE	id:10243	inCount:10	outCount:1	links:10243	url:D010243	name:Paralysis	normalName:paralysis	normalWikiTitle:paralysis	predictedType:Disease
+CANDIDATE	id:10264	inCount:13	outCount:1	links:	url:D010264	name:Paraplegia	normalName:paraplegia	normalWikiTitle:paraplegia	predictedType:Disease
+CANDIDATE	id:17574	inCount:0	outCount:1	links:	url:D017574	name:Parasystole	normalName:parasystole	normalWikiTitle:parasystole	predictedType:Disease
+CANDIDATE	id:20188	inCount:0	outCount:1	links:	url:D020188	name:Sleep Paralysis	normalName:sleep paralysis	normalWikiTitle:sleep paralysis	predictedType:Disease
+CANDIDATE	id:172	inCount:6	outCount:2	links:	url:D000172	name:Acromegaly	normalName:acromegaly	normalWikiTitle:acromegaly	predictedType:Disease
+CANDIDATE	id:13985	inCount:0	outCount:1	links:	url:D013985	name:Tick Paralysis	normalName:tick paralysis	normalWikiTitle:tick paralysis	predictedType:Disease
+ENTITY	text:hyperthermia	normalName:hyperthermia	predictedType:disease	q:true	qid:Q161	docId:8888541	origText:hyperthermia	url:D005334
+CANDIDATE	id:5334	inCount:5	outCount:1	links:3221;20230;9207;14202;9127;13921	url:D005334	name:Hyperthermia	normalName:hyperthermia	normalWikiTitle:hyperthermia	predictedType:Disease
+ENTITY	text:rhabdomyolysis	normalName:rhabdomyolysis	predictedType:disease	q:true	qid:Q161	docId:8888541	origText:rhabdomyolysis	url:D012206
+CANDIDATE	id:12206	inCount:3	outCount:1	links:	url:D012206	name:Rhabdomyolysis	normalName:rhabdomyolysis	normalWikiTitle:rhabdomyolysis	predictedType:Disease
+ENTITY	text:muscle rigidity	normalName:muscle rigidity	predictedType:disease	q:true	qid:Q161	docId:8888541	origText:muscle rigidity	url:D009127
+CANDIDATE	id:9127	inCount:3	outCount:2	links:3221;20230;9207;14202;9127;13921;5334	url:D009127	name:Muscle Rigidity	normalName:muscle rigidity	normalWikiTitle:muscle rigidity	predictedType:Disease
+ENTITY	text:rigidity	normalName:rigidity	predictedType:disease	q:true	qid:Q161	docId:8888541	origText:rigidity	url:D009127
+CANDIDATE	id:9127	inCount:3	outCount:2	links:3221;20230;9207;14202;9127;13921;5334	url:D009127	name:Muscle Rigidity	normalName:muscle rigidity	normalWikiTitle:muscle rigidity	predictedType:Disease
+CANDIDATE	id:57885	inCount:0	outCount:1	links:	url:D057885	name:Triploidy	normalName:triploidy	normalWikiTitle:triploidy	predictedType:Disease
+CANDIDATE	id:5891	inCount:2	outCount:1	links:	url:D005891	name:Gingivitis	normalName:gingivitis	normalWikiTitle:gingivitis	predictedType:Disease
+CANDIDATE	id:66126	inCount:0	outCount:3	links:	url:D066126	name:Cardiotoxicity	normalName:cardiotoxicity	normalWikiTitle:cardiotoxicity	predictedType:Disease
+CANDIDATE	id:9767	inCount:3	outCount:1	links:	url:D009767	name:Obesity, Morbid	normalName:obesity, morbid	normalWikiTitle:obesity, morbid	predictedType:Disease
+CANDIDATE	id:7246	inCount:2	outCount:2	links:	url:D007246	name:Infertility	normalName:infertility	normalWikiTitle:infertility	predictedType:Disease
+CANDIDATE	id:13966	inCount:4	outCount:1	links:	url:D013966	name:Thyroiditis	normalName:thyroiditis	normalWikiTitle:thyroiditis	predictedType:Disease
+CANDIDATE	id:73496	inCount:0	outCount:1	links:	url:D000073496	name:Frailty	normalName:frailty	normalWikiTitle:frailty	predictedType:Disease
+CANDIDATE	id:2833	inCount:3	outCount:2	links:	url:D002833	name:Choroiditis	normalName:choroiditis	normalWikiTitle:choroiditis	predictedType:Disease
+CANDIDATE	id:536372	inCount:0	outCount:1	links:	url:C536372	name:Aniridia, type 2	normalName:aniridia, type 2	normalWikiTitle:aniridia, type 2	predictedType:Disease
+CANDIDATE	id:20018	inCount:6	outCount:1	links:	url:D020018	name:Frigidity	normalName:frigidity	normalWikiTitle:frigidity	predictedType:Disease
+ENTITY	text:Serotonin syndrome	normalName:serotonin syndrome	predictedType:disease	q:true	qid:Q161	docId:8888541	origText:Serotonin syndrome	url:D020230
+CANDIDATE	id:20230	inCount:0	outCount:1	links:3221;9207;14202;9127;13921;5334	url:D020230	name:Serotonin Syndrome	normalName:serotonin syndrome	normalWikiTitle:serotonin syndrome	predictedType:Disease
+ENTITY	text:tremors	normalName:tremors	predictedType:disease	q:true	qid:Q161	docId:8888541	origText:tremors	url:D014202
+CANDIDATE	id:14202	inCount:6	outCount:1	links:3221;20230;9207;9127;13921;5334	url:D014202	name:Tremor	normalName:tremor	normalWikiTitle:tremor	predictedType:Disease

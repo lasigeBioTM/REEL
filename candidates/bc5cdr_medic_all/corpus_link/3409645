@@ -1,0 +1,51 @@
+ENTITY	text:osteoarthritis	normalName:osteoarthritis	predictedType:disease	q:true	qid:Q103	docId:3409645	origText:osteoarthritis	url:D010003
+CANDIDATE	id:10003	inCount:8	outCount:2	links:	url:D010003	name:Osteoarthritis	normalName:osteoarthritis	normalWikiTitle:osteoarthritis	predictedType:Disease
+ENTITY	text:depressed mood	normalName:depressed mood	predictedType:disease	q:true	qid:Q103	docId:3409645	origText:depressed mood	url:D003866
+CANDIDATE	id:3866	inCount:6	outCount:1	links:	url:D003866	name:Depressive Disorder	normalName:depressive disorder	normalWikiTitle:depressive disorder	predictedType:Disease
+CANDIDATE	id:19964	inCount:2	outCount:1	links:18487	url:D019964	name:Mood Disorders	normalName:mood disorders	normalWikiTitle:mood disorders	predictedType:Disease
+CANDIDATE	id:3865	inCount:2	outCount:1	links:	url:D003865	name:Depressive Disorder, Major	normalName:depressive disorder, major	normalWikiTitle:depressive disorder, major	predictedType:Disease
+CANDIDATE	id:563875	inCount:0	outCount:1	links:	url:C563875	name:Major Depressive Disorder 2	normalName:major depressive disorder 2	normalWikiTitle:major depressive disorder 2	predictedType:Disease
+CANDIDATE	id:563919	inCount:0	outCount:1	links:	url:C563919	name:Major Depressive Disorder 1	normalName:major depressive disorder 1	normalWikiTitle:major depressive disorder 1	predictedType:Disease
+CANDIDATE	id:68079	inCount:0	outCount:1	links:	url:D000068079	name:Motor Disorders	normalName:motor disorders	normalWikiTitle:motor disorders	predictedType:Disease
+CANDIDATE	id:5533	inCount:2	outCount:1	links:	url:D005533	name:Foot Dermatoses	normalName:foot dermatoses	normalWikiTitle:foot dermatoses	predictedType:Disease
+CANDIDATE	id:12810	inCount:2	outCount:1	links:	url:D012810	name:Sigmoid Diseases	normalName:sigmoid diseases	normalWikiTitle:sigmoid diseases	predictedType:Disease
+CANDIDATE	id:5530	inCount:9	outCount:1	links:	url:D005530	name:Foot Deformities	normalName:foot deformities	normalWikiTitle:foot deformities	predictedType:Disease
+CANDIDATE	id:4831	inCount:17	outCount:2	links:	url:D004831	name:Epilepsies, Myoclonic	normalName:epilepsies, myoclonic	normalWikiTitle:epilepsies, myoclonic	predictedType:Disease
+ENTITY	text:Sexual dysfunctions	normalName:sexual dysfunctions	predictedType:disease	q:true	qid:Q103	docId:3409645	origText:Sexual dysfunctions	url:D012735
+CANDIDATE	id:12735	inCount:4	outCount:2	links:	url:D012735	name:Sexual Dysfunction, Physiological	normalName:sexual dysfunction, physiological	normalWikiTitle:sexual dysfunction, physiological	predictedType:Disease
+CANDIDATE	id:580477	inCount:0	outCount:1	links:	url:C580477	name:Surfactant Dysfunction	normalName:surfactant dysfunction	normalWikiTitle:surfactant dysfunction	predictedType:Disease
+CANDIDATE	id:7172	inCount:1	outCount:2	links:	url:D007172	name:Erectile Dysfunction	normalName:erectile dysfunction	normalWikiTitle:erectile dysfunction	predictedType:Disease
+CANDIDATE	id:18754	inCount:2	outCount:1	links:	url:D018754	name:Ventricular Dysfunction	normalName:ventricular dysfunction	normalWikiTitle:ventricular dysfunction	predictedType:Disease
+CANDIDATE	id:20018	inCount:6	outCount:1	links:	url:D020018	name:Sexual Dysfunctions, Psychological	normalName:sexual dysfunctions, psychological	normalWikiTitle:sexual dysfunctions, psychological	predictedType:Disease
+CANDIDATE	id:64706	inCount:1	outCount:2	links:	url:D064706	name:Vocal Cord Dysfunction	normalName:vocal cord dysfunction	normalWikiTitle:vocal cord dysfunction	predictedType:Disease
+CANDIDATE	id:564942	inCount:0	outCount:1	links:	url:C564942	name:Neutrophil Actin Dysfunction	normalName:neutrophil actin dysfunction	normalWikiTitle:neutrophil actin dysfunction	predictedType:Disease
+CANDIDATE	id:18487	inCount:1	outCount:1	links:19964	url:D018487	name:Ventricular Dysfunction, Left	normalName:ventricular dysfunction, left	normalWikiTitle:ventricular dysfunction, left	predictedType:Disease
+CANDIDATE	id:18497	inCount:0	outCount:1	links:	url:D018497	name:Ventricular Dysfunction, Right	normalName:ventricular dysfunction, right	normalWikiTitle:ventricular dysfunction, right	predictedType:Disease
+CANDIDATE	id:50035	inCount:0	outCount:2	links:	url:D050035	name:Sexual Infantilism	normalName:sexual infantilism	normalWikiTitle:sexual infantilism	predictedType:Disease
+CANDIDATE	id:20018	inCount:6	outCount:1	links:	url:D020018	name:Dysfunction, Psychosexual	normalName:dysfunction, psychosexual	normalWikiTitle:dysfunction, psychosexual	predictedType:Disease
+CANDIDATE	id:20018	inCount:6	outCount:1	links:	url:D020018	name:Psychosexual Dysfunction	normalName:psychosexual dysfunction	normalWikiTitle:psychosexual dysfunction	predictedType:Disease
+CANDIDATE	id:20018	inCount:6	outCount:1	links:	url:D020018	name:Dysfunctions, Psychosexual	normalName:dysfunctions, psychosexual	normalWikiTitle:dysfunctions, psychosexual	predictedType:Disease
+CANDIDATE	id:20018	inCount:6	outCount:1	links:	url:D020018	name:Psychosexual Dysfunctions	normalName:psychosexual dysfunctions	normalWikiTitle:psychosexual dysfunctions	predictedType:Disease
+ENTITY	text:Impotence	normalName:impotence	predictedType:disease	q:true	qid:Q103	docId:3409645	origText:Impotence	url:D007172
+CANDIDATE	id:7172	inCount:1	outCount:2	links:	url:D007172	name:Impotence	normalName:impotence	normalWikiTitle:impotence	predictedType:Disease
+ENTITY	text:arthritis	normalName:arthritis	predictedType:disease	q:true	qid:Q103	docId:3409645	origText:arthritis	url:D001168
+CANDIDATE	id:1168	inCount:24	outCount:1	links:	url:D001168	name:Arthritis	normalName:arthritis	normalWikiTitle:arthritis	predictedType:Disease
+ENTITY	text:Sexual dysfunction	normalName:sexual dysfunction	predictedType:disease	q:true	qid:Q103	docId:3409645	origText:Sexual dysfunction	url:D012735
+CANDIDATE	id:12735	inCount:4	outCount:2	links:	url:D012735	name:Sexual Dysfunction, Physiological	normalName:sexual dysfunction, physiological	normalWikiTitle:sexual dysfunction, physiological	predictedType:Disease
+CANDIDATE	id:580477	inCount:0	outCount:1	links:	url:C580477	name:Surfactant Dysfunction	normalName:surfactant dysfunction	normalWikiTitle:surfactant dysfunction	predictedType:Disease
+CANDIDATE	id:7172	inCount:1	outCount:2	links:	url:D007172	name:Erectile Dysfunction	normalName:erectile dysfunction	normalWikiTitle:erectile dysfunction	predictedType:Disease
+CANDIDATE	id:18754	inCount:2	outCount:1	links:	url:D018754	name:Ventricular Dysfunction	normalName:ventricular dysfunction	normalWikiTitle:ventricular dysfunction	predictedType:Disease
+CANDIDATE	id:20018	inCount:6	outCount:1	links:	url:D020018	name:Sexual Dysfunctions, Psychological	normalName:sexual dysfunctions, psychological	normalWikiTitle:sexual dysfunctions, psychological	predictedType:Disease
+CANDIDATE	id:64706	inCount:1	outCount:2	links:	url:D064706	name:Vocal Cord Dysfunction	normalName:vocal cord dysfunction	normalWikiTitle:vocal cord dysfunction	predictedType:Disease
+CANDIDATE	id:564942	inCount:0	outCount:1	links:	url:C564942	name:Neutrophil Actin Dysfunction	normalName:neutrophil actin dysfunction	normalWikiTitle:neutrophil actin dysfunction	predictedType:Disease
+CANDIDATE	id:18487	inCount:1	outCount:1	links:19964	url:D018487	name:Ventricular Dysfunction, Left	normalName:ventricular dysfunction, left	normalWikiTitle:ventricular dysfunction, left	predictedType:Disease
+CANDIDATE	id:18497	inCount:0	outCount:1	links:	url:D018497	name:Ventricular Dysfunction, Right	normalName:ventricular dysfunction, right	normalWikiTitle:ventricular dysfunction, right	predictedType:Disease
+CANDIDATE	id:50035	inCount:0	outCount:2	links:	url:D050035	name:Sexual Infantilism	normalName:sexual infantilism	normalWikiTitle:sexual infantilism	predictedType:Disease
+CANDIDATE	id:20018	inCount:6	outCount:1	links:	url:D020018	name:Dysfunction, Psychosexual	normalName:dysfunction, psychosexual	normalWikiTitle:dysfunction, psychosexual	predictedType:Disease
+CANDIDATE	id:20018	inCount:6	outCount:1	links:	url:D020018	name:Psychosexual Dysfunction	normalName:psychosexual dysfunction	normalWikiTitle:psychosexual dysfunction	predictedType:Disease
+CANDIDATE	id:20018	inCount:6	outCount:1	links:	url:D020018	name:Dysfunctions, Psychosexual	normalName:dysfunctions, psychosexual	normalWikiTitle:dysfunctions, psychosexual	predictedType:Disease
+CANDIDATE	id:20018	inCount:6	outCount:1	links:	url:D020018	name:Psychosexual Dysfunctions	normalName:psychosexual dysfunctions	normalWikiTitle:psychosexual dysfunctions	predictedType:Disease
+ENTITY	text:spondyloarthropathy	normalName:spondyloarthropathy	predictedType:disease	q:true	qid:Q103	docId:3409645	origText:spondyloarthropathy	url:D025242
+CANDIDATE	id:25242	inCount:3	outCount:1	links:	url:D025242	name:Spondyloarthropathy	normalName:spondyloarthropathy	normalWikiTitle:spondyloarthropathy	predictedType:Disease
+ENTITY	text:rheumatoid arthritis	normalName:rheumatoid arthritis	predictedType:disease	q:true	qid:Q103	docId:3409645	origText:rheumatoid arthritis	url:D001172
+CANDIDATE	id:1172	inCount:8	outCount:3	links:	url:D001172	name:Arthritis, Rheumatoid	normalName:arthritis, rheumatoid	normalWikiTitle:arthritis, rheumatoid	predictedType:Disease

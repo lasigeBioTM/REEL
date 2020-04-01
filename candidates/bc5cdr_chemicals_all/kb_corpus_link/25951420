@@ -1,0 +1,4 @@
+ENTITY	text:particulate matter	normalName:particulate matter	predictedType:chemical	q:true	qid:Q1221	docId:25951420	origText:particulate matter	url:D052638
+CANDIDATE	id:52638	inCount:4	outCount:1	links:10126	url:D052638	name:Particulate Matter	normalName:particulate matter	normalWikiTitle:particulate matter	predictedType:Chemical
+ENTITY	text:Ozone	normalName:ozone	predictedType:chemical	q:true	qid:Q1221	docId:25951420	origText:Ozone	url:D010126
+CANDIDATE	id:10126	inCount:5	outCount:1	links:52638	url:D010126	name:Ozone	normalName:ozone	normalWikiTitle:ozone	predictedType:Chemical

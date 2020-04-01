@@ -1,0 +1,21 @@
+ENTITY	text:necrosis	normalName:necrosis	predictedType:disease	q:true	qid:Q1054	docId:16112787	origText:necrosis	url:D009336
+CANDIDATE	id:9336	inCount:6	outCount:1	links:58186;12871;7674	url:D009336	name:Necrosis	normalName:necrosis	normalWikiTitle:necrosis	predictedType:Disease
+ENTITY	text:kidney damage	normalName:kidney damage	predictedType:disease	q:true	qid:Q1054	docId:16112787	origText:kidney damage	url:D007674
+CANDIDATE	id:7674	inCount:65	outCount:1	links:9336	url:D007674	name:Disease, Kidney	normalName:disease, kidney	normalWikiTitle:disease, kidney	predictedType:Disease
+CANDIDATE	id:7674	inCount:65	outCount:1	links:9336	url:D007674	name:Kidney Diseases	normalName:kidney diseases	normalWikiTitle:kidney diseases	predictedType:Disease
+CANDIDATE	id:69337	inCount:0	outCount:1	links:	url:D000069337	name:Fused Kidney	normalName:fused kidney	normalWikiTitle:fused kidney	predictedType:Disease
+CANDIDATE	id:7669	inCount:3	outCount:2	links:	url:D007669	name:Kidney Calculi	normalName:kidney calculi	normalWikiTitle:kidney calculi	predictedType:Disease
+CANDIDATE	id:52177	inCount:36	outCount:1	links:	url:D052177	name:Kidney Diseases, Cystic	normalName:kidney diseases, cystic	normalWikiTitle:kidney diseases, cystic	predictedType:Disease
+CANDIDATE	id:58186	inCount:2	outCount:1	links:9336	url:D058186	name:Acute Kidney Injury	normalName:acute kidney injury	normalWikiTitle:acute kidney injury	predictedType:Disease
+CANDIDATE	id:4404	inCount:1	outCount:3	links:	url:D004404	name:Dysentery, Amebic	normalName:dysentery, amebic	normalWikiTitle:dysentery, amebic	predictedType:Disease
+CANDIDATE	id:12871	inCount:71	outCount:1	links:9336	url:D012871	name:Skin Diseases	normalName:skin diseases	normalWikiTitle:skin diseases	predictedType:Disease
+CANDIDATE	id:562565	inCount:0	outCount:1	links:	url:C562565	name:Uterine Anomalies	normalName:uterine anomalies	normalWikiTitle:uterine anomalies	predictedType:Disease
+CANDIDATE	id:12868	inCount:63	outCount:2	links:	url:D012868	name:Skin Abnormalities	normalName:skin abnormalities	normalWikiTitle:skin abnormalities	predictedType:Disease
+CANDIDATE	id:7247	inCount:4	outCount:1	links:	url:D007247	name:Infertility, Female	normalName:infertility, female	normalWikiTitle:infertility, female	predictedType:Disease
+CANDIDATE	id:69337	inCount:0	outCount:1	links:	url:D000069337	name:Kidney, Cake	normalName:kidney, cake	normalWikiTitle:kidney, cake	predictedType:Disease
+CANDIDATE	id:69337	inCount:0	outCount:1	links:	url:D000069337	name:Cake Kidney	normalName:cake kidney	normalWikiTitle:cake kidney	predictedType:Disease
+CANDIDATE	id:7674	inCount:65	outCount:1	links:9336	url:D007674	name:Kidney Disease	normalName:kidney disease	normalWikiTitle:kidney disease	predictedType:Disease
+CANDIDATE	id:69337	inCount:0	outCount:1	links:	url:D000069337	name:Cake Kidneys	normalName:cake kidneys	normalWikiTitle:cake kidneys	predictedType:Disease
+CANDIDATE	id:69337	inCount:0	outCount:1	links:	url:D000069337	name:Kidneys, Cake	normalName:kidneys, cake	normalWikiTitle:kidneys, cake	predictedType:Disease
+ENTITY	text:atrophy	normalName:atrophy	predictedType:disease	q:true	qid:Q1054	docId:16112787	origText:atrophy	url:D001284
+CANDIDATE	id:1284	inCount:3	outCount:1	links:	url:D001284	name:Atrophy	normalName:atrophy	normalWikiTitle:atrophy	predictedType:Disease

@@ -1,0 +1,14 @@
+ENTITY	text:cancers	normalName:cancers	predictedType:disease	q:true	qid:Q87	docId:3970039	origText:cancers	url:D009369
+CANDIDATE	id:9369	inCount:18	outCount:1	links:	url:D009369	name:Cancer	normalName:cancer	normalWikiTitle:cancer	predictedType:Disease
+ENTITY	text:synovitis	normalName:synovitis	predictedType:disease	q:true	qid:Q87	docId:3970039	origText:synovitis	url:D013585
+CANDIDATE	id:13585	inCount:5	outCount:1	links:	url:D013585	name:Synovitis	normalName:synovitis	normalWikiTitle:synovitis	predictedType:Disease
+ENTITY	text:non-Hodgkin's lymphoma	normalName:non-hodgkin's lymphoma	predictedType:disease	q:true	qid:Q87	docId:3970039	origText:non-Hodgkin's lymphoma	url:D008228
+CANDIDATE	id:8228	inCount:7	outCount:1	links:15470	url:D008228	name:Lymphoma, Non-Hodgkin's	normalName:lymphoma, non-hodgkin's	normalWikiTitle:lymphoma, non-hodgkin's	predictedType:Disease
+ENTITY	text:rheumatoid arthritis	normalName:rheumatoid arthritis	predictedType:disease	q:true	qid:Q87	docId:3970039	origText:rheumatoid arthritis	url:D001172
+CANDIDATE	id:1172	inCount:8	outCount:3	links:	url:D001172	name:Arthritis, Rheumatoid	normalName:arthritis, rheumatoid	normalWikiTitle:arthritis, rheumatoid	predictedType:Disease
+ENTITY	text:malignancy	normalName:malignancy	predictedType:disease	q:true	qid:Q87	docId:3970039	origText:malignancy	url:D009369
+CANDIDATE	id:9369	inCount:18	outCount:1	links:	url:D009369	name:Malignancy	normalName:malignancy	normalWikiTitle:malignancy	predictedType:Disease
+ENTITY	text:acute nonlymphocytic leukemia	normalName:acute nonlymphocytic leukemia	predictedType:disease	q:true	qid:Q87	docId:3970039	origText:acute nonlymphocytic leukemia	url:D015470
+CANDIDATE	id:15470	inCount:13	outCount:1	links:8228	url:D015470	name:Nonlymphocytic Leukemia, Acute	normalName:nonlymphocytic leukemia, acute	normalWikiTitle:nonlymphocytic leukemia, acute	predictedType:Disease
+ENTITY	text:neoplasms	normalName:neoplasms	predictedType:disease	q:true	qid:Q87	docId:3970039	origText:neoplasms	url:D009369
+CANDIDATE	id:9369	inCount:18	outCount:1	links:	url:D009369	name:Neoplasm	normalName:neoplasm	normalWikiTitle:neoplasm	predictedType:Disease

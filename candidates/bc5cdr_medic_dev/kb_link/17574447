@@ -1,0 +1,25 @@
+ENTITY	text:cardiac arrest	normalName:cardiac arrest	predictedType:disease	q:true	qid:Q427	docId:17574447	origText:cardiac arrest	url:D006323
+CANDIDATE	id:6323	inCount:2	outCount:1	links:	url:D006323	name:Arrest, Cardiac	normalName:arrest, cardiac	normalWikiTitle:arrest, cardiac	predictedType:Disease
+ENTITY	text:necrosis	normalName:necrosis	predictedType:disease	q:true	qid:Q427	docId:17574447	origText:necrosis	url:D009336
+CANDIDATE	id:9336	inCount:6	outCount:1	links:	url:D009336	name:Necrosis	normalName:necrosis	normalWikiTitle:necrosis	predictedType:Disease
+ENTITY	text:epilepsy	normalName:epilepsy	predictedType:disease	q:true	qid:Q427	docId:17574447	origText:epilepsy	url:D004827
+CANDIDATE	id:4827	inCount:52	outCount:1	links:	url:D004827	name:Epilepsy	normalName:epilepsy	normalWikiTitle:epilepsy	predictedType:Disease
+ENTITY	text:liver disease	normalName:liver disease	predictedType:disease	q:true	qid:Q427	docId:17574447	origText:liver disease	url:D008107
+CANDIDATE	id:8107	inCount:37	outCount:1	links:8107	url:D008107	name:Disease, Liver	normalName:disease, liver	normalWikiTitle:disease, liver	predictedType:Disease
+ENTITY	text:cholangitis	normalName:cholangitis	predictedType:disease	q:true	qid:Q427	docId:17574447	origText:cholangitis	url:D002761
+CANDIDATE	id:2761	inCount:1	outCount:1	links:	url:D002761	name:Cholangitis	normalName:cholangitis	normalWikiTitle:cholangitis	predictedType:Disease
+ENTITY	text:liver damage	normalName:liver damage	predictedType:disease	q:true	qid:Q427	docId:17574447	origText:liver damage	url:D008107
+CANDIDATE	id:8107	inCount:37	outCount:1	links:8107	url:D008107	name:Disease, Liver	normalName:disease, liver	normalWikiTitle:disease, liver	predictedType:Disease
+CANDIDATE	id:8107	inCount:37	outCount:1	links:8107	url:D008107	name:Liver Diseases	normalName:liver diseases	normalWikiTitle:liver diseases	predictedType:Disease
+CANDIDATE	id:18248	inCount:0	outCount:2	links:	url:D018248	name:Adenoma, Liver Cell	normalName:adenoma, liver cell	normalWikiTitle:adenoma, liver cell	predictedType:Disease
+CANDIDATE	id:17093	inCount:5	outCount:1	links:	url:D017093	name:Liver Failure	normalName:liver failure	normalWikiTitle:liver failure	predictedType:Disease
+CANDIDATE	id:8100	inCount:2	outCount:2	links:	url:D008100	name:Liver Abscess	normalName:liver abscess	normalWikiTitle:liver abscess	predictedType:Disease
+CANDIDATE	id:5234	inCount:6	outCount:1	links:	url:D005234	name:Fatty Liver	normalName:fatty liver	normalWikiTitle:fatty liver	predictedType:Disease
+CANDIDATE	id:17114	inCount:3	outCount:1	links:	url:D017114	name:Liver Failure, Acute	normalName:liver failure, acute	normalWikiTitle:liver failure, acute	predictedType:Disease
+CANDIDATE	id:8101	inCount:0	outCount:3	links:	url:D008101	name:Liver Abscess, Amebic	normalName:liver abscess, amebic	normalWikiTitle:liver abscess, amebic	predictedType:Disease
+CANDIDATE	id:19595	inCount:0	outCount:1	links:	url:D019595	name:Severe Dengue	normalName:severe dengue	normalWikiTitle:severe dengue	predictedType:Disease
+CANDIDATE	id:538225	inCount:0	outCount:3	links:	url:C538225	name:Adams Oliver syndrome	normalName:adams oliver syndrome	normalWikiTitle:adams oliver syndrome	predictedType:Disease
+CANDIDATE	id:7868	inCount:0	outCount:1	links:	url:D007868	name:Leg Dermatoses	normalName:leg dermatoses	normalWikiTitle:leg dermatoses	predictedType:Disease
+CANDIDATE	id:8107	inCount:37	outCount:1	links:8107	url:D008107	name:Liver Disease	normalName:liver disease	normalWikiTitle:liver disease	predictedType:Disease
+ENTITY	text:bronchopneumonia	normalName:bronchopneumonia	predictedType:disease	q:true	qid:Q427	docId:17574447	origText:bronchopneumonia	url:D001996
+CANDIDATE	id:1996	inCount:0	outCount:2	links:	url:D001996	name:Bronchopneumonia	normalName:bronchopneumonia	normalWikiTitle:bronchopneumonia	predictedType:Disease

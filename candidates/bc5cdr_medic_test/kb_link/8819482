@@ -1,0 +1,8 @@
+ENTITY	text:stenosis	normalName:stenosis	predictedType:disease	q:true	qid:Q175	docId:8819482	origText:stenosis	url:D003251
+CANDIDATE	id:3251	inCount:8	outCount:1	links:	url:D003251	name:Stenosis	normalName:stenosis	normalWikiTitle:stenosis	predictedType:Disease
+ENTITY	text:coronary stenosis	normalName:coronary stenosis	predictedType:disease	q:true	qid:Q175	docId:8819482	origText:coronary stenosis	url:D023921
+CANDIDATE	id:23921	inCount:1	outCount:1	links:23921	url:D023921	name:Coronary Stenosis	normalName:coronary stenosis	normalWikiTitle:coronary stenosis	predictedType:Disease
+ENTITY	text:myocardial ischemia	normalName:myocardial ischemia	predictedType:disease	q:true	qid:Q175	docId:8819482	origText:myocardial ischemia	url:D017202
+CANDIDATE	id:17202	inCount:6	outCount:2	links:	url:D017202	name:Myocardial Ischemia	normalName:myocardial ischemia	normalWikiTitle:myocardial ischemia	predictedType:Disease
+ENTITY	text:coronary artery stenosis	normalName:coronary artery stenosis	predictedType:disease	q:true	qid:Q175	docId:8819482	origText:coronary artery stenosis	url:D023921
+CANDIDATE	id:23921	inCount:1	outCount:1	links:23921	url:D023921	name:Stenosis, Coronary Artery	normalName:stenosis, coronary artery	normalWikiTitle:stenosis, coronary artery	predictedType:Disease

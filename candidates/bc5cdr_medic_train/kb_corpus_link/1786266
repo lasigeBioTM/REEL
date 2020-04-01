@@ -1,0 +1,14 @@
+ENTITY	text:decreased basal ganglia perfusion	normalName:decreased basal ganglia perfusion	predictedType:disease	q:true	qid:Q326	docId:1786266	origText:decreased basal ganglia perfusion	url:D001480
+CANDIDATE	id:1480	inCount:28	outCount:1	links:	url:D001480	name:Basal Ganglia Disease	normalName:basal ganglia disease	normalWikiTitle:basal ganglia disease	predictedType:Disease
+CANDIDATE	id:1480	inCount:28	outCount:1	links:	url:D001480	name:Basal Ganglia Diseases	normalName:basal ganglia diseases	normalWikiTitle:basal ganglia diseases	predictedType:Disease
+CANDIDATE	id:537658	inCount:0	outCount:1	links:	url:C537658	name:Basal ganglia disease, biotin-responsive	normalName:basal ganglia disease, biotin-responsive	normalWikiTitle:basal ganglia disease, biotin-responsive	predictedType:Disease
+CANDIDATE	id:20144	inCount:1	outCount:2	links:	url:D020144	name:Basal Ganglia Cerebrovascular Disease	normalName:basal ganglia cerebrovascular disease	normalWikiTitle:basal ganglia cerebrovascular disease	predictedType:Disease
+CANDIDATE	id:563034	inCount:0	outCount:2	links:	url:C563034	name:Basal Laminar Drusen	normalName:basal laminar drusen	normalWikiTitle:basal laminar drusen	predictedType:Disease
+CANDIDATE	id:20145	inCount:1	outCount:2	links:	url:D020145	name:Basal Ganglia Hemorrhage	normalName:basal ganglia hemorrhage	normalWikiTitle:basal ganglia hemorrhage	predictedType:Disease
+CANDIDATE	id:536845	inCount:0	outCount:1	links:	url:C536845	name:Familial hypersecretion of adrenal androgens	normalName:familial hypersecretion of adrenal androgens	normalWikiTitle:familial hypersecretion of adrenal androgens	predictedType:Disease
+CANDIDATE	id:563653	inCount:0	outCount:1	links:	url:C563653	name:Kallikrein, Decreased Urinary Activity of	normalName:kallikrein, decreased urinary activity of	normalWikiTitle:kallikrein, decreased urinary activity of	predictedType:Disease
+CANDIDATE	id:168601	inCount:0	outCount:1	links:	url:168601	name:PARKINSON DISEASE 1, AUTOSOMAL DOMINANT	normalName:parkinson disease 1, autosomal dominant	normalWikiTitle:parkinson disease 1, autosomal dominant	predictedType:Disease
+CANDIDATE	id:7873	inCount:1	outCount:1	links:	url:D007873	name:Legg-Calve-Perthes Disease	normalName:legg-calve-perthes disease	normalWikiTitle:legg-calve-perthes disease	predictedType:Disease
+CANDIDATE	id:607060	inCount:0	outCount:1	links:	url:607060	name:PARKINSON DISEASE 8, AUTOSOMAL DOMINANT	normalName:parkinson disease 8, autosomal dominant	normalWikiTitle:parkinson disease 8, autosomal dominant	predictedType:Disease
+ENTITY	text:movement disorder	normalName:movement disorder	predictedType:disease	q:true	qid:Q326	docId:1786266	origText:movement disorder	url:D009069
+CANDIDATE	id:9069	inCount:19	outCount:1	links:	url:D009069	name:Movement Disorder	normalName:movement disorder	normalWikiTitle:movement disorder	predictedType:Disease

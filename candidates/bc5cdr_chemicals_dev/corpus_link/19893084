@@ -1,0 +1,10 @@
+ENTITY	text:urea	normalName:urea	predictedType:chemical	q:true	qid:Q152	docId:19893084	origText:urea	url:D014508
+CANDIDATE	id:14508	inCount:401	outCount:1	links:	url:D014508	name:Urea	normalName:urea	normalWikiTitle:urea	predictedType:Chemical
+ENTITY	text:potassium	normalName:potassium	predictedType:chemical	q:true	qid:Q152	docId:19893084	origText:potassium	url:D011188
+CANDIDATE	id:11188	inCount:10	outCount:2	links:	url:D011188	name:Potassium	normalName:potassium	normalWikiTitle:potassium	predictedType:Chemical
+ENTITY	text:creatinine	normalName:creatinine	predictedType:chemical	q:true	qid:Q152	docId:19893084	origText:creatinine	url:D003404
+CANDIDATE	id:3404	inCount:8	outCount:1	links:	url:D003404	name:Creatinine	normalName:creatinine	normalWikiTitle:creatinine	predictedType:Chemical
+ENTITY	text:gentamicin	normalName:gentamicin	predictedType:chemical	q:true	qid:Q152	docId:19893084	origText:gentamicin	url:D005839
+CANDIDATE	id:5839	inCount:33	outCount:1	links:	url:D005839	name:Gentamicin	normalName:gentamicin	normalWikiTitle:gentamicin	predictedType:Chemical
+ENTITY	text:vitamin C	normalName:vitamin c	predictedType:chemical	q:true	qid:Q152	docId:19893084	origText:vitamin C	url:D001205
+CANDIDATE	id:1205	inCount:125	outCount:1	links:	url:D001205	name:Vitamin C	normalName:vitamin c	normalWikiTitle:vitamin c	predictedType:Chemical

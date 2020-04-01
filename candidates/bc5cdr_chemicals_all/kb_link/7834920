@@ -1,0 +1,4 @@
+ENTITY	text:rifampin	normalName:rifampin	predictedType:chemical	q:true	qid:Q1044	docId:7834920	origText:rifampin	url:D012293
+CANDIDATE	id:12293	inCount:23	outCount:1	links:	url:D012293	name:Rifampin	normalName:rifampin	normalWikiTitle:rifampin	predictedType:Chemical
+ENTITY	text:isoniazid	normalName:isoniazid	predictedType:chemical	q:true	qid:Q1044	docId:7834920	origText:isoniazid	url:D007538
+CANDIDATE	id:7538	inCount:46	outCount:2	links:	url:D007538	name:Isoniazid	normalName:isoniazid	normalWikiTitle:isoniazid	predictedType:Chemical

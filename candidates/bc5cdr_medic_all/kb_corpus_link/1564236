@@ -1,0 +1,19 @@
+ENTITY	text:coronary stenosis	normalName:coronary stenosis	predictedType:disease	q:true	qid:Q743	docId:1564236	origText:coronary stenosis	url:D023921
+CANDIDATE	id:23921	inCount:1	outCount:1	links:23921	url:D023921	name:Coronary Stenosis	normalName:coronary stenosis	normalWikiTitle:coronary stenosis	predictedType:Disease
+ENTITY	text:coronary occlusion	normalName:coronary occlusion	predictedType:disease	q:true	qid:Q743	docId:1564236	origText:coronary occlusion	url:D054059
+CANDIDATE	id:54059	inCount:0	outCount:1	links:	url:D054059	name:Coronary Occlusion	normalName:coronary occlusion	normalWikiTitle:coronary occlusion	predictedType:Disease
+ENTITY	text:hyperemic	normalName:hyperemic	predictedType:disease	q:true	qid:Q743	docId:1564236	origText:hyperemic	url:D006940
+CANDIDATE	id:6940	inCount:0	outCount:1	links:6940	url:D006940	name:Hyperemia	normalName:hyperemia	normalWikiTitle:hyperemia	predictedType:Disease
+CANDIDATE	id:6947	inCount:4	outCount:1	links:	url:D006947	name:Hyperkalemia	normalName:hyperkalemia	normalWikiTitle:hyperkalemia	predictedType:Disease
+CANDIDATE	id:565500	inCount:0	outCount:1	links:	url:C565500	name:Hyperlexia	normalName:hyperlexia	normalWikiTitle:hyperlexia	predictedType:Disease
+CANDIDATE	id:6934	inCount:10	outCount:2	links:	url:D006934	name:Hypercalcemia	normalName:hypercalcemia	normalWikiTitle:hypercalcemia	predictedType:Disease
+CANDIDATE	id:33461	inCount:10	outCount:1	links:	url:D033461	name:Hyperuricemia	normalName:hyperuricemia	normalWikiTitle:hyperuricemia	predictedType:Disease
+CANDIDATE	id:6943	inCount:1	outCount:1	links:	url:D006943	name:Hyperglycemia	normalName:hyperglycemia	normalWikiTitle:hyperglycemia	predictedType:Disease
+CANDIDATE	id:6955	inCount:0	outCount:1	links:	url:D006955	name:Hypernatremia	normalName:hypernatremia	normalWikiTitle:hypernatremia	predictedType:Disease
+CANDIDATE	id:7035	inCount:2	outCount:1	links:	url:D007035	name:Hypothermia	normalName:hypothermia	normalWikiTitle:hypothermia	predictedType:Disease
+CANDIDATE	id:22124	inCount:4	outCount:1	links:	url:D022124	name:Hyperammonemia	normalName:hyperammonemia	normalWikiTitle:hyperammonemia	predictedType:Disease
+CANDIDATE	id:18496	inCount:0	outCount:1	links:	url:D018496	name:Hyperoxia	normalName:hyperoxia	normalWikiTitle:hyperoxia	predictedType:Disease
+ENTITY	text:coronary stenoses	normalName:coronary stenoses	predictedType:disease	q:true	qid:Q743	docId:1564236	origText:coronary stenoses	url:D023921
+CANDIDATE	id:23921	inCount:1	outCount:1	links:23921	url:D023921	name:Coronary Stenoses	normalName:coronary stenoses	normalWikiTitle:coronary stenoses	predictedType:Disease
+ENTITY	text:hyperemia	normalName:hyperemia	predictedType:disease	q:true	qid:Q743	docId:1564236	origText:hyperemia	url:D006940
+CANDIDATE	id:6940	inCount:0	outCount:1	links:6940	url:D006940	name:Hyperemia	normalName:hyperemia	normalWikiTitle:hyperemia	predictedType:Disease

@@ -1,0 +1,6 @@
+ENTITY	text:pain	normalName:pain	predictedType:disease	q:true	qid:Q450	docId:25096313	origText:pain	url:D010146
+CANDIDATE	id:10146	inCount:34	outCount:1	links:	url:D010146	name:Pain	normalName:pain	normalWikiTitle:pain	predictedType:Disease
+ENTITY	text:lateral epicondylitis	normalName:lateral epicondylitis	predictedType:disease	q:true	qid:Q450	docId:25096313	origText:lateral epicondylitis	url:D013716
+CANDIDATE	id:13716	inCount:0	outCount:2	links:	url:D013716	name:Epicondylitis, Lateral	normalName:epicondylitis, lateral	normalWikiTitle:epicondylitis, lateral	predictedType:Disease
+ENTITY	text:paresthesia	normalName:paresthesia	predictedType:disease	q:true	qid:Q450	docId:25096313	origText:paresthesia	url:D010292
+CANDIDATE	id:10292	inCount:0	outCount:1	links:	url:D010292	name:Paresthesia	normalName:paresthesia	normalWikiTitle:paresthesia	predictedType:Disease

@@ -1,0 +1,34 @@
+ENTITY	text:Milk-alkali syndrome	normalName:milk-alkali syndrome	predictedType:disease	q:true	qid:Q364	docId:8667442	origText:Milk-alkali syndrome	url:D006934
+CANDIDATE	id:6934	inCount:10	outCount:2	links:471	url:D006934	name:Syndrome, Milk-Alkali	normalName:syndrome, milk-alkali	normalWikiTitle:syndrome, milk-alkali	predictedType:Disease
+ENTITY	text:hypercalcemic emergency	normalName:hypercalcemic emergency	predictedType:disease	q:true	qid:Q364	docId:8667442	origText:hypercalcemic emergency	url:D006934
+CANDIDATE	id:6934	inCount:10	outCount:2	links:471	url:D006934	name:Hypercalcemia	normalName:hypercalcemia	normalWikiTitle:hypercalcemia	predictedType:Disease
+CANDIDATE	id:563373	inCount:0	outCount:1	links:	url:C563373	name:Hypercalciuric Hypercalcemia	normalName:hypercalciuric hypercalcemia	normalWikiTitle:hypercalciuric hypercalcemia	predictedType:Disease
+CANDIDATE	id:6947	inCount:4	outCount:1	links:	url:D006947	name:Hyperkalemia	normalName:hyperkalemia	normalWikiTitle:hyperkalemia	predictedType:Disease
+CANDIDATE	id:6996	inCount:5	outCount:2	links:	url:D006996	name:Hypocalcemia	normalName:hypocalcemia	normalWikiTitle:hypocalcemia	predictedType:Disease
+CANDIDATE	id:6943	inCount:1	outCount:1	links:	url:D006943	name:Hyperglycemia	normalName:hyperglycemia	normalWikiTitle:hyperglycemia	predictedType:Disease
+CANDIDATE	id:538136	inCount:0	outCount:1	links:	url:C538136	name:Hyperexplexia hereditary	normalName:hyperexplexia hereditary	normalWikiTitle:hyperexplexia hereditary	predictedType:Disease
+CANDIDATE	id:562390	inCount:0	outCount:2	links:	url:C562390	name:Humoral Hypercalcemia Of Malignancy	normalName:humoral hypercalcemia of malignancy	normalWikiTitle:humoral hypercalcemia of malignancy	predictedType:Disease
+CANDIDATE	id:537147	inCount:0	outCount:1	links:	url:C537147	name:Familial benign hypercalcemia, type 3	normalName:familial benign hypercalcemia, type 3	normalWikiTitle:familial benign hypercalcemia, type 3	predictedType:Disease
+CANDIDATE	id:53565	inCount:6	outCount:1	links:	url:D053565	name:Hypercalciuria	normalName:hypercalciuria	normalWikiTitle:hypercalciuria	predictedType:Disease
+CANDIDATE	id:6933	inCount:6	outCount:1	links:	url:D006933	name:Hyperbilirubinemia, Hereditary	normalName:hyperbilirubinemia, hereditary	normalWikiTitle:hyperbilirubinemia, hereditary	predictedType:Disease
+ENTITY	text:ulcer	normalName:ulcer	predictedType:disease	q:true	qid:Q364	docId:8667442	origText:ulcer	url:D014456
+CANDIDATE	id:14456	inCount:1	outCount:1	links:	url:D014456	name:Ulcer	normalName:ulcer	normalWikiTitle:ulcer	predictedType:Disease
+ENTITY	text:alkalosis	normalName:alkalosis	predictedType:disease	q:true	qid:Q364	docId:8667442	origText:alkalosis	url:D000471
+CANDIDATE	id:471	inCount:2	outCount:1	links:6934	url:D000471	name:Alkalosis	normalName:alkalosis	normalWikiTitle:alkalosis	predictedType:Disease
+ENTITY	text:peptic ulcer disease	normalName:peptic ulcer disease	predictedType:disease	q:true	qid:Q364	docId:8667442	origText:peptic ulcer disease	url:D010437
+CANDIDATE	id:10437	inCount:6	outCount:2	links:	url:D010437	name:Peptic Ulcer	normalName:peptic ulcer	normalWikiTitle:peptic ulcer	predictedType:Disease
+CANDIDATE	id:13733	inCount:6	outCount:2	links:	url:D013733	name:Testicular Diseases	normalName:testicular diseases	normalWikiTitle:testicular diseases	predictedType:Disease
+CANDIDATE	id:10438	inCount:0	outCount:1	links:	url:D010438	name:Peptic Ulcer Hemorrhage	normalName:peptic ulcer hemorrhage	normalWikiTitle:peptic ulcer hemorrhage	predictedType:Disease
+CANDIDATE	id:10409	inCount:7	outCount:1	links:	url:D010409	name:Penile Diseases	normalName:penile diseases	normalWikiTitle:penile diseases	predictedType:Disease
+CANDIDATE	id:76385	inCount:2	outCount:2	links:	url:D000076385	name:Diverticular Diseases	normalName:diverticular diseases	normalWikiTitle:diverticular diseases	predictedType:Disease
+CANDIDATE	id:15837	inCount:3	outCount:1	links:	url:D015837	name:Vestibular Diseases	normalName:vestibular diseases	normalWikiTitle:vestibular diseases	predictedType:Disease
+CANDIDATE	id:10483	inCount:2	outCount:2	links:	url:D010483	name:Periapical Diseases	normalName:periapical diseases	normalWikiTitle:periapical diseases	predictedType:Disease
+CANDIDATE	id:5878	inCount:0	outCount:1	links:	url:D005878	name:Gilbert Disease	normalName:gilbert disease	normalWikiTitle:gilbert disease	predictedType:Disease
+CANDIDATE	id:536252	inCount:0	outCount:1	links:	url:C536252	name:Pyle disease	normalName:pyle disease	normalWikiTitle:pyle disease	predictedType:Disease
+CANDIDATE	id:8575	inCount:0	outCount:1	links:	url:D008575	name:Meniere Disease	normalName:meniere disease	normalWikiTitle:meniere disease	predictedType:Disease
+CANDIDATE	id:13733	inCount:6	outCount:2	links:	url:D013733	name:Disease, Testicular	normalName:disease, testicular	normalWikiTitle:disease, testicular	predictedType:Disease
+CANDIDATE	id:13733	inCount:6	outCount:2	links:	url:D013733	name:Testicular Disease	normalName:testicular disease	normalWikiTitle:testicular disease	predictedType:Disease
+ENTITY	text:hypoparathyroidism	normalName:hypoparathyroidism	predictedType:disease	q:true	qid:Q364	docId:8667442	origText:hypoparathyroidism	url:D007011
+CANDIDATE	id:7011	inCount:9	outCount:1	links:	url:D007011	name:Hypoparathyroidism	normalName:hypoparathyroidism	normalWikiTitle:hypoparathyroidism	predictedType:Disease
+ENTITY	text:hypercalcemia	normalName:hypercalcemia	predictedType:disease	q:true	qid:Q364	docId:8667442	origText:hypercalcemia	url:D006934
+CANDIDATE	id:6934	inCount:10	outCount:2	links:471	url:D006934	name:Hypercalcemia	normalName:hypercalcemia	normalWikiTitle:hypercalcemia	predictedType:Disease

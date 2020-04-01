@@ -1,0 +1,8 @@
+ENTITY	text:Levodopa	normalName:levodopa	predictedType:chemical	q:true	qid:Q585	docId:7477981	origText:Levodopa	url:D007980
+CANDIDATE	id:7980	inCount:32	outCount:1	links:1058;5473	url:D007980	name:Levodopa	normalName:levodopa	normalWikiTitle:levodopa	predictedType:Chemical
+ENTITY	text:apomorphine	normalName:apomorphine	predictedType:chemical	q:true	qid:Q585	docId:7477981	origText:apomorphine	url:D001058
+CANDIDATE	id:1058	inCount:29	outCount:1	links:5473;7980	url:D001058	name:Apomorphine	normalName:apomorphine	normalWikiTitle:apomorphine	predictedType:Chemical
+ENTITY	text:fluoxetine	normalName:fluoxetine	predictedType:chemical	q:true	qid:Q585	docId:7477981	origText:fluoxetine	url:D005473
+CANDIDATE	id:5473	inCount:8	outCount:1	links:1058;7980	url:D005473	name:Fluoxetine	normalName:fluoxetine	normalWikiTitle:fluoxetine	predictedType:Chemical
+ENTITY	text:dopamine	normalName:dopamine	predictedType:chemical	q:true	qid:Q585	docId:7477981	origText:dopamine	url:D004298
+CANDIDATE	id:4298	inCount:90	outCount:2	links:	url:D004298	name:Dopamine	normalName:dopamine	normalWikiTitle:dopamine	predictedType:Chemical
