@@ -14,7 +14,6 @@ python3 src/pre_process.py $1 $2 $3
 
 if [ $2 != 'baseline' ]
 then
-  javac ppr_for_ned_all.java
   java ppr_for_ned_all $1 $2 $3 
   python3 src/process_results.py $1 $2 $3
 fi

@@ -32,9 +32,11 @@ To download all the ontology and corpora files:
 
 To simply apply the 'baseline' model (does not requires the candidates files):
 
-``
+```
+
 ./run.sh [dataset] baseline none
-``
+
+```
 
 Arg:
 
@@ -82,8 +84,14 @@ Example:
 
 ```
 
-This script imports the output from BO-LSTM (a relation extraction tool) in the file 'full_model_temp.chebicraftresults.txt', creates the candidates files for each corpus document in the ´candidates/craft\_chebi/corpus\_link´ dir, applies the PPR algorithm and returns the results in the terminal and in a file located in 'results/craft\_chebi/ppr_ic/corpus\_link' dir.
+This script imports the output from BO-LSTM (a relation extraction tool) in the file 'full_model_temp.chebicraftresults.txt', creates the candidates files for each corpus document in the ´candidates/craft\_chebi/corpus\_link´ dir, applies the PPR algorithm and returns the results in a file located in 'results/craft\_chebi/ppr_ic/corpus\_link' dir and in the terminal:
 
-
-
-
+```
+Total unique entities: 1679
+Entities w/o solution (FN): 299
+Wrong disambiguations (FP): 119
+Correct disambiguations (TP): 1261
+Precision: 0.913768115942029
+Recall: 0.8083333333333333
+Micro F1-score: 0.8578231292517008
+```
