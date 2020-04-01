@@ -4,7 +4,7 @@ Model for biomedical Named Entity Linking improved by Relation Extraction
 
 
 ## Dependencies
-- BO-LSTM
+- [BO-LSTM](https://github.com/lasigeBioTM/BOLSTM)
 - fuzzywuzzy
 - obonet
 - OpenJDK >= 8
