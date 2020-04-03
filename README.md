@@ -30,7 +30,7 @@ To download all the ontology and corpora files:
 
 ### 2. Applying the 'baseline' model (does not require pre-processing)
 
-To simply apply the 'baseline' model (does not requires the candidates files):
+To simply apply the 'baseline' model (does not require the candidates files):
 
 ```
 
