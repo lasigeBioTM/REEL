@@ -14,7 +14,9 @@ Model for biomedical Named Entity Linking improved by Relation Extraction
 - spacy
 
 Or use the Dockerfile to setup the experimental environment.
- 
+
+## Reference
+- Ruas, P., Lamurias, A. & Couto, F.M. Linking chemical and disease entities to ontologies by integrating PageRank with extracted relations from literature. J Cheminform 12, 57 (2020). [https://doi.org/10.1186/s13321-020-00461-4](https://doi.org/10.1186/s13321-020-00461-4)
 
 ## Usage
 
