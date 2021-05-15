@@ -211,7 +211,7 @@ def import_cdr_relations_pubtator(corpus_ontology, subset):
         extracted_relations: is dict, each key an ontology concept, values are related concepts
     """
 
-    corpus_dir = "BioCreative-V-CDR-Corpus/CDR_Data/CDR_Data/CDR.Corpus.v010516/"
+    corpus_dir = "BioCreative-V-CDR-Corpus/CDR_Data/CDR.Corpus.v010516/"
     filenames = list()
     extracted_relations, extracted_relations_temp  = dict(), dict()
     
