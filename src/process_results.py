@@ -2,7 +2,7 @@ import sys
 
 sys.path.append("./")
 
-
+doc_id = str()
 
 def process_results(corpus_ontology, link_mode):
     """ Process the results after the application of the PPR-IC model."""
@@ -15,8 +15,7 @@ def process_results(corpus_ontology, link_mode):
     with open(filename, 'r') as results:
         data = results.readlines()
         results.close
-    
-    doc_id = str()
+
     temp_dict = dict()
     
     for line in data:
@@ -25,7 +24,6 @@ def process_results(corpus_ontology, link_mode):
             
             if line[0] == "=":
                 results_dict[doc_id] = temp_dict
-                global doc_id
                 doc_id = line.strip("\n").split(" ")[1]
                 temp_dict = dict()
             
