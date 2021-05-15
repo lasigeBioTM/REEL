@@ -3,9 +3,10 @@
 
 #1. Download BC5CDR corpus
 git clone https://github.com/JHnlp/BioCreative-V-CDR-Corpus.git
+cd BioCreative-V-CDR-Corpus
 unzip CDR_Data.zip
 unzip BC5CDR_Evaluation-0.0.3.zip
-unzip BioCreative-V-CDR-Corpus/BC5CDR_Evaluation-0.0.3/bc5cdr_eval.jar
+cd ..
 
 #2. Download CRAFT corpus v3.0
 wget https://github.com/UCDenver-ccp/CRAFT/releases/download/3.0/craft-3.0.zip
