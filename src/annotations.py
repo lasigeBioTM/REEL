@@ -17,7 +17,7 @@ def parse_cdr_annotations_pubtator(entity_type, subset):
         annotations: is dict, each key is document str, values are list with all the annotations in document
     """
     
-    corpus_dir = "BioCreative-V-CDR-Corpus/CDR_Data/CDR_Data/CDR.Corpus.v010516/"    
+    corpus_dir = "BioCreative-V-CDR-Corpus/CDR_Data/CDR.Corpus.v010516/"    
     annotations = dict()
     filenames = list()
     
