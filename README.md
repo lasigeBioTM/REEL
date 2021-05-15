@@ -83,7 +83,7 @@ Example:
 
 ```
 
-./run craft_chebi ppr_ic corpus_link
+./run.sh craft_chebi ppr_ic corpus_link
 
 ```
 
