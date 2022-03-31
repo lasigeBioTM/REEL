@@ -1,12 +1,12 @@
-ENTITY	text:barbiturate	normalName:barbiturate	predictedType:chemical	q:true	qid:Q131	docId:3975902	origText:barbiturate	url:C032232
-CANDIDATE	id:32232	inCount:0	outCount:1	links:	url:C032232	name:barbiturate	normalName:barbiturate	normalWikiTitle:barbiturate	predictedType:Chemical
-ENTITY	text:ketamine	normalName:ketamine	predictedType:chemical	q:true	qid:Q131	docId:3975902	origText:ketamine	url:D007649
-CANDIDATE	id:7649	inCount:10	outCount:1	links:	url:D007649	name:Ketamine	normalName:ketamine	normalWikiTitle:ketamine	predictedType:Chemical
-ENTITY	text:Barium	normalName:barium	predictedType:chemical	q:true	qid:Q131	docId:3975902	origText:Barium	url:D001464
-CANDIDATE	id:1464	inCount:5	outCount:2	links:	url:D001464	name:Barium	normalName:barium	normalWikiTitle:barium	predictedType:Chemical
-ENTITY	text:xylazine	normalName:xylazine	predictedType:chemical	q:true	qid:Q131	docId:3975902	origText:xylazine	url:D014991
-CANDIDATE	id:14991	inCount:1	outCount:1	links:	url:D014991	name:Xylazine	normalName:xylazine	normalWikiTitle:xylazine	predictedType:Chemical
-ENTITY	text:barium chloride	normalName:barium chloride	predictedType:chemical	q:true	qid:Q131	docId:3975902	origText:barium chloride	url:C024986
-CANDIDATE	id:24986	inCount:0	outCount:2	links:	url:C024986	name:barium chloride	normalName:barium chloride	normalWikiTitle:barium chloride	predictedType:Chemical
-ENTITY	text:sodium pentobarbital	normalName:sodium pentobarbital	predictedType:chemical	q:true	qid:Q131	docId:3975902	origText:sodium pentobarbital	url:D010424
+ENTITY	text:sodium pentobarbital	normalName:sodium pentobarbital	predictedType:chemical	q:true	qid:Q226	docId:3975902	origText:sodium pentobarbital	url:D010424
 CANDIDATE	id:10424	inCount:10	outCount:1	links:	url:D010424	name:Pentobarbital Sodium	normalName:pentobarbital sodium	normalWikiTitle:pentobarbital sodium	predictedType:Chemical
+ENTITY	text:barium chloride	normalName:barium chloride	predictedType:chemical	q:true	qid:Q226	docId:3975902	origText:barium chloride	url:C024986
+CANDIDATE	id:24986	inCount:0	outCount:2	links:	url:C024986	name:barium chloride	normalName:barium chloride	normalWikiTitle:barium chloride	predictedType:Chemical
+ENTITY	text:Barium	normalName:barium	predictedType:chemical	q:true	qid:Q226	docId:3975902	origText:Barium	url:D001464
+CANDIDATE	id:1464	inCount:5	outCount:2	links:	url:D001464	name:Barium	normalName:barium	normalWikiTitle:barium	predictedType:Chemical
+ENTITY	text:barbiturate	normalName:barbiturate	predictedType:chemical	q:true	qid:Q226	docId:3975902	origText:barbiturate	url:C032232
+CANDIDATE	id:32232	inCount:0	outCount:1	links:	url:C032232	name:barbiturate	normalName:barbiturate	normalWikiTitle:barbiturate	predictedType:Chemical
+ENTITY	text:ketamine	normalName:ketamine	predictedType:chemical	q:true	qid:Q226	docId:3975902	origText:ketamine	url:D007649
+CANDIDATE	id:7649	inCount:10	outCount:1	links:	url:D007649	name:Ketamine	normalName:ketamine	normalWikiTitle:ketamine	predictedType:Chemical
+ENTITY	text:xylazine	normalName:xylazine	predictedType:chemical	q:true	qid:Q226	docId:3975902	origText:xylazine	url:D014991
+CANDIDATE	id:14991	inCount:1	outCount:1	links:	url:D014991	name:Xylazine	normalName:xylazine	normalWikiTitle:xylazine	predictedType:Chemical

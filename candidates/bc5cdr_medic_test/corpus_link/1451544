@@ -1,10 +1,10 @@
-ENTITY	text:headache	normalName:headache	predictedType:disease	q:true	qid:Q146	docId:1451544	origText:headache	url:D006261
+ENTITY	text:hypertension	normalName:hypertension	predictedType:disease	q:true	qid:Q104	docId:1451544	origText:hypertension	url:D006973
+CANDIDATE	id:6973	inCount:19	outCount:1	links:6261	url:D006973	name:Hypertension	normalName:hypertension	normalWikiTitle:hypertension	predictedType:Disease
+ENTITY	text:headache	normalName:headache	predictedType:disease	q:true	qid:Q104	docId:1451544	origText:headache	url:D006261
 CANDIDATE	id:6261	inCount:2	outCount:1	links:5483;6973;4244	url:D006261	name:Headache	normalName:headache	normalWikiTitle:headache	predictedType:Disease
-ENTITY	text:dizziness	normalName:dizziness	predictedType:disease	q:true	qid:Q146	docId:1451544	origText:dizziness	url:D004244
+ENTITY	text:dizziness	normalName:dizziness	predictedType:disease	q:true	qid:Q104	docId:1451544	origText:dizziness	url:D004244
 CANDIDATE	id:4244	inCount:1	outCount:1	links:5483;6261	url:D004244	name:Dizziness	normalName:dizziness	normalWikiTitle:dizziness	predictedType:Disease
-ENTITY	text:postural hypotension	normalName:postural hypotension	predictedType:disease	q:true	qid:Q146	docId:1451544	origText:postural hypotension	url:D007024
-CANDIDATE	id:7024	inCount:2	outCount:2	links:	url:D007024	name:Hypotension, Postural	normalName:hypotension, postural	normalWikiTitle:hypotension, postural	predictedType:Disease
-ENTITY	text:hypertension	normalName:hypertension	predictedType:disease	q:true	qid:Q146	docId:1451544	origText:hypertension	url:D006973
-CANDIDATE	id:6973	inCount:18	outCount:1	links:6261	url:D006973	name:Hypertension	normalName:hypertension	normalWikiTitle:hypertension	predictedType:Disease
-ENTITY	text:flushing	normalName:flushing	predictedType:disease	q:true	qid:Q146	docId:1451544	origText:flushing	url:D005483
+ENTITY	text:flushing	normalName:flushing	predictedType:disease	q:true	qid:Q104	docId:1451544	origText:flushing	url:D005483
 CANDIDATE	id:5483	inCount:2	outCount:1	links:6261;4244	url:D005483	name:Flushing	normalName:flushing	normalWikiTitle:flushing	predictedType:Disease
+ENTITY	text:postural hypotension	normalName:postural hypotension	predictedType:disease	q:true	qid:Q104	docId:1451544	origText:postural hypotension	url:D007024
+CANDIDATE	id:7024	inCount:2	outCount:2	links:	url:D007024	name:Hypotension, Postural	normalName:hypotension, postural	normalWikiTitle:hypotension, postural	predictedType:Disease

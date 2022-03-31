@@ -1,4 +1,4 @@
-ENTITY	text:metformin	normalName:metformin	predictedType:chemical	q:true	qid:Q334	docId:24842192	origText:metformin	url:D008687
+ENTITY	text:metformin	normalName:metformin	predictedType:chemical	q:true	qid:Q73	docId:24842192	origText:metformin	url:D008687
 CANDIDATE	id:8687	inCount:8	outCount:1	links:	url:D008687	name:Metformin	normalName:metformin	normalWikiTitle:metformin	predictedType:Chemical
-ENTITY	text:isoproterenol	normalName:isoproterenol	predictedType:chemical	q:true	qid:Q334	docId:24842192	origText:isoproterenol	url:D007545
+ENTITY	text:isoproterenol	normalName:isoproterenol	predictedType:chemical	q:true	qid:Q73	docId:24842192	origText:isoproterenol	url:D007545
 CANDIDATE	id:7545	inCount:12	outCount:2	links:	url:D007545	name:Isoproterenol	normalName:isoproterenol	normalWikiTitle:isoproterenol	predictedType:Chemical

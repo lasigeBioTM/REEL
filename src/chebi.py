@@ -7,7 +7,7 @@ import pickle
 import sys
 import xml.etree.ElementTree as ET
 
-from fuzzywuzzy import fuzz, process
+from rapidfuzz import fuzz, process
 
 sys.path.append("./")
 
@@ -51,7 +51,7 @@ def load_chebi():
     graph = obonet.read_obo("chebi.obo") # Load the ontology from local file 
 
     # Add root concept to the graph
-    root_concept = "CHEBI:00000"
+    root_concept = "CHEBI_00000"
     graph.add_node(root_concept, name="ROOT")
     graph = graph.to_directed()
     
@@ -60,36 +60,36 @@ def load_chebi():
 
     for node in  graph.nodes(data=True):
         
-        node_id, node_name = node[0], node[1]["name"]
+        node_id, node_name = node[0].replace(':', '_'), node[1]["name"]
         name_to_id[node_name] = node_id
         
         if 'is_a' in node[1].keys(): # The root node of the ontology does not have is_a relationships
                 
             for related_node in node[1]['is_a']: # Build the edge_list with only "is-a" relationships
-                relationship = (node[0], related_node)
+                relationship = (node_id, related_node.replace(':', '_'))
                 edge_list.append(relationship) 
             
         if "synonym" in node[1].keys(): # Check for synonyms for node (if they exist)
                 
             for synonym in node[1]["synonym"]:
                 synonym_name = synonym.split("\"")[1]
-                synonym_to_id[synonym_name] = node_id
-
+                synonym_to_id[synonym_name] = node_id.replace(':', '_')
+  
     # Create a MultiDiGraph object with only "is-a" relations - this will allow the further calculation of shorthest path lenght
     ontology_graph = nx.MultiDiGraph([edge for edge in edge_list])
     
     # Add edges between the ontology root and sub-ontology roots
-    chemical_entity = "CHEBI:24431"
-    role = "CHEBI:50906"
-    subatomic_particle = "CHEBI:36342"
-    application = "CHEBI:33232"
+    chemical_entity = "CHEBI_24431"
+    role = "CHEBI_50906"
+    subatomic_particle = "CHEBI_36342"
+    application = "CHEBI_33232"
     ontology_graph.add_node(root_concept, name="ROOT")
     ontology_graph.add_edge(chemical_entity, root_concept, edgetype='is_a')
     ontology_graph.add_edge(role, root_concept, edgetype='is_a')
     ontology_graph.add_edge(subatomic_particle, root_concept, edgetype='is_a')
     ontology_graph.add_edge(application, root_concept, edgetype='is_a')
 
-    print("Is ontology_graph acyclic:", nx.is_directed_acyclic_graph(ontology_graph))
+    #print("Is ontology_graph acyclic:", nx.is_directed_acyclic_graph(ontology_graph))
     print("ChEBI loading complete")
     
     return ontology_graph, name_to_id, synonym_to_id

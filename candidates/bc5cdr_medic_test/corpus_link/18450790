@@ -1,17 +1,17 @@
-ENTITY	text:paresthesias	normalName:paresthesias	predictedType:disease	q:true	qid:Q211	docId:18450790	origText:paresthesias	url:D010292
-CANDIDATE	id:10292	inCount:0	outCount:1	links:9120	url:D010292	name:Paresthesia	normalName:paresthesia	normalWikiTitle:paresthesia	predictedType:Disease
-ENTITY	text:cutaneous lupus erythematosus	normalName:cutaneous lupus erythematosus	predictedType:disease	q:true	qid:Q211	docId:18450790	origText:cutaneous lupus erythematosus	url:D008178
+ENTITY	text:cutaneous lupus erythematosus	normalName:cutaneous lupus erythematosus	predictedType:disease	q:true	qid:Q453	docId:18450790	origText:cutaneous lupus erythematosus	url:D008178
 CANDIDATE	id:8178	inCount:2	outCount:2	links:	url:D008178	name:Lupus Erythematosus, Cutaneous	normalName:lupus erythematosus, cutaneous	normalWikiTitle:lupus erythematosus, cutaneous	predictedType:Disease
-ENTITY	text:cramps	normalName:cramps	predictedType:disease	q:true	qid:Q211	docId:18450790	origText:cramps	url:D009120
-CANDIDATE	id:9120	inCount:3	outCount:2	links:10292	url:D009120	name:Cramps	normalName:cramps	normalWikiTitle:cramps	predictedType:Disease
-ENTITY	text:neurotoxic	normalName:neurotoxic	predictedType:disease	q:true	qid:Q211	docId:18450790	origText:neurotoxic	url:D020258
-CANDIDATE	id:20258	inCount:7	outCount:2	links:	url:D020258	name:Neurotoxicity Syndromes	normalName:neurotoxicity syndromes	normalWikiTitle:neurotoxicity syndromes	predictedType:Disease
+ENTITY	text:neurotoxic	normalName:neurotoxic	predictedType:disease	q:true	qid:Q453	docId:18450790	origText:neurotoxic	url:D020258
+CANDIDATE	id:20258	inCount:7	outCount:2	links:10292	url:D020258	name:Neurotoxicity Syndromes	normalName:neurotoxicity syndromes	normalWikiTitle:neurotoxicity syndromes	predictedType:Disease
 CANDIDATE	id:4767	inCount:0	outCount:2	links:	url:D004767	name:Enterotoxemia	normalName:enterotoxemia	normalWikiTitle:enterotoxemia	predictedType:Disease
 CANDIDATE	id:9443	inCount:2	outCount:1	links:	url:D009443	name:Neuritis	normalName:neuritis	normalWikiTitle:neuritis	predictedType:Disease
 CANDIDATE	id:18306	inCount:0	outCount:2	links:	url:D018306	name:Neurocytoma	normalName:neurocytoma	normalWikiTitle:neurocytoma	predictedType:Disease
 CANDIDATE	id:9902	inCount:1	outCount:1	links:	url:D009902	name:Optic Neuritis	normalName:optic neuritis	normalWikiTitle:optic neuritis	predictedType:Disease
-CANDIDATE	id:11030	inCount:3	outCount:1	links:	url:D011030	name:Pneumothorax	normalName:pneumothorax	normalWikiTitle:pneumothorax	predictedType:Disease
+CANDIDATE	id:11030	inCount:2	outCount:1	links:	url:D011030	name:Pneumothorax	normalName:pneumothorax	normalWikiTitle:pneumothorax	predictedType:Disease
 CANDIDATE	id:1014	inCount:5	outCount:2	links:	url:D001014	name:Aortic Aneurysm	normalName:aortic aneurysm	normalWikiTitle:aortic aneurysm	predictedType:Disease
 CANDIDATE	id:18321	inCount:0	outCount:2	links:	url:D018321	name:Neurothekeoma	normalName:neurothekeoma	normalWikiTitle:neurothekeoma	predictedType:Disease
 CANDIDATE	id:9447	inCount:2	outCount:1	links:	url:D009447	name:Neuroblastoma	normalName:neuroblastoma	normalWikiTitle:neuroblastoma	predictedType:Disease
 CANDIDATE	id:14987	inCount:1	outCount:1	links:	url:D014987	name:Xerostomia	normalName:xerostomia	normalWikiTitle:xerostomia	predictedType:Disease
+ENTITY	text:paresthesias	normalName:paresthesias	predictedType:disease	q:true	qid:Q453	docId:18450790	origText:paresthesias	url:D010292
+CANDIDATE	id:10292	inCount:0	outCount:1	links:20258;9120	url:D010292	name:Paresthesia	normalName:paresthesia	normalWikiTitle:paresthesia	predictedType:Disease
+ENTITY	text:cramps	normalName:cramps	predictedType:disease	q:true	qid:Q453	docId:18450790	origText:cramps	url:D009120
+CANDIDATE	id:9120	inCount:3	outCount:2	links:10292	url:D009120	name:Cramps	normalName:cramps	normalWikiTitle:cramps	predictedType:Disease

@@ -1,7 +1,7 @@
-ENTITY	text:oleic acid	normalName:oleic acid	predictedType:chemical	q:true	qid:Q302	docId:1158089	origText:oleic acid	url:D019301
-CANDIDATE	id:19301	inCount:5	outCount:1	links:	url:D019301	name:Oleic Acid	normalName:oleic acid	normalWikiTitle:oleic acid	predictedType:Chemical
-ENTITY	text:triglyceride	normalName:triglyceride	predictedType:chemical	q:true	qid:Q302	docId:1158089	origText:triglyceride	url:D014280
-CANDIDATE	id:14280	inCount:112	outCount:1	links:	url:D014280	name:Triglycerides	normalName:triglycerides	normalWikiTitle:triglycerides	predictedType:Chemical
+ENTITY	text:tetracycline	normalName:tetracycline	predictedType:chemical	q:true	qid:Q140	docId:1158089	origText:tetracycline	url:D013752
+CANDIDATE	id:13752	inCount:14	outCount:1	links:	url:D013752	name:Tetracycline	normalName:tetracycline	normalWikiTitle:tetracycline	predictedType:Chemical
+ENTITY	text:triglyceride	normalName:triglyceride	predictedType:chemical	q:true	qid:Q140	docId:1158089	origText:triglyceride	url:D014280
+CANDIDATE	id:14280	inCount:115	outCount:1	links:	url:D014280	name:Triglycerides	normalName:triglycerides	normalWikiTitle:triglycerides	predictedType:Chemical
 CANDIDATE	id:34396	inCount:0	outCount:1	links:	url:C034396	name:HDL-triglyceride	normalName:hdl-triglyceride	normalWikiTitle:hdl-triglyceride	predictedType:Chemical
 CANDIDATE	id:4075	inCount:83	outCount:1	links:	url:D004075	name:Diglycerides	normalName:diglycerides	normalWikiTitle:diglycerides	predictedType:Chemical
 CANDIDATE	id:5989	inCount:81	outCount:1	links:	url:D005989	name:Glycerides	normalName:glycerides	normalWikiTitle:glycerides	predictedType:Chemical
@@ -11,5 +11,5 @@ CANDIDATE	id:46667	inCount:0	outCount:1	links:	url:C046667	name:triperiden	norma
 CANDIDATE	id:594071	inCount:0	outCount:1	links:	url:C000594071	name:urgineaglyceride A	normalName:urgineaglyceride a	normalWikiTitle:urgineaglyceride a	predictedType:Chemical
 CANDIDATE	id:611317	inCount:0	outCount:1	links:	url:C000611317	name:agaricoglyceride A	normalName:agaricoglyceride a	normalWikiTitle:agaricoglyceride a	predictedType:Chemical
 CANDIDATE	id:5996	inCount:10	outCount:1	links:	url:D005996	name:Nitroglycerin	normalName:nitroglycerin	normalWikiTitle:nitroglycerin	predictedType:Chemical
-ENTITY	text:tetracycline	normalName:tetracycline	predictedType:chemical	q:true	qid:Q302	docId:1158089	origText:tetracycline	url:D013752
-CANDIDATE	id:13752	inCount:14	outCount:1	links:	url:D013752	name:Tetracycline	normalName:tetracycline	normalWikiTitle:tetracycline	predictedType:Chemical
+ENTITY	text:oleic acid	normalName:oleic acid	predictedType:chemical	q:true	qid:Q140	docId:1158089	origText:oleic acid	url:D019301
+CANDIDATE	id:19301	inCount:5	outCount:1	links:	url:D019301	name:Oleic Acid	normalName:oleic acid	normalWikiTitle:oleic acid	predictedType:Chemical

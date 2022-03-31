@@ -1,10 +1,31 @@
-ENTITY	text:bipolar disorder	normalName:bipolar disorder	predictedType:disease	q:true	qid:Q62	docId:1564030	origText:bipolar disorder	url:D001714
-CANDIDATE	id:1714	inCount:11	outCount:1	links:6973;3866;11605;1714	url:D001714	name:Bipolar Disorder	normalName:bipolar disorder	normalWikiTitle:bipolar disorder	predictedType:Disease
-ENTITY	text:Mania	normalName:mania	predictedType:disease	q:true	qid:Q62	docId:1564030	origText:Mania	url:D001714
-CANDIDATE	id:1714	inCount:11	outCount:1	links:6973;3866;11605;1714	url:D001714	name:Mania	normalName:mania	normalWikiTitle:mania	predictedType:Disease
-ENTITY	text:attention-deficit hyperactivity disorder	normalName:attention-deficit hyperactivity disorder	predictedType:disease	q:true	qid:Q62	docId:1564030	origText:attention-deficit hyperactivity disorder	url:D001289
+ENTITY	text:depression	normalName:depression	predictedType:disease	q:true	qid:Q155	docId:1564030	origText:depression	url:D003866
+CANDIDATE	id:3866	inCount:7	outCount:1	links:11605;4775;1714;3866	url:D003866	name:Depressive Disorder	normalName:depressive disorder	normalWikiTitle:depressive disorder	predictedType:Disease
+CANDIDATE	id:18450	inCount:2	outCount:1	links:	url:D018450	name:Disease Progression	normalName:disease progression	normalWikiTitle:disease progression	predictedType:Disease
+CANDIDATE	id:19052	inCount:0	outCount:2	links:	url:D019052	name:Depression, Postpartum	normalName:depression, postpartum	normalWikiTitle:depression, postpartum	predictedType:Disease
+CANDIDATE	id:146850	inCount:0	outCount:2	links:	url:146850	name:IMMUNE SUPPRESSION	normalName:immune suppression	normalWikiTitle:immune suppression	predictedType:Disease
+CANDIDATE	id:6973	inCount:19	outCount:1	links:1714	url:D006973	name:Hypertension	normalName:hypertension	normalWikiTitle:hypertension	predictedType:Disease
+CANDIDATE	id:58246	inCount:0	outCount:1	links:	url:D058246	name:Prehypertension	normalName:prehypertension	normalWikiTitle:prehypertension	predictedType:Disease
+CANDIDATE	id:14786	inCount:19	outCount:2	links:9896	url:D014786	name:Vision Disorders	normalName:vision disorders	normalWikiTitle:vision disorders	predictedType:Disease
+CANDIDATE	id:3665	inCount:0	outCount:1	links:	url:D003665	name:Decompression Sickness	normalName:decompression sickness	normalWikiTitle:decompression sickness	predictedType:Disease
+CANDIDATE	id:12871	inCount:70	outCount:1	links:9401;9896	url:D012871	name:Skin Diseases	normalName:skin diseases	normalWikiTitle:skin diseases	predictedType:Disease
+CANDIDATE	id:4688	inCount:1	outCount:2	links:4688	url:D004688	name:Encopresis	normalName:encopresis	normalWikiTitle:encopresis	predictedType:Disease
+CANDIDATE	id:1714	inCount:11	outCount:1	links:11605;1714;3866	url:D001714	name:Depression, Bipolar	normalName:depression, bipolar	normalWikiTitle:depression, bipolar	predictedType:Disease
+CANDIDATE	id:1714	inCount:11	outCount:1	links:11605;1714;3866	url:D001714	name:Bipolar Depression	normalName:bipolar depression	normalWikiTitle:bipolar depression	predictedType:Disease
+ENTITY	text:depressed	normalName:depressed	predictedType:disease	q:true	qid:Q155	docId:1564030	origText:depressed	url:D003866
+CANDIDATE	id:3866	inCount:7	outCount:1	links:11605;4775;1714;3866	url:D003866	name:Depressive Disorder	normalName:depressive disorder	normalWikiTitle:depressive disorder	predictedType:Disease
+CANDIDATE	id:4688	inCount:1	outCount:2	links:4688	url:D004688	name:Encopresis	normalName:encopresis	normalWikiTitle:encopresis	predictedType:Disease
+CANDIDATE	id:10291	inCount:3	outCount:1	links:11605	url:D010291	name:Paresis	normalName:paresis	normalWikiTitle:paresis	predictedType:Disease
+CANDIDATE	id:4775	inCount:2	outCount:2	links:3866	url:D004775	name:Enuresis	normalName:enuresis	normalWikiTitle:enuresis	predictedType:Disease
+CANDIDATE	id:3638	inCount:110	outCount:1	links:	url:D003638	name:Deafness	normalName:deafness	normalWikiTitle:deafness	predictedType:Disease
+CANDIDATE	id:9401	inCount:8	outCount:1	links:12871	url:D009401	name:Nephrosis	normalName:nephrosis	normalWikiTitle:nephrosis	predictedType:Disease
+CANDIDATE	id:12806	inCount:1	outCount:1	links:	url:D012806	name:Siderosis	normalName:siderosis	normalWikiTitle:siderosis	predictedType:Disease
+CANDIDATE	id:566019	inCount:0	outCount:1	links:	url:C566019	name:Tune Deafness	normalName:tune deafness	normalWikiTitle:tune deafness	predictedType:Disease
+CANDIDATE	id:6562	inCount:3	outCount:1	links:	url:D006562	name:Herpes Zoster	normalName:herpes zoster	normalWikiTitle:herpes zoster	predictedType:Disease
+CANDIDATE	id:9668	inCount:13	outCount:2	links:	url:D009668	name:Nose Diseases	normalName:nose diseases	normalWikiTitle:nose diseases	predictedType:Disease
+CANDIDATE	id:563392	inCount:0	outCount:3	links:	url:C563392	name:ADRESD	normalName:adresd	normalWikiTitle:adresd	predictedType:Disease
+ENTITY	text:attention-deficit hyperactivity disorder	normalName:attention-deficit hyperactivity disorder	predictedType:disease	q:true	qid:Q155	docId:1564030	origText:attention-deficit hyperactivity disorder	url:D001289
 CANDIDATE	id:1289	inCount:2	outCount:1	links:	url:D001289	name:Disorder, Attention Deficit-Hyperactivity	normalName:disorder, attention deficit-hyperactivity	normalWikiTitle:disorder, attention deficit-hyperactivity	predictedType:Disease
-ENTITY	text:psychotic	normalName:psychotic	predictedType:disease	q:true	qid:Q62	docId:1564030	origText:psychotic	url:D011618
+ENTITY	text:psychotic	normalName:psychotic	predictedType:disease	q:true	qid:Q155	docId:1564030	origText:psychotic	url:D011618
 CANDIDATE	id:11618	inCount:4	outCount:1	links:	url:D011618	name:Disorder, Psychotic	normalName:disorder, psychotic	normalWikiTitle:disorder, psychotic	predictedType:Disease
 CANDIDATE	id:11618	inCount:4	outCount:1	links:	url:D011618	name:Psychotic Disorders	normalName:psychotic disorders	normalWikiTitle:psychotic disorders	predictedType:Disease
 CANDIDATE	id:536634	inCount:0	outCount:1	links:	url:C536634	name:Schizotaxia	normalName:schizotaxia	normalWikiTitle:schizotaxia	predictedType:Disease
@@ -15,36 +36,13 @@ CANDIDATE	id:58968	inCount:0	outCount:2	links:	url:D058968	name:Pythiosis	normal
 CANDIDATE	id:13585	inCount:5	outCount:1	links:	url:D013585	name:Synovitis	normalName:synovitis	normalWikiTitle:synovitis	predictedType:Disease
 CANDIDATE	id:19449	inCount:0	outCount:1	links:	url:D019449	name:Pouchitis	normalName:pouchitis	normalWikiTitle:pouchitis	predictedType:Disease
 CANDIDATE	id:15651	inCount:2	outCount:1	links:	url:D015651	name:Mycotoxicosis	normalName:mycotoxicosis	normalWikiTitle:mycotoxicosis	predictedType:Disease
-CANDIDATE	id:9896	inCount:24	outCount:1	links:	url:D009896	name:Optic Atrophy	normalName:optic atrophy	normalWikiTitle:optic atrophy	predictedType:Disease
+CANDIDATE	id:9896	inCount:24	outCount:1	links:12871;14786	url:D009896	name:Optic Atrophy	normalName:optic atrophy	normalWikiTitle:optic atrophy	predictedType:Disease
 CANDIDATE	id:11618	inCount:4	outCount:1	links:	url:D011618	name:Psychosis	normalName:psychosis	normalWikiTitle:psychosis	predictedType:Disease
-CANDIDATE	id:11605	inCount:1	outCount:3	links:3866;1714	url:D011605	name:Toxic Psychoses	normalName:toxic psychoses	normalWikiTitle:toxic psychoses	predictedType:Disease
-CANDIDATE	id:11605	inCount:1	outCount:3	links:3866;1714	url:D011605	name:Psychoses, Toxic	normalName:psychoses, toxic	normalWikiTitle:psychoses, toxic	predictedType:Disease
+CANDIDATE	id:11605	inCount:1	outCount:3	links:19964;1714;3866;10291	url:D011605	name:Toxic Psychoses	normalName:toxic psychoses	normalWikiTitle:toxic psychoses	predictedType:Disease
+CANDIDATE	id:11605	inCount:1	outCount:3	links:19964;1714;3866;10291	url:D011605	name:Psychoses, Toxic	normalName:psychoses, toxic	normalWikiTitle:psychoses, toxic	predictedType:Disease
 CANDIDATE	id:11618	inCount:4	outCount:1	links:	url:D011618	name:Psychoses	normalName:psychoses	normalWikiTitle:psychoses	predictedType:Disease
 CANDIDATE	id:11618	inCount:4	outCount:1	links:	url:D011618	name:Psychotic Disorder	normalName:psychotic disorder	normalWikiTitle:psychotic disorder	predictedType:Disease
-ENTITY	text:affective disorder	normalName:affective disorder	predictedType:disease	q:true	qid:Q62	docId:1564030	origText:affective disorder	url:D019964
-CANDIDATE	id:19964	inCount:2	outCount:1	links:	url:D019964	name:Disorder, Affective	normalName:disorder, affective	normalWikiTitle:disorder, affective	predictedType:Disease
-ENTITY	text:depression	normalName:depression	predictedType:disease	q:true	qid:Q62	docId:1564030	origText:depression	url:D003866
-CANDIDATE	id:3866	inCount:6	outCount:1	links:3866;11605;1714	url:D003866	name:Depressive Disorder	normalName:depressive disorder	normalWikiTitle:depressive disorder	predictedType:Disease
-CANDIDATE	id:18450	inCount:2	outCount:1	links:	url:D018450	name:Disease Progression	normalName:disease progression	normalWikiTitle:disease progression	predictedType:Disease
-CANDIDATE	id:19052	inCount:0	outCount:2	links:	url:D019052	name:Depression, Postpartum	normalName:depression, postpartum	normalWikiTitle:depression, postpartum	predictedType:Disease
-CANDIDATE	id:146850	inCount:0	outCount:2	links:	url:146850	name:IMMUNE SUPPRESSION	normalName:immune suppression	normalWikiTitle:immune suppression	predictedType:Disease
-CANDIDATE	id:6973	inCount:18	outCount:1	links:1714	url:D006973	name:Hypertension	normalName:hypertension	normalWikiTitle:hypertension	predictedType:Disease
-CANDIDATE	id:58246	inCount:0	outCount:1	links:	url:D058246	name:Prehypertension	normalName:prehypertension	normalWikiTitle:prehypertension	predictedType:Disease
-CANDIDATE	id:14786	inCount:19	outCount:2	links:	url:D014786	name:Vision Disorders	normalName:vision disorders	normalWikiTitle:vision disorders	predictedType:Disease
-CANDIDATE	id:3665	inCount:0	outCount:1	links:	url:D003665	name:Decompression Sickness	normalName:decompression sickness	normalWikiTitle:decompression sickness	predictedType:Disease
-CANDIDATE	id:12871	inCount:71	outCount:1	links:	url:D012871	name:Skin Diseases	normalName:skin diseases	normalWikiTitle:skin diseases	predictedType:Disease
-CANDIDATE	id:4688	inCount:1	outCount:2	links:4688	url:D004688	name:Encopresis	normalName:encopresis	normalWikiTitle:encopresis	predictedType:Disease
-CANDIDATE	id:1714	inCount:11	outCount:1	links:6973;3866;11605;1714	url:D001714	name:Depression, Bipolar	normalName:depression, bipolar	normalWikiTitle:depression, bipolar	predictedType:Disease
-CANDIDATE	id:1714	inCount:11	outCount:1	links:6973;3866;11605;1714	url:D001714	name:Bipolar Depression	normalName:bipolar depression	normalWikiTitle:bipolar depression	predictedType:Disease
-ENTITY	text:depressed	normalName:depressed	predictedType:disease	q:true	qid:Q62	docId:1564030	origText:depressed	url:D003866
-CANDIDATE	id:3866	inCount:6	outCount:1	links:3866;11605;1714	url:D003866	name:Depressive Disorder	normalName:depressive disorder	normalWikiTitle:depressive disorder	predictedType:Disease
-CANDIDATE	id:4688	inCount:1	outCount:2	links:4688	url:D004688	name:Encopresis	normalName:encopresis	normalWikiTitle:encopresis	predictedType:Disease
-CANDIDATE	id:10291	inCount:3	outCount:1	links:	url:D010291	name:Paresis	normalName:paresis	normalWikiTitle:paresis	predictedType:Disease
-CANDIDATE	id:4775	inCount:2	outCount:2	links:	url:D004775	name:Enuresis	normalName:enuresis	normalWikiTitle:enuresis	predictedType:Disease
-CANDIDATE	id:3638	inCount:110	outCount:1	links:	url:D003638	name:Deafness	normalName:deafness	normalWikiTitle:deafness	predictedType:Disease
-CANDIDATE	id:9401	inCount:8	outCount:1	links:	url:D009401	name:Nephrosis	normalName:nephrosis	normalWikiTitle:nephrosis	predictedType:Disease
-CANDIDATE	id:12806	inCount:1	outCount:1	links:	url:D012806	name:Siderosis	normalName:siderosis	normalWikiTitle:siderosis	predictedType:Disease
-CANDIDATE	id:566019	inCount:0	outCount:1	links:	url:C566019	name:Tune Deafness	normalName:tune deafness	normalWikiTitle:tune deafness	predictedType:Disease
-CANDIDATE	id:6562	inCount:3	outCount:1	links:	url:D006562	name:Herpes Zoster	normalName:herpes zoster	normalWikiTitle:herpes zoster	predictedType:Disease
-CANDIDATE	id:9668	inCount:13	outCount:2	links:	url:D009668	name:Nose Diseases	normalName:nose diseases	normalWikiTitle:nose diseases	predictedType:Disease
-CANDIDATE	id:563392	inCount:0	outCount:3	links:	url:C563392	name:ADRESD	normalName:adresd	normalWikiTitle:adresd	predictedType:Disease
+ENTITY	text:affective disorder	normalName:affective disorder	predictedType:disease	q:true	qid:Q155	docId:1564030	origText:affective disorder	url:D019964
+CANDIDATE	id:19964	inCount:2	outCount:1	links:11605	url:D019964	name:Disorder, Affective	normalName:disorder, affective	normalWikiTitle:disorder, affective	predictedType:Disease
+ENTITY	text:bipolar disorder	normalName:bipolar disorder	predictedType:disease	q:true	qid:Q155	docId:1564030	origText:bipolar disorder	url:D001714
+CANDIDATE	id:1714	inCount:11	outCount:1	links:11605;1714;3866	url:D001714	name:Bipolar Disorder	normalName:bipolar disorder	normalWikiTitle:bipolar disorder	predictedType:Disease

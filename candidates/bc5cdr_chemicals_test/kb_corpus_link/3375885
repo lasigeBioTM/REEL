@@ -1,12 +1,12 @@
-ENTITY	text:indomethacin	normalName:indomethacin	predictedType:chemical	q:true	qid:Q442	docId:3375885	origText:indomethacin	url:D007213
-CANDIDATE	id:7213	inCount:40	outCount:1	links:9288;8528	url:D007213	name:Indomethacin	normalName:indomethacin	normalWikiTitle:indomethacin	predictedType:Chemical
-ENTITY	text:mefenamic acid	normalName:mefenamic acid	predictedType:chemical	q:true	qid:Q442	docId:3375885	origText:mefenamic acid	url:D008528
-CANDIDATE	id:8528	inCount:5	outCount:1	links:7213	url:D008528	name:Mefenamic Acid	normalName:mefenamic acid	normalWikiTitle:mefenamic acid	predictedType:Chemical
-ENTITY	text:fludrocortisone	normalName:fludrocortisone	predictedType:chemical	q:true	qid:Q442	docId:3375885	origText:fludrocortisone	url:D005438
-CANDIDATE	id:5438	inCount:5	outCount:1	links:	url:D005438	name:Fludrocortisone	normalName:fludrocortisone	normalWikiTitle:fludrocortisone	predictedType:Chemical
-ENTITY	text:naproxen	normalName:naproxen	predictedType:chemical	q:true	qid:Q442	docId:3375885	origText:naproxen	url:D009288
+ENTITY	text:indomethacin	normalName:indomethacin	predictedType:chemical	q:true	qid:Q207	docId:3375885	origText:indomethacin	url:D007213
+CANDIDATE	id:7213	inCount:40	outCount:1	links:8528;9288	url:D007213	name:Indomethacin	normalName:indomethacin	normalWikiTitle:indomethacin	predictedType:Chemical
+ENTITY	text:naproxen	normalName:naproxen	predictedType:chemical	q:true	qid:Q207	docId:3375885	origText:naproxen	url:D009288
 CANDIDATE	id:9288	inCount:25	outCount:1	links:7213	url:D009288	name:Naproxen	normalName:naproxen	normalWikiTitle:naproxen	predictedType:Chemical
-ENTITY	text:prostaglandin	normalName:prostaglandin	predictedType:chemical	q:true	qid:Q442	docId:3375885	origText:prostaglandin	url:D011453
+ENTITY	text:fludrocortisone	normalName:fludrocortisone	predictedType:chemical	q:true	qid:Q207	docId:3375885	origText:fludrocortisone	url:D005438
+CANDIDATE	id:5438	inCount:5	outCount:1	links:	url:D005438	name:Fludrocortisone	normalName:fludrocortisone	normalWikiTitle:fludrocortisone	predictedType:Chemical
+ENTITY	text:mefenamic acid	normalName:mefenamic acid	predictedType:chemical	q:true	qid:Q207	docId:3375885	origText:mefenamic acid	url:D008528
+CANDIDATE	id:8528	inCount:5	outCount:1	links:7213	url:D008528	name:Mefenamic Acid	normalName:mefenamic acid	normalWikiTitle:mefenamic acid	predictedType:Chemical
+ENTITY	text:prostaglandin	normalName:prostaglandin	predictedType:chemical	q:true	qid:Q207	docId:3375885	origText:prostaglandin	url:D011453
 CANDIDATE	id:11453	inCount:31	outCount:1	links:	url:D011453	name:Prostaglandins	normalName:prostaglandins	normalWikiTitle:prostaglandins	predictedType:Chemical
 CANDIDATE	id:11454	inCount:15	outCount:1	links:	url:D011454	name:Prostaglandins A	normalName:prostaglandins a	normalWikiTitle:prostaglandins a	predictedType:Chemical
 CANDIDATE	id:11458	inCount:10	outCount:1	links:	url:D011458	name:Prostaglandins E	normalName:prostaglandins e	normalWikiTitle:prostaglandins e	predictedType:Chemical

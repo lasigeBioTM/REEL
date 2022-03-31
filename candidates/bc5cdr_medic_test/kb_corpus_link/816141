@@ -1,4 +1,4 @@
-ENTITY	text:hemolytic anemias	normalName:hemolytic anemias	predictedType:disease	q:true	qid:Q470	docId:816141	origText:hemolytic anemias	url:D000743
+ENTITY	text:hemolytic anemia	normalName:hemolytic anemia	predictedType:disease	q:true	qid:Q132	docId:816141	origText:hemolytic anemia	url:D000743
 CANDIDATE	id:743	inCount:20	outCount:1	links:743	url:D000743	name:Anemia, Hemolytic	normalName:anemia, hemolytic	normalWikiTitle:anemia, hemolytic	predictedType:Disease
-ENTITY	text:hemolytic anemia	normalName:hemolytic anemia	predictedType:disease	q:true	qid:Q470	docId:816141	origText:hemolytic anemia	url:D000743
+ENTITY	text:hemolytic anemias	normalName:hemolytic anemias	predictedType:disease	q:true	qid:Q132	docId:816141	origText:hemolytic anemias	url:D000743
 CANDIDATE	id:743	inCount:20	outCount:1	links:743	url:D000743	name:Anemia, Hemolytic	normalName:anemia, hemolytic	normalWikiTitle:anemia, hemolytic	predictedType:Disease

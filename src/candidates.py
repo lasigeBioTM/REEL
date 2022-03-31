@@ -1,10 +1,9 @@
 import networkx as nx
 
-from chebi import map_to_chebi
-from ctd_chemicals import map_to_ctd_chemicals
-from fuzzywuzzy import fuzz, process
-from medic import map_to_medic
-from strings import candidate_string
+from src.chebi import map_to_chebi
+from src.ctd_chemicals import map_to_ctd_chemicals
+from src.medic import map_to_medic
+from src.strings import candidate_string
 
 
 
@@ -119,7 +118,7 @@ def update_entity_list(entity_list, solution_found, normalized_text, solution_la
 
 
 
-def generate_candidates_for_entity(entity_text, entity_id, ontology_name, name_to_id, synonym_to_id, min_match_score, ontology_graph):
+def generate_candidates_for_entity(entity_text, entity_id, ontology_name, name_to_id, synonym_to_id, min_match_score, ontology_graph, dataset=None):
     """Get the structured candidates list for given entity.
     
     Requires: 
@@ -138,8 +137,8 @@ def generate_candidates_for_entity(entity_text, entity_id, ontology_name, name_t
         solution_found: is bool with value True if the correct disambiguation for entity_text is in the candidates list
     """
 
-    ncandidates, structured_candidates  = list(), list()
-    less_than_min_score = int()
+    structured_candidates  = []
+    less_than_min_score = 0
     
     # First step is to retrieve best ontology candidates names and respective ontology ids
     if ontology_name == "chebi":
@@ -148,11 +147,11 @@ def generate_candidates_for_entity(entity_text, entity_id, ontology_name, name_t
     elif ontology_name == "medic":
         candidate_names = map_to_medic(entity_text, name_to_id, synonym_to_id)
     
-    elif ontology_name == "ctd_chemicals":
+    elif ontology_name == "ctd_chem":
         candidate_names = map_to_ctd_chemicals(entity_text, name_to_id, synonym_to_id)
 
     else:
-        raise Exception("Invalid target ontology, valid inputs: 'chebi', 'medic' or 'ctd_chemicals'")
+        raise Exception("Invalid target ontology, valid inputs: 'chebi', 'medic' or 'ctd_chem'")
     
     # Get properties for each retrieved candidate 
     solution_found, match_nils = -1, 0
@@ -169,7 +168,7 @@ def generate_candidates_for_entity(entity_text, entity_id, ontology_name, name_t
             incount = ontology_graph.in_degree(candidate_match["ontology_id"])
             candidate_id = str()
             
-            if ontology_name == "medic" or ontology_name == "ctd_chemicals":
+            if ontology_name == "medic" or ontology_name == "ctd_chem":
                 candidate_id = candidate_match["ontology_id"]
                 
                 if len(candidate_id)>1:
@@ -186,7 +185,7 @@ def generate_candidates_for_entity(entity_text, entity_id, ontology_name, name_t
                         candidate_id = "0000"
 
             elif ontology_name == "chebi":
-                candidate_id = int(candidate_match["ontology_id"].split(":")[1])
+                candidate_id = int(candidate_match["ontology_id"].split("_")[1])
             
             # The first candidate in candidate_names should be the correct solution
             structured_candidates.append({"url": candidate_match["ontology_id"], "name": candidate_match["name"],
@@ -203,14 +202,13 @@ def generate_candidates_for_entity(entity_text, entity_id, ontology_name, name_t
         else:
             less_than_min_score += 1
 
-    if solution_found > -1:
-        # update entity list to put the correct answer as first and if there are any perfect matches,
-        structured_candidates = update_entity_list(structured_candidates, solution_found, entity_text, solution_label_matches_entity)
+    if dataset!= None:
+        
+        if solution_found > -1:
+            # update entity list to put the correct answer as first and if there are any perfect matches,
+            structured_candidates = update_entity_list(structured_candidates, solution_found, entity_text, solution_label_matches_entity)
+    
+        else:
+            structured_candidates = []
 
-        if structured_candidates:
-            ncandidates.append(len(structured_candidates))
-    
-    else:
-        structured_candidates = []
-    
     return structured_candidates, solution_found == 0

@@ -1,6 +1,6 @@
-ENTITY	text:Hemorrhage	normalName:hemorrhage	predictedType:disease	q:true	qid:Q375	docId:19178808	origText:Hemorrhage	url:D006470
-CANDIDATE	id:6470	inCount:31	outCount:1	links:6470	url:D006470	name:Hemorrhage	normalName:hemorrhage	normalWikiTitle:hemorrhage	predictedType:Disease
-ENTITY	text:hypotension	normalName:hypotension	predictedType:disease	q:true	qid:Q375	docId:19178808	origText:hypotension	url:D007022
-CANDIDATE	id:7022	inCount:3	outCount:1	links:	url:D007022	name:Hypotension	normalName:hypotension	normalWikiTitle:hypotension	predictedType:Disease
-ENTITY	text:bleeding	normalName:bleeding	predictedType:disease	q:true	qid:Q375	docId:19178808	origText:bleeding	url:D006470
+ENTITY	text:bleeding	normalName:bleeding	predictedType:disease	q:true	qid:Q461	docId:19178808	origText:bleeding	url:D006470
 CANDIDATE	id:6470	inCount:31	outCount:1	links:6470	url:D006470	name:Bleeding	normalName:bleeding	normalWikiTitle:bleeding	predictedType:Disease
+ENTITY	text:hypotension	normalName:hypotension	predictedType:disease	q:true	qid:Q461	docId:19178808	origText:hypotension	url:D007022
+CANDIDATE	id:7022	inCount:3	outCount:1	links:	url:D007022	name:Hypotension	normalName:hypotension	normalWikiTitle:hypotension	predictedType:Disease
+ENTITY	text:Hemorrhage	normalName:hemorrhage	predictedType:disease	q:true	qid:Q461	docId:19178808	origText:Hemorrhage	url:D006470
+CANDIDATE	id:6470	inCount:31	outCount:1	links:6470	url:D006470	name:Hemorrhage	normalName:hemorrhage	normalWikiTitle:hemorrhage	predictedType:Disease

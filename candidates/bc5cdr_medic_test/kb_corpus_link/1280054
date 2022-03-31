@@ -1,6 +1,6 @@
-ENTITY	text:myeloencephalopathy	normalName:myeloencephalopathy	predictedType:disease	q:true	qid:Q152	docId:1280054	origText:myeloencephalopathy	url:D001927
-CANDIDATE	id:1927	inCount:55	outCount:1	links:1927;7970	url:D001927	name:Encephalopathy	normalName:encephalopathy	normalWikiTitle:encephalopathy	predictedType:Disease
-CANDIDATE	id:56784	inCount:29	outCount:1	links:	url:D056784	name:Leukoencephalopathies	normalName:leukoencephalopathies	normalWikiTitle:leukoencephalopathies	predictedType:Disease
+ENTITY	text:myeloencephalopathy	normalName:myeloencephalopathy	predictedType:disease	q:true	qid:Q141	docId:1280054	origText:myeloencephalopathy	url:D001927
+CANDIDATE	id:1927	inCount:57	outCount:1	links:1927;7970	url:D001927	name:Encephalopathy	normalName:encephalopathy	normalWikiTitle:encephalopathy	predictedType:Disease
+CANDIDATE	id:56784	inCount:28	outCount:1	links:1927;7970	url:D056784	name:Leukoencephalopathies	normalName:leukoencephalopathies	normalWikiTitle:leukoencephalopathies	predictedType:Disease
 CANDIDATE	id:58627	inCount:27	outCount:2	links:	url:D058627	name:Megalencephaly	normalName:megalencephaly	normalWikiTitle:megalencephaly	predictedType:Disease
 CANDIDATE	id:6501	inCount:2	outCount:2	links:	url:D006501	name:Hepatic Encephalopathy	normalName:hepatic encephalopathy	normalWikiTitle:hepatic encephalopathy	predictedType:Disease
 CANDIDATE	id:14899	inCount:0	outCount:3	links:	url:D014899	name:Wernicke Encephalopathy	normalName:wernicke encephalopathy	normalWikiTitle:wernicke encephalopathy	predictedType:Disease
@@ -10,19 +10,17 @@ CANDIDATE	id:538669	inCount:0	outCount:1	links:	url:C538669	name:Alcohol induced
 CANDIDATE	id:615651	inCount:0	outCount:2	links:	url:615651	name:LEUKOENCEPHALOPATHY WITH ATAXIA	normalName:leukoencephalopathy with ataxia	normalWikiTitle:leukoencephalopathy with ataxia	predictedType:Disease
 CANDIDATE	id:71072	inCount:0	outCount:1	links:	url:D000071072	name:Acute Febrile Encephalopathy	normalName:acute febrile encephalopathy	normalWikiTitle:acute febrile encephalopathy	predictedType:Disease
 CANDIDATE	id:8590	inCount:1	outCount:4	links:	url:D008590	name:Meningoencephalitis	normalName:meningoencephalitis	normalWikiTitle:meningoencephalitis	predictedType:Disease
-CANDIDATE	id:56784	inCount:29	outCount:1	links:	url:D056784	name:Leukoencephalopathy	normalName:leukoencephalopathy	normalWikiTitle:leukoencephalopathy	predictedType:Disease
-CANDIDATE	id:56784	inCount:29	outCount:1	links:	url:D056784	name:Cree Leukoencephalopathy	normalName:cree leukoencephalopathy	normalWikiTitle:cree leukoencephalopathy	predictedType:Disease
+CANDIDATE	id:56784	inCount:28	outCount:1	links:1927;7970	url:D056784	name:Leukoencephalopathy	normalName:leukoencephalopathy	normalWikiTitle:leukoencephalopathy	predictedType:Disease
+CANDIDATE	id:56784	inCount:28	outCount:1	links:1927;7970	url:D056784	name:Cree Leukoencephalopathy	normalName:cree leukoencephalopathy	normalWikiTitle:cree leukoencephalopathy	predictedType:Disease
 CANDIDATE	id:564344	inCount:0	outCount:2	links:	url:C564344	name:Dentoleukoencephalopathy	normalName:dentoleukoencephalopathy	normalWikiTitle:dentoleukoencephalopathy	predictedType:Disease
-CANDIDATE	id:56784	inCount:29	outCount:1	links:	url:D056784	name:Leukoencephalopathy, Cree	normalName:leukoencephalopathy, cree	normalWikiTitle:leukoencephalopathy, cree	predictedType:Disease
+CANDIDATE	id:56784	inCount:28	outCount:1	links:1927;7970	url:D056784	name:Leukoencephalopathy, Cree	normalName:leukoencephalopathy, cree	normalWikiTitle:leukoencephalopathy, cree	predictedType:Disease
 CANDIDATE	id:4679	inCount:3	outCount:2	links:	url:D004679	name:Myeloencephalitis	normalName:myeloencephalitis	normalWikiTitle:myeloencephalitis	predictedType:Disease
 CANDIDATE	id:15526	inCount:0	outCount:2	links:	url:D015526	name:HIV Encephalopathy	normalName:hiv encephalopathy	normalWikiTitle:hiv encephalopathy	predictedType:Disease
 CANDIDATE	id:15526	inCount:0	outCount:2	links:	url:D015526	name:Encephalopathy, HIV	normalName:encephalopathy, hiv	normalWikiTitle:encephalopathy, hiv	predictedType:Disease
-ENTITY	text:encephalopathy	normalName:encephalopathy	predictedType:disease	q:true	qid:Q152	docId:1280054	origText:encephalopathy	url:D001927
-CANDIDATE	id:1927	inCount:55	outCount:1	links:1927;7970	url:D001927	name:Encephalopathy	normalName:encephalopathy	normalWikiTitle:encephalopathy	predictedType:Disease
-ENTITY	text:leukaemia	normalName:leukaemia	predictedType:disease	q:true	qid:Q152	docId:1280054	origText:leukaemia	url:D007938
+ENTITY	text:leukaemia	normalName:leukaemia	predictedType:disease	q:true	qid:Q141	docId:1280054	origText:leukaemia	url:D007938
 CANDIDATE	id:7938	inCount:12	outCount:1	links:	url:D007938	name:Leukemia	normalName:leukemia	normalWikiTitle:leukemia	predictedType:Disease
 CANDIDATE	id:11289	inCount:0	outCount:2	links:	url:D011289	name:Preleukemia	normalName:preleukemia	normalWikiTitle:preleukemia	predictedType:Disease
-CANDIDATE	id:7970	inCount:4	outCount:1	links:1927	url:D007970	name:Leukopenia	normalName:leukopenia	normalWikiTitle:leukopenia	predictedType:Disease
+CANDIDATE	id:7970	inCount:3	outCount:1	links:56784;1927	url:D007970	name:Leukopenia	normalName:leukopenia	normalWikiTitle:leukopenia	predictedType:Disease
 CANDIDATE	id:7941	inCount:0	outCount:1	links:	url:D007941	name:Leukemia P388	normalName:leukemia p388	normalWikiTitle:leukemia p388	predictedType:Disease
 CANDIDATE	id:7940	inCount:0	outCount:1	links:	url:D007940	name:Leukemia L5178	normalName:leukemia l5178	normalWikiTitle:leukemia l5178	predictedType:Disease
 CANDIDATE	id:7939	inCount:0	outCount:1	links:	url:D007939	name:Leukemia L1210	normalName:leukemia l1210	normalWikiTitle:leukemia l1210	predictedType:Disease
@@ -30,3 +28,5 @@ CANDIDATE	id:7971	inCount:1	outCount:2	links:	url:D007971	name:Leukoplakia	norma
 CANDIDATE	id:15448	inCount:2	outCount:1	links:	url:D015448	name:Leukemia, B-Cell	normalName:leukemia, b-cell	normalWikiTitle:leukemia, b-cell	predictedType:Disease
 CANDIDATE	id:6947	inCount:4	outCount:1	links:	url:D006947	name:Hyperkalemia	normalName:hyperkalemia	normalWikiTitle:hyperkalemia	predictedType:Disease
 CANDIDATE	id:16582	inCount:0	outCount:3	links:	url:D016582	name:Leukemia, Feline	normalName:leukemia, feline	normalWikiTitle:leukemia, feline	predictedType:Disease
+ENTITY	text:encephalopathy	normalName:encephalopathy	predictedType:disease	q:true	qid:Q141	docId:1280054	origText:encephalopathy	url:D001927
+CANDIDATE	id:1927	inCount:57	outCount:1	links:1927;7970	url:D001927	name:Encephalopathy	normalName:encephalopathy	normalWikiTitle:encephalopathy	predictedType:Disease

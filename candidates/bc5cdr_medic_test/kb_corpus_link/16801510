@@ -1,6 +1,6 @@
-ENTITY	text:long QT syndrome	normalName:long qt syndrome	predictedType:disease	q:true	qid:Q418	docId:16801510	origText:long QT syndrome	url:D008133
+ENTITY	text:long QT syndrome	normalName:long qt syndrome	predictedType:disease	q:true	qid:Q416	docId:16801510	origText:long QT syndrome	url:D008133
 CANDIDATE	id:8133	inCount:20	outCount:3	links:16171	url:D008133	name:Long QT Syndrome	normalName:long qt syndrome	normalWikiTitle:long qt syndrome	predictedType:Disease
-ENTITY	text:torsades de pointes	normalName:torsades de pointes	predictedType:disease	q:true	qid:Q418	docId:16801510	origText:torsades de pointes	url:D016171
+ENTITY	text:torsades de pointes	normalName:torsades de pointes	predictedType:disease	q:true	qid:Q416	docId:16801510	origText:torsades de pointes	url:D016171
 CANDIDATE	id:16171	inCount:0	outCount:1	links:8133	url:D016171	name:Torsades de Pointes	normalName:torsades de pointes	normalWikiTitle:torsades de pointes	predictedType:Disease
-ENTITY	text:hypokalemia	normalName:hypokalemia	predictedType:disease	q:true	qid:Q418	docId:16801510	origText:hypokalemia	url:D007008
+ENTITY	text:hypokalemia	normalName:hypokalemia	predictedType:disease	q:true	qid:Q416	docId:16801510	origText:hypokalemia	url:D007008
 CANDIDATE	id:7008	inCount:1	outCount:1	links:	url:D007008	name:Hypokalemia	normalName:hypokalemia	normalWikiTitle:hypokalemia	predictedType:Disease

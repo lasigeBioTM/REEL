@@ -1,7 +1,26 @@
-ENTITY	text:memory impairments	normalName:memory impairments	predictedType:disease	q:true	qid:Q346	docId:24595967	origText:memory impairments	url:D008569
-CANDIDATE	id:8569	inCount:2	outCount:1	links:8569;7859	url:D008569	name:Memory Deficit	normalName:memory deficit	normalWikiTitle:memory deficit	predictedType:Disease
-CANDIDATE	id:8569	inCount:2	outCount:1	links:8569;7859	url:D008569	name:Memory Disorders	normalName:memory disorders	normalWikiTitle:memory disorders	predictedType:Disease
-CANDIDATE	id:3161	inCount:3	outCount:2	links:	url:D003161	name:Compartment Syndromes	normalName:compartment syndromes	normalWikiTitle:compartment syndromes	predictedType:Disease
+ENTITY	text:impaired overnight memory	normalName:impaired overnight memory	predictedType:disease	q:true	qid:Q47	docId:24595967	origText:impaired overnight memory	url:D008569
+CANDIDATE	id:8569	inCount:2	outCount:1	links:8569	url:D008569	name:Semantic Memory Disorders	normalName:semantic memory disorders	normalWikiTitle:semantic memory disorders	predictedType:Disease
+CANDIDATE	id:14095	inCount:0	outCount:1	links:	url:D014095	name:Tooth, Impacted	normalName:tooth, impacted	normalWikiTitle:tooth, impacted	predictedType:Disease
+CANDIDATE	id:616059	inCount:0	outCount:1	links:	url:616059	name:MIRROR MOVEMENTS 3	normalName:mirror movements 3	normalWikiTitle:mirror movements 3	predictedType:Disease
+CANDIDATE	id:157600	inCount:0	outCount:1	links:	url:157600	name:MIRROR MOVEMENTS 1	normalName:mirror movements 1	normalWikiTitle:mirror movements 1	predictedType:Disease
+CANDIDATE	id:77962	inCount:0	outCount:1	links:	url:D000077962	name:Body-Weight Trajectory	normalName:body-weight trajectory	normalWikiTitle:body-weight trajectory	predictedType:Disease
+CANDIDATE	id:16916	inCount:0	outCount:1	links:	url:D016916	name:Joint Deformities, Acquired	normalName:joint deformities, acquired	normalWikiTitle:joint deformities, acquired	predictedType:Disease
+CANDIDATE	id:7859	inCount:11	outCount:2	links:8569	url:D007859	name:Learning Disorders	normalName:learning disorders	normalWikiTitle:learning disorders	predictedType:Disease
+CANDIDATE	id:9069	inCount:19	outCount:1	links:8569	url:D009069	name:Movement Disorders	normalName:movement disorders	normalWikiTitle:movement disorders	predictedType:Disease
+CANDIDATE	id:614508	inCount:0	outCount:1	links:	url:614508	name:MIRROR MOVEMENTS 2	normalName:mirror movements 2	normalWikiTitle:mirror movements 2	predictedType:Disease
+CANDIDATE	id:16916	inCount:0	outCount:1	links:	url:D016916	name:Joint Deformity, Acquired	normalName:joint deformity, acquired	normalWikiTitle:joint deformity, acquired	predictedType:Disease
+CANDIDATE	id:8569	inCount:2	outCount:1	links:8569	url:D008569	name:Semantic Memory Disorder	normalName:semantic memory disorder	normalWikiTitle:semantic memory disorder	predictedType:Disease
+CANDIDATE	id:16916	inCount:0	outCount:1	links:	url:D016916	name:Acquired Joint Deformity	normalName:acquired joint deformity	normalWikiTitle:acquired joint deformity	predictedType:Disease
+CANDIDATE	id:8569	inCount:2	outCount:1	links:8569	url:D008569	name:Memory Disorder, Semantic	normalName:memory disorder, semantic	normalWikiTitle:memory disorder, semantic	predictedType:Disease
+CANDIDATE	id:16916	inCount:0	outCount:1	links:	url:D016916	name:Deformity, Acquired Joint	normalName:deformity, acquired joint	normalWikiTitle:deformity, acquired joint	predictedType:Disease
+CANDIDATE	id:8569	inCount:2	outCount:1	links:8569	url:D008569	name:Memory Disorders, Semantic	normalName:memory disorders, semantic	normalWikiTitle:memory disorders, semantic	predictedType:Disease
+CANDIDATE	id:6987	inCount:1	outCount:1	links:	url:D006987	name:Impaired Sensation	normalName:impaired sensation	normalWikiTitle:impaired sensation	predictedType:Disease
+CANDIDATE	id:6987	inCount:1	outCount:1	links:	url:D006987	name:Sensation, Impaired	normalName:sensation, impaired	normalWikiTitle:sensation, impaired	predictedType:Disease
+CANDIDATE	id:8575	inCount:0	outCount:1	links:	url:D008575	name:Ménière's Vertigo	normalName:ménière's vertigo	normalWikiTitle:ménière's vertigo	predictedType:Disease
+ENTITY	text:memory impairments	normalName:memory impairments	predictedType:disease	q:true	qid:Q47	docId:24595967	origText:memory impairments	url:D008569
+CANDIDATE	id:8569	inCount:2	outCount:1	links:8569	url:D008569	name:Memory Deficit	normalName:memory deficit	normalWikiTitle:memory deficit	predictedType:Disease
+CANDIDATE	id:8569	inCount:2	outCount:1	links:8569	url:D008569	name:Memory Disorders	normalName:memory disorders	normalWikiTitle:memory disorders	predictedType:Disease
+CANDIDATE	id:3161	inCount:4	outCount:2	links:	url:D003161	name:Compartment Syndromes	normalName:compartment syndromes	normalWikiTitle:compartment syndromes	predictedType:Disease
 CANDIDATE	id:18198	inCount:0	outCount:1	links:	url:D018198	name:Mixed Tumor, Malignant	normalName:mixed tumor, malignant	normalWikiTitle:mixed tumor, malignant	predictedType:Disease
 CANDIDATE	id:19773	inCount:0	outCount:1	links:	url:D019773	name:Epiretinal Membrane	normalName:epiretinal membrane	normalWikiTitle:epiretinal membrane	predictedType:Disease
 CANDIDATE	id:57873	inCount:0	outCount:1	links:	url:D057873	name:Peri-Implantitis	normalName:peri-implantitis	normalWikiTitle:peri-implantitis	predictedType:Disease
@@ -19,22 +38,3 @@ CANDIDATE	id:1184	inCount:1	outCount:1	links:	url:D001184	name:Phonology Impairm
 CANDIDATE	id:1184	inCount:1	outCount:1	links:	url:D001184	name:Impairments, Phonology	normalName:impairments, phonology	normalWikiTitle:impairments, phonology	predictedType:Disease
 CANDIDATE	id:1184	inCount:1	outCount:1	links:	url:D001184	name:Phonology Impairments	normalName:phonology impairments	normalWikiTitle:phonology impairments	predictedType:Disease
 CANDIDATE	id:14786	inCount:19	outCount:2	links:	url:D014786	name:Visual Impairment	normalName:visual impairment	normalWikiTitle:visual impairment	predictedType:Disease
-ENTITY	text:impaired overnight memory	normalName:impaired overnight memory	predictedType:disease	q:true	qid:Q346	docId:24595967	origText:impaired overnight memory	url:D008569
-CANDIDATE	id:8569	inCount:2	outCount:1	links:8569;7859	url:D008569	name:Semantic Memory Disorders	normalName:semantic memory disorders	normalWikiTitle:semantic memory disorders	predictedType:Disease
-CANDIDATE	id:14095	inCount:0	outCount:1	links:	url:D014095	name:Tooth, Impacted	normalName:tooth, impacted	normalWikiTitle:tooth, impacted	predictedType:Disease
-CANDIDATE	id:616059	inCount:0	outCount:1	links:	url:616059	name:MIRROR MOVEMENTS 3	normalName:mirror movements 3	normalWikiTitle:mirror movements 3	predictedType:Disease
-CANDIDATE	id:157600	inCount:0	outCount:1	links:	url:157600	name:MIRROR MOVEMENTS 1	normalName:mirror movements 1	normalWikiTitle:mirror movements 1	predictedType:Disease
-CANDIDATE	id:77962	inCount:0	outCount:1	links:	url:D000077962	name:Body-Weight Trajectory	normalName:body-weight trajectory	normalWikiTitle:body-weight trajectory	predictedType:Disease
-CANDIDATE	id:16916	inCount:0	outCount:1	links:	url:D016916	name:Joint Deformities, Acquired	normalName:joint deformities, acquired	normalWikiTitle:joint deformities, acquired	predictedType:Disease
-CANDIDATE	id:7859	inCount:10	outCount:2	links:8569	url:D007859	name:Learning Disorders	normalName:learning disorders	normalWikiTitle:learning disorders	predictedType:Disease
-CANDIDATE	id:9069	inCount:19	outCount:1	links:	url:D009069	name:Movement Disorders	normalName:movement disorders	normalWikiTitle:movement disorders	predictedType:Disease
-CANDIDATE	id:614508	inCount:0	outCount:1	links:	url:614508	name:MIRROR MOVEMENTS 2	normalName:mirror movements 2	normalWikiTitle:mirror movements 2	predictedType:Disease
-CANDIDATE	id:16916	inCount:0	outCount:1	links:	url:D016916	name:Joint Deformity, Acquired	normalName:joint deformity, acquired	normalWikiTitle:joint deformity, acquired	predictedType:Disease
-CANDIDATE	id:8569	inCount:2	outCount:1	links:8569;7859	url:D008569	name:Semantic Memory Disorder	normalName:semantic memory disorder	normalWikiTitle:semantic memory disorder	predictedType:Disease
-CANDIDATE	id:16916	inCount:0	outCount:1	links:	url:D016916	name:Acquired Joint Deformity	normalName:acquired joint deformity	normalWikiTitle:acquired joint deformity	predictedType:Disease
-CANDIDATE	id:8569	inCount:2	outCount:1	links:8569;7859	url:D008569	name:Memory Disorder, Semantic	normalName:memory disorder, semantic	normalWikiTitle:memory disorder, semantic	predictedType:Disease
-CANDIDATE	id:16916	inCount:0	outCount:1	links:	url:D016916	name:Deformity, Acquired Joint	normalName:deformity, acquired joint	normalWikiTitle:deformity, acquired joint	predictedType:Disease
-CANDIDATE	id:8569	inCount:2	outCount:1	links:8569;7859	url:D008569	name:Memory Disorders, Semantic	normalName:memory disorders, semantic	normalWikiTitle:memory disorders, semantic	predictedType:Disease
-CANDIDATE	id:6987	inCount:1	outCount:1	links:	url:D006987	name:Impaired Sensation	normalName:impaired sensation	normalWikiTitle:impaired sensation	predictedType:Disease
-CANDIDATE	id:6987	inCount:1	outCount:1	links:	url:D006987	name:Sensation, Impaired	normalName:sensation, impaired	normalWikiTitle:sensation, impaired	predictedType:Disease
-CANDIDATE	id:8575	inCount:0	outCount:1	links:	url:D008575	name:Ménière's Vertigo	normalName:ménière's vertigo	normalWikiTitle:ménière's vertigo	predictedType:Disease

@@ -1,6 +1,6 @@
-ENTITY	text:fasciculations	normalName:fasciculations	predictedType:disease	q:true	qid:Q282	docId:7176945	origText:fasciculations	url:D005207
+ENTITY	text:pains	normalName:pains	predictedType:disease	q:true	qid:Q258	docId:7176945	origText:pains	url:D010146
+CANDIDATE	id:10146	inCount:34	outCount:1	links:5207;10146	url:D010146	name:Pain	normalName:pain	normalWikiTitle:pain	predictedType:Disease
+ENTITY	text:pain	normalName:pain	predictedType:disease	q:true	qid:Q258	docId:7176945	origText:pain	url:D010146
+CANDIDATE	id:10146	inCount:34	outCount:1	links:5207;10146	url:D010146	name:Pain	normalName:pain	normalWikiTitle:pain	predictedType:Disease
+ENTITY	text:fasciculations	normalName:fasciculations	predictedType:disease	q:true	qid:Q258	docId:7176945	origText:fasciculations	url:D005207
 CANDIDATE	id:5207	inCount:1	outCount:1	links:10146	url:D005207	name:Fasciculation	normalName:fasciculation	normalWikiTitle:fasciculation	predictedType:Disease
-ENTITY	text:pains	normalName:pains	predictedType:disease	q:true	qid:Q282	docId:7176945	origText:pains	url:D010146
-CANDIDATE	id:10146	inCount:34	outCount:1	links:10146;5207	url:D010146	name:Pain	normalName:pain	normalWikiTitle:pain	predictedType:Disease
-ENTITY	text:pain	normalName:pain	predictedType:disease	q:true	qid:Q282	docId:7176945	origText:pain	url:D010146
-CANDIDATE	id:10146	inCount:34	outCount:1	links:10146;5207	url:D010146	name:Pain	normalName:pain	normalWikiTitle:pain	predictedType:Disease

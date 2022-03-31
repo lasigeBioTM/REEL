@@ -1,6 +1,4 @@
-ENTITY	text:chest pain	normalName:chest pain	predictedType:disease	q:true	qid:Q204	docId:6695685	origText:chest pain	url:D002637
-CANDIDATE	id:2637	inCount:1	outCount:1	links:	url:D002637	name:Chest Pain	normalName:chest pain	normalWikiTitle:chest pain	predictedType:Disease
-ENTITY	text:supraventricular tachyarrhythmias	normalName:supraventricular tachyarrhythmias	predictedType:disease	q:true	qid:Q204	docId:6695685	origText:supraventricular tachyarrhythmias	url:D013617
+ENTITY	text:supraventricular tachyarrhythmias	normalName:supraventricular tachyarrhythmias	predictedType:disease	q:true	qid:Q248	docId:6695685	origText:supraventricular tachyarrhythmias	url:D013617
 CANDIDATE	id:13617	inCount:3	outCount:1	links:	url:D013617	name:Tachycardia, Supraventricular	normalName:tachycardia, supraventricular	normalWikiTitle:tachycardia, supraventricular	predictedType:Disease
 CANDIDATE	id:16170	inCount:0	outCount:1	links:	url:D016170	name:Accelerated Idioventricular Rhythm	normalName:accelerated idioventricular rhythm	normalWikiTitle:accelerated idioventricular rhythm	predictedType:Disease
 CANDIDATE	id:536112	inCount:0	outCount:1	links:	url:C536112	name:Partial atrioventricular canal	normalName:partial atrioventricular canal	normalWikiTitle:partial atrioventricular canal	predictedType:Disease
@@ -11,3 +9,5 @@ CANDIDATE	id:536977	inCount:0	outCount:2	links:	url:C536977	name:Tracheobronchop
 CANDIDATE	id:13612	inCount:0	outCount:1	links:	url:D013612	name:Tachycardia, Ectopic Atrial	normalName:tachycardia, ectopic atrial	normalWikiTitle:tachycardia, ectopic atrial	predictedType:Disease
 CANDIDATE	id:562481	inCount:0	outCount:1	links:	url:C562481	name:Urticaria, Aquagenic	normalName:urticaria, aquagenic	normalWikiTitle:urticaria, aquagenic	predictedType:Disease
 CANDIDATE	id:562461	inCount:0	outCount:2	links:	url:C562461	name:Annular Erythema	normalName:annular erythema	normalWikiTitle:annular erythema	predictedType:Disease
+ENTITY	text:chest pain	normalName:chest pain	predictedType:disease	q:true	qid:Q248	docId:6695685	origText:chest pain	url:D002637
+CANDIDATE	id:2637	inCount:1	outCount:1	links:	url:D002637	name:Chest Pain	normalName:chest pain	normalWikiTitle:chest pain	predictedType:Disease

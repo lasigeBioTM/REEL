@@ -1,9 +1,7 @@
-ENTITY	text:arthralgia	normalName:arthralgia	predictedType:disease	q:true	qid:Q159	docId:7644931	origText:arthralgia	url:D018771
-CANDIDATE	id:18771	inCount:1	outCount:2	links:	url:D018771	name:Arthralgia	normalName:arthralgia	normalWikiTitle:arthralgia	predictedType:Disease
-ENTITY	text:non-small cell lung cancer	normalName:non-small cell lung cancer	predictedType:disease	q:true	qid:Q159	docId:7644931	origText:non-small cell lung cancer	url:D002289
+ENTITY	text:non-small cell lung cancer	normalName:non-small cell lung cancer	predictedType:disease	q:true	qid:Q267	docId:7644931	origText:non-small cell lung cancer	url:D002289
 CANDIDATE	id:2289	inCount:1	outCount:1	links:	url:D002289	name:Non-Small Cell Lung Cancer	normalName:non-small cell lung cancer	normalWikiTitle:non-small cell lung cancer	predictedType:Disease
-ENTITY	text:toxicities	normalName:toxicities	predictedType:disease	q:true	qid:Q159	docId:7644931	origText:toxicities	url:D064420
-CANDIDATE	id:64420	inCount:10	outCount:1	links:	url:D064420	name:Toxicities, Drug	normalName:toxicities, drug	normalWikiTitle:toxicities, drug	predictedType:Disease
+ENTITY	text:toxicities	normalName:toxicities	predictedType:disease	q:true	qid:Q267	docId:7644931	origText:toxicities	url:D064420
+CANDIDATE	id:64420	inCount:14	outCount:1	links:	url:D064420	name:Toxicities, Drug	normalName:toxicities, drug	normalWikiTitle:toxicities, drug	predictedType:Disease
 CANDIDATE	id:15299	inCount:0	outCount:1	links:	url:D015299	name:Discitis	normalName:discitis	normalWikiTitle:discitis	predictedType:Disease
 CANDIDATE	id:9920	inCount:0	outCount:1	links:	url:D009920	name:Orchitis	normalName:orchitis	normalWikiTitle:orchitis	predictedType:Disease
 CANDIDATE	id:14069	inCount:1	outCount:1	links:	url:D014069	name:Tonsillitis	normalName:tonsillitis	normalWikiTitle:tonsillitis	predictedType:Disease
@@ -14,12 +12,13 @@ CANDIDATE	id:14120	inCount:2	outCount:2	links:	url:D014120	name:Toxocariasis	nor
 CANDIDATE	id:12173	inCount:3	outCount:1	links:	url:D012173	name:Retinitis	normalName:retinitis	normalWikiTitle:retinitis	predictedType:Disease
 CANDIDATE	id:19449	inCount:0	outCount:1	links:	url:D019449	name:Pouchitis	normalName:pouchitis	normalWikiTitle:pouchitis	predictedType:Disease
 CANDIDATE	id:11349	inCount:1	outCount:2	links:	url:D011349	name:Proctitis	normalName:proctitis	normalWikiTitle:proctitis	predictedType:Disease
-CANDIDATE	id:64420	inCount:10	outCount:1	links:	url:D064420	name:Drug Toxicities	normalName:drug toxicities	normalWikiTitle:drug toxicities	predictedType:Disease
-CANDIDATE	id:66126	inCount:0	outCount:3	links:	url:D066126	name:Cardiotoxicities	normalName:cardiotoxicities	normalWikiTitle:cardiotoxicities	predictedType:Disease
-CANDIDATE	id:66126	inCount:0	outCount:3	links:	url:D066126	name:Toxicities, Cardiac	normalName:toxicities, cardiac	normalWikiTitle:toxicities, cardiac	predictedType:Disease
-CANDIDATE	id:66126	inCount:0	outCount:3	links:	url:D066126	name:Cardiac Toxicities	normalName:cardiac toxicities	normalWikiTitle:cardiac toxicities	predictedType:Disease
+CANDIDATE	id:64420	inCount:14	outCount:1	links:	url:D064420	name:Drug Toxicities	normalName:drug toxicities	normalWikiTitle:drug toxicities	predictedType:Disease
+CANDIDATE	id:66126	inCount:0	outCount:4	links:	url:D066126	name:Cardiotoxicities	normalName:cardiotoxicities	normalWikiTitle:cardiotoxicities	predictedType:Disease
+CANDIDATE	id:66126	inCount:0	outCount:4	links:	url:D066126	name:Cardiac Toxicities	normalName:cardiac toxicities	normalWikiTitle:cardiac toxicities	predictedType:Disease
 CANDIDATE	id:14069	inCount:1	outCount:1	links:	url:D014069	name:Tonsillitides	normalName:tonsillitides	normalWikiTitle:tonsillitides	predictedType:Disease
 CANDIDATE	id:8417	inCount:0	outCount:2	links:	url:D008417	name:Mastoiditides	normalName:mastoiditides	normalWikiTitle:mastoiditides	predictedType:Disease
 CANDIDATE	id:15299	inCount:0	outCount:1	links:	url:D015299	name:Discitides	normalName:discitides	normalWikiTitle:discitides	predictedType:Disease
 CANDIDATE	id:9920	inCount:0	outCount:1	links:	url:D009920	name:Orchitides	normalName:orchitides	normalWikiTitle:orchitides	predictedType:Disease
 CANDIDATE	id:13966	inCount:4	outCount:1	links:	url:D013966	name:Thyroiditides	normalName:thyroiditides	normalWikiTitle:thyroiditides	predictedType:Disease
+ENTITY	text:arthralgia	normalName:arthralgia	predictedType:disease	q:true	qid:Q267	docId:7644931	origText:arthralgia	url:D018771
+CANDIDATE	id:18771	inCount:1	outCount:2	links:	url:D018771	name:Arthralgia	normalName:arthralgia	normalWikiTitle:arthralgia	predictedType:Disease

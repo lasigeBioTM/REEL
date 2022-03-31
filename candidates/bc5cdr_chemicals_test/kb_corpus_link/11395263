@@ -1,4 +1,4 @@
-ENTITY	text:ethanol	normalName:ethanol	predictedType:chemical	q:true	qid:Q371	docId:11395263	origText:ethanol	url:D000431
-CANDIDATE	id:431	inCount:62	outCount:1	links:	url:D000431	name:Ethanol	normalName:ethanol	normalWikiTitle:ethanol	predictedType:Chemical
-ENTITY	text:isoproterenol	normalName:isoproterenol	predictedType:chemical	q:true	qid:Q371	docId:11395263	origText:isoproterenol	url:D007545
-CANDIDATE	id:7545	inCount:12	outCount:2	links:	url:D007545	name:Isoproterenol	normalName:isoproterenol	normalWikiTitle:isoproterenol	predictedType:Chemical
+ENTITY	text:isoproterenol	normalName:isoproterenol	predictedType:chemical	q:true	qid:Q348	docId:11395263	origText:isoproterenol	url:D007545
+CANDIDATE	id:7545	inCount:12	outCount:2	links:431	url:D007545	name:Isoproterenol	normalName:isoproterenol	normalWikiTitle:isoproterenol	predictedType:Chemical
+ENTITY	text:ethanol	normalName:ethanol	predictedType:chemical	q:true	qid:Q348	docId:11395263	origText:ethanol	url:D000431
+CANDIDATE	id:431	inCount:64	outCount:1	links:7545	url:D000431	name:Ethanol	normalName:ethanol	normalWikiTitle:ethanol	predictedType:Chemical

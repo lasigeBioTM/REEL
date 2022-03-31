@@ -1,11 +1,13 @@
-ENTITY	text:hyperlipidemia	normalName:hyperlipidemia	predictedType:disease	q:true	qid:Q471	docId:1615846	origText:hyperlipidemia	url:D006949
+ENTITY	text:hyperlipoproteinemias	normalName:hyperlipoproteinemias	predictedType:disease	q:true	qid:Q156	docId:1615846	origText:hyperlipoproteinemias	url:D006951
+CANDIDATE	id:6951	inCount:12	outCount:1	links:	url:D006951	name:Hyperlipoproteinemia	normalName:hyperlipoproteinemia	normalWikiTitle:hyperlipoproteinemia	predictedType:Disease
+ENTITY	text:hyperlipidemia	normalName:hyperlipidemia	predictedType:disease	q:true	qid:Q156	docId:1615846	origText:hyperlipidemia	url:D006949
 CANDIDATE	id:6949	inCount:5	outCount:1	links:	url:D006949	name:Hyperlipidemia	normalName:hyperlipidemia	normalWikiTitle:hyperlipidemia	predictedType:Disease
-ENTITY	text:atherosclerotic vascular disease	normalName:atherosclerotic vascular disease	predictedType:disease	q:true	qid:Q471	docId:1615846	origText:atherosclerotic vascular disease	url:D002340
+ENTITY	text:atherosclerotic vascular disease	normalName:atherosclerotic vascular disease	predictedType:disease	q:true	qid:Q156	docId:1615846	origText:atherosclerotic vascular disease	url:D002340
 CANDIDATE	id:2340	inCount:5	outCount:1	links:	url:D002340	name:Carotid Atherosclerotic Disease	normalName:carotid atherosclerotic disease	normalWikiTitle:carotid atherosclerotic disease	predictedType:Disease
 CANDIDATE	id:614823	inCount:0	outCount:1	links:	url:614823	name:AORTIC VALVE DISEASE 2	normalName:aortic valve disease 2	normalWikiTitle:aortic valve disease 2	predictedType:Disease
-CANDIDATE	id:563178	inCount:1	outCount:2	links:	url:C563178	name:Aortic Valve Disease 1	normalName:aortic valve disease 1	normalWikiTitle:aortic valve disease 1	predictedType:Disease
+CANDIDATE	id:82882	inCount:2	outCount:2	links:	url:D000082882	name:Aortic Valve Disease 1	normalName:aortic valve disease 1	normalWikiTitle:aortic valve disease 1	predictedType:Disease
 CANDIDATE	id:58226	inCount:0	outCount:1	links:	url:D058226	name:Plaque, Atherosclerotic	normalName:plaque, atherosclerotic	normalWikiTitle:plaque, atherosclerotic	predictedType:Disease
-CANDIDATE	id:109730	inCount:0	outCount:3	links:	url:109730	name:AORTIC VALVE DISEASE 1	normalName:aortic valve disease 1	normalWikiTitle:aortic valve disease 1	predictedType:Disease
+CANDIDATE	id:109730	inCount:0	outCount:2	links:	url:109730	name:AORTIC VALVE DISEASE 1	normalName:aortic valve disease 1	normalWikiTitle:aortic valve disease 1	predictedType:Disease
 CANDIDATE	id:14652	inCount:52	outCount:1	links:	url:D014652	name:Vascular Diseases	normalName:vascular diseases	normalWikiTitle:vascular diseases	predictedType:Disease
 CANDIDATE	id:2340	inCount:5	outCount:1	links:	url:D002340	name:Carotid Artery Diseases	normalName:carotid artery diseases	normalWikiTitle:carotid artery diseases	predictedType:Disease
 CANDIDATE	id:1018	inCount:6	outCount:1	links:	url:D001018	name:Aortic Diseases	normalName:aortic diseases	normalWikiTitle:aortic diseases	predictedType:Disease
@@ -19,13 +21,11 @@ CANDIDATE	id:3925	inCount:9	outCount:2	links:	url:D003925	name:Vascular Diseases
 CANDIDATE	id:2340	inCount:5	outCount:1	links:	url:D002340	name:Atherosclerotic Diseases, Carotid	normalName:atherosclerotic diseases, carotid	normalWikiTitle:atherosclerotic diseases, carotid	predictedType:Disease
 CANDIDATE	id:2340	inCount:5	outCount:1	links:	url:D002340	name:Carotid Atherosclerotic Diseases	normalName:carotid atherosclerotic diseases	normalWikiTitle:carotid atherosclerotic diseases	predictedType:Disease
 CANDIDATE	id:2340	inCount:5	outCount:1	links:	url:D002340	name:Atherosclerotic Disease, Carotid	normalName:atherosclerotic disease, carotid	normalWikiTitle:atherosclerotic disease, carotid	predictedType:Disease
-CANDIDATE	id:109730	inCount:0	outCount:3	links:	url:109730	name:AORTIC VALVE DISEASE	normalName:aortic valve disease	normalWikiTitle:aortic valve disease	predictedType:Disease
+CANDIDATE	id:109730	inCount:0	outCount:2	links:	url:109730	name:AORTIC VALVE DISEASE	normalName:aortic valve disease	normalWikiTitle:aortic valve disease	predictedType:Disease
 CANDIDATE	id:15140	inCount:2	outCount:4	links:	url:D015140	name:Dementias, Arteriosclerotic	normalName:dementias, arteriosclerotic	normalWikiTitle:dementias, arteriosclerotic	predictedType:Disease
-ENTITY	text:myoglobinuria	normalName:myoglobinuria	predictedType:disease	q:true	qid:Q471	docId:1615846	origText:myoglobinuria	url:D009212
-CANDIDATE	id:9212	inCount:3	outCount:1	links:	url:D009212	name:Myoglobinuria	normalName:myoglobinuria	normalWikiTitle:myoglobinuria	predictedType:Disease
-ENTITY	text:Myositis	normalName:myositis	predictedType:disease	q:true	qid:Q471	docId:1615846	origText:Myositis	url:D009220
-CANDIDATE	id:9220	inCount:8	outCount:1	links:	url:D009220	name:Myositis	normalName:myositis	normalWikiTitle:myositis	predictedType:Disease
-ENTITY	text:hyperlipoproteinemias	normalName:hyperlipoproteinemias	predictedType:disease	q:true	qid:Q471	docId:1615846	origText:hyperlipoproteinemias	url:D006951
-CANDIDATE	id:6951	inCount:12	outCount:1	links:	url:D006951	name:Hyperlipoproteinemia	normalName:hyperlipoproteinemia	normalWikiTitle:hyperlipoproteinemia	predictedType:Disease
-ENTITY	text:rhabdomyolysis	normalName:rhabdomyolysis	predictedType:disease	q:true	qid:Q471	docId:1615846	origText:rhabdomyolysis	url:D012206
+ENTITY	text:Myositis	normalName:myositis	predictedType:disease	q:true	qid:Q156	docId:1615846	origText:Myositis	url:D009220
+CANDIDATE	id:9220	inCount:8	outCount:1	links:9212	url:D009220	name:Myositis	normalName:myositis	normalWikiTitle:myositis	predictedType:Disease
+ENTITY	text:rhabdomyolysis	normalName:rhabdomyolysis	predictedType:disease	q:true	qid:Q156	docId:1615846	origText:rhabdomyolysis	url:D012206
 CANDIDATE	id:12206	inCount:3	outCount:1	links:	url:D012206	name:Rhabdomyolysis	normalName:rhabdomyolysis	normalWikiTitle:rhabdomyolysis	predictedType:Disease
+ENTITY	text:myoglobinuria	normalName:myoglobinuria	predictedType:disease	q:true	qid:Q156	docId:1615846	origText:myoglobinuria	url:D009212
+CANDIDATE	id:9212	inCount:3	outCount:1	links:9220	url:D009212	name:Myoglobinuria	normalName:myoglobinuria	normalWikiTitle:myoglobinuria	predictedType:Disease

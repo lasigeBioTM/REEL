@@ -1,7 +1,5 @@
-ENTITY	text:schizophrenia	normalName:schizophrenia	predictedType:disease	q:true	qid:Q132	docId:16867246	origText:schizophrenia	url:D012559
-CANDIDATE	id:12559	inCount:4	outCount:1	links:	url:D012559	name:Schizophrenia	normalName:schizophrenia	normalWikiTitle:schizophrenia	predictedType:Disease
-ENTITY	text:schizophrenic	normalName:schizophrenic	predictedType:disease	q:true	qid:Q132	docId:16867246	origText:schizophrenic	url:D012559
-CANDIDATE	id:12559	inCount:4	outCount:1	links:	url:D012559	name:Schizophrenia	normalName:schizophrenia	normalWikiTitle:schizophrenia	predictedType:Disease
+ENTITY	text:schizophrenic	normalName:schizophrenic	predictedType:disease	q:true	qid:Q418	docId:16867246	origText:schizophrenic	url:D012559
+CANDIDATE	id:12559	inCount:5	outCount:1	links:	url:D012559	name:Schizophrenia	normalName:schizophrenia	normalWikiTitle:schizophrenia	predictedType:Disease
 CANDIDATE	id:12563	inCount:0	outCount:1	links:	url:D012563	name:Schizophrenia, Paranoid	normalName:schizophrenia, paranoid	normalWikiTitle:schizophrenia, paranoid	predictedType:Disease
 CANDIDATE	id:12561	inCount:0	outCount:1	links:	url:D012561	name:Schizophrenia, Childhood	normalName:schizophrenia, childhood	normalWikiTitle:schizophrenia, childhood	predictedType:Disease
 CANDIDATE	id:12560	inCount:0	outCount:1	links:	url:D012560	name:Schizophrenia, Catatonic	normalName:schizophrenia, catatonic	normalWikiTitle:schizophrenia, catatonic	predictedType:Disease
@@ -11,3 +9,5 @@ CANDIDATE	id:65707	inCount:0	outCount:1	links:	url:D065707	name:Schizencephaly	n
 CANDIDATE	id:13369	inCount:0	outCount:2	links:	url:D013369	name:Subphrenic Abscess	normalName:subphrenic abscess	normalWikiTitle:subphrenic abscess	predictedType:Disease
 CANDIDATE	id:536634	inCount:0	outCount:1	links:	url:C536634	name:Schizotaxia	normalName:schizotaxia	normalWikiTitle:schizotaxia	predictedType:Disease
 CANDIDATE	id:2825	inCount:1	outCount:2	links:	url:D002825	name:Chorioretinitis	normalName:chorioretinitis	normalWikiTitle:chorioretinitis	predictedType:Disease
+ENTITY	text:schizophrenia	normalName:schizophrenia	predictedType:disease	q:true	qid:Q418	docId:16867246	origText:schizophrenia	url:D012559
+CANDIDATE	id:12559	inCount:5	outCount:1	links:	url:D012559	name:Schizophrenia	normalName:schizophrenia	normalWikiTitle:schizophrenia	predictedType:Disease

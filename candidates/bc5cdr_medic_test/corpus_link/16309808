@@ -1,6 +1,6 @@
-ENTITY	text:restless legs syndrome	normalName:restless legs syndrome	predictedType:disease	q:true	qid:Q417	docId:16309808	origText:restless legs syndrome	url:D012148
+ENTITY	text:restless legs syndrome	normalName:restless legs syndrome	predictedType:disease	q:true	qid:Q410	docId:16309808	origText:restless legs syndrome	url:D012148
 CANDIDATE	id:12148	inCount:3	outCount:3	links:	url:D012148	name:Restless Legs Syndrome	normalName:restless legs syndrome	normalWikiTitle:restless legs syndrome	predictedType:Disease
-ENTITY	text:RLS	normalName:rls	predictedType:disease	q:true	qid:Q417	docId:16309808	origText:RLS	url:D012148
+ENTITY	text:RLS	normalName:rls	predictedType:disease	q:true	qid:Q410	docId:16309808	origText:RLS	url:D012148
 CANDIDATE	id:12148	inCount:3	outCount:3	links:	url:D012148	name:RLS7	normalName:rls7	normalWikiTitle:rls7	predictedType:Disease
 CANDIDATE	id:11391	inCount:1	outCount:1	links:	url:D011391	name:Prolapse	normalName:prolapse	normalWikiTitle:prolapse	predictedType:Disease
 CANDIDATE	id:14770	inCount:2	outCount:1	links:	url:D014770	name:Virilism	normalName:virilism	normalWikiTitle:virilism	predictedType:Disease

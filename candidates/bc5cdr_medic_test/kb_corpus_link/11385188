@@ -1,9 +1,7 @@
-ENTITY	text:heart disease	normalName:heart disease	predictedType:disease	q:true	qid:Q30	docId:11385188	origText:heart disease	url:D006331
-CANDIDATE	id:6331	inCount:29	outCount:1	links:3324;18487	url:D006331	name:Disease, Heart	normalName:disease, heart	normalWikiTitle:disease, heart	predictedType:Disease
-ENTITY	text:coronary artery disease	normalName:coronary artery disease	predictedType:disease	q:true	qid:Q30	docId:11385188	origText:coronary artery disease	url:D003324
-CANDIDATE	id:3324	inCount:4	outCount:2	links:18487;6331	url:D003324	name:Coronary Artery Disease	normalName:coronary artery disease	normalWikiTitle:coronary artery disease	predictedType:Disease
-ENTITY	text:abnormal left ventricular filling	normalName:abnormal left ventricular filling	predictedType:disease	q:true	qid:Q30	docId:11385188	origText:abnormal left ventricular filling	url:D018487
-CANDIDATE	id:18487	inCount:1	outCount:1	links:3324;6331	url:D018487	name:Ventricular Dysfunction, Left	normalName:ventricular dysfunction, left	normalWikiTitle:ventricular dysfunction, left	predictedType:Disease
+ENTITY	text:coronary artery disease	normalName:coronary artery disease	predictedType:disease	q:true	qid:Q347	docId:11385188	origText:coronary artery disease	url:D003324
+CANDIDATE	id:3324	inCount:4	outCount:2	links:18487	url:D003324	name:Coronary Artery Disease	normalName:coronary artery disease	normalWikiTitle:coronary artery disease	predictedType:Disease
+ENTITY	text:abnormal left ventricular filling	normalName:abnormal left ventricular filling	predictedType:disease	q:true	qid:Q347	docId:11385188	origText:abnormal left ventricular filling	url:D018487
+CANDIDATE	id:18487	inCount:1	outCount:1	links:3324	url:D018487	name:Ventricular Dysfunction, Left	normalName:ventricular dysfunction, left	normalWikiTitle:ventricular dysfunction, left	predictedType:Disease
 CANDIDATE	id:14693	inCount:3	outCount:1	links:	url:D014693	name:Ventricular Fibrillation	normalName:ventricular fibrillation	normalWikiTitle:ventricular fibrillation	predictedType:Disease
 CANDIDATE	id:20257	inCount:0	outCount:1	links:	url:D020257	name:Ventricular Remodeling	normalName:ventricular remodeling	normalWikiTitle:ventricular remodeling	predictedType:Disease
 CANDIDATE	id:567841	inCount:0	outCount:1	links:	url:C567841	name:Ventricular Fibrillation, Paroxysmal Familial, 2	normalName:ventricular fibrillation, paroxysmal familial, 2	normalWikiTitle:ventricular fibrillation, paroxysmal familial, 2	predictedType:Disease

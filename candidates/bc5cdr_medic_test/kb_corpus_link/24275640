@@ -1,5 +1,7 @@
-ENTITY	text:cardiac disarrangement	normalName:cardiac disarrangement	predictedType:disease	q:true	qid:Q280	docId:24275640	origText:cardiac disarrangement	url:D006331
-CANDIDATE	id:6331	inCount:29	outCount:1	links:9336;66126	url:D006331	name:Cardiac Diseases	normalName:cardiac diseases	normalWikiTitle:cardiac diseases	predictedType:Disease
+ENTITY	text:cardiotoxicity	normalName:cardiotoxicity	predictedType:disease	q:true	qid:Q29	docId:24275640	origText:cardiotoxicity	url:D066126
+CANDIDATE	id:66126	inCount:0	outCount:4	links:66126;6331;9336	url:D066126	name:Cardiotoxicity	normalName:cardiotoxicity	normalWikiTitle:cardiotoxicity	predictedType:Disease
+ENTITY	text:cardiac disarrangement	normalName:cardiac disarrangement	predictedType:disease	q:true	qid:Q29	docId:24275640	origText:cardiac disarrangement	url:D006331
+CANDIDATE	id:6331	inCount:31	outCount:1	links:66126;9336	url:D006331	name:Cardiac Diseases	normalName:cardiac diseases	normalWikiTitle:cardiac diseases	predictedType:Disease
 CANDIDATE	id:567062	inCount:0	outCount:1	links:	url:C567062	name:Fabry Disease, Cardiac Variant	normalName:fabry disease, cardiac variant	normalWikiTitle:fabry disease, cardiac variant	predictedType:Disease
 CANDIDATE	id:4489	inCount:0	outCount:2	links:	url:D004489	name:Edema, Cardiac	normalName:edema, cardiac	normalWikiTitle:edema, cardiac	predictedType:Disease
 CANDIDATE	id:115080	inCount:0	outCount:2	links:	url:115080	name:CARDIAC CONDUCTION DEFECT	normalName:cardiac conduction defect	normalWikiTitle:cardiac conduction defect	predictedType:Disease
@@ -10,24 +12,20 @@ CANDIDATE	id:16757	inCount:4	outCount:2	links:	url:D016757	name:Death, Sudden, C
 CANDIDATE	id:617222	inCount:0	outCount:1	links:	url:617222	name:SUDDEN CARDIAC FAILURE, INFANTILE	normalName:sudden cardiac failure, infantile	normalWikiTitle:sudden cardiac failure, infantile	predictedType:Disease
 CANDIDATE	id:2446	inCount:0	outCount:1	links:	url:D002446	name:Celiac Disease	normalName:celiac disease	normalWikiTitle:celiac disease	predictedType:Disease
 CANDIDATE	id:16767	inCount:1	outCount:2	links:	url:D016767	name:Caroli Disease	normalName:caroli disease	normalWikiTitle:caroli disease	predictedType:Disease
-CANDIDATE	id:6331	inCount:29	outCount:1	links:9336;66126	url:D006331	name:Disease, Cardiac	normalName:disease, cardiac	normalWikiTitle:disease, cardiac	predictedType:Disease
-CANDIDATE	id:6331	inCount:29	outCount:1	links:9336;66126	url:D006331	name:Cardiac Disease	normalName:cardiac disease	normalWikiTitle:cardiac disease	predictedType:Disease
-CANDIDATE	id:6331	inCount:29	outCount:1	links:9336;66126	url:D006331	name:Diseases, Cardiac	normalName:diseases, cardiac	normalWikiTitle:diseases, cardiac	predictedType:Disease
-ENTITY	text:toxicity	normalName:toxicity	predictedType:disease	q:true	qid:Q280	docId:24275640	origText:toxicity	url:D064420
-CANDIDATE	id:64420	inCount:10	outCount:1	links:	url:D064420	name:Drug Toxicity	normalName:drug toxicity	normalWikiTitle:drug toxicity	predictedType:Disease
-CANDIDATE	id:66126	inCount:0	outCount:3	links:9336;66126;6331	url:D066126	name:Cardiotoxicity	normalName:cardiotoxicity	normalWikiTitle:cardiotoxicity	predictedType:Disease
+CANDIDATE	id:6331	inCount:31	outCount:1	links:66126;9336	url:D006331	name:Cardiac Disease	normalName:cardiac disease	normalWikiTitle:cardiac disease	predictedType:Disease
+ENTITY	text:necrosis	normalName:necrosis	predictedType:disease	q:true	qid:Q29	docId:24275640	origText:necrosis	url:D009336
+CANDIDATE	id:9336	inCount:6	outCount:1	links:66126;6331;9765	url:D009336	name:Necrosis	normalName:necrosis	normalWikiTitle:necrosis	predictedType:Disease
+ENTITY	text:toxicity	normalName:toxicity	predictedType:disease	q:true	qid:Q29	docId:24275640	origText:toxicity	url:D064420
+CANDIDATE	id:64420	inCount:14	outCount:1	links:	url:D064420	name:Drug Toxicity	normalName:drug toxicity	normalWikiTitle:drug toxicity	predictedType:Disease
+CANDIDATE	id:66126	inCount:0	outCount:4	links:66126;6331;9336	url:D066126	name:Cardiotoxicity	normalName:cardiotoxicity	normalWikiTitle:cardiotoxicity	predictedType:Disease
 CANDIDATE	id:15651	inCount:2	outCount:1	links:	url:D015651	name:Mycotoxicosis	normalName:mycotoxicosis	normalWikiTitle:mycotoxicosis	predictedType:Disease
 CANDIDATE	id:13971	inCount:2	outCount:1	links:	url:D013971	name:Thyrotoxicosis	normalName:thyrotoxicosis	normalWikiTitle:thyrotoxicosis	predictedType:Disease
 CANDIDATE	id:14869	inCount:0	outCount:2	links:	url:D014869	name:Water Intoxication	normalName:water intoxication	normalWikiTitle:water intoxication	predictedType:Disease
-CANDIDATE	id:14103	inCount:4	outCount:2	links:	url:D014103	name:Torticollis	normalName:torticollis	normalWikiTitle:torticollis	predictedType:Disease
-CANDIDATE	id:9765	inCount:42	outCount:2	links:	url:D009765	name:Obesity	normalName:obesity	normalWikiTitle:obesity	predictedType:Disease
+CANDIDATE	id:14103	inCount:4	outCount:1	links:	url:D014103	name:Torticollis	normalName:torticollis	normalWikiTitle:torticollis	predictedType:Disease
+CANDIDATE	id:9765	inCount:43	outCount:1	links:9336	url:D009765	name:Obesity	normalName:obesity	normalWikiTitle:obesity	predictedType:Disease
 CANDIDATE	id:14115	inCount:1	outCount:1	links:	url:D014115	name:Toxemia	normalName:toxemia	normalWikiTitle:toxemia	predictedType:Disease
-CANDIDATE	id:7246	inCount:2	outCount:2	links:	url:D007246	name:Infertility	normalName:infertility	normalWikiTitle:infertility	predictedType:Disease
+CANDIDATE	id:7246	inCount:2	outCount:1	links:	url:D007246	name:Infertility	normalName:infertility	normalWikiTitle:infertility	predictedType:Disease
 CANDIDATE	id:20234	inCount:0	outCount:2	links:	url:D020234	name:Gait Ataxia	normalName:gait ataxia	normalWikiTitle:gait ataxia	predictedType:Disease
 CANDIDATE	id:14069	inCount:1	outCount:1	links:	url:D014069	name:Tonsillitis	normalName:tonsillitis	normalWikiTitle:tonsillitis	predictedType:Disease
-CANDIDATE	id:64420	inCount:10	outCount:1	links:	url:D064420	name:Toxicity, Drug	normalName:toxicity, drug	normalWikiTitle:toxicity, drug	predictedType:Disease
+CANDIDATE	id:64420	inCount:14	outCount:1	links:	url:D064420	name:Toxicity, Drug	normalName:toxicity, drug	normalWikiTitle:toxicity, drug	predictedType:Disease
 CANDIDATE	id:17484	inCount:0	outCount:2	links:	url:D017484	name:Phototoxicity	normalName:phototoxicity	normalWikiTitle:phototoxicity	predictedType:Disease
-ENTITY	text:cardiotoxicity	normalName:cardiotoxicity	predictedType:disease	q:true	qid:Q280	docId:24275640	origText:cardiotoxicity	url:D066126
-CANDIDATE	id:66126	inCount:0	outCount:3	links:9336;66126;6331	url:D066126	name:Cardiotoxicity	normalName:cardiotoxicity	normalWikiTitle:cardiotoxicity	predictedType:Disease
-ENTITY	text:necrosis	normalName:necrosis	predictedType:disease	q:true	qid:Q280	docId:24275640	origText:necrosis	url:D009336
-CANDIDATE	id:9336	inCount:6	outCount:1	links:66126;6331	url:D009336	name:Necrosis	normalName:necrosis	normalWikiTitle:necrosis	predictedType:Disease

@@ -1,6 +1,6 @@
-ENTITY	text:angioedema	normalName:angioedema	predictedType:disease	q:true	qid:Q394	docId:15859361	origText:angioedema	url:D000799
+ENTITY	text:erythema	normalName:erythema	predictedType:disease	q:true	qid:Q401	docId:15859361	origText:erythema	url:D004890
+CANDIDATE	id:4890	inCount:12	outCount:2	links:	url:D004890	name:Erythema	normalName:erythema	normalWikiTitle:erythema	predictedType:Disease
+ENTITY	text:urticaria	normalName:urticaria	predictedType:disease	q:true	qid:Q401	docId:15859361	origText:urticaria	url:D014581
+CANDIDATE	id:14581	inCount:7	outCount:2	links:	url:D014581	name:Urticaria	normalName:urticaria	normalWikiTitle:urticaria	predictedType:Disease
+ENTITY	text:angioedema	normalName:angioedema	predictedType:disease	q:true	qid:Q401	docId:15859361	origText:angioedema	url:D000799
 CANDIDATE	id:799	inCount:4	outCount:2	links:	url:D000799	name:Angioedema	normalName:angioedema	normalWikiTitle:angioedema	predictedType:Disease
-ENTITY	text:erythema	normalName:erythema	predictedType:disease	q:true	qid:Q394	docId:15859361	origText:erythema	url:D004890
-CANDIDATE	id:4890	inCount:11	outCount:2	links:	url:D004890	name:Erythema	normalName:erythema	normalWikiTitle:erythema	predictedType:Disease
-ENTITY	text:urticaria	normalName:urticaria	predictedType:disease	q:true	qid:Q394	docId:15859361	origText:urticaria	url:D014581
-CANDIDATE	id:14581	inCount:6	outCount:2	links:	url:D014581	name:Urticaria	normalName:urticaria	normalWikiTitle:urticaria	predictedType:Disease

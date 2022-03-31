@@ -1,4 +1,4 @@
-ENTITY	text:amoxicillin-clavulanate	normalName:amoxicillin-clavulanate	predictedType:chemical	q:true	qid:Q278	docId:16083708	origText:amoxicillin-clavulanate	url:D019980
+ENTITY	text:amoxicillin-clavulanate	normalName:amoxicillin-clavulanate	predictedType:chemical	q:true	qid:Q407	docId:16083708	origText:amoxicillin-clavulanate	url:D019980
 CANDIDATE	id:19980	inCount:0	outCount:2	links:	url:D019980	name:Amoxycillin Clavulanic Acid	normalName:amoxycillin clavulanic acid	normalWikiTitle:amoxycillin clavulanic acid	predictedType:Chemical
 CANDIDATE	id:19980	inCount:0	outCount:2	links:	url:D019980	name:Amoxicillin-Potassium Clavulanate Combination	normalName:amoxicillin-potassium clavulanate combination	normalWikiTitle:amoxicillin-potassium clavulanate combination	predictedType:Chemical
 CANDIDATE	id:658	inCount:9	outCount:1	links:	url:D000658	name:Amoxicillin	normalName:amoxicillin	normalWikiTitle:amoxicillin	predictedType:Chemical
@@ -18,5 +18,5 @@ CANDIDATE	id:19980	inCount:0	outCount:2	links:	url:D019980	name:Clavulanate Pote
 CANDIDATE	id:19980	inCount:0	outCount:2	links:	url:D019980	name:Amoxycillin, Clavulanate Potentiated	normalName:amoxycillin, clavulanate potentiated	normalWikiTitle:amoxycillin, clavulanate potentiated	predictedType:Chemical
 CANDIDATE	id:19980	inCount:0	outCount:2	links:	url:D019980	name:Amoxycillin-Clavulanic Acid	normalName:amoxycillin-clavulanic acid	normalWikiTitle:amoxycillin-clavulanic acid	predictedType:Chemical
 CANDIDATE	id:658	inCount:9	outCount:1	links:	url:D000658	name:Amoxicilline	normalName:amoxicilline	normalWikiTitle:amoxicilline	predictedType:Chemical
-ENTITY	text:bilirubin	normalName:bilirubin	predictedType:chemical	q:true	qid:Q278	docId:16083708	origText:bilirubin	url:D001663
+ENTITY	text:bilirubin	normalName:bilirubin	predictedType:chemical	q:true	qid:Q407	docId:16083708	origText:bilirubin	url:D001663
 CANDIDATE	id:1663	inCount:20	outCount:1	links:	url:D001663	name:Bilirubin	normalName:bilirubin	normalWikiTitle:bilirubin	predictedType:Chemical

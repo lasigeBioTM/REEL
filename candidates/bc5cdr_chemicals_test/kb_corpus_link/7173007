@@ -1,10 +1,4 @@
-ENTITY	text:contrast media	normalName:contrast media	predictedType:chemical	q:true	qid:Q217	docId:7173007	origText:contrast media	url:D003287
-CANDIDATE	id:3287	inCount:0	outCount:2	links:	url:D003287	name:Contrast Media	normalName:contrast media	normalWikiTitle:contrast media	predictedType:Chemical
-ENTITY	text:diatrizoate	normalName:diatrizoate	predictedType:chemical	q:true	qid:Q217	docId:7173007	origText:diatrizoate	url:D003973
-CANDIDATE	id:3973	inCount:11	outCount:1	links:	url:D003973	name:Diatrizoate	normalName:diatrizoate	normalWikiTitle:diatrizoate	predictedType:Chemical
-ENTITY	text:ioxaglate	normalName:ioxaglate	predictedType:chemical	q:true	qid:Q217	docId:7173007	origText:ioxaglate	url:D007485
-CANDIDATE	id:7485	inCount:0	outCount:1	links:7485	url:D007485	name:Ioxaglate	normalName:ioxaglate	normalWikiTitle:ioxaglate	predictedType:Chemical
-ENTITY	text:Endografine	normalName:endografine	predictedType:chemical	q:true	qid:Q217	docId:7173007	origText:Endografine	url:C006753
+ENTITY	text:Endografine	normalName:endografine	predictedType:chemical	q:true	qid:Q257	docId:7173007	origText:Endografine	url:C006753
 CANDIDATE	id:6753	inCount:0	outCount:1	links:	url:C006753	name:Endografin	normalName:endografin	normalWikiTitle:endografin	predictedType:Chemical
 CANDIDATE	id:627256	inCount:0	outCount:1	links:	url:C000627256	name:Endocine	normalName:endocine	normalWikiTitle:endocine	predictedType:Chemical
 CANDIDATE	id:425888	inCount:0	outCount:2	links:	url:C425888	name:bedoradrine	normalName:bedoradrine	normalWikiTitle:bedoradrine	predictedType:Chemical
@@ -23,7 +17,13 @@ CANDIDATE	id:3974	inCount:3	outCount:2	links:	url:D003974	name:Verografin	normal
 CANDIDATE	id:3974	inCount:3	outCount:2	links:	url:D003974	name:Sinografin	normalName:sinografin	normalWikiTitle:sinografin	predictedType:Chemical
 CANDIDATE	id:27278	inCount:0	outCount:2	links:	url:C027278	name:renografin 76	normalName:renografin 76	normalWikiTitle:renografin 76	predictedType:Chemical
 CANDIDATE	id:27278	inCount:0	outCount:2	links:	url:C027278	name:renografin 60	normalName:renografin 60	normalWikiTitle:renografin 60	predictedType:Chemical
-ENTITY	text:Hexabrix	normalName:hexabrix	predictedType:chemical	q:true	qid:Q217	docId:7173007	origText:Hexabrix	url:D007485
-CANDIDATE	id:7485	inCount:0	outCount:1	links:7485	url:D007485	name:Hexabrix	normalName:hexabrix	normalWikiTitle:hexabrix	predictedType:Chemical
-ENTITY	text:Dimer-X	normalName:dimer-x	predictedType:chemical	q:true	qid:Q217	docId:7173007	origText:Dimer-X	url:C025504
+ENTITY	text:diatrizoate	normalName:diatrizoate	predictedType:chemical	q:true	qid:Q257	docId:7173007	origText:diatrizoate	url:D003973
+CANDIDATE	id:3973	inCount:11	outCount:1	links:	url:D003973	name:Diatrizoate	normalName:diatrizoate	normalWikiTitle:diatrizoate	predictedType:Chemical
+ENTITY	text:Dimer-X	normalName:dimer-x	predictedType:chemical	q:true	qid:Q257	docId:7173007	origText:Dimer-X	url:C025504
 CANDIDATE	id:25504	inCount:0	outCount:2	links:	url:C025504	name:Dimer-X	normalName:dimer-x	normalWikiTitle:dimer-x	predictedType:Chemical
+ENTITY	text:Hexabrix	normalName:hexabrix	predictedType:chemical	q:true	qid:Q257	docId:7173007	origText:Hexabrix	url:D007485
+CANDIDATE	id:7485	inCount:0	outCount:1	links:7485	url:D007485	name:Hexabrix	normalName:hexabrix	normalWikiTitle:hexabrix	predictedType:Chemical
+ENTITY	text:ioxaglate	normalName:ioxaglate	predictedType:chemical	q:true	qid:Q257	docId:7173007	origText:ioxaglate	url:D007485
+CANDIDATE	id:7485	inCount:0	outCount:1	links:7485	url:D007485	name:Ioxaglate	normalName:ioxaglate	normalWikiTitle:ioxaglate	predictedType:Chemical
+ENTITY	text:contrast media	normalName:contrast media	predictedType:chemical	q:true	qid:Q257	docId:7173007	origText:contrast media	url:D003287
+CANDIDATE	id:3287	inCount:0	outCount:2	links:	url:D003287	name:Contrast Media	normalName:contrast media	normalWikiTitle:contrast media	predictedType:Chemical

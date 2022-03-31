@@ -1,53 +1,53 @@
-ENTITY	text:panic attacks	normalName:panic attacks	predictedType:disease	q:true	qid:Q149	docId:17445520	origText:panic attacks	url:D016584
-CANDIDATE	id:16584	inCount:2	outCount:1	links:16584;1008	url:D016584	name:Attack, Panic	normalName:attack, panic	normalWikiTitle:attack, panic	predictedType:Disease
-ENTITY	text:anxiety	normalName:anxiety	predictedType:disease	q:true	qid:Q149	docId:17445520	origText:anxiety	url:D001008
-CANDIDATE	id:1008	inCount:7	outCount:1	links:16584	url:D001008	name:ANXIETY	normalName:anxiety	normalWikiTitle:anxiety	predictedType:Disease
-ENTITY	text:major depression	normalName:major depression	predictedType:disease	q:true	qid:Q149	docId:17445520	origText:major depression	url:D003865
+ENTITY	text:panic disorder	normalName:panic disorder	predictedType:disease	q:true	qid:Q438	docId:17445520	origText:panic disorder	url:D016584
+CANDIDATE	id:16584	inCount:2	outCount:1	links:16584;1008;6973	url:D016584	name:Panic Disorder	normalName:panic disorder	normalWikiTitle:panic disorder	predictedType:Disease
+ENTITY	text:depression	normalName:depression	predictedType:disease	q:true	qid:Q438	docId:17445520	origText:depression	url:D003866
+CANDIDATE	id:3866	inCount:7	outCount:1	links:1523;1008;3866	url:D003866	name:Depressive Disorder	normalName:depressive disorder	normalWikiTitle:depressive disorder	predictedType:Disease
+CANDIDATE	id:18450	inCount:2	outCount:1	links:	url:D018450	name:Disease Progression	normalName:disease progression	normalWikiTitle:disease progression	predictedType:Disease
+CANDIDATE	id:19052	inCount:0	outCount:2	links:19052	url:D019052	name:Depression, Postpartum	normalName:depression, postpartum	normalWikiTitle:depression, postpartum	predictedType:Disease
+CANDIDATE	id:146850	inCount:0	outCount:2	links:	url:146850	name:IMMUNE SUPPRESSION	normalName:immune suppression	normalWikiTitle:immune suppression	predictedType:Disease
+CANDIDATE	id:6973	inCount:19	outCount:1	links:1523;16584;1008;6976	url:D006973	name:Hypertension	normalName:hypertension	normalWikiTitle:hypertension	predictedType:Disease
+CANDIDATE	id:58246	inCount:0	outCount:1	links:	url:D058246	name:Prehypertension	normalName:prehypertension	normalWikiTitle:prehypertension	predictedType:Disease
+CANDIDATE	id:14786	inCount:19	outCount:2	links:12131	url:D014786	name:Vision Disorders	normalName:vision disorders	normalWikiTitle:vision disorders	predictedType:Disease
+CANDIDATE	id:3665	inCount:0	outCount:1	links:3665	url:D003665	name:Decompression Sickness	normalName:decompression sickness	normalWikiTitle:decompression sickness	predictedType:Disease
+CANDIDATE	id:12871	inCount:70	outCount:1	links:	url:D012871	name:Skin Diseases	normalName:skin diseases	normalWikiTitle:skin diseases	predictedType:Disease
+CANDIDATE	id:4688	inCount:1	outCount:2	links:	url:D004688	name:Encopresis	normalName:encopresis	normalWikiTitle:encopresis	predictedType:Disease
+CANDIDATE	id:1714	inCount:11	outCount:1	links:1523;1008;6976;3866	url:D001714	name:Depression, Bipolar	normalName:depression, bipolar	normalWikiTitle:depression, bipolar	predictedType:Disease
+CANDIDATE	id:1714	inCount:11	outCount:1	links:1523;1008;6976;3866	url:D001714	name:Bipolar Depression	normalName:bipolar depression	normalWikiTitle:bipolar depression	predictedType:Disease
+ENTITY	text:panic attacks	normalName:panic attacks	predictedType:disease	q:true	qid:Q438	docId:17445520	origText:panic attacks	url:D016584
+CANDIDATE	id:16584	inCount:2	outCount:1	links:16584;1008;6973	url:D016584	name:Attack, Panic	normalName:attack, panic	normalWikiTitle:attack, panic	predictedType:Disease
+ENTITY	text:major depression	normalName:major depression	predictedType:disease	q:true	qid:Q438	docId:17445520	origText:major depression	url:D003865
 CANDIDATE	id:3865	inCount:2	outCount:1	links:3865	url:D003865	name:Depressive Disorder, Major	normalName:depressive disorder, major	normalWikiTitle:depressive disorder, major	predictedType:Disease
 CANDIDATE	id:19052	inCount:0	outCount:2	links:19052	url:D019052	name:Depression, Postpartum	normalName:depression, postpartum	normalWikiTitle:depression, postpartum	predictedType:Disease
 CANDIDATE	id:563875	inCount:0	outCount:1	links:	url:C563875	name:Major Depressive Disorder 2	normalName:major depressive disorder 2	normalWikiTitle:major depressive disorder 2	predictedType:Disease
 CANDIDATE	id:563919	inCount:0	outCount:1	links:	url:C563919	name:Major Depressive Disorder 1	normalName:major depressive disorder 1	normalWikiTitle:major depressive disorder 1	predictedType:Disease
-CANDIDATE	id:3866	inCount:6	outCount:1	links:3866;1714	url:D003866	name:Depressive Disorder	normalName:depressive disorder	normalWikiTitle:depressive disorder	predictedType:Disease
+CANDIDATE	id:3866	inCount:7	outCount:1	links:1523;1008;3866	url:D003866	name:Depressive Disorder	normalName:depressive disorder	normalWikiTitle:depressive disorder	predictedType:Disease
 CANDIDATE	id:50815	inCount:1	outCount:1	links:	url:D050815	name:Fractures, Compression	normalName:fractures, compression	normalWikiTitle:fractures, compression	predictedType:Disease
-CANDIDATE	id:6976	inCount:12	outCount:1	links:	url:D006976	name:Hypertension, Pulmonary	normalName:hypertension, pulmonary	normalWikiTitle:hypertension, pulmonary	predictedType:Disease
+CANDIDATE	id:6976	inCount:12	outCount:2	links:1714;6973	url:D006976	name:Hypertension, Pulmonary	normalName:hypertension, pulmonary	normalWikiTitle:hypertension, pulmonary	predictedType:Disease
 CANDIDATE	id:3665	inCount:0	outCount:1	links:3665	url:D003665	name:Decompression Sickness	normalName:decompression sickness	normalWikiTitle:decompression sickness	predictedType:Disease
 CANDIDATE	id:59468	inCount:0	outCount:1	links:	url:D059468	name:Masked Hypertension	normalName:masked hypertension	normalWikiTitle:masked hypertension	predictedType:Disease
 CANDIDATE	id:6975	inCount:3	outCount:1	links:	url:D006975	name:Hypertension, Portal	normalName:hypertension, portal	normalWikiTitle:hypertension, portal	predictedType:Disease
 CANDIDATE	id:61218	inCount:0	outCount:1	links:	url:D061218	name:Depression, Refractory	normalName:depression, refractory	normalWikiTitle:depression, refractory	predictedType:Disease
 CANDIDATE	id:61218	inCount:0	outCount:1	links:	url:D061218	name:Refractory Depression	normalName:refractory depression	normalWikiTitle:refractory depression	predictedType:Disease
-CANDIDATE	id:12131	inCount:13	outCount:1	links:	url:D012131	name:Respiratory Depression	normalName:respiratory depression	normalWikiTitle:respiratory depression	predictedType:Disease
-CANDIDATE	id:12131	inCount:13	outCount:1	links:	url:D012131	name:Ventilatory Depression	normalName:ventilatory depression	normalWikiTitle:ventilatory depression	predictedType:Disease
+CANDIDATE	id:12131	inCount:13	outCount:1	links:14786	url:D012131	name:Respiratory Depression	normalName:respiratory depression	normalWikiTitle:respiratory depression	predictedType:Disease
+CANDIDATE	id:12131	inCount:13	outCount:1	links:14786	url:D012131	name:Ventilatory Depression	normalName:ventilatory depression	normalWikiTitle:ventilatory depression	predictedType:Disease
 CANDIDATE	id:61218	inCount:0	outCount:1	links:	url:D061218	name:Depressions, Refractory	normalName:depressions, refractory	normalWikiTitle:depressions, refractory	predictedType:Disease
-CANDIDATE	id:3866	inCount:6	outCount:1	links:3866;1714	url:D003866	name:Depression, Unipolar	normalName:depression, unipolar	normalWikiTitle:depression, unipolar	predictedType:Disease
-CANDIDATE	id:3866	inCount:6	outCount:1	links:3866;1714	url:D003866	name:Unipolar Depression	normalName:unipolar depression	normalWikiTitle:unipolar depression	predictedType:Disease
+CANDIDATE	id:3866	inCount:7	outCount:1	links:1523;1008;3866	url:D003866	name:Depression, Unipolar	normalName:depression, unipolar	normalWikiTitle:depression, unipolar	predictedType:Disease
+CANDIDATE	id:3866	inCount:7	outCount:1	links:1523;1008;3866	url:D003866	name:Unipolar Depression	normalName:unipolar depression	normalWikiTitle:unipolar depression	predictedType:Disease
 CANDIDATE	id:61218	inCount:0	outCount:1	links:	url:D061218	name:Refractory Depressions	normalName:refractory depressions	normalWikiTitle:refractory depressions	predictedType:Disease
-ENTITY	text:MD	normalName:md	predictedType:disease	q:true	qid:Q149	docId:17445520	origText:MD	url:D003865
+ENTITY	text:Mental Disorders	normalName:mental disorders	predictedType:disease	q:true	qid:Q438	docId:17445520	origText:Mental Disorders	url:D001523
+CANDIDATE	id:1523	inCount:27	outCount:1	links:1714;6973;3866	url:D001523	name:Mental Disorders	normalName:mental disorders	normalWikiTitle:mental disorders	predictedType:Disease
+ENTITY	text:MD	normalName:md	predictedType:disease	q:true	qid:Q438	docId:17445520	origText:MD	url:D003865
 CANDIDATE	id:3865	inCount:2	outCount:1	links:3865	url:D003865	name:MDD	normalName:mdd	normalWikiTitle:mdd	predictedType:Disease
 CANDIDATE	id:537267	inCount:0	outCount:2	links:	url:C537267	name:LMD	normalName:lmd	normalWikiTitle:lmd	predictedType:Disease
-CANDIDATE	id:49310	inCount:14	outCount:1	links:	url:D049310	name:TMD	normalName:tmd	normalWikiTitle:tmd	predictedType:Disease
+CANDIDATE	id:49310	inCount:13	outCount:1	links:	url:D049310	name:TMD	normalName:tmd	normalWikiTitle:tmd	predictedType:Disease
 CANDIDATE	id:7645	inCount:41	outCount:2	links:	url:D007645	name:MDM	normalName:mdm	normalWikiTitle:mdm	predictedType:Disease
 CANDIDATE	id:52517	inCount:0	outCount:1	links:	url:D052517	name:MSD	normalName:msd	normalWikiTitle:msd	predictedType:Disease
 CANDIDATE	id:535686	inCount:0	outCount:1	links:	url:C535686	name:RMD	normalName:rmd	normalWikiTitle:rmd	predictedType:Disease
 CANDIDATE	id:8527	inCount:0	outCount:2	links:	url:D008527	name:MDB	normalName:mdb	normalWikiTitle:mdb	predictedType:Disease
 CANDIDATE	id:613587	inCount:0	outCount:1	links:	url:613587	name:OMD	normalName:omd	normalWikiTitle:omd	predictedType:Disease
-CANDIDATE	id:536391	inCount:0	outCount:1	links:	url:C536391	name:FMD	normalName:fmd	normalWikiTitle:fmd	predictedType:Disease
+CANDIDATE	id:538064	inCount:0	outCount:1	links:	url:C538064	name:FMD	normalName:fmd	normalWikiTitle:fmd	predictedType:Disease
 CANDIDATE	id:565111	inCount:0	outCount:1	links:	url:C565111	name:MD1	normalName:md1	normalWikiTitle:md1	predictedType:Disease
-ENTITY	text:panic attack	normalName:panic attack	predictedType:disease	q:true	qid:Q149	docId:17445520	origText:panic attack	url:D016584
-CANDIDATE	id:16584	inCount:2	outCount:1	links:16584;1008	url:D016584	name:Attack, Panic	normalName:attack, panic	normalWikiTitle:attack, panic	predictedType:Disease
-ENTITY	text:depression	normalName:depression	predictedType:disease	q:true	qid:Q149	docId:17445520	origText:depression	url:D003866
-CANDIDATE	id:3866	inCount:6	outCount:1	links:3866;1714	url:D003866	name:Depressive Disorder	normalName:depressive disorder	normalWikiTitle:depressive disorder	predictedType:Disease
-CANDIDATE	id:18450	inCount:2	outCount:1	links:	url:D018450	name:Disease Progression	normalName:disease progression	normalWikiTitle:disease progression	predictedType:Disease
-CANDIDATE	id:19052	inCount:0	outCount:2	links:19052	url:D019052	name:Depression, Postpartum	normalName:depression, postpartum	normalWikiTitle:depression, postpartum	predictedType:Disease
-CANDIDATE	id:146850	inCount:0	outCount:2	links:	url:146850	name:IMMUNE SUPPRESSION	normalName:immune suppression	normalWikiTitle:immune suppression	predictedType:Disease
-CANDIDATE	id:6973	inCount:18	outCount:1	links:	url:D006973	name:Hypertension	normalName:hypertension	normalWikiTitle:hypertension	predictedType:Disease
-CANDIDATE	id:58246	inCount:0	outCount:1	links:	url:D058246	name:Prehypertension	normalName:prehypertension	normalWikiTitle:prehypertension	predictedType:Disease
-CANDIDATE	id:14786	inCount:19	outCount:2	links:	url:D014786	name:Vision Disorders	normalName:vision disorders	normalWikiTitle:vision disorders	predictedType:Disease
-CANDIDATE	id:3665	inCount:0	outCount:1	links:3665	url:D003665	name:Decompression Sickness	normalName:decompression sickness	normalWikiTitle:decompression sickness	predictedType:Disease
-CANDIDATE	id:12871	inCount:71	outCount:1	links:	url:D012871	name:Skin Diseases	normalName:skin diseases	normalWikiTitle:skin diseases	predictedType:Disease
-CANDIDATE	id:4688	inCount:1	outCount:2	links:	url:D004688	name:Encopresis	normalName:encopresis	normalWikiTitle:encopresis	predictedType:Disease
-CANDIDATE	id:1714	inCount:11	outCount:1	links:3866	url:D001714	name:Depression, Bipolar	normalName:depression, bipolar	normalWikiTitle:depression, bipolar	predictedType:Disease
-CANDIDATE	id:1714	inCount:11	outCount:1	links:3866	url:D001714	name:Bipolar Depression	normalName:bipolar depression	normalWikiTitle:bipolar depression	predictedType:Disease
-ENTITY	text:panic disorder	normalName:panic disorder	predictedType:disease	q:true	qid:Q149	docId:17445520	origText:panic disorder	url:D016584
-CANDIDATE	id:16584	inCount:2	outCount:1	links:16584;1008	url:D016584	name:Panic Disorder	normalName:panic disorder	normalWikiTitle:panic disorder	predictedType:Disease
-ENTITY	text:Mental Disorders	normalName:mental disorders	predictedType:disease	q:true	qid:Q149	docId:17445520	origText:Mental Disorders	url:D001523
-CANDIDATE	id:1523	inCount:27	outCount:1	links:	url:D001523	name:Mental Disorders	normalName:mental disorders	normalWikiTitle:mental disorders	predictedType:Disease
+ENTITY	text:anxiety	normalName:anxiety	predictedType:disease	q:true	qid:Q438	docId:17445520	origText:anxiety	url:D001008
+CANDIDATE	id:1008	inCount:8	outCount:1	links:16584;1714;6973;3866	url:D001008	name:ANXIETY	normalName:anxiety	normalWikiTitle:anxiety	predictedType:Disease
+ENTITY	text:panic attack	normalName:panic attack	predictedType:disease	q:true	qid:Q438	docId:17445520	origText:panic attack	url:D016584
+CANDIDATE	id:16584	inCount:2	outCount:1	links:16584;1008;6973	url:D016584	name:Attack, Panic	normalName:attack, panic	normalWikiTitle:attack, panic	predictedType:Disease

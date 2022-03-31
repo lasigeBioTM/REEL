@@ -1,8 +1,8 @@
-ENTITY	text:Hyperkalemia	normalName:hyperkalemia	predictedType:disease	q:true	qid:Q121	docId:3375885	origText:Hyperkalemia	url:D006947
+ENTITY	text:Hyperkalemia	normalName:hyperkalemia	predictedType:disease	q:true	qid:Q207	docId:3375885	origText:Hyperkalemia	url:D006947
 CANDIDATE	id:6947	inCount:4	outCount:1	links:6994	url:D006947	name:Hyperkalemia	normalName:hyperkalemia	normalWikiTitle:hyperkalemia	predictedType:Disease
-ENTITY	text:rheumatoid arthritis	normalName:rheumatoid arthritis	predictedType:disease	q:true	qid:Q121	docId:3375885	origText:rheumatoid arthritis	url:D001172
-CANDIDATE	id:1172	inCount:8	outCount:3	links:	url:D001172	name:Arthritis, Rheumatoid	normalName:arthritis, rheumatoid	normalWikiTitle:arthritis, rheumatoid	predictedType:Disease
-ENTITY	text:hypoaldosteronism	normalName:hypoaldosteronism	predictedType:disease	q:true	qid:Q121	docId:3375885	origText:hypoaldosteronism	url:D006994
-CANDIDATE	id:6994	inCount:2	outCount:1	links:6947;6994	url:D006994	name:Hypoaldosteronism	normalName:hypoaldosteronism	normalWikiTitle:hypoaldosteronism	predictedType:Disease
-ENTITY	text:type IV renal tubular acidosis	normalName:type iv renal tubular acidosis	predictedType:disease	q:true	qid:Q121	docId:3375885	origText:type IV renal tubular acidosis	url:D006994
-CANDIDATE	id:6994	inCount:2	outCount:1	links:6947;6994	url:D006994	name:Renal Tubular Acidosis, Type IV	normalName:renal tubular acidosis, type iv	normalWikiTitle:renal tubular acidosis, type iv	predictedType:Disease
+ENTITY	text:rheumatoid arthritis	normalName:rheumatoid arthritis	predictedType:disease	q:true	qid:Q207	docId:3375885	origText:rheumatoid arthritis	url:D001172
+CANDIDATE	id:1172	inCount:9	outCount:3	links:	url:D001172	name:Arthritis, Rheumatoid	normalName:arthritis, rheumatoid	normalWikiTitle:arthritis, rheumatoid	predictedType:Disease
+ENTITY	text:hypoaldosteronism	normalName:hypoaldosteronism	predictedType:disease	q:true	qid:Q207	docId:3375885	origText:hypoaldosteronism	url:D006994
+CANDIDATE	id:6994	inCount:2	outCount:1	links:6994;6947	url:D006994	name:Hypoaldosteronism	normalName:hypoaldosteronism	normalWikiTitle:hypoaldosteronism	predictedType:Disease
+ENTITY	text:type IV renal tubular acidosis	normalName:type iv renal tubular acidosis	predictedType:disease	q:true	qid:Q207	docId:3375885	origText:type IV renal tubular acidosis	url:D006994
+CANDIDATE	id:6994	inCount:2	outCount:1	links:6994;6947	url:D006994	name:Renal Tubular Acidosis, Type IV	normalName:renal tubular acidosis, type iv	normalWikiTitle:renal tubular acidosis, type iv	predictedType:Disease

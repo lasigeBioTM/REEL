@@ -1,20 +1,20 @@
-ENTITY	text:broken heart syndrome	normalName:broken heart syndrome	predictedType:disease	q:true	qid:Q195	docId:24100257	origText:broken heart syndrome	url:D054549
-CANDIDATE	id:54549	inCount:1	outCount:1	links:3329	url:D054549	name:Syndrome, Broken Heart	normalName:syndrome, broken heart	normalWikiTitle:syndrome, broken heart	predictedType:Disease
-ENTITY	text:Takotsubo syndrome	normalName:takotsubo syndrome	predictedType:disease	q:true	qid:Q195	docId:24100257	origText:Takotsubo syndrome	url:D054549
-CANDIDATE	id:54549	inCount:1	outCount:1	links:3329	url:D054549	name:Takotsubo Syndrome	normalName:takotsubo syndrome	normalWikiTitle:takotsubo syndrome	predictedType:Disease
-ENTITY	text:migraine headache	normalName:migraine headache	predictedType:disease	q:true	qid:Q195	docId:24100257	origText:migraine headache	url:D008881
-CANDIDATE	id:8881	inCount:9	outCount:1	links:	url:D008881	name:Headache, Migraine	normalName:headache, migraine	normalWikiTitle:headache, migraine	predictedType:Disease
-ENTITY	text:chest pain	normalName:chest pain	predictedType:disease	q:true	qid:Q195	docId:24100257	origText:chest pain	url:D002637
-CANDIDATE	id:2637	inCount:1	outCount:1	links:3329	url:D002637	name:Chest Pain	normalName:chest pain	normalWikiTitle:chest pain	predictedType:Disease
-ENTITY	text:status migrainosus	normalName:status migrainosus	predictedType:disease	q:true	qid:Q195	docId:24100257	origText:status migrainosus	url:D008881
-CANDIDATE	id:8881	inCount:9	outCount:1	links:	url:D008881	name:Status Migrainosus	normalName:status migrainosus	normalWikiTitle:status migrainosus	predictedType:Disease
-ENTITY	text:coronary artery vasospasm	normalName:coronary artery vasospasm	predictedType:disease	q:true	qid:Q195	docId:24100257	origText:coronary artery vasospasm	url:D003329
-CANDIDATE	id:3329	inCount:1	outCount:1	links:54549;2637	url:D003329	name:Coronary Artery Vasospasm	normalName:coronary artery vasospasm	normalWikiTitle:coronary artery vasospasm	predictedType:Disease
-ENTITY	text:mitral valve prolapse	normalName:mitral valve prolapse	predictedType:disease	q:true	qid:Q195	docId:24100257	origText:mitral valve prolapse	url:D008945
-CANDIDATE	id:8945	inCount:9	outCount:1	links:	url:D008945	name:Mitral Valve Prolapse	normalName:mitral valve prolapse	normalWikiTitle:mitral valve prolapse	predictedType:Disease
-ENTITY	text:apical ballooning syndrome	normalName:apical ballooning syndrome	predictedType:disease	q:true	qid:Q195	docId:24100257	origText:apical ballooning syndrome	url:D054549
-CANDIDATE	id:54549	inCount:1	outCount:1	links:3329	url:D054549	name:Syndrome, Apical Ballooning	normalName:syndrome, apical ballooning	normalWikiTitle:syndrome, apical ballooning	predictedType:Disease
-ENTITY	text:acute coronary syndrome	normalName:acute coronary syndrome	predictedType:disease	q:true	qid:Q195	docId:24100257	origText:acute coronary syndrome	url:D054058
+ENTITY	text:Takotsubo syndrome	normalName:takotsubo syndrome	predictedType:disease	q:true	qid:Q20	docId:24100257	origText:Takotsubo syndrome	url:D054549
+CANDIDATE	id:54549	inCount:1	outCount:1	links:2637;3329	url:D054549	name:Takotsubo Syndrome	normalName:takotsubo syndrome	normalWikiTitle:takotsubo syndrome	predictedType:Disease
+ENTITY	text:apical ballooning syndrome	normalName:apical ballooning syndrome	predictedType:disease	q:true	qid:Q20	docId:24100257	origText:apical ballooning syndrome	url:D054549
+CANDIDATE	id:54549	inCount:1	outCount:1	links:2637;3329	url:D054549	name:Syndrome, Apical Ballooning	normalName:syndrome, apical ballooning	normalWikiTitle:syndrome, apical ballooning	predictedType:Disease
+ENTITY	text:broken heart syndrome	normalName:broken heart syndrome	predictedType:disease	q:true	qid:Q20	docId:24100257	origText:broken heart syndrome	url:D054549
+CANDIDATE	id:54549	inCount:1	outCount:1	links:2637;3329	url:D054549	name:Syndrome, Broken Heart	normalName:syndrome, broken heart	normalWikiTitle:syndrome, broken heart	predictedType:Disease
+ENTITY	text:acute coronary syndrome	normalName:acute coronary syndrome	predictedType:disease	q:true	qid:Q20	docId:24100257	origText:acute coronary syndrome	url:D054058
 CANDIDATE	id:54058	inCount:0	outCount:1	links:	url:D054058	name:Acute Coronary Syndrome	normalName:acute coronary syndrome	normalWikiTitle:acute coronary syndrome	predictedType:Disease
-ENTITY	text:migraines	normalName:migraines	predictedType:disease	q:true	qid:Q195	docId:24100257	origText:migraines	url:D008881
+ENTITY	text:mitral valve prolapse	normalName:mitral valve prolapse	predictedType:disease	q:true	qid:Q20	docId:24100257	origText:mitral valve prolapse	url:D008945
+CANDIDATE	id:8945	inCount:9	outCount:1	links:	url:D008945	name:Mitral Valve Prolapse	normalName:mitral valve prolapse	normalWikiTitle:mitral valve prolapse	predictedType:Disease
+ENTITY	text:migraines	normalName:migraines	predictedType:disease	q:true	qid:Q20	docId:24100257	origText:migraines	url:D008881
 CANDIDATE	id:8881	inCount:9	outCount:1	links:	url:D008881	name:Migraine	normalName:migraine	normalWikiTitle:migraine	predictedType:Disease
+ENTITY	text:chest pain	normalName:chest pain	predictedType:disease	q:true	qid:Q20	docId:24100257	origText:chest pain	url:D002637
+CANDIDATE	id:2637	inCount:1	outCount:1	links:3329;54549	url:D002637	name:Chest Pain	normalName:chest pain	normalWikiTitle:chest pain	predictedType:Disease
+ENTITY	text:migraine headache	normalName:migraine headache	predictedType:disease	q:true	qid:Q20	docId:24100257	origText:migraine headache	url:D008881
+CANDIDATE	id:8881	inCount:9	outCount:1	links:	url:D008881	name:Headache, Migraine	normalName:headache, migraine	normalWikiTitle:headache, migraine	predictedType:Disease
+ENTITY	text:status migrainosus	normalName:status migrainosus	predictedType:disease	q:true	qid:Q20	docId:24100257	origText:status migrainosus	url:D008881
+CANDIDATE	id:8881	inCount:9	outCount:1	links:	url:D008881	name:Status Migrainosus	normalName:status migrainosus	normalWikiTitle:status migrainosus	predictedType:Disease
+ENTITY	text:coronary artery vasospasm	normalName:coronary artery vasospasm	predictedType:disease	q:true	qid:Q20	docId:24100257	origText:coronary artery vasospasm	url:D003329
+CANDIDATE	id:3329	inCount:1	outCount:1	links:2637;54549	url:D003329	name:Coronary Artery Vasospasm	normalName:coronary artery vasospasm	normalWikiTitle:coronary artery vasospasm	predictedType:Disease

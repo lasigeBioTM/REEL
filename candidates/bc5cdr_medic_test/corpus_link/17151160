@@ -1,8 +1,8 @@
-ENTITY	text:schizophrenia	normalName:schizophrenia	predictedType:disease	q:true	qid:Q9	docId:17151160	origText:schizophrenia	url:D012559
-CANDIDATE	id:12559	inCount:4	outCount:1	links:	url:D012559	name:Schizophrenia	normalName:schizophrenia	normalWikiTitle:schizophrenia	predictedType:Disease
-ENTITY	text:schizophreniform disorder	normalName:schizophreniform disorder	predictedType:disease	q:true	qid:Q9	docId:17151160	origText:schizophreniform disorder	url:D011618
+ENTITY	text:schizophrenia	normalName:schizophrenia	predictedType:disease	q:true	qid:Q428	docId:17151160	origText:schizophrenia	url:D012559
+CANDIDATE	id:12559	inCount:5	outCount:1	links:	url:D012559	name:Schizophrenia	normalName:schizophrenia	normalWikiTitle:schizophrenia	predictedType:Disease
+ENTITY	text:schizophreniform disorder	normalName:schizophreniform disorder	predictedType:disease	q:true	qid:Q428	docId:17151160	origText:schizophreniform disorder	url:D011618
 CANDIDATE	id:11618	inCount:4	outCount:1	links:	url:D011618	name:Disorder, Schizophreniform	normalName:disorder, schizophreniform	normalWikiTitle:disorder, schizophreniform	predictedType:Disease
-ENTITY	text:weight gain	normalName:weight gain	predictedType:disease	q:true	qid:Q9	docId:17151160	origText:weight gain	url:D015430
-CANDIDATE	id:15430	inCount:1	outCount:1	links:	url:D015430	name:Weight Gain	normalName:weight gain	normalWikiTitle:weight gain	predictedType:Disease
-ENTITY	text:schizoaffective disorder	normalName:schizoaffective disorder	predictedType:disease	q:true	qid:Q9	docId:17151160	origText:schizoaffective disorder	url:D011618
+ENTITY	text:schizoaffective disorder	normalName:schizoaffective disorder	predictedType:disease	q:true	qid:Q428	docId:17151160	origText:schizoaffective disorder	url:D011618
 CANDIDATE	id:11618	inCount:4	outCount:1	links:	url:D011618	name:Schizoaffective Disorder	normalName:schizoaffective disorder	normalWikiTitle:schizoaffective disorder	predictedType:Disease
+ENTITY	text:weight gain	normalName:weight gain	predictedType:disease	q:true	qid:Q428	docId:17151160	origText:weight gain	url:D015430
+CANDIDATE	id:15430	inCount:2	outCount:1	links:	url:D015430	name:Weight Gain	normalName:weight gain	normalWikiTitle:weight gain	predictedType:Disease

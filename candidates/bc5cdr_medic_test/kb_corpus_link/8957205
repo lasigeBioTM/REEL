@@ -1,4 +1,4 @@
-ENTITY	text:hypercapnic	normalName:hypercapnic	predictedType:disease	q:true	qid:Q489	docId:8957205	origText:hypercapnic	url:D006935
+ENTITY	text:hypercapnic	normalName:hypercapnic	predictedType:disease	q:true	qid:Q295	docId:8957205	origText:hypercapnic	url:D006935
 CANDIDATE	id:6935	inCount:0	outCount:1	links:	url:D006935	name:Hypercapnia	normalName:hypercapnia	normalWikiTitle:hypercapnia	predictedType:Disease
 CANDIDATE	id:16857	inCount:0	outCount:1	links:	url:D016857	name:Hypocapnia	normalName:hypocapnia	normalWikiTitle:hypocapnia	predictedType:Disease
 CANDIDATE	id:6956	inCount:4	outCount:1	links:	url:D006956	name:Hyperopia	normalName:hyperopia	normalWikiTitle:hyperopia	predictedType:Disease

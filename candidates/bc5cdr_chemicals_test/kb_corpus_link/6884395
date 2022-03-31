@@ -1,4 +1,4 @@
-ENTITY	text:oral contraceptives	normalName:oral contraceptives	predictedType:chemical	q:true	qid:Q332	docId:6884395	origText:oral contraceptives	url:D003276
+ENTITY	text:oral contraceptives	normalName:oral contraceptives	predictedType:chemical	q:true	qid:Q250	docId:6884395	origText:oral contraceptives	url:D003276
 CANDIDATE	id:3276	inCount:4	outCount:1	links:	url:D003276	name:Contraceptives, Oral	normalName:contraceptives, oral	normalWikiTitle:contraceptives, oral	predictedType:Chemical
 CANDIDATE	id:3281	inCount:2	outCount:1	links:	url:D003281	name:Contraceptives, Postcoital	normalName:contraceptives, postcoital	normalWikiTitle:contraceptives, postcoital	predictedType:Chemical
 CANDIDATE	id:3278	inCount:0	outCount:2	links:	url:D003278	name:Contraceptives, Oral, Hormonal	normalName:contraceptives, oral, hormonal	normalWikiTitle:contraceptives, oral, hormonal	predictedType:Chemical

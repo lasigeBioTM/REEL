@@ -1,32 +1,7 @@
-ENTITY	text:neurotoxic	normalName:neurotoxic	predictedType:disease	q:true	qid:Q333	docId:946593	origText:neurotoxic	url:D020258
-CANDIDATE	id:20258	inCount:7	outCount:2	links:20258;10264	url:D020258	name:Neurotoxicity Syndromes	normalName:neurotoxicity syndromes	normalWikiTitle:neurotoxicity syndromes	predictedType:Disease
-CANDIDATE	id:4767	inCount:0	outCount:2	links:4767	url:D004767	name:Enterotoxemia	normalName:enterotoxemia	normalWikiTitle:enterotoxemia	predictedType:Disease
-CANDIDATE	id:9443	inCount:2	outCount:1	links:9443	url:D009443	name:Neuritis	normalName:neuritis	normalWikiTitle:neuritis	predictedType:Disease
-CANDIDATE	id:18306	inCount:0	outCount:2	links:18306	url:D018306	name:Neurocytoma	normalName:neurocytoma	normalWikiTitle:neurocytoma	predictedType:Disease
-CANDIDATE	id:9902	inCount:1	outCount:1	links:9902	url:D009902	name:Optic Neuritis	normalName:optic neuritis	normalWikiTitle:optic neuritis	predictedType:Disease
-CANDIDATE	id:11030	inCount:3	outCount:1	links:	url:D011030	name:Pneumothorax	normalName:pneumothorax	normalWikiTitle:pneumothorax	predictedType:Disease
-CANDIDATE	id:1014	inCount:5	outCount:2	links:	url:D001014	name:Aortic Aneurysm	normalName:aortic aneurysm	normalWikiTitle:aortic aneurysm	predictedType:Disease
-CANDIDATE	id:18321	inCount:0	outCount:2	links:	url:D018321	name:Neurothekeoma	normalName:neurothekeoma	normalWikiTitle:neurothekeoma	predictedType:Disease
-CANDIDATE	id:9447	inCount:2	outCount:1	links:	url:D009447	name:Neuroblastoma	normalName:neuroblastoma	normalWikiTitle:neuroblastoma	predictedType:Disease
-CANDIDATE	id:14987	inCount:1	outCount:1	links:	url:D014987	name:Xerostomia	normalName:xerostomia	normalWikiTitle:xerostomia	predictedType:Disease
-ENTITY	text:Paraplegia	normalName:paraplegia	predictedType:disease	q:true	qid:Q333	docId:946593	origText:Paraplegia	url:D010264
-CANDIDATE	id:10264	inCount:13	outCount:1	links:20258	url:D010264	name:Paraplegia	normalName:paraplegia	normalWikiTitle:paraplegia	predictedType:Disease
-ENTITY	text:toxicity	normalName:toxicity	predictedType:disease	q:true	qid:Q333	docId:946593	origText:toxicity	url:D064420
-CANDIDATE	id:64420	inCount:10	outCount:1	links:	url:D064420	name:Drug Toxicity	normalName:drug toxicity	normalWikiTitle:drug toxicity	predictedType:Disease
-CANDIDATE	id:66126	inCount:0	outCount:3	links:66126	url:D066126	name:Cardiotoxicity	normalName:cardiotoxicity	normalWikiTitle:cardiotoxicity	predictedType:Disease
-CANDIDATE	id:15651	inCount:2	outCount:1	links:	url:D015651	name:Mycotoxicosis	normalName:mycotoxicosis	normalWikiTitle:mycotoxicosis	predictedType:Disease
-CANDIDATE	id:13971	inCount:2	outCount:1	links:13971	url:D013971	name:Thyrotoxicosis	normalName:thyrotoxicosis	normalWikiTitle:thyrotoxicosis	predictedType:Disease
-CANDIDATE	id:14869	inCount:0	outCount:2	links:	url:D014869	name:Water Intoxication	normalName:water intoxication	normalWikiTitle:water intoxication	predictedType:Disease
-CANDIDATE	id:14103	inCount:4	outCount:2	links:	url:D014103	name:Torticollis	normalName:torticollis	normalWikiTitle:torticollis	predictedType:Disease
-CANDIDATE	id:9765	inCount:42	outCount:2	links:	url:D009765	name:Obesity	normalName:obesity	normalWikiTitle:obesity	predictedType:Disease
-CANDIDATE	id:14115	inCount:1	outCount:1	links:	url:D014115	name:Toxemia	normalName:toxemia	normalWikiTitle:toxemia	predictedType:Disease
-CANDIDATE	id:7246	inCount:2	outCount:2	links:7246	url:D007246	name:Infertility	normalName:infertility	normalWikiTitle:infertility	predictedType:Disease
-CANDIDATE	id:20234	inCount:0	outCount:2	links:	url:D020234	name:Gait Ataxia	normalName:gait ataxia	normalWikiTitle:gait ataxia	predictedType:Disease
-CANDIDATE	id:14069	inCount:1	outCount:1	links:	url:D014069	name:Tonsillitis	normalName:tonsillitis	normalWikiTitle:tonsillitis	predictedType:Disease
-CANDIDATE	id:64420	inCount:10	outCount:1	links:	url:D064420	name:Toxicity, Drug	normalName:toxicity, drug	normalWikiTitle:toxicity, drug	predictedType:Disease
-CANDIDATE	id:17484	inCount:0	outCount:2	links:	url:D017484	name:Phototoxicity	normalName:phototoxicity	normalWikiTitle:phototoxicity	predictedType:Disease
-ENTITY	text:central nervous system leukemia	normalName:central nervous system leukemia	predictedType:disease	q:true	qid:Q333	docId:946593	origText:central nervous system leukemia	url:D002493
-CANDIDATE	id:2493	inCount:15	outCount:1	links:	url:D002493	name:Central Nervous System Diseases	normalName:central nervous system diseases	normalWikiTitle:central nervous system diseases	predictedType:Disease
+ENTITY	text:Paraplegia	normalName:paraplegia	predictedType:disease	q:true	qid:Q137	docId:946593	origText:Paraplegia	url:D010264
+CANDIDATE	id:10264	inCount:13	outCount:1	links:2493;20258	url:D010264	name:Paraplegia	normalName:paraplegia	normalWikiTitle:paraplegia	predictedType:Disease
+ENTITY	text:central nervous system leukemia	normalName:central nervous system leukemia	predictedType:disease	q:true	qid:Q137	docId:946593	origText:central nervous system leukemia	url:D002493
+CANDIDATE	id:2493	inCount:13	outCount:1	links:10264;20258	url:D002493	name:Central Nervous System Diseases	normalName:central nervous system diseases	normalWikiTitle:central nervous system diseases	predictedType:Disease
 CANDIDATE	id:20809	inCount:2	outCount:1	links:	url:D020809	name:Central Nervous System Helminthiasis	normalName:central nervous system helminthiasis	normalWikiTitle:central nervous system helminthiasis	predictedType:Disease
 CANDIDATE	id:16543	inCount:4	outCount:1	links:	url:D016543	name:Central Nervous System Neoplasms	normalName:central nervous system neoplasms	normalWikiTitle:central nervous system neoplasms	predictedType:Disease
 CANDIDATE	id:20863	inCount:5	outCount:2	links:	url:D020863	name:Central Nervous System Cysts	normalName:central nervous system cysts	normalWikiTitle:central nervous system cysts	predictedType:Disease
@@ -37,10 +12,35 @@ CANDIDATE	id:20314	inCount:2	outCount:2	links:	url:D020314	name:Central Nervous 
 CANDIDATE	id:20945	inCount:0	outCount:3	links:	url:D020945	name:Lupus Vasculitis, Central Nervous System	normalName:lupus vasculitis, central nervous system	normalWikiTitle:lupus vasculitis, central nervous system	predictedType:Disease
 CANDIDATE	id:20293	inCount:6	outCount:3	links:	url:D020293	name:Vasculitis, Central Nervous System	normalName:vasculitis, central nervous system	normalWikiTitle:vasculitis, central nervous system	predictedType:Disease
 CANDIDATE	id:20945	inCount:0	outCount:3	links:	url:D020945	name:Central Nervous System Lupus	normalName:central nervous system lupus	normalWikiTitle:central nervous system lupus	predictedType:Disease
-ENTITY	text:neurotoxicity	normalName:neurotoxicity	predictedType:disease	q:true	qid:Q333	docId:946593	origText:neurotoxicity	url:D020258
-CANDIDATE	id:20258	inCount:7	outCount:2	links:20258;10264	url:D020258	name:Neurotoxicity Syndromes	normalName:neurotoxicity syndromes	normalWikiTitle:neurotoxicity syndromes	predictedType:Disease
-CANDIDATE	id:66126	inCount:0	outCount:3	links:66126	url:D066126	name:Cardiotoxicity	normalName:cardiotoxicity	normalWikiTitle:cardiotoxicity	predictedType:Disease
-CANDIDATE	id:7246	inCount:2	outCount:2	links:7246	url:D007246	name:Infertility	normalName:infertility	normalWikiTitle:infertility	predictedType:Disease
+ENTITY	text:neurotoxic	normalName:neurotoxic	predictedType:disease	q:true	qid:Q137	docId:946593	origText:neurotoxic	url:D020258
+CANDIDATE	id:20258	inCount:7	outCount:2	links:2493;66126;10264;20258	url:D020258	name:Neurotoxicity Syndromes	normalName:neurotoxicity syndromes	normalWikiTitle:neurotoxicity syndromes	predictedType:Disease
+CANDIDATE	id:4767	inCount:0	outCount:2	links:4767	url:D004767	name:Enterotoxemia	normalName:enterotoxemia	normalWikiTitle:enterotoxemia	predictedType:Disease
+CANDIDATE	id:9443	inCount:2	outCount:1	links:9443	url:D009443	name:Neuritis	normalName:neuritis	normalWikiTitle:neuritis	predictedType:Disease
+CANDIDATE	id:18306	inCount:0	outCount:2	links:18306	url:D018306	name:Neurocytoma	normalName:neurocytoma	normalWikiTitle:neurocytoma	predictedType:Disease
+CANDIDATE	id:9902	inCount:1	outCount:1	links:9902	url:D009902	name:Optic Neuritis	normalName:optic neuritis	normalWikiTitle:optic neuritis	predictedType:Disease
+CANDIDATE	id:11030	inCount:2	outCount:1	links:	url:D011030	name:Pneumothorax	normalName:pneumothorax	normalWikiTitle:pneumothorax	predictedType:Disease
+CANDIDATE	id:1014	inCount:5	outCount:2	links:	url:D001014	name:Aortic Aneurysm	normalName:aortic aneurysm	normalWikiTitle:aortic aneurysm	predictedType:Disease
+CANDIDATE	id:18321	inCount:0	outCount:2	links:	url:D018321	name:Neurothekeoma	normalName:neurothekeoma	normalWikiTitle:neurothekeoma	predictedType:Disease
+CANDIDATE	id:9447	inCount:2	outCount:1	links:	url:D009447	name:Neuroblastoma	normalName:neuroblastoma	normalWikiTitle:neuroblastoma	predictedType:Disease
+CANDIDATE	id:14987	inCount:1	outCount:1	links:	url:D014987	name:Xerostomia	normalName:xerostomia	normalWikiTitle:xerostomia	predictedType:Disease
+ENTITY	text:toxicity	normalName:toxicity	predictedType:disease	q:true	qid:Q137	docId:946593	origText:toxicity	url:D064420
+CANDIDATE	id:64420	inCount:14	outCount:1	links:	url:D064420	name:Drug Toxicity	normalName:drug toxicity	normalWikiTitle:drug toxicity	predictedType:Disease
+CANDIDATE	id:66126	inCount:0	outCount:4	links:66126;20258	url:D066126	name:Cardiotoxicity	normalName:cardiotoxicity	normalWikiTitle:cardiotoxicity	predictedType:Disease
+CANDIDATE	id:15651	inCount:2	outCount:1	links:	url:D015651	name:Mycotoxicosis	normalName:mycotoxicosis	normalWikiTitle:mycotoxicosis	predictedType:Disease
+CANDIDATE	id:13971	inCount:2	outCount:1	links:13971	url:D013971	name:Thyrotoxicosis	normalName:thyrotoxicosis	normalWikiTitle:thyrotoxicosis	predictedType:Disease
+CANDIDATE	id:14869	inCount:0	outCount:2	links:	url:D014869	name:Water Intoxication	normalName:water intoxication	normalWikiTitle:water intoxication	predictedType:Disease
+CANDIDATE	id:14103	inCount:4	outCount:1	links:	url:D014103	name:Torticollis	normalName:torticollis	normalWikiTitle:torticollis	predictedType:Disease
+CANDIDATE	id:9765	inCount:43	outCount:1	links:	url:D009765	name:Obesity	normalName:obesity	normalWikiTitle:obesity	predictedType:Disease
+CANDIDATE	id:14115	inCount:1	outCount:1	links:	url:D014115	name:Toxemia	normalName:toxemia	normalWikiTitle:toxemia	predictedType:Disease
+CANDIDATE	id:7246	inCount:2	outCount:1	links:7246	url:D007246	name:Infertility	normalName:infertility	normalWikiTitle:infertility	predictedType:Disease
+CANDIDATE	id:20234	inCount:0	outCount:2	links:	url:D020234	name:Gait Ataxia	normalName:gait ataxia	normalWikiTitle:gait ataxia	predictedType:Disease
+CANDIDATE	id:14069	inCount:1	outCount:1	links:	url:D014069	name:Tonsillitis	normalName:tonsillitis	normalWikiTitle:tonsillitis	predictedType:Disease
+CANDIDATE	id:64420	inCount:14	outCount:1	links:	url:D064420	name:Toxicity, Drug	normalName:toxicity, drug	normalWikiTitle:toxicity, drug	predictedType:Disease
+CANDIDATE	id:17484	inCount:0	outCount:2	links:	url:D017484	name:Phototoxicity	normalName:phototoxicity	normalWikiTitle:phototoxicity	predictedType:Disease
+ENTITY	text:neurotoxicity	normalName:neurotoxicity	predictedType:disease	q:true	qid:Q137	docId:946593	origText:neurotoxicity	url:D020258
+CANDIDATE	id:20258	inCount:7	outCount:2	links:2493;66126;10264;20258	url:D020258	name:Neurotoxicity Syndromes	normalName:neurotoxicity syndromes	normalWikiTitle:neurotoxicity syndromes	predictedType:Disease
+CANDIDATE	id:66126	inCount:0	outCount:4	links:66126;20258	url:D066126	name:Cardiotoxicity	normalName:cardiotoxicity	normalWikiTitle:cardiotoxicity	predictedType:Disease
+CANDIDATE	id:7246	inCount:2	outCount:1	links:7246	url:D007246	name:Infertility	normalName:infertility	normalWikiTitle:infertility	predictedType:Disease
 CANDIDATE	id:4767	inCount:0	outCount:2	links:4767	url:D004767	name:Enterotoxemia	normalName:enterotoxemia	normalWikiTitle:enterotoxemia	predictedType:Disease
 CANDIDATE	id:13971	inCount:2	outCount:1	links:13971	url:D013971	name:Thyrotoxicosis	normalName:thyrotoxicosis	normalWikiTitle:thyrotoxicosis	predictedType:Disease
 CANDIDATE	id:9902	inCount:1	outCount:1	links:9902	url:D009902	name:Optic Neuritis	normalName:optic neuritis	normalWikiTitle:optic neuritis	predictedType:Disease

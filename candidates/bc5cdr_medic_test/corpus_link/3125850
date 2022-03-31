@@ -1,8 +1,8 @@
-ENTITY	text:muscle fasciculations	normalName:muscle fasciculations	predictedType:disease	q:true	qid:Q471	docId:3125850	origText:muscle fasciculations	url:D005207
+ENTITY	text:muscle fasciculations	normalName:muscle fasciculations	predictedType:disease	q:true	qid:Q199	docId:3125850	origText:muscle fasciculations	url:D005207
 CANDIDATE	id:5207	inCount:1	outCount:1	links:	url:D005207	name:Fasciculations, Skeletal Muscle	normalName:fasciculations, skeletal muscle	normalWikiTitle:fasciculations, skeletal muscle	predictedType:Disease
 CANDIDATE	id:5207	inCount:1	outCount:1	links:	url:D005207	name:Fasciculation	normalName:fasciculation	normalWikiTitle:fasciculation	predictedType:Disease
 CANDIDATE	id:537892	inCount:0	outCount:3	links:	url:C537892	name:PHACE association	normalName:phace association	normalWikiTitle:phace association	predictedType:Disease
-CANDIDATE	id:61686	inCount:0	outCount:2	links:	url:D061686	name:Premature Ejaculation	normalName:premature ejaculation	normalWikiTitle:premature ejaculation	predictedType:Disease
+CANDIDATE	id:61686	inCount:1	outCount:3	links:	url:D061686	name:Premature Ejaculation	normalName:premature ejaculation	normalWikiTitle:premature ejaculation	predictedType:Disease
 CANDIDATE	id:536633	inCount:0	outCount:1	links:	url:C536633	name:Schisis association	normalName:schisis association	normalWikiTitle:schisis association	predictedType:Disease
 CANDIDATE	id:1184	inCount:1	outCount:1	links:	url:D001184	name:Articulation Disorders	normalName:articulation disorders	normalWikiTitle:articulation disorders	predictedType:Disease
 CANDIDATE	id:61205	inCount:3	outCount:1	links:	url:D061205	name:Vascular Calcification	normalName:vascular calcification	normalWikiTitle:vascular calcification	predictedType:Disease

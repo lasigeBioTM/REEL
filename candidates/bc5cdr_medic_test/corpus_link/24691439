@@ -1,6 +1,8 @@
-ENTITY	text:ocular hypertension	normalName:ocular hypertension	predictedType:disease	q:true	qid:Q484	docId:24691439	origText:ocular hypertension	url:D009798
+ENTITY	text:glaucoma	normalName:glaucoma	predictedType:disease	q:true	qid:Q59	docId:24691439	origText:glaucoma	url:D005901
+CANDIDATE	id:5901	inCount:34	outCount:1	links:9798;9410	url:D005901	name:Glaucoma	normalName:glaucoma	normalWikiTitle:glaucoma	predictedType:Disease
+ENTITY	text:ocular hypertension	normalName:ocular hypertension	predictedType:disease	q:true	qid:Q59	docId:24691439	origText:ocular hypertension	url:D009798
 CANDIDATE	id:9798	inCount:1	outCount:1	links:9410;5901	url:D009798	name:Ocular Hypertension	normalName:ocular hypertension	normalWikiTitle:ocular hypertension	predictedType:Disease
-ENTITY	text:axonal degeneration	normalName:axonal degeneration	predictedType:disease	q:true	qid:Q484	docId:24691439	origText:axonal degeneration	url:D009410
+ENTITY	text:axonal degeneration	normalName:axonal degeneration	predictedType:disease	q:true	qid:Q59	docId:24691439	origText:axonal degeneration	url:D009410
 CANDIDATE	id:9410	inCount:6	outCount:1	links:9798;5901	url:D009410	name:Nerve Degeneration	normalName:nerve degeneration	normalWikiTitle:nerve degeneration	predictedType:Disease
 CANDIDATE	id:75902	inCount:0	outCount:1	links:	url:D000075902	name:Clinical Deterioration	normalName:clinical deterioration	normalWikiTitle:clinical deterioration	predictedType:Disease
 CANDIDATE	id:57112	inCount:0	outCount:1	links:	url:D057112	name:Corneal Perforation	normalName:corneal perforation	normalWikiTitle:corneal perforation	predictedType:Disease
@@ -21,5 +23,3 @@ CANDIDATE	id:71700	inCount:1	outCount:2	links:	url:D000071700	name:Cone Rod Dege
 CANDIDATE	id:12183	inCount:0	outCount:1	links:	url:D012183	name:Reaction, Axon	normalName:reaction, axon	normalWikiTitle:reaction, axon	predictedType:Disease
 CANDIDATE	id:12183	inCount:0	outCount:1	links:	url:D012183	name:Axon Reaction	normalName:axon reaction	normalWikiTitle:axon reaction	predictedType:Disease
 CANDIDATE	id:536432	inCount:0	outCount:2	links:	url:C536432	name:Cochleosaccular Degeneration	normalName:cochleosaccular degeneration	normalWikiTitle:cochleosaccular degeneration	predictedType:Disease
-ENTITY	text:glaucoma	normalName:glaucoma	predictedType:disease	q:true	qid:Q484	docId:24691439	origText:glaucoma	url:D005901
-CANDIDATE	id:5901	inCount:34	outCount:1	links:9798;9410	url:D005901	name:Glaucoma	normalName:glaucoma	normalWikiTitle:glaucoma	predictedType:Disease

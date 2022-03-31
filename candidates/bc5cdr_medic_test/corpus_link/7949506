@@ -1,17 +1,17 @@
-ENTITY	text:AV block	normalName:av block	predictedType:disease	q:true	qid:Q102	docId:7949506	origText:AV block	url:D054537
-CANDIDATE	id:54537	inCount:1	outCount:1	links:7022	url:D054537	name:AV Block	normalName:av block	normalWikiTitle:av block	predictedType:Disease
-ENTITY	text:hyperaldosteronism	normalName:hyperaldosteronism	predictedType:disease	q:true	qid:Q102	docId:7949506	origText:hyperaldosteronism	url:D006929
-CANDIDATE	id:6929	inCount:6	outCount:1	links:	url:D006929	name:Hyperaldosteronism	normalName:hyperaldosteronism	normalWikiTitle:hyperaldosteronism	predictedType:Disease
-ENTITY	text:hypotension	normalName:hypotension	predictedType:disease	q:true	qid:Q102	docId:7949506	origText:hypotension	url:D007022
-CANDIDATE	id:7022	inCount:3	outCount:1	links:54537	url:D007022	name:Hypotension	normalName:hypotension	normalWikiTitle:hypotension	predictedType:Disease
-ENTITY	text:atrioventricular (AV) block	normalName:atrioventricular (av) block	predictedType:disease	q:true	qid:Q102	docId:7949506	origText:atrioventricular (AV) block	url:D054537
+ENTITY	text:atrioventricular (AV) block	normalName:atrioventricular (av) block	predictedType:disease	q:true	qid:Q273	docId:7949506	origText:atrioventricular (AV) block	url:D054537
 CANDIDATE	id:54537	inCount:1	outCount:1	links:7022	url:D054537	name:Atrioventricular Block	normalName:atrioventricular block	normalWikiTitle:atrioventricular block	predictedType:Disease
 CANDIDATE	id:536112	inCount:0	outCount:1	links:	url:C536112	name:Partial atrioventricular canal	normalName:partial atrioventricular canal	normalWikiTitle:partial atrioventricular canal	predictedType:Disease
 CANDIDATE	id:562831	inCount:0	outCount:1	links:	url:C562831	name:Atrioventricular Septal Defect	normalName:atrioventricular septal defect	normalWikiTitle:atrioventricular septal defect	predictedType:Disease
 CANDIDATE	id:58606	inCount:0	outCount:1	links:	url:D058606	name:Accessory Atrioventricular Bundle	normalName:accessory atrioventricular bundle	normalWikiTitle:accessory atrioventricular bundle	predictedType:Disease
-CANDIDATE	id:14693	inCount:3	outCount:1	links:	url:D014693	name:Ventricular Fibrillation	normalName:ventricular fibrillation	normalWikiTitle:ventricular fibrillation	predictedType:Disease
-CANDIDATE	id:13611	inCount:0	outCount:1	links:	url:D013611	name:Tachycardia, Atrioventricular Nodal Reentry	normalName:tachycardia, atrioventricular nodal reentry	normalWikiTitle:tachycardia, atrioventricular nodal reentry	predictedType:Disease
+CANDIDATE	id:14693	inCount:3	outCount:1	links:7022	url:D014693	name:Ventricular Fibrillation	normalName:ventricular fibrillation	normalWikiTitle:ventricular fibrillation	predictedType:Disease
+CANDIDATE	id:13611	inCount:0	outCount:1	links:7022;54537	url:D013611	name:Tachycardia, Atrioventricular Nodal Reentry	normalName:tachycardia, atrioventricular nodal reentry	normalWikiTitle:tachycardia, atrioventricular nodal reentry	predictedType:Disease
 CANDIDATE	id:535974	inCount:0	outCount:1	links:	url:C535974	name:Complete atrioventricular septal defect	normalName:complete atrioventricular septal defect	normalWikiTitle:complete atrioventricular septal defect	predictedType:Disease
 CANDIDATE	id:54141	inCount:0	outCount:1	links:	url:D054141	name:Ventricular Flutter	normalName:ventricular flutter	normalWikiTitle:ventricular flutter	predictedType:Disease
-CANDIDATE	id:17180	inCount:4	outCount:1	links:	url:D017180	name:Tachycardia, Ventricular	normalName:tachycardia, ventricular	normalWikiTitle:tachycardia, ventricular	predictedType:Disease
-CANDIDATE	id:18754	inCount:2	outCount:1	links:	url:D018754	name:Ventricular Dysfunction	normalName:ventricular dysfunction	normalWikiTitle:ventricular dysfunction	predictedType:Disease
+CANDIDATE	id:17180	inCount:4	outCount:1	links:7022	url:D017180	name:Tachycardia, Ventricular	normalName:tachycardia, ventricular	normalWikiTitle:tachycardia, ventricular	predictedType:Disease
+CANDIDATE	id:18754	inCount:2	outCount:1	links:7022;54537	url:D018754	name:Ventricular Dysfunction	normalName:ventricular dysfunction	normalWikiTitle:ventricular dysfunction	predictedType:Disease
+ENTITY	text:hypotension	normalName:hypotension	predictedType:disease	q:true	qid:Q273	docId:7949506	origText:hypotension	url:D007022
+CANDIDATE	id:7022	inCount:3	outCount:1	links:14693;17180;54537;13611;18754	url:D007022	name:Hypotension	normalName:hypotension	normalWikiTitle:hypotension	predictedType:Disease
+ENTITY	text:hyperaldosteronism	normalName:hyperaldosteronism	predictedType:disease	q:true	qid:Q273	docId:7949506	origText:hyperaldosteronism	url:D006929
+CANDIDATE	id:6929	inCount:6	outCount:1	links:	url:D006929	name:Hyperaldosteronism	normalName:hyperaldosteronism	normalWikiTitle:hyperaldosteronism	predictedType:Disease
+ENTITY	text:AV block	normalName:av block	predictedType:disease	q:true	qid:Q273	docId:7949506	origText:AV block	url:D054537
+CANDIDATE	id:54537	inCount:1	outCount:1	links:7022	url:D054537	name:AV Block	normalName:av block	normalWikiTitle:av block	predictedType:Disease

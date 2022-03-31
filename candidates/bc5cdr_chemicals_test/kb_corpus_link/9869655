@@ -1,17 +1,4 @@
-ENTITY	text:sterol	normalName:sterol	predictedType:chemical	q:true	qid:Q124	docId:9869655	origText:sterol	url:D013261
-CANDIDATE	id:13261	inCount:184	outCount:2	links:	url:D013261	name:Sterols	normalName:sterols	normalWikiTitle:sterols	predictedType:Chemical
-CANDIDATE	id:4953	inCount:1	outCount:1	links:	url:D004953	name:Estetrol	normalName:estetrol	normalWikiTitle:estetrol	predictedType:Chemical
-CANDIDATE	id:16761	inCount:0	outCount:1	links:	url:C016761	name:Stericol	normalName:stericol	normalWikiTitle:stericol	predictedType:Chemical
-CANDIDATE	id:100252	inCount:0	outCount:1	links:	url:C100252	name:soterenol	normalName:soterenol	normalWikiTitle:soterenol	predictedType:Chemical
-CANDIDATE	id:7699	inCount:0	outCount:2	links:	url:C007699	name:exosterol	normalName:exosterol	normalWikiTitle:exosterol	predictedType:Chemical
-CANDIDATE	id:33580	inCount:0	outCount:1	links:	url:C033580	name:soysterol	normalName:soysterol	normalWikiTitle:soysterol	predictedType:Chemical
-CANDIDATE	id:301	inCount:1	outCount:1	links:	url:D000301	name:Adosterol	normalName:adosterol	normalWikiTitle:adosterol	predictedType:Chemical
-CANDIDATE	id:60242	inCount:0	outCount:1	links:	url:C060242	name:episterol	normalName:episterol	normalWikiTitle:episterol	predictedType:Chemical
-CANDIDATE	id:420337	inCount:0	outCount:1	links:	url:C420337	name:teucrol	normalName:teucrol	normalWikiTitle:teucrol	predictedType:Chemical
-CANDIDATE	id:12042	inCount:0	outCount:1	links:	url:C012042	name:steviol	normalName:steviol	normalWikiTitle:steviol	predictedType:Chemical
-ENTITY	text:chenodeoxycholate	normalName:chenodeoxycholate	predictedType:chemical	q:true	qid:Q124	docId:9869655	origText:chenodeoxycholate	url:D002635
-CANDIDATE	id:2635	inCount:35	outCount:1	links:	url:D002635	name:Chenodeoxycholate	normalName:chenodeoxycholate	normalWikiTitle:chenodeoxycholate	predictedType:Chemical
-ENTITY	text:bile salt	normalName:bile salt	predictedType:chemical	q:true	qid:Q124	docId:9869655	origText:bile salt	url:D001647
+ENTITY	text:bile salt	normalName:bile salt	predictedType:chemical	q:true	qid:Q316	docId:9869655	origText:bile salt	url:D001647
 CANDIDATE	id:1647	inCount:9	outCount:1	links:	url:D001647	name:Bile Salts	normalName:bile salts	normalWikiTitle:bile salts	predictedType:Chemical
 CANDIDATE	id:11183	inCount:0	outCount:1	links:	url:C011183	name:Bunte Salts	normalName:bunte salts	normalWikiTitle:bunte salts	predictedType:Chemical
 CANDIDATE	id:540816	inCount:0	outCount:1	links:	url:C540816	name:erbie san	normalName:erbie san	normalWikiTitle:erbie san	predictedType:Chemical
@@ -31,7 +18,20 @@ CANDIDATE	id:511754	inCount:0	outCount:1	links:	url:C511754	name:CMB salt	normal
 CANDIDATE	id:22622	inCount:0	outCount:1	links:	url:D022622	name:SLT I	normalName:slt i	normalWikiTitle:slt i	predictedType:Chemical
 CANDIDATE	id:427003	inCount:0	outCount:1	links:	url:C427003	name:Ems salt	normalName:ems salt	normalWikiTitle:ems salt	predictedType:Chemical
 CANDIDATE	id:22622	inCount:0	outCount:1	links:	url:D022622	name:SLT-I	normalName:slt-i	normalWikiTitle:slt-i	predictedType:Chemical
-ENTITY	text:cholate	normalName:cholate	predictedType:chemical	q:true	qid:Q124	docId:9869655	origText:cholate	url:D020355
-CANDIDATE	id:20355	inCount:7	outCount:1	links:	url:D020355	name:Cholate	normalName:cholate	normalWikiTitle:cholate	predictedType:Chemical
-ENTITY	text:cholesterol	normalName:cholesterol	predictedType:chemical	q:true	qid:Q124	docId:9869655	origText:cholesterol	url:D002784
+ENTITY	text:cholesterol	normalName:cholesterol	predictedType:chemical	q:true	qid:Q316	docId:9869655	origText:cholesterol	url:D002784
 CANDIDATE	id:2784	inCount:223	outCount:2	links:	url:D002784	name:Cholesterol	normalName:cholesterol	normalWikiTitle:cholesterol	predictedType:Chemical
+ENTITY	text:sterol	normalName:sterol	predictedType:chemical	q:true	qid:Q316	docId:9869655	origText:sterol	url:D013261
+CANDIDATE	id:13261	inCount:184	outCount:2	links:	url:D013261	name:Sterols	normalName:sterols	normalWikiTitle:sterols	predictedType:Chemical
+CANDIDATE	id:4953	inCount:2	outCount:1	links:	url:D004953	name:Estetrol	normalName:estetrol	normalWikiTitle:estetrol	predictedType:Chemical
+CANDIDATE	id:16761	inCount:0	outCount:1	links:	url:C016761	name:Stericol	normalName:stericol	normalWikiTitle:stericol	predictedType:Chemical
+CANDIDATE	id:100252	inCount:0	outCount:1	links:	url:C100252	name:soterenol	normalName:soterenol	normalWikiTitle:soterenol	predictedType:Chemical
+CANDIDATE	id:7699	inCount:0	outCount:2	links:	url:C007699	name:exosterol	normalName:exosterol	normalWikiTitle:exosterol	predictedType:Chemical
+CANDIDATE	id:33580	inCount:0	outCount:1	links:	url:C033580	name:soysterol	normalName:soysterol	normalWikiTitle:soysterol	predictedType:Chemical
+CANDIDATE	id:301	inCount:1	outCount:1	links:	url:D000301	name:Adosterol	normalName:adosterol	normalWikiTitle:adosterol	predictedType:Chemical
+CANDIDATE	id:60242	inCount:0	outCount:1	links:	url:C060242	name:episterol	normalName:episterol	normalWikiTitle:episterol	predictedType:Chemical
+CANDIDATE	id:420337	inCount:0	outCount:1	links:	url:C420337	name:teucrol	normalName:teucrol	normalWikiTitle:teucrol	predictedType:Chemical
+CANDIDATE	id:12042	inCount:0	outCount:1	links:	url:C012042	name:steviol	normalName:steviol	normalWikiTitle:steviol	predictedType:Chemical
+ENTITY	text:cholate	normalName:cholate	predictedType:chemical	q:true	qid:Q316	docId:9869655	origText:cholate	url:D020355
+CANDIDATE	id:20355	inCount:7	outCount:1	links:	url:D020355	name:Cholate	normalName:cholate	normalWikiTitle:cholate	predictedType:Chemical
+ENTITY	text:chenodeoxycholate	normalName:chenodeoxycholate	predictedType:chemical	q:true	qid:Q316	docId:9869655	origText:chenodeoxycholate	url:D002635
+CANDIDATE	id:2635	inCount:35	outCount:1	links:	url:D002635	name:Chenodeoxycholate	normalName:chenodeoxycholate	normalWikiTitle:chenodeoxycholate	predictedType:Chemical

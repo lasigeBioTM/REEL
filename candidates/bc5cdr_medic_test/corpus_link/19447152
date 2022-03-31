@@ -1,5 +1,5 @@
-ENTITY	text:bipolar mania	normalName:bipolar mania	predictedType:disease	q:true	qid:Q169	docId:19447152	origText:bipolar mania	url:D001714
-CANDIDATE	id:1714	inCount:11	outCount:1	links:	url:D001714	name:Bipolar Disorder	normalName:bipolar disorder	normalWikiTitle:bipolar disorder	predictedType:Disease
+ENTITY	text:bipolar mania	normalName:bipolar mania	predictedType:disease	q:true	qid:Q468	docId:19447152	origText:bipolar mania	url:D001714
+CANDIDATE	id:1714	inCount:11	outCount:1	links:7172	url:D001714	name:Bipolar Disorder	normalName:bipolar disorder	normalWikiTitle:bipolar disorder	predictedType:Disease
 CANDIDATE	id:70603	inCount:0	outCount:1	links:	url:D000070603	name:Coxa Magna	normalName:coxa magna	normalWikiTitle:coxa magna	predictedType:Disease
 CANDIDATE	id:18324	inCount:3	outCount:1	links:	url:D018324	name:Hemangioma, Capillary	normalName:hemangioma, capillary	normalWikiTitle:hemangioma, capillary	predictedType:Disease
 CANDIDATE	id:8080	inCount:2	outCount:2	links:	url:D008080	name:Liposarcoma	normalName:liposarcoma	normalWikiTitle:liposarcoma	predictedType:Disease
@@ -18,18 +18,16 @@ CANDIDATE	id:6423	inCount:0	outCount:2	links:	url:D006423	name:Bitemporal Hemian
 CANDIDATE	id:6423	inCount:0	outCount:2	links:	url:D006423	name:Hemianopsia, Bitemporal	normalName:hemianopsia, bitemporal	normalWikiTitle:hemianopsia, bitemporal	predictedType:Disease
 CANDIDATE	id:6423	inCount:0	outCount:2	links:	url:D006423	name:Bitemporal Hemianopsia	normalName:bitemporal hemianopsia	normalWikiTitle:bitemporal hemianopsia	predictedType:Disease
 CANDIDATE	id:6423	inCount:0	outCount:2	links:	url:D006423	name:Hemianopias, Bitemporal	normalName:hemianopias, bitemporal	normalWikiTitle:hemianopias, bitemporal	predictedType:Disease
-ENTITY	text:mania	normalName:mania	predictedType:disease	q:true	qid:Q169	docId:19447152	origText:mania	url:D001714
-CANDIDATE	id:1714	inCount:11	outCount:1	links:	url:D001714	name:Mania	normalName:mania	normalWikiTitle:mania	predictedType:Disease
-ENTITY	text:mitochondrial dysfunction	normalName:mitochondrial dysfunction	predictedType:disease	q:true	qid:Q169	docId:19447152	origText:mitochondrial dysfunction	url:D028361
-CANDIDATE	id:28361	inCount:64	outCount:1	links:	url:D028361	name:Mitochondrial Diseases	normalName:mitochondrial diseases	normalWikiTitle:mitochondrial diseases	predictedType:Disease
+ENTITY	text:bipolar disorder	normalName:bipolar disorder	predictedType:disease	q:true	qid:Q468	docId:19447152	origText:bipolar disorder	url:D001714
+CANDIDATE	id:1714	inCount:11	outCount:1	links:7172	url:D001714	name:Bipolar Disorder	normalName:bipolar disorder	normalWikiTitle:bipolar disorder	predictedType:Disease
+ENTITY	text:mitochondrial dysfunction	normalName:mitochondrial dysfunction	predictedType:disease	q:true	qid:Q468	docId:19447152	origText:mitochondrial dysfunction	url:D028361
+CANDIDATE	id:28361	inCount:63	outCount:1	links:	url:D028361	name:Mitochondrial Diseases	normalName:mitochondrial diseases	normalWikiTitle:mitochondrial diseases	predictedType:Disease
 CANDIDATE	id:565304	inCount:1	outCount:1	links:	url:C565304	name:Multiple Mitochondrial Dysfunctions Syndrome	normalName:multiple mitochondrial dysfunctions syndrome	normalWikiTitle:multiple mitochondrial dysfunctions syndrome	predictedType:Disease
 CANDIDATE	id:540770	inCount:0	outCount:2	links:	url:C540770	name:Mitochondrial cytopathy	normalName:mitochondrial cytopathy	normalWikiTitle:mitochondrial cytopathy	predictedType:Disease
 CANDIDATE	id:64706	inCount:1	outCount:2	links:	url:D064706	name:Vocal Cord Dysfunction	normalName:vocal cord dysfunction	normalWikiTitle:vocal cord dysfunction	predictedType:Disease
 CANDIDATE	id:18497	inCount:0	outCount:1	links:	url:D018497	name:Ventricular Dysfunction, Right	normalName:ventricular dysfunction, right	normalWikiTitle:ventricular dysfunction, right	predictedType:Disease
 CANDIDATE	id:18754	inCount:2	outCount:1	links:	url:D018754	name:Ventricular Dysfunction	normalName:ventricular dysfunction	normalWikiTitle:ventricular dysfunction	predictedType:Disease
-CANDIDATE	id:7172	inCount:1	outCount:2	links:	url:D007172	name:Erectile Dysfunction	normalName:erectile dysfunction	normalWikiTitle:erectile dysfunction	predictedType:Disease
+CANDIDATE	id:7172	inCount:1	outCount:3	links:1714	url:D007172	name:Erectile Dysfunction	normalName:erectile dysfunction	normalWikiTitle:erectile dysfunction	predictedType:Disease
 CANDIDATE	id:537475	inCount:0	outCount:1	links:	url:C537475	name:Mitochondrial complex I deficiency	normalName:mitochondrial complex i deficiency	normalWikiTitle:mitochondrial complex i deficiency	predictedType:Disease
 CANDIDATE	id:55031	inCount:0	outCount:1	links:	url:D055031	name:Primary Graft Dysfunction	normalName:primary graft dysfunction	normalWikiTitle:primary graft dysfunction	predictedType:Disease
 CANDIDATE	id:538525	inCount:0	outCount:1	links:	url:C538525	name:Mitochondrial encephalopathy	normalName:mitochondrial encephalopathy	normalWikiTitle:mitochondrial encephalopathy	predictedType:Disease
-ENTITY	text:bipolar disorder	normalName:bipolar disorder	predictedType:disease	q:true	qid:Q169	docId:19447152	origText:bipolar disorder	url:D001714
-CANDIDATE	id:1714	inCount:11	outCount:1	links:	url:D001714	name:Bipolar Disorder	normalName:bipolar disorder	normalWikiTitle:bipolar disorder	predictedType:Disease

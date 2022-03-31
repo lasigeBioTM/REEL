@@ -1,16 +1,11 @@
-ENTITY	text:neprotic	normalName:neprotic	predictedType:disease	q:true	qid:Q376	docId:11936424	origText:neprotic	url:D009401
-CANDIDATE	id:9401	inCount:8	outCount:1	links:11507;5923;9404	url:D009401	name:Nephrosis	normalName:nephrosis	normalWikiTitle:nephrosis	predictedType:Disease
-CANDIDATE	id:9393	inCount:10	outCount:1	links:	url:D009393	name:Nephritis	normalName:nephritis	normalWikiTitle:nephritis	predictedType:Disease
-CANDIDATE	id:9902	inCount:1	outCount:1	links:	url:D009902	name:Optic Neuritis	normalName:optic neuritis	normalWikiTitle:optic neuritis	predictedType:Disease
-CANDIDATE	id:9443	inCount:2	outCount:1	links:	url:D009443	name:Neuritis	normalName:neuritis	normalWikiTitle:neuritis	predictedType:Disease
-CANDIDATE	id:9336	inCount:6	outCount:1	links:11507;5923	url:D009336	name:Necrosis	normalName:necrosis	normalWikiTitle:necrosis	predictedType:Disease
-CANDIDATE	id:9404	inCount:23	outCount:1	links:11507;5923;9401	url:D009404	name:Nephrotic Syndrome	normalName:nephrotic syndrome	normalWikiTitle:nephrotic syndrome	predictedType:Disease
-CANDIDATE	id:4881	inCount:0	outCount:1	links:	url:D004881	name:Ergotism	normalName:ergotism	normalWikiTitle:ergotism	predictedType:Disease
-CANDIDATE	id:1014	inCount:5	outCount:2	links:	url:D001014	name:Aortic Aneurysm	normalName:aortic aneurysm	normalWikiTitle:aortic aneurysm	predictedType:Disease
-CANDIDATE	id:53040	inCount:9	outCount:2	links:	url:D053040	name:Nephrolithiasis	normalName:nephrolithiasis	normalWikiTitle:nephrolithiasis	predictedType:Disease
-CANDIDATE	id:53018	inCount:0	outCount:1	links:	url:D053018	name:Pyonephrosis	normalName:pyonephrosis	normalWikiTitle:pyonephrosis	predictedType:Disease
-ENTITY	text:glomerulosclerosis	normalName:glomerulosclerosis	predictedType:disease	q:true	qid:Q376	docId:11936424	origText:glomerulosclerosis	url:D005921
-CANDIDATE	id:5921	inCount:11	outCount:1	links:	url:D005921	name:Glomerulonephritis	normalName:glomerulonephritis	normalWikiTitle:glomerulonephritis	predictedType:Disease
+ENTITY	text:nephrosis	normalName:nephrosis	predictedType:disease	q:true	qid:Q358	docId:11936424	origText:nephrosis	url:D009401
+CANDIDATE	id:9401	inCount:8	outCount:1	links:5923;11507;9404;9336	url:D009401	name:Nephrosis	normalName:nephrosis	normalWikiTitle:nephrosis	predictedType:Disease
+ENTITY	text:proteinuria	normalName:proteinuria	predictedType:disease	q:true	qid:Q358	docId:11936424	origText:proteinuria	url:D011507
+CANDIDATE	id:11507	inCount:4	outCount:2	links:5921;9401;9336;5923;9404	url:D011507	name:Proteinuria	normalName:proteinuria	normalWikiTitle:proteinuria	predictedType:Disease
+ENTITY	text:hypertrophy	normalName:hypertrophy	predictedType:disease	q:true	qid:Q358	docId:11936424	origText:hypertrophy	url:D006984
+CANDIDATE	id:6984	inCount:9	outCount:1	links:	url:D006984	name:Hypertrophy	normalName:hypertrophy	normalWikiTitle:hypertrophy	predictedType:Disease
+ENTITY	text:glomerulosclerosis	normalName:glomerulosclerosis	predictedType:disease	q:true	qid:Q358	docId:11936424	origText:glomerulosclerosis	url:D005921
+CANDIDATE	id:5921	inCount:11	outCount:1	links:11507;9404	url:D005921	name:Glomerulonephritis	normalName:glomerulonephritis	normalWikiTitle:glomerulonephritis	predictedType:Disease
 CANDIDATE	id:538457	inCount:0	outCount:1	links:	url:C538457	name:Segmental glomerulosclerosis	normalName:segmental glomerulosclerosis	normalWikiTitle:segmental glomerulosclerosis	predictedType:Disease
 CANDIDATE	id:10026	inCount:17	outCount:1	links:	url:D010026	name:Osteosclerosis	normalName:osteosclerosis	normalWikiTitle:osteosclerosis	predictedType:Disease
 CANDIDATE	id:537026	inCount:0	outCount:2	links:	url:C537026	name:Lipodermatosclerosis	normalName:lipodermatosclerosis	normalWikiTitle:lipodermatosclerosis	predictedType:Disease
@@ -20,19 +15,17 @@ CANDIDATE	id:10040	inCount:6	outCount:1	links:	url:D010040	name:Otosclerosis	nor
 CANDIDATE	id:50379	inCount:0	outCount:1	links:	url:D050379	name:Arteriolosclerosis	normalName:arteriolosclerosis	normalWikiTitle:arteriolosclerosis	predictedType:Disease
 CANDIDATE	id:63371	inCount:0	outCount:1	links:	url:D063371	name:Myringosclerosis	normalName:myringosclerosis	normalWikiTitle:myringosclerosis	predictedType:Disease
 CANDIDATE	id:1161	inCount:9	outCount:1	links:	url:D001161	name:Arteriosclerosis	normalName:arteriosclerosis	normalWikiTitle:arteriosclerosis	predictedType:Disease
-CANDIDATE	id:5923	inCount:3	outCount:1	links:9404;9336;11507;9401	url:D005923	name:Focal Glomerulosclerosis	normalName:focal glomerulosclerosis	normalWikiTitle:focal glomerulosclerosis	predictedType:Disease
-CANDIDATE	id:5923	inCount:3	outCount:1	links:9404;9336;11507;9401	url:D005923	name:Glomerulosclerosis, Focal	normalName:glomerulosclerosis, focal	normalWikiTitle:glomerulosclerosis, focal	predictedType:Disease
+CANDIDATE	id:5923	inCount:3	outCount:1	links:9401;9336;9393;11507;9404	url:D005923	name:Focal Glomerulosclerosis	normalName:focal glomerulosclerosis	normalWikiTitle:focal glomerulosclerosis	predictedType:Disease
+CANDIDATE	id:5923	inCount:3	outCount:1	links:9401;9336;9393;11507;9404	url:D005923	name:Glomerulosclerosis, Focal	normalName:glomerulosclerosis, focal	normalWikiTitle:glomerulosclerosis, focal	predictedType:Disease
 CANDIDATE	id:3928	inCount:4	outCount:2	links:	url:D003928	name:Nodular Glomerulosclerosis	normalName:nodular glomerulosclerosis	normalWikiTitle:nodular glomerulosclerosis	predictedType:Disease
 CANDIDATE	id:3928	inCount:4	outCount:2	links:	url:D003928	name:Glomerulosclerosis, Nodular	normalName:glomerulosclerosis, nodular	normalWikiTitle:glomerulosclerosis, nodular	predictedType:Disease
 CANDIDATE	id:55728	inCount:2	outCount:1	links:	url:D055728	name:Myelosclerosis	normalName:myelosclerosis	normalWikiTitle:myelosclerosis	predictedType:Disease
 CANDIDATE	id:3928	inCount:4	outCount:2	links:	url:D003928	name:Diabetic Glomerulosclerosis	normalName:diabetic glomerulosclerosis	normalWikiTitle:diabetic glomerulosclerosis	predictedType:Disease
 CANDIDATE	id:3928	inCount:4	outCount:2	links:	url:D003928	name:Glomerulosclerosis, Diabetic	normalName:glomerulosclerosis, diabetic	normalWikiTitle:glomerulosclerosis, diabetic	predictedType:Disease
-ENTITY	text:hypertrophy	normalName:hypertrophy	predictedType:disease	q:true	qid:Q376	docId:11936424	origText:hypertrophy	url:D006984
-CANDIDATE	id:6984	inCount:9	outCount:1	links:	url:D006984	name:Hypertrophy	normalName:hypertrophy	normalWikiTitle:hypertrophy	predictedType:Disease
-ENTITY	text:nephrotic	normalName:nephrotic	predictedType:disease	q:true	qid:Q376	docId:11936424	origText:nephrotic	url:D009404
-CANDIDATE	id:9404	inCount:23	outCount:1	links:11507;5923;9401	url:D009404	name:Nephrotic Syndrome	normalName:nephrotic syndrome	normalWikiTitle:nephrotic syndrome	predictedType:Disease
-CANDIDATE	id:9401	inCount:8	outCount:1	links:11507;5923;9404	url:D009401	name:Nephrosis	normalName:nephrosis	normalWikiTitle:nephrosis	predictedType:Disease
-CANDIDATE	id:9393	inCount:10	outCount:1	links:	url:D009393	name:Nephritis	normalName:nephritis	normalWikiTitle:nephritis	predictedType:Disease
+ENTITY	text:nephrotic	normalName:nephrotic	predictedType:disease	q:true	qid:Q358	docId:11936424	origText:nephrotic	url:D009404
+CANDIDATE	id:9404	inCount:23	outCount:1	links:5921;9401;9336;5923;11507	url:D009404	name:Nephrotic Syndrome	normalName:nephrotic syndrome	normalWikiTitle:nephrotic syndrome	predictedType:Disease
+CANDIDATE	id:9401	inCount:8	outCount:1	links:5923;11507;9404;9336	url:D009401	name:Nephrosis	normalName:nephrosis	normalWikiTitle:nephrosis	predictedType:Disease
+CANDIDATE	id:9393	inCount:10	outCount:1	links:5923	url:D009393	name:Nephritis	normalName:nephritis	normalWikiTitle:nephritis	predictedType:Disease
 CANDIDATE	id:53018	inCount:0	outCount:1	links:	url:D053018	name:Pyonephrosis	normalName:pyonephrosis	normalWikiTitle:pyonephrosis	predictedType:Disease
 CANDIDATE	id:53040	inCount:9	outCount:2	links:	url:D053040	name:Nephrolithiasis	normalName:nephrolithiasis	normalWikiTitle:nephrolithiasis	predictedType:Disease
 CANDIDATE	id:10501	inCount:0	outCount:1	links:	url:D010501	name:Perinephritis	normalName:perinephritis	normalWikiTitle:perinephritis	predictedType:Disease
@@ -40,7 +33,14 @@ CANDIDATE	id:1763	inCount:24	outCount:1	links:	url:D001763	name:Blepharoptosis	n
 CANDIDATE	id:6869	inCount:5	outCount:1	links:	url:D006869	name:Hydronephrosis	normalName:hydronephrosis	normalWikiTitle:hydronephrosis	predictedType:Disease
 CANDIDATE	id:11704	inCount:1	outCount:2	links:	url:D011704	name:Pyelonephritis	normalName:pyelonephritis	normalWikiTitle:pyelonephritis	predictedType:Disease
 CANDIDATE	id:9902	inCount:1	outCount:1	links:	url:D009902	name:Optic Neuritis	normalName:optic neuritis	normalWikiTitle:optic neuritis	predictedType:Disease
-ENTITY	text:nephrosis	normalName:nephrosis	predictedType:disease	q:true	qid:Q376	docId:11936424	origText:nephrosis	url:D009401
-CANDIDATE	id:9401	inCount:8	outCount:1	links:11507;5923;9404	url:D009401	name:Nephrosis	normalName:nephrosis	normalWikiTitle:nephrosis	predictedType:Disease
-ENTITY	text:proteinuria	normalName:proteinuria	predictedType:disease	q:true	qid:Q376	docId:11936424	origText:proteinuria	url:D011507
-CANDIDATE	id:11507	inCount:4	outCount:2	links:9404;9336;5923;9401	url:D011507	name:Proteinuria	normalName:proteinuria	normalWikiTitle:proteinuria	predictedType:Disease
+ENTITY	text:neprotic	normalName:neprotic	predictedType:disease	q:true	qid:Q358	docId:11936424	origText:neprotic	url:D009401
+CANDIDATE	id:9401	inCount:8	outCount:1	links:5923;11507;9404;9336	url:D009401	name:Nephrosis	normalName:nephrosis	normalWikiTitle:nephrosis	predictedType:Disease
+CANDIDATE	id:9393	inCount:10	outCount:1	links:5923	url:D009393	name:Nephritis	normalName:nephritis	normalWikiTitle:nephritis	predictedType:Disease
+CANDIDATE	id:9902	inCount:1	outCount:1	links:	url:D009902	name:Optic Neuritis	normalName:optic neuritis	normalWikiTitle:optic neuritis	predictedType:Disease
+CANDIDATE	id:9443	inCount:2	outCount:1	links:	url:D009443	name:Neuritis	normalName:neuritis	normalWikiTitle:neuritis	predictedType:Disease
+CANDIDATE	id:9336	inCount:6	outCount:1	links:5923;9401;9404;11507	url:D009336	name:Necrosis	normalName:necrosis	normalWikiTitle:necrosis	predictedType:Disease
+CANDIDATE	id:9404	inCount:23	outCount:1	links:5921;9401;9336;5923;11507	url:D009404	name:Nephrotic Syndrome	normalName:nephrotic syndrome	normalWikiTitle:nephrotic syndrome	predictedType:Disease
+CANDIDATE	id:4881	inCount:0	outCount:1	links:	url:D004881	name:Ergotism	normalName:ergotism	normalWikiTitle:ergotism	predictedType:Disease
+CANDIDATE	id:1014	inCount:5	outCount:2	links:	url:D001014	name:Aortic Aneurysm	normalName:aortic aneurysm	normalWikiTitle:aortic aneurysm	predictedType:Disease
+CANDIDATE	id:53040	inCount:9	outCount:2	links:	url:D053040	name:Nephrolithiasis	normalName:nephrolithiasis	normalWikiTitle:nephrolithiasis	predictedType:Disease
+CANDIDATE	id:53018	inCount:0	outCount:1	links:	url:D053018	name:Pyonephrosis	normalName:pyonephrosis	normalWikiTitle:pyonephrosis	predictedType:Disease

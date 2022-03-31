@@ -6,7 +6,7 @@ import networkx as nx
 import pickle
 import sys
 
-from fuzzywuzzy import fuzz, process
+from rapidfuzz import fuzz, process
 
 sys.path.append("./")
 
@@ -71,7 +71,7 @@ def load_ctd_chemicals():
 
     # Create a MultiDiGraph object with only "is-a" relations - this will allow the further calculation of shorthest path lenght
     ontology_graph = nx.MultiDiGraph([edge for edge in edge_list])
-    print("Is ontology_graph acyclic:", nx.is_directed_acyclic_graph(ontology_graph))
+    #print("Is ontology_graph acyclic:", nx.is_directed_acyclic_graph(ontology_graph))
     print("Loading complete")
     
     return ontology_graph, name_to_id, synonym_to_id

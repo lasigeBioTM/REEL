@@ -1,45 +1,30 @@
-ENTITY	text:seizures	normalName:seizures	predictedType:disease	q:true	qid:Q112	docId:24588023	origText:seizures	url:D012640
-CANDIDATE	id:12640	inCount:53	outCount:1	links:7022;3221	url:D012640	name:Seizure	normalName:seizure	normalWikiTitle:seizure	predictedType:Disease
-ENTITY	text:congestive heart failure	normalName:congestive heart failure	predictedType:disease	q:true	qid:Q112	docId:24588023	origText:congestive heart failure	url:D006333
-CANDIDATE	id:6333	inCount:5	outCount:1	links:	url:D006333	name:Heart Failure, Congestive	normalName:heart failure, congestive	normalWikiTitle:heart failure, congestive	predictedType:Disease
-ENTITY	text:seizure	normalName:seizure	predictedType:disease	q:true	qid:Q112	docId:24588023	origText:seizure	url:D012640
-CANDIDATE	id:12640	inCount:53	outCount:1	links:7022;3221	url:D012640	name:Seizure	normalName:seizure	normalWikiTitle:seizure	predictedType:Disease
-ENTITY	text:postoperative complication	normalName:postoperative complication	predictedType:disease	q:true	qid:Q112	docId:24588023	origText:postoperative complication	url:D011183
-CANDIDATE	id:11183	inCount:27	outCount:1	links:	url:D011183	name:Complication, Postoperative	normalName:complication, postoperative	normalWikiTitle:complication, postoperative	predictedType:Disease
-ENTITY	text:hypothermic	normalName:hypothermic	predictedType:disease	q:true	qid:Q112	docId:24588023	origText:hypothermic	url:D007035
-CANDIDATE	id:7035	inCount:2	outCount:1	links:	url:D007035	name:Hypothermia	normalName:hypothermia	normalWikiTitle:hypothermia	predictedType:Disease
-CANDIDATE	id:6940	inCount:0	outCount:1	links:	url:D006940	name:Hyperemia	normalName:hyperemia	normalWikiTitle:hyperemia	predictedType:Disease
-CANDIDATE	id:7010	inCount:1	outCount:1	links:3221	url:D007010	name:Hyponatremia	normalName:hyponatremia	normalWikiTitle:hyponatremia	predictedType:Disease
-CANDIDATE	id:6988	inCount:0	outCount:1	links:	url:D006988	name:Hyphema	normalName:hyphema	normalWikiTitle:hyphema	predictedType:Disease
-CANDIDATE	id:7039	inCount:27	outCount:1	links:	url:D007039	name:Hypotrichosis	normalName:hypotrichosis	normalWikiTitle:hypotrichosis	predictedType:Disease
-CANDIDATE	id:7022	inCount:3	outCount:1	links:12640	url:D007022	name:Hypotension	normalName:hypotension	normalWikiTitle:hypotension	predictedType:Disease
-CANDIDATE	id:7008	inCount:1	outCount:1	links:	url:D007008	name:Hypokalemia	normalName:hypokalemia	normalWikiTitle:hypokalemia	predictedType:Disease
-CANDIDATE	id:6987	inCount:1	outCount:1	links:	url:D006987	name:Hypesthesia	normalName:hypesthesia	normalWikiTitle:hypesthesia	predictedType:Disease
-CANDIDATE	id:7000	inCount:0	outCount:1	links:	url:D007000	name:Hypodermyiasis	normalName:hypodermyiasis	normalWikiTitle:hypodermyiasis	predictedType:Disease
-CANDIDATE	id:20896	inCount:0	outCount:1	links:	url:D020896	name:Hypovolemia	normalName:hypovolemia	normalWikiTitle:hypovolemia	predictedType:Disease
-ENTITY	text:convulsive	normalName:convulsive	predictedType:disease	q:true	qid:Q112	docId:24588023	origText:convulsive	url:D012640
-CANDIDATE	id:12640	inCount:53	outCount:1	links:7022;3221	url:D012640	name:Convulsive Seizure	normalName:convulsive seizure	normalWikiTitle:convulsive seizure	predictedType:Disease
-CANDIDATE	id:3221	inCount:2	outCount:1	links:7010;12640	url:D003221	name:Confusion	normalName:confusion	normalWikiTitle:confusion	predictedType:Disease
+ENTITY	text:convulsive	normalName:convulsive	predictedType:disease	q:true	qid:Q46	docId:24588023	origText:convulsive	url:D012640
+CANDIDATE	id:12640	inCount:54	outCount:1	links:6333;7022;7035;7008	url:D012640	name:Convulsive Seizure	normalName:convulsive seizure	normalWikiTitle:convulsive seizure	predictedType:Disease
+CANDIDATE	id:3221	inCount:2	outCount:1	links:12640;7010;7022	url:D003221	name:Confusion	normalName:confusion	normalWikiTitle:confusion	predictedType:Disease
 CANDIDATE	id:3289	inCount:0	outCount:1	links:	url:D003289	name:Convalescence	normalName:convalescence	normalWikiTitle:convalescence	predictedType:Disease
 CANDIDATE	id:3288	inCount:2	outCount:1	links:	url:D003288	name:Contusions	normalName:contusions	normalWikiTitle:contusions	predictedType:Disease
 CANDIDATE	id:7331	inCount:0	outCount:2	links:	url:D007331	name:Insulin Coma	normalName:insulin coma	normalWikiTitle:insulin coma	predictedType:Disease
-CANDIDATE	id:9207	inCount:11	outCount:1	links:	url:D009207	name:Myoclonus	normalName:myoclonus	normalWikiTitle:myoclonus	predictedType:Disease
+CANDIDATE	id:9207	inCount:11	outCount:1	links:12640;7010;7022;7035	url:D009207	name:Myoclonus	normalName:myoclonus	normalWikiTitle:myoclonus	predictedType:Disease
 CANDIDATE	id:9506	inCount:10	outCount:1	links:	url:D009506	name:Nevus	normalName:nevus	normalWikiTitle:nevus	predictedType:Disease
 CANDIDATE	id:12600	inCount:24	outCount:1	links:	url:D012600	name:Scoliosis	normalName:scoliosis	normalWikiTitle:scoliosis	predictedType:Disease
 CANDIDATE	id:3085	inCount:0	outCount:1	links:	url:D003085	name:Colic	normalName:colic	normalWikiTitle:colic	predictedType:Disease
 CANDIDATE	id:71697	inCount:0	outCount:1	links:	url:D000071697	name:Cellulite	normalName:cellulite	normalWikiTitle:cellulite	predictedType:Disease
 CANDIDATE	id:152	inCount:4	outCount:2	links:	url:D000152	name:Acne Vulgaris	normalName:acne vulgaris	normalWikiTitle:acne vulgaris	predictedType:Disease
-CANDIDATE	id:12640	inCount:53	outCount:1	links:7022;3221	url:D012640	name:Convulsion	normalName:convulsion	normalWikiTitle:convulsion	predictedType:Disease
+CANDIDATE	id:12640	inCount:54	outCount:1	links:6333;7022;7035;7008	url:D012640	name:Convulsion	normalName:convulsion	normalWikiTitle:convulsion	predictedType:Disease
 CANDIDATE	id:3294	inCount:24	outCount:1	links:	url:D003294	name:Fever Convulsion	normalName:fever convulsion	normalWikiTitle:fever convulsion	predictedType:Disease
 CANDIDATE	id:3294	inCount:24	outCount:1	links:	url:D003294	name:Convulsion, Fever	normalName:convulsion, fever	normalWikiTitle:convulsion, fever	predictedType:Disease
-CANDIDATE	id:12640	inCount:53	outCount:1	links:7022;3221	url:D012640	name:Convulsions	normalName:convulsions	normalWikiTitle:convulsions	predictedType:Disease
+CANDIDATE	id:12640	inCount:54	outCount:1	links:6333;7022;7035;7008	url:D012640	name:Convulsions	normalName:convulsions	normalWikiTitle:convulsions	predictedType:Disease
 CANDIDATE	id:3294	inCount:24	outCount:1	links:	url:D003294	name:Convulsions, Fever	normalName:convulsions, fever	normalWikiTitle:convulsions, fever	predictedType:Disease
 CANDIDATE	id:3294	inCount:24	outCount:1	links:	url:D003294	name:Fever Convulsions	normalName:fever convulsions	normalWikiTitle:fever convulsions	predictedType:Disease
-CANDIDATE	id:12640	inCount:53	outCount:1	links:7022;3221	url:D012640	name:Seizure, Convulsive	normalName:seizure, convulsive	normalWikiTitle:seizure, convulsive	predictedType:Disease
-CANDIDATE	id:13575	inCount:2	outCount:1	links:	url:D013575	name:Syncope, Convulsive	normalName:syncope, convulsive	normalWikiTitle:syncope, convulsive	predictedType:Disease
-CANDIDATE	id:13575	inCount:2	outCount:1	links:	url:D013575	name:Convulsive Syncope	normalName:convulsive syncope	normalWikiTitle:convulsive syncope	predictedType:Disease
-ENTITY	text:Generalised and focal seizures	normalName:generalised and focal seizures	predictedType:disease	q:true	qid:Q112	docId:24588023	origText:Generalised and focal seizures	url:D012640
-CANDIDATE	id:12640	inCount:53	outCount:1	links:7022;3221	url:D012640	name:Generalized Seizure	normalName:generalized seizure	normalWikiTitle:generalized seizure	predictedType:Disease
+CANDIDATE	id:12640	inCount:54	outCount:1	links:6333;7022;7035;7008	url:D012640	name:Seizure, Convulsive	normalName:seizure, convulsive	normalWikiTitle:seizure, convulsive	predictedType:Disease
+CANDIDATE	id:13575	inCount:2	outCount:1	links:6333	url:D013575	name:Syncope, Convulsive	normalName:syncope, convulsive	normalWikiTitle:syncope, convulsive	predictedType:Disease
+CANDIDATE	id:13575	inCount:2	outCount:1	links:6333	url:D013575	name:Convulsive Syncope	normalName:convulsive syncope	normalWikiTitle:convulsive syncope	predictedType:Disease
+ENTITY	text:seizures	normalName:seizures	predictedType:disease	q:true	qid:Q46	docId:24588023	origText:seizures	url:D012640
+CANDIDATE	id:12640	inCount:54	outCount:1	links:6333;7022;7035;7008	url:D012640	name:Seizure	normalName:seizure	normalWikiTitle:seizure	predictedType:Disease
+ENTITY	text:seizure	normalName:seizure	predictedType:disease	q:true	qid:Q46	docId:24588023	origText:seizure	url:D012640
+CANDIDATE	id:12640	inCount:54	outCount:1	links:6333;7022;7035;7008	url:D012640	name:Seizure	normalName:seizure	normalWikiTitle:seizure	predictedType:Disease
+ENTITY	text:Generalised and focal seizures	normalName:generalised and focal seizures	predictedType:disease	q:true	qid:Q46	docId:24588023	origText:Generalised and focal seizures	url:D012640
+CANDIDATE	id:12640	inCount:54	outCount:1	links:6333;7022;7035;7008	url:D012640	name:Generalized Seizure	normalName:generalized seizure	normalWikiTitle:generalized seizure	predictedType:Disease
 CANDIDATE	id:607681	inCount:0	outCount:2	links:	url:607681	name:FEBRILE SEIZURES, FAMILIAL, 8	normalName:febrile seizures, familial, 8	normalWikiTitle:febrile seizures, familial, 8	predictedType:Disease
 CANDIDATE	id:614418	inCount:0	outCount:1	links:	url:614418	name:FEBRILE SEIZURES, FAMILIAL, 11	normalName:febrile seizures, familial, 11	normalWikiTitle:febrile seizures, familial, 11	predictedType:Disease
 CANDIDATE	id:3294	inCount:24	outCount:1	links:	url:D003294	name:Seizures, Febrile	normalName:seizures, febrile	normalWikiTitle:seizures, febrile	predictedType:Disease
@@ -50,12 +35,26 @@ CANDIDATE	id:605751	inCount:0	outCount:1	links:	url:605751	name:SEIZURES, BENIGN
 CANDIDATE	id:121200	inCount:0	outCount:1	links:	url:121200	name:SEIZURES, BENIGN FAMILIAL NEONATAL, 1	normalName:seizures, benign familial neonatal, 1	normalWikiTitle:seizures, benign familial neonatal, 1	predictedType:Disease
 CANDIDATE	id:617080	inCount:0	outCount:1	links:	url:617080	name:SEIZURES, BENIGN FAMILIAL INFANTILE, 5	normalName:seizures, benign familial infantile, 5	normalWikiTitle:seizures, benign familial infantile, 5	predictedType:Disease
 CANDIDATE	id:121201	inCount:0	outCount:1	links:	url:121201	name:SEIZURES, BENIGN FAMILIAL NEONATAL, 2	normalName:seizures, benign familial neonatal, 2	normalWikiTitle:seizures, benign familial neonatal, 2	predictedType:Disease
-CANDIDATE	id:12640	inCount:53	outCount:1	links:7022;3221	url:D012640	name:Seizures, Generalized Absence	normalName:seizures, generalized absence	normalWikiTitle:seizures, generalized absence	predictedType:Disease
-CANDIDATE	id:12640	inCount:53	outCount:1	links:7022;3221	url:D012640	name:Generalized Absence Seizures	normalName:generalized absence seizures	normalWikiTitle:generalized absence seizures	predictedType:Disease
-CANDIDATE	id:12640	inCount:53	outCount:1	links:7022;3221	url:D012640	name:Absence Seizures, Generalized	normalName:absence seizures, generalized	normalWikiTitle:absence seizures, generalized	predictedType:Disease
-CANDIDATE	id:12640	inCount:53	outCount:1	links:7022;3221	url:D012640	name:Absence Seizure, Generalized	normalName:absence seizure, generalized	normalWikiTitle:absence seizure, generalized	predictedType:Disease
-CANDIDATE	id:12640	inCount:53	outCount:1	links:7022;3221	url:D012640	name:Generalized Absence Seizure	normalName:generalized absence seizure	normalWikiTitle:generalized absence seizure	predictedType:Disease
-CANDIDATE	id:12640	inCount:53	outCount:1	links:7022;3221	url:D012640	name:Seizure, Generalized Absence	normalName:seizure, generalized absence	normalWikiTitle:seizure, generalized absence	predictedType:Disease
-CANDIDATE	id:12640	inCount:53	outCount:1	links:7022;3221	url:D012640	name:Generalized Seizures	normalName:generalized seizures	normalWikiTitle:generalized seizures	predictedType:Disease
-CANDIDATE	id:12640	inCount:53	outCount:1	links:7022;3221	url:D012640	name:Seizures, Generalized	normalName:seizures, generalized	normalWikiTitle:seizures, generalized	predictedType:Disease
-CANDIDATE	id:12640	inCount:53	outCount:1	links:7022;3221	url:D012640	name:Seizure, Generalized	normalName:seizure, generalized	normalWikiTitle:seizure, generalized	predictedType:Disease
+CANDIDATE	id:12640	inCount:54	outCount:1	links:6333;7022;7035;7008	url:D012640	name:Generalized Absence Seizures	normalName:generalized absence seizures	normalWikiTitle:generalized absence seizures	predictedType:Disease
+CANDIDATE	id:12640	inCount:54	outCount:1	links:6333;7022;7035;7008	url:D012640	name:Absence Seizures, Generalized	normalName:absence seizures, generalized	normalWikiTitle:absence seizures, generalized	predictedType:Disease
+CANDIDATE	id:12640	inCount:54	outCount:1	links:6333;7022;7035;7008	url:D012640	name:Absence Seizure, Generalized	normalName:absence seizure, generalized	normalWikiTitle:absence seizure, generalized	predictedType:Disease
+CANDIDATE	id:12640	inCount:54	outCount:1	links:6333;7022;7035;7008	url:D012640	name:Generalized Absence Seizure	normalName:generalized absence seizure	normalWikiTitle:generalized absence seizure	predictedType:Disease
+CANDIDATE	id:12640	inCount:54	outCount:1	links:6333;7022;7035;7008	url:D012640	name:Seizure, Generalized Absence	normalName:seizure, generalized absence	normalWikiTitle:seizure, generalized absence	predictedType:Disease
+CANDIDATE	id:12640	inCount:54	outCount:1	links:6333;7022;7035;7008	url:D012640	name:Generalized Seizures	normalName:generalized seizures	normalWikiTitle:generalized seizures	predictedType:Disease
+CANDIDATE	id:12640	inCount:54	outCount:1	links:6333;7022;7035;7008	url:D012640	name:Seizures, Generalized	normalName:seizures, generalized	normalWikiTitle:seizures, generalized	predictedType:Disease
+CANDIDATE	id:12640	inCount:54	outCount:1	links:6333;7022;7035;7008	url:D012640	name:Seizure, Generalized	normalName:seizure, generalized	normalWikiTitle:seizure, generalized	predictedType:Disease
+ENTITY	text:congestive heart failure	normalName:congestive heart failure	predictedType:disease	q:true	qid:Q46	docId:24588023	origText:congestive heart failure	url:D006333
+CANDIDATE	id:6333	inCount:5	outCount:1	links:12640;13575;7022;7008	url:D006333	name:Heart Failure, Congestive	normalName:heart failure, congestive	normalWikiTitle:heart failure, congestive	predictedType:Disease
+ENTITY	text:hypothermic	normalName:hypothermic	predictedType:disease	q:true	qid:Q46	docId:24588023	origText:hypothermic	url:D007035
+CANDIDATE	id:7035	inCount:2	outCount:1	links:12640;9207	url:D007035	name:Hypothermia	normalName:hypothermia	normalWikiTitle:hypothermia	predictedType:Disease
+CANDIDATE	id:6940	inCount:0	outCount:1	links:	url:D006940	name:Hyperemia	normalName:hyperemia	normalWikiTitle:hyperemia	predictedType:Disease
+CANDIDATE	id:7010	inCount:1	outCount:1	links:9207;3221	url:D007010	name:Hyponatremia	normalName:hyponatremia	normalWikiTitle:hyponatremia	predictedType:Disease
+CANDIDATE	id:6988	inCount:0	outCount:1	links:	url:D006988	name:Hyphema	normalName:hyphema	normalWikiTitle:hyphema	predictedType:Disease
+CANDIDATE	id:7039	inCount:27	outCount:1	links:	url:D007039	name:Hypotrichosis	normalName:hypotrichosis	normalWikiTitle:hypotrichosis	predictedType:Disease
+CANDIDATE	id:7022	inCount:3	outCount:1	links:12640;6333;9207;11183;3221	url:D007022	name:Hypotension	normalName:hypotension	normalWikiTitle:hypotension	predictedType:Disease
+CANDIDATE	id:7008	inCount:1	outCount:1	links:12640;6333	url:D007008	name:Hypokalemia	normalName:hypokalemia	normalWikiTitle:hypokalemia	predictedType:Disease
+CANDIDATE	id:6987	inCount:1	outCount:1	links:	url:D006987	name:Hypesthesia	normalName:hypesthesia	normalWikiTitle:hypesthesia	predictedType:Disease
+CANDIDATE	id:7000	inCount:0	outCount:1	links:	url:D007000	name:Hypodermyiasis	normalName:hypodermyiasis	normalWikiTitle:hypodermyiasis	predictedType:Disease
+CANDIDATE	id:20896	inCount:0	outCount:1	links:	url:D020896	name:Hypovolemia	normalName:hypovolemia	normalWikiTitle:hypovolemia	predictedType:Disease
+ENTITY	text:postoperative complication	normalName:postoperative complication	predictedType:disease	q:true	qid:Q46	docId:24588023	origText:postoperative complication	url:D011183
+CANDIDATE	id:11183	inCount:28	outCount:1	links:7022	url:D011183	name:Complication, Postoperative	normalName:complication, postoperative	normalWikiTitle:complication, postoperative	predictedType:Disease

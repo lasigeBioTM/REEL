@@ -1,0 +1,4 @@
+ENTITY	text:caffeine	normalName:caffeine	predictedType:chemical	q:true	qid:Q2	docId:doc_3	origText:caffeine	url:none
+CANDIDATE	id:27732	inCount:0	outCount:2	links:	url:CHEBI_27732	name:caffeine	normalName:caffeine	normalWikiTitle:caffeine	predictedType:Chemical
+ENTITY	text:adrenaline	normalName:adrenaline	predictedType:chemical	q:true	qid:Q2	docId:doc_3	origText:adrenaline	url:none
+CANDIDATE	id:33568	inCount:2	outCount:1	links:	url:CHEBI_33568	name:adrenaline	normalName:adrenaline	normalWikiTitle:adrenaline	predictedType:Chemical

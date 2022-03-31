@@ -1,4 +1,12 @@
-ENTITY	text:follicular cell lymphoma	normalName:follicular cell lymphoma	predictedType:disease	q:true	qid:Q482	docId:26033014	origText:follicular cell lymphoma	url:D008224
+ENTITY	text:Cancer	normalName:cancer	predictedType:disease	q:true	qid:Q99	docId:26033014	origText:Cancer	url:D009369
+CANDIDATE	id:9369	inCount:18	outCount:1	links:	url:D009369	name:Cancer	normalName:cancer	normalWikiTitle:cancer	predictedType:Disease
+ENTITY	text:liver neoplasms	normalName:liver neoplasms	predictedType:disease	q:true	qid:Q99	docId:26033014	origText:liver neoplasms	url:D008113
+CANDIDATE	id:8113	inCount:5	outCount:2	links:8224	url:D008113	name:Liver Neoplasms	normalName:liver neoplasms	normalWikiTitle:liver neoplasms	predictedType:Disease
+ENTITY	text:cancers	normalName:cancers	predictedType:disease	q:true	qid:Q99	docId:26033014	origText:cancers	url:D009369
+CANDIDATE	id:9369	inCount:18	outCount:1	links:	url:D009369	name:Cancer	normalName:cancer	normalWikiTitle:cancer	predictedType:Disease
+ENTITY	text:liver cancer	normalName:liver cancer	predictedType:disease	q:true	qid:Q99	docId:26033014	origText:liver cancer	url:D008113
+CANDIDATE	id:8113	inCount:5	outCount:2	links:8224	url:D008113	name:Cancer, Liver	normalName:cancer, liver	normalWikiTitle:cancer, liver	predictedType:Disease
+ENTITY	text:follicular cell lymphoma	normalName:follicular cell lymphoma	predictedType:disease	q:true	qid:Q99	docId:26033014	origText:follicular cell lymphoma	url:D008224
 CANDIDATE	id:8224	inCount:0	outCount:1	links:8113	url:D008224	name:Lymphoma, Follicular Large Cell	normalName:lymphoma, follicular large cell	normalWikiTitle:lymphoma, follicular large cell	predictedType:Disease
 CANDIDATE	id:8224	inCount:0	outCount:1	links:8113	url:D008224	name:Lymphoma, Follicular	normalName:lymphoma, follicular	normalWikiTitle:lymphoma, follicular	predictedType:Disease
 CANDIDATE	id:16400	inCount:0	outCount:1	links:	url:D016400	name:Lymphoma, Large-Cell, Immunoblastic	normalName:lymphoma, large-cell, immunoblastic	normalWikiTitle:lymphoma, large-cell, immunoblastic	predictedType:Disease
@@ -19,15 +27,7 @@ CANDIDATE	id:8224	inCount:0	outCount:1	links:8113	url:D008224	name:Lymphoma, Fol
 CANDIDATE	id:8224	inCount:0	outCount:1	links:8113	url:D008224	name:Large Cell Lymphoma, Follicular	normalName:large cell lymphoma, follicular	normalWikiTitle:large cell lymphoma, follicular	predictedType:Disease
 CANDIDATE	id:8224	inCount:0	outCount:1	links:8113	url:D008224	name:Follicular Mixed-Cell Lymphoma	normalName:follicular mixed-cell lymphoma	normalWikiTitle:follicular mixed-cell lymphoma	predictedType:Disease
 CANDIDATE	id:8224	inCount:0	outCount:1	links:8113	url:D008224	name:Follicular Large Cell Lymphoma	normalName:follicular large cell lymphoma	normalWikiTitle:follicular large cell lymphoma	predictedType:Disease
-ENTITY	text:lymphoma	normalName:lymphoma	predictedType:disease	q:true	qid:Q482	docId:26033014	origText:lymphoma	url:D008223
+ENTITY	text:lymphoma	normalName:lymphoma	predictedType:disease	q:true	qid:Q99	docId:26033014	origText:lymphoma	url:D008223
 CANDIDATE	id:8223	inCount:8	outCount:2	links:	url:D008223	name:Lymphoma	normalName:lymphoma	normalWikiTitle:lymphoma	predictedType:Disease
-ENTITY	text:liver cancer	normalName:liver cancer	predictedType:disease	q:true	qid:Q482	docId:26033014	origText:liver cancer	url:D008113
-CANDIDATE	id:8113	inCount:5	outCount:2	links:8224	url:D008113	name:Cancer, Liver	normalName:cancer, liver	normalWikiTitle:cancer, liver	predictedType:Disease
-ENTITY	text:lung cancer	normalName:lung cancer	predictedType:disease	q:true	qid:Q482	docId:26033014	origText:lung cancer	url:D008175
+ENTITY	text:lung cancer	normalName:lung cancer	predictedType:disease	q:true	qid:Q99	docId:26033014	origText:lung cancer	url:D008175
 CANDIDATE	id:8175	inCount:12	outCount:2	links:	url:D008175	name:Cancer, Lung	normalName:cancer, lung	normalWikiTitle:cancer, lung	predictedType:Disease
-ENTITY	text:liver neoplasms	normalName:liver neoplasms	predictedType:disease	q:true	qid:Q482	docId:26033014	origText:liver neoplasms	url:D008113
-CANDIDATE	id:8113	inCount:5	outCount:2	links:8224	url:D008113	name:Liver Neoplasms	normalName:liver neoplasms	normalWikiTitle:liver neoplasms	predictedType:Disease
-ENTITY	text:Cancer	normalName:cancer	predictedType:disease	q:true	qid:Q482	docId:26033014	origText:Cancer	url:D009369
-CANDIDATE	id:9369	inCount:18	outCount:1	links:	url:D009369	name:Cancer	normalName:cancer	normalWikiTitle:cancer	predictedType:Disease
-ENTITY	text:cancers	normalName:cancers	predictedType:disease	q:true	qid:Q482	docId:26033014	origText:cancers	url:D009369
-CANDIDATE	id:9369	inCount:18	outCount:1	links:	url:D009369	name:Cancer	normalName:cancer	normalWikiTitle:cancer	predictedType:Disease

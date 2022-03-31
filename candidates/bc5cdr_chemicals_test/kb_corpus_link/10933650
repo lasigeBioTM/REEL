@@ -1,6 +1,8 @@
-ENTITY	text:urea	normalName:urea	predictedType:chemical	q:true	qid:Q443	docId:10933650	origText:urea	url:D014508
-CANDIDATE	id:14508	inCount:401	outCount:1	links:	url:D014508	name:Urea	normalName:urea	normalWikiTitle:urea	predictedType:Chemical
-ENTITY	text:amphotericin B-sodium deoxycholate	normalName:amphotericin b-sodium deoxycholate	predictedType:chemical	q:true	qid:Q443	docId:10933650	origText:amphotericin B-sodium deoxycholate	url:C059765
+ENTITY	text:amphotericin B	normalName:amphotericin b	predictedType:chemical	q:true	qid:Q333	docId:10933650	origText:amphotericin B	url:D000666
+CANDIDATE	id:666	inCount:27	outCount:1	links:666	url:D000666	name:Amphotericin B	normalName:amphotericin b	normalWikiTitle:amphotericin b	predictedType:Chemical
+ENTITY	text:Fungizone	normalName:fungizone	predictedType:chemical	q:true	qid:Q333	docId:10933650	origText:Fungizone	url:D000666
+CANDIDATE	id:666	inCount:27	outCount:1	links:666	url:D000666	name:Fungizone	normalName:fungizone	normalWikiTitle:fungizone	predictedType:Chemical
+ENTITY	text:amphotericin B-sodium deoxycholate	normalName:amphotericin b-sodium deoxycholate	predictedType:chemical	q:true	qid:Q333	docId:10933650	origText:amphotericin B-sodium deoxycholate	url:C059765
 CANDIDATE	id:59765	inCount:0	outCount:2	links:	url:C059765	name:amphotericin B - deoxycholate	normalName:amphotericin b - deoxycholate	normalWikiTitle:amphotericin b - deoxycholate	predictedType:Chemical
 CANDIDATE	id:59765	inCount:0	outCount:2	links:	url:C059765	name:amphotericin B, deoxycholate drug combination	normalName:amphotericin b, deoxycholate drug combination	normalWikiTitle:amphotericin b, deoxycholate drug combination	predictedType:Chemical
 CANDIDATE	id:59463	inCount:0	outCount:1	links:	url:C059463	name:N-(1-deoxyfructosyl)amphotericin B	normalName:n-(1-deoxyfructosyl)amphotericin b	normalWikiTitle:n-(1-deoxyfructosyl)amphotericin b	predictedType:Chemical
@@ -14,9 +16,7 @@ CANDIDATE	id:34738	inCount:0	outCount:1	links:	url:C034738	name:sodium percarbon
 CANDIDATE	id:408366	inCount:0	outCount:1	links:	url:C408366	name:amphotericin B3-(N'-dimethylamino)propylamide	normalName:amphotericin b3-(n'-dimethylamino)propylamide	normalWikiTitle:amphotericin b3-(n'-dimethylamino)propylamide	predictedType:Chemical
 CANDIDATE	id:59765	inCount:0	outCount:2	links:	url:C059765	name:amphotericin B deoxycholate	normalName:amphotericin b deoxycholate	normalWikiTitle:amphotericin b deoxycholate	predictedType:Chemical
 CANDIDATE	id:59765	inCount:0	outCount:2	links:	url:C059765	name:amphotericin B-deoxycholate	normalName:amphotericin b-deoxycholate	normalWikiTitle:amphotericin b-deoxycholate	predictedType:Chemical
-ENTITY	text:amphotericin B	normalName:amphotericin b	predictedType:chemical	q:true	qid:Q443	docId:10933650	origText:amphotericin B	url:D000666
-CANDIDATE	id:666	inCount:27	outCount:1	links:666	url:D000666	name:Amphotericin B	normalName:amphotericin b	normalWikiTitle:amphotericin b	predictedType:Chemical
-ENTITY	text:Fungizone	normalName:fungizone	predictedType:chemical	q:true	qid:Q443	docId:10933650	origText:Fungizone	url:D000666
-CANDIDATE	id:666	inCount:27	outCount:1	links:666	url:D000666	name:Fungizone	normalName:fungizone	normalWikiTitle:fungizone	predictedType:Chemical
-ENTITY	text:creatinine	normalName:creatinine	predictedType:chemical	q:true	qid:Q443	docId:10933650	origText:creatinine	url:D003404
+ENTITY	text:urea	normalName:urea	predictedType:chemical	q:true	qid:Q333	docId:10933650	origText:urea	url:D014508
+CANDIDATE	id:14508	inCount:406	outCount:1	links:	url:D014508	name:Urea	normalName:urea	normalWikiTitle:urea	predictedType:Chemical
+ENTITY	text:creatinine	normalName:creatinine	predictedType:chemical	q:true	qid:Q333	docId:10933650	origText:creatinine	url:D003404
 CANDIDATE	id:3404	inCount:8	outCount:1	links:	url:D003404	name:Creatinine	normalName:creatinine	normalWikiTitle:creatinine	predictedType:Chemical

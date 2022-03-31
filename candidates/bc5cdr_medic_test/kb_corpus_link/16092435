@@ -1,6 +1,6 @@
-ENTITY	text:cardiac toxicity	normalName:cardiac toxicity	predictedType:disease	q:true	qid:Q330	docId:16092435	origText:cardiac toxicity	url:D066126
-CANDIDATE	id:66126	inCount:0	outCount:3	links:66126;9202	url:D066126	name:Cardiac Toxicity	normalName:cardiac toxicity	normalWikiTitle:cardiac toxicity	predictedType:Disease
-ENTITY	text:myocardiopathy	normalName:myocardiopathy	predictedType:disease	q:true	qid:Q330	docId:16092435	origText:myocardiopathy	url:D009202
+ENTITY	text:cardiotoxicity	normalName:cardiotoxicity	predictedType:disease	q:true	qid:Q408	docId:16092435	origText:cardiotoxicity	url:D066126
+CANDIDATE	id:66126	inCount:0	outCount:4	links:66126;9202	url:D066126	name:Cardiotoxicity	normalName:cardiotoxicity	normalWikiTitle:cardiotoxicity	predictedType:Disease
+ENTITY	text:myocardiopathy	normalName:myocardiopathy	predictedType:disease	q:true	qid:Q408	docId:16092435	origText:myocardiopathy	url:D009202
 CANDIDATE	id:9202	inCount:37	outCount:1	links:66126	url:D009202	name:Myocardiopathy	normalName:myocardiopathy	normalWikiTitle:myocardiopathy	predictedType:Disease
-ENTITY	text:cardiotoxicity	normalName:cardiotoxicity	predictedType:disease	q:true	qid:Q330	docId:16092435	origText:cardiotoxicity	url:D066126
-CANDIDATE	id:66126	inCount:0	outCount:3	links:66126;9202	url:D066126	name:Cardiotoxicity	normalName:cardiotoxicity	normalWikiTitle:cardiotoxicity	predictedType:Disease
+ENTITY	text:cardiac toxicity	normalName:cardiac toxicity	predictedType:disease	q:true	qid:Q408	docId:16092435	origText:cardiac toxicity	url:D066126
+CANDIDATE	id:66126	inCount:0	outCount:4	links:66126;9202	url:D066126	name:Cardiac Toxicity	normalName:cardiac toxicity	normalWikiTitle:cardiac toxicity	predictedType:Disease

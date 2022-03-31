@@ -1,4 +1,6 @@
-ENTITY	text:[omega-I-131]heptadecanoic acid	normalName:[omega-i-131]heptadecanoic acid	predictedType:chemical	q:true	qid:Q422	docId:6631522	origText:[omega-I-131]heptadecanoic acid	url:C013102
+ENTITY	text:doxorubicin	normalName:doxorubicin	predictedType:chemical	q:true	qid:Q245	docId:6631522	origText:doxorubicin	url:D004317
+CANDIDATE	id:4317	inCount:559	outCount:1	links:	url:D004317	name:Doxorubicin	normalName:doxorubicin	normalWikiTitle:doxorubicin	predictedType:Chemical
+ENTITY	text:[omega-I-131]heptadecanoic acid	normalName:[omega-i-131]heptadecanoic acid	predictedType:chemical	q:true	qid:Q245	docId:6631522	origText:[omega-I-131]heptadecanoic acid	url:C013102
 CANDIDATE	id:13102	inCount:0	outCount:1	links:	url:C013102	name:heptadecanoic acid	normalName:heptadecanoic acid	normalWikiTitle:heptadecanoic acid	predictedType:Chemical
 CANDIDATE	id:89559	inCount:0	outCount:1	links:	url:C089559	name:4-methyl-7,11-heptadecadienoic acid	normalName:4-methyl-7,11-heptadecadienoic acid	normalWikiTitle:4-methyl-7,11-heptadecadienoic acid	predictedType:Chemical
 CANDIDATE	id:420903	inCount:0	outCount:1	links:	url:C420903	name:16-methyl-8-heptadecenoic acid	normalName:16-methyl-8-heptadecenoic acid	normalWikiTitle:16-methyl-8-heptadecenoic acid	predictedType:Chemical
@@ -14,8 +16,6 @@ CANDIDATE	id:13102	inCount:0	outCount:1	links:	url:C013102	name:omega I-123 hept
 CANDIDATE	id:27252	inCount:0	outCount:1	links:	url:C027252	name:heptadecanoic-17-(123)I acid	normalName:heptadecanoic-17-(123)i acid	normalWikiTitle:heptadecanoic-17-(123)i acid	predictedType:Chemical
 CANDIDATE	id:27252	inCount:0	outCount:1	links:	url:C027252	name:heptadecanoic-17-(131)I acid	normalName:heptadecanoic-17-(131)i acid	normalWikiTitle:heptadecanoic-17-(131)i acid	predictedType:Chemical
 CANDIDATE	id:40995	inCount:0	outCount:1	links:	url:C040995	name:2-methyl-heptadecanoic acid	normalName:2-methyl-heptadecanoic acid	normalWikiTitle:2-methyl-heptadecanoic acid	predictedType:Chemical
-CANDIDATE	id:15118	inCount:37	outCount:2	links:	url:D015118	name:omega-3-Eicosapentaenoic Acid	normalName:omega-3-eicosapentaenoic acid	normalWikiTitle:omega-3-eicosapentaenoic acid	predictedType:Chemical
-CANDIDATE	id:15118	inCount:37	outCount:2	links:	url:D015118	name:omega 3 Eicosapentaenoic Acid	normalName:omega 3 eicosapentaenoic acid	normalWikiTitle:omega 3 eicosapentaenoic acid	predictedType:Chemical
+CANDIDATE	id:15118	inCount:38	outCount:2	links:	url:D015118	name:omega-3-Eicosapentaenoic Acid	normalName:omega-3-eicosapentaenoic acid	normalWikiTitle:omega-3-eicosapentaenoic acid	predictedType:Chemical
+CANDIDATE	id:15118	inCount:38	outCount:2	links:	url:D015118	name:omega 3 Eicosapentaenoic Acid	normalName:omega 3 eicosapentaenoic acid	normalWikiTitle:omega 3 eicosapentaenoic acid	predictedType:Chemical
 CANDIDATE	id:96532	inCount:0	outCount:1	links:	url:C096532	name:3-methyl-7-heptadecenoic acid	normalName:3-methyl-7-heptadecenoic acid	normalWikiTitle:3-methyl-7-heptadecenoic acid	predictedType:Chemical
-ENTITY	text:doxorubicin	normalName:doxorubicin	predictedType:chemical	q:true	qid:Q422	docId:6631522	origText:doxorubicin	url:D004317
-CANDIDATE	id:4317	inCount:559	outCount:1	links:	url:D004317	name:Doxorubicin	normalName:doxorubicin	normalWikiTitle:doxorubicin	predictedType:Chemical

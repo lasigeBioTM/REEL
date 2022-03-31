@@ -1,23 +1,12 @@
-ENTITY	text:ocular hypertension	normalName:ocular hypertension	predictedType:disease	q:true	qid:Q214	docId:24999722	origText:ocular hypertension	url:D009798
-CANDIDATE	id:9798	inCount:1	outCount:1	links:2386	url:D009798	name:Ocular Hypertension	normalName:ocular hypertension	normalWikiTitle:ocular hypertension	predictedType:Disease
-ENTITY	text:vasculitis	normalName:vasculitis	predictedType:disease	q:true	qid:Q214	docId:24999722	origText:vasculitis	url:D014657
-CANDIDATE	id:14657	inCount:16	outCount:1	links:	url:D014657	name:Vasculitis	normalName:vasculitis	normalWikiTitle:vasculitis	predictedType:Disease
-ENTITY	text:birdshot retinochoroidopathy	normalName:birdshot retinochoroidopathy	predictedType:disease	q:true	qid:Q214	docId:24999722	origText:birdshot retinochoroidopathy	url:C537630
-CANDIDATE	id:537630	inCount:0	outCount:1	links:	url:C537630	name:Birdshot chorioretinopathy	normalName:birdshot chorioretinopathy	normalWikiTitle:birdshot chorioretinopathy	predictedType:Disease
-CANDIDATE	id:536352	inCount:0	outCount:3	links:	url:C536352	name:Vitreoretinochoroidopathy	normalName:vitreoretinochoroidopathy	normalWikiTitle:vitreoretinochoroidopathy	predictedType:Disease
-CANDIDATE	id:567518	inCount:0	outCount:2	links:	url:C567518	name:Bestrophinopathy	normalName:bestrophinopathy	normalWikiTitle:bestrophinopathy	predictedType:Disease
-CANDIDATE	id:3930	inCount:1	outCount:2	links:	url:D003930	name:Diabetic Retinopathy	normalName:diabetic retinopathy	normalWikiTitle:diabetic retinopathy	predictedType:Disease
-CANDIDATE	id:538169	inCount:0	outCount:1	links:	url:C538169	name:Acitretin embryopathy	normalName:acitretin embryopathy	normalWikiTitle:acitretin embryopathy	predictedType:Disease
-CANDIDATE	id:16263	inCount:0	outCount:2	links:	url:D016263	name:AIDS-Associated Nephropathy	normalName:aids-associated nephropathy	normalWikiTitle:aids-associated nephropathy	predictedType:Disease
-CANDIDATE	id:58437	inCount:0	outCount:2	links:	url:D058437	name:Hypertensive Retinopathy	normalName:hypertensive retinopathy	normalWikiTitle:hypertensive retinopathy	predictedType:Disease
-CANDIDATE	id:564017	inCount:0	outCount:1	links:	url:C564017	name:Myopathy, Mitochondrial, Lethal Infantile	normalName:myopathy, mitochondrial, lethal infantile	normalWikiTitle:myopathy, mitochondrial, lethal infantile	predictedType:Disease
-CANDIDATE	id:180000	inCount:0	outCount:2	links:	url:180000	name:RETINAL ARTERIES, TORTUOSITY OF	normalName:retinal arteries, tortuosity of	normalWikiTitle:retinal arteries, tortuosity of	predictedType:Disease
-CANDIDATE	id:12178	inCount:0	outCount:2	links:	url:D012178	name:Retinopathy of Prematurity	normalName:retinopathy of prematurity	normalWikiTitle:retinopathy of prematurity	predictedType:Disease
-ENTITY	text:cataract	normalName:cataract	predictedType:disease	q:true	qid:Q214	docId:24999722	origText:cataract	url:D002386
-CANDIDATE	id:2386	inCount:169	outCount:1	links:9798	url:D002386	name:Cataract	normalName:cataract	normalWikiTitle:cataract	predictedType:Disease
-ENTITY	text:retinal vasculitis	normalName:retinal vasculitis	predictedType:disease	q:true	qid:Q214	docId:24999722	origText:retinal vasculitis	url:D031300
+ENTITY	text:inflammation	normalName:inflammation	predictedType:disease	q:true	qid:Q84	docId:24999722	origText:inflammation	url:D007249
+CANDIDATE	id:7249	inCount:16	outCount:1	links:	url:D007249	name:Inflammation	normalName:inflammation	normalWikiTitle:inflammation	predictedType:Disease
+ENTITY	text:retinal vasculitis	normalName:retinal vasculitis	predictedType:disease	q:true	qid:Q84	docId:24999722	origText:retinal vasculitis	url:D031300
 CANDIDATE	id:31300	inCount:1	outCount:2	links:	url:D031300	name:Retinal Vasculitis	normalName:retinal vasculitis	normalWikiTitle:retinal vasculitis	predictedType:Disease
-ENTITY	text:cystoid macular edema	normalName:cystoid macular edema	predictedType:disease	q:true	qid:Q214	docId:24999722	origText:cystoid macular edema	url:D008269
+ENTITY	text:cataract	normalName:cataract	predictedType:disease	q:true	qid:Q84	docId:24999722	origText:cataract	url:D002386
+CANDIDATE	id:2386	inCount:169	outCount:1	links:9798	url:D002386	name:Cataract	normalName:cataract	normalWikiTitle:cataract	predictedType:Disease
+ENTITY	text:vasculitis	normalName:vasculitis	predictedType:disease	q:true	qid:Q84	docId:24999722	origText:vasculitis	url:D014657
+CANDIDATE	id:14657	inCount:16	outCount:1	links:	url:D014657	name:Vasculitis	normalName:vasculitis	normalWikiTitle:vasculitis	predictedType:Disease
+ENTITY	text:cystoid macular edema	normalName:cystoid macular edema	predictedType:disease	q:true	qid:Q84	docId:24999722	origText:cystoid macular edema	url:D008269
 CANDIDATE	id:8269	inCount:0	outCount:1	links:	url:D008269	name:Edema, Cystoid Macular	normalName:edema, cystoid macular	normalWikiTitle:edema, cystoid macular	predictedType:Disease
-ENTITY	text:inflammation	normalName:inflammation	predictedType:disease	q:true	qid:Q214	docId:24999722	origText:inflammation	url:D007249
-CANDIDATE	id:7249	inCount:14	outCount:1	links:	url:D007249	name:Inflammation	normalName:inflammation	normalWikiTitle:inflammation	predictedType:Disease
+ENTITY	text:ocular hypertension	normalName:ocular hypertension	predictedType:disease	q:true	qid:Q84	docId:24999722	origText:ocular hypertension	url:D009798
+CANDIDATE	id:9798	inCount:1	outCount:1	links:2386	url:D009798	name:Ocular Hypertension	normalName:ocular hypertension	normalWikiTitle:ocular hypertension	predictedType:Disease

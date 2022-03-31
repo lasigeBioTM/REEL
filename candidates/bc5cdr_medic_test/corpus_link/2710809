@@ -1,10 +1,6 @@
-ENTITY	text:dysphagia	normalName:dysphagia	predictedType:disease	q:true	qid:Q69	docId:2710809	origText:dysphagia	url:D003680
-CANDIDATE	id:3680	inCount:5	outCount:2	links:1919;4401	url:D003680	name:Dysphagia	normalName:dysphagia	normalWikiTitle:dysphagia	predictedType:Disease
-ENTITY	text:dysarthria	normalName:dysarthria	predictedType:disease	q:true	qid:Q69	docId:2710809	origText:dysarthria	url:D004401
-CANDIDATE	id:4401	inCount:7	outCount:1	links:1919;3680	url:D004401	name:Dysarthria	normalName:dysarthria	normalWikiTitle:dysarthria	predictedType:Disease
-ENTITY	text:Bradycardia	normalName:bradycardia	predictedType:disease	q:true	qid:Q69	docId:2710809	origText:Bradycardia	url:D001919
-CANDIDATE	id:1919	inCount:0	outCount:1	links:4401;3680	url:D001919	name:Bradycardia	normalName:bradycardia	normalWikiTitle:bradycardia	predictedType:Disease
-ENTITY	text:postzosteric	normalName:postzosteric	predictedType:disease	q:true	qid:Q69	docId:2710809	origText:postzosteric	url:D006562
+ENTITY	text:Bradycardia	normalName:bradycardia	predictedType:disease	q:true	qid:Q183	docId:2710809	origText:Bradycardia	url:D001919
+CANDIDATE	id:1919	inCount:0	outCount:1	links:3680;4401	url:D001919	name:Bradycardia	normalName:bradycardia	normalWikiTitle:bradycardia	predictedType:Disease
+ENTITY	text:postzosteric	normalName:postzosteric	predictedType:disease	q:true	qid:Q183	docId:2710809	origText:postzosteric	url:D006562
 CANDIDATE	id:6562	inCount:3	outCount:1	links:	url:D006562	name:Zoster	normalName:zoster	normalWikiTitle:zoster	predictedType:Disease
 CANDIDATE	id:6562	inCount:3	outCount:1	links:	url:D006562	name:Herpes Zoster	normalName:herpes zoster	normalWikiTitle:herpes zoster	predictedType:Disease
 CANDIDATE	id:537345	inCount:0	outCount:3	links:	url:C537345	name:Sitosterolemia	normalName:sitosterolemia	normalWikiTitle:sitosterolemia	predictedType:Disease
@@ -16,5 +12,9 @@ CANDIDATE	id:12516	inCount:5	outCount:2	links:	url:D012516	name:Osteosarcoma	nor
 CANDIDATE	id:5096	inCount:6	outCount:1	links:	url:D005096	name:Exostoses	normalName:exostoses	normalWikiTitle:exostoses	predictedType:Disease
 CANDIDATE	id:16697	inCount:0	outCount:3	links:	url:D016697	name:Herpes Zoster Oticus	normalName:herpes zoster oticus	normalWikiTitle:herpes zoster oticus	predictedType:Disease
 CANDIDATE	id:10020	inCount:5	outCount:2	links:	url:D010020	name:Osteonecrosis	normalName:osteonecrosis	normalWikiTitle:osteonecrosis	predictedType:Disease
-ENTITY	text:trigeminal neuralgia	normalName:trigeminal neuralgia	predictedType:disease	q:true	qid:Q69	docId:2710809	origText:trigeminal neuralgia	url:D014277
+ENTITY	text:trigeminal neuralgia	normalName:trigeminal neuralgia	predictedType:disease	q:true	qid:Q183	docId:2710809	origText:trigeminal neuralgia	url:D014277
 CANDIDATE	id:14277	inCount:0	outCount:1	links:	url:D014277	name:Trigeminal Neuralgia	normalName:trigeminal neuralgia	normalWikiTitle:trigeminal neuralgia	predictedType:Disease
+ENTITY	text:dysarthria	normalName:dysarthria	predictedType:disease	q:true	qid:Q183	docId:2710809	origText:dysarthria	url:D004401
+CANDIDATE	id:4401	inCount:7	outCount:1	links:3680;1919	url:D004401	name:Dysarthria	normalName:dysarthria	normalWikiTitle:dysarthria	predictedType:Disease
+ENTITY	text:dysphagia	normalName:dysphagia	predictedType:disease	q:true	qid:Q183	docId:2710809	origText:dysphagia	url:D003680
+CANDIDATE	id:3680	inCount:5	outCount:2	links:4401;1919	url:D003680	name:Dysphagia	normalName:dysphagia	normalWikiTitle:dysphagia	predictedType:Disease

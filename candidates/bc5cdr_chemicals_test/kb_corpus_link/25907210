@@ -1,9 +1,7 @@
-ENTITY	text:diazinon	normalName:diazinon	predictedType:chemical	q:true	qid:Q351	docId:25907210	origText:diazinon	url:D003976
-CANDIDATE	id:3976	inCount:2	outCount:1	links:	url:D003976	name:Diazinon	normalName:diazinon	normalWikiTitle:diazinon	predictedType:Chemical
-ENTITY	text:organophosphate	normalName:organophosphate	predictedType:chemical	q:true	qid:Q351	docId:25907210	origText:organophosphate	url:D010755
+ENTITY	text:organophosphate	normalName:organophosphate	predictedType:chemical	q:true	qid:Q95	docId:25907210	origText:organophosphate	url:D010755
 CANDIDATE	id:10755	inCount:259	outCount:1	links:	url:D010755	name:Organophosphates	normalName:organophosphates	normalWikiTitle:organophosphates	predictedType:Chemical
 CANDIDATE	id:510710	inCount:0	outCount:2	links:	url:C510710	name:boranophosphate	normalName:boranophosphate	normalWikiTitle:boranophosphate	predictedType:Chemical
-CANDIDATE	id:63065	inCount:317	outCount:1	links:	url:D063065	name:Organophosphonates	normalName:organophosphonates	normalWikiTitle:organophosphonates	predictedType:Chemical
+CANDIDATE	id:63065	inCount:319	outCount:1	links:	url:D063065	name:Organophosphonates	normalName:organophosphonates	normalWikiTitle:organophosphonates	predictedType:Chemical
 CANDIDATE	id:63086	inCount:85	outCount:2	links:	url:D063086	name:Organothiophosphates	normalName:organothiophosphates	normalWikiTitle:organothiophosphates	predictedType:Chemical
 CANDIDATE	id:63085	inCount:3	outCount:2	links:	url:D063085	name:Organothiophosphonates	normalName:organothiophosphonates	normalWikiTitle:organothiophosphonates	predictedType:Chemical
 CANDIDATE	id:12980	inCount:0	outCount:2	links:	url:C012980	name:fluorophosphate	normalName:fluorophosphate	normalWikiTitle:fluorophosphate	predictedType:Chemical
@@ -11,3 +9,5 @@ CANDIDATE	id:480175	inCount:0	outCount:1	links:	url:C480175	name:glucan phosphat
 CANDIDATE	id:63066	inCount:4	outCount:1	links:	url:D063066	name:Organofluorophosphonates	normalName:organofluorophosphonates	normalWikiTitle:organofluorophosphonates	predictedType:Chemical
 CANDIDATE	id:100173	inCount:0	outCount:1	links:	url:C100173	name:creatinol phosphate	normalName:creatinol phosphate	normalWikiTitle:creatinol phosphate	predictedType:Chemical
 CANDIDATE	id:515246	inCount:0	outCount:1	links:	url:C515246	name:poly(organophosphazene)	normalName:poly(organophosphazene)	normalWikiTitle:poly(organophosphazene)	predictedType:Chemical
+ENTITY	text:diazinon	normalName:diazinon	predictedType:chemical	q:true	qid:Q95	docId:25907210	origText:diazinon	url:D003976
+CANDIDATE	id:3976	inCount:2	outCount:1	links:	url:D003976	name:Diazinon	normalName:diazinon	normalWikiTitle:diazinon	predictedType:Chemical

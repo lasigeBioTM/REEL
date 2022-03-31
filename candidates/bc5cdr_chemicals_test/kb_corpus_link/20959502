@@ -1,18 +1,18 @@
-ENTITY	text:levofloxacin	normalName:levofloxacin	predictedType:chemical	q:true	qid:Q377	docId:20959502	origText:levofloxacin	url:D064704
-CANDIDATE	id:64704	inCount:1	outCount:1	links:	url:D064704	name:Levofloxacin	normalName:levofloxacin	normalWikiTitle:levofloxacin	predictedType:Chemical
-ENTITY	text:creatinine	normalName:creatinine	predictedType:chemical	q:true	qid:Q377	docId:20959502	origText:creatinine	url:D003404
-CANDIDATE	id:3404	inCount:8	outCount:1	links:	url:D003404	name:Creatinine	normalName:creatinine	normalWikiTitle:creatinine	predictedType:Chemical
-ENTITY	text:nafcillin	normalName:nafcillin	predictedType:chemical	q:true	qid:Q377	docId:20959502	origText:nafcillin	url:D009254
-CANDIDATE	id:9254	inCount:2	outCount:1	links:	url:D009254	name:Nafcillin	normalName:nafcillin	normalWikiTitle:nafcillin	predictedType:Chemical
-ENTITY	text:methicillin	normalName:methicillin	predictedType:chemical	q:true	qid:Q377	docId:20959502	origText:methicillin	url:D008712
-CANDIDATE	id:8712	inCount:1	outCount:1	links:	url:D008712	name:Methicillin	normalName:methicillin	normalWikiTitle:methicillin	predictedType:Chemical
-ENTITY	text:piperacillin	normalName:piperacillin	predictedType:chemical	q:true	qid:Q377	docId:20959502	origText:piperacillin	url:D010878
-CANDIDATE	id:10878	inCount:4	outCount:1	links:	url:D010878	name:Piperacillin	normalName:piperacillin	normalWikiTitle:piperacillin	predictedType:Chemical
-ENTITY	text:Creatine	normalName:creatine	predictedType:chemical	q:true	qid:Q377	docId:20959502	origText:Creatine	url:D003401
-CANDIDATE	id:3401	inCount:7	outCount:2	links:	url:D003401	name:Creatine	normalName:creatine	normalWikiTitle:creatine	predictedType:Chemical
-ENTITY	text:oxacillin	normalName:oxacillin	predictedType:chemical	q:true	qid:Q377	docId:20959502	origText:oxacillin	url:D010068
-CANDIDATE	id:10068	inCount:3	outCount:1	links:	url:D010068	name:Oxacillin	normalName:oxacillin	normalWikiTitle:oxacillin	predictedType:Chemical
-ENTITY	text:daptomycin	normalName:daptomycin	predictedType:chemical	q:true	qid:Q377	docId:20959502	origText:daptomycin	url:D017576
+ENTITY	text:daptomycin	normalName:daptomycin	predictedType:chemical	q:true	qid:Q497	docId:20959502	origText:daptomycin	url:D017576
 CANDIDATE	id:17576	inCount:1	outCount:2	links:	url:D017576	name:Daptomycin	normalName:daptomycin	normalWikiTitle:daptomycin	predictedType:Chemical
-ENTITY	text:vancomycin	normalName:vancomycin	predictedType:chemical	q:true	qid:Q377	docId:20959502	origText:vancomycin	url:D014640
-CANDIDATE	id:14640	inCount:29	outCount:1	links:	url:D014640	name:Vancomycin	normalName:vancomycin	normalWikiTitle:vancomycin	predictedType:Chemical
+ENTITY	text:methicillin	normalName:methicillin	predictedType:chemical	q:true	qid:Q497	docId:20959502	origText:methicillin	url:D008712
+CANDIDATE	id:8712	inCount:1	outCount:1	links:	url:D008712	name:Methicillin	normalName:methicillin	normalWikiTitle:methicillin	predictedType:Chemical
+ENTITY	text:vancomycin	normalName:vancomycin	predictedType:chemical	q:true	qid:Q497	docId:20959502	origText:vancomycin	url:D014640
+CANDIDATE	id:14640	inCount:29	outCount:1	links:10878	url:D014640	name:Vancomycin	normalName:vancomycin	normalWikiTitle:vancomycin	predictedType:Chemical
+ENTITY	text:levofloxacin	normalName:levofloxacin	predictedType:chemical	q:true	qid:Q497	docId:20959502	origText:levofloxacin	url:D064704
+CANDIDATE	id:64704	inCount:1	outCount:1	links:	url:D064704	name:Levofloxacin	normalName:levofloxacin	normalWikiTitle:levofloxacin	predictedType:Chemical
+ENTITY	text:piperacillin	normalName:piperacillin	predictedType:chemical	q:true	qid:Q497	docId:20959502	origText:piperacillin	url:D010878
+CANDIDATE	id:10878	inCount:4	outCount:1	links:14640	url:D010878	name:Piperacillin	normalName:piperacillin	normalWikiTitle:piperacillin	predictedType:Chemical
+ENTITY	text:oxacillin	normalName:oxacillin	predictedType:chemical	q:true	qid:Q497	docId:20959502	origText:oxacillin	url:D010068
+CANDIDATE	id:10068	inCount:3	outCount:1	links:	url:D010068	name:Oxacillin	normalName:oxacillin	normalWikiTitle:oxacillin	predictedType:Chemical
+ENTITY	text:nafcillin	normalName:nafcillin	predictedType:chemical	q:true	qid:Q497	docId:20959502	origText:nafcillin	url:D009254
+CANDIDATE	id:9254	inCount:2	outCount:1	links:	url:D009254	name:Nafcillin	normalName:nafcillin	normalWikiTitle:nafcillin	predictedType:Chemical
+ENTITY	text:creatinine	normalName:creatinine	predictedType:chemical	q:true	qid:Q497	docId:20959502	origText:creatinine	url:D003404
+CANDIDATE	id:3404	inCount:8	outCount:1	links:	url:D003404	name:Creatinine	normalName:creatinine	normalWikiTitle:creatinine	predictedType:Chemical
+ENTITY	text:Creatine	normalName:creatine	predictedType:chemical	q:true	qid:Q497	docId:20959502	origText:Creatine	url:D003401
+CANDIDATE	id:3401	inCount:7	outCount:2	links:	url:D003401	name:Creatine	normalName:creatine	normalWikiTitle:creatine	predictedType:Chemical

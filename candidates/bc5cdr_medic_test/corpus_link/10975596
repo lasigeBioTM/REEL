@@ -1,6 +1,6 @@
-ENTITY	text:tachycardia	normalName:tachycardia	predictedType:disease	q:true	qid:Q431	docId:10975596	origText:tachycardia	url:D013610
-CANDIDATE	id:13610	inCount:7	outCount:2	links:9203	url:D013610	name:Tachycardia	normalName:tachycardia	normalWikiTitle:tachycardia	predictedType:Disease
-ENTITY	text:arrhythmias	normalName:arrhythmias	predictedType:disease	q:true	qid:Q431	docId:10975596	origText:arrhythmias	url:D001145
-CANDIDATE	id:1145	inCount:27	outCount:2	links:	url:D001145	name:Arrhythmia	normalName:arrhythmia	normalWikiTitle:arrhythmia	predictedType:Disease
-ENTITY	text:myocardial infarction	normalName:myocardial infarction	predictedType:disease	q:true	qid:Q431	docId:10975596	origText:myocardial infarction	url:D009203
-CANDIDATE	id:9203	inCount:8	outCount:1	links:13610	url:D009203	name:Myocardial Infarction	normalName:myocardial infarction	normalWikiTitle:myocardial infarction	predictedType:Disease
+ENTITY	text:myocardial infarction	normalName:myocardial infarction	predictedType:disease	q:true	qid:Q336	docId:10975596	origText:myocardial infarction	url:D009203
+CANDIDATE	id:9203	inCount:8	outCount:2	links:1145;13610	url:D009203	name:Myocardial Infarction	normalName:myocardial infarction	normalWikiTitle:myocardial infarction	predictedType:Disease
+ENTITY	text:tachycardia	normalName:tachycardia	predictedType:disease	q:true	qid:Q336	docId:10975596	origText:tachycardia	url:D013610
+CANDIDATE	id:13610	inCount:7	outCount:2	links:9203;1145	url:D013610	name:Tachycardia	normalName:tachycardia	normalWikiTitle:tachycardia	predictedType:Disease
+ENTITY	text:arrhythmias	normalName:arrhythmias	predictedType:disease	q:true	qid:Q336	docId:10975596	origText:arrhythmias	url:D001145
+CANDIDATE	id:1145	inCount:28	outCount:2	links:9203;13610	url:D001145	name:Arrhythmia	normalName:arrhythmia	normalWikiTitle:arrhythmia	predictedType:Disease

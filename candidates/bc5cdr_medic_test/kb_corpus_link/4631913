@@ -1,10 +1,10 @@
-ENTITY	text:infection	normalName:infection	predictedType:disease	q:true	qid:Q448	docId:4631913	origText:infection	url:D007239
-CANDIDATE	id:7239	inCount:33	outCount:1	links:	url:D007239	name:Infection	normalName:infection	normalWikiTitle:infection	predictedType:Disease
-ENTITY	text:sepsis	normalName:sepsis	predictedType:disease	q:true	qid:Q448	docId:4631913	origText:sepsis	url:D018805
-CANDIDATE	id:18805	inCount:6	outCount:2	links:11552;7970	url:D018805	name:Sepsis	normalName:sepsis	normalWikiTitle:sepsis	predictedType:Disease
-ENTITY	text:leukopenia	normalName:leukopenia	predictedType:disease	q:true	qid:Q448	docId:4631913	origText:leukopenia	url:D007970
-CANDIDATE	id:7970	inCount:4	outCount:1	links:18805;11552	url:D007970	name:Leukopenia	normalName:leukopenia	normalWikiTitle:leukopenia	predictedType:Disease
-ENTITY	text:Pseudomonas infections	normalName:pseudomonas infections	predictedType:disease	q:true	qid:Q448	docId:4631913	origText:Pseudomonas infections	url:D011552
+ENTITY	text:Pseudomonas infections	normalName:pseudomonas infections	predictedType:disease	q:true	qid:Q232	docId:4631913	origText:Pseudomonas infections	url:D011552
 CANDIDATE	id:11552	inCount:1	outCount:1	links:18805;7970	url:D011552	name:Pseudomonas Infections	normalName:pseudomonas infections	normalWikiTitle:pseudomonas infections	predictedType:Disease
-ENTITY	text:Leukocytosis	normalName:leukocytosis	predictedType:disease	q:true	qid:Q448	docId:4631913	origText:Leukocytosis	url:D007964
+ENTITY	text:Leukocytosis	normalName:leukocytosis	predictedType:disease	q:true	qid:Q232	docId:4631913	origText:Leukocytosis	url:D007964
 CANDIDATE	id:7964	inCount:3	outCount:2	links:	url:D007964	name:Leukocytosis	normalName:leukocytosis	normalWikiTitle:leukocytosis	predictedType:Disease
+ENTITY	text:leukopenia	normalName:leukopenia	predictedType:disease	q:true	qid:Q232	docId:4631913	origText:leukopenia	url:D007970
+CANDIDATE	id:7970	inCount:3	outCount:1	links:18805;11552	url:D007970	name:Leukopenia	normalName:leukopenia	normalWikiTitle:leukopenia	predictedType:Disease
+ENTITY	text:infection	normalName:infection	predictedType:disease	q:true	qid:Q232	docId:4631913	origText:infection	url:D007239
+CANDIDATE	id:7239	inCount:45	outCount:1	links:	url:D007239	name:Infection	normalName:infection	normalWikiTitle:infection	predictedType:Disease
+ENTITY	text:sepsis	normalName:sepsis	predictedType:disease	q:true	qid:Q232	docId:4631913	origText:sepsis	url:D018805
+CANDIDATE	id:18805	inCount:6	outCount:2	links:11552;7970	url:D018805	name:Sepsis	normalName:sepsis	normalWikiTitle:sepsis	predictedType:Disease

@@ -1,28 +1,7 @@
-ENTITY	text:cardiac toxicity	normalName:cardiac toxicity	predictedType:disease	q:true	qid:Q373	docId:12677626	origText:cardiac toxicity	url:D066126
-CANDIDATE	id:66126	inCount:0	outCount:3	links:9203	url:D066126	name:Cardiac Toxicity	normalName:cardiac toxicity	normalWikiTitle:cardiac toxicity	predictedType:Disease
-ENTITY	text:convulsions	normalName:convulsions	predictedType:disease	q:true	qid:Q373	docId:12677626	origText:convulsions	url:D012640
-CANDIDATE	id:12640	inCount:53	outCount:1	links:4830;9203	url:D012640	name:Convulsion	normalName:convulsion	normalWikiTitle:convulsion	predictedType:Disease
-ENTITY	text:cardiovascular toxicity	normalName:cardiovascular toxicity	predictedType:disease	q:true	qid:Q373	docId:12677626	origText:cardiovascular toxicity	url:D002318
-CANDIDATE	id:2318	inCount:5	outCount:1	links:4830	url:D002318	name:Cardiovascular Diseases	normalName:cardiovascular diseases	normalWikiTitle:cardiovascular diseases	predictedType:Disease
-CANDIDATE	id:66126	inCount:0	outCount:3	links:9203	url:D066126	name:Cardiotoxicity	normalName:cardiotoxicity	normalWikiTitle:cardiotoxicity	predictedType:Disease
-CANDIDATE	id:53821	inCount:3	outCount:2	links:	url:D053821	name:Cardiovascular Infections	normalName:cardiovascular infections	normalWikiTitle:cardiovascular infections	predictedType:Disease
-CANDIDATE	id:13589	inCount:0	outCount:2	links:	url:D013589	name:Syphilis, Cardiovascular	normalName:syphilis, cardiovascular	normalWikiTitle:syphilis, cardiovascular	predictedType:Disease
-CANDIDATE	id:14381	inCount:1	outCount:2	links:	url:D014381	name:Tuberculosis, Cardiovascular	normalName:tuberculosis, cardiovascular	normalWikiTitle:tuberculosis, cardiovascular	predictedType:Disease
-CANDIDATE	id:11249	inCount:1	outCount:2	links:	url:D011249	name:Pregnancy Complications, Cardiovascular	normalName:pregnancy complications, cardiovascular	normalWikiTitle:pregnancy complications, cardiovascular	predictedType:Disease
-CANDIDATE	id:531667	inCount:0	outCount:1	links:	url:C531667	name:5 alpha Fluorouracil toxicity	normalName:5 alpha fluorouracil toxicity	normalWikiTitle:5 alpha fluorouracil toxicity	predictedType:Disease
-CANDIDATE	id:566156	inCount:0	outCount:1	links:	url:C566156	name:Cataract, Nuclear Total	normalName:cataract, nuclear total	normalWikiTitle:cataract, nuclear total	predictedType:Disease
-CANDIDATE	id:20214	inCount:3	outCount:2	links:	url:D020214	name:Cerebrovascular Trauma	normalName:cerebrovascular trauma	normalWikiTitle:cerebrovascular trauma	predictedType:Disease
-CANDIDATE	id:73436	inCount:0	outCount:1	links:	url:D000073436	name:Microvascular Rarefaction	normalName:microvascular rarefaction	normalWikiTitle:microvascular rarefaction	predictedType:Disease
-CANDIDATE	id:66126	inCount:0	outCount:3	links:9203	url:D066126	name:Toxicity, Cardiac	normalName:toxicity, cardiac	normalWikiTitle:toxicity, cardiac	predictedType:Disease
-CANDIDATE	id:66126	inCount:0	outCount:3	links:9203	url:D066126	name:Cardiac Toxicity	normalName:cardiac toxicity	normalWikiTitle:cardiac toxicity	predictedType:Disease
-CANDIDATE	id:53821	inCount:3	outCount:2	links:	url:D053821	name:Infection, Cardiovascular	normalName:infection, cardiovascular	normalWikiTitle:infection, cardiovascular	predictedType:Disease
-CANDIDATE	id:9203	inCount:8	outCount:1	links:66126;12640	url:D009203	name:Cardiovascular Stroke	normalName:cardiovascular stroke	normalWikiTitle:cardiovascular stroke	predictedType:Disease
-CANDIDATE	id:53821	inCount:3	outCount:2	links:	url:D053821	name:Cardiovascular Infection	normalName:cardiovascular infection	normalWikiTitle:cardiovascular infection	predictedType:Disease
-CANDIDATE	id:9203	inCount:8	outCount:1	links:66126;12640	url:D009203	name:Stroke, Cardiovascular	normalName:stroke, cardiovascular	normalWikiTitle:stroke, cardiovascular	predictedType:Disease
 ENTITY	text:grand mal seizures	normalName:grand mal seizures	predictedType:disease	q:true	qid:Q373	docId:12677626	origText:grand mal seizures	url:D004830
-CANDIDATE	id:4830	inCount:1	outCount:1	links:2318;12640	url:D004830	name:Grand Mal Seizure Disorder	normalName:grand mal seizure disorder	normalWikiTitle:grand mal seizure disorder	predictedType:Disease
+CANDIDATE	id:4830	inCount:1	outCount:1	links:12640;2318	url:D004830	name:Grand Mal Seizure Disorder	normalName:grand mal seizure disorder	normalWikiTitle:grand mal seizure disorder	predictedType:Disease
 CANDIDATE	id:3294	inCount:24	outCount:1	links:	url:D003294	name:Seizures, Febrile	normalName:seizures, febrile	normalWikiTitle:seizures, febrile	predictedType:Disease
-CANDIDATE	id:12640	inCount:53	outCount:1	links:4830;9203	url:D012640	name:Seizures	normalName:seizures	normalWikiTitle:seizures	predictedType:Disease
+CANDIDATE	id:12640	inCount:54	outCount:1	links:66126;2318;9203	url:D012640	name:Seizures	normalName:seizures	normalWikiTitle:seizures	predictedType:Disease
 CANDIDATE	id:820	inCount:45	outCount:1	links:	url:D000820	name:Animal Diseases	normalName:animal diseases	normalWikiTitle:animal diseases	predictedType:Disease
 CANDIDATE	id:7	inCount:3	outCount:1	links:	url:D000007	name:Abdominal Injuries	normalName:abdominal injuries	normalWikiTitle:abdominal injuries	predictedType:Disease
 CANDIDATE	id:537708	inCount:0	outCount:1	links:	url:C537708	name:Kifafa seizure disorder	normalName:kifafa seizure disorder	normalWikiTitle:kifafa seizure disorder	predictedType:Disease
@@ -31,14 +10,34 @@ CANDIDATE	id:53207	inCount:0	outCount:1	links:	url:D053207	name:Diurnal Enuresis
 CANDIDATE	id:607681	inCount:0	outCount:2	links:	url:607681	name:FEBRILE SEIZURES, FAMILIAL, 8	normalName:febrile seizures, familial, 8	normalWikiTitle:febrile seizures, familial, 8	predictedType:Disease
 CANDIDATE	id:6230	inCount:1	outCount:1	links:	url:D006230	name:Hand Injuries	normalName:hand injuries	normalWikiTitle:hand injuries	predictedType:Disease
 CANDIDATE	id:18330	inCount:0	outCount:1	links:	url:D018330	name:Nevus, Intradermal	normalName:nevus, intradermal	normalWikiTitle:nevus, intradermal	predictedType:Disease
-CANDIDATE	id:4830	inCount:1	outCount:1	links:2318;12640	url:D004830	name:Seizure Disorder, Grand Mal	normalName:seizure disorder, grand mal	normalWikiTitle:seizure disorder, grand mal	predictedType:Disease
-CANDIDATE	id:12640	inCount:53	outCount:1	links:4830;9203	url:D012640	name:Seizures, Partial	normalName:seizures, partial	normalWikiTitle:seizures, partial	predictedType:Disease
-CANDIDATE	id:12640	inCount:53	outCount:1	links:4830;9203	url:D012640	name:Partial Seizures	normalName:partial seizures	normalWikiTitle:partial seizures	predictedType:Disease
+CANDIDATE	id:4830	inCount:1	outCount:1	links:12640;2318	url:D004830	name:Seizure Disorder, Grand Mal	normalName:seizure disorder, grand mal	normalWikiTitle:seizure disorder, grand mal	predictedType:Disease
+CANDIDATE	id:12640	inCount:54	outCount:1	links:66126;2318;9203	url:D012640	name:Partial Seizures	normalName:partial seizures	normalWikiTitle:partial seizures	predictedType:Disease
 CANDIDATE	id:565162	inCount:0	outCount:1	links:	url:C565162	name:Seizures, Familial, 1	normalName:seizures, familial, 1	normalWikiTitle:seizures, familial, 1	predictedType:Disease
-CANDIDATE	id:12640	inCount:53	outCount:1	links:4830;9203	url:D012640	name:Seizures, Focal	normalName:seizures, focal	normalWikiTitle:seizures, focal	predictedType:Disease
+CANDIDATE	id:12640	inCount:54	outCount:1	links:66126;2318;9203	url:D012640	name:Seizures, Focal	normalName:seizures, focal	normalWikiTitle:seizures, focal	predictedType:Disease
 CANDIDATE	id:3294	inCount:24	outCount:1	links:	url:D003294	name:Pyrexial Seizures	normalName:pyrexial seizures	normalWikiTitle:pyrexial seizures	predictedType:Disease
-CANDIDATE	id:12640	inCount:53	outCount:1	links:4830;9203	url:D012640	name:Focal Seizures	normalName:focal seizures	normalWikiTitle:focal seizures	predictedType:Disease
+CANDIDATE	id:12640	inCount:54	outCount:1	links:66126;2318;9203	url:D012640	name:Focal Seizures	normalName:focal seizures	normalWikiTitle:focal seizures	predictedType:Disease
 CANDIDATE	id:3294	inCount:24	outCount:1	links:	url:D003294	name:Seizures, Pyrexial	normalName:seizures, pyrexial	normalWikiTitle:seizures, pyrexial	predictedType:Disease
-CANDIDATE	id:12640	inCount:53	outCount:1	links:4830;9203	url:D012640	name:Generalized Seizures	normalName:generalized seizures	normalWikiTitle:generalized seizures	predictedType:Disease
+CANDIDATE	id:12640	inCount:54	outCount:1	links:66126;2318;9203	url:D012640	name:Generalized Seizures	normalName:generalized seizures	normalWikiTitle:generalized seizures	predictedType:Disease
 ENTITY	text:seizures	normalName:seizures	predictedType:disease	q:true	qid:Q373	docId:12677626	origText:seizures	url:D012640
-CANDIDATE	id:12640	inCount:53	outCount:1	links:4830;9203	url:D012640	name:Seizure	normalName:seizure	normalWikiTitle:seizure	predictedType:Disease
+CANDIDATE	id:12640	inCount:54	outCount:1	links:66126;2318;9203	url:D012640	name:Seizure	normalName:seizure	normalWikiTitle:seizure	predictedType:Disease
+ENTITY	text:cardiovascular toxicity	normalName:cardiovascular toxicity	predictedType:disease	q:true	qid:Q373	docId:12677626	origText:cardiovascular toxicity	url:D002318
+CANDIDATE	id:2318	inCount:5	outCount:1	links:12640;4830	url:D002318	name:Cardiovascular Diseases	normalName:cardiovascular diseases	normalWikiTitle:cardiovascular diseases	predictedType:Disease
+CANDIDATE	id:66126	inCount:0	outCount:4	links:12640	url:D066126	name:Cardiotoxicity	normalName:cardiotoxicity	normalWikiTitle:cardiotoxicity	predictedType:Disease
+CANDIDATE	id:53821	inCount:3	outCount:2	links:	url:D053821	name:Cardiovascular Infections	normalName:cardiovascular infections	normalWikiTitle:cardiovascular infections	predictedType:Disease
+CANDIDATE	id:13589	inCount:0	outCount:2	links:	url:D013589	name:Syphilis, Cardiovascular	normalName:syphilis, cardiovascular	normalWikiTitle:syphilis, cardiovascular	predictedType:Disease
+CANDIDATE	id:14381	inCount:1	outCount:2	links:	url:D014381	name:Tuberculosis, Cardiovascular	normalName:tuberculosis, cardiovascular	normalWikiTitle:tuberculosis, cardiovascular	predictedType:Disease
+CANDIDATE	id:11249	inCount:1	outCount:2	links:	url:D011249	name:Pregnancy Complications, Cardiovascular	normalName:pregnancy complications, cardiovascular	normalWikiTitle:pregnancy complications, cardiovascular	predictedType:Disease
+CANDIDATE	id:531667	inCount:0	outCount:1	links:	url:C531667	name:5 alpha Fluorouracil toxicity	normalName:5 alpha fluorouracil toxicity	normalWikiTitle:5 alpha fluorouracil toxicity	predictedType:Disease
+CANDIDATE	id:566156	inCount:0	outCount:1	links:	url:C566156	name:Cataract, Nuclear Total	normalName:cataract, nuclear total	normalWikiTitle:cataract, nuclear total	predictedType:Disease
+CANDIDATE	id:20214	inCount:3	outCount:2	links:	url:D020214	name:Cerebrovascular Trauma	normalName:cerebrovascular trauma	normalWikiTitle:cerebrovascular trauma	predictedType:Disease
+CANDIDATE	id:73436	inCount:0	outCount:1	links:	url:D000073436	name:Microvascular Rarefaction	normalName:microvascular rarefaction	normalWikiTitle:microvascular rarefaction	predictedType:Disease
+CANDIDATE	id:66126	inCount:0	outCount:4	links:12640	url:D066126	name:Toxicity, Cardiac	normalName:toxicity, cardiac	normalWikiTitle:toxicity, cardiac	predictedType:Disease
+CANDIDATE	id:66126	inCount:0	outCount:4	links:12640	url:D066126	name:Cardiac Toxicity	normalName:cardiac toxicity	normalWikiTitle:cardiac toxicity	predictedType:Disease
+CANDIDATE	id:53821	inCount:3	outCount:2	links:	url:D053821	name:Infection, Cardiovascular	normalName:infection, cardiovascular	normalWikiTitle:infection, cardiovascular	predictedType:Disease
+CANDIDATE	id:9203	inCount:8	outCount:2	links:12640;66126	url:D009203	name:Cardiovascular Stroke	normalName:cardiovascular stroke	normalWikiTitle:cardiovascular stroke	predictedType:Disease
+CANDIDATE	id:53821	inCount:3	outCount:2	links:	url:D053821	name:Cardiovascular Infection	normalName:cardiovascular infection	normalWikiTitle:cardiovascular infection	predictedType:Disease
+CANDIDATE	id:9203	inCount:8	outCount:2	links:12640;66126	url:D009203	name:Stroke, Cardiovascular	normalName:stroke, cardiovascular	normalWikiTitle:stroke, cardiovascular	predictedType:Disease
+ENTITY	text:cardiac toxicity	normalName:cardiac toxicity	predictedType:disease	q:true	qid:Q373	docId:12677626	origText:cardiac toxicity	url:D066126
+CANDIDATE	id:66126	inCount:0	outCount:4	links:12640	url:D066126	name:Cardiac Toxicity	normalName:cardiac toxicity	normalWikiTitle:cardiac toxicity	predictedType:Disease
+ENTITY	text:convulsions	normalName:convulsions	predictedType:disease	q:true	qid:Q373	docId:12677626	origText:convulsions	url:D012640
+CANDIDATE	id:12640	inCount:54	outCount:1	links:66126;2318;9203	url:D012640	name:Convulsion	normalName:convulsion	normalWikiTitle:convulsion	predictedType:Disease

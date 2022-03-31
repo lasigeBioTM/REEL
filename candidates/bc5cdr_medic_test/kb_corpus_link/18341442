@@ -1,6 +1,4 @@
-ENTITY	text:lethargy	normalName:lethargy	predictedType:disease	q:true	qid:Q231	docId:18341442	origText:lethargy	url:D053609
-CANDIDATE	id:53609	inCount:0	outCount:1	links:	url:D053609	name:Lethargy	normalName:lethargy	normalWikiTitle:lethargy	predictedType:Disease
-ENTITY	text:idiopathic epilepsy	normalName:idiopathic epilepsy	predictedType:disease	q:true	qid:Q231	docId:18341442	origText:idiopathic epilepsy	url:C562694
+ENTITY	text:idiopathic epilepsy	normalName:idiopathic epilepsy	predictedType:disease	q:true	qid:Q116	docId:18341442	origText:idiopathic epilepsy	url:C562694
 CANDIDATE	id:562694	inCount:1	outCount:1	links:	url:C562694	name:Epilepsy, Idiopathic Generalized	normalName:epilepsy, idiopathic generalized	normalWikiTitle:epilepsy, idiopathic generalized	predictedType:Disease
 CANDIDATE	id:19305	inCount:3	outCount:2	links:	url:D019305	name:Epilepsy, Rolandic	normalName:epilepsy, rolandic	normalWikiTitle:epilepsy, rolandic	predictedType:Disease
 CANDIDATE	id:20938	inCount:0	outCount:1	links:	url:D020938	name:Epilepsy, Partial, Motor	normalName:epilepsy, partial, motor	normalWikiTitle:epilepsy, partial, motor	predictedType:Disease
@@ -14,7 +12,9 @@ CANDIDATE	id:20937	inCount:1	outCount:1	links:	url:D020937	name:Epilepsy, Partia
 CANDIDATE	id:4831	inCount:17	outCount:2	links:	url:D004831	name:Myoclonic Epilepsy, Idiopathic	normalName:myoclonic epilepsy, idiopathic	normalWikiTitle:myoclonic epilepsy, idiopathic	predictedType:Disease
 CANDIDATE	id:4831	inCount:17	outCount:2	links:	url:D004831	name:Idiopathic Myoclonic Epilepsy	normalName:idiopathic myoclonic epilepsy	normalWikiTitle:idiopathic myoclonic epilepsy	predictedType:Disease
 CANDIDATE	id:4831	inCount:17	outCount:2	links:	url:D004831	name:Epilepsy, Idiopathic Myoclonic	normalName:epilepsy, idiopathic myoclonic	normalWikiTitle:epilepsy, idiopathic myoclonic	predictedType:Disease
-ENTITY	text:Seizure	normalName:seizure	predictedType:disease	q:true	qid:Q231	docId:18341442	origText:Seizure	url:D012640
-CANDIDATE	id:12640	inCount:53	outCount:1	links:12640	url:D012640	name:Seizure	normalName:seizure	normalWikiTitle:seizure	predictedType:Disease
-ENTITY	text:seizures	normalName:seizures	predictedType:disease	q:true	qid:Q231	docId:18341442	origText:seizures	url:D012640
-CANDIDATE	id:12640	inCount:53	outCount:1	links:12640	url:D012640	name:Seizure	normalName:seizure	normalWikiTitle:seizure	predictedType:Disease
+ENTITY	text:Seizure	normalName:seizure	predictedType:disease	q:true	qid:Q116	docId:18341442	origText:Seizure	url:D012640
+CANDIDATE	id:12640	inCount:54	outCount:1	links:12640	url:D012640	name:Seizure	normalName:seizure	normalWikiTitle:seizure	predictedType:Disease
+ENTITY	text:seizures	normalName:seizures	predictedType:disease	q:true	qid:Q116	docId:18341442	origText:seizures	url:D012640
+CANDIDATE	id:12640	inCount:54	outCount:1	links:12640	url:D012640	name:Seizure	normalName:seizure	normalWikiTitle:seizure	predictedType:Disease
+ENTITY	text:lethargy	normalName:lethargy	predictedType:disease	q:true	qid:Q116	docId:18341442	origText:lethargy	url:D053609
+CANDIDATE	id:53609	inCount:0	outCount:1	links:	url:D053609	name:Lethargy	normalName:lethargy	normalWikiTitle:lethargy	predictedType:Disease

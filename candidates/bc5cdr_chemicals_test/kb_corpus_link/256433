@@ -1,6 +1,6 @@
-ENTITY	text:tobramycin	normalName:tobramycin	predictedType:chemical	q:true	qid:Q309	docId:256433	origText:tobramycin	url:D014031
+ENTITY	text:tobramycin	normalName:tobramycin	predictedType:chemical	q:true	qid:Q125	docId:256433	origText:tobramycin	url:D014031
 CANDIDATE	id:14031	inCount:6	outCount:1	links:2228	url:D014031	name:Tobramycin	normalName:tobramycin	normalWikiTitle:tobramycin	predictedType:Chemical
-ENTITY	text:carbenicillin	normalName:carbenicillin	predictedType:chemical	q:true	qid:Q309	docId:256433	origText:carbenicillin	url:D002228
+ENTITY	text:carbenicillin	normalName:carbenicillin	predictedType:chemical	q:true	qid:Q125	docId:256433	origText:carbenicillin	url:D002228
 CANDIDATE	id:2228	inCount:3	outCount:1	links:14031	url:D002228	name:Carbenicillin	normalName:carbenicillin	normalWikiTitle:carbenicillin	predictedType:Chemical
-ENTITY	text:creatinine	normalName:creatinine	predictedType:chemical	q:true	qid:Q309	docId:256433	origText:creatinine	url:D003404
+ENTITY	text:creatinine	normalName:creatinine	predictedType:chemical	q:true	qid:Q125	docId:256433	origText:creatinine	url:D003404
 CANDIDATE	id:3404	inCount:8	outCount:1	links:	url:D003404	name:Creatinine	normalName:creatinine	normalWikiTitle:creatinine	predictedType:Chemical

@@ -1,6 +1,6 @@
-ENTITY	text:syncope	normalName:syncope	predictedType:disease	q:true	qid:Q356	docId:24571687	origText:syncope	url:D013575
-CANDIDATE	id:13575	inCount:2	outCount:1	links:	url:D013575	name:Syncope	normalName:syncope	normalWikiTitle:syncope	predictedType:Disease
-ENTITY	text:bradycardia	normalName:bradycardia	predictedType:disease	q:true	qid:Q356	docId:24571687	origText:bradycardia	url:D001919
-CANDIDATE	id:1919	inCount:0	outCount:1	links:19462	url:D001919	name:Bradycardia	normalName:bradycardia	normalWikiTitle:bradycardia	predictedType:Disease
-ENTITY	text:Vasovagal syncope	normalName:vasovagal syncope	predictedType:disease	q:true	qid:Q356	docId:24571687	origText:Vasovagal syncope	url:D019462
+ENTITY	text:Vasovagal syncope	normalName:vasovagal syncope	predictedType:disease	q:true	qid:Q43	docId:24571687	origText:Vasovagal syncope	url:D019462
 CANDIDATE	id:19462	inCount:1	outCount:2	links:1919	url:D019462	name:Syncope, Vasovagal	normalName:syncope, vasovagal	normalWikiTitle:syncope, vasovagal	predictedType:Disease
+ENTITY	text:bradycardia	normalName:bradycardia	predictedType:disease	q:true	qid:Q43	docId:24571687	origText:bradycardia	url:D001919
+CANDIDATE	id:1919	inCount:0	outCount:1	links:19462	url:D001919	name:Bradycardia	normalName:bradycardia	normalWikiTitle:bradycardia	predictedType:Disease
+ENTITY	text:syncope	normalName:syncope	predictedType:disease	q:true	qid:Q43	docId:24571687	origText:syncope	url:D013575
+CANDIDATE	id:13575	inCount:2	outCount:1	links:	url:D013575	name:Syncope	normalName:syncope	normalWikiTitle:syncope	predictedType:Disease

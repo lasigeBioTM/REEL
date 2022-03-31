@@ -1,15 +1,15 @@
-ENTITY	text:bradycardiac	normalName:bradycardiac	predictedType:disease	q:true	qid:Q329	docId:3423103	origText:bradycardiac	url:D001919
-CANDIDATE	id:1919	inCount:0	outCount:1	links:1919;7022	url:D001919	name:Bradycardia	normalName:bradycardia	normalWikiTitle:bradycardia	predictedType:Disease
-CANDIDATE	id:13610	inCount:7	outCount:2	links:1919;7022	url:D013610	name:Tachycardia	normalName:tachycardia	normalWikiTitle:tachycardia	predictedType:Disease
+ENTITY	text:hypotension	normalName:hypotension	predictedType:disease	q:true	qid:Q210	docId:3423103	origText:hypotension	url:D007022
+CANDIDATE	id:7022	inCount:3	outCount:1	links:14581;1145;1919;13610	url:D007022	name:Hypotension	normalName:hypotension	normalWikiTitle:hypotension	predictedType:Disease
+ENTITY	text:bradycardia	normalName:bradycardia	predictedType:disease	q:true	qid:Q210	docId:3423103	origText:bradycardia	url:D001919
+CANDIDATE	id:1919	inCount:0	outCount:1	links:1145;7022;1919;13610	url:D001919	name:Bradycardia	normalName:bradycardia	normalWikiTitle:bradycardia	predictedType:Disease
+ENTITY	text:bradycardiac	normalName:bradycardiac	predictedType:disease	q:true	qid:Q210	docId:3423103	origText:bradycardiac	url:D001919
+CANDIDATE	id:1919	inCount:0	outCount:1	links:1145;7022;1919;13610	url:D001919	name:Bradycardia	normalName:bradycardia	normalWikiTitle:bradycardia	predictedType:Disease
+CANDIDATE	id:13610	inCount:7	outCount:2	links:7022;1919	url:D013610	name:Tachycardia	normalName:tachycardia	normalWikiTitle:tachycardia	predictedType:Disease
 CANDIDATE	id:54084	inCount:0	outCount:1	links:	url:D054084	name:Myocardial Bridging	normalName:myocardial bridging	normalWikiTitle:myocardial bridging	predictedType:Disease
 CANDIDATE	id:3914	inCount:4	outCount:2	links:	url:D003914	name:Dextrocardia	normalName:dextrocardia	normalWikiTitle:dextrocardia	predictedType:Disease
-CANDIDATE	id:1145	inCount:27	outCount:2	links:7022	url:D001145	name:Arrhythmias, Cardiac	normalName:arrhythmias, cardiac	normalWikiTitle:arrhythmias, cardiac	predictedType:Disease
+CANDIDATE	id:1145	inCount:28	outCount:2	links:7022;1919	url:D001145	name:Arrhythmias, Cardiac	normalName:arrhythmias, cardiac	normalWikiTitle:arrhythmias, cardiac	predictedType:Disease
 CANDIDATE	id:1198	inCount:0	outCount:1	links:	url:D001198	name:Ascaridiasis	normalName:ascaridiasis	normalWikiTitle:ascaridiasis	predictedType:Disease
 CANDIDATE	id:170	inCount:0	outCount:2	links:	url:D000170	name:Acrodynia	normalName:acrodynia	normalWikiTitle:acrodynia	predictedType:Disease
-CANDIDATE	id:14581	inCount:6	outCount:2	links:	url:D014581	name:Urticaria	normalName:urticaria	normalWikiTitle:urticaria	predictedType:Disease
+CANDIDATE	id:14581	inCount:7	outCount:2	links:7022	url:D014581	name:Urticaria	normalName:urticaria	normalWikiTitle:urticaria	predictedType:Disease
 CANDIDATE	id:535570	inCount:0	outCount:1	links:	url:C535570	name:Acalvaria	normalName:acalvaria	normalWikiTitle:acalvaria	predictedType:Disease
 CANDIDATE	id:59327	inCount:54	outCount:1	links:	url:D059327	name:Brachydactyly	normalName:brachydactyly	normalWikiTitle:brachydactyly	predictedType:Disease
-ENTITY	text:bradycardia	normalName:bradycardia	predictedType:disease	q:true	qid:Q329	docId:3423103	origText:bradycardia	url:D001919
-CANDIDATE	id:1919	inCount:0	outCount:1	links:1919;7022	url:D001919	name:Bradycardia	normalName:bradycardia	normalWikiTitle:bradycardia	predictedType:Disease
-ENTITY	text:hypotension	normalName:hypotension	predictedType:disease	q:true	qid:Q329	docId:3423103	origText:hypotension	url:D007022
-CANDIDATE	id:7022	inCount:3	outCount:1	links:1919;13610;1145	url:D007022	name:Hypotension	normalName:hypotension	normalWikiTitle:hypotension	predictedType:Disease

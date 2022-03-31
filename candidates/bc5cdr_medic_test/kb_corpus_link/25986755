@@ -1,6 +1,4 @@
-ENTITY	text:intrauterine growth retardation	normalName:intrauterine growth retardation	predictedType:disease	q:true	qid:Q17	docId:25986755	origText:intrauterine growth retardation	url:D005317
-CANDIDATE	id:5317	inCount:25	outCount:2	links:	url:D005317	name:Growth Retardation, Intrauterine	normalName:growth retardation, intrauterine	normalWikiTitle:growth retardation, intrauterine	predictedType:Disease
-ENTITY	text:glomerulosclerosis	normalName:glomerulosclerosis	predictedType:disease	q:true	qid:Q17	docId:25986755	origText:glomerulosclerosis	url:D005921
+ENTITY	text:glomerulosclerosis	normalName:glomerulosclerosis	predictedType:disease	q:true	qid:Q97	docId:25986755	origText:glomerulosclerosis	url:D005921
 CANDIDATE	id:5921	inCount:11	outCount:1	links:	url:D005921	name:Glomerulonephritis	normalName:glomerulonephritis	normalWikiTitle:glomerulonephritis	predictedType:Disease
 CANDIDATE	id:538457	inCount:0	outCount:1	links:	url:C538457	name:Segmental glomerulosclerosis	normalName:segmental glomerulosclerosis	normalWikiTitle:segmental glomerulosclerosis	predictedType:Disease
 CANDIDATE	id:10026	inCount:17	outCount:1	links:	url:D010026	name:Osteosclerosis	normalName:osteosclerosis	normalWikiTitle:osteosclerosis	predictedType:Disease
@@ -18,3 +16,5 @@ CANDIDATE	id:3928	inCount:4	outCount:2	links:	url:D003928	name:Glomerulosclerosi
 CANDIDATE	id:55728	inCount:2	outCount:1	links:	url:D055728	name:Myelosclerosis	normalName:myelosclerosis	normalWikiTitle:myelosclerosis	predictedType:Disease
 CANDIDATE	id:3928	inCount:4	outCount:2	links:	url:D003928	name:Diabetic Glomerulosclerosis	normalName:diabetic glomerulosclerosis	normalWikiTitle:diabetic glomerulosclerosis	predictedType:Disease
 CANDIDATE	id:3928	inCount:4	outCount:2	links:	url:D003928	name:Glomerulosclerosis, Diabetic	normalName:glomerulosclerosis, diabetic	normalWikiTitle:glomerulosclerosis, diabetic	predictedType:Disease
+ENTITY	text:intrauterine growth retardation	normalName:intrauterine growth retardation	predictedType:disease	q:true	qid:Q97	docId:25986755	origText:intrauterine growth retardation	url:D005317
+CANDIDATE	id:5317	inCount:25	outCount:2	links:	url:D005317	name:Growth Retardation, Intrauterine	normalName:growth retardation, intrauterine	normalWikiTitle:growth retardation, intrauterine	predictedType:Disease

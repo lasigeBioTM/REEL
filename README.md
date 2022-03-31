@@ -5,88 +5,100 @@ Model for biomedical Named Entity Linking improved by Relation Extraction
 ## Reference
 - Ruas, P., Lamurias, A. & Couto, F.M. Linking chemical and disease entities to ontologies by integrating PageRank with extracted relations from literature. J Cheminform 12, 57 (2020). [https://doi.org/10.1186/s13321-020-00461-4](https://doi.org/10.1186/s13321-020-00461-4)
 
-## Dependencies
-- [BO-LSTM](https://github.com/lasigeBioTM/BOLSTM)
-- fuzzywuzzy
-- obonet
-- OpenJDK >= 8
-- networkx
-- python3 >= 3.5
-- python-Levenshtein
-- spacy
+------------------------------------------------------------------------------
+## Table of contents:
+- [1. Setup](#Setup)
+  - [1.1. Docker](#docker)
+  - [1.2. Data](#data)
+- [2. Usage](#usage)
+  - [2.1. Apply the REEL model on custom input](#custom)
+  - [2.1. Apply the REEL model on evaluation dataset](#dataset)
 
-Or use the Dockerfile to setup the experimental environment.
+-----------------------------------------------------------------------------
+## 1. Setup<a name="Setup"></a>
 
-## Usage
+### 1.1. Docker<a name="docker"></a>
 
-### 1. Getting the data
+Build the Docker image from the Dockerfile:
+
+```
+docker build . --tag reel_image
+```
+
+Then run a docker container:
+
+```
+docker run -v $(pwd):/reel/ --name reel -it reel_image bash
+```
+
+
+### 1.2. Data<a name="data"></a>
+
 To download all the ontology and corpora files:
 
 ```
-
+chmod +x get_data.sh
 ./get_data.sh
-
 ```
 
+------------------------------------------------------------------------------
 
-### 2. Applying the 'baseline' model (does not require pre-processing)
+## 2. Usage<a name="usage"></a>
 
-To simply apply the 'baseline' model (does not require the candidates files):
+### 2.1. Apply the REEL model on custom input<a name="input"></a>
 
-```
-
-./run.sh [dataset] baseline none
-
-```
-
-Arg:
-
-1. [dataset] - the options are: 
-  - 'craft_chebi'
-  - 'bc5cdr_medic_all'
-  - 'bc5cdr_medic_train'
-  - 'bc5cdr_medic_dev' 
-  - 'bc5cdr_medic_test'
-  - 'bc5cdr_chemicals_all'
-  - 'bc5cdr_chemicals_train'
-  - 'bc5cdr_chemicals_dev'
-  - 'bc5cdr_chemicals_test'
-
-
-### 3. Applying the PPR-IC or the REEL model 
-
-To apply either the PPR-IC or the REEL model it is necessary to parse the annotations from the chosen dataset and create the candidates files. The disambiguation graph is built according to the information present in the candidates files and the chosen link_mode. The Personalised PageRank (PPR) algorithm is applied over the graph to rank the candidate nodes. The script *run.sh* performs both the pre-processing and the PPR steps:
-
+If you have the ouput of a NER tool first store it in a json file with the same
+format as 'sample_input.json': 
 
 ```
-
-./run.sh [dataset] [model] [link_mode]
-
+{
+ "doc_1": ["hypertension", "diabetes mellitus", "diazepam", "GABA"],
+ "doc_2": ["myocarditis", "heart failure", "acetaminophen"],
+ "doc_3": ["hepatitis", "caffeine", "adrenaline"]
+}
 ```
 
-Args:
-
-1. [dataset] 
-
-2. [model] - either 'baseline' or 'ppr_ic'
-
-3. [link_mode] - How to add edges in the disambiguation graphs (link mode):
-- 'none' : when model = 'baseline' there is no disambiguation graph
-- 'kb\_link' : two nodes in the disambiguation graph are connected if they are directly linked in the respective ontology
-- 'corpus\_link' : two nodes in the disambiguation graph are connected if they appear in the extracted relations set	
-- 'corpus\_kb\_link' : concatenation of above link modes
-
-The argument conjugations 'ppr-ic' + 'corpus_link' and 'ppr-ic' + 'kb_corpus_link' constitutes the two variations of the REEL model.
-
-Example:
+Then apply the REEL model to link the inputed entities to ChEBI concepts:
 
 ```
-
-./run.sh craft_chebi ppr_ic corpus_link
-
+python run.py --run_label sample_run --input_file sample_input.json -target_kb chebi -model ppr_ic --link_mode corpus_kb_link 
 ```
 
-This script imports the output from BO-LSTM (a relation extraction tool) in the file 'full_model_temp.chebicraftresults.txt', creates the candidates files for each corpus document in the ´candidates/craft\_chebi/corpus\_link´ dir, applies the PPR algorithm and returns the results in a file located in 'results/craft\_chebi/ppr_ic/corpus\_link' dir and in the terminal:
+The output will be in the file 'sample_run_results.json':
+
+```
+{
+"doc_1":{"diazepam":"CHEBI:49575", "gaba":"CHEBI:35621"},
+"doc_2":{"acetaminophen":"CHEBI:22160"},
+"doc_3":{"adrenaline":"CHEBI:33568", "caffeine":"CHEBI:27732"}
+}
+```
+
+There are 3 target knowledge bases available: ['chebi'](https://www.ebi.ac.uk/chebi/), ['medic'](http://ctdbase.org/voc.go;jsessionid=2772F41749EC369798B9854B9C40D648?type=disease) and ['ctd-chem'](http://ctdbase.org/voc.go?type=chem).
+
+
+To see more info about the input arguments:
+
+```
+python run.py -h
+```
+
+If instead you want to apply the baseline model run on the same input file:
+
+```
+python run.py --input_file sample_entities.json --target_kb chebi -model baseline 
+```
+
+### 2.2. Apply the REEL model on evaluation dataset<a name="dataset"></a>
+
+
+To evaluate the REEL model on the dataset CRAFT-ChEBI run:
+
+```
+python run.py --dataset craft_chebi -model ppr_ic --link_mode corpus_link -target_kb chebi
+```
+
+The results are outputted to a file located in 'results/craft_chebi/ppr_ic/corpus_link' and printed in the terminal:
 
 ```
 Total unique entities: 1679
@@ -97,3 +109,15 @@ Precision: 0.913768115942029
 Recall: 0.8083333333333333
 Micro F1-score: 0.8578231292517008
 ```
+
+Available datasets:
+- 'craft_chebi' (target_kb = chebi)
+- 'bc5cdr_medic_all' (target_kb = medic)
+- 'bc5cdr_medic_train' (target_kb = medic)
+- 'bc5cdr_medic_dev' (target_kb = medic)
+- 'bc5cdr_medic_test' (target_kb = medic)
+- 'bc5cdr_chemicals_all' (target_kb = ctd_chemicals)
+- 'bc5cdr_chemicals_train' (target_kb = ctd_chemicals)
+- 'bc5cdr_chemicals_dev' (target_kb = ctd_chemicals)
+- 'bc5cdr_chemicals_test' (target_kb = ctd_chemicals)
+

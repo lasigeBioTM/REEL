@@ -1,9 +1,9 @@
-ENTITY	text:amnesia	normalName:amnesia	predictedType:disease	q:true	qid:Q156	docId:24309294	origText:amnesia	url:D000647
+ENTITY	text:amnesia	normalName:amnesia	predictedType:disease	q:true	qid:Q32	docId:24309294	origText:amnesia	url:D000647
 CANDIDATE	id:647	inCount:4	outCount:2	links:8569	url:D000647	name:Amnesia	normalName:amnesia	normalWikiTitle:amnesia	predictedType:Disease
-ENTITY	text:memory impairment	normalName:memory impairment	predictedType:disease	q:true	qid:Q156	docId:24309294	origText:memory impairment	url:D008569
+ENTITY	text:memory impairment	normalName:memory impairment	predictedType:disease	q:true	qid:Q32	docId:24309294	origText:memory impairment	url:D008569
 CANDIDATE	id:8569	inCount:2	outCount:1	links:647	url:D008569	name:Memory Deficit	normalName:memory deficit	normalWikiTitle:memory deficit	predictedType:Disease
 CANDIDATE	id:8569	inCount:2	outCount:1	links:647	url:D008569	name:Memory Disorders	normalName:memory disorders	normalWikiTitle:memory disorders	predictedType:Disease
-CANDIDATE	id:3161	inCount:3	outCount:2	links:	url:D003161	name:Compartment Syndromes	normalName:compartment syndromes	normalWikiTitle:compartment syndromes	predictedType:Disease
+CANDIDATE	id:3161	inCount:4	outCount:2	links:	url:D003161	name:Compartment Syndromes	normalName:compartment syndromes	normalWikiTitle:compartment syndromes	predictedType:Disease
 CANDIDATE	id:18198	inCount:0	outCount:1	links:	url:D018198	name:Mixed Tumor, Malignant	normalName:mixed tumor, malignant	normalWikiTitle:mixed tumor, malignant	predictedType:Disease
 CANDIDATE	id:19773	inCount:0	outCount:1	links:	url:D019773	name:Epiretinal Membrane	normalName:epiretinal membrane	normalWikiTitle:epiretinal membrane	predictedType:Disease
 CANDIDATE	id:57873	inCount:0	outCount:1	links:	url:D057873	name:Peri-Implantitis	normalName:peri-implantitis	normalWikiTitle:peri-implantitis	predictedType:Disease

@@ -1,13 +1,7 @@
-ENTITY	text:heart disease	normalName:heart disease	predictedType:disease	q:true	qid:Q452	docId:16034922	origText:heart disease	url:D006331
-CANDIDATE	id:6331	inCount:29	outCount:1	links:	url:D006331	name:Disease, Heart	normalName:disease, heart	normalWikiTitle:disease, heart	predictedType:Disease
-ENTITY	text:venous thromboembolism	normalName:venous thromboembolism	predictedType:disease	q:true	qid:Q452	docId:16034922	origText:venous thromboembolism	url:D054556
-CANDIDATE	id:54556	inCount:0	outCount:1	links:1943;5705;3704;20521;2318	url:D054556	name:Venous Thromboembolism	normalName:venous thromboembolism	normalWikiTitle:venous thromboembolism	predictedType:Disease
-ENTITY	text:breast cancer	normalName:breast cancer	predictedType:disease	q:true	qid:Q452	docId:16034922	origText:breast cancer	url:D001943
-CANDIDATE	id:1943	inCount:19	outCount:2	links:54556;5705;3704;20521;2318	url:D001943	name:Breast Cancer	normalName:breast cancer	normalWikiTitle:breast cancer	predictedType:Disease
-ENTITY	text:menopausal symptoms	normalName:menopausal symptoms	predictedType:disease	q:true	qid:Q452	docId:16034922	origText:menopausal symptoms	url:D008594
+ENTITY	text:menopausal symptoms	normalName:menopausal symptoms	predictedType:disease	q:true	qid:Q406	docId:16034922	origText:menopausal symptoms	url:D008594
 CANDIDATE	id:8594	inCount:1	outCount:1	links:	url:D008594	name:Menopause, Premature	normalName:menopause, premature	normalWikiTitle:menopause, premature	predictedType:Disease
 CANDIDATE	id:62706	inCount:0	outCount:1	links:	url:D062706	name:Prodromal Symptoms	normalName:prodromal symptoms	normalWikiTitle:prodromal symptoms	predictedType:Disease
-CANDIDATE	id:12816	inCount:38	outCount:1	links:	url:D012816	name:Signs and Symptoms	normalName:signs and symptoms	normalWikiTitle:signs and symptoms	predictedType:Disease
+CANDIDATE	id:12816	inCount:39	outCount:1	links:	url:D012816	name:Signs and Symptoms	normalName:signs and symptoms	normalWikiTitle:signs and symptoms	predictedType:Disease
 CANDIDATE	id:9298	inCount:3	outCount:2	links:	url:D009298	name:Nasal Polyps	normalName:nasal polyps	normalWikiTitle:nasal polyps	predictedType:Disease
 CANDIDATE	id:15841	inCount:0	outCount:1	links:	url:D015841	name:Enophthalmos	normalName:enophthalmos	normalWikiTitle:enophthalmos	predictedType:Disease
 CANDIDATE	id:4940	inCount:0	outCount:1	links:	url:D004940	name:Esophageal Stenosis	normalName:esophageal stenosis	normalWikiTitle:esophageal stenosis	predictedType:Disease
@@ -15,19 +9,41 @@ CANDIDATE	id:536025	inCount:0	outCount:4	links:	url:C536025	name:Marshall syndro
 CANDIDATE	id:13274	inCount:5	outCount:2	links:	url:D013274	name:Stomach Neoplasms	normalName:stomach neoplasms	normalWikiTitle:stomach neoplasms	predictedType:Disease
 CANDIDATE	id:235	inCount:0	outCount:1	links:	url:D000235	name:Adenolymphoma	normalName:adenolymphoma	normalWikiTitle:adenolymphoma	predictedType:Disease
 CANDIDATE	id:9209	inCount:1	outCount:1	links:	url:D009209	name:Myofascial Pain Syndromes	normalName:myofascial pain syndromes	normalWikiTitle:myofascial pain syndromes	predictedType:Disease
-ENTITY	text:ovarian cancer	normalName:ovarian cancer	predictedType:disease	q:true	qid:Q452	docId:16034922	origText:ovarian cancer	url:D010051
+ENTITY	text:cardiovascular disease	normalName:cardiovascular disease	predictedType:disease	q:true	qid:Q406	docId:16034922	origText:cardiovascular disease	url:D002318
+CANDIDATE	id:2318	inCount:5	outCount:1	links:1943;5705;16889;20521;54556;3704	url:D002318	name:Disease, Cardiovascular	normalName:disease, cardiovascular	normalWikiTitle:disease, cardiovascular	predictedType:Disease
+ENTITY	text:osteoporosis	normalName:osteoporosis	predictedType:disease	q:true	qid:Q406	docId:16034922	origText:osteoporosis	url:D010024
+CANDIDATE	id:10024	inCount:19	outCount:1	links:54556	url:D010024	name:Osteoporosis	normalName:osteoporosis	normalWikiTitle:osteoporosis	predictedType:Disease
+ENTITY	text:dementia	normalName:dementia	predictedType:disease	q:true	qid:Q406	docId:16034922	origText:dementia	url:D003704
+CANDIDATE	id:3704	inCount:25	outCount:2	links:1943;5705;16889;2318;20521;54556	url:D003704	name:Dementia	normalName:dementia	normalWikiTitle:dementia	predictedType:Disease
+ENTITY	text:venous thromboembolism	normalName:venous thromboembolism	predictedType:disease	q:true	qid:Q406	docId:16034922	origText:venous thromboembolism	url:D054556
+CANDIDATE	id:54556	inCount:0	outCount:1	links:1943;5705;16889;2318;20521;10024;3704	url:D054556	name:Venous Thromboembolism	normalName:venous thromboembolism	normalWikiTitle:venous thromboembolism	predictedType:Disease
+ENTITY	text:stroke	normalName:stroke	predictedType:disease	q:true	qid:Q406	docId:16034922	origText:stroke	url:D020521
+CANDIDATE	id:20521	inCount:3	outCount:1	links:1943;5705;16889;2318;54556;3704	url:D020521	name:Stroke	normalName:stroke	normalWikiTitle:stroke	predictedType:Disease
+ENTITY	text:transient ischaemic attacks	normalName:transient ischaemic attacks	predictedType:disease	q:true	qid:Q406	docId:16034922	origText:transient ischaemic attacks	url:D002546
+CANDIDATE	id:2546	inCount:0	outCount:1	links:	url:D002546	name:Attacks, Transient Ischemic	normalName:attacks, transient ischemic	normalWikiTitle:attacks, transient ischemic	predictedType:Disease
+CANDIDATE	id:2546	inCount:0	outCount:1	links:	url:D002546	name:Ischemic Attack, Transient	normalName:ischemic attack, transient	normalWikiTitle:ischemic attack, transient	predictedType:Disease
+CANDIDATE	id:538679	inCount:0	outCount:1	links:	url:C538679	name:Transient antero-apical dyskinesia	normalName:transient antero-apical dyskinesia	normalWikiTitle:transient antero-apical dyskinesia	predictedType:Disease
+CANDIDATE	id:613977	inCount:0	outCount:1	links:	url:613977	name:CYANOSIS, TRANSIENT NEONATAL	normalName:cyanosis, transient neonatal	normalWikiTitle:cyanosis, transient neonatal	predictedType:Disease
+CANDIDATE	id:20236	inCount:0	outCount:2	links:	url:D020236	name:Amnesia, Transient Global	normalName:amnesia, transient global	normalWikiTitle:amnesia, transient global	predictedType:Disease
+CANDIDATE	id:20760	inCount:2	outCount:1	links:	url:D020760	name:Spinal Cord Ischemia	normalName:spinal cord ischemia	normalWikiTitle:spinal cord ischemia	predictedType:Disease
+CANDIDATE	id:13086	inCount:0	outCount:1	links:	url:D013086	name:Spermatic Cord Torsion	normalName:spermatic cord torsion	normalWikiTitle:spermatic cord torsion	predictedType:Disease
+CANDIDATE	id:613070	inCount:0	outCount:1	links:	url:613070	name:LIVER FAILURE, INFANTILE, TRANSIENT	normalName:liver failure, infantile, transient	normalWikiTitle:liver failure, infantile, transient	predictedType:Disease
+CANDIDATE	id:65666	inCount:0	outCount:3	links:	url:D065666	name:Mesenteric Ischemia	normalName:mesenteric ischemia	normalWikiTitle:mesenteric ischemia	predictedType:Disease
+CANDIDATE	id:563672	inCount:0	outCount:2	links:	url:C563672	name:Diabetes Mellitus, Transient Neonatal, 2	normalName:diabetes mellitus, transient neonatal, 2	normalWikiTitle:diabetes mellitus, transient neonatal, 2	predictedType:Disease
+CANDIDATE	id:29461	inCount:3	outCount:1	links:	url:D029461	name:Sialic Acid Storage Disease	normalName:sialic acid storage disease	normalWikiTitle:sialic acid storage disease	predictedType:Disease
+CANDIDATE	id:2546	inCount:0	outCount:1	links:	url:D002546	name:Ischemic Attacks, Transient	normalName:ischemic attacks, transient	normalWikiTitle:ischemic attacks, transient	predictedType:Disease
+CANDIDATE	id:2546	inCount:0	outCount:1	links:	url:D002546	name:Transient Ischemic Attacks	normalName:transient ischemic attacks	normalWikiTitle:transient ischemic attacks	predictedType:Disease
+ENTITY	text:breast cancer	normalName:breast cancer	predictedType:disease	q:true	qid:Q406	docId:16034922	origText:breast cancer	url:D001943
+CANDIDATE	id:1943	inCount:19	outCount:2	links:5705;16889;2318;20521;54556;3704	url:D001943	name:Breast Cancer	normalName:breast cancer	normalWikiTitle:breast cancer	predictedType:Disease
+ENTITY	text:colorectal cancer	normalName:colorectal cancer	predictedType:disease	q:true	qid:Q406	docId:16034922	origText:colorectal cancer	url:D015179
+CANDIDATE	id:15179	inCount:6	outCount:3	links:	url:D015179	name:Cancer, Colorectal	normalName:cancer, colorectal	normalWikiTitle:cancer, colorectal	predictedType:Disease
+ENTITY	text:ovarian cancer	normalName:ovarian cancer	predictedType:disease	q:true	qid:Q406	docId:16034922	origText:ovarian cancer	url:D010051
 CANDIDATE	id:10051	inCount:17	outCount:3	links:	url:D010051	name:Ovarian Cancer	normalName:ovarian cancer	normalWikiTitle:ovarian cancer	predictedType:Disease
-ENTITY	text:endometrial cancer	normalName:endometrial cancer	predictedType:disease	q:true	qid:Q452	docId:16034922	origText:endometrial cancer	url:D016889
-CANDIDATE	id:16889	inCount:2	outCount:1	links:	url:D016889	name:Cancer, Endometrial	normalName:cancer, endometrial	normalWikiTitle:cancer, endometrial	predictedType:Disease
-ENTITY	text:osteoporosis	normalName:osteoporosis	predictedType:disease	q:true	qid:Q452	docId:16034922	origText:osteoporosis	url:D010024
-CANDIDATE	id:10024	inCount:21	outCount:1	links:	url:D010024	name:Osteoporosis	normalName:osteoporosis	normalWikiTitle:osteoporosis	predictedType:Disease
-ENTITY	text:cardiovascular disease	normalName:cardiovascular disease	predictedType:disease	q:true	qid:Q452	docId:16034922	origText:cardiovascular disease	url:D002318
-CANDIDATE	id:2318	inCount:5	outCount:1	links:1943;54556;5705;3704;20521	url:D002318	name:Disease, Cardiovascular	normalName:disease, cardiovascular	normalWikiTitle:disease, cardiovascular	predictedType:Disease
-ENTITY	text:stroke	normalName:stroke	predictedType:disease	q:true	qid:Q452	docId:16034922	origText:stroke	url:D020521
-CANDIDATE	id:20521	inCount:2	outCount:1	links:1943;54556;5705;3704;2318	url:D020521	name:Stroke	normalName:stroke	normalWikiTitle:stroke	predictedType:Disease
-ENTITY	text:gallbladder disease	normalName:gallbladder disease	predictedType:disease	q:true	qid:Q452	docId:16034922	origText:gallbladder disease	url:D005705
-CANDIDATE	id:5705	inCount:10	outCount:1	links:1943;54556;3704;20521;2318	url:D005705	name:Gallbladder Disease	normalName:gallbladder disease	normalWikiTitle:gallbladder disease	predictedType:Disease
-ENTITY	text:fractures	normalName:fractures	predictedType:disease	q:true	qid:Q452	docId:16034922	origText:fractures	url:D050723
+ENTITY	text:endometrial cancer	normalName:endometrial cancer	predictedType:disease	q:true	qid:Q406	docId:16034922	origText:endometrial cancer	url:D016889
+CANDIDATE	id:16889	inCount:2	outCount:1	links:1943;5705;2318;20521;54556;3704	url:D016889	name:Cancer, Endometrial	normalName:cancer, endometrial	normalWikiTitle:cancer, endometrial	predictedType:Disease
+ENTITY	text:gallbladder disease	normalName:gallbladder disease	predictedType:disease	q:true	qid:Q406	docId:16034922	origText:gallbladder disease	url:D005705
+CANDIDATE	id:5705	inCount:10	outCount:1	links:1943;16889;2318;20521;54556;3704	url:D005705	name:Gallbladder Disease	normalName:gallbladder disease	normalWikiTitle:gallbladder disease	predictedType:Disease
+ENTITY	text:fractures	normalName:fractures	predictedType:disease	q:true	qid:Q406	docId:16034922	origText:fractures	url:D050723
 CANDIDATE	id:50723	inCount:31	outCount:1	links:	url:D050723	name:Fractures, Bone	normalName:fractures, bone	normalWikiTitle:fractures, bone	predictedType:Disease
 CANDIDATE	id:6620	inCount:1	outCount:2	links:	url:D006620	name:Hip Fractures	normalName:hip fractures	normalWikiTitle:hip fractures	predictedType:Disease
 CANDIDATE	id:7572	inCount:2	outCount:2	links:	url:D007572	name:Jaw Fractures	normalName:jaw fractures	normalWikiTitle:jaw fractures	predictedType:Disease
@@ -42,23 +58,5 @@ CANDIDATE	id:7572	inCount:2	outCount:2	links:	url:D007572	name:Jaw Fracture	norm
 CANDIDATE	id:12253	inCount:0	outCount:2	links:	url:D012253	name:Rib Fracture	normalName:rib fracture	normalWikiTitle:rib fracture	predictedType:Disease
 CANDIDATE	id:12253	inCount:0	outCount:2	links:	url:D012253	name:Fracture, Rib	normalName:fracture, rib	normalWikiTitle:fracture, rib	predictedType:Disease
 CANDIDATE	id:7572	inCount:2	outCount:2	links:	url:D007572	name:Fracture, Jaw	normalName:fracture, jaw	normalWikiTitle:fracture, jaw	predictedType:Disease
-ENTITY	text:transient ischaemic attacks	normalName:transient ischaemic attacks	predictedType:disease	q:true	qid:Q452	docId:16034922	origText:transient ischaemic attacks	url:D002546
-CANDIDATE	id:2546	inCount:0	outCount:1	links:	url:D002546	name:Attacks, Transient Ischemic	normalName:attacks, transient ischemic	normalWikiTitle:attacks, transient ischemic	predictedType:Disease
-CANDIDATE	id:2546	inCount:0	outCount:1	links:	url:D002546	name:Ischemic Attack, Transient	normalName:ischemic attack, transient	normalWikiTitle:ischemic attack, transient	predictedType:Disease
-CANDIDATE	id:538679	inCount:0	outCount:1	links:	url:C538679	name:Transient antero-apical dyskinesia	normalName:transient antero-apical dyskinesia	normalWikiTitle:transient antero-apical dyskinesia	predictedType:Disease
-CANDIDATE	id:613977	inCount:0	outCount:1	links:	url:613977	name:CYANOSIS, TRANSIENT NEONATAL	normalName:cyanosis, transient neonatal	normalWikiTitle:cyanosis, transient neonatal	predictedType:Disease
-CANDIDATE	id:20236	inCount:0	outCount:2	links:	url:D020236	name:Amnesia, Transient Global	normalName:amnesia, transient global	normalWikiTitle:amnesia, transient global	predictedType:Disease
-CANDIDATE	id:20760	inCount:2	outCount:1	links:	url:D020760	name:Spinal Cord Ischemia	normalName:spinal cord ischemia	normalWikiTitle:spinal cord ischemia	predictedType:Disease
-CANDIDATE	id:13086	inCount:0	outCount:1	links:	url:D013086	name:Spermatic Cord Torsion	normalName:spermatic cord torsion	normalWikiTitle:spermatic cord torsion	predictedType:Disease
-CANDIDATE	id:613070	inCount:0	outCount:1	links:	url:613070	name:LIVER FAILURE, INFANTILE, TRANSIENT	normalName:liver failure, infantile, transient	normalWikiTitle:liver failure, infantile, transient	predictedType:Disease
-CANDIDATE	id:65666	inCount:0	outCount:3	links:	url:D065666	name:Mesenteric Ischemia	normalName:mesenteric ischemia	normalWikiTitle:mesenteric ischemia	predictedType:Disease
-CANDIDATE	id:563672	inCount:0	outCount:2	links:	url:C563672	name:Diabetes Mellitus, Transient Neonatal, 2	normalName:diabetes mellitus, transient neonatal, 2	normalWikiTitle:diabetes mellitus, transient neonatal, 2	predictedType:Disease
-CANDIDATE	id:29461	inCount:3	outCount:1	links:	url:D029461	name:Sialic Acid Storage Disease	normalName:sialic acid storage disease	normalWikiTitle:sialic acid storage disease	predictedType:Disease
-CANDIDATE	id:2546	inCount:0	outCount:1	links:	url:D002546	name:Ischemic Attacks, Transient	normalName:ischemic attacks, transient	normalWikiTitle:ischemic attacks, transient	predictedType:Disease
-CANDIDATE	id:2546	inCount:0	outCount:1	links:	url:D002546	name:Transient Ischemic Attacks	normalName:transient ischemic attacks	normalWikiTitle:transient ischemic attacks	predictedType:Disease
-ENTITY	text:dementia	normalName:dementia	predictedType:disease	q:true	qid:Q452	docId:16034922	origText:dementia	url:D003704
-CANDIDATE	id:3704	inCount:25	outCount:2	links:1943;54556;5705;20521;2318	url:D003704	name:Dementia	normalName:dementia	normalWikiTitle:dementia	predictedType:Disease
-ENTITY	text:chronic disease	normalName:chronic disease	predictedType:disease	q:true	qid:Q452	docId:16034922	origText:chronic disease	url:D002908
-CANDIDATE	id:2908	inCount:2	outCount:1	links:	url:D002908	name:Chronic Disease	normalName:chronic disease	normalWikiTitle:chronic disease	predictedType:Disease
-ENTITY	text:colorectal cancer	normalName:colorectal cancer	predictedType:disease	q:true	qid:Q452	docId:16034922	origText:colorectal cancer	url:D015179
-CANDIDATE	id:15179	inCount:6	outCount:3	links:	url:D015179	name:Cancer, Colorectal	normalName:cancer, colorectal	normalWikiTitle:cancer, colorectal	predictedType:Disease
+ENTITY	text:chronic disease	normalName:chronic disease	predictedType:disease	q:true	qid:Q406	docId:16034922	origText:chronic disease	url:D002908
+CANDIDATE	id:2908	inCount:27	outCount:1	links:	url:D002908	name:Chronic Disease	normalName:chronic disease	normalWikiTitle:chronic disease	predictedType:Disease

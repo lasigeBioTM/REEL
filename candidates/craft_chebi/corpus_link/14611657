@@ -1,12 +1,12 @@
-ENTITY	text:digoxigenin	normalName:digoxigenin	predictedType:chemical	q:true	qid:Q48	docId:14611657	origText:digoxigenin	url:CHEBI:42098
-CANDIDATE	id:42098	inCount:0	outCount:4	links:	url:CHEBI:42098	name:digoxigenin	normalName:digoxigenin	normalWikiTitle:digoxigenin	predictedType:chemical
-ENTITY	text:formamide	normalName:formamide	predictedType:chemical	q:true	qid:Q48	docId:14611657	origText:formamide	url:CHEBI:16397
-CANDIDATE	id:16397	inCount:0	outCount:3	links:	url:CHEBI:16397	name:formamide	normalName:formamide	normalWikiTitle:formamide	predictedType:chemical
-ENTITY	text:agarose	normalName:agarose	predictedType:chemical	q:true	qid:Q48	docId:14611657	origText:agarose	url:CHEBI:2511
-CANDIDATE	id:2511	inCount:0	outCount:1	links:	url:CHEBI:2511	name:agarose	normalName:agarose	normalWikiTitle:agarose	predictedType:chemical
-ENTITY	text:fluorescent probe	normalName:fluorescent probe	predictedType:chemical	q:true	qid:Q48	docId:14611657	origText:fluorescent probe	url:CHEBI:39442
-CANDIDATE	id:39442	inCount:0	outCount:1	links:	url:CHEBI:39442	name:fluorescent probe	normalName:fluorescent probe	normalWikiTitle:fluorescent probe	predictedType:chemical
-ENTITY	text:dye	normalName:dye	predictedType:chemical	q:true	qid:Q48	docId:14611657	origText:dye	url:CHEBI:37958
-CANDIDATE	id:37958	inCount:2	outCount:1	links:	url:CHEBI:37958	name:dye	normalName:dye	normalWikiTitle:dye	predictedType:chemical
-ENTITY	text:glycoprotein	normalName:glycoprotein	predictedType:chemical	q:true	qid:Q48	docId:14611657	origText:glycoprotein	url:CHEBI:17089
-CANDIDATE	id:17089	inCount:5	outCount:2	links:	url:CHEBI:17089	name:glycoprotein	normalName:glycoprotein	normalWikiTitle:glycoprotein	predictedType:chemical
+ENTITY	text:glycoprotein	normalName:glycoprotein	predictedType:chemical	q:true	qid:Q37	docId:14611657	origText:glycoprotein	url:CHEBI_17089
+CANDIDATE	id:17089	inCount:5	outCount:2	links:	url:CHEBI_17089	name:glycoprotein	normalName:glycoprotein	normalWikiTitle:glycoprotein	predictedType:Chemical
+ENTITY	text:agarose	normalName:agarose	predictedType:chemical	q:true	qid:Q37	docId:14611657	origText:agarose	url:CHEBI_2511
+CANDIDATE	id:2511	inCount:0	outCount:1	links:	url:CHEBI_2511	name:agarose	normalName:agarose	normalWikiTitle:agarose	predictedType:Chemical
+ENTITY	text:dye	normalName:dye	predictedType:chemical	q:true	qid:Q37	docId:14611657	origText:dye	url:CHEBI_37958
+CANDIDATE	id:37958	inCount:2	outCount:1	links:	url:CHEBI_37958	name:dye	normalName:dye	normalWikiTitle:dye	predictedType:Chemical
+ENTITY	text:fluorescent probe	normalName:fluorescent probe	predictedType:chemical	q:true	qid:Q37	docId:14611657	origText:fluorescent probe	url:CHEBI_39442
+CANDIDATE	id:39442	inCount:0	outCount:1	links:	url:CHEBI_39442	name:fluorescent probe	normalName:fluorescent probe	normalWikiTitle:fluorescent probe	predictedType:Chemical
+ENTITY	text:digoxigenin	normalName:digoxigenin	predictedType:chemical	q:true	qid:Q37	docId:14611657	origText:digoxigenin	url:CHEBI_42098
+CANDIDATE	id:42098	inCount:0	outCount:4	links:	url:CHEBI_42098	name:digoxigenin	normalName:digoxigenin	normalWikiTitle:digoxigenin	predictedType:Chemical
+ENTITY	text:formamide	normalName:formamide	predictedType:chemical	q:true	qid:Q37	docId:14611657	origText:formamide	url:CHEBI_16397
+CANDIDATE	id:16397	inCount:0	outCount:3	links:	url:CHEBI_16397	name:formamide	normalName:formamide	normalWikiTitle:formamide	predictedType:Chemical

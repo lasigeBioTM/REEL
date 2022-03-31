@@ -1,6 +1,8 @@
-ENTITY	text:Methyldopa	normalName:methyldopa	predictedType:chemical	q:true	qid:Q400	docId:2320485	origText:Methyldopa	url:D008750
+ENTITY	text:Methyldopa	normalName:methyldopa	predictedType:chemical	q:true	qid:Q172	docId:2320485	origText:Methyldopa	url:D008750
 CANDIDATE	id:8750	inCount:9	outCount:1	links:8750	url:D008750	name:Methyldopa	normalName:methyldopa	normalWikiTitle:methyldopa	predictedType:Chemical
-ENTITY	text:corticosteroid	normalName:corticosteroid	predictedType:chemical	q:true	qid:Q400	docId:2320485	origText:corticosteroid	url:D000305
+ENTITY	text:Aldomet	normalName:aldomet	predictedType:chemical	q:true	qid:Q172	docId:2320485	origText:Aldomet	url:D008750
+CANDIDATE	id:8750	inCount:9	outCount:1	links:8750	url:D008750	name:Aldomet	normalName:aldomet	normalWikiTitle:aldomet	predictedType:Chemical
+ENTITY	text:corticosteroid	normalName:corticosteroid	predictedType:chemical	q:true	qid:Q172	docId:2320485	origText:corticosteroid	url:D000305
 CANDIDATE	id:305	inCount:8	outCount:1	links:	url:D000305	name:Corticosteroids	normalName:corticosteroids	normalWikiTitle:corticosteroids	predictedType:Chemical
 CANDIDATE	id:3345	inCount:21	outCount:2	links:	url:D003345	name:Corticosterone	normalName:corticosterone	normalWikiTitle:corticosterone	predictedType:Chemical
 CANDIDATE	id:540640	inCount:0	outCount:1	links:	url:C540640	name:ptilosteroid C	normalName:ptilosteroid c	normalWikiTitle:ptilosteroid c	predictedType:Chemical
@@ -12,5 +14,3 @@ CANDIDATE	id:3525	inCount:1	outCount:1	links:	url:D003525	name:Cyclosteroids	nor
 CANDIDATE	id:10897	inCount:0	outCount:1	links:	url:C010897	name:corticotensin	normalName:corticotensin	normalWikiTitle:corticotensin	predictedType:Chemical
 CANDIDATE	id:15062	inCount:5	outCount:1	links:	url:D015062	name:11-Hydroxycorticosteroids	normalName:11-hydroxycorticosteroids	normalWikiTitle:11-hydroxycorticosteroids	predictedType:Chemical
 CANDIDATE	id:9654	inCount:35	outCount:1	links:	url:D009654	name:Norsteroids	normalName:norsteroids	normalWikiTitle:norsteroids	predictedType:Chemical
-ENTITY	text:Aldomet	normalName:aldomet	predictedType:chemical	q:true	qid:Q400	docId:2320485	origText:Aldomet	url:D008750
-CANDIDATE	id:8750	inCount:9	outCount:1	links:8750	url:D008750	name:Aldomet	normalName:aldomet	normalWikiTitle:aldomet	predictedType:Chemical

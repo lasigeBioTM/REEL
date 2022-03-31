@@ -1,10 +1,10 @@
-ENTITY	text:biperiden	normalName:biperiden	predictedType:chemical	q:true	qid:Q20	docId:2710809	origText:biperiden	url:D001712
+ENTITY	text:biperiden	normalName:biperiden	predictedType:chemical	q:true	qid:Q183	docId:2710809	origText:biperiden	url:D001712
 CANDIDATE	id:1712	inCount:1	outCount:3	links:	url:D001712	name:Biperiden	normalName:biperiden	normalWikiTitle:biperiden	predictedType:Chemical
-ENTITY	text:muscarine	normalName:muscarine	predictedType:chemical	q:true	qid:Q20	docId:2710809	origText:muscarine	url:D009116
-CANDIDATE	id:9116	inCount:8	outCount:3	links:	url:D009116	name:Muscarine	normalName:muscarine	normalWikiTitle:muscarine	predictedType:Chemical
-ENTITY	text:biperiden lactate	normalName:biperiden lactate	predictedType:chemical	q:true	qid:Q20	docId:2710809	origText:biperiden lactate	url:C036432
+ENTITY	text:biperiden lactate	normalName:biperiden lactate	predictedType:chemical	q:true	qid:Q183	docId:2710809	origText:biperiden lactate	url:C036432
 CANDIDATE	id:36432	inCount:0	outCount:1	links:	url:C036432	name:biperiden lactate	normalName:biperiden lactate	normalWikiTitle:biperiden lactate	predictedType:Chemical
-ENTITY	text:orciprenaline	normalName:orciprenaline	predictedType:chemical	q:true	qid:Q20	docId:2710809	origText:orciprenaline	url:D009921
+ENTITY	text:orciprenaline	normalName:orciprenaline	predictedType:chemical	q:true	qid:Q183	docId:2710809	origText:orciprenaline	url:D009921
 CANDIDATE	id:9921	inCount:4	outCount:2	links:	url:D009921	name:Orciprenaline	normalName:orciprenaline	normalWikiTitle:orciprenaline	predictedType:Chemical
-ENTITY	text:atropine	normalName:atropine	predictedType:chemical	q:true	qid:Q20	docId:2710809	origText:atropine	url:D001285
+ENTITY	text:atropine	normalName:atropine	predictedType:chemical	q:true	qid:Q183	docId:2710809	origText:atropine	url:D001285
 CANDIDATE	id:1285	inCount:16	outCount:1	links:	url:D001285	name:Atropine	normalName:atropine	normalWikiTitle:atropine	predictedType:Chemical
+ENTITY	text:muscarine	normalName:muscarine	predictedType:chemical	q:true	qid:Q183	docId:2710809	origText:muscarine	url:D009116
+CANDIDATE	id:9116	inCount:8	outCount:3	links:	url:D009116	name:Muscarine	normalName:muscarine	normalWikiTitle:muscarine	predictedType:Chemical

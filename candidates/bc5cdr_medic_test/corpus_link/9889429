@@ -1,17 +1,8 @@
-ENTITY	text:gingival hyperplasia	normalName:gingival hyperplasia	predictedType:disease	q:true	qid:Q99	docId:9889429	origText:gingival hyperplasia	url:D005885
-CANDIDATE	id:5885	inCount:0	outCount:1	links:6973	url:D005885	name:Gingival Hyperplasia	normalName:gingival hyperplasia	normalWikiTitle:gingival hyperplasia	predictedType:Disease
-ENTITY	text:hypertensive	normalName:hypertensive	predictedType:disease	q:true	qid:Q99	docId:9889429	origText:hypertensive	url:D006973
-CANDIDATE	id:6973	inCount:18	outCount:1	links:5885	url:D006973	name:Hypertension	normalName:hypertension	normalWikiTitle:hypertension	predictedType:Disease
-CANDIDATE	id:58246	inCount:0	outCount:1	links:	url:D058246	name:Prehypertension	normalName:prehypertension	normalWikiTitle:prehypertension	predictedType:Disease
-CANDIDATE	id:6977	inCount:3	outCount:2	links:	url:D006977	name:Hypertension, Renal	normalName:hypertension, renal	normalWikiTitle:hypertension, renal	predictedType:Disease
-CANDIDATE	id:6941	inCount:0	outCount:1	links:	url:D006941	name:Hyperesthesia	normalName:hyperesthesia	normalWikiTitle:hyperesthesia	predictedType:Disease
-CANDIDATE	id:59468	inCount:0	outCount:1	links:	url:D059468	name:Masked Hypertension	normalName:masked hypertension	normalWikiTitle:masked hypertension	predictedType:Disease
-CANDIDATE	id:6967	inCount:9	outCount:1	links:	url:D006967	name:Hypersensitivity	normalName:hypersensitivity	normalWikiTitle:hypersensitivity	predictedType:Disease
-CANDIDATE	id:7022	inCount:3	outCount:1	links:6973	url:D007022	name:Hypotension	normalName:hypotension	normalWikiTitle:hypotension	predictedType:Disease
-CANDIDATE	id:6987	inCount:1	outCount:1	links:	url:D006987	name:Hypesthesia	normalName:hypesthesia	normalWikiTitle:hypesthesia	predictedType:Disease
-CANDIDATE	id:563161	inCount:0	outCount:2	links:	url:C563161	name:Hypertensive Nephropathy	normalName:hypertensive nephropathy	normalWikiTitle:hypertensive nephropathy	predictedType:Disease
-CANDIDATE	id:58437	inCount:0	outCount:2	links:	url:D058437	name:Hypertensive Retinopathy	normalName:hypertensive retinopathy	normalWikiTitle:hypertensive retinopathy	predictedType:Disease
-ENTITY	text:psoriatic	normalName:psoriatic	predictedType:disease	q:true	qid:Q99	docId:9889429	origText:psoriatic	url:D011565
+ENTITY	text:hypertension	normalName:hypertension	predictedType:disease	q:true	qid:Q318	docId:9889429	origText:hypertension	url:D006973
+CANDIDATE	id:6973	inCount:19	outCount:1	links:5885;7022	url:D006973	name:Hypertension	normalName:hypertension	normalWikiTitle:hypertension	predictedType:Disease
+ENTITY	text:psoriasis	normalName:psoriasis	predictedType:disease	q:true	qid:Q318	docId:9889429	origText:psoriasis	url:D011565
+CANDIDATE	id:11565	inCount:3	outCount:1	links:	url:D011565	name:Psoriasis	normalName:psoriasis	normalWikiTitle:psoriasis	predictedType:Disease
+ENTITY	text:psoriatic	normalName:psoriatic	predictedType:disease	q:true	qid:Q318	docId:9889429	origText:psoriatic	url:D011565
 CANDIDATE	id:11565	inCount:3	outCount:1	links:	url:D011565	name:Psoriasis	normalName:psoriasis	normalWikiTitle:psoriasis	predictedType:Disease
 CANDIDATE	id:12585	inCount:1	outCount:2	links:	url:D012585	name:Sciatica	normalName:sciatica	normalWikiTitle:sciatica	predictedType:Disease
 CANDIDATE	id:10267	inCount:1	outCount:1	links:	url:D010267	name:Parapsoriasis	normalName:parapsoriasis	normalWikiTitle:parapsoriasis	predictedType:Disease
@@ -19,10 +10,19 @@ CANDIDATE	id:15535	inCount:0	outCount:3	links:	url:D015535	name:Arthritis, Psori
 CANDIDATE	id:9869	inCount:1	outCount:2	links:	url:D009869	name:Oophoritis	normalName:oophoritis	normalWikiTitle:oophoritis	predictedType:Disease
 CANDIDATE	id:536288	inCount:0	outCount:1	links:	url:C536288	name:Thymic aplasia	normalName:thymic aplasia	normalWikiTitle:thymic aplasia	predictedType:Disease
 CANDIDATE	id:11317	inCount:1	outCount:1	links:	url:D011317	name:Priapism	normalName:priapism	normalWikiTitle:priapism	predictedType:Disease
-CANDIDATE	id:11371	inCount:12	outCount:1	links:	url:D011371	name:Progeria	normalName:progeria	normalWikiTitle:progeria	predictedType:Disease
+CANDIDATE	id:11371	inCount:11	outCount:2	links:	url:D011371	name:Progeria	normalName:progeria	normalWikiTitle:progeria	predictedType:Disease
 CANDIDATE	id:1025	inCount:0	outCount:2	links:	url:D001025	name:Aortitis	normalName:aortitis	normalWikiTitle:aortitis	predictedType:Disease
 CANDIDATE	id:9920	inCount:0	outCount:1	links:	url:D009920	name:Orchitis	normalName:orchitis	normalWikiTitle:orchitis	predictedType:Disease
-ENTITY	text:hypertension	normalName:hypertension	predictedType:disease	q:true	qid:Q99	docId:9889429	origText:hypertension	url:D006973
-CANDIDATE	id:6973	inCount:18	outCount:1	links:5885	url:D006973	name:Hypertension	normalName:hypertension	normalWikiTitle:hypertension	predictedType:Disease
-ENTITY	text:psoriasis	normalName:psoriasis	predictedType:disease	q:true	qid:Q99	docId:9889429	origText:psoriasis	url:D011565
-CANDIDATE	id:11565	inCount:3	outCount:1	links:	url:D011565	name:Psoriasis	normalName:psoriasis	normalWikiTitle:psoriasis	predictedType:Disease
+ENTITY	text:hypertensive	normalName:hypertensive	predictedType:disease	q:true	qid:Q318	docId:9889429	origText:hypertensive	url:D006973
+CANDIDATE	id:6973	inCount:19	outCount:1	links:5885;7022	url:D006973	name:Hypertension	normalName:hypertension	normalWikiTitle:hypertension	predictedType:Disease
+CANDIDATE	id:58246	inCount:0	outCount:1	links:	url:D058246	name:Prehypertension	normalName:prehypertension	normalWikiTitle:prehypertension	predictedType:Disease
+CANDIDATE	id:6977	inCount:3	outCount:2	links:	url:D006977	name:Hypertension, Renal	normalName:hypertension, renal	normalWikiTitle:hypertension, renal	predictedType:Disease
+CANDIDATE	id:6941	inCount:0	outCount:1	links:	url:D006941	name:Hyperesthesia	normalName:hyperesthesia	normalWikiTitle:hyperesthesia	predictedType:Disease
+CANDIDATE	id:59468	inCount:0	outCount:1	links:	url:D059468	name:Masked Hypertension	normalName:masked hypertension	normalWikiTitle:masked hypertension	predictedType:Disease
+CANDIDATE	id:6967	inCount:10	outCount:1	links:	url:D006967	name:Hypersensitivity	normalName:hypersensitivity	normalWikiTitle:hypersensitivity	predictedType:Disease
+CANDIDATE	id:7022	inCount:3	outCount:1	links:6973	url:D007022	name:Hypotension	normalName:hypotension	normalWikiTitle:hypotension	predictedType:Disease
+CANDIDATE	id:6987	inCount:1	outCount:1	links:	url:D006987	name:Hypesthesia	normalName:hypesthesia	normalWikiTitle:hypesthesia	predictedType:Disease
+CANDIDATE	id:563161	inCount:0	outCount:2	links:	url:C563161	name:Hypertensive Nephropathy	normalName:hypertensive nephropathy	normalWikiTitle:hypertensive nephropathy	predictedType:Disease
+CANDIDATE	id:58437	inCount:1	outCount:2	links:	url:D058437	name:Hypertensive Retinopathy	normalName:hypertensive retinopathy	normalWikiTitle:hypertensive retinopathy	predictedType:Disease
+ENTITY	text:gingival hyperplasia	normalName:gingival hyperplasia	predictedType:disease	q:true	qid:Q318	docId:9889429	origText:gingival hyperplasia	url:D005885
+CANDIDATE	id:5885	inCount:0	outCount:1	links:6973	url:D005885	name:Gingival Hyperplasia	normalName:gingival hyperplasia	normalWikiTitle:gingival hyperplasia	predictedType:Disease

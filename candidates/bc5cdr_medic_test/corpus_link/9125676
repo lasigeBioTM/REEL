@@ -1,7 +1,5 @@
-ENTITY	text:ventricular tachycardia	normalName:ventricular tachycardia	predictedType:disease	q:true	qid:Q355	docId:9125676	origText:ventricular tachycardia	url:D017180
-CANDIDATE	id:17180	inCount:4	outCount:1	links:1145;3324;6331	url:D017180	name:Tachycardia, Ventricular	normalName:tachycardia, ventricular	normalWikiTitle:tachycardia, ventricular	predictedType:Disease
-ENTITY	text:ventricular tachyarrhythmias	normalName:ventricular tachyarrhythmias	predictedType:disease	q:true	qid:Q355	docId:9125676	origText:ventricular tachyarrhythmias	url:D017180
-CANDIDATE	id:17180	inCount:4	outCount:1	links:1145;3324;6331	url:D017180	name:Tachycardia, Ventricular	normalName:tachycardia, ventricular	normalWikiTitle:tachycardia, ventricular	predictedType:Disease
+ENTITY	text:ventricular tachyarrhythmias	normalName:ventricular tachyarrhythmias	predictedType:disease	q:true	qid:Q300	docId:9125676	origText:ventricular tachyarrhythmias	url:D017180
+CANDIDATE	id:17180	inCount:4	outCount:1	links:6331;14693;1145;3324	url:D017180	name:Tachycardia, Ventricular	normalName:tachycardia, ventricular	normalWikiTitle:tachycardia, ventricular	predictedType:Disease
 CANDIDATE	id:192605	inCount:0	outCount:1	links:	url:192605	name:VENTRICULAR TACHYCARDIA, FAMILIAL	normalName:ventricular tachycardia, familial	normalWikiTitle:ventricular tachycardia, familial	predictedType:Disease
 CANDIDATE	id:17379	inCount:0	outCount:1	links:	url:D017379	name:Hypertrophy, Left Ventricular	normalName:hypertrophy, left ventricular	normalWikiTitle:hypertrophy, left ventricular	predictedType:Disease
 CANDIDATE	id:17380	inCount:0	outCount:1	links:	url:D017380	name:Hypertrophy, Right Ventricular	normalName:hypertrophy, right ventricular	normalWikiTitle:hypertrophy, right ventricular	predictedType:Disease
@@ -9,28 +7,30 @@ CANDIDATE	id:19571	inCount:14	outCount:2	links:	url:D019571	name:Arrhythmogenic 
 CANDIDATE	id:20257	inCount:0	outCount:1	links:	url:D020257	name:Ventricular Remodeling	normalName:ventricular remodeling	normalWikiTitle:ventricular remodeling	predictedType:Disease
 CANDIDATE	id:54141	inCount:0	outCount:1	links:	url:D054141	name:Ventricular Flutter	normalName:ventricular flutter	normalWikiTitle:ventricular flutter	predictedType:Disease
 CANDIDATE	id:562472	inCount:0	outCount:2	links:	url:C562472	name:Teratoma, Testicular	normalName:teratoma, testicular	normalWikiTitle:teratoma, testicular	predictedType:Disease
-CANDIDATE	id:1145	inCount:27	outCount:2	links:17180	url:D001145	name:Arrhythmias, Cardiac	normalName:arrhythmias, cardiac	normalWikiTitle:arrhythmias, cardiac	predictedType:Disease
-CANDIDATE	id:6345	inCount:6	outCount:1	links:	url:D006345	name:Heart Septal Defects, Ventricular	normalName:heart septal defects, ventricular	normalWikiTitle:heart septal defects, ventricular	predictedType:Disease
-ENTITY	text:cardiac disease	normalName:cardiac disease	predictedType:disease	q:true	qid:Q355	docId:9125676	origText:cardiac disease	url:D006331
-CANDIDATE	id:6331	inCount:29	outCount:1	links:3324;17180	url:D006331	name:Cardiac Disease	normalName:cardiac disease	normalWikiTitle:cardiac disease	predictedType:Disease
-ENTITY	text:ventricular tachyarrhythmia	normalName:ventricular tachyarrhythmia	predictedType:disease	q:true	qid:Q355	docId:9125676	origText:ventricular tachyarrhythmia	url:D017180
-CANDIDATE	id:17180	inCount:4	outCount:1	links:1145;3324;6331	url:D017180	name:Tachycardia, Ventricular	normalName:tachycardia, ventricular	normalWikiTitle:tachycardia, ventricular	predictedType:Disease
-CANDIDATE	id:192605	inCount:0	outCount:1	links:	url:192605	name:VENTRICULAR TACHYCARDIA, FAMILIAL	normalName:ventricular tachycardia, familial	normalWikiTitle:ventricular tachycardia, familial	predictedType:Disease
-CANDIDATE	id:17379	inCount:0	outCount:1	links:	url:D017379	name:Hypertrophy, Left Ventricular	normalName:hypertrophy, left ventricular	normalWikiTitle:hypertrophy, left ventricular	predictedType:Disease
-CANDIDATE	id:17380	inCount:0	outCount:1	links:	url:D017380	name:Hypertrophy, Right Ventricular	normalName:hypertrophy, right ventricular	normalWikiTitle:hypertrophy, right ventricular	predictedType:Disease
-CANDIDATE	id:19571	inCount:14	outCount:2	links:	url:D019571	name:Arrhythmogenic Right Ventricular Dysplasia	normalName:arrhythmogenic right ventricular dysplasia	normalWikiTitle:arrhythmogenic right ventricular dysplasia	predictedType:Disease
-CANDIDATE	id:20257	inCount:0	outCount:1	links:	url:D020257	name:Ventricular Remodeling	normalName:ventricular remodeling	normalWikiTitle:ventricular remodeling	predictedType:Disease
-CANDIDATE	id:54141	inCount:0	outCount:1	links:	url:D054141	name:Ventricular Flutter	normalName:ventricular flutter	normalWikiTitle:ventricular flutter	predictedType:Disease
-CANDIDATE	id:562472	inCount:0	outCount:2	links:	url:C562472	name:Teratoma, Testicular	normalName:teratoma, testicular	normalWikiTitle:teratoma, testicular	predictedType:Disease
-CANDIDATE	id:1145	inCount:27	outCount:2	links:17180	url:D001145	name:Arrhythmias, Cardiac	normalName:arrhythmias, cardiac	normalWikiTitle:arrhythmias, cardiac	predictedType:Disease
-CANDIDATE	id:6345	inCount:6	outCount:1	links:	url:D006345	name:Heart Septal Defects, Ventricular	normalName:heart septal defects, ventricular	normalWikiTitle:heart septal defects, ventricular	predictedType:Disease
-ENTITY	text:dilated cardiomyopathy	normalName:dilated cardiomyopathy	predictedType:disease	q:true	qid:Q355	docId:9125676	origText:dilated cardiomyopathy	url:D002311
-CANDIDATE	id:2311	inCount:50	outCount:2	links:	url:D002311	name:Cardiomyopathy, Dilated	normalName:cardiomyopathy, dilated	normalWikiTitle:cardiomyopathy, dilated	predictedType:Disease
-ENTITY	text:ventricular fibrillation	normalName:ventricular fibrillation	predictedType:disease	q:true	qid:Q355	docId:9125676	origText:ventricular fibrillation	url:D014693
-CANDIDATE	id:14693	inCount:3	outCount:1	links:	url:D014693	name:Ventricular Fibrillation	normalName:ventricular fibrillation	normalWikiTitle:ventricular fibrillation	predictedType:Disease
-ENTITY	text:arrhythmia	normalName:arrhythmia	predictedType:disease	q:true	qid:Q355	docId:9125676	origText:arrhythmia	url:D001145
-CANDIDATE	id:1145	inCount:27	outCount:2	links:17180	url:D001145	name:Arrhythmia	normalName:arrhythmia	normalWikiTitle:arrhythmia	predictedType:Disease
-ENTITY	text:coronary artery disease	normalName:coronary artery disease	predictedType:disease	q:true	qid:Q355	docId:9125676	origText:coronary artery disease	url:D003324
-CANDIDATE	id:3324	inCount:4	outCount:2	links:17180;6331	url:D003324	name:Coronary Artery Disease	normalName:coronary artery disease	normalWikiTitle:coronary artery disease	predictedType:Disease
-ENTITY	text:torsades de pointes	normalName:torsades de pointes	predictedType:disease	q:true	qid:Q355	docId:9125676	origText:torsades de pointes	url:D016171
+CANDIDATE	id:1145	inCount:28	outCount:2	links:17180	url:D001145	name:Arrhythmias, Cardiac	normalName:arrhythmias, cardiac	normalWikiTitle:arrhythmias, cardiac	predictedType:Disease
+CANDIDATE	id:6345	inCount:7	outCount:1	links:	url:D006345	name:Heart Septal Defects, Ventricular	normalName:heart septal defects, ventricular	normalWikiTitle:heart septal defects, ventricular	predictedType:Disease
+ENTITY	text:torsades de pointes	normalName:torsades de pointes	predictedType:disease	q:true	qid:Q300	docId:9125676	origText:torsades de pointes	url:D016171
 CANDIDATE	id:16171	inCount:0	outCount:1	links:	url:D016171	name:Torsades de Pointes	normalName:torsades de pointes	normalWikiTitle:torsades de pointes	predictedType:Disease
+ENTITY	text:coronary artery disease	normalName:coronary artery disease	predictedType:disease	q:true	qid:Q300	docId:9125676	origText:coronary artery disease	url:D003324
+CANDIDATE	id:3324	inCount:4	outCount:2	links:17180;6331	url:D003324	name:Coronary Artery Disease	normalName:coronary artery disease	normalWikiTitle:coronary artery disease	predictedType:Disease
+ENTITY	text:dilated cardiomyopathy	normalName:dilated cardiomyopathy	predictedType:disease	q:true	qid:Q300	docId:9125676	origText:dilated cardiomyopathy	url:D002311
+CANDIDATE	id:2311	inCount:51	outCount:3	links:	url:D002311	name:Cardiomyopathy, Dilated	normalName:cardiomyopathy, dilated	normalWikiTitle:cardiomyopathy, dilated	predictedType:Disease
+ENTITY	text:ventricular tachycardia	normalName:ventricular tachycardia	predictedType:disease	q:true	qid:Q300	docId:9125676	origText:ventricular tachycardia	url:D017180
+CANDIDATE	id:17180	inCount:4	outCount:1	links:6331;14693;1145;3324	url:D017180	name:Tachycardia, Ventricular	normalName:tachycardia, ventricular	normalWikiTitle:tachycardia, ventricular	predictedType:Disease
+ENTITY	text:ventricular fibrillation	normalName:ventricular fibrillation	predictedType:disease	q:true	qid:Q300	docId:9125676	origText:ventricular fibrillation	url:D014693
+CANDIDATE	id:14693	inCount:3	outCount:1	links:17180	url:D014693	name:Ventricular Fibrillation	normalName:ventricular fibrillation	normalWikiTitle:ventricular fibrillation	predictedType:Disease
+ENTITY	text:ventricular tachyarrhythmia	normalName:ventricular tachyarrhythmia	predictedType:disease	q:true	qid:Q300	docId:9125676	origText:ventricular tachyarrhythmia	url:D017180
+CANDIDATE	id:17180	inCount:4	outCount:1	links:6331;14693;1145;3324	url:D017180	name:Tachycardia, Ventricular	normalName:tachycardia, ventricular	normalWikiTitle:tachycardia, ventricular	predictedType:Disease
+CANDIDATE	id:192605	inCount:0	outCount:1	links:	url:192605	name:VENTRICULAR TACHYCARDIA, FAMILIAL	normalName:ventricular tachycardia, familial	normalWikiTitle:ventricular tachycardia, familial	predictedType:Disease
+CANDIDATE	id:17379	inCount:0	outCount:1	links:	url:D017379	name:Hypertrophy, Left Ventricular	normalName:hypertrophy, left ventricular	normalWikiTitle:hypertrophy, left ventricular	predictedType:Disease
+CANDIDATE	id:17380	inCount:0	outCount:1	links:	url:D017380	name:Hypertrophy, Right Ventricular	normalName:hypertrophy, right ventricular	normalWikiTitle:hypertrophy, right ventricular	predictedType:Disease
+CANDIDATE	id:19571	inCount:14	outCount:2	links:	url:D019571	name:Arrhythmogenic Right Ventricular Dysplasia	normalName:arrhythmogenic right ventricular dysplasia	normalWikiTitle:arrhythmogenic right ventricular dysplasia	predictedType:Disease
+CANDIDATE	id:20257	inCount:0	outCount:1	links:	url:D020257	name:Ventricular Remodeling	normalName:ventricular remodeling	normalWikiTitle:ventricular remodeling	predictedType:Disease
+CANDIDATE	id:54141	inCount:0	outCount:1	links:	url:D054141	name:Ventricular Flutter	normalName:ventricular flutter	normalWikiTitle:ventricular flutter	predictedType:Disease
+CANDIDATE	id:562472	inCount:0	outCount:2	links:	url:C562472	name:Teratoma, Testicular	normalName:teratoma, testicular	normalWikiTitle:teratoma, testicular	predictedType:Disease
+CANDIDATE	id:1145	inCount:28	outCount:2	links:17180	url:D001145	name:Arrhythmias, Cardiac	normalName:arrhythmias, cardiac	normalWikiTitle:arrhythmias, cardiac	predictedType:Disease
+CANDIDATE	id:6345	inCount:7	outCount:1	links:	url:D006345	name:Heart Septal Defects, Ventricular	normalName:heart septal defects, ventricular	normalWikiTitle:heart septal defects, ventricular	predictedType:Disease
+ENTITY	text:cardiac disease	normalName:cardiac disease	predictedType:disease	q:true	qid:Q300	docId:9125676	origText:cardiac disease	url:D006331
+CANDIDATE	id:6331	inCount:31	outCount:1	links:17180;3324	url:D006331	name:Cardiac Disease	normalName:cardiac disease	normalWikiTitle:cardiac disease	predictedType:Disease
+ENTITY	text:arrhythmia	normalName:arrhythmia	predictedType:disease	q:true	qid:Q300	docId:9125676	origText:arrhythmia	url:D001145
+CANDIDATE	id:1145	inCount:28	outCount:2	links:17180	url:D001145	name:Arrhythmia	normalName:arrhythmia	normalWikiTitle:arrhythmia	predictedType:Disease

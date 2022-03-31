@@ -1,4 +1,8 @@
-ENTITY	text:coronary artery spasm	normalName:coronary artery spasm	predictedType:disease	q:true	qid:Q119	docId:8511251	origText:coronary artery spasm	url:D003329
+ENTITY	text:myocardial ischemia	normalName:myocardial ischemia	predictedType:disease	q:true	qid:Q285	docId:8511251	origText:myocardial ischemia	url:D017202
+CANDIDATE	id:17202	inCount:6	outCount:2	links:3324;3329;7511	url:D017202	name:Myocardial Ischemia	normalName:myocardial ischemia	normalWikiTitle:myocardial ischemia	predictedType:Disease
+ENTITY	text:ischemia	normalName:ischemia	predictedType:disease	q:true	qid:Q285	docId:8511251	origText:ischemia	url:D007511
+CANDIDATE	id:7511	inCount:4	outCount:1	links:17202	url:D007511	name:Ischemia	normalName:ischemia	normalWikiTitle:ischemia	predictedType:Disease
+ENTITY	text:coronary artery spasm	normalName:coronary artery spasm	predictedType:disease	q:true	qid:Q285	docId:8511251	origText:coronary artery spasm	url:D003329
 CANDIDATE	id:3329	inCount:1	outCount:1	links:17202	url:D003329	name:Coronary Artery Vasospasms	normalName:coronary artery vasospasms	normalWikiTitle:coronary artery vasospasms	predictedType:Disease
 CANDIDATE	id:3324	inCount:4	outCount:2	links:17202	url:D003324	name:Coronary Artery Disease	normalName:coronary artery disease	normalWikiTitle:coronary artery disease	predictedType:Disease
 CANDIDATE	id:3329	inCount:1	outCount:1	links:17202	url:D003329	name:Coronary Vasospasm	normalName:coronary vasospasm	normalWikiTitle:coronary vasospasm	predictedType:Disease
@@ -15,7 +19,3 @@ CANDIDATE	id:3329	inCount:1	outCount:1	links:17202	url:D003329	name:Artery Vasos
 CANDIDATE	id:3329	inCount:1	outCount:1	links:17202	url:D003329	name:Coronary Artery Vasospasm	normalName:coronary artery vasospasm	normalWikiTitle:coronary artery vasospasm	predictedType:Disease
 CANDIDATE	id:3329	inCount:1	outCount:1	links:17202	url:D003329	name:Artery Vasospasms, Coronary	normalName:artery vasospasms, coronary	normalWikiTitle:artery vasospasms, coronary	predictedType:Disease
 CANDIDATE	id:3329	inCount:1	outCount:1	links:17202	url:D003329	name:Vasospasms, Coronary Artery	normalName:vasospasms, coronary artery	normalWikiTitle:vasospasms, coronary artery	predictedType:Disease
-ENTITY	text:ischemia	normalName:ischemia	predictedType:disease	q:true	qid:Q119	docId:8511251	origText:ischemia	url:D007511
-CANDIDATE	id:7511	inCount:3	outCount:1	links:	url:D007511	name:Ischemia	normalName:ischemia	normalWikiTitle:ischemia	predictedType:Disease
-ENTITY	text:myocardial ischemia	normalName:myocardial ischemia	predictedType:disease	q:true	qid:Q119	docId:8511251	origText:myocardial ischemia	url:D017202
-CANDIDATE	id:17202	inCount:6	outCount:2	links:3324;3329	url:D017202	name:Myocardial Ischemia	normalName:myocardial ischemia	normalWikiTitle:myocardial ischemia	predictedType:Disease

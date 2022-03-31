@@ -1,10 +1,10 @@
-ENTITY	text:inflammation	normalName:inflammation	predictedType:disease	q:true	qid:Q6	docId:18165598	origText:inflammation	url:D007249
-CANDIDATE	id:7249	inCount:14	outCount:1	links:10149	url:D007249	name:Inflammation	normalName:inflammation	normalWikiTitle:inflammation	predictedType:Disease
-ENTITY	text:postoperative pain	normalName:postoperative pain	predictedType:disease	q:true	qid:Q6	docId:18165598	origText:postoperative pain	url:D010149
-CANDIDATE	id:10149	inCount:1	outCount:2	links:7249	url:D010149	name:Pain, Postoperative	normalName:pain, postoperative	normalWikiTitle:pain, postoperative	predictedType:Disease
-ENTITY	text:pain	normalName:pain	predictedType:disease	q:true	qid:Q6	docId:18165598	origText:pain	url:D010146
-CANDIDATE	id:10146	inCount:34	outCount:1	links:	url:D010146	name:Pain	normalName:pain	normalWikiTitle:pain	predictedType:Disease
-ENTITY	text:tissue injury	normalName:tissue injury	predictedType:disease	q:true	qid:Q6	docId:18165598	origText:tissue injury	url:D017695
+ENTITY	text:pain	normalName:pain	predictedType:disease	q:true	qid:Q448	docId:18165598	origText:pain	url:D010146
+CANDIDATE	id:10146	inCount:34	outCount:1	links:10149;7249	url:D010146	name:Pain	normalName:pain	normalWikiTitle:pain	predictedType:Disease
+ENTITY	text:inflammation	normalName:inflammation	predictedType:disease	q:true	qid:Q448	docId:18165598	origText:inflammation	url:D007249
+CANDIDATE	id:7249	inCount:16	outCount:1	links:10149;10146	url:D007249	name:Inflammation	normalName:inflammation	normalWikiTitle:inflammation	predictedType:Disease
+ENTITY	text:postoperative pain	normalName:postoperative pain	predictedType:disease	q:true	qid:Q448	docId:18165598	origText:postoperative pain	url:D010149
+CANDIDATE	id:10149	inCount:1	outCount:2	links:10146;7249	url:D010149	name:Pain, Postoperative	normalName:pain, postoperative	normalWikiTitle:pain, postoperative	predictedType:Disease
+ENTITY	text:tissue injury	normalName:tissue injury	predictedType:disease	q:true	qid:Q448	docId:18165598	origText:tissue injury	url:D017695
 CANDIDATE	id:17695	inCount:1	outCount:1	links:	url:D017695	name:Soft Tissue Injury	normalName:soft tissue injury	normalWikiTitle:soft tissue injury	predictedType:Disease
 CANDIDATE	id:17695	inCount:1	outCount:1	links:	url:D017695	name:Soft Tissue Injuries	normalName:soft tissue injuries	normalWikiTitle:soft tissue injuries	predictedType:Disease
 CANDIDATE	id:55370	inCount:5	outCount:2	links:	url:D055370	name:Lung Injury	normalName:lung injury	normalWikiTitle:lung injury	predictedType:Disease

@@ -1,27 +1,31 @@
-ENTITY	text:drug-induced liver damage	normalName:drug-induced liver damage	predictedType:disease	q:true	qid:Q58	docId:3297909	origText:drug-induced liver damage	url:D056486
-CANDIDATE	id:56486	inCount:2	outCount:3	links:2779;7565	url:D056486	name:Acute Liver Injury, Drug Induced	normalName:acute liver injury, drug induced	normalWikiTitle:acute liver injury, drug induced	predictedType:Disease
-CANDIDATE	id:56486	inCount:2	outCount:3	links:2779;7565	url:D056486	name:Chemical and Drug Induced Liver Injury	normalName:chemical and drug induced liver injury	normalWikiTitle:chemical and drug induced liver injury	predictedType:Disease
+ENTITY	text:jaundice	normalName:jaundice	predictedType:disease	q:true	qid:Q203	docId:3297909	origText:jaundice	url:D007565
+CANDIDATE	id:7565	inCount:5	outCount:2	links:56486;2779	url:D007565	name:Jaundice	normalName:jaundice	normalWikiTitle:jaundice	predictedType:Disease
+ENTITY	text:Cholestasis	normalName:cholestasis	predictedType:disease	q:true	qid:Q203	docId:3297909	origText:Cholestasis	url:D002779
+CANDIDATE	id:2779	inCount:14	outCount:1	links:5355;17114;7565;56486;2779	url:D002779	name:Cholestasis	normalName:cholestasis	normalWikiTitle:cholestasis	predictedType:Disease
+ENTITY	text:fibrosis	normalName:fibrosis	predictedType:disease	q:true	qid:Q203	docId:3297909	origText:fibrosis	url:D005355
+CANDIDATE	id:5355	inCount:14	outCount:1	links:2779	url:D005355	name:Fibrosis	normalName:fibrosis	normalWikiTitle:fibrosis	predictedType:Disease
+ENTITY	text:drug-induced liver damage	normalName:drug-induced liver damage	predictedType:disease	q:true	qid:Q203	docId:3297909	origText:drug-induced liver damage	url:D056486
+CANDIDATE	id:56486	inCount:3	outCount:3	links:7565;2779	url:D056486	name:Acute Liver Injury, Drug Induced	normalName:acute liver injury, drug induced	normalWikiTitle:acute liver injury, drug induced	predictedType:Disease
+CANDIDATE	id:56486	inCount:3	outCount:3	links:7565;2779	url:D056486	name:Chemical and Drug Induced Liver Injury	normalName:chemical and drug induced liver injury	normalWikiTitle:chemical and drug induced liver injury	predictedType:Disease
 CANDIDATE	id:14	inCount:8	outCount:1	links:	url:D000014	name:Abnormalities, Drug-Induced	normalName:abnormalities, drug-induced	normalWikiTitle:abnormalities, drug-induced	predictedType:Disease
 CANDIDATE	id:17109	inCount:0	outCount:4	links:	url:D017109	name:Akathisia, Drug-Induced	normalName:akathisia, drug-induced	normalWikiTitle:akathisia, drug-induced	predictedType:Disease
-CANDIDATE	id:56487	inCount:0	outCount:1	links:	url:D056487	name:Chemical and Drug Induced Liver Injury, Chronic	normalName:chemical and drug induced liver injury, chronic	normalWikiTitle:chemical and drug induced liver injury, chronic	predictedType:Disease
+CANDIDATE	id:56487	inCount:0	outCount:2	links:	url:D056487	name:Chemical and Drug Induced Liver Injury, Chronic	normalName:chemical and drug induced liver injury, chronic	normalWikiTitle:chemical and drug induced liver injury, chronic	predictedType:Disease
 CANDIDATE	id:6317	inCount:0	outCount:1	links:	url:D006317	name:Hearing Loss, Noise-Induced	normalName:hearing loss, noise-induced	normalWikiTitle:hearing loss, noise-induced	predictedType:Disease
 CANDIDATE	id:18248	inCount:0	outCount:2	links:	url:D018248	name:Adenoma, Liver Cell	normalName:adenoma, liver cell	normalWikiTitle:adenoma, liver cell	predictedType:Disease
 CANDIDATE	id:17114	inCount:3	outCount:1	links:2779	url:D017114	name:Liver Failure, Acute	normalName:liver failure, acute	normalWikiTitle:liver failure, acute	predictedType:Disease
 CANDIDATE	id:1250	inCount:0	outCount:1	links:	url:D001250	name:Asthma, Exercise-Induced	normalName:asthma, exercise-induced	normalWikiTitle:asthma, exercise-induced	predictedType:Disease
 CANDIDATE	id:536955	inCount:0	outCount:2	links:	url:C536955	name:Telfer Sugar Jaeger syndrome	normalName:telfer sugar jaeger syndrome	normalWikiTitle:telfer sugar jaeger syndrome	predictedType:Disease
 CANDIDATE	id:537150	inCount:0	outCount:1	links:	url:C537150	name:Hypoglycemia, leucine-induced	normalName:hypoglycemia, leucine-induced	normalWikiTitle:hypoglycemia, leucine-induced	predictedType:Disease
-CANDIDATE	id:56486	inCount:2	outCount:3	links:2779;7565	url:D056486	name:Disease, Drug-Induced Liver	normalName:disease, drug-induced liver	normalWikiTitle:disease, drug-induced liver	predictedType:Disease
-CANDIDATE	id:56486	inCount:2	outCount:3	links:2779;7565	url:D056486	name:Drug Induced Liver Disease	normalName:drug induced liver disease	normalWikiTitle:drug induced liver disease	predictedType:Disease
-CANDIDATE	id:56486	inCount:2	outCount:3	links:2779;7565	url:D056486	name:Drug-Induced Liver Disease	normalName:drug-induced liver disease	normalWikiTitle:drug-induced liver disease	predictedType:Disease
-CANDIDATE	id:56486	inCount:2	outCount:3	links:2779;7565	url:D056486	name:Liver Disease, Drug-Induced	normalName:liver disease, drug-induced	normalWikiTitle:liver disease, drug-induced	predictedType:Disease
-CANDIDATE	id:56486	inCount:2	outCount:3	links:2779;7565	url:D056486	name:Drug-Induced Liver Diseases	normalName:drug-induced liver diseases	normalWikiTitle:drug-induced liver diseases	predictedType:Disease
-CANDIDATE	id:56486	inCount:2	outCount:3	links:2779;7565	url:D056486	name:Diseases, Drug-Induced Liver	normalName:diseases, drug-induced liver	normalWikiTitle:diseases, drug-induced liver	predictedType:Disease
-CANDIDATE	id:56486	inCount:2	outCount:3	links:2779;7565	url:D056486	name:Liver Diseases, Drug-Induced	normalName:liver diseases, drug-induced	normalWikiTitle:liver diseases, drug-induced	predictedType:Disease
-CANDIDATE	id:56486	inCount:2	outCount:3	links:2779;7565	url:D056486	name:Drug-Induced Acute Liver Injury	normalName:drug-induced acute liver injury	normalWikiTitle:drug-induced acute liver injury	predictedType:Disease
-CANDIDATE	id:56486	inCount:2	outCount:3	links:2779;7565	url:D056486	name:Liver Injury, Drug-Induced, Acute	normalName:liver injury, drug-induced, acute	normalWikiTitle:liver injury, drug-induced, acute	predictedType:Disease
-ENTITY	text:Cholestasis	normalName:cholestasis	predictedType:disease	q:true	qid:Q58	docId:3297909	origText:Cholestasis	url:D002779
-CANDIDATE	id:2779	inCount:14	outCount:1	links:56486;17114;2779	url:D002779	name:Cholestasis	normalName:cholestasis	normalWikiTitle:cholestasis	predictedType:Disease
-ENTITY	text:bile duct destruction	normalName:bile duct destruction	predictedType:disease	q:true	qid:Q58	docId:3297909	origText:bile duct destruction	url:D001649
+CANDIDATE	id:56486	inCount:3	outCount:3	links:7565;2779	url:D056486	name:Disease, Drug-Induced Liver	normalName:disease, drug-induced liver	normalWikiTitle:disease, drug-induced liver	predictedType:Disease
+CANDIDATE	id:56486	inCount:3	outCount:3	links:7565;2779	url:D056486	name:Drug Induced Liver Disease	normalName:drug induced liver disease	normalWikiTitle:drug induced liver disease	predictedType:Disease
+CANDIDATE	id:56486	inCount:3	outCount:3	links:7565;2779	url:D056486	name:Drug-Induced Liver Disease	normalName:drug-induced liver disease	normalWikiTitle:drug-induced liver disease	predictedType:Disease
+CANDIDATE	id:56486	inCount:3	outCount:3	links:7565;2779	url:D056486	name:Liver Disease, Drug-Induced	normalName:liver disease, drug-induced	normalWikiTitle:liver disease, drug-induced	predictedType:Disease
+CANDIDATE	id:56486	inCount:3	outCount:3	links:7565;2779	url:D056486	name:Drug-Induced Liver Diseases	normalName:drug-induced liver diseases	normalWikiTitle:drug-induced liver diseases	predictedType:Disease
+CANDIDATE	id:56486	inCount:3	outCount:3	links:7565;2779	url:D056486	name:Diseases, Drug-Induced Liver	normalName:diseases, drug-induced liver	normalWikiTitle:diseases, drug-induced liver	predictedType:Disease
+CANDIDATE	id:56486	inCount:3	outCount:3	links:7565;2779	url:D056486	name:Liver Diseases, Drug-Induced	normalName:liver diseases, drug-induced	normalWikiTitle:liver diseases, drug-induced	predictedType:Disease
+CANDIDATE	id:56486	inCount:3	outCount:3	links:7565;2779	url:D056486	name:Drug-Induced Acute Liver Injury	normalName:drug-induced acute liver injury	normalWikiTitle:drug-induced acute liver injury	predictedType:Disease
+CANDIDATE	id:56486	inCount:3	outCount:3	links:7565;2779	url:D056486	name:Liver Injury, Drug-Induced, Acute	normalName:liver injury, drug-induced, acute	normalWikiTitle:liver injury, drug-induced, acute	predictedType:Disease
+ENTITY	text:bile duct destruction	normalName:bile duct destruction	predictedType:disease	q:true	qid:Q203	docId:3297909	origText:bile duct destruction	url:D001649
 CANDIDATE	id:1649	inCount:6	outCount:1	links:	url:D001649	name:Disease, Bile Duct	normalName:disease, bile duct	normalWikiTitle:disease, bile duct	predictedType:Disease
 CANDIDATE	id:1649	inCount:6	outCount:1	links:	url:D001649	name:Bile Duct Diseases	normalName:bile duct diseases	normalWikiTitle:bile duct diseases	predictedType:Disease
 CANDIDATE	id:14524	inCount:6	outCount:1	links:	url:D014524	name:Urethral Obstruction	normalName:urethral obstruction	normalWikiTitle:urethral obstruction	predictedType:Disease
@@ -31,18 +35,14 @@ CANDIDATE	id:1748	inCount:0	outCount:2	links:	url:D001748	name:Urinary Bladder N
 CANDIDATE	id:18270	inCount:0	outCount:2	links:	url:D018270	name:Carcinoma, Ductal, Breast	normalName:carcinoma, ductal, breast	normalWikiTitle:carcinoma, ductal, breast	predictedType:Disease
 CANDIDATE	id:52879	inCount:0	outCount:5	links:	url:D052879	name:Subacute Combined Degeneration	normalName:subacute combined degeneration	normalWikiTitle:subacute combined degeneration	predictedType:Disease
 CANDIDATE	id:15508	inCount:0	outCount:2	links:	url:D015508	name:Nasal Obstruction	normalName:nasal obstruction	normalWikiTitle:nasal obstruction	predictedType:Disease
-CANDIDATE	id:3137	inCount:3	outCount:1	links:	url:D003137	name:Common Bile Duct Diseases	normalName:common bile duct diseases	normalWikiTitle:common bile duct diseases	predictedType:Disease
+CANDIDATE	id:3137	inCount:4	outCount:1	links:	url:D003137	name:Common Bile Duct Diseases	normalName:common bile duct diseases	normalWikiTitle:common bile duct diseases	predictedType:Disease
 CANDIDATE	id:115080	inCount:0	outCount:2	links:	url:115080	name:CARDIAC CONDUCTION DEFECT	normalName:cardiac conduction defect	normalWikiTitle:cardiac conduction defect	predictedType:Disease
-CANDIDATE	id:2779	inCount:14	outCount:1	links:56486;17114;2779	url:D002779	name:Obstruction, Bile Duct	normalName:obstruction, bile duct	normalWikiTitle:obstruction, bile duct	predictedType:Disease
-CANDIDATE	id:2779	inCount:14	outCount:1	links:56486;17114;2779	url:D002779	name:Duct Obstruction, Bile	normalName:duct obstruction, bile	normalWikiTitle:duct obstruction, bile	predictedType:Disease
-CANDIDATE	id:2779	inCount:14	outCount:1	links:56486;17114;2779	url:D002779	name:Bile Duct Obstruction	normalName:bile duct obstruction	normalWikiTitle:bile duct obstruction	predictedType:Disease
-CANDIDATE	id:2779	inCount:14	outCount:1	links:56486;17114;2779	url:D002779	name:Bile Duct Obstructions	normalName:bile duct obstructions	normalWikiTitle:bile duct obstructions	predictedType:Disease
-CANDIDATE	id:2779	inCount:14	outCount:1	links:56486;17114;2779	url:D002779	name:Obstructions, Bile Duct	normalName:obstructions, bile duct	normalWikiTitle:obstructions, bile duct	predictedType:Disease
-CANDIDATE	id:2779	inCount:14	outCount:1	links:56486;17114;2779	url:D002779	name:Duct Obstructions, Bile	normalName:duct obstructions, bile	normalWikiTitle:duct obstructions, bile	predictedType:Disease
+CANDIDATE	id:2779	inCount:14	outCount:1	links:5355;17114;7565;56486;2779	url:D002779	name:Obstruction, Bile Duct	normalName:obstruction, bile duct	normalWikiTitle:obstruction, bile duct	predictedType:Disease
+CANDIDATE	id:2779	inCount:14	outCount:1	links:5355;17114;7565;56486;2779	url:D002779	name:Duct Obstruction, Bile	normalName:duct obstruction, bile	normalWikiTitle:duct obstruction, bile	predictedType:Disease
+CANDIDATE	id:2779	inCount:14	outCount:1	links:5355;17114;7565;56486;2779	url:D002779	name:Bile Duct Obstruction	normalName:bile duct obstruction	normalWikiTitle:bile duct obstruction	predictedType:Disease
+CANDIDATE	id:2779	inCount:14	outCount:1	links:5355;17114;7565;56486;2779	url:D002779	name:Bile Duct Obstructions	normalName:bile duct obstructions	normalWikiTitle:bile duct obstructions	predictedType:Disease
+CANDIDATE	id:2779	inCount:14	outCount:1	links:5355;17114;7565;56486;2779	url:D002779	name:Obstructions, Bile Duct	normalName:obstructions, bile duct	normalWikiTitle:obstructions, bile duct	predictedType:Disease
+CANDIDATE	id:2779	inCount:14	outCount:1	links:5355;17114;7565;56486;2779	url:D002779	name:Duct Obstructions, Bile	normalName:duct obstructions, bile	normalWikiTitle:duct obstructions, bile	predictedType:Disease
 CANDIDATE	id:15529	inCount:1	outCount:3	links:	url:D015529	name:Bile Duct Cyst	normalName:bile duct cyst	normalWikiTitle:bile duct cyst	predictedType:Disease
 CANDIDATE	id:15529	inCount:1	outCount:3	links:	url:D015529	name:Cyst, Bile Duct	normalName:cyst, bile duct	normalWikiTitle:cyst, bile duct	predictedType:Disease
 CANDIDATE	id:15529	inCount:1	outCount:3	links:	url:D015529	name:Duct Cyst, Bile	normalName:duct cyst, bile	normalWikiTitle:duct cyst, bile	predictedType:Disease
-ENTITY	text:jaundice	normalName:jaundice	predictedType:disease	q:true	qid:Q58	docId:3297909	origText:jaundice	url:D007565
-CANDIDATE	id:7565	inCount:5	outCount:2	links:56486	url:D007565	name:Jaundice	normalName:jaundice	normalWikiTitle:jaundice	predictedType:Disease
-ENTITY	text:fibrosis	normalName:fibrosis	predictedType:disease	q:true	qid:Q58	docId:3297909	origText:fibrosis	url:D005355
-CANDIDATE	id:5355	inCount:11	outCount:1	links:	url:D005355	name:Fibrosis	normalName:fibrosis	normalWikiTitle:fibrosis	predictedType:Disease

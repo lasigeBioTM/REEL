@@ -1,9 +1,6 @@
 import os
 import networkx as nx
-import sys
 import xml.etree.ElementTree as ET
-
-from annotations import parse_cdr_annotations_pubtator, parse_craft_chebi_annotations
 from math import log
 
 
@@ -40,8 +37,7 @@ def build_extrinsic_information_content_dict(annotations):
     return extrinsic_ic
 
 
-
-def generate_ic_file(target_ontology, link_mode, annotations, ontology_graph):
+def generate_ic_file(target_ontology, link_mode, annotations):
     """Generate file with information content of all entities referred in candidates file."""
 
     ontology_pop_string = str()
@@ -87,12 +83,13 @@ def generate_ic_file(target_ontology, link_mode, annotations, ontology_graph):
                     else:
                         ic = 1.0
                         
-                    if target_ontology == "craft_chebi":
-                        url = url.split(":")[1]
-                        ontology_pop_string += "url:http:" + url +'\t' + str(ic) + '\n'
+                    #if target_ontology == "craft_chebi":
+                    #    print(url)
+                    #    url = url.split("_")[1]
+                        #ontology_pop_string += "url:http:" + url +'\t' + str(ic) + '\n'
                         
-                    else:
-                        ontology_pop_string += url +'\t' + str(ic) + '\n'
+                    #else:
+                    ontology_pop_string += url.replace(':', '_') +'\t' + str(ic) + '\n'
                         
     # Create file ontology_pop with information content for all entities in candidates file
     output_file_name = target_ontology + "_ic"

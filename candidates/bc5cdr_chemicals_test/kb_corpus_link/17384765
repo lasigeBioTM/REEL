@@ -1,4 +1,4 @@
-ENTITY	text:Succimer	normalName:succimer	predictedType:chemical	q:true	qid:Q359	docId:17384765	origText:Succimer	url:D004113
+ENTITY	text:Succimer	normalName:succimer	predictedType:chemical	q:true	qid:Q437	docId:17384765	origText:Succimer	url:D004113
 CANDIDATE	id:4113	inCount:14	outCount:2	links:	url:D004113	name:Succimer	normalName:succimer	normalWikiTitle:succimer	predictedType:Chemical
-ENTITY	text:lead	normalName:lead	predictedType:chemical	q:true	qid:Q359	docId:17384765	origText:lead	url:D007854
+ENTITY	text:lead	normalName:lead	predictedType:chemical	q:true	qid:Q437	docId:17384765	origText:lead	url:D007854
 CANDIDATE	id:7854	inCount:31	outCount:1	links:	url:D007854	name:Lead	normalName:lead	normalWikiTitle:lead	predictedType:Chemical

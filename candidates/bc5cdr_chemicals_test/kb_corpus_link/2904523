@@ -1,6 +1,6 @@
-ENTITY	text:dextrose	normalName:dextrose	predictedType:chemical	q:true	qid:Q381	docId:2904523	origText:dextrose	url:D005947
-CANDIDATE	id:5947	inCount:160	outCount:1	links:	url:D005947	name:Dextrose	normalName:dextrose	normalWikiTitle:dextrose	predictedType:Chemical
-ENTITY	text:adrenaline	normalName:adrenaline	predictedType:chemical	q:true	qid:Q381	docId:2904523	origText:adrenaline	url:D004837
-CANDIDATE	id:4837	inCount:33	outCount:3	links:	url:D004837	name:Adrenaline	normalName:adrenaline	normalWikiTitle:adrenaline	predictedType:Chemical
-ENTITY	text:noradrenaline	normalName:noradrenaline	predictedType:chemical	q:true	qid:Q381	docId:2904523	origText:noradrenaline	url:D009638
-CANDIDATE	id:9638	inCount:31	outCount:4	links:	url:D009638	name:Noradrenaline	normalName:noradrenaline	normalWikiTitle:noradrenaline	predictedType:Chemical
+ENTITY	text:adrenaline	normalName:adrenaline	predictedType:chemical	q:true	qid:Q189	docId:2904523	origText:adrenaline	url:D004837
+CANDIDATE	id:4837	inCount:33	outCount:3	links:9638	url:D004837	name:Adrenaline	normalName:adrenaline	normalWikiTitle:adrenaline	predictedType:Chemical
+ENTITY	text:noradrenaline	normalName:noradrenaline	predictedType:chemical	q:true	qid:Q189	docId:2904523	origText:noradrenaline	url:D009638
+CANDIDATE	id:9638	inCount:31	outCount:4	links:4837	url:D009638	name:Noradrenaline	normalName:noradrenaline	normalWikiTitle:noradrenaline	predictedType:Chemical
+ENTITY	text:dextrose	normalName:dextrose	predictedType:chemical	q:true	qid:Q189	docId:2904523	origText:dextrose	url:D005947
+CANDIDATE	id:5947	inCount:162	outCount:1	links:	url:D005947	name:Dextrose	normalName:dextrose	normalWikiTitle:dextrose	predictedType:Chemical

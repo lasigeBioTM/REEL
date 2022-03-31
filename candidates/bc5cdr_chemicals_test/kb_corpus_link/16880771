@@ -1,6 +1,6 @@
-ENTITY	text:levodopa	normalName:levodopa	predictedType:chemical	q:true	qid:Q466	docId:16880771	origText:levodopa	url:D007980
-CANDIDATE	id:7980	inCount:32	outCount:1	links:	url:D007980	name:Levodopa	normalName:levodopa	normalWikiTitle:levodopa	predictedType:Chemical
-ENTITY	text:pergolide	normalName:pergolide	predictedType:chemical	q:true	qid:Q466	docId:16880771	origText:pergolide	url:D010479
-CANDIDATE	id:10479	inCount:5	outCount:1	links:	url:D010479	name:Pergolide	normalName:pergolide	normalWikiTitle:pergolide	predictedType:Chemical
-ENTITY	text:dopamine	normalName:dopamine	predictedType:chemical	q:true	qid:Q466	docId:16880771	origText:dopamine	url:D004298
+ENTITY	text:dopamine	normalName:dopamine	predictedType:chemical	q:true	qid:Q420	docId:16880771	origText:dopamine	url:D004298
 CANDIDATE	id:4298	inCount:90	outCount:2	links:	url:D004298	name:Dopamine	normalName:dopamine	normalWikiTitle:dopamine	predictedType:Chemical
+ENTITY	text:levodopa	normalName:levodopa	predictedType:chemical	q:true	qid:Q420	docId:16880771	origText:levodopa	url:D007980
+CANDIDATE	id:7980	inCount:32	outCount:1	links:	url:D007980	name:Levodopa	normalName:levodopa	normalWikiTitle:levodopa	predictedType:Chemical
+ENTITY	text:pergolide	normalName:pergolide	predictedType:chemical	q:true	qid:Q420	docId:16880771	origText:pergolide	url:D010479
+CANDIDATE	id:10479	inCount:5	outCount:1	links:	url:D010479	name:Pergolide	normalName:pergolide	normalWikiTitle:pergolide	predictedType:Chemical

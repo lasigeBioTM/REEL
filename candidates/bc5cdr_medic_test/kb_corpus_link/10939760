@@ -1,10 +1,10 @@
-ENTITY	text:renal failure	normalName:renal failure	predictedType:disease	q:true	qid:Q352	docId:10939760	origText:renal failure	url:D051437
-CANDIDATE	id:51437	inCount:10	outCount:1	links:	url:D051437	name:Renal Failure	normalName:renal failure	normalWikiTitle:renal failure	predictedType:Disease
-ENTITY	text:renal calculi	normalName:renal calculi	predictedType:disease	q:true	qid:Q352	docId:10939760	origText:renal calculi	url:D007669
-CANDIDATE	id:7669	inCount:3	outCount:2	links:	url:D007669	name:Renal Calculi	normalName:renal calculi	normalWikiTitle:renal calculi	predictedType:Disease
-ENTITY	text:oliguria	normalName:oliguria	predictedType:disease	q:true	qid:Q352	docId:10939760	origText:oliguria	url:D009846
-CANDIDATE	id:9846	inCount:0	outCount:2	links:	url:D009846	name:Oliguria	normalName:oliguria	normalWikiTitle:oliguria	predictedType:Disease
-ENTITY	text:toxoplasmosis	normalName:toxoplasmosis	predictedType:disease	q:true	qid:Q352	docId:10939760	origText:toxoplasmosis	url:D014123
+ENTITY	text:toxoplasmosis	normalName:toxoplasmosis	predictedType:disease	q:true	qid:Q334	docId:10939760	origText:toxoplasmosis	url:D014123
 CANDIDATE	id:14123	inCount:4	outCount:1	links:	url:D014123	name:Toxoplasmosis	normalName:toxoplasmosis	normalWikiTitle:toxoplasmosis	predictedType:Disease
-ENTITY	text:abdominal pain	normalName:abdominal pain	predictedType:disease	q:true	qid:Q352	docId:10939760	origText:abdominal pain	url:D015746
+ENTITY	text:oliguria	normalName:oliguria	predictedType:disease	q:true	qid:Q334	docId:10939760	origText:oliguria	url:D009846
+CANDIDATE	id:9846	inCount:0	outCount:2	links:51437	url:D009846	name:Oliguria	normalName:oliguria	normalWikiTitle:oliguria	predictedType:Disease
+ENTITY	text:abdominal pain	normalName:abdominal pain	predictedType:disease	q:true	qid:Q334	docId:10939760	origText:abdominal pain	url:D015746
 CANDIDATE	id:15746	inCount:2	outCount:2	links:	url:D015746	name:Abdominal Pain	normalName:abdominal pain	normalWikiTitle:abdominal pain	predictedType:Disease
+ENTITY	text:renal failure	normalName:renal failure	predictedType:disease	q:true	qid:Q334	docId:10939760	origText:renal failure	url:D051437
+CANDIDATE	id:51437	inCount:10	outCount:1	links:9846	url:D051437	name:Renal Failure	normalName:renal failure	normalWikiTitle:renal failure	predictedType:Disease
+ENTITY	text:renal calculi	normalName:renal calculi	predictedType:disease	q:true	qid:Q334	docId:10939760	origText:renal calculi	url:D007669
+CANDIDATE	id:7669	inCount:3	outCount:2	links:	url:D007669	name:Renal Calculi	normalName:renal calculi	normalWikiTitle:renal calculi	predictedType:Disease

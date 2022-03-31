@@ -1,10 +1,10 @@
-ENTITY	text:calcium	normalName:calcium	predictedType:chemical	q:true	qid:Q361	docId:8819482	origText:calcium	url:D002118
+ENTITY	text:calcium	normalName:calcium	predictedType:chemical	q:true	qid:Q292	docId:8819482	origText:calcium	url:D002118
 CANDIDATE	id:2118	inCount:11	outCount:2	links:	url:D002118	name:Calcium	normalName:calcium	normalWikiTitle:calcium	predictedType:Chemical
-ENTITY	text:nifedipine	normalName:nifedipine	predictedType:chemical	q:true	qid:Q361	docId:8819482	origText:nifedipine	url:D009543
-CANDIDATE	id:9543	inCount:42	outCount:1	links:7545	url:D009543	name:Nifedipine	normalName:nifedipine	normalWikiTitle:nifedipine	predictedType:Chemical
-ENTITY	text:diltiazem	normalName:diltiazem	predictedType:chemical	q:true	qid:Q361	docId:8819482	origText:diltiazem	url:D004110
-CANDIDATE	id:4110	inCount:19	outCount:1	links:	url:D004110	name:Diltiazem	normalName:diltiazem	normalWikiTitle:diltiazem	predictedType:Chemical
-ENTITY	text:CD-832	normalName:cd-832	predictedType:chemical	q:true	qid:Q361	docId:8819482	origText:CD-832	url:C082828
+ENTITY	text:CD-832	normalName:cd-832	predictedType:chemical	q:true	qid:Q292	docId:8819482	origText:CD-832	url:C082828
 CANDIDATE	id:82828	inCount:0	outCount:2	links:	url:C082828	name:CD 832	normalName:cd 832	normalWikiTitle:cd 832	predictedType:Chemical
-ENTITY	text:isoproterenol	normalName:isoproterenol	predictedType:chemical	q:true	qid:Q361	docId:8819482	origText:isoproterenol	url:D007545
-CANDIDATE	id:7545	inCount:12	outCount:2	links:9543	url:D007545	name:Isoproterenol	normalName:isoproterenol	normalWikiTitle:isoproterenol	predictedType:Chemical
+ENTITY	text:isoproterenol	normalName:isoproterenol	predictedType:chemical	q:true	qid:Q292	docId:8819482	origText:isoproterenol	url:D007545
+CANDIDATE	id:7545	inCount:12	outCount:2	links:9543;4110	url:D007545	name:Isoproterenol	normalName:isoproterenol	normalWikiTitle:isoproterenol	predictedType:Chemical
+ENTITY	text:nifedipine	normalName:nifedipine	predictedType:chemical	q:true	qid:Q292	docId:8819482	origText:nifedipine	url:D009543
+CANDIDATE	id:9543	inCount:42	outCount:1	links:4110;7545	url:D009543	name:Nifedipine	normalName:nifedipine	normalWikiTitle:nifedipine	predictedType:Chemical
+ENTITY	text:diltiazem	normalName:diltiazem	predictedType:chemical	q:true	qid:Q292	docId:8819482	origText:diltiazem	url:D004110
+CANDIDATE	id:4110	inCount:19	outCount:1	links:9543;7545	url:D004110	name:Diltiazem	normalName:diltiazem	normalWikiTitle:diltiazem	predictedType:Chemical

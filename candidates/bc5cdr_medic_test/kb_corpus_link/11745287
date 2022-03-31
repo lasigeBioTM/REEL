@@ -1,36 +1,36 @@
-ENTITY	text:emesis	normalName:emesis	predictedType:disease	q:true	qid:Q345	docId:11745287	origText:emesis	url:D014839
-CANDIDATE	id:14839	inCount:7	outCount:1	links:66126;5221;740;13280;52016;9325;13921;3248;60831;15431;9503	url:D014839	name:Emesis	normalName:emesis	normalWikiTitle:emesis	predictedType:Disease
-ENTITY	text:constipation	normalName:constipation	predictedType:disease	q:true	qid:Q345	docId:11745287	origText:constipation	url:D003248
-CANDIDATE	id:3248	inCount:3	outCount:1	links:66126;5221;740;13280;14839;52016;9325;13921;60831;15431;9503	url:D003248	name:Constipation	normalName:constipation	normalWikiTitle:constipation	predictedType:Disease
-ENTITY	text:weight loss	normalName:weight loss	predictedType:disease	q:true	qid:Q345	docId:11745287	origText:weight loss	url:D015431
-CANDIDATE	id:15431	inCount:1	outCount:1	links:66126;5221;740;13280;14839;52016;9325;13921;3248;60831;9503	url:D015431	name:Weight Loss	normalName:weight loss	normalWikiTitle:weight loss	predictedType:Disease
-ENTITY	text:stomatitis	normalName:stomatitis	predictedType:disease	q:true	qid:Q345	docId:11745287	origText:stomatitis	url:D013280
-CANDIDATE	id:13280	inCount:5	outCount:1	links:66126;5221;740;14839;52016;9325;13921;3248;60831;15431;9503	url:D013280	name:Stomatitis	normalName:stomatitis	normalWikiTitle:stomatitis	predictedType:Disease
-ENTITY	text:fatigue	normalName:fatigue	predictedType:disease	q:true	qid:Q345	docId:11745287	origText:fatigue	url:D005221
-CANDIDATE	id:5221	inCount:2	outCount:1	links:66126;740;13280;14839;52016;9325;13921;3248;60831;15431;9503	url:D005221	name:Fatigue	normalName:fatigue	normalWikiTitle:fatigue	predictedType:Disease
-ENTITY	text:mucositis	normalName:mucositis	predictedType:disease	q:true	qid:Q345	docId:11745287	origText:mucositis	url:D052016
-CANDIDATE	id:52016	inCount:0	outCount:2	links:66126;5221;740;13280;14839;9325;13921;3248;60831;15431;9503	url:D052016	name:Mucositis	normalName:mucositis	normalWikiTitle:mucositis	predictedType:Disease
-ENTITY	text:anemia	normalName:anemia	predictedType:disease	q:true	qid:Q345	docId:11745287	origText:anemia	url:D000740
-CANDIDATE	id:740	inCount:14	outCount:1	links:66126;5221;13280;14839;52016;9325;13921;3248;60831;15431;9503	url:D000740	name:Anemia	normalName:anemia	normalWikiTitle:anemia	predictedType:Disease
-ENTITY	text:nausea	normalName:nausea	predictedType:disease	q:true	qid:Q345	docId:11745287	origText:nausea	url:D009325
-CANDIDATE	id:9325	inCount:2	outCount:1	links:66126;5221;740;13280;14839;52016;13921;3248;60831;15431;9503	url:D009325	name:Nausea	normalName:nausea	normalWikiTitle:nausea	predictedType:Disease
-ENTITY	text:toxicity	normalName:toxicity	predictedType:disease	q:true	qid:Q345	docId:11745287	origText:toxicity	url:D064420
-CANDIDATE	id:64420	inCount:10	outCount:1	links:	url:D064420	name:Drug Toxicity	normalName:drug toxicity	normalWikiTitle:drug toxicity	predictedType:Disease
-CANDIDATE	id:66126	inCount:0	outCount:3	links:5221;740;13280;14839;52016;9325;13921;3248;60831;15431;9503	url:D066126	name:Cardiotoxicity	normalName:cardiotoxicity	normalWikiTitle:cardiotoxicity	predictedType:Disease
+ENTITY	text:toxicity	normalName:toxicity	predictedType:disease	q:true	qid:Q354	docId:11745287	origText:toxicity	url:D064420
+CANDIDATE	id:64420	inCount:14	outCount:1	links:	url:D064420	name:Drug Toxicity	normalName:drug toxicity	normalWikiTitle:drug toxicity	predictedType:Disease
+CANDIDATE	id:66126	inCount:0	outCount:4	links:9503;13921;3248;5221;9325;740;60831;14839;13280;15431;52016	url:D066126	name:Cardiotoxicity	normalName:cardiotoxicity	normalWikiTitle:cardiotoxicity	predictedType:Disease
 CANDIDATE	id:15651	inCount:2	outCount:1	links:	url:D015651	name:Mycotoxicosis	normalName:mycotoxicosis	normalWikiTitle:mycotoxicosis	predictedType:Disease
 CANDIDATE	id:13971	inCount:2	outCount:1	links:	url:D013971	name:Thyrotoxicosis	normalName:thyrotoxicosis	normalWikiTitle:thyrotoxicosis	predictedType:Disease
 CANDIDATE	id:14869	inCount:0	outCount:2	links:	url:D014869	name:Water Intoxication	normalName:water intoxication	normalWikiTitle:water intoxication	predictedType:Disease
-CANDIDATE	id:14103	inCount:4	outCount:2	links:	url:D014103	name:Torticollis	normalName:torticollis	normalWikiTitle:torticollis	predictedType:Disease
-CANDIDATE	id:9765	inCount:42	outCount:2	links:	url:D009765	name:Obesity	normalName:obesity	normalWikiTitle:obesity	predictedType:Disease
+CANDIDATE	id:14103	inCount:4	outCount:1	links:	url:D014103	name:Torticollis	normalName:torticollis	normalWikiTitle:torticollis	predictedType:Disease
+CANDIDATE	id:9765	inCount:43	outCount:1	links:	url:D009765	name:Obesity	normalName:obesity	normalWikiTitle:obesity	predictedType:Disease
 CANDIDATE	id:14115	inCount:1	outCount:1	links:	url:D014115	name:Toxemia	normalName:toxemia	normalWikiTitle:toxemia	predictedType:Disease
-CANDIDATE	id:7246	inCount:2	outCount:2	links:	url:D007246	name:Infertility	normalName:infertility	normalWikiTitle:infertility	predictedType:Disease
+CANDIDATE	id:7246	inCount:2	outCount:1	links:	url:D007246	name:Infertility	normalName:infertility	normalWikiTitle:infertility	predictedType:Disease
 CANDIDATE	id:20234	inCount:0	outCount:2	links:	url:D020234	name:Gait Ataxia	normalName:gait ataxia	normalWikiTitle:gait ataxia	predictedType:Disease
 CANDIDATE	id:14069	inCount:1	outCount:1	links:	url:D014069	name:Tonsillitis	normalName:tonsillitis	normalWikiTitle:tonsillitis	predictedType:Disease
-CANDIDATE	id:64420	inCount:10	outCount:1	links:	url:D064420	name:Toxicity, Drug	normalName:toxicity, drug	normalWikiTitle:toxicity, drug	predictedType:Disease
+CANDIDATE	id:64420	inCount:14	outCount:1	links:	url:D064420	name:Toxicity, Drug	normalName:toxicity, drug	normalWikiTitle:toxicity, drug	predictedType:Disease
 CANDIDATE	id:17484	inCount:0	outCount:2	links:	url:D017484	name:Phototoxicity	normalName:phototoxicity	normalWikiTitle:phototoxicity	predictedType:Disease
-ENTITY	text:thrombocytopenia	normalName:thrombocytopenia	predictedType:disease	q:true	qid:Q345	docId:11745287	origText:thrombocytopenia	url:D013921
-CANDIDATE	id:13921	inCount:42	outCount:1	links:66126;5221;740;13280;14839;52016;9325;3248;60831;15431;9503	url:D013921	name:Thrombocytopenia	normalName:thrombocytopenia	normalWikiTitle:thrombocytopenia	predictedType:Disease
-ENTITY	text:neutropenia	normalName:neutropenia	predictedType:disease	q:true	qid:Q345	docId:11745287	origText:neutropenia	url:D009503
-CANDIDATE	id:9503	inCount:19	outCount:1	links:66126;5221;740;13280;14839;52016;9325;13921;3248;60831;15431	url:D009503	name:Neutropenia	normalName:neutropenia	normalWikiTitle:neutropenia	predictedType:Disease
-ENTITY	text:hand-foot syndrome	normalName:hand-foot syndrome	predictedType:disease	q:true	qid:Q345	docId:11745287	origText:hand-foot syndrome	url:D060831
-CANDIDATE	id:60831	inCount:0	outCount:1	links:66126;5221;740;13280;14839;52016;9325;13921;3248;15431;9503	url:D060831	name:Hand-Foot Syndrome	normalName:hand-foot syndrome	normalWikiTitle:hand-foot syndrome	predictedType:Disease
+ENTITY	text:neutropenia	normalName:neutropenia	predictedType:disease	q:true	qid:Q354	docId:11745287	origText:neutropenia	url:D009503
+CANDIDATE	id:9503	inCount:19	outCount:1	links:13921;3248;5221;9325;740;60831;14839;66126;13280;15431;52016	url:D009503	name:Neutropenia	normalName:neutropenia	normalWikiTitle:neutropenia	predictedType:Disease
+ENTITY	text:anemia	normalName:anemia	predictedType:disease	q:true	qid:Q354	docId:11745287	origText:anemia	url:D000740
+CANDIDATE	id:740	inCount:14	outCount:1	links:9503;13921;3248;5221;9325;60831;14839;66126;13280;15431;52016	url:D000740	name:Anemia	normalName:anemia	normalWikiTitle:anemia	predictedType:Disease
+ENTITY	text:thrombocytopenia	normalName:thrombocytopenia	predictedType:disease	q:true	qid:Q354	docId:11745287	origText:thrombocytopenia	url:D013921
+CANDIDATE	id:13921	inCount:42	outCount:1	links:9503;3248;5221;9325;740;60831;14839;66126;13280;15431;52016	url:D013921	name:Thrombocytopenia	normalName:thrombocytopenia	normalWikiTitle:thrombocytopenia	predictedType:Disease
+ENTITY	text:nausea	normalName:nausea	predictedType:disease	q:true	qid:Q354	docId:11745287	origText:nausea	url:D009325
+CANDIDATE	id:9325	inCount:2	outCount:1	links:9503;13921;3248;5221;740;60831;14839;66126;13280;15431;52016	url:D009325	name:Nausea	normalName:nausea	normalWikiTitle:nausea	predictedType:Disease
+ENTITY	text:emesis	normalName:emesis	predictedType:disease	q:true	qid:Q354	docId:11745287	origText:emesis	url:D014839
+CANDIDATE	id:14839	inCount:7	outCount:1	links:9503;13921;3248;5221;9325;60831;740;66126;13280;15431;52016	url:D014839	name:Emesis	normalName:emesis	normalWikiTitle:emesis	predictedType:Disease
+ENTITY	text:fatigue	normalName:fatigue	predictedType:disease	q:true	qid:Q354	docId:11745287	origText:fatigue	url:D005221
+CANDIDATE	id:5221	inCount:2	outCount:1	links:9503;13921;3248;14839;9325;60831;740;66126;13280;15431;52016	url:D005221	name:Fatigue	normalName:fatigue	normalWikiTitle:fatigue	predictedType:Disease
+ENTITY	text:mucositis	normalName:mucositis	predictedType:disease	q:true	qid:Q354	docId:11745287	origText:mucositis	url:D052016
+CANDIDATE	id:52016	inCount:0	outCount:2	links:9503;13921;3248;5221;14839;9325;60831;740;66126;13280;15431	url:D052016	name:Mucositis	normalName:mucositis	normalWikiTitle:mucositis	predictedType:Disease
+ENTITY	text:stomatitis	normalName:stomatitis	predictedType:disease	q:true	qid:Q354	docId:11745287	origText:stomatitis	url:D013280
+CANDIDATE	id:13280	inCount:5	outCount:1	links:9503;13921;3248;5221;14839;9325;60831;740;66126;15431;52016	url:D013280	name:Stomatitis	normalName:stomatitis	normalWikiTitle:stomatitis	predictedType:Disease
+ENTITY	text:constipation	normalName:constipation	predictedType:disease	q:true	qid:Q354	docId:11745287	origText:constipation	url:D003248
+CANDIDATE	id:3248	inCount:4	outCount:1	links:9503;13921;5221;14839;9325;60831;740;66126;13280;15431;52016	url:D003248	name:Constipation	normalName:constipation	normalWikiTitle:constipation	predictedType:Disease
+ENTITY	text:weight loss	normalName:weight loss	predictedType:disease	q:true	qid:Q354	docId:11745287	origText:weight loss	url:D015431
+CANDIDATE	id:15431	inCount:2	outCount:1	links:9503;13921;3248;5221;14839;9325;60831;740;66126;13280;52016	url:D015431	name:Weight Loss	normalName:weight loss	normalWikiTitle:weight loss	predictedType:Disease
+ENTITY	text:hand-foot syndrome	normalName:hand-foot syndrome	predictedType:disease	q:true	qid:Q354	docId:11745287	origText:hand-foot syndrome	url:D060831
+CANDIDATE	id:60831	inCount:0	outCount:1	links:9503;13921;3248;5221;14839;9325;740;66126;13280;15431;52016	url:D060831	name:Hand-Foot Syndrome	normalName:hand-foot syndrome	normalWikiTitle:hand-foot syndrome	predictedType:Disease

@@ -1,4 +1,4 @@
-ENTITY	text:tumours	normalName:tumours	predictedType:disease	q:true	qid:Q380	docId:25907210	origText:tumours	url:D009369
+ENTITY	text:tumours	normalName:tumours	predictedType:disease	q:true	qid:Q95	docId:25907210	origText:tumours	url:D009369
 CANDIDATE	id:9369	inCount:18	outCount:1	links:	url:D009369	name:Tumors	normalName:tumors	normalWikiTitle:tumors	predictedType:Disease
 CANDIDATE	id:14202	inCount:6	outCount:1	links:	url:D014202	name:Tremor	normalName:tremor	normalWikiTitle:tremor	predictedType:Disease
 CANDIDATE	id:53608	inCount:0	outCount:1	links:	url:D053608	name:Stupor	normalName:stupor	normalWikiTitle:stupor	predictedType:Disease
@@ -11,11 +11,11 @@ CANDIDATE	id:563336	inCount:0	outCount:1	links:	url:C563336	name:Wilms Tumor 4	n
 CANDIDATE	id:6337	inCount:1	outCount:1	links:	url:D006337	name:Heart Murmurs	normalName:heart murmurs	normalWikiTitle:heart murmurs	predictedType:Disease
 CANDIDATE	id:565991	inCount:0	outCount:1	links:	url:C565991	name:Wilms Tumor 3	normalName:wilms tumor 3	normalWikiTitle:wilms tumor 3	predictedType:Disease
 CANDIDATE	id:9369	inCount:18	outCount:1	links:	url:D009369	name:Tumor	normalName:tumor	normalWikiTitle:tumor	predictedType:Disease
-ENTITY	text:lung cancer	normalName:lung cancer	predictedType:disease	q:true	qid:Q380	docId:25907210	origText:lung cancer	url:D008175
+ENTITY	text:lung cancer	normalName:lung cancer	predictedType:disease	q:true	qid:Q95	docId:25907210	origText:lung cancer	url:D008175
 CANDIDATE	id:8175	inCount:12	outCount:2	links:	url:D008175	name:Cancer, Lung	normalName:cancer, lung	normalWikiTitle:cancer, lung	predictedType:Disease
-ENTITY	text:prostate cancer	normalName:prostate cancer	predictedType:disease	q:true	qid:Q380	docId:25907210	origText:prostate cancer	url:D011471
-CANDIDATE	id:11471	inCount:19	outCount:2	links:	url:D011471	name:Prostate Cancer	normalName:prostate cancer	normalWikiTitle:prostate cancer	predictedType:Disease
-ENTITY	text:tumour	normalName:tumour	predictedType:disease	q:true	qid:Q380	docId:25907210	origText:tumour	url:D009369
+ENTITY	text:cancer	normalName:cancer	predictedType:disease	q:true	qid:Q95	docId:25907210	origText:cancer	url:D009369
+CANDIDATE	id:9369	inCount:18	outCount:1	links:	url:D009369	name:Cancer	normalName:cancer	normalWikiTitle:cancer	predictedType:Disease
+ENTITY	text:tumour	normalName:tumour	predictedType:disease	q:true	qid:Q95	docId:25907210	origText:tumour	url:D009369
 CANDIDATE	id:9369	inCount:18	outCount:1	links:	url:D009369	name:Tumors	normalName:tumors	normalWikiTitle:tumors	predictedType:Disease
 CANDIDATE	id:14202	inCount:6	outCount:1	links:	url:D014202	name:Tremor	normalName:tremor	normalWikiTitle:tremor	predictedType:Disease
 CANDIDATE	id:53608	inCount:0	outCount:1	links:	url:D053608	name:Stupor	normalName:stupor	normalWikiTitle:stupor	predictedType:Disease
@@ -28,7 +28,7 @@ CANDIDATE	id:563336	inCount:0	outCount:1	links:	url:C563336	name:Wilms Tumor 4	n
 CANDIDATE	id:6337	inCount:1	outCount:1	links:	url:D006337	name:Heart Murmurs	normalName:heart murmurs	normalWikiTitle:heart murmurs	predictedType:Disease
 CANDIDATE	id:565991	inCount:0	outCount:1	links:	url:C565991	name:Wilms Tumor 3	normalName:wilms tumor 3	normalWikiTitle:wilms tumor 3	predictedType:Disease
 CANDIDATE	id:9369	inCount:18	outCount:1	links:	url:D009369	name:Tumor	normalName:tumor	normalWikiTitle:tumor	predictedType:Disease
-ENTITY	text:cancer	normalName:cancer	predictedType:disease	q:true	qid:Q380	docId:25907210	origText:cancer	url:D009369
-CANDIDATE	id:9369	inCount:18	outCount:1	links:	url:D009369	name:Cancer	normalName:cancer	normalWikiTitle:cancer	predictedType:Disease
-ENTITY	text:Kidney cancer	normalName:kidney cancer	predictedType:disease	q:true	qid:Q380	docId:25907210	origText:Kidney cancer	url:D007680
+ENTITY	text:Kidney cancer	normalName:kidney cancer	predictedType:disease	q:true	qid:Q95	docId:25907210	origText:Kidney cancer	url:D007680
 CANDIDATE	id:7680	inCount:7	outCount:2	links:	url:D007680	name:Cancer, Kidney	normalName:cancer, kidney	normalWikiTitle:cancer, kidney	predictedType:Disease
+ENTITY	text:prostate cancer	normalName:prostate cancer	predictedType:disease	q:true	qid:Q95	docId:25907210	origText:prostate cancer	url:D011471
+CANDIDATE	id:11471	inCount:19	outCount:2	links:	url:D011471	name:Prostate Cancer	normalName:prostate cancer	normalWikiTitle:prostate cancer	predictedType:Disease

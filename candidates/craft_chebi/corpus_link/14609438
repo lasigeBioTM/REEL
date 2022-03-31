@@ -1,51 +1,51 @@
-ENTITY	text:inhibitor	normalName:inhibitor	predictedType:chemical	q:true	qid:Q22	docId:14609438	origText:inhibitor	url:CHEBI:35222
-CANDIDATE	id:35222	inCount:57	outCount:1	links:	url:CHEBI:35222	name:inhibitor	normalName:inhibitor	normalWikiTitle:inhibitor	predictedType:chemical
-ENTITY	text:solvent	normalName:solvent	predictedType:chemical	q:true	qid:Q22	docId:14609438	origText:solvent	url:CHEBI:46787
-CANDIDATE	id:46787	inCount:4	outCount:2	links:	url:CHEBI:46787	name:solvent	normalName:solvent	normalWikiTitle:solvent	predictedType:chemical
-ENTITY	text:atoms	normalName:atoms	predictedType:chemical	q:true	qid:Q22	docId:14609438	origText:atoms	url:CHEBI:33250
-CANDIDATE	id:33250	inCount:5	outCount:1	links:	url:CHEBI:33250	name:atom	normalName:atom	normalWikiTitle:atom	predictedType:chemical
-CANDIDATE	id:37708	inCount:2	outCount:1	links:	url:CHEBI:37708	name:altrose	normalName:altrose	normalWikiTitle:altrose	predictedType:chemical
-CANDIDATE	id:17716	inCount:2	outCount:1	links:	url:CHEBI:17716	name:lactose	normalName:lactose	normalWikiTitle:lactose	predictedType:chemical
-CANDIDATE	id:17306	inCount:2	outCount:2	links:	url:CHEBI:17306	name:maltose	normalName:maltose	normalWikiTitle:maltose	predictedType:chemical
-CANDIDATE	id:26708	inCount:1	outCount:1	links:	url:CHEBI:26708	name:sodium atom	normalName:sodium atom	normalWikiTitle:sodium atom	predictedType:chemical
-CANDIDATE	id:64120	inCount:0	outCount:3	links:	url:CHEBI:64120	name:M-factor	normalName:m-factor	normalWikiTitle:m-factor	predictedType:chemical
-CANDIDATE	id:26833	inCount:7	outCount:2	links:	url:CHEBI:26833	name:sulfur atom	normalName:sulfur atom	normalWikiTitle:sulfur atom	predictedType:chemical
-CANDIDATE	id:33954	inCount:2	outCount:1	links:	url:CHEBI:33954	name:tagatose	normalName:tagatose	normalWikiTitle:tagatose	predictedType:chemical
-CANDIDATE	id:46661	inCount:2	outCount:1	links:	url:CHEBI:46661	name:asbestos	normalName:asbestos	normalWikiTitle:asbestos	predictedType:chemical
-CANDIDATE	id:135899	inCount:0	outCount:1	links:	url:CHEBI:135899	name:atosiban	normalName:atosiban	normalWikiTitle:atosiban	predictedType:chemical
-ENTITY	text:salt	normalName:salt	predictedType:chemical	q:true	qid:Q22	docId:14609438	origText:salt	url:CHEBI:24866
-CANDIDATE	id:24866	inCount:15	outCount:1	links:	url:CHEBI:24866	name:salt	normalName:salt	normalWikiTitle:salt	predictedType:chemical
-ENTITY	text:inhibitors	normalName:inhibitors	predictedType:chemical	q:true	qid:Q22	docId:14609438	origText:inhibitors	url:CHEBI:35222
-CANDIDATE	id:35222	inCount:57	outCount:1	links:	url:CHEBI:35222	name:inhibitor	normalName:inhibitor	normalWikiTitle:inhibitor	predictedType:chemical
-ENTITY	text:group	normalName:group	predictedType:chemical	q:true	qid:Q22	docId:14609438	origText:group	url:CHEBI:24433
-CANDIDATE	id:24433	inCount:165	outCount:1	links:	url:CHEBI:24433	name:group	normalName:group	normalWikiTitle:group	predictedType:chemical
-ENTITY	text:ketone	normalName:ketone	predictedType:chemical	q:true	qid:Q22	docId:14609438	origText:ketone	url:CHEBI:17087
-CANDIDATE	id:17087	inCount:140	outCount:1	links:	url:CHEBI:17087	name:ketone	normalName:ketone	normalWikiTitle:ketone	predictedType:chemical
-ENTITY	text:oxyanion	normalName:oxyanion	predictedType:chemical	q:true	qid:Q22	docId:14609438	origText:oxyanion	url:CHEBI:35406
-CANDIDATE	id:35406	inCount:9	outCount:2	links:	url:CHEBI:35406	name:oxoanion	normalName:oxoanion	normalWikiTitle:oxoanion	predictedType:chemical
-CANDIDATE	id:22563	inCount:6	outCount:1	links:	url:CHEBI:22563	name:anion	normalName:anion	normalWikiTitle:anion	predictedType:chemical
-CANDIDATE	id:7854	inCount:0	outCount:2	links:	url:CHEBI:7854	name:oxyayanin A	normalName:oxyayanin a	normalWikiTitle:oxyayanin a	predictedType:chemical
-CANDIDATE	id:7855	inCount:0	outCount:2	links:	url:CHEBI:7855	name:oxyayanin B	normalName:oxyayanin b	normalWikiTitle:oxyayanin b	predictedType:chemical
-CANDIDATE	id:3978	inCount:0	outCount:2	links:	url:CHEBI:3978	name:cyanin	normalName:cyanin	normalWikiTitle:cyanin	predictedType:chemical
-CANDIDATE	id:36830	inCount:2	outCount:1	links:	url:CHEBI:36830	name:monoanion	normalName:monoanion	normalWikiTitle:monoanion	predictedType:chemical
-CANDIDATE	id:81786	inCount:0	outCount:1	links:	url:CHEBI:81786	name:Oxadiazon	normalName:oxadiazon	normalWikiTitle:oxadiazon	predictedType:chemical
-CANDIDATE	id:7734	inCount:0	outCount:2	links:	url:CHEBI:7734	name:okanin	normalName:okanin	normalWikiTitle:okanin	predictedType:chemical
-CANDIDATE	id:81364	inCount:0	outCount:1	links:	url:CHEBI:81364	name:Dioxation	normalName:dioxation	normalWikiTitle:dioxation	predictedType:chemical
-CANDIDATE	id:7853	inCount:0	outCount:5	links:	url:CHEBI:7853	name:oxyacanthine	normalName:oxyacanthine	normalWikiTitle:oxyacanthine	predictedType:chemical
-ENTITY	text:groups	normalName:groups	predictedType:chemical	q:true	qid:Q22	docId:14609438	origText:groups	url:CHEBI:24433
-CANDIDATE	id:24433	inCount:165	outCount:1	links:	url:CHEBI:24433	name:group	normalName:group	normalWikiTitle:group	predictedType:chemical
-ENTITY	text:aldehyde	normalName:aldehyde	predictedType:chemical	q:true	qid:Q22	docId:14609438	origText:aldehyde	url:CHEBI:17478
-CANDIDATE	id:17478	inCount:195	outCount:1	links:	url:CHEBI:17478	name:aldehyde	normalName:aldehyde	normalWikiTitle:aldehyde	predictedType:chemical
-ENTITY	text:atomic	normalName:atomic	predictedType:chemical	q:true	qid:Q22	docId:14609438	origText:atomic	url:CHEBI:33250
-CANDIDATE	id:33250	inCount:5	outCount:1	links:	url:CHEBI:33250	name:atom	normalName:atom	normalWikiTitle:atom	predictedType:chemical
-CANDIDATE	id:27363	inCount:1	outCount:1	links:	url:CHEBI:27363	name:zinc atom	normalName:zinc atom	normalWikiTitle:zinc atom	predictedType:chemical
-CANDIDATE	id:37923	inCount:0	outCount:5	links:	url:CHEBI:37923	name:astromicin	normalName:astromicin	normalWikiTitle:astromicin	predictedType:chemical
-CANDIDATE	id:28112	inCount:0	outCount:2	links:	url:CHEBI:28112	name:nickel atom	normalName:nickel atom	normalWikiTitle:nickel atom	predictedType:chemical
-CANDIDATE	id:27007	inCount:6	outCount:2	links:	url:CHEBI:27007	name:tin atom	normalName:tin atom	normalWikiTitle:tin atom	predictedType:chemical
-CANDIDATE	id:27573	inCount:5	outCount:3	links:	url:CHEBI:27573	name:silicon atom	normalName:silicon atom	normalWikiTitle:silicon atom	predictedType:chemical
-CANDIDATE	id:82623	inCount:0	outCount:1	links:	url:CHEBI:82623	name:zinc-65 atom	normalName:zinc-65 atom	normalWikiTitle:zinc-65 atom	predictedType:chemical
-CANDIDATE	id:31943	inCount:0	outCount:1	links:	url:CHEBI:31943	name:Oxatomide	normalName:oxatomide	normalWikiTitle:oxatomide	predictedType:chemical
-CANDIDATE	id:66234	inCount:0	outCount:8	links:	url:CHEBI:66234	name:TMC-1A	normalName:tmc-1a	normalWikiTitle:tmc-1a	predictedType:chemical
-CANDIDATE	id:18248	inCount:1	outCount:1	links:	url:CHEBI:18248	name:iron atom	normalName:iron atom	normalWikiTitle:iron atom	predictedType:chemical
-ENTITY	text:water	normalName:water	predictedType:chemical	q:true	qid:Q22	docId:14609438	origText:water	url:CHEBI:15377
-CANDIDATE	id:15377	inCount:6	outCount:3	links:	url:CHEBI:15377	name:water	normalName:water	normalWikiTitle:water	predictedType:chemical
+ENTITY	text:inhibitors	normalName:inhibitors	predictedType:chemical	q:true	qid:Q36	docId:14609438	origText:inhibitors	url:CHEBI_35222
+CANDIDATE	id:35222	inCount:57	outCount:1	links:	url:CHEBI_35222	name:inhibitor	normalName:inhibitor	normalWikiTitle:inhibitor	predictedType:Chemical
+ENTITY	text:oxyanion	normalName:oxyanion	predictedType:chemical	q:true	qid:Q36	docId:14609438	origText:oxyanion	url:CHEBI_35406
+CANDIDATE	id:35406	inCount:9	outCount:2	links:	url:CHEBI_35406	name:oxoanion	normalName:oxoanion	normalWikiTitle:oxoanion	predictedType:Chemical
+CANDIDATE	id:22563	inCount:6	outCount:1	links:	url:CHEBI_22563	name:anion	normalName:anion	normalWikiTitle:anion	predictedType:Chemical
+CANDIDATE	id:7854	inCount:0	outCount:2	links:	url:CHEBI_7854	name:oxyayanin A	normalName:oxyayanin a	normalWikiTitle:oxyayanin a	predictedType:Chemical
+CANDIDATE	id:7855	inCount:0	outCount:2	links:	url:CHEBI_7855	name:oxyayanin B	normalName:oxyayanin b	normalWikiTitle:oxyayanin b	predictedType:Chemical
+CANDIDATE	id:3978	inCount:0	outCount:2	links:	url:CHEBI_3978	name:cyanin	normalName:cyanin	normalWikiTitle:cyanin	predictedType:Chemical
+CANDIDATE	id:7734	inCount:0	outCount:2	links:	url:CHEBI_7734	name:okanin	normalName:okanin	normalWikiTitle:okanin	predictedType:Chemical
+CANDIDATE	id:36830	inCount:2	outCount:1	links:	url:CHEBI_36830	name:monoanion	normalName:monoanion	normalWikiTitle:monoanion	predictedType:Chemical
+CANDIDATE	id:81364	inCount:0	outCount:1	links:	url:CHEBI_81364	name:Dioxation	normalName:dioxation	normalWikiTitle:dioxation	predictedType:Chemical
+CANDIDATE	id:81786	inCount:0	outCount:1	links:	url:CHEBI_81786	name:Oxadiazon	normalName:oxadiazon	normalWikiTitle:oxadiazon	predictedType:Chemical
+CANDIDATE	id:7853	inCount:0	outCount:5	links:	url:CHEBI_7853	name:oxyacanthine	normalName:oxyacanthine	normalWikiTitle:oxyacanthine	predictedType:Chemical
+ENTITY	text:water	normalName:water	predictedType:chemical	q:true	qid:Q36	docId:14609438	origText:water	url:CHEBI_15377
+CANDIDATE	id:15377	inCount:6	outCount:3	links:	url:CHEBI_15377	name:water	normalName:water	normalWikiTitle:water	predictedType:Chemical
+ENTITY	text:inhibitor	normalName:inhibitor	predictedType:chemical	q:true	qid:Q36	docId:14609438	origText:inhibitor	url:CHEBI_35222
+CANDIDATE	id:35222	inCount:57	outCount:1	links:	url:CHEBI_35222	name:inhibitor	normalName:inhibitor	normalWikiTitle:inhibitor	predictedType:Chemical
+ENTITY	text:aldehyde	normalName:aldehyde	predictedType:chemical	q:true	qid:Q36	docId:14609438	origText:aldehyde	url:CHEBI_17478
+CANDIDATE	id:17478	inCount:195	outCount:1	links:	url:CHEBI_17478	name:aldehyde	normalName:aldehyde	normalWikiTitle:aldehyde	predictedType:Chemical
+ENTITY	text:solvent	normalName:solvent	predictedType:chemical	q:true	qid:Q36	docId:14609438	origText:solvent	url:CHEBI_46787
+CANDIDATE	id:46787	inCount:4	outCount:2	links:	url:CHEBI_46787	name:solvent	normalName:solvent	normalWikiTitle:solvent	predictedType:Chemical
+ENTITY	text:atoms	normalName:atoms	predictedType:chemical	q:true	qid:Q36	docId:14609438	origText:atoms	url:CHEBI_33250
+CANDIDATE	id:33250	inCount:5	outCount:1	links:	url:CHEBI_33250	name:atom	normalName:atom	normalWikiTitle:atom	predictedType:Chemical
+CANDIDATE	id:17306	inCount:2	outCount:2	links:	url:CHEBI_17306	name:maltose	normalName:maltose	normalWikiTitle:maltose	predictedType:Chemical
+CANDIDATE	id:17716	inCount:2	outCount:1	links:	url:CHEBI_17716	name:lactose	normalName:lactose	normalWikiTitle:lactose	predictedType:Chemical
+CANDIDATE	id:37708	inCount:2	outCount:1	links:	url:CHEBI_37708	name:altrose	normalName:altrose	normalWikiTitle:altrose	predictedType:Chemical
+CANDIDATE	id:26708	inCount:1	outCount:1	links:	url:CHEBI_26708	name:sodium atom	normalName:sodium atom	normalWikiTitle:sodium atom	predictedType:Chemical
+CANDIDATE	id:26833	inCount:7	outCount:2	links:	url:CHEBI_26833	name:sulfur atom	normalName:sulfur atom	normalWikiTitle:sulfur atom	predictedType:Chemical
+CANDIDATE	id:30687	inCount:0	outCount:2	links:	url:CHEBI_30687	name:osmium atom	normalName:osmium atom	normalWikiTitle:osmium atom	predictedType:Chemical
+CANDIDATE	id:30512	inCount:0	outCount:1	links:	url:CHEBI_30512	name:silver atom	normalName:silver atom	normalWikiTitle:silver atom	predictedType:Chemical
+CANDIDATE	id:64120	inCount:0	outCount:3	links:	url:CHEBI_64120	name:M-factor	normalName:m-factor	normalWikiTitle:m-factor	predictedType:Chemical
+CANDIDATE	id:135899	inCount:0	outCount:1	links:	url:CHEBI_135899	name:atosiban	normalName:atosiban	normalWikiTitle:atosiban	predictedType:Chemical
+ENTITY	text:groups	normalName:groups	predictedType:chemical	q:true	qid:Q36	docId:14609438	origText:groups	url:CHEBI_24433
+CANDIDATE	id:24433	inCount:165	outCount:1	links:	url:CHEBI_24433	name:group	normalName:group	normalWikiTitle:group	predictedType:Chemical
+ENTITY	text:ketone	normalName:ketone	predictedType:chemical	q:true	qid:Q36	docId:14609438	origText:ketone	url:CHEBI_17087
+CANDIDATE	id:17087	inCount:140	outCount:1	links:	url:CHEBI_17087	name:ketone	normalName:ketone	normalWikiTitle:ketone	predictedType:Chemical
+ENTITY	text:group	normalName:group	predictedType:chemical	q:true	qid:Q36	docId:14609438	origText:group	url:CHEBI_24433
+CANDIDATE	id:24433	inCount:165	outCount:1	links:	url:CHEBI_24433	name:group	normalName:group	normalWikiTitle:group	predictedType:Chemical
+ENTITY	text:atomic	normalName:atomic	predictedType:chemical	q:true	qid:Q36	docId:14609438	origText:atomic	url:CHEBI_33250
+CANDIDATE	id:33250	inCount:5	outCount:1	links:	url:CHEBI_33250	name:atom	normalName:atom	normalWikiTitle:atom	predictedType:Chemical
+CANDIDATE	id:27363	inCount:1	outCount:1	links:	url:CHEBI_27363	name:zinc atom	normalName:zinc atom	normalWikiTitle:zinc atom	predictedType:Chemical
+CANDIDATE	id:37923	inCount:0	outCount:5	links:	url:CHEBI_37923	name:astromicin	normalName:astromicin	normalWikiTitle:astromicin	predictedType:Chemical
+CANDIDATE	id:27007	inCount:6	outCount:2	links:	url:CHEBI_27007	name:tin atom	normalName:tin atom	normalWikiTitle:tin atom	predictedType:Chemical
+CANDIDATE	id:28112	inCount:0	outCount:2	links:	url:CHEBI_28112	name:nickel atom	normalName:nickel atom	normalWikiTitle:nickel atom	predictedType:Chemical
+CANDIDATE	id:66234	inCount:0	outCount:8	links:	url:CHEBI_66234	name:TMC-1A	normalName:tmc-1a	normalWikiTitle:tmc-1a	predictedType:Chemical
+CANDIDATE	id:35047	inCount:0	outCount:2	links:	url:CHEBI_35047	name:xanthomicrol	normalName:xanthomicrol	normalWikiTitle:xanthomicrol	predictedType:Chemical
+CANDIDATE	id:65440	inCount:0	outCount:3	links:	url:CHEBI_65440	name:artochamin C	normalName:artochamin c	normalWikiTitle:artochamin c	predictedType:Chemical
+CANDIDATE	id:31943	inCount:0	outCount:1	links:	url:CHEBI_31943	name:Oxatomide	normalName:oxatomide	normalWikiTitle:oxatomide	predictedType:Chemical
+CANDIDATE	id:27573	inCount:5	outCount:3	links:	url:CHEBI_27573	name:silicon atom	normalName:silicon atom	normalWikiTitle:silicon atom	predictedType:Chemical
+ENTITY	text:salt	normalName:salt	predictedType:chemical	q:true	qid:Q36	docId:14609438	origText:salt	url:CHEBI_24866
+CANDIDATE	id:24866	inCount:15	outCount:1	links:	url:CHEBI_24866	name:salt	normalName:salt	normalWikiTitle:salt	predictedType:Chemical

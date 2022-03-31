@@ -1,6 +1,6 @@
-ENTITY	text:hypercalcemia	normalName:hypercalcemia	predictedType:disease	q:true	qid:Q300	docId:2239937	origText:hypercalcemia	url:D006934
+ENTITY	text:hypercalcemia	normalName:hypercalcemia	predictedType:disease	q:true	qid:Q171	docId:2239937	origText:hypercalcemia	url:D006934
 CANDIDATE	id:6934	inCount:10	outCount:2	links:	url:D006934	name:Hypercalcemia	normalName:hypercalcemia	normalWikiTitle:hypercalcemia	predictedType:Disease
-ENTITY	text:hypercalcemic	normalName:hypercalcemic	predictedType:disease	q:true	qid:Q300	docId:2239937	origText:hypercalcemic	url:D006934
+ENTITY	text:hypercalcemic	normalName:hypercalcemic	predictedType:disease	q:true	qid:Q171	docId:2239937	origText:hypercalcemic	url:D006934
 CANDIDATE	id:6934	inCount:10	outCount:2	links:	url:D006934	name:Hypercalcemia	normalName:hypercalcemia	normalWikiTitle:hypercalcemia	predictedType:Disease
 CANDIDATE	id:6947	inCount:4	outCount:1	links:	url:D006947	name:Hyperkalemia	normalName:hyperkalemia	normalWikiTitle:hyperkalemia	predictedType:Disease
 CANDIDATE	id:6996	inCount:5	outCount:2	links:	url:D006996	name:Hypocalcemia	normalName:hypocalcemia	normalWikiTitle:hypocalcemia	predictedType:Disease

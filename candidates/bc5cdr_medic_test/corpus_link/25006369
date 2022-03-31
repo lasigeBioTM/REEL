@@ -1,8 +1,12 @@
-ENTITY	text:muscle fasciculation	normalName:muscle fasciculation	predictedType:disease	q:true	qid:Q429	docId:25006369	origText:muscle fasciculation	url:D005207
+ENTITY	text:fasciculation	normalName:fasciculation	predictedType:disease	q:true	qid:Q85	docId:25006369	origText:fasciculation	url:D005207
+CANDIDATE	id:5207	inCount:1	outCount:1	links:63806	url:D005207	name:Fasciculation	normalName:fasciculation	normalWikiTitle:fasciculation	predictedType:Disease
+ENTITY	text:myalgia	normalName:myalgia	predictedType:disease	q:true	qid:Q85	docId:25006369	origText:myalgia	url:D063806
+CANDIDATE	id:63806	inCount:0	outCount:2	links:5207	url:D063806	name:Myalgia	normalName:myalgia	normalWikiTitle:myalgia	predictedType:Disease
+ENTITY	text:muscle fasciculation	normalName:muscle fasciculation	predictedType:disease	q:true	qid:Q85	docId:25006369	origText:muscle fasciculation	url:D005207
 CANDIDATE	id:5207	inCount:1	outCount:1	links:63806	url:D005207	name:Fasciculations, Skeletal Muscle	normalName:fasciculations, skeletal muscle	normalWikiTitle:fasciculations, skeletal muscle	predictedType:Disease
 CANDIDATE	id:5207	inCount:1	outCount:1	links:63806	url:D005207	name:Fasciculation	normalName:fasciculation	normalWikiTitle:fasciculation	predictedType:Disease
 CANDIDATE	id:537892	inCount:0	outCount:3	links:	url:C537892	name:PHACE association	normalName:phace association	normalWikiTitle:phace association	predictedType:Disease
-CANDIDATE	id:61686	inCount:0	outCount:2	links:	url:D061686	name:Premature Ejaculation	normalName:premature ejaculation	normalWikiTitle:premature ejaculation	predictedType:Disease
+CANDIDATE	id:61686	inCount:1	outCount:3	links:	url:D061686	name:Premature Ejaculation	normalName:premature ejaculation	normalWikiTitle:premature ejaculation	predictedType:Disease
 CANDIDATE	id:536633	inCount:0	outCount:1	links:	url:C536633	name:Schisis association	normalName:schisis association	normalWikiTitle:schisis association	predictedType:Disease
 CANDIDATE	id:1184	inCount:1	outCount:1	links:	url:D001184	name:Articulation Disorders	normalName:articulation disorders	normalWikiTitle:articulation disorders	predictedType:Disease
 CANDIDATE	id:61205	inCount:3	outCount:1	links:	url:D061205	name:Vascular Calcification	normalName:vascular calcification	normalWikiTitle:vascular calcification	predictedType:Disease
@@ -19,9 +23,5 @@ CANDIDATE	id:5207	inCount:1	outCount:1	links:63806	url:D005207	name:Fasciculatio
 CANDIDATE	id:5207	inCount:1	outCount:1	links:63806	url:D005207	name:Muscle Fasciculation, Skeletal	normalName:muscle fasciculation, skeletal	normalWikiTitle:muscle fasciculation, skeletal	predictedType:Disease
 CANDIDATE	id:5207	inCount:1	outCount:1	links:63806	url:D005207	name:Fasciculation, Skeletal Muscle	normalName:fasciculation, skeletal muscle	normalWikiTitle:fasciculation, skeletal muscle	predictedType:Disease
 CANDIDATE	id:5207	inCount:1	outCount:1	links:63806	url:D005207	name:Muscle Fasciculations, Skeletal	normalName:muscle fasciculations, skeletal	normalWikiTitle:muscle fasciculations, skeletal	predictedType:Disease
-ENTITY	text:myalgia	normalName:myalgia	predictedType:disease	q:true	qid:Q429	docId:25006369	origText:myalgia	url:D063806
-CANDIDATE	id:63806	inCount:0	outCount:2	links:5207	url:D063806	name:Myalgia	normalName:myalgia	normalWikiTitle:myalgia	predictedType:Disease
-ENTITY	text:fasciculations	normalName:fasciculations	predictedType:disease	q:true	qid:Q429	docId:25006369	origText:fasciculations	url:D005207
-CANDIDATE	id:5207	inCount:1	outCount:1	links:63806	url:D005207	name:Fasciculation	normalName:fasciculation	normalWikiTitle:fasciculation	predictedType:Disease
-ENTITY	text:fasciculation	normalName:fasciculation	predictedType:disease	q:true	qid:Q429	docId:25006369	origText:fasciculation	url:D005207
+ENTITY	text:fasciculations	normalName:fasciculations	predictedType:disease	q:true	qid:Q85	docId:25006369	origText:fasciculations	url:D005207
 CANDIDATE	id:5207	inCount:1	outCount:1	links:63806	url:D005207	name:Fasciculation	normalName:fasciculation	normalWikiTitle:fasciculation	predictedType:Disease

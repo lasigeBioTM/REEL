@@ -1,4 +1,4 @@
-ENTITY	text:chloride	normalName:chloride	predictedType:chemical	q:true	qid:Q233	docId:12699527	origText:chloride	url:D002712
+ENTITY	text:chloride	normalName:chloride	predictedType:chemical	q:true	qid:Q374	docId:12699527	origText:chloride	url:D002712
 CANDIDATE	id:2712	inCount:62	outCount:2	links:	url:D002712	name:Chlorides	normalName:chlorides	normalWikiTitle:chlorides	predictedType:Chemical
 CANDIDATE	id:1599	inCount:0	outCount:1	links:	url:C001599	name:chlorite	normalName:chlorite	normalWikiTitle:chlorite	predictedType:Chemical
 CANDIDATE	id:2713	inCount:12	outCount:2	links:	url:D002713	name:Chlorine	normalName:chlorine	normalWikiTitle:chlorine	predictedType:Chemical
@@ -9,5 +9,5 @@ CANDIDATE	id:98209	inCount:0	outCount:1	links:	url:C098209	name:VPM chloride	nor
 CANDIDATE	id:6969	inCount:0	outCount:1	links:	url:C006969	name:chlorin	normalName:chlorin	normalWikiTitle:chlorin	predictedType:Chemical
 CANDIDATE	id:4986	inCount:0	outCount:1	links:	url:C004986	name:chlorbenside	normalName:chlorbenside	normalWikiTitle:chlorbenside	predictedType:Chemical
 CANDIDATE	id:581611	inCount:0	outCount:1	links:	url:C581611	name:chlorizidine	normalName:chlorizidine	normalWikiTitle:chlorizidine	predictedType:Chemical
-ENTITY	text:suxamethonium	normalName:suxamethonium	predictedType:chemical	q:true	qid:Q233	docId:12699527	origText:suxamethonium	url:D013390
+ENTITY	text:suxamethonium	normalName:suxamethonium	predictedType:chemical	q:true	qid:Q374	docId:12699527	origText:suxamethonium	url:D013390
 CANDIDATE	id:13390	inCount:3	outCount:2	links:	url:D013390	name:Suxamethonium	normalName:suxamethonium	normalWikiTitle:suxamethonium	predictedType:Chemical

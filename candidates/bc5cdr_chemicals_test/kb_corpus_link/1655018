@@ -1,4 +1,4 @@
-ENTITY	text:androgens	normalName:androgens	predictedType:chemical	q:true	qid:Q149	docId:1655018	origText:androgens	url:D000728
+ENTITY	text:androgen	normalName:androgen	predictedType:chemical	q:true	qid:Q157	docId:1655018	origText:androgen	url:D000728
 CANDIDATE	id:728	inCount:0	outCount:1	links:305;728	url:D000728	name:Androgens	normalName:androgens	normalWikiTitle:androgens	predictedType:Chemical
 CANDIDATE	id:435014	inCount:0	outCount:1	links:435014	url:C435014	name:androechin	normalName:androechin	normalWikiTitle:androechin	predictedType:Chemical
 CANDIDATE	id:361	inCount:0	outCount:1	links:361	url:C000361	name:caprogen	normalName:caprogen	normalWikiTitle:caprogen	predictedType:Chemical
@@ -8,8 +8,8 @@ CANDIDATE	id:9584	inCount:7	outCount:2	links:9584	url:D009584	name:Nitrogen	norm
 CANDIDATE	id:11700	inCount:0	outCount:2	links:11700	url:C011700	name:carbogen	normalName:carbogen	normalWikiTitle:carbogen	predictedType:Chemical
 CANDIDATE	id:11206	inCount:0	outCount:1	links:11206	url:C011206	name:cyanogen	normalName:cyanogen	normalWikiTitle:cyanogen	predictedType:Chemical
 CANDIDATE	id:6859	inCount:7	outCount:2	links:6859	url:D006859	name:Hydrogen	normalName:hydrogen	normalWikiTitle:hydrogen	predictedType:Chemical
-CANDIDATE	id:736	inCount:88	outCount:1	links:736	url:D000736	name:Androstenes	normalName:androstenes	normalWikiTitle:androstenes	predictedType:Chemical
-ENTITY	text:corticosteroids	normalName:corticosteroids	predictedType:chemical	q:true	qid:Q149	docId:1655018	origText:corticosteroids	url:D000305
+CANDIDATE	id:736	inCount:89	outCount:1	links:736	url:D000736	name:Androstenes	normalName:androstenes	normalWikiTitle:androstenes	predictedType:Chemical
+ENTITY	text:corticosteroid	normalName:corticosteroid	predictedType:chemical	q:true	qid:Q157	docId:1655018	origText:corticosteroid	url:D000305
 CANDIDATE	id:305	inCount:8	outCount:1	links:305;728	url:D000305	name:Corticosteroids	normalName:corticosteroids	normalWikiTitle:corticosteroids	predictedType:Chemical
 CANDIDATE	id:3345	inCount:21	outCount:2	links:3345	url:D003345	name:Corticosterone	normalName:corticosterone	normalWikiTitle:corticosterone	predictedType:Chemical
 CANDIDATE	id:540640	inCount:0	outCount:1	links:540640	url:C540640	name:ptilosteroid C	normalName:ptilosteroid c	normalWikiTitle:ptilosteroid c	predictedType:Chemical
@@ -21,7 +21,18 @@ CANDIDATE	id:3525	inCount:1	outCount:1	links:3525	url:D003525	name:Cyclosteroids
 CANDIDATE	id:10897	inCount:0	outCount:1	links:10897	url:C010897	name:corticotensin	normalName:corticotensin	normalWikiTitle:corticotensin	predictedType:Chemical
 CANDIDATE	id:15062	inCount:5	outCount:1	links:15062	url:D015062	name:11-Hydroxycorticosteroids	normalName:11-hydroxycorticosteroids	normalWikiTitle:11-hydroxycorticosteroids	predictedType:Chemical
 CANDIDATE	id:9654	inCount:35	outCount:1	links:9654	url:D009654	name:Norsteroids	normalName:norsteroids	normalWikiTitle:norsteroids	predictedType:Chemical
-ENTITY	text:corticosteroid	normalName:corticosteroid	predictedType:chemical	q:true	qid:Q149	docId:1655018	origText:corticosteroid	url:D000305
+ENTITY	text:androgens	normalName:androgens	predictedType:chemical	q:true	qid:Q157	docId:1655018	origText:androgens	url:D000728
+CANDIDATE	id:728	inCount:0	outCount:1	links:305;728	url:D000728	name:Androgens	normalName:androgens	normalWikiTitle:androgens	predictedType:Chemical
+CANDIDATE	id:435014	inCount:0	outCount:1	links:435014	url:C435014	name:androechin	normalName:androechin	normalWikiTitle:androechin	predictedType:Chemical
+CANDIDATE	id:361	inCount:0	outCount:1	links:361	url:C000361	name:caprogen	normalName:caprogen	normalWikiTitle:caprogen	predictedType:Chemical
+CANDIDATE	id:403078	inCount:0	outCount:1	links:403078	url:C403078	name:alprogen	normalName:alprogen	normalWikiTitle:alprogen	predictedType:Chemical
+CANDIDATE	id:71696	inCount:0	outCount:1	links:71696	url:C071696	name:androsin	normalName:androsin	normalWikiTitle:androsin	predictedType:Chemical
+CANDIDATE	id:9584	inCount:7	outCount:2	links:9584	url:D009584	name:Nitrogen	normalName:nitrogen	normalWikiTitle:nitrogen	predictedType:Chemical
+CANDIDATE	id:11700	inCount:0	outCount:2	links:11700	url:C011700	name:carbogen	normalName:carbogen	normalWikiTitle:carbogen	predictedType:Chemical
+CANDIDATE	id:11206	inCount:0	outCount:1	links:11206	url:C011206	name:cyanogen	normalName:cyanogen	normalWikiTitle:cyanogen	predictedType:Chemical
+CANDIDATE	id:6859	inCount:7	outCount:2	links:6859	url:D006859	name:Hydrogen	normalName:hydrogen	normalWikiTitle:hydrogen	predictedType:Chemical
+CANDIDATE	id:736	inCount:89	outCount:1	links:736	url:D000736	name:Androstenes	normalName:androstenes	normalWikiTitle:androstenes	predictedType:Chemical
+ENTITY	text:corticosteroids	normalName:corticosteroids	predictedType:chemical	q:true	qid:Q157	docId:1655018	origText:corticosteroids	url:D000305
 CANDIDATE	id:305	inCount:8	outCount:1	links:305;728	url:D000305	name:Corticosteroids	normalName:corticosteroids	normalWikiTitle:corticosteroids	predictedType:Chemical
 CANDIDATE	id:3345	inCount:21	outCount:2	links:3345	url:D003345	name:Corticosterone	normalName:corticosterone	normalWikiTitle:corticosterone	predictedType:Chemical
 CANDIDATE	id:540640	inCount:0	outCount:1	links:540640	url:C540640	name:ptilosteroid C	normalName:ptilosteroid c	normalWikiTitle:ptilosteroid c	predictedType:Chemical
@@ -33,14 +44,3 @@ CANDIDATE	id:3525	inCount:1	outCount:1	links:3525	url:D003525	name:Cyclosteroids
 CANDIDATE	id:10897	inCount:0	outCount:1	links:10897	url:C010897	name:corticotensin	normalName:corticotensin	normalWikiTitle:corticotensin	predictedType:Chemical
 CANDIDATE	id:15062	inCount:5	outCount:1	links:15062	url:D015062	name:11-Hydroxycorticosteroids	normalName:11-hydroxycorticosteroids	normalWikiTitle:11-hydroxycorticosteroids	predictedType:Chemical
 CANDIDATE	id:9654	inCount:35	outCount:1	links:9654	url:D009654	name:Norsteroids	normalName:norsteroids	normalWikiTitle:norsteroids	predictedType:Chemical
-ENTITY	text:androgen	normalName:androgen	predictedType:chemical	q:true	qid:Q149	docId:1655018	origText:androgen	url:D000728
-CANDIDATE	id:728	inCount:0	outCount:1	links:305;728	url:D000728	name:Androgens	normalName:androgens	normalWikiTitle:androgens	predictedType:Chemical
-CANDIDATE	id:435014	inCount:0	outCount:1	links:435014	url:C435014	name:androechin	normalName:androechin	normalWikiTitle:androechin	predictedType:Chemical
-CANDIDATE	id:361	inCount:0	outCount:1	links:361	url:C000361	name:caprogen	normalName:caprogen	normalWikiTitle:caprogen	predictedType:Chemical
-CANDIDATE	id:403078	inCount:0	outCount:1	links:403078	url:C403078	name:alprogen	normalName:alprogen	normalWikiTitle:alprogen	predictedType:Chemical
-CANDIDATE	id:71696	inCount:0	outCount:1	links:71696	url:C071696	name:androsin	normalName:androsin	normalWikiTitle:androsin	predictedType:Chemical
-CANDIDATE	id:9584	inCount:7	outCount:2	links:9584	url:D009584	name:Nitrogen	normalName:nitrogen	normalWikiTitle:nitrogen	predictedType:Chemical
-CANDIDATE	id:11700	inCount:0	outCount:2	links:11700	url:C011700	name:carbogen	normalName:carbogen	normalWikiTitle:carbogen	predictedType:Chemical
-CANDIDATE	id:11206	inCount:0	outCount:1	links:11206	url:C011206	name:cyanogen	normalName:cyanogen	normalWikiTitle:cyanogen	predictedType:Chemical
-CANDIDATE	id:6859	inCount:7	outCount:2	links:6859	url:D006859	name:Hydrogen	normalName:hydrogen	normalWikiTitle:hydrogen	predictedType:Chemical
-CANDIDATE	id:736	inCount:88	outCount:1	links:736	url:D000736	name:Androstenes	normalName:androstenes	normalWikiTitle:androstenes	predictedType:Chemical

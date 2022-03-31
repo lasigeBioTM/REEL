@@ -1,4 +1,4 @@
-ENTITY	text:infarction	normalName:infarction	predictedType:disease	q:true	qid:Q410	docId:895432	origText:infarction	url:D007238
-CANDIDATE	id:7238	inCount:0	outCount:2	links:	url:D007238	name:Infarction	normalName:infarction	normalWikiTitle:infarction	predictedType:Disease
-ENTITY	text:myocardial infarction	normalName:myocardial infarction	predictedType:disease	q:true	qid:Q410	docId:895432	origText:myocardial infarction	url:D009203
-CANDIDATE	id:9203	inCount:8	outCount:1	links:	url:D009203	name:Myocardial Infarction	normalName:myocardial infarction	normalWikiTitle:myocardial infarction	predictedType:Disease
+ENTITY	text:myocardial infarction	normalName:myocardial infarction	predictedType:disease	q:true	qid:Q135	docId:895432	origText:myocardial infarction	url:D009203
+CANDIDATE	id:9203	inCount:8	outCount:2	links:	url:D009203	name:Myocardial Infarction	normalName:myocardial infarction	normalWikiTitle:myocardial infarction	predictedType:Disease
+ENTITY	text:infarction	normalName:infarction	predictedType:disease	q:true	qid:Q135	docId:895432	origText:infarction	url:D007238
+CANDIDATE	id:7238	inCount:5	outCount:2	links:	url:D007238	name:Infarction	normalName:infarction	normalWikiTitle:infarction	predictedType:Disease

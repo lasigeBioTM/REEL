@@ -1,12 +1,8 @@
-ENTITY	text:mastitis	normalName:mastitis	predictedType:disease	q:true	qid:Q148	docId:1779253	origText:mastitis	url:D008413
-CANDIDATE	id:8413	inCount:1	outCount:2	links:10146	url:D008413	name:Mastitis	normalName:mastitis	normalWikiTitle:mastitis	predictedType:Disease
-ENTITY	text:pain	normalName:pain	predictedType:disease	q:true	qid:Q148	docId:1779253	origText:pain	url:D010146
-CANDIDATE	id:10146	inCount:34	outCount:1	links:8413	url:D010146	name:Pain	normalName:pain	normalWikiTitle:pain	predictedType:Disease
-ENTITY	text:post-herpetic neuralgia	normalName:post-herpetic neuralgia	predictedType:disease	q:true	qid:Q148	docId:1779253	origText:post-herpetic neuralgia	url:D051474
+ENTITY	text:post-herpetic neuralgia	normalName:post-herpetic neuralgia	predictedType:disease	q:true	qid:Q161	docId:1779253	origText:post-herpetic neuralgia	url:D051474
 CANDIDATE	id:51474	inCount:0	outCount:1	links:	url:D051474	name:Neuralgia, Postherpetic	normalName:neuralgia, postherpetic	normalWikiTitle:neuralgia, postherpetic	predictedType:Disease
 CANDIDATE	id:16849	inCount:1	outCount:3	links:	url:D016849	name:Keratitis, Herpetic	normalName:keratitis, herpetic	normalWikiTitle:keratitis, herpetic	predictedType:Disease
 CANDIDATE	id:31368	inCount:0	outCount:1	links:	url:D031368	name:Zoster Sine Herpete	normalName:zoster sine herpete	normalWikiTitle:zoster sine herpete	predictedType:Disease
-CANDIDATE	id:15419	inCount:97	outCount:1	links:	url:D015419	name:Spastic Paraplegia, Hereditary	normalName:spastic paraplegia, hereditary	normalWikiTitle:spastic paraplegia, hereditary	predictedType:Disease
+CANDIDATE	id:15419	inCount:98	outCount:1	links:	url:D015419	name:Spastic Paraplegia, Hereditary	normalName:spastic paraplegia, hereditary	normalWikiTitle:spastic paraplegia, hereditary	predictedType:Disease
 CANDIDATE	id:16697	inCount:0	outCount:3	links:	url:D016697	name:Herpes Zoster Oticus	normalName:herpes zoster oticus	normalWikiTitle:herpes zoster oticus	predictedType:Disease
 CANDIDATE	id:536408	inCount:0	outCount:1	links:	url:C536408	name:Neural crest tumor	normalName:neural crest tumor	normalWikiTitle:neural crest tumor	predictedType:Disease
 CANDIDATE	id:13283	inCount:0	outCount:2	links:	url:D013283	name:Stomatitis, Herpetic	normalName:stomatitis, herpetic	normalWikiTitle:stomatitis, herpetic	predictedType:Disease
@@ -16,4 +12,7 @@ CANDIDATE	id:5156	inCount:1	outCount:1	links:	url:D005156	name:Facial Neuralgia	
 CANDIDATE	id:3929	inCount:2	outCount:2	links:	url:D003929	name:Neuralgias, Diabetic	normalName:neuralgias, diabetic	normalWikiTitle:neuralgias, diabetic	predictedType:Disease
 CANDIDATE	id:3929	inCount:2	outCount:2	links:	url:D003929	name:Diabetic Neuralgias	normalName:diabetic neuralgias	normalWikiTitle:diabetic neuralgias	predictedType:Disease
 CANDIDATE	id:14277	inCount:0	outCount:1	links:	url:D014277	name:Epileptiform Neuralgias	normalName:epileptiform neuralgias	normalWikiTitle:epileptiform neuralgias	predictedType:Disease
-CANDIDATE	id:14277	inCount:0	outCount:1	links:	url:D014277	name:Neuralgias, Epileptiform	normalName:neuralgias, epileptiform	normalWikiTitle:neuralgias, epileptiform	predictedType:Disease
+ENTITY	text:pain	normalName:pain	predictedType:disease	q:true	qid:Q161	docId:1779253	origText:pain	url:D010146
+CANDIDATE	id:10146	inCount:34	outCount:1	links:8413	url:D010146	name:Pain	normalName:pain	normalWikiTitle:pain	predictedType:Disease
+ENTITY	text:mastitis	normalName:mastitis	predictedType:disease	q:true	qid:Q161	docId:1779253	origText:mastitis	url:D008413
+CANDIDATE	id:8413	inCount:1	outCount:2	links:10146	url:D008413	name:Mastitis	normalName:mastitis	normalWikiTitle:mastitis	predictedType:Disease

@@ -1,4 +1,4 @@
-ENTITY	text:apnea	normalName:apnea	predictedType:disease	q:true	qid:Q48	docId:25054547	origText:apnea	url:D001049
+ENTITY	text:apnea	normalName:apnea	predictedType:disease	q:true	qid:Q89	docId:25054547	origText:apnea	url:D001049
 CANDIDATE	id:1049	inCount:3	outCount:2	links:537417	url:D001049	name:Apnea	normalName:apnea	normalWikiTitle:apnea	predictedType:Disease
-ENTITY	text:Butyrylcholinesterase deficiency	normalName:butyrylcholinesterase deficiency	predictedType:disease	q:true	qid:Q48	docId:25054547	origText:Butyrylcholinesterase deficiency	url:C537417
+ENTITY	text:Butyrylcholinesterase deficiency	normalName:butyrylcholinesterase deficiency	predictedType:disease	q:true	qid:Q89	docId:25054547	origText:Butyrylcholinesterase deficiency	url:C537417
 CANDIDATE	id:537417	inCount:0	outCount:2	links:1049	url:C537417	name:Butyrylcholinesterase deficiency	normalName:butyrylcholinesterase deficiency	normalWikiTitle:butyrylcholinesterase deficiency	predictedType:Disease

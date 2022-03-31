@@ -1,10 +1,6 @@
-ENTITY	text:microprolactinoma	normalName:microprolactinoma	predictedType:disease	q:true	qid:Q275	docId:20595935	origText:microprolactinoma	url:D015175
-CANDIDATE	id:15175	inCount:0	outCount:2	links:15175	url:D015175	name:Microprolactinoma	normalName:microprolactinoma	normalWikiTitle:microprolactinoma	predictedType:Disease
-ENTITY	text:macroprolactinoma	normalName:macroprolactinoma	predictedType:disease	q:true	qid:Q275	docId:20595935	origText:macroprolactinoma	url:D015175
-CANDIDATE	id:15175	inCount:0	outCount:2	links:15175	url:D015175	name:Macroprolactinoma	normalName:macroprolactinoma	normalWikiTitle:macroprolactinoma	predictedType:Disease
-ENTITY	text:hyperprolactinemia	normalName:hyperprolactinemia	predictedType:disease	q:true	qid:Q275	docId:20595935	origText:hyperprolactinemia	url:D006966
+ENTITY	text:hyperprolactinemia	normalName:hyperprolactinemia	predictedType:disease	q:true	qid:Q120	docId:20595935	origText:hyperprolactinemia	url:D006966
 CANDIDATE	id:6966	inCount:1	outCount:1	links:6966	url:D006966	name:Hyperprolactinemia	normalName:hyperprolactinemia	normalWikiTitle:hyperprolactinemia	predictedType:Disease
-ENTITY	text:Macroprolactinemia	normalName:macroprolactinemia	predictedType:disease	q:true	qid:Q275	docId:20595935	origText:Macroprolactinemia	url:D015175
+ENTITY	text:Macroprolactinemia	normalName:macroprolactinemia	predictedType:disease	q:true	qid:Q120	docId:20595935	origText:Macroprolactinemia	url:D015175
 CANDIDATE	id:15175	inCount:0	outCount:2	links:15175	url:D015175	name:Microprolactinomas	normalName:microprolactinomas	normalWikiTitle:microprolactinomas	predictedType:Disease
 CANDIDATE	id:6966	inCount:1	outCount:1	links:6966	url:D006966	name:Hyperprolactinemia	normalName:hyperprolactinemia	normalWikiTitle:hyperprolactinemia	predictedType:Disease
 CANDIDATE	id:15175	inCount:0	outCount:2	links:15175	url:D015175	name:Prolactinoma	normalName:prolactinoma	normalWikiTitle:prolactinoma	predictedType:Disease
@@ -18,4 +14,8 @@ CANDIDATE	id:8265	inCount:3	outCount:1	links:	url:D008265	name:Macrostomia	norma
 CANDIDATE	id:18250	inCount:1	outCount:1	links:	url:D018250	name:Acrospiroma	normalName:acrospiroma	normalWikiTitle:acrospiroma	predictedType:Disease
 CANDIDATE	id:15175	inCount:0	outCount:2	links:15175	url:D015175	name:Macroprolactinoma	normalName:macroprolactinoma	normalWikiTitle:macroprolactinoma	predictedType:Disease
 CANDIDATE	id:15175	inCount:0	outCount:2	links:15175	url:D015175	name:Macroprolactinomas	normalName:macroprolactinomas	normalWikiTitle:macroprolactinomas	predictedType:Disease
+CANDIDATE	id:15175	inCount:0	outCount:2	links:15175	url:D015175	name:Microprolactinoma	normalName:microprolactinoma	normalWikiTitle:microprolactinoma	predictedType:Disease
+ENTITY	text:macroprolactinoma	normalName:macroprolactinoma	predictedType:disease	q:true	qid:Q120	docId:20595935	origText:macroprolactinoma	url:D015175
+CANDIDATE	id:15175	inCount:0	outCount:2	links:15175	url:D015175	name:Macroprolactinoma	normalName:macroprolactinoma	normalWikiTitle:macroprolactinoma	predictedType:Disease
+ENTITY	text:microprolactinoma	normalName:microprolactinoma	predictedType:disease	q:true	qid:Q120	docId:20595935	origText:microprolactinoma	url:D015175
 CANDIDATE	id:15175	inCount:0	outCount:2	links:15175	url:D015175	name:Microprolactinoma	normalName:microprolactinoma	normalWikiTitle:microprolactinoma	predictedType:Disease

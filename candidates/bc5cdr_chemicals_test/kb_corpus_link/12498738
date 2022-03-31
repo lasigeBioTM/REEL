@@ -1,4 +1,4 @@
-ENTITY	text:calcium	normalName:calcium	predictedType:chemical	q:true	qid:Q280	docId:12498738	origText:calcium	url:D002118
-CANDIDATE	id:2118	inCount:11	outCount:2	links:	url:D002118	name:Calcium	normalName:calcium	normalWikiTitle:calcium	predictedType:Chemical
-ENTITY	text:doxorubicin	normalName:doxorubicin	predictedType:chemical	q:true	qid:Q280	docId:12498738	origText:doxorubicin	url:D004317
+ENTITY	text:doxorubicin	normalName:doxorubicin	predictedType:chemical	q:true	qid:Q368	docId:12498738	origText:doxorubicin	url:D004317
 CANDIDATE	id:4317	inCount:559	outCount:1	links:	url:D004317	name:Doxorubicin	normalName:doxorubicin	normalWikiTitle:doxorubicin	predictedType:Chemical
+ENTITY	text:calcium	normalName:calcium	predictedType:chemical	q:true	qid:Q368	docId:12498738	origText:calcium	url:D002118
+CANDIDATE	id:2118	inCount:11	outCount:2	links:	url:D002118	name:Calcium	normalName:calcium	normalWikiTitle:calcium	predictedType:Chemical

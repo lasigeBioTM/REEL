@@ -1,4 +1,16 @@
-ENTITY	text:testicular pain	normalName:testicular pain	predictedType:disease	q:true	qid:Q404	docId:16906379	origText:testicular pain	url:D013733
+ENTITY	text:vasculitis	normalName:vasculitis	predictedType:disease	q:true	qid:Q421	docId:16906379	origText:vasculitis	url:D014657
+CANDIDATE	id:14657	inCount:16	outCount:1	links:5334	url:D014657	name:Vasculitis	normalName:vasculitis	normalWikiTitle:vasculitis	predictedType:Disease
+ENTITY	text:polyarteritis nodosa	normalName:polyarteritis nodosa	predictedType:disease	q:true	qid:Q421	docId:16906379	origText:polyarteritis nodosa	url:D010488
+CANDIDATE	id:10488	inCount:1	outCount:3	links:	url:D010488	name:Polyarteritis Nodosa	normalName:polyarteritis nodosa	normalWikiTitle:polyarteritis nodosa	predictedType:Disease
+ENTITY	text:palmoplantar pustulosis	normalName:palmoplantar pustulosis	predictedType:disease	q:true	qid:Q421	docId:16906379	origText:palmoplantar pustulosis	url:D011565
+CANDIDATE	id:11565	inCount:3	outCount:1	links:	url:D011565	name:PALMOPLANTAR PUSTULOSIS	normalName:palmoplantar pustulosis	normalWikiTitle:palmoplantar pustulosis	predictedType:Disease
+ENTITY	text:fever	normalName:fever	predictedType:disease	q:true	qid:Q421	docId:16906379	origText:fever	url:D005334
+CANDIDATE	id:5334	inCount:5	outCount:1	links:14657;11115	url:D005334	name:Fever	normalName:fever	normalWikiTitle:fever	predictedType:Disease
+ENTITY	text:myalgias	normalName:myalgias	predictedType:disease	q:true	qid:Q421	docId:16906379	origText:myalgias	url:D063806
+CANDIDATE	id:63806	inCount:0	outCount:2	links:11115	url:D063806	name:Myalgia	normalName:myalgia	normalWikiTitle:myalgia	predictedType:Disease
+ENTITY	text:polyneuropathy	normalName:polyneuropathy	predictedType:disease	q:true	qid:Q421	docId:16906379	origText:polyneuropathy	url:D011115
+CANDIDATE	id:11115	inCount:21	outCount:1	links:5334;63806	url:D011115	name:Polyneuropathy	normalName:polyneuropathy	normalWikiTitle:polyneuropathy	predictedType:Disease
+ENTITY	text:testicular pain	normalName:testicular pain	predictedType:disease	q:true	qid:Q421	docId:16906379	origText:testicular pain	url:D013733
 CANDIDATE	id:13733	inCount:6	outCount:2	links:	url:D013733	name:Testicular Diseases	normalName:testicular diseases	normalWikiTitle:testicular diseases	predictedType:Disease
 CANDIDATE	id:13736	inCount:6	outCount:3	links:	url:D013736	name:Testicular Neoplasms	normalName:testicular neoplasms	normalWikiTitle:testicular neoplasms	predictedType:Disease
 CANDIDATE	id:562472	inCount:0	outCount:2	links:	url:C562472	name:Teratoma, Testicular	normalName:teratoma, testicular	normalWikiTitle:teratoma, testicular	predictedType:Disease
@@ -15,15 +27,3 @@ CANDIDATE	id:13736	inCount:6	outCount:3	links:	url:D013736	name:Testicular Cance
 CANDIDATE	id:13736	inCount:6	outCount:3	links:	url:D013736	name:Cancers, Testicular	normalName:cancers, testicular	normalWikiTitle:cancers, testicular	predictedType:Disease
 CANDIDATE	id:13736	inCount:6	outCount:3	links:	url:D013736	name:Testicular Neoplasm	normalName:testicular neoplasm	normalWikiTitle:testicular neoplasm	predictedType:Disease
 CANDIDATE	id:13736	inCount:6	outCount:3	links:	url:D013736	name:Neoplasm, Testicular	normalName:neoplasm, testicular	normalWikiTitle:neoplasm, testicular	predictedType:Disease
-ENTITY	text:palmoplantar pustulosis	normalName:palmoplantar pustulosis	predictedType:disease	q:true	qid:Q404	docId:16906379	origText:palmoplantar pustulosis	url:D011565
-CANDIDATE	id:11565	inCount:3	outCount:1	links:	url:D011565	name:PALMOPLANTAR PUSTULOSIS	normalName:palmoplantar pustulosis	normalWikiTitle:palmoplantar pustulosis	predictedType:Disease
-ENTITY	text:polyarteritis nodosa	normalName:polyarteritis nodosa	predictedType:disease	q:true	qid:Q404	docId:16906379	origText:polyarteritis nodosa	url:D010488
-CANDIDATE	id:10488	inCount:1	outCount:3	links:	url:D010488	name:Polyarteritis Nodosa	normalName:polyarteritis nodosa	normalWikiTitle:polyarteritis nodosa	predictedType:Disease
-ENTITY	text:vasculitis	normalName:vasculitis	predictedType:disease	q:true	qid:Q404	docId:16906379	origText:vasculitis	url:D014657
-CANDIDATE	id:14657	inCount:16	outCount:1	links:	url:D014657	name:Vasculitis	normalName:vasculitis	normalWikiTitle:vasculitis	predictedType:Disease
-ENTITY	text:fever	normalName:fever	predictedType:disease	q:true	qid:Q404	docId:16906379	origText:fever	url:D005334
-CANDIDATE	id:5334	inCount:5	outCount:1	links:11115	url:D005334	name:Fever	normalName:fever	normalWikiTitle:fever	predictedType:Disease
-ENTITY	text:polyneuropathy	normalName:polyneuropathy	predictedType:disease	q:true	qid:Q404	docId:16906379	origText:polyneuropathy	url:D011115
-CANDIDATE	id:11115	inCount:21	outCount:1	links:5334	url:D011115	name:Polyneuropathy	normalName:polyneuropathy	normalWikiTitle:polyneuropathy	predictedType:Disease
-ENTITY	text:myalgias	normalName:myalgias	predictedType:disease	q:true	qid:Q404	docId:16906379	origText:myalgias	url:D063806
-CANDIDATE	id:63806	inCount:0	outCount:2	links:	url:D063806	name:Myalgia	normalName:myalgia	normalWikiTitle:myalgia	predictedType:Disease

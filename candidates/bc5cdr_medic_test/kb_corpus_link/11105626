@@ -1,4 +1,4 @@
-ENTITY	text:anotia	normalName:anotia	predictedType:disease	q:true	qid:Q290	docId:11105626	origText:anotia	url:D065817
-CANDIDATE	id:65817	inCount:11	outCount:2	links:535670	url:D065817	name:Anotia	normalName:anotia	normalWikiTitle:anotia	predictedType:Disease
-ENTITY	text:isotretinoin embryopathy	normalName:isotretinoin embryopathy	predictedType:disease	q:true	qid:Q290	docId:11105626	origText:isotretinoin embryopathy	url:C535670
+ENTITY	text:isotretinoin embryopathy	normalName:isotretinoin embryopathy	predictedType:disease	q:true	qid:Q340	docId:11105626	origText:isotretinoin embryopathy	url:C535670
 CANDIDATE	id:535670	inCount:0	outCount:1	links:65817	url:C535670	name:Isotretinoin embryopathy	normalName:isotretinoin embryopathy	normalWikiTitle:isotretinoin embryopathy	predictedType:Disease
+ENTITY	text:anotia	normalName:anotia	predictedType:disease	q:true	qid:Q340	docId:11105626	origText:anotia	url:D065817
+CANDIDATE	id:65817	inCount:11	outCount:2	links:535670	url:D065817	name:Anotia	normalName:anotia	normalWikiTitle:anotia	predictedType:Disease

@@ -1,6 +1,6 @@
-ENTITY	text:cardiotoxicity	normalName:cardiotoxicity	predictedType:disease	q:true	qid:Q230	docId:24812279	origText:cardiotoxicity	url:D066126
-CANDIDATE	id:66126	inCount:0	outCount:3	links:6333	url:D066126	name:Cardiotoxicity	normalName:cardiotoxicity	normalWikiTitle:cardiotoxicity	predictedType:Disease
-ENTITY	text:cancer	normalName:cancer	predictedType:disease	q:true	qid:Q230	docId:24812279	origText:cancer	url:D009369
+ENTITY	text:cardiotoxicity	normalName:cardiotoxicity	predictedType:disease	q:true	qid:Q70	docId:24812279	origText:cardiotoxicity	url:D066126
+CANDIDATE	id:66126	inCount:0	outCount:4	links:6333	url:D066126	name:Cardiotoxicity	normalName:cardiotoxicity	normalWikiTitle:cardiotoxicity	predictedType:Disease
+ENTITY	text:cancer	normalName:cancer	predictedType:disease	q:true	qid:Q70	docId:24812279	origText:cancer	url:D009369
 CANDIDATE	id:9369	inCount:18	outCount:1	links:	url:D009369	name:Cancer	normalName:cancer	normalWikiTitle:cancer	predictedType:Disease
-ENTITY	text:heart failure	normalName:heart failure	predictedType:disease	q:true	qid:Q230	docId:24812279	origText:heart failure	url:D006333
+ENTITY	text:heart failure	normalName:heart failure	predictedType:disease	q:true	qid:Q70	docId:24812279	origText:heart failure	url:D006333
 CANDIDATE	id:6333	inCount:5	outCount:1	links:66126	url:D006333	name:Heart Failure	normalName:heart failure	normalWikiTitle:heart failure	predictedType:Disease

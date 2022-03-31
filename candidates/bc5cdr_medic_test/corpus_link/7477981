@@ -1,6 +1,6 @@
-ENTITY	text:Parkinson's disease	normalName:parkinson's disease	predictedType:disease	q:true	qid:Q419	docId:7477981	origText:Parkinson's disease	url:D010300
+ENTITY	text:Parkinson's disease	normalName:parkinson's disease	predictedType:disease	q:true	qid:Q264	docId:7477981	origText:Parkinson's disease	url:D010300
 CANDIDATE	id:10300	inCount:31	outCount:2	links:	url:D010300	name:Parkinson's Disease	normalName:parkinson's disease	normalWikiTitle:parkinson's disease	predictedType:Disease
-ENTITY	text:parkinsonian	normalName:parkinsonian	predictedType:disease	q:true	qid:Q419	docId:7477981	origText:parkinsonian	url:D010300
+ENTITY	text:parkinsonian	normalName:parkinsonian	predictedType:disease	q:true	qid:Q264	docId:7477981	origText:parkinsonian	url:D010300
 CANDIDATE	id:10300	inCount:31	outCount:2	links:	url:D010300	name:Parkinson Disease	normalName:parkinson disease	normalWikiTitle:parkinson disease	predictedType:Disease
 CANDIDATE	id:20734	inCount:10	outCount:2	links:	url:D020734	name:Parkinsonian Disorders	normalName:parkinsonian disorders	normalWikiTitle:parkinsonian disorders	predictedType:Disease
 CANDIDATE	id:20447	inCount:7	outCount:1	links:	url:D020447	name:Parasomnias	normalName:parasomnias	normalWikiTitle:parasomnias	predictedType:Disease

@@ -1,8 +1,8 @@
-ENTITY	text:ataxia	normalName:ataxia	predictedType:disease	q:true	qid:Q495	docId:3832950	origText:ataxia	url:D001259
-CANDIDATE	id:1259	inCount:60	outCount:1	links:	url:D001259	name:Ataxia	normalName:ataxia	normalWikiTitle:ataxia	predictedType:Disease
-ENTITY	text:infantile spasms	normalName:infantile spasms	predictedType:disease	q:true	qid:Q495	docId:3832950	origText:infantile spasms	url:D013036
+ENTITY	text:epilepsy	normalName:epilepsy	predictedType:disease	q:true	qid:Q221	docId:3832950	origText:epilepsy	url:D004827
+CANDIDATE	id:4827	inCount:53	outCount:1	links:12640	url:D004827	name:Epilepsy	normalName:epilepsy	normalWikiTitle:epilepsy	predictedType:Disease
+ENTITY	text:infantile spasms	normalName:infantile spasms	predictedType:disease	q:true	qid:Q221	docId:3832950	origText:infantile spasms	url:D013036
 CANDIDATE	id:13036	inCount:49	outCount:2	links:	url:D013036	name:Spasms, Infantile	normalName:spasms, infantile	normalWikiTitle:spasms, infantile	predictedType:Disease
-ENTITY	text:seizures	normalName:seizures	predictedType:disease	q:true	qid:Q495	docId:3832950	origText:seizures	url:D012640
-CANDIDATE	id:12640	inCount:53	outCount:1	links:4827	url:D012640	name:Seizure	normalName:seizure	normalWikiTitle:seizure	predictedType:Disease
-ENTITY	text:epilepsy	normalName:epilepsy	predictedType:disease	q:true	qid:Q495	docId:3832950	origText:epilepsy	url:D004827
-CANDIDATE	id:4827	inCount:52	outCount:1	links:12640	url:D004827	name:Epilepsy	normalName:epilepsy	normalWikiTitle:epilepsy	predictedType:Disease
+ENTITY	text:seizures	normalName:seizures	predictedType:disease	q:true	qid:Q221	docId:3832950	origText:seizures	url:D012640
+CANDIDATE	id:12640	inCount:54	outCount:1	links:4827;1259	url:D012640	name:Seizure	normalName:seizure	normalWikiTitle:seizure	predictedType:Disease
+ENTITY	text:ataxia	normalName:ataxia	predictedType:disease	q:true	qid:Q221	docId:3832950	origText:ataxia	url:D001259
+CANDIDATE	id:1259	inCount:60	outCount:1	links:12640	url:D001259	name:Ataxia	normalName:ataxia	normalWikiTitle:ataxia	predictedType:Disease

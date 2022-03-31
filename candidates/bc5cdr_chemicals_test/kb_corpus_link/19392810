@@ -1,4 +1,4 @@
-ENTITY	text:methadone	normalName:methadone	predictedType:chemical	q:true	qid:Q112	docId:19392810	origText:methadone	url:D008691
-CANDIDATE	id:8691	inCount:9	outCount:1	links:3932	url:D008691	name:Methadone	normalName:methadone	normalWikiTitle:methadone	predictedType:Chemical
-ENTITY	text:heroin	normalName:heroin	predictedType:chemical	q:true	qid:Q112	docId:19392810	origText:heroin	url:D003932
+ENTITY	text:heroin	normalName:heroin	predictedType:chemical	q:true	qid:Q466	docId:19392810	origText:heroin	url:D003932
 CANDIDATE	id:3932	inCount:3	outCount:1	links:8691	url:D003932	name:Heroin	normalName:heroin	normalWikiTitle:heroin	predictedType:Chemical
+ENTITY	text:methadone	normalName:methadone	predictedType:chemical	q:true	qid:Q466	docId:19392810	origText:methadone	url:D008691
+CANDIDATE	id:8691	inCount:9	outCount:1	links:3932	url:D008691	name:Methadone	normalName:methadone	normalWikiTitle:methadone	predictedType:Chemical

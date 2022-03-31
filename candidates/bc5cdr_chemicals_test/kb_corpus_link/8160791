@@ -1,14 +1,8 @@
-ENTITY	text:Superoxide	normalName:superoxide	predictedType:chemical	q:true	qid:Q318	docId:8160791	origText:Superoxide	url:D013481
-CANDIDATE	id:13481	inCount:1	outCount:1	links:	url:D013481	name:Superoxide	normalName:superoxide	normalWikiTitle:superoxide	predictedType:Chemical
-ENTITY	text:guanosine 3',5'-cyclic monophosphate	normalName:guanosine 3',5'-cyclic monophosphate	predictedType:chemical	q:true	qid:Q318	docId:8160791	origText:guanosine 3',5'-cyclic monophosphate	url:D006152
-CANDIDATE	id:6152	inCount:32	outCount:2	links:6152	url:D006152	name:Guanosine Cyclic 3,5 Monophosphate	normalName:guanosine cyclic 3,5 monophosphate	normalWikiTitle:guanosine cyclic 3,5 monophosphate	predictedType:Chemical
-ENTITY	text:gentamicin	normalName:gentamicin	predictedType:chemical	q:true	qid:Q318	docId:8160791	origText:gentamicin	url:D005839
+ENTITY	text:gentamicin	normalName:gentamicin	predictedType:chemical	q:true	qid:Q277	docId:8160791	origText:gentamicin	url:D005839
 CANDIDATE	id:5839	inCount:33	outCount:1	links:	url:D005839	name:Gentamicin	normalName:gentamicin	normalWikiTitle:gentamicin	predictedType:Chemical
-ENTITY	text:DMTU	normalName:dmtu	predictedType:chemical	q:true	qid:Q318	docId:8160791	origText:DMTU	url:C038983
-CANDIDATE	id:38983	inCount:0	outCount:1	links:38983	url:C038983	name:DMTU	normalName:dmtu	normalWikiTitle:dmtu	predictedType:Chemical
-ENTITY	text:dimethylthiourea	normalName:dimethylthiourea	predictedType:chemical	q:true	qid:Q318	docId:8160791	origText:dimethylthiourea	url:C038983
-CANDIDATE	id:38983	inCount:0	outCount:1	links:38983	url:C038983	name:dimethylthiourea	normalName:dimethylthiourea	normalWikiTitle:dimethylthiourea	predictedType:Chemical
-ENTITY	text:cGMP	normalName:cgmp	predictedType:chemical	q:true	qid:Q318	docId:8160791	origText:cGMP	url:D006152
+ENTITY	text:guanosine 3',5'-cyclic monophosphate	normalName:guanosine 3',5'-cyclic monophosphate	predictedType:chemical	q:true	qid:Q277	docId:8160791	origText:guanosine 3',5'-cyclic monophosphate	url:D006152
+CANDIDATE	id:6152	inCount:32	outCount:2	links:6152	url:D006152	name:Guanosine Cyclic 3,5 Monophosphate	normalName:guanosine cyclic 3,5 monophosphate	normalWikiTitle:guanosine cyclic 3,5 monophosphate	predictedType:Chemical
+ENTITY	text:cGMP	normalName:cgmp	predictedType:chemical	q:true	qid:Q277	docId:8160791	origText:cGMP	url:D006152
 CANDIDATE	id:6152	inCount:32	outCount:2	links:6152	url:D006152	name:Cyclic GMP	normalName:cyclic gmp	normalWikiTitle:cyclic gmp	predictedType:Chemical
 CANDIDATE	id:474799	inCount:0	outCount:1	links:	url:C474799	name:CPT-cGMP	normalName:cpt-cgmp	normalWikiTitle:cpt-cgmp	predictedType:Chemical
 CANDIDATE	id:580582	inCount:0	outCount:2	links:	url:C580582	name:CMP 42	normalName:cmp 42	normalWikiTitle:cmp 42	predictedType:Chemical
@@ -29,3 +23,9 @@ CANDIDATE	id:77133	inCount:0	outCount:2	links:	url:C077133	name:CGTMPA	normalNam
 CANDIDATE	id:26695	inCount:0	outCount:1	links:	url:C026695	name:GGMP	normalName:ggmp	normalWikiTitle:ggmp	predictedType:Chemical
 CANDIDATE	id:3843	inCount:21	outCount:1	links:	url:D003843	name:DCMP	normalName:dcmp	normalWikiTitle:dcmp	predictedType:Chemical
 CANDIDATE	id:7257	inCount:0	outCount:1	links:	url:C007257	name:dGMP	normalName:dgmp	normalWikiTitle:dgmp	predictedType:Chemical
+ENTITY	text:Superoxide	normalName:superoxide	predictedType:chemical	q:true	qid:Q277	docId:8160791	origText:Superoxide	url:D013481
+CANDIDATE	id:13481	inCount:1	outCount:1	links:	url:D013481	name:Superoxide	normalName:superoxide	normalWikiTitle:superoxide	predictedType:Chemical
+ENTITY	text:dimethylthiourea	normalName:dimethylthiourea	predictedType:chemical	q:true	qid:Q277	docId:8160791	origText:dimethylthiourea	url:C038983
+CANDIDATE	id:38983	inCount:0	outCount:1	links:38983	url:C038983	name:dimethylthiourea	normalName:dimethylthiourea	normalWikiTitle:dimethylthiourea	predictedType:Chemical
+ENTITY	text:DMTU	normalName:dmtu	predictedType:chemical	q:true	qid:Q277	docId:8160791	origText:DMTU	url:C038983
+CANDIDATE	id:38983	inCount:0	outCount:1	links:38983	url:C038983	name:DMTU	normalName:dmtu	normalWikiTitle:dmtu	predictedType:Chemical

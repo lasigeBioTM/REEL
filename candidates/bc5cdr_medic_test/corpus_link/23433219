@@ -1,12 +1,12 @@
-ENTITY	text:affective disorder	normalName:affective disorder	predictedType:disease	q:true	qid:Q147	docId:23433219	origText:affective disorder	url:D019964
-CANDIDATE	id:19964	inCount:2	outCount:1	links:	url:D019964	name:Disorder, Affective	normalName:disorder, affective	normalWikiTitle:disorder, affective	predictedType:Disease
-ENTITY	text:antisocial personality	normalName:antisocial personality	predictedType:disease	q:true	qid:Q147	docId:23433219	origText:antisocial personality	url:D000987
-CANDIDATE	id:987	inCount:0	outCount:1	links:3866;1714	url:D000987	name:Antisocial Personality	normalName:antisocial personality	normalWikiTitle:antisocial personality	predictedType:Disease
-ENTITY	text:depressive disorder	normalName:depressive disorder	predictedType:disease	q:true	qid:Q147	docId:23433219	origText:depressive disorder	url:D003866
-CANDIDATE	id:3866	inCount:6	outCount:1	links:1714;987	url:D003866	name:Depressive Disorder	normalName:depressive disorder	normalWikiTitle:depressive disorder	predictedType:Disease
-ENTITY	text:antisocial personality disorder	normalName:antisocial personality disorder	predictedType:disease	q:true	qid:Q147	docId:23433219	origText:antisocial personality disorder	url:D000987
-CANDIDATE	id:987	inCount:0	outCount:1	links:3866;1714	url:D000987	name:Antisocial Personality Disorder	normalName:antisocial personality disorder	normalWikiTitle:antisocial personality disorder	predictedType:Disease
-ENTITY	text:bipolar disorder	normalName:bipolar disorder	predictedType:disease	q:true	qid:Q147	docId:23433219	origText:bipolar disorder	url:D001714
-CANDIDATE	id:1714	inCount:11	outCount:1	links:3866;987	url:D001714	name:Bipolar Disorder	normalName:bipolar disorder	normalWikiTitle:bipolar disorder	predictedType:Disease
-ENTITY	text:Major depressive disorder	normalName:major depressive disorder	predictedType:disease	q:true	qid:Q147	docId:23433219	origText:Major depressive disorder	url:D003865
+ENTITY	text:depressive disorder	normalName:depressive disorder	predictedType:disease	q:true	qid:Q3	docId:23433219	origText:depressive disorder	url:D003866
+CANDIDATE	id:3866	inCount:7	outCount:1	links:1714;987	url:D003866	name:Depressive Disorder	normalName:depressive disorder	normalWikiTitle:depressive disorder	predictedType:Disease
+ENTITY	text:bipolar disorder	normalName:bipolar disorder	predictedType:disease	q:true	qid:Q3	docId:23433219	origText:bipolar disorder	url:D001714
+CANDIDATE	id:1714	inCount:11	outCount:1	links:987;3866	url:D001714	name:Bipolar Disorder	normalName:bipolar disorder	normalWikiTitle:bipolar disorder	predictedType:Disease
+ENTITY	text:antisocial personality disorder	normalName:antisocial personality disorder	predictedType:disease	q:true	qid:Q3	docId:23433219	origText:antisocial personality disorder	url:D000987
+CANDIDATE	id:987	inCount:0	outCount:1	links:1714;3866	url:D000987	name:Antisocial Personality Disorder	normalName:antisocial personality disorder	normalWikiTitle:antisocial personality disorder	predictedType:Disease
+ENTITY	text:Major depressive disorder	normalName:major depressive disorder	predictedType:disease	q:true	qid:Q3	docId:23433219	origText:Major depressive disorder	url:D003865
 CANDIDATE	id:3865	inCount:2	outCount:1	links:	url:D003865	name:Depressive Disorder, Major	normalName:depressive disorder, major	normalWikiTitle:depressive disorder, major	predictedType:Disease
+ENTITY	text:affective disorder	normalName:affective disorder	predictedType:disease	q:true	qid:Q3	docId:23433219	origText:affective disorder	url:D019964
+CANDIDATE	id:19964	inCount:2	outCount:1	links:	url:D019964	name:Disorder, Affective	normalName:disorder, affective	normalWikiTitle:disorder, affective	predictedType:Disease
+ENTITY	text:antisocial personality	normalName:antisocial personality	predictedType:disease	q:true	qid:Q3	docId:23433219	origText:antisocial personality	url:D000987
+CANDIDATE	id:987	inCount:0	outCount:1	links:1714;3866	url:D000987	name:Antisocial Personality	normalName:antisocial personality	normalWikiTitle:antisocial personality	predictedType:Disease

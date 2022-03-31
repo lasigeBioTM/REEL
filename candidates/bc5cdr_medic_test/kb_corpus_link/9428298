@@ -1,5 +1,7 @@
-ENTITY	text:cardiac dysrhythmias	normalName:cardiac dysrhythmias	predictedType:disease	q:true	qid:Q395	docId:9428298	origText:cardiac dysrhythmias	url:D001145
-CANDIDATE	id:1145	inCount:27	outCount:2	links:	url:D001145	name:Dysrhythmia, Cardiac	normalName:dysrhythmia, cardiac	normalWikiTitle:dysrhythmia, cardiac	predictedType:Disease
+ENTITY	text:asthma	normalName:asthma	predictedType:disease	q:true	qid:Q308	docId:9428298	origText:asthma	url:D001249
+CANDIDATE	id:1249	inCount:17	outCount:3	links:	url:D001249	name:Asthma	normalName:asthma	normalWikiTitle:asthma	predictedType:Disease
+ENTITY	text:cardiac dysrhythmias	normalName:cardiac dysrhythmias	predictedType:disease	q:true	qid:Q308	docId:9428298	origText:cardiac dysrhythmias	url:D001145
+CANDIDATE	id:1145	inCount:28	outCount:2	links:7008	url:D001145	name:Dysrhythmia, Cardiac	normalName:dysrhythmia, cardiac	normalWikiTitle:dysrhythmia, cardiac	predictedType:Disease
 CANDIDATE	id:4489	inCount:0	outCount:2	links:	url:D004489	name:Edema, Cardiac	normalName:edema, cardiac	normalWikiTitle:edema, cardiac	predictedType:Disease
 CANDIDATE	id:563247	inCount:0	outCount:2	links:	url:C563247	name:Muscular Dystrophy, Cardiac Type	normalName:muscular dystrophy, cardiac type	normalWikiTitle:muscular dystrophy, cardiac type	predictedType:Disease
 CANDIDATE	id:1146	inCount:2	outCount:1	links:	url:D001146	name:Arrhythmia, Sinus	normalName:arrhythmia, sinus	normalWikiTitle:arrhythmia, sinus	predictedType:Disease
@@ -10,14 +12,11 @@ CANDIDATE	id:616201	inCount:0	outCount:2	links:	url:616201	name:CHRONIC ATRIAL A
 CANDIDATE	id:20178	inCount:2	outCount:3	links:	url:D020178	name:Sleep Disorders, Circadian Rhythm	normalName:sleep disorders, circadian rhythm	normalWikiTitle:sleep disorders, circadian rhythm	predictedType:Disease
 CANDIDATE	id:536455	inCount:0	outCount:1	links:	url:C536455	name:Craniofacial dyssynostosis	normalName:craniofacial dyssynostosis	normalWikiTitle:craniofacial dyssynostosis	predictedType:Disease
 CANDIDATE	id:567062	inCount:0	outCount:1	links:	url:C567062	name:Fabry Disease, Cardiac Variant	normalName:fabry disease, cardiac variant	normalWikiTitle:fabry disease, cardiac variant	predictedType:Disease
-CANDIDATE	id:1145	inCount:27	outCount:2	links:	url:D001145	name:Cardiac Dysrhythmia	normalName:cardiac dysrhythmia	normalWikiTitle:cardiac dysrhythmia	predictedType:Disease
+CANDIDATE	id:1145	inCount:28	outCount:2	links:7008	url:D001145	name:Cardiac Dysrhythmia	normalName:cardiac dysrhythmia	normalWikiTitle:cardiac dysrhythmia	predictedType:Disease
 CANDIDATE	id:1919	inCount:0	outCount:1	links:	url:D001919	name:Bradyarrhythmias	normalName:bradyarrhythmias	normalWikiTitle:bradyarrhythmias	predictedType:Disease
 CANDIDATE	id:4489	inCount:0	outCount:2	links:	url:D004489	name:Cardiac Edemas	normalName:cardiac edemas	normalWikiTitle:cardiac edemas	predictedType:Disease
 CANDIDATE	id:4489	inCount:0	outCount:2	links:	url:D004489	name:Edemas, Cardiac	normalName:edemas, cardiac	normalWikiTitle:edemas, cardiac	predictedType:Disease
 CANDIDATE	id:1919	inCount:0	outCount:1	links:	url:D001919	name:Bradyarrhythmia	normalName:bradyarrhythmia	normalWikiTitle:bradyarrhythmia	predictedType:Disease
-CANDIDATE	id:6331	inCount:29	outCount:1	links:	url:D006331	name:Disease, Cardiac	normalName:disease, cardiac	normalWikiTitle:disease, cardiac	predictedType:Disease
-CANDIDATE	id:6331	inCount:29	outCount:1	links:	url:D006331	name:Cardiac Disease	normalName:cardiac disease	normalWikiTitle:cardiac disease	predictedType:Disease
-ENTITY	text:hypokalemia	normalName:hypokalemia	predictedType:disease	q:true	qid:Q395	docId:9428298	origText:hypokalemia	url:D007008
-CANDIDATE	id:7008	inCount:1	outCount:1	links:	url:D007008	name:Hypokalemia	normalName:hypokalemia	normalWikiTitle:hypokalemia	predictedType:Disease
-ENTITY	text:asthma	normalName:asthma	predictedType:disease	q:true	qid:Q395	docId:9428298	origText:asthma	url:D001249
-CANDIDATE	id:1249	inCount:16	outCount:3	links:	url:D001249	name:Asthma	normalName:asthma	normalWikiTitle:asthma	predictedType:Disease
+CANDIDATE	id:6331	inCount:31	outCount:1	links:	url:D006331	name:Cardiac Disease	normalName:cardiac disease	normalWikiTitle:cardiac disease	predictedType:Disease
+ENTITY	text:hypokalemia	normalName:hypokalemia	predictedType:disease	q:true	qid:Q308	docId:9428298	origText:hypokalemia	url:D007008
+CANDIDATE	id:7008	inCount:1	outCount:1	links:1145	url:D007008	name:Hypokalemia	normalName:hypokalemia	normalWikiTitle:hypokalemia	predictedType:Disease

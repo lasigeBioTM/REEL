@@ -1,4 +1,10 @@
-ENTITY	text:behavioral dyscontrol	normalName:behavioral dyscontrol	predictedType:disease	q:true	qid:Q340	docId:17069550	origText:behavioral dyscontrol	url:D002653
+ENTITY	text:autistic disorder	normalName:autistic disorder	predictedType:disease	q:true	qid:Q427	docId:17069550	origText:autistic disorder	url:D001321
+CANDIDATE	id:1321	inCount:7	outCount:1	links:1321	url:D001321	name:Autistic Disorder	normalName:autistic disorder	normalWikiTitle:autistic disorder	predictedType:Disease
+ENTITY	text:autism	normalName:autism	predictedType:disease	q:true	qid:Q427	docId:17069550	origText:autism	url:D001321
+CANDIDATE	id:1321	inCount:7	outCount:1	links:1321	url:D001321	name:Autism	normalName:autism	normalWikiTitle:autism	predictedType:Disease
+ENTITY	text:headaches	normalName:headaches	predictedType:disease	q:true	qid:Q427	docId:17069550	origText:headaches	url:D006261
+CANDIDATE	id:6261	inCount:2	outCount:1	links:	url:D006261	name:Headache	normalName:headache	normalWikiTitle:headache	predictedType:Disease
+ENTITY	text:behavioral dyscontrol	normalName:behavioral dyscontrol	predictedType:disease	q:true	qid:Q427	docId:17069550	origText:behavioral dyscontrol	url:D002653
 CANDIDATE	id:2653	inCount:1	outCount:1	links:	url:D002653	name:Child Behavior Disorders	normalName:child behavior disorders	normalWikiTitle:child behavior disorders	predictedType:Disease
 CANDIDATE	id:20187	inCount:0	outCount:1	links:	url:D020187	name:REM Sleep Behavior Disorder	normalName:rem sleep behavior disorder	normalWikiTitle:rem sleep behavior disorder	predictedType:Disease
 CANDIDATE	id:563256	inCount:0	outCount:1	links:	url:C563256	name:Corneal Dystrophy, Fleck	normalName:corneal dystrophy, fleck	normalWikiTitle:corneal dystrophy, fleck	predictedType:Disease
@@ -14,10 +20,3 @@ CANDIDATE	id:987	inCount:0	outCount:1	links:	url:D000987	name:Behavior, Dyssocia
 CANDIDATE	id:987	inCount:0	outCount:1	links:	url:D000987	name:Dyssocial Behaviors	normalName:dyssocial behaviors	normalWikiTitle:dyssocial behaviors	predictedType:Disease
 CANDIDATE	id:987	inCount:0	outCount:1	links:	url:D000987	name:Behaviors, Dyssocial	normalName:behaviors, dyssocial	normalWikiTitle:behaviors, dyssocial	predictedType:Disease
 CANDIDATE	id:1523	inCount:27	outCount:1	links:	url:D001523	name:Behavior Disorders	normalName:behavior disorders	normalWikiTitle:behavior disorders	predictedType:Disease
-CANDIDATE	id:1523	inCount:27	outCount:1	links:	url:D001523	name:Disorders, Behavior	normalName:disorders, behavior	normalWikiTitle:disorders, behavior	predictedType:Disease
-ENTITY	text:autistic disorder	normalName:autistic disorder	predictedType:disease	q:true	qid:Q340	docId:17069550	origText:autistic disorder	url:D001321
-CANDIDATE	id:1321	inCount:7	outCount:1	links:1321	url:D001321	name:Autistic Disorder	normalName:autistic disorder	normalWikiTitle:autistic disorder	predictedType:Disease
-ENTITY	text:headaches	normalName:headaches	predictedType:disease	q:true	qid:Q340	docId:17069550	origText:headaches	url:D006261
-CANDIDATE	id:6261	inCount:2	outCount:1	links:	url:D006261	name:Headache	normalName:headache	normalWikiTitle:headache	predictedType:Disease
-ENTITY	text:autism	normalName:autism	predictedType:disease	q:true	qid:Q340	docId:17069550	origText:autism	url:D001321
-CANDIDATE	id:1321	inCount:7	outCount:1	links:1321	url:D001321	name:Autism	normalName:autism	normalWikiTitle:autism	predictedType:Disease

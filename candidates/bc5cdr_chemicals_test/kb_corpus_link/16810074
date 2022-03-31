@@ -1,8 +1,6 @@
-ENTITY	text:norepinephrine	normalName:norepinephrine	predictedType:chemical	q:true	qid:Q108	docId:16810074	origText:norepinephrine	url:D009638
-CANDIDATE	id:9638	inCount:31	outCount:4	links:	url:D009638	name:Norepinephrine	normalName:norepinephrine	normalWikiTitle:norepinephrine	predictedType:Chemical
-ENTITY	text:tempol	normalName:tempol	predictedType:chemical	q:true	qid:Q108	docId:16810074	origText:tempol	url:C001803
-CANDIDATE	id:1803	inCount:0	outCount:2	links:	url:C001803	name:tempol	normalName:tempol	normalWikiTitle:tempol	predictedType:Chemical
-ENTITY	text:Nomega-nitro-L-arginine	normalName:nomega-nitro-l-arginine	predictedType:chemical	q:true	qid:Q108	docId:16810074	origText:Nomega-nitro-L-arginine	url:D019335
+ENTITY	text:nitric oxide	normalName:nitric oxide	predictedType:chemical	q:true	qid:Q417	docId:16810074	origText:nitric oxide	url:D009569
+CANDIDATE	id:9569	inCount:13	outCount:3	links:9638	url:D009569	name:Nitric Oxide	normalName:nitric oxide	normalWikiTitle:nitric oxide	predictedType:Chemical
+ENTITY	text:Nomega-nitro-L-arginine	normalName:nomega-nitro-l-arginine	predictedType:chemical	q:true	qid:Q417	docId:16810074	origText:Nomega-nitro-L-arginine	url:D019335
 CANDIDATE	id:19335	inCount:4	outCount:1	links:	url:D019335	name:NG-Nitro-L-Arginine	normalName:ng-nitro-l-arginine	normalWikiTitle:ng-nitro-l-arginine	predictedType:Chemical
 CANDIDATE	id:73753	inCount:0	outCount:1	links:	url:C073753	name:omega-N-allylarginine	normalName:omega-n-allylarginine	normalWikiTitle:omega-n-allylarginine	predictedType:Chemical
 CANDIDATE	id:19323	inCount:0	outCount:1	links:	url:D019323	name:omega-N-Methylarginine	normalName:omega-n-methylarginine	normalWikiTitle:omega-n-methylarginine	predictedType:Chemical
@@ -23,9 +21,11 @@ CANDIDATE	id:19323	inCount:0	outCount:1	links:	url:D019323	name:N(omega)-Monomet
 CANDIDATE	id:19335	inCount:4	outCount:1	links:	url:D019335	name:NG Nitro L Arginine	normalName:ng nitro l arginine	normalWikiTitle:ng nitro l arginine	predictedType:Chemical
 CANDIDATE	id:109599	inCount:0	outCount:1	links:	url:C109599	name:N(omega)-propyl-L-arginine	normalName:n(omega)-propyl-l-arginine	normalWikiTitle:n(omega)-propyl-l-arginine	predictedType:Chemical
 CANDIDATE	id:491427	inCount:0	outCount:1	links:	url:C491427	name:nona-D-arginine	normalName:nona-d-arginine	normalWikiTitle:nona-d-arginine	predictedType:Chemical
-ENTITY	text:superoxide	normalName:superoxide	predictedType:chemical	q:true	qid:Q108	docId:16810074	origText:superoxide	url:D013481
+ENTITY	text:norepinephrine	normalName:norepinephrine	predictedType:chemical	q:true	qid:Q417	docId:16810074	origText:norepinephrine	url:D009638
+CANDIDATE	id:9638	inCount:31	outCount:4	links:9569	url:D009638	name:Norepinephrine	normalName:norepinephrine	normalWikiTitle:norepinephrine	predictedType:Chemical
+ENTITY	text:superoxide	normalName:superoxide	predictedType:chemical	q:true	qid:Q417	docId:16810074	origText:superoxide	url:D013481
 CANDIDATE	id:13481	inCount:1	outCount:1	links:	url:D013481	name:Superoxide	normalName:superoxide	normalWikiTitle:superoxide	predictedType:Chemical
-ENTITY	text:hexamethonium	normalName:hexamethonium	predictedType:chemical	q:true	qid:Q108	docId:16810074	origText:hexamethonium	url:D018738
+ENTITY	text:tempol	normalName:tempol	predictedType:chemical	q:true	qid:Q417	docId:16810074	origText:tempol	url:C001803
+CANDIDATE	id:1803	inCount:0	outCount:2	links:	url:C001803	name:tempol	normalName:tempol	normalWikiTitle:tempol	predictedType:Chemical
+ENTITY	text:hexamethonium	normalName:hexamethonium	predictedType:chemical	q:true	qid:Q417	docId:16810074	origText:hexamethonium	url:D018738
 CANDIDATE	id:18738	inCount:0	outCount:1	links:	url:D018738	name:Hexamethonium	normalName:hexamethonium	normalWikiTitle:hexamethonium	predictedType:Chemical
-ENTITY	text:nitric oxide	normalName:nitric oxide	predictedType:chemical	q:true	qid:Q108	docId:16810074	origText:nitric oxide	url:D009569
-CANDIDATE	id:9569	inCount:13	outCount:3	links:	url:D009569	name:Nitric Oxide	normalName:nitric oxide	normalWikiTitle:nitric oxide	predictedType:Chemical

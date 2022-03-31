@@ -1,6 +1,7 @@
 from spacy.lang.en import English
 from spacy.pipeline import Sentencizer
 import os
+import orjson as json
 import sys
 import xml.etree.ElementTree as ET
 
@@ -28,7 +29,7 @@ def import_bolstm_output():
 
         for entity in root.iter("entity"):
             ontology_id = entity.get("ontology_id")
-            entity_id = entity.get("id")
+            entity_id = entity.get("id").replace(':', '_')
             id_to_ontology_id[entity_id] = ontology_id
 
     # Read the bolstm output file and import relations
@@ -72,7 +73,15 @@ def import_bolstm_output():
                     
     bolstm_file.close()
 
-    return extracted_relations
+    # output dict in json file 
+
+    output = json.dumps(extracted_relations)
+
+    with open('chebi_relations.json', 'wb') as out_file:
+        out_file.write(output)
+        out_file.close()
+
+    #return extracted_relations
 
 
 
@@ -200,7 +209,7 @@ bc5cdr_chemicals_list = ["bc5cdr_chemicals_train", "bc5cdr_chemicals_dev", "bc5c
 
 
 
-def import_cdr_relations_pubtator(corpus_ontology, subset):
+def import_cdr_relations_pubtator(entity_type):
     """Import chemical-disease interactions from BC5CDR corpus in PubTator format into dict.
     
     Requires:
@@ -212,23 +221,23 @@ def import_cdr_relations_pubtator(corpus_ontology, subset):
     """
 
     corpus_dir = "BioCreative-V-CDR-Corpus/CDR_Data/CDR.Corpus.v010516/"
-    filenames = list()
+    filenames = ["CDR_TrainingSet.PubTator.txt", "CDR_DevelopmentSet.PubTator.txt", "CDR_TestSet.PubTator.txt"]
     extracted_relations, extracted_relations_temp  = dict(), dict()
     
-    if subset == "train":
-        filenames.append("CDR_TrainingSet.PubTator.txt")
+    #if subset == "train":
+    #    filenames.append("CDR_TrainingSet.PubTator.txt")
     
-    elif subset == "dev":
-        filenames.append("CDR_DevelopmentSet.PubTator.txt")
+    #elif subset == "dev":
+    #    filenames.append("CDR_DevelopmentSet.PubTator.txt")
     
-    elif subset == "test":
-        filenames.append("CDR_TestSet.PubTator.txt")
+    #elif subset == "test":
+    #    filenames.append("CDR_TestSet.PubTator.txt")
     
-    elif subset == "all":
-        filenames.append("CDR_TrainingSet.PubTator.txt")
-        filenames.append("CDR_DevelopmentSet.PubTator.txt")
-        filenames.append("CDR_TestSet.PubTator.txt")
-  
+    #elif subset == "all":
+    #filenames.append("CDR_TrainingSet.PubTator.txt")
+    #filenames.append("CDR_DevelopmentSet.PubTator.txt")
+    #filenames.append("CDR_TestSet.PubTator.txt")
+
     for filename in filenames:
 
         with open(corpus_dir + filename, 'r') as corpus_file:
@@ -242,7 +251,7 @@ def import_cdr_relations_pubtator(corpus_ontology, subset):
                     chemical_id = line_data[2]
                     disease_id = line_data[3].strip("\n")
 
-                    if corpus_ontology in bc5cdr_medic_list:
+                    if entity_type == 'Disease':
 
                         if chemical_id in extracted_relations_temp.keys():
                             old_values = extracted_relations_temp[chemical_id]
@@ -253,7 +262,7 @@ def import_cdr_relations_pubtator(corpus_ontology, subset):
                             new_values = [disease_id]
                             extracted_relations_temp[chemical_id] = new_values
 
-                    elif corpus_ontology in bc5cdr_chemicals_list:
+                    elif entity_type == 'Chemical':
 
                         if disease_id in extracted_relations_temp.keys():
                             old_values = extracted_relations_temp[disease_id]
@@ -296,7 +305,15 @@ def import_cdr_relations_pubtator(corpus_ontology, subset):
                     elif value_2 not in extracted_relations.keys():
                         extracted_relations[value_2] = [value_1]
     
-    return extracted_relations
+    # output dict in json file 
+
+    output = json.dumps(extracted_relations)
+
+    with open(entity_type + '_relations.json', 'wb') as out_file:
+        out_file.write(output)
+        out_file.close()
+
+    #return extracted_relations
                     
                     
 

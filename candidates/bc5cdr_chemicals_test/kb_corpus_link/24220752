@@ -1,4 +1,4 @@
-ENTITY	text:contrast	normalName:contrast	predictedType:chemical	q:true	qid:Q394	docId:24220752	origText:contrast	url:D003287
+ENTITY	text:contrast	normalName:contrast	predictedType:chemical	q:true	qid:Q27	docId:24220752	origText:contrast	url:D003287
 CANDIDATE	id:3287	inCount:0	outCount:2	links:	url:D003287	name:Contrast Media	normalName:contrast media	normalWikiTitle:contrast media	predictedType:Chemical
 CANDIDATE	id:33691	inCount:0	outCount:1	links:	url:C033691	name:contrapsin	normalName:contrapsin	normalWikiTitle:contrapsin	predictedType:Chemical
 CANDIDATE	id:502316	inCount:0	outCount:1	links:	url:C502316	name:cotransin	normalName:cotransin	normalWikiTitle:cotransin	predictedType:Chemical
@@ -9,5 +9,5 @@ CANDIDATE	id:52760	inCount:0	outCount:1	links:	url:C052760	name:contracon	normal
 CANDIDATE	id:66979	inCount:0	outCount:1	links:	url:C066979	name:contractin A	normalName:contractin a	normalWikiTitle:contractin a	predictedType:Chemical
 CANDIDATE	id:25174	inCount:0	outCount:1	links:	url:C025174	name:controphos	normalName:controphos	normalWikiTitle:controphos	predictedType:Chemical
 CANDIDATE	id:607405	inCount:0	outCount:1	links:	url:C000607405	name:contramutan N	normalName:contramutan n	normalWikiTitle:contramutan n	predictedType:Chemical
-ENTITY	text:creatinine	normalName:creatinine	predictedType:chemical	q:true	qid:Q394	docId:24220752	origText:creatinine	url:D003404
+ENTITY	text:creatinine	normalName:creatinine	predictedType:chemical	q:true	qid:Q27	docId:24220752	origText:creatinine	url:D003404
 CANDIDATE	id:3404	inCount:8	outCount:1	links:	url:D003404	name:Creatinine	normalName:creatinine	normalWikiTitle:creatinine	predictedType:Chemical

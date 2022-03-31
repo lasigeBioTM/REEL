@@ -1,30 +1,7 @@
-ENTITY	text:hepatocellular carcinoma	normalName:hepatocellular carcinoma	predictedType:disease	q:true	qid:Q393	docId:25084821	origText:hepatocellular carcinoma	url:D006528
-CANDIDATE	id:6528	inCount:3	outCount:2	links:	url:D006528	name:Carcinoma, Hepatocellular	normalName:carcinoma, hepatocellular	normalWikiTitle:carcinoma, hepatocellular	predictedType:Disease
-ENTITY	text:blood dyscrasias	normalName:blood dyscrasias	predictedType:disease	q:true	qid:Q393	docId:25084821	origText:blood dyscrasias	url:D006402
-CANDIDATE	id:6402	inCount:22	outCount:1	links:9503	url:D006402	name:Blood Disease	normalName:blood disease	normalWikiTitle:blood disease	predictedType:Disease
-CANDIDATE	id:536573	inCount:0	outCount:3	links:	url:C536573	name:Boomerang dysplasia	normalName:boomerang dysplasia	normalWikiTitle:boomerang dysplasia	predictedType:Disease
-CANDIDATE	id:70631	inCount:1	outCount:1	links:	url:D000070631	name:Diastasis, Bone	normalName:diastasis, bone	normalWikiTitle:diastasis, bone	predictedType:Disease
-CANDIDATE	id:567664	inCount:0	outCount:2	links:	url:C567664	name:Omodysplasia 2	normalName:omodysplasia 2	normalWikiTitle:omodysplasia 2	predictedType:Disease
-CANDIDATE	id:60368	inCount:0	outCount:1	links:	url:D060368	name:Lobomycosis	normalName:lobomycosis	normalWikiTitle:lobomycosis	predictedType:Disease
-CANDIDATE	id:18126	inCount:3	outCount:1	links:	url:D018126	name:Odontodysplasia	normalName:odontodysplasia	normalWikiTitle:odontodysplasia	predictedType:Disease
-CANDIDATE	id:10009	inCount:225	outCount:2	links:	url:D010009	name:Osteochondrodysplasias	normalName:osteochondrodysplasias	normalWikiTitle:osteochondrodysplasias	predictedType:Disease
-CANDIDATE	id:1752	inCount:0	outCount:2	links:	url:D001752	name:Blast Crisis	normalName:blast crisis	normalWikiTitle:blast crisis	predictedType:Disease
-CANDIDATE	id:14120	inCount:2	outCount:2	links:	url:D014120	name:Toxocariasis	normalName:toxocariasis	normalWikiTitle:toxocariasis	predictedType:Disease
-CANDIDATE	id:10040	inCount:6	outCount:1	links:	url:D010040	name:Otosclerosis	normalName:otosclerosis	normalWikiTitle:otosclerosis	predictedType:Disease
-CANDIDATE	id:16063	inCount:0	outCount:2	links:	url:D016063	name:Blood Loss, Surgical	normalName:blood loss, surgical	normalWikiTitle:blood loss, surgical	predictedType:Disease
-CANDIDATE	id:6402	inCount:22	outCount:1	links:9503	url:D006402	name:Blood Diseases	normalName:blood diseases	normalWikiTitle:blood diseases	predictedType:Disease
-CANDIDATE	id:6402	inCount:22	outCount:1	links:9503	url:D006402	name:Diseases, Blood	normalName:diseases, blood	normalWikiTitle:diseases, blood	predictedType:Disease
-CANDIDATE	id:1848	inCount:89	outCount:1	links:	url:D001848	name:Bone Dysplasias	normalName:bone dysplasias	normalWikiTitle:bone dysplasias	predictedType:Disease
-CANDIDATE	id:1848	inCount:89	outCount:1	links:	url:D001848	name:Dysplasias, Bone	normalName:dysplasias, bone	normalWikiTitle:dysplasias, bone	predictedType:Disease
-CANDIDATE	id:6402	inCount:22	outCount:1	links:9503	url:D006402	name:Disease, Blood	normalName:disease, blood	normalWikiTitle:disease, blood	predictedType:Disease
-CANDIDATE	id:1848	inCount:89	outCount:1	links:	url:D001848	name:Dysplasia, Bone	normalName:dysplasia, bone	normalWikiTitle:dysplasia, bone	predictedType:Disease
-CANDIDATE	id:1039	inCount:0	outCount:1	links:	url:D001039	name:Broca's Dysphasia	normalName:broca's dysphasia	normalWikiTitle:broca's dysphasia	predictedType:Disease
-CANDIDATE	id:1848	inCount:89	outCount:1	links:	url:D001848	name:Bone Dysplasia	normalName:bone dysplasia	normalWikiTitle:bone dysplasia	predictedType:Disease
-CANDIDATE	id:1039	inCount:0	outCount:1	links:	url:D001039	name:Dysphasia, Broca's	normalName:dysphasia, broca's	normalWikiTitle:dysphasia, broca's	predictedType:Disease
-ENTITY	text:neutropenia	normalName:neutropenia	predictedType:disease	q:true	qid:Q393	docId:25084821	origText:neutropenia	url:D009503
-CANDIDATE	id:9503	inCount:19	outCount:1	links:7970;8231;5334;6402	url:D009503	name:Neutropenia	normalName:neutropenia	normalWikiTitle:neutropenia	predictedType:Disease
-ENTITY	text:bipolar	normalName:bipolar	predictedType:disease	q:true	qid:Q393	docId:25084821	origText:bipolar	url:D001714
-CANDIDATE	id:1714	inCount:11	outCount:1	links:	url:D001714	name:Bipolar Disorder	normalName:bipolar disorder	normalWikiTitle:bipolar disorder	predictedType:Disease
+ENTITY	text:neutropenia	normalName:neutropenia	predictedType:disease	q:true	qid:Q92	docId:25084821	origText:neutropenia	url:D009503
+CANDIDATE	id:9503	inCount:19	outCount:1	links:6402;505;7970;5334;8231	url:D009503	name:Neutropenia	normalName:neutropenia	normalWikiTitle:neutropenia	predictedType:Disease
+ENTITY	text:bipolar	normalName:bipolar	predictedType:disease	q:true	qid:Q92	docId:25084821	origText:bipolar	url:D001714
+CANDIDATE	id:1714	inCount:11	outCount:1	links:5334	url:D001714	name:Bipolar Disorder	normalName:bipolar disorder	normalWikiTitle:bipolar disorder	predictedType:Disease
 CANDIDATE	id:3969	inCount:0	outCount:2	links:	url:D003969	name:Vipoma	normalName:vipoma	normalWikiTitle:vipoma	predictedType:Disease
 CANDIDATE	id:8067	inCount:7	outCount:1	links:	url:D008067	name:Lipoma	normalName:lipoma	normalWikiTitle:lipoma	predictedType:Disease
 CANDIDATE	id:1630	inCount:0	outCount:1	links:	url:D001630	name:Bezoars	normalName:bezoars	normalWikiTitle:bezoars	predictedType:Disease
@@ -35,18 +12,41 @@ CANDIDATE	id:10383	inCount:1	outCount:1	links:	url:D010383	name:Pellagra	normalN
 CANDIDATE	id:11391	inCount:1	outCount:1	links:	url:D011391	name:Prolapse	normalName:prolapse	normalWikiTitle:prolapse	predictedType:Disease
 CANDIDATE	id:4172	inCount:0	outCount:1	links:	url:D004172	name:Diplopia	normalName:diplopia	normalWikiTitle:diplopia	predictedType:Disease
 CANDIDATE	id:10003	inCount:8	outCount:2	links:	url:D010003	name:DIPOA	normalName:dipoa	normalWikiTitle:dipoa	predictedType:Disease
-ENTITY	text:leucopenia	normalName:leucopenia	predictedType:disease	q:true	qid:Q393	docId:25084821	origText:leucopenia	url:D007970
-CANDIDATE	id:7970	inCount:4	outCount:1	links:5334;9503	url:D007970	name:Leukopenia	normalName:leukopenia	normalWikiTitle:leukopenia	predictedType:Disease
-CANDIDATE	id:9503	inCount:19	outCount:1	links:7970;8231;5334;6402	url:D009503	name:Neutropenia	normalName:neutropenia	normalWikiTitle:neutropenia	predictedType:Disease
+ENTITY	text:hepatocellular carcinoma	normalName:hepatocellular carcinoma	predictedType:disease	q:true	qid:Q92	docId:25084821	origText:hepatocellular carcinoma	url:D006528
+CANDIDATE	id:6528	inCount:3	outCount:2	links:	url:D006528	name:Carcinoma, Hepatocellular	normalName:carcinoma, hepatocellular	normalWikiTitle:carcinoma, hepatocellular	predictedType:Disease
+ENTITY	text:blood dyscrasias	normalName:blood dyscrasias	predictedType:disease	q:true	qid:Q92	docId:25084821	origText:blood dyscrasias	url:D006402
+CANDIDATE	id:6402	inCount:22	outCount:1	links:9503;505;7970	url:D006402	name:Blood Disease	normalName:blood disease	normalWikiTitle:blood disease	predictedType:Disease
+CANDIDATE	id:536573	inCount:0	outCount:3	links:	url:C536573	name:Boomerang dysplasia	normalName:boomerang dysplasia	normalWikiTitle:boomerang dysplasia	predictedType:Disease
+CANDIDATE	id:70631	inCount:1	outCount:1	links:	url:D000070631	name:Diastasis, Bone	normalName:diastasis, bone	normalWikiTitle:diastasis, bone	predictedType:Disease
+CANDIDATE	id:567664	inCount:0	outCount:2	links:	url:C567664	name:Omodysplasia 2	normalName:omodysplasia 2	normalWikiTitle:omodysplasia 2	predictedType:Disease
+CANDIDATE	id:60368	inCount:0	outCount:1	links:	url:D060368	name:Lobomycosis	normalName:lobomycosis	normalWikiTitle:lobomycosis	predictedType:Disease
+CANDIDATE	id:18126	inCount:3	outCount:1	links:	url:D018126	name:Odontodysplasia	normalName:odontodysplasia	normalWikiTitle:odontodysplasia	predictedType:Disease
+CANDIDATE	id:10009	inCount:224	outCount:2	links:	url:D010009	name:Osteochondrodysplasias	normalName:osteochondrodysplasias	normalWikiTitle:osteochondrodysplasias	predictedType:Disease
+CANDIDATE	id:1752	inCount:0	outCount:2	links:	url:D001752	name:Blast Crisis	normalName:blast crisis	normalWikiTitle:blast crisis	predictedType:Disease
+CANDIDATE	id:14120	inCount:2	outCount:2	links:	url:D014120	name:Toxocariasis	normalName:toxocariasis	normalWikiTitle:toxocariasis	predictedType:Disease
+CANDIDATE	id:10040	inCount:6	outCount:1	links:	url:D010040	name:Otosclerosis	normalName:otosclerosis	normalWikiTitle:otosclerosis	predictedType:Disease
+CANDIDATE	id:16063	inCount:0	outCount:2	links:	url:D016063	name:Blood Loss, Surgical	normalName:blood loss, surgical	normalWikiTitle:blood loss, surgical	predictedType:Disease
+CANDIDATE	id:6402	inCount:22	outCount:1	links:9503;505;7970	url:D006402	name:Blood Diseases	normalName:blood diseases	normalWikiTitle:blood diseases	predictedType:Disease
+CANDIDATE	id:6402	inCount:22	outCount:1	links:9503;505;7970	url:D006402	name:Diseases, Blood	normalName:diseases, blood	normalWikiTitle:diseases, blood	predictedType:Disease
+CANDIDATE	id:1848	inCount:89	outCount:1	links:	url:D001848	name:Bone Dysplasias	normalName:bone dysplasias	normalWikiTitle:bone dysplasias	predictedType:Disease
+CANDIDATE	id:1848	inCount:89	outCount:1	links:	url:D001848	name:Dysplasias, Bone	normalName:dysplasias, bone	normalWikiTitle:dysplasias, bone	predictedType:Disease
+CANDIDATE	id:6402	inCount:22	outCount:1	links:9503;505;7970	url:D006402	name:Disease, Blood	normalName:disease, blood	normalWikiTitle:disease, blood	predictedType:Disease
+CANDIDATE	id:1848	inCount:89	outCount:1	links:	url:D001848	name:Dysplasia, Bone	normalName:dysplasia, bone	normalWikiTitle:dysplasia, bone	predictedType:Disease
+CANDIDATE	id:1039	inCount:0	outCount:1	links:	url:D001039	name:Broca's Dysphasia	normalName:broca's dysphasia	normalWikiTitle:broca's dysphasia	predictedType:Disease
+CANDIDATE	id:1848	inCount:89	outCount:1	links:	url:D001848	name:Bone Dysplasia	normalName:bone dysplasia	normalWikiTitle:bone dysplasia	predictedType:Disease
+CANDIDATE	id:1039	inCount:0	outCount:1	links:	url:D001039	name:Dysphasia, Broca's	normalName:dysphasia, broca's	normalWikiTitle:dysphasia, broca's	predictedType:Disease
+ENTITY	text:bipolar disorder	normalName:bipolar disorder	predictedType:disease	q:true	qid:Q92	docId:25084821	origText:bipolar disorder	url:D001714
+CANDIDATE	id:1714	inCount:11	outCount:1	links:5334	url:D001714	name:Bipolar Disorder	normalName:bipolar disorder	normalWikiTitle:bipolar disorder	predictedType:Disease
+ENTITY	text:leucopenia	normalName:leucopenia	predictedType:disease	q:true	qid:Q92	docId:25084821	origText:leucopenia	url:D007970
+CANDIDATE	id:7970	inCount:3	outCount:1	links:6402;9503;5334	url:D007970	name:Leukopenia	normalName:leukopenia	normalWikiTitle:leukopenia	predictedType:Disease
+CANDIDATE	id:9503	inCount:19	outCount:1	links:6402;505;7970;5334;8231	url:D009503	name:Neutropenia	normalName:neutropenia	normalWikiTitle:neutropenia	predictedType:Disease
 CANDIDATE	id:11001	inCount:0	outCount:2	links:	url:D011001	name:Pleuropneumonia	normalName:pleuropneumonia	normalWikiTitle:pleuropneumonia	predictedType:Disease
 CANDIDATE	id:55948	inCount:0	outCount:1	links:	url:D055948	name:Sarcopenia	normalName:sarcopenia	normalWikiTitle:sarcopenia	predictedType:Disease
-CANDIDATE	id:505	inCount:57	outCount:2	links:	url:D000505	name:Alopecia	normalName:alopecia	normalWikiTitle:alopecia	predictedType:Disease
+CANDIDATE	id:505	inCount:57	outCount:2	links:6402;9503	url:D000505	name:Alopecia	normalName:alopecia	normalWikiTitle:alopecia	predictedType:Disease
 CANDIDATE	id:7938	inCount:12	outCount:1	links:	url:D007938	name:Leukemia	normalName:leukemia	normalWikiTitle:leukemia	predictedType:Disease
 CANDIDATE	id:7971	inCount:1	outCount:2	links:	url:D007971	name:Leukoplakia	normalName:leukoplakia	normalWikiTitle:leukoplakia	predictedType:Disease
 CANDIDATE	id:8231	inCount:4	outCount:2	links:9503	url:D008231	name:Lymphopenia	normalName:lymphopenia	normalWikiTitle:lymphopenia	predictedType:Disease
 CANDIDATE	id:536227	inCount:0	outCount:1	links:	url:C536227	name:Cyclic neutropenia	normalName:cyclic neutropenia	normalWikiTitle:cyclic neutropenia	predictedType:Disease
 CANDIDATE	id:10198	inCount:5	outCount:1	links:	url:D010198	name:Pancytopenia	normalName:pancytopenia	normalWikiTitle:pancytopenia	predictedType:Disease
-ENTITY	text:fever	normalName:fever	predictedType:disease	q:true	qid:Q393	docId:25084821	origText:fever	url:D005334
-CANDIDATE	id:5334	inCount:5	outCount:1	links:7970;9503	url:D005334	name:Fever	normalName:fever	normalWikiTitle:fever	predictedType:Disease
-ENTITY	text:bipolar disorder	normalName:bipolar disorder	predictedType:disease	q:true	qid:Q393	docId:25084821	origText:bipolar disorder	url:D001714
-CANDIDATE	id:1714	inCount:11	outCount:1	links:	url:D001714	name:Bipolar Disorder	normalName:bipolar disorder	normalWikiTitle:bipolar disorder	predictedType:Disease
+ENTITY	text:fever	normalName:fever	predictedType:disease	q:true	qid:Q92	docId:25084821	origText:fever	url:D005334
+CANDIDATE	id:5334	inCount:5	outCount:1	links:1714;9503;7970	url:D005334	name:Fever	normalName:fever	normalWikiTitle:fever	predictedType:Disease

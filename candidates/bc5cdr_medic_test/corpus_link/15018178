@@ -1,6 +1,6 @@
-ENTITY	text:necrosis	normalName:necrosis	predictedType:disease	q:true	qid:Q64	docId:15018178	origText:necrosis	url:D009336
-CANDIDATE	id:9336	inCount:6	outCount:1	links:	url:D009336	name:Necrosis	normalName:necrosis	normalWikiTitle:necrosis	predictedType:Disease
-ENTITY	text:hemolytic anemia	normalName:hemolytic anemia	predictedType:disease	q:true	qid:Q64	docId:15018178	origText:hemolytic anemia	url:D000743
-CANDIDATE	id:743	inCount:20	outCount:1	links:	url:D000743	name:Anemia, Hemolytic	normalName:anemia, hemolytic	normalWikiTitle:anemia, hemolytic	predictedType:Disease
-ENTITY	text:cerebral anoxia	normalName:cerebral anoxia	predictedType:disease	q:true	qid:Q64	docId:15018178	origText:cerebral anoxia	url:D002534
-CANDIDATE	id:2534	inCount:1	outCount:1	links:	url:D002534	name:Anoxia, Cerebral	normalName:anoxia, cerebral	normalWikiTitle:anoxia, cerebral	predictedType:Disease
+ENTITY	text:necrosis	normalName:necrosis	predictedType:disease	q:true	qid:Q383	docId:15018178	origText:necrosis	url:D009336
+CANDIDATE	id:9336	inCount:6	outCount:1	links:743	url:D009336	name:Necrosis	normalName:necrosis	normalWikiTitle:necrosis	predictedType:Disease
+ENTITY	text:hemolytic anemia	normalName:hemolytic anemia	predictedType:disease	q:true	qid:Q383	docId:15018178	origText:hemolytic anemia	url:D000743
+CANDIDATE	id:743	inCount:20	outCount:1	links:9336	url:D000743	name:Anemia, Hemolytic	normalName:anemia, hemolytic	normalWikiTitle:anemia, hemolytic	predictedType:Disease
+ENTITY	text:cerebral anoxia	normalName:cerebral anoxia	predictedType:disease	q:true	qid:Q383	docId:15018178	origText:cerebral anoxia	url:D002534
+CANDIDATE	id:2534	inCount:1	outCount:2	links:	url:D002534	name:Anoxia, Cerebral	normalName:anoxia, cerebral	normalWikiTitle:anoxia, cerebral	predictedType:Disease

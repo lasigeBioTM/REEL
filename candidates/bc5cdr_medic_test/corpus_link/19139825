@@ -1,11 +1,11 @@
-ENTITY	text:lymphopenia	normalName:lymphopenia	predictedType:disease	q:true	qid:Q435	docId:19139825	origText:lymphopenia	url:D008231
-CANDIDATE	id:8231	inCount:4	outCount:2	links:9503	url:D008231	name:Lymphopenia	normalName:lymphopenia	normalWikiTitle:lymphopenia	predictedType:Disease
-ENTITY	text:glioblastoma	normalName:glioblastoma	predictedType:disease	q:true	qid:Q435	docId:19139825	origText:glioblastoma	url:D005909
+ENTITY	text:glioblastoma	normalName:glioblastoma	predictedType:disease	q:true	qid:Q459	docId:19139825	origText:glioblastoma	url:D005909
 CANDIDATE	id:5909	inCount:0	outCount:1	links:	url:D005909	name:Glioblastoma	normalName:glioblastoma	normalWikiTitle:glioblastoma	predictedType:Disease
-ENTITY	text:neutropenia	normalName:neutropenia	predictedType:disease	q:true	qid:Q435	docId:19139825	origText:neutropenia	url:D009503
-CANDIDATE	id:9503	inCount:19	outCount:1	links:8231;66126	url:D009503	name:Neutropenia	normalName:neutropenia	normalWikiTitle:neutropenia	predictedType:Disease
-ENTITY	text:toxicities	normalName:toxicities	predictedType:disease	q:true	qid:Q435	docId:19139825	origText:toxicities	url:D064420
-CANDIDATE	id:64420	inCount:10	outCount:1	links:	url:D064420	name:Toxicities, Drug	normalName:toxicities, drug	normalWikiTitle:toxicities, drug	predictedType:Disease
+ENTITY	text:glioblastoma multiforme	normalName:glioblastoma multiforme	predictedType:disease	q:true	qid:Q459	docId:19139825	origText:glioblastoma multiforme	url:D005909
+CANDIDATE	id:5909	inCount:0	outCount:1	links:	url:D005909	name:Glioblastoma Multiforme	normalName:glioblastoma multiforme	normalWikiTitle:glioblastoma multiforme	predictedType:Disease
+ENTITY	text:glioma	normalName:glioma	predictedType:disease	q:true	qid:Q459	docId:19139825	origText:glioma	url:D005910
+CANDIDATE	id:5910	inCount:9	outCount:1	links:	url:D005910	name:Glioma	normalName:glioma	normalWikiTitle:glioma	predictedType:Disease
+ENTITY	text:toxicities	normalName:toxicities	predictedType:disease	q:true	qid:Q459	docId:19139825	origText:toxicities	url:D064420
+CANDIDATE	id:64420	inCount:14	outCount:1	links:	url:D064420	name:Toxicities, Drug	normalName:toxicities, drug	normalWikiTitle:toxicities, drug	predictedType:Disease
 CANDIDATE	id:15299	inCount:0	outCount:1	links:	url:D015299	name:Discitis	normalName:discitis	normalWikiTitle:discitis	predictedType:Disease
 CANDIDATE	id:9920	inCount:0	outCount:1	links:	url:D009920	name:Orchitis	normalName:orchitis	normalWikiTitle:orchitis	predictedType:Disease
 CANDIDATE	id:14069	inCount:1	outCount:1	links:	url:D014069	name:Tonsillitis	normalName:tonsillitis	normalWikiTitle:tonsillitis	predictedType:Disease
@@ -16,16 +16,15 @@ CANDIDATE	id:14120	inCount:2	outCount:2	links:	url:D014120	name:Toxocariasis	nor
 CANDIDATE	id:12173	inCount:3	outCount:1	links:	url:D012173	name:Retinitis	normalName:retinitis	normalWikiTitle:retinitis	predictedType:Disease
 CANDIDATE	id:19449	inCount:0	outCount:1	links:	url:D019449	name:Pouchitis	normalName:pouchitis	normalWikiTitle:pouchitis	predictedType:Disease
 CANDIDATE	id:11349	inCount:1	outCount:2	links:	url:D011349	name:Proctitis	normalName:proctitis	normalWikiTitle:proctitis	predictedType:Disease
-CANDIDATE	id:64420	inCount:10	outCount:1	links:	url:D064420	name:Drug Toxicities	normalName:drug toxicities	normalWikiTitle:drug toxicities	predictedType:Disease
-CANDIDATE	id:66126	inCount:0	outCount:3	links:9503	url:D066126	name:Cardiotoxicities	normalName:cardiotoxicities	normalWikiTitle:cardiotoxicities	predictedType:Disease
-CANDIDATE	id:66126	inCount:0	outCount:3	links:9503	url:D066126	name:Toxicities, Cardiac	normalName:toxicities, cardiac	normalWikiTitle:toxicities, cardiac	predictedType:Disease
-CANDIDATE	id:66126	inCount:0	outCount:3	links:9503	url:D066126	name:Cardiac Toxicities	normalName:cardiac toxicities	normalWikiTitle:cardiac toxicities	predictedType:Disease
+CANDIDATE	id:64420	inCount:14	outCount:1	links:	url:D064420	name:Drug Toxicities	normalName:drug toxicities	normalWikiTitle:drug toxicities	predictedType:Disease
+CANDIDATE	id:66126	inCount:0	outCount:4	links:9503	url:D066126	name:Cardiotoxicities	normalName:cardiotoxicities	normalWikiTitle:cardiotoxicities	predictedType:Disease
+CANDIDATE	id:66126	inCount:0	outCount:4	links:9503	url:D066126	name:Cardiac Toxicities	normalName:cardiac toxicities	normalWikiTitle:cardiac toxicities	predictedType:Disease
 CANDIDATE	id:14069	inCount:1	outCount:1	links:	url:D014069	name:Tonsillitides	normalName:tonsillitides	normalWikiTitle:tonsillitides	predictedType:Disease
 CANDIDATE	id:8417	inCount:0	outCount:2	links:	url:D008417	name:Mastoiditides	normalName:mastoiditides	normalWikiTitle:mastoiditides	predictedType:Disease
 CANDIDATE	id:15299	inCount:0	outCount:1	links:	url:D015299	name:Discitides	normalName:discitides	normalWikiTitle:discitides	predictedType:Disease
 CANDIDATE	id:9920	inCount:0	outCount:1	links:	url:D009920	name:Orchitides	normalName:orchitides	normalWikiTitle:orchitides	predictedType:Disease
 CANDIDATE	id:13966	inCount:4	outCount:1	links:	url:D013966	name:Thyroiditides	normalName:thyroiditides	normalWikiTitle:thyroiditides	predictedType:Disease
-ENTITY	text:glioblastoma multiforme	normalName:glioblastoma multiforme	predictedType:disease	q:true	qid:Q435	docId:19139825	origText:glioblastoma multiforme	url:D005909
-CANDIDATE	id:5909	inCount:0	outCount:1	links:	url:D005909	name:Glioblastoma Multiforme	normalName:glioblastoma multiforme	normalWikiTitle:glioblastoma multiforme	predictedType:Disease
-ENTITY	text:glioma	normalName:glioma	predictedType:disease	q:true	qid:Q435	docId:19139825	origText:glioma	url:D005910
-CANDIDATE	id:5910	inCount:8	outCount:1	links:	url:D005910	name:Glioma	normalName:glioma	normalWikiTitle:glioma	predictedType:Disease
+ENTITY	text:lymphopenia	normalName:lymphopenia	predictedType:disease	q:true	qid:Q459	docId:19139825	origText:lymphopenia	url:D008231
+CANDIDATE	id:8231	inCount:4	outCount:2	links:9503	url:D008231	name:Lymphopenia	normalName:lymphopenia	normalWikiTitle:lymphopenia	predictedType:Disease
+ENTITY	text:neutropenia	normalName:neutropenia	predictedType:disease	q:true	qid:Q459	docId:19139825	origText:neutropenia	url:D009503
+CANDIDATE	id:9503	inCount:19	outCount:1	links:66126;8231	url:D009503	name:Neutropenia	normalName:neutropenia	normalWikiTitle:neutropenia	predictedType:Disease

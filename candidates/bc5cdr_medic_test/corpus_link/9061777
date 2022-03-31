@@ -1,9 +1,7 @@
-ENTITY	text:status epilepticus	normalName:status epilepticus	predictedType:disease	q:true	qid:Q406	docId:9061777	origText:status epilepticus	url:D013226
-CANDIDATE	id:13226	inCount:1	outCount:1	links:12640	url:D013226	name:Status Epilepticus	normalName:status epilepticus	normalWikiTitle:status epilepticus	predictedType:Disease
-ENTITY	text:seizure	normalName:seizure	predictedType:disease	q:true	qid:Q406	docId:9061777	origText:seizure	url:D012640
-CANDIDATE	id:12640	inCount:53	outCount:1	links:4830;13226	url:D012640	name:Seizure	normalName:seizure	normalWikiTitle:seizure	predictedType:Disease
-ENTITY	text:tonic and clonic seizure	normalName:tonic and clonic seizure	predictedType:disease	q:true	qid:Q406	docId:9061777	origText:tonic and clonic seizure	url:D012640
-CANDIDATE	id:12640	inCount:53	outCount:1	links:4830;13226	url:D012640	name:Seizures, Tonic-Clonic	normalName:seizures, tonic-clonic	normalWikiTitle:seizures, tonic-clonic	predictedType:Disease
+ENTITY	text:seizure	normalName:seizure	predictedType:disease	q:true	qid:Q298	docId:9061777	origText:seizure	url:D012640
+CANDIDATE	id:12640	inCount:54	outCount:1	links:13226;4830	url:D012640	name:Seizure	normalName:seizure	normalWikiTitle:seizure	predictedType:Disease
+ENTITY	text:tonic and clonic seizure	normalName:tonic and clonic seizure	predictedType:disease	q:true	qid:Q298	docId:9061777	origText:tonic and clonic seizure	url:D012640
+CANDIDATE	id:12640	inCount:54	outCount:1	links:13226;4830	url:D012640	name:Seizures, Tonic-Clonic	normalName:seizures, tonic-clonic	normalWikiTitle:seizures, tonic-clonic	predictedType:Disease
 CANDIDATE	id:4830	inCount:1	outCount:1	links:12640	url:D004830	name:Epilepsy, Tonic-Clonic	normalName:epilepsy, tonic-clonic	normalWikiTitle:epilepsy, tonic-clonic	predictedType:Disease
 CANDIDATE	id:565660	inCount:0	outCount:2	links:	url:C565660	name:Cyanosis and Hepatic Disease	normalName:cyanosis and hepatic disease	normalWikiTitle:cyanosis and hepatic disease	predictedType:Disease
 CANDIDATE	id:616421	inCount:0	outCount:2	links:	url:616421	name:MYOCLONIC-ATONIC EPILEPSY	normalName:myoclonic-atonic epilepsy	normalWikiTitle:myoclonic-atonic epilepsy	predictedType:Disease
@@ -14,12 +12,13 @@ CANDIDATE	id:535688	inCount:0	outCount:1	links:	url:C535688	name:Robin sequence 
 CANDIDATE	id:12560	inCount:0	outCount:1	links:	url:D012560	name:Schizophrenia, Catatonic	normalName:schizophrenia, catatonic	normalWikiTitle:schizophrenia, catatonic	predictedType:Disease
 CANDIDATE	id:1924	inCount:2	outCount:2	links:	url:D001924	name:Brain Concussion	normalName:brain concussion	normalWikiTitle:brain concussion	predictedType:Disease
 CANDIDATE	id:20208	inCount:1	outCount:2	links:	url:D020208	name:Brain Injury, Chronic	normalName:brain injury, chronic	normalWikiTitle:brain injury, chronic	predictedType:Disease
-CANDIDATE	id:12640	inCount:53	outCount:1	links:4830;13226	url:D012640	name:Tonic-Clonic Seizure	normalName:tonic-clonic seizure	normalWikiTitle:tonic-clonic seizure	predictedType:Disease
-CANDIDATE	id:12640	inCount:53	outCount:1	links:4830;13226	url:D012640	name:Seizure, Tonic-Clonic	normalName:seizure, tonic-clonic	normalWikiTitle:seizure, tonic-clonic	predictedType:Disease
-CANDIDATE	id:12640	inCount:53	outCount:1	links:4830;13226	url:D012640	name:Seizures, Tonic Clonic	normalName:seizures, tonic clonic	normalWikiTitle:seizures, tonic clonic	predictedType:Disease
-CANDIDATE	id:12640	inCount:53	outCount:1	links:4830;13226	url:D012640	name:Tonic Clonic Seizures	normalName:tonic clonic seizures	normalWikiTitle:tonic clonic seizures	predictedType:Disease
-CANDIDATE	id:12640	inCount:53	outCount:1	links:4830;13226	url:D012640	name:Tonic-Clonic Seizures	normalName:tonic-clonic seizures	normalWikiTitle:tonic-clonic seizures	predictedType:Disease
+CANDIDATE	id:12640	inCount:54	outCount:1	links:13226;4830	url:D012640	name:Tonic-Clonic Seizure	normalName:tonic-clonic seizure	normalWikiTitle:tonic-clonic seizure	predictedType:Disease
+CANDIDATE	id:12640	inCount:54	outCount:1	links:13226;4830	url:D012640	name:Seizure, Tonic-Clonic	normalName:seizure, tonic-clonic	normalWikiTitle:seizure, tonic-clonic	predictedType:Disease
+CANDIDATE	id:12640	inCount:54	outCount:1	links:13226;4830	url:D012640	name:Tonic Clonic Seizures	normalName:tonic clonic seizures	normalWikiTitle:tonic clonic seizures	predictedType:Disease
+CANDIDATE	id:12640	inCount:54	outCount:1	links:13226;4830	url:D012640	name:Tonic-Clonic Seizures	normalName:tonic-clonic seizures	normalWikiTitle:tonic-clonic seizures	predictedType:Disease
 CANDIDATE	id:4830	inCount:1	outCount:1	links:12640	url:D004830	name:Tonic-Clonic Seizure Disorder	normalName:tonic-clonic seizure disorder	normalWikiTitle:tonic-clonic seizure disorder	predictedType:Disease
 CANDIDATE	id:4830	inCount:1	outCount:1	links:12640	url:D004830	name:Seizure Disorder, Tonic-Clonic	normalName:seizure disorder, tonic-clonic	normalWikiTitle:seizure disorder, tonic-clonic	predictedType:Disease
 CANDIDATE	id:4830	inCount:1	outCount:1	links:12640	url:D004830	name:Disorder, Tonic-Clonic Seizure	normalName:disorder, tonic-clonic seizure	normalWikiTitle:disorder, tonic-clonic seizure	predictedType:Disease
 CANDIDATE	id:4830	inCount:1	outCount:1	links:12640	url:D004830	name:Tonic Clonic Seizure Syndrome	normalName:tonic clonic seizure syndrome	normalWikiTitle:tonic clonic seizure syndrome	predictedType:Disease
+ENTITY	text:status epilepticus	normalName:status epilepticus	predictedType:disease	q:true	qid:Q298	docId:9061777	origText:status epilepticus	url:D013226
+CANDIDATE	id:13226	inCount:1	outCount:1	links:12640	url:D013226	name:Status Epilepticus	normalName:status epilepticus	normalWikiTitle:status epilepticus	predictedType:Disease

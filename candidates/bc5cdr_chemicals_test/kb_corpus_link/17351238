@@ -1,8 +1,8 @@
-ENTITY	text:oxygen	normalName:oxygen	predictedType:chemical	q:true	qid:Q416	docId:17351238	origText:oxygen	url:D010100
+ENTITY	text:oxygen	normalName:oxygen	predictedType:chemical	q:true	qid:Q434	docId:17351238	origText:oxygen	url:D010100
 CANDIDATE	id:10100	inCount:11	outCount:2	links:5996	url:D010100	name:Oxygen	normalName:oxygen	normalWikiTitle:oxygen	predictedType:Chemical
-ENTITY	text:glyceryl trinitrate	normalName:glyceryl trinitrate	predictedType:chemical	q:true	qid:Q416	docId:17351238	origText:glyceryl trinitrate	url:D005996
+ENTITY	text:glyceryl trinitrate	normalName:glyceryl trinitrate	predictedType:chemical	q:true	qid:Q434	docId:17351238	origText:glyceryl trinitrate	url:D005996
 CANDIDATE	id:5996	inCount:10	outCount:1	links:10100	url:D005996	name:Trinitrate, Glyceryl	normalName:trinitrate, glyceryl	normalWikiTitle:trinitrate, glyceryl	predictedType:Chemical
-ENTITY	text:atropine sulphate	normalName:atropine sulphate	predictedType:chemical	q:true	qid:Q416	docId:17351238	origText:atropine sulphate	url:D001285
+ENTITY	text:atropine sulphate	normalName:atropine sulphate	predictedType:chemical	q:true	qid:Q434	docId:17351238	origText:atropine sulphate	url:D001285
 CANDIDATE	id:1285	inCount:16	outCount:1	links:	url:D001285	name:Atropine Sulfate	normalName:atropine sulfate	normalWikiTitle:atropine sulfate	predictedType:Chemical
 CANDIDATE	id:17296	inCount:0	outCount:1	links:	url:C017296	name:estrone sulfate	normalName:estrone sulfate	normalWikiTitle:estrone sulfate	predictedType:Chemical
 CANDIDATE	id:2076	inCount:6	outCount:1	links:	url:D002076	name:Butirosin Sulfate	normalName:butirosin sulfate	normalWikiTitle:butirosin sulfate	predictedType:Chemical

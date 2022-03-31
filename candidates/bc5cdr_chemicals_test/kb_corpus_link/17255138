@@ -1,26 +1,26 @@
-ENTITY	text:acetaminophen	normalName:acetaminophen	predictedType:chemical	q:true	qid:Q382	docId:17255138	origText:acetaminophen	url:D000082
-CANDIDATE	id:82	inCount:89	outCount:1	links:7052;4008	url:D000082	name:Acetaminophen	normalName:acetaminophen	normalWikiTitle:acetaminophen	predictedType:Chemical
-ENTITY	text:aspirin	normalName:aspirin	predictedType:chemical	q:true	qid:Q382	docId:17255138	origText:aspirin	url:D001241
-CANDIDATE	id:1241	inCount:106	outCount:1	links:894;9288;116926	url:D001241	name:Aspirin	normalName:aspirin	normalWikiTitle:aspirin	predictedType:Chemical
-ENTITY	text:ibuprofen	normalName:ibuprofen	predictedType:chemical	q:true	qid:Q382	docId:17255138	origText:ibuprofen	url:D007052
-CANDIDATE	id:7052	inCount:34	outCount:1	links:4008;82	url:D007052	name:Ibuprofen	normalName:ibuprofen	normalWikiTitle:ibuprofen	predictedType:Chemical
-ENTITY	text:rofecoxib	normalName:rofecoxib	predictedType:chemical	q:true	qid:Q382	docId:17255138	origText:rofecoxib	url:C116926
-CANDIDATE	id:116926	inCount:0	outCount:2	links:52246;9288;894;1241	url:C116926	name:rofecoxib	normalName:rofecoxib	normalWikiTitle:rofecoxib	predictedType:Chemical
-ENTITY	text:COX-2 inhibitors	normalName:cox-2 inhibitors	predictedType:chemical	q:true	qid:Q382	docId:17255138	origText:COX-2 inhibitors	url:D052246
-CANDIDATE	id:52246	inCount:0	outCount:1	links:894;9288;116926	url:D052246	name:Inhibitors, COX-2	normalName:inhibitors, cox-2	normalWikiTitle:inhibitors, cox-2	predictedType:Chemical
-ENTITY	text:naproxen	normalName:naproxen	predictedType:chemical	q:true	qid:Q382	docId:17255138	origText:naproxen	url:D009288
-CANDIDATE	id:9288	inCount:25	outCount:1	links:52246;894;116926;1241	url:D009288	name:Naproxen	normalName:naproxen	normalWikiTitle:naproxen	predictedType:Chemical
-ENTITY	text:non-steroidal anti-inflammatory drugs	normalName:non-steroidal anti-inflammatory drugs	predictedType:chemical	q:true	qid:Q382	docId:17255138	origText:non-steroidal anti-inflammatory drugs	url:D000894
-CANDIDATE	id:894	inCount:1	outCount:3	links:52246;9288;116926;1241	url:D000894	name:Antiinflammatory Agents, Non Steroidal	normalName:antiinflammatory agents, non steroidal	normalWikiTitle:antiinflammatory agents, non steroidal	predictedType:Chemical
-CANDIDATE	id:894	inCount:1	outCount:3	links:52246;9288;116926;1241	url:D000894	name:Anti-Inflammatory Agents, Non-Steroidal	normalName:anti-inflammatory agents, non-steroidal	normalWikiTitle:anti-inflammatory agents, non-steroidal	predictedType:Chemical
+ENTITY	text:COX-2 inhibitors	normalName:cox-2 inhibitors	predictedType:chemical	q:true	qid:Q431	docId:17255138	origText:COX-2 inhibitors	url:D052246
+CANDIDATE	id:52246	inCount:0	outCount:1	links:116926;9288;894	url:D052246	name:Inhibitors, COX-2	normalName:inhibitors, cox-2	normalWikiTitle:inhibitors, cox-2	predictedType:Chemical
+ENTITY	text:non-steroidal anti-inflammatory drugs	normalName:non-steroidal anti-inflammatory drugs	predictedType:chemical	q:true	qid:Q431	docId:17255138	origText:non-steroidal anti-inflammatory drugs	url:D000894
+CANDIDATE	id:894	inCount:1	outCount:3	links:116926;1241;9288;52246;82	url:D000894	name:Antiinflammatory Agents, Non Steroidal	normalName:antiinflammatory agents, non steroidal	normalWikiTitle:antiinflammatory agents, non steroidal	predictedType:Chemical
+CANDIDATE	id:894	inCount:1	outCount:3	links:116926;1241;9288;52246;82	url:D000894	name:Anti-Inflammatory Agents, Non-Steroidal	normalName:anti-inflammatory agents, non-steroidal	normalWikiTitle:anti-inflammatory agents, non-steroidal	predictedType:Chemical
 CANDIDATE	id:57466	inCount:0	outCount:1	links:	url:D057466	name:Nonsteroidal Anti-Androgens	normalName:nonsteroidal anti-androgens	normalWikiTitle:nonsteroidal anti-androgens	predictedType:Chemical
 CANDIDATE	id:5230	inCount:2	outCount:1	links:	url:D005230	name:Fatty Acids, Nonesterified	normalName:fatty acids, nonesterified	normalWikiTitle:fatty acids, nonesterified	predictedType:Chemical
 CANDIDATE	id:4968	inCount:1	outCount:1	links:	url:D004968	name:Estrogens, Non-Steroidal	normalName:estrogens, non-steroidal	normalWikiTitle:estrogens, non-steroidal	predictedType:Chemical
 CANDIDATE	id:559105	inCount:0	outCount:2	links:	url:C559105	name:EA-4 (ATRA steroidal analog)	normalName:ea-4 (atra steroidal analog)	normalWikiTitle:ea-4 (atra steroidal analog)	predictedType:Chemical
 CANDIDATE	id:20	inCount:0	outCount:1	links:	url:D000020	name:Abortifacient Agents, Nonsteroidal	normalName:abortifacient agents, nonsteroidal	normalWikiTitle:abortifacient agents, nonsteroidal	predictedType:Chemical
-CANDIDATE	id:893	inCount:3	outCount:1	links:	url:D000893	name:Anti-Inflammatory Agents	normalName:anti-inflammatory agents	normalWikiTitle:anti-inflammatory agents	predictedType:Chemical
+CANDIDATE	id:893	inCount:5	outCount:1	links:	url:D000893	name:Anti-Inflammatory Agents	normalName:anti-inflammatory agents	normalWikiTitle:anti-inflammatory agents	predictedType:Chemical
 CANDIDATE	id:68297	inCount:0	outCount:2	links:	url:D000068297	name:Fluticasone-Salmeterol Drug Combination	normalName:fluticasone-salmeterol drug combination	normalWikiTitle:fluticasone-salmeterol drug combination	predictedType:Chemical
 CANDIDATE	id:21	inCount:0	outCount:1	links:	url:D000021	name:Abortifacient Agents, Steroidal	normalName:abortifacient agents, steroidal	normalWikiTitle:abortifacient agents, steroidal	predictedType:Chemical
 CANDIDATE	id:1850	inCount:0	outCount:3	links:	url:C001850	name:escin, flavonoid, phospholipid drug combination	normalName:escin, flavonoid, phospholipid drug combination	normalWikiTitle:escin, flavonoid, phospholipid drug combination	predictedType:Chemical
-ENTITY	text:diclofenac	normalName:diclofenac	predictedType:chemical	q:true	qid:Q382	docId:17255138	origText:diclofenac	url:D004008
+ENTITY	text:acetaminophen	normalName:acetaminophen	predictedType:chemical	q:true	qid:Q431	docId:17255138	origText:acetaminophen	url:D000082
+CANDIDATE	id:82	inCount:89	outCount:1	links:7052;4008;1241;9288;894	url:D000082	name:Acetaminophen	normalName:acetaminophen	normalWikiTitle:acetaminophen	predictedType:Chemical
+ENTITY	text:aspirin	normalName:aspirin	predictedType:chemical	q:true	qid:Q431	docId:17255138	origText:aspirin	url:D001241
+CANDIDATE	id:1241	inCount:106	outCount:1	links:116926;82;9288;894	url:D001241	name:Aspirin	normalName:aspirin	normalWikiTitle:aspirin	predictedType:Chemical
+ENTITY	text:rofecoxib	normalName:rofecoxib	predictedType:chemical	q:true	qid:Q431	docId:17255138	origText:rofecoxib	url:C116926
+CANDIDATE	id:116926	inCount:0	outCount:2	links:52246;1241;9288;894	url:C116926	name:rofecoxib	normalName:rofecoxib	normalWikiTitle:rofecoxib	predictedType:Chemical
+ENTITY	text:naproxen	normalName:naproxen	predictedType:chemical	q:true	qid:Q431	docId:17255138	origText:naproxen	url:D009288
+CANDIDATE	id:9288	inCount:25	outCount:1	links:116926;1241;894;52246;82	url:D009288	name:Naproxen	normalName:naproxen	normalWikiTitle:naproxen	predictedType:Chemical
+ENTITY	text:diclofenac	normalName:diclofenac	predictedType:chemical	q:true	qid:Q431	docId:17255138	origText:diclofenac	url:D004008
 CANDIDATE	id:4008	inCount:32	outCount:1	links:7052;82	url:D004008	name:Diclofenac	normalName:diclofenac	normalWikiTitle:diclofenac	predictedType:Chemical
+ENTITY	text:ibuprofen	normalName:ibuprofen	predictedType:chemical	q:true	qid:Q431	docId:17255138	origText:ibuprofen	url:D007052
+CANDIDATE	id:7052	inCount:34	outCount:1	links:82;4008	url:D007052	name:Ibuprofen	normalName:ibuprofen	normalWikiTitle:ibuprofen	predictedType:Chemical

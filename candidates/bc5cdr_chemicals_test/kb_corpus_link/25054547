@@ -1,12 +1,12 @@
-ENTITY	text:fluoride	normalName:fluoride	predictedType:chemical	q:true	qid:Q440	docId:25054547	origText:fluoride	url:D005459
-CANDIDATE	id:5459	inCount:82	outCount:2	links:	url:D005459	name:Fluoride	normalName:fluoride	normalWikiTitle:fluoride	predictedType:Chemical
-ENTITY	text:benzoylcholine	normalName:benzoylcholine	predictedType:chemical	q:true	qid:Q440	docId:25054547	origText:benzoylcholine	url:D001588
-CANDIDATE	id:1588	inCount:5	outCount:2	links:	url:D001588	name:Benzoylcholine	normalName:benzoylcholine	normalWikiTitle:benzoylcholine	predictedType:Chemical
-ENTITY	text:butyrylthiocholine	normalName:butyrylthiocholine	predictedType:chemical	q:true	qid:Q440	docId:25054547	origText:butyrylthiocholine	url:D002092
-CANDIDATE	id:2092	inCount:0	outCount:1	links:	url:D002092	name:Butyrylthiocholine	normalName:butyrylthiocholine	normalWikiTitle:butyrylthiocholine	predictedType:Chemical
-ENTITY	text:hydrogen	normalName:hydrogen	predictedType:chemical	q:true	qid:Q440	docId:25054547	origText:hydrogen	url:D006859
-CANDIDATE	id:6859	inCount:7	outCount:2	links:	url:D006859	name:Hydrogen	normalName:hydrogen	normalWikiTitle:hydrogen	predictedType:Chemical
-ENTITY	text:suxamethonium	normalName:suxamethonium	predictedType:chemical	q:true	qid:Q440	docId:25054547	origText:suxamethonium	url:D013390
+ENTITY	text:suxamethonium	normalName:suxamethonium	predictedType:chemical	q:true	qid:Q89	docId:25054547	origText:suxamethonium	url:D013390
 CANDIDATE	id:13390	inCount:3	outCount:2	links:	url:D013390	name:Suxamethonium	normalName:suxamethonium	normalWikiTitle:suxamethonium	predictedType:Chemical
-ENTITY	text:dibucaine	normalName:dibucaine	predictedType:chemical	q:true	qid:Q440	docId:25054547	origText:dibucaine	url:D003992
+ENTITY	text:butyrylthiocholine	normalName:butyrylthiocholine	predictedType:chemical	q:true	qid:Q89	docId:25054547	origText:butyrylthiocholine	url:D002092
+CANDIDATE	id:2092	inCount:0	outCount:1	links:	url:D002092	name:Butyrylthiocholine	normalName:butyrylthiocholine	normalWikiTitle:butyrylthiocholine	predictedType:Chemical
+ENTITY	text:benzoylcholine	normalName:benzoylcholine	predictedType:chemical	q:true	qid:Q89	docId:25054547	origText:benzoylcholine	url:D001588
+CANDIDATE	id:1588	inCount:5	outCount:2	links:	url:D001588	name:Benzoylcholine	normalName:benzoylcholine	normalWikiTitle:benzoylcholine	predictedType:Chemical
+ENTITY	text:dibucaine	normalName:dibucaine	predictedType:chemical	q:true	qid:Q89	docId:25054547	origText:dibucaine	url:D003992
 CANDIDATE	id:3992	inCount:8	outCount:2	links:	url:D003992	name:Dibucaine	normalName:dibucaine	normalWikiTitle:dibucaine	predictedType:Chemical
+ENTITY	text:fluoride	normalName:fluoride	predictedType:chemical	q:true	qid:Q89	docId:25054547	origText:fluoride	url:D005459
+CANDIDATE	id:5459	inCount:82	outCount:2	links:	url:D005459	name:Fluoride	normalName:fluoride	normalWikiTitle:fluoride	predictedType:Chemical
+ENTITY	text:hydrogen	normalName:hydrogen	predictedType:chemical	q:true	qid:Q89	docId:25054547	origText:hydrogen	url:D006859
+CANDIDATE	id:6859	inCount:7	outCount:2	links:	url:D006859	name:Hydrogen	normalName:hydrogen	normalWikiTitle:hydrogen	predictedType:Chemical

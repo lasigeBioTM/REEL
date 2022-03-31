@@ -1,40 +1,38 @@
-ENTITY	text:stroke	normalName:stroke	predictedType:disease	q:true	qid:Q203	docId:19392810	origText:stroke	url:D020521
-CANDIDATE	id:20521	inCount:2	outCount:1	links:12206;20520;2544	url:D020521	name:Stroke	normalName:stroke	normalWikiTitle:stroke	predictedType:Disease
-ENTITY	text:heroin abuse	normalName:heroin abuse	predictedType:disease	q:true	qid:Q203	docId:19392810	origText:heroin abuse	url:D006556
+ENTITY	text:Rhabdomyolysis	normalName:rhabdomyolysis	predictedType:disease	q:true	qid:Q466	docId:19392810	origText:Rhabdomyolysis	url:D012206
+CANDIDATE	id:12206	inCount:3	outCount:1	links:58186;12131;6948;2545;20520;20521;2544	url:D012206	name:Rhabdomyolysis	normalName:rhabdomyolysis	normalWikiTitle:rhabdomyolysis	predictedType:Disease
+ENTITY	text:heroin abuse	normalName:heroin abuse	predictedType:disease	q:true	qid:Q466	docId:19392810	origText:heroin abuse	url:D006556
 CANDIDATE	id:6556	inCount:0	outCount:1	links:	url:D006556	name:Abuse, Heroin	normalName:abuse, heroin	normalWikiTitle:abuse, heroin	predictedType:Disease
-ENTITY	text:unconsciousness	normalName:unconsciousness	predictedType:disease	q:true	qid:Q203	docId:19392810	origText:unconsciousness	url:D014474
+ENTITY	text:unconsciousness	normalName:unconsciousness	predictedType:disease	q:true	qid:Q466	docId:19392810	origText:unconsciousness	url:D014474
 CANDIDATE	id:14474	inCount:4	outCount:1	links:58186	url:D014474	name:Unconsciousness	normalName:unconsciousness	normalWikiTitle:unconsciousness	predictedType:Disease
-ENTITY	text:acute renal failure	normalName:acute renal failure	predictedType:disease	q:true	qid:Q203	docId:19392810	origText:acute renal failure	url:D058186
-CANDIDATE	id:58186	inCount:2	outCount:1	links:14474;1037;18908	url:D058186	name:Acute Renal Failure	normalName:acute renal failure	normalWikiTitle:acute renal failure	predictedType:Disease
-ENTITY	text:aphasia	normalName:aphasia	predictedType:disease	q:true	qid:Q203	docId:19392810	origText:aphasia	url:D001037
-CANDIDATE	id:1037	inCount:5	outCount:1	links:18908;58186	url:D001037	name:Aphasia	normalName:aphasia	normalWikiTitle:aphasia	predictedType:Disease
-ENTITY	text:ischemic stroke	normalName:ischemic stroke	predictedType:disease	q:true	qid:Q203	docId:19392810	origText:ischemic stroke	url:D002544
-CANDIDATE	id:2544	inCount:5	outCount:1	links:20521;2544	url:D002544	name:STROKE, ISCHEMIC	normalName:stroke, ischemic	normalWikiTitle:stroke, ischemic	predictedType:Disease
-ENTITY	text:weakness	normalName:weakness	predictedType:disease	q:true	qid:Q203	docId:19392810	origText:weakness	url:D018908
-CANDIDATE	id:18908	inCount:6	outCount:3	links:1037;58186	url:D018908	name:Muscle Weakness	normalName:muscle weakness	normalWikiTitle:muscle weakness	predictedType:Disease
+ENTITY	text:acute renal failure	normalName:acute renal failure	predictedType:disease	q:true	qid:Q466	docId:19392810	origText:acute renal failure	url:D058186
+CANDIDATE	id:58186	inCount:2	outCount:1	links:12131;6948;2545;12206;1037;20521;2544;18908;14474	url:D058186	name:Acute Renal Failure	normalName:acute renal failure	normalWikiTitle:acute renal failure	predictedType:Disease
+ENTITY	text:respiratory failure	normalName:respiratory failure	predictedType:disease	q:true	qid:Q466	docId:19392810	origText:respiratory failure	url:D012131
+CANDIDATE	id:12131	inCount:13	outCount:1	links:58186;12206	url:D012131	name:Respiratory Failure	normalName:respiratory failure	normalWikiTitle:respiratory failure	predictedType:Disease
+ENTITY	text:aphasia	normalName:aphasia	predictedType:disease	q:true	qid:Q466	docId:19392810	origText:aphasia	url:D001037
+CANDIDATE	id:1037	inCount:5	outCount:1	links:58186;18908	url:D001037	name:Aphasia	normalName:aphasia	normalWikiTitle:aphasia	predictedType:Disease
+ENTITY	text:weakness	normalName:weakness	predictedType:disease	q:true	qid:Q466	docId:19392810	origText:weakness	url:D018908
+CANDIDATE	id:18908	inCount:6	outCount:3	links:58186;1037	url:D018908	name:Muscle Weakness	normalName:muscle weakness	normalWikiTitle:muscle weakness	predictedType:Disease
 CANDIDATE	id:3638	inCount:110	outCount:1	links:	url:D003638	name:Deafness	normalName:deafness	normalWikiTitle:deafness	predictedType:Disease
 CANDIDATE	id:4775	inCount:2	outCount:2	links:	url:D004775	name:Enuresis	normalName:enuresis	normalWikiTitle:enuresis	predictedType:Disease
-CANDIDATE	id:6948	inCount:1	outCount:1	links:	url:D006948	name:Hyperkinesis	normalName:hyperkinesis	normalWikiTitle:hyperkinesis	predictedType:Disease
+CANDIDATE	id:6948	inCount:1	outCount:1	links:58186;2545;12206;20521;2544	url:D006948	name:Hyperkinesis	normalName:hyperkinesis	normalWikiTitle:hyperkinesis	predictedType:Disease
 CANDIDATE	id:8548	inCount:4	outCount:1	links:	url:D008548	name:Melanosis	normalName:melanosis	normalWikiTitle:melanosis	predictedType:Disease
 CANDIDATE	id:566019	inCount:0	outCount:1	links:	url:C566019	name:Tune Deafness	normalName:tune deafness	normalWikiTitle:tune deafness	predictedType:Disease
 CANDIDATE	id:4428	inCount:0	outCount:2	links:	url:D004428	name:Ear Neoplasms	normalName:ear neoplasms	normalWikiTitle:ear neoplasms	predictedType:Disease
 CANDIDATE	id:64793	inCount:0	outCount:1	links:	url:D064793	name:Teratogenesis	normalName:teratogenesis	normalWikiTitle:teratogenesis	predictedType:Disease
 CANDIDATE	id:46608	inCount:2	outCount:1	links:	url:D046608	name:Synkinesis	normalName:synkinesis	normalWikiTitle:synkinesis	predictedType:Disease
 CANDIDATE	id:77260	inCount:0	outCount:1	links:	url:D000077260	name:Sleepiness	normalName:sleepiness	normalWikiTitle:sleepiness	predictedType:Disease
-ENTITY	text:cerebral ischemic infarction	normalName:cerebral ischemic infarction	predictedType:disease	q:true	qid:Q203	docId:19392810	origText:cerebral ischemic infarction	url:D002544
-CANDIDATE	id:2544	inCount:5	outCount:1	links:20521;2544	url:D002544	name:Cerebral Infarctions	normalName:cerebral infarctions	normalWikiTitle:cerebral infarctions	predictedType:Disease
-CANDIDATE	id:2544	inCount:5	outCount:1	links:20521;2544	url:D002544	name:Cerebral Infarction	normalName:cerebral infarction	normalWikiTitle:cerebral infarction	predictedType:Disease
+ENTITY	text:cerebral ischemic infarction	normalName:cerebral ischemic infarction	predictedType:disease	q:true	qid:Q466	docId:19392810	origText:cerebral ischemic infarction	url:D002544
+CANDIDATE	id:2544	inCount:6	outCount:1	links:20521;58186;12206;6948	url:D002544	name:Cerebral Infarctions	normalName:cerebral infarctions	normalWikiTitle:cerebral infarctions	predictedType:Disease
+CANDIDATE	id:2544	inCount:6	outCount:1	links:20521;58186;12206;6948	url:D002544	name:Cerebral Infarction	normalName:cerebral infarction	normalWikiTitle:cerebral infarction	predictedType:Disease
 CANDIDATE	id:20762	inCount:0	outCount:2	links:	url:D020762	name:Infarction, Posterior Cerebral Artery	normalName:infarction, posterior cerebral artery	normalWikiTitle:infarction, posterior cerebral artery	predictedType:Disease
 CANDIDATE	id:20526	inCount:2	outCount:1	links:	url:D020526	name:Brain Stem Infarctions	normalName:brain stem infarctions	normalWikiTitle:brain stem infarctions	predictedType:Disease
 CANDIDATE	id:20244	inCount:0	outCount:2	links:	url:D020244	name:Infarction, Middle Cerebral Artery	normalName:infarction, middle cerebral artery	normalWikiTitle:infarction, middle cerebral artery	predictedType:Disease
-CANDIDATE	id:13159	inCount:0	outCount:2	links:	url:D013159	name:Splenic Infarction	normalName:splenic infarction	normalWikiTitle:splenic infarction	predictedType:Disease
+CANDIDATE	id:13159	inCount:0	outCount:3	links:	url:D013159	name:Splenic Infarction	normalName:splenic infarction	normalWikiTitle:splenic infarction	predictedType:Disease
 CANDIDATE	id:17091	inCount:0	outCount:2	links:	url:D017091	name:Colitis, Ischemic	normalName:colitis, ischemic	normalWikiTitle:colitis, ischemic	predictedType:Disease
 CANDIDATE	id:537946	inCount:0	outCount:2	links:	url:C537946	name:Cerebral sarcoma	normalName:cerebral sarcoma	normalWikiTitle:cerebral sarcoma	predictedType:Disease
-CANDIDATE	id:20520	inCount:2	outCount:2	links:20521;12206	url:D020520	name:Brain Infarction	normalName:brain infarction	normalWikiTitle:brain infarction	predictedType:Disease
+CANDIDATE	id:20520	inCount:3	outCount:3	links:20521;12206	url:D020520	name:Brain Infarction	normalName:brain infarction	normalWikiTitle:brain infarction	predictedType:Disease
 CANDIDATE	id:1424	inCount:12	outCount:1	links:	url:D001424	name:Bacterial Infections	normalName:bacterial infections	normalWikiTitle:bacterial infections	predictedType:Disease
-CANDIDATE	id:2545	inCount:4	outCount:1	links:	url:D002545	name:Brain Ischemia	normalName:brain ischemia	normalWikiTitle:brain ischemia	predictedType:Disease
-CANDIDATE	id:2544	inCount:5	outCount:1	links:20521;2544	url:D002544	name:Infarctions, Cerebral	normalName:infarctions, cerebral	normalWikiTitle:infarctions, cerebral	predictedType:Disease
-ENTITY	text:respiratory failure	normalName:respiratory failure	predictedType:disease	q:true	qid:Q203	docId:19392810	origText:respiratory failure	url:D012131
-CANDIDATE	id:12131	inCount:13	outCount:1	links:	url:D012131	name:Respiratory Failure	normalName:respiratory failure	normalWikiTitle:respiratory failure	predictedType:Disease
-ENTITY	text:Rhabdomyolysis	normalName:rhabdomyolysis	predictedType:disease	q:true	qid:Q203	docId:19392810	origText:Rhabdomyolysis	url:D012206
-CANDIDATE	id:12206	inCount:3	outCount:1	links:20521;20520	url:D012206	name:Rhabdomyolysis	normalName:rhabdomyolysis	normalWikiTitle:rhabdomyolysis	predictedType:Disease
+CANDIDATE	id:2545	inCount:4	outCount:1	links:20521;58186;12206;6948	url:D002545	name:Brain Ischemia	normalName:brain ischemia	normalWikiTitle:brain ischemia	predictedType:Disease
+CANDIDATE	id:2544	inCount:6	outCount:1	links:20521;58186;12206;6948	url:D002544	name:Infarctions, Cerebral	normalName:infarctions, cerebral	normalWikiTitle:infarctions, cerebral	predictedType:Disease
+ENTITY	text:stroke	normalName:stroke	predictedType:disease	q:true	qid:Q466	docId:19392810	origText:stroke	url:D020521
+CANDIDATE	id:20521	inCount:3	outCount:1	links:58186;6948;2545;20520;12206;2544	url:D020521	name:Stroke	normalName:stroke	normalWikiTitle:stroke	predictedType:Disease

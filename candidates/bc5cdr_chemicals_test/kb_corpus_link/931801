@@ -1,21 +1,6 @@
-ENTITY	text:hexauronic acids	normalName:hexauronic acids	predictedType:chemical	q:true	qid:Q121	docId:931801	origText:hexauronic acids	url:D006603
-CANDIDATE	id:6603	inCount:29	outCount:1	links:	url:D006603	name:Hexuronic Acids	normalName:hexuronic acids	normalWikiTitle:hexuronic acids	predictedType:Chemical
-CANDIDATE	id:95263	inCount:0	outCount:1	links:	url:C095263	name:hexenuronic acid	normalName:hexenuronic acid	normalWikiTitle:hexenuronic acid	predictedType:Chemical
-CANDIDATE	id:14574	inCount:32	outCount:2	links:	url:D014574	name:Uronic Acids	normalName:uronic acids	normalWikiTitle:uronic acids	predictedType:Chemical
-CANDIDATE	id:6820	inCount:64	outCount:1	links:	url:D006820	name:Hyaluronic Acid	normalName:hyaluronic acid	normalWikiTitle:hyaluronic acid	predictedType:Chemical
-CANDIDATE	id:37652	inCount:0	outCount:1	links:	url:C037652	name:hexanoic acid	normalName:hexanoic acid	normalWikiTitle:hexanoic acid	predictedType:Chemical
-CANDIDATE	id:54806	inCount:0	outCount:1	links:	url:C054806	name:arsonic acid	normalName:arsonic acid	normalWikiTitle:arsonic acid	predictedType:Chemical
-CANDIDATE	id:657350	inCount:0	outCount:1	links:	url:C000657350	name:ursonic acid	normalName:ursonic acid	normalWikiTitle:ursonic acid	predictedType:Chemical
-CANDIDATE	id:17364	inCount:0	outCount:1	links:	url:C017364	name:hexacosanoic acid	normalName:hexacosanoic acid	normalWikiTitle:hexacosanoic acid	predictedType:Chemical
-CANDIDATE	id:7850	inCount:51	outCount:1	links:	url:D007850	name:Lauric Acids	normalName:lauric acids	normalWikiTitle:lauric acids	predictedType:Chemical
-CANDIDATE	id:8324	inCount:0	outCount:1	links:	url:C008324	name:mannuronic acid	normalName:mannuronic acid	normalWikiTitle:mannuronic acid	predictedType:Chemical
-ENTITY	text:saccharic acid	normalName:saccharic acid	predictedType:chemical	q:true	qid:Q121	docId:931801	origText:saccharic acid	url:D005937
-CANDIDATE	id:5937	inCount:12	outCount:1	links:5937	url:D005937	name:Acid, Saccharic	normalName:acid, saccharic	normalWikiTitle:acid, saccharic	predictedType:Chemical
-ENTITY	text:sugar alcohols	normalName:sugar alcohols	predictedType:chemical	q:true	qid:Q121	docId:931801	origText:sugar alcohols	url:D013402
-CANDIDATE	id:13402	inCount:85	outCount:2	links:	url:D013402	name:Sugar Alcohols	normalName:sugar alcohols	normalWikiTitle:sugar alcohols	predictedType:Chemical
-ENTITY	text:D-Glucarates	normalName:d-glucarates	predictedType:chemical	q:true	qid:Q121	docId:931801	origText:D-Glucarates	url:D005937
+ENTITY	text:D-Glucarates	normalName:d-glucarates	predictedType:chemical	q:true	qid:Q136	docId:931801	origText:D-Glucarates	url:D005937
 CANDIDATE	id:5937	inCount:12	outCount:1	links:5937	url:D005937	name:Glucaric Acid	normalName:glucaric acid	normalWikiTitle:glucaric acid	predictedType:Chemical
-CANDIDATE	id:5977	inCount:84	outCount:1	links:5977	url:D005977	name:Glutarates	normalName:glutarates	normalWikiTitle:glutarates	predictedType:Chemical
+CANDIDATE	id:5977	inCount:86	outCount:1	links:5977	url:D005977	name:Glutarates	normalName:glutarates	normalWikiTitle:glutarates	predictedType:Chemical
 CANDIDATE	id:1289	inCount:0	outCount:1	links:1289	url:C001289	name:d-glucal	normalName:d-glucal	normalWikiTitle:d-glucal	predictedType:Chemical
 CANDIDATE	id:73363	inCount:0	outCount:1	links:73363	url:C073363	name:diethyl glutarate	normalName:diethyl glutarate	normalWikiTitle:diethyl glutarate	predictedType:Chemical
 CANDIDATE	id:38986	inCount:0	outCount:1	links:38986	url:C038986	name:glunicate	normalName:glunicate	normalWikiTitle:glunicate	predictedType:Chemical
@@ -24,16 +9,12 @@ CANDIDATE	id:67353	inCount:0	outCount:1	links:67353	url:C067353	name:dimethyl gl
 CANDIDATE	id:487589	inCount:0	outCount:2	links:487589	url:C487589	name:dimenthyl glutarate	normalName:dimenthyl glutarate	normalWikiTitle:dimenthyl glutarate	predictedType:Chemical
 CANDIDATE	id:7759	inCount:0	outCount:1	links:7759	url:C007759	name:flucrylate	normalName:flucrylate	normalWikiTitle:flucrylate	predictedType:Chemical
 CANDIDATE	id:514505	inCount:0	outCount:1	links:514505	url:C514505	name:2-thiolglutarate	normalName:2-thiolglutarate	normalWikiTitle:2-thiolglutarate	predictedType:Chemical
-CANDIDATE	id:18698	inCount:53	outCount:2	links:18698	url:D018698	name:D-Glutamate	normalName:d-glutamate	normalWikiTitle:d-glutamate	predictedType:Chemical
-CANDIDATE	id:18698	inCount:53	outCount:2	links:18698	url:D018698	name:D Glutamate	normalName:d glutamate	normalWikiTitle:d glutamate	predictedType:Chemical
+CANDIDATE	id:18698	inCount:54	outCount:2	links:18698	url:D018698	name:D-Glutamate	normalName:d-glutamate	normalWikiTitle:d-glutamate	predictedType:Chemical
+CANDIDATE	id:18698	inCount:54	outCount:2	links:18698	url:D018698	name:D Glutamate	normalName:d glutamate	normalWikiTitle:d glutamate	predictedType:Chemical
 CANDIDATE	id:30691	inCount:0	outCount:1	links:30691	url:C030691	name:D-gluconate	normalName:d-gluconate	normalWikiTitle:d-gluconate	predictedType:Chemical
 CANDIDATE	id:67171	inCount:0	outCount:2	links:67171	url:C067171	name:99mTc glucarate	normalName:99mtc glucarate	normalWikiTitle:99mtc glucarate	predictedType:Chemical
-ENTITY	text:kanamycin	normalName:kanamycin	predictedType:chemical	q:true	qid:Q121	docId:931801	origText:kanamycin	url:D007612
-CANDIDATE	id:7612	inCount:29	outCount:1	links:617	url:D007612	name:Kanamycin	normalName:kanamycin	normalWikiTitle:kanamycin	predictedType:Chemical
-ENTITY	text:monosaccharides	normalName:monosaccharides	predictedType:chemical	q:true	qid:Q121	docId:931801	origText:monosaccharides	url:D009005
-CANDIDATE	id:9005	inCount:266	outCount:1	links:	url:D009005	name:Monosaccharides	normalName:monosaccharides	normalWikiTitle:monosaccharides	predictedType:Chemical
-ENTITY	text:aminoglycoside	normalName:aminoglycoside	predictedType:chemical	q:true	qid:Q121	docId:931801	origText:aminoglycoside	url:D000617
-CANDIDATE	id:617	inCount:339	outCount:1	links:7612	url:D000617	name:Aminoglycosides	normalName:aminoglycosides	normalWikiTitle:aminoglycosides	predictedType:Chemical
+ENTITY	text:aminoglycoside	normalName:aminoglycoside	predictedType:chemical	q:true	qid:Q136	docId:931801	origText:aminoglycoside	url:D000617
+CANDIDATE	id:617	inCount:340	outCount:1	links:7612	url:D000617	name:Aminoglycosides	normalName:aminoglycosides	normalWikiTitle:aminoglycosides	predictedType:Chemical
 CANDIDATE	id:572445	inCount:0	outCount:2	links:	url:C572445	name:aminoglycoside NB84	normalName:aminoglycoside nb84	normalWikiTitle:aminoglycoside nb84	predictedType:Chemical
 CANDIDATE	id:20970	inCount:0	outCount:1	links:	url:C020970	name:aminoglycogen	normalName:aminoglycogen	normalWikiTitle:aminoglycogen	predictedType:Chemical
 CANDIDATE	id:15614	inCount:0	outCount:1	links:	url:C015614	name:aminoglycoside 66-40C	normalName:aminoglycoside 66-40c	normalWikiTitle:aminoglycoside 66-40c	predictedType:Chemical
@@ -43,22 +24,7 @@ CANDIDATE	id:87807	inCount:0	outCount:1	links:	url:C087807	name:daucoglycoside	n
 CANDIDATE	id:33013	inCount:0	outCount:1	links:	url:C033013	name:iminoglycine	normalName:iminoglycine	normalWikiTitle:iminoglycine	predictedType:Chemical
 CANDIDATE	id:507900	inCount:0	outCount:1	links:	url:C507900	name:diaminoglyoxime	normalName:diaminoglyoxime	normalWikiTitle:diaminoglyoxime	predictedType:Chemical
 CANDIDATE	id:51618	inCount:0	outCount:1	links:	url:C051618	name:mycoside A	normalName:mycoside a	normalWikiTitle:mycoside a	predictedType:Chemical
-ENTITY	text:D-glucarate	normalName:d-glucarate	predictedType:chemical	q:true	qid:Q121	docId:931801	origText:D-glucarate	url:D005937
-CANDIDATE	id:5937	inCount:12	outCount:1	links:5937	url:D005937	name:Glucaric Acid	normalName:glucaric acid	normalWikiTitle:glucaric acid	predictedType:Chemical
-CANDIDATE	id:5977	inCount:84	outCount:1	links:5977	url:D005977	name:Glutarates	normalName:glutarates	normalWikiTitle:glutarates	predictedType:Chemical
-CANDIDATE	id:1289	inCount:0	outCount:1	links:1289	url:C001289	name:d-glucal	normalName:d-glucal	normalWikiTitle:d-glucal	predictedType:Chemical
-CANDIDATE	id:73363	inCount:0	outCount:1	links:73363	url:C073363	name:diethyl glutarate	normalName:diethyl glutarate	normalWikiTitle:diethyl glutarate	predictedType:Chemical
-CANDIDATE	id:38986	inCount:0	outCount:1	links:38986	url:C038986	name:glunicate	normalName:glunicate	normalWikiTitle:glunicate	predictedType:Chemical
-CANDIDATE	id:5965	inCount:135	outCount:1	links:5965	url:D005965	name:Glucuronates	normalName:glucuronates	normalWikiTitle:glucuronates	predictedType:Chemical
-CANDIDATE	id:67353	inCount:0	outCount:1	links:67353	url:C067353	name:dimethyl glutarate	normalName:dimethyl glutarate	normalWikiTitle:dimethyl glutarate	predictedType:Chemical
-CANDIDATE	id:487589	inCount:0	outCount:2	links:487589	url:C487589	name:dimenthyl glutarate	normalName:dimenthyl glutarate	normalWikiTitle:dimenthyl glutarate	predictedType:Chemical
-CANDIDATE	id:7759	inCount:0	outCount:1	links:7759	url:C007759	name:flucrylate	normalName:flucrylate	normalWikiTitle:flucrylate	predictedType:Chemical
-CANDIDATE	id:514505	inCount:0	outCount:1	links:514505	url:C514505	name:2-thiolglutarate	normalName:2-thiolglutarate	normalWikiTitle:2-thiolglutarate	predictedType:Chemical
-CANDIDATE	id:18698	inCount:53	outCount:2	links:18698	url:D018698	name:D-Glutamate	normalName:d-glutamate	normalWikiTitle:d-glutamate	predictedType:Chemical
-CANDIDATE	id:18698	inCount:53	outCount:2	links:18698	url:D018698	name:D Glutamate	normalName:d glutamate	normalWikiTitle:d glutamate	predictedType:Chemical
-CANDIDATE	id:30691	inCount:0	outCount:1	links:30691	url:C030691	name:D-gluconate	normalName:d-gluconate	normalWikiTitle:d-gluconate	predictedType:Chemical
-CANDIDATE	id:67171	inCount:0	outCount:2	links:67171	url:C067171	name:99mTc glucarate	normalName:99mtc glucarate	normalWikiTitle:99mtc glucarate	predictedType:Chemical
-ENTITY	text:2,5-di-O-acetyl-D-glucaro-1,4-6,3-dilactone	normalName:2,5-di-o-acetyl-d-glucaro-1,4-6,3-dilactone	predictedType:chemical	q:true	qid:Q121	docId:931801	origText:2,5-di-O-acetyl-D-glucaro-1,4-6,3-dilactone	url:C038936
+ENTITY	text:2,5-di-O-acetyl-D-glucaro-1,4-6,3-dilactone	normalName:2,5-di-o-acetyl-d-glucaro-1,4-6,3-dilactone	predictedType:chemical	q:true	qid:Q136	docId:931801	origText:2,5-di-O-acetyl-D-glucaro-1,4-6,3-dilactone	url:C038936
 CANDIDATE	id:38936	inCount:0	outCount:1	links:	url:C038936	name:diacetyl glucaro-(1,4)-(6-3)-dilactone	normalName:diacetyl glucaro-(1,4)-(6-3)-dilactone	normalWikiTitle:diacetyl glucaro-(1,4)-(6-3)-dilactone	predictedType:Chemical
 CANDIDATE	id:546107	inCount:0	outCount:2	links:	url:C546107	name:D-glucaro-1,4:6,3-dilactone	normalName:d-glucaro-1,4:6,3-dilactone	normalWikiTitle:d-glucaro-1,4:6,3-dilactone	predictedType:Chemical
 CANDIDATE	id:67741	inCount:0	outCount:1	links:	url:C067741	name:1,2,3,4,5,6-hexa-O-acetyl-myo-inositol	normalName:1,2,3,4,5,6-hexa-o-acetyl-myo-inositol	normalWikiTitle:1,2,3,4,5,6-hexa-o-acetyl-myo-inositol	predictedType:Chemical
@@ -71,3 +37,37 @@ CANDIDATE	id:99557	inCount:0	outCount:1	links:	url:C099557	name:poly((1-6)-2,5-a
 CANDIDATE	id:622626	inCount:0	outCount:1	links:	url:C000622626	name:1,3,4,6-tetra-O-acetyl-5-thioglucopyranose	normalName:1,3,4,6-tetra-o-acetyl-5-thioglucopyranose	normalWikiTitle:1,3,4,6-tetra-o-acetyl-5-thioglucopyranose	predictedType:Chemical
 CANDIDATE	id:492707	inCount:0	outCount:2	links:	url:C492707	name:1-O-acetyl-4R,6S-britannilactone	normalName:1-o-acetyl-4r,6s-britannilactone	normalWikiTitle:1-o-acetyl-4r,6s-britannilactone	predictedType:Chemical
 CANDIDATE	id:38936	inCount:0	outCount:1	links:	url:C038936	name:2,5-di-O-acetyl glucaro-(1,4)-(6-3)-dilactone	normalName:2,5-di-o-acetyl glucaro-(1,4)-(6-3)-dilactone	normalWikiTitle:2,5-di-o-acetyl glucaro-(1,4)-(6-3)-dilactone	predictedType:Chemical
+ENTITY	text:kanamycin	normalName:kanamycin	predictedType:chemical	q:true	qid:Q136	docId:931801	origText:kanamycin	url:D007612
+CANDIDATE	id:7612	inCount:29	outCount:1	links:617	url:D007612	name:Kanamycin	normalName:kanamycin	normalWikiTitle:kanamycin	predictedType:Chemical
+ENTITY	text:saccharic acid	normalName:saccharic acid	predictedType:chemical	q:true	qid:Q136	docId:931801	origText:saccharic acid	url:D005937
+CANDIDATE	id:5937	inCount:12	outCount:1	links:5937	url:D005937	name:Acid, Saccharic	normalName:acid, saccharic	normalWikiTitle:acid, saccharic	predictedType:Chemical
+ENTITY	text:hexauronic acids	normalName:hexauronic acids	predictedType:chemical	q:true	qid:Q136	docId:931801	origText:hexauronic acids	url:D006603
+CANDIDATE	id:6603	inCount:29	outCount:1	links:	url:D006603	name:Hexuronic Acids	normalName:hexuronic acids	normalWikiTitle:hexuronic acids	predictedType:Chemical
+CANDIDATE	id:95263	inCount:0	outCount:1	links:	url:C095263	name:hexenuronic acid	normalName:hexenuronic acid	normalWikiTitle:hexenuronic acid	predictedType:Chemical
+CANDIDATE	id:14574	inCount:31	outCount:2	links:	url:D014574	name:Uronic Acids	normalName:uronic acids	normalWikiTitle:uronic acids	predictedType:Chemical
+CANDIDATE	id:6820	inCount:65	outCount:1	links:	url:D006820	name:Hyaluronic Acid	normalName:hyaluronic acid	normalWikiTitle:hyaluronic acid	predictedType:Chemical
+CANDIDATE	id:37652	inCount:0	outCount:1	links:	url:C037652	name:hexanoic acid	normalName:hexanoic acid	normalWikiTitle:hexanoic acid	predictedType:Chemical
+CANDIDATE	id:54806	inCount:0	outCount:1	links:	url:C054806	name:arsonic acid	normalName:arsonic acid	normalWikiTitle:arsonic acid	predictedType:Chemical
+CANDIDATE	id:657350	inCount:0	outCount:1	links:	url:C000657350	name:ursonic acid	normalName:ursonic acid	normalWikiTitle:ursonic acid	predictedType:Chemical
+CANDIDATE	id:17364	inCount:0	outCount:1	links:	url:C017364	name:hexacosanoic acid	normalName:hexacosanoic acid	normalWikiTitle:hexacosanoic acid	predictedType:Chemical
+CANDIDATE	id:7850	inCount:51	outCount:1	links:	url:D007850	name:Lauric Acids	normalName:lauric acids	normalWikiTitle:lauric acids	predictedType:Chemical
+CANDIDATE	id:8324	inCount:0	outCount:1	links:	url:C008324	name:mannuronic acid	normalName:mannuronic acid	normalWikiTitle:mannuronic acid	predictedType:Chemical
+ENTITY	text:sugar alcohols	normalName:sugar alcohols	predictedType:chemical	q:true	qid:Q136	docId:931801	origText:sugar alcohols	url:D013402
+CANDIDATE	id:13402	inCount:85	outCount:2	links:	url:D013402	name:Sugar Alcohols	normalName:sugar alcohols	normalWikiTitle:sugar alcohols	predictedType:Chemical
+ENTITY	text:D-glucarate	normalName:d-glucarate	predictedType:chemical	q:true	qid:Q136	docId:931801	origText:D-glucarate	url:D005937
+CANDIDATE	id:5937	inCount:12	outCount:1	links:5937	url:D005937	name:Glucaric Acid	normalName:glucaric acid	normalWikiTitle:glucaric acid	predictedType:Chemical
+CANDIDATE	id:5977	inCount:86	outCount:1	links:5977	url:D005977	name:Glutarates	normalName:glutarates	normalWikiTitle:glutarates	predictedType:Chemical
+CANDIDATE	id:1289	inCount:0	outCount:1	links:1289	url:C001289	name:d-glucal	normalName:d-glucal	normalWikiTitle:d-glucal	predictedType:Chemical
+CANDIDATE	id:73363	inCount:0	outCount:1	links:73363	url:C073363	name:diethyl glutarate	normalName:diethyl glutarate	normalWikiTitle:diethyl glutarate	predictedType:Chemical
+CANDIDATE	id:38986	inCount:0	outCount:1	links:38986	url:C038986	name:glunicate	normalName:glunicate	normalWikiTitle:glunicate	predictedType:Chemical
+CANDIDATE	id:5965	inCount:135	outCount:1	links:5965	url:D005965	name:Glucuronates	normalName:glucuronates	normalWikiTitle:glucuronates	predictedType:Chemical
+CANDIDATE	id:67353	inCount:0	outCount:1	links:67353	url:C067353	name:dimethyl glutarate	normalName:dimethyl glutarate	normalWikiTitle:dimethyl glutarate	predictedType:Chemical
+CANDIDATE	id:487589	inCount:0	outCount:2	links:487589	url:C487589	name:dimenthyl glutarate	normalName:dimenthyl glutarate	normalWikiTitle:dimenthyl glutarate	predictedType:Chemical
+CANDIDATE	id:7759	inCount:0	outCount:1	links:7759	url:C007759	name:flucrylate	normalName:flucrylate	normalWikiTitle:flucrylate	predictedType:Chemical
+CANDIDATE	id:514505	inCount:0	outCount:1	links:514505	url:C514505	name:2-thiolglutarate	normalName:2-thiolglutarate	normalWikiTitle:2-thiolglutarate	predictedType:Chemical
+CANDIDATE	id:18698	inCount:54	outCount:2	links:18698	url:D018698	name:D-Glutamate	normalName:d-glutamate	normalWikiTitle:d-glutamate	predictedType:Chemical
+CANDIDATE	id:18698	inCount:54	outCount:2	links:18698	url:D018698	name:D Glutamate	normalName:d glutamate	normalWikiTitle:d glutamate	predictedType:Chemical
+CANDIDATE	id:30691	inCount:0	outCount:1	links:30691	url:C030691	name:D-gluconate	normalName:d-gluconate	normalWikiTitle:d-gluconate	predictedType:Chemical
+CANDIDATE	id:67171	inCount:0	outCount:2	links:67171	url:C067171	name:99mTc glucarate	normalName:99mtc glucarate	normalWikiTitle:99mtc glucarate	predictedType:Chemical
+ENTITY	text:monosaccharides	normalName:monosaccharides	predictedType:chemical	q:true	qid:Q136	docId:931801	origText:monosaccharides	url:D009005
+CANDIDATE	id:9005	inCount:266	outCount:1	links:	url:D009005	name:Monosaccharides	normalName:monosaccharides	normalWikiTitle:monosaccharides	predictedType:Chemical

@@ -1,8 +1,8 @@
-ENTITY	text:Citalopram	normalName:citalopram	predictedType:chemical	q:true	qid:Q300	docId:24742750	origText:Citalopram	url:D015283
-CANDIDATE	id:15283	inCount:7	outCount:3	links:638;16593	url:D015283	name:Citalopram	normalName:citalopram	normalWikiTitle:citalopram	predictedType:Chemical
-ENTITY	text:Paroxetine	normalName:paroxetine	predictedType:chemical	q:true	qid:Q300	docId:24742750	origText:Paroxetine	url:D017374
+ENTITY	text:Amiodarone	normalName:amiodarone	predictedType:chemical	q:true	qid:Q66	docId:24742750	origText:Amiodarone	url:D000638
+CANDIDATE	id:638	inCount:17	outCount:1	links:15283;16593	url:D000638	name:Amiodarone	normalName:amiodarone	normalWikiTitle:amiodarone	predictedType:Chemical
+ENTITY	text:Paroxetine	normalName:paroxetine	predictedType:chemical	q:true	qid:Q66	docId:24742750	origText:Paroxetine	url:D017374
 CANDIDATE	id:17374	inCount:1	outCount:1	links:	url:D017374	name:Paroxetine	normalName:paroxetine	normalWikiTitle:paroxetine	predictedType:Chemical
-ENTITY	text:Amiodarone	normalName:amiodarone	predictedType:chemical	q:true	qid:Q300	docId:24742750	origText:Amiodarone	url:D000638
-CANDIDATE	id:638	inCount:17	outCount:1	links:16593;15283	url:D000638	name:Amiodarone	normalName:amiodarone	normalWikiTitle:amiodarone	predictedType:Chemical
-ENTITY	text:Terfenadine	normalName:terfenadine	predictedType:chemical	q:true	qid:Q300	docId:24742750	origText:Terfenadine	url:D016593
-CANDIDATE	id:16593	inCount:4	outCount:2	links:638;15283	url:D016593	name:Terfenadine	normalName:terfenadine	normalWikiTitle:terfenadine	predictedType:Chemical
+ENTITY	text:Terfenadine	normalName:terfenadine	predictedType:chemical	q:true	qid:Q66	docId:24742750	origText:Terfenadine	url:D016593
+CANDIDATE	id:16593	inCount:4	outCount:2	links:15283;638	url:D016593	name:Terfenadine	normalName:terfenadine	normalWikiTitle:terfenadine	predictedType:Chemical
+ENTITY	text:Citalopram	normalName:citalopram	predictedType:chemical	q:true	qid:Q66	docId:24742750	origText:Citalopram	url:D015283
+CANDIDATE	id:15283	inCount:7	outCount:3	links:16593;638	url:D015283	name:Citalopram	normalName:citalopram	normalWikiTitle:citalopram	predictedType:Chemical

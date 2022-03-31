@@ -1,5 +1,7 @@
-ENTITY	text:cholestatic	normalName:cholestatic	predictedType:disease	q:true	qid:Q354	docId:16083708	origText:cholestatic	url:D002779
-CANDIDATE	id:2779	inCount:14	outCount:1	links:56486;17114	url:D002779	name:Cholestasis	normalName:cholestasis	normalWikiTitle:cholestasis	predictedType:Disease
+ENTITY	text:Drug-induced liver injury	normalName:drug-induced liver injury	predictedType:disease	q:true	qid:Q407	docId:16083708	origText:Drug-induced liver injury	url:D056486
+CANDIDATE	id:56486	inCount:3	outCount:3	links:7565;17114;2779	url:D056486	name:Liver Injury, Drug-Induced	normalName:liver injury, drug-induced	normalWikiTitle:liver injury, drug-induced	predictedType:Disease
+ENTITY	text:cholestatic	normalName:cholestatic	predictedType:disease	q:true	qid:Q407	docId:16083708	origText:cholestatic	url:D002779
+CANDIDATE	id:2779	inCount:14	outCount:1	links:7565;17114;56486	url:D002779	name:Cholestasis	normalName:cholestasis	normalWikiTitle:cholestasis	predictedType:Disease
 CANDIDATE	id:2781	inCount:2	outCount:1	links:	url:D002781	name:Cholesteatoma	normalName:cholesteatoma	normalWikiTitle:cholesteatoma	predictedType:Disease
 CANDIDATE	id:2764	inCount:4	outCount:1	links:	url:D002764	name:Cholecystitis	normalName:cholecystitis	normalWikiTitle:cholecystitis	predictedType:Disease
 CANDIDATE	id:2637	inCount:1	outCount:1	links:	url:D002637	name:Chest Pain	normalName:chest pain	normalWikiTitle:chest pain	predictedType:Disease
@@ -9,9 +11,7 @@ CANDIDATE	id:2761	inCount:1	outCount:1	links:	url:D002761	name:Cholangitis	norma
 CANDIDATE	id:2769	inCount:4	outCount:1	links:	url:D002769	name:Cholelithiasis	normalName:cholelithiasis	normalWikiTitle:cholelithiasis	predictedType:Disease
 CANDIDATE	id:1651	inCount:0	outCount:1	links:	url:D001651	name:Cholestasis, Extrahepatic	normalName:cholestasis, extrahepatic	normalWikiTitle:cholestasis, extrahepatic	predictedType:Disease
 CANDIDATE	id:2780	inCount:11	outCount:2	links:	url:D002780	name:Cholestasis, Intrahepatic	normalName:cholestasis, intrahepatic	normalWikiTitle:cholestasis, intrahepatic	predictedType:Disease
-ENTITY	text:Drug-induced liver injury	normalName:drug-induced liver injury	predictedType:disease	q:true	qid:Q354	docId:16083708	origText:Drug-induced liver injury	url:D056486
-CANDIDATE	id:56486	inCount:2	outCount:3	links:2779;7565;17114	url:D056486	name:Liver Injury, Drug-Induced	normalName:liver injury, drug-induced	normalWikiTitle:liver injury, drug-induced	predictedType:Disease
-ENTITY	text:jaundice	normalName:jaundice	predictedType:disease	q:true	qid:Q354	docId:16083708	origText:jaundice	url:D007565
-CANDIDATE	id:7565	inCount:5	outCount:2	links:56486	url:D007565	name:Jaundice	normalName:jaundice	normalWikiTitle:jaundice	predictedType:Disease
-ENTITY	text:fulminant hepatic failure	normalName:fulminant hepatic failure	predictedType:disease	q:true	qid:Q354	docId:16083708	origText:fulminant hepatic failure	url:D017114
+ENTITY	text:jaundice	normalName:jaundice	predictedType:disease	q:true	qid:Q407	docId:16083708	origText:jaundice	url:D007565
+CANDIDATE	id:7565	inCount:5	outCount:2	links:56486;2779	url:D007565	name:Jaundice	normalName:jaundice	normalWikiTitle:jaundice	predictedType:Disease
+ENTITY	text:fulminant hepatic failure	normalName:fulminant hepatic failure	predictedType:disease	q:true	qid:Q407	docId:16083708	origText:fulminant hepatic failure	url:D017114
 CANDIDATE	id:17114	inCount:3	outCount:1	links:56486;2779	url:D017114	name:Fulminant Hepatic Failure	normalName:fulminant hepatic failure	normalWikiTitle:fulminant hepatic failure	predictedType:Disease

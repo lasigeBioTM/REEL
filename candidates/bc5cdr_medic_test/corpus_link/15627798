@@ -1,4 +1,4 @@
-ENTITY	text:fibrosis	normalName:fibrosis	predictedType:disease	q:true	qid:Q182	docId:15627798	origText:fibrosis	url:D005355
-CANDIDATE	id:5355	inCount:11	outCount:1	links:	url:D005355	name:Fibrosis	normalName:fibrosis	normalWikiTitle:fibrosis	predictedType:Disease
-ENTITY	text:tubulointerstitial nephritis	normalName:tubulointerstitial nephritis	predictedType:disease	q:true	qid:Q182	docId:15627798	origText:tubulointerstitial nephritis	url:D009395
+ENTITY	text:tubulointerstitial nephritis	normalName:tubulointerstitial nephritis	predictedType:disease	q:true	qid:Q397	docId:15627798	origText:tubulointerstitial nephritis	url:D009395
 CANDIDATE	id:9395	inCount:8	outCount:1	links:	url:D009395	name:Nephritis, Tubulointerstitial	normalName:nephritis, tubulointerstitial	normalWikiTitle:nephritis, tubulointerstitial	predictedType:Disease
+ENTITY	text:fibrosis	normalName:fibrosis	predictedType:disease	q:true	qid:Q397	docId:15627798	origText:fibrosis	url:D005355
+CANDIDATE	id:5355	inCount:14	outCount:1	links:	url:D005355	name:Fibrosis	normalName:fibrosis	normalWikiTitle:fibrosis	predictedType:Disease

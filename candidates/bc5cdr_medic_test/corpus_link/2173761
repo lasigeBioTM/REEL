@@ -1,4 +1,4 @@
-ENTITY	text:tachycardia	normalName:tachycardia	predictedType:disease	q:true	qid:Q30	docId:2173761	origText:tachycardia	url:D013610
-CANDIDATE	id:13610	inCount:7	outCount:2	links:7022	url:D013610	name:Tachycardia	normalName:tachycardia	normalWikiTitle:tachycardia	predictedType:Disease
-ENTITY	text:hypotension	normalName:hypotension	predictedType:disease	q:true	qid:Q30	docId:2173761	origText:hypotension	url:D007022
+ENTITY	text:hypotension	normalName:hypotension	predictedType:disease	q:true	qid:Q169	docId:2173761	origText:hypotension	url:D007022
 CANDIDATE	id:7022	inCount:3	outCount:1	links:13610	url:D007022	name:Hypotension	normalName:hypotension	normalWikiTitle:hypotension	predictedType:Disease
+ENTITY	text:tachycardia	normalName:tachycardia	predictedType:disease	q:true	qid:Q169	docId:2173761	origText:tachycardia	url:D013610
+CANDIDATE	id:13610	inCount:7	outCount:2	links:7022	url:D013610	name:Tachycardia	normalName:tachycardia	normalWikiTitle:tachycardia	predictedType:Disease

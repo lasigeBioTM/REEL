@@ -1,0 +1,11 @@
+ENTITY	text:acetaminophen	normalName:acetaminophen	predictedType:chemical	q:true	qid:Q1	docId:doc_2	origText:acetaminophen	url:none
+CANDIDATE	id:143107	inCount:0	outCount:2	links:	url:CHEBI_143107	name:2-acetamidophenol	normalName:2-acetamidophenol	normalWikiTitle:2-acetamidophenol	predictedType:Chemical
+CANDIDATE	id:139475	inCount:0	outCount:1	links:	url:CHEBI_139475	name:3-nitroacetaminophen	normalName:3-nitroacetaminophen	normalWikiTitle:3-nitroacetaminophen	predictedType:Chemical
+CANDIDATE	id:28829	inCount:3	outCount:2	links:	url:CHEBI_28829	name:aminophenol	normalName:aminophenol	normalWikiTitle:aminophenol	predictedType:Chemical
+CANDIDATE	id:38478	inCount:0	outCount:1	links:	url:CHEBI_38478	name:acetamidine	normalName:acetamidine	normalWikiTitle:acetamidine	predictedType:Chemical
+CANDIDATE	id:27856	inCount:18	outCount:3	links:	url:CHEBI_27856	name:acetamide	normalName:acetamide	normalWikiTitle:acetamide	predictedType:Chemical
+CANDIDATE	id:65608	inCount:0	outCount:7	links:	url:CHEBI_65608	name:ceratamine A	normalName:ceratamine a	normalWikiTitle:ceratamine a	predictedType:Chemical
+CANDIDATE	id:27632	inCount:0	outCount:1	links:	url:CHEBI_27632	name:acetophenone	normalName:acetophenone	normalWikiTitle:acetophenone	predictedType:Chemical
+CANDIDATE	id:139476	inCount:0	outCount:1	links:	url:CHEBI_139476	name:3-nitroacetaminophen-TMS	normalName:3-nitroacetaminophen-tms	normalWikiTitle:3-nitroacetaminophen-tms	predictedType:Chemical
+CANDIDATE	id:22160	inCount:448	outCount:1	links:	url:CHEBI_22160	name:acetamides	normalName:acetamides	normalWikiTitle:acetamides	predictedType:Chemical
+CANDIDATE	id:81195	inCount:0	outCount:1	links:	url:CHEBI_81195	name:Actinamine	normalName:actinamine	normalWikiTitle:actinamine	predictedType:Chemical

@@ -1,6 +1,6 @@
-ENTITY	text:timolol	normalName:timolol	predictedType:chemical	q:true	qid:Q201	docId:3833372	origText:timolol	url:D013999
-CANDIDATE	id:13999	inCount:10	outCount:3	links:6852;13999	url:D013999	name:Timolol	normalName:timolol	normalWikiTitle:timolol	predictedType:Chemical
-ENTITY	text:hydrochlorothiazide	normalName:hydrochlorothiazide	predictedType:chemical	q:true	qid:Q201	docId:3833372	origText:hydrochlorothiazide	url:D006852
+ENTITY	text:timolol	normalName:timolol	predictedType:chemical	q:true	qid:Q222	docId:3833372	origText:timolol	url:D013999
+CANDIDATE	id:13999	inCount:10	outCount:3	links:13999;6852	url:D013999	name:Timolol	normalName:timolol	normalWikiTitle:timolol	predictedType:Chemical
+ENTITY	text:hydrochlorothiazide	normalName:hydrochlorothiazide	predictedType:chemical	q:true	qid:Q222	docId:3833372	origText:hydrochlorothiazide	url:D006852
 CANDIDATE	id:6852	inCount:33	outCount:1	links:13999	url:D006852	name:Hydrochlorothiazide	normalName:hydrochlorothiazide	normalWikiTitle:hydrochlorothiazide	predictedType:Chemical
-ENTITY	text:timolol maleate	normalName:timolol maleate	predictedType:chemical	q:true	qid:Q201	docId:3833372	origText:timolol maleate	url:D013999
-CANDIDATE	id:13999	inCount:10	outCount:3	links:6852;13999	url:D013999	name:Timolol Maleate	normalName:timolol maleate	normalWikiTitle:timolol maleate	predictedType:Chemical
+ENTITY	text:timolol maleate	normalName:timolol maleate	predictedType:chemical	q:true	qid:Q222	docId:3833372	origText:timolol maleate	url:D013999
+CANDIDATE	id:13999	inCount:10	outCount:3	links:13999;6852	url:D013999	name:Timolol Maleate	normalName:timolol maleate	normalWikiTitle:timolol maleate	predictedType:Chemical

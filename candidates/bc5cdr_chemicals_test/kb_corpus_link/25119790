@@ -1,16 +1,16 @@
-ENTITY	text:malate	normalName:malate	predictedType:chemical	q:true	qid:Q363	docId:25119790	origText:malate	url:C030298
-CANDIDATE	id:30298	inCount:0	outCount:1	links:	url:C030298	name:malate	normalName:malate	normalWikiTitle:malate	predictedType:Chemical
-ENTITY	text:sodium	normalName:sodium	predictedType:chemical	q:true	qid:Q363	docId:25119790	origText:sodium	url:D012964
-CANDIDATE	id:12964	inCount:10	outCount:2	links:	url:D012964	name:Sodium	normalName:sodium	normalWikiTitle:sodium	predictedType:Chemical
-ENTITY	text:glutamate	normalName:glutamate	predictedType:chemical	q:true	qid:Q363	docId:25119790	origText:glutamate	url:D018698
-CANDIDATE	id:18698	inCount:53	outCount:2	links:	url:D018698	name:Glutamate	normalName:glutamate	normalWikiTitle:glutamate	predictedType:Chemical
-ENTITY	text:glucose	normalName:glucose	predictedType:chemical	q:true	qid:Q363	docId:25119790	origText:glucose	url:D005947
-CANDIDATE	id:5947	inCount:160	outCount:1	links:	url:D005947	name:Glucose	normalName:glucose	normalWikiTitle:glucose	predictedType:Chemical
-ENTITY	text:oxygen	normalName:oxygen	predictedType:chemical	q:true	qid:Q363	docId:25119790	origText:oxygen	url:D010100
-CANDIDATE	id:10100	inCount:11	outCount:2	links:	url:D010100	name:Oxygen	normalName:oxygen	normalWikiTitle:oxygen	predictedType:Chemical
-ENTITY	text:ADP	normalName:adp	predictedType:chemical	q:true	qid:Q363	docId:25119790	origText:ADP	url:D000244
-CANDIDATE	id:244	inCount:93	outCount:1	links:	url:D000244	name:ADP	normalName:adp	normalWikiTitle:adp	predictedType:Chemical
-ENTITY	text:Curcumin	normalName:curcumin	predictedType:chemical	q:true	qid:Q363	docId:25119790	origText:Curcumin	url:D003474
-CANDIDATE	id:3474	inCount:85	outCount:2	links:	url:D003474	name:Curcumin	normalName:curcumin	normalWikiTitle:curcumin	predictedType:Chemical
-ENTITY	text:maleate	normalName:maleate	predictedType:chemical	q:true	qid:Q363	docId:25119790	origText:maleate	url:C030272
+ENTITY	text:Curcumin	normalName:curcumin	predictedType:chemical	q:true	qid:Q94	docId:25119790	origText:Curcumin	url:D003474
+CANDIDATE	id:3474	inCount:93	outCount:2	links:	url:D003474	name:Curcumin	normalName:curcumin	normalWikiTitle:curcumin	predictedType:Chemical
+ENTITY	text:maleate	normalName:maleate	predictedType:chemical	q:true	qid:Q94	docId:25119790	origText:maleate	url:C030272
 CANDIDATE	id:30272	inCount:0	outCount:1	links:	url:C030272	name:maleate	normalName:maleate	normalWikiTitle:maleate	predictedType:Chemical
+ENTITY	text:oxygen	normalName:oxygen	predictedType:chemical	q:true	qid:Q94	docId:25119790	origText:oxygen	url:D010100
+CANDIDATE	id:10100	inCount:11	outCount:2	links:	url:D010100	name:Oxygen	normalName:oxygen	normalWikiTitle:oxygen	predictedType:Chemical
+ENTITY	text:glucose	normalName:glucose	predictedType:chemical	q:true	qid:Q94	docId:25119790	origText:glucose	url:D005947
+CANDIDATE	id:5947	inCount:162	outCount:1	links:	url:D005947	name:Glucose	normalName:glucose	normalWikiTitle:glucose	predictedType:Chemical
+ENTITY	text:sodium	normalName:sodium	predictedType:chemical	q:true	qid:Q94	docId:25119790	origText:sodium	url:D012964
+CANDIDATE	id:12964	inCount:10	outCount:2	links:	url:D012964	name:Sodium	normalName:sodium	normalWikiTitle:sodium	predictedType:Chemical
+ENTITY	text:ADP	normalName:adp	predictedType:chemical	q:true	qid:Q94	docId:25119790	origText:ADP	url:D000244
+CANDIDATE	id:244	inCount:93	outCount:1	links:	url:D000244	name:ADP	normalName:adp	normalWikiTitle:adp	predictedType:Chemical
+ENTITY	text:malate	normalName:malate	predictedType:chemical	q:true	qid:Q94	docId:25119790	origText:malate	url:C030298
+CANDIDATE	id:30298	inCount:0	outCount:1	links:	url:C030298	name:malate	normalName:malate	normalWikiTitle:malate	predictedType:Chemical
+ENTITY	text:glutamate	normalName:glutamate	predictedType:chemical	q:true	qid:Q94	docId:25119790	origText:glutamate	url:D018698
+CANDIDATE	id:18698	inCount:54	outCount:2	links:	url:D018698	name:Glutamate	normalName:glutamate	normalWikiTitle:glutamate	predictedType:Chemical

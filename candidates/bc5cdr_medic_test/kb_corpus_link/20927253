@@ -1,6 +1,6 @@
-ENTITY	text:Musculoskeletal pain	normalName:musculoskeletal pain	predictedType:disease	q:true	qid:Q183	docId:20927253	origText:Musculoskeletal pain	url:D059352
+ENTITY	text:pain	normalName:pain	predictedType:disease	q:true	qid:Q496	docId:20927253	origText:pain	url:D010146
+CANDIDATE	id:10146	inCount:34	outCount:1	links:10024	url:D010146	name:Pain	normalName:pain	normalWikiTitle:pain	predictedType:Disease
+ENTITY	text:Osteoporosis	normalName:osteoporosis	predictedType:disease	q:true	qid:Q496	docId:20927253	origText:Osteoporosis	url:D010024
+CANDIDATE	id:10024	inCount:19	outCount:1	links:10146	url:D010024	name:Osteoporosis	normalName:osteoporosis	normalWikiTitle:osteoporosis	predictedType:Disease
+ENTITY	text:Musculoskeletal pain	normalName:musculoskeletal pain	predictedType:disease	q:true	qid:Q496	docId:20927253	origText:Musculoskeletal pain	url:D059352
 CANDIDATE	id:59352	inCount:2	outCount:2	links:	url:D059352	name:Musculoskeletal Pain	normalName:musculoskeletal pain	normalWikiTitle:musculoskeletal pain	predictedType:Disease
-ENTITY	text:Osteoporosis	normalName:osteoporosis	predictedType:disease	q:true	qid:Q183	docId:20927253	origText:Osteoporosis	url:D010024
-CANDIDATE	id:10024	inCount:21	outCount:1	links:	url:D010024	name:Osteoporosis	normalName:osteoporosis	normalWikiTitle:osteoporosis	predictedType:Disease
-ENTITY	text:pain	normalName:pain	predictedType:disease	q:true	qid:Q183	docId:20927253	origText:pain	url:D010146
-CANDIDATE	id:10146	inCount:34	outCount:1	links:	url:D010146	name:Pain	normalName:pain	normalWikiTitle:pain	predictedType:Disease

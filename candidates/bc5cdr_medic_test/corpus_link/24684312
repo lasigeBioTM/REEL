@@ -1,40 +1,40 @@
-ENTITY	text:pain	normalName:pain	predictedType:disease	q:true	qid:Q402	docId:24684312	origText:pain	url:D010146
-CANDIDATE	id:10146	inCount:34	outCount:1	links:6930	url:D010146	name:Pain	normalName:pain	normalWikiTitle:pain	predictedType:Disease
-ENTITY	text:pain disorders	normalName:pain disorders	predictedType:disease	q:true	qid:Q402	docId:24684312	origText:pain disorders	url:D013001
-CANDIDATE	id:13001	inCount:5	outCount:1	links:	url:D013001	name:Pain Disorder	normalName:pain disorder	normalWikiTitle:pain disorder	predictedType:Disease
-CANDIDATE	id:16584	inCount:2	outCount:1	links:	url:D016584	name:Panic Disorder	normalName:panic disorder	normalWikiTitle:panic disorder	predictedType:Disease
+ENTITY	text:hyperalgesia	normalName:hyperalgesia	predictedType:disease	q:true	qid:Q58	docId:24684312	origText:hyperalgesia	url:D006930
+CANDIDATE	id:6930	inCount:0	outCount:1	links:7859;10146;6948	url:D006930	name:Hyperalgesia	normalName:hyperalgesia	normalWikiTitle:hyperalgesia	predictedType:Disease
+ENTITY	text:allodynia	normalName:allodynia	predictedType:disease	q:true	qid:Q58	docId:24684312	origText:allodynia	url:D006930
+CANDIDATE	id:6930	inCount:0	outCount:1	links:7859;10146;6948	url:D006930	name:Allodynia	normalName:allodynia	normalWikiTitle:allodynia	predictedType:Disease
+ENTITY	text:pain	normalName:pain	predictedType:disease	q:true	qid:Q58	docId:24684312	origText:pain	url:D010146
+CANDIDATE	id:10146	inCount:34	outCount:1	links:6930;6973;6947	url:D010146	name:Pain	normalName:pain	normalWikiTitle:pain	predictedType:Disease
+ENTITY	text:pain disorders	normalName:pain disorders	predictedType:disease	q:true	qid:Q58	docId:24684312	origText:pain disorders	url:D013001
+CANDIDATE	id:13001	inCount:9	outCount:1	links:	url:D013001	name:Pain Disorder	normalName:pain disorder	normalWikiTitle:pain disorder	predictedType:Disease
+CANDIDATE	id:16584	inCount:2	outCount:1	links:6973	url:D016584	name:Panic Disorder	normalName:panic disorder	normalWikiTitle:panic disorder	predictedType:Disease
 CANDIDATE	id:6311	inCount:4	outCount:2	links:	url:D006311	name:Hearing Disorders	normalName:hearing disorders	normalWikiTitle:hearing disorders	predictedType:Disease
-CANDIDATE	id:11681	inCount:12	outCount:2	links:	url:D011681	name:Pupil Disorders	normalName:pupil disorders	normalWikiTitle:pupil disorders	predictedType:Disease
+CANDIDATE	id:11681	inCount:12	outCount:2	links:6948	url:D011681	name:Pupil Disorders	normalName:pupil disorders	normalWikiTitle:pupil disorders	predictedType:Disease
 CANDIDATE	id:8881	inCount:9	outCount:1	links:	url:D008881	name:Migraine Disorders	normalName:migraine disorders	normalWikiTitle:migraine disorders	predictedType:Disease
 CANDIDATE	id:10259	inCount:0	outCount:1	links:6973;6948	url:D010259	name:Paranoid Disorders	normalName:paranoid disorders	normalWikiTitle:paranoid disorders	predictedType:Disease
-CANDIDATE	id:7859	inCount:10	outCount:2	links:	url:D007859	name:Learning Disorders	normalName:learning disorders	normalWikiTitle:learning disorders	predictedType:Disease
-CANDIDATE	id:13981	inCount:1	outCount:2	links:	url:D013981	name:Tic Disorders	normalName:tic disorders	normalWikiTitle:tic disorders	predictedType:Disease
-CANDIDATE	id:14786	inCount:19	outCount:2	links:	url:D014786	name:Vision Disorders	normalName:vision disorders	normalWikiTitle:vision disorders	predictedType:Disease
-CANDIDATE	id:12120	inCount:20	outCount:1	links:	url:D012120	name:Respiration Disorders	normalName:respiration disorders	normalWikiTitle:respiration disorders	predictedType:Disease
-CANDIDATE	id:10698	inCount:2	outCount:1	links:	url:D010698	name:Phobic Disorders	normalName:phobic disorders	normalWikiTitle:phobic disorders	predictedType:Disease
-CANDIDATE	id:16584	inCount:2	outCount:1	links:	url:D016584	name:Panic Disorders	normalName:panic disorders	normalWikiTitle:panic disorders	predictedType:Disease
-CANDIDATE	id:16584	inCount:2	outCount:1	links:	url:D016584	name:Disorders, Panic	normalName:disorders, panic	normalWikiTitle:disorders, panic	predictedType:Disease
-CANDIDATE	id:1068	inCount:10	outCount:1	links:	url:D001068	name:Disorders, Eating	normalName:disorders, eating	normalWikiTitle:disorders, eating	predictedType:Disease
-CANDIDATE	id:1068	inCount:10	outCount:1	links:	url:D001068	name:Eating Disorders	normalName:eating disorders	normalWikiTitle:eating disorders	predictedType:Disease
-ENTITY	text:secondary hyperalgesia	normalName:secondary hyperalgesia	predictedType:disease	q:true	qid:Q402	docId:24684312	origText:secondary hyperalgesia	url:D006930
-CANDIDATE	id:6930	inCount:0	outCount:1	links:6948;10146	url:D006930	name:Hyperalgesia, Secondary	normalName:hyperalgesia, secondary	normalWikiTitle:hyperalgesia, secondary	predictedType:Disease
-ENTITY	text:allodynia	normalName:allodynia	predictedType:disease	q:true	qid:Q402	docId:24684312	origText:allodynia	url:D006930
-CANDIDATE	id:6930	inCount:0	outCount:1	links:6948;10146	url:D006930	name:Allodynia	normalName:allodynia	normalWikiTitle:allodynia	predictedType:Disease
-ENTITY	text:hyperalgesic	normalName:hyperalgesic	predictedType:disease	q:true	qid:Q402	docId:24684312	origText:hyperalgesic	url:D006930
-CANDIDATE	id:6930	inCount:0	outCount:1	links:6948;10146	url:D006930	name:Hyperalgesia	normalName:hyperalgesia	normalWikiTitle:hyperalgesia	predictedType:Disease
-CANDIDATE	id:6947	inCount:4	outCount:1	links:	url:D006947	name:Hyperkalemia	normalName:hyperkalemia	normalWikiTitle:hyperkalemia	predictedType:Disease
+CANDIDATE	id:7859	inCount:11	outCount:2	links:6930;6973;6948	url:D007859	name:Learning Disorders	normalName:learning disorders	normalWikiTitle:learning disorders	predictedType:Disease
+CANDIDATE	id:13981	inCount:1	outCount:2	links:6973	url:D013981	name:Tic Disorders	normalName:tic disorders	normalWikiTitle:tic disorders	predictedType:Disease
+CANDIDATE	id:14786	inCount:19	outCount:2	links:6934	url:D014786	name:Vision Disorders	normalName:vision disorders	normalWikiTitle:vision disorders	predictedType:Disease
+CANDIDATE	id:12120	inCount:19	outCount:1	links:	url:D012120	name:Respiration Disorders	normalName:respiration disorders	normalWikiTitle:respiration disorders	predictedType:Disease
+CANDIDATE	id:10698	inCount:29	outCount:1	links:	url:D010698	name:Phobic Disorders	normalName:phobic disorders	normalWikiTitle:phobic disorders	predictedType:Disease
+CANDIDATE	id:16584	inCount:2	outCount:1	links:6973	url:D016584	name:Panic Disorders	normalName:panic disorders	normalWikiTitle:panic disorders	predictedType:Disease
+CANDIDATE	id:16584	inCount:2	outCount:1	links:6973	url:D016584	name:Disorders, Panic	normalName:disorders, panic	normalWikiTitle:disorders, panic	predictedType:Disease
+CANDIDATE	id:1068	inCount:14	outCount:1	links:	url:D001068	name:Disorders, Eating	normalName:disorders, eating	normalWikiTitle:disorders, eating	predictedType:Disease
+CANDIDATE	id:1068	inCount:14	outCount:1	links:	url:D001068	name:Eating Disorders	normalName:eating disorders	normalWikiTitle:eating disorders	predictedType:Disease
+ENTITY	text:secondary hyperalgesia	normalName:secondary hyperalgesia	predictedType:disease	q:true	qid:Q58	docId:24684312	origText:secondary hyperalgesia	url:D006930
+CANDIDATE	id:6930	inCount:0	outCount:1	links:7859;10146;6948	url:D006930	name:Hyperalgesia, Secondary	normalName:hyperalgesia, secondary	normalWikiTitle:hyperalgesia, secondary	predictedType:Disease
+ENTITY	text:hyperalgesic	normalName:hyperalgesic	predictedType:disease	q:true	qid:Q58	docId:24684312	origText:hyperalgesic	url:D006930
+CANDIDATE	id:6930	inCount:0	outCount:1	links:7859;10146;6948	url:D006930	name:Hyperalgesia	normalName:hyperalgesia	normalWikiTitle:hyperalgesia	predictedType:Disease
+CANDIDATE	id:6947	inCount:4	outCount:1	links:10146	url:D006947	name:Hyperkalemia	normalName:hyperkalemia	normalWikiTitle:hyperkalemia	predictedType:Disease
 CANDIDATE	id:565500	inCount:0	outCount:1	links:	url:C565500	name:Hyperlexia	normalName:hyperlexia	normalWikiTitle:hyperlexia	predictedType:Disease
-CANDIDATE	id:6934	inCount:10	outCount:2	links:471	url:D006934	name:Hypercalcemia	normalName:hypercalcemia	normalWikiTitle:hypercalcemia	predictedType:Disease
+CANDIDATE	id:6934	inCount:10	outCount:2	links:14786;471	url:D006934	name:Hypercalcemia	normalName:hypercalcemia	normalWikiTitle:hypercalcemia	predictedType:Disease
 CANDIDATE	id:6965	inCount:4	outCount:1	links:	url:D006965	name:Hyperplasia	normalName:hyperplasia	normalWikiTitle:hyperplasia	predictedType:Disease
 CANDIDATE	id:6963	inCount:2	outCount:1	links:	url:D006963	name:Hyperphagia	normalName:hyperphagia	normalWikiTitle:hyperphagia	predictedType:Disease
 CANDIDATE	id:12001	inCount:0	outCount:1	links:	url:D012001	name:Hyperacusis	normalName:hyperacusis	normalWikiTitle:hyperacusis	predictedType:Disease
-CANDIDATE	id:6973	inCount:18	outCount:1	links:10259	url:D006973	name:Hypertension	normalName:hypertension	normalWikiTitle:hypertension	predictedType:Disease
+CANDIDATE	id:6973	inCount:19	outCount:1	links:16584;13981;10259;7859;10146	url:D006973	name:Hypertension	normalName:hypertension	normalWikiTitle:hypertension	predictedType:Disease
 CANDIDATE	id:34321	inCount:0	outCount:1	links:	url:D034321	name:Hyperamylasemia	normalName:hyperamylasemia	normalWikiTitle:hyperamylasemia	predictedType:Disease
-CANDIDATE	id:6948	inCount:1	outCount:1	links:6930;10259	url:D006948	name:Hyperkinesis	normalName:hyperkinesis	normalWikiTitle:hyperkinesis	predictedType:Disease
-ENTITY	text:hyperalgesia	normalName:hyperalgesia	predictedType:disease	q:true	qid:Q402	docId:24684312	origText:hyperalgesia	url:D006930
-CANDIDATE	id:6930	inCount:0	outCount:1	links:6948;10146	url:D006930	name:Hyperalgesia	normalName:hyperalgesia	normalWikiTitle:hyperalgesia	predictedType:Disease
-ENTITY	text:allodynic	normalName:allodynic	predictedType:disease	q:true	qid:Q402	docId:24684312	origText:allodynic	url:D006930
-CANDIDATE	id:6930	inCount:0	outCount:1	links:6948;10146	url:D006930	name:Tactile Allodynia	normalName:tactile allodynia	normalWikiTitle:tactile allodynia	predictedType:Disease
+CANDIDATE	id:6948	inCount:1	outCount:1	links:6930;10259;7859;11681	url:D006948	name:Hyperkinesis	normalName:hyperkinesis	normalWikiTitle:hyperkinesis	predictedType:Disease
+ENTITY	text:allodynic	normalName:allodynic	predictedType:disease	q:true	qid:Q58	docId:24684312	origText:allodynic	url:D006930
+CANDIDATE	id:6930	inCount:0	outCount:1	links:7859;10146;6948	url:D006930	name:Tactile Allodynia	normalName:tactile allodynia	normalWikiTitle:tactile allodynia	predictedType:Disease
 CANDIDATE	id:170	inCount:0	outCount:2	links:	url:D000170	name:Acrodynia	normalName:acrodynia	normalWikiTitle:acrodynia	predictedType:Disease
 CANDIDATE	id:59373	inCount:0	outCount:1	links:	url:D059373	name:Mastodynia	normalName:mastodynia	normalWikiTitle:mastodynia	predictedType:Disease
 CANDIDATE	id:56650	inCount:0	outCount:1	links:	url:D056650	name:Vulvodynia	normalName:vulvodynia	normalWikiTitle:vulvodynia	predictedType:Disease
@@ -45,5 +45,5 @@ CANDIDATE	id:42882	inCount:2	outCount:3	links:	url:D042882	name:Gallstones	norma
 CANDIDATE	id:10167	inCount:0	outCount:1	links:	url:D010167	name:Pallor	normalName:pallor	normalWikiTitle:pallor	predictedType:Disease
 CANDIDATE	id:11123	inCount:3	outCount:1	links:	url:D011123	name:Polyploidy	normalName:polyploidy	normalWikiTitle:polyploidy	predictedType:Disease
 CANDIDATE	id:782	inCount:10	outCount:1	links:	url:D000782	name:Aneuploidy	normalName:aneuploidy	normalWikiTitle:aneuploidy	predictedType:Disease
-CANDIDATE	id:6930	inCount:0	outCount:1	links:6948;10146	url:D006930	name:Allodynia	normalName:allodynia	normalWikiTitle:allodynia	predictedType:Disease
-CANDIDATE	id:6930	inCount:0	outCount:1	links:6948;10146	url:D006930	name:Allodynia, Tactile	normalName:allodynia, tactile	normalWikiTitle:allodynia, tactile	predictedType:Disease
+CANDIDATE	id:6930	inCount:0	outCount:1	links:7859;10146;6948	url:D006930	name:Allodynia	normalName:allodynia	normalWikiTitle:allodynia	predictedType:Disease
+CANDIDATE	id:6930	inCount:0	outCount:1	links:7859;10146;6948	url:D006930	name:Allodynia, Tactile	normalName:allodynia, tactile	normalWikiTitle:allodynia, tactile	predictedType:Disease

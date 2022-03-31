@@ -1,4 +1,4 @@
-ENTITY	text:oestrogens	normalName:oestrogens	predictedType:chemical	q:true	qid:Q378	docId:16034922	origText:oestrogens	url:D004967
+ENTITY	text:oestrogens	normalName:oestrogens	predictedType:chemical	q:true	qid:Q406	docId:16034922	origText:oestrogens	url:D004967
 CANDIDATE	id:4967	inCount:1	outCount:1	links:4967	url:D004967	name:Estrogen	normalName:estrogen	normalWikiTitle:estrogen	predictedType:Chemical
 CANDIDATE	id:4967	inCount:1	outCount:1	links:4967	url:D004967	name:Estrogens	normalName:estrogens	normalWikiTitle:estrogens	predictedType:Chemical
 CANDIDATE	id:55250	inCount:0	outCount:3	links:55250	url:C055250	name:Menstrogen	normalName:menstrogen	normalWikiTitle:menstrogen	predictedType:Chemical
@@ -10,7 +10,7 @@ CANDIDATE	id:64141	inCount:0	outCount:1	links:64141	url:C064141	name:Hemastogen	
 CANDIDATE	id:63710	inCount:0	outCount:2	links:63710	url:C063710	name:Retrogen D	normalName:retrogen d	normalWikiTitle:retrogen d	predictedType:Chemical
 CANDIDATE	id:2428	inCount:0	outCount:1	links:2428	url:C002428	name:estrobin	normalName:estrobin	normalWikiTitle:estrobin	predictedType:Chemical
 CANDIDATE	id:471129	inCount:0	outCount:1	links:471129	url:C471129	name:sporogen	normalName:sporogen	normalWikiTitle:sporogen	predictedType:Chemical
-ENTITY	text:oestrogen	normalName:oestrogen	predictedType:chemical	q:true	qid:Q378	docId:16034922	origText:oestrogen	url:D004967
+ENTITY	text:oestrogen	normalName:oestrogen	predictedType:chemical	q:true	qid:Q406	docId:16034922	origText:oestrogen	url:D004967
 CANDIDATE	id:4967	inCount:1	outCount:1	links:4967	url:D004967	name:Estrogen	normalName:estrogen	normalWikiTitle:estrogen	predictedType:Chemical
 CANDIDATE	id:4967	inCount:1	outCount:1	links:4967	url:D004967	name:Estrogens	normalName:estrogens	normalWikiTitle:estrogens	predictedType:Chemical
 CANDIDATE	id:55250	inCount:0	outCount:3	links:55250	url:C055250	name:Menstrogen	normalName:menstrogen	normalWikiTitle:menstrogen	predictedType:Chemical

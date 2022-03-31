@@ -1,4 +1,4 @@
-ENTITY	text:isotretinoin	normalName:isotretinoin	predictedType:chemical	q:true	qid:Q174	docId:11105626	origText:isotretinoin	url:D015474
+ENTITY	text:isotretinoin	normalName:isotretinoin	predictedType:chemical	q:true	qid:Q340	docId:11105626	origText:isotretinoin	url:D015474
 CANDIDATE	id:15474	inCount:3	outCount:1	links:	url:D015474	name:Isotretinoin	normalName:isotretinoin	normalWikiTitle:isotretinoin	predictedType:Chemical
-ENTITY	text:vitamin A	normalName:vitamin a	predictedType:chemical	q:true	qid:Q174	docId:11105626	origText:vitamin A	url:D014801
-CANDIDATE	id:14801	inCount:60	outCount:1	links:	url:D014801	name:Vitamin A	normalName:vitamin a	normalWikiTitle:vitamin a	predictedType:Chemical
+ENTITY	text:vitamin A	normalName:vitamin a	predictedType:chemical	q:true	qid:Q340	docId:11105626	origText:vitamin A	url:D014801
+CANDIDATE	id:14801	inCount:53	outCount:2	links:	url:D014801	name:Vitamin A	normalName:vitamin a	normalWikiTitle:vitamin a	predictedType:Chemical

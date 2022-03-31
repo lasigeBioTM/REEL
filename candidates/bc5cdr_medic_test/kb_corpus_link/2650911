@@ -1,6 +1,4 @@
-ENTITY	text:tumor	normalName:tumor	predictedType:disease	q:true	qid:Q74	docId:2650911	origText:tumor	url:D009369
-CANDIDATE	id:9369	inCount:18	outCount:1	links:	url:D009369	name:Tumor	normalName:tumor	normalWikiTitle:tumor	predictedType:Disease
-ENTITY	text:renal carcinomas	normalName:renal carcinomas	predictedType:disease	q:true	qid:Q74	docId:2650911	origText:renal carcinomas	url:D002292
+ENTITY	text:renal carcinomas	normalName:renal carcinomas	predictedType:disease	q:true	qid:Q182	docId:2650911	origText:renal carcinomas	url:D002292
 CANDIDATE	id:2292	inCount:5	outCount:2	links:	url:D002292	name:Renal Adenocarcinomas	normalName:renal adenocarcinomas	normalWikiTitle:renal adenocarcinomas	predictedType:Disease
 CANDIDATE	id:2292	inCount:5	outCount:2	links:	url:D002292	name:Carcinoma, Renal Cell	normalName:carcinoma, renal cell	normalWikiTitle:carcinoma, renal cell	predictedType:Disease
 CANDIDATE	id:18236	inCount:0	outCount:1	links:	url:D018236	name:Carcinoma, Embryonal	normalName:carcinoma, embryonal	normalWikiTitle:carcinoma, embryonal	predictedType:Disease
@@ -12,6 +10,7 @@ CANDIDATE	id:18288	inCount:1	outCount:1	links:	url:D018288	name:Carcinoma, Small
 CANDIDATE	id:562463	inCount:0	outCount:1	links:	url:C562463	name:Pancreatic Carcinoma	normalName:pancreatic carcinoma	normalWikiTitle:pancreatic carcinoma	predictedType:Disease
 CANDIDATE	id:2277	inCount:25	outCount:1	links:	url:D002277	name:Carcinoma	normalName:carcinoma	normalWikiTitle:carcinoma	predictedType:Disease
 CANDIDATE	id:15266	inCount:0	outCount:3	links:	url:D015266	name:Carcinoma, Merkel Cell	normalName:carcinoma, merkel cell	normalWikiTitle:carcinoma, merkel cell	predictedType:Disease
-CANDIDATE	id:2292	inCount:5	outCount:2	links:	url:D002292	name:Adenocarcinomas, Renal	normalName:adenocarcinomas, renal	normalWikiTitle:adenocarcinomas, renal	predictedType:Disease
 CANDIDATE	id:2292	inCount:5	outCount:2	links:	url:D002292	name:Carcinomas, Renal Cell	normalName:carcinomas, renal cell	normalWikiTitle:carcinomas, renal cell	predictedType:Disease
 CANDIDATE	id:2292	inCount:5	outCount:2	links:	url:D002292	name:Renal Cell Carcinomas	normalName:renal cell carcinomas	normalWikiTitle:renal cell carcinomas	predictedType:Disease
+ENTITY	text:tumor	normalName:tumor	predictedType:disease	q:true	qid:Q182	docId:2650911	origText:tumor	url:D009369
+CANDIDATE	id:9369	inCount:18	outCount:1	links:	url:D009369	name:Tumor	normalName:tumor	normalWikiTitle:tumor	predictedType:Disease

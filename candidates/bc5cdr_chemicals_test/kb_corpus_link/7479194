@@ -1,5 +1,11 @@
-ENTITY	text:TMP-SMZ	normalName:tmp-smz	predictedType:chemical	q:true	qid:Q374	docId:7479194	origText:TMP-SMZ	url:D015662
-CANDIDATE	id:15662	inCount:1	outCount:2	links:15662;14295;2506	url:D015662	name:TMP-SMX	normalName:tmp-smx	normalWikiTitle:tmp-smx	predictedType:Chemical
+ENTITY	text:trimethoprim-sulfamethoxazole	normalName:trimethoprim-sulfamethoxazole	predictedType:chemical	q:true	qid:Q265	docId:7479194	origText:trimethoprim-sulfamethoxazole	url:D015662
+CANDIDATE	id:15662	inCount:1	outCount:2	links:14295;2506;15662	url:D015662	name:Trimethoprim-Sulfamethoxazole	normalName:trimethoprim-sulfamethoxazole	normalWikiTitle:trimethoprim-sulfamethoxazole	predictedType:Chemical
+ENTITY	text:trimethoprim	normalName:trimethoprim	predictedType:chemical	q:true	qid:Q265	docId:7479194	origText:trimethoprim	url:D014295
+CANDIDATE	id:14295	inCount:24	outCount:1	links:2506;15662	url:D014295	name:Trimethoprim	normalName:trimethoprim	normalWikiTitle:trimethoprim	predictedType:Chemical
+ENTITY	text:cephalexin	normalName:cephalexin	predictedType:chemical	q:true	qid:Q265	docId:7479194	origText:cephalexin	url:D002506
+CANDIDATE	id:2506	inCount:11	outCount:1	links:14295;15662	url:D002506	name:Cephalexin	normalName:cephalexin	normalWikiTitle:cephalexin	predictedType:Chemical
+ENTITY	text:TMP-SMZ	normalName:tmp-smz	predictedType:chemical	q:true	qid:Q265	docId:7479194	origText:TMP-SMZ	url:D015662
+CANDIDATE	id:15662	inCount:1	outCount:2	links:14295;2506;15662	url:D015662	name:TMP-SMX	normalName:tmp-smx	normalWikiTitle:tmp-smx	predictedType:Chemical
 CANDIDATE	id:111748	inCount:0	outCount:1	links:	url:C111748	name:m TCMPC	normalName:m tcmpc	normalWikiTitle:m tcmpc	predictedType:Chemical
 CANDIDATE	id:559988	inCount:0	outCount:1	links:	url:C559988	name:TPI ASM8	normalName:tpi asm8	normalWikiTitle:tpi asm8	predictedType:Chemical
 CANDIDATE	id:409191	inCount:0	outCount:2	links:	url:C409191	name:SMTP 7	normalName:smtp 7	normalWikiTitle:smtp 7	predictedType:Chemical
@@ -10,12 +16,6 @@ CANDIDATE	id:117810	inCount:0	outCount:2	links:	url:C117810	name:SMTP 6	normalNa
 CANDIDATE	id:117807	inCount:0	outCount:2	links:	url:C117807	name:SMTP 3	normalName:smtp 3	normalWikiTitle:smtp 3	predictedType:Chemical
 CANDIDATE	id:105379	inCount:0	outCount:2	links:	url:C105379	name:SMTP 1	normalName:smtp 1	normalWikiTitle:smtp 1	predictedType:Chemical
 CANDIDATE	id:117808	inCount:0	outCount:2	links:	url:C117808	name:SMTP 4	normalName:smtp 4	normalWikiTitle:smtp 4	predictedType:Chemical
-CANDIDATE	id:15662	inCount:1	outCount:2	links:15662;14295;2506	url:D015662	name:TMP SMX	normalName:tmp smx	normalWikiTitle:tmp smx	predictedType:Chemical
+CANDIDATE	id:15662	inCount:1	outCount:2	links:14295;2506;15662	url:D015662	name:TMP SMX	normalName:tmp smx	normalWikiTitle:tmp smx	predictedType:Chemical
 CANDIDATE	id:450300	inCount:0	outCount:1	links:	url:C450300	name:TMMP-M	normalName:tmmp-m	normalWikiTitle:tmmp-m	predictedType:Chemical
 CANDIDATE	id:38566	inCount:0	outCount:1	links:	url:C038566	name:mTMP	normalName:mtmp	normalWikiTitle:mtmp	predictedType:Chemical
-ENTITY	text:trimethoprim	normalName:trimethoprim	predictedType:chemical	q:true	qid:Q374	docId:7479194	origText:trimethoprim	url:D014295
-CANDIDATE	id:14295	inCount:24	outCount:1	links:15662;2506	url:D014295	name:Trimethoprim	normalName:trimethoprim	normalWikiTitle:trimethoprim	predictedType:Chemical
-ENTITY	text:trimethoprim-sulfamethoxazole	normalName:trimethoprim-sulfamethoxazole	predictedType:chemical	q:true	qid:Q374	docId:7479194	origText:trimethoprim-sulfamethoxazole	url:D015662
-CANDIDATE	id:15662	inCount:1	outCount:2	links:15662;14295;2506	url:D015662	name:Trimethoprim-Sulfamethoxazole	normalName:trimethoprim-sulfamethoxazole	normalWikiTitle:trimethoprim-sulfamethoxazole	predictedType:Chemical
-ENTITY	text:cephalexin	normalName:cephalexin	predictedType:chemical	q:true	qid:Q374	docId:7479194	origText:cephalexin	url:D002506
-CANDIDATE	id:2506	inCount:11	outCount:1	links:15662;14295	url:D002506	name:Cephalexin	normalName:cephalexin	normalWikiTitle:cephalexin	predictedType:Chemical

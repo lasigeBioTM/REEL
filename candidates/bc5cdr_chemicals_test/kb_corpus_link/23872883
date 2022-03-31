@@ -1,11 +1,19 @@
-ENTITY	text:aspartate	normalName:aspartate	predictedType:chemical	q:true	qid:Q375	docId:23872883	origText:aspartate	url:D001224
-CANDIDATE	id:1224	inCount:112	outCount:3	links:	url:D001224	name:Aspartate	normalName:aspartate	normalWikiTitle:aspartate	predictedType:Chemical
-ENTITY	text:glutathione	normalName:glutathione	predictedType:chemical	q:true	qid:Q375	docId:23872883	origText:glutathione	url:D005978
-CANDIDATE	id:5978	inCount:255	outCount:1	links:	url:D005978	name:Glutathione	normalName:glutathione	normalWikiTitle:glutathione	predictedType:Chemical
-ENTITY	text:superoxide	normalName:superoxide	predictedType:chemical	q:true	qid:Q375	docId:23872883	origText:superoxide	url:D013481
-CANDIDATE	id:13481	inCount:1	outCount:1	links:	url:D013481	name:Superoxide	normalName:superoxide	normalWikiTitle:superoxide	predictedType:Chemical
-ENTITY	text:triglycerides	normalName:triglycerides	predictedType:chemical	q:true	qid:Q375	docId:23872883	origText:triglycerides	url:D014280
-CANDIDATE	id:14280	inCount:112	outCount:1	links:	url:D014280	name:Triglycerides	normalName:triglycerides	normalWikiTitle:triglycerides	predictedType:Chemical
+ENTITY	text:isoproterenol	normalName:isoproterenol	predictedType:chemical	q:true	qid:Q9	docId:23872883	origText:isoproterenol	url:D007545
+CANDIDATE	id:7545	inCount:12	outCount:2	links:	url:D007545	name:Isoproterenol	normalName:isoproterenol	normalWikiTitle:isoproterenol	predictedType:Chemical
+ENTITY	text:lactate	normalName:lactate	predictedType:chemical	q:true	qid:Q9	docId:23872883	origText:lactate	url:D019344
+CANDIDATE	id:19344	inCount:38	outCount:1	links:	url:D019344	name:Lactate	normalName:lactate	normalWikiTitle:lactate	predictedType:Chemical
+ENTITY	text:creatine	normalName:creatine	predictedType:chemical	q:true	qid:Q9	docId:23872883	origText:creatine	url:D003401
+CANDIDATE	id:3401	inCount:7	outCount:2	links:	url:D003401	name:Creatine	normalName:creatine	normalWikiTitle:creatine	predictedType:Chemical
+ENTITY	text:alanine	normalName:alanine	predictedType:chemical	q:true	qid:Q9	docId:23872883	origText:alanine	url:D000409
+CANDIDATE	id:409	inCount:361	outCount:1	links:	url:D000409	name:Alanine	normalName:alanine	normalWikiTitle:alanine	predictedType:Chemical
+ENTITY	text:aspartate	normalName:aspartate	predictedType:chemical	q:true	qid:Q9	docId:23872883	origText:aspartate	url:D001224
+CANDIDATE	id:1224	inCount:116	outCount:3	links:	url:D001224	name:Aspartate	normalName:aspartate	normalWikiTitle:aspartate	predictedType:Chemical
+ENTITY	text:angiotensin	normalName:angiotensin	predictedType:chemical	q:true	qid:Q9	docId:23872883	origText:angiotensin	url:D000809
+CANDIDATE	id:809	inCount:9	outCount:4	links:	url:D000809	name:Angiotensin	normalName:angiotensin	normalWikiTitle:angiotensin	predictedType:Chemical
+ENTITY	text:cholesterol	normalName:cholesterol	predictedType:chemical	q:true	qid:Q9	docId:23872883	origText:cholesterol	url:D002784
+CANDIDATE	id:2784	inCount:223	outCount:2	links:	url:D002784	name:Cholesterol	normalName:cholesterol	normalWikiTitle:cholesterol	predictedType:Chemical
+ENTITY	text:triglycerides	normalName:triglycerides	predictedType:chemical	q:true	qid:Q9	docId:23872883	origText:triglycerides	url:D014280
+CANDIDATE	id:14280	inCount:115	outCount:1	links:	url:D014280	name:Triglycerides	normalName:triglycerides	normalWikiTitle:triglycerides	predictedType:Chemical
 CANDIDATE	id:34396	inCount:0	outCount:1	links:	url:C034396	name:HDL-triglyceride	normalName:hdl-triglyceride	normalWikiTitle:hdl-triglyceride	predictedType:Chemical
 CANDIDATE	id:4075	inCount:83	outCount:1	links:	url:D004075	name:Diglycerides	normalName:diglycerides	normalWikiTitle:diglycerides	predictedType:Chemical
 CANDIDATE	id:5989	inCount:81	outCount:1	links:	url:D005989	name:Glycerides	normalName:glycerides	normalWikiTitle:glycerides	predictedType:Chemical
@@ -14,33 +22,25 @@ CANDIDATE	id:556319	inCount:0	outCount:1	links:	url:C556319	name:hylodiglyceride
 CANDIDATE	id:46667	inCount:0	outCount:1	links:	url:C046667	name:triperiden	normalName:triperiden	normalWikiTitle:triperiden	predictedType:Chemical
 CANDIDATE	id:594071	inCount:0	outCount:1	links:	url:C000594071	name:urgineaglyceride A	normalName:urgineaglyceride a	normalWikiTitle:urgineaglyceride a	predictedType:Chemical
 CANDIDATE	id:611317	inCount:0	outCount:1	links:	url:C000611317	name:agaricoglyceride A	normalName:agaricoglyceride a	normalWikiTitle:agaricoglyceride a	predictedType:Chemical
-CANDIDATE	id:5996	inCount:10	outCount:1	links:	url:D005996	name:Nitroglycerin	normalName:nitroglycerin	normalWikiTitle:nitroglycerin	predictedType:Chemical
-ENTITY	text:alanine	normalName:alanine	predictedType:chemical	q:true	qid:Q375	docId:23872883	origText:alanine	url:D000409
-CANDIDATE	id:409	inCount:359	outCount:1	links:	url:D000409	name:Alanine	normalName:alanine	normalWikiTitle:alanine	predictedType:Chemical
-ENTITY	text:cholesterol	normalName:cholesterol	predictedType:chemical	q:true	qid:Q375	docId:23872883	origText:cholesterol	url:D002784
-CANDIDATE	id:2784	inCount:223	outCount:2	links:	url:D002784	name:Cholesterol	normalName:cholesterol	normalWikiTitle:cholesterol	predictedType:Chemical
-ENTITY	text:nitric oxide	normalName:nitric oxide	predictedType:chemical	q:true	qid:Q375	docId:23872883	origText:nitric oxide	url:D009569
-CANDIDATE	id:9569	inCount:13	outCount:3	links:	url:D009569	name:Nitric Oxide	normalName:nitric oxide	normalWikiTitle:nitric oxide	predictedType:Chemical
-ENTITY	text:malondialdehyde	normalName:malondialdehyde	predictedType:chemical	q:true	qid:Q375	docId:23872883	origText:malondialdehyde	url:D008315
-CANDIDATE	id:8315	inCount:11	outCount:1	links:	url:D008315	name:Malondialdehyde	normalName:malondialdehyde	normalWikiTitle:malondialdehyde	predictedType:Chemical
-ENTITY	text:angiotensin	normalName:angiotensin	predictedType:chemical	q:true	qid:Q375	docId:23872883	origText:angiotensin	url:D000809
-CANDIDATE	id:809	inCount:9	outCount:4	links:	url:D000809	name:Angiotensin	normalName:angiotensin	normalWikiTitle:angiotensin	predictedType:Chemical
-ENTITY	text:Captopril	normalName:captopril	predictedType:chemical	q:true	qid:Q375	docId:23872883	origText:Captopril	url:D002216
-CANDIDATE	id:2216	inCount:17	outCount:1	links:	url:D002216	name:Captopril	normalName:captopril	normalWikiTitle:captopril	predictedType:Chemical
-ENTITY	text:isoproterenol	normalName:isoproterenol	predictedType:chemical	q:true	qid:Q375	docId:23872883	origText:isoproterenol	url:D007545
-CANDIDATE	id:7545	inCount:12	outCount:2	links:	url:D007545	name:Isoproterenol	normalName:isoproterenol	normalWikiTitle:isoproterenol	predictedType:Chemical
-ENTITY	text:creatine	normalName:creatine	predictedType:chemical	q:true	qid:Q375	docId:23872883	origText:creatine	url:D003401
-CANDIDATE	id:3401	inCount:7	outCount:2	links:	url:D003401	name:Creatine	normalName:creatine	normalWikiTitle:creatine	predictedType:Chemical
-ENTITY	text:fatty acid	normalName:fatty acid	predictedType:chemical	q:true	qid:Q375	docId:23872883	origText:fatty acid	url:D005227
+CANDIDATE	id:5996	inCount:10	outCount:1	links:9569	url:D005996	name:Nitroglycerin	normalName:nitroglycerin	normalWikiTitle:nitroglycerin	predictedType:Chemical
+ENTITY	text:fatty acid	normalName:fatty acid	predictedType:chemical	q:true	qid:Q9	docId:23872883	origText:fatty acid	url:D005227
 CANDIDATE	id:5227	inCount:230	outCount:1	links:	url:D005227	name:Fatty Acids	normalName:fatty acids	normalWikiTitle:fatty acids	predictedType:Chemical
 CANDIDATE	id:479742	inCount:0	outCount:1	links:	url:C479742	name:CLA fatty acid	normalName:cla fatty acid	normalWikiTitle:cla fatty acid	predictedType:Chemical
 CANDIDATE	id:44242	inCount:0	outCount:1	links:	url:D044242	name:Trans Fatty Acids	normalName:trans fatty acids	normalWikiTitle:trans fatty acids	predictedType:Chemical
 CANDIDATE	id:604757	inCount:0	outCount:1	links:	url:C000604757	name:PC-594 fatty acid	normalName:pc-594 fatty acid	normalWikiTitle:pc-594 fatty acid	predictedType:Chemical
 CANDIDATE	id:11250	inCount:0	outCount:2	links:	url:C011250	name:fatty acid ketols	normalName:fatty acid ketols	normalWikiTitle:fatty acid ketols	predictedType:Chemical
 CANDIDATE	id:43371	inCount:3	outCount:1	links:	url:D043371	name:Fatty Acids, Omega-6	normalName:fatty acids, omega-6	normalWikiTitle:fatty acids, omega-6	predictedType:Chemical
-CANDIDATE	id:15525	inCount:22	outCount:3	links:	url:D015525	name:Fatty Acids, Omega-3	normalName:fatty acids, omega-3	normalWikiTitle:fatty acids, omega-3	predictedType:Chemical
+CANDIDATE	id:15525	inCount:23	outCount:3	links:	url:D015525	name:Fatty Acids, Omega-3	normalName:fatty acids, omega-3	normalWikiTitle:fatty acids, omega-3	predictedType:Chemical
 CANDIDATE	id:1634	inCount:0	outCount:2	links:	url:C001634	name:fatty aldehyde	normalName:fatty aldehyde	normalWikiTitle:fatty aldehyde	predictedType:Chemical
 CANDIDATE	id:5232	inCount:5	outCount:1	links:	url:D005232	name:Fatty Acids, Volatile	normalName:fatty acids, volatile	normalWikiTitle:fatty acids, volatile	predictedType:Chemical
 CANDIDATE	id:627429	inCount:0	outCount:1	links:	url:C000627429	name:matsutoic acid	normalName:matsutoic acid	normalWikiTitle:matsutoic acid	predictedType:Chemical
-ENTITY	text:lactate	normalName:lactate	predictedType:chemical	q:true	qid:Q375	docId:23872883	origText:lactate	url:D019344
-CANDIDATE	id:19344	inCount:38	outCount:1	links:	url:D019344	name:Lactate	normalName:lactate	normalWikiTitle:lactate	predictedType:Chemical
+ENTITY	text:malondialdehyde	normalName:malondialdehyde	predictedType:chemical	q:true	qid:Q9	docId:23872883	origText:malondialdehyde	url:D008315
+CANDIDATE	id:8315	inCount:11	outCount:1	links:	url:D008315	name:Malondialdehyde	normalName:malondialdehyde	normalWikiTitle:malondialdehyde	predictedType:Chemical
+ENTITY	text:nitric oxide	normalName:nitric oxide	predictedType:chemical	q:true	qid:Q9	docId:23872883	origText:nitric oxide	url:D009569
+CANDIDATE	id:9569	inCount:13	outCount:3	links:5996	url:D009569	name:Nitric Oxide	normalName:nitric oxide	normalWikiTitle:nitric oxide	predictedType:Chemical
+ENTITY	text:glutathione	normalName:glutathione	predictedType:chemical	q:true	qid:Q9	docId:23872883	origText:glutathione	url:D005978
+CANDIDATE	id:5978	inCount:256	outCount:1	links:	url:D005978	name:Glutathione	normalName:glutathione	normalWikiTitle:glutathione	predictedType:Chemical
+ENTITY	text:superoxide	normalName:superoxide	predictedType:chemical	q:true	qid:Q9	docId:23872883	origText:superoxide	url:D013481
+CANDIDATE	id:13481	inCount:1	outCount:1	links:	url:D013481	name:Superoxide	normalName:superoxide	normalWikiTitle:superoxide	predictedType:Chemical
+ENTITY	text:Captopril	normalName:captopril	predictedType:chemical	q:true	qid:Q9	docId:23872883	origText:Captopril	url:D002216
+CANDIDATE	id:2216	inCount:17	outCount:1	links:	url:D002216	name:Captopril	normalName:captopril	normalWikiTitle:captopril	predictedType:Chemical

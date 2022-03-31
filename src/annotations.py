@@ -1,9 +1,30 @@
+import orjson as json
 import os
 import xml.etree.ElementTree as ET
 import sys
 
 sys.path.append("./")
 
+
+def parse_input_file(filepath):
+    """Annotations format: {'doc_id: [(kb_id, annot1)]}"""
+    
+    annotations = {}
+
+    with open(filepath, 'r') as input_file:
+        in_annotations = json.loads(input_file.read())
+        input_file.close()
+
+        for doc_id in in_annotations.keys():
+            doc_entities = in_annotations[doc_id]
+            doc_entities_up = []
+
+            for entity in doc_entities:
+                doc_entities_up.append(('none', entity))
+        
+            annotations[doc_id] = doc_entities_up
+
+        return annotations
 
 
 def parse_cdr_annotations_pubtator(entity_type, subset):
@@ -56,7 +77,7 @@ def parse_cdr_annotations_pubtator(entity_type, subset):
                     
                     else:
                         annotations[document_id] = [annotation]
-
+ 
     return annotations
 
 
@@ -156,7 +177,7 @@ def parse_craft_chebi_annotations():
             # Parse each annotation
             for line in document: 
                 annotation_text = line.split("\t")[2].strip("\n")
-                chebi_id = line.split("\t")[1].split(" ")[0].replace("_", ":")
+                chebi_id = line.split("\t")[1].split(" ")[0]#.replace("_", ":")
 
                 annotations_temp.append((chebi_id, annotation_text))                
 

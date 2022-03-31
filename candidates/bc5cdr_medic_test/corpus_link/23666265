@@ -1,6 +1,6 @@
-ENTITY	text:pain	normalName:pain	predictedType:disease	q:true	qid:Q394	docId:23666265	origText:pain	url:D010146
-CANDIDATE	id:10146	inCount:34	outCount:1	links:3556;4487	url:D010146	name:Pain	normalName:pain	normalWikiTitle:pain	predictedType:Disease
-ENTITY	text:edema	normalName:edema	predictedType:disease	q:true	qid:Q394	docId:23666265	origText:edema	url:D004487
-CANDIDATE	id:4487	inCount:6	outCount:1	links:3556;10146	url:D004487	name:Edema	normalName:edema	normalWikiTitle:edema	predictedType:Disease
-ENTITY	text:cystitis	normalName:cystitis	predictedType:disease	q:true	qid:Q394	docId:23666265	origText:cystitis	url:D003556
-CANDIDATE	id:3556	inCount:2	outCount:1	links:4487;10146	url:D003556	name:Cystitis	normalName:cystitis	normalWikiTitle:cystitis	predictedType:Disease
+ENTITY	text:cystitis	normalName:cystitis	predictedType:disease	q:true	qid:Q5	docId:23666265	origText:cystitis	url:D003556
+CANDIDATE	id:3556	inCount:2	outCount:1	links:10146;4487	url:D003556	name:Cystitis	normalName:cystitis	normalWikiTitle:cystitis	predictedType:Disease
+ENTITY	text:pain	normalName:pain	predictedType:disease	q:true	qid:Q5	docId:23666265	origText:pain	url:D010146
+CANDIDATE	id:10146	inCount:34	outCount:1	links:4487;3556	url:D010146	name:Pain	normalName:pain	normalWikiTitle:pain	predictedType:Disease
+ENTITY	text:edema	normalName:edema	predictedType:disease	q:true	qid:Q5	docId:23666265	origText:edema	url:D004487
+CANDIDATE	id:4487	inCount:6	outCount:1	links:10146;3556	url:D004487	name:Edema	normalName:edema	normalWikiTitle:edema	predictedType:Disease

@@ -1,10 +1,10 @@
-ENTITY	text:onychomycosis	normalName:onychomycosis	predictedType:disease	q:true	qid:Q319	docId:24894748	origText:onychomycosis	url:D014009
-CANDIDATE	id:14009	inCount:0	outCount:2	links:	url:D014009	name:Onychomycosis	normalName:onychomycosis	normalWikiTitle:onychomycosis	predictedType:Disease
-ENTITY	text:confusion	normalName:confusion	predictedType:disease	q:true	qid:Q319	docId:24894748	origText:confusion	url:D003221
-CANDIDATE	id:3221	inCount:2	outCount:1	links:	url:D003221	name:Confusion	normalName:confusion	normalWikiTitle:confusion	predictedType:Disease
-ENTITY	text:bradycardia	normalName:bradycardia	predictedType:disease	q:true	qid:Q319	docId:24894748	origText:bradycardia	url:D001919
-CANDIDATE	id:1919	inCount:0	outCount:1	links:	url:D001919	name:Bradycardia	normalName:bradycardia	normalWikiTitle:bradycardia	predictedType:Disease
-ENTITY	text:adverse drug reaction	normalName:adverse drug reaction	predictedType:disease	q:true	qid:Q319	docId:24894748	origText:adverse drug reaction	url:D064420
-CANDIDATE	id:64420	inCount:10	outCount:1	links:	url:D064420	name:Adverse Drug Reaction	normalName:adverse drug reaction	normalWikiTitle:adverse drug reaction	predictedType:Disease
-ENTITY	text:coronary artery disease	normalName:coronary artery disease	predictedType:disease	q:true	qid:Q319	docId:24894748	origText:coronary artery disease	url:D003324
+ENTITY	text:bradycardia	normalName:bradycardia	predictedType:disease	q:true	qid:Q75	docId:24894748	origText:bradycardia	url:D001919
+CANDIDATE	id:1919	inCount:0	outCount:1	links:3221	url:D001919	name:Bradycardia	normalName:bradycardia	normalWikiTitle:bradycardia	predictedType:Disease
+ENTITY	text:coronary artery disease	normalName:coronary artery disease	predictedType:disease	q:true	qid:Q75	docId:24894748	origText:coronary artery disease	url:D003324
 CANDIDATE	id:3324	inCount:4	outCount:2	links:	url:D003324	name:Coronary Artery Disease	normalName:coronary artery disease	normalWikiTitle:coronary artery disease	predictedType:Disease
+ENTITY	text:onychomycosis	normalName:onychomycosis	predictedType:disease	q:true	qid:Q75	docId:24894748	origText:onychomycosis	url:D014009
+CANDIDATE	id:14009	inCount:0	outCount:2	links:	url:D014009	name:Onychomycosis	normalName:onychomycosis	normalWikiTitle:onychomycosis	predictedType:Disease
+ENTITY	text:confusion	normalName:confusion	predictedType:disease	q:true	qid:Q75	docId:24894748	origText:confusion	url:D003221
+CANDIDATE	id:3221	inCount:2	outCount:1	links:1919	url:D003221	name:Confusion	normalName:confusion	normalWikiTitle:confusion	predictedType:Disease
+ENTITY	text:adverse drug reaction	normalName:adverse drug reaction	predictedType:disease	q:true	qid:Q75	docId:24894748	origText:adverse drug reaction	url:D064420
+CANDIDATE	id:64420	inCount:14	outCount:1	links:	url:D064420	name:Adverse Drug Reaction	normalName:adverse drug reaction	normalWikiTitle:adverse drug reaction	predictedType:Disease

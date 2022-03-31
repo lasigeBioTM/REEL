@@ -1,5 +1,8 @@
-fuzzywuzzy
-networkx
-obonet
-python-Levenshtein
-spacy
+networkx==2.5.1
+obonet==0.3.0
+python-Levenshtein==0.12.2
+spacy==3.2.4
+orjson==3.6.1
+rapidfuzz==2.0.2
+tqdm==4.63.1
+

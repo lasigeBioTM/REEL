@@ -7,7 +7,7 @@ import pickle
 import sys
 import xml.etree.ElementTree as ET
 
-from fuzzywuzzy import fuzz, process
+from rapidfuzz import fuzz, process
 
 sys.path.append("./")
 
@@ -83,7 +83,7 @@ def load_medic():
     # Create a MultiDiGraph object with only "is-a" relations - this will allow the further calculation of shorthest path lenght
     ontology_graph = nx.MultiDiGraph([edge for edge in edge_list])
     
-    print("Is ontology_graph acyclic:", nx.is_directed_acyclic_graph(ontology_graph))
+    #print("Is ontology_graph acyclic:", nx.is_directed_acyclic_graph(ontology_graph))
     print("MEDIC loading complete")
 
     return ontology_graph, name_to_id, synonym_to_id
@@ -105,39 +105,39 @@ def map_to_medic(entity_text, name_to_id, synonym_to_id):
     global medic_cache
     
     if entity_text in name_to_id or entity_text in synonym_to_id: # There is an exact match for this entity
-        drugs = [entity_text]
+        diseases = [entity_text]
     
     if entity_text.endswith("s") and entity_text[:-1] in medic_cache: # Removal of suffix -s 
-        drugs = medic_cache[entity_text[:-1]]
+        diseases = medic_cache[entity_text[:-1]]
     
     elif entity_text in medic_cache: # There is already a candidate list stored in cache file
-        drugs = medic_cache[entity_text]
+        diseases = medic_cache[entity_text]
 
     else:
         # Get first ten MeSH candidates according to lexical similarity with entity_text
-        drugs = process.extract(entity_text, name_to_id.keys(), scorer=fuzz.token_sort_ratio, limit=10)
+        diseases = process.extract(entity_text, name_to_id.keys(), scorer=fuzz.token_sort_ratio, limit=10)
         
-        if drugs[0][1] == 100: # There is an exact match for this entity
-            drugs = [drugs[0]]
+        if diseases[0][1] == 100: # There is an exact match for this entity
+            diseases = [diseases[0]]
     
-        elif drugs[0][1] < 100: # Check for synonyms to this entity
+        elif diseases[0][1] < 100: # Check for synonyms to this entity
             drug_syns = process.extract(entity_text, synonym_to_id.keys(), limit=10, scorer=fuzz.token_sort_ratio)
 
             for synonym in drug_syns:
 
                 if synonym[1] == 100:
-                    drugs = [synonym]
+                    diseases = [synonym]
                 
                 else:
-                    if synonym[1] > drugs[0][1]:
-                        drugs.append(synonym)
+                    if synonym[1] > diseases[0][1]:
+                        diseases.append(synonym)
         
-        medic_cache[entity_text] = drugs
+        medic_cache[entity_text] = diseases
     
     # Build the candidates list with each match id, name and matching score with entity_text
     matches = []
     
-    for d in drugs:
+    for d in diseases:
         
         term_name = d[0]
         

@@ -1,30 +1,30 @@
-ENTITY	text:muscle tremors	normalName:muscle tremors	predictedType:disease	q:true	qid:Q490	docId:6106951	origText:muscle tremors	url:D014202
-CANDIDATE	id:14202	inCount:6	outCount:1	links:12640	url:D014202	name:Muscle Tremors	normalName:muscle tremors	normalWikiTitle:muscle tremors	predictedType:Disease
-ENTITY	text:toxocity	normalName:toxocity	predictedType:disease	q:true	qid:Q490	docId:6106951	origText:toxocity	url:D064420
-CANDIDATE	id:64420	inCount:10	outCount:1	links:	url:D064420	name:Drug Toxicity	normalName:drug toxicity	normalWikiTitle:drug toxicity	predictedType:Disease
-CANDIDATE	id:66126	inCount:0	outCount:3	links:12871	url:D066126	name:Cardiotoxicity	normalName:cardiotoxicity	normalWikiTitle:cardiotoxicity	predictedType:Disease
-CANDIDATE	id:14120	inCount:2	outCount:2	links:	url:D014120	name:Toxocariasis	normalName:toxocariasis	normalWikiTitle:toxocariasis	predictedType:Disease
-CANDIDATE	id:9765	inCount:42	outCount:2	links:	url:D009765	name:Obesity	normalName:obesity	normalWikiTitle:obesity	predictedType:Disease
-CANDIDATE	id:14115	inCount:1	outCount:1	links:	url:D014115	name:Toxemia	normalName:toxemia	normalWikiTitle:toxemia	predictedType:Disease
-CANDIDATE	id:3318	inCount:9	outCount:1	links:14786	url:D003318	name:Corneal Opacity	normalName:corneal opacity	normalWikiTitle:corneal opacity	predictedType:Disease
-CANDIDATE	id:64420	inCount:10	outCount:1	links:	url:D064420	name:Toxicity, Drug	normalName:toxicity, drug	normalWikiTitle:toxicity, drug	predictedType:Disease
-CANDIDATE	id:17484	inCount:0	outCount:2	links:	url:D017484	name:Phototoxicity	normalName:phototoxicity	normalWikiTitle:phototoxicity	predictedType:Disease
-ENTITY	text:epilepsy	normalName:epilepsy	predictedType:disease	q:true	qid:Q490	docId:6106951	origText:epilepsy	url:D004827
-CANDIDATE	id:4827	inCount:52	outCount:1	links:12640	url:D004827	name:Epilepsy	normalName:epilepsy	normalWikiTitle:epilepsy	predictedType:Disease
-ENTITY	text:loss of consciousness	normalName:loss of consciousness	predictedType:disease	q:true	qid:Q490	docId:6106951	origText:loss of consciousness	url:D014474
-CANDIDATE	id:14474	inCount:4	outCount:1	links:	url:D014474	name:Consciousness, Loss of	normalName:consciousness, loss of	normalWikiTitle:consciousness, loss of	predictedType:Disease
-ENTITY	text:convulsions	normalName:convulsions	predictedType:disease	q:true	qid:Q490	docId:6106951	origText:convulsions	url:D012640
-CANDIDATE	id:12640	inCount:53	outCount:1	links:4827;14202;1714	url:D012640	name:Convulsion	normalName:convulsion	normalWikiTitle:convulsion	predictedType:Disease
-ENTITY	text:depression	normalName:depression	predictedType:disease	q:true	qid:Q490	docId:6106951	origText:depression	url:D003866
-CANDIDATE	id:3866	inCount:6	outCount:1	links:	url:D003866	name:Depressive Disorder	normalName:depressive disorder	normalWikiTitle:depressive disorder	predictedType:Disease
+ENTITY	text:convulsions	normalName:convulsions	predictedType:disease	q:true	qid:Q233	docId:6106951	origText:convulsions	url:D012640
+CANDIDATE	id:12640	inCount:54	outCount:1	links:6973;4827;14202;1714;66126	url:D012640	name:Convulsion	normalName:convulsion	normalWikiTitle:convulsion	predictedType:Disease
+ENTITY	text:depression	normalName:depression	predictedType:disease	q:true	qid:Q233	docId:6106951	origText:depression	url:D003866
+CANDIDATE	id:3866	inCount:7	outCount:1	links:	url:D003866	name:Depressive Disorder	normalName:depressive disorder	normalWikiTitle:depressive disorder	predictedType:Disease
 CANDIDATE	id:18450	inCount:2	outCount:1	links:	url:D018450	name:Disease Progression	normalName:disease progression	normalWikiTitle:disease progression	predictedType:Disease
 CANDIDATE	id:19052	inCount:0	outCount:2	links:	url:D019052	name:Depression, Postpartum	normalName:depression, postpartum	normalWikiTitle:depression, postpartum	predictedType:Disease
 CANDIDATE	id:146850	inCount:0	outCount:2	links:	url:146850	name:IMMUNE SUPPRESSION	normalName:immune suppression	normalWikiTitle:immune suppression	predictedType:Disease
-CANDIDATE	id:6973	inCount:18	outCount:1	links:	url:D006973	name:Hypertension	normalName:hypertension	normalWikiTitle:hypertension	predictedType:Disease
+CANDIDATE	id:6973	inCount:19	outCount:1	links:12640;14202	url:D006973	name:Hypertension	normalName:hypertension	normalWikiTitle:hypertension	predictedType:Disease
 CANDIDATE	id:58246	inCount:0	outCount:1	links:	url:D058246	name:Prehypertension	normalName:prehypertension	normalWikiTitle:prehypertension	predictedType:Disease
 CANDIDATE	id:14786	inCount:19	outCount:2	links:3318	url:D014786	name:Vision Disorders	normalName:vision disorders	normalWikiTitle:vision disorders	predictedType:Disease
 CANDIDATE	id:3665	inCount:0	outCount:1	links:	url:D003665	name:Decompression Sickness	normalName:decompression sickness	normalWikiTitle:decompression sickness	predictedType:Disease
-CANDIDATE	id:12871	inCount:71	outCount:1	links:66126	url:D012871	name:Skin Diseases	normalName:skin diseases	normalWikiTitle:skin diseases	predictedType:Disease
+CANDIDATE	id:12871	inCount:70	outCount:1	links:66126	url:D012871	name:Skin Diseases	normalName:skin diseases	normalWikiTitle:skin diseases	predictedType:Disease
 CANDIDATE	id:4688	inCount:1	outCount:2	links:	url:D004688	name:Encopresis	normalName:encopresis	normalWikiTitle:encopresis	predictedType:Disease
 CANDIDATE	id:1714	inCount:11	outCount:1	links:12640	url:D001714	name:Depression, Bipolar	normalName:depression, bipolar	normalWikiTitle:depression, bipolar	predictedType:Disease
 CANDIDATE	id:1714	inCount:11	outCount:1	links:12640	url:D001714	name:Bipolar Depression	normalName:bipolar depression	normalWikiTitle:bipolar depression	predictedType:Disease
+ENTITY	text:loss of consciousness	normalName:loss of consciousness	predictedType:disease	q:true	qid:Q233	docId:6106951	origText:loss of consciousness	url:D014474
+CANDIDATE	id:14474	inCount:4	outCount:1	links:	url:D014474	name:Consciousness, Loss of	normalName:consciousness, loss of	normalWikiTitle:consciousness, loss of	predictedType:Disease
+ENTITY	text:toxocity	normalName:toxocity	predictedType:disease	q:true	qid:Q233	docId:6106951	origText:toxocity	url:D064420
+CANDIDATE	id:64420	inCount:14	outCount:1	links:	url:D064420	name:Drug Toxicity	normalName:drug toxicity	normalWikiTitle:drug toxicity	predictedType:Disease
+CANDIDATE	id:66126	inCount:0	outCount:4	links:12640;12871	url:D066126	name:Cardiotoxicity	normalName:cardiotoxicity	normalWikiTitle:cardiotoxicity	predictedType:Disease
+CANDIDATE	id:14120	inCount:2	outCount:2	links:	url:D014120	name:Toxocariasis	normalName:toxocariasis	normalWikiTitle:toxocariasis	predictedType:Disease
+CANDIDATE	id:9765	inCount:43	outCount:1	links:	url:D009765	name:Obesity	normalName:obesity	normalWikiTitle:obesity	predictedType:Disease
+CANDIDATE	id:14115	inCount:1	outCount:1	links:	url:D014115	name:Toxemia	normalName:toxemia	normalWikiTitle:toxemia	predictedType:Disease
+CANDIDATE	id:3318	inCount:9	outCount:1	links:14786	url:D003318	name:Corneal Opacity	normalName:corneal opacity	normalWikiTitle:corneal opacity	predictedType:Disease
+CANDIDATE	id:64420	inCount:14	outCount:1	links:	url:D064420	name:Toxicity, Drug	normalName:toxicity, drug	normalWikiTitle:toxicity, drug	predictedType:Disease
+CANDIDATE	id:17484	inCount:0	outCount:2	links:	url:D017484	name:Phototoxicity	normalName:phototoxicity	normalWikiTitle:phototoxicity	predictedType:Disease
+ENTITY	text:muscle tremors	normalName:muscle tremors	predictedType:disease	q:true	qid:Q233	docId:6106951	origText:muscle tremors	url:D014202
+CANDIDATE	id:14202	inCount:6	outCount:1	links:12640;6973	url:D014202	name:Muscle Tremors	normalName:muscle tremors	normalWikiTitle:muscle tremors	predictedType:Disease
+ENTITY	text:epilepsy	normalName:epilepsy	predictedType:disease	q:true	qid:Q233	docId:6106951	origText:epilepsy	url:D004827
+CANDIDATE	id:4827	inCount:53	outCount:1	links:12640	url:D004827	name:Epilepsy	normalName:epilepsy	normalWikiTitle:epilepsy	predictedType:Disease

@@ -1,4 +1,4 @@
-ENTITY	text:cardiotoxicity	normalName:cardiotoxicity	predictedType:disease	q:true	qid:Q188	docId:23872883	origText:cardiotoxicity	url:D066126
-CANDIDATE	id:66126	inCount:0	outCount:3	links:	url:D066126	name:Cardiotoxicity	normalName:cardiotoxicity	normalWikiTitle:cardiotoxicity	predictedType:Disease
-ENTITY	text:Cardiovascular diseases	normalName:cardiovascular diseases	predictedType:disease	q:true	qid:Q188	docId:23872883	origText:Cardiovascular diseases	url:D002318
+ENTITY	text:cardiotoxicity	normalName:cardiotoxicity	predictedType:disease	q:true	qid:Q9	docId:23872883	origText:cardiotoxicity	url:D066126
+CANDIDATE	id:66126	inCount:0	outCount:4	links:	url:D066126	name:Cardiotoxicity	normalName:cardiotoxicity	normalWikiTitle:cardiotoxicity	predictedType:Disease
+ENTITY	text:Cardiovascular diseases	normalName:cardiovascular diseases	predictedType:disease	q:true	qid:Q9	docId:23872883	origText:Cardiovascular diseases	url:D002318
 CANDIDATE	id:2318	inCount:5	outCount:1	links:	url:D002318	name:Disease, Cardiovascular	normalName:disease, cardiovascular	normalWikiTitle:disease, cardiovascular	predictedType:Disease

@@ -1,29 +1,29 @@
-ENTITY	text:alopecia	normalName:alopecia	predictedType:disease	q:true	qid:Q213	docId:10726030	origText:alopecia	url:D000505
-CANDIDATE	id:505	inCount:57	outCount:2	links:4802;13927;10024;13921;6947;11317;6994	url:D000505	name:Alopecia	normalName:alopecia	normalWikiTitle:alopecia	predictedType:Disease
-ENTITY	text:thrombosis	normalName:thrombosis	predictedType:disease	q:true	qid:Q213	docId:10726030	origText:thrombosis	url:D013927
-CANDIDATE	id:13927	inCount:4	outCount:1	links:4802;10024;13921;505;6947;11317;6994	url:D013927	name:Thrombosis	normalName:thrombosis	normalWikiTitle:thrombosis	predictedType:Disease
-ENTITY	text:hyperkalemia	normalName:hyperkalemia	predictedType:disease	q:true	qid:Q213	docId:10726030	origText:hyperkalemia	url:D006947
-CANDIDATE	id:6947	inCount:4	outCount:1	links:4802;13927;10024;13921;505;11317;6994	url:D006947	name:Hyperkalemia	normalName:hyperkalemia	normalWikiTitle:hyperkalemia	predictedType:Disease
-ENTITY	text:hypoaldosteronism	normalName:hypoaldosteronism	predictedType:disease	q:true	qid:Q213	docId:10726030	origText:hypoaldosteronism	url:D006994
-CANDIDATE	id:6994	inCount:2	outCount:1	links:4802;13927;10024;13921;6947;11317;505	url:D006994	name:Hypoaldosteronism	normalName:hypoaldosteronism	normalWikiTitle:hypoaldosteronism	predictedType:Disease
-ENTITY	text:Bleeding	normalName:bleeding	predictedType:disease	q:true	qid:Q213	docId:10726030	origText:Bleeding	url:D006470
-CANDIDATE	id:6470	inCount:31	outCount:1	links:	url:D006470	name:Bleeding	normalName:bleeding	normalWikiTitle:bleeding	predictedType:Disease
-ENTITY	text:thrombotic	normalName:thrombotic	predictedType:disease	q:true	qid:Q213	docId:10726030	origText:thrombotic	url:D013927
-CANDIDATE	id:13927	inCount:4	outCount:1	links:4802;10024;13921;505;6947;11317;6994	url:D013927	name:Thrombosis	normalName:thrombosis	normalWikiTitle:thrombosis	predictedType:Disease
-CANDIDATE	id:13922	inCount:4	outCount:2	links:	url:D013922	name:Thrombocytosis	normalName:thrombocytosis	normalWikiTitle:thrombocytosis	predictedType:Disease
+ENTITY	text:thrombocytopenia	normalName:thrombocytopenia	predictedType:disease	q:true	qid:Q330	docId:10726030	origText:thrombocytopenia	url:D013921
+CANDIDATE	id:13921	inCount:42	outCount:1	links:11317;505;6470;6947;6994;4802;10024;13927	url:D013921	name:Thrombocytopenia	normalName:thrombocytopenia	normalWikiTitle:thrombocytopenia	predictedType:Disease
+ENTITY	text:thrombosis	normalName:thrombosis	predictedType:disease	q:true	qid:Q330	docId:10726030	origText:thrombosis	url:D013927
+CANDIDATE	id:13927	inCount:6	outCount:1	links:13921;11317;505;6470;6947;6994;4802;10024	url:D013927	name:Thrombosis	normalName:thrombosis	normalWikiTitle:thrombosis	predictedType:Disease
+ENTITY	text:thrombotic	normalName:thrombotic	predictedType:disease	q:true	qid:Q330	docId:10726030	origText:thrombotic	url:D013927
+CANDIDATE	id:13927	inCount:6	outCount:1	links:13921;11317;505;6470;6947;6994;4802;10024	url:D013927	name:Thrombosis	normalName:thrombosis	normalWikiTitle:thrombosis	predictedType:Disease
+CANDIDATE	id:13922	inCount:3	outCount:2	links:	url:D013922	name:Thrombocytosis	normalName:thrombocytosis	normalWikiTitle:thrombocytosis	predictedType:Disease
 CANDIDATE	id:19851	inCount:16	outCount:1	links:	url:D019851	name:Thrombophilia	normalName:thrombophilia	normalWikiTitle:thrombophilia	predictedType:Disease
 CANDIDATE	id:13924	inCount:1	outCount:2	links:	url:D013924	name:Thrombophlebitis	normalName:thrombophlebitis	normalWikiTitle:thrombophlebitis	predictedType:Disease
-CANDIDATE	id:13921	inCount:42	outCount:1	links:4802;13927;10024;505;6947;11317;6994	url:D013921	name:Thrombocytopenia	normalName:thrombocytopenia	normalWikiTitle:thrombocytopenia	predictedType:Disease
+CANDIDATE	id:13921	inCount:42	outCount:1	links:11317;505;6470;6947;6994;4802;10024;13927	url:D013921	name:Thrombocytopenia	normalName:thrombocytopenia	normalWikiTitle:thrombocytopenia	predictedType:Disease
 CANDIDATE	id:13915	inCount:3	outCount:3	links:	url:D013915	name:Thrombasthenia	normalName:thrombasthenia	normalWikiTitle:thrombasthenia	predictedType:Disease
 CANDIDATE	id:567438	inCount:0	outCount:1	links:	url:C567438	name:Thrombocytopenia 4	normalName:thrombocytopenia 4	normalWikiTitle:thrombocytopenia 4	predictedType:Disease
 CANDIDATE	id:616937	inCount:0	outCount:1	links:	url:616937	name:THROMBOCYTOPENIA 6	normalName:thrombocytopenia 6	normalWikiTitle:thrombocytopenia 6	predictedType:Disease
 CANDIDATE	id:567487	inCount:0	outCount:1	links:	url:C567487	name:Thrombocytopenia 3	normalName:thrombocytopenia 3	normalWikiTitle:thrombocytopenia 3	predictedType:Disease
 CANDIDATE	id:564052	inCount:0	outCount:2	links:	url:C564052	name:Thrombocytopenia 1	normalName:thrombocytopenia 1	normalWikiTitle:thrombocytopenia 1	predictedType:Disease
-ENTITY	text:priapism	normalName:priapism	predictedType:disease	q:true	qid:Q213	docId:10726030	origText:priapism	url:D011317
-CANDIDATE	id:11317	inCount:1	outCount:1	links:4802;13927;10024;13921;505;6947;6994	url:D011317	name:Priapism	normalName:priapism	normalWikiTitle:priapism	predictedType:Disease
-ENTITY	text:thrombocytopenia	normalName:thrombocytopenia	predictedType:disease	q:true	qid:Q213	docId:10726030	origText:thrombocytopenia	url:D013921
-CANDIDATE	id:13921	inCount:42	outCount:1	links:4802;13927;10024;505;6947;11317;6994	url:D013921	name:Thrombocytopenia	normalName:thrombocytopenia	normalWikiTitle:thrombocytopenia	predictedType:Disease
-ENTITY	text:osteoporosis	normalName:osteoporosis	predictedType:disease	q:true	qid:Q213	docId:10726030	origText:osteoporosis	url:D010024
-CANDIDATE	id:10024	inCount:21	outCount:1	links:4802;13927;13921;505;6947;11317;6994	url:D010024	name:Osteoporosis	normalName:osteoporosis	normalWikiTitle:osteoporosis	predictedType:Disease
-ENTITY	text:eosinophilia	normalName:eosinophilia	predictedType:disease	q:true	qid:Q213	docId:10726030	origText:eosinophilia	url:D004802
-CANDIDATE	id:4802	inCount:14	outCount:1	links:13927;10024;13921;505;6947;11317;6994	url:D004802	name:Eosinophilia	normalName:eosinophilia	normalWikiTitle:eosinophilia	predictedType:Disease
+ENTITY	text:Bleeding	normalName:bleeding	predictedType:disease	q:true	qid:Q330	docId:10726030	origText:Bleeding	url:D006470
+CANDIDATE	id:6470	inCount:31	outCount:1	links:13921;11317;505;6947;6994;4802;10024;13927	url:D006470	name:Bleeding	normalName:bleeding	normalWikiTitle:bleeding	predictedType:Disease
+ENTITY	text:osteoporosis	normalName:osteoporosis	predictedType:disease	q:true	qid:Q330	docId:10726030	origText:osteoporosis	url:D010024
+CANDIDATE	id:10024	inCount:19	outCount:1	links:13921;11317;505;6470;6947;6994;4802;13927	url:D010024	name:Osteoporosis	normalName:osteoporosis	normalWikiTitle:osteoporosis	predictedType:Disease
+ENTITY	text:eosinophilia	normalName:eosinophilia	predictedType:disease	q:true	qid:Q330	docId:10726030	origText:eosinophilia	url:D004802
+CANDIDATE	id:4802	inCount:15	outCount:1	links:13921;11317;505;6470;6947;6994;10024;13927	url:D004802	name:Eosinophilia	normalName:eosinophilia	normalWikiTitle:eosinophilia	predictedType:Disease
+ENTITY	text:alopecia	normalName:alopecia	predictedType:disease	q:true	qid:Q330	docId:10726030	origText:alopecia	url:D000505
+CANDIDATE	id:505	inCount:57	outCount:2	links:13921;11317;6470;6947;6994;4802;10024;13927	url:D000505	name:Alopecia	normalName:alopecia	normalWikiTitle:alopecia	predictedType:Disease
+ENTITY	text:hyperkalemia	normalName:hyperkalemia	predictedType:disease	q:true	qid:Q330	docId:10726030	origText:hyperkalemia	url:D006947
+CANDIDATE	id:6947	inCount:4	outCount:1	links:13921;11317;505;6470;6994;4802;10024;13927	url:D006947	name:Hyperkalemia	normalName:hyperkalemia	normalWikiTitle:hyperkalemia	predictedType:Disease
+ENTITY	text:hypoaldosteronism	normalName:hypoaldosteronism	predictedType:disease	q:true	qid:Q330	docId:10726030	origText:hypoaldosteronism	url:D006994
+CANDIDATE	id:6994	inCount:2	outCount:1	links:13921;11317;505;6470;6947;4802;10024;13927	url:D006994	name:Hypoaldosteronism	normalName:hypoaldosteronism	normalWikiTitle:hypoaldosteronism	predictedType:Disease
+ENTITY	text:priapism	normalName:priapism	predictedType:disease	q:true	qid:Q330	docId:10726030	origText:priapism	url:D011317
+CANDIDATE	id:11317	inCount:1	outCount:1	links:13921;505;6470;6947;6994;4802;10024;13927	url:D011317	name:Priapism	normalName:priapism	normalWikiTitle:priapism	predictedType:Disease

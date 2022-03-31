@@ -1,6 +1,17 @@
-ENTITY	text:hypertension	normalName:hypertension	predictedType:disease	q:true	qid:Q360	docId:25031906	origText:hypertension	url:D006973
-CANDIDATE	id:6973	inCount:18	outCount:1	links:	url:D006973	name:Hypertension	normalName:hypertension	normalWikiTitle:hypertension	predictedType:Disease
-ENTITY	text:loss of taste sensation	normalName:loss of taste sensation	predictedType:disease	q:true	qid:Q360	docId:25031906	origText:loss of taste sensation	url:D012678
+ENTITY	text:Dysguesia	normalName:dysguesia	predictedType:disease	q:true	qid:Q87	docId:25031906	origText:Dysguesia	url:D004408
+CANDIDATE	id:4408	inCount:0	outCount:1	links:	url:D004408	name:Dysgeusia	normalName:dysgeusia	normalWikiTitle:dysgeusia	predictedType:Disease
+CANDIDATE	id:4415	inCount:0	outCount:1	links:	url:D004415	name:Dyspepsia	normalName:dyspepsia	normalWikiTitle:dyspepsia	predictedType:Disease
+CANDIDATE	id:53159	inCount:0	outCount:1	links:	url:D053159	name:Dysuria	normalName:dysuria	normalWikiTitle:dysuria	predictedType:Disease
+CANDIDATE	id:4410	inCount:2	outCount:2	links:	url:D004410	name:Dyslexia	normalName:dyslexia	normalWikiTitle:dyslexia	predictedType:Disease
+CANDIDATE	id:20820	inCount:25	outCount:2	links:6973	url:D020820	name:Dyskinesias	normalName:dyskinesias	normalWikiTitle:dyskinesias	predictedType:Disease
+CANDIDATE	id:4407	inCount:0	outCount:1	links:	url:D004407	name:Dysgerminoma	normalName:dysgerminoma	normalWikiTitle:dysgerminoma	predictedType:Disease
+CANDIDATE	id:20920	inCount:3	outCount:1	links:	url:D020920	name:Dyssomnias	normalName:dyssomnias	normalWikiTitle:dyssomnias	predictedType:Disease
+CANDIDATE	id:4417	inCount:1	outCount:2	links:6973	url:D004417	name:Dyspnea	normalName:dyspnea	normalWikiTitle:dyspnea	predictedType:Disease
+CANDIDATE	id:370	inCount:0	outCount:1	links:	url:D000370	name:Ageusia	normalName:ageusia	normalWikiTitle:ageusia	predictedType:Disease
+CANDIDATE	id:4414	inCount:0	outCount:4	links:	url:D004414	name:Dyspareunia	normalName:dyspareunia	normalWikiTitle:dyspareunia	predictedType:Disease
+ENTITY	text:hypertension	normalName:hypertension	predictedType:disease	q:true	qid:Q87	docId:25031906	origText:hypertension	url:D006973
+CANDIDATE	id:6973	inCount:19	outCount:1	links:4417;20820	url:D006973	name:Hypertension	normalName:hypertension	normalWikiTitle:hypertension	predictedType:Disease
+ENTITY	text:loss of taste sensation	normalName:loss of taste sensation	predictedType:disease	q:true	qid:Q87	docId:25031906	origText:loss of taste sensation	url:D012678
 CANDIDATE	id:12678	inCount:7	outCount:1	links:	url:D012678	name:Sensation Disorders	normalName:sensation disorders	normalWikiTitle:sensation disorders	predictedType:Disease
 CANDIDATE	id:536534	inCount:0	outCount:2	links:	url:C536534	name:VATER association	normalName:vater association	normalWikiTitle:vater association	predictedType:Disease
 CANDIDATE	id:536495	inCount:0	outCount:2	links:	url:C536495	name:VACTERL association	normalName:vacterl association	normalWikiTitle:vacterl association	predictedType:Disease
@@ -10,20 +21,9 @@ CANDIDATE	id:58267	inCount:1	outCount:1	links:	url:D058267	name:Flea Infestation
 CANDIDATE	id:31901	inCount:1	outCount:1	links:	url:D031901	name:Gestational Trophoblastic Disease	normalName:gestational trophoblastic disease	normalWikiTitle:gestational trophoblastic disease	predictedType:Disease
 CANDIDATE	id:13651	inCount:3	outCount:1	links:	url:D013651	name:Taste Disorders	normalName:taste disorders	normalWikiTitle:taste disorders	predictedType:Disease
 CANDIDATE	id:565530	inCount:0	outCount:3	links:	url:C565530	name:Grouped Pigmentation of the Macula	normalName:grouped pigmentation of the macula	normalWikiTitle:grouped pigmentation of the macula	predictedType:Disease
-CANDIDATE	id:3428	inCount:2	outCount:2	links:	url:D003428	name:Cross Infection	normalName:cross infection	normalWikiTitle:cross infection	predictedType:Disease
+CANDIDATE	id:3428	inCount:1	outCount:2	links:	url:D003428	name:Cross Infection	normalName:cross infection	normalWikiTitle:cross infection	predictedType:Disease
 CANDIDATE	id:17889	inCount:0	outCount:1	links:	url:D017889	name:Pseudoexfoliation Of The Lens	normalName:pseudoexfoliation of the lens	normalWikiTitle:pseudoexfoliation of the lens	predictedType:Disease
 CANDIDATE	id:20886	inCount:6	outCount:1	links:	url:D020886	name:Sensation Disorder, Somatic	normalName:sensation disorder, somatic	normalWikiTitle:sensation disorder, somatic	predictedType:Disease
 CANDIDATE	id:20886	inCount:6	outCount:1	links:	url:D020886	name:Somatic Sensation Disorder	normalName:somatic sensation disorder	normalWikiTitle:somatic sensation disorder	predictedType:Disease
 CANDIDATE	id:20886	inCount:6	outCount:1	links:	url:D020886	name:Sensation Disorder, Thermal	normalName:sensation disorder, thermal	normalWikiTitle:sensation disorder, thermal	predictedType:Disease
 CANDIDATE	id:20886	inCount:6	outCount:1	links:	url:D020886	name:Thermal Sensation Disorder	normalName:thermal sensation disorder	normalWikiTitle:thermal sensation disorder	predictedType:Disease
-ENTITY	text:Dysguesia	normalName:dysguesia	predictedType:disease	q:true	qid:Q360	docId:25031906	origText:Dysguesia	url:D004408
-CANDIDATE	id:4408	inCount:0	outCount:1	links:	url:D004408	name:Dysgeusia	normalName:dysgeusia	normalWikiTitle:dysgeusia	predictedType:Disease
-CANDIDATE	id:4415	inCount:0	outCount:1	links:	url:D004415	name:Dyspepsia	normalName:dyspepsia	normalWikiTitle:dyspepsia	predictedType:Disease
-CANDIDATE	id:53159	inCount:0	outCount:1	links:	url:D053159	name:Dysuria	normalName:dysuria	normalWikiTitle:dysuria	predictedType:Disease
-CANDIDATE	id:4410	inCount:2	outCount:2	links:	url:D004410	name:Dyslexia	normalName:dyslexia	normalWikiTitle:dyslexia	predictedType:Disease
-CANDIDATE	id:20820	inCount:25	outCount:2	links:	url:D020820	name:Dyskinesias	normalName:dyskinesias	normalWikiTitle:dyskinesias	predictedType:Disease
-CANDIDATE	id:4407	inCount:0	outCount:1	links:	url:D004407	name:Dysgerminoma	normalName:dysgerminoma	normalWikiTitle:dysgerminoma	predictedType:Disease
-CANDIDATE	id:20920	inCount:3	outCount:1	links:	url:D020920	name:Dyssomnias	normalName:dyssomnias	normalWikiTitle:dyssomnias	predictedType:Disease
-CANDIDATE	id:4417	inCount:1	outCount:2	links:	url:D004417	name:Dyspnea	normalName:dyspnea	normalWikiTitle:dyspnea	predictedType:Disease
-CANDIDATE	id:370	inCount:0	outCount:1	links:	url:D000370	name:Ageusia	normalName:ageusia	normalWikiTitle:ageusia	predictedType:Disease
-CANDIDATE	id:4414	inCount:0	outCount:2	links:	url:D004414	name:Dyspareunia	normalName:dyspareunia	normalWikiTitle:dyspareunia	predictedType:Disease

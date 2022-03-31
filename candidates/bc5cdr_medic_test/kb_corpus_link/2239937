@@ -1,4 +1,6 @@
-ENTITY	text:hypercalcemic	normalName:hypercalcemic	predictedType:disease	q:true	qid:Q500	docId:2239937	origText:hypercalcemic	url:D006934
+ENTITY	text:hypercalcemia	normalName:hypercalcemia	predictedType:disease	q:true	qid:Q171	docId:2239937	origText:hypercalcemia	url:D006934
+CANDIDATE	id:6934	inCount:10	outCount:2	links:6934	url:D006934	name:Hypercalcemia	normalName:hypercalcemia	normalWikiTitle:hypercalcemia	predictedType:Disease
+ENTITY	text:hypercalcemic	normalName:hypercalcemic	predictedType:disease	q:true	qid:Q171	docId:2239937	origText:hypercalcemic	url:D006934
 CANDIDATE	id:6934	inCount:10	outCount:2	links:6934	url:D006934	name:Hypercalcemia	normalName:hypercalcemia	normalWikiTitle:hypercalcemia	predictedType:Disease
 CANDIDATE	id:6947	inCount:4	outCount:1	links:	url:D006947	name:Hyperkalemia	normalName:hyperkalemia	normalWikiTitle:hyperkalemia	predictedType:Disease
 CANDIDATE	id:6996	inCount:5	outCount:2	links:	url:D006996	name:Hypocalcemia	normalName:hypocalcemia	normalWikiTitle:hypocalcemia	predictedType:Disease
@@ -9,5 +11,3 @@ CANDIDATE	id:6930	inCount:0	outCount:1	links:	url:D006930	name:Hyperalgesia	norm
 CANDIDATE	id:34321	inCount:0	outCount:1	links:	url:D034321	name:Hyperamylasemia	normalName:hyperamylasemia	normalWikiTitle:hyperamylasemia	predictedType:Disease
 CANDIDATE	id:65906	inCount:0	outCount:2	links:	url:D065906	name:Hyperlactatemia	normalName:hyperlactatemia	normalWikiTitle:hyperlactatemia	predictedType:Disease
 CANDIDATE	id:565500	inCount:0	outCount:1	links:	url:C565500	name:Hyperlexia	normalName:hyperlexia	normalWikiTitle:hyperlexia	predictedType:Disease
-ENTITY	text:hypercalcemia	normalName:hypercalcemia	predictedType:disease	q:true	qid:Q500	docId:2239937	origText:hypercalcemia	url:D006934
-CANDIDATE	id:6934	inCount:10	outCount:2	links:6934	url:D006934	name:Hypercalcemia	normalName:hypercalcemia	normalWikiTitle:hypercalcemia	predictedType:Disease

@@ -1,4 +1,14 @@
-ENTITY	text:5-hydroxyindoleacetic acid	normalName:5-hydroxyindoleacetic acid	predictedType:chemical	q:true	qid:Q479	docId:9128918	origText:5-hydroxyindoleacetic acid	url:D006897
+ENTITY	text:dopamine	normalName:dopamine	predictedType:chemical	q:true	qid:Q301	docId:9128918	origText:dopamine	url:D004298
+CANDIDATE	id:4298	inCount:90	outCount:2	links:12701	url:D004298	name:Dopamine	normalName:dopamine	normalWikiTitle:dopamine	predictedType:Chemical
+ENTITY	text:haloperidol	normalName:haloperidol	predictedType:chemical	q:true	qid:Q301	docId:9128918	origText:haloperidol	url:D006220
+CANDIDATE	id:6220	inCount:24	outCount:1	links:	url:D006220	name:Haloperidol	normalName:haloperidol	normalWikiTitle:haloperidol	predictedType:Chemical
+ENTITY	text:norepinephrine	normalName:norepinephrine	predictedType:chemical	q:true	qid:Q301	docId:9128918	origText:norepinephrine	url:D009638
+CANDIDATE	id:9638	inCount:31	outCount:4	links:	url:D009638	name:Norepinephrine	normalName:norepinephrine	normalWikiTitle:norepinephrine	predictedType:Chemical
+ENTITY	text:serotonin	normalName:serotonin	predictedType:chemical	q:true	qid:Q301	docId:9128918	origText:serotonin	url:D012701
+CANDIDATE	id:12701	inCount:48	outCount:2	links:12701;4298	url:D012701	name:Serotonin	normalName:serotonin	normalWikiTitle:serotonin	predictedType:Chemical
+ENTITY	text:5-HT	normalName:5-ht	predictedType:chemical	q:true	qid:Q301	docId:9128918	origText:5-HT	url:D012701
+CANDIDATE	id:12701	inCount:48	outCount:2	links:12701;4298	url:D012701	name:5-HT	normalName:5-ht	normalWikiTitle:5-ht	predictedType:Chemical
+ENTITY	text:5-hydroxyindoleacetic acid	normalName:5-hydroxyindoleacetic acid	predictedType:chemical	q:true	qid:Q301	docId:9128918	origText:5-hydroxyindoleacetic acid	url:D006897
 CANDIDATE	id:6897	inCount:5	outCount:1	links:6897	url:D006897	name:Hydroxyindoleacetic Acid	normalName:hydroxyindoleacetic acid	normalWikiTitle:hydroxyindoleacetic acid	predictedType:Chemical
 CANDIDATE	id:1736	inCount:0	outCount:1	links:	url:C001736	name:5-methoxyindoleacetic acid	normalName:5-methoxyindoleacetic acid	normalWikiTitle:5-methoxyindoleacetic acid	predictedType:Chemical
 CANDIDATE	id:18079	inCount:0	outCount:1	links:	url:C018079	name:5-(hydroxy-3-indolyl)lactic acid	normalName:5-(hydroxy-3-indolyl)lactic acid	normalWikiTitle:5-(hydroxy-3-indolyl)lactic acid	predictedType:Chemical
@@ -9,15 +19,5 @@ CANDIDATE	id:549121	inCount:0	outCount:2	links:	url:C549121	name:2-hydroxy-2-imi
 CANDIDATE	id:5756	inCount:0	outCount:1	links:	url:C005756	name:2-hydroxyphenylacetic acid	normalName:2-hydroxyphenylacetic acid	normalWikiTitle:2-hydroxyphenylacetic acid	predictedType:Chemical
 CANDIDATE	id:483229	inCount:0	outCount:1	links:	url:C483229	name:2-hydroxyoleic acid	normalName:2-hydroxyoleic acid	normalWikiTitle:2-hydroxyoleic acid	predictedType:Chemical
 CANDIDATE	id:102523	inCount:0	outCount:1	links:	url:C102523	name:6-hydroxyoleic acid	normalName:6-hydroxyoleic acid	normalWikiTitle:6-hydroxyoleic acid	predictedType:Chemical
-ENTITY	text:norepinephrine	normalName:norepinephrine	predictedType:chemical	q:true	qid:Q479	docId:9128918	origText:norepinephrine	url:D009638
-CANDIDATE	id:9638	inCount:31	outCount:4	links:	url:D009638	name:Norepinephrine	normalName:norepinephrine	normalWikiTitle:norepinephrine	predictedType:Chemical
-ENTITY	text:serotonin	normalName:serotonin	predictedType:chemical	q:true	qid:Q479	docId:9128918	origText:serotonin	url:D012701
-CANDIDATE	id:12701	inCount:48	outCount:2	links:12701	url:D012701	name:Serotonin	normalName:serotonin	normalWikiTitle:serotonin	predictedType:Chemical
-ENTITY	text:haloperidol	normalName:haloperidol	predictedType:chemical	q:true	qid:Q479	docId:9128918	origText:haloperidol	url:D006220
-CANDIDATE	id:6220	inCount:24	outCount:1	links:	url:D006220	name:Haloperidol	normalName:haloperidol	normalWikiTitle:haloperidol	predictedType:Chemical
-ENTITY	text:5-HT	normalName:5-ht	predictedType:chemical	q:true	qid:Q479	docId:9128918	origText:5-HT	url:D012701
-CANDIDATE	id:12701	inCount:48	outCount:2	links:12701	url:D012701	name:5-HT	normalName:5-ht	normalWikiTitle:5-ht	predictedType:Chemical
-ENTITY	text:5-HIAA	normalName:5-hiaa	predictedType:chemical	q:true	qid:Q479	docId:9128918	origText:5-HIAA	url:D006897
+ENTITY	text:5-HIAA	normalName:5-hiaa	predictedType:chemical	q:true	qid:Q301	docId:9128918	origText:5-HIAA	url:D006897
 CANDIDATE	id:6897	inCount:5	outCount:1	links:6897	url:D006897	name:5-HIAA	normalName:5-hiaa	normalWikiTitle:5-hiaa	predictedType:Chemical
-ENTITY	text:dopamine	normalName:dopamine	predictedType:chemical	q:true	qid:Q479	docId:9128918	origText:dopamine	url:D004298
-CANDIDATE	id:4298	inCount:90	outCount:2	links:	url:D004298	name:Dopamine	normalName:dopamine	normalWikiTitle:dopamine	predictedType:Chemical

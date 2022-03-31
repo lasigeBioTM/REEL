@@ -1,4 +1,6 @@
-ENTITY	text:spasmodic dysphonia	normalName:spasmodic dysphonia	predictedType:disease	q:true	qid:Q497	docId:20513036	origText:spasmodic dysphonia	url:D055154
+ENTITY	text:paralysis	normalName:paralysis	predictedType:disease	q:true	qid:Q490	docId:20513036	origText:paralysis	url:D010243
+CANDIDATE	id:10243	inCount:10	outCount:1	links:	url:D010243	name:Paralysis	normalName:paralysis	normalWikiTitle:paralysis	predictedType:Disease
+ENTITY	text:spasmodic dysphonia	normalName:spasmodic dysphonia	predictedType:disease	q:true	qid:Q490	docId:20513036	origText:spasmodic dysphonia	url:D055154
 CANDIDATE	id:55154	inCount:1	outCount:1	links:	url:D055154	name:Dysphonia, Spastic	normalName:dysphonia, spastic	normalWikiTitle:dysphonia, spastic	predictedType:Disease
 CANDIDATE	id:536096	inCount:0	outCount:1	links:	url:C536096	name:Myoclonic dystonia	normalName:myoclonic dystonia	normalWikiTitle:myoclonic dystonia	predictedType:Disease
 CANDIDATE	id:55154	inCount:1	outCount:1	links:	url:D055154	name:Dysphonia	normalName:dysphonia	normalWikiTitle:dysphonia	predictedType:Disease
@@ -11,13 +13,11 @@ CANDIDATE	id:562465	inCount:0	outCount:1	links:	url:C562465	name:Phobia, Specifi
 CANDIDATE	id:535826	inCount:0	outCount:3	links:	url:C535826	name:Pseudodiastrophic dysplasia	normalName:pseudodiastrophic dysplasia	normalWikiTitle:pseudodiastrophic dysplasia	predictedType:Disease
 CANDIDATE	id:68116	inCount:0	outCount:1	links:	url:D000068116	name:Gender Dysphoria	normalName:gender dysphoria	normalWikiTitle:gender dysphoria	predictedType:Disease
 CANDIDATE	id:55154	inCount:1	outCount:1	links:	url:D055154	name:Spastic Dysphonia	normalName:spastic dysphonia	normalWikiTitle:spastic dysphonia	predictedType:Disease
-CANDIDATE	id:20821	inCount:18	outCount:1	links:	url:D020821	name:Dystonia, Sporadic	normalName:dystonia, sporadic	normalWikiTitle:dystonia, sporadic	predictedType:Disease
-CANDIDATE	id:20821	inCount:18	outCount:1	links:	url:D020821	name:Sporadic Dystonia	normalName:sporadic dystonia	normalWikiTitle:sporadic dystonia	predictedType:Disease
+CANDIDATE	id:20821	inCount:17	outCount:1	links:	url:D020821	name:Dystonia, Sporadic	normalName:dystonia, sporadic	normalWikiTitle:dystonia, sporadic	predictedType:Disease
+CANDIDATE	id:20821	inCount:17	outCount:1	links:	url:D020821	name:Sporadic Dystonia	normalName:sporadic dystonia	normalWikiTitle:sporadic dystonia	predictedType:Disease
 CANDIDATE	id:1044	inCount:0	outCount:1	links:	url:D001044	name:Spastic Aphonia	normalName:spastic aphonia	normalWikiTitle:spastic aphonia	predictedType:Disease
-CANDIDATE	id:20821	inCount:18	outCount:1	links:	url:D020821	name:Sporadic Dystonias	normalName:sporadic dystonias	normalWikiTitle:sporadic dystonias	predictedType:Disease
-CANDIDATE	id:20821	inCount:18	outCount:1	links:	url:D020821	name:Dystonias, Sporadic	normalName:dystonias, sporadic	normalWikiTitle:dystonias, sporadic	predictedType:Disease
+CANDIDATE	id:20821	inCount:17	outCount:1	links:	url:D020821	name:Sporadic Dystonias	normalName:sporadic dystonias	normalWikiTitle:sporadic dystonias	predictedType:Disease
+CANDIDATE	id:20821	inCount:17	outCount:1	links:	url:D020821	name:Dystonias, Sporadic	normalName:dystonias, sporadic	normalWikiTitle:dystonias, sporadic	predictedType:Disease
 CANDIDATE	id:1044	inCount:0	outCount:1	links:	url:D001044	name:Aphonia, Spastic	normalName:aphonia, spastic	normalWikiTitle:aphonia, spastic	predictedType:Disease
 CANDIDATE	id:1044	inCount:0	outCount:1	links:	url:D001044	name:Aphonias, Spastic	normalName:aphonias, spastic	normalWikiTitle:aphonias, spastic	predictedType:Disease
 CANDIDATE	id:1044	inCount:0	outCount:1	links:	url:D001044	name:Spastic Aphonias	normalName:spastic aphonias	normalWikiTitle:spastic aphonias	predictedType:Disease
-ENTITY	text:paralysis	normalName:paralysis	predictedType:disease	q:true	qid:Q497	docId:20513036	origText:paralysis	url:D010243
-CANDIDATE	id:10243	inCount:10	outCount:1	links:	url:D010243	name:Paralysis	normalName:paralysis	normalWikiTitle:paralysis	predictedType:Disease

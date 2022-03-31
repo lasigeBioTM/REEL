@@ -6,10 +6,10 @@ Valid entities: 4310
  % of valid entities: 98.60443834362846
 
 Total unique entities: 2395
-Entities w/ solution: 1924
-Entities w/o solution (FN): 471
-Wrong Disambiguations (FP): 316
-Correct disambiguations (TP): 1608
-Precision: 0.8357588357588358
-Recall: 0.7734487734487735
-Micro-F1 score: 0.8033974519110668
+Entities w/ solution: 1906
+Entities w/o solution (FN): 489
+Wrong Disambiguations (FP): 311
+Correct disambiguations (TP): 1595
+Precision: 0.8368310598111228
+Recall: 0.7653550863723608
+Micro-F1 score: 0.7994987468671679

@@ -1,21 +1,20 @@
-ENTITY	text:necrosis	normalName:necrosis	predictedType:disease	q:true	qid:Q138	docId:12359538	origText:necrosis	url:D009336
-CANDIDATE	id:9336	inCount:6	outCount:1	links:9203	url:D009336	name:Necrosis	normalName:necrosis	normalWikiTitle:necrosis	predictedType:Disease
-ENTITY	text:coronary disease	normalName:coronary disease	predictedType:disease	q:true	qid:Q138	docId:12359538	origText:coronary disease	url:D003327
-CANDIDATE	id:3327	inCount:7	outCount:1	links:	url:D003327	name:Coronary Disease	normalName:coronary disease	normalWikiTitle:coronary disease	predictedType:Disease
-ENTITY	text:MI	normalName:mi	predictedType:disease	q:true	qid:Q138	docId:12359538	origText:MI	url:D009203
-CANDIDATE	id:9203	inCount:8	outCount:1	links:9336;2637	url:D009203	name:MCI2	normalName:mci2	normalWikiTitle:mci2	predictedType:Disease
+ENTITY	text:chest pain	normalName:chest pain	predictedType:disease	q:true	qid:Q364	docId:12359538	origText:chest pain	url:D002637
+CANDIDATE	id:2637	inCount:1	outCount:1	links:9203	url:D002637	name:Chest Pain	normalName:chest pain	normalWikiTitle:chest pain	predictedType:Disease
+ENTITY	text:myocardial infarction	normalName:myocardial infarction	predictedType:disease	q:true	qid:Q364	docId:12359538	origText:myocardial infarction	url:D009203
+CANDIDATE	id:9203	inCount:8	outCount:2	links:2637;9336	url:D009203	name:Myocardial Infarction	normalName:myocardial infarction	normalWikiTitle:myocardial infarction	predictedType:Disease
+ENTITY	text:MI	normalName:mi	predictedType:disease	q:true	qid:Q364	docId:12359538	origText:MI	url:D009203
+CANDIDATE	id:9203	inCount:8	outCount:2	links:2637;9336	url:D009203	name:MCI2	normalName:mci2	normalWikiTitle:mci2	predictedType:Disease
 CANDIDATE	id:300337	inCount:0	outCount:2	links:	url:300337	name:HMI	normalName:hmi	normalWikiTitle:hmi	predictedType:Disease
 CANDIDATE	id:564108	inCount:0	outCount:2	links:	url:C564108	name:MDI	normalName:mdi	normalWikiTitle:mdi	predictedType:Disease
 CANDIDATE	id:535689	inCount:0	outCount:4	links:	url:C535689	name:MIP	normalName:mip	normalWikiTitle:mip	predictedType:Disease
 CANDIDATE	id:535689	inCount:0	outCount:4	links:	url:C535689	name:TMIP	normalName:tmip	normalWikiTitle:tmip	predictedType:Disease
 CANDIDATE	id:4831	inCount:17	outCount:2	links:	url:D004831	name:SMEI	normalName:smei	normalWikiTitle:smei	predictedType:Disease
-CANDIDATE	id:155310	inCount:0	outCount:2	links:	url:155310	name:MMIH	normalName:mmih	normalWikiTitle:mmih	predictedType:Disease
 CANDIDATE	id:567832	inCount:0	outCount:1	links:	url:C567832	name:MIAR	normalName:miar	normalWikiTitle:miar	predictedType:Disease
 CANDIDATE	id:614817	inCount:0	outCount:1	links:	url:614817	name:KMIN	normalName:kmin	normalWikiTitle:kmin	predictedType:Disease
 CANDIDATE	id:536266	inCount:0	outCount:2	links:	url:C536266	name:MNRI	normalName:mnri	normalWikiTitle:mnri	predictedType:Disease
-ENTITY	text:myocardial infarction	normalName:myocardial infarction	predictedType:disease	q:true	qid:Q138	docId:12359538	origText:myocardial infarction	url:D009203
-CANDIDATE	id:9203	inCount:8	outCount:1	links:9336;2637	url:D009203	name:Myocardial Infarction	normalName:myocardial infarction	normalWikiTitle:myocardial infarction	predictedType:Disease
-ENTITY	text:chest pain	normalName:chest pain	predictedType:disease	q:true	qid:Q138	docId:12359538	origText:chest pain	url:D002637
-CANDIDATE	id:2637	inCount:1	outCount:1	links:9203	url:D002637	name:Chest Pain	normalName:chest pain	normalWikiTitle:chest pain	predictedType:Disease
-ENTITY	text:cardiac death	normalName:cardiac death	predictedType:disease	q:true	qid:Q138	docId:12359538	origText:cardiac death	url:D003643
+ENTITY	text:cardiac death	normalName:cardiac death	predictedType:disease	q:true	qid:Q364	docId:12359538	origText:cardiac death	url:D003643
 CANDIDATE	id:3643	inCount:11	outCount:1	links:	url:D003643	name:Death, Cardiac	normalName:death, cardiac	normalWikiTitle:death, cardiac	predictedType:Disease
+ENTITY	text:coronary disease	normalName:coronary disease	predictedType:disease	q:true	qid:Q364	docId:12359538	origText:coronary disease	url:D003327
+CANDIDATE	id:3327	inCount:7	outCount:1	links:	url:D003327	name:Coronary Disease	normalName:coronary disease	normalWikiTitle:coronary disease	predictedType:Disease
+ENTITY	text:necrosis	normalName:necrosis	predictedType:disease	q:true	qid:Q364	docId:12359538	origText:necrosis	url:D009336
+CANDIDATE	id:9336	inCount:6	outCount:1	links:9203	url:D009336	name:Necrosis	normalName:necrosis	normalWikiTitle:necrosis	predictedType:Disease
